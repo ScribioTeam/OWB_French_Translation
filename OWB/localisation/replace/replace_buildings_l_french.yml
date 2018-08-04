@@ -1,0 +1,11 @@
+﻿l_french:
+ arms_factory:0 "Usines militaire"
+ arms_factory_plural:0 "Usines militaires"
+ industrial_complex:0 "Usine civile"
+ industrial_complex_plural:0 "Usines civiles"
+ bunker:0 "Avant-poste"
+ bunker_plural:0 "Avants-postes"
+ bunker_desc:0 "Ce batiment inflige une pénalité d'attaque de $VALUE|+%0$ pour chaque niveau sur l'attaquant au combat. Attaquer de plusieurs directions va reduire cet effet."
+ bunker2:0 "Bunker"
+ bunker2_plural:0 "Bunkers"
+ bunker2_desc:0 "Ce batiment inflige une pénalité d'attaque de §R-30%§! pour chaque niveau sur l'attaquant au combat. Ce batiment fournit est deux fois plus efficace qu'un avant-poste."
