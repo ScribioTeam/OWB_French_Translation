@@ -1,0 +1,45 @@
+﻿l_french:
+ synthetic_refinery:0 "Raffinerie synthétique"
+ synthetic_refinery_plural:0 "Raffineries synthétique"
+ synthetic_refinery_desc:0 "Le batiment fourni dans la région :"
+ synthetic_refinery_amount:0 "$VALUE|Y0=$"
+ synthetic_refinery_resource:0 "£resources_strip|$FRAME$"
+ 
+ modifier_production_speed_synthetic_refinery_factor:0 "§YRefinery§! Vitesse de construction"
+ modifier_production_speed_synthetic_refinery_factor_desc:0 "Modifie la vitesse de la construction synthétique."
+ 
+ water_generator: "Station de purification"
+ water_generator_plural: "Stations de purification"
+ water_generator_desc:0 "Le batiment fourni dans la région :'"
+ water_generator_amount:0 "$VALUE|Y0=$"
+ water_generator_resource:0 "£resources_strip|$FRAME$"
+ 
+ electricity_generator: "Station d'électricité"
+ electricity_generator_plural: "Stations d'électricité"
+ electricity_generator_desc:0 "Le batiment fourni dans la région :"
+ electricity_generator_amount:0 "$VALUE|Y0=$"
+ electricity_generator_resource:0 "£resources_strip|$FRAME$"
+ 
+ metal_generator: "Fonderie"
+ metal_generator_plural: "Founderies"
+ metal_generator_desc:0 "Le batiment fourni dans la région :"
+ metal_generator_amount:0 "$VALUE|Y0=$"
+ metal_generator_resource:0 "£resources_strip|$FRAME$"
+ 
+ fuel_generator: "Usine de traitement de combustible"
+ fuel_generator_plural: "Usines de traitement de combustible"
+ fuel_generator_desc:0 "Le batiment fourni dans la région :"
+ fuel_generator_amount:0 "$VALUE|Y0=$"
+ fuel_generator_resource:0 "£resources_strip|$FRAME$"
+ 
+ electronics_generator: "Laboratoire de fabrication"
+ electronics_generator_plural: "Laboratoires de fabrication"
+ electronics_generator_desc:0 "Le batiment fourni dans la région :"
+ electronics_generator_amount:0 "$VALUE|Y0=$"
+ electronics_generator_resource:0 "£resources_strip|$FRAME$"
+ 
+ advanced_technology_generator: "Instalation de recherche"
+ advanced_technology_generator_plural: "Instalations de recherche"
+ advanced_technology_generator_desc:0 "Le batiment fourni dans la région :"
+ advanced_technology_generator_amount:0 "$VALUE|Y0=$"
+ advanced_technology_generator_resource:0 "£resources_strip|$FRAME$"

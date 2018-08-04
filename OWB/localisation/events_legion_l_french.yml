@@ -1,0 +1,55 @@
+﻿l_french:
+ nf_legion.1.title: "La Pétition des Whites Legs "
+ nf_legion.1.desc: "Un envoyé de la Légion de César a visité nos terres tribales et nous a proposé un accord. Prêter allégance à la Légion de César et abandonner les vieilles manières. Refuser, et ressentir la pleine puissance de la Légion."
+ nf_legion.1.option.a: "Bien sûr, nous acceptons"
+ nf_legion.1.option.b: "Jamais!"
+ 
+ nf_legion.2.title: "La Pétition des 80"
+ nf_legion.2.desc: "Un envoyé de la Légion de César a visité nos terres tribales et nous a proposé un accord. Prêter allégance à la Légion de César et abandonner les vieilles manières. Refuser, et ressentir la pleine puissance de la Légion."
+ nf_legion.2.option.a: "Bien sûr, nous acceptons"
+ nf_legion.2.option.b: "Jamais!"
+
+ nf_legion.5.title: "La mort de César"
+ nf_legion.5.desc: "Pendant des années, César a été victime d'un cancer malin - menaçant son règne sur la Légion. Aujourd'hui, à la veille de la plus belle heure de sa Légion, il s'est retiré dans sa tente, et la mort le réclamera sûrement. Dans ses dernières heures, il doit nommer un successeur."
+ nf_legion.5.option.a: "Il nomme son Légat"
+ nf_legion.5.option.b: "Il nomme Vulpes"
+ nf_legion.5.option.c:0 "Une sorcière entre dans sa tente ..."
+ 
+ nf_legion.6.title: "César vit"
+ nf_legion.6.desc: "Une sorcière de la tribu des Twin Mothers, épargnée il y a longtemps, entre dans la tente de César. Dans la matinée, César se lève - plus revigoré que jamais. Mais la garde prétorienne postée devant sa tente est partie. Lucius, leur chef, affirme que César est un hérétique, utilisant la technologie interdite pour reprendre vie. Lui et ses disciples remettent désormais en question les idéaux de la Légion de rejeter la technologie."
+ nf_legion.6.option.a: "Crucifier les prétoriens déloyaux"
+ nf_legion.6.option.b: "Hérésie!"
+ 
+ nf_legion.7.title: "Expédition vers Blackfoot"
+ nf_legion.7.desc: "L'expédition vers la tribu des Pieds-Noirs a été l'événement créateur de l'histoire de la Légion. La tribu est le fondement de la grande légion de César, et c'est au travers des flammes des guerres de ces tribus primitives que la volonté de fer de César a été forgée. Il leur a appris ..."
+ nf_legion.7.option.a: "Maintenace des armes"
+ nf_legion.7.option.b: "Tactiques d'unité"
+ nf_legion.7.option.c: "Créations explosives"
+ 
+ nf_legion.8.title: "Morts dans les Canyons"
+ nf_legion.8.desc: "Les premières années de la Légion ont également été parmi les plus brutales. Dans sa conquête des Canyons, César abattit brutalement trois des tribus locales, chaque acte fut tout aussi cruel. Mais un acte a gagné une infamie particulière dans les Terres Désolées ..."
+ nf_legion.8.option.a: "Ridgers"
+ nf_legion.8.option.b: "Kaibabs"
+ nf_legion.8.option.c: "Fredonians"
+ 
+ nf_legion.9.title: "Le Légat Malpais"
+ nf_legion.9.desc: "Joshua Graham, le Légat Malpais, était le co-fondateur de la Légion, et le plus grand serviteur de César. Un général astucieux et rusé - cet acte précoce cimentait sa légende à travers la Légion, et formait la base de ses prouesses militaires ..."
+ nf_legion.9.option.a: "Il a brulé Phoenix"
+ nf_legion.9.option.b: "Il a chassé ses ennemis jusqu'au dernier"
+ nf_legion.9.option.c: "Il a semé les Soleils Rouges"
+ 
+ nf_legion.10.title: "César, fils de Mars"
+ nf_legion.10.desc: "La volonté de César est la loi. Il est un dieu parmi les hommes, le fils du dieu de la guerre, Mars. Tous dans sa légion vivent pour le servir, comme une lame sert son maître. Il est l'enseignant et le maître des tribus, sous lui - et dans sa conquête, il leur a enseigné de nombreuses leçons parmi lesquels ..."
+ nf_legion.10.option.a: "Détruire les Proliférateurs"
+ nf_legion.10.option.b: "Divide et Impera"
+ nf_legion.10.option.c: "Decimatio"
+ vulpes_chosen: "Vulpes doit faire face aux légions orientales de Lanius"
+ lanius_chosen: "Lanius défend contre une révolte de Vulpes Inculta"
+ lucius_chosen: "Passer à Lucius et se révolter contre l'hypocrisie de César"
+ caesar_chosen: "Restez comme César et installez la nouvelle thèse"
+ load_CES_crossing_party: "§Y5 Elite Infantry Units seize Parker Strip§!"
+ load_CES_crossing_party_nelson: "§Y5 Elite Infantry Units seize Nelson§!"
+ legion_had_civil_war:0 "La guerre civile de la Légion a commencé"
+ 
+ 
+ 

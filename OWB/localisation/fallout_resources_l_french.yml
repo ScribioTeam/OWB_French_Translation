@@ -1,0 +1,14 @@
+﻿l_french:
+ PRODUCTION_MATERIALS_WATER: "Eau"
+ PRODUCTION_MATERIALS_ELECTRICITY: "Électricité"
+ PRODUCTION_MATERIALS_METAL: "Métal"
+ PRODUCTION_MATERIALS_FUEL: "Carburant"
+ PRODUCTION_MATERIALS_ELECTRONICS: "Électronique"
+ PRODUCTION_MATERIALS_ADVANCED_TECHNOLOGY: "Technologie avancée"
+ 
+ water_desc: "L'eau est possiblement la ressource la plus précieuse dans le Westland"
+ electricity_desc: "L'électricité est une ressource rare dans le Westland. Cependant, elle est nécessaire dans de nombreux batiments."
+ metal_desc: "La ferraille et d'autres composants récupérés des ruines. Utile pour la construction de nouveaux bâtiments ou d'armes."
+ fuel_desc: "Le carburant est nécessaire pour alimenter l'équipement et faire fonctionner nos appareils électroniques."
+ electronics_desc: "Technologie récupérée des ruines d'avant-guerre. Utile pour créer des appareils électroniques."
+ advanced_technology_desc: "Technologie récupérée des ruines d'avant-guerre. Utile dans la construction d'armes avancées."
