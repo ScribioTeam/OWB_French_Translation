@@ -1,0 +1,11 @@
+﻿l_english:
+ arms_factory:0 "Arms Workshop"
+ arms_factory_plural:0 "Arms Workshops"
+ industrial_complex:0 "Civilian Workshop"
+ industrial_complex_plural:0 "Civilian Workshops"
+ bunker:0 "Outpost"
+ bunker_plural:0 "Outposts"
+ bunker_desc:0 "This building inflicts an attack penalty of $VALUE|+%0$ for each fort level on the attacker in combat. Attacking from multiple directions will reduce forts effect."
+ bunker2:0 "Bunker"
+ bunker2_plural:0 "Bunkers"
+ bunker2_desc:0 "This building inflicts an attack penalty of §R-30%§! for each level on the attacker in combat. Building provides twice the value than outposts."
