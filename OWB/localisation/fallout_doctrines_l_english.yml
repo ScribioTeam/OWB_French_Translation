@@ -5,14 +5,14 @@
  # Categories Doctrine
  cat_automated_warfare:0 "Automated Warfare Doctrine"
  cat_elite_army:0 "Elite Forces Doctrine"
- cat_grand_army:0 "Grand Army Doctrine"
- cat_terror_tactics:0 "Terror Tactics Doctrine"
+ cat_grand_army:0 "Conventional Warfare Doctrine"
+ cat_terror_tactics:0 "Asymmetric Warfare Doctrine"
  cat_outsider_warfare:0 "Outsider Warfare Doctrine"
 
  cat_automated_warfare_research:0 "Automated Warfare Doctrine"
  cat_superior_firepower_research:0 "Elite Forces Doctrine"
- cat_grand_battle_plan_research:0 "Grand Army Doctrine"
- cat_mass_assault_research:0 "Terror Tactics Doctrine"
+ cat_grand_army_research:0 "Conventional Warfare Doctrine"
+ cat_mass_assault_research:0 "Asymmetric Warfare Doctrine"
  cat_outsider_warfare_research:0 "Outsider Warfare Doctrine"
 
  # Labels/headers Doctrine
