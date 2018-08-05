@@ -41,4 +41,5 @@ Les personnes suivantes ont participé à la traduction française :
 - Warkild
 - GABRIELN13
 - TomDer
+- Carpi7
 - Mouchi
