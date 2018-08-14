@@ -6,14 +6,14 @@
  # Categories Doctrine
  cat_automated_warfare:0 "Doctrine de la guerre automotisée"
  cat_elite_army:0 "Doctrine des forces d'élites"
- cat_grand_army:0 "Doctrine de la grande armée"
- cat_terror_tactics:0 "Doctrine des tactiques de la peur"
+ cat_grand_army:0 "Doctrine de la guerre conventionelle"
+ cat_terror_tactics:0 "Doctrine de la guerre asymétrique"
  cat_outsider_warfare:0 "Doctrine de la guerre marginale"
  
  cat_automated_warfare_research:0 "Doctrine de la guerre automotisée"
  cat_superior_firepower_research:0 "Doctrine des forces d'élites"
- cat_grand_battle_plan_research:0 "Doctrine de la grande armée"
- cat_mass_assault_research:0 "Doctrine des tactiques de la peur"
+ cat_grand_army_research:0 "Doctrine de la guerre conventionelle"
+ cat_mass_assault_research:0 "Doctrine de la guerre asymétrique"
  cat_outsider_warfare_research:0 "Doctrine de la guerre marginale"
 
  # Labels/headers Doctrine
@@ -239,7 +239,7 @@
  HEADER_COMMUNICATION:0 "Communication"
  HEADER_ELECTRONICS:0 "Electronics"
  HEADER_RADAR:0 "Radar-Detection"
- HEADER_RESSOURCES:0 "Resources"
+ HEADER_RESOURCES:0 "Resources"
  HEADER_TOOLS_PRODUCTION:0 "Tool Production"
  HEADER_TOOLS_SCAVENGING:0 "Tool Scavenging"
 
