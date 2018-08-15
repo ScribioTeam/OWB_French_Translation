@@ -192,8 +192,8 @@
  the_wolf_pack_desc:0 "Si vous vous battez seul, vous mourrez seul. Tout le monde dans les Terres Désolées sait, qu'il s'agisse de voleurs ou de tribus sauvages, qu'il faut des copains pour rester en vie. Quelqu'un pour surveiller vos arrières, une bande de copains pour vous aider à nettoyer un endroit et à ramasser le butin. Bien sûr, cela peut devenir ennuyeux d'être patronné - mais c'est mieux que d'être mort.\n\n"
  the_mirelurk_pincer:0 "Observation des animaux"
  the_mirelurk_pincer_desc:0 "La nature est effrayante. Les créatures des Terres Désolées peuvent tuer un homme plus vite que la plupart des armes, et elles passeront à l'homme suivant plus vite que vous ne pouvez recharger. Nous pouvons apprendre des prédateurs mortels des Terres Désolées pour rendre nos armées beaucoup plus mortelles.\n\n"
- the_nightstalkers_bite:0 "Tactique du traqueur nocturne"
- the_nightstalkers_bite_desc:0 "Capables de se rendre invisibles lorsqu'ils se sentent menacés, les traqueurs nocturnes sont des experts de la furtivité. Bien que nous ne puissions évidemment pas devenir invisibles, nous pouvons apprendre beaucoup de la façon dont ils traquent leurs proies, ainsi que leur tendance à se battre dans des combats rapides plutôt que dans des engagements prolongés.\n\n"
+ the_nightstalkers_bite:0 "Tactique du croc"
+ the_nightstalkers_bite_desc:0 "Capables de se rendre invisibles lorsqu'ils se sentent menacés, les crocs sont des experts de la furtivité. Bien que nous ne puissions évidemment pas devenir invisibles, nous pouvons apprendre beaucoup de la façon dont ils traquent leurs proies, ainsi que leur tendance à se battre dans des combats rapides plutôt que dans des engagements prolongés.\n\n"
  the_cazadores_speed:0"Venin de cazador"
  the_cazadores_speed_desc:0"Les poisons simples ne sont plus assez bons. Si nous voulons vraiment faire du mal à nos ennemis à l'intérieur et à l'extérieur dès le premier engagement, le poison de radscorpion ne fera pas l'affaire. Nos hommes doivent chasser les redoutables cazadores, récolter leur venin et nous le ramener. De plus, l'expérience leur enseignera l'importance d'une retraite rapide.\n\n"
  the_deathclaws_might:0"Férocité de l'écorcheur"
@@ -447,7 +447,7 @@
  HEADER_SPECIALIZED_PRODUCTION:0 "Production spécialisée"
  
  
- #  Industry Localisation
+ # Industry Localisation
  maketool_engineering:0 "Improvised Tools"
  maketool_engineering_desc:0 ""
  maketool_engineering_1:0 "Basic Tools"
