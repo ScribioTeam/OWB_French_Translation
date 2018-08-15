@@ -234,12 +234,12 @@
  master_race_desc:0 ""
  
  # Headers/labels Electronics
- HEADER_ENCRYPTION:0 "Encryption"
- HEADER_DECRYPTION:0 "Decryption"
+ HEADER_ENCRYPTION:0 "Chiffrement"
+ HEADER_DECRYPTION:0 "Décryptage"
  HEADER_COMMUNICATION:0 "Communication"
- HEADER_ELECTRONICS:0 "Electronics"
- HEADER_RADAR:0 "Radar-Detection"
- HEADER_RESOURCES:0 "Resources"
+ HEADER_ELECTRONICS:0 "Électronique"
+ HEADER_RADAR:0 "Détection radar"
+ HEADER_RESOURCES:0 "Ressources"
  HEADER_TOOLS_PRODUCTION:0 "Tool Production"
  HEADER_TOOLS_SCAVENGING:0 "Tool Scavenging"
 
