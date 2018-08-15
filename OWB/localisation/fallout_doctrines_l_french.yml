@@ -450,7 +450,7 @@
  # Industry Localisation
  maketool_engineering:0 "Outils improvisés"
  maketool_engineering_desc:0 ""
- maketool_engineering_1:0 "Outils basique"
+ maketool_engineering_1:0 "Outils"
  maketool_engineering_1_desc:0 ""
  maketool_engineering_2:0 "Outils manufacturés"
  maketool_engineering_2_desc:0 ""
@@ -581,7 +581,7 @@
  purified_aquifer:0 "Aquifère purifié"
  purified_aquifer_desc:0 ""
  
- basic_generator:0 "Générateur électrique basique"
+ basic_generator:0 "Générateur électrique"
  basic_generator_desc:0 ""
  advanced_generator:0 "Générateur électrique avancée"
  advanced_generator_desc:0 ""
@@ -592,15 +592,15 @@
  nuclear_reactor:0 "Réacteur nucléaire"
  nuclear_reactor_desc:0 ""
 
- basic_smeltery:0 "Basic Smeltery"
+ basic_smeltery:0 "Forge"
  basic_smeltery_desc:0 ""
- advanced_smeltery:0 "Advanced Smeltery"
+ advanced_smeltery:0 "Forge avancée"
  advanced_smeltery_desc:0 ""
- basic_foundry:0 "Basic Foundry"
+ basic_foundry:0 "Fonderie"
  basic_foundry_desc:0 ""
- advanced_foundry:0 "Advanced Foundry"
+ advanced_foundry:0 "Fonderie avancée"
  advanced_foundry_desc:0 ""
- autonomous_foundry:0 "Autonomous Foundry"
+ autonomous_foundry:0 "Fonderie autonome"
  autonomous_foundry_desc:0 ""
  
  
