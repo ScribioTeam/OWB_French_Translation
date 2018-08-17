@@ -9,38 +9,38 @@
  nf_event_hea.2.a:0 "Genèse 13:15"
  nf_event_hea.2.b:0 "Psaume 23:4"
 
- nf_event_hea.3.t:0 "Pagans Cometh"
- nf_event_hea.3.d:0 "Those who do not hear the word of God may still hear of the Gate, and may still travel here. The concerns that we face in the ancient question of how to deal with those pagan visitors are eternal. There are those who feel we should protect and house these lost souls, and those who believe that we should reject them."
- nf_event_hea.3.a:0 "Corinthians 12:2"
- nf_event_hea.3.b:0 "Luke 12:30"
+ nf_event_hea.3.t:0 "La venue des païens"
+ nf_event_hea.3.d:0 "Ceux qui n'entendent pas la parole de Dieu peuvent encore entendre parler de la Porte, et peuvent encore voyager ici. Les préoccupations auxquelles nous sommes confrontés dans la perpétuelle question de savoir comment traiter avec ces visiteurs païens sont éternelles. Il y a ceux qui pensent que nous devrions protéger et héberger ces âmes perdues, et ceux qui croient que nous devrions les rejeter."
+ nf_event_hea.3.a:0 "Corinthiens 12:2"
+ nf_event_hea.3.b:0 "Luc 12:30"
 
- nf_event_hea.4.t:0 "Innocence Lost"
- nf_event_hea.4.d:0 "Innocence is little more than a small settlement on the very edge of what we know, often visited by travelling pagans and tribals coming down from the northern wildlands. These people often arrive to trade and exchange goods, and in turn we teach them of God. Yet often, there are groups more resistance to this than others, those elders and warlike souls who feel that our lessons are an affront to their own misguided beliefs. Tensions run high, and our method of dealing with pagans will play a great part in what happens next..."
- nf_event_hea.4.a:0 "May God have mercy!"
+ nf_event_hea.4.t:0 "Innocence perdue"
+ nf_event_hea.4.d:0 "Innocence n'est guère plus qu'un petit village en bordure de ce que nous connaissons, souvent visité par des païens itinérants et des tribus descendant des terres sauvages du nord. Ces personnes arrivent souvent pour faire du commerce et échanger des biens, et à leur tour nous leur apprenons de Dieu. Pourtant, il y a souvent des groupes plus résistants que d'autres, ces anciens et ces âmes guerrières qui pensent que nos leçons sont un affront à leurs propres croyances erronées. Les tensions sont fortes, et notre façon de traiter avec les païens jouera un grand rôle dans ce qui se passera ensuite..."
+ nf_event_hea.4.a:0 "Que Dieu ait pitié !"
 
- nf_event_hea.5.t:0 "Issue the Ultimatum"
- nf_event_hea.5.d:0 "The animist tribals of the Lonetree tribe have long stood independent to our south, surviving along primary land routes to the rich lands below us. We shall have to go forth and push them away, if only for the sake of travel. It is time for them to convert, we shall bring them salvation and open our southern trade routes."
- nf_event_hea.5.a:0 "What shall they say?"
+ nf_event_hea.5.t:0 "Émission de l'Ultimatum"
+ nf_event_hea.5.d:0 "Les tribus animistes de la tribu de l'arbre solitaire ont longtemps été indépendantes au sud, survivant le long des routes terrestres primaires jusqu'aux terres riches en dessous de nous. Nous devrons aller de l'avant et les repousser, ne serait-ce que pour le plaisir de voyager. Il est temps pour eux de se convertir, nous leur apporterons le salut et ouvrirons nos routes commerciales du sud."
+ nf_event_hea.5.a:0 "Qu'est-ce qu'ils diront ?"
 
- nf_event_hea.50.t:0 "Crusader Ultimatum"
- nf_event_hea.50.d:0 "The followers of the single God have come for us at last, long have we awaited this day. How shall we meet this ultimatum? With the pride of a warrior, or the wisdom of a sage who understands he can not win?"
- nf_event_hea.50.a:0 "The Warrior's Spirit!"
- nf_event_hea.50.b:0 "The Sage's Wisdom!"
+ nf_event_hea.50.t:0 "Ultimatum du croisé"
+ nf_event_hea.50.d:0 "Les disciples du Dieu unique sont enfin venus pour nous, depuis longtemps nous attendons ce jour. Comment allons-nous répondre à cet ultimatum ? Avec la fierté d'un guerrier, ou la sagesse d'un sage qui comprend qu'il ne peut pas gagner ?"
+ nf_event_hea.50.a:0 "L'esprit du guerrier !"
+ nf_event_hea.50.b:0 "La Sagesse du Sage !"
 
- nf_event_hea.6.t:0 "The Gate Offers a Defensive Pact"
- nf_event_hea.6.d:0 "Following the establishment of their embassy in our capital, Heaven's Gate has offered a unique proposal to us - that we join them in a defensive pact against any aggression we may face. Whilst there seems to be no strings attatched to the aggreement for the moment, the Gate has made it more than clear what might happen if we turn them down..."
- nf_event_hea.6.a:0 "Their protection is welcome"
- nf_event_hea.6.b:0 "We are safer elsewhere"
+ nf_event_hea.6.t:0 "La Porte offre un pacte défensif"
+ nf_event_hea.6.d:0 "Suite à l'établissement de leur ambassade dans notre capitale, la Porte du Paradis nous a offert une proposition unique - que nous les rejoignions dans un pacte défensif contre toute agression à laquelle nous pourrions être confrontés. Bien qu'il ne semble pas y avoir de conditions attachées à l'accord pour le moment, la Porte a rendu plus que clair ce qui pourrait arriver si nous les refusons....."
+ nf_event_hea.6.a:0 "Leur protection est bienvenue"
+ nf_event_hea.6.b:0 "Nous sommes plus en sécurité ailleurs"
 
- nf_event_hea.60.t:0 "[MUR.GetName] Refuses!"
- nf_event_hea.60.d:0 "Despite our generous offer of protection, [MUR.GetName] seems to have decided that they can be better protected elsewhere. Heresy! How shall we respond to this transgression?"
- nf_event_hea.60.a:0 "We have other methods of 'protecting' them"
- nf_event_hea.60.b:0 "Fair enough"
+ nf_event_hea.60.t:0 "[MUR.GetName] a refusé !"
+ nf_event_hea.60.d:0 "Malgré notre généreuse offre de protection, [MUR.GetName] semble avoir décidé qu'ils peuvent être mieux protégés ailleurs. Hérésie ! Comment allons-nous répondre à cette transgression ?"
+ nf_event_hea.60.a:0 "Nous avons d'autres méthodes pour les \"protéger\"."
+ nf_event_hea.60.b:0 "Nous comprenons."
 
  # Event 7 is purposefully not localised
 
- nf_event_hea.70.t:0 "[IRE.GetName] Refuses!"
- nf_event_hea.70.d:0 "Despite our generous offer of protection, [IRE.GetName] seems to have decided that they can be better protected elsewhere. Heresy! How shall we respond to this transgression?"
+ nf_event_hea.70.t:0 "[IRE.GetName] a refusé !"
+ nf_event_hea.70.d:0 "Malgré notre généreuse offre de protection, [MUR.GetName] semble avoir décidé qu'ils peuvent être mieux protégés ailleurs. Hérésie ! Comment allons-nous répondre à cette transgression ?"
  # The two options are purposefully not localised
 
  nf_event_hea.8.t:0 "Religious Fanatics Launch a Coup!"
