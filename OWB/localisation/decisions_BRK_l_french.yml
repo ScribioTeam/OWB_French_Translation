@@ -1,4 +1,4 @@
- l_french:
+l_french:
  # decisions
  brk_decisions:0 "Programmes Politiques"
  brk_decisions_desc:0 ""
@@ -7,19 +7,17 @@
  brk_decision_build_graven_ship:0 "Construire son Navire"
  brk_decision_build_graven_ship_desc:0 ""
  brk_raiding:0 "Les Pillards du Nord"
- brk_raiding_desc:0 "La vue de nos navires à l'horizon insinue la peur dans même les homme les plus braves. Des parties les plus loins de l'Endless White,
- aux eaux sud plus chaud, nos raids sont parlés de chuchotements étouffés et voix peurceuses. \n\nPiller, c'est un acte qui encourra probablement une
- réaction agressive de notre cible. Nous pouvons intensifier nos raids aux conflits plus grands, et eventuellement: §Rà la geurre.§!"
+ brk_raiding_desc:0 "La vue de nos navires à l'horizon insinue la peur dans même les homme les plus braves. Des parties les plus loins de l'Endless White, aux eaux sud plus chaud, nos raids sont parlés de chuchotements étouffés et voix peurceuses. \n\nPiller, c'est un acte qui encourra probablement une\nréaction agressive de notre cible. Nous pouvons intensifier nos raids aux conflits plus grands, et eventuellement: §Rà la geurre.§!"
  brk_raid_borders_initial_raid:0 "Piller [From.GetNameDef]"
  brk_light_border_raid_defender_warning:0 "Les Raids Péliminaires de [BRK.GetNameDef]"
  brk_light_border_raid_defender_warning_desc:0 "Les parties de raids ont traversé nos terres de la Côte  Brisée, pillant nos colonies et nos réserves. Bientôt les raids viendront à un point critique – soit avec leur retrait (avec notre butin avec eux), soit un affrontement entre nos forces et les leurs."
-brk_light_border_escalate_raid_defender_warning:0 " Escalade Possible de [BRK.GetNameDef]"
+ brk_light_border_escalate_raid_defender_warning:0 " Escalade Possible de [BRK.GetNameDef]"
  brk_light_border_escalate:0 "Intensifier le Raid Contre [From.GetNameDef] au Conflit Frontalier"
  brk_escalate_conflict:0 "Intensifier le Conflit Frontalier"
  brk_escalate_conflict_to_war:0 "Intensifier le Conflit Frontalier à la Guerre"
  brk_back_out_of_conflict:0 "Céder du Conflit Frontalier"
  brk_raiding_vic:0 "Des lumières à travers l’eau"
-brk_raiding_vic_desc:0 "Les lumières de New Victoria éblouissent à travers l’eau et chuchotent de la fortune et la gloire. L’heure est venue pour nous de saisir les fortunes et la gloire pour nous-mêmes – c’est l’heure de piller [VIC.GetNameDef]."
+ brk_raiding_vic_desc:0 "Les lumières de New Victoria éblouissent à travers l’eau et chuchotent de la fortune et la gloire. L’heure est venue pour nous de saisir les fortunes et la gloire pour nous-mêmes – c’est l’heure de piller [VIC.GetNameDef]."
  brk_vic_practice_raid:0 "Le Raid de Pratique"
  brk_vic_practice_raid_desc:0 "Piller, c’est simple – vous visez une arme à quelque personne sans défense et les faites vous donner leur objets de valeur. Pillant par-dessus l’eau contre une nation hostile? C’est pas aussi facile. Heureusement nous avons une petite nation relativement faible dans le premier du [HAI.GetName] juste au large de notre côte – Entraînons-nous aux nos arts de piller sur eux pour nous donner un coup mieux en nos raids contre [VIC.GetNameDef]"
  brk_vic_raid_the_coasts:0 "Piller les Côtes"
