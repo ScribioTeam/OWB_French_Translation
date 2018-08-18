@@ -3,31 +3,31 @@
  #----------------------------
  # Folders
  #----------------------------
- fallout_infantry_folder:0 "Infantry"
+ fallout_infantry_folder:0 "Infanterie"
  fallout_infantry_folder_desc:0 ""
  fallout_support_folder:0 "Support"
  fallout_support_folder_desc:0 ""
- fallout_vehicle_folder:0 "Vehicles"
+ fallout_vehicle_folder:0 "Véhicules"
  fallout_vehicle_folder_desc:0 ""
- fallout_land_doctrine_folder:0 "Land Doctrine"
+ fallout_land_doctrine_folder:0 "Doctrine Terrestre"
  fallout_land_doctrine_folder_desc:0 ""
 
  fallout_air_folder:0 "Air"
  fallout_air_folder_desc:0 ""
- fallout_air_doctrine_folder:0 "Air Doctrine"
- fallout_air_doctrine_folder_desc:0 "Although producing new aircraft is highly unlikely for all but the most advanced of factions, researching methods to repair the exponentially more complicated aircraft which remain in the wasteland can provide a way to enhance and assist our combat forces on the ground."
+ fallout_air_doctrine_folder:0 "Doctrine Aérienne"
+ fallout_air_doctrine_folder_desc:0 "Bien que la production de nouveaux avions soit hautement improbable pour toutes les factions sauf les plus avancées, les méthodes de recherche pour réparer sont exponentiellement plus compliquées et les avions qui restent dans les Terres Désolées peuvent fournir un moyen d'améliorer et d'assister nos forces de combat au sol."
 
- fallout_naval_folder:0 "Naval"
+ fallout_naval_folder:0 "Marine"
  fallout_naval_folder_desc:0 ""
- fallout_naval_doctrine_folder:0 "Naval Doctrine"
+ fallout_naval_doctrine_folder:0 "Doctrine navale"
  fallout_naval_doctrine_folder_desc:0 ""
 
- fallout_robotics_folder:0 "Robotics"
- fallout_robotics_folder_desc:0 "Before the war happened robots were used for a variety of purposes. In the wasteland they can be utilized as combat weapons to great effect with proper investments in technology."
+ fallout_robotics_folder:0 "Robotique"
+ fallout_robotics_folder_desc:0 "Avant la guerre, les robots étaient utilisés à diverses fins. Dans les Terres Désolées, ils peuvent être utilisés comme armes de combat avec beaucoup d'efficacité grâce à des investissements technologiques appropriés."
 
- fallout_industry_folder:0 "Industry"
- fallout_industry_folder_desc:0 "Although much of the equipment used comes at least in part from the great war, restoring such equipment requires organized industry. Providing proper investment in researching new methods of production is essential to survival in the wasteland."
- fallout_engineering_folder:0 "Engineering"
+ fallout_industry_folder:0 "Industrie"
+ fallout_industry_folder_desc:0 "Bien qu'une grande partie de l'équipement utilisé provienne au moins en partie de la grande guerre, la restauration de cet équipement nécessite une industrie organisée. Un investissement adéquat dans la recherche de nouvelles méthodes de production est essentiel à la survie dans les Terres Désolées."
+ fallout_engineering_folder:0 "Ingénierie"
  fallout_engineering_folder_desc:0 ""
 
  #----------------------------
