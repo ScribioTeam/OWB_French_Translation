@@ -5,36 +5,36 @@
  BR_COLUMBIA: "South Columbia"
  BL_COLUMBIA: "Vancouver Island"
  TLL_COLUMBIA: "Graham Island"
- 
+
  L_WASHINGTON: "West Washington"
  C_WASHINGTON: "Central Washington"
  R_WASHINGTON: "East Washington"
- 
+
  L_OREGON: "West Oregon"
  B_OREGON: "South Oregon"
  T_OREGON: "North Oregon"
- 
+
  TL_IDAHO: "North Idaho"
  BL_IDAHO: "Southwest Idaho"
  B_IDAHO: "South Idaho"
  R_IDAHO: "East Idaho"
- 
+
  T_UTAH: "North Utah"
  L_UTAH: "West Utah"
  R_UTAH: "East Utah"
  BL_UTAH: "Southwest Utah"
  BR_UTAH: "Southeast Utah"
- 
+
  L_COLORADO: "West Colorado"
  C_COLORADO: "Central Colorado"
  R_COLORADO: "East Colorado"
  BC_COLORADO: "South Colorado"
- 
+
  T_NEW_MEXICO: "North New Mexico"
  C_NEW_MEXICO: "Central New Mexico"
  R_NEW_MEXICO: "East New Mexico"
  L_NEW_MEXICO: "West New Mexico"
- 
+
  L_MEXICO: "North Sonora"
  BL_MEXICO: "South Sonora"
  C_MEXICO: "North Chihuahua"
@@ -51,18 +51,18 @@
  SC_MEXICO: "South Chihuahua"
  NU_MEXICO: "Nuevo León"
  SOC_MEXICO: "South Coahuila"
- 
+
  S_CALIFORNIA: "South California"
  BL_CALIFORNIA: "Southwest California"
  BR_CALIFORNIA: "East California"
  TR_CALIFORNIA: "Northeast California"
  TL_CALIFORNIA: "Northwest California"
- 
+
  L_NEVADA: "West Nevada"
  R_NEVADA: "East Nevada"
  B_NEVADA: "South Nevada"
  T_NEVADA: "North Nevada"
- 
+
  TR_ARIZONA: "Northeast Arizona"
  TL_ARIZONA: "Northwest Arizona"
  BR_ARIZONA: "East Arizona"
@@ -84,14 +84,14 @@
 
  GREATER_YELLOWSTONE: "Greater Yellowstone"
 
- 
+
  T_LAS_VEGAS: "North Vegas"
  B_LAS_VEGAS: "South Vegas"
- 
+
  BAJA_CALIFORNIA: "Baja California"
- 
+
  REGION_1: "The Forbidden Zone"
- 
+
  BAJA_CALIFORNIA_SEA: "Gulf of California"
  SOUTH_WEST_COAST_SEA: "American Coast"
  NORTH_WEST_COAST_SEA: "Canadian Coast"
@@ -109,10 +109,10 @@
  BERMUDA_RISE: "Bermuda Sea"
  SOUTH_AMERICAN_APPROACH: "South American Approach"
  ALASKAN_APPROACH: "Alaskan Approach"
- 
+
  CALIFORNIA_RIVER_NORTH: "Sacramento Estuary"
  CALIFORNIA_RIVER_SOUTH: "San Joaquin Estuary"
- 
+
  MEXICO_ARIZONA_RIVER_SOUTH: "Gila Estuary"
  MEXICO_RIVER_WEST: "Lower Rio Grande"
  MEXICO_TEXAS_RIVER: "Lower Pecos"
@@ -137,15 +137,15 @@
  WASHINGTON_RIVER: "Lower Columbia River"
  COLUMBIA_SOUTHWEST_RIVER: "Central Columbia River"
  COLUMBIA_NORTHEAST_RIVER: "Upper Columbia River"
- 
+
  # Not important
  MEXICO_RIVER_INTERNAL: "Hexus"
  MEXICO_RIVER_SOUTHWEST_1: "Jexus"
  MEXICO_RIVER_SOUTHWEST_2: "Sexus"
  MEXICO_RIVER_SOUTHEAST: "Nexus"
- 
+
  # Supply Areas
- 
+
  # States
  # Add in once all are listed in loc_temp
  # Easier to see which haven't been done this way
@@ -159,7 +159,8 @@
  STATE_HOLY_VALLEY: "Holy Valley"
  STATE_THE_STEAM: "The Steam"
  STATE_PUERTO_PENASCO: "Puerto Peñasco"
- STATE_SALTON_SEA: "Salton Sea"
+ STATE_SALTON_CITY: "Salton City"
+ STATE_MEXICALI: "Mexicali"
  STATE_HOPEVILLE: "Hopeville"
  STATE_PEACH_SPRINGS: "Peach Springs"
  STATE_REDROCK: "Redrock"
@@ -475,7 +476,6 @@
  STATE_STEAMBOAT_SPRINGS: "Steamboat Springs"
  STATE_YAMPA: "Yampa"
  STATE_CRAIG: "Criag"
- STATE_MEEKER: "Meeker"
  STATE_LITTLE_SNAKE: "Little Snake"
  STATE_WHITE_PLAIN: "White Plain"
  STATE_ROCKY_PLAIN: "Rocky Plain"
@@ -622,7 +622,7 @@
  STATE_ZION: "Zion"
  STATE_BRYCE: "Bryce"
  STATE_BLACK_BUTTE: "Black Butte"
- 
+
 
  # Eastern Canada
  STATE_KUNG: "Kung"
@@ -866,3 +866,12 @@
  STATE_EL_ZAPE:0 "El Zape"
  STATE_COLMENA_DEL_DISTRIBUIDOR:0 "Colmena del Distribuidor"
  STATE_CAMINO_A_LOS_AZTECAS:0 "Camino a los Aztecas"
+ # Texas
+ STATE_LAREDO:0 "Laredo"
+ STATE_EAGLE_PASS:0 "Eagle Pass"
+ STATE_CRYSTAL_CITY:0 "Crystal City"
+ STATE_UVALDE:0 "Uvalde"
+ STATE_TEXAN_ESTATE:0 "T.A.A. Estate"
+ STATE_EDWARDS_PLATEAU:0 "Edward's Plateau"
+ STATE_PADRE_ISLAND:0 "Padre Island"
+ STATE_MATAGORDA_ISLAND:0 "Matagorda Island"

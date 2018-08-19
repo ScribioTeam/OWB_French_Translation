@@ -7,9 +7,12 @@
  hea_inquisition:0 "Send the Inquisitors to [From.GetNameDef]"
 
  hea_bind_to_us:0 "Bind [From.GetNameDef] to Us!"
- hea_bind_to_us_desc:0 "Our conversion missions have done their work, and now all of [From.GetNameDef] has been converted to worship of God almighty. It is time to bring them closer to us and in to our fold."
+ hea_bind_to_us_desc:0 "Our conversion missions have done their work, and we are ready to attempt to bring them closer to us and in to our fold."
 
  # tooltips
  hea_converted_state_tt:0 "The state will be converted"
- hea_converted_all_tt:0 "Every state they own has been converted by us"
- hea_not_converted_all_tt:0 "We have not converted every state the own"
+ hea_not_converted_state_tt:0 "We have not converted a state they own"
+ hea_convert_state_tt:0 "We have converted some or all of their states."
+ hea_bind_to_us_attempt_tt:0 "We will attempt to bind their state to ours!"
+ binding_someone:0 "Not already Binding Another to us."
+ binding_warning_tt:0 "The more of the targets states we have converted, the better the chance we have of success - but be warned, failure will undo our conversion work in a number of states!"

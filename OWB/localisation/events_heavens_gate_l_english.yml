@@ -52,13 +52,17 @@
  nf_event_hea.80.d:0 "Following our conversion of the population of [From.GetName], we attempted a coup against the leadership to align the country with our rule. The coup was barely put down by army elements loyal to the existing government, however, and we have heard disturbing reports of these army units putting our followers to death in reprisal. Needless to say we must intervene."
  nf_event_hea.80.a:0 "Force is just as effective as faith"
 
- nf_mormon.81.t:0 "Coup in [From.GetName] Succeeds!"
- nf_mormon.81.d:0 "The coup we launched against the unfaithful government in [From.GetName] has been successful, and a puppet government has been placed in control of the state, who will follow our orders."
- nf_mormon.81.a:0 "The faithful follow our lead"
+ nf_event_hea.81.t:0 "Coup in [From.GetName] Succeeds!"
+ nf_event_hea.81.d:0 "The coup we launched against the unfaithful government in [From.GetName] has been successful, and a puppet government has been placed in control of the state, who will follow our orders."
+ nf_event_hea.81.a:0 "The faithful follow our lead"
 
- nf_mormon.82.t:0 "[HEA.GetName] Launches a Takeover of [From.GetName]"
- nf_mormon.82.d:0 "The religious nutjobs of [HEA.GetName] have launched a coup against the lawful government in [From.GetName], on the pretence of defending their followers in [From.GetName]'s lands. This marks the culmination of efforts by [HEA.GetName]'s missionaries to convert [From.GetName]."
- nf_mormon.82.a:0 "Keep an eye on missionaries in our borders, then..."
+ nf_event_hea.82.t:0 "[HEA.GetName] Launches a Takeover of [From.GetName]"
+ nf_event_hea.82.d:0 "The religious nutjobs of [HEA.GetName] have launched a coup against the lawful government in [From.GetName], on the pretence of defending their followers in [From.GetName]'s lands. This marks the culmination of efforts by [HEA.GetName]'s missionaries to convert [From.GetName]."
+ nf_event_hea.82.a:0 "Keep an eye on missionaries in our borders, then..."
+
+ nf_event_hea.83.t:0 "Our coup fails in [From.From.GetName]!"
+ nf_event_hea.83.d:0 "After out attempts to convert [From.From.GetName] failed large groups of the population have backlashed against out missionaries in their lands and have either killed them outright or dirven them from their state. This is a terrible outcome for us as we will need to attempt to reconvert the states we lost in this process."
+ nf_event_hea.83.a:0 "Horrible news indeed."
 
  nf_event_hea.9.t:0 "Religious Fanatics Launch a Coup in [From.GetName]!"
  nf_event_hea.9.d:0 "Following their persistent efforts to convert the population of [From.GetName], the leadership of Heaven's Gate have launched a coup against the government of [From.GetName] to align our puppet with them! The initial coup seems to have succeeded, so if we wish to wrench back control of the country we will need to launch a counter-coup."
