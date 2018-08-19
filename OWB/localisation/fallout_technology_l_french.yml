@@ -33,32 +33,32 @@
  #----------------------------
  # Categories
  #----------------------------
- civilization_tech:0 "Civilization"
- robotics_tech:0 "Robotics"
- ballistic_weaponry_tech:0 "Firearms"
- melee_weaponry_tech:0 "Melee Weapons"
- energy_weaponry_tech:0 "Energy Weapons"
- power_armor_tech:0 "Power Armour"
- specops_tech:0 "Spec Ops"
- plasma_weaponry_tech:0 "Plasma Weaponry"
- tesla_weaponry_tech:0 "Tesla Weaponry"
- gauss_weaponry_tech:0 "Gauss Weaponry"
+ civilization_tech:0 "Civilisation"
+ robotics_tech:0 "Robotique"
+ ballistic_weaponry_tech:0 "Armes à feu"
+ melee_weaponry_tech:0 "Armes de mêlée"
+ energy_weaponry_tech:0 "Arme à énergie dirigées"
+ power_armor_tech:0 "Armure Assistée"
+ specops_tech:0 "Opérations spéciales"
+ plasma_weaponry_tech:0 "Armes plasma"
+ tesla_weaponry_tech:0 "Armes Tesla"
+ gauss_weaponry_tech:0 "Canon de Gauss"
  category_robots:0 "Robots"
 
- ship_destroyer_tech:0 "Sea Raiders"
- ship_cruiser_tech:0 "Heavy Raiders"
- ship_heavy_cruiser_tech:0 "Siege Ships"
- ship_battleship_tech:0 "Super-heavy Siege Ships"
- ship_carrier_tech:0 "Seaplane Siege Ships"
+ ship_destroyer_tech:0 "Navire pirates"
+ ship_cruiser_tech:0 "Navires pirates lourds"
+ ship_heavy_cruiser_tech:0 "Navires de siège"
+ ship_battleship_tech:0 "Navires de siège lourds"
+ ship_carrier_tech:0 "Porte-avions"
  naval_tech:0 "Naval"
- chem_tech:0 "Chem Studies"
+ chem_tech:0 "Études chimiques"
 
  #----------------------------
  # Other
  #----------------------------
- tribal_civilization:0 "Is Tribal"
- settled_civilization:0 "Is Civilized"
- scientific_civilization:0 "Is Advanced"
+ tribal_civilization:0 "est tribale"
+ settled_civilization:0 "est civilisée"
+ scientific_civilization:0 "est avancée"
 
  #----------------------------
  # Technologies
