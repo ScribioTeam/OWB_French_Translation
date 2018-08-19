@@ -52,13 +52,17 @@
  nf_event_hea.80.d:0 "Suite à notre conversion de la population de [From.GetName], nous avons tenté un coup d'État contre les dirigeants pour aligner le pays avec notre règle. Toutefois, le coup d'État a été réprimé par des éléments de l'armée fidèles au gouvernement en place, et nous avons entendu des rapports troublants selon lesquels ces unités de l'armée mettraient à mort nos partisans en représailles. Inutile de dire que nous devons intervenir."
  nf_event_hea.80.a:0 "La force est aussi efficace que la foi."
 
- nf_mormon.81.t:0 "Notre coup d'État en [From.GetName] est un succès !"
- nf_mormon.81.d:0 "Le coup d'Etat que nous avons lancé contre le gouvernement infidèle de [From.GetName] a été un succès, et un gouvernement fantoche a été placé sous le contrôle de l'Etat, qui suivra nos ordres."
- nf_mormon.81.a:0 "Les fidèles suivent notre exemple"
+ nf_event_hea.81.t:0 "Notre coup d'État en [From.GetName] est un succès !"
+ nf_event_hea.81.d:0 "Le coup d'Etat que nous avons lancé contre le gouvernement infidèle de [From.GetName] a été un succès, et un gouvernement fantoche a été placé sous le contrôle de l'Etat, qui suivra nos ordres."
+ nf_event_hea.81.a:0 "Les fidèles suivent notre exemple"
 
- nf_mormon.82.t:0 "[HEA.GetName] a lancé une prise de contrôle en [From.GetName]"
- nf_mormon.82.d:0 "Les fous religieux de [HEA.GetName] ont lancé un coup d'état contre le gouvernement légal de [From.GetName], sous prétexte de défendre leurs partisans sur les terres de [From.GetName]. Ceci marque le point culminant des efforts des missionnaires de [HEA.GetName] pour convertir [From.GetName]."
- nf_mormon.82.a:0 "Gardez un oeil sur les missionnaires dans nos frontières, alors..."
+ nf_event_hea.82.t:0 "[HEA.GetName] a lancé une prise de contrôle en [From.GetName]"
+ nf_event_hea.82.d:0 "Les fous religieux de [HEA.GetName] ont lancé un coup d'état contre le gouvernement légal de [From.GetName], sous prétexte de défendre leurs partisans sur les terres de [From.GetName]. Ceci marque le point culminant des efforts des missionnaires de [HEA.GetName] pour convertir [From.GetName]."
+ nf_event_hea.82.a:0 "Gardez un oeil sur les missionnaires dans nos frontières, alors..."
+ 
+ nf_event_hea.83.t:0 "Notre coup d'État a échoué en [From.GetName] !"
+ nf_event_hea.83.d:0 "Après les tentatives de conversion [From.From.GetName] qui ont échoué, de grands groupes de la population se sont retournés contre nos missionnaires dans leurs terres et les ont tués ou les ont rejetés de leur état. C'est un résultat terrible pour nous, car nous devrons tenter de reconvertir les États que nous avons perdus dans ce processus."
+ nf_event_hea.83.a:0 "Horribles nouvelles, en effet."
 
  nf_event_hea.9.t:0 "Les fanatiques religieux ont lancé un coup d'État en [From.GetName]!"
  nf_event_hea.9.d:0 "Suite à leurs efforts persistants pour convertir la population de [From.GetName], les dirigeants de Heaven's Gate ont lancé un coup d'état contre le gouvernement de [From.GetName] pour aligner notre pantin avec eux ! Le coup d'État initial semble avoir réussi, de sorte que si nous voulons reprendre le contrôle du pays, nous devrons lancer un contre-coup."
