@@ -1,0 +1,10 @@
+﻿l_french:
+ MILITARY_FACTORIES_STATUS:0 "Établis d'armes utilisés : §Y$USED$§!/§Y$TOTAL$§!"
+ DAMAGED_MILITARY_FACTORIES:0 "Établis d'armes endommagés : $COUNT|H$"
+ NAVAL_FACTORIES_STATUS:0 "Arsenaux utilisés : §Y$USED$§!/§Y$TOTAL$§!"
+ DAMAGED_NAVAL_FACTORIES:0 "Arsenaux endommagés : $COUNT|H$"
+ CIVILIAN_FACTORIES_STATUS:0 "Ateliers civils utilisés : §Y$USED$§!/§Y$TOTAL$§!"
+ DAMAGED_CIVILIAN_FACTORIES:0 "Ateliers civils endommagés: $COUNT|H$"
+ MILITARY_FACTORIES_OCCUPATION_STATUS:0 "Établis d'armes occupés : §Y$COUNT$§!"
+ NAVAL_FACTORIES_OCCUPATION_STATUS:0 "Arsenaux occupés : §Y$COUNT$§!"
+ CIVILIAN_FACTORIES_OCCUPATION_STATUS:0 "Ateliers civils occupés : §Y$COUNT$§!"

@@ -109,7 +109,7 @@
 # Old Bonds sub-tree
 
  bos_oldbonds:0 "Old Bonds"
- bos_oldbonds_desc:0 "The Brotherhood and NCR have stood by each other in the past, if only because both are bastions of civilization in this harsh wasteland. Yet now, the NCR is threatened by a foe unlike any other, a horde of raiders and fiends so massive that even the might NCR buckles under the pressure. If California is to survive, we must act."
+ bos_oldbonds_desc:0 "The Brotherhood and NCR have stood by each other in the past, if only because both are bastions of civilization in this harsh wasteland. Yet now, the NCR is threatened by a foe unlike any other, a horde of raiders and fiends so massive that even the mighty NCR buckles under the pressure. If California is to survive, we must act."
 
  bos_logistics:0 "Logistical Support"
  bos_logistics_desc:0 "The NCR take pride in their logistical support, gods know why. It's a mess, and they seem to lack all but the most basic of structuring. Simple advice and minor upgrades on their communication networks should make them a force to be reckoned with."
@@ -276,9 +276,6 @@
 
  bos_alloyconstruction:0 "Alloy Construction"
  bos_alloyconstruction_desc:0 "Sentry Bots are, without a doubt, the pinnacle of robotic engineering, and something that the Brotherhood has long coveted the construction of. Even as we prepared to study and produce these machines, we are finding ways to incorporate experimental alloys into their design, for greater armor effectiveness."
-
-
-
 
  # Securing Equipment sub-tree
 

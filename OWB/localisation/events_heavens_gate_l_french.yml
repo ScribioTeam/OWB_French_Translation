@@ -1,0 +1,71 @@
+﻿l_french:
+ nf_event_hea.1.t:0 "Héritage des Écritures Saintes"
+ nf_event_hea.1.d:0 "Heaven's Gate a toujours tenu compte de la parole de Dieu, étant dirigée par divers prophètes et dirigeants tout au long de sa longue histoire. Les prédicateurs sont venus et sont partis, prêchant la bonne parole aux gens désespérés. Beaucoup de versets ont toujours eu beaucoup de poids chez nous, mais aucun n'en a plus que les suivants."
+ nf_event_hea.1.a:0 "Éphésiens 6:11"
+ nf_event_hea.1.b:0 "Isaïe 1:19"
+
+ nf_event_hea.2.t:0 "La venue des pèlerins"
+ nf_event_hea.2.d:0 "Ceux qui font le voyage jusqu'à Heaven's Gate parcourent souvent de grandes distances, sachant dans leur cœur que quelque part au-delà de l'horizon est le dernier véritable bastion de la piété dans ces terres désolées et oubliée. Pourtant, lorsqu'ils arrivent, il y a toujours la question. Leur pèlerinage est-il terminé ou sont-ils maintenant tenus de chercher et de conduire les fidèles ici ? Que dit la Bible sur de telles choses ?"
+ nf_event_hea.2.a:0 "Genèse 13:15"
+ nf_event_hea.2.b:0 "Psaume 23:4"
+
+ nf_event_hea.3.t:0 "La venue des païens"
+ nf_event_hea.3.d:0 "Ceux qui n'entendent pas la parole de Dieu peuvent encore entendre parler d'Heaven's Gate, et peuvent encore voyager ici. Les préoccupations auxquelles nous sommes confrontés dans la perpétuelle question de savoir comment traiter avec ces visiteurs païens sont éternelles. Il y a ceux qui pensent que nous devrions protéger et héberger ces âmes perdues, et ceux qui croient que nous devrions les rejeter."
+ nf_event_hea.3.a:0 "Corinthiens 12:2"
+ nf_event_hea.3.b:0 "Luc 12:30"
+
+ nf_event_hea.4.t:0 "Innocence perdue"
+ nf_event_hea.4.d:0 "Innocence n'est guère plus qu'un petit village en bordure de ce que nous connaissons, souvent visité par des païens itinérants et des tribus descendant des terres sauvages du nord. Ces personnes arrivent souvent pour faire du commerce et échanger des biens, et à leur tour nous leur apprenons de Dieu. Pourtant, il y a souvent des groupes plus résistants que d'autres, ces anciens et ces âmes guerrières qui pensent que nos leçons sont un affront à leurs propres croyances erronées. Les tensions sont fortes, et notre façon de traiter avec les païens jouera un grand rôle dans ce qui se passera ensuite..."
+ nf_event_hea.4.a:0 "Que Dieu ait pitié !"
+
+ nf_event_hea.5.t:0 "Émission de l'Ultimatum"
+ nf_event_hea.5.d:0 "Les tribus animistes de la tribu de l'arbre solitaire ont longtemps été indépendantes au sud, survivant le long des routes terrestres primaires jusqu'aux terres riches en dessous de nous. Nous devrons aller de l'avant et les repousser, ne serait-ce que pour le plaisir de voyager. Il est temps pour eux de se convertir, nous leur apporterons le salut et ouvrirons nos routes commerciales du sud."
+ nf_event_hea.5.a:0 "Qu'est-ce qu'ils diront ?"
+
+ nf_event_hea.50.t:0 "Ultimatum du croisé"
+ nf_event_hea.50.d:0 "Les disciples du Dieu unique sont enfin venus pour nous, depuis longtemps nous attendons ce jour. Comment allons-nous répondre à cet ultimatum ? Avec la fierté d'un guerrier, ou la sagesse d'un sage qui comprend qu'il ne peut pas gagner ?"
+ nf_event_hea.50.a:0 "L'esprit du guerrier !"
+ nf_event_hea.50.b:0 "La Sagesse du Sage !"
+
+ nf_event_hea.6.t:0 "Heaven's Gate offre un pacte défensif"
+ nf_event_hea.6.d:0 "Suite à l'établissement de leur ambassade dans notre capitale, Heaven's Gate nous a offert une proposition unique - que nous les rejoignions dans un pacte défensif contre toute agression à laquelle nous pourrions être confrontés. Bien qu'il ne semble pas y avoir de conditions attachées à l'accord pour le moment, Heaven's Gate a rendu plus que clair ce qui pourrait arriver si nous les refusons....."
+ nf_event_hea.6.a:0 "Leur protection est bienvenue"
+ nf_event_hea.6.b:0 "Nous sommes plus en sécurité ailleurs"
+
+ nf_event_hea.60.t:0 "[MUR.GetName] a refusé !"
+ nf_event_hea.60.d:0 "Malgré notre généreuse offre de protection, [MUR.GetName] semble avoir décidé qu'ils peuvent être mieux protégés ailleurs. Hérésie ! Comment allons-nous répondre à cette transgression ?"
+ nf_event_hea.60.a:0 "Nous avons d'autres méthodes pour les \"protéger\"."
+ nf_event_hea.60.b:0 "Nous comprenons."
+
+ # Event 7 is purposefully not localised
+
+ nf_event_hea.70.t:0 "[IRE.GetName] a refusé !"
+ nf_event_hea.70.d:0 "Malgré notre généreuse offre de protection, [MUR.GetName] semble avoir décidé qu'ils peuvent être mieux protégés ailleurs. Hérésie ! Comment allons-nous répondre à cette transgression ?"
+ # The two options are purposefully not localised
+
+ nf_event_hea.8.t:0 "Les fanatiques religieux lancent un coup d'État !"
+ nf_event_hea.8.d:0 "Après le travail constant des missionnaires de Heaven's Gate, un grand pourcentage de notre population est fidèle à l'extrémisme religieux venant de Heaven's Gate. Aujourd'hui, des adeptes religieux fanatiques ont tenté de s'emparer de nous et d'aligner notre politique sur celle de Heaven's Gate. Qu'advient-il du coup d'État ?"
+ nf_event_hea.8.a:0 "Le coup d'État est un succès"
+ nf_event_hea.8.b:0 "Le coup d'État est manqué"
+
+ nf_event_hea.80.t:0 "Notre coup d'État a échoué en [From.GetName] !"
+ nf_event_hea.80.d:0 "Suite à notre conversion de la population de [From.GetName], nous avons tenté un coup d'État contre les dirigeants pour aligner le pays avec notre règle. Toutefois, le coup d'État a été réprimé par des éléments de l'armée fidèles au gouvernement en place, et nous avons entendu des rapports troublants selon lesquels ces unités de l'armée mettraient à mort nos partisans en représailles. Inutile de dire que nous devons intervenir."
+ nf_event_hea.80.a:0 "La force est aussi efficace que la foi."
+
+ nf_mormon.81.t:0 "Notre coup d'État en [From.GetName] est un succès !"
+ nf_mormon.81.d:0 "Le coup d'Etat que nous avons lancé contre le gouvernement infidèle de [From.GetName] a été un succès, et un gouvernement fantoche a été placé sous le contrôle de l'Etat, qui suivra nos ordres."
+ nf_mormon.81.a:0 "Les fidèles suivent notre exemple"
+
+ nf_mormon.82.t:0 "[HEA.GetName] a lancé une prise de contrôle en [From.GetName]"
+ nf_mormon.82.d:0 "Les fous religieux de [HEA.GetName] ont lancé un coup d'état contre le gouvernement légal de [From.GetName], sous prétexte de défendre leurs partisans sur les terres de [From.GetName]. Ceci marque le point culminant des efforts des missionnaires de [HEA.GetName] pour convertir [From.GetName]."
+ nf_mormon.82.a:0 "Gardez un oeil sur les missionnaires dans nos frontières, alors..."
+
+ nf_event_hea.9.t:0 "Les fanatiques religieux ont lancé un coup d'État en [From.GetName]!"
+ nf_event_hea.9.d:0 "Suite à leurs efforts persistants pour convertir la population de [From.GetName], les dirigeants de Heaven's Gate ont lancé un coup d'état contre le gouvernement de [From.GetName] pour aligner notre pantin avec eux ! Le coup d'État initial semble avoir réussi, de sorte que si nous voulons reprendre le contrôle du pays, nous devrons lancer un contre-coup."
+ nf_event_hea.9.a:0 "Laisse-les partir"
+ nf_event_hea.9.b:0 "Tenter un contre-coup d'État"
+ HEA_convertion_cw:0 "Une §Rguerre civile§! va briser notre relation entre nos partisans et les partisans de Heaven's Gate !"
+
+ nf_event_hea.90.t:0 "[From.GetName] a réagit à notre coup d' [From.From.GetName]"
+ nf_event_hea.90.d:0 "[From.GetName] n'allait jamais aimer notre coup d'état dans leur état de marionnettes. En réponse à notre première prise de contrôle réussie, ils ont lancé leur propre contre-coup d'État pour tenter de reprendre le pouvoir. Cependant, de nombreuses milices se sont ralliées, ont formé des partisans loyaux et ont réussi à défendre la capitale contre la saisie. Le pays a été plongé dans une guerre civile sanglante."
+ nf_event_hea.90.a:0 "Unissons-nous dans la foi"

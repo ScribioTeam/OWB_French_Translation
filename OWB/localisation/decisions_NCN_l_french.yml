@@ -1,0 +1,10 @@
+﻿l_french:
+ ncn_conversion:0 "Missions de conversion"
+ ncn_conversion_desc:0 "Les gens autour de nous ne sont pas éclairés aux yeux du seigneur. Nous devons envoyer nos missionnaires pour convertir ces pécheurs là où ils vivent, et lentement notre influence et l'influence du seigneur se répandront."
+ ncn_slow_conversion:0 "Mission de conversion vers [From.GetNameDef]"
+ ncn_bind_to_us:0 "Liez-nous [From.GetNameDef] à nous!"
+ ncn_bind_to_us_desc:0 "Nos missions de conversion ont fait leur travail, et maintenant, tout [From.GetNameDef] a été converti en adoration de Dieu tout-puissant. Il est temps de les rapprocher de nous et de nous rejoindre."
+ ncn_eligible_tt:0 "Ils possèdent un État adjacent à un autre État que nous possédons ou à un État converti par nous"
+ ncn_converted_state_tt:0 "L'état sera converti"
+ ncn_converted_all_tt:0 "Chaque état qu'ils possèdent a été converti par nous"
+ ncn_not_converted_all_tt:0 "Nous n'avons pas converti chaque état"
