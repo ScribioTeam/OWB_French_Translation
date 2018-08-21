@@ -149,7 +149,7 @@
  # Power Armour
  power_armor_equipment_1:0 "Scavenged Power Armour"
  power_armor_equipment_1_short:0 "Scavenged-PA"
- power_armor_equipment_1_desc:0 "This armour has been cobbled together from spare parts and broken scraps. Mod used:0 "Courier 6 Power Armour" by Themythofanst"
+ power_armor_equipment_1_desc:0 "This armour has been cobbled together from spare parts and broken scraps."
 
  power_armor_equipment_2:0 "T-45d Power Armour"
  power_armor_equipment_2_short:0 "T-45d PA"
@@ -277,7 +277,10 @@
 
  # Robots
  robot_equipment:0 "Robot Equipment"
+ 
  light_robot_equipment:0 "Light Robot Equipment"
+ light_robot_equipment_desc:0 ""
+
  light_robot_equipment_1:0 "Commercial Protectron"
  light_robot_equipment_1_short:0 "Protectron MKI"
  light_robot_equipment_1_desc:0 "RobCo's line of Protectron robots were used for a wide range of services, from taxis to office work."
@@ -287,6 +290,8 @@
  light_robot_equipment_2_desc:0 "RobCo's line of Security Protectrons can be used for perimeter guarding or light police work."
 
  medium_robot_equipment:0 "Medium Robot Equipment"
+ medium_robot_equipment_desc:0 ""
+
  medium_robot_equipment_1:0 "Mister Handy"
  medium_robot_equipment_1_short:0 "Mister Handy"
  medium_robot_equipment_1_desc:0 "Mister Handys were all around housekeepers and assistants before the war, though the dubious inclusion of a buzzsaw and miniaturized flamer have made them wondrous tools of battle."
@@ -295,8 +300,16 @@
  medium_robot_equipment_2_short:0 "Mr. Gutsy"
  medium_robot_equipment_2_desc:0 "The military variant of the Mister Handy, these gruff talking war machines come equipped with upgraded laser weaponry and a hardened armor shell."
 
+ medium_robot_equipment_3:0 "Securitron Mk. I"
+ medium_robot_equipment_3_short:0 "Securitron Mk. I"
+ medium_robot_equipment_3_desc:0 ""
+
+ medium_robot_equipment_4:0 "Securitron Mk. II"
+ medium_robot_equipment_4_short:0 "Securitron Mk. II"
+ medium_robot_equipment_4_desc:0 ""
 
  heavy_robot_equipment:0 "Heavy Robot Equipment"
+ heavy_robot_equipment_desc:0 ""
  heavy_robot_equipment_1:0 "Robo-brain"
  heavy_robot_equipment_1_short:0 "Robo-brain"
  heavy_robot_equipment_1_desc:0 "The wonders of biorobotics have produced this monstrosity. Capable of more versatile thinking, and equipped with a durable frame, they can take on a lot of punishment."
@@ -304,13 +317,6 @@
  heavy_robot_equipment_2:0 "Sentry Bot"
  heavy_robot_equipment_2_short:0 "Sentry Bot"
  heavy_robot_equipment_2_desc:0 "Tripod based humanoid chassis with your choice of a gatling laser or minigun armament. Complimentary missile launcher included for optimal guarding procedure."
-
- medium_robot_equipment_3:0 "Securitron Mk. I"
- medium_robot_equipment_3_short:0 "Securitron Mk. I"
- medium_robot_equipment_3_desc:0 ""
- medium_robot_equipment_4:0 "Securitron Mk. II"
- medium_robot_equipment_4_short:0 "Securitron Mk. II"
- medium_robot_equipment_4_desc:0 ""
 
  heavy_robot_equipment_3:0 "Securitron Mk II"
  heavy_robot_equipment_3_short:0 "Securitron Mk II"
