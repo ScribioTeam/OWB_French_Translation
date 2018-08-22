@@ -45,8 +45,8 @@
  gauss_weaponry_tech:0 "Canon de Gauss"
  category_robots:0 "Robots"
 
- ship_destroyer_tech:0 "Navire pirates"
- ship_cruiser_tech:0 "Navires pirates lourds"
+ ship_destroyer_tech:0 "Navire corsaires"
+ ship_cruiser_tech:0 "Navires corsaires lourds"
  ship_heavy_cruiser_tech:0 "Navires de siège"
  ship_battleship_tech:0 "Navires de siège lourds"
  ship_carrier_tech:0 "Porte-avions"
@@ -64,14 +64,14 @@
  # Technologies
  #----------------------------
  # Infantry Training
- militia_training:0 "Militia Training"
- militia_training_desc:0 "Basic organization and command structures lend themselves to both hunting parties and conscripted forces."
- warrior_training:0 "Warrior Training"
- warrior_training_desc:0 "Ranks and squad tactics allow for a better fighting force."
- guerilla_tactics:0 "Guerilla Tactics"
- guerilla_tactics_desc:0 "Using the rugged wastes and bombed out buildings to your advantage is key to winning at wasteland warfare."
- platoon_training:0 "Platoon Training"
- platoon_training_desc:0 "The jump from loosely organized squads into an interconnected army is a large one, to startling effect."
+ militia_training:0 "Entraînement de la milice"
+ militia_training_desc:0 "Les structures d'organisation et de commandement de base se prêtent aussi bien aux groupes de chasseurs qu'aux forces conscrits."
+ warrior_training:0 "Entraînement des guerriers"
+ warrior_training_desc:0 "Les rangs et les tactiques d'escouade permettent une meilleure force de combat."
+ guerilla_tactics:0 "Tactiques de guérilla"
+ guerilla_tactics_desc:0 "L'utilisation des déchets sauvages et des bâtiments bombardés à votre avantage est la clé pour gagner à la guerre des Terres Désolées"
+ platoon_training:0 "Entraînement en peloton"
+ platoon_training_desc:0 "Le passage d'une escouade mal organisée à une armée interconnectée est d'une grande envergure, ce qui a un effet surprenant."
  basic_drill:0 "Basic Drill"
  basic_drill_desc:0 "Standardized military doctrines, and plenty of practice, makes a blunt hammer into a sharp knife."
  mechanized_training:0 "Mechanized Training"
