@@ -1,4 +1,4 @@
 ﻿l_french:
- ADD_CORE_TT:0 "§HEtats§! £pol_power 100"
+ ADD_CORE_TT:0 "§HTransformer en État coeur (core)§! £pol_power 100"
  ADD_CORE_TT_DELAYED:0 "[!add_core_click_enabled]"
- not_allowed_to_core_flag:0 " §RHas coring ability disabled§!"
+ not_allowed_to_core_flag:0 " §RA la possibilité de transformer en État coeur (core) désactivé§!"

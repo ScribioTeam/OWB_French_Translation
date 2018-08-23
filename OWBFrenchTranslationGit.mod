@@ -1,9 +1,6 @@
 ﻿name="OWB French Translation Git"
 path="mod/OWBFrenchTranslationGit/"
 tags={
-	"Alternative History"
-	"Map"
-	"National Focuses"
-	"Events"
+	"Translation"
 }
 supported_version="1.5.4"

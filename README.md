@@ -39,6 +39,7 @@ Traduisez/corrigez les erreurs sur [votre fork](https://help.github.com/articles
 Les personnes suivantes ont participé à la traduction française :
 - 52Alexis
 - Warkild
+- Kileahh
 - GABRIELN13
 - TomDer
 - Carpi7
