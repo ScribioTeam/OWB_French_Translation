@@ -49,6 +49,7 @@
  
  ncr-boswar.7.t:0 "Nos éclaireurs sont de retour"
  ncr-boswar.7.d:0 "Nous avons recu une communication de nos hommes nous indiquant qu'ils ont été capable de revenir de Boneyard sans problémes. Ils ramenent avec eux 7 caches de données d'une valeure inconnue; toutefois ces données venants d'une installation de West-Tek elles devraient être inestimable dans notre objectif de comprendre, maitriser, et protéger la Technologie."
+ ncr-boswar.7.a:0 "Les punir pour avoir agi sans ordre"
  ncr.boswar.7.a:0 "Les punir pour avoir agis sans ordres."
  
  ncr-boswar.8.t:0 "L'Ultimatum"
@@ -60,7 +61,7 @@
  ncr-boswar.9.d:0 "Notre demande n'est pas restée sans réponse. La RNC a envoyé All-Godd pour nous parler, encore une fois. Comme toujours, il est arrivé nerveux, et bavard. Nous avons donc commencé à discuter de la situation actuelle. Sean affirme qu'il a ,de peu, réussi à convaincre le président de la RNC de ne pas nous déclarer la guerre pour nous punir de notre "hubris" et de notre "arrogance", il nous propose d'essayer de trouver un compromis. "
  ncr-boswar.9.a:0 "Nous devons trouver une solution pacifique à cette crise."
  ncr-boswar.9.b:0 "Nos hommes doivent revenir!"
- 
+ ncr-boswar.10.t:0 "Murphy tout en bonté"
  ncr-boswar.10.t:0 "All-Good Murphy"
  ncr-boswar.10.d:0 "La Confrérie a refusé de payer des compensations pour nos braves soldats, les appelants même "chiens". Le President Wendell Peterson boue de rage, mais le sénateur Sean Murphy est venu l'appaiser. Cette hommes, "All-Good", nous propose de simplement laisser les soldats de la Confrérie partir. Il connait la Confrérie, et a argumenté que déclarer la guerre serait dangereux pour la RNC, déjà entourée d'ennemis!"
  ncr-boswar.10.a:0 "Il a raison, nous ne pouvons pas risquer une guerre"
@@ -82,7 +83,14 @@
  ncr-boswar.14.d:0 "Les négociations ont échoué avec la RNC. All-Good nous a envoyé un message à temps pour nous informer que le pire allait arriver. Les anciens demandent que nous faisions taire la RNC une fois pour toutes."
  ncr-boswar.14.a:0 "La RNC est responsable de sa propre destruction"
  
+ ncr-boswar.15.t:0 "Demander Helios One"
+ ncr-boswar.15.d:0 "Avec l'effondrement de la diplomatie avec la Confrérie de l'Acier, nous devrions demander Helios One et la Route 95 à la Confrérie du Mojave ou les menacer de guerre !"
+ ncr-boswar.15.a:0 "Envoyer les demandes"
  hooverdam.1.t:0 "Le Mur du vieux monde"
+ ncr-boswar.16.t:0 "La RNC exige Helios One"
+ ncr-boswar.16.d:0 "La RNC a l'audace de non seulement être en guerre avec la Confrérie, mais en plus ils exigent maintenant que nous leur livrons Hélios One et la Route 95, sinon ils nous menacent de guerre ! Devrions-nous céder à ces demandes ?"
+ ncr-boswar.16.a:0 "Donnez-leur ce qu'ils veulent."
+ ncr-boswar.16.b:0 "Ils devront le prendre de force !"
  hooverdam.1.d:0 "Les éclaireurs de la RNC ont identifié une vaste structure reliant le Mojave et le loitaint Colorado.Le 'Barrage Hoover' retient une grande quantité d'eau potable, et les occupants actuels ont prouvé que le barrage est une importante source potentielle d'électricité. Ce serait un grand avantage que nous prendrions sur nos rivaux en nous emparant de ce barrage."
  hooverdam.1.a:0 "Evincer les maraudeurs occupants le barrage."
  hooverdam.1.b:0 "Expulser la Confrérie!"
@@ -151,6 +159,7 @@
  nf_ncr.1.c:0 "Tandi, la Mére de la République."
  
  nf_ncr.2.t:0 "~La Colonisation du Baja~"
+ nf_ncr.13.b:0 "Murphy de tout bonté devrait prendre le contrôle"
  nf_ncr.2.d:0 " En l'année de grace 2256, la colonie républicaine du Rattletail était établie dans la partie Nord du Baja par quelques colons volontaires. La RNC les a soutenu par l'envoie de fonds et de matériaux, mais sans superviseur ni protection militaire. Ce choix fut presque fatal pour ces nouveaux colons, forcés, afin de survivre, de s'emparer, par la force, des rares et uniques sources d'eau primaires de cette région, bien qu'ils ignoraient ce fait à ce moment.                                                                                                                                         Toutefois les locaux, privés d'eau par les colons, et désespérés, ont lancé une 2 escarmouches contre la petite colonie, toutefois ces attaques ont été facilement stoppé. Ce fut la sagesse et l'habilité d'un jeune ranger, nommé Hanlon, qui permis de mettre fin à cette dispute avant qu'elle ne se transforme en guerre totale. Ce jeune homme a crée un astucieux mensonge, sur l'attaque imminante par un grand groupe de riders, afin de faire partir les colons, et ainsi de permettre aux locaux de reprendre le controle de leurs sources d'eau. Evitant ainsi un plus grands conflit.                                                                                                                                            Malheureusement, ce mensonge eut un résultat inattendu. Il fit croire, aux locaux,que la RNC avait peur des raiders, des esclavagistes, et autres gens violents. Les autochtones du Baja eurent presque une décennie pour se préparer au retour de la RNC. Et adoptérent, en préparation, une culture violente et cruelle. Baja est à présent une base pour les Cartels Mexicains, il sera donc presque impossible de relancer la colonisation sans violence. La route vers la future est instable, et il n'y a que peu hommes dans la RNC ayant le potentiel de s'occuper de ce probléme. Qui voulez vous nommer pour prendre en main les affaires du Baja?"
  nf_ncr.2.a:0 "Le Ranger-Chef Hanlon, la main de fer."
  nf_ncr.2.b:0 "Héctor Santángel, le sympathisant local."
@@ -243,12 +252,29 @@
  nf_ncr.20.d:0 "Dirigeable fini?"
  nf_ncr.20.a:0 "J'ai un dirigeable"
  
+ nf_ncr.30.t:0 "Les territoires occupés demandent l'indépendance"
+ nf_ncr.30.d:0 "Il n'y a pas si longtemps, notre base d'opérations avancée au sein de la Légion a reçu un télégramme demandant qu'un diplomate soit envoyé à Red Sun City. Quand ce diplomate est arrivé, il a été amené dans une salle de conférence impromptue, où des délégués de nombreuses communautés l'ont attendu. Il a passé des heures avec ces gens avant de revenir vers nous, et son rapport le dit très clairemen t: ils veulent la liberté.\n\nBeaucoup de ces nations naissantes ont été reconnues par la RNC. Les agences de propagande embauchées par notre gouvernement ont, à un moment ou à un autre, diffusé au moins une affiche sur la ville de Phoenix ou écrit un article sur le peuple Jicarilla. Bien que laisser le territoire inoccupé puisse causer des problèmes, \"revenir sur notre parole\" pourrait en causer encore plus. Que devrions-nous faire ?"
+ nf_ncr.30.a:0 "Nous allons rappeler nos troupes maintenant que la Légion est partie"
+ nf_ncr.30.b:0 "Si on les laisse partir, ils vont simplement réformer la Légion. Nous devons rester"
  nf_ncr.21.t:0 "La nouvelle industrie"
+ nf_ncr.31.t:0 "La République Phoenix se proclame contre sur nous !"
+ nf_ncr.31.d:0 "Il semble que notre refus de mettre fin à notre occupation n’a pas été favorable à tous. Peu après l'annonce, la République de Phoenix a commencé à se préparer à la guerre. Elle a envoyé des messagers à deux de ses voisins juste avant le début du conflit et, ensemble, ils ont combiné leurs forces pour cibler Hoover Dam. D'une manière ou d'une autre, peut-être en offrant une reconnaissance de dette favorable à Yuma, ils ont réussi à se procurer un obusier pour le siège.\n\nBien que peu de dégâts aient été causés au barrage lui-même, ils ont tué de nombreux soldats et se sont retirés avec leur artillerie à remorque. Nous pouvons nous attendre à ce qu'ils continuent à harceler nos forces à l'avenir. Préparer une contre-attaque prendra du temps, mais leurs jours sont comptés."
+ nf_ncr.31.a:0 "Ils ne peuvent pas être pire que la Légion"
+ nf_ncr.31.b:0 "Je suis le Phoenix !"
+ NCR_revolt_play_hangdogs_later:0 "Si vous le souhaitez, vous pouvez jouer les Hangdogs plus tard."
+ NCR_revolt_PHR_tagswitch:0 "Votre tag sera changé pour vous permettre de jouer en tant que République de Phoenix"
  nf_ncr.21.d:0 "Les optimistes citoyens de Dayglow investissent pour le futur de leur ville, et même si la reconstruction sera longue ils y croient. Toutefois, le secteur dans lequel ces investissements seront concentrés n'a pas encore été arrêté, de même que la durée du retour sur investissement."
  nf_ncr.21.a:0 "Un plan sur le trés long terme."
  nf_ncr.21.b:0 "Un plan sur le long terme."
+ nf_ncr.33.t:0 "Arizona du Nord avec les rebelles"
+ nf_ncr.33.d:0 "Peu après que les nouvelles de la rébellion armée de la République Phoenix eurent commencé à se répandre, de nombreuses forces ont commencé à affluer vers leur bannière. Deux tribus, dont l'une est dirigée par un ancien commandant de la Légion et un ennemi de la RNC, et un groupe de grands éleveurs opérant dans le nord du Mexique et autrefois soumis à la Légion.\n\nBien que cela ne soit pas particulièrement dangereux, ajouter du carburant au feu n'est jamais une bonne chose et nos ennemis ayant plus de soldats à leur disposition sont la dernière chose dont nous avons besoin. Notre armée commence à réagir à la menace, mais les forces de la République ont commencé à prioriser la capture de lieux clés. Ce sera pire que la guerre des Barons à tous égards."
+ nf_ncr.33.a:0 "Plus de rebelles ? Nous allons envoyer plus de fournitures"
  nf_ncr.21.c:0 "Un plan sur le court terme."
+ nf_ncr.34.t:0 "Les forces d'opposition se gonflent"
+ nf_ncr.34.d:0 "Les combats se poursuivent dans le nord de l’Arizona alors que nos forces affrontent les rebelles dans de petites escarmouches le long de la ligne de contact. Plus loin en Arizona, le long de la frontière du Nouveau-Mexique, deux autres tribus se sont levées pour nous défier. Bien qu’elles ne soient pas particulièrement menaçantes en elles-mêmes, aux côtés des forces de la \"Fédération Phoenix\", en pleine expansion, elles deviennent une source de préoccupation.\n\nComme si la situation actuelle n'était pas suffisamment grave, un ennemi plus dangereux est apparu. Two Sun, l'une des nations les plus puissantes du nord du Mexique et un ancien territoire de la Légion, nous a déclaré la guerre. L'armée et l'expertise de Two Sun vont grandement aider la rébellion, et le fait que nous nous battions avec une nation autrefois opposée à la Légion ne semble pas bon pour le public."
+ nf_ncr.34.a:0 "Cela pourrait s'avérer problématique"
  
+ nf_ncr.35.t:0 "Les sympathisants se lèvent au Nouveau-Mexique"
  nf_ncr.22.t:0 "La migration du Baja"
  nf_ncr.22.d:0 "La récente crise dans le Baja a laissé des centaines d'hommes et de femmes sans maisons ni travail, une grande majorité de ces personnes souhaitant à présent rejoindre la RNC, il nous faut donc, à présent, définir une politique d'immigration. L'accueil de ces réfugiés nous permettrait d'augmenter notre population, ce qui est toujours souhaitable. Toutefois, cela provoquerait aussi une inflation, ce qui minerai aussi notre économie. Nous pourrions aussi choisir de réguler le nombre de personnes acceptées à Dayglow."
  nf_ncr.22.a:0 "Ils sont tous les bienvenues à Dayglow!"
@@ -281,7 +307,7 @@
  ncr_helios_event.22.b:0 "Le réveil de l'Ours"
  ncr_helios_event.23.t:0 "Nous avons repris Helios one!"
  ncr_helios_event.23.d:0 "Nos Paladins et nos Chevaliers nous ont signalé la capture d'Helios One lors d'une opération éclaire contre la RNC."
- ncr_helios_event.23.a:0 "Ad Victoriam!"
+ ncr_helios_event.23.a:0 "Ad Victoriam !"
  
  
  ncr_civil_war_starts:0 "§R Le début de la guerre civile §!"
