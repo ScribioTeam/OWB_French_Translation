@@ -144,19 +144,19 @@
  #DES
 
  #NCR
- NCR_leather_armour:0 "Trooper Fatigues"
- NCR_leather_armour_desc:0 "Standardised uniforms and light armour reduce casualties from both friendly and enemy fire."
- NCR_metal_armour:0 "Armoured Breastplate"
- NCR_metal_armour_desc:0 "Incorporating armoured leather cuirasses into standard issue NCR kit further reduces casualties while increasing the individual's bravery."
- NCR_combat_armour:0 "NCR Patrol Armour"
- NCR_combat_armour_desc:0 "Tweaks and improvements to the standard suit of combat armour has resulted in a formidable increase in operational efficiency, and lowered the dangers of patrolling militarized zones."
- NCR_advanced_combat_armour:0 "NCR Riot Suppression Armour"
- NCR_advanced_combat_armour_desc:0 "The discovery of the LAPD's massive anti riot armoury, as well as the luck of finding a mostly intact set of industrial tooling for such, has resulted in the widespread use of these prewar marvels of riot suppression."
- NCR_warrior_equipment:0 "Weapon Modifications"
- NCR_warrior_equipment_desc:0 "By allowing for soldiers to customize their issued weaponry to their liking, the strengths and weaknesses of the individual soldier can be used to the advantage."
- NCR_basic_infantry_equipment:0 "12.7mm Conversion Kits"
- NCR_basic_infantry_equipment_desc:0 "Based on pre-war modifications done by soldiers to privately owned rifles, barrel and action conversion kits improve the range and firepower of the standard Service Rifle."
- NCR_prewar_infantry_kit:0 "Repaired Sensor Suites"
+ NCR_leather_armour:0 "Tenue de soldat"
+ NCR_leather_armour_desc:0 "Les uniformes standardisés et les armures légères réduisent les pertes causées par les tirs amis et ennemis."
+ NCR_metal_armour:0 "Plastron blindée"
+ NCR_metal_armour_desc:0 "L'incorporation de cuirasses blindées en cuir dans la trousse standard de la RNC réduit encore davantage le nombre de victimes tout en augmentant le courage de l'individu."
+ NCR_combat_armour:0 "Armure de patrouille de la RNC"
+ NCR_combat_armour_desc:0 "Les modifications et les améliorations apportées à la combinaison standard des armures de combat ont permis d'accroître considérablement l'efficacité opérationnelle et de réduire les dangers des patrouilles dans les zones militarisées."
+ NCR_advanced_combat_armour:0 "Armure antiémeutes de la RNC"
+ NCR_advanced_combat_armour_desc:0 "La découverte de l'armurerie antiémeute massive du LAPD, ainsi que la chance de trouver un ensemble presque intact d'outils industriels pour ce type d'armes, a eu pour résultat l'utilisation généralisée de ces merveilles de répression des émeutes d'avant-guerre."
+ NCR_warrior_equipment:0 "Modifications d'armes"
+ NCR_warrior_equipment_desc:0 "En permettant aux soldats de personnaliser leurs armes à leur gré, les forces et les faiblesses de chaque soldat peuvent être utilisées à leur avantage."
+ NCR_basic_infantry_equipment:0 "Kits de conversion 12.7mm"
+ NCR_basic_infantry_equipment_desc:0 "Basé sur les modifications apportées par les soldats avant la guerre aux fusils privés, les kits de conversion de canon et d'action améliorent la portée et la puissance de feu de leur arme de service."
+ NCR_prewar_infantry_kit:0 "Capteurs de tenue réparées"
  NCR_prewar_infantry_kit_desc:0 "Through reverse engineering of working examples, NCRA technicians have managed to somewhat replicate the electrical systems for the infrared and night vision systems of the Riot Suppression Armour."
 
  #VEG
