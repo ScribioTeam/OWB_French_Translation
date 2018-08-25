@@ -1,0 +1,8 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "twitter_scribio"
+		texturefile = "gfx//interface//icon_twitter_scribio.dds"
+		noOfFrames = 1
+	}
+}
