@@ -81,75 +81,17 @@
  ncr-boswar.14.t:0 "Les négociations ont échoué"
  ncr-boswar.14.d:0 "Les négociations ont échoué avec la RNC. All-Good nous a envoyé un message à temps pour nous informer que le pire allait arriver. Les anciens demandent que nous faisions taire la RNC une fois pour toutes."
  ncr-boswar.14.a:0 "La RNC est responsable de sa propre destruction"
- 
+
+ #placeholder localisation begins 
  ncr-boswar.15.t:0 "Demander Helios One"
  ncr-boswar.15.d:0 "Avec l'effondrement de la diplomatie avec la Confrérie de l'Acier, nous devrions demander Helios One et la Route 95 à la Confrérie du Mojave ou les menacer de guerre !"
  ncr-boswar.15.a:0 "Envoyer les demandes"
- hooverdam.1.t:0 "Le Mur du vieux monde"
+ 
  ncr-boswar.16.t:0 "La RNC exige Helios One"
  ncr-boswar.16.d:0 "La RNC a l'audace de non seulement être en guerre avec la Confrérie, mais en plus ils exigent maintenant que nous leur livrons Hélios One et la Route 95, sinon ils nous menacent de guerre ! Devrions-nous céder à ces demandes ?"
  ncr-boswar.16.a:0 "Donnez-leur ce qu'ils veulent."
  ncr-boswar.16.b:0 "Ils devront le prendre de force !"
- hooverdam.1.d:0 "Les éclaireurs de la RNC ont identifié une vaste structure reliant le Mojave et le loitaint Colorado.Le 'Barrage Hoover' retient une grande quantité d'eau potable, et les occupants actuels ont prouvé que le barrage est une importante source potentielle d'électricité. Ce serait un grand avantage que nous prendrions sur nos rivaux en nous emparant de ce barrage."
- hooverdam.1.a:0 "Evincer les maraudeurs occupants le barrage."
- hooverdam.1.b:0 "Expulser la Confrérie!"
- hooverdam.1.c:0 "Nous sommes contacté par les sécuritrons de Mr.house afin de signer un traité."
- 
- hooverdam.2.t:0 "1ére bataille pour le barrage Hoover"
- hooverdam.2.d:0 "Nos forces sont arrivées sur les plages du Colorado, le barrage est à présent en vue. Le Légat Malpais a installé son camp sur la colline  opposée au barrage, et ses troupes se préparent déjà pour le combat à venir. Alors que le puissant Légat s'avance au centre se son camp, sa Légion toute entiére attend ses ordre avec impatience."
- hooverdam.2.a:0 "Nous allons attaquer faiblement, en espérant une contre attaque sur notre camp fortifié."
- hooverdam.2.b:0 "Nous allons lancer une attaque totale."
- hooverdam.2.c:0 "Ordonnez à nos troupes de foncer pour occuper le barrage."
- 
- hooverdam.3.t:0 "La Légion est victorieuse"
- hooverdam.3.d:0 "Les forces de la Légion ont capturé le barrage, et les troupes de la RNC sont en plein déroute.Le Légat Malpais nous pousse à continuer l'attaque, afin d'éradiquer les forces restantes de la RNC à Boulder City."
- hooverdam.3.a:0 "Encercler les forces de la RNC à Boulder City."
- hooverdam.3.b:0 "Notre objectif était le barrage, laissons la RNC se replier!"
- 
- hooverdam.4.t:0 "La RNC est victorieuse"
- hooverdam.4.d:0 "Nos forces ont héroïquement tenu le barrage, et la légion est clairement désorganisée. Bien que nous soyons déjà victorieux, le commandant Hanlon nous averti que la Légion n'a pas été stoppée pour autant. Il affirme que nous devrions pousser notre avantage, détruire leur armée, et nous préparer à la prochaine guerre en prenant Bonelli Landing."
- hooverdam.4.a:0 "Préparez les troupes, écrasons les!"
- hooverdam.4.b:0 "Mieux vaut fortifiez nos positions sur le barrage."
- 
- hooverdam.5.t:0 "La défense de Boulder City"
- hooverdam.5.d:0 "Aprés notre désastreuse défaite au barrage, nos forces se sont repliées à Boulder City. Le commandant Hanlon nous a proposé d'assigner une large partie de nos forces à une opération de distraction de l'armée ennemie afin de permettre à nos troupes d'élites de contourner la Légion et de la frapper dans le dos!"
- hooverdam.5.a:0 "Laisser un mince rideau défensif pour couvrir notre retraite."
- hooverdam.5.b:0 "Fortifions la ville et préparons nous à la tenir!"
- hooverdam.5.c:0 "Appliquons le plans de Hanlon!"
- 
- hooverdam.6.t:0 "La défense de Bonelli Landing"
- hooverdam.6.d:0 "A notre grande surprise, la RNC nous à vaincu au barrage, et tente à présent de pousser son avantage. César est furieux contre le Légat Malpais et craint à présent de perdre son accés vers le Mojave. Les Légions éparses doivent à présent être unifiées pour la défense de Bonelli Landing!"
- hooverdam.6.a:0 "Nous n'avons pas assez d'hommes, replions nous."
- hooverdam.6.b:0 "Demandons au Légat Malpais de commencer à se retrancher!"
- hooverdam.6.c:0 "Envoyons tout ce que nous avons, NO PASARAN!"
- 
- hooverdam.7.t:0 "La Légion a prise Boulder"
- hooverdam.7.d:0 "Les faibles forces restantes de la RNC ont été écrasées à Boulder City, à présent sous le controle de la Légion. Alors que le Légat Malpais est rentré triomphant, ces soldats sont restés à Boulder. César, selon certaines rumeurs, finaliserait déjà ses plans pour envahir le Mojave."
- 
- hooverdam.8.t:0 "La RNC contre attaque"
- hooverdam.8.d:0 "Notre défense à Boulder City fut un franc succés, et les restes épars de la Légion fuient comme ils le peuvent de l'autre coté du Colorado. Les soldats de la RNC ont reconquis le barrage Hoover ce matin, et l'ours à 2 têtes flotte à nouveau fiérement au dessus du Mojave ."
- 
- hooverdam.9.t:0 "La Légion contre attaque"
- hooverdam.9.d:0 "Nos Légions ont tenu Bonelli Landing avec courage, et les forces de la RNC ont été écrasées. A présent vainqueur, le Légat Malpais chasse les fuyards à travers le Mojave. Nos hommes ont reconquis le barrage Hoover, et enflammé, au sol, l'étandard de la NRC git, alors que le notre flotte à présent fiérement au dessus du barrage."
- 
- hooverdam.10.t:0 "La RNC a capturé Bonelli"
- hooverdam.10.d:0 "Aprés notre victoire au barrage, nos forces ont avancé vers Bonelli, espérant annihiler l'armée de César une fois pour toutes! Notre Général nous rapporte que l'opération fut un grand succés, et que les environs de Bonelli Landing sont à présent sous notre contrôle total."
- 
- hooverdam.11.t:0 "La 1ére bataille pour le barrage Hoover"
- hooverdam.11.d:0 "L'armée républicaine dans le Mojave est arrivée à la frontiére du territoire de la Légion. Le camp établis, les généraux commencent à penser leur stratégie pour prendre le barrage Hoover. Les hommes, fatigués par leur longue marche, ont obtenu une nuit de sommeil en prévision de la sanglante bataille pointant déjà à l'horizon."
- hooverdam.11.a:0 "Allons provoquer leurs forces, en espérant une imprudante contre-attaque."
- hooverdam.11.b:0 "Nous allons lancer une attaque totale."
- hooverdam.11.c:0 "Une horde de troupes sera envoyée sur le barrage."
- 
- hooverdam.12.t:0 "La RNC au barrage"
- hooverdam.12.d:0 "Les forces de la RNC sont arrivées au barrage où nos Sécuritrons les ont rencontré. La RNC semble vraiment vouloir mettre la main sur la barrage, il y a donc 2 issues potentielles à cette rencontre: soit nous obtenons une accord favorable pour la New Vegas Strip, soit nous allons droit vers une guerre pour le controle du barrage."
- hooverdam.12.a:0 "Négocier serait sans doutes plus prudent."
- hooverdam.12.b:0 "Nos Sécuritrons tiendront le barrage!"
- 
- hooverdam.13.t:0 "L'échec de la 2nd attaque"
- hooverdam.13.d:0 "Aprés que nos forces aient pris le dessus et mis en déroute nos ennemis au barrage Hoover, nous avons essayé d'écraser les réminiscences de de cette armée! Toutefois il s'agissait d'un piége, et nos hommes se sont retrouvés encerclés en territoire ennemi, ce qui a conduit à une humiliante défaite. Aprés ce désastre, nos ennemis sont libres de reprendre le barrage Hoover, sans parler de nos pertes catastrophiques."
- hooverdam.13.a:0 "César est furieux."
- hooverdam.13.b:0 "Hanlon doit être discipliné pour ce plan."
+ #placeholder localisation ends
  
  nf_ncr.1.t:0 "Les Héros de la République"
  nf_ncr.1.d:0 "Parmis toutes les figures historiques de la République, nombreuses sont celles représentantes les valeurs de notre Patrie. Toutefois, ne pouvant en choisir qu'une principale, quel héro devrions nous choisir de mettre en avant dans la propagande et l'éducation? Qui devrait apparaitre sur nos plus importantes billets, être mentionné dans nos discours, et se tenir fiérement au dessus de toutes les héroïques de la RNC? Nous pouvons choisir parmis ces 3 figures essentiels de la République;"
@@ -158,7 +100,6 @@
  nf_ncr.1.c:0 "Tandi, la Mére de la République."
  
  nf_ncr.2.t:0 "~La Colonisation du Baja~"
- nf_ncr.13.b:0 "All-Good Murphy devrait prendre le contrôle"
  nf_ncr.2.d:0 " En l'année de grace 2256, la colonie républicaine du Rattletail était établie dans la partie Nord du Baja par quelques colons volontaires. La RNC les a soutenu par l'envoie de fonds et de matériaux, mais sans superviseur ni protection militaire. Ce choix fut presque fatal pour ces nouveaux colons, forcés, afin de survivre, de s'emparer, par la force, des rares et uniques sources d'eau primaires de cette région, bien qu'ils ignoraient ce fait à ce moment.                                                                                                                                         Toutefois les locaux, privés d'eau par les colons, et désespérés, ont lancé une 2 escarmouches contre la petite colonie, toutefois ces attaques ont été facilement stoppé. Ce fut la sagesse et l'habilité d'un jeune ranger, nommé Hanlon, qui permis de mettre fin à cette dispute avant qu'elle ne se transforme en guerre totale. Ce jeune homme a crée un astucieux mensonge, sur l'attaque imminante par un grand groupe de riders, afin de faire partir les colons, et ainsi de permettre aux locaux de reprendre le controle de leurs sources d'eau. Evitant ainsi un plus grands conflit.                                                                                                                                            Malheureusement, ce mensonge eut un résultat inattendu. Il fit croire, aux locaux,que la RNC avait peur des raiders, des esclavagistes, et autres gens violents. Les autochtones du Baja eurent presque une décennie pour se préparer au retour de la RNC. Et adoptérent, en préparation, une culture violente et cruelle. Baja est à présent une base pour les Cartels Mexicains, il sera donc presque impossible de relancer la colonisation sans violence. La route vers la future est instable, et il n'y a que peu hommes dans la RNC ayant le potentiel de s'occuper de ce probléme. Qui voulez vous nommer pour prendre en main les affaires du Baja?"
  nf_ncr.2.a:0 "Le Ranger-Chef Hanlon, la main de fer."
  nf_ncr.2.b:0 "Héctor Santángel, le sympathisant local."
@@ -218,7 +159,7 @@
  nf_ncr.13.t:0 "Danger dans les urnes?"
  nf_ncr.13.d:0 "Les élections de la RNC semblent déjà ressembler à un désastre, et ce alors que notre pays n'a jamais été si divisé! Les tensions avec la Légion et la Communauté de l'Acier ont fait naitre un sentiment pacifiste important dans de nombreux Etats de la RNC, qui a endommagé la confiance envers le gouvernement central et l'armée. Les Barons des Brahmines, qui soutiennent le candidat Anton Flynn, cherchent regagner leur influence perdue dans la récente guerre des Barons. Dans le même temps, Allgood Murphy préche la paix contre le militariste expansioniste Aaron Kimball, allant même jusqu'a le menacer d'en appeller à la Communauté de l'Acier en cas de tout conflit potentiel. De plus, le charismatique Grant C. Hayes est en tête des sondages dans l'Etat de Dayglow, et ces alliés de l'ombre commencent à bouger dans toute la République. Il est fort possible que les élections finissent sans majorité! Un cauchemard aux yeux de beaucoup. La République survivra-t-elle? "
  nf_ncr.13.a:0 "Les Barons devraient prendre le controle!"
- nf_ncr.13.a:0 "Allgood Murphy devrait prendre le controle!"
+ nf_ncr.13.b:0 "All-Good Murphy devrait prendre le contrôle"
  nf_ncr.13.c:0 "Notre future est dans l'enclave!"
  nf_ncr.13.e:0 "Le Général Drummond devrait s'emparer de la République"
  nf_ncr.13.f:0 "Kimball est la seule voie"
@@ -279,6 +220,38 @@
  nf_ncr.29.d:0 "Les élections de la RNC se sont finis dans une impasse, aucun candidat n'ayant obtenu une majorité suffisante de grands électeurs. En temps normal des négociations et désistements entre candidats réglerait le problème, toutefois les choses ont pris une tournure tragique lorsque Grant.C Hayes a revendiqué la victoire et a appellé l'Enclave à ses côtés. Dans le même temps la région de Dayglow a rejoint son camp et s'est proclamée héritiére de la République. En ce moment même, ses forces, composées de soldats de l'Enclave à la technologie avancée, ou de membres de la RNC, avancent.                                                                                          Dans une tentative de le contrer Aaron Kimball c'est déclaré Président de-facto de la RNC. Il est, dans ceci, supporté unanimement par les Barons et l'armée. Toutefois, cette action lui a aliéné les habitants de Boneyard, qui crient au coup d'état militaire contre la République. Outragé par la situation, et voulant à tout prix évité d'être pris en sandwich dans une guerre entre Kimball et Hayer, Allgood Murphy et ses alliés ont déclaré l'indépendance du Boneyard, rejointe par la majorité des communautés l'entourant. Aaron Kimball a, logiquement, déclaré Allgood et ceux le suivant "ennemis de la République" et a demandé leur arrestation. Et ce alors que Hayes se prépare à écraser et Allgood et Kimball à l'aide de son impressionnante armée.                                                                                                                                                          Allgood Murphy n'est pas le seul à être inquiété contre Aaron Kimball et son régime militaire. Anton Flynn, souhaitant défendre les intérêts des Barons, pense que personne n'est capable de militairement s'opposer aux forces de Hayes. Et, même en ces heures graves, il recherche le dialogue avec cette homme, espérant la garantie du maintient du monopole de l'élevage de Brahimes pour les Barons en échange de son ralliement."
  nf_ncr.29.a:0 "Nous nous battrons pour la République!"
  
+ ncr_helios_event.21.t:0 "La Communauté s'empare de Helios One"
+ ncr_helios_event.21.d:0 "Notre stupide tentative d'utiliser des techniciens de la Confrérie dans la restauration de la centrale électrique d'Helios One nous a couté cher. En effet, ceux ci on ouvert les portes aux troupes de la Communauté qui occupent à présent Helios One de nouveau. De nombreux généraux, et les membres les plus belliqueux de la République, en appellent à une offensive de large envergure avec pour objectif d'annihiler le Chapitre du Mojave. Toutefois certains pensent que cette opération serait inutile car ils doutent que la station de Helios One puisse être, quoi qu'il arrive, restaurée. Que devrions nous faire?"
+ ncr_helios_event.21.a:0 "Nous avons perdu face à la Confrérie!"
+ ncr_helios_event.21.b:0 "L'Ours va se réveiller!"
+ 
+ ncr_helios_event.22.t:0 "La Communauté respecte l'accord"
+ ncr_helios_event.22.d:0 "Notre sage tentative d'utilision des techniciens de la Confrérie dans la restauration de la centrale électrique d'Helios One fut un succés et nous permis d'améliorer nos relations avec la Confrérie. Certains membres de la République, parmis les plus libéraux, espérent même pouvoir établir des relations diplomatiques permannntes avec la Confrérie."
+ ncr_helios_event.22.a:0 "Je pense que c'est le début d'une grande amitié..."
+ ncr_helios_event.22.b:0 "Le réveil de l'Ours"
+ 
+ ncr_helios_event.23.t:0 "Nous avons repris Helios one!"
+ ncr_helios_event.23.d:0 "Nos Paladins et nos Chevaliers nous ont signalé la capture d'Helios One lors d'une opération éclaire contre la RNC."
+ ncr_helios_event.23.a:0 "Ad Victoriam !"
+ 
+ ncr_civil_war_starts:0 "§R Le début de la guerre civile §!"
+ NCR_civil_war_fires: "§R La RNC s'est séparée est plusieurs factions se battant pour obtenir le pouvoir §!"
+ NCR_civil_war_fires_switch_to_enclave: "§R La RNC s'est dissoute face troubles civils et militaires, en tant qu'Enclave vous devez vous élever de ces cendres §!"
+ load_seabear: "§YA Destroyer nommé "The Seabear" apparait à Dayglow §!"
+ load_gammacore: "§Y De l'infanterie d'élite apparait à votre capitale §!"
+ load_ncrheavytroops: "§Y Apparation de 2 unités équipées d'armure assistée à Shady Sands §!"
+ drummund: "Choisir Drummand"
+ baronschoice: "Choisir Big Jim"
+ rangergeneral: "Choisir Ranger Mossman"
+ bajaharlon: "Choisir Hanlon"
+ bajahector: "Choisir Hector"
+ bajahayes: "Choisir Hayes"
+ buyout: "Choisir Flynn"
+ diplomission: "Choisir Allgood"
+ exodus: "Intervenir militairement"
+ repair_helios_vegas_tt: "Cette option enverra de l'électricité dans tout le Mojave, donnant ainsi à la RNC un bonus de relation avec toutes les nations encores vivantes du Mojave, s'il en reste."
+ NCR_coup_tt: "§R La confrérie pourrait reprendre Helios One §!"
+ 
  nf_ncr.30.t:0 "Les territoires occupés demandent l'indépendance"
  nf_ncr.30.d:0 "Il n'y a pas si longtemps, notre base d'opérations avancée au sein de la Légion a reçu un télégramme demandant qu'un diplomate soit envoyé à Red Sun City. Quand ce diplomate est arrivé, il a été amené dans une salle de conférence impromptue, où des délégués de nombreuses communautés l'ont attendu. Il a passé des heures avec ces gens avant de revenir vers nous, et son rapport le dit très clairemen t: ils veulent la liberté.\n\nBeaucoup de ces nations naissantes ont été reconnues par la RNC. Les agences de propagande embauchées par notre gouvernement ont, à un moment ou à un autre, diffusé au moins une affiche sur la ville de Phoenix ou écrit un article sur le peuple Jicarilla. Bien que laisser le territoire inoccupé puisse causer des problèmes, \"revenir sur notre parole\" pourrait en causer encore plus. Que devrions-nous faire ?"
  nf_ncr.30.a:0 "Nous allons rappeler nos troupes maintenant que la Légion est partie"
@@ -290,6 +263,8 @@
  nf_ncr.31.b:0 "Je suis le Phoenix !"
  NCR_revolt_play_hangdogs_later:0 "Si vous le souhaitez, vous pouvez jouer les Hangdogs plus tard."
  NCR_revolt_PHR_tagswitch:0 "Votre tag sera changé pour vous permettre de jouer en tant que République de Phoenix"
+
+ #32 is ignored as it is a hidden event to set things up.
  
  nf_ncr.33.t:0 "Arizona du Nord avec les rebelles"
  nf_ncr.33.d:0 "Peu après que les nouvelles de la rébellion armée de la République Phoenix eurent commencé à se répandre, de nombreuses forces ont commencé à affluer vers leur bannière. Deux tribus, dont l'une est dirigée par un ancien commandant de la Légion et un ennemi de la RNC, et un groupe de grands éleveurs opérant dans le nord du Mexique et autrefois soumis à la Légion.\n\nBien que cela ne soit pas particulièrement dangereux, ajouter du carburant au feu n'est jamais une bonne chose et nos ennemis ayant plus de soldats à leur disposition sont la dernière chose dont nous avons besoin. Notre armée commence à réagir à la menace, mais les forces de la République ont commencé à prioriser la capture de lieux clés. Ce sera pire que la guerre des Barons à tous égards."
@@ -355,35 +330,6 @@
  
  ncr_tribe_rebellion_news.6.t:0 "Pics de troubles à mesure que l'occupation s'effondre"
  ncr_tribe_rebellion_news.6.d:0 "Voici Radio New Vegas et je suis votre hôte, M. New Vegas. Et si vous vous demandez si vous êtes au bon endroit, vous l'êtes. J'ai des nouvelles pour vous. L'occupation de la région des trois États par la RNC s'est effondrée aujourd'hui alors que le centre de commerce le plus puissant du Legion, la République du Soleil Rouge, a déclaré son soutien à la rébellion. Aux côtés de nombreux nouveaux arrivants, la République a lancé un assaut sur de nombreuses garnisons de la RNC dans la région, faisant de nombreuses victimes. Slim, le président de la République et ancien maire de Red Sun City, était tristement célèbre au sein de la Légion pour s'être opposé avec succès à leurs tentatives d'asservir une partie de la population de la ville. C'est la nouvelle. C'est M. New Vegas, remplaçant M. New Vegas. Je vais jouer une chanson pour vous en ce moment, et c'est à propos de cette personne spéciale que vous ne trouvez qu'une fois dans une Blue Moon."
+
  
- ncr_helios_event.21.t:0 "La Communauté s'empare de Helios One"
- ncr_helios_event.21.d:0 "Notre stupide tentative d'utiliser des techniciens de la Confrérie dans la restauration de la centrale électrique d'Helios One nous a couté cher. En effet, ceux ci on ouvert les portes aux troupes de la Communauté qui occupent à présent Helios One de nouveau. De nombreux généraux, et les membres les plus belliqueux de la République, en appellent à une offensive de large envergure avec pour objectif d'annihiler le Chapitre du Mojave. Toutefois certains pensent que cette opération serait inutile car ils doutent que la station de Helios One puisse être, quoi qu'il arrive, restaurée. Que devrions nous faire?"
- ncr_helios_event.21.a:0 "Nous avons perdu face à la Confrérie!"
- ncr_helios_event.21.b:0 "L'Ours va se réveiller!"
- ncr_helios_event.22.t:0 "La Communauté respecte l'accord"
- ncr_helios_event.22.d:0 "Notre sage tentative d'utilision des techniciens de la Confrérie dans la restauration de la centrale électrique d'Helios One fut un succés et nous permis d'améliorer nos relations avec la Confrérie. Certains membres de la République, parmis les plus libéraux, espérent même pouvoir établir des relations diplomatiques permannntes avec la Confrérie."
- ncr_helios_event.22.a:0 "Je pense que c'est le début d'une grande amitié..."
- ncr_helios_event.22.b:0 "Le réveil de l'Ours"
- ncr_helios_event.23.t:0 "Nous avons repris Helios one!"
- ncr_helios_event.23.d:0 "Nos Paladins et nos Chevaliers nous ont signalé la capture d'Helios One lors d'une opération éclaire contre la RNC."
- ncr_helios_event.23.a:0 "Ad Victoriam !"
- 
- 
- ncr_civil_war_starts:0 "§R Le début de la guerre civile §!"
- NCR_civil_war_fires: "§R La RNC s'est séparée est plusieurs factions se battant pour obtenir le pouvoir §!"
- NCR_civil_war_fires_switch_to_enclave: "§R La RNC s'est dissoute face troubles civils et militaires, en tant qu'Enclave vous devez vous élever de ces cendres §!"
- load_seabear: "§YA Destroyer nommé "The Seabear" apparait à Dayglow §!"
- load_gammacore: "§Y De l'infanterie d'élite apparait à votre capitale §!"
- load_ncrheavytroops: "§Y Apparation de 2 unités équipées d'armure assistée à Shady Sands §!"
- drummund: "Choisir Drummand"
- baronschoice: "Choisir Big Jim"
- rangergeneral: "Choisir Ranger Mossman"
- bajaharlon: "Choisir Hanlon"
- bajahector: "Choisir Hector"
- bajahayes: "Choisir Hayes"
- buyout: "Choisir Flynn"
- diplomission: "Choisir Allgood"
- exodus: "Intervenir militairement"
- repair_helios_vegas_tt: "Cette option enverra de l'électricité dans tout le Mojave, donnant ainsi à la RNC un bonus de relation avec toutes les nations encores vivantes du Mojave, s'il en reste."
- NCR_coup_tt: "§R La confrérie pourrait reprendre Helios One §!"
  
