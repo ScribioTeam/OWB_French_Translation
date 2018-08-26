@@ -1,0 +1,104 @@
+﻿# Division template historical names system. Is a new method of naming the divisions based on the names-group assigned to it's template.
+# If we run out of all historical names, the names will be assigned in the old way.
+#
+# Each group has a made up tag. Use it if you want to append more, or replace existing names with the extra txt files (modding).
+#
+# for_countries - lists all countries that can use it. If empty, or entire tag is missing, all countries in the world can use it.
+#
+# can_use - is a trigger that locks/unlocks the group under specific circumstances. The trigger is in a country scope.
+#
+# division_types - is a list of tokens to corresponding unit types. A player can in fact use any group of names for a div.template
+#                  however this tag is a helper for an automated choice (for AI, or if the group must switch on it's own, because
+#                  for example the current one is no longer available due to the can_use trigger saying so).
+#                  In automated choice, the division template must have at least 1 of the following types for it to be chosen.
+#
+# fallback_name - Is going to be used if we run out of the scripted historical names. If you want to use the old division naming
+#                 mechanics to be used for fallbacks, then just skip this option.
+#
+# unordered - It's a list of historical division names that did not have a number. Regardless if such names happened in history or not
+#             this option is available here mainly for a mods.
+#
+# ordered - Is a list of all historical names. 
+#           Numbers must start from 1 and up. 
+#           Numbers can't repeat in one scope.
+#           If you script the name for this group, at the same number (for example in a mod in another file), the name will be override.
+#           All arguments between the brackets must be separated by spaces. Each argument is wrapped in "quotas".
+#           1st argument = The name. It must contain either: 
+#                          %d (for decimal number placement)
+#                          %s (for string number placement - ROMAN numbers like XIV).
+#           2nd argument is optional = A localizable text describing this historical division. The text will be visible in the tooltip
+#                                      where you choose the historical division name.
+#           3rd argument is optional = An URL preferably pointing to the WIKI. It's a future feature that is not currently working in
+#                                      the current game version.
+
+Power_ARMOR_01 = {
+	name = "Power Armor Division"
+
+	for_countries = { }
+
+	can_use = { always = yes }
+
+	division_types = { "infantry" }
+
+	# Number reservation system will tie to another group.
+	#link_numbering_with = { EGY_GAR_01 }
+
+	fallback_name = "Power Armor Division"
+
+	# Names with numbers (only one number per entry). 
+	# It's okay to have gaps in numbering.
+	ordered = {
+		1 = { "%d. Metal Men" }
+		2 = { "%d. Titanium Terrors" }
+		3 = { "%d. Former Paladins" }
+		4 = { "%d. Brotherhood Rejects" }
+		5 = { "%d. Army Ghouls" }
+		6 = { "%d. Self Taught Soldiers" }
+		7 = { "%d. Magnesium Marauders" }
+		8 = { "%d. Rusty Raiders" }
+		9 = { "%d. Experimental Core" }
+		10 = { "%d. Reject Knights" }
+		11 = { "%d. Enclave Turncoats" }
+		12 = { "%d. Ceramic Crusaders" }
+		13 = { "%d. Steel Soldiers" }
+		14 = { "%d. Technological Titans" }
+		15 = { "%d. Bunker Badasses" }
+		16 = { "%d. Unofficial Paladins " }
+		17 = { "%d. Powered Scavvers" }
+		18 = { "%d. Ceramic Psychos" }
+		19 = { "%d. Badass Brothers" }
+		20 = { "%d. Mechanical Monsters" }
+		21 = { "%d. Fusion Fusiliers" }
+		22 = { "%d. Steel Stealers" }
+		23 = { "%d. Bronze Battalion" }
+		24 = { "%d. Titanium Traitors" }
+		25 = { "%d. Bronze Badasses" }
+		26 = { "%d. Armored Annihilators" }
+		27 = { "%d. Power Platton" }
+		28 = { "%d. The Bunker Guard" }
+		29 = { "%d. Bunker Betrayers" }
+		30 = { "%d. Hidden Valley Heretics" }
+		31 = { "%d. Smart Scavvers" }
+		32 = { "%d. Hury-Rigged Rail Raiders" }
+		33 = { "%d. Uranium Unit" }
+		34 = { "%d. Radiometal Suitors" }
+		35 = { "%d. Fusion Core Fighters" }
+		36 = { "%d. The Failed Scribes" }
+		37 = { "%d. Metal Core" }
+		38 = { "%d. The Ruined" }
+		39 = { "%d. Radium Raiders" }
+		40 = { "%d. Warriors of the Future" }
+		41 = { "%d. Metal Mutants " }
+		42 = { "%d. Nuclear Knights" }
+		43 = { "%d. Badass Boys" }
+		44 = { "%d. The Fusion Core" }
+		45 = { "%d. Lead Lancers" }
+		46 = { "%d. Metal Marines" }
+		47 = { "%d. Canned Combatants" }
+		48 = { "%d. Powered Punks" }
+		49 = { "%d. Plated Posers" }
+		50 = { "%d. Tread less Tanks" }
+		51 = { "%d. Kopper Killerz" }
+		52 = { "%d. Maxon Men" }
+	}
+}
