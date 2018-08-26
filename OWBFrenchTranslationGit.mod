@@ -1,5 +1,8 @@
 ﻿name="OWB French Translation Git"
 path="mod/OWBFrenchTranslationGit/"
+dependencies={
+	"Old World Blues"
+}
 tags={
 	"Translation"
 }
