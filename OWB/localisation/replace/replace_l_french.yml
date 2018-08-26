@@ -2,94 +2,198 @@
  infantry_equipment:0 "Équipement d'infanterie"
  infantry_equipment_short:0 "Équipement d'infanterie"
  infantry_equipment_desc:0 ""
+ 
+ # Infantry Equipment
  infantry_equipment_1:0 "Pistolets"
  infantry_equipment_1_short:0 "Pistolets"
  infantry_equipment_1_desc:0 ""
+ 
+ # Support Equipment
  support_equipment_1:0 "Équipement de soutien"
  support_equipment_1_desc:0 ""
+ 
  fighter_equipment_1:0 "Chasseur de ferraille"
  fighter_equipment_1_short:0 "Chasseur de ferraille"
  fighter_equipment_1_desc:0 ""
+ 
  fighter_equipment_2:0 "Chasseur sauvé"
  fighter_equipment_2_short:0 "Chasseur sauvé"
  fighter_equipment_2_desc:0 ""
+ 
  fighter_equipment_3:0 "Chasseur nucléaire récupéré"
  fighter_equipment_3_short:0 "Chasseur nucléaire récupéré"
  fighter_equipment_3_desc:0 ""
+ 
+ # Destroyer
  destroyer_equipment:0 "Équipement de Destroyer"
  destroyer_equipment_short:0 "Équipement de Destroyer"
  destroyer_equipment_desc:0 ""
+ 
  destroyer_equipment_1:0 "Canoë Outrigger I"
  destroyer_equipment_1_short:0 "Canoë Outrigger I"
  destroyer_equipment_1_desc:0 ""
+ 
  destroyer_equipment_2:0 "Canoë Outrigger II"
  destroyer_equipment_2_short:0 "Canoë Outrigger II"
  destroyer_equipment_2_desc:0 ""
+ 
  destroyer_equipment_3:0 "Bateau de secours I"
  destroyer_equipment_3_short:0 "Bateau de secours I"
  destroyer_equipment_3_desc:0 ""
+ 
  destroyer_equipment_4:0 "Bateau de secours II"
  destroyer_equipment_4_short:0 "Bateau de secours II"
  destroyer_equipment_4_desc:0 ""
+ 
  destroyer_equipment_5:0 "Artisanat Armé I"
  destroyer_equipment_5_short:0 "Artisanat Armé I"
  destroyer_equipment_5_desc:0 ""
+ 
  destroyer_equipment_6:0 "Artisanat Armé II"
  destroyer_equipment_6_short:0 "Artisanat Armé II"
  destroyer_equipment_6_desc:0 ""
+ 
+ # Light Cruiser
  light_cruiser_equipment:0 "Équipement de croiseur léger"
  light_cruiser_equipment_short:0 "Équipement de croiseur léger"
  light_cruiser_equipment_desc:0 ""
+ 
  light_cruiser_equipment_1:0 "Navire à voile I"
  light_cruiser_equipment_1_short:0 "Navire à voile I"
  light_cruiser_equipment_1_desc:0 ""
+ 
  light_cruiser_equipment_2:0 "Navire à voile II"
  light_cruiser_equipment_2_short:0 "Navire à voiles II"
  light_cruiser_equipment_2_desc:0 ""
+ 
  light_cruiser_equipment_3:0 "Remorqueur armé I"
  light_cruiser_equipment_3_short:0 "Remorqueur armé I"
  light_cruiser_equipment_3_desc:0 ""
+ 
  light_cruiser_equipment_4:0 "Remorqueur armé II"
  light_cruiser_equipment_4_short:0 "Remorqueur armé II"
  light_cruiser_equipment_4_desc:0 ""
+ 
  light_cruiser_equipment_5:0 "Navire de patrouille I"
  light_cruiser_equipment_5_short:0 "Navire de patrouille I"
  light_cruiser_equipment_5_desc:0 ""
+ 
  light_cruiser_equipment_6:0 "Navire de patrouille II"
  light_cruiser_equipment_6_short:0 "Navire de patrouille II"
  light_cruiser_equipment_6_desc:0 ""
+ 
+ # Heavy Cruiser
  heavy_cruiser_equipment:0 "Équipement de croiseur lourd"
  heavy_cruiser_equipment_short:0 "Équipement de croiseur lourd"
+ heavy_cruiser_equipment_desc: ""
+ 
  heavy_cruiser_equipment_1:0 "Péniche I"
  heavy_cruiser_equipment_1_short:0 "Péniche I"
+ heavy_cruiser_equipment_1_desc: ""
+ 
  heavy_cruiser_equipment_2:0 "Péniche II"
  heavy_cruiser_equipment_2_short:0 "Péniche II"
+ heavy_cruiser_equipment_2_desc: ""
+ 
  heavy_cruiser_equipment_3:0 "Rame à vapeur I"
  heavy_cruiser_equipment_3_short:0 "Rame à vapeur I"
+ heavy_cruiser_equipment_3_desc: ""
+ 
  heavy_cruiser_equipment_4:0 "Rame à vapeur II"
  heavy_cruiser_equipment_4_short:0 "Rame à vapeur II"
+ heavy_cruiser_equipment_4_desc: ""
+ 
  heavy_cruiser_equipment_5:0 "Destroyer I"
  heavy_cruiser_equipment_5_short:0 "Destroyer I"
+ heavy_cruiser_equipment_5_desc: ""
+ 
  heavy_cruiser_equipment_6:0 "Destroyer II"
  heavy_cruiser_equipment_6_short:0 "Destroyer II"
+ heavy_cruiser_equipment_6_desc: ""
+ 
+ # Carrier
  carrier_equipment:0 "Équipement de navire de transport"
  carrier_equipment_short:0 "Équipement de transport"
+ carrier_equipment_desc: ""
+ 
  carrier_equipment_1:0 "Porte-hydravion vapeur"
  carrier_equipment_1_short:0 "Porte-hydravion vapeur"
+ carrier_equipment_1_desc: ""
+ 
  carrier_equipment_2:0 "Destructeur d'hydravions"
  carrier_equipment_2_short:0 "Destructeur d'hydravions"
+ carrier_equipment_2_desc: ""
+ 
+ # Battleships
  battleship_equipment:0 "Équipement de cuirassé"
  battleship_equipment_short:0 "Équipement de cuirassé"
+ battleship_equipment_desc: ""
+ 
  battleship_equipment_1:0 "Péniche super-lourde"
  battleship_equipment_1_short:0 "Péniche super-lourde"
+ battleship_equipment_1_desc: ""
+ 
  battleship_equipment_2:0 "Rame à vapeur super-lourd"
  battleship_equipment_2_short:0 "Rame à vapeur super-lourd"
+ battleship_equipment_2_desc: ""
+ 
  battleship_equipment_3:0 "Destroyer super-lourd"
  battleship_equipment_3_short:0 "Destroyer super-lourd"
+ battleship_equipment_3_desc: ""
+
+ # Superheavy Battleships
+ superheavy_battleship_equipment_1: ""
+ superheavy_battleship_equipment_1_short: ""
+ superheavy_battleship_equipment_1_desc: ""
+
+ superheavy_battleship_equipment_2: ""
+ superheavy_battleship_equipment_2_short: ""
+ superheavy_battleship_equipment_2_desc: ""
+
+ # Battle Cruisers
+ battle_cruiser_equipment: ""
+ battle_cruiser_equipment_short: ""
+ battle_cruiser_equipment_desc: ""
+
+ battle_cruiser_equipment_1: ""
+ battle_cruiser_equipment_1_short: ""
+ battle_cruiser_equipment_1_desc: ""
+
+ battle_cruiser_equipment_2: ""
+ battle_cruiser_equipment_2_short: ""
+ battle_cruiser_equipment_2_desc: ""
+
+ # Submarines
+ submarine_equipment: ""
+ submarine_equipment_short: ""
+ submarine_equipment_desc: ""
+
+ submarine_equipment_1: ""
+ submarine_equipment_1_short: ""
+ submarine_equipment_1_desc: ""
+
+ submarine_equipment_2: ""
+ submarine_equipment_2_short: ""
+ submarine_equipment_2_desc: ""
+
+ submarine_equipment_3: ""
+ submarine_equipment_3_short: ""
+ submarine_equipment_3_desc: ""
+
+ submarine_equipment_4: ""
+ submarine_equipment_4_short: ""
+ submarine_equipment_4_desc: ""
+ 
+ # Convoy
  convoy_equipment:0 "Équipement de convoi"
  convoy_equipment_short:0 "Équipement de convoi"
+ convoy_equipment_desc: ""
+ 
  convoy_equipment_1:0 "Convois"
  convoy_equipment_1_short:0 "Convois"
+ convoy_equipment_1_desc: ""
+ 
+ # States
  STATE_743:0 "New Vegas"
  STATE_744:0 "Goodsprings & Primm"
  STATE_745:0 "Hidden Valley"
