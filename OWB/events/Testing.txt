@@ -154,7 +154,7 @@ country_event = {
 		ROOT = {
 			capital_scope = {
 				create_unit = {
-					division = "name = \"Personal Bodyguard\" division_template = \"NCR Troopers\" start_experience_factor = 0.6"
+					division = "name = \"Personal Bodyguard\" division_template = \"Soldats NRC\" start_experience_factor = 0.6"
 					owner = NCR
 				}
 			}

@@ -3906,7 +3906,7 @@ set_NCR_factions_technology_on_civil_war = {
 }
 
 remove_generic_NCR_templates = {
-	delete_unit_template_and_units = { division_template = "NCR Troopers" }
-	delete_unit_template_and_units = { division_template = "NCR Rangers" }
+	delete_unit_template_and_units = { division_template = "Soldats RNC" }
+	delete_unit_template_and_units = { division_template = "Rangers RNC" }
 	delete_unit_template_and_units = { division_template = "NCR Heavy Trooper" }
 }

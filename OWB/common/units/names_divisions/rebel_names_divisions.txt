@@ -33,7 +33,7 @@
 
 REBEL_INF_01 = 
 {
-	name = "Rebel Fighters"
+	name = "Combattants de rebel"
 
 	for_countries = { }
 
@@ -44,27 +44,27 @@ REBEL_INF_01 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { EGY_GAR_01 }
 
-	fallback_name = "Rebel Fighters"
+	fallback_name = "Combattants de rebel"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d. The Old Guards" }
-		2 = { "%d. Mobilised Police" }
-		3 = { "%d. Armed Survivalists" }
-		4 = { "%d. Former Soldiers" }
-		5 = { "%d. Local Patriots" }
-		6 = { "%d. Homegrown Militia" }
-		7 = { "%d. Desperate Wastelanders" }
-		8 = { "%d. Displaced Civilians" }
-		9 = { "%d. Opportunistic Prospectors" }
-		10 = { "%d. Unlikely Heroes" }
-		11 = { "%d. Reformed Raiders" }
-		12 = { "%d. Roaming Slavers" }
-		13 = { "%d. Hired Guns" }
-		14 = { "%d. 'Blackhawk' Partisans" }
-		15 = { "%d. Wasteland Rabble" }
+		1 = { "%d. Les Vieux Gardes" }
+		2 = { "%d. Police Mobilisée" }
+		3 = { "%d. Survivants Armés" }
+		4 = { "%d. Anciens Soldats" }
+		5 = { "%d. Partiotes Locaux" }
+		6 = { "%d. Milice Locale" }
+		7 = { "%d. Habitants Desespérés des Terres Désolées" }
+		8 = { "%d. Civils Déplacés" }
+		9 = { "%d. Prospecteurs Opportunistes" }
+		10 = { "%d. Héros Mal Aimés" }
+		11 = { "%d. Pillards Repentis" }
+		12 = { "%d. Esclaves Itinérants" }
+		13 = { "%d. Loueurs d'Armes" }
+		14 = { "%d. Partisans de 'Blackhawk'" }
+		15 = { "%d. Racaille des Terres Désolées" }
 		16 = { "%d. Bandit Guerrillas " }
 		17 = { "%d. Brahmin rustlers" }
 		18 = { "%d. Flustered Farmers" }
@@ -143,7 +143,7 @@ REBEL_INF_01 =
 
 REBEL_INF_02 = 
 {
-	name = "Primary Reserve"
+	name = "Réserve primaire"
 
 	for_countries = { }
 
@@ -154,29 +154,29 @@ REBEL_INF_02 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { EGY_GAR_01 }
 
-	fallback_name = "Rebel Fighters"
+	fallback_name = "Combattants de rebel"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d. Homeguards" }
-		2 = { "%d. Guardsmen" }
-		3 = { "%d. Armed Civilians" }
-		4 = { "%d. 1st Minutemen" }
-		5 = { "%d. 12th Minutemen" }
-		6 = { "%d. Homegrown Militia" }
-		7 = { "%d. Desperate Wastelanders" }
-		8 = { "%d. Displaced Civilians" }
-		9 = { "%d. Opportunistic Prospectors" }
-		10 = { "%d. Unlikely Allies" }
-		11 = { "%d. Emergent Defenders"}
+		1 = { "%d. Gardes du foyer" }
+		2 = { "%d. Gardes" }
+		3 = { "%d. Civils Armés" }
+		4 = { "%d. 1er Minutemen" }
+		5 = { "%d. 12e Minutemen" }
+		6 = { "%d. Milice Locale" }
+		7 = { "%d. Habitants Desespérés des Terres Désolées" }
+		8 = { "%d. Civils Déplacés" }
+		9 = { "%d. Prospecteurs Opportunistes" }
+		10 = { "%d. Alliés Mal Aimés" }
+		11 = { "%d. Défenseurs Émergents"}
 	}
 }
 
 REBEL_INF_03 = 
 {
-	name = "Ranger Reserve"
+	name = "Réserve de rangers"
 
 	for_countries = { }
 
@@ -187,31 +187,31 @@ REBEL_INF_03 =
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { EGY_GAR_01 }
 
-	fallback_name = "Rebel Fighters"
+	fallback_name = "Combattants de rebel"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
-		1 = { "%d. Ranger Survivalists" }
-		2 = { "%d. Ranger Police" }
-		3 = { "%d. Mariners" }
-		4 = { "%d. Highborne" }
-		5 = { "%d. The Patriots" }
-		6 = { "%d. Homegrown Rangers" }
-		7 = { "%d. Majors Bodyguard" }
-		8 = { "%d. 1st CPRG" }
+		1 = { "%d. Rangers Survivants" }
+		2 = { "%d. Rangers de  Police" }
+		3 = { "%d. Marins" }
+		4 = { "%d. Nobles" }
+		5 = { "%d. Les Patriotes" }
+		6 = { "%d. Rangers Locaux" }
+		7 = { "%d. Gardes du Corps" }
+		8 = { "%d. 1er CPRG" }
 		9 = { "%d. 2nd CPRG" }
-		10 = { "%d. 3rd CPRG" }
-		11 = { "%d. 4th CPRG" }
-		12 = { "%d. 5th CPRG" }
+		10 = { "%d. 3e CPRG" }
+		11 = { "%d. 4e CPRG" }
+		12 = { "%d. 5e CPRG" }
 	}
 }
 
 
 REBEL_MOT_01 = 
 {
-	name = "Motorised Divisions"
+	name = "Divisions motorisées"
 
 	for_countries = { }
 
@@ -222,27 +222,27 @@ REBEL_MOT_01 =
 	# Number reservation system will tie to another group.
 	link_numbering_with = { REBEL_INF_01 }
 
-	fallback_name = "Rebel Motorized"
+	fallback_name = "Division motorisée"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered =
 	{
 		1 = { "%d. Mordred’s Mongols" }
-		2 = { "%d. Dune Runner Renegades" }
-		3 = { "%d. Oil Wasters" }
-		4 = { "%d. Raging Racers" }
-		5 = { "%d. War Boys" }
-		6 = { "%d. Car Killers" }
-		7 = { "%d. The Red Screechers" }
-		8 = { "%d. Diesel Destroyers" }
-		9 = { "%d. Roaring Dust" }
-		10 = { "%d. Speed Freakz" }
-		11 = { "%d. Motor Mongoloids" }
-		12 = { "%d. Tenders of the Tankers" }
-		13 = { "%d. The Automat Crew" }
-		14 = { "%d. Painkillers" }
-		15 = { "%d. Greasewheelers" }
+		2 = { "%d. Rénégats de Dune Runner" }
+		3 = { "%d. Déchets de Pétrole" }
+		4 = { "%d. Coureurs en Détresses" }
+		5 = { "%d. Garçons de Guerre" }
+		6 = { "%d. Tueurs de Véhicules" }
+		7 = { "%d. Huleurs Rouges" }
+		8 = { "%d. Destructeurs de Diesel" }
+		9 = { "%d. Poussières Rugissantes" }
+		10 = { "%d. Fanatiques de Vitesses" }
+		11 = { "%d. Moteurs Mongoloids" }
+		12 = { "%d. Soumissions de Tankistes" }
+		13 = { "%d. Équipages d'Automates" }
+		14 = { "%d. Analgésiques" }
+		15 = { "%d. Roues de Graissage" }
 		16 = { "%d. Mad Maxine's Militia" }
 		17 = { "%d. Rust Riders" }
 		18 = { "%d. Rigid Rustbuckets" }

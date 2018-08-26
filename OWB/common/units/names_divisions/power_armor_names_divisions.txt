@@ -32,7 +32,7 @@
 #                                      the current game version.
 
 Power_ARMOR_01 = {
-	name = "Power Armor Division"
+	name = "Division d'Armure Assistée"
 
 	for_countries = { }
 
@@ -43,25 +43,25 @@ Power_ARMOR_01 = {
 	# Number reservation system will tie to another group.
 	#link_numbering_with = { EGY_GAR_01 }
 
-	fallback_name = "Power Armor Division"
+	fallback_name = "Division d'Armure Assistée"
 
 	# Names with numbers (only one number per entry). 
 	# It's okay to have gaps in numbering.
 	ordered = {
-		1 = { "%d. Metal Men" }
-		2 = { "%d. Titanium Terrors" }
-		3 = { "%d. Former Paladins" }
-		4 = { "%d. Brotherhood Rejects" }
-		5 = { "%d. Army Ghouls" }
-		6 = { "%d. Self Taught Soldiers" }
-		7 = { "%d. Magnesium Marauders" }
-		8 = { "%d. Rusty Raiders" }
-		9 = { "%d. Experimental Core" }
-		10 = { "%d. Reject Knights" }
-		11 = { "%d. Enclave Turncoats" }
-		12 = { "%d. Ceramic Crusaders" }
-		13 = { "%d. Steel Soldiers" }
-		14 = { "%d. Technological Titans" }
+		1 = { "%d. Hommes Métaux" }
+		2 = { "%d. Terreurs de Titane" }
+		3 = { "%d. Anciens Paladins" }
+		4 = { "%d. Anti-Confrérie" }
+		5 = { "%d. Armée de Ghouls" }
+		6 = { "%d. Soldats Autodidactes" }
+		7 = { "%d. Maraudeurs de Magnesium" }
+		8 = { "%d. Pillards de Rouille" }
+		9 = { "%d. Noyau Expérimental" }
+		10 = { "%d. Anti-Chevaliers" }
+		11 = { "%d. Revêtements d'Enclave" }
+		12 = { "%d. Croisés en Céramiques" }
+		13 = { "%d. Soldats d'Acier" }
+		14 = { "%d. Titans Technologiques" }
 		15 = { "%d. Bunker Badasses" }
 		16 = { "%d. Unofficial Paladins " }
 		17 = { "%d. Powered Scavvers" }

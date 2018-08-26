@@ -1,5 +1,5 @@
 ﻿division_template = {
-	name = "NCR Troopers"
+	name = "Soldats RNC"
 
 	regiments = {
 		infantry = { x = 0 y = 0 }
@@ -17,7 +17,7 @@
 }
 
 division_template = {
-	name = "NCR Rangers"
+	name = "Rangers RNC"
 
 	regiments = {
 		spec_ops = { x = 0 y = 0 }
@@ -33,7 +33,7 @@ division_template = {
 }
 
 division_template = {
-	name = "Motorized Division"
+	name = "Division motorisée"
 
 	regiments = {
 		motorized = { x = 0 y = 0 }
@@ -55,285 +55,285 @@ division_template = {
 units = {
 	
 	division = { 
-		name = "1st Ranger Company"
+		name = "1ère Compagnie de Rangers"
 		location = 8837
-		division_template = "NCR Rangers"
+		division_template = "Rangers RNC"
 		start_experience_factor = 0.5
 		start_equipment_factor = 1.0
 	}
 	
 	division = { 
-		name = "2nd Ranger Company"
+		name = "2nde Compagnie de Rangers"
 		location = 7157
-		division_template = "NCR Rangers"
+		division_template = "Rangers RNC"
 		start_experience_factor = 0.5
 		start_equipment_factor = 1.0
 	}
 	
 	division = { 
-		name = "3rd Ranger Company"
+		name = "3e Compagnie de Rangers"
 		location = 4642
-		division_template = "NCR Rangers"
+		division_template = "Rangers RNC"
 		start_experience_factor = 0.5
 		start_equipment_factor = 1.0
 	}
 	
 	division = { 
-		name = "1st Motorized Company"
+		name = "1ère Compagnie Motorisée"
 		location = 8830
-		division_template = "Motorized Division"
+		division_template = "Division motorisée"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division = { 
-		name = "2nd Motorized Company"
+		name = "2nde Compagnie Motorisée"
 		location = 8830
-		division_template = "Motorized Division"
+		division_template = "Division motorisée"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division = { 
-		name = "3rd Motorized Company"
+		name = "3e Compagnie Motorisée"
 		location = 8830
-		division_template = "Motorized Division"
+		division_template = "Division motorisée"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division = { 
-		name = "4th Motorized Company"
+		name = "4e Compagnie Motorisée"
 		location = 8830
-		division_template = "Motorized Division"
+		division_template = "Division motorisée"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division {
-		name = "1st Company"
+		name = "1ère Compagnie"
 		location = 8823
-		division_template = "NCR Troopers"
+		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division {
-		name = "2nd Company"
+		name = "2nde Compagnie"
 		location = 2414
-		division_template = "NCR Troopers"
+		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division {
-		name = "3rd Company"
+		name = "3e Compagnie"
 		location = 2408
-		division_template = "NCR Troopers"
+		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division {
-		name = "4th Company"
+		name = "4e Compagnie"
 		location = 2397
-		division_template = "NCR Troopers"
+		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division {
-		name = "5th Company"
+		name = "5e Compagnie"
 		location = 2649
-		division_template = "NCR Troopers"
+		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division {
-		name = "6th Company"
+		name = "6e Compagnie"
 		location = 4789
-		division_template = "NCR Troopers"
+		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division {
-		name = "7th Company"
+		name = "7e Compagnie"
 		location = 5078
-		division_template = "NCR Troopers"
+		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division {
-		name = "8th Company"
+		name = "8e Compagnie"
 		location = 8761
-		division_template = "NCR Troopers"
+		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division {
-		name = "9th Company"
+		name = "9e Compagnie"
 		location = 2450
-		division_template = "NCR Troopers"
+		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division {
-		name = "10th Company"
+		name = "10e Compagnie"
 		location = 2000
-		division_template = "NCR Troopers"
+		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division {
-		name = "11th Company"
+		name = "11e Compagnie"
 		location = 1776
-		division_template = "NCR Troopers"
+		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division {
-		name = "12th Company"
+		name = "12e Compagnie"
 		location = 4846
-		division_template = "NCR Troopers"
+		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division {
-		name = "13th Company"
+		name = "13e Compagnie"
 		location = 4740
-		division_template = "NCR Troopers"
+		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division {
-		name = "14th Company"
+		name = "14e Compagnie"
 		location = 2295
-		division_template = "NCR Troopers"
+		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division {
-		name = "15th Company"
+		name = "15e Compagnie"
 		location = 4850
-		division_template = "NCR Troopers"
+		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division {
-		name = "16th Company"
+		name = "16e Compagnie"
 		location = 2428
-		division_template = "NCR Troopers"
+		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division {
-		name = "17th Company"
+		name = "17e Compagnie"
 		location = 4760
-		division_template = "NCR Troopers"
+		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division {
-		name = "18th Company"
+		name = "18e Compagnie"
 		location = 2607
-		division_template = "NCR Troopers"
+		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division {
-		name = "19th Company"
+		name = "19e Compagnie"
 		location = 2436
-		division_template = "NCR Troopers"
+		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division {
-		name = "20th Company"
+		name = "20e Compagnie"
 		location = 4875
-		division_template = "NCR Troopers"
+		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division {
-		name = "21st Company"
+		name = "21e Compagnie"
 		location = 4804
-		division_template = "NCR Troopers"
+		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division {
-		name = "22nd Company"
+		name = "22e Compagnie"
 		location = 4991
-		division_template = "NCR Troopers"
+		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division {
-		name = "23rd Company"
+		name = "23e Compagnie"
 		location = 2384
-		division_template = "NCR Troopers"
+		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division {
-		name = "24th Company"
+		name = "24e Compagnie"
 		location = 3278
-		division_template = "NCR Troopers"
+		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	division {
-		name = "25th Company"
+		name = "25e Compagnie"
 		location = 2310
-		division_template = "NCR Troopers"
+		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
 	
 	navy = {				
-		name = "Boneyard Fleet"			
+		name = "Flotte Boneyard"			
 		base = 2407
 		location = 2407
-		ship = { name = "NCRS San Gariel" definition = destroyer equipment = { destroyer_equipment_1 = { amount = 1 owner = NCR } } }
-		ship = { name = "NCRS Palm Springs" definition = destroyer equipment = { destroyer_equipment_1 = { amount = 1 owner = NCR } } }
-		ship = { name = "NCRS Tulare" definition = destroyer equipment = { destroyer_equipment_1 = { amount = 1 owner = NCR } } }
-		ship = { name = "NCRS Randsburg" definition = light_cruiser equipment = { light_cruiser_equipment_1 = { amount = 1 owner = NCR } } }
-		ship = { name = "NCRS Quartz Hill" definition = light_cruiser equipment = { light_cruiser_equipment_1 = { amount = 1 owner = NCR } } }
-		ship = { name = "NCRS Quartz Harbour" definition = light_cruiser equipment = { light_cruiser_equipment_1 = { amount = 1 owner = NCR } } }
-		ship = { name = "NCRS Dayglow" definition = heavy_cruiser equipment = { heavy_cruiser_equipment_1 = { amount = 1 owner = NCR } } }
-		ship = { name = "NCRS Boneyard" definition = heavy_cruiser equipment = { heavy_cruiser_equipment_1 = { amount = 1 owner = NCR } } }
-		ship = { name = "NCRS Hub" definition = heavy_cruiser equipment = { heavy_cruiser_equipment_1 = { amount = 1 owner = NCR } } }
+		ship = { name = "Navire RNC San Gariel" definition = destroyer equipment = { destroyer_equipment_1 = { amount = 1 owner = NCR } } }
+		ship = { name = "Navire RNC Palm Springs" definition = destroyer equipment = { destroyer_equipment_1 = { amount = 1 owner = NCR } } }
+		ship = { name = "Navire RNC Tulare" definition = destroyer equipment = { destroyer_equipment_1 = { amount = 1 owner = NCR } } }
+		ship = { name = "Navire RNC Randsburg" definition = light_cruiser equipment = { light_cruiser_equipment_1 = { amount = 1 owner = NCR } } }
+		ship = { name = "Navire RNC Quartz Hill" definition = light_cruiser equipment = { light_cruiser_equipment_1 = { amount = 1 owner = NCR } } }
+		ship = { name = "Navire RNC Quartz Harbour" definition = light_cruiser equipment = { light_cruiser_equipment_1 = { amount = 1 owner = NCR } } }
+		ship = { name = "Navire RNC Dayglow" definition = heavy_cruiser equipment = { heavy_cruiser_equipment_1 = { amount = 1 owner = NCR } } }
+		ship = { name = "Navire RNC Boneyard" definition = heavy_cruiser equipment = { heavy_cruiser_equipment_1 = { amount = 1 owner = NCR } } }
+		ship = { name = "Navire RNC Hub" definition = heavy_cruiser equipment = { heavy_cruiser_equipment_1 = { amount = 1 owner = NCR } } }
 	}
 	navy = {				
-		name = "Baron's Fleet"			
+		name = "Flotte des Baron"			
 		base = 4995
 		location = 4995
-		ship = { name = "NCRS Gunderson" definition = destroyer equipment = { destroyer_equipment_1 = { amount = 1 owner = NCR } } }
-		ship = { name = "NCRS Palm Springs" definition = destroyer equipment = { destroyer_equipment_1 = { amount = 1 owner = NCR } } }
-		ship = { name = "NCRS Visalia" definition = destroyer equipment = { destroyer_equipment_1 = { amount = 1 owner = NCR } } }
-		ship = { name = "NCRS Marysville" definition = destroyer equipment = { destroyer_equipment_1 = { amount = 1 owner = NCR } } }
-		ship = { name = "NCRS Etna" definition = light_cruiser equipment = { light_cruiser_equipment_1 = { amount = 1 owner = NCR } } }
-		ship = { name = "NCRS Point-Green" definition = light_cruiser equipment = { light_cruiser_equipment_1 = { amount = 1 owner = NCR } } }
+		ship = { name = "Navire RNC Gunderson" definition = destroyer equipment = { destroyer_equipment_1 = { amount = 1 owner = NCR } } }
+		ship = { name = "Navire RNC Palm Springs" definition = destroyer equipment = { destroyer_equipment_1 = { amount = 1 owner = NCR } } }
+		ship = { name = "Navire RNC Visalia" definition = destroyer equipment = { destroyer_equipment_1 = { amount = 1 owner = NCR } } }
+		ship = { name = "Navire RNC Marysville" definition = destroyer equipment = { destroyer_equipment_1 = { amount = 1 owner = NCR } } }
+		ship = { name = "Navire RNC Etna" definition = light_cruiser equipment = { light_cruiser_equipment_1 = { amount = 1 owner = NCR } } }
+		ship = { name = "Navire RNC Point-Green" definition = light_cruiser equipment = { light_cruiser_equipment_1 = { amount = 1 owner = NCR } } }
 	}
 }
 
