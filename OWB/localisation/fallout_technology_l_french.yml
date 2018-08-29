@@ -163,28 +163,28 @@
 
  # Power Armour
  power_armour:0 "Armure assistée basique"
- power_armour_desc:0 "Power armour is the peak of armoured infantry technology, allowing user to withstand the most extreme dangers of war."
+ power_armour_desc:0 "Les armures assistées sont le sommet de la technologie de l'infanterie blindée, permettant à l'utilisateur de résister aux dangers les plus extrêmes de la guerre."
  power_armour_t45d:0 "Armure assistée T-45d"
- power_armour_t45d_desc:0 "T-45D was initially deployed in the year 2067. The very first suit that saw actual combat usage. While it was clear that it´s design included many flaws, it was non the less a very effective piece of equipment."
+ power_armour_t45d_desc:0 "La T-45D a été initialement déployée en 2067. La toute première combinaison qui a vu l'utilisation réelle en combat. Bien qu'il était clair que sa conception comportait de nombreux défauts, il s'agissait néanmoins d'une pièce d'équipement très efficace."
  power_armour_t51b:0 "Armure assistée T-51b"
- power_armour_t51b_desc:0 "The pinnacle of pre war power armour. A improved design, which rectified most flaws of it´s predecessor, the T-45D. West-Tek´s crown achievement."
- power_armour_light:0 "Riot Armour"
- power_armour_light_desc:0 "Inspired by L.A.P.D Riot gear is this armour basically a heavier variant of Combat armour."
- power_armour_light_1:0 "Elite Riot Armour"
- power_armour_light_1_desc:0 "This variant of Riot gear includes multiple upgrades, including additional plating and a low light visor."
- power_armour_t45d_light:0 "Composite T45D"
- power_armour_t45d_light_desc:0 "Experimental design that replaced most of the T-45D´s components with lightweight composites. This reduced it´s protection but also allowed for both easier manufacturing and weight reduction."
+ power_armour_t51b_desc:0 "L'apogée de l'armure d'avant-guerre. Un design amélioré, qui corrige la plupart des défauts de son prédécesseur, le T-45D. Un produit phare de West-Tek"
+ power_armour_light:0 "Armure antiémeute"
+ power_armour_light_desc:0 "Inspiré de l'équipement antiémeute de la L.A.P.D, ce blindage est essentiellement une variante plus lourde de l'amure de combat."
+ power_armour_light_1:0 "Armure antiémeute d'élite"
+ power_armour_light_1_desc:0 "Cette variante de l'équipement antiémeute comprend de multiples améliorations, y compris un placage supplémentaire et une visière à faible luminosité."
+ power_armour_t45d_light:0 "T45D en matériau composite"
+ power_armour_t45d_light_desc:0 "Conception expérimentale qui a remplacé la plupart des composants du T-45D´s par des composites légers. Cela a réduit sa protection mais a également permis une fabrication plus facile et une réduction du poids."
 
- power_armour_enclave1:0 "Western Enclave Mk I"
+ power_armour_enclave1:0 "Armure assistée de l'Enclave Mk I"
  power_armour_enclave1_desc:0 ""
 
- power_armour_enclave2:0 "Western Enclave Mk II"
+ power_armour_enclave2:0 "Armure assistée de l'Enclave Mk II"
  power_armour_enclave2_desc:0 ""
 
  power_armour_bos:0 "Armure avancée Washington"
  power_armour_bos_desc:0 ""
 
- power_armour_legion:0 "Segmentata"
+ power_armour_legion:0 "Lorica Segmentata"
  power_armour_legion_desc:0 ""
 
  power_armour_raider:0 "Armure assistée Raider"
