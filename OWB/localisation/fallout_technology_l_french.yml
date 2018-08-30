@@ -355,7 +355,7 @@
  anti_tank_tech_6:0 "Attaques suprises III"
  anti_tank_tech_6_desc:0 "Grâce à des technologies de camouflage avancées, les équipages antichars peuvent être pratiquement invisibles jusqu'à ce qu'ils tirent, ce qui n'offre pratiquement aucune chance qu'une cible blindée puisse la voir arriver."
 
- anti_personnel_tech:0 "Mitrailleuses de récupération"
+ anti_personnel_tech:0 "Mitrailleuses récupérées"
  anti_personnel_tech_desc:0 "Les mitrailleuses peuvent fournir des impulsions significatives en tirant sur les cibles vulnérables ennemies en plein air avec facilité."
  anti_personnel_tech_2:0 "Facteur peur I"
  anti_personnel_tech_2_desc:0 "Plutôt que de tirer en voyant directement les cibles, le fait de supprimer les ennemis en tirant à proximité de l'ennemi aidera à garder la tête baissée et limitera la capacité de l'ennemi à riposter."
@@ -426,7 +426,7 @@
 
  bike_tech_1:0 "Moto en feraille"
  bike_tech_1_desc:0 ""
- bike_tech_2:0 "Moto de récupération"
+ bike_tech_2:0 "Moto récupérée"
  bike_tech_2_desc:0 ""
  bike_tech_3:0 "Moto des Terres Désolées"
  bike_tech_3_desc:0 ""
@@ -436,7 +436,7 @@
  tires_vehicle_tech_1:0 "Raffinage du caoutchouc"
  tires_vehicle_tech_1_desc:0 ""
 
- car_tech_1:0 "Voiture de récupération
+ car_tech_1:0 "Voiture récupérée"
  car_tech_1_desc:0 ""
  car_tech_2:0 "Voiture des Terres Désolées"
  car_tech_2_desc:0 ""
@@ -468,7 +468,7 @@
 
  truck_tech_1:0 "Blindé léger en feraille"
  truck_tech_1_desc:0 ""
- truck_tech_2:0 "Blindé léger de récupération"
+ truck_tech_2:0 "Blindé léger récupéré"
  truck_tech_2_desc:0 ""
 
  storage_vehicle_tech:0 "Stockage additionel"
@@ -480,7 +480,7 @@
  high_tech_fuel_vehicle_tech:0 "Carburants avancés"
  high_tech_fuel_vehicle_tech_desc:0 ""
 
- apc_tech_1:0 "VTT de récupération"
+ apc_tech_1:0 "VTT récupéré"
  apc_tech_1_desc:0 ""
  apc_tech_2:0 "VTT des Terres Désolées"
  apc_tech_2_desc:0 ""
@@ -533,60 +533,60 @@
  securitron_2_tech_desc:0 ""
 
  # Air
- pilot_training:0 "Pilot Training"
+ pilot_training:0 "Entraînement au pilotage"
  pilot_training_desc:0 ""
 
- scrap_fighter:0 "Scrap Fighter"
+ scrap_fighter:0 "Avion de chasse en feraille"
  scrap_fighter_desc:0 ""
- salvaged_fighter:0 "Salvaged Fighter"
+ salvaged_fighter:0 "Avion de chasse récupéré"
  salvaged_fighter_desc:0 ""
- nuclear_salvaged_fighter:0 "Nuclear Salvaged Fighter"
+ nuclear_salvaged_fighter:0 " Chasseur nucléaire récupéré"
  nuclear_salvaged_fighter_desc:0 ""
- p80_nuclear:0 "P-80 Nuclear"
+ p80_nuclear:0 "P-80 Nucléaire"
  p80_nuclear_desc:0 ""
 
- scrap_bomber:0 "Scrap Bomber"
+ scrap_bomber:0 "Bombardier en feraille"
  scrap_bomber_desc:0 ""
- salvaged_superfortress:0 "Salvaged Superfortress"
+ salvaged_superfortress:0 "Bombardier lourd récupéré"
  salvaged_superfortress_desc:0 ""
- zeppelin_superfortress:0 "Zeppelin Superfortress"
+ zeppelin_superfortress:0 "Zeppelin bombardier lourd"
  zeppelin_superfortress_desc:0 ""
 
- scrap_divebomber:0 "Scrap Dive Bomber"
+ scrap_divebomber:0 "Bombardier en piqué en feraille"
  scrap_divebomber_desc:0 ""
- salvaged_divebomber:0 "Salvaged Dive Bomber"
+ salvaged_divebomber:0 "Bombardier en piqué récupéré"
  salvaged_divebomber_desc:0 ""
- armoured_zeppelin:0 "Armoured Zeppelin"
+ armoured_zeppelin:0 "Zeppelin blindé"
  armoured_zeppelin_desc:0 ""
 
- scrap_transport:0 "Scrap Transport"
+ scrap_transport:0 "Avion-cargo en feraille"
  scrap_transport_desc:0 ""
- salvaged_transport:0 "Salvaged Transport"
+ salvaged_transport:0 "Avion-cargo récupéré"
  salvaged_transport_desc:0 ""
- cargo_zeppelin:0 "Cargo Zeppelin"
+ cargo_zeppelin:0 "Zeppelin-cargo"
  cargo_zeppelin_desc:0 ""
 
- xian_85_fighter:0 "Xian-85 Fighter"
+ xian_85_fighter:0 "Avion de chasse Xian-85"
  xian_85_fighter_desc:0 ""
  thunderbirds:0 "Thunderbirds"
  thunderbirds_desc:0 ""
 
- vertiberd_cas1:0 "VB-01 CAS"
+ vertiberd_cas1:0 "VB-01 CAR"
  vertiberd_cas1_desc:0 ""
- vertiberd_cas2:0 "VB-02 CAS"
+ vertiberd_cas2:0 "VB-02 CAR"
  vertiberd_cas2_desc:0 ""
- vertiberd_gunship:0 "VB-02 Gunship"
+ vertiberd_gunship:0 "Canonnière volante VB-02"
 
- vertiberd_transport1:0 "VB-01 Transport"
+ vertiberd_transport1:0 "Transport VB-01"
  vertiberd_transport1_desc:0 ""
- vertiberd_transport2:0 "VB-02 Transport"
+ vertiberd_transport2:0 "Transport VB-02"
  vertiberd_transport2_desc:0 ""
 
- mortar_battery_zeppelin:0 "Mortar Battery Zeppelin"
+ mortar_battery_zeppelin:0 "Zeppelin à batterie de mortiers "
  mortar_battery_zeppelin_desc:0 ""
- howitzer_battery_zeppelin:0 "Howitzer Battery Zeppelin"
+ howitzer_battery_zeppelin:0 "Zeppelin à batterie d'obusiers"
  howitzer_battery_zeppelin_desc:0 ""
- laser_battery_zeppelin:0 "Laser Battery Zeppelin"
+ laser_battery_zeppelin:0 "Zeppelin à batterie de laser"
  laser_battery_zeppelin_desc:0 ""
 
  # Naval
