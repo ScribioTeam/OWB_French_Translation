@@ -1,0 +1,204 @@
+﻿l_french:
+ #-------------------------------------
+ # Settler
+ #-------------------------------------
+ settler_forfathers:0 "Gifts of the Forefathers"
+ settler_forfathers_desc:0 " "
+
+ settler_defend:0 "In defence of the Homestead"
+ settler_defend_desc:0 " "
+
+ settler_become:0 "What will We Become?"
+ settler_become_desc:0 " "
+
+ settler_palisade:0 "Erecting a Palisade"
+ settler_palisade_desc:0 " "
+
+ settler_community:0 "Center of the Community"
+ settler_community_desc:0 " "
+
+ settler_reorganization:0 "Political Reorganization"
+ settler_reorganization_desc:0 " "
+
+ settler_schools:0 "Funding the Schools"
+ settler_schools_desc:0 " "
+
+ settler_support:0 "Support the People"
+ settler_support_desc:0 " "
+
+ settler_intellectuals:0 "Fund Intellectuals"
+ settler_intellectuals_desc:0 " "
+
+ settler_elites:0 "Sell to the Elites"
+ settler_elites_desc:0 " "
+
+ settler_empower:0 "Empower the Mayor"
+ settler_empower_desc:0 " "
+
+ settler_oligarch:0 "Oligarchical Power"
+ settler_oligarch_desc:0 " "
+
+ settler_minds:0 "Council of Minds"
+ settler_minds_desc:0 " "
+
+ settler_council:0 "Council of the People"
+ settler_council_desc:0 " "
+
+ settler_rivals:0 "Eliminate Rivals"
+ settler_rivals_desc:0 " "
+
+ settler_bodyguards:0 "Personal Bodyguard"
+ settler_bodyguards_desc:0 " "
+
+ settler_loyalty:0 "Loyalty of the People"
+ settler_loyalty_desc:0 " "
+
+ settler_aerodynamics:0 "School of Aerodynamics"
+ settler_aerodynamics_desc:0 " "
+
+ settler_monopoly:0 "Monopoly"
+ settler_monopoly_desc:0 " "
+
+ settler_traderoutes:0 "Establish Trade Routes"
+ settler_traderoutes_desc:0 " "
+
+ settler_arrive:0 "Wasteland Settlers Arrive"
+ settler_arrive_desc:0 " "
+
+ settler_enforce:0 "Enforce Trade Laws"
+ settler_enforce_desc:0 " "
+
+ settler_roadways:0 "Develop the Roadways"
+ settler_roadways_desc:0 " "
+
+ settler_tato:0 "Tato Farmers"
+ settler_tato_desc:0 " "
+
+ settler_brahmin:0 "Brahmin Herders"
+ settler_brahmin_desc:0 " "
+
+ settler_future:0 "Plan for the Future"
+ settler_future_desc:0 " "
+
+ settler_pride:0 "Local Pride"
+ settler_pride_desc:0 " "
+
+ settler_town:0 "The Town Becomes a City"
+ settler_town_desc:0 " "
+
+ settler_city:0 "Develop the Outer City"
+ settler_city_desc:0 " "
+
+ settler_labor:0 "Labour Treaties"
+ settler_labor_desc:0 " "
+
+ settlers_markets:0 "Expand the Markets"
+ settlers_markets_desc:0 " "
+
+ settler_robed:0 "Take in Robed Wanderers"
+ settler_robed_desc:0 " "
+
+ settler_paladin:0 "Brotherhood Paladin Exile"
+ settler_paladin_desc:0 " "
+
+ settler_scribe:0 "Brotherhood Scribe Exile"
+ settler_scribe_desc:0 " "
+
+ settlers_commanders:0 "Militia Commanders"
+ settlers_commanders_desc:0 " "
+
+ settler_organization:0 "Militia Organization"
+ settler_organization_desc:0 " "
+
+ settler_drilling:0 "Militia Drills"
+ settler_drilling_desc:0 " "
+
+ settler_drills:0 "Militia Drills"
+ settler_drills_desc:0 " "
+
+ settler_posters:0 "Militia Recruitment Posters"
+ settler_posters_desc:0 " "
+
+ settler_standard:0 "Standardize the Military"
+ settler_standard_desc:0 " "
+
+ settler_encourage:0 "Encourage Women to Serve"
+ settler_encourage_desc:0 " "
+
+ settler_oldworld:0 "Old World Tactics"
+ settler_oldworld_desc:0 " "
+
+ settler_fallback:0 "Fallback Tactics"
+ settler_fallback_desc:0 " "
+
+ settler_awareness:0 "Tactical Awareness and Mapping"
+ settler_awareness_desc:0 " "
+
+ settler_marching:0 "Marching Drills"
+ settler_marching_desc:0 " "
+
+ settler_pointdefense:0 "Point Defence Strategy"
+ settler_pointdefense_desc:0 " "
+
+ settler_distance:0 "Long Distance Movements"
+ settler_distance_desc:0 " "
+
+ settler_caravan:0 "Recruit Caravan Guards"
+ settler_caravan_desc:0 " "
+
+ settler_gunsmiths:0 "Hire Gunsmiths"
+ settler_gunsmiths_desc:0 " "
+
+ settler_subsidize:0 "Subsidize Weapons Manufacturers"
+ settler_subsidize_desc:0 " "
+
+ settler_armory:0 "Establish an Armoury"
+ settler_armory_desc:0 " "
+
+ settlers_wall:0 "Plan a Wall"
+ settlers_wall_desc:0 " "
+
+ settler_defenses:0 "Finalize the Defences"
+ settler_defenses_desc:0 " "
+
+ settler_science:0 "Big Book of Science!"
+ settler_science_desc:0 " "
+
+ settler_laboratory:0 "Establish a Laboratory"
+ settler_laboratory_desc:0 " "
+
+ settler_medical:0 "Improved Medical Research"
+ settler_medical_desc:0 " "
+
+ settler_garage:0 "Funding the Garage"
+ settler_garage_desc:0 " "
+
+ settler_chemistry:0 "Chemistry Lab"
+ settler_chemistry_desc:0 " "
+
+ settler_robco:0 "Scavenged RobCo Equipment"
+ settler_robco_desc:0 " "
+
+ settler_vehicles:0 "Transportation Vehicles"
+ settler_vehicles_desc:0 " "
+
+ settler_war:0 "Vehicles of War"
+ settler_war_desc:0 " "
+
+ settler_teams:0 "Scavenging Teams"
+ settler_teams_desc:0 " "
+
+ settler_thinktank:0 "Think-Tank"
+ settler_thinktank_desc:0 " "
+
+ settlers_protection:0 "Medical Protection"
+ settlers_protection_desc:0 " "
+
+ settler_firefighter:0 "Firefighter Protection"
+ settler_firefighter_desc:0 " "
+
+ settler_construction:0 "Construction Protection"
+ settler_construction_desc:0 " "
+
+ settler_police:0 "Police Protection"
+ settler_police_desc:0 " "
