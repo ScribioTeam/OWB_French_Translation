@@ -654,9 +654,9 @@
  # Industry
  organised_tato_farming:0 "Culture organisée de la pomme de terre"
  organised_tato_farming_desc:0 ""
- brahmin_milking:0 "La traite des Brahmin "
+ brahmin_milking:0 "Traite des Brahmin "
  brahmin_milking_desc:0 ""
- sharecropper_farms:0 "Sharecropper Farms"
+ sharecropper_farms:0 "Métayage"
  sharecropper_farms_desc:0 ""
  brahmin_herding_equipment:0 "Équipement d'élevage pour Brahmin"
  brahmin_herding_equipment_desc:0 ""
@@ -797,54 +797,54 @@
 
 
  # Air Doctrine
- evasive_tactics:0 "Evasive Tactics"
+ evasive_tactics:0 "Tactiques d'évasion"
  evasive_tactics_desc:0 ""
- ground_targeting_tactics:0 "Ground Targeting Tactics"
+ ground_targeting_tactics:0 "Tactiques de ciblage au sol"
  ground_targeting_tactics_desc:0 ""
- sweeping_tactics:0 "Sweeping Tactics"
+ sweeping_tactics:0 "Tactiques de balayage"
  sweeping_tactics_desc:0 ""
 
  # Land Doctrine
 
  # Civilization
- tribal_civilization:0 "Tribal Civilization"
+ tribal_civilization:0 "Civilisation tribale"
  tribal_civilization_desc:0 ""
- settled_civilization:0 "Settlement Advancement"
+ settled_civilization:0 "Civilisation-colonie"
  settled_civilization_desc:0 ""
- scientific_civilization:0 "Scientific Advancement"
+ scientific_civilization:0 "Avancement scientifique"
  scientific_civilization_desc:0 ""
- super_mutant_civilization:0 "Super Mutant Civilization"
+ super_mutant_civilization:0 "Super Civilisation Mutante"
  super_mutant_civilization_desc:0 ""
 
  #-------------------------------------
  # National Focuses
  #-------------------------------------
- legion_nf_shottol_god_of_dogs:0 "Shottol, God of Dogs"
+ legion_nf_shottol_god_of_dogs:0 "Shottol, Dieu des Chiens"
  legion_nf_shottol_god_of_dogs_desc:0 ""
 
- legion_nf_goddess_diana:0 "Goddess Diana"
+ legion_nf_goddess_diana:0 "Déesse Diana"
  legion_nf_goddess_diana_desc:0 ""
 
- legion_nf_caesar_the_godslayer:0 "Caesar the Godslayer"
+ legion_nf_caesar_the_godslayer:0 "Caesar le tueur de Dieu"
  legion_nf_caesar_the_godslayer_desc:0 ""
 
- legion_nf_cult_of_nas:0 "Cult of Nas"
+ legion_nf_cult_of_nas:0 "Le culte de Nas"
  legion_nf_cult_of_nas_desc:0 ""
 
- legion_nf_cult_of_nas_minor:0 "Cult of Nas"
+ legion_nf_cult_of_nas_minor:0 "Le culte de Nas"
  legion_nf_cult_of_nas_minor_desc:0 ""
 
- legion_nf_wyatt_the_demon:0 "Wyatt the Demon"
+ legion_nf_wyatt_the_demon:0 "Wyatt le démon"
  legion_nf_wyatt_the_demon_desc:0 ""
 
- legion_nf_legion_outlaws:0 "Legion Outlaws"
+ legion_nf_legion_outlaws:0 "Hors la loi de la Légion"
  legion_nf_legion_outlaws_desc:0 ""
 
- mutant_access:0 "Super Mutant Army"
+ mutant_access:0 "Armée des super mutants"
  mutant_access_desc:0 ""
 
- mutant_supremacy:0 "Super Mutant Supremacy"
+ mutant_supremacy:0 "Suprémacie des super mutants"
  mutant_supremacy_desc:0 ""
 
- ghoul_access:0 "Ghoul Army"
+ ghoul_access:0 "Armée Goule"
  ghoul_access_desc:0 ""
