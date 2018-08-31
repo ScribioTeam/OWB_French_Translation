@@ -43,4 +43,6 @@ Les personnes suivantes ont participé à la traduction française :
 - GABRIELN13
 - TomDer
 - Carpi7
+- Akinari26
+- Azraellis
 - Mouchi
