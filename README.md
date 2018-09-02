@@ -46,4 +46,5 @@ Les personnes suivantes ont participé à la traduction française :
 - Akinari26
 - Azraellis
 - Sushiryu
+- SFalvo
 - Mouchi
