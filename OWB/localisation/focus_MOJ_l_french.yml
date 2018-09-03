@@ -7,7 +7,7 @@
  MOJ_our_founding_desc:0 "Alors que le grand sage Maxson était le fondateur de la Confrérie dans son ensemble, chaque chapitre a eu ses propres fondateurs, ceux qui ont fait connaître les dangers de la technologie plus loin dans les Terres Désolées. Qui étaient nos fondateurs ?"
 
  MOJ_our_interim:0 "Notre objectif"
- MOJ_our_interim_desc:0 "Chaque chapitre de la Confrérie a ses propres priorités. Certains se concentrent sur la collecte des armes puissantes de l'Ancien Monde, tandis que d'autres donnent la priorité aux machines et outils industriels. Sur quoi nous sommes-nous concentrés ?"
+ MOJ_our_interim_desc:0 "Chaque chapitre de la Confrérie a ses propres priorités. Certains se concentrent sur la collecte des armes puissantes du Vieux Monde, tandis que d'autres donnent la priorité aux machines et outils industriels. Sur quoi nous sommes-nous concentrés ?"
 
  MOJ_our_future:0 "Notre futur"
  MOJ_our_future_desc:0 "Nous avons beaucoup appris au cours des années qui sont maintenant derrière nous. Nous devons maintenant utiliser cette expérience et nous préparer pour les nombreuses années qui nous attendent."
@@ -25,7 +25,7 @@
  MOJ_larger_vessels_desc:0 "Pour faire une brèche dans une marine ennemie et pour soutenir efficacement nos troupes à terre, nous devons être capables de construire de grands navires capables de monter des armes de grande taille. En nous concentrant sur ce point, nous nous rapprocherons de la domination navale."
 
  MOJ_reclaim_a_flagship:0 "Récupérer un navire amiral"
- MOJ_reclaim_a_flagship_desc:0 "La projection de la force est primordiale. Pour vraiment faire notre marque sur les mers, nous ne pouvons pas simplement avoir une marine efficace : nous devons aussi avoir une marine impressionnante. Un vaisseau amiral réaménagé de l'ancien monde répondrait parfaitement à nos besoins."
+ MOJ_reclaim_a_flagship_desc:0 "La projection de la force est primordiale. Pour vraiment faire notre marque sur les mers, nous ne pouvons pas simplement avoir une marine efficace : nous devons aussi avoir une marine impressionnante. Un vaisseau amiral réaménagé du Vieux Monde répondrait parfaitement à nos besoins."
 
  MOJ_aerial_operations:0 "Opérations aériennes"
  MOJ_aerial_operations_desc:0 "Notre organisation manque souvent de flexibilité. Pour rendre compte de nos faiblesses, nous devons les transformer en forces. Dans le passé, de vastes expéditions ont été entreprises à l'aide d'équipements aériens. Nous pouvons en tirer des leçons."
@@ -134,94 +134,94 @@
 
  # Mojave Chapter #
 
- MOJ_chapter_leadership:0 "Chapter Leadership"
- MOJ_chapter_leadership_desc:0 "Within the innermost part of Hidden Valley, a great debate is taking place between Elijah and McNamara over the future of the Mojave Chapter itself. The core of the debate is centred around Elijah's obsession with the Old World, and how it negatively impacts the chapter. The outcome of the debate remains uncertain."
+ MOJ_chapter_leadership:0 "Dirigeant du Chapitre"
+ MOJ_chapter_leadership_desc:0 "Dans la partie la plus profonde de Hidden Valley, un grand débat a lieu entre Elijah et McNamara sur l'avenir du Chapitre de Mojave lui-même. Le cœur du débat est centré sur l'obsession d'Elijah pour le Vieux Monde et son impact négatif sur le Chapitre. L'issue du débat reste incertaine."
 
  MOJ_elijah:0 "Elijah"
- MOJ_elijah_desc:0 "After the debate, Elijah managed to retain control of his chapter, even with tensions still high. However, seeing his determination to follow his ambitions has created as much awe as ire, and his position remains absolute. Elijah is the undisputed leader of the Mojave Chapter."
+ MOJ_elijah_desc:0 "Après le débat, Elijah a réussi à garder le contrôle de son Chapitre, même avec des tensions encore élevées. Cependant, voir sa détermination à suivre ses ambitions a créé autant d'admiration que de colère, et sa position reste absolue. Elijah est le leader incontesté du Chapitre de Mojave."
 
- MOJ_scribal_thought:0 "Scribal Thought"
- MOJ_scribal_thought_desc:0 "Elijah, unlike all other elders, is a scribe: not a paladin. His background has had an effect on his style of leadership, which puts greater emphasis on research and the study of pre-war technology. Although many in the Brotherhood have doubted his approach, none can deny that he obtains results other Elders simply cannot."
+ MOJ_scribal_thought:0 "Pensée Scribale"
+ MOJ_scribal_thought_desc:0 "Elijah, contrairement à tous les autres anciens, est un scribe : pas un paladin. Son expérience a eu un effet sur son style de gestion, qui met davantage l'accent sur la recherche et l'étude de la technologie d'avant-guerre. Bien que de nombreux membres de la Confrérie aient douté de son approche, personne ne peut nier qu'il obtient des résultats que d'autres aînés ne peuvent tout simplement pas obtenir."
 
- MOJ_old_world_rumors:0 "Rumours of the Old World"
- MOJ_old_world_rumors_desc:0 "Elijah has heard many stories about the mysterious Sierra Madre, and he spends the beginning of every expedition staring at the ominous figure of Helios One in the distance. Both of these places have dark secrets waiting to be uncovered, their roots dig deep into old world conspiracy. Elijah believes he has the key to unlocking those secrets."
+ MOJ_old_world_rumors:0 "Rumeurs du Vieux Monde"
+ MOJ_old_world_rumors_desc:0 "Elijah a entendu beaucoup d'histoires sur la mystérieuse Sierra Madre, et il passe le début de chaque expédition à regarder au loin la silhouette inquiétante d'Hélios One. Ces deux endroits ont de sombres secrets qui attendent d'être découverts, leurs origines s'enfoncent profondément dans la conspiration du vieux monde. Elijah croit qu'il a la clé pour percer ces secrets."
 
- MOJ_helios_one:0 "Retaking Helios One"
- MOJ_helios_one_desc:0 "The NCR has robbed us of Helios One, a key part of Elijah's greater ambitions. Its energy output is essential to the future of the chapter itself, and Elijah insists that there's more to the facility than meets the eye. Whether or not his delusions will prove true, the fact remains that we cannot allow the NCR to control such advanced and dangerous technology."
+ MOJ_helios_one:0 "Reprise d'Helios One"
+ MOJ_helios_one_desc:0 "La RNC nous a volé Hélios One, un élément clé des grandes ambitions d'Elijah. Sa production d'énergie est essentielle pour l'avenir du Chapitre lui-même, et Elijah insiste sur le fait qu'il y a plus à l'installation qu'il n'y paraît. Que ses illusions se vérifient ou non, il n'en demeure pas moins que nous ne pouvons pas permettre à la RNC de contrôler une technologie aussi avancée et dangereuse."
 
- MOJ_energy_boom:0 "Energy Boom"
- MOJ_energy_boom_desc:0 "Helios One is a miracle of pre-war science, highly advanced even for its day, and completely irreplaceable in the modern wasteland. Elijah, however, is undaunted by these issues facing him. His mind works in mysterious ways, and he's assured us that he will be able to repair the facility, given time. Considering the output has recently increased, he might just be worth believing."
+ MOJ_energy_boom:0 "Boom de l'énergie"
+ MOJ_energy_boom_desc:0 "Helios One est un miracle de la science d'avant-guerre, très avancé même pour l'époque, et complètement irremplaçable dans les Terres Désolées modernes. Elijah, cependant, n'est pas intimidé par ces problèmes auxquels il est confronté. Son esprit fonctionne de façon mystérieuse, et il nous a assuré qu'il sera en mesure de réparer l'installation, avec le temps. Considérant que le rendement a récemment augmenté, ça vaut peut-être la peine d'y croire."
 
  MOJ_sierra_madre:0 "Sierra Madre"
- MOJ_sierra_madre_desc:0 "An invitation left unanswered for 200 years calls the wasteland to a grand opening unlike any other, where friends and freedom await. You can begin again, the sultry voice promises, and who doesn't want that? Many a desperate fool has followed that forgotten voice, and now, the Brotherhood is going to do the same."
+ MOJ_sierra_madre_desc:0 "Une invitation laissée sans réponse depuis 200 ans appelle les Terres Désolées à une grande ouverture pas comme les autres, où les amis et la liberté attendent. Vous pouvez recommencer, la voix sensuelle promet, et qui ne le veut pas ? Beaucoup d'imbéciles désespérés ont suivi cette voix oubliée, et maintenant, la Confrérie va faire de même."
 
- MOJ_a_forgotten_hellscape:0 "A Forgotten Hellscape"
- MOJ_a_forgotten_hellscape_desc:0 "The air smells like old world gold, rust, and blood. The Sierra Madre has all of these in spades, indeed, its streets are lined with gold, choked by rust, and slick with blood. The rumours were all true, this is paradise on earth: but a nuclear holocaust, 200 years of neglect, a parasitic cloud that devours men in their armour, and mysterious ghost people have turned it into a forgotten hellscape."
+ MOJ_a_forgotten_hellscape:0 "Un paysage de l'enfer oublié"
+ MOJ_a_forgotten_hellscape_desc:0 "L'air sent l'or du vieux monde, la rouille et le sang. La Sierra Madre a tout cela en morceaux, en effet, ses rues sont bordées d'or, étouffées par la rouille et luisantes de sang. Les rumeurs étaient vraies, c'est le paradis sur terre : mais un holocauste nucléaire, 200 ans de négligence, un nuage parasite qui dévore les hommes dans leur armure, et des fantômes mystérieux en ont fait un paysage d'enfer oublié."
 
- MOJ_what_remains:0 "What Remains"
- MOJ_what_remains_desc:0 "Death incarnate: that is the Sierra Madre's true form. In a place filled with nothing but death and despair, little remains, but those few dregs are like liquid starlight. Unkillable men who stalk the heart of the casino and vending machines capable of making something from almost nothing: these are the gifts left to us by the ghosts of the Sierra Madre."
+ MOJ_what_remains:0 "Ce qu'il en reste"
+ MOJ_what_remains_desc:0 "La mort incarnée : c'est la vraie forme de la Sierra Madre. Dans un lieu rempli de mort et de désespoir, il ne reste que peu de choses, mais ces quelques lies sont comme la lumière liquide des étoiles. Des hommes invincibles qui traquent le cœur du casino et des distributeurs automatiques capables de faire quelque chose à partir de presque rien : ce sont les cadeaux que nous ont laissés les fantômes de la Sierra Madre."
 
- MOJ_a_forgotten_weapon:0 "A Forgotten Weapon"
- MOJ_a_forgotten_weapon_desc:0 "Elijah's promises have come true. Even after his genius brought Helios One back to a quarter of its total output, we were skeptical of his claims. Today, however, we were proven deeply wrong in our estimation of his promise. White light that splits the sky with a scream, leaving nothing but charred remains in its wake: this is the weapon Elijah has delivered to us."
+ MOJ_a_forgotten_weapon:0 "Une arme oubliée"
+ MOJ_a_forgotten_weapon_desc:0 "Les promesses d'Elijah se sont réalisées. Même après que son génie ait ramené Helios One à un quart de sa production totale, nous étions sceptiques à l'égard de ses affirmations. Aujourd'hui, cependant, nous avons eu profondément tort dans notre estimation de sa promesse. Une lumière blanche qui divise le ciel d'un cri, ne laissant que des restes carbonisés dans son sillage : c'est l'arme qu'Elijah nous a délivrée."
 
  MOJ_hardin:0 "Hardin"
- MOJ_hardin_desc:0 "Hardin has emerged the victor of the debate, although he wielded a weapon instead of words. Standing tall over Elijah's still warm ashes in the gloom of that bunker, McNamara simply stood aside and let Hardin have his way. For better or worse, this West Coast loyalist now leads the Mojave Chapter."
+ MOJ_hardin_desc:0 "Hardin est sorti vainqueur du débat, bien qu'il ait utilisé une arme au lieu de mots. Debout au-dessus des cendres encore chaudes d'Elijah dans l'obscurité de cet abri, McNamara s'est simplement tenu à l'écart et a laissé Hardin faire son chemin. Pour le meilleur ou pour le pire, ce loyaliste de la côte ouest dirige maintenant le Chapitre de Mojave."
 
- MOJ_paladin_thought:0 "Paladin Thought"
- MOJ_paladin_thought_desc:0 "Hardin is a true believer in the doctrine put forward by the Western Brotherhood, having been somewhat loathe to leave the heart of the Brotherhood behind. With his newfound power as the Elder of the Mojave Chapter, Hardin will focus on what he knows best: combat."
+ MOJ_paladin_thought:0 "Pensée du paladin"
+ MOJ_paladin_thought_desc:0 "Hardin est un vrai croyant dans la doctrine avancée par la Confrérie occidentale, ayant quelque peu détesté laisser le cœur de la Fraternité derrière lui. Avec son nouveau pouvoir en tant qu'ancien du Chapitre de Mojave, Hardin se concentrera sur ce qu'il connaît le mieux : le combat."
 
- MOJ_know_our_name:0 "Know Our Name"
- MOJ_know_our_name_desc:0 "For too long the Brotherhood has been considered weak by the population of the Mojave. They do not talk of us in hushed tones anymore, rather, they speak openly about how free of our influence they are. They call us \"tin cans\" and joke about our doctrine of tech reclamation. No longer! Soon, the day of reckoning will come for the Mojave, and they will know our name."
+ MOJ_know_our_name:0 "Connaissez notre nom"
+ MOJ_know_our_name_desc:0 "Pendant trop longtemps, la Confrérie a été considérée comme faible par la population de Mojave. Ils ne parlent plus de nous dans des tons feutrés, ils parlent plutôt ouvertement de la façon dont ils sont libres de notre influence. Ils nous appellent \"boîtes de conserve\" et plaisantent sur notre doctrine de récupération de la technologie. Plus maintenant ! Bientôt, le jour du jugement viendra pour les Mojave, et ils connaîtront notre nom."
 
- MOJ_technology_raids:0 "Technology Raids"
- MOJ_technology_raids_desc:0 "Technology cannot remain in the hands of wastelanders any longer. Everything that could be a threat should be considered a threat. It's not enough to follow up sightings of technology in the wasteland, rather it's time to proactively search for it. Kick down every door, pull open every closet. We won't stop looking until the house is empty, or until the occupants are dead: or both."
+ MOJ_technology_raids:0 "Pillage technologique"
+ MOJ_technology_raids_desc:0 "La technologie ne peut plus rester entre les mains des habitants de Terres Désolées. Tout ce qui pourrait être une menace devrait être considéré comme une menace. Il ne suffit pas de suivre les observations de la technologie dans les Terres Désolées, mais il est temps de la rechercher de manière proactive. Enfoncez toutes les portes, ouvrez tous les placards. Nous n'arrêterons pas de chercher jusqu'à ce que la maison soit vide, ou jusqu'à ce que les occupants soient morts : ou les deux."
 
- MOJ_closedown_van_graffs:0 "Close Down Van Graffs"
- MOJ_closedown_van_graffs_desc:0 "The Van Graff family is well known throughout California, their name is often whispered in seedy bars and back alleys. Their influence throughout Redding and North California is immense, but it wanes the farther away you go. It's time to teach the Van Graffs a stern lesson: selling pre-war tech in Brotherhood territory drastically shortens your lifespan."
+ MOJ_closedown_van_graffs:0 "Punir les Van Graffs"
+ MOJ_closedown_van_graffs_desc:0 "La famille Van Graff est bien connue dans toute la Californie, leur nom est souvent murmuré dans les bars et les ruelles. Leur influence sur Redding et la Californie du Nord est immense, mais elle diminue au fur et à mesure que l'on s'éloigne. Il est temps de donner une leçon sévère aux Van Graff : vendre de la technologie d'avant-guerre sur le territoire de la Confrérie raccourcit considérablement votre durée de vie."
 
- MOJ_gun_runner_caravan_raids:0 "Gun Runners Caravan Raids"
- MOJ_gun_runner_caravan_raids_desc:0 "The Gun Runners are one of the only organisations in the post-war that can be considered master craftsmen. Working off of tightly guarded pre-war gun schematics, the Gun Runners produce and sell top of the line weapons for a high price. Their operations in the Mojave aren't nearly as well guarded as they should be, and killing is easier than scavenging..."
+ MOJ_gun_runner_caravan_raids:0 "Pillage de caravane des Gun Runners"
+ MOJ_gun_runner_caravan_raids_desc:0 "Les Gun Runners sont l'une des seules organisations de l'après-guerre qui peuvent être considérées comme des maîtres artisans. Travaillant à partir de schémas d'avant-guerre bien gardés, les Gun Runners produisent et vendent des armes haut de gamme à un prix élevé. Leurs opérations dans le Mojave ne sont pas aussi bien gardées qu'elles devraient l'être, et il est plus facile de tuer que de piller..."
 
- MOJ_ncr_raids:0 "NCR Raids"
- MOJ_ncr_raids_desc:0 "The NCR disgraced the Brotherhood decades ago. They've never been friendly towards the Mojave Chapter, often firing upon our patrols, and now the time has come to repay them for their lack of hospitality. Mojave Outpost will be left in ruins, Camp Golf will burn. This is what happens when you fuck with the Brotherhood."
+ MOJ_ncr_raids:0 "Pillages de la RNC"
+ MOJ_ncr_raids_desc:0 "La RNC a déshonoré la Confrérie il y a des décennies. Ils n'ont jamais été amicaux envers le Chapitre de Mojave, tirant souvent sur nos patrouilles, et maintenant le temps est venu de les remercier pour leur manque d'hospitalité. L'avant-poste Mojave restera en ruines, le camp de golf brûlera. C'est ce qui arrive quand on emmerde la Confrérie."
 
- MOJ_contact_the_west:0 "Contact The West"
- MOJ_contact_the_west_desc:0 "Finally the day has come for the Mojave Chapter to reunite with the Western Brotherhood. Hardin's campaign of death and destruction has seen many spoils transferred to Hidden Valley's armoury, and his results are sure to please the West. Now all we can do is wait to hear back from him."
+ MOJ_contact_the_west:0 "Contacter l'Ouest"
+ MOJ_contact_the_west_desc:0 "Enfin, le jour est venu pour le Chapitre de Mojave de se réunir avec la Confrérie de l'Ouest. La campagne de mort et de destruction de Hardin a vu beaucoup de butin transféré à l'armurerie de Hidden Valley, et ses résultats sont sûrs de plaire à l'Occident. Maintenant, tout ce qu'on peut faire, c'est attendre d'avoir de ses nouvelles."
 
- MOJ_aggressive_policy:0 "Aggressive Policy"
- MOJ_aggressive_policy_desc:0 "Shoot first and ask questions later: that's what Hardin has drilled into the minds of his soldiers. The Mojave Chapter is hanging on by a thread, surrounded by enemies, it simply cannot afford mercy any longer. In Hardin's quest to scorch the Mojave with laser burns, kindness and mercy are relics of the past. All that matters is whether you can shoot straight, and how high your daily kill-count is."
+ MOJ_aggressive_policy:0 "Politique agressive"
+ MOJ_aggressive_policy_desc:0 "Tirer d'abord et poser des questions plus tard : c'est ce que Hardin a gravé dans l'esprit de ses soldats. Le Chapitre de Mojave est accroché à une corde, entouré d'ennemis, il ne peut tout simplement plus se permettre d'avoir pitié. Dans la quête de Hardin pour brûler le Mojave avec des brûlures au laser, la bonté et la miséricorde sont des reliques du passé. Tout ce qui compte, c'est de savoir si vous pouvez tirer droit et à quel point votre bilan mortel quotidien est élevé."
 
  MOJ_mcnamara:0 "McNamara"
- MOJ_mcnamara_desc:0 "With control wrested from Elijah, McNamara had a hard road ahead of him. Lacking the support of the West, and with the NCR and Legion both heading on an impact course centred on the Mojave, The Mojave Brotherhood needed to open up to the world at large."
+ MOJ_mcnamara_desc:0 "Avec le contrôle arraché à Elijah, McNamara avait une route difficile devant lui. N'ayant pas le soutien de l'Ouest, et la RNC et la Légion se dirigeant toutes deux vers un itinéraire d'impact centré sur le Mojave, la Confrérie Mojave avait besoin de s'ouvrir au monde en général."
 
- MOJ_progressive_thought:0 "Progressive Thought"
- MOJ_progressive_thought_desc:0 "Opening our doors to the Mojave also means opening our doors to the troubles of the wastes. Not only that, but the emergence of a highly militarized, power armour wearing warriors makes the locals nervous and distrustful of us. A possible solution would be to arm and train local peacekeeping and militia forces in the lands under our protection, bringing them into the fold."
+ MOJ_progressive_thought:0 "Pensée progressiste"
+ MOJ_progressive_thought_desc:0 "Ouvrir nos portes au Mojave, c'est aussi ouvrir nos portes aux soucis des rebuts. Non seulement cela, mais l'émergence d'une armure assistée hautement militarisée et puissante portant des guerriers rend les habitants de la région nerveux et méfiant à notre égard. Une solution possible serait d'armer et d'entraîner les forces locales de maintien de la paix et de milice sur les terres sous notre protection, en les faisant entrer dans le troupeau."
 
- MOJ_the_future:0 "The Future"
- MOJ_the_future_desc:0 "The future of the Mojave Chapter hangs in the balance. Elder McNamara plans on enacting a twofold plan to ensure our continued existence. First, we must ally ourselves with the NCR, through treaties or self annexation. Secondly, we will pledge ourself to the cause of helping the Mojave's scattered settlements."
+ MOJ_the_future:0 "Le futur"
+ MOJ_the_future_desc:0 "L'avenir du Chapitre de Mojave est en jeu. L'aîné McNamara prévoit adopter un plan à deux volets pour assurer la continuité de notre existence. Premièrement, nous devons nous allier à la RNC, par le biais de traités ou de l'auto-annexion. Deuxièmement, nous nous engagerons en faveur de la cause de l'aide aux colonies dispersées de Mojave."
 
- MOJ_ncr_negotiations:0 "NCR Negotiations"
- MOJ_ncr_negotiations_desc:0 "Our first step in achieving peace in the Mojave is guaranteeing the safe passage of both of our nations' troops in the Mojave. To that end we have prepared a message to send the NCR, proposing that they be allowed to patrol our lands in exchange for possible mutual support in the future."
+ MOJ_ncr_negotiations:0 "Négociations avec la RNC"
+ MOJ_ncr_negotiations_desc:0 "Notre premier pas vers la paix dans le Mojave est de garantir le passage en toute sécurité des troupes de nos deux nations dans le Mojave. À cette fin, nous avons préparé un message pour envoyer la RNC, proposant qu'ils soient autorisés à patrouiller sur nos terres en échange d'un éventuel soutien mutuel à l'avenir."
 
- MOJ_ncr_trade:0 "NCR Trade"
- MOJ_ncr_trade_desc:0 "Regardless of their response to our last negotiation, opening trade between our two groups will benefit us all."
+ MOJ_ncr_trade:0 "Commerce avec la RNC"
+ MOJ_ncr_trade_desc:0 "Quelle que soit leur réaction à notre dernière négociation, l'ouverture du commerce entre nos deux groupes sera bénéfique pour nous tous."
 
- MOJ_ncr_alliance:0 "Treaty of Sloan"
- MOJ_ncr_alliance_desc:0 "Entering into formal military pact with the NCR will ensure we can focus upon our internal stability and borders, while also keeping us safe from other possible enemies who we could not beat on our own."
+ MOJ_ncr_alliance:0 "Traité de Sloan"
+ MOJ_ncr_alliance_desc:0 "La signature d'un pacte militaire officiel avec la RNC nous permettra de nous concentrer sur notre stabilité interne et nos frontières, tout en nous protégeant contre d'autres ennemis potentiels que nous ne pourrions pas vaincre par nous-mêmes."
 
 
- MOJ_help_the_needy:0 "Help The Needy"
- MOJ_help_the_needy_desc:0 "Our superior technology could be used to great effect improving the state of medical care within the Mojave. Even just the reintroduction of proper pre-natal care and childbirthing practices will make a huge impact in yearly population numbers. Proper medical facilities will also allow us to build rapport with the denizens of the wastes."
+ MOJ_help_the_needy:0 "Aidez les plus démunis"
+ MOJ_help_the_needy_desc:0 "Notre technologie supérieure pourrait être utilisée pour améliorer l'état des soins médicaux au sein du Mojave. Même la simple réintroduction de soins prénatals et de pratiques d'accouchement appropriées aura un impact énorme sur l'augmentation annuel de la population. Des installations médicales adéquates nous permettront également d'établir un rapport avec les habitants des Terres Désolées."
 
- MOJ_incorporate_the_followers:0 "Incorporate The Followers"
- MOJ_incorporate_the_followers_desc:0 "Several of our clinics have been visited by members of the Followers of the Apocalypse. While we are more militant than them, we share a common goal of improving the Mojave, and their extensive expertise will greatly improve our research efforts. It will also, however, allow them to spread their ideals of non aggression from a position of power within our ranks."
+ MOJ_incorporate_the_followers:0 "Incorporer les Disciples "
+ MOJ_incorporate_the_followers_desc:0 "Plusieurs de nos cliniques ont été visitées par des membres des Disciples de l'Apocalypse. Bien que nous soyons plus militants qu'eux, nous partageons un objectif commun : améliorer le Mojave, et leur vaste expertise améliorera grandement nos efforts de recherche. Mais cela leur permettra aussi de répandre leurs idéaux de non-agression à partir d'une position de pouvoir dans nos rangs."
 
- MOJ_wastelander_recruitment:0 "Army of the Mojave"
- MOJ_wastelander_recruitment_desc:0 "Truly, our work in the wasteland has been bountiful for both the chapter and those under its protection. Patrols of Men at Arms and Knight-Paladins keep our lands free from threats, clinics keep our people free of disease and mutation, and our network of farms and ranches supply us with food, leather, and strong warriors. The time has come to finally allow those in our lands to join the Brotherhood."
+ MOJ_wastelander_recruitment:0 "Armée de Mojave"
+ MOJ_wastelander_recruitment_desc:0 "En vérité, notre travail dans les Terres Désolées a été généreux tant pour le Chapitre que pour ceux qui sont sous sa protection. Les patrouilles d'hommes d'armes et de chevaliers-paladins protègent nos terres des menaces, les cliniques protègent notre peuple des maladies et des mutations, et notre réseau de fermes et de ranchs nous fournit de la nourriture, du cuir et des guerriers forts. Le temps est venu de permettre enfin à ceux qui vivent sur nos terres d'adhérer à la Confrérie."
 
  #############
  #OOB TOOLTIPS
  #############
- MOJ_mcnamara_militia:0 "Incorporate local militia forces."
+ MOJ_mcnamara_militia:0 "Incorporer les forces des milices locales."
 
- MOJ_hardin_recruits:0 "Form Knight-Paladin squads from unnecessary Scribes."
+ MOJ_hardin_recruits:0 "Formez des escouades de Chevaliers-Paladin à partir de scribes inutiles."
