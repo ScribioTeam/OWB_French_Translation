@@ -29,41 +29,43 @@
  NCR_MOJ_border_war.6.a:0 "We will recover and win the faith of the people again."
 
  NCR_MOJ_border_war.7.t:0 "Victory Against the NCR"
- NCR_MOJ_border_war.7.d:0 "Challenging the NCR offensive has worked in our favour. The locally assembled troops sent to confront the Brotherhood Troops were not prepared for our knowledge of the impending attack and were defeated, all serving as a warning to nearby warlords that attacking us can be costly.\n\nThe outsiders have only proved that they underestimate us as a foe, and that the People's Republic is once again on the rise."
+ NCR_MOJ_border_war.7.d:0 "Challenging the NCR offensive has worked in our favour. The locally assembled troops sent to confront the Brotherhood Troops were not prepared for our knowledge of the impending attack and were defeated, all serving as a warning to nearby warlords that attacking us can be costly.\n\n 
  NCR_MOJ_border_war.7.a:0 "Political Power grows out of the barrel of a gun."
-
+ NCR_MOJ_border_war.7.a:0 "Political Power grows out of the barrel of a gun."
  NCR_MOJ_border_war.8.t:0 "Clash with Brotherhood Guerrillas"
- NCR_MOJ_border_war.8.d:0 "With both us and the Brotherhood Troops barely having recovered from our previous offensive, our mutual troop presence close to the border has reignited the conflict. In addition to the local warlords and militias, we have considered moving in more troops from elsewhere.\n\nAlthough this may not give us opportunity to crush the Brotherhood menace once and for all, it would be an important ideological victory to show that they will not be allowed to expand further."
+ NCR_MOJ_border_war.8.d:0 "With both us and the Brotherhood Troops barely having recovered from our previous offensive, our mutual troop presence close to the border has reignited the conflict. In addition to the local warlords and militias, we have considered moving in more troops from elsewhere.\n\n
  NCR_MOJ_border_war.8.a:0 "We must draw the line now!"
  NCR_MOJ_border_war.8.b:0 "We can't afford another confrontation."
-
+ NCR_MOJ_border_war.8.a:0 "We must draw the line now!"
  NCR_MOJ_border_war.9.t:0 "Defeat in [From.GetName]"
  NCR_MOJ_border_war.9.d:0 "Despite our efforts to push show that the Brotherhood will not be allowed to expand their influence outside of where they have currently taken refuge, we could not afford to commit enough resources to win the conflict along the [From.GetName] border.\n\nThe sporadic conflicts with Brotherhood militias slowly turned out more and more in their favour, which in the end made the campaign a failure in demonstrating that we have the situation under control. If their strength keeps increasing, the Brotherhood could turn out to be a genuine threat."
  NCR_MOJ_border_war.9.a:0 "Troubling."
-
+ NCR_MOJ_border_war.9.d:0 "Despite our efforts to push show that the Brotherhood will not be allowed to expand their influence outside of where they have currently taken refuge, we could not afford to commit enough resources to win the conflict along the [From.GetName] border.\n\nThe sporadic conflicts with Brotherhood militias slowly turned out more and more in their favour, which in the end made the campaign a failure in demonstrating that we have the situation under control. If their strength keeps increasing, the Brotherhood could turn out to be a genuine threat."
  NCR_MOJ_border_war.10.t:0 "Victory in [From.From.GetName]"
  NCR_MOJ_border_war.10.d:0 "After a number of smaller encounters in the outskirts of our controlled territory, the conflict with the NCR appears to have turned to our advantage. Although maintaining constant pressure has been taxing on our troops and supplies, the effort has been worthwhile.\n\nNo decisive battles have been fought, we have won a slow victory this time, which has strengthened the faith in our cause and fanned the flames of the revolution once again."
  NCR_MOJ_border_war.10.a:0 "This will not be soon forgotten!"
-
+ NCR_MOJ_border_war.10.d:0 "After a number of smaller encounters in the outskirts of our controlled territory, the conflict with the NCR appears to have turned to our advantage. Although maintaining constant pressure has been taxing on our troops and supplies, the effort has been worthwhile.\n\nNo decisive battles have been fought, we have won a slow victory this time, which has strengthened the faith in our cause and fanned the flames of the revolution once again."
  NCR_MOJ_border_war.11.t:0 "Defeat in [From.GetName]"
  NCR_MOJ_border_war.11.d:0 "Our efforts to wage an indirect war against the increased NCR presence has proven disastrous. The outsiders were simply more dedicated to pushing us back than we thought, perhaps expecting the impact this failure would have on our reputation. Although our army is once again safe to recover, for now, the losses have not gone unnoticed by other chapters and tales of our failure have been widely spread."
  NCR_MOJ_border_war.11.a:0 "The revolution is far from dead!"
-
+ NCR_MOJ_border_war.11.d:0 "Our efforts to wage an indirect war against the increased NCR presence has proven disastrous. The outsiders were simply more dedicated to pushing us back than we thought, perhaps expecting the impact this failure would have on our reputation. Although our army is once again safe to recover, for now, the losses have not gone unnoticed by other chapters and tales of our failure have been widely spread."
  NCR_MOJ_border_war.12.t:0 "Victory in [From.From.GetName]"
  NCR_MOJ_border_war.12.d:0 "Our efforts to draw the line against the threat of the Brotherhood have been successful. The Mojave Brotherhoods guerrilla campaigns in response to our increased troop presence in regions surrounding their power base failed to anticipate our dedication to stopping them. This show of strength has ruined the reputation of the Brotherhood in the Mojave and improved ours."
  NCR_MOJ_border_war.12.a:0 "Let us hope they remember."
-
+ NCR_MOJ_border_war.12.d:0 "Our efforts to draw the line against the threat of the Brotherhood have been successful. The Mojave Brotherhoods guerrilla campaigns in response to our increased troop presence in regions surrounding their power base failed to anticipate our dedication to stopping them. This show of strength has ruined the reputation of the Brotherhood in the Mojave and improved ours."
  NCR_MOJ_border_war.13.t:0 "Clash with NCR Army"
  NCR_MOJ_border_war.13.d:0 "While we have still barely recovered from their previous offensive, the outsiders appear to be increasing their troop presence in the areas close to our border. Clearly, they are trying to show that they once again have us contained and that our attempts to fight the NCR have only delayed their final strike against the Mojave Brotherhood. We cannot let the people think this is true."
  NCR_MOJ_border_war.13.a:0 "We cannot afford to spend our time recovering."
+ NCR_MOJ_border_war.13.d:0 "While we have still barely recovered from their previous offensive, the outsiders appear to be increasing their troop presence in the areas close to our border. Clearly, they are trying to show that they once again have us contained and that our attempts to fight the NCR have only delayed their final strike against the Mojave Brotherhood. We cannot let the people think this is true."
+ NCR_MOJ_border_war.14.t:0 "Victory in the Mojave"
 
  NCR_MOJ_border_war.14.t:0 "Victory in the Mojave"
  NCR_MOJ_border_war.14.d:0 "Although it was a hard fought campaign, we have finally driven the Mojave Brotherhood back into Hidden Valley and firmly control a substantial portion of the Mojave. This is a great victory for the republic."
  NCR_MOJ_border_war.14.a:0 "Victory is ours!"
 
- NCR_MOJ_border_conflict_initiate_incident: "Stage Incident at [From.From.GetName] Border"
- NCR_mojave_campaign: "The Mojave Campaign"
- NCR_mojave_campaign_desc: "After the massacre of 38 NCR citizens at the hands of Mojave raiders in the same year, we must move to protect our people in the dangerous wasteland that is the Mojave. From intel gathered by our scout parties, not only raiders occupy this land. It appears the great war city of Vegas is remarkably intact, being relatively untouched by the great war. A chapter of the Brotherhood also appears to control a pre-war power plant called "Helios One". To say the least, they do not appear eager to share it with us. Defeating them will not be easy, we've been unable to discover their home bases, forcing us to push them back one battle at a time."
+ NCR_MOJ_border_conflict_initiate_incident:0 "Stage Incident at [From.From.GetName] Border"
+ NCR_mojave_campaign:0 "The Mojave Campaign"
+ NCR_mojave_campaign_desc:38 "After the massacre of 38 NCR citizens at the hands of Mojave raiders in the same year, we must move to protect our people in the dangerous wasteland that is the Mojave. From intel gathered by our scout parties, not only raiders occupy this land. It appears the great war city of Vegas is remarkably intact, being relatively untouched by the great war. A chapter of the Brotherhood also appears to control a pre-war power plant called "Helios One". To say the least, they do not appear eager to share it with us. Defeating them will not be easy, we've been unable to discover their home bases, forcing us to push them back one battle at a time."
  border_conflict_initiate_incident:0 "Stage Incident at [From.From.GetName] Border"
  border_conflict_incident_warning_defender:0 "Incident at [From.From.GetName] border to [From.GetNameDef]"
  border_conflict_incident_warning_defender_desc:0 "§WMove divisions to §H[From.From.GetName]§!§!"
