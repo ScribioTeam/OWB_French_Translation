@@ -2,6 +2,7 @@
 path="mod/OWBFrenchTranslationGit/"
 dependencies={
 	"Old World Blues"
+	"Old World Blues - Music"
 }
 tags={
 	"Translation"
