@@ -40,6 +40,7 @@ country_event = {
 			}
 			add_ideas = enhanced_legion_campaign
 		}
+		country_event = { id = scribio.2 }
 
 		ai_chance = {
 			factor = 0
@@ -59,12 +60,14 @@ country_event = {
 			}
 			add_ideas = enhanced_legion_campaign
 		}
+		country_event = { id = scribio.2 }
 	}
 	option = {
 		name = startup.2.c
 		ai_chance = {
 			factor = 100
 		}
+		country_event = { id = scribio.2 }
 	}
 }
 
@@ -91,6 +94,7 @@ country_event = {
 		ai_chance = {
 			factor = 0
 		}
+		country_event = { id = scribio.2 }
 	}
 	option = {
 		name = startup.3.b
@@ -106,12 +110,14 @@ country_event = {
 			}
 			add_ideas = enhanced_ncr_campaign
 		}
+		country_event = { id = scribio.2 }
 	}
 	option = {
 		name = startup.3.c
 		ai_chance = {
 			factor = 100
 		}
+		country_event = { id = scribio.2 }
 	}
 }
 
