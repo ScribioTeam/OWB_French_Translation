@@ -1,0 +1,66 @@
+﻿l_english:
+ # Equipment naming is inherited from the equipment name when displayed in the techtree
+ #----------------------------
+ # Folders
+ #----------------------------
+ fallout_infantry_folder:0 "Infantry"
+ fallout_infantry_folder_desc:0 ""
+ fallout_support_folder:0 "Support"
+ fallout_support_folder_desc:0 ""
+ fallout_vehicle_folder:0 "Vehicles"
+ fallout_vehicle_folder_desc:0 ""
+ fallout_land_doctrine_folder:0 "Land Doctrine"
+ fallout_land_doctrine_folder_desc:0 ""
+
+ fallout_air_folder:0 "Air"
+ fallout_air_folder_desc:0 ""
+ fallout_air_doctrine_folder:0 "Air Doctrine"
+ fallout_air_doctrine_folder_desc:0 "Although producing new aircraft is highly unlikely for all but the most advanced of factions, researching methods to repair the exponentially more complicated aircraft which remain in the wasteland can provide a way to enhance and assist our combat forces on the ground."
+
+ fallout_naval_folder:0 "Naval"
+ fallout_naval_folder_desc:0 ""
+ fallout_naval_doctrine_folder:0 "Naval Doctrine"
+ fallout_naval_doctrine_folder_desc:0 ""
+
+ fallout_robotics_folder:0 "Robotics"
+ fallout_robotics_folder_desc:0 "Before the war happened robots were used for a variety of purposes. In the wasteland they can be utilized as combat weapons to great effect with proper investments in technology."
+
+ fallout_industry_folder:0 "Industry"
+ fallout_industry_folder_desc:0 "Although much of the equipment used comes at least in part from the great war, restoring such equipment requires organized industry. Providing proper investment in researching new methods of production is essential to survival in the wasteland."
+ fallout_engineering_folder:0 "Engineering"
+ fallout_engineering_folder_desc:0 ""
+
+ #----------------------------
+ # Categories
+ #----------------------------
+ civilization_tech:0 "Civilization"
+ robotics_tech:0 "Robotics"
+ ballistic_weaponry_tech:0 "Firearms"
+ melee_weaponry_tech:0 "Melee Weapons"
+ energy_weaponry_tech:0 "Energy Weapons"
+ power_armor_tech:0 "Power Armour"
+ specops_tech:0 "Spec Ops"
+ plasma_weaponry_tech:0 "Plasma Weaponry"
+ tesla_weaponry_tech:0 "Tesla Weaponry"
+ gauss_weaponry_tech:0 "Gauss Weaponry"
+ category_robots:0 "Robots"
+
+ ship_destroyer_tech:0 "Sea Raiders"
+ ship_cruiser_tech:0 "Heavy Raiders"
+ ship_heavy_cruiser_tech:0 "Siege Ships"
+ ship_battleship_tech:0 "Super-heavy Siege Ships"
+ ship_carrier_tech:0 "Seaplane Siege Ships"
+ naval_tech:0 "Naval"
+ chem_tech:0 "Chem Studies"
+
+ #----------------------------
+ # Civilizations
+ #----------------------------
+ tribal_civilization:0 "Is Tribal"
+ tribal_civilization_desc:0 ""
+ settled_civilization:0 "Is Civilized"
+ settled_civilization_desc:0 ""
+ scientific_civilization:0 "Is Advanced"
+ scientific_civilization_desc:0 ""
+ super_mutant_civilization:0 "Super Mutant Civilization"
+ super_mutant_civilization_desc:0 ""

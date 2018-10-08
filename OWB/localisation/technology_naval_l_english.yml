@@ -1,0 +1,66 @@
+﻿l_english:
+ # Equipment naming is inherited from the equipment name when displayed in the techtree
+
+ #----------------------------
+ # Naval
+ #----------------------------
+ sailor_training:0 "Sailor Training"
+ sailor_training_desc:0 ""
+
+ destroyer_tech:0 "Outrigger Canoe I"
+ destroyer_tech_desc:0 ""
+ destroyer_tech_2:0 "Outrigger Canoe II"
+ destroyer_tech_2_desc:0 ""
+ destroyer_tech_3:0 "Response Boat I"
+ destroyer_tech_3_desc:0 ""
+ destroyer_tech_4:0 "Response Boat II"
+ destroyer_tech_4_desc:0 ""
+ destroyer_tech_5:0 "Armed Craft I"
+ destroyer_tech_5_desc:0 ""
+ destroyer_tech_6:0 "Armed Craft II"
+ destroyer_tech_6_desc:0 ""
+
+ cruiser_tech:0 "Sailing Ship I"
+ cruiser_tech_desc:0 ""
+ cruiser_tech_2:0 "Sailing Ship II"
+ cruiser_tech_2_desc:0 ""
+ cruiser_tech_3:0 "Armed Tug I"
+ cruiser_tech_3_desc:0 ""
+ cruiser_tech_4:0 "Armed Tug II"
+ cruiser_tech_4_desc:0 ""
+ cruiser_tech_5:0 "Patrol Ship I"
+ cruiser_tech_5_desc:0 ""
+ cruiser_tech_6:0 "Patrol Ship II"
+ cruiser_tech_6_desc:0 ""
+
+ heavy_cruiser_tech:0 "Barge I"
+ heavy_cruiser_tech_desc:0 ""
+ heavy_cruiser_tech_2:0 "Barge II"
+ heavy_cruiser_tech_2_desc:0 ""
+ heavy_cruiser_tech_3:0 "Paddle Steamer I"
+ heavy_cruiser_tech_3_desc:0 ""
+ heavy_cruiser_tech_4:0 "Paddle Steamer II"
+ heavy_cruiser_tech_4_desc:0 ""
+ heavy_cruiser_tech_5:0 "Destroyer I"
+ heavy_cruiser_tech_5_desc:0 ""
+ heavy_cruiser_tech_6:0 "Destroyer II"
+ heavy_cruiser_tech_6_desc:0 ""
+
+ battleship_tech:0 "Super-heavy Barge"
+ battleship_tech_desc:0 ""
+ battleship_tech_2:0 "Super-heavy Paddle Steamer"
+ battleship_tech_2_desc:0 ""
+ battleship_tech_3:0 "Super-heavy Destroyer"
+ battleship_tech_3_desc:0 ""
+
+ carrier_tech:0 "Seaplane Steamer"
+ carrier_tech_desc:0 ""
+ carrier_tech_2:0 "Seaplane Destroyer"
+ carrier_tech_2_desc:0 ""
+
+ naval_invasion_tech:0 "Landing Canoes"
+ naval_invasion_tech_desc:0 ""
+ naval_invasion_tech_2:0 "Landing Barge"
+ naval_invasion_tech_2_desc:0 ""
+ naval_invasion_tech_3:0 "Assault Craft"
+ naval_invasion_tech_3_desc:0 ""

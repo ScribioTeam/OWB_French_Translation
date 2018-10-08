@@ -151,9 +151,13 @@
  nf_vegas.34.a:0 "Accept"
  nf_vegas.34.b:0 "Decline"
 
- nf_vegas.35.t:0 "Mojave BOS Accepts"
- nf_vegas.35.d:0 "The Mojave BOS has accepted our alliance proposal."
+ nf_vegas.35.t:0 "New Reno Accepts"
+ nf_vegas.35.d:0 "New Reno has accepted our alliance proposal."
  nf_vegas.35.a:0 "Very good."
+
+ nf_vegas.36.t:0 "New Reno Decline"
+ nf_vegas.36.d:0 "New Reno have declined our alliance proposal."
+ nf_vegas.36.a:0 "How unfortunate."
  #placeholder localisation ends
 
  nf_vegas.37.t:0 "Nevada Pact"
@@ -222,23 +226,26 @@
  nf_vegas.52.d:0 "This afternoon my securitrons patrolling the New Vegas outskirts located the courier I had been expecting. I'd been trailing them throughout their journey, and with them so close to the finish, I sent out a patrol to retrieve the chip. With their delivery completed I handed over the money and sent them on their way - and brought my robots back to deliver the chip to me."
  nf_vegas.52.a:0 "After almost two centuries..."
 
- nf_vegas.54.t:0 "Vegas Joins the NCR?"
- nf_vegas.54.d:0 "Dennis Crocker, the head of the NCR embassy on the strip, has approached us with an offer relayed to him direct from their capital. They wish to invite us into the NCR as an autonomous state."
- nf_vegas.54.a:0 "Sign the Petition."
- nf_vegas.54.b:0 "We shall stay sovereign."
-
  nf_vegas.53.t:0 "The State of Vegas."
  nf_vegas.53.d:0 "Our treaties with Vegas have been quite beneficial to us recently. Goodwill has been apparent, and with the Legion encroaching in the west, incorporating Vegas as an official member state of the Republic might be the best option."
  nf_vegas.53.a:0 "Send a messenger."
  nf_vegas.53.b:0 "We would rather not."
 
- veg_chip_delivered: "Has the Platinum Chip"
- load_maudsmuggers: "§YSpawn 1 elite infantry§!"
- load_bennythugs: "§YSpawn 2 infantry§!"
- load_gommorrahthugs: "§YSpawn 4 infantry§!"
- load_topsthugs: "§YSpawn 4 infantry§!"
- load_ultraluxethugs: "§YSpawn 4 infantry§!"
- load_firstbatch: "§YSpawn 2 Securitrons§!"
- load_vegassecurity: "§YSpawn 4 Securitrons§!"
- load_vegasmobilewarfare: "§YSpawn 2 Motorized units§!"
- load_lakemead: "§YSpawn Bombers§!"
+ nf_vegas.54.t:0 "Vegas Joins the NCR?"
+ nf_vegas.54.d:0 "Dennis Crocker, the head of the NCR embassy on the strip, has approached us with an offer relayed to him direct from their capital. They wish to invite us into the NCR as an autonomous state."
+ nf_vegas.54.a:0 "Sign the Petition."
+ nf_vegas.54.b:0 "We shall stay sovereign."
+ #placeholder localisation Begins
+ nf_vegas.55.t:0 "Nevada Pact with New Vegas"
+ nf_vegas.55.d:0 "New Vegas has proposed an alliance with them."
+ nf_vegas.55.a:0 "Accept"
+ nf_vegas.55.b:0 "Decline"
+
+ nf_vegas.56.t:0 "Vault City Accepts"
+ nf_vegas.56.d:0 "Vault City has accepted our alliance proposal."
+ nf_vegas.56.a:0 "Very good."
+
+ nf_vegas.57.t:0 "Vault City Decline"
+ nf_vegas.57.d:0 "Vault City have declined our alliance proposal."
+ nf_vegas.57.a:0 "How unfortunate."
+ #placeholder localisation ends

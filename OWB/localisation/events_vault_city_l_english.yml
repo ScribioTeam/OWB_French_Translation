@@ -54,6 +54,10 @@
  nf_vault_city.10.d:0 "Thunderbird offers to pledge himself and his tribe to us if we are ever at war, but wishes to have full control of the stretch of I-80 that we currently control."
  nf_vault_city.10.a:0 "Agree to his terms."
  nf_vault_city.10.b:0 "Reject his terms."
+ 
+ nf_vault_city.11.t:0 "Storming the Crescent"
+ nf_vault_city.11.d:0 "One of our security teams managed to penetrate the heavily defended mountain passes of Crescent Valley. Inside was a beautiful microcosm, with clean air, clean water, and rolling fields of crops. After interrogating a local farmer, it comes clear that his people have no idea that their leader is the bloodthirsty Face Masher. Though he is a terror to the outside world, in this little bubble he is a saviour and a beloved leader."
+ nf_vault_city.11.a:0 "We shall decide their fate later."
 
  #Decisions
 
@@ -107,3 +111,5 @@
  nf_vault_tec.10.t:0 "Clearance Team Report"
  nf_vault_tec.10.d:0 "Clearance of Vault 22 has gone disastrously. While the team has managed to clear all of the plant life and mutants from the vault, they themselves have become infected. An apology, then the sounds of several 10mm pistol shots echo through the radio, followed by silence."
  nf_vault_tec.10.a:0 "Their sacrifice was noble."
+ 
+
