@@ -1,0 +1,259 @@
+﻿l_french:
+ # Equipment naming is inherited from the equipment name when displayed in the techtree
+
+ #----------------------------
+ # Infantry Training
+ #----------------------------
+  militia_training:0 "Entraînement de la milice"
+ militia_training_desc:0 "Les structures d'organisation et de commandement de base se prêtent aussi bien aux groupes de chasseurs qu'aux forces conscrits."
+ warrior_training:0 "Entraînement des guerriers"
+ warrior_training_desc:0 "Les rangs et les tactiques d'escouade permettent une meilleure force de combat."
+ guerilla_tactics:0 "Tactiques de guérilla"
+ guerilla_tactics_desc:0 "L'utilisation des déchets sauvages et des bâtiments bombardés à votre avantage est la clé pour gagner à la guerre des Terres Désolées"
+ platoon_training:0 "Entraînement en peloton"
+ platoon_training_desc:0 "Le passage d'une escouade mal organisée à une armée interconnectée est d'une grande envergure, ce qui a un effet surprenant."
+ basic_drill:0 "Entraînement extrême de base"
+ basic_drill_desc:0 "Des doctrines militaires normalisées et beaucoup de pratique font d'une lame émoussé un couteau tranchant."
+ mechanized_training:0 "Mechanized Training"
+ mechanized_training_desc:0 "The reintroduction of vehicles into the military calls for a reintroduction of the tactics to accompany them."
+ shock_tactics:0 "Shock Tactics"
+ shock_tactics_desc:0 "Quick, Brutal, Unrelenting. This is how you end a war before it starts."
+
+ #----------------------------
+ # Ranged Weaponry
+ #----------------------------
+ standard_weaponry_tech:0 "Armes rudimentaires"
+ standard_weaponry_tech_desc:0 "Les pistolets en tuyaux sont faciles à fabriquer, faciles à entretenir en raison de leur simplicité, ne nécessitent pas de plan, pas de matériaux spéciaux et pas d'usinage spécial en raison de leur canon lisse. Tous ces facteurs en font aussi objectivement les armes balistiques les moins efficaces des Terres Désolées. Il faut choisir entre la balistique ou les armes de mêlée."
+ basic_laser_weaponry:0 "Armes laser basiques"
+ basic_laser_weaponry_desc:0 "Improvisées de l'armement laser plus avancé, ces armes portent les avantages de l'armement laser tout en étant relativement simple à fabriquer ; cependant, ils sont significativement plus faibles qu'un fusil laser correctement construit."
+ improved_laser_weaponry:0 "Armes laser améliorées"
+ improved_laser_weaponry_desc:0 "En utilisant les plans standardisés des fabricants d'avant-guerre et des exemples déterrés d'ingénierie inverse, nous avons découvert comment fabriquer des armes laser d'avant-guerre ; c'est plus mortel et plus fiable que toutes celles que nous avons utilisées dans le passé."
+ advanced_laser_weaponry:0 "Armes laser avancées"
+ advanced_laser_weaponry_desc:0 "Nous avons travaillé dur pour améliorer les anciens modèles, et ce que nous avons créé ne peut pas être comparé avec précision à ce qui existait avant la guerre ; nous avons amélioré les armes laser d'avant-guerre et les avons renforcées."
+ basic_ballistic_weaponry:0 "Armes balistiques basiques"
+ basic_ballistic_weaponry_desc:0 "En fabriquant à partir de plans normalisés d'avant-guerre, nous pouvons rendre nos pistolets plus efficaces grâce à l'utilisation combinée de canons rayés et de matériaux de qualité, par opposition aux efforts de nos pistolets en tuyaux."
+ improved_ballistic_weaponry:0 "Armes balistiques améliorées"
+ improved_ballistic_weaponry_desc:0 "En utilisant des fusils, nous pouvons augmenter la portée de combat efficace de nos troupes, ce qui permet de mieux organiser les engagements autour d'un tir précis et suppressif que des tactiques de charge."
+ advanced_ballistic_weaponry:0 "Armes balistiques avancées"
+ advanced_ballistic_weaponry_desc:0 "Les fusils d'assaut permettent à notre infanterie standard d'atteindre avec précision les cibles à grande portée avec des balles de grands calibres et de faire une projection mortelle à moyenne portée, augmentant ainsi la polyvalence et les capacités de choc d'un soldat."
+ warrior_equipment:0 "Équipement du guerrier"
+ warrior_equipment_desc:0 "Fournir des choses comme des sacs, des sacs de couchage, des trousses médicales et des outils d'entretien améliore le moral et l'efficacité au combat."
+ overcharged_ammunition:0 "Munitions surchargées"
+ overcharged_ammunition_desc:0 "En demandant à nos fabricants de surcharger nos MFC, ECP et EC avant de les expédier à nos troupes, nous pouvons nous assurer que nos armes à énergie sont plus puissantes sans qu'il soit nécessaire de modifier directement l'arme."
+ custom_built_capacitors:0 "Condensateurs sur mesure"
+ custom_built_capacitors_desc:0 "En fabriquant nos condensateurs sur mesure, nous pouvons réguler le débit d'énergie de nos armes et nous assurer que les explosions sont aussi puissantes que nous le souhaitons, sans être découragés par les limites des plans originaux du fabricant en termes d'usine. "
+ basic_infantry_equipment:0 "Équipement de base de l'infanterie"
+ basic_infantry_equipment_desc:0 "En donnant à chaque fantassin un ensemble normalisé d'équipement, nous pouvons améliorer l'efficacité de chaque unité sur tous les fronts et donner à nos soldats un sentiment d'uniformité et d'unité."
+ prewar_infantry_kit:0 "Kit d'infanterie d'avant-guerre"
+ prewar_infantry_kit_desc:0 "En rétablissant le kit d'infanterie fourni par l'armée américaine avant la guerre, nous pouvons obtenir une armée qui rivalise avec celle des superpuissances d'avant-guerre ; une pensée vraiment impressionnante."
+
+ #----------------------------
+ # Melee Weaponry
+ #----------------------------
+ blunt_weaponry:0 "Arme contondante"
+ blunt_weaponry_desc:0 "Les armes contondantes sont grossières et improvisées, mais elles peuvent être facilement récupérées et être utilisées comme des armes qui valent mieux que rien, mais pas par un lot entier. Il faut choisir entre se spécialiser dans la balistique ou dans les armes de mêlée ; la fabrication des deux laissera nos unités désorganisées et équipées de manière chaotique."
+ slashing_weaponry:0 "Armes tranchantes"
+ slashing_weaponry_desc:0 "L'utilisation d'armes tranchantes avec des lames peut apporter des améliorations significatives en termes de létalité pour l'infanterie utilisant des armes de mêlée."
+ powered_weaponry:0 "Armes assistées"
+ powered_weaponry_desc:0 "Les armes de mêlée assistées sophistiquées, bien que plus chères, peuvent vraiment donner un coup de poing et être très efficaces dans les bonnes mains."
+
+ #----------------------------
+ # Combat Supplies
+ #----------------------------
+ leather_armour:0 "Armure en cuir"
+ leather_armour_desc:0 "Simple armure en cuir qui peut fournir une protection minimale contre les attaques ennemies, pas grand-chose mais certainement mieux que rien."
+ metal_armour:0 "Armure en métal"
+ metal_armour_desc:0 "Des armures simples fabriquées à partir de sections soudées peuvent fournir une meilleure protection contre les attaques ennemies, ce qui rend l'infanterie plus résistante."
+ combat_armour:0 "Armure de combat"
+ combat_armour_desc:0 "Une armure de combat d'avant-guerre de qualité militaire appropriée, délivrée à pratiquement toutes les unités de combat américaines pendant la grande guerre, assure toujours une grande protection pour les troupes en Terres Désolées."
+ advanced_combat_armour:0 "Armure de combat avancée"
+ advanced_combat_armour_desc:0 "Une armure de combat encore améliorée permet un degré de protection plus élevé, même rarement vu avant la grande guerre, pour les unités d'infanterie."
+ binoculars:0 "Jumelles"
+ binoculars_desc:0 "Simples paires de jumelles. L'utilisation de jumelles aux troupes au sol permet aux ennemis d'être repérés à une plus grande distance et de mieux comprendre le champ de bataille pour les troupes au sol."
+ flare_guns:0 "Pistolet de détresse"
+ flare_guns_desc:0 "Pistolet de détresse à un coup qui peuvent être utilisés pour fournir aux troupes au sol une capacité de signalisation de base et fiable."
+ portable_radio:0 "Émetteur-récepteur radio mobile"
+ portable_radio_desc:0 "Des radios à courte fréquence qui peuvent être utilisées pour la communication de base avec les unités à proximité, ce qui assure une plus grande cohérence au niveau du sol."
+ smoke_grenades:0 "Grenades fumigènes"
+ smoke_grenades_desc:0 "Des grenades fumigènes qui, une fois la goupille tirée, commencent à émettre un nuage de fumée. Les unités qui utilisent ce type d'équipement peuvent plus facilement dissimuler leur présence au combat ou bloquer les lignes de visée de l'ennemi, ce qui leur confère un avantage tactique distinct."
+ automatic_distress_beacon:0 "Balise de détresse automatique"
+ automatic_distress_beacon_desc:0 "Les balises de détresse automatiques à longue portée commencent à émettre un signal dès que l'appareil cesse de répondre. Peut être utilisé comme un outil inestimable pour un commandant de champ de bataille pour comprendre de façon fiable l'état actuel de ses unités sur le terrain."
+ herbal_bandages:0 "Bandages à base de plantes"
+ herbal_bandages_desc:0 "Les pansements avec une pommade à base de plantes peuvent procurer un certain soulagement de la douleur et l'engourdissement dans le cas de blessures de combat très mineures leur permettant de combattre davantage."
+ sterile_medical_equipment:0 "Équipement médical stérile"
+ sterile_medical_equipment_desc:0 "Kits d'équipement médical stériles et de base pour le traitement des plaies mineures."
+ medic_bags:0 "Sacs médicaux"
+ medic_bags_desc:0 "Des trousses complètes d'équipement médical qui peuvent traiter des blessures mineures sur le champ de bataille, y compris l'équipement comme des attelles pour les membres fracturés."
+ med_x_auto_injectors:0 "Auto-injecteurs Med-X"
+ med_x_auto_injectors_desc:0 "De simples injecteurs Med-X peuvent augmenter la résistance à la douleur des unités au sol, ce qui permet même à celles dont les membres sont fracturés de continuer à combattre avec une certaine efficacité."
+
+ #----------------------------
+ # Power Armour
+ #----------------------------
+ power_armour:0 "Armure assistée basique"
+ power_armour_desc:0 "Les armures assistées sont le sommet de la technologie de l'infanterie blindée, permettant à l'utilisateur de résister aux dangers les plus extrêmes de la guerre."
+ power_armour_t45d:0 "Armure assistée T-45d"
+ power_armour_t45d_desc:0 "La T-45D a été initialement déployée en 2067. La toute première combinaison qui a vu l'utilisation réelle en combat. Bien qu'il était clair que sa conception comportait de nombreux défauts, il s'agissait néanmoins d'une pièce d'équipement très efficace."
+ power_armour_t51b:0 "Armure assistée T-51b"
+ power_armour_t51b_desc:0 "L'apogée de l'armure d'avant-guerre. Un design amélioré, qui corrige la plupart des défauts de son prédécesseur, le T-45D. Un produit phare de West-Tek"
+ power_armour_light:0 "Armure antiémeute"
+ power_armour_light_desc:0 "Inspiré de l'équipement antiémeute de la L.A.P.D, ce blindage est essentiellement une variante plus lourde de l'amure de combat."
+ power_armour_light_1:0 "Armure antiémeute d'élite"
+ power_armour_light_1_desc:0 "Cette variante de l'équipement antiémeute comprend de multiples améliorations, y compris un placage supplémentaire et une visière à faible luminosité."
+ power_armour_t45d_light:0 "T45D en matériau composite"
+ power_armour_t45d_light_desc:0 "Conception expérimentale qui a remplacé la plupart des composants du T-45D´s par des composites légers. Cela a réduit sa protection mais a également permis une fabrication plus facile et une réduction du poids."
+
+ power_armour_enclave1:0 "Armure assistée de l'Enclave Mk I"
+ power_armour_enclave1_desc:0 ""
+
+ power_armour_enclave2:0 "Armure assistée de l'Enclave Mk II"
+ power_armour_enclave2_desc:0 ""
+
+ power_armour_bos:0 "Armure avancée Washington"
+ power_armour_bos_desc:0 ""
+
+ power_armour_legion:0 "Lorica Segmentata"
+ power_armour_legion_desc:0 ""
+
+ power_armour_raider:0 "Armure assistée Raider"
+ power_armour_raider_desc:0 ""
+
+ #----------------------------
+ # Special Forces
+ #----------------------------
+ special_forces:0 "Opérations spéciales"
+ special_forces_desc:0 ""
+
+ hills_training:0 "Entraînement dans les collines"
+ hills_training_desc:0 ""
+ mountain_training:0 "Entraînement en montagne"
+ mountain_training_desc:0 ""
+ forest_training:0 "Entraïnement en forêt"
+ forest_training_desc:0 ""
+ plains_training:0 "Entraïnement en plaine"
+ plains_training_desc:0 ""
+ desert_training:0 "Entraïnement dans le désert"
+ desert_training_desc:0 ""
+ urban_training:0 "Entraïnement urbain"
+ urban_training_desc:0 ""
+ marsh_training:0 "Entraînement dans les marais"
+ marsh_training_desc:0 ""
+ river_training:0 "Formation sur les cours d'eau"
+ river_training_desc:0 ""
+ amphibious_training:0 "Entraînement amphibie"
+ amphibious_training_desc:0 ""
+
+ #----------------------------
+ # Special
+ #----------------------------
+ gauss_weaponry:0 "Armes Gauss"
+ gauss_weaponry_desc:0 ""
+ tesla_weaponry:0 "Armes Tesla"
+ tesla_weaponry_desc:0 ""
+ plasma_weaponry:0 "Armes Plasma"
+ plasma_weaponry_desc:0 ""
+ super_mutant_melee_weapons:0 "Couperet et merlin"
+ super_mutant_melee_weapons_desc:0 ""
+
+ #----------------------------
+ # Sub-techs
+ #----------------------------
+ servo_motors:0 "Servomoteurs"
+ servo_motors_desc:0 ""
+ mounted_cooler:0 "Refroidisseur monté"
+ mounted_cooler_desc:0 ""
+ reinforced_plating:0 "Plaque renforcée"
+ reinforced_plating_desc:0 ""
+ sensor_array:0 "Réseau de capteurs"
+ sensor_array_desc:0 ""
+ recon_sensors:0 "Capteurs de reconnaissance"
+ recon_sensors_desc:0 ""
+ tesla_coils:0 "Bobines Tesla"
+ recoil_compensating_grip:0 "Poignée de compensation de recul"
+ recoil_compensating_grip_desc:0 ""
+ gauss_agitator:0 "Agitateur magnétique"
+ gauss_agitator_desc:0 ""
+ maximized_capacitor:0 "Condensateur maximisé"
+ maximized_capacitor_desc:0 ""
+ tesla_exciter:0 "Excitateur Tesla"
+ tesla_exciter_desc:0 ""
+ beta_wave_tuner:0 "Accordeur d'ondes bêta"
+ beta_wave_tuner_desc:0 ""
+ photon_agitator:0 "Agitateur de photons"
+
+ #----------------------------
+ # Nation Specific Localisation
+ #----------------------------
+
+ #----------------------------
+ # DES
+ #----------------------------
+
+ #----------------------------
+ # NCR
+ #----------------------------
+ NCR_leather_armour:0 "Tenue de soldat"
+ NCR_leather_armour_desc:0 "Les uniformes standardisés et les armures légères réduisent les pertes causées par les tirs amis et ennemis."
+ NCR_metal_armour:0 "Plastron blindée"
+ NCR_metal_armour_desc:0 "L'incorporation de cuirasses blindées en cuir dans la trousse standard de la RNC réduit encore davantage le nombre de victimes tout en augmentant le courage de l'individu."
+ NCR_combat_armour:0 "Armure de patrouille de la RNC"
+ NCR_combat_armour_desc:0 "Les modifications et les améliorations apportées à la combinaison standard des armures de combat ont permis d'accroître considérablement l'efficacité opérationnelle et de réduire les dangers des patrouilles dans les zones militarisées."
+ NCR_advanced_combat_armour:0 "Armure antiémeutes de la RNC"
+ NCR_advanced_combat_armour_desc:0 "La découverte de l'armurerie antiémeute massive du LAPD, ainsi que la chance de trouver un ensemble presque intact d'outils industriels pour ce type d'armes, a eu pour résultat l'utilisation généralisée de ces merveilles de répression des émeutes d'avant-guerre."
+ NCR_warrior_equipment:0 "Modifications d'armes"
+ NCR_warrior_equipment_desc:0 "En permettant aux soldats de personnaliser leurs armes à leur gré, les forces et les faiblesses de chaque soldat peuvent être utilisées à leur avantage."
+ NCR_basic_infantry_equipment:0 "Kits de conversion 12.7mm"
+ NCR_basic_infantry_equipment_desc:0 "Basé sur les modifications apportées par les soldats avant la guerre aux fusils privés, les kits de conversion de canon et d'action améliorent la portée et la puissance de feu de leur arme de service."
+ NCR_prewar_infantry_kit:0 "Capteurs de tenue réparées"
+ NCR_prewar_infantry_kit_desc:0 "Grâce à l'ingénierie inverse d'exemples de travail, les techniciens de l'armée de la RNC ont réussi à répliquer quelque peu les systèmes électriques pour les systèmes de vision infrarouge et nocturne du bouclier antiémeutes."
+
+ #----------------------------
+ # VEG
+ #----------------------------
+
+ # not used currently
+ # Localisation special forces tech
+ special_forces_doctrine:0 "Opérations spéciales"
+ special_forces_doctrine_desc:0 ""
+ spec_force_jungle_marsh_training:0 "Entraînement en terrain humide"
+ spec_force_jungle_marsh_training_desc:0 ""
+ spec_force_hills_mountain_spec_training:0 "Entraînement en montagne"
+ spec_force_hills_mountain_spec_training_desc:0 ""
+ spec_force_hills_mountain_power_training:0 "Entraînement en montagne"
+ spec_force_hills_mountain_power_training_desc:0 ""
+ spec_force_environment_training:0 "Entraînement en environnement"
+ spec_force_environment_training_desc:0 ""
+ spec_force_urban_fort_training:0 "Entraînement urbain"
+ spec_force_urban_fort_training_desc:0 ""
+ spec_force_plain_forest_training:0 "Entraînement sur champs de bataille"
+ spec_force_plain_forest_training_desc:0 ""
+ spec_force_forrest_training:0 "Entraînement en forêt"
+ spec_force_forrest_training_desc:0 ""
+ spec_force_special_divisions:0 "Divisions des opérations spéciales"
+ spec_force_special_divisions_desc:0 ""
+ spec_force_cap:0 "Aggrandissement des listes de candidats"
+ spec_force_cap_desc:0 ""
+ spec_force_cap_1:0 "Investissements lourds"
+ spec_force_cap_1_desc:0 ""
+ spec_force_cap_2:0 "Campagnes d'éducation physique"
+ spec_force_cap_2_desc:0 ""
+ spec_force_defense:0 "Entraînement défensif"
+ spec_force_defense_desc:0 ""
+ spec_force_offence:0 "Entraînement offensif"
+ spec_force_offence_desc:0 ""
+ spec_force_recovery:0 "Formation au déploiement rapide"
+ spec_force_recovery_desc:0 ""
+ spec_force_organisation:0 "Hiérarchie organique"
+ spec_force_organisation_desc:0 ""
+ spec_force_marine_training:0 "Formation en mer"
+ spec_force_marine_training_desc:0 ""
+ spec_force_maintenance_training:0 "Enseignement de l'entretien"
+ spec_force_maintenance_training_desc:0 ""
+ spec_force_assault_training:0 "Entraînement aux assauts"
+ spec_force_assault_training_desc:0 ""
+ spec_force_heavy_infantry_focus:0 "Accent sur l'infanterie lourde"
+ spec_force_heavy_infantry_focus_desc:0 ""
+ spec_force_light_infantry_focus:0 "Accent sur l'infanterie légère"
+ spec_force_light_infantry_focus_desc:0 ""
+ spec_force_elite_forces:0 "Forces d'élite"
+ spec_force_elite_forces_desc:0 ""

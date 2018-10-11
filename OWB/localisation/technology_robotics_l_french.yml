@@ -1,0 +1,31 @@
+﻿l_french:
+ # Equipment naming is inherited from the equipment name when displayed in the techtree
+
+ #----------------------------
+ # Robotics
+ #----------------------------
+ commercial_protectron:0 "Protectron commercial"
+ commercial_protectron_desc:0 ""
+
+ security_protectron:0 "Protectron de sécurité"
+ security_protectron_desc:0 ""
+ servo_maintenance_tech:0 "Maintenance des servomoteurs "
+ servo_maintenance_tech_desc:0 ""
+ mr_handy_tech:0 "Mr. Handy"
+ mr_handy_tech_desc:0 ""
+ engine_adjustments_tech:0 "Réglages moteur"
+ engine_adjustments_tech_desc:0 "Malgré les apparences, le moteur est quelque chose qu'il faut ajuster. Nous ne voudrions pas qu'ils tombent en panne en face des rangs adverses."
+ mr_gutsy_tech:0 "Mr. Gutsy"
+ mr_gutsy_tech_desc:0 ""
+ combat_protocol_upgrade_tech:0 "Mise-à-jour du protocole de combat"
+ combat_protocol_upgrade_tech_desc:0 ""
+ robo_brain_tech:0 "Robo-Brain"
+ robo_brain_tech_desc:0 ""
+ pre_war_targeting_systems_tech:0 "Système de visée d'avant-guerre"
+ pre_war_targeting_systems_tech_desc:0 ""
+ sentry_bot_tech:0 "Robot-sentinel"
+ sentry_bot_tech_desc:0 ""
+ securitron_tech:0 "Securitron Mk I"
+ securitron_tech_desc:0 ""
+ securitron_2_tech:0 "Securitron Mk II"
+ securitron_2_tech_desc:0 ""

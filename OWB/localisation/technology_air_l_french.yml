@@ -1,0 +1,58 @@
+﻿l_french:
+ # Equipment naming is inherited from the equipment name when displayed in the techtree
+ # Air
+ pilot_training:0 "Entraînement au pilotage"
+ pilot_training_desc:0 ""
+
+ scrap_fighter:0 "Avion de chasse en matériaux de récupération"
+ scrap_fighter_desc:0 ""
+ salvaged_fighter:0 "Avion de chasse récupéré"
+ salvaged_fighter_desc:0 ""
+ nuclear_salvaged_fighter:0 " Chasseur nucléaire récupéré"
+ nuclear_salvaged_fighter_desc:0 ""
+ p80_nuclear:0 "P-80 Nucléaire"
+ p80_nuclear_desc:0 ""
+
+ scrap_bomber:0 "Bombardier en matériaux de récupération"
+ scrap_bomber_desc:0 ""
+ salvaged_superfortress:0 "Bombardier lourd récupéré"
+ salvaged_superfortress_desc:0 ""
+ zeppelin_superfortress:0 "Zeppelin bombardier lourd"
+ zeppelin_superfortress_desc:0 ""
+
+ scrap_divebomber:0 "Bombardier en piqué en matériaux de récupération"
+ scrap_divebomber_desc:0 ""
+ salvaged_divebomber:0 "Bombardier en piqué récupéré"
+ salvaged_divebomber_desc:0 ""
+ armoured_zeppelin:0 "Zeppelin blindé"
+ armoured_zeppelin_desc:0 ""
+
+ scrap_transport:0 "Avion-cargo en matériaux de récupération"
+ scrap_transport_desc:0 ""
+ salvaged_transport:0 "Avion-cargo récupéré"
+ salvaged_transport_desc:0 ""
+ cargo_zeppelin:0 "Zeppelin-cargo"
+ cargo_zeppelin_desc:0 ""
+
+ xian_85_fighter:0 "Avion de chasse Xian-85"
+ xian_85_fighter_desc:0 ""
+ thunderbirds:0 "Thunderbirds"
+ thunderbirds_desc:0 ""
+
+ vertiberd_cas1:0 "VB-01 CAR"
+ vertiberd_cas1_desc:0 ""
+ vertiberd_cas2:0 "VB-02 CAR"
+ vertiberd_cas2_desc:0 ""
+ vertiberd_gunship:0 "Canonnière volante VB-02"
+
+ vertiberd_transport1:0 "Transport VB-01"
+ vertiberd_transport1_desc:0 ""
+ vertiberd_transport2:0 "Transport VB-02"
+ vertiberd_transport2_desc:0 ""
+
+ mortar_battery_zeppelin:0 "Zeppelin à batterie de mortiers "
+ mortar_battery_zeppelin_desc:0 ""
+ howitzer_battery_zeppelin:0 "Zeppelin à batterie d'obusiers"
+ howitzer_battery_zeppelin_desc:0 ""
+ laser_battery_zeppelin:0 "Zeppelin à batterie de laser"
+ laser_battery_zeppelin_desc:0 ""

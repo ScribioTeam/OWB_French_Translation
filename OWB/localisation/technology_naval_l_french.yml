@@ -1,0 +1,66 @@
+﻿l_french:
+ # Equipment naming is inherited from the equipment name when displayed in the techtree
+
+ #----------------------------
+ # Naval
+ #----------------------------
+ sailor_training:0 "Formation des marins"
+ sailor_training_desc:0 ""
+
+ destroyer_tech:0 "Canoë Outrigger I"
+ destroyer_tech_desc:0 ""
+ destroyer_tech_2:0 "Canoë Outrigger II"
+ destroyer_tech_2_desc:0 ""
+ destroyer_tech_3:0 "Bateau d'intervention I"
+ destroyer_tech_3_desc:0 ""
+ destroyer_tech_4:0 "Bateau d'intervention II"
+ destroyer_tech_4_desc:0 ""
+ destroyer_tech_5:0 "Embarcation armée I"
+ destroyer_tech_5_desc:0 ""
+ destroyer_tech_6:0 "Embarcation armée II"
+ destroyer_tech_6_desc:0 ""
+
+ cruiser_tech:0 "Navire à voile I"
+ cruiser_tech_desc:0 ""
+ cruiser_tech_2:0 "Navire à voile II"
+ cruiser_tech_2_desc:0 ""
+ cruiser_tech_3:0 "Remorqueur armé I"
+ cruiser_tech_3_desc:0 ""
+ cruiser_tech_4:0 "Remorqueur armé II"
+ cruiser_tech_4_desc:0 ""
+ cruiser_tech_5:0 "Navire de patrouille I"
+ cruiser_tech_5_desc:0 ""
+ cruiser_tech_6:0 "Navire de patrouille II"
+ cruiser_tech_6_desc:0 ""
+
+ heavy_cruiser_tech:0 "Péniche I"
+ heavy_cruiser_tech_desc:0 ""
+ heavy_cruiser_tech_2:0 "Péniche II"
+ heavy_cruiser_tech_2_desc:0 ""
+ heavy_cruiser_tech_3:0 "Bateau à roues à aubes I"
+ heavy_cruiser_tech_3_desc:0 ""
+ heavy_cruiser_tech_4:0 "Bateau à roues à aubes II"
+ heavy_cruiser_tech_4_desc:0 ""
+ heavy_cruiser_tech_5:0 "Contre-torpilleur I"
+ heavy_cruiser_tech_5_desc:0 ""
+ heavy_cruiser_tech_6:0 "Contre-torpilleur II"
+ heavy_cruiser_tech_6_desc:0 ""
+
+ battleship_tech:0 "Péniche super-lourde"
+ battleship_tech_desc:0 ""
+ battleship_tech_2:0 "Bateau à roues à aubes super-lourd"
+ battleship_tech_2_desc:0 ""
+ battleship_tech_3:0 "Contre-torpilleur super-lourd"
+ battleship_tech_3_desc:0 ""
+
+ carrier_tech:0 "Porte-hydravion vapeur"
+ carrier_tech_desc:0 ""
+ carrier_tech_2:0 "Destructeur d'hydravions"
+ carrier_tech_2_desc:0 ""
+
+ naval_invasion_tech:0 "Canoës de débarquement"
+ naval_invasion_tech_desc:0 ""
+ naval_invasion_tech_2:0 "Chaland de débarquement"
+ naval_invasion_tech_2_desc:0 ""
+ naval_invasion_tech_3:0 "Embarcation d'assaut"
+ naval_invasion_tech_3_desc:0 ""

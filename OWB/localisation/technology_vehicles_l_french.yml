@@ -1,0 +1,89 @@
+﻿l_french:
+ # Equipment naming is inherited from the equipment name when displayed in the techtree
+
+ #----------------------------
+ # Vehicle
+ #----------------------------
+ vehicle_restoration:0 "Restauration de véhicules"
+ vehicle_restoration_desc:0 ""
+
+ bike_tech_1:0 "Moto en matériaux de récupération"
+ bike_tech_1_desc:0 ""
+ bike_tech_2:0 "Moto récupérée"
+ bike_tech_2_desc:0 ""
+ bike_tech_3:0 "Moto des Terres Désolées"
+ bike_tech_3_desc:0 ""
+
+ tires_vehicle_tech:0 "Profil des pneumatiques"
+ tires_vehicle_tech_desc:0 ""
+ tires_vehicle_tech_1:0 "Raffinage du caoutchouc"
+ tires_vehicle_tech_1_desc:0 ""
+
+ car_tech_1:0 "Voiture récupérée"
+ car_tech_1_desc:0 ""
+ car_tech_2:0 "Voiture des Terres Désolées"
+ car_tech_2_desc:0 ""
+ car_tech_3:0 "Voiture militaire"
+ car_tech_3_desc:0 ""
+
+ plating_vehicle_tech:0 "Ajout de placage"
+ plating_vehicle_tech_desc:0 ""
+ bumper_vehicle_tech:0 "Pare-chocs"
+ bumper_vehicle_tech_desc:0 ""
+ gasoline_vehicle_tech:0 "Carburants volatiles"
+ gasoline_vehicle_tech_desc:0 ""
+ sealed_vehicle_tech:0 "Étanchéité"
+ sealed_vehicle_tech_desc:0 ""
+ armoured_vehicle_tech:0 "Renforcement du blindage"
+ armoured_vehicle_tech_desc:0 ""
+
+ tracks_vehicle_tech:0 "Chenilles simples"
+ tracks_vehicle_tech_desc:0 ""
+ tracks_vehicle_tech_1:0 "Galets de roulement"
+ tracks_vehicle_tech_1_desc:0 ""
+
+ tank_tech_1:0 "Char en matériaux de récupération"
+ tank_tech_1_desc:0 ""
+ tank_tech_2:0 "Char des Terres Désolées"
+ tank_tech_2_desc:0 ""
+ tank_tech_3:0 "Char de la grand guerre"
+ tank_tech_3_desc:0 ""
+
+ truck_tech_1:0 "Blindé léger en matériaux de récupération"
+ truck_tech_1_desc:0 ""
+ truck_tech_2:0 "Blindé léger récupéré"
+ truck_tech_2_desc:0 ""
+
+ storage_vehicle_tech:0 "Stockage additionel"
+ storage_vehicle_tech_desc:0 ""
+ overclock_vehicle_tech:0 "Overclocking du moteur"
+ overclock_vehicle_tech_desc:0 ""
+ gunport_vehicle_tech:0 "Emplacement pour armes"
+ gunport_vehicle_tech_desc:0 ""
+ high_tech_fuel_vehicle_tech:0 "Carburants avancés"
+ high_tech_fuel_vehicle_tech_desc:0 ""
+
+ apc_tech_1:0 "VTT récupéré"
+ apc_tech_1_desc:0 ""
+ apc_tech_2:0 "VTT des Terres Désolées"
+ apc_tech_2_desc:0 ""
+ apc_tech_3:0 "VTT des la grande guerre"
+ apc_tech_3_desc:0 ""
+
+ eighties_warbikes:0 "Moto de guerre des 80s"
+ eighties_warbikes_desc:0 ""
+ legion_motor_chariots:0 "Chariots à moteur de la Légion"
+ legion_motor_chariots_desc:0 ""
+ ranger_motorbikes:0 "Ranger roulebas"
+ ranger_motorbikes_desc:0 ""
+ testudo_apc:0 "VTT Testudo"
+ testudo_apc_desc:0 ""
+ super_mutant_battlewagons:0 "Char de guerre Super Mutant"
+ super_mutant_battlewagons_desc:0 ""
+
+ super_mutant_behemoth:0 "Super Mutant Behemoth"
+ super_mutant_behemoth_desc:0 ""
+ armoured_super_mutant_behemoth:0 "Behemoth blindé"
+ armoured_super_mutant_behemoth_desc:0 ""
+ siege_super_mutant_behemoth:0 "Behemoth psychotique"
+ siege_super_mutant_behemoth_desc:0 ""
