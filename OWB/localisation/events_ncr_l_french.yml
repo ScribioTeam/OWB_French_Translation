@@ -83,11 +83,11 @@
  ncr-boswar.14.a:0 "La RNC est responsable de sa propre destruction"
 
  #placeholder localisation begins 
- ncr-boswar.15.t:0 "Demander Helios One"
- ncr-boswar.15.d:0 "Avec l'effondrement de la diplomatie avec la Confrérie de l'Acier, nous devrions demander Helios One et la Route 95 à la Confrérie du Mojave ou les menacer de guerre !"
+ ncr-boswar.15.t:0 "Demander HELIOS One"
+ ncr-boswar.15.d:0 "Avec l'effondrement de la diplomatie avec la Confrérie de l'Acier, nous devrions demander HELIOS One et la Route 95 à la Confrérie du Mojave ou les menacer de guerre !"
  ncr-boswar.15.a:0 "Envoyer les demandes"
  
- ncr-boswar.16.t:0 "La RNC exige Helios One"
+ ncr-boswar.16.t:0 "La RNC exige HELIOS One"
  ncr-boswar.16.d:0 "La RNC a l'audace de non seulement être en guerre avec la Confrérie, mais en plus ils exigent maintenant que nous leur livrons Hélios One et la Route 95, sinon ils nous menacent de guerre ! Devrions-nous céder à ces demandes ?"
  ncr-boswar.16.a:0 "Donnez-leur ce qu'ils veulent."
  ncr-boswar.16.b:0 "Ils devront le prendre de force !"
@@ -220,18 +220,18 @@
  nf_ncr.29.d:0 "Les élections de la RNC se sont finis dans une impasse, aucun candidat n'ayant obtenu une majorité suffisante de grands électeurs. En temps normal des négociations et désistements entre candidats réglerait le problème, toutefois les choses ont pris une tournure tragique lorsque Grant.C Hayes a revendiqué la victoire et a appellé l'Enclave à ses côtés. Dans le même temps la région de Dayglow a rejoint son camp et s'est proclamée héritiére de la République. En ce moment même, ses forces, composées de soldats de l'Enclave à la technologie avancée, ou de membres de la RNC, avancent.                                                                                          Dans une tentative de le contrer Aaron Kimball c'est déclaré Président de-facto de la RNC. Il est, dans ceci, supporté unanimement par les Barons et l'armée. Toutefois, cette action lui a aliéné les habitants de Boneyard, qui crient au coup d'État militaire contre la République. Outragé par la situation, et voulant à tout prix évité d'être pris en sandwich dans une guerre entre Kimball et Hayer, Allgood Murphy et ses alliés ont déclaré l'indépendance du Boneyard, rejointe par la majorité des communautés l'entourant. Aaron Kimball a, logiquement, déclaré Allgood et ceux le suivant "ennemis de la République" et a demandé leur arrestation. Et ce alors que Hayes se prépare à écraser et Allgood et Kimball à l'aide de son impressionnante armée.                                                                                                                                                          Allgood Murphy n'est pas le seul à être inquiété contre Aaron Kimball et son régime militaire. Anton Flynn, souhaitant défendre les intérêts des Barons, pense que personne n'est capable de militairement s'opposer aux forces de Hayes. Et, même en ces heures graves, il recherche le dialogue avec cette homme, espérant la garantie du maintient du monopole de l'élevage de Brahimes pour les Barons en échange de son ralliement."
  nf_ncr.29.a:0 "Nous nous battrons pour la République!"
  
- ncr_helios_event.21.t:0 "La Communauté s'empare de Helios One"
- ncr_helios_event.21.d:0 "Notre stupide tentative d'utiliser des techniciens de la Confrérie dans la restauration de la centrale électrique d'Helios One nous a couté cher. En effet, ceux ci on ouvert les portes aux troupes de la Communauté qui occupent à présent Helios One de nouveau. De nombreux généraux, et les membres les plus belliqueux de la République, en appellent à une offensive de large envergure avec pour objectif d'annihiler le Chapitre du Mojave. Toutefois certains pensent que cette opération serait inutile car ils doutent que la station de Helios One puisse être, quoi qu'il arrive, restaurée. Que devrions nous faire ?"
+ ncr_helios_event.21.t:0 "La Communauté s'empare de HELIOS One"
+ ncr_helios_event.21.d:0 "Notre stupide tentative d'utiliser des techniciens de la Confrérie dans la restauration de la centrale électrique d'HELIOS One nous a couté cher. En effet, ceux ci on ouvert les portes aux troupes de la Communauté qui occupent à présent Helios One de nouveau. De nombreux généraux, et les membres les plus belliqueux de la République, en appellent à une offensive de large envergure avec pour objectif d'annihiler le Chapitre du Mojave. Toutefois certains pensent que cette opération serait inutile car ils doutent que la station de Helios One puisse être, quoi qu'il arrive, restaurée. Que devrions nous faire ?"
  ncr_helios_event.21.a:0 "Nous avons perdu face à la Confrérie!"
  ncr_helios_event.21.b:0 "L'Ours va se réveiller!"
  
  ncr_helios_event.22.t:0 "La Communauté respecte l'accord"
- ncr_helios_event.22.d:0 "Notre sage tentative d'utilision des techniciens de la Confrérie dans la restauration de la centrale électrique d'Helios One fut un succés et nous permis d'améliorer nos relations avec la Confrérie. Certains membres de la République, parmis les plus libéraux, espérent même pouvoir établir des relations diplomatiques permannntes avec la Confrérie."
+ ncr_helios_event.22.d:0 "Notre sage tentative d'utilision des techniciens de la Confrérie dans la restauration de la centrale électrique d'HELIOS One fut un succés et nous permis d'améliorer nos relations avec la Confrérie. Certains membres de la République, parmis les plus libéraux, espérent même pouvoir établir des relations diplomatiques permannntes avec la Confrérie."
  ncr_helios_event.22.a:0 "Je pense que c'est le début d'une grande amitié..."
  ncr_helios_event.22.b:0 "Le réveil de l'Ours"
  
- ncr_helios_event.23.t:0 "Nous avons repris Helios one!"
- ncr_helios_event.23.d:0 "Nos Paladins et nos Chevaliers nous ont signalé la capture d'Helios One lors d'une opération éclaire contre la RNC."
+ ncr_helios_event.23.t:0 "Nous avons repris HELIOS one!"
+ ncr_helios_event.23.d:0 "Nos Paladins et nos Chevaliers nous ont signalé la capture d'HELIOS One lors d'une opération éclaire contre la RNC."
  ncr_helios_event.23.a:0 "Ad Victoriam !"
  
  ncr_civil_war_starts:0 "§R Le début de la guerre civile §!"
@@ -250,7 +250,7 @@
  diplomission: "Choisir Allgood"
  exodus: "Intervenir militairement"
  repair_helios_vegas_tt: "Cette option enverra de l'électricité dans tout le Mojave, donnant ainsi à la RNC un bonus de relation avec toutes les nations encores vivantes du Mojave, s'il en reste."
- NCR_coup_tt: "§R La confrérie pourrait reprendre Helios One §!"
+ NCR_coup_tt: "§R La confrérie pourrait reprendre HELIOS One §!"
  
  nf_ncr.30.t:0 "Les territoires occupés demandent l'indépendance"
  nf_ncr.30.d:0 "Il n'y a pas si longtemps, notre base d'opérations avancée au sein de la Légion a reçu un télégramme demandant qu'un diplomate soit envoyé à Red Sun City. Quand ce diplomate est arrivé, il a été amené dans une salle de conférence impromptue, où des délégués de nombreuses communautés l'ont attendu. Il a passé des heures avec ces gens avant de revenir vers nous, et son rapport le dit très clairemen t: ils veulent la liberté.\n\nBeaucoup de ces nations naissantes ont été reconnues par la RNC. Les agences de propagande embauchées par notre gouvernement ont, à un moment ou à un autre, diffusé au moins une affiche sur la ville de Phoenix ou écrit un article sur le peuple Jicarilla. Bien que laisser le territoire inoccupé puisse causer des problèmes, \"revenir sur notre parole\" pourrait en causer encore plus. Que devrions-nous faire ?"
