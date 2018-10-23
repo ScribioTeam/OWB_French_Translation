@@ -36,7 +36,7 @@
  nf_vegas.8.t:0 "Mojave Alliance"
  nf_vegas.8.d:0 "New Vegas has proposed an alliance with us for the betterment of the wasteland. Supposedly the leader of one of the casino families, the King, hopes to use our technology to help the people of the wasteland. They hope an alliance would further both our ambitions."
  nf_vegas.8.a:0 "Technology exists to help people."
- nf_vegas.8.b:0 "The Brotherhood stands alone."
+ nf_vegas.8.b:0 "The [From.GetName] stands alone."
 
  nf_vegas.9.t:0 "The Fate of Vault 21"
  nf_vegas.9.d:0 "Vault 21 was a prewar experiment set up by Vault Tec to observe how a society based around gambling would function in isolation. Surprisingly, unlike numerous horror stories found in the wasteland, this Vault got by without complications. Due to its good condition and living inhabitants there are two options for what can be done with the Vault. It could be stripped of all its useful resources and tech, or it could be converted into a large casino and hotel of its own."
@@ -121,12 +121,12 @@
  nf_vegas.27.a:0 "Savages! How dare they destroy the Vault."
 
  #placeholder localisation starts
- nf_vegas.28.t:0 "Mojave Brotherhood Accepts"
- nf_vegas.28.d:0 "The Mojave Brotherhood accepts our invitation to the Mojave alliance."
+ nf_vegas.28.t:0 "[From.GetName] Accepts"
+ nf_vegas.28.d:0 "The [From.GetName] accepts our invitation to the Mojave alliance."
  nf_vegas.28.a:0 "Very good"
 
- nf_vegas.29.t:0 "Mojave Brotherhood Declines"
- nf_vegas.29.d:0 "The Mojave Brotherhood declines our invitation to the Mojave alliance."
+ nf_vegas.29.t:0 "[From.GetName] Declines"
+ nf_vegas.29.d:0 "The [From.GetName] declines our invitation to the Mojave alliance."
  nf_vegas.29.a:0 "How unfortunate"
 
  nf_vegas.30.t:0 "The Nevada Pact"

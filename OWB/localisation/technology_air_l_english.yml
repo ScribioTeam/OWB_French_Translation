@@ -1,6 +1,9 @@
 ﻿l_english:
  # Equipment naming is inherited from the equipment name when displayed in the techtree
  # Air
+ pilot_training:0 "Pilot Training"
+ pilot_training_desc:0 ""
+
  scrap_fighter:0 "Scrap Fighter"
  scrap_fighter_desc:0 ""
  salvaged_fighter:0 "Salvaged Fighter"
