@@ -1,7 +1,7 @@
 # Old World Blues
 > Traduction française
 
-![image link broken](https://img.shields.io/badge/OWB%20version%20translation-1.1.14-green.svg)
+![image link broken](https://img.shields.io/badge/OWB%20version%20translation-1.1.15-green.svg)
 ![image link broken](https://img.shields.io/badge/Translation%20status-release-yellow.svg)
 
 ## Présentation
