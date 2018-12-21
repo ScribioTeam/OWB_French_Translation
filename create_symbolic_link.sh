@@ -25,5 +25,5 @@ if [ ! -f "$modDir/$modName.mod" ]; then
 		echo "ERROR: the file $modName.mod doesn't exists in the script directory"
 	fi
 else
-	echo "WARNING: the file $modDir/modName.mod already exists. Check it has the good content."
+	echo "WARNING: the file $modDir/$modName.mod already exists. Check it has the good content."
 fi
