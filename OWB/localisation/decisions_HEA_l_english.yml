@@ -1,18 +1,18 @@
 ﻿l_english:
  # decisions
- hea_conversion:0 "Convert the Unfaithful"
- hea_conversion_desc:0 "The people around us are unenlightened in the eyes of the lord. We must send out our missionaries to convert these sinners where they live, and slowly our influence and the influence of the lord will spread."
- hea_slow_conversion:0 "Conversion Mission to [From.GetNameDef]"
+  hea_conversion: "Convert the Unfaithful"
+  hea_conversion_desc: "The people around us are unenlightened in the eyes of the lord. We must send out our missionaries to convert these sinners where they live, and slowly our influence and the influence of the lord will spread."
+  hea_slow_conversion: "Conversion Mission to [From.GetNameDef]"
 
- hea_inquisition:0 "Send the Inquisitors to [From.GetNameDef]"
+  hea_inquisition: "Send the Inquisitors to [From.GetNameDef]"
 
- hea_bind_to_us:0 "Bind [From.GetNameDef] to Us!"
- hea_bind_to_us_desc:0 "Our conversion missions have done their work, and we are ready to attempt to bring them closer to us and in to our fold."
+  hea_bind_to_us: "Bind [From.GetNameDef] to Us!"
+  hea_bind_to_us_desc: "Our conversion missions have done their work, and we are ready to attempt to bring them closer to us and in to our fold."
 
  # tooltips
- hea_converted_state_tt:0 "The state will be converted"
- hea_not_converted_state_tt:0 "We have not converted a state they own"
- hea_convert_state_tt:0 "We have converted some or all of their states."
- hea_bind_to_us_attempt_tt:0 "We will attempt to bind their state to ours!"
- binding_someone:0 "Not already Binding Another to us."
- binding_warning_tt:0 "The more of the targets states we have converted, the better the chance we have of success - but be warned, failure will undo our conversion work in a number of states!"
+  hea_converted_state_tt: "The state will be converted"
+  hea_not_converted_state_tt: "We have not converted a state they own"
+  hea_convert_state_tt: "We have converted some or all of their states."
+  hea_bind_to_us_attempt_tt: "We will attempt to bind their state to ours!"
+  binding_someone: "Not already Binding Another to us."
+  binding_warning_tt: "The more of the targets states we have converted, the better the chance we have of success - but be warned, failure will undo our conversion work in a number of states!"

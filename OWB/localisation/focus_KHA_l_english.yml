@@ -1,0 +1,382 @@
+﻿l_english:
+ # originally by david, re-written/adapted by Happy
+  KHA_focus_the_stories_we_tell: "Our Stories"
+  KHA_focus_the_stories_we_tell_desc: "We tell many stories around our campfire about the Khans of old. To know where you are going you must of course know where you are from. A people without a history is a people without a future."
+
+  KHA_focus_what_happened_in_new_vegas: "Our Exile"
+  KHA_focus_what_happened_in_new_vegas_desc: "Our early clashes with the NCR in the Mojave forced us to find new areas to settle. In our search ever further from Shady Sands, we discovered the abandoned suburbs of Las Vegas—long before it was the jewel of the wasteland—and settled down. That is, until Mr. House, with his securitrons and bootlicking tribal allies, kicked us out."
+
+  KHA_focus_our_future: "Our Future"
+  KHA_focus_our_future_desc: "The time has finally come to decide the destiny of The Great Khans, by deciding who will lead our people on to victory in the name of our forefathers. Both candidates have uniquely different views, however!"
+
+  KHA_focus_what_we_once_had: "What We Once Had"
+  KHA_focus_what_we_once_had_desc: "The Khans were once a great tribe, terrorising all who stood in their way. They amassed untold riches—in old world tech, gold, women and slaves—and were the undisputed masters of hit-and-run tactics. We should stive to once again reach such glories!"
+
+  KHA_focus_natural_opioids: "Natural Opioids"
+  KHA_focus_natural_opioids_desc: "Long before the Followers of the Apocalypse arrived, the Khans had taken to using natural opioids—coyote tobacco chew and other natural plants—to enhance our bravery in the battlefield, at the cost of some addictions."
+
+  KHA_focus_reinforce_the_patriarchy: "Reinforce the Patriarchy"
+  KHA_focus_reinforce_the_patriarchy_desc: "Whilst many women prove valliant warriors, we need stability in these times of strife. We should ensure all know the men of this Khanganate are on top."
+
+  KHA_focus_papa_khan: "Papa Khan"
+  KHA_focus_papa_khan_desc: "Papa Khan possesses fits of talent and charisma. He is true to the original values of our ancestors, and his hatred for the NCR is unparalleled. Clearly, he is the only person who can lead the Khans to a brighter future!"
+
+  KHA_focus_become_a_technological_society: "Become a Settled Society"
+  KHA_focus_become_a_technological_society_desc: "The ways of the Khans of old are no longer practical. Instead, we need to look to technology for the answer to our problems."
+
+  KHA_focus_new_ideas_embraced: "New Ideas"
+  KHA_focus_new_ideas_embraced_desc: "Like most societies in the wasteland, the Great Khans understand how important slaves are for the economy—though we are now beginning to realise they're not the only way to run the economy."
+
+  KHA_focus_advances_in_technology: "Advances in Technology"
+  KHA_focus_advances_in_technology_desc: "The Followers of the Apocalypse gave us one last gift before they departed—knowledge of electronics. What a gift it was."
+
+  KHA_focus_study_prewar_weapons: "Study Pre-war Weapons"
+  KHA_focus_study_prewar_weapons_desc: "Whilst the ability to reproduce pre-war weapons is far beyond our capabilities, studying them will nevertheless grant us an insight into how we can improve our own weapons."
+
+  KHA_focus_laser_muskets: "Laser Muskets"
+  KHA_focus_laser_muskets_desc: "The laser musket is a homemade, non-standard version of a laser rifle. This was our first attempt at reproducing a laser rifle. The "barrel" consists of a standard laser rifle housing with two metal-ringed lenses atop a metal rod extending from the stock, through which the laser beam is focused."
+
+  KHA_focus_basic_equipment: "Basic Equipment"
+  KHA_focus_basic_equipment_desc: "Soldiers require the best equipment to remain a strong fighting force. We shouldn't spare any time in researching what is required for a soldier to perform at their max capacity."
+
+  KHA_focus_pre-war_energy_weapons: "Pre-war Energy Weapons"
+  KHA_focus_pre-war_energy_weapons_desc: "We were finally successful in recreating pre-war laser rifles. Laser rifles are high-tech weapons that emit a concentrated beam of coherent light, with sufficient wattage to do considerable damage. They can be powered by battery packs, fusion cells or cabled power systems, but most models use an internal capacitor, charged with microfusion cells."
+
+  KHA_focus_pre-war_ballistic_weapons: "Pre-war Ballistic Weapons"
+  KHA_focus_pre-war_ballistic_weapons_desc: "Before the great war ballistic weapons were the primary infantry weapons used by the world's armed forces. Due to their huge usage, it is easy to find parts in the wasteland and produce these for our self."
+
+  KHA_focus_the_secrets_of_vault_22: "The Secrets of Vault 22"
+  KHA_focus_the_secrets_of_vault_22_desc: "Strange rumours of the mysteries of Vault 22 circulate the wasteland. The rumors of what is inside range from man-eating plants to pre-war experiments and wonder weapons. The only catch is that no one has ever returned from the Vault—perhaps we should try out own expedition?"
+
+  KHA_focus_a_new_direction: "A New Direction"
+  KHA_focus_a_new_direction_desc: "The world advances around us, and so we must adapt with it—so that we are not blown away by the winds of change. It has become evident that the Legion see us as little more than a tool in their hands. We must instead look towards the NCR for a better life."
+
+  KHA_focus_bandage_old_wounds: "Bandage Old Wounds"
+  KHA_focus_bandage_old_wounds_desc: "We can never forget the hell that the NCR rained down on us at Bitter Springs, but we must also never forget this was a mistake—indeed, the soldiers that partook in the massacre were only following orders, and the orders were based on incorrect intelligence. We must seek rapprochement with the NCR, or we will be lost."
+
+  KHA_focus_propose_plan_to_long_house: "Propose a New Plan"
+  KHA_focus_propose_plan_to_long_house_desc: "The Long House is now filled with our most trusted advisors—the time has come to propose our plan to move forward with out relations with the NCR."
+
+  KHA_focus_convince_advisors: "Convince Advisors"
+  KHA_focus_convince_advisors_desc: "It seems the advisors of the Long House were not quite as receptive to the idea of an alliance with the NCR, and extra effort is now needed to ensure they believe this course of action is the best."
+
+  KHA_focus_ncr_embassy: "NCR Embassy"
+  KHA_focus_ncr_embassy_desc: "The first step in plan requires us to launch a diplomatic mission to the NCR embassy in New Vegas. From here we will be able to slowly build up a mutual understanding between our peoples, and hopefully together focus on the bigger enemy across the Colorado."
+
+  KHA_focus_request_amnesty: "Request Amnesty"
+  KHA_focus_request_amnesty_desc: "For years the Khans have been percecuted by NCR troopers, but have also extracted violent revenge on NCR settlements in response. We should discuss the possibility of a mutual pardon with the NCR, in exchange for ceasing all raiding activities in the Mojave."
+
+  KHA_focus_a_formal_alliance: "A Formal Alliance"
+  KHA_focus_a_formal_alliance_desc: "Now that we have reached a mutual understanding, we can initiate the last phase of our plan—a military alliance."
+
+  KHA_focus_ncr_funding: "NCR Funding"
+  KHA_focus_ncr_funding_desc: "A benefit of being a part of the NCR's alliance network is the extensive funding they pump into our defence and production sectors. We should put this money to good use!"
+
+  KHA_focus_ncr_support_development: "NCR Development Support"
+  KHA_focus_ncr_support_development_desc: "What the NCR believes is old technology is very new to us, and with the NCR's help we can adapt our industry to become more efficent using this tech."
+
+  KHA_focus_ncr_sharecroppers: "NCR Sharecroppers"
+  KHA_focus_ncr_sharecroppers_desc: "Sharecropping is the system of offering protection to settlements in exhange for a share of their crop yield. We should employ this system in our territory, allowing us a sizable reserve of food."
+
+  KHA_focus_adopt_new_tactics_ncr: "Adopt NCR Tactics"
+  KHA_focus_adopt_new_tactics_ncr_desc: "The NCR has shown us how powerful an organised fighting force can be—if we are to be fighting along side these men we should take after them."
+
+  KHA_focus_the_red_menace: "The 'Red Menace'"
+  KHA_focus_the_red_menace_desc: "The greatest threat to the survival of the Khans is the Legion. We must ensure they remain firmly on the other side of the Colorado."
+
+  KHA_focus_for_the_republic: "For the Republic! For the Khans!"
+  KHA_focus_for_the_republic_desc: "The fate of the NCR and our own society is now firmly entertwined. We must fight to the last!"
+
+  KHA_focus_a_neutral_party: "A Neutral Party"
+  KHA_focus_a_neutral_party_desc: "We should make clear to the NCR that we will not be a belligerent against them in their war with the Legion, so long as they respect our neutrality."
+
+  KHA_focus_restore_trade: "Restore Trade with the NCR"
+  KHA_focus_restore_trade_desc: "Trading with the NCR will allow us access to countless new consumers—to the great benefit of our economy!"
+
+  KHA_focus_new_traditions: "New Traditions"
+  KHA_focus_new_traditions_desc: "The Khans have risen from the ashes many times, but does that not mean we have also failed many times? Only a fool would deny that change is needed—we must adopt new tactics in order to survive in this dystopian world."
+
+  KHA_focus_regis: "Regis"
+  KHA_focus_regis_desc: "Regis has been Papa Khan's right hand man—an excellent fixer, soldier and advisor. However, Regis and Papa don't always see eye to eye on the future of the Khans—especially when it come to how we should align ourselves in the future. Thanks to the decisions of the Council, however, Regis' time to shine has come!"
+
+  KHA_focus_great_hunts: "Great Hunts"
+  KHA_focus_great_hunts_desc: "In the past we’ve taken to hunting when times were quiet. The hides and meat of the Geckos and Bighorners can serve our people well—and the hunt itself is such a thrill!"
+
+  KHA_focus_camp_armouries: "Camp Armouries"
+  KHA_focus_camp_armouries_desc: "Our warriors should not be purely dependont on the labour of slaves to create and maintain their weapons, vehicles and armour. Each warrior should be capable of building and maintaining their own, and each camp should maintain the facilities to do so."
+
+  KHA_focus_arms_workshops: "Arms Workshops"
+  KHA_focus_arms_workshops_desc: "Camp armouries alone won't be able to cut it for the scale of weaponry production we need—instead, we should set up workshops soley devoted to the production of weapons."
+
+  KHA_focus_slave_workshops: "Slave Workshops"
+  KHA_focus_slave_workshops_desc: "Slaves in arms workshops has long been a part of the production line, but we should now ensure they are tightly woven into the production system. This will ensure only increasing productivity!"
+
+  KHA_focus_warrior_scholars: "Warrior Scholars"
+  KHA_focus_warrior_scholars_desc: "When we are not fighting, hunting, building or maintaining our gear, we should not sit back and rest our laurels. Instead we should study, ponder and learn. Anything we can learn from the wasteland is useful—it may just save lives one day."
+
+  KHA_focus_overwhelming_firepower: "Overwhelming Firepower"
+  KHA_focus_overwhelming_firepower_desc: "We don't have the men to match either the NCR or the Legion, but we can sure as hell match them in the size of our heavy guns."
+
+  KHA_focus_warrior_training: "Warrior Training"
+  KHA_focus_warrior_training_desc: "Our new guns are only as good as the soldiers that can fire them—we should therefore ensure every Khan is trained to be able to fire any weapon they find in their hands!"
+
+  KHA_focus_reuse_old_factories: "Reuse Old Factories"
+  KHA_focus_reuse_old_factories_desc: "The wasteland is filled with old, desolate factories—many still containing semi-useable equipment—that we can, and should, quickly make use."
+
+  KHA_focus_lessons_of_history: "Lessons from our History"
+  KHA_focus_lessons_of_history_desc: "Throughout our existance, we have one numerous victories—and recovered from many defeats. All of these battles should influence how we wage war—and manage ourselves in peace—going forwards."
+
+  KHA_focus_on_the_move: "On The Move"
+  KHA_focus_on_the_move_desc: "The Khans never stop moving. To do this effectively, we must be able to live off what the land provides and ensure our industry is always able to follow us."
+
+  KHA_focus_synthesise_our_own_chems: "Synthesise Our Own Chems"
+  KHA_focus_synthesise_our_own_chems_desc: "The Followers of the Apocalypse, when they came, gave us gifts of technology and taught us how to make many weapons. However, they also taught us to synthesise our own chemicals—and oh boy were they a step up from the natural opioids we have grown used to."
+
+  KHA_focus_founders_of_the_chem_trade: "Founders of the Chem Trade"
+  KHA_focus_founders_of_the_chem_trade_desc: "Few crops grow in Redrock Canyon—fortunately the foundation plants of many chemicals are amongst some of the few that do. As a result, many Mojave gangs rely on us for their supply of chems—earning us the title of the 'founders' of the chem trade."
+
+  KHA_focus_old_friends: "Old Friends"
+  KHA_focus_old_friends_desc: "Some of the old raider groups which we left the vault with depend on us for new and exciting drugs. We should take advantage of this for as long as we can—it will only see us prosper, and may even make them easy pickings in the future."
+
+  KHA_focus_crimson_caravan_trade_deals: "Crimson Caravan Trade Deals"
+  KHA_focus_crimson_caravan_trade_deals_desc: "The NCR officially has a ban on addictive drugs, but both the Crimson Caravan and many of the wealthy, independent merchants that make up the NCR frequently turn a blind eye in order to make a profit. This allows us to spread our influence throughout the corrupt elite of the NCR!"
+
+  KHA_focus_the_logical_path: "The Logical Option"
+  KHA_focus_the_logical_path_desc: "Few in the wasteland are worthy of even the consideration of an alliance with the Khans, but across the Colorado a very similar beast awaits. The Legion maintains many of the same views we do—including an undying hatred of the NCR—and so we should cozy up with them. Who knows? We may even crush the NCR together."
+
+  KHA_focus_a_friend_of_the_legion: "A Friend of the Legion"
+  KHA_focus_a_friend_of_the_legion_desc: "The Legion may be closely aligned with us on many issues of policy, but we do not currently have many diplomatic ties—indeed, some of the Legion's leadership sees us as little more than tribal savages! (Honestly! Us, savages! Our soldiers wash twice a fortnight—that's twice as much as they do!) We should seek to enlighten them about our heritage and culture, so that our two civilizations may intertwine."
+
+  KHA_focus_caesars_advisor: "Caesar's Advisor"
+  KHA_focus_caesars_advisor_desc: "As a symbol of our growing friendship, Caeser sent to us one of his most trusted advisors—a frumentarii who goes by the name of Karl. He will undoubtably be reporting back to Caesar himself, so we must ensure we both take his advise onboard, and teach him a thing or two about how we make war."
+
+  KHA_focus_join_the_legion: "Join the Legion"
+  KHA_focus_join_the_legion_desc: "A grand military alliance between us and the Bull across the Colorado is the logical progression to our current relationship with the Legion. All we need to do is ask for it."
+
+  KHA_focus_ideas_of_the_legion: "Ideas of the Legion"
+  KHA_focus_ideas_of_the_legion_desc: "More than one thing has spread when we began adopting some of the Legion's tactics and organisation—namely, their rejection of all things automated. It's a view we'll have to accept if we want further benefit from the alliance."
+
+  KHA_focus_legion_slave_trade: "Legion Slave Trade"
+  KHA_focus_legion_slave_trade_desc: "Both the economy of the Legion and our own economy rely heavily on the trading of slaves. We should, as a result, attempt to combine our slave pools—giving us more access to the kinds of slaves we need the most."
+
+  KHA_focus_a_bastion_across_the_colorado: "A Bastion Across the Colorado"
+  KHA_focus_a_bastion_across_the_colorado_desc: "Whilst we're technically in a military alliance with the Legion, it's more or less taken for granted they will be unable to assist us directly should the NCR invade. Consequentially, we must build up our own defences to fend off said threat."
+
+  KHA_focus_war_with_ncr: "Prepare for War with the Bear"
+  KHA_focus_war_with_ncr_desc: "It will not be long now before we have our pound of flesh, but we are in need of some more fighting men to fill our ranks! Let us call the warbands back home."
+
+  KHA_focus_avenge_bittersprings: "Avenge Bitter Springs"
+  KHA_focus_avenge_bittersprings_desc: "The drums of war have been sounded. We will not be pushed back. We will never relent. We must drive these dogs back to where they came from. Never again will they massacre our innocent women and children! To arms!"
+
+  KHA_focus_legion_industry: "Legion Industrial Ideas"
+  KHA_focus_legion_industry_desc: "Advisors from the Legion have explained to us several techniques to improve our industrial capacity through better use of slave labour and more efficient metal working. These shall undoubtably help us increase our output to newfound heights!"
+
+  KHA_focus_legion_weapons: "Legion Weapons"
+  KHA_focus_legion_weapons_desc: "Caesar himself has orderd that we be supplied with several tonnes of weapons, ammunition explosives and other equipment, so that we may be able to better hold our own against the NCR. We should graciously accept."
+
+  KHA_focus_fake_neutrality: "A Facade of Neutrality"
+  KHA_focus_fake_neutrality_desc: "Whilst the protection the Legion offers is appealing, they demand too much from us in return. Instead, we should do things our own way—though it is obvious which side we favour in the clash between the Bear and the Bull."
+
+  KHA_focus_our_own_slave_trade: "Our Own Slave Trade"
+  KHA_focus_our_own_slave_trade_desc: "Slaves run many economies in the wasteland—ours included. We should prioritise enslaving as many people as we can to increase our industrial capacity."
+
+  KHA_focus_backhand_support: "Cloak and Dagger"
+  KHA_focus_backhand_support_desc: "Directly engaging the NCR troops on our borders would only lead to waves of troopers sent against us. Instead, we should send some of our elite troops to the Legion to assist them in their fight—allowing us some oh so sweet revenge whilst not jepordising the lives of our women and children yet again."
+
+  KHA_focus_khan_addicts: "Synthetic Opioids"
+  KHA_focus_khan_addicts_desc: "With new technology our own people have shifted from use of the old natural opioids to much, much stronger synthetic opioids—jet and psycho. Only an idiot would step in the way of one of these drug addicted brutes."
+
+  KHA_focus_khan_overdose: "Doped Up Khans"
+  KHA_focus_khan_overdose_desc: "By giving out a larger amount of chems beofre battle, we will be able to 'dope up' our men—putting them in a fit of rage and giving them a significant attack bonus at the cost of organisation."
+
+  KHA_focus_upgrade_the_arsenal: "Upgrade the Arsenal"
+  KHA_focus_upgrade_the_arsenal_desc: "No matter how courageous our forces are in battle, they can't defeat an NCR trooper with a laser musket when only equipped with a knife. We should upgrade our weaponry so that our prowess can shine."
+
+  KHA_focus_a_khan_holds_their_own: "A Khan Can Hold His Own"
+  KHA_focus_a_khan_holds_their_own_desc: "In order to even join the Khans, a warrior must prove he can hold his own in one-on-one battle. Many of our enemies don't recieve the same training."
+
+  KHA_focus_cheap_firearms: "Cheap Firearms"
+  KHA_focus_cheap_firearms_desc: "The wasteland is a tressure trove of abandoned weapons and other equipment. We must exploit this!"
+
+  KHA_focus_impale_the_enemy: "Impale Our Enemies"
+  KHA_focus_impale_the_enemy_desc: "A true Khan warrior is one that does not cowar when directly in the face of his enemy, event when ourgunned and outnumberd. They instead pull together and destroy anyone who opposes them against all odds—well, and the thermic lance they wield sure helps."
+
+  KHA_focus_deal_with_gun_runners: "A Deal with the Gun Runners"
+  KHA_focus_deal_with_gun_runners_desc: "A loosely-knit band of Boneyard dwellers, the Gun Runners have had a long past in the business that bears its name. They take pride in constructing only the finest, and highest-quality weapons. Although located primarily in the Boneyard the Gun Runners operate several small factories on the outskirts of New Vegas, and like every other dirty merchant they would be willing to supply us with arms for caps."
+
+  KHA_focus_the_khan_arena: "The Khan Arena"
+  KHA_focus_the_khan_arena_desc: "A large arena resides in the canyon where multiple Khans hone their melee fighting abilities. Inside the arena, Khans fight in great competitions to determine the ultimate warriors—and the winners of these competitions are usually snapped up to become leaders of warbands."
+
+  KHA_focus_weapon_manafacturing_quantity: "Mass Production"
+  KHA_focus_weapon_manafacturing_quantity_desc: "Whilst every Khan can fight well unarmed, this is not always feasible—especially when facing down NCR troopers armed to the teeth with guns. We should focus on making weapons!"
+
+  KHA_focus_new_tactics: "New Tactics"
+  KHA_focus_new_tactics_desc: "Whilst our clashes with the NCR have meant we know a thing or two about how they fight, it also means they know a thing or two about how we fight. We need to stay unpredictable!"
+
+  KHA_focus_iron_steeds: "Iron Steeds"
+  KHA_focus_iron_steeds_desc: "Ghengis Khan led his warriors across the vast steppes on the backs of grand warhorses. We will lead ours on the backs of something much faster, and much sexier—the motorbike."
+
+  KHA_focus_war_path: "The Great Warpath"
+  KHA_focus_war_path_desc: "All those who stand between us and our ambitions must fall to their knees before us. To war!"
+
+  KHA_focus_agricultural_development: "Agricultural Development"
+  KHA_focus_agricultural_development_desc: "We have always been a people of many origins. With those many origins come many ideas on how to survive in these hard untamed lands—a prominant one of them being agriculture."
+
+  KHA_focus_construction_techniques: "Construction Techniques"
+  KHA_focus_construction_techniques_desc: "Now that we have decided to settle down, we must refine our methods of construction to allow more rapid production of abodes and factories."
+
+  KHA_focus_build_a_weapons_stockpile: "Create a Stockpile"
+  KHA_focus_build_a_weapons_stockpile_desc: "While the going is easy, we must always be preparing for time when the going gets tough. Stockpiling weapons will at least give us something to fall back on..."
+
+  KHA_focus_scavenger_outposts: "Scavenger Outposts"
+  KHA_focus_scavenger_outposts_desc: "Scavenger outposts provide us a source of important materials which are otherwise hard to come by in the wastes."
+
+  KHA_focus_improved_housing: "Improved Housing"
+  KHA_focus_improved_housing_desc: "While Khans may traditionally live in tents, it may be greatly beneficial to begin development of permanent residences—even if it is just for the women and children at first."
+
+  KHA_focus_old_world_civilization: "Old World Civilization"
+  KHA_focus_old_world_civilization_desc: "Raiding is not the only way to make ends meet in the wasteland—indeed, farming, hunting and gathering can be just as lucrative."
+
+  KHA_focus_one_community: "Tribal Spirit"
+  KHA_focus_one_community_desc: "The Great Khans are one big family—everyone cares for each other, and someone is always there to catch you if you fall. We have our fights, but we always work out our differences. This is perhaps our greatest asset."
+
+  KHA_focus_fire_support: "Fire Support"
+  KHA_focus_fire_support_desc: "The key to defending ourselves is through heavy duty explosives—we should focus on implementing them into our armies."
+
+  KHA_focus_enhanced_tactics: "Enhanced Tactics"
+  KHA_focus_enhanced_tactics_desc: "The world around us is filled with new battles fought with new tactics. We should write our own doctrines to better aid us in battle."
+
+  KHA_focus_military_planning: "Careful Planning"
+  KHA_focus_military_planning_desc: "Total war was never a viable strategy for the Khans—we were too few and stretched too far. Instead, we should plan our assaults so that each attack deals maximum damage."
+
+  KHA_focus_medical_advancements: "Medical Advancements"
+  KHA_focus_medical_advancements_desc: "When the Followers first came to us they aided us in the form of technological advancements—one of the most important lessons they taught us was how to make our own medication, helping us tend to the battle-wounded."
+
+  KHA_focus_electronic_technology: "Electronic Technology"
+  KHA_focus_electronic_technology_desc: "While the knowlege the Followers of the Apocalypse granted to us is extensive, it lacks the knowlege on how to reproduce technology in significant quantities or how to introduce improvements. Thats where we come in..."
+
+  KHA_focus_industrial_aid: "Industrial Aid"
+  KHA_focus_industrial_aid_desc: "The Followers are famous for the help they give our small frontier communities. It is time that we embrace the old world technology the Followers use."
+
+  KHA_focus_our_own_inovations: "Our Own Invovations"
+  KHA_focus_our_own_inovations_desc: "The Followers of the Apocalypse have provided us with the building blocks of our future. It is our job now to keep building."
+
+  KHA_focus_trained_field_medics: "Field Medics"
+  KHA_focus_trained_field_medics_desc: "Although the Followers are pacifists in nature, we can adapt the help they gave us in order to save our warriors on the fields of battle."
+
+  KHA_focus_settle_the_wasteland: "Settle the Wasteland"
+  KHA_focus_settle_the_wasteland_desc: "The Khans have been on the move since their founding, but mo more shall we run. It is time to settle down and establish a permanent power base."
+
+  KHA_focus_the_long_house: "The Long House Council"
+  KHA_focus_the_long_house_desc: "The Long House sits at the center of the clan, and all the important decisions are made here. By cherrypicking the best advisors from the warbands that make up the Khans, we will ensure we can never go wrong."
+
+  KHA_focus_chance: "Chance"
+  KHA_focus_chance_desc: "Chance is a member of the Great Khans and a survivor of the Bitter Springs Massacre. He is considerd by many a veteran of the clan, and a ruthless warrior, showing no remorse as he cuts his foes down one by one."
+
+  KHA_focus_mcmurphy: "McMurphy"
+  KHA_focus_mcmurphy_desc: "McMurphy was born member of the Khans, and has bags of experience leading small bands of the clan members on raiding missions deep into enemy lands."
+
+  KHA_focus_the_armorer: "The Armorer"
+  KHA_focus_the_armorer_desc: "The Armorer of the Great Khans is considerd one of the best in the wasteland, and with little more than a scrap of metal she has been known to forge the finest breast plates and body armor."
+
+  KHA_focus_oscar_velasco: "Oscar Velasco"
+  KHA_focus_oscar_velasco_desc: "Oscar Velasco was one of the few soldiers at Bitter Springs the day of the massacre, and fought bravely with his fellow Khans until they were totally overwhelmed. Oscar managed to survive due to his unique sniper abilities, allowing him to cut down the NCR troopers who attempted to follow him up the narrow mountain passes. His skill will be of great use to us—as will the regiments of survivors he can call upon."
+
+  KHA_focus_melissa_lewis: "Melissa Lewis"
+  KHA_focus_melissa_lewis_desc: "Melissa is a courier for the Great Khans and knows all the tricks of the business. She wasn't born into the tribe but instead underwent gruling training—and she shows true potential."
+
+  KHA_focus_desmond_lans: "Desmond Lans"
+  KHA_focus_desmond_lans_desc: "Desmond has never forgotten the Bitter Springs massacre, and believe it's high time the Khans have their revenge on the NCR for their atrocities."
+
+  KHA_focus_jack: "Jack"
+  KHA_focus_jack_desc: "Jack is an easy going drug dealer, or "drug supplier" as he prefers, you can often find him and Diane together. The pair run a drug trafficking ring in the Mojave, and supply the Great Khans with drugs as well. Jack learned chemistry from the Followers of the Apocalypse."
+
+  KHA_focus_diane: "Diane"
+  KHA_focus_diane_desc: "Diane is a drug dealer and member of the Great Khans. You can often find her and Jack together, although it seems to be mostly Jack who follows her around rather than a mutual friendship."
+
+  KHA_focus_anders: "Anders"
+  KHA_focus_anders_desc: "Anders is and always has been a Khan, making a name for himself as Diane's most trusty drug runner. Together the trio—Diane, Jack and Anders—controll the vast majority of the Great Khans' drug trade."
+
+  KHA_focus_jerry_the_punk: "Jerry The Punk"
+  KHA_focus_jerry_the_punk_desc: "When Jerry was a child, the Followers of the Apocalypse came to Red Rock Canyon with pre-War books. Jerry used to spend hours reading these books, especially poetry books, and has consequentially grown into the role of the Great Khan's poet—writing epics about the victories of the Khans."
+
+  KHA_focus_emma_winslow: "Emma Winslow"
+  KHA_focus_emma_winslow_desc: "Emma was one of the original Followers of the Apocalypse to make contact with the Great Khans, and dedicated her time to helping the clan—even begining to embrace its culture. By inviting her to the Long House we may be able to convince her people that we are not so bad."
+
+  KHA_focus_dalia: "Dalia"
+  KHA_focus_dalia_desc: "Dalia is more than just a pretty face, and her way with words combined with her keen political awareness make her a great motivational speaker."
+
+  KHA_focus_new_lands: "New Lands"
+  KHA_focus_new_lands_desc: "Our numbers grow by the day, but our territory does not. We need new resources, new settlements and new slaves—so we must take them!"
+
+  KHA_focus_the_grand_canyon: "Invade the Grand Canyon"
+  KHA_focus_the_grand_canyon_desc: "The Grand Canyon is rich in metal ores and defendable ground. There is only one thing preventing us from taking it—the tribes inhabiting it! We must wipe them out."
+
+  KHA_focus_a_new_silk_road: "A New Silk Road"
+  KHA_focus_a_new_silk_road_desc: "The  paths through the Grand Canyon are both easily defendable and much quiker than our previous routes—they will significantly increase our smuggling capabilities, if we just put a bit of work into reparing them!"
+
+  KHA_focus_grand_tribe_slaves: "Enslave the Canyon Tribes"
+  KHA_focus_grand_tribe_slaves_desc: "The tribes in the Grand Canyon that we did not wipe from the face of the earth may prove a useful source of productivity, as well as being able to find pockets of ore we could not. I'm sure no one will miss them if we throw them in the mines..."
+
+  KHA_focus_integrate_the_grand_tribes: "Create Khan Outposts"
+  KHA_focus_integrate_the_grand_tribes_desc: "Now that the Grand Canyon is purged of enemies, we should move a small group of Khans into the canyon and set up outposts. This land is now rightfully ours, and soon we will begin recruiting Khans from the area."
+
+  KHA_focus_push_for_zion: "Push For Zion"
+  KHA_focus_push_for_zion_desc: "Zion lies on a vast mountain range deep in Sorrow territory, but it is a strategic target for us. When we take it, it will provide a good base of operations for future expansion and trade."
+
+  KHA_focus_develop_zion: "Salvage Old Factories"
+  KHA_focus_develop_zion_desc: "After our victory against the Sorrows we can focus on salvaging what is left of old pre-war factories in the region, this should grant us access to some useful tools. Perhaps the factories themselves may recieve a new life."
+
+  KHA_focus_zion_slaves: "Enslave Zion"
+  KHA_focus_zion_slaves_desc: "Zion has a large civillian population left, despite the drawn-out war. We only wished for Zion for the extensive strategic benefits, so we should put the populace to work in the factories and the mines!"
+
+  KHA_focus_integrate_zion: "Integrate Zion"
+  KHA_focus_integrate_zion_desc: "Whilst our fight with the Sorrows was bloody, many of the locals in settlements we have captured are sympathetic to our way of life—indeed, many wish to join the Khans. We should exploit this to raise even more warbands!"
+
+  KHA_focus_expansion_high_chapel: "Advance on High Chapel"
+  KHA_focus_expansion_high_chapel_desc: "We now share a common border with High Chapel, though they grow in strength and fervour by the day. We should take pre-emptive action—though we should also be careful that those nuts in New Canaan don't come running to their aid!"
+
+  KHA_focus_fate_of_the_survivors: "Fate of the Survivors"
+  KHA_focus_fate_of_the_survivors_desc: "The brave men and women of the Khaganate were successful in defeating the heathen scum of high chapel. It is now time for us to decide what we do with those who survived."
+
+  KHA_focus_expansion_grabber: "Invade Grabber Territories"
+  KHA_focus_expansion_grabber_desc: "The Grabber Gang holds vast amounts of lands in their name. It's time they share it out."
+
+  KHA_focus_integrate_grabber: "Khan Initiation"
+  KHA_focus_integrate_grabber_desc: "The Grabbers are made of similar stuff to our own troops, and so there should be little problem in integrating the survivors into our warbands—under close supervision, of course."
+
+  KHA_focus_enslave_grabber: "Enslave the Survivors"
+  KHA_focus_enslave_grabber_desc: "The members of the Grabbers were weak and deserve nothing more than to be worked under the whip. So it shall be."
+
+  KHA_focus_backstab_wht: "Backstab the White Legs"
+  KHA_focus_backstab_wht_desc: "We have often enjoyed a warm relationship with the White Legs—but times have changed, and their can only be one dominant raider group to the north of the Colorado."
+
+  KHA_focus_integrate_wht: "New Khan Members"
+  KHA_focus_integrate_wht_desc: "Many of the people within the White Legs were never opposed to joining the Khans, and also have significant experience at surviving in the wastes. We mustn't let this talent go to waste!."
+
+  KHA_focus_enslave_wht: "Make Them Slaves"
+  KHA_focus_enslave_wht_desc: "The White Legs have been our enemies, and as such we can never trust them to join the warbads. We should instead put them in shackles and send them to the factories and mines!"
+
+  KHA_focus_khan_culture_1: "Means of Production"
+  KHA_focus_khan_culture_1_desc: "The Khans have always been on the move, producing what they need wherever they are. We should follow suit with these traditions."
+
+  KHA_focus_khan_culture_2: "Social Darwinism"
+  KHA_focus_khan_culture_2_desc: "Only the strongest survive in Khan culture, and through this our whole people have become strong!"
+
+  KHA_focus_khan_culture_3: "Able Bodies"
+  KHA_focus_khan_culture_3_desc: "Every Khan who is able-bodied is a warrior. This may have a strain on our production, as we have no real dedicated mechanics, but it means that every Khan can defend themselves, and those around them."
+
+  KHA_focus_khan_culture_4: "Hit & Run Tactics"
+  KHA_focus_khan_culture_4_desc: "We'll never be able to field a large army, so we must develop our own tactics to make the best of what we have."
+
+  KHA_focus_khan_culture_5: "Permanent Structures"
+  KHA_focus_khan_culture_5_desc: "A nomadic lifestyle is fine for making ends meet by raiding, but if we are to become prosperous we need to find somewhere to settle down."
+
+  KHA_focus_khan_culture_6: "Ideas of the Future"
+  KHA_focus_khan_culture_6_desc: "Khan culture has always been defined as primitve, but as we settle down we are able contemplate new ways of life."
+
+  KHA_focus_khan_culture_7: "Permanent Residence"
+  KHA_focus_khan_culture_7_desc: "By having a place of permanent residence, we also have a place of permanat saftey—providing we keep it well defended."
+
+  KHA_focus_khan_culture_8: "Defensive Strategies"
+  KHA_focus_khan_culture_8_desc: "We should broaden our defensive capabilities beyond Red Rock Canyon and defend all we deem is ours."

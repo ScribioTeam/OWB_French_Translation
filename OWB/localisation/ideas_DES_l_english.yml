@@ -1,96 +1,99 @@
 ﻿l_english:
- desertrangers:0 "Desert Rangers"
- desertrangers_desc:0 ""
+  desertrangers: "Desert Rangers"
+  desertrangers_desc: ""
 
- raiderconscripts:0 "Raider Conscripts"
- raiderconscripts_desc:0 ""
+  raiderconscripts: "Raider Conscripts"
+  raiderconscripts_desc: ""
 
- rangercores:0 "Ranger Cores"
- rangercores_desc:0 ""
+  rangercores: "Ranger Cores"
+  rangercores_desc: ""
 
- rangerintervention:0 "Ranger Intervention"
- rangerintervention_desc:0 ""
+  rangerintervention: "Ranger Intervention"
+  rangerintervention_desc: ""
 
- nevadarecruitment:0 "Nevada Recruitment"
- nevadarecruitment_desc:0 ""
+  nevadarecruitment: "Nevada Recruitment"
+  nevadarecruitment_desc: ""
 
- knighttactics:0 "Knight Tactics\n§YAll Infantry & Mot/Mech§!§W:§! §WBreakthrough:§! §G+5%§!"
- knighttactics_desc:0 ""
+  knighttactics: "Knight Tactics\n§YAll Infantry & Mot/Mech§!§W:§! §WBreakthrough:§! §G+5%§!"
+  knighttactics_desc: ""
 
- rangersworkbench:0 "Ranger's Workbench"
- rangersworkbench_desc:0 ""
+  rangersworkbench: "Ranger's Workbench"
+  rangersworkbench_desc: ""
 
- wastelandprotect:0 "Wasteland Protect"
- wastelandprotect_desc:0 ""
+  wastelandprotect: "Wasteland Protect"
+  wastelandprotect_desc: ""
 
- slayinggiants:0 "Slaying Giants\n§YAll Infantry & Mot/Mech§!§W:§!\n    §WBreakthrough:§! §G+10%§!\n    §WSoft attack:§! §G+10%§!"
- slayinggiants_desc:0 ""
+  slayinggiants: "Slaying Giants\n§YAll Infantry & Mot/Mech§!§W:§!\n    §WBreakthrough:§! §G+10%§!\n    §WSoft attack:§! §G+10%§!"
+  slayinggiants_desc: ""
 
- rangersquartermaster:0 "Ranger Quartermaster"
- rangersquartermaster_desc:0 ""
+  rangersquartermaster: "Ranger Quartermaster"
+  rangersquartermaster_desc: ""
 
- rangersmechanic:0 "Rangers Mechanic"
- rangersmechanic_desc:0 ""
+  rangersmechanic: "Rangers Mechanic"
+  rangersmechanic_desc: ""
 
- rangersrecruiter:0 "Rangers Recruiter"
- rangersrecruiter_desc:0 ""
+  rangersrecruiter: "Rangers Recruiter"
+  rangersrecruiter_desc: ""
 
- rangerspropaganda:0 "Rangers Propaganda"
- rangerspropaganda_desc:0 ""
+  rangerspropaganda: "Rangers Propaganda"
+  rangerspropaganda_desc: ""
 
- rangersoutreach:0 "Rangers Outreach"
- rangersoutreach_desc:0 ""
+  rangersoutreach: "Rangers Outreach"
+  rangersoutreach_desc: ""
 
- rangersarmouries:0 "Rangers Armouries"
- rangersarmouries_desc:0 ""
+  rangersarmouries: "Rangers Armouries"
+  rangersarmouries_desc: ""
 
- rangerdepot:0 "Ranger Depot"
- rangerdepot_desc:0 ""
+  rangerdepot: "Ranger Depot"
+  rangerdepot_desc: ""
 
- rangersaviation:0 "Rangers Aviation"
- rangersaviation_desc:0 ""
+  rangersaviation: "Rangers Aviation"
+  rangersaviation_desc: ""
 
- standingtall:0 "Standing Tall"
- standingtall_desc:0 ""
+  standingtall: "Standing Tall"
+  standingtall_desc: ""
 
- reorganizedrangers:0 "Reorganized Rangers"
- reorganizedrangers_desc:0 ""
+  reorganizedrangers: "Reorganized Rangers"
+  reorganizedrangers_desc: ""
 
- ncrfunding:0 "NCR Funding"
- ncrfunding_desc:0 ""
+  ncrfunding: "NCR Funding"
+  ncrfunding_desc: ""
 
- bosfunding_tt:0 "BoS Funding"
- bosfunding_tt_desc:0 " "
+  bosfunding_tt: "BoS Funding"
+  bosfunding_tt_desc: " "
 
- opjericho:0 "Opjericho"
- opjericho_desc:0 ""
+  opjericho: "Opjericho"
+  opjericho_desc: ""
 
- rangerslegionwar:0 "Rangers-Legion War\n§YAll Infantry & Mot/Mech§!§W: Recovery Rate:§! §G+10%§!"
- rangerslegionwar_desc:0 ""
+  rangerslegionwar: "Rangers-Legion War\n§YAll Infantry & Mot/Mech§!§W: Recovery Rate:§! §G+10%§!"
+  rangerslegionwar_desc: ""
 
- rangersnewthreat:0 "Rangers New Threat\n§YAll Infantry & Mot/Mech§!§W:§!\n    §WBreakthrough:§! §G+10%§!\n    §WSoft attack:§! §G+10%§!"
- rangersnewthreat_desc:0 ""
+  rangersnewthreat: "Rangers New Threat\n§YAll Infantry & Mot/Mech§!§W:§!\n    §WBreakthrough:§! §G+10%§!\n    §WSoft attack:§! §G+10%§!"
+  rangersnewthreat_desc: ""
 
- rangermarch:0 "Ranger March"
- rangermarch_desc:0 ""
+  rangermarch: "Ranger March"
+  rangermarch_desc: ""
 
- ncrhonours:0 "NCR Honours"
- ncrhonours_desc:0 ""
+  ncrhonours: "NCR Honours"
+  ncrhonours_desc: ""
 
- nationalguard:0 "National Guard"
- nationalguard_desc:0 ""
+  nationalguard: "National Guard"
+  nationalguard_desc: ""
 
- armyrangers:0 "Army Rangers"
- armyrangers_desc:0 ""
+  armyrangers: "Army Rangers"
+  armyrangers_desc: ""
 
- acceptcrim:0 "Accepted Criminals"
- acceptcrim_desc:0 ""
+  acceptcrim: "Accepted Criminals"
+  acceptcrim_desc: ""
 
- acceptpetty:0 "Accepted Petty Criminals"
- acceptpetty_desc:0 ""
+  acceptpetty: "Accepted Petty Criminals"
+  acceptpetty_desc: ""
 
- kickcrim:0 "Kicked out Criminals"
- kickcrim_desc:0 ""
+  kickcrim: "Kicked out Criminals"
+  kickcrim_desc: ""
 
- rangerinterventionism:0 "Ranger interventionism"
- rangerinterventionism_desc:0 " "
+  rangerinterventionism: "Ranger interventionism"
+  rangerinterventionism_desc: " "
+
+  DES_army_corps_of_engineers: "Army Corps of Engineers Origins"
+  DES_army_corps_of_engineers_desc: ""

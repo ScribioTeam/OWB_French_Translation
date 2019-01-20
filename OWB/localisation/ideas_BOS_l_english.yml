@@ -1,240 +1,243 @@
 ﻿l_english:
- bunkerblues:0 "Bunker Blues"
- bunkerblues_desc:0 ""
+  bunkerblues: "Bunker Blues"
+  bunkerblues_desc: ""
 
- bosdigin:0 "Brotherhood Field Fortifications\n§YAll Infantry & Mot/Mech§!§W:§!\n    §WSoft attack:§! §G+10%§!\n    §WHard attack:§! §G+10%§!\n    §WDefence:§! §G+10%§!"
- bosdigin_desc:0 ""
+  bosdigin: "Brotherhood Field Fortifications\n§YAll Infantry & Mot/Mech§!§W:§!\n    §WSoft attack:§! §G+10%§!\n    §WHard attack:§! §G+10%§!\n    §WDefence:§! §G+10%§!"
+  bosdigin_desc: ""
 
- bunkerblues2:0 "Bunker Blues II"
- bunkerblues2_desc:0 ""
+  bunkerblues2: "Bunker Blues II"
+  bunkerblues2_desc: ""
 
- roomtogrow:0 "Room To Grow"
- roomtogrow_desc:0 ""
+  roomtogrow: "Room To Grow"
+  roomtogrow_desc: ""
 
- scribecouncil:0 "Scribe Council"
- scribecouncil_desc:0 ""
+  scribecouncil: "Scribe Council"
+  scribecouncil_desc: ""
 
- paladincouncil:0 "Paladin Council"
- paladincouncil_desc:0 ""
+  paladincouncil: "Paladin Council"
+  paladincouncil_desc: ""
 
- discoveryknights:0 "Discovery Knights"
- discoveryknights_desc:0 ""
+  discoveryknights: "Discovery Knights"
+  discoveryknights_desc: ""
 
- certaintyknights:0 "Certainty Knights"
- certaintyknights_desc:0 ""
+  certaintyknights: "Certainty Knights"
+  certaintyknights_desc: ""
 
- bosspineless:0 "Spineless"
- bosspineless_desc:0 ""
+  bosspineless: "Spineless"
+  bosspineless_desc: ""
 
- bosvengeful:0 "Vengeful"
- bosvengeful_desc:0 ""
+  bosvengeful: "Vengeful"
+  bosvengeful_desc: ""
 
- steelconquerors:0 "Steel Conquerors"
- steelconquerors_desc:0 ""
+  steelconquerors: "Steel Conquerors"
+  steelconquerors_desc: ""
 
- maxsonsbulwark:0 "Maxson's Bulwark"
- maxsonsbulwark_desc:0 ""
+  maxsonsbulwark: "Maxson's Bulwark"
+  maxsonsbulwark_desc: ""
 
- bosdevelopedslums:0 "Developed Slums"
- bosdevelopedslums_desc:0 ""
+  bosdevelopedslums: "Developed Slums"
+  bosdevelopedslums_desc: ""
 
- elijahgenius:0 "Elijah's Genius"
- elijahgenius_desc:0 ""
+  elijahgenius: "Elijah's Genius"
+  elijahgenius_desc: ""
 
- hardintactics:0 "Hardin's Tactics"
- hardintactics_desc:0 ""
+  hardintactics: "Hardin's Tactics"
+  hardintactics_desc: ""
 
- bosmojaveequip:0 "Hardin's Tactics"
- bosmojaveequip_desc:0 ""
+  bosdrills: "Hardin's Tactics"
+  bosdrills_desc: ""
 
- boslogistictech:0 "Hardin's Tactics"
- boslogistictech_desc:0 ""
+  bosmojaveequip: "Hardin's Tactics"
+  bosmojaveequip_desc: ""
 
- losthillsdatabase:0 "Lost Hills Database"
- losthillsdatabase_desc:0 ""
+  boslogistictech: "Hardin's Tactics"
+  boslogistictech_desc: ""
 
- microfusion:0 "Microfusion"
- microfusion_desc:0 ""
+  losthillsdatabase: "Lost Hills Database"
+  losthillsdatabase_desc: ""
 
- focuslens:0 "Focus Lens"
- focuslens_desc:0 ""
+  microfusion: "Microfusion"
+  microfusion_desc: ""
 
- reactionchambers:0 "Reaction Chambers"
- reactionchambers_desc:0 ""
+  focuslens: "Focus Lens"
+  focuslens_desc: ""
 
- bosoldworldfocuses:0 "Old World Focuses"
- bosoldworldfocuses_desc:0 ""
+  reactionchambers: "Reaction Chambers"
+  reactionchambers_desc: ""
 
- bossimpledesigns:0 "Old World Designs"
- bossimpledesigns_desc:0 ""
+  bosoldworldfocuses: "Old World Focuses"
+  bosoldworldfocuses_desc: ""
 
- powermanagement:0 "Sentry Bot Refurbishment"
- powermanagement_desc:0 ""
+  bossimpledesigns: "Old World Designs"
+  bossimpledesigns_desc: ""
 
- maintenanceroutines:0 "Maintenance Routines"
- maintenanceroutines_desc:0 ""
+  powermanagement: "Sentry Bot Refurbishment"
+  powermanagement_desc: ""
 
- servoupkeep:0 "Servo Upkeep"
- servoupkeep_desc:0 ""
+  maintenanceroutines: "Maintenance Routines"
+  maintenanceroutines_desc: ""
 
- alloyfoundries:0 "Alloy Foundries"
- alloyfoundries_desc:0 ""
+  servoupkeep: "Servo Upkeep"
+  servoupkeep_desc: ""
 
- superioralloys:0 "Superior Alloys"
- superioralloys_desc:0 ""
+  alloyfoundries: "Alloy Foundries"
+  alloyfoundries_desc: ""
 
- armingmaxson:0 "Arming Maxson"
- armingmaxson_desc:0 ""
+  superioralloys: "Superior Alloys"
+  superioralloys_desc: ""
 
- supplyingmaxson:0 "Supplying Maxson"
- supplyingmaxson_desc:0 ""
+  armingmaxson: "Arming Maxson"
+  armingmaxson_desc: ""
 
- maxsonrecruitmentdrive:0 "Maxson Recruitment Drive"
- maxsonrecruitmentdrive_desc:0 ""
+  supplyingmaxson: "Supplying Maxson"
+  supplyingmaxson_desc: ""
 
- brotherhoodtacticslexicon:0 "Lexicon of Tactics"
- brotherhoodtacticslexicon_desc:0 ""
+  maxsonrecruitmentdrive: "Maxson Recruitment Drive"
+  maxsonrecruitmentdrive_desc: ""
 
- bosprewarindustry:0 "Prewar-industry"
- bosprewarindustry_desc:0 ""
+  brotherhoodtacticslexicon: "Lexicon of Tactics"
+  brotherhoodtacticslexicon_desc: ""
 
- bossalvagedindustry:0 "Salvaged Industry"
- bossalvagedindustry_desc:0 ""
+  bosprewarindustry: "Prewar-industry"
+  bosprewarindustry_desc: ""
 
- vandenbergidea:0 "Vandenberg Idea"
- vandenbergidea_desc:0 ""
+  bossalvagedindustry: "Salvaged Industry"
+  bossalvagedindustry_desc: ""
 
- navarroscribes:0 "Navarro Scribes"
- navarroscribes_desc:0 ""
+  vandenbergidea: "Vandenberg Idea"
+  vandenbergidea_desc: ""
 
- navarrosecrets:0 "Navarro Secrets"
- navarrosecrets_desc:0 ""
+  navarroscribes: "Navarro Scribes"
+  navarroscribes_desc: ""
 
- shisecrets:0 "Shi Secrets"
- shisecrets_desc:0 ""
+  navarrosecrets: "Navarro Secrets"
+  navarrosecrets_desc: ""
 
- vertibirdrepairs:0 "Vertibird Repairs"
- vertibirdrepairs_desc:0 ""
+  shisecrets: "Shi Secrets"
+  shisecrets_desc: ""
 
- vertibirdequip:0 "Vertibird Equipment Upgrades"
- vertibirdequip_desc:0 ""
+  vertibirdrepairs: "Vertibird Repairs"
+  vertibirdrepairs_desc: ""
 
- zeppelinfoundry:0 "Zeppelin Foundry"
- zeppelinfoundry_desc:0 ""
+  vertibirdequip: "Vertibird Equipment Upgrades"
+  vertibirdequip_desc: ""
 
- forbiddensecrets:0 "Forbidden Secrets"
- forbiddensecrets_desc:0 ""
+  zeppelinfoundry: "Zeppelin Foundry"
+  zeppelinfoundry_desc: ""
 
- forbiddenweapons:0 "Forbidden Weapons"
- forbiddenweapons_desc:0 ""
+  forbiddensecrets: "Forbidden Secrets"
+  forbiddensecrets_desc: ""
 
- shi_secrets:0 "Shi Secrets"
- shi_secrets_desc:0 ""
+  forbiddenweapons: "Forbidden Weapons"
+  forbiddenweapons_desc: ""
 
- armyknowledge:0 "Army Knowledge"
- armyknowledge_desc:0 ""
+  shi_secrets: "Shi Secrets"
+  shi_secrets_desc: ""
 
- bosdrillsergeants:0 "Drill Sergeants"
- bosdrillsergeants_desc:0 ""
+  armyknowledge: "Army Knowledge"
+  armyknowledge_desc: ""
 
- siliconvalley:0 "Silicon Valley"
- siliconvalley_desc:0 ""
+  bosdrillsergeants: "Drill Sergeants"
+  bosdrillsergeants_desc: ""
 
- navarroscoutcamp:0 "Navarro Scout Camp\n§YAll Infantry & Mot/Mech§!§W: Breakthrough:§! §G+7%§!"
- navarroscoutcamp_desc:0 ""
+  siliconvalley: "Silicon Valley"
+  siliconvalley_desc: ""
 
- scribecontractors:0 "Scribe Contractors"
- scribecontractors_desc:0 ""
+  navarroscoutcamp: "Navarro Scout Camp\n§YAll Infantry & Mot/Mech§!§W: Breakthrough:§! §G+7%§!"
+  navarroscoutcamp_desc: ""
 
- foodforservice:0 "Elijah's Genius"
- foodforservice_desc:0 ""
+  scribecontractors: "Scribe Contractors"
+  scribecontractors_desc: ""
 
- drawnsword:0 "Drawnsword"
- drawnsword_desc:0 ""
+  foodforservice: "Elijah's Genius"
+  foodforservice_desc: ""
 
- navarroornothing:0 "Navarro or Nothing"
- navarroornothing_desc:0 ""
+  drawnsword: "Drawnsword"
+  drawnsword_desc: ""
 
- steelcitadel:0 "Steel Citadel"
- steelcitadel_desc:0 ""
+  navarroornothing: "Navarro or Nothing"
+  navarroornothing_desc: ""
 
- newsteel:0 "New Steel"
- newsteel_desc:0 ""
+  steelcitadel: "Steel Citadel"
+  steelcitadel_desc: ""
 
- ghoulrecruitment:0 "Ghoul Recruitment"
- ghoulrecruitment_desc:0 ""
+  newsteel: "New Steel"
+  newsteel_desc: ""
 
- newtactics:0 "New Tactics\n§YSuper Mutants§!§W:§!\n    §WSoft attack:§! §G+5%§!\n    §WHard attack:§! §G+5%§!\n    §WDefense:§! §G+5%§!\n    §WBreakthrough:§! §G+5%§!"
- newtactics_desc:0 ""
+  ghoulrecruitment: "Ghoul Recruitment"
+  ghoulrecruitment_desc: ""
 
- arizonanweapons:0 "Arizonan Weapons"
- arizonanweapons_desc:0 ""
+  newtactics: "New Tactics\n§YSuper Mutants§!§W:§!\n    §WSoft attack:§! §G+5%§!\n    §WHard attack:§! §G+5%§!\n    §WDefense:§! §G+5%§!\n    §WBreakthrough:§! §G+5%§!"
+  newtactics_desc: ""
 
- bosncrdrive:0 "NCR Drive"
- bosncrdrive_desc:0 ""
+  arizonanweapons: "Arizonan Weapons"
+  arizonanweapons_desc: ""
 
- brotherhoodlogistics:0 "Brotherhood Logistics"
- brotherhoodlogistics_desc:0 ""
+  bosncrdrive: "NCR Drive"
+  bosncrdrive_desc: ""
 
- advancedcommunications:0 "Advanced Communication Systems"
- advancedcommunications_desc:0 ""
+  brotherhoodlogistics: "Brotherhood Logistics"
+  brotherhoodlogistics_desc: ""
 
- securitronsoftware:0 "Elijah's Genius"
- securitronsoftware_desc:0 ""
+  advancedcommunications: "Advanced Communication Systems"
+  advancedcommunications_desc: ""
 
- securitronhardware:0 "Elijah's Genius"
- securitronhardware_desc:0 ""
+  securitronsoftware: "Elijah's Genius"
+  securitronsoftware_desc: ""
 
- repconnencryption:0 "Repcon Encryption"
- repconnencryption_desc:0 ""
+  securitronhardware: "Elijah's Genius"
+  securitronhardware_desc: ""
 
- robcoprototypes:0 "Robco Prototypes"
- robcoprototypes_desc:0 ""
+  repconnencryption: "Repcon Encryption"
+  repconnencryption_desc: ""
 
- robcorockets:0 "Robco Rockets"
- robcorockets_desc:0 ""
+  robcoprototypes: "Robco Prototypes"
+  robcoprototypes_desc: ""
 
- robcodesign:0 "Robco Design"
- robcodesign_desc:0 ""
+  robcorockets: "Robco Rockets"
+  robcorockets_desc: ""
 
- plasmatrials:0 "Plasma Trials"
- plasmatrials_desc:0 ""
+  robcodesign: "Robco Design"
+  robcodesign_desc: ""
 
- robotsalvage:0 "Robot Salvage"
- robotsalvage_desc:0 ""
+  plasmatrials: "Plasma Trials"
+  plasmatrials_desc: ""
 
- scraprefinement:0 "Scrap Refinement"
- scraprefinement_desc:0 ""
+  robotsalvage: "Robot Salvage"
+  robotsalvage_desc: ""
 
- industrialservos:0 "Industrial Servos"
- industrialservos_desc:0 ""
+  scraprefinement: "Scrap Refinement"
+  scraprefinement_desc: ""
 
- alloyconstruct:0 "Alloy Construction"
- alloyconstruct_desc:0 ""
+  industrialservos: "Industrial Servos"
+  industrialservos_desc: ""
 
- losthillsrefurb:0 "Lost Hills Refurbishment"
- losthillsrefurb_desc:0 ""
+  alloyconstruct: "Alloy Construction"
+  alloyconstruct_desc: ""
 
- oldguard:0 "Old Guard"
- oldguard_desc:0 ""
+  losthillsrefurb: "Lost Hills Refurbishment"
+  losthillsrefurb_desc: ""
 
- outsider_recruitment:0 "Outsider Recruitment"
- outsider_recruitment_desc:0 ""
+  oldguard: "Old Guard"
+  oldguard_desc: ""
 
- wasteland_conscripts:0 "Wasteland Conscripts"
- wasteland_conscripts_desc:0 ""
+  outsider_recruitment: "Outsider Recruitment"
+  outsider_recruitment_desc: ""
 
- laserfocusfoundry:0 "Laser Focus Foundry"
- laserfocusfoundry_desc:0 ""
+  wasteland_conscripts: "Wasteland Conscripts"
+  wasteland_conscripts_desc: ""
 
- shiclosethedoors:0 "Shi Closed Doors"
- shiclosethedoors_desc:0 "Shi has closed their doors to us."
+  laserfocusfoundry: "Laser Focus Foundry"
+  laserfocusfoundry_desc: ""
 
- steelcivilians:0 "Steel Civilians"
- steelcivilians_desc:0 ""
+  shiclosethedoors: "Shi Closed Doors"
+  shiclosethedoors_desc: "Shi has closed their doors to us."
 
- steelmilitia:0 "Steel Militias"
- steelmilitia_desc:0 ""
+  steelcivilians: "Steel Civilians"
+  steelcivilians_desc: ""
 
- powerarmourdevelopment:0 "Power Armor Development"
- powerarmourdevelopment_desc:0 ""
+  steelmilitia: "Steel Militias"
+  steelmilitia_desc: ""
+
+  powerarmourdevelopment: "Power Armor Development"
+  powerarmourdevelopment_desc: ""

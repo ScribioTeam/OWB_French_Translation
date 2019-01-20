@@ -6,7 +6,7 @@
  # Infantry
  spec_ops: "Spec Ops"
  spec_ops_desc: ""
- militia: "Militia"
+  militia: "Militia"
  power_armour_support: "Power Armour Support"
  power_armour_support_short: "Power Armour Support"
  power_armour_support_short_desc: "A unit of infantry equipped with power armour. Their armour can provide an enormous advantage in combat by adding more resilience to soft attacks. The cost of producing such armour increases the cost of infantry units but can provide much better use of manpower resources"
@@ -23,7 +23,7 @@
  super_mutant_infantry_short: "Super Mutant Inf."
  super_mutant_infantry_desc: "Super mutants, while usually not as smart as their human counterparts, are much stronger and resilient due to their larger, more powerful frame. In contrast to normal infantry however an access to FEV is needed to produce these hulking soldiers."
  # Motorized/Mechanized
- apc: "APC Battalion"
+  apc: "APC Battalion"
  apc_short: "APC Battalion"
  apc_desc: "Medium armoured fighting vehicles capable of deflecting most small arms fire while simultaneously capable of returning fire itself."
 
@@ -33,7 +33,7 @@
  apc_support_desc: ""
 
  # tanks
- tank: "Tank Battalion"
+  tank: "Tank Battalion"
  tank_short: "Tank Battalion"
  tank_desc: "Heavily armed and armoured tanks will plough through any soft targets foolish enough to stand in their way."
 
@@ -50,7 +50,7 @@
  heavy_robot_short: "Heavy Robots"
  heavy_robot_desc: "Heavily armoured robots put into service as a combat unit."
 
- behemoth: "Behemoth"
+  behemoth: "Behemoth"
  behemoth_short: "Behemoth"
  behemoth_desc: ""
 
