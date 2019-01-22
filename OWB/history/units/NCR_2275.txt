@@ -38,7 +38,7 @@ division_template = {
 	regiments = {
 		motorized = { x = 0 y = 0 }
 		motorized = { x = 0 y = 1 }
-       	motorized = { x = 0 y = 2 }
+		motorized = { x = 0 y = 2 }
 		motorized = { x = 0 y = 3 }
 		motorized = { x = 1 y = 0 }
 		motorized = { x = 1 y = 1 }
@@ -51,267 +51,340 @@ division_template = {
 	}
 }
 
-
 units = {
-	
-	division = { 
+	division = {
 		name = "1ère Compagnie de Rangers"
 		location = 8837
 		division_template = "Rangers RNC"
 		start_experience_factor = 0.5
 		start_equipment_factor = 1.0
 	}
-	
-	division = { 
+
+	division = {
 		name = "2nde Compagnie de Rangers"
 		location = 7157
 		division_template = "Rangers RNC"
 		start_experience_factor = 0.5
 		start_equipment_factor = 1.0
 	}
-	
-	division = { 
+
+	division = {
 		name = "3e Compagnie de Rangers"
 		location = 4642
 		division_template = "Rangers RNC"
 		start_experience_factor = 0.5
 		start_equipment_factor = 1.0
 	}
-	
-	division = { 
+
+	division = {
 		name = "1ère Compagnie Motorisée"
 		location = 8830
 		division_template = "Division motorisée"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division = { 
+
+	division = {
 		name = "2nde Compagnie Motorisée"
 		location = 8830
 		division_template = "Division motorisée"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division = { 
+
+	division = {
 		name = "3e Compagnie Motorisée"
 		location = 8830
 		division_template = "Division motorisée"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division = { 
+
+	division = {
 		name = "4e Compagnie Motorisée"
 		location = 8830
 		division_template = "Division motorisée"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division {
-		name = "1ère Compagnie"
+
+	division = {
+		division_name = {
+ 			is_name_ordered = yes
+ 			name_order = 1
+ 		}
 		location = 8823
 		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division {
-		name = "2nde Compagnie"
+
+	division = {
+		division_name = {
+ 			is_name_ordered = yes
+ 			name_order = 2
+ 		}
 		location = 2414
 		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division {
-		name = "3e Compagnie"
+
+	division = {
+		division_name = {
+ 			is_name_ordered = yes
+ 			name_order = 3
+ 		}
 		location = 2408
 		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division {
-		name = "4e Compagnie"
+
+	division = {
+		division_name = {
+ 			is_name_ordered = yes
+ 			name_order = 4
+ 		}
 		location = 2397
 		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division {
-		name = "5e Compagnie"
+
+	division = {
+		division_name = {
+ 			is_name_ordered = yes
+ 			name_order = 5
+ 		}
 		location = 2649
 		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division {
-		name = "6e Compagnie"
+
+	division = {
+		division_name = {
+ 			is_name_ordered = yes
+ 			name_order = 6
+ 		}
 		location = 4789
 		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division {
-		name = "7e Compagnie"
+
+	division = {
+		division_name = {
+ 			is_name_ordered = yes
+ 			name_order = 7
+ 		}
 		location = 5078
 		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division {
-		name = "8e Compagnie"
+
+	division = {
+		division_name = {
+ 			is_name_ordered = yes
+ 			name_order = 8
+ 		}
 		location = 8761
 		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division {
-		name = "9e Compagnie"
+
+	division = {
+		division_name = {
+ 			is_name_ordered = yes
+ 			name_order = 9
+ 		}
 		location = 2450
 		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division {
-		name = "10e Compagnie"
+
+	division = {
+		division_name = {
+ 			is_name_ordered = yes
+ 			name_order = 10
+ 		}
 		location = 2000
 		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division {
-		name = "11e Compagnie"
+
+	division = {
+		division_name = {
+ 			is_name_ordered = yes
+ 			name_order = 11
+ 		}
 		location = 1776
 		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division {
-		name = "12e Compagnie"
+
+	division = {
+		division_name = {
+ 			is_name_ordered = yes
+ 			name_order = 12
+ 		}
 		location = 4846
 		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division {
-		name = "13e Compagnie"
+
+	division = {
+		division_name = {
+ 			is_name_ordered = yes
+ 			name_order = 13
+ 		}
 		location = 4740
 		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division {
-		name = "14e Compagnie"
+
+	division = {
+		division_name = {
+ 			is_name_ordered = yes
+ 			name_order = 14
+ 		}
 		location = 2295
 		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division {
-		name = "15e Compagnie"
+
+	division = {
+		division_name = {
+ 			is_name_ordered = yes
+ 			name_order = 15
+ 		}
 		location = 4850
 		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division {
-		name = "16e Compagnie"
+
+	division = {
+		division_name = {
+ 			is_name_ordered = yes
+ 			name_order = 16
+ 		}
 		location = 2428
 		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division {
-		name = "17e Compagnie"
+
+	division = {
+		division_name = {
+ 			is_name_ordered = yes
+ 			name_order = 17
+ 		}
 		location = 4760
 		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division {
-		name = "18e Compagnie"
+
+	division = {
+		division_name = {
+ 			is_name_ordered = yes
+ 			name_order = 18
+ 		}
 		location = 2607
 		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division {
-		name = "19e Compagnie"
+
+	division = {
+		division_name = {
+ 			is_name_ordered = yes
+ 			name_order = 19
+ 		}
 		location = 2436
 		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division {
-		name = "20e Compagnie"
+
+	division = {
+		division_name = {
+ 			is_name_ordered = yes
+ 			name_order = 20
+ 		}
 		location = 4875
 		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division {
-		name = "21e Compagnie"
+
+	division = {
+		division_name = {
+ 			is_name_ordered = yes
+ 			name_order = 21
+ 		}
 		location = 4804
 		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division {
-		name = "22e Compagnie"
+
+	division = {
+		division_name = {
+ 			is_name_ordered = yes
+ 			name_order = 22
+ 		}
 		location = 4991
 		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division {
-		name = "23e Compagnie"
+
+	division = {
+		division_name = {
+ 			is_name_ordered = yes
+ 			name_order = 23
+ 		}
 		location = 2384
 		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division {
-		name = "24e Compagnie"
+
+	division = {
+		division_name = {
+ 			is_name_ordered = yes
+ 			name_order = 24
+ 		}
 		location = 3278
 		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	division {
-		name = "25e Compagnie"
+
+	division = {
+		division_name = {
+ 			is_name_ordered = yes
+ 			name_order = 25
+ 		}
 		location = 2310
 		division_template = "Soldats RNC"
 		start_experience_factor = 0.2
 		start_equipment_factor = 1.0
 	}
-	
-	navy = {				
-		name = "Flotte Boneyard"			
+
+	navy = {
+		name = "Flotte Boneyard"
 		base = 2407
 		location = 2407
 		ship = { name = "Navire RNC San Gariel" definition = destroyer equipment = { destroyer_equipment_1 = { amount = 1 owner = NCR } } }
@@ -324,8 +397,9 @@ units = {
 		ship = { name = "Navire RNC Boneyard" definition = heavy_cruiser equipment = { heavy_cruiser_equipment_1 = { amount = 1 owner = NCR } } }
 		ship = { name = "Navire RNC Hub" definition = heavy_cruiser equipment = { heavy_cruiser_equipment_1 = { amount = 1 owner = NCR } } }
 	}
-	navy = {				
-		name = "Flotte des Baron"			
+
+	navy = {
+		name = "Flotte des Baron"
 		base = 4995
 		location = 4995
 		ship = { name = "Navire RNC Gunderson" definition = destroyer equipment = { destroyer_equipment_1 = { amount = 1 owner = NCR } } }
