@@ -44,6 +44,25 @@
   nf_legion.10.b: "Divide Et Impera"
   nf_legion.10.c: "Decimatio"
 
+  #Placeholder Localisation Begins
+  nf_legion.11.t: "Outcome of the Hoover Dam"
+  nf_legion.11.d: "It's over what actually happened?"
+  nf_legion.11.a: "You lost loser"
+  nf_legion.11.b: "You won! Good job"
+
+  nf_legion.12.t: "Caesar sends us a 'request'"
+  nf_legion.12.d: "A messanger from Caesar has arrived and brings forth a letter of invitation to the legion. They wish to allow us to crush those who have dared threaten us and abused us.\n\nWhat should we do my Khan?"
+  nf_legion.12.a: "Accept his invitation"
+  nf_legion.12.b: "Decline. We don't need his assistance"
+
+  nf_legion.13.t: "The Khans Response"
+  nf_legion.13.d: "The Khans have accepted your generious invitation to the Legion. They will be powerful allies."
+  nf_legion.13.a: "Very Good"
+
+  nf_legion.14.d: "The Khans have refused your generious invitation to the Legion! They will pay for this transgression!"
+  nf_legion.14.a: "Fools"
+  #Placeholder Localisation Ends
+
   vulpes_chosen: "Vulpes has to contend with Lanius' Eastern Legions"
   lanius_chosen: "Lanius defends against a revolt by Vulpes Inculta"
   lucius_chosen: "Switch to Lucius and revolt against Caesar's hypocrisy"
