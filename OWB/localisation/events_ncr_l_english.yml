@@ -121,7 +121,7 @@
 
   nf_ncr.6.t: "Wendell Peterson's War."
   nf_ncr.6.d: "Wendell Peterson believes, above all other things, that the future of the NCR lies in the east, Raiders, Tribals and Legionaries be damned. To this end, he has spent much of his first year in office drumming up support for the ambitions Mojave Expedition, which is meant to bring as much of southern Nevada and California under the NCR's control as possible. Yet in order to make such a dream a reality, he is going to have too deal with various political parties. Each pushes their own agenda, and each wants to put their own figurehead in the most ambitious post in the NCR's military. Yet it is only with this support that Peterson can gain the congressional votes he needs to launch the Expedition."
-  nf_ncr.6.a: "General Drummund, Hero of Navarro, the Military's Choice"
+  nf_ncr.6.a: "General Drummond, Hero of Navarro, the Military's Choice"
   nf_ncr.6.b: "Big Jim Marshal, Hero of Nevada, the Baron's Choice"
   nf_ncr.6.c: "Mossman, the Unassuming Ranger, Dayglow's Choice"
 
@@ -151,7 +151,7 @@
   nf_ncr.11.c: "Improve the infrastructure."
 
   nf_ncr.12.t: "Battle Of Navarro"
-  nf_ncr.12.d: "On the Eve of the final assault, the acting General of the NCR’s Army, Alexander Drummund, received a personal visit from the president herself. Tandi made it clear to him that the NCR could not afford a slaughter, and advised him to hold back the majority of his troops during the assault. Meanwhile, the commander of the Brotherhood of Steel had already gone and approved Plans with Drummund, a joint attack that was dependant on the NCR providing a sizeable distraction. All the while, Drummund had grown increasingly frustrated with the entire situation and knew that he might regain much of his lost honour if he ordered an overwhelming charge, and claimed the majority of Navarro's treasures for the NCR, a reckless move that could save his career."
+  nf_ncr.12.d: "On the Eve of the final assault, the acting General of the NCR’s Army, Alexander Drummond, received a personal visit from the president herself. Tandi made it clear to him that the NCR could not afford a slaughter, and advised him to hold back the majority of his troops during the assault. Meanwhile, the commander of the Brotherhood of Steel had already gone and approved Plans with Drummond, a joint attack that was dependant on the NCR providing a sizeable distraction. All the while, Drummond had grown increasingly frustrated with the entire situation and knew that he might regain much of his lost honour if he ordered an overwhelming charge, and claimed the majority of Navarro's treasures for the NCR, a reckless move that could save his career."
   nf_ncr.12.a: "He held back our troops."
   nf_ncr.12.b: "He committed to the Brotherhood's plan."
   nf_ncr.12.c: "He recklessly pushed for an overwhelming NCR assault."
@@ -237,10 +237,10 @@
   ncr_civil_war_starts: "§R The Civil War Begins §!"
   NCR_civil_war_fires: "§R The NCR devolves into factions vying for power §!"
   NCR_civil_war_fires_switch_to_enclave: "§R The NCR dissolves into civil unrest, as the Enclave you will need to rise from it's ashes. §!"
-  load_seabear: "§YA destroyer named "The Seabear" is spawned in Dayglow§!"
+  load_seabear: "A destroyer named §Y"The Seabear"§! is spawned in Dayglow.\n"
   load_gammacore: "§YElite infantry unit spawns in the capital§!"
   load_ncrheavytroops: "§YSpawns two Power Armour units in Shady Sands§!"
-  drummund: "Chose Drummand"
+  drummond: "Chose Drummond"
   baronschoice: "Chose Big Jim"
   rangergeneral: "Chose Ranger Mossman"
   bajaharlon: "Chose Hanlon"
