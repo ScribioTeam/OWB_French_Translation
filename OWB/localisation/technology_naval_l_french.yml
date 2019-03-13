@@ -4,6 +4,8 @@
  #----------------------------
  # Naval
  #----------------------------
+ HEADER_BROKEN:0 "Ceci est bouleversé."
+ HEADER_BROKEN_desc:0 "Sera fixé une fois que nous trouverons le temps."
  sailor_training:0 "Formation des marins"
  sailor_training_desc:0 ""
 
