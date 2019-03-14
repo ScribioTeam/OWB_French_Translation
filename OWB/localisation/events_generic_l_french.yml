@@ -1,0 +1,7 @@
+﻿l_french:
+ generic.170.t:0 "[From.GetName] a un virus"
+ generic.170.d:0 "[From.GetRank] [From.GetName] souffre d'une bombe à retardement après une erreur dans son programme; [From.GetSheHe] sera incapable de démarrer de nouveaux processus de combat tant que [From.GetSheHe] n'aura pas terminé son redémarrage complet. Nous soupçonnons qu’en raison du mauvais climat dans sa zone opérationnelle, les circuits de [From.GetRank] ont été endommagés par la condensation, ce qui a provoqué le problème. Étrangement, ces erreurs se sont intensifiées après qu'un technicien inconnu nommé \"Todd \" ait effectué les réparations - indiquant que le robot devait désormais \"fonctionner\"."
+ generic.170.a:0 "Avez-vous essayé de l'éteindre et de le rallumer ?"
+ generic.180.t:0 "[From.GetName] est sérieusement endommagé"
+ generic.180.d:0 "Après un combat prolongé, [From.GetRank] [De.GetName] est rentré dans le camp et souffre de gros dommages. Beaucoup de ses composants critiques ont été détruits et l’intégrité structurelle de [From.GetRank] est incroyablement basse. [From.GetName] a eu la chance de revenir en état de fonctionnement et devra subir d'importantes réparations avant que [From.GetSheHe] ne soit à nouveau opérationnel."
+ generic.180.a:0 "C'est un Lotta Damage !"

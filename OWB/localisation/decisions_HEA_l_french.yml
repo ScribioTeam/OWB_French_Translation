@@ -13,3 +13,4 @@
  hea_bind_to_us_attempt_tt:0 "Nous allons essayer de lier leur état aux nôtres !"
  binding_someone:0 "Ne nous liant pas déjà à un autre."
  binding_warning_tt:0 "Plus nous avons converti d'états cibles, plus nous avons de chances de réussir - mais attention, l'échec annulera notre travail de conversion dans plusieurs États !"
+ impassable_states_dont_matter:0 "§RRemarque : Les états infranchissables importent peu lors de la conversion d'une personne.§!"
