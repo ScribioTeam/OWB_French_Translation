@@ -16,3 +16,4 @@
   hea_bind_to_us_attempt_tt: "We will attempt to bind their state to ours!"
   binding_someone: "Not already Binding Another to us."
   binding_warning_tt: "The more of the targets states we have converted, the better the chance we have of success - but be warned, failure will undo our conversion work in a number of states!"
+  impassable_states_dont_matter: "§RNote: Impassable states do not matter when converting someone.§!"

@@ -4,8 +4,8 @@
  #----------------------------
  # Naval
  #----------------------------
- HEADER_BROKEN:0 "This is borked."
- HEADER_BROKEN_desc:0 "Will be fixed once we find the time."
+  HEADER_BROKEN:0 "This is borked."
+  HEADER_BROKEN_desc:0 "Will be fixed once we find the time."
   sailor_training: "Sailor Training"
   sailor_training_desc: ""
 
