@@ -300,6 +300,10 @@
  nf_ncr.40.t:0 "La fédération se dissout"
  nf_ncr.40.d:0 "La lutte contre la RNC est terminée et nous avons gagné. Cependant, cela signifie qu'il n'y a plus de grande raison pour la Fédération de Phoenix d'exister - sans aucun doute, la plupart des nations de pillards qui composent la Fédération lorgnent désormais la terre de chacun, désireux d'élargir leur richesse et leur influence. Il semble que seule la petite cité de Flagstaff soit prête à rester avec nous. Ainsi soit-il."
  nf_ncr.40.a:0 "Brouillage"
+ nf_ncr.41.t:0 "L'Ours grogne"
+ nf_ncr.41.d:0 "Il semble qu'après notre victoire héroïque contre [SCO.GetNameDef], nous n'étions pas les seuls à vouloir entrer dans le Mojave. [NCR.GetNameDef] a également revendiqué ces territoires et nous avons reçu aujourd'hui un ultimatum de leurs émissaires : Cédez tous les anciens territoires de [SCO.GetAdjective] et recevez une compensation limitée, sinon ils les prendront de force."
+ nf_ncr.41.a:0 "Notre main est forcée"
+ nf_ncr.41.b:0 "Laissez-les essayer prendre ces territoires !"
  
  ncr_tribe_rebellion_news.1.t:0 "La RNC abandonne le territoire de la Légion occupée"
  ncr_tribe_rebellion_news.1.d:0 "Mesdames et messieurs, vous m'écoutez, M. New Vegas, et vous êtes extraordinairement joli en ce moment. J'ai des nouvelles pour vous. Après une série de négociations tendues, la RNC a finalement accepté de retirer ses troupes des territoires autrefois occupés par la Légion. Nombreux sont ceux qui annoncent le retour de la démocratie dans la région, car les responsables de la RNC remettront les installations clés aux gouvernements locaux avant leur départ. C'est tout pour le moment, les gens. Plus de classiques à venir pour vous, alors restez à l'écoute."
