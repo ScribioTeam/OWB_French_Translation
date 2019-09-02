@@ -1,6 +1,12 @@
 ﻿l_english:
   spacer_tt: "\n "
-  annex_wargoal_against_owners_of_the_states_tt: "Gains §YAnnex§! wargoals against §Yeveryone who owns this states§!"
+  annex_wargoal_against_owners_of_the_states_tt: "Gains §YAnnex§! war goals against §Yeveryone who owns this states§!"
   # named threat
   took_territory: "Stole claimed territory."
   returned_territory: "Returned claimed territory."
+  gauss_weapons_research_tt: "Allows the research of Gauss Weaponry.\n"
+  xian_fighter_research_tt: "Allows the research of Xian-85 Fighters.\n"
+  vertibirds_research_tt:0 "Allows the research of Vertibirds Aircraft.\n"
+  enclave_pa_research_tt:0 "Allows the research of Enclave PA Models.\n"
+  plasma_weapons_research_tt:0 "Allows the research of Plasma Weaponry.\n"
+  not_allowed_to_release_Tlaloc:0 "Tlaloc can not be released normally."

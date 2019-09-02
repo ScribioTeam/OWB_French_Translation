@@ -34,3 +34,28 @@
   NEW_enclave_party: "The Enclave"
   NEW_thradd_party_long: "Warlord Thradd"
   NEW_thradd_party: "Warlord Thradd"
+
+  # Chichen Itza #
+  ITZ_intellectuals_party:0 "The Ti'huun"
+  ITZ_ruler_party:0 "The Kalomte"
+  ITZ_elites_party:0 "The Ejército"
+  ITZ_people_party:0 "The Council"
+
+  # Tzotzil
+
+  TDT_people_party:0 "The People's Council"
+  TDT_elites_party:0 "Itzan Loyalists"
+  TDT_ruler_party:0 "The Speaker"
+  TDT_intellectuals_party:0 "The Reformers"
+
+  # Aztlan
+
+  ATE_ruler_party:0 "The Speaker"
+  ATE_ruler_party_long:0 "The Royal Family"
+  ATE_elites_party:0 "Eagle Cult"
+  ATE_intellectuals_party:0 "Jaguar Cult"
+  ATE_people_party:0 "True Mexico"
+
+  # AoM
+
+  ARM_ruler_party:0 "The Caudillo"

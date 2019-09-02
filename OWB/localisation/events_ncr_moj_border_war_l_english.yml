@@ -4,8 +4,8 @@
   NCR_MOJ_border_war.1.a: "Hire local Caravans for the offensive."
   NCR_MOJ_border_war.1.b: "Recruit local militias to fight for us."
   NCR_MOJ_border_war.1.c: "Rely solely on our Troops."
-  NCR_MOJ_border_war.1.tt: "§YIf the Mojave Brotherhood chooses to confront the attack:§!\n"
-  NCR_MOJ_border_war.1.tt_2: "§YIf the Mojave Brotherhood chooses to retreat:§!\n"
+  NCR_MOJ_border_war.1_tt: "§YIf the Mojave Brotherhood chooses to confront the attack:§!\n"
+  NCR_MOJ_border_war.1_tt_2: "§YIf the Mojave Brotherhood chooses to retreat:§!\n"
 
   NCR_MOJ_border_war.2.t: "NCR Launch Offensive"
   NCR_MOJ_border_war.2.d: "The NCR are not planning to let us grow stronger without more confrontations. Our Scouts have spotted large concentrations of NCR troops inside the Mojave and they seem posed to commit a campaign against us imminently."
@@ -61,9 +61,9 @@
   NCR_MOJ_border_war.14.d: "Although it was a hard fought campaign, we have finally driven the Mojave Brotherhood back into Hidden Valley and firmly control a substantial portion of the Mojave. This is a great victory for the republic."
   NCR_MOJ_border_war.14.a: "Victory is ours!"
 
- NCR_MOJ_border_conflict_initiate_incident: "Stage Incident at [From.From.GetName] Border"
- NCR_mojave_campaign: "The Mojave Campaign"
- NCR_mojave_campaign_desc: "After the massacre of 38 NCR citizens at the hands of Mojave raiders in the same year, we must move to protect our people in the dangerous wasteland that is the Mojave. From intel gathered by our scout parties, not only raiders occupy this land. It appears the great war city of Vegas is remarkably intact, being relatively untouched by the great war. A chapter of the Brotherhood also appears to control a pre-war power plant called "Helios One". To say the least, they do not appear eager to share it with us. Defeating them will not be easy, we've been unable to discover their home bases, forcing us to push them back one battle at a time."
+  NCR_MOJ_border_conflict_initiate_incident: "Stage Incident at [From.From.GetName] Border"
+  NCR_mojave_campaign: "The Mojave Campaign"
+  NCR_mojave_campaign_desc: "After the massacre of 38 NCR citizens at the hands of Mojave raiders in the same year, we must move to protect our people in the dangerous wasteland that is the Mojave. From intel gathered by our scout parties, not only raiders occupy this land. It appears the great war city of Vegas is remarkably intact, being relatively untouched by the great war. A chapter of the Brotherhood also appears to control a pre-war power plant called \"Helios One\". To say the least, they do not appear eager to share it with us. Defeating them will not be easy, we've been unable to discover their home bases, forcing us to push them back one battle at a time."
   border_conflict_initiate_incident: "Stage Incident at [From.From.GetName] Border"
   border_conflict_incident_warning_defender: "Incident at [From.From.GetName] border to [From.GetNameDef]"
   border_conflict_incident_warning_defender_desc: "§WMove divisions to §H[From.From.GetName]§!§!"

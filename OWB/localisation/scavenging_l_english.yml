@@ -74,7 +74,7 @@
   scavenge.5.t: "The Discovery of Old World Tech"
   scavenge.5.d: "Our scavengers have returned from their mission, and managed to retrieve some Old World technology! This new piece of tech will reap us many benefits, but we need to watch out, lest we break it through overexploitation!\n\nNow our men need some time to recover and plan for a new scavenging mission for Old World Tech by this means - whilst they do this, we can still send them out for something different, or by different means."
   scavenge.6.t: "Scavenging Decisions Options"
-  scavenge.6.d: "From this window you can disable and reenable each of the four subcategories of scavenging missions - normal missions, power armour missions, vehicle missions and vertibird missions. If you accidentally hide the wrong subcategory or wish to view a previously hidden subcategory again, just fire this event through the decision again and select the show option. The aim of this is to reduce clutter in the decisions window."
+  scavenge.6.d: "From this window you can disable and re-enable each of the four subcategories of scavenging missions - normal missions, power armour missions, vehicle missions and vertibird missions. If you accidentally hide the wrong subcategory or wish to view a previously hidden subcategory again, just fire this event through the decision again and select the show option. The aim of this is to reduce clutter in the decisions window."
   scavenge.6.a: "Hide Standard Missions"
   scavenge.6.b: "Show Standard Missions"
   scavenge.6.c: "Hide Power Armour Missions"
@@ -90,7 +90,7 @@
 
   scavenging_old_world_loudspeakers: "Scavenged Old World Speaker System"
 
-  scavenging_old_world_spybook: "Scavenged Old World Spybook"
+  scavenging_old_world_spybook: "Scavenged Old World Spy book"
 
   scavenging_old_world_weapon_schematics: "Scavenged Old World Weapon Schematics"
 

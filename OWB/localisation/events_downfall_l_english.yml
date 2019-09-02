@@ -1,0 +1,206 @@
+﻿l_english:
+  ## Loc written by HappyNTH ##
+
+  ## Structure:
+  # All sets of events start with a comment listing the VP and who the VP falls to; e.g. New Canaan / Generic. Each city has 10 event ids reserved to them for specific events (e.g. Canaan falling to ...)
+  # x.t is the title
+  # x.d is the description
+  # x.a is the option for the country who LOST the VP
+  # x.b is the option for countries ALLIED WITH the country that LOST the VP
+  # x.c is the option for the country who TOOK the VP
+  # x.e is the option for countries ALLIED WITH the country that TOOK the VP
+  # x.f is the option for all other countries
+  # The above structure will hold true even if duplicate messages are used
+
+  ### Main Capitals
+  ## New Canaan (ids 1 to 9)
+  # 1: Generic
+  downfall.1.t: "The Fall of New Canaan"
+  downfall.1.d: "After two days of intense fighting, New Canaan has fallen to [Root.GetNameDef].  Mormon troops bravely defended the settlement until the early hours of the morning, falling back to hastily constructed defensive lines on no less than seven occasions. Whilst an order to withdraw was given late last night following a successful enemy encirclement action, the Mormon defenders of the city refused to acknowledge the order and instead took up highly defensible positions in the centre of the settlement. It was only thanks to heavy ordinance that their last stand was ultimately put down. \n\nIn the morning light, it was clear the settlement had been devastated. [Root.GetNameDefCap] spared no quarter in quashing resistance to their rule, and many building lie in smouldering ruins - including the Church of Jesus Christ of Latter-Day Saints, the Mormon's main place of worship."
+  downfall.1.a: "We must avenge the dead!"
+  downfall.1.b: "They died martyrs. That is all anyone can ask for."
+  downfall.1.c: "The city of refuge is in our hands at last!"
+  downfall.1.e: "New Canaan must be on its last legs now."
+  downfall.1.f: "How long can a nation stand without its namesake city?"
+  # 2: To CES
+  # 3: To EHT
+  # 4: To HEA
+  # 5: To WHT
+
+  ## Shady Sands (ids 10 to 19)
+  # 10: Generic
+  downfall.10.t: "The Fall of Shady Sands"
+  downfall.10.d: "Following three days of skirmishing, the government of the NCR has today confirmed that their beloved capital, Shady Sands, has fallen into the hands of [Root.GetNameDef]. The capture of the city comes despite fierce resistance from both the NCR Rangers and the town's militias, although precise information on the Battle for Shady Sands is very sparce. It appears that the [Root.GetName]'s final assault was spearheaded by a group of bikers who managed to overwhelm the last Ranger defenders at the main entrance. The bikers, utilising their mobility and small size, rapidly spread through the city, forcing almost every NCR Trooper to take shelter inside buildings. [Root.GetName] forces followed the bikers, surrounding and destroying each cluster of NCR troopers one by one, either by breaking down the door or by leveling the buildings NCR troopers vaily defended. \n\nShady Sands itself appears to have been heavily damaged. Only a small portion of building remain standing, including the Hall of Congress, from which flags of [Root.GetNameDef] now fly."
+  downfall.10.a: "Shady Sands is lost, but the war is not."
+  downfall.10.b: "The Californian front must hold!"
+  downfall.10.c: "The Hall of Congress is the NCR's heart. They must sue for peace soon."
+  downfall.10.e: "Even the Rangers can't stop our alliance."
+  downfall.10.f: "The NCR is wounded, but not yet mortally."
+  # 11: To CES
+  # 12: To BOS
+  # 13: To DES
+  # 14: To ENC
+  # 15: To BAR
+  # 16: To KHA
+  # 17: To Generic Raiders
+
+  ## Flagstaff (ids 20 to 29)
+  # 20: Generic
+  downfall.20.t: "The Fall of Flagstaff"
+  downfall.20.d: "The City of Flagstaff, long the seat of Caesar's absolute power, fell late last night to [Root.GetNameDef]. Although [CES.GetLeader] stayed to command the defence until defeat was all but certain, even his military wisdom could not save the city, surrounded as it was by [Root.GetName]'s earlier pincer movements. In his infinite wisdom, [CES.GetLeader] ordered a last stand, commanding his elite Praetorian Guard to fire on any units that attempted to desert. Ultimately the order only served to delay the capture of the city at large by a day, although even now sporadic fighting continues between invading forces and Praetorian Guard units holded up in building. Caesar's palace also appears to be still holding out, although this might shortly change when [Root.GetName]'s demolition teams get into position."
+  downfall.20.a: "We have plenty more cities to fall back upon..."
+  downfall.20.b: "One city means nothing to the Legion. Right?"
+  downfall.20.c: "How did the Legion have this many slaves?!?"
+  downfall.20.e: "The Legion's tyranny will soon be no more."
+  downfall.20.f: "The Bull may soon be no more."
+  # 21: To NCR
+  # 22: To RRG
+  # 23: To TWI
+  # 24: To MOJ
+  # 25: To BOS
+  # 26: To NCN
+  # 27: To Generic Legion Focus Tree Conquest
+
+  ## New Vegas (ids 30 to 39)
+  # 30: Generic
+  downfall.30.t: "New Vegas's Downfall"
+  downfall.30.d: "For the first time in living memory, the casinos on the New Vegas Strip failed to open for business this morning, largely thanks to their annihilation in the fierce fighting against [Root.GetNameDef]. For four days, fighting on the Strip raged, as Securitrons and mobs loyal to the great families of the casinos attempted desperately to prevent their precious city from falling to hostile powers. Ultimately the Strip was lost, but even then the families of the Strip contined to stubbornly defend their casinos. Following a direct order from [Root.GetLeader], the casinos were demolished with the last mobsters inside them—much to the dismay of the soldier keen on looting the riches. The Securitrons, meanwhile, withdrew in the direction of the Mojave's weather monitering system, allthough attempts to find them have so far been unsuccesful."
+  downfall.30.a: "Find me those Securitrons!"
+  downfall.30.b: "The Jewel of the Wasteland is ours!"
+  downfall.30.c: "Vegas was rebuilt once, and it can be again."
+  downfall.30.e: "As long as those Securitrons keep fighting..."
+  downfall.30.f: "Vegas survived the Great War, but not [Root.GetNameDef]"
+  # 31: To NCR
+  # 32: To CES
+  # 33: To KHA
+  # 34: To MOJ
+
+  ## Lost Hills Bunker (ids 40 to 49)
+  # 40: Generic
+  downfall.40.t: "The Capture of the Lost Hills Bunker"
+  downfall.40.d: "Some deemed it unpenetrable, others deemed the conquest of it too bloody to even be attempted. However, they both initially seemed to have been proven wrong after a single day of somewhat underwhelming fighting. [Root.GetName] troops began their attack in the early hours of the morning, seemingly catching the Brotherhood napping. The first troops through the bunker doors were elites, armed with enough anti-armour firepower to crack open Liberty Prime—twice over. However, they were met with no resistance. The Brotherhood had seemingly cottoned on to the fact that power armour, their great strength, is not terribly effective in cramped hallways. They also seemingly had no appitite for a desperate last stand. Instead, unbeknownst to the attackers, they had rigged the entire bunker to explode as soon as the fourth level of the bunker was reached, and that it did. The resulting explosion could be felt across California, and resulted in the deaths of over five hundred [Root.GetName] soldiers. It seems, ultimately, those who had deemed the conquest too bloody to be justified were proved correct."
+  downfall.40.a: "They pain the highest price!"
+  downfall.40.b: "Even on the backfoot, the Brotherhood are cunning."
+  downfall.40.c: "Expelling the Brotherhood from Lost Hills was worth the cost."
+  downfall.40.e: "Thankfully it wasn't our troops."
+  downfall.40.f: "With Chapters over North America, losing Lost Hills will not bring the Brotherhood down."
+  # 41: To NCR
+  # 42: To ENC
+  # 43: To Generic Brotherhood
+
+  ## Ranger Citadel (ids 50 to 59)
+  # 50: Generic
+  downfall.50.t: "The Destruction of Ranger Citadel"
+  downfall.50.d: "The Rangers of the Arizona Wasteland, once the bane of all raiders in Arizona, have today lost their great stronghold. Although the Rangers fought well, defending their beloved Citadel for three days straight against a massive assault and against all odds, it seems the Ranger's favoured tactic of survivalist fighting could not stand up to the swarming ranks of [Root.GetNameDef]. Ultimately, the Rangers made the painful decision to withdraw from the Citadel, both to prevent further unnecessary loss of life, and to ensure their leadership is not captured in one unexpected assault."
+  downfall.50.a: "We'll be back again, mark my words!"
+  downfall.50.b: "The Rangers are survivalists. They will endure."
+  downfall.50.c: "We hold the heart of Ranger organisation in our hands!"
+  downfall.50.e: "Soon Arizona shall be open to us!"
+  downfall.50.f: "The Rangers will fight to their last breath."
+  # 51: To JAC
+  # 52: To VIP
+  # 53: To NCR
+  # 54: To WHT
+  # 55: To ENC
+  # 56: To CES
+  # 57: To Generic Raiders
+
+  ## Vault City (ids 60 to 69)
+  # 60: Generic
+  downfall.60.t: "The Fall of Vault City"
+  downfall.60.d: "TODO"
+  downfall.60.a: "At least we evacuated our tech."
+  downfall.60.b: "Let us hope the G.E.C.K. is not lost."
+  downfall.60.c: "They can't stand much more..."
+  downfall.60.e: "The spoils will soon be ours too!"
+  downfall.60.f: "For [VLT.GetLeader], Vault City is everything."
+  # 61: To NCR
+  # 62: To ENC
+  # 63: To Generic Focus Tree Conquest
+
+  ## New Reno (ids 70 to 79)
+  # 70: Generic
+  downfall.70.t: "The Fall of New Reno"
+  downfall.70.d: "TODO"
+  downfall.70.a: "Think of all the Jet we just lost..."
+  downfall.70.b: "Reno is going to be drastically poorer now..."
+  downfall.70.c: "We heard stories, but this place is worse than any of them!"
+  downfall.70.e: "Hopefully we get some of that Jet!"
+  downfall.70.f: "Hopefully they burn that place to the ground!"
+  # 71: To NCR
+  # 72: To ENC
+  # 73: To Generic Brotherhood
+
+  ## The Warren (ids 80 to 89)
+  # 80: Generic
+  downfall.80.t: "The Capture of the Warren"
+  downfall.80.d: "TODO"
+  downfall.80.a: "A grave day for Mutants everywhere."
+  downfall.80.b: "They were never much attached to any one place."
+  downfall.80.c: "Purge them from the lands!"
+  downfall.80.e: "The world will be glad to see them gone!"
+  downfall.80.f: "Even the "
+  # 81: To NCR
+  # 82: To WBH
+  # 83: To Generic Brotherhood
+
+  ## Capitol Hill (ids 90 to 99)
+  # 90: Generic
+  downfall.90.t: "The Fall of Capitol Hill"
+  downfall.90.d: "TODO"
+  downfall.90.a: ""
+  # 91: To ISN or TCA
+  # 92: To TRL
+  # 93: To Generic Brotherhood
+
+  ## North Koover (ids 100 to 109)
+  # 100: Generic
+  # 101: To Generic Unbroken Resistance Member
+
+  ## Heaven's Gate (ids 110 to 119)
+  # 110: Generic
+  # 111: To NCN
+
+  ## Hidden Valley (ids 120 to 129)
+  # 120: Generic
+  # 121: To NCR
+  # 122: To CES
+  # 123: To VEG
+  # 124: To Generic Mojave
+
+  ## Bitter Springs (ids 130 to 139)
+  # 130: Generic
+  # 131: To NCR
+  # 132: To CES
+  # 133: To WHT
+  # 134: To Generic Focus Tree Conquest
+
+  ## Gloria (ids 140 to 149)
+  # 140: Generic
+  # 141: To CES
+  # 142: To TAA
+  # 143: To ARM
+  # 144: To Generic Mexico
+
+  ## Los Mochis (ids 150 to 159)
+  # 150: Generic
+
+  ## Reynosa (ids 160 to 169)
+  # 160: Generic
+  # 161: To RRG
+  # 162: To ITZ
+
+  ## The Refinery (ids 170 to 179)
+  # 170: Generic
+  # 171: To ARM
+  # 172: To ITZ
+
+  ## Xochicalco (ids 180 to 189)
+  # 180: Generic
+  # 181: To ITZ
+
+  ## Chichen Itza (ids 190 to 199)
+  # 190: Generic
+  # 191: To ATE
+
+  ### Additional Cities

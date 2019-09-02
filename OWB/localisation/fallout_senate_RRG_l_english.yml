@@ -1,0 +1,59 @@
+﻿l_english:
+  # GUI:
+  GO_TO_SENATE_RRG_BUTTON: "Go to the Senate"
+  SENATE_RRG_MENU:0 "§GClick§! to open respectively close the §YSenate Window§!."
+  SENATE_RRG_MENU_DECISION_TT: "You can also find another button to open the §YSenate Window§! at the top of the §YPolitical§! tab."
+
+  SENATE_RRG_CANDIDATE_1_SENATOR_VOTES_TT: "Currently §G[?senate_party_a_value]§! senators support §YLeonardo Mora§!, which corresponds to §G[?candidate_1_senator_votes_percentage|2%]§! of all senators."
+  SENATE_RRG_CANDIDATE_1_DEPUTY_VOTES_TT: "Currently §G[?house_party_a_value]§! deputies support §YLeonardo Mora§!, which corresponds to §G[?candidate_1_deputy_votes_percentage|2%]§! of all deputies."
+  SENATE_RRG_CANDIDATE_2_SENATOR_VOTES_TT: "Currently §G[?senate_party_b_value]§! senators support §YDante Guerra§!, which corresponds to §G[?candidate_2_senator_votes_percentage|2%]§! of all senators."
+  SENATE_RRG_CANDIDATE_2_DEPUTY_VOTES_TT: "Currently §G[?house_party_b_value]§! deputies support §YDante Guerra§!, which corresponds to §G[?candidate_2_deputy_votes_percentage|2%]§! of all deputies."
+  SENATE_RRG_CANDIDATE_3_SENATOR_VOTES_TT: "Currently §G[?senate_party_c_value]§! senators support §YRosado§!, which corresponds to §G[?candidate_3_senator_votes_percentage|2%]§! of all senators."
+  SENATE_RRG_CANDIDATE_3_DEPUTY_VOTES_TT: "Currently §G[?house_party_c_value]§! deputies support §YRosado§!, which corresponds to §G[?candidate_3_deputy_votes_percentage|2%]§! of all deputies."
+
+  LEONARDO_MORA: "§YLeonardo Mora§!"
+  LEONARDO_MORA_COLORED: "§PMora§!"
+  LEONARDO_MORA_ATTITUTE: "Visionary. War Hero. Husband. Leonardo Mora is all these things; and more. In 2263, during his first presidential term, Mora was given an impossible task: defeating the Legion. With little more than a disorganised militia in his hands, Mora forged victory from certain defeat with blood, sweat, and pure charisma. With his second term upon him, the beloved hero of the people has but one thing on his mind: the reunification of his lost homeland, Mexico. There will never be another man as capable, and as powerful, as Mora is now: at least that's what he thinks. Only he can gather the people of Mexico together as one, willingly or otherwise. Nothing, not even God, can stand between him and his life's work. Mora will go down in history as the greatest man Mexico ever knew—or die trying."
+  DANTE_GUERRA: "§YDante Guerra§!"
+  DANTE_GUERRA_COLORED: "§BGuerra§!"
+  DANTE_GUERRA_ATTITUTE: "Wielding executive power over the Republic, President Guerra has many priorities—chief among them the trial and execution of Caesar and his cohorts. By working with  Congress and his people, Dante aims to deliver the hammer of justice upon the lawless lands of the Wastes.  Aong the way, the aging President will continue to improve the lives of his people, uphold the institutions of the Republic, and see it prosper. Dante Guerra has a busy term ahead of him, but by the end of it all, he'll try to leave the Wasteland a better place than he found it."
+  VALENTINA_ROSADO: "§YValentina Rosado§!"
+  VALENTINA_ROSADO_COLORED: "§RRosado§!"
+  VALENTINA_ROSADO_ATTITUTE: ""Valentina Rosado is one of the Republic's most experienced engineers, one of a select few Mexican gunsmiths allowed access to the TAA's manufacturing facilities. Youthful features fill out her face, large green eyes and soft cheeks complimenting her silken chestnut hair. Her light brown skin is often coated in machine oil, a quirk of her otherwise rather flawless appearance. Rosado's hair is kept up in a ponytail at all times to keep it out of the way, and she wears no makeup. Like her male counterparts, she opts to wear a traditional Mexican uniform, her chest adorned with no medals, a pip boy on her wrist with her latest plans for Rio.  The president of the Republic plans to bring its people into the future, into a world of electricity, running water, and security."
+
+  SENATE_RRG_SENATORS: "Senators:"
+  SENATE_RRG_DEPUTIES: "Deputies:"
+  SENATE_RRG_SENATORS_AND_DEPUTIRES_COLORS_TT: "A §Ppurple§! field means, the senator or deputy is currently supporting §YLeonardo Mora§!. \nA §Mblue§! field means, the senator or deputy is currently supporting §YDante Guerra§!. \nA §Rred§! field means, the senator or deputy is currently supporting §YValentina Rosado§!. \nA §ggrey§! field means, the senator or deputy is currently not supporting anyone."
+  SENATE_RRG_SENATORS_AND_DEPUTIRES_ARE_EXILED: "The senators and deputies of this state are §REXILED§!, because §Y[This.GetName]§! is not under our control. \n--------------\n§GClick§! to center the map on §Y[This.GetName]§!."
+  SENATE_RRG_CLICK_TO_GO_TO_STATE: "§GClick§! to center the map on §Y[This.GetName]§!."
+
+  SENATE_RRG_SUPPORT_TEXT: "[This.GetRRGSenateVotesAmountColor]§W/§!§Y64§!"
+  HOUSE_RRG_SUPPORT_TEXT: "[This.GetRRGHouseVotesAmountColor]§W/§!§Y256§!"
+
+  RRG_CURRENT_LEADER: "§Y[This.GetLeader]§!"
+  RRG_CURRENT_LEADER_DESC: "[This.GetRRGLeaderDesc]"
+  RRG_CURRENT_LEADER_ATTITUDE: "[This.GetRRGLeaderAttitute]"
+
+  SENATE_RRG_SEATS_TT: "§Y[This.GetLeader]§! currently has the support of §G[This.GetRRGSenateVotesAmountColor]§W senators. For further decisions the president needs the support of at least §Y32§! senators. \n\nThe contribution of votes of the senators not supporting [This.GetLeader] is as follows: [This.GetRRGSenateOpposingVotesContribution]"
+  HOUSE_RRG_SEATS_TT: "§Y[This.GetLeader]§! currently has the support of §G[This.GetRRGHouseVotesAmountColor]§W deputies. For further decisions the president needs the support of at least §Y128§! deputies. \n\nThe contribution of votes of the deputies not supporting [This.GetLeader] is as follows: [This.GetRRGHouseOpposingVotesContribution]"
+
+  # Scripted Localisation:
+  string_rrg_senate_senate_votes_amount_red: "§R[This.GetRRGSenateSupportForLeader]§!"
+  string_rrg_senate_senate_votes_amount_green: "[This.GetRRGSenateSupportForLeader]"
+  string_rrg_senate_house_votes_amount_red: "§R[This.GetRRGHouseSupportForLeader]§!"
+  string_rrg_senate_house_votes_amount_green: "[This.GetRRGHouseSupportForLeader]"
+
+  string_rrg_senate_senate_opposing_votes_for_mora: "\n   - §R[?senate_party_b_value|0]§! senators are supporting §YDante Guerra§! \n   - §R[?senate_party_c_value|0]§! senators are supporting §YValentina Rosado§!"
+  string_rrg_senate_senate_opposing_votes_for_guerra: "\n   - §R[?senate_party_a_value|0]§! senators are supporting §YLeonardo Mora§! \n   - §R[?senate_party_c_value|0]§! senators are supporting §YValentina Rosado§!"
+  string_rrg_senate_senate_opposing_votes_for_rosado: "\n   - §R[?senate_party_a_value|0]§! senators are supporting §YLeonardo Mora§! \n   - §R[?senate_party_b_value|0]§! senators are supporting §YDante Guerra§!"
+  string_rrg_senate_house_opposing_votes_for_mora: "\n   - §R[?house_party_b_value|0]§! deputies are supporting §YDante Guerra§! \n   - §R[?house_party_c_value|0]§! deputies are supporting §YValentina Rosado§!"
+  string_rrg_senate_house_opposing_votes_for_guerra: "\n   - §R[?house_party_a_value|0]§! deputies are supporting §YLeonardo Mora§! \n   - §R[?house_party_c_value|0]§! deputies are supporting §YValentina Rosado§!"
+  string_rrg_senate_house_opposing_votes_for_rosado: "\n   - §R[?house_party_a_value|0]§! deputies are supporting §YLeonardo Mora§! \n   - §R[?house_party_b_value|0]§! deputies are supporting §YDante Guerra§!"
+
+  # Scripted Triggers:
+  INCREASE_OPINION_OF_SENATOR_A_TT: "The senators' opinions of §YLeonardo Mora§! are increased. Their opinions of the other candiates is reduced.\n"
+  INCREASE_OPINION_OF_SENATOR_B_TT: "The senators' opinions of §YDante Guerra§! are increased. Their opinions of the other candiates is reduced.\n"
+  INCREASE_OPINION_OF_SENATOR_C_TT: "The senators' opinions of §YValentina Rosado§! are increased. Their opinions of the other candiates is reduced.\n"
+  INCREASE_OPINION_OF_DEPUTY_A_TT: "The deputies' opinions of §YLeonardo Mora§! are increased. Their opinions of the other candiates is reduced.\n"
+  INCREASE_OPINION_OF_DEPUTY_B_TT: "The deputies' opinions of §YDante Guerra§! are increased. Their opinions of the other candiates is reduced.\n"
+  INCREASE_OPINION_OF_DEPUTY_C_TT: "The deputies' opinions of §YValentina Rosado§! are increased. Their opinions of the other candiates is reduced.\n"

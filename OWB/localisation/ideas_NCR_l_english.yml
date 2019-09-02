@@ -23,8 +23,6 @@
   oldworldmachines: "Old World Machines"
   oldworldmachines_desc: ""
 
-  oldworldarmour: "Old World Armour"
-  oldworldarmour_desc: ""
   oldworldarmour_tt: "Gain a technology that increases your armies attack and defense in Urban terrain by 10%"
 
   oldworldtheatre: "Old World Theatre"
@@ -99,9 +97,6 @@
   bigjim: "Big Jim"
   bigjim_desc: ""
 
-  jimdrills: "Jim's Drills\n§YAll Infantry & Mot/Mech§!§W:§!\n    §WSoft attack:§! §G+5%§!\n    §WHard attack:§! §G+5%§!\n    §WDefence:§! §G+5%§!"
-  jimdrills_desc: ""
-
   legacyofnavarro1: "Legacy of Navarro"
   legacyofnavarro1_desc: ""
 
@@ -114,7 +109,7 @@
   aradesh: "Aradesh"
   aradesh_desc: ""
 
-  seth: "Seth\n§YSpec Ops§!§W:§!\n    §WSoft attack:§! §G+5%§!\n    §WHard attack:§! §G+5%§!\n    §WDefence:§! §G+5%§!"
+  seth: "Seth"
   seth_desc: ""
 
   tandi: "Tandi"
@@ -147,9 +142,6 @@
   oldworldmilitary: "Old World Military"
   oldworldmilitary_desc: ""
 
-  privatepolice: "Private Police\n§YMilitia§!§W:§!\n    §WSoft attack:§! §G+10%§!\n    §WHard attack:§! §G+10%§!\n    §WDefense:§! §G+10%§!"
-  privatepolice_desc: ""
-
   militindustrial: "Military Industrial Complex"
   militindustrial_desc: ""
 
@@ -179,18 +171,6 @@
 
   theatoms: "The Atoms"
   theatoms_desc: ""
-
-  reorgranger: "Reorganization of the Rangers\n§YSpec Ops§!§W:§!\n    §WSoft attack:§! §G+5%§!\n    §WHard attack:§! §G+5%§!\n    §WDefense:§! §G+5%§!"
-  reorgranger_desc: ""
-
-  rangercore: "Ranger Corps\n§YSpec Ops§!§W:§!\n    §WSoft attack:§! §G+10%§!\n    §WDefense:§! §G+10%§!"
-  rangercore_desc: ""
-
-  rangerlead: "Ranger Lead\n§YSpec Ops§!§W:§! §WReconnaissance:§! §G+100%§!"
-  rangerlead_desc: ""
-
-  rangercanopeners: "Ranger Can Openers\n§YSpec Ops§!§W: Hard Attack:§! §G+50%§!"
-  rangercanopeners_desc: ""
 
   aaronkimball: "Aaron Kimball"
   aaronkimball_desc: ""

@@ -52,9 +52,6 @@
   legion_nf_numeri: "Numeri"
   legion_nf_numeri_desc: ""
 
-  legion_nf_centurions: "Centurions\n§YAll Infantry & Mot/Mech§!§W:§! §WOrganization:§! §G+5%§!"
-  legion_nf_centurions_desc: ""
-
   legion_nf_lay_of_the_land: "Lay of the Land"
   legion_nf_lay_of_the_land_desc: ""
 
@@ -63,9 +60,6 @@
 
   legion_nf_praetorian: "Praetorian"
   legion_nf_praetorian_desc: ""
-
-  legion_nf_vexillarius: "Vexillarius\n§YAll Infantry & Mot/Mech§!§W:§! §WInitiative:§! §G+7%§!"
-  legion_nf_vexillarius_desc: ""
 
   legion_nf_meritocracy: "Meritocracy"
   legion_nf_meritocracy_desc: ""
@@ -139,9 +133,6 @@
   legion_nf_child_soldiers: "Child Soldiers"
   legion_nf_child_soldiers_desc: ""
 
-  legion_nf_warriors_of_mars: "Warriors of Mars\n§YInfantry§!§W:§!\n    §WSoft attack:§! §G+10%§!\n    §WBreakthrough:§! §G+25%§!"
-  legion_nf_warriors_of_mars_desc: ""
-
   legion_nf_hoover_dam: "Hoover Dam"
   legion_nf_hoover_dam_desc: ""
 
@@ -174,3 +165,6 @@
 
   legion_nf_decimatio: "Decimatio"
   legion_nf_decimatio_desc: ""
+
+  legion_gr_reduce_pop:0 "Reduce Manpower Available"
+  legion_gr_reduce_pop_desc:0 ""

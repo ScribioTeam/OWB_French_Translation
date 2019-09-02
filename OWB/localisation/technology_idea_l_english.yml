@@ -1,3 +1,66 @@
 ﻿l_english:
  # Equipment naming is inherited from the equipment name when displayed in the techtree
  # For if we decide to actually localise the idea techs
+ #NCR
+  ncr_reorgranger: "Reorganization of the Rangers"
+  ncr_reorgranger_desc: ""
+
+  ncr_rangercore: "Ranger Corps"
+  ncr_rangercore_desc: ""
+
+  ncr_jim_drills: "Jim Drills"
+  ncr_jim_drills_desc: ""
+
+  ncr_rangerlead: "Ranger Leads"
+  ncr_rangerlead_desc: ""
+
+  ncr_rangercanopeners: "Ranger can Openers"
+  ncr_rangercanopeners_desc: ""
+
+  ncr_seth: "Seth's Rangers"
+  ncr_seth_desc: ""
+
+  ncr_privatepolice: "NCR Private Police"
+  ncr_privatepolice_desc: ""
+
+ #Ranger
+  ranger_knighttactics: "Ranger BoS Knight Tactics"
+  ranger_knighttactics_desc: ""
+
+  ranger_slayinggiants: "Ranger Giant Slaying Tactics"
+  ranger_slayinggiants_desc: ""
+
+  ranger_rangerslegionwar: "Ranger-Legion War Tactics"
+  ranger_rangerslegionwar_desc: ""
+
+  ranger_rangersnewthreat: "Ranger New Threat Assessment"
+  ranger_rangersnewthreat_desc: ""
+
+ #Western Brotherhood
+  bos_navarroscoutcamp: "Navarro Scout Camp"
+  bos_navarroscoutcamp_desc: ""
+
+  bos_bosdigin: "Brotherhood Field Fortifications"
+  bos_bosdigin_desc: ""
+
+ #Legion
+  legion_centurions_tech: "Centurions"
+  legion_centurions_tech_desc: "This will give all Leg infantry 0.5 more organization."
+
+  legion_warriors_of_mars_tech: "Warriors of Mars"
+  legion_warriors_of_mars_tech_desc: ""
+
+  legion_vexillarius_tech: "Vexillarius"
+  legion_vexillarius_tech_desc: ""
+
+ #Reno
+  reno_mastersnewarmy: "Master's New Army"
+  reno_mastersnewarmy_desc: ""
+
+ #Settler
+  settler_caravanmilitia: "Caravan Militia's"
+  settler_caravanmilitia_desc: ""
+
+ #Raider
+  raider_reckless_aggression: "Reckless Aggression"
+  raider_reckless_aggression_desc: ""

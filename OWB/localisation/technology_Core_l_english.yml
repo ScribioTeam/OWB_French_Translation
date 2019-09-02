@@ -5,53 +5,148 @@
  #----------------------------
   fallout_infantry_folder: "Infantry"
   fallout_infantry_folder_desc: ""
+
   fallout_support_folder: "Support"
   fallout_support_folder_desc: ""
+
   fallout_vehicle_folder: "Vehicles"
   fallout_vehicle_folder_desc: ""
-  fallout_land_doctrine_folder: "Land Doctrine"
-  fallout_land_doctrine_folder_desc: ""
-
-  fallout_air_folder: "Air"
-  fallout_air_folder_desc: ""
-  fallout_air_doctrine_folder: "Air Doctrine"
-  fallout_air_doctrine_folder_desc: "Although producing new aircraft is highly unlikely for all but the most advanced of factions, researching methods to repair the exponentially more complicated aircraft which remain in the wasteland can provide a way to enhance and assist our combat forces on the ground."
-
-  fallout_naval_folder: "Naval"
-  fallout_naval_folder_desc: ""
-  fallout_naval_doctrine_folder: "Naval Doctrine"
-  fallout_naval_doctrine_folder_desc: ""
 
   fallout_robotics_folder: "Robotics"
   fallout_robotics_folder_desc: "Before the war happened robots were used for a variety of purposes. In the wasteland they can be utilized as combat weapons to great effect with proper investments in technology."
 
+  fallout_land_doctrine_folder: "Land Doctrine"
+  fallout_land_doctrine_folder_desc: ""
+
+  fallout_air_doctrine_folder: "Specialized Doctrines"
+  fallout_air_doctrine_folder_desc: ""
+
+  # fallout_air_doctrine_folder: "Air Doctrine"
+  # fallout_air_doctrine_folder_desc: "Although producing new aircraft is highly unlikely for all but the most advanced of factions, researching methods to repair the exponentially more complicated aircraft which remain in the wasteland can provide a way to enhance and assist our combat forces on the ground."
+
+  fallout_air_folder: "Air"
+  fallout_air_folder_desc: ""
+
+  fallout_naval_folder: "Naval"
+  fallout_naval_folder_desc: "With the seas and rivers being infested by crude pirate ships and mutated animals, we will have to make a lot of efforts to be able to sail through them. Military-grade hulls and manufacturing methods will be required, and so will new sailing technology."
+
+  fallout_naval_non_mtg_folder: "Naval"
+  fallout_naval_non_mtg_folder_desc: "With the seas and rivers being infested by crude pirate ships and mutated animals, we will have to make a lot of efforts to be able to sail through them. Military-grade hulls and manufacturing methods will be required, and so will new sailing technology."
+
+  fallout_naval_modules_folder: "Naval Modules"
+  fallout_naval_modules_folder_desc: "As we can finally begin to sail the rivers and seaside areas of the wasteland again, we will require equipment of increasing quality to make sure our enemies do not do so as well. Weaponry, armor, communication gear, all are important to assuring our naval dominance."
+
   fallout_industry_folder: "Industry"
   fallout_industry_folder_desc: "Although much of the equipment used comes at least in part from the great war, restoring such equipment requires organized industry. Providing proper investment in researching new methods of production is essential to survival in the wasteland."
+
   fallout_engineering_folder: "Engineering"
-  fallout_engineering_folder_desc: ""
+  fallout_engineering_folder_desc: "Even though communication methods and electronical equipments have mostly been lost in the great blackout, the massive EMP wave produced after the end of the world, it is still capital that we try and rebuild from it. Electrical equipment is capital in our endeavors."
+
+
+ #----------------------------
+ # Header
+ #----------------------------
+  HEADER_REQUISITES: "Prerequisites"
+  TRIBAL_HEADER: "Tribal"
+  CIVILIZED_HEADER: "Civilized"
+  ADVANCED_HEADER: "Advanced"
+  SPECIAL_HEADER: "Unique"
+  HEADER_UPGRADES: "Upgrades"
 
  #----------------------------
  # Categories
  #----------------------------
-  civilization_tech: "Civilization"
-  robotics_tech: "Robotics"
-  ballistic_weaponry_tech: "Firearms"
-  melee_weaponry_tech: "Melee Weapons"
-  energy_weaponry_tech: "Energy Weapons"
-  power_armor_tech: "Power Armour"
-  specops_tech: "Spec Ops"
-  plasma_weaponry_tech: "Plasma Weaponry"
-  tesla_weaponry_tech: "Tesla Weaponry"
-  gauss_weaponry_tech: "Gauss Weaponry"
-  category_robots: "Robots"
+  civilization_tech_category: "Civilization"
+  tribal_tech_category: "Tribal Technology"
+  civilized_tech_category: "Civilized Technology"
+  scientific_tech_category: "Advanced Technology"
 
-  ship_destroyer_tech: "Sea Raiders"
-  ship_cruiser_tech: "Heavy Raiders"
-  ship_heavy_cruiser_tech: "Siege Ships"
-  ship_battleship_tech: "Super-heavy Siege Ships"
-  ship_carrier_tech: "Seaplane Siege Ships"
-  naval_tech: "Naval"
-  chem_tech: "Chem Studies"
+ # weapon categories
+  infantry_weapons_tech_category: "Infantry Weaponry"
+  infantry_tech_category: "Infantry Technology"
+  energy_weaponry_tech_category: "Energy Weaponry"
+  ballistic_weaponry_tech_category: "Firearms"
+  melee_weaponry_tech_category: "Melee Weaponry"
+  plasma_weaponry_tech_category: "Plasma Weaponry"
+  tesla_weaponry_tech_category: "Tesla Weaponry"
+  gauss_weaponry_tech_category: "Gauss Weaponry"
+
+ # support
+  support_tech_category: "Support Technology"
+  support_demolitions_tech_category: "Demolitions Technology"
+  support_demolitions_explosive_tech_category: "Explosives"
+  support_demolitions_flamer_tech_category: "Pyrotechnics"
+  support_fireteam_tech_category: "Fireteam Technology"
+  support_fireteam_energy_tech_category: "Heavy Energy Weaponry"
+  support_fireteam_ballistic_tech_category: "Heavy Ballistic Weaponry"
+  support_anti_tank_tech_category: "Anti tank Weaponry"
+  support_non_combat_tech_category: "Non combat Support"
+  support_medical_tech_category: "Medical Technology"
+  support_maintenance_tech_category: "Maintenance Technology"
+  support_logistics_tech_category: "Logistics Technology"
+  support_recon_tech_category: "Recon Technology"
+  support_dog_tech_category: "Dog Technology"
+
+ # robotics
+  robotics_tech_category: "Robotics"
+  support_robot_tech_category: "Support Robot"
+  combat_robot_tech_category: "Combat Robot"
+
+ # doctrine categories
+  cat_land_doctrine: "Land Doctrine"
+  cat_naval_doctrine: "Naval Doctrine"
+  cat_river_fleet_doctrine: "River Fleet Doctrine"
+  cat_dispered_form_doctine: "Dispensed Formation Doctrine"
+  cat_force_conc_doctine: "Concentrated Forces Doctrine"
+  cat_air_doctrine: "Air Doctrine"
+  cat_automated_warfare: "Automated Warfare"
+  cat_elite_army: "Refined Warfare"
+  cat_grand_army: "Conventional Warfare"
+  cat_terror_tactics: "Asymetrical Warfare"
+  cat_outsider_warfare: "Outsider Warfare"
+
+ # naval
+  naval_tech_category: "Naval Technology"
+
+  tool_tech: "Tool procurement"
+  industry_specialisation_category: "Industry Specialisation"
+  extraction_category: "Ressource procurement"
+  construction_category: "Construction"
+  habitation_category: "Habitation"
+  agriculture_tech: "Agriculture"
+  scavenging_tech: "Scavenging & Recycling"
+
+  category_special_units:0 "Spec Ops"
+
+ #-------------------------------------
+ # National Focuses
+ #-------------------------------------
+  legion_nf_shottol_god_of_dogs: "Shottol, God of Dogs"
+  legion_nf_shottol_god_of_dogs_desc: ""
+
+  legion_nf_goddess_diana: "Goddess Diana"
+  legion_nf_goddess_diana_desc: ""
+
+  legion_nf_caesar_the_godslayer: "Caesar the Godslayer"
+  legion_nf_caesar_the_godslayer_desc: ""
+
+  legion_nf_cult_of_nas: "Cult of Nas"
+  legion_nf_cult_of_nas_desc: ""
+
+  legion_nf_cult_of_nas_minor: "Cult of Nas"
+  legion_nf_cult_of_nas_minor_desc: ""
+
+  legion_nf_wyatt_the_demon: "Wyatt the Demon"
+  legion_nf_wyatt_the_demon_desc: ""
+
+  legion_nf_legion_outlaws: "Legion Outlaws"
+  legion_nf_legion_outlaws_desc: ""
+
+  mutant_access: "Super Mutant Army"
+  mutant_access_desc: ""
+
+  ghoul_access: "Ghoul Army"
+  ghoul_access_desc: ""
 
  #----------------------------
  # Civilizations

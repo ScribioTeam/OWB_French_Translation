@@ -1,3 +1,104 @@
 ﻿l_english:
  # Equipment naming is inherited from the equipment name when displayed in the techtree
  # For if we actually decide to localise the hidden techs
+ #Headers
+  fallout_focus_tree_folder: "Reward Technologies"
+  fallout_focus_tree_folder_desc: "Technologies only accessible through focuses and other non-researchable actions."
+
+  HEADER_EQUIPMENT: "Equipment"
+  HEADER_BUFFS: "Buffs"
+  HEADER_TRIBAL_BUFFS: "Tribal Buffs"
+  HEADER_NCN_BUFFS: "New Canaan Buffs"
+  HEADER_RANGER_BUFFS: "Desert Ranger Buffs"
+  HEADER_NCR_BUFFS: "NCR Buffs"
+  HEADER_VAULT_CITY_BUFFS: "Vault City Buffs"
+  HEADER_ITZA_BUFFS: "Chichen Itza Buffs"
+  HEADER_ARMY_OF_MEXICO_BUFFS: "Army of Mexico Buffs"
+  HEADER_RENO_BUFFS: "New Reno Buffs"
+  HEADER_SETTLER_BUFFS: "Settler Buffs"
+  HEADER_RAIDER_BUFFS: "Raider Buffs"
+  HEADER_LEGION_BUFFS: "Legion Buffs"
+  HEADER_WESTERN_BROTHERHOOD_BUFFS: "Western Brotherhood Buffs"
+ #Tribal
+  pathfinders: "Pathfinders"
+  pathfinders_desc: ""
+
+  clanfightingstyles: "Clan Fighting Style"
+  clanfightingstyles_desc: ""
+
+  warriorcult: "Warrior Cult"
+  warriorcult_desc: ""
+
+  nomadsoul: "Nomad Warriors"
+  nomadsoul_desc: ""
+
+  mansbestfriend: "Man's Best Friend"
+  mansbestfriend_desc: ""
+
+  noctwarriors: "Nocturnal Warriors"
+  noctwarriors_desc: ""
+
+  tribalholyorg: "The God In The Cave"
+  tribalholyorg_desc: ""
+
+  sacredgifts: "Gifts Of The Land"
+  sacredgifts_desc: ""
+
+  outsiderways: "Lessons Of The Outsiders"
+  outsiderways_desc: ""
+
+  tribalimmortals: "Immortal Warriors"
+  tribalimmortals_desc: ""
+
+  tribalwarpaint: "Tribal War Paint"
+  tribalwarpaint_desc: ""
+
+  tribalnumbers: "Strength In Numbers"
+  tribalnumbers_desc: ""
+
+ #New Canaan
+  warriorsofgod: "Warriors of God"
+  warriorsofgod_desc: ""
+
+  knightsofgod: "Knights of God"
+  knightsofgod_desc: ""
+
+ #Rangers
+  bosfunding: "Brotherhood of Steel Funding"
+  bosfunding_desc: ""
+
+  rangerswidth: "Ranger Combat Spread Training"
+  rangerswidth_desc: ""
+
+  rangersmedic: "Ranger Medic Training"
+  rangersmedic_desc: ""
+
+  rangersattrition: "Ranger Attrition Training"
+  rangersattrition_desc: ""
+
+  legionprep: "Ranger Prep for the Legion"
+  legionprep_desc: ""
+
+ #NCR
+  oldworldarmour: "Old World Armour"
+  oldworldarmour_desc: ""
+
+ #Vault City
+  mutant_supremacy: "Super Mutant Supremacy"
+  mutant_supremacy_desc: ""
+ #Itza
+  itz_rough_terrian_training: "Rough Terrain Training"
+  itz_rough_terrian_training_desc: ""
+
+ #Army of Mexico
+  jungle_spirits: "Jungle Machine Spirit"
+  jungle_spirits_desc: ""
+
+  jungle_tribal_integration_tech: "Jungle Tribal integration"
+  jungle_tribal_integration_tech_desc: ""
+  
+  #Units
+  dog_infantry_tech:0 "Warhound Platoon"
+  super_mutant_aux_infantry_tech:0 "Super Mutant Auxilaries"
+  
+  ghoul_civilization:0 "Ghoul Civilization"

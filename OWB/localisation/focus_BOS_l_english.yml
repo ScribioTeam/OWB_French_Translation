@@ -1,6 +1,6 @@
 ﻿l_english:
   bos_justice: "Justice"
-  bos_justice_desc: "On October 10th 2077, less than a week before nuclear fire destroyed all that was and had been, Robert Maxson and his followers descended upon the West-Tech facility in hopes of finding resources and supplies. Instead, they found a freak show, a nightmarish realm of FEV and mad scientists. Robert was furious, and what he decided to do with these mad men would echo through the centuries."
+  bos_justice_desc: "On October 10th 2077, less than a week before nuclear fire destroyed all that was and had been, Robert Maxson and his followers descended upon the West-Tek facility in hopes of finding resources and supplies. Instead, they found a freak show, a nightmarish realm of FEV and mad scientists. Robert was furious, and what he decided to do with these mad men would echo through the centuries."
 
   bos_glow: "The Glow"
   bos_glow_desc: "In 2134, after the formal formation of the Brotherhood of Steel, a splinter faction lead by Dennis Allen, who was among Maxson's original soldiers, requested permission to return to the West-Tek facility in search of technological artefacts. Understanding fully that this was the most dangerous mission ever presented to the council, he trusted his good reputation to garner him permission."
@@ -14,7 +14,7 @@
  # Underground Hangars sub-tree
 
   bos_hangars: "Underground Hangars"
-  bos_hangars_desc: "Some Pre-War Military Bunkers come equipped with Underground Hangers, from with Vertibirds can ascend and descend in relative safety and obscurity. Many of these facilities also come with facilities for repair and ample fuel storage. Bringing them back online is necessary for power protection."
+  bos_hangars_desc: "Some Pre-War Military Bunkers come equipped with underground hangars, allowing Vertibird storage in relative safety and obscurity. Many of these facilities also come with facilities for repair and ample fuel storage. Bringing them back online is necessary for power protection."
 
   bos_fighters: "Fighter Development"
   bos_fighters_desc: "Numerous  Air Bases contain the apparatus for training pilots, but training such people is pointless without the necessary machines. Follower order from the Council, numerous Paladin squads have been sent out into the wasteland to identify and recover information necessary to repair the wrecked fighters of the old world."
@@ -36,8 +36,8 @@
 
  # San-Francisco Harbour sub-tree
 
-  bos_harbours: "San-Francisco Harbor"
-  bos_harbours_desc: "The Harbors of San-Francisco once played host to hundreds of massive ships from all around the world, military or otherwise, the shells of which still rest in ruined dockyards. Clearing out these wrecks, combined with a number of basic repair practices, could open up innumerable staging points for our budding naval forces."
+  bos_harbours: "San-Francisco Harbour"
+  bos_harbours_desc: "The harbours of San Francisco once played host to hundreds of massive ships from all around the world, military or otherwise, the shells of which still rest in ruined dockyards. Clearing out these wrecks, combined with a number of basic repair practices, could open up innumerable staging points for our budding naval forces."
 
   bos_seatrials: "Sea Trials"
   bos_seatrials_desc: "Encounters at sea are rare, but not entirely unheard of. Coast raiders prowl the shallow waters in vessels to fast to be caught in larger ships. The generally agreed upon answer to this is a small fleet of agile ships with which to capture and disarm any such foes."
@@ -89,7 +89,7 @@
  # Internal Restructuring sub-tree
 
   bos_restructure: "Internal Restructuring"
-  bos_restructure_desc: "The Brotherhood of Steel has had trouble with manpower for decades, due in no small part to a general refusal to accept outside aid. However, it is becoming increasingly obvious that such things are inviable, and that we shall have to change as the wasteland changes."
+  bos_restructure_desc: "The Brotherhood of Steel has had trouble with manpower for decades, due in no small part to a general refusal to accept outside aid. However, it is becoming increasingly obvious that such things aren't viable, and that we shall have to change as the wasteland changes."
 
   bos_outsiders: "Outsider Recruitment"
   bos_outsiders_desc: "The recruitment of outsiders, those loyal too and who have expressed interest in joining the Brotherhood of Steel, is the first and most step for our push for recruitment. Although they are resented by many outside of our organization, these outsides will help to flesh out the ranks."
@@ -118,7 +118,7 @@
   bos_recruitment_desc: "The Legion is a foe without number, we shall need fresh paladins and soldiers if we are to face them in any effective capacity."
 
   bos_ncrforge: "NCR Forge"
-  bos_ncrforge_desc: "Massive amounts of long hoarded wealth and technology are being channeled into the NCR's war effort, and their economy is buckling under the pressure. It has been suggested by several Elders that we go forth and reinforce the heart of the NCR's industry, Shady Sands, so that it might better stand against the tide."
+  bos_ncrforge_desc: "Massive amounts of long hoarded wealth and technology are being channelled into the NCR's war effort, and their economy is buckling under the pressure. It has been suggested by several Elders that we go forth and reinforce the heart of the NCR's industry, Shady Sands, so that it might better stand against the tide."
 
  # Common Ground with Savages sub-tree
 
@@ -150,7 +150,7 @@
   bos_destroy_desc: "The Hubologists have been wasting technology for decades now. Suicidal rocket experiments, attempts to civilize robots, and other innumerable inane projects that have only ended in disaster. They have squandered an incalculable amount of technology in their insane pursuit, but no more!"
 
   bos_civilians: "Encourage Civilian Business"
-  bos_civilians_desc: "The people of the Bay are often fearful when it comes to opening storefronts or attempting to form anything resembling a business, because such things are often prime targets for raiders and gangs. However, with the promise of Brotherhood protection, we could usher in a new generation of Civilians loyal to the Brotherhood of Steel."
+  bos_civilians_desc: "The people of the Bay are often fearful when it comes to opening store fronts or attempting to form anything resembling a business, because such things are often prime targets for raiders and gangs. However, with the promise of Brotherhood protection, we could usher in a new generation of Civilians loyal to the Brotherhood of Steel."
 
   bos_curbstomp: "Curb Raider Aggression"
   bos_curbstomp_desc: "The Raiders of the Bay Area have been a thorn in the side of the Brotherhood of Steel's operations for decades now, between harassing our patrols and smuggling out rare resources and equipment before we can get our hands on them, it has become apparent that they are something we need to deal with."
@@ -176,8 +176,8 @@
   bos_shiseize: "Seize the Military"
   bos_shiseize_desc: "What remains of the Shi Military has surrendered, but could still have a purpose within the Brotherhood. Although they are resentful, many of them were merely conscripted by the Shi, and should be manageable with the transition to new leadership."
 
-  bos_gauss: "Gauss Weapons"
-  bos_gauss_desc: "The secrets of Gauss have been gifted to us by the Emperor himself, his cherished weapons offered as a symbol of friendship and continued alliance. Maybe he's worried we'd betray him if he didn't attempt to placate us? Either way, our gain."
+  bos_gauss: "Military Secrets"
+  bos_gauss_desc: "The secrets of the Shi's production methods have been gifted to us by the Emperor himself, his cherished knowledge offered as a symbol of friendship and continued alliance. Maybe he's worried we'd betray him if he didn't attempt to placate us? Either way, our gain."
 
   bos_vertibirds: "Vertibird Schematics"
   bos_vertibirds_desc: "The Vertibird Schematics stolen from the Enclave many years ago have been a long coveted secret of the Shi, who haven't entirely managed to master the air of their manufacturing. However, by combining our knowledge, we shall surely gain understanding that rivals even that of the former Enclave."
@@ -231,7 +231,6 @@
 
  # Blueprint Recovery sub-tree
 
-
   bos_blueprints: "Blueprint Recovery"
   bos_blueprints_desc: "We have gathered, over the last few hundred years, innumerable computers with hidden information. While we have stockpiled them endlessly, often we have not bothered to extract their secrets. How many blueprints and schematics have we ignored?"
 
@@ -263,10 +262,10 @@
   bos_oldworld_desc: "The Advanced Energy Weapons that we are currently prototyping are both incredibly effective and incredibly hard to make. Looking towards the future will be essential if we ever want to make use of them, which means gearing our equipment towards their production now."
 
   bos_superioralloys: "Superior Alloys"
-  bos_superioralloys_desc: "The Metallic Alloys used in the creation of power armor are hard to come by, and harder still to recreate. While we have managed to perfect this art to a degree, it remains limited to older, somewhat inferior suits of armor."
+  bos_superioralloys_desc: "The Metallic Alloys used in the creation of power armour are hard to come by, and harder still to recreate. While we have managed to perfect this art to a degree, it remains limited to older, somewhat inferior suits of armour."
 
   bos_scraprefinement: "Scrap Refinement"
-  bos_scraprefinement_desc: "Our ability to find and repair more advanced pieces of power armor is becoming more important with each passing day. Gearing and training more of our scribes to work on these projects will vastly increase our ability to later sustain their production."
+  bos_scraprefinement_desc: "Our ability to find and repair more advanced pieces of power armour is becoming more important with each passing day. Gearing and training more of our scribes to work on these projects will vastly increase our ability to later sustain their production."
 
   bos_surge: "Surge Research"
   bos_surge_desc: "Tesla Weaponry has been a long coveted and studied without our most secretive labs. Recent innovations have finally made the secrets of long-hidden magnetic coil management known to us. Soon, we shall be able to roll these weapons out!"
@@ -275,7 +274,7 @@
   bos_powermanage_desc: "Sentry Bots are, without a doubt, the pinnacle of robotic engineering, and something that the Brotherhood has long coveted the construction of. Even as we prepared to study and produce these machines, we are finding ways to incorporate experimental power cores into their design, for greater weapon effectiveness."
 
   bos_alloyconstruction: "Alloy Construction"
-  bos_alloyconstruction_desc: "Sentry Bots are, without a doubt, the pinnacle of robotic engineering, and something that the Brotherhood has long coveted the construction of. Even as we prepared to study and produce these machines, we are finding ways to incorporate experimental alloys into their design, for greater armor effectiveness."
+  bos_alloyconstruction_desc: "Sentry Bots are, without a doubt, the pinnacle of robotic engineering, and something that the Brotherhood has long coveted the construction of. Even as we prepared to study and produce these machines, we are finding ways to incorporate experimental alloys into their design, for greater armour effectiveness."
 
  # Securing Equipment sub-tree
 
@@ -301,7 +300,7 @@
   bos_maxsonoutpost_desc: "Further Fortifications in Maxson have come not because the elders have suggested them, but because the locals have demanded them. Enthusiasm is at an all-time high, and no raiders dare strike against those who stand under our banner."
 
   bos_rangerpaladins: "Ranger Paladins"
-  bos_rangerpaladins_desc: "The Rangers have joined our just cause! They are not truly members of the Brotherhood of Steel until they are clad in our armor. We are sending scribes to share these precious secrets with our newest allies. Let us hope they use them well."
+  bos_rangerpaladins_desc: "The Rangers have joined our just cause! They are not truly members of the Brotherhood of Steel until they are clad in our armour. We are sending scribes to share these precious secrets with our newest allies. Let us hope they use them well."
 
   bos_recreatemilits: "Recreate Military Industry"
   bos_recreatemilits_desc: "The Bay Area was once the heart of America's military-industrial complex on the western coast. While much of it lies in ruins, the framework is there to revitalize and rearm numerous arms factories."
@@ -324,20 +323,20 @@
   bos_heartland: "Industrial Heartland"
   bos_heartland_desc: "As weapons continue to flow from the Bay Area, the need to improve roads and infrastructure is again made paramount to the Elders, for the crumbling roads are proving to be burdensome even after recent efforts to reinforce them were undertaken."
 
-  bos_defense: "Lost Hills Defense Initiative"
+  bos_defense: "Lost Hills Defence Initiative"
   bos_defense_desc: "While lost hills is a capable and defensible bunker, it is, unfortunately, ineffective as a defensive line. One can remain safe in the hole for years, but defending the area about will require outposts and patrols in a far greater number than we currently encourage."
 
   bos_dockyards: "Dockyard Expansion"
   bos_dockyards_desc: "The coast of California is littered with ancient ports and dockyards that have long been little more than scavenging locations. If are are to contest the NCR at sea, we shall need to put greater effort into our efforts to revitalize these locations."
 
   bos_navarrofacilities: "Navarro Facilities Expansion"
-  bos_navarrofacilities_desc: "Numerous armories and repair stations remain in Navarro, but many are unmanned and in a state of ill repair. These places would be ideal for training a new generation of scribes in the production of more advanced equipment."
+  bos_navarrofacilities_desc: "Numerous armouries and repair stations remain in Navarro, but many are unmanned and in a state of ill repair. These places would be ideal for training a new generation of scribes in the production of more advanced equipment."
 
   bos_renovatearms: "Renovate Arms Factories"
   bos_renovatearms_desc: "Our efforts to establish the militant heartland of California's old industry have gone well, but further effort could still be applied to gain greater effectiveness in these places."
 
   bos_losthillsexpansion: "Lost Hills Expansion"
-  bos_losthillsexpansion_desc: "The effort to expand the subterranean complex of the Lost Hills Bunker have gone off supremely, and even now, more effort is being channeled towards upgrading our other bunkers! Let it not be said that we are vulnerable to outside attack."
+  bos_losthillsexpansion_desc: "The effort to expand the subterranean complex of the Lost Hills Bunker have gone off supremely, and even now, more effort is being channelled towards upgrading our other bunkers! Let it not be said that we are vulnerable to outside attack."
 
   bos_vandenberg: "Vandenberg Expedition"
   bos_vandenberg_desc: "Another day? Another ambitious young paladin with the dream of an expedition to a secretive pre-war facility. Vandenberg has long been a coveted prize, and one that is relatively close to home."
@@ -352,10 +351,10 @@
   bos_hangarconstruction_desc: "The Lost Hills Bunker never possessed any effective Hanger Bay, and as such could not launch smaller craft. The most recent answer, although expensive, is a simple remedy. The construction of an above ground landing strip and a hanger bay. "
 
   bos_secrets: "Navarro's Secrets"
-  bos_secrets_desc: "The information we gained from Navarro was so heavily encrypted that it was only recently that we gained any meaningful breakthroughs with it. It fights us every step of the way, but we are slowly unraveling the Enclave's secrets."
+  bos_secrets_desc: "The information we gained from Navarro was so heavily encrypted that it was only recently that we gained any meaningful breakthroughs with it. It fights us every step of the way, but we are slowly unravelling the Enclave's secrets."
 
   bos_anvil: "The Anvil"
-  bos_anvil_desc: "The offensive doctrine of the largely reactionary Desert Rangers lacks in many ways. They detest shock tactics and don't incorporate advanced technology into their ground assaults. We must remind them that power armor is designed around these tactical actions and that they shall have to adapt."
+  bos_anvil_desc: "The offensive doctrine of the largely reactionary Desert Rangers lacks in many ways. They detest shock tactics and don't incorporate advanced technology into their ground assaults. We must remind them that power armour is designed around these tactical actions and that they shall have to adapt."
 
   bos_steelfortress: "Fortress of Steel"
   bos_steelfortress_desc: "Between radio towers and further above ground fortifications, it can be said that the Lost Hills Bunker is a near impenetrable fortress, ringed with flags that bear the symbol of steel."
@@ -366,17 +365,17 @@
   bos_scribelexicon: "Scribe Lexicon"
   bos_scribelexicon_desc: "The Desert Rangers are, generally speaking, lacking in advanced weapons despite possessing the ability to produce them. A simple exchange of blueprints should allow us to catch them up."
 
-  bos_powerarmourdevelop: "Power Armor Development"
-  bos_powerarmourdevelop_desc: "An industry geared to produce something as complex and resource intensive as power armor can be easily regeared to do almost anything else."
+  bos_powerarmourdevelop: "Power Armour Development"
+  bos_powerarmourdevelop_desc: "An industry geared to produce something as complex and resource intensive as power armour can be easily retooled to do almost anything else."
 
   bos_zeppelinfoundry: "Zeppelin Foundry"
   bos_zeppelinfoundry_desc: "Long Ago, a vast fleet of Zeppelins were used to stage a massive expedition to the east. Now, decades later, we again find ourselves in need of such airships, and find ourselves making moves to repair the foundries of old.."
 
   bos_maxsongifts: "Maxson's Gifts"
-  bos_maxsongifts_desc: "Who needs new technology when we have reliable and maintainable equipment already? Maxon's gifts are more than enough for us, and we do not need to replace them anytime soon."
+  bos_maxsongifts_desc: "Who needs new technology when we have reliable and maintainable equipment already? Maxson's gifts are more than enough for us, and we do not need to replace them anytime soon."
 
   bos_forbiddensecrets: "Forbidden Secrets"
-  bos_forbiddensecrets_desc: "The Power Armor of the Enclave was thought to be irreplicable by many of our most senior scribes, yet the steady work of our most skilled technicians has shown us that one needs not worry about replication when you have the core schematics on hand."
+  bos_forbiddensecrets_desc: "The Power Armour of the Enclave was thought to be irreplicable by many of our most senior scribes, yet the steady work of our most skilled technicians has shown us that one needs not worry about replication when you have the core schematics on hand."
 
   bos_forbiddenweapons: "Forbidden Weapons"
   bos_forbiddenweapons_desc: "The production of Plasma Weaponry, the long-standing hallmark of the most advanced factions in the wasteland, was once thought impossible. With the aid of information stolen from the Enclave, we believe our facilities can be retrofitted to produce them on mass!"

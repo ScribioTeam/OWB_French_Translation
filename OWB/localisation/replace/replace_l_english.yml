@@ -1,197 +1,47 @@
 ﻿l_english:
- infantry_equipment: "Infantry Equipment"
- infantry_equipment_short: "Infantry Equipment"
- infantry_equipment_desc: ""
+  infantry_equipment: "Infantry Equipment"
+  infantry_equipment_short: "Infantry Equipment"
+  infantry_equipment_desc: ""
 
  # Infantry Equipment
- infantry_equipment_1: "Pipe Guns"
- infantry_equipment_1_short: "Pipe Guns"
- infantry_equipment_1_desc: ""
+  infantry_equipment_1: "Pipe Guns"
+  infantry_equipment_1_short: "Pipe Guns"
+  infantry_equipment_1_desc: "Arming our troops with bolt-action pipe pistols is all we can do as of now for infantry equipment. While the cartridge fired is somewhat effective, cycling the bolt is a slow process. New equipment is to be developped urgently"
 
  # Support Equipment
- support_equipment_1: "Support Equipment"
- support_equipment_1_desc: ""
+  support_equipment_1: "Support Equipment"
+  support_equipment_1_desc: "Assorted things and gadgets used to communicate, supply soldiers, give equipment to medical personel, and other assorted functions."
 
- fighter_equipment_1: "Scrap Fighter"
- fighter_equipment_1_short: "Scrap Fighter"
- fighter_equipment_1_desc: ""
+ # Anti-tank Support
+  anti_tank_equipment_1: "Anti-tank Rifles"
+  anti_tank_equipment_1_short: "Anti-tank Rifles"
+  anti_tank_equipment_1_desc: "Old large caliber anti tank rifles can be leveraged to provide armour penetration to infantry units. Even if the capacity of these guns to penetrate armour is limited, they still serve their purpose."
 
- fighter_equipment_2: "Salvaged Fighter"
- fighter_equipment_2_short: "Salvaged Fighter"
- fighter_equipment_2_desc: ""
+  anti_tank_equipment_2: "Rocket Launchers"
+  anti_tank_equipment_2_short: "Rocket Launchers"
+  anti_tank_equipment_2_desc: "A rocket launcher is a device that launches an unguided, rocket-propelled projectile. Effective at destroying armoured units with its rocket-propelled design, and it's shaped charge warhead."
 
- fighter_equipment_3: "Nuclear Salvaged Fighter"
- fighter_equipment_3_short: "Nuclear Salvaged Fighter"
- fighter_equipment_3_desc: ""
+  anti_tank_equipment_3: "Missile Launchers"
+  anti_tank_equipment_3_short: "Missile Launchers"
+  anti_tank_equipment_3_desc: "A missile, also known as a guided missile, is a guided self-propelled system, as opposed to an unguided self-propelled munition, referred to as a rocket.). Guided Missile systems have a far higher chance to hit targets where it hurts."
 
- # Destroyer
- destroyer_equipment: "Destroyer Equipment"
- destroyer_equipment_short: "Destroyer Equipment"
- destroyer_equipment_desc: ""
+ # fighters
+  fighter_equipment_1: "Glider"
+  fighter_equipment_1_short: "Glider"
+  fighter_equipment_1_desc: "Our engineers have, after multiple stressful tests, invented a glider able to strike from the sky. Armed with two sub-machineguns, a compliment of grenades for ground strikes, and a lot of prayers, our pilots can now support frontline troops. A mobile catapult system, installed on a truck bed for launching procedures, also gives them a considerably increased range, as the trucks have more autonomy than our gliders."
 
- destroyer_equipment_1: "Outrigger Canoe I"
- destroyer_equipment_1_short: "Outrigger Canoe I"
- destroyer_equipment_1_desc: ""
-
- destroyer_equipment_2: "Outrigger Canoe II"
- destroyer_equipment_2_short: "Outrigger Canoe II"
- destroyer_equipment_2_desc: ""
-
- destroyer_equipment_3: "Response Boat I"
- destroyer_equipment_3_short: "Response Boat I"
- destroyer_equipment_3_desc: ""
-
- destroyer_equipment_4: "Response Boat II"
- destroyer_equipment_4_short: "Response Boat II"
- destroyer_equipment_4_desc: ""
-
- destroyer_equipment_5: "Armed Craft I"
- destroyer_equipment_5_short: "Armed Craft I"
- destroyer_equipment_5_desc: ""
-
- destroyer_equipment_6: "Armed Craft II"
- destroyer_equipment_6_short: "Armed Craft II"
- destroyer_equipment_6_desc: ""
-
- # Light Cruiser
- light_cruiser_equipment: "Light Cruiser Equipment"
- light_cruiser_equipment_short: "Light Cruiser Equipment"
- light_cruiser_equipment_desc: ""
-
- light_cruiser_equipment_1: "Sailing Ship I"
- light_cruiser_equipment_1_short: "Sailing Ship I"
- light_cruiser_equipment_1_desc: ""
-
- light_cruiser_equipment_2: "Sailing Ship II"
- light_cruiser_equipment_2_short: "Sailing Ship II"
- light_cruiser_equipment_2_desc: ""
-
- light_cruiser_equipment_3: "Armed Tug I"
- light_cruiser_equipment_3_short: "Armed Tug I"
- light_cruiser_equipment_3_desc: ""
-
- light_cruiser_equipment_4: "Armed Tug II"
- light_cruiser_equipment_4_short: "Armed Tug II"
- light_cruiser_equipment_4_desc: ""
-
- light_cruiser_equipment_5: "Patrol Ship I"
- light_cruiser_equipment_5_short: "Patrol Ship I"
- light_cruiser_equipment_5_desc: ""
-
- light_cruiser_equipment_6: "Patrol Ship II"
- light_cruiser_equipment_6_short: "Patrol Ship II"
- light_cruiser_equipment_6_desc: ""
-
- # Heavy Cruiser
- heavy_cruiser_equipment: "Heavy Cruiser Equipment"
- heavy_cruiser_equipment_short: "Heavy Cruiser Equipment"
- heavy_cruiser_equipment_desc: ""
-
- heavy_cruiser_equipment_1: "Barge I"
- heavy_cruiser_equipment_1_short: "Barge I"
- heavy_cruiser_equipment_1_desc: ""
-
- heavy_cruiser_equipment_2: "Barge II"
- heavy_cruiser_equipment_2_short: "Barge II"
- heavy_cruiser_equipment_2_desc: ""
-
- heavy_cruiser_equipment_3: "Paddle Steamer I"
- heavy_cruiser_equipment_3_short: "Paddle Steamer I"
- heavy_cruiser_equipment_3_desc: ""
-
- heavy_cruiser_equipment_4: "Paddle Steamer II"
- heavy_cruiser_equipment_4_short: "Paddle Steamer II"
- heavy_cruiser_equipment_4_desc: ""
-
- heavy_cruiser_equipment_5: "Destroyer I"
- heavy_cruiser_equipment_5_short: "Destroyer I"
- heavy_cruiser_equipment_5_desc: ""
-
- heavy_cruiser_equipment_6: "Destroyer II"
- heavy_cruiser_equipment_6_short: "Destroyer II"
- heavy_cruiser_equipment_6_desc: ""
-
- # Carrier
- carrier_equipment: "Carrier Equipment"
- carrier_equipment_short: "Carrier Equipment"
- carrier_equipment_desc: ""
-
- carrier_equipment_1: "Seaplane Steamer"
- carrier_equipment_1_short: "Seaplane Steamer"
- carrier_equipment_1_desc: ""
-
- carrier_equipment_2: "Seaplane Destroyer"
- carrier_equipment_2_short: "Seaplane Destroyer"
- carrier_equipment_2_desc: ""
-
- # Battleships
- battleship_equipment: "Battleship Equipment"
- battleship_equipment_short: "Battleship Equipment"
- battleship_equipment_desc: ""
-
- battleship_equipment_1: "Super-heavy Barge"
- battleship_equipment_1_short: "Super-heavy Barge"
- battleship_equipment_1_desc: ""
-
- battleship_equipment_2: "Super-heavy Paddle Steamer"
- battleship_equipment_2_short: "Super-heavy Paddle Steamer"
- battleship_equipment_2_desc: ""
-
- battleship_equipment_3: "Super-heavy Destroyer"
- battleship_equipment_3_short: "Super-heavy Destroyer"
- battleship_equipment_3_desc: ""
-
- # Superheavy Battleships
- superheavy_battleship_equipment_1: ""
- superheavy_battleship_equipment_1_short: ""
- superheavy_battleship_equipment_1_desc: ""
-
- superheavy_battleship_equipment_2: ""
- superheavy_battleship_equipment_2_short: ""
- superheavy_battleship_equipment_2_desc: ""
-
- # Battle Cruisers
- battle_cruiser_equipment: ""
- battle_cruiser_equipment_short: ""
- battle_cruiser_equipment_desc: ""
-
- battle_cruiser_equipment_1: ""
- battle_cruiser_equipment_1_short: ""
- battle_cruiser_equipment_1_desc: ""
-
- battle_cruiser_equipment_2: ""
- battle_cruiser_equipment_2_short: ""
- battle_cruiser_equipment_2_desc: ""
-
- # Submarines
- submarine_equipment: ""
- submarine_equipment_short: ""
- submarine_equipment_desc: ""
-
- submarine_equipment_1: ""
- submarine_equipment_1_short: ""
- submarine_equipment_1_desc: ""
-
- submarine_equipment_2: ""
- submarine_equipment_2_short: ""
- submarine_equipment_2_desc: ""
-
- submarine_equipment_3: ""
- submarine_equipment_3_short: ""
- submarine_equipment_3_desc: ""
-
- submarine_equipment_4: ""
- submarine_equipment_4_short: ""
- submarine_equipment_4_desc: ""
+  fighter_equipment_3: "Monoplane Fighter"
+  fighter_equipment_3_short: "Monoplane Fighter"
+  fighter_equipment_3_desc: "As speed and low drag become primordial, a monoplane design is now preferable. Increased weight capacity allows the installation of a third, air-cooled, higher caliber machinegun for gun runs, as well as external struts able to support two 50kg high explosive bombs. Stacked powerpack units allow higher top speed, giving us the possibility for increased strike range, and interception techniques against enemy crafts."
 
  # Convoy
- convoy_equipment: "Convoy Equipment"
- convoy_equipment_short: "Convoy Equipment"
- convoy_equipment_desc: ""
+  convoy_equipment: "Convoy Equipment"
+  convoy_equipment_short: "Convoy Equipment"
+  convoy_equipment_desc: ""
 
- convoy_equipment_1: "Convoys"
- convoy_equipment_1_short: "Convoys"
- convoy_equipment_1_desc: ""
+  convoy_equipment_1: "Convoys"
+  convoy_equipment_1_short: "Convoys"
+  convoy_equipment_1_desc: ""
 
  # States
   STATE_743: "New Vegas"

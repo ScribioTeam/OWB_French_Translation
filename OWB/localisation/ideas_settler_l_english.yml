@@ -35,7 +35,7 @@
   wall_construction: "Wall Construction"
   wall_construction_desc: ""
 
-  established_armory: "Established Armoury\n§YMilitia§!§W:§!\n    §WSoft attack:§! §G+5%§!\n    §WDefence:§! §G+5%§!"
+  established_armory: "Established Armoury"
   established_armory_desc: ""
 
   chem_lab: "Chem Lab"
@@ -59,7 +59,7 @@
   loyalty: "Loyalty"
   loyalty_desc: ""
 
-  settler_subsidized_weapon_manufacturers: "Subsidized Weapon Manufacturing\n§YMilitia§!§W:§!\n    §WSoft attack:§! §G+5%§!\n    §WDefence:§! §G+5%§!\n"
+  settler_subsidized_weapon_manufacturers: "Subsidized Weapon Manufacturing"
   settler_subsidized_weapon_manufacturers_desc: ""
 
   militia_posters: "Militia Propaganda"
@@ -104,7 +104,7 @@
   settler_militia_commanders: "Militia Commanders"
   settler_militia_commanders_desc: ""
 
-  caravanmilitia: "Caravan Militia\n§YMilitia§!§W:§!\n    §WSoft attack:§! §G+5%§!\n    §WDefence:§! §G+5%§!\n"
+  caravanmilitia: "Caravan Militia"
   caravanmilitia_desc: ""
 
   settlerdefendingwitha: "Mercenary City"

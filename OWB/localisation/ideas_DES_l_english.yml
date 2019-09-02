@@ -1,4 +1,6 @@
 ﻿l_english:
+  spellcheck_ignore: "knighttactics,slayinggiants,rangerslegionwar,rangersnewthreat"
+
   desertrangers: "Desert Rangers"
   desertrangers_desc: ""
 
@@ -14,7 +16,7 @@
   nevadarecruitment: "Nevada Recruitment"
   nevadarecruitment_desc: ""
 
-  knighttactics: "Knight Tactics\n§YAll Infantry & Mot/Mech§!§W:§! §WBreakthrough:§! §G+5%§!"
+  knighttactics: "Knight Tactics"
   knighttactics_desc: ""
 
   rangersworkbench: "Ranger's Workbench"
@@ -22,9 +24,6 @@
 
   wastelandprotect: "Wasteland Protect"
   wastelandprotect_desc: ""
-
-  slayinggiants: "Slaying Giants\n§YAll Infantry & Mot/Mech§!§W:§!\n    §WBreakthrough:§! §G+10%§!\n    §WSoft attack:§! §G+10%§!"
-  slayinggiants_desc: ""
 
   rangersquartermaster: "Ranger Quartermaster"
   rangersquartermaster_desc: ""
@@ -62,14 +61,11 @@
   bosfunding_tt: "BoS Funding"
   bosfunding_tt_desc: " "
 
-  opjericho: "Opjericho"
+  opjericho: "Operation Jericho"
   opjericho_desc: ""
 
-  rangerslegionwar: "Rangers-Legion War\n§YAll Infantry & Mot/Mech§!§W: Recovery Rate:§! §G+10%§!"
+  rangerslegionwar: "Rangers-Legion War"
   rangerslegionwar_desc: ""
-
-  rangersnewthreat: "Rangers New Threat\n§YAll Infantry & Mot/Mech§!§W:§!\n    §WBreakthrough:§! §G+10%§!\n    §WSoft attack:§! §G+10%§!"
-  rangersnewthreat_desc: ""
 
   rangermarch: "Ranger March"
   rangermarch_desc: ""

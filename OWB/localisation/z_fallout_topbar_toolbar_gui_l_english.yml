@@ -1,0 +1,9 @@
+﻿l_english:
+  # GUI:
+  FALLOUT_TOOLBAR_DROP_DOWN_BUTTON_TT: "§YMiscellaneous Tabs§!\nClick to show or hide the drop down menu for the other tabs."
+
+  FALLOUT_TOOLBAR_CORING_TAB_BUTTON_TT: "§Y[This.GetCoringTabTitle]§! \n[This.GetCoringTabDesc]"
+
+  # Scripted Localisation:
+  string_fallout_coring_tab_desc: "See states that aren't your core states and core them, if possible."
+  string_fallout_tlaloc_coring_tab_desc: "See states that aren't connected to Chico-Net and connect them, if possible."

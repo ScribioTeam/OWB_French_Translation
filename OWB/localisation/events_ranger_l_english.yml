@@ -31,5 +31,16 @@
   nf_ranger.6.t: "Rangers Break our Alliance!" #Answer event to tell NCR Rangers left
   nf_ranger.6.d: "The Rangers break out alliance stating we have breaking our code of ethics and turned into another legion."
   nf_ranger.6.a: "How dare they!"
+
+  nf_ranger.7.t: "The Steel Rangers Request"
+  nf_ranger.7.d: "The Steel Rangers have sent us a request to join our faction should we accept?"
+  nf_ranger.7.a: "Yes. Bring them into the fold."
+  nf_ranger.7.b: "No. We are better off without them."
+
+  nf_ranger.8.t: "The Brotherhoods Response"
+  nf_ranger.8.d_yes: "They have accepted our request to join them."
+  nf_ranger.8.d_no: "They have denied accepted our request to join them."
+  nf_ranger.8.t: "A wise decision."
+  nf_ranger.8.t: "How dare those technophobes."
  #Placeholder Localisation Ends here
   DES_leader_chosen: "Has chosen a leader"

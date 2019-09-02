@@ -147,9 +147,6 @@
   vault_sho_reserve: "Shoshone Reservists"
   vault_sho_reserve: ""
 
-  eagercyclops: "Weapon Schematics"
-  eagercyclops_desc: ""
-
   eagercyclops: "Protectron Schematics"
   eagercyclops_desc: ""
 
@@ -158,7 +155,7 @@
 
  #Decisions
 
-  vault_13_geck: "Damaged Geck"
+  vault_13_geck: "Damaged GECK"
   vault_15_heritage: "Vault 15 Heritage Site"
   vault_rebuilding: "Renovating a Vault"
   vault_21_economy: "Exploiting Vault 21"

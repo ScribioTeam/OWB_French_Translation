@@ -1,0 +1,18 @@
+﻿l_english:
+  flower_war_peacetime_countdown: "Ceasefire on the Border"
+  flower_war_peacetime_countdown_desc: "After the most recent series of large-scale border clashes, [ROOT.flw_enemy] and ourselves have both withdrawn from contested border regions somewhat, to avoid provoking a full-scale war, and to ensure we will come out victorious next time. The fighting will resume soon enough, there is no doubt!"
+  flower_war_gotime_countdown: "Tensions on the Border!"
+  flower_war_gotime_countdown_desc: "Minor skirmishes on the border have recently begun escalating into small-scale combat. A border war seems bound to break out on the border with [ROOT.flw_enemy] at any moment!"
+
+  # Categories
+  flower_wars: "The Flower Wars"
+  flower_wars_desc: "For many decades, border clashes have raged between ourselved and [ROOT.flw_enemy]. The clashes revolve around three main states: Mexico City, He'la' Uuchben Ts'oon, and La Tumba Compartida. Owning these states gives us important stability bonuses, and also gives our enemy important debuffs. The border is contested every three or four months, with inititive flipping backwards and forward between ourselves and [ROOT.flw_enemy]. If we fail to ignite a border war, as our hardliners demand, we will face harsh consequences..."
+
+  # Tooltips
+  has_flw_inititive: "We have the inititive in the Flower Wars"
+  flw_cancelled: "The §YFlower War§! has been ceased due to war, diplomacy or other events"
+  flw_following_happen: "§RThe following will occur when this mission completes:§! \n"
+
+  # Scripted loc keys
+  flw_ate_name: "[ATE.GetNameDef]"
+  flw_itz_name: "[ITZ.GetNameDef]"

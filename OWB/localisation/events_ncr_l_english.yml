@@ -20,7 +20,7 @@
   ncr.4.b: "They must be destroyed."
 
   ncr-boswar.1.t: "NCR Patrol Report"
-  ncr-boswar.1.d: "Recently an NCR patrol found a large group of Brotherhood soldiers and scribes inhabiting a building in the heart of the Boneyard. Attempts to figure out what they're doing have been fruitless. When asked to leave, they declined - violently. Already a few NCR soldiers have died for "trespassing", and we're reaching a breaking point."
+  ncr-boswar.1.d: "Recently an NCR patrol found a large group of Brotherhood soldiers and scribes inhabiting a building in the heart of the Boneyard. Attempts to figure out what they're doing have been fruitless. When asked to leave, they declined - violently. Already a few NCR soldiers have died for \"trespassing\", and we're reaching a breaking point."
   ncr-boswar.1.a: "Send a messenger"
   ncr-boswar.1.b: "Storm the building"
 
@@ -35,7 +35,7 @@
   ncr-boswar.3.b: "We don't want to poke the bear"
 
   ncr-boswar.4.t: "Brotherhood Response"
-  ncr-boswar.4.d: "Our messenger has come back to us shaken, but unharmed. The message he carries from the Brotherhood is blunt and to the point. "Our soldiers were acting without orders, they must have gone AWOL over something important." Whether we believe them or not, one thing is certain: the Brotherhood soldiers we found were in a West-Tek facility."
+  ncr-boswar.4.d: "Our messenger has come back to us shaken, but unharmed. The message he carries from the Brotherhood is blunt and to the point. \"Our soldiers were acting without orders, they must have gone AWOL over something important.\" Whether we believe them or not, one thing is certain: the Brotherhood soldiers we found were in a West-Tek facility."
   ncr-boswar.4.a: "Extend an olive branch"
   ncr-boswar.4.b: "We can't trust them"
 
@@ -52,17 +52,17 @@
   ncr-boswar.7.a: "Punish them for acting without orders"
 
   ncr-boswar.8.t: "The Ultimatum"
-  ncr-boswar.8.d: "We've been given an ultimatum by the NCR. Either we give them compensation for the deaths of their soldiers, or there will be "repercussions". "
+  ncr-boswar.8.d: "We've been given an ultimatum by the NCR. Either we give them compensation for the deaths of their soldiers, or there will be \"repercussions\". "
   ncr-boswar.8.a: "Pay the compensation"
   ncr-boswar.8.b: "Compensation? For what?"
 
   ncr-boswar.9.t: "All-Good Returns"
-  ncr-boswar.9.d: "Our demands have not gone unnoticed. The NCR have sent All-Good to speak with us once again. As ever he came to us nervous but undaunted, and we began to discuss the current situation. Sean stresses that he was only barely able to keep the NCR from declaring all-out war for our "hubris" and seeks to find a compromise. "
+  ncr-boswar.9.d: "Our demands have not gone unnoticed. The NCR have sent All-Good to speak with us once again. As ever he came to us nervous but undaunted, and we began to discuss the current situation. Sean stresses that he was only barely able to keep the NCR from declaring all-out war for our \"hubris\" and seeks to find a compromise. "
   ncr-boswar.9.a: "We must find a peaceful solution"
   ncr-boswar.9.b: "We must have our men returned"
 
   ncr-boswar.10.t: "All-Good Murphy"
-  ncr-boswar.10.d: "The Brotherhood have refused to compensate our losses rather harshly. President Wendell Peterson flew into a fit of fury, but a senator by the name of Sean Murphy stepped forward to calm him. This man, "All-Good", proposed simply letting the soldiers go. He knows the Brotherhood, and made a convincing argument that open conflict would put the NCR through a gauntlet it could entirely avoid."
+  ncr-boswar.10.d: "The Brotherhood have refused to compensate our losses rather harshly. President Wendell Peterson flew into a fit of fury, but a senator by the name of Sean Murphy stepped forward to calm him. This man, \"All-Good\", proposed simply letting the soldiers go. He knows the Brotherhood, and made a convincing argument that open conflict would put the NCR through a gauntlet it could entirely avoid."
   ncr-boswar.10.a: "We can't risk a war"
 
   ncr-boswar.11.t: "Brotherhood Refusal"
@@ -110,7 +110,7 @@
   nf_ncr.3.a: "This is a disaster!"
 
   nf_ncr.4.t: "The Emergency Council."
-  nf_ncr.4.d: "The situation in the north has thrown the entire NCR into chaos, and dozens are dying each day. There is only so much that can be done on short notice, and even as troops are being shipped north. In an attempt to bring an end to the chaos, many powerful NCR politicians and military commanders have formed an emergency council to handle the situation. Yet even now the council has fallen to infighting, with the two most powerful political figures present, Anton I. Flynn and Sean "Allgood" Murphy clashing during every encounter. Flynn believes that the easiest method of dealing with the situation is to simply hire the mercenaries employed by all Baron's and to redistribute the land of the more violent Barons to loyal ones, such as himself. Murphy, however, believes that this is simply a power play on Flynn's part, and thinks the answer lies with outside help. Namely, the Brotherhood of Steel, who used to patrol and protect the region. The Military commanders present aren't fond of either plan and even now, consider ignoring the council to take decisive action."
+  nf_ncr.4.d: "The situation in the north has thrown the entire NCR into chaos, and dozens are dying each day. There is only so much that can be done on short notice, and even as troops are being shipped north. In an attempt to bring an end to the chaos, many powerful NCR politicians and military commanders have formed an emergency council to handle the situation. Yet even now the council has fallen to infighting, with the two most powerful political figures present, Anton I. Flynn and Sean \"Allgood\" Murphy clashing during every encounter. Flynn believes that the easiest method of dealing with the situation is to simply hire the mercenaries employed by all Baron's and to redistribute the land of the more violent Barons to loyal ones, such as himself. Murphy, however, believes that this is simply a power play on Flynn's part, and thinks the answer lies with outside help. Namely, the Brotherhood of Steel, who used to patrol and protect the region. The Military commanders present aren't fond of either plan and even now, consider ignoring the council to take decisive action."
   nf_ncr.4.a: "Flynn's NCR Buyout"
   nf_ncr.4.b: "Allgood Murphy's Diplomatic Mission"
   nf_ncr.4.c: "Military Intervention"
@@ -237,7 +237,7 @@
   ncr_civil_war_starts: "§R The Civil War Begins §!"
   NCR_civil_war_fires: "§R The NCR devolves into factions vying for power §!"
   NCR_civil_war_fires_switch_to_enclave: "§R The NCR dissolves into civil unrest, as the Enclave you will need to rise from it's ashes. §!"
-  load_seabear: "A destroyer named §Y"The Seabear"§! is spawned in Dayglow.\n"
+  load_seabear: "A destroyer named §Y\"The Seabear\"§! is spawned in Dayglow.\n"
   load_gammacore: "§YElite infantry unit spawns in the capital§!"
   load_ncrheavytroops: "§YSpawns two Power Armour units in Shady Sands§!"
   drummond: "Chose Drummond"
@@ -333,7 +333,7 @@
   ncr_tribe_rebellion_news.5.c: "We grow stronger!" #Placeholder Localisation
 
   ncr_tribe_rebellion_news.6.t: "Unrest Peaks as the Occupation Collapses"
-  ncr_tribe_rebellion_news.6.d: "This is Radio New Vegas, and I'm your host, Mr. New Vegas. And in case you're wondering if you've come to the right place, you have. I've got news for you. The NCR's occupation of the Three-State-Area collapsed today as the Legipn's most powerful trade hub, the Red Sun Republic, declared its support for the rebellion. Alongside numerous other newcomers, the Republic launched an assault on numerous NCR garrisons in the area, killing many. Slim, the President of the Republic and former mayor of Red Sun City, was infamous within the Legion for successfully opposing their attempts to enslave portions of the city's population. That's the news. This is Mr. New Vegas, filling in for Mr. New Vegas. Gonna play a song for you right now, and it's about that special someone you find only once in a Blue Moon."
+  ncr_tribe_rebellion_news.6.d: "This is Radio New Vegas, and I'm your host, Mr. New Vegas. And in case you're wondering if you've come to the right place, you have. I've got news for you. The NCR's occupation of the Three-State-Area collapsed today as the Legion's most powerful trade hub, the Red Sun Republic, declared its support for the rebellion. Alongside numerous other newcomers, the Republic launched an assault on numerous NCR garrisons in the area, killing many. Slim, the President of the Republic and former mayor of Red Sun City, was infamous within the Legion for successfully opposing their attempts to enslave portions of the city's population. That's the news. This is Mr. New Vegas, filling in for Mr. New Vegas. Gonna play a song for you right now, and it's about that special someone you find only once in a Blue Moon."
   ncr_tribe_rebellion_news.6.a: "We can't hold our forward positions much longer"
   ncr_tribe_rebellion_news.6.b: "How will the NCR respond?"
   ncr_tribe_rebellion_news.6.c: "We grow stronger!" #Placeholder Localisation
