@@ -47,8 +47,17 @@
   RRG_annex_cow:0 "We'll break them to the Mexican yoke soon enough."
   RRG_annex_sun:0 "Grasp The Setting Sun"
   RRG_annex_yuma:0 "Annex Yuma"
+  RRG_annex_BLO2:0 "Claim the lands of [BLO.GetName]"
+  RRG_annex_FFI2:0 "Claim the lands of [FFI.GetName]"
+  RRG_annex_SIN2:0 "Claim the lands of [SIN.GetName]
+  RRG_annex_LGS2:0 "Claim [LGS.GetName]"
+  RRG_annex_PEC2:0 "Claim [PEC.GetName]"
+  RRG_annex_COW2:0 "Claim Cowboy Country"
+  RRG_annex_TOM2:0 "Free Yuma"
+  RRG_annex_GDH2:0 "Menahce [GDS.GetName]"
+  RRG_annex_TWO2:0 "Guard the Two Suns"
  ##############################
- # Campaign Decisions
+  # Campaign Decisions
  ###############################
   RRG_campaign_2277:0 "The Election of 2277"
   RRG_campaign_2277_desc:0 "As the RRG heads to the polls, the nation's candidates are doing everything they can to win their support."
@@ -57,30 +66,31 @@
   RRG_mora_rally_hierro_pueblo:0 "Mora Hosts a rally in Hierro Pueblo"
   RRG_mora_rally_desierto_floral:0 "Mora Hosts a rally in Desierto Floral"
   RRG_Gloria_Rally:0 "Mora Hosts a rally in Gloria"
-  RRG_mora_eagle_pass_rally:0 "Eagle Pass Rally for Mora"
-  RRG_mora_crystal_city_rally:0 "Mora Hosts a Rally in Crystal City"
-  RRG_mora_uvalde_rallyy:0 "Mora Holds a Rally in Uvalde"
-  RRG_mora_tex_estate_rally:0 "Texan Estate Rally for Mora"
-  RRG_mora_ed_plateau_rally:0 "Rally on Edward's Plateau for Mora"
-  RRG_mora_laredo_rally:0 "Mora Hosts a Rally in Laredo"
+  RRG_mora_eagle_pass_rally:0 "Mora Hosts a rally in Eagle Pass"
+  RRG_mora_crystal_city_rally:0 "Mora Hosts a rally in Crystal City"
+  RRG_mora_uvalde_rally:0 "Mora Hosts a rally in Uvalde"
+  RRG_mora_tex_estate_rally:0 "Mora Hosts a rally at the Texan Estate"
+  RRG_mora_ed_plateau_rally:0 "Mora Hosts a rally on Edward's Plateau"
+  RRG_mora_laredo_rally:0 "Mora Hosts a rally in Laredo"
   RRG_mora_rally_steel_heart:0 "Mora Hosts a rally in the Steel Heart"
   RRG_mora_rally_rancho_prospero:0 "Mora Hosts a rally in Rancho Prospero"
-  RRG_mora_rally_Verguenza:0 "Rally Vergüenza de la Legión"
-  RRG_mora_rally_carbon_pueblo:0 "Mora Hosts a Rally in Carbon Pueblo"
-  RRG_mora_rally_gloria:0 "Mora Hosts a Rally in Gloria"
-  RRG_mora_rally_monclova:0 "Mora Hosts a Rally in Moncolovia"
+  RRG_mora_rally_Verguenza:0 "Mora Hosts a rally in Vergüenza de la Legión"
+  RRG_mora_rally_carbon_pueblo:0 "Mora Hosts a rally in Carbon Pueblo"
+  RRG_mora_rally_gloria:0 "Mora Hosts a rally in Gloria"
+  RRG_mora_rally_monclova:0 "Mora Hosts a rally in Moncolovia"
   RRG_election_2277:0 "Indecision 2277!"
   RRG_election_2277_desc:0 "The nation's candidates are campaigning across the country, kissing babies, holding speeches, and debating on the radio. For all our flaws, this is a lot better than life under the Legion."
   RRG_mora_goes_on_radio:0 "Mora Broadcasts a Speech!"
   RRG_guerra_goes_on_radio:0 "Guerra Broadcasts a Speech!"
   RRG_rosado_goes_on_radio:0 "Rosado Goes on the Radio!"
+  RRG_rosado_goes_on_radio.tt:0 "Rosado woos senators."
   RRG_rosado_rally_steel_heart:0 "Rosado Rallies Steel Heart!"
   RRG_rosado_rally_rancho_prospero:0 "Rosado Rallies Rancho Prospero!"
   RRG_rosado_rally_verguenza:0 "Rosado Rallies Verguenza"
   RRG_rosado_rally_carbon_pueblo:0 "Rosado Rallies Carbon Pueblo"
   RRG_rosado_rally_gloria:0 "Rosado Rallies Gloria!"
   RRG_rosado_rally_laredo_nuevo:0 "Rosado Rallies Laredo Nuevo"
-  RRG_rosado_rally_station:0 "Rosado Rallies Rally Station!"
+  RRG_rosado_rally_station:0 "Rosado Rallies rally Station!"
   RRG_rosado_rally_station_desc:0 "Try saying that three times fast."
   RRG_rosado_rally_hierro_pueblo:0 "Rosado Rallies Hierro Pueblo!"
   RRG_rosado_rally_desierto_floral:0 "Rosado Rallies Diesierto Floral"
@@ -97,7 +107,7 @@
   RRG_guerra_rally_carbon_pueblo:0 "Guerra Rallies Carbon Pueblo"
   RRG_guerra_rally_gloria:0 "Guerra Rallies Gloria!"
   RRG_guerra_rally_laredo_nuevo:0 "Guerra Rallies Laredo Nuevo"
-  RRG_guerra_rally_station:0 "Guerra Rallies Rally Station!"
+  RRG_guerra_rally_station:0 "Guerra Rallies rally Station!"
   RRG_guerra_rally_station_desc:0 "Try saying that three times fast."
   RRG_guerra_rally_hierro_pueblo:0 "Guerra Rallies Hierro Pueblo!"
   RRG_guerra_rally_desierto_floral:0 "Guerra Rallies Diesierto Floral"
@@ -133,7 +143,7 @@
   guerra_lobby_effort_deputies_tt:0 "Guerra persuades deputies to support him."
   mora_lobby_effort_deputies:0 "Mora Lobbies the Deputies"
   mora_lobby_effort_deputies_tt:0 "Mora persuades deputies to support him."
-  mora_mass_rally:0 "Hold a Rally!"
+  mora_mass_rally:0 "Hold a rally!"
   mora_mass_rally_desc:0 "Mora holds a mass rally in senators' states to encourage support for Mexican nationalism. Nothing as persuasive as a thousand screaming voters!"
   rosado_lobby_effort_deputies:0 "Rosado Lobbies the Deputies"
   rosado_lobby_effort_deputies_tt:0 "Rosado persuades deputies to support her."
@@ -149,6 +159,8 @@
   guerra_state_factory_desc:0 "Guerra Can make Congress build a new factory.  Although this forced industrialization will upset some people..."
   mora_arms_factory:0 "Mora Commissions an Armory"
   mora_arms_factory_desc:0 "Mexicans, at the cry of war! Mora will construct a new armory with the aid of Congress, although this will likely upset some people."
+  RRG_annex_RBD2:0 "Claim the lands of [RBD.GetName]"
+  RRG_annex_RBD2_desc:0 "Although [RBD.GetName] has fallen, Mora will still bring freedom to its people."
  ##############################
  # RRG Crises
  ###############################
@@ -165,6 +177,7 @@
   RRG_handle_crisis:0 "Executive Orders"
   RRG_handle_crisis_desc:0 "The President must act quickly and decisively to address the threats to the nation."
   RRG_diplomats_to_paulas:0 "Search for Paullus"
+  paullus_diplomat:0 "Sent a Diplomat to Paullus"
 
  ##############################
  # Flags
@@ -302,7 +315,21 @@
   RRG_moras_takeover:0 "Mora's Takeover"
   RRG_moras_takeover_desc:0 "The transformation from El Presidente to El Dictador is a tale almost as old as Mexico herself; Mora seeks to follow this path aswell. It starts with the little things:0 A bit more executive power here, radio broadcasts there, and even a few idealogical schools over there! Before you know it Mexico has a sovereign, and the people love him."
   rrg_mora_takes_control:0 "Mora Declares Himself Dictador"
-#
+##############
+# State Changes
+##############
+rrg_rename_777:0 "Rename [777.GetName] to Túxpam de Rodríguez Cano"
+rrg_rename_815:0 "Rename [815.GetName]"
+rrg_rename_816:0 "Rename [816.GetName]"
+rrg_rename_818:0 "Rename [818.GetName]"
+rrg_rename_819:0 "Rename [819.GetName]"
+rrg_rename_820:0 "Rename [820.GetName]"
+rrg_rename_822:0 "Rename [822.GetName]"
+rrg_rename_823:0 "Rename [823.GetName]"
+rrg_rename_824:0 "Rename [824.GetName]"
+rrg_rename_826:0 "Rename [826.GetName]"
+rrg_rename_864:0 "Rename [864.GetName]"
+rrg_rename_865:0 "Rename [865.GetName]"
 #
 #
   RRG_ranmed_state:0 "Has not renamed this state"

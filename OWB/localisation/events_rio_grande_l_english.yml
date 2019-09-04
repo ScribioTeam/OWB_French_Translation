@@ -33,7 +33,7 @@
   nf_rrg.7.a:0 "How can you build bridges to an enemy?"
  ############################
   nf_rrg.8.t:0 "The Day of the Dead"
-  nf_rrg.8.d:0 "[GetDateText] is remembered in the Republic's history as the Day of the Dead, the the day Gloria burned, the day it smelled of ash and burning fat. The TAA set off a series of bombs at key locations across the Republic; in the Capitol Building, in Congress, in munitions depots, and at bridges connecting Texas and Mexico. Even as Guerra tried to organize relief efforts, he learned that the TAA declared independence in a gunsmith's estate.\n\nThe secession of the TAA was a near-fatal blow to Rio. With its capital ablaze and its munitions industry across the river in a hostile country, the nation's army was on the verge of collapse even as Paullus was raiding its borders. To solve the crisis, Rio's leaders would have to handle both the TAA and the Legion remnants on their borders."
+  nf_rrg.8.d:0 "[GetDateText] is remembered in the Republic's history as the Day of the Dead, the day Gloria burned, the day it smelled of ash and burning fat. The TAA set off a series of bombs at key locations across the Republic; in the Capitol Building, in Congress, in munitions depots, and at bridges connecting Texas and Mexico. Even as Guerra tried to organize relief efforts, he learned that the TAA declared independence in a gunsmith's estate.\n\nThe secession of the TAA was a near-fatal blow to Rio. With its capital ablaze and its munitions industry across the river in a hostile country, the nation's army was on the verge of collapse even as Paullus was raiding its borders. To solve the crisis, Rio's leaders would have to handle both the TAA and the Legion remnants on their borders."
   nf_rrg.8.a:0 "Dios Mio!"
  ############################
   nf_rrg.9.t:0 "The Rio Brotherhood"
@@ -185,7 +185,7 @@
   nf_rrg.42.b:0 "Rosado is looking out for you, Rio. She looks out for everyone."
 ############################
   nf_rrg.43.t:0 "The Wedding Gift"
-  nf_rrg.43.d:0 "Since the end of the Great War, Tlaloc guarded a stockpile of nuclear weapons in silos beneath the earth. These demons from a bygone age stayed muzzled in their silos, for Tlaloc's programming could not conceive of using them against Mexican targets, and when he died he gifted his remaining nuclear arsenal to Maximilian, confident his youngest child would never use them. Maximilian honored this pledge, foor he he was programmed to believe he could not win his subjects love with nuclear arms. \n\nRosado saw things differently, and when she learned Maximilian had some of Mexico's only functioning nuclear weapons, it was child's play for her to ask Maximilian if she could have them as a wedding present. And how could he say no to his dear wife?"
+  nf_rrg.43.d:0 "Since the end of the Great War, Tlaloc guarded a stockpile of nuclear weapons in silos beneath the earth. These demons from a bygone age stayed muzzled in their silos, for Tlaloc's programming could not conceive of using them against Mexican targets, and when he died he gifted his remaining nuclear arsenal to Maximilian, confident his sweetest child would never use them. Maximilian honored this pledge, for he he was programmed to believe he could not win his subjects love with nuclear arms. \n\nRosado saw things differently, and when she learned Maximilian had some of Mexico's only functioning nuclear weapons, it was child's play for her to ask Maximilian if she could have them as a wedding present. And how could he say no to his dear wife?"
   nf_rrg.43.a:0 "Rio's words are backed by nuclear weapons!"
 ############################
   nf_rrg.44.t:0 "Scraps of Greatness"
@@ -321,3 +321,7 @@
   nf_rrg.152.b:0 "Another AI? Let us look forward, not back at where we're from."
 #######Flags###
   RRG_election_held:00 "Election Held"
+  #######Flags###
+ startup.5.t:0 "Politics in [RRG.GetName]"
+ startup.5.d:0 "Politics in the Republic of the Rio Grande are complicated to the average Wastelander. The Republic of the Rio Grande consists of numerous states each of which has its own senators and deputies, all of whom play a part in the Republic's traditions. In order to become the president, Mora, Rosado, and Guerra, will have to woo the support of a majority of the Republic's senators through a series of decisions in the states of the Republic. At the moment, support in the Republic's senate is divided between the candidates, who need to lobby state by state to gain support."
+ startup.5.a:0 "Can you open some sort of handy guide to the Republic's Congress?"
