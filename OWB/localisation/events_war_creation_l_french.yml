@@ -5,7 +5,7 @@
  war_creation.2.t:0 "Conflit frontalier"
  war_creation.2.d:0 "Le [From.GetNameDef] ont discuté de notre légitimité sur nos frontière et revendique qu'ils sont les propriétaires légitimes du territoire, [From.GetLeader] a refusé le contact et ne semble pas vouloir négocier. Même si ses revendications sont clairement frauduleuses, ils sont capable de partir en guerre sur cette base"
  war_creation.2.a:0 "Nous serons prêt pour les recevoir"
- war_creation.2.a.tt:0 "[From.GetName] reçoit une revendication pour un de nos état frontalier"
+ war_creation.2.a_tt:0 "[From.GetName] reçoit une revendication pour un de nos état frontalier"
  war_creation.3.t:0 "IA gagne une revendication pour un conflit frontalier"
  war_creation.3.d:0 "Après que le pays cible ait reçu un evenement, ce pays a désormais gagné une revendication sur eux."
  war_creation.3.a:0 "Revendication gagnée sur un pays voisin aléatoire"
