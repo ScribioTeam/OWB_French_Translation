@@ -48,3 +48,7 @@
  modifier_production_speed_electricity_generator_factor_desc:0 ""
  modifier_production_speed_metal_generator_factor:0 "Vitesse de construction de la §Yfonderie§! "
  modifier_production_speed_metal_generator_factor_desc:0 ""
+ modifier_army_sub_unit_support_robot_attack_factor:0 "Attaque Robot Support"
+ modifier_army_sub_unit_combat_robot_attack_factor:0 "Attaque Robot Combat"
+ modifier_army_sub_unit_support_robot_defence_factor:0 "Défense Robot Support"
+ modifier_army_sub_unit_combat_robot_defence_factor:0 "Défense Robot Combat"
