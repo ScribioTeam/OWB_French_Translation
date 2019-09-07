@@ -222,3 +222,9 @@
   RULE_EVENTS_NCR_CIVIL_WAR_ALLOWED_DESC: "The NCR Civil War will be allowed to happen if the correct conditions occur."
   RULE_EVENTS_NCR_CIVIL_WAR_DISALLOWED: "@NCR Disallowed"
   RULE_EVENTS_NCR_CIVIL_WAR_DISALLOWED_DESC: "The NCR Civil War will be disabled regardless of other game conditions."
+
+  RULE_MAP_SETUP_NCR_STATUS:0 "@NCR NCR"
+  RULE_MAP_SETUP_NCR_STATUS_DEFAULT:0 "@NCR Default"
+  RULE_MAP_SETUP_NCR_STATUS_DEFAULT_DESC:0 "The NCR is whole at the start of the game."
+  RULE_MAP_SETUP_NCR_STATUS_BROKEN:0 "@NCR Broken"
+  RULE_MAP_SETUP_NCR_STATUS_BROKEN_DESC:0 "The NCR is broken into its break away states."

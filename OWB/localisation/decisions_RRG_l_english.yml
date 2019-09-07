@@ -230,6 +230,7 @@
   RRG_married_to_mexico:0 "The Sacred Union"
   RRG_married_to_mexico_desc:0 "Rosado has been subtly exploring ChicoNet and altering files to suit her interests. Now she can take one more step and bend Maximilian to her will in an unholy union."
   RRG_deploy_GECK:0 "Deploy the Geck"
+  RRG_geck_decision_category:0 "Deploying the GECK"
   RRX_max_first_gift_tt:0 "The first of many gifts from Maximilian to Rosado spawns in Gloria."
   RRG_brain_research:0 "Neural Networks"
   RRG_brain_research_desc:0 "Some of the resarch Rosado has found suggests that there were plans before the Great War to form a Mind-Machine Interface, a device to splice a human brain into a computer. Rosado can send an expedition to find clues to this research at Texas University."
@@ -332,6 +333,7 @@ rrg_rename_864:0 "Rename [864.GetName]"
 rrg_rename_865:0 "Rename [865.GetName]"
 #
 #
-  RRG_ranmed_state:0 "Has not renamed this state"
+RRG_rebuilding_mexico:0 "Rebuilding Mexico
+RRG_ranmed_state:0 "Has not renamed this state"
   rrg_mexico_city: "Restore Mexico City!"
   rrg_mexico_city_desc: "Si Podemos!"

@@ -71,7 +71,7 @@
   rrg_naval_drills:0 "Naval Combat Exercises"
   rrg_naval_drills_desc:0 "No, no, port is the other way! We will never rival the Mayans, but we can at least give a good account of ourselves."
   rrg_air_corps:0 "Establish the Air Corps"
-  rrg_air_corps_desc:0 "We should proabably build a professional air force, given that somehow the Legion is flying bombers now. What? Where the even get those?""
+  rrg_air_corps_desc:0 "We should proabably build a professional air force, given that somehow the Legion is flying bombers now. What? Where the even get those?"
   rrg_fighter_schematics:0 "Fighter Schematics"
   rrg_fighter_schematics_desc:0 "Designing a plane is pretty easy, if you can copy a prewar replica."
   rrg_nat_flight_academy:0 "The National Academy of Flight"
@@ -258,6 +258,7 @@
   rrg_future_society: "The Future of Society"
   rrg_future_society_desc:0 "In due time, Mexico will see free presses established across the country. It will see swords turned into plowshares. Just tighten your belts until the final victory."
   rrg_army_renewed: "The Army Renewed"
+  rrg_army_renewed_desc:0 "Santa Anna's slipped the leash as Tlaloc faded from Mexico.  Although some oppose the general AI, others believe we should stand by him."
   rrg_hero_mexico: "The Hero of Mexico!"
   rrg_hero_mexico_desc: "Long Live the Hero of our Nation, The Saviour of the Motherland, and the owner of a series of other titles that will make the AI happy with us."
   rrg_despot_mexico: "The Despot of Mexico"
@@ -358,6 +359,7 @@
   key_2: "Guerra"
   key_3: "Muerte"
   key_4: "Hambruna"
+  friend_mexico: "Friend of Mexico"
 
  ###
  ### OOB
@@ -423,7 +425,7 @@
   rrg_rosa_armageddon_station_desc: "With control of Santa Anna and Maximilian, Rosado can enter Armageddon Station, the dead husk of America's occupation of Mexico."
   rrg_rosa_geck: "A Second Chance at Eden"
   rrg_rosa_geck_desc: "Maximilian's databanks had a prewar inventory for Armageddon Station. Among the items listed? Two Garden of Eden Creation Kits."
-  rrg_geck_tt: "Unlocks the ability to use two §MGECKs§! to improve Rio."
+  geck_count_tt: "Unlocks the ability to use two §MGECKs§! to improve Rio."
   rrg_rosa_nuke: "The Light of Civilization"
   rrg_rosa_nuke_desc: "Armageddon Station has many tools to bring order to the waste."
   rrg_prewar_stockpiles: "Prewar Stockpiles"

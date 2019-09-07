@@ -107,7 +107,10 @@
 ############################
   nf_rrg.25.t:0 "The Mad General"
   nf_rrg.25.d:0 "To unite Mexico, Mora knew he would need land and resources beyond the resources Rio possessed. One potential ally was Santa Anna, the AI on Rio's borders. Relations between the Rio and Santa Anna had been cold but correct for decades, with as Santa Anna saw himself as the true leader of Mexico, but willing to recognize Rio's leader as a \"governor\". Mora's decision to call himself the President of Mexico was a dangerous one. On the one hand, Santa Anna might be willing to work together to unite the divided land... or he might view Rio as another rebel to be put down.\n\nMora sent a delegation to Reynosa, and offered to make Santa Anna the General of Mexico. As their delegates reached the border, they were greeted by a robot, its screen flickering with an image of Santa Anna."
-  nf_rrg.25.a:0 "Here comes the General!"
+  nf_rrg.25.a:0 "Santa Anna will work with the Republic"
+  nf_rrg.25.a.tt:0 "Santa Anna work with the Republic to save Mexico!\n"
+  nf_rrg.25.b:0 "I was a president as well as general!"
+  nf_rrg.25.b.tt:0 "Santa Anna will spurn Mora's efforts!\n"
 ############################
   nf_rrg.26.t:0 "The General of Mexico"
   nf_rrg.26.d:0 "Santa Anna occupied a complicated place in Mexico's history. At one point or another a traitor, a hero, a liberal, or a conservative; he was, at the end, a Mexican. His AI successor was no different, and Mora was able to negotiate with him for hours. Did not Santa Anna lead an army into Texas to save it for Mexico? Did he not fight time and time against foreign invaders? Will, asked Mora, Santa Anna join him to fight Mexico's oppressors once again?\n\nAfter a long discussion, Santa Anna gave a one word answer. Si."
@@ -131,10 +134,10 @@
   nf_rrg.30.a_tt:0 "The RRG holds §YHunger§! and §YWar§!. Tlaloc holds §YDeath§!. Santa Anna holds §YPlague§!. Have fun!"
 ############################
   nf_rrg.31.t:0 "Santa Anna's Key"
-  nf_rrg.31.d:0 "Now that Santa Anna's a mouldering pile of scrap, President [RRG.GetLeader] can loot his facilities to find the keys to Armageddon Station that Santa Anna owned. When combined with the two Rio already holds, [RRG.GetLeader] will be able to unlock Armageddon Station. At long last!"
+  nf_rrg.31.d:0 "Now that Santa Anna's a mouldering pile of scrap, President [RRG.GetLeader] can loot his facilities to find the keys to Armageddon Station that Santa Anna owned. When combined with the two Rio already holds, [RRG.GetLeader] will be able to unlock Armageddon Station . . . if it has all four keys."
   nf_rrg.31.a:0 "Tomaré esos, General"
-  nf_rrg.31.a_tt:0 "§[RRG.GetLeader]§! now has all 4 keys to Armageddon Station, a place which presumably has an automatic churro machine. And guns."
-  nf_rrg.31.a_tt2:0 "§[RRG.GetLeader]§! now has all 3 of the keys to Armageddon station, a place which presumably has an automatic churro machine. And guns. Maximilian has the last one."
+  nf_rrg.31.a_tt:0 "[RRG.GetLeader] now has all 4 keys to Armageddon Station, a place which presumably has an automatic churro machine. And guns.\n"
+  nf_rrg.31.a_tt2:0 "[RRG.GetLeader] now has 3 of the keys to Armageddon station, a place which presumably has an automatic churro machine. And guns. Maximilian has the last one.\n"
 ############################
   nf_rrg.32.t:0 "Las Cucarachas"
   nf_rrg.32.d:0 "After Armageddon Station was unlocked, the automated system sent out an all clear signal that was strong enough to be heard across North America. Shortly afterwards, strange hybrid helicopter planes were seen in the Mexican sky, and landed near Armageddon Station. The soldiers, wearing insect-like black armour, claimed they were agents of a United States government, fired on the ghouls guarding it, and tried to storm Armageddon Station.\n\nSadly, all of the Norteamericanos were shot while resisting arrest. Just who they were remains unclear, since nobody has heard of an American government since the Great War, but let's hope we never hear of them again."
