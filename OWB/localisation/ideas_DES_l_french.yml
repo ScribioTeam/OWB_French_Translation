@@ -14,7 +14,7 @@
  nevadarecruitment:0 "Recrutement du Nevada"
  nevadarecruitment_desc:0 ""
 
- knighttactics:0 "Tactique de Chevalier\n§YToute l'Infanterie et Mot/Mech§!§W:§!§WPercée:§! §G +5%§!"
+ knighttactics:0 "Tactiques de Chevalier"
  knighttactics_desc:0 ""
  
  rangersworkbench:0 "Établi de Ranger"
@@ -22,9 +22,6 @@
   
  wastelandprotect:0 "Protection des friches"
  wastelandprotect_desc:0 ""
- 
- slayinggiants:0 "Combattre les géants\n§YToute l'infanterie & Mot/Mech§!§W:§!\n §WPercéé:§! §G + 10% §!\n §WAttaque simple: §!§G+10%§!"
- slayinggiants_desc:0 ""
  
  rangersquartermaster:0 "Quartier des rangers"
  rangersquartermaster_desc:0 ""
@@ -62,14 +59,11 @@
  bosfunding_tt:0 "Financement de la Confrérie de l'Acier" 
  bosfunding_tt_desc:0 " "
  
- opjericho:0 "Opjericho"
+ opjericho:0 "Opération Jericho"
  opjericho_desc:0 ""
  
- rangerslegionwar:0 "Guerre de Légion de gardes\n§YToute l'infanterie & Mot/Mech§!§W: Taux de récupération: §! §G+10%§!"
+ rangerslegionwar:0 "Guerre de Légion-Rangers"
  rangerslegionwar_desc:0 ""
- 
- rangersnewthreat:0 "Nouvelle menace rangers\n§YToute l'infanterie & Mot Mech§!§W:§!\n §WPercée: §! §G+10%§!\n §WAttaque simple:§! §G+10%§!"
- rangersnewthreat_desc:0 ""
  
  rangermarch:0 "Marche des rangers"
  rangermarch_desc:0 ""

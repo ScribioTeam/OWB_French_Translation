@@ -6,15 +6,27 @@
  # Infantry Equipment
  infantry_equipment_1:0 "Pistolets"
  infantry_equipment_1_short:0 "Pistolets"
- infantry_equipment_1_desc:0 ""
+ infantry_equipment_1_desc:0 "Armer nos troupes avec des pistolets à tube à boulon est tout ce que nous pouvons faire pour l'instant pour l'équipement de l'infanterie. Bien que la cartouche tirée soit quelque peu efficace, le cycle du boulon est un processus lent. De nouveaux équipements doivent être développés d'urgence"
  
  # Support Equipment
  support_equipment_1:0 "Équipement de soutien"
- support_equipment_1_desc:0 ""
+ support_equipment_1_desc:0 "Assortiment d'objets et de gadgets utilisés pour communiquer, ravitailler les soldats, donner du matériel au personnel médical et autres fonctions diverses."
+ 
+ anti_tank_equipment_1:0 "Fusils Antichars"
+ anti_tank_equipment_1_short:0 "Fusils Antichars"
+ anti_tank_equipment_1_desc:0 "Les vieux fusils antichars de gros calibre peuvent être utilisés pour assurer la pénétration des blindés dans les unités d'infanterie. Même si la capacité de ces canons à pénétrer dans les blindages est limitée, ils servent toujours leur but."
+
+ anti_tank_equipment_2:0 "Lance-roquettes"
+ anti_tank_equipment_2_short:0 "Lance-roquettes"
+ anti_tank_equipment_2_desc:0 "Un lance-roquettes est un dispositif qui lance un projectile non guidé propulsé par une fusée. Efficace pour détruire les unités blindées grâce à sa conception propulsée par fusée et à sa tête à charge creuse."
+ 
+ anti_tank_equipment_3:0 "Lance Missiles"
+ anti_tank_equipment_3_short:0 "Lance Missiles"
+ anti_tank_equipment_3_desc:0 "Un missile, également connu sous le nom de missile guidé, est un système autopropulsé guidé, par opposition à une munition autopropulsée non guidée, appelée fusée. Les systèmes de missiles guidés ont beaucoup plus de chances d'atteindre des cibles là où ils font mal."
  
  fighter_equipment_1:0 "Chasseur de ferraille"
  fighter_equipment_1_short:0 "Chasseur de ferraille"
- fighter_equipment_1_desc:0 ""
+ fighter_equipment_1_desc:0 "Nos ingénieurs ont, après de multiples essais stressants, inventé un parapente capable de frapper du ciel. Armés de deux mitrailleuses, d'un complément de grenades pour les frappes au sol et de beaucoup de prières, nos pilotes peuvent maintenant appuyer les troupes de première ligne. Un système de catapultage mobile, installé sur la plate-forme d'un camion pour les procédures de lancement, leur donne également une autonomie considérablement accrue, puisque les camions ont plus d'autonomie que nos planeurs."
  
  fighter_equipment_2:0 "Chasseur sauvé"
  fighter_equipment_2_short:0 "Chasseur sauvé"
@@ -22,7 +34,7 @@
  
  fighter_equipment_3:0 "Chasseur nucléaire récupéré"
  fighter_equipment_3_short:0 "Chasseur nucléaire récupéré"
- fighter_equipment_3_desc:0 ""
+ fighter_equipment_3_desc:50 "Comme la vitesse et la faible traînée deviennent primordiales, une conception monoplan est maintenant préférable. L'augmentation de la capacité de poids permet l'installation d'une troisième mitrailleuse de calibre supérieur, refroidie par air, pour le passage des armes à feu, ainsi que de jambes de force externes pouvant supporter deux bombes explosives de 50 kg de haut. Les unités powerpack empilées permettent une vitesse de pointe plus élevée, ce qui nous donne la possibilité d'augmenter la portée de frappe et les techniques d'interception contre les vaisseaux ennemis."
  
  # Destroyer
  destroyer_equipment:0 "Équipement de Destroyer"
