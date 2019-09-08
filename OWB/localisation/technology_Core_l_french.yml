@@ -5,53 +5,147 @@
  #----------------------------
  fallout_infantry_folder:0 "Infanterie"
  fallout_infantry_folder_desc:0 ""
+ 
  fallout_support_folder:0 "Support"
  fallout_support_folder_desc:0 ""
+ 
  fallout_vehicle_folder:0 "Véhicules"
  fallout_vehicle_folder_desc:0 ""
+ 
+ fallout_robotics_folder:0 "Robotique"
+ fallout_robotics_folder_desc:0 "Avant la guerre, les robots étaient utilisés à diverses fins. Dans les Terres Désolées, ils peuvent être utilisés comme armes de combat avec beaucoup d'efficacité grâce à des investissements technologiques appropriés."
+ 
  fallout_land_doctrine_folder:0 "Doctrine Terrestre"
  fallout_land_doctrine_folder_desc:0 ""
+ 
+ fallout_air_doctrine_folder:0 "Doctrines Spécialisées"
+ fallout_air_doctrine_folder_desc:0 ""
 
  fallout_air_folder:0 "Air"
  fallout_air_folder_desc:0 ""
- fallout_air_doctrine_folder:0 "Doctrine Aérienne"
- fallout_air_doctrine_folder_desc:0 "Bien que la production de nouveaux avions soit hautement improbable pour toutes les factions sauf les plus avancées, les méthodes de recherche pour réparer sont exponentiellement plus compliquées et les avions qui restent dans les Terres Désolées peuvent fournir un moyen d'améliorer et d'assister nos forces de combat au sol."
+ #fallout_air_doctrine_folder:0 "Doctrine Aérienne"
+ #fallout_air_doctrine_folder_desc:0 "Bien que la production de nouveaux avions soit hautement improbable pour toutes les factions sauf les plus avancées, les méthodes de recherche pour réparer sont exponentiellement plus compliquées et les avions qui restent dans les Terres Désolées peuvent fournir un moyen d'améliorer et d'assister nos forces de combat au sol."
 
  fallout_naval_folder:0 "Marine"
- fallout_naval_folder_desc:0 ""
- fallout_naval_doctrine_folder:0 "Doctrine navale"
- fallout_naval_doctrine_folder_desc:0 ""
+ fallout_naval_folder_desc:0 "Les mers et les rivières étant infestés par des navires de pirates grossiers et des animaux mutés, nous devrons déployer beaucoup d’efforts pour pouvoir les traverser. Des coques et des méthodes de fabrication de qualité militaire seront nécessaires, de même que de nouvelles technologies de navigation."
 
- fallout_robotics_folder:0 "Robotique"
- fallout_robotics_folder_desc:0 "Avant la guerre, les robots étaient utilisés à diverses fins. Dans les Terres Désolées, ils peuvent être utilisés comme armes de combat avec beaucoup d'efficacité grâce à des investissements technologiques appropriés."
-
+ fallout_naval_non_mtg_folder:0 "Marine"
+ fallout_naval_non_mtg_folder_desc:0 "Les mers et les rivières étant infestés par des navires de pirates grossiers et des animaux mutés, nous devrons déployer beaucoup d’efforts pour pouvoir les traverser. Des coques et des méthodes de fabrication de qualité militaire seront nécessaires, de même que de nouvelles technologies de navigation."
+ 
+ fallout_naval_modules_folder:0 "Modules navals"
+ fallout_naval_modules_folder_desc:0 "Comme nous pouvons enfin commencer à naviguer à nouveau dans les rivières et les zones côtières des Terres Désolées, nous aurons besoin d’équipements de qualité croissante pour que nos ennemis ne le fassent pas non plus. L'armement, le blindage, le matériel de communication sont tous importants pour assurer notre domination navale."
+ 
  fallout_industry_folder:0 "Industrie"
  fallout_industry_folder_desc:0 "Bien qu'une grande partie de l'équipement utilisé provienne au moins en partie de la grande guerre, la restauration de cet équipement nécessite une industrie organisée. Un investissement adéquat dans la recherche de nouvelles méthodes de production est essentiel à la survie dans les Terres Désolées."
+ 
  fallout_engineering_folder:0 "Ingénierie"
- fallout_engineering_folder_desc:0 ""
+ fallout_engineering_folder_desc:0 "Même si les méthodes de communication et les équipements électroniques ont été pour la plupart perdus lors de la grande panne d'électricité, la vague massive de l'EMP produite après la fin du monde, il est toujours capital que nous essayions de reconstruire à partir de celle-ci. Le matériel électrique est capital dans nos efforts."
+
+
+ #----------------------------
+ # Header
+ #----------------------------
+ HEADER_REQUISITES:0 "Conditions préalables"
+ TRIBAL_HEADER:0 "Tribal"
+ CIVILIZED_HEADER:0 "Civilisé"
+ ADVANCED_HEADER:0 "Avancée"
+ SPECIAL_HEADER:0 "Unique"
+ HEADER_UPGRADES:0 "Mises à niveau"
 
  #----------------------------
  # Categories
  #----------------------------
- civilization_tech:0 "Civilisation"
- robotics_tech:0 "Robotique"
- ballistic_weaponry_tech:0 "Armes à feu"
- melee_weaponry_tech:0 "Armes de mêlée"
- energy_weaponry_tech:0 "Arme à énergie dirigées"
- power_armor_tech:0 "Armure Assistée"
- specops_tech:0 "Opérations spéciales"
- plasma_weaponry_tech:0 "Armes plasma"
- tesla_weaponry_tech:0 "Armes Tesla"
- gauss_weaponry_tech:0 "Canon de Gauss"
- category_robots:0 "Robots"
+ civilization_tech_category:0 "Civilisation"
+ tribal_tech_category:0 "Technologie tribale"
+ civilized_tech_category:0 "Technologie civilisée"
+ scientific_tech_category:0 "Technologie avancée"
 
- ship_destroyer_tech:0 "Navire corsaires"
- ship_cruiser_tech:0 "Navires corsaires lourds"
- ship_heavy_cruiser_tech:0 "Navires de siège"
- ship_battleship_tech:0 "Navires de siège lourds"
- ship_carrier_tech:0 "Porte-avions"
- naval_tech:0 "Naval"
- chem_tech:0 "Études chimiques"
+ # weapon categories
+ infantry_weapons_tech_category:0 "Armes d'infanterie"
+ infantry_tech_category:0 "Technologie d'infanterie"
+ energy_weaponry_tech_category:0 "Arme à énergie"
+ ballistic_weaponry_tech_category:0 "Armes à feu"
+ melee_weaponry_tech_category:0 "Armes de mêlée"
+ plasma_weaponry_tech_category:0 "Armes plasma"
+ tesla_weaponry_tech_category:0 "Armes Tesla"
+ gauss_weaponry_tech_category:0 "Armes Gauss"
+
+ # support
+ support_tech_category:0 "Technologie de support"
+ support_demolitions_tech_category:0 "Technologie de démolition"
+ support_demolitions_explosive_tech_category:0 "Explosifs"
+ support_demolitions_flamer_tech_category:0 "Pyrotechnie"
+ support_fireteam_tech_category:0 "Technologie de Pompiers"
+ support_fireteam_energy_tech_category:0 "Armes à énergie lourde"
+ support_fireteam_ballistic_tech_category:0 "Armes balistiques lourdes"
+ support_anti_tank_tech_category:0 "Armes anti-chars"
+ support_non_combat_tech_category:0 "Soutien non combattant"
+ support_medical_tech_category:0 "Technologie médicale"
+ support_maintenance_tech_category:0 "Technologie de maintenance"
+ support_logistics_tech_category:0 "Technologie logistique"
+ support_recon_tech_category:0 "Technologie de Reconnaissance"
+ support_dog_tech_category:0 "Technologie de chien"
+
+ # robotics
+ robotics_tech_category:0 "Robotique"
+ support_robot_tech_category:0 "Robot de soutien"
+ combat_robot_tech_category:0 "Robot de combat"
+
+ # doctrine categories
+ cat_land_doctrine:0 "Doctrine terrestre"
+ cat_naval_doctrine:0 "Doctrine Navale"
+ cat_river_fleet_doctrine:0 "Doctrine de la flotte fluviale"
+ cat_dispered_form_doctine:0 "Doctrine de la formation dispensée"
+ cat_force_conc_doctine:0 "Doctrine des forces concentrées"
+ cat_air_doctrine:0 "Doctrine Aérienne"
+ cat_automated_warfare:0 "Guerre automatisée"
+ cat_elite_army:0 "Guerre raffinée"
+ cat_grand_army:0 "Guerre conventionnelle"
+ cat_terror_tactics:0 "Guerre asymétrique"
+ cat_outsider_warfare:0 "Guerre des outsiders"
+
+ # naval
+ naval_tech_category:0 "Technologie navale"
+
+ tool_tech:0 "Achat d'outils"
+ industry_specialisation_category:0 "Spécialisation de l'industrie"
+ extraction_category:0 "Achat de ressources"
+ construction_category:0 "Construction"
+ habitation_category:0 "Habitation"
+ agriculture_tech:0 "Agriculture"
+ scavenging_tech:0 "Récupération et recyclage"
+
+ category_special_units:0 "Forces Spéciales"
+
+ #-------------------------------------
+ # National Focuses
+ #-------------------------------------
+ legion_nf_shottol_god_of_dogs:0 "Shottol, Dieu des Chiens"
+ legion_nf_shottol_god_of_dogs_desc:0 ""
+
+ legion_nf_goddess_diana:0 "Déesse Diane"
+ legion_nf_goddess_diana_desc:0 ""
+ 
+ legion_nf_caesar_the_godslayer:0 "César le Tueur de Dieu"
+ legion_nf_caesar_the_godslayer_desc:0 ""
+ 
+ legion_nf_cult_of_nas:0 "Culte de Nas"
+ legion_nf_cult_of_nas_desc:0 ""
+
+ legion_nf_cult_of_nas_minor:0 "Culte de Nas"
+ legion_nf_cult_of_nas_minor_desc:0 ""
+
+ legion_nf_wyatt_the_demon:0 "Wyatt le Demon"
+ legion_nf_wyatt_the_demon_desc:0 ""
+
+ legion_nf_legion_outlaws:0 "Lois de la Légion"
+ legion_nf_legion_outlaws_desc:0 ""
+
+ mutant_access:0 "Armée de Super Mutants"
+ mutant_access_desc:0 ""
+
+ ghoul_access:0 "Armée de Goules"
+ ghoul_access_desc:0 ""
 
  #----------------------------
  # Civilizations
