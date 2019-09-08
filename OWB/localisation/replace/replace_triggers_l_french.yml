@@ -1,0 +1,7 @@
+﻿l_french:
+ TRIGGER_HAS_UNIT_LEADER:0 "A le Chef d'Unité avec l'ID : $ID|Y$"
+ TRIGGER_HAS_NOT_UNIT_LEADER:0 "N'a pas de Chef d'Unité avec l'ID : $ID|Y$"
+ TRIGGER_ALL_UNIT_LEADER_STARTS:0 "Tous les Chefs d'Unité"
+ TRIGGER_ANY_UNIT_LEADER_STARTS:0 "Tout Chef d'Unité vérifiant"
+ TRIGGER_IS_FIELD_MARSHALL:0 "Est un §HCommandant§!"
+ TRIGGER_IS_NOT_FIELD_MARSHALL:0 "N'est pas un §HCommandant§!"

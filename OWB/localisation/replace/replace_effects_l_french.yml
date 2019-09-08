@@ -1,0 +1,10 @@
+﻿l_french:
+ EFFECT_REMOVE_FM_LEADER:0 "$NAME|H $ cesse d'être un Commandant.\n"
+ EFFECT_REMOVE_CC_LEADER:0 "$NAME|H$ cesse d'être un Chef d'Unité.\n"
+ EFFECT_CREATE_FM_LEADER:0 "$NAME|H$ devient un Commandant.\n"
+ EFFECT_CREATE_CC_LEADER:0 "$NAME|H$ devient un Chef d'Unité.\n"
+ EFFECT_ADD_BUFF_TO_UNITS:0 "Ajoute un bonus aux unités contrôlées par le Chef d'Unité."
+ EFFECT_IMPROVE_PLANNING:0 "Améliore la planification des unités contrôlées par le Chef d'Unité."
+ EFFECT_PROMOTE_LEADER:0 "Obtient la promotion de §HCommandant§!"
+ EFFECT_DEMOTE_LEADER:0 "Est rétrogradé en §HChef d'Unité§!"
+ EFFECT_EVERY_UNIT_LEADER_STARTS:0 "Chaque Chef d'Unité"
