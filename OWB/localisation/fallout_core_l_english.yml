@@ -4,5 +4,5 @@
   RULE_ALLOW_LICENSING_BLOCKED_FOR_AI_TT:0 "§RCan't License from the AI§!."
   has_mutually_positive_opinion_with_prev_tt: "Has §Gmutually positive§! opinions with §Y[Prev.GetNameDef]§!.\n"
   within_reachable_land_distance_of_prev_tt: "Owns a §Ghome-area§! §Ystate§! within 200 km of any of §Y[Prev.GetNameDef]'s§! §Ghome-area§! §Ystates§!.\n"
-  within_reachable_sea_distance_of_prev_tt: "Owns a §Ghome-area§! §Mport§! within 600 km of any of §Y[Prev.GetNameDef]'s§! §Yhome-area§! §Mports§!.\n"
+  within_reachable_sea_distance_of_prev_tt: "Owns a §Ghome-area§! §Mport§! within 300 km of any of §Y[Prev.GetNameDef]'s§! §Ghome-area§! §Mports§!.\n"
   all_of_the_following_must_be_true_tt: "All of the following must be true:\n"

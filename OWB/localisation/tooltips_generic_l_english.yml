@@ -13,8 +13,9 @@
   plasma_weapons_research_tt:0 "Allows the research of Plasma Weaponry.\n"
 
   #Rule tooltips
-  RULE_NOT_ALLOWED_TO_RELEASE_TLALOC:0 "Tlaloc can not be released normally."
-  RULE_NOT_ALLOW_RELEASE_DECISION:0 "You can not release this nation besides by decision"
+  RULE_NOT_ALLOWED_TO_RELEASE_TLALOC:0 "We don't have the technology to restore Tlaloc."
+  RULE_NOT_ALLOW_RELEASE_DECISION:0 "You can not release this nation besides by decision."
+  RULE_NOT_ALLOW_RELEASE_EVENT:0 "This nation will only be released by event."
 
   #Scripted Effect tooltips
   give_next_level_of_weapon_equipment_tt:0 "We will receive the next level of weapons tech in our chosen branch.\n"

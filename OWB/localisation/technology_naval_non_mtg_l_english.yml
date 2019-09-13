@@ -1,14 +1,4 @@
 ﻿l_english:
- #----------------------------
- # Headers
- #----------------------------
-  HEADER_PROPULSION:0 "Propulsion"
-  HEADER_SHIP_LIGHT_HULL:0 "Light Ships"
-  HEADER_SHIP_MEDIUM_HULL:0 "Medium Ships"
-  HEADER_SHIP_HEAVY_HULL:0 "Heavy Ships"
-  HEADER_SHIP_SUPER_HEAVY_HULL:0 "Super Heavy Ships"
-  HEADER_NAVAL_INVASION:0 "Naval Invasion"
-
   nautics_tech_non_mtg_1:0 "Seafaring"
   nautics_tech_non_mtg_1_desc:0 "As annoying as it may be for our crew, oars seems to be the best way to move our future crafts as of now, and insure our capability to field a navy. Discipline training and higher physical requirements should be prioritized during recruiting, and so should a particularly high opinion of the commanding officer. Unruly elements should not be sent to oar duty, for very obvious reasons."
   nautics_tech_non_mtg_2:0 "Sail Navigation"
@@ -60,7 +50,7 @@
   naval_invasion_tech_non_mtg_3_desc:0 "Specialized troop carriers with forward-facing ramps, armored against machinegun fire and shell splinters, should considerably improve the protection of our troops during landing operations. Fire support is provided by two autocannon turrets at the rear of the craft, as well as a clip-fed mortar in an open-top compartment further back, which should provide ample assistance during beach landing."
   naval_invasion_tech_non_mtg_4:0 "Fire Support Vessels"
   naval_invasion_tech_non_mtg_4_desc:0 "Providing our landing troops with support fire is capital during amphibious assaults. And while our armored carriers make an admirable job of it with their hail of autocannon shells and mortar rounds, we need even more. Converting some of them to carry huge rocket battery all discharging at once on enemy positions should stun any defenses, no matter how reinforced, which will open the way for our marines and infantry."
-  
+
   light_navy_hull_tech_non_mtg_1:0 "Light Hull 1"
   light_navy_hull_tech_non_mtg_2:0 "Light Hull 2"
   light_navy_hull_tech_non_mtg_3:0 "Light Hull 3"
@@ -77,4 +67,3 @@
   heavy_navy_hull_tech_non_mtg_4:0 "Heavy Hull 4"
   heavy_navy_hull_tech_non_mtg_5:0 "Heavy Hull 5"
   super_heavy_navy_hull_tech_non_mtg_1:0 "Super Heavy Hull"
-  

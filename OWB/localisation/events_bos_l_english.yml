@@ -21,9 +21,8 @@
 
   nf_brotherhood.5.t: "Common Ground with Savages"
   nf_brotherhood.5.d: "The People of Umbra are more than willing to accept our presence, nor are they dumb enough to fight it."
-  nf_brotherhood.5.a: "Welcome to the fold. Conscripts."
  #placeholder localisation begins
-  nf_brotherhood.5.b: "Send them a invitation to the faction."
+  nf_brotherhood.5.b: "Demand they kneel."
  #placeholder localisation ends
 
   nf_brotherhood.6.t: "An Alliance with Arroyo?"
@@ -137,3 +136,7 @@
   nf_brotherhood.38.t: "The NCR gave us The Bay"
   nf_brotherhood.38.d: "After much waiting we finally received a reply from the NCR. They will turn over the territory of Point-Green effective immediately, and have already begun to move troops and military resources from the area. This marks a change in the diplomatic air between us and the NCR, and could potentially lead to mutually beneficial agreements in the future."
   nf_brotherhood.38.a: "Time to reopen the bunker up there."
+
+  nf_brotherhood.39.t: "Rejected by [From.GetNameDef]"
+  nf_brotherhood.39.d: "After an unexpectedly long delay, the emissaries of [From.GetNameDef] have returned with an answer from [From.GetLeader]. The answer is no. If we are to subjugate the [From.GetNameDef], we must do so by force."
+  nf_brotherhood.39.a: "So be it."

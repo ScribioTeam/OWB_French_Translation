@@ -109,6 +109,17 @@
   CES_power_armour_equipment_2_short: "BoM PA"
   CES_power_armour_equipment_2_desc: "Designed to invoke the fury of Mars in battle, the Brotherhood of Mars created this varient of T-51b to outfit their legions with in the coming wars. Its mediocre materials make it worse in battle than regular T-51b, but for equipment designed by former luddites, it is exceptional."
 
+  # Dayglow (Dayglow)
+  DAY_ballistic_equipment_1:0 "M&A 9mm Pistol"
+  DAY_ballistic_equipment_1_short:0 "9mm Pistol"
+  DAY_ballistic_equipment_1_desc:0 "Common sidearm of both military and police force alike, and chambered in one of the most prolific calibres in existence, this firearm is the perfect candidate for widespread adoption."
+  DAY_ballistic_equipment_2:0 "Service Rifle"
+  DAY_ballistic_equipment_2_short:0 "Service Rifle"
+  DAY_ballistic_equipment_2_desc:0 "A mainstay weapon of the pre-war US-Army, repaired and refurbished with Redwood furniture."
+  DAY_ballistic_equipment_4:0 "Marksman Carbine"
+  DAY_ballistic_equipment_4_short:0 "Marksman Carbine"
+  DAY_ballistic_equipment_4_desc:0 "The marksman carbine is a semi-automatic, medium-power carbine with a 20 round magazine. Both highly accurate at long range and easy to handle in short range encounters, the marksman carbine is a precision weapon for a precision military."
+
   # DES (Desert Rangers)
   DES_ballistic_equipment_1:0 "Big Iron"
   DES_ballistic_equipment_1_short:0 "Big Iron"

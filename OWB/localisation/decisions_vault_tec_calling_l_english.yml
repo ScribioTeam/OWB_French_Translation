@@ -5,7 +5,7 @@
   vault_3: "Explore Vault 3"
   vault_3_desc: "Despite the slaughter of Vault 3's residents by the fiends, the Vault itself may hold valuable resources."
 
-  vault_6: "Explore Vault 6"
+  vault_6: "Clear the Ferals from Vault 6"
   vault_6_desc: "This mysterious vault is guarded by packs of feral ghouls, though the structure may prove useful."
 
   vault_13: "Explore Vault 13"
@@ -15,7 +15,7 @@
   vault_15_desc: "Long since abandoned and in complete ruin, this vault is little more than a dangerous passion project."
 
   vault_19: "Explore Vault 19"
-  vault_19_desc: ""
+  vault_19_desc: "Abandoned due to a sulfur leak, it might be operable."
 
   vault_21: "Explore Vault 21"
   vault_21_desc: "The bottom floors of this vault have been collapsed in, though the upper floors can accommodate quite a lot."
@@ -23,6 +23,9 @@
   vault_22: "Clearing Vault 22"
   vault_22_desc: "Our initial survey team lost contact with us, and the surface team has sent word that plants have begun "
 
+  vault_29: "Explore Vault 29"
+  vault_29_desc: "Vault 29 was sending operational signals up until 2253. Given the scraps of information recovered about the nature of the experiment there, it may be worth it to send a team in to investigate."
+  
   vault_34: "Contact the Boomers"
   vault_34_desc: "The dwellers of this vault seem to have set up quite the arsenal for themselves. We should see if they are willing to help their fellow dwellers out."
 
