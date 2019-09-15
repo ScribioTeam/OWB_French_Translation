@@ -488,7 +488,7 @@ guiTypes = {
 		}
 		instantTextboxType = {
 			name = "desc"
-			position = { x = 34 y = 250 }
+			position = { x = 25 y = 250 }
 			textureFile = ""
 			font = "hoi_18mbs"
 			borderSize = {x = 5 y = 0}
@@ -496,6 +496,7 @@ guiTypes = {
 			maxWidth = 485
 			maxHeight = 120
 			format = center
+			scrollbartype = "standardtext_slider"
 		}
 
 		iconType = {
