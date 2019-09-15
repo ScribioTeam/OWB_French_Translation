@@ -2,6 +2,13 @@
  # Equipment naming is inherited from the equipment name when displayed in the techtree
 
  #----------------------------
+ # Headers
+ #----------------------------
+  HEADER_MOTORIZATION:0 "Motorisation"
+  HEADER_MECHANISATION:0 "Mécanisation"
+  HEADER_TANKS:0 "Tanks"
+
+ #----------------------------
  # Vehicle
  #----------------------------
  vehicle_restoration:0 "Restauration de véhicules"
