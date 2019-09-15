@@ -137,6 +137,9 @@
  nf_brotherhood.26.b:0 ""
  
  nf_brotherhood.38.d:0 "Après beaucoup d’attente, nous avons finalement reçu une réponse de la part de la RNC. Ils nous cèdent immédiatement le territoire de Point-Green et ont déjà commencé à déplacer leurs troupes et leurs ressources militaires de la région. Cela marque un changement de l’atmosphère diplomatique entre nous et la RNC et pourrait mener à des accords mutuellement bénéfiques à l’avenir."
+ nf_brotherhood.39.t:0 "Rejeté par [From.GetNameDef]"
+ nf_brotherhood.39.d:0 "Après un délai inattendu, les émissaires de [From.GetNameDef] sont revenus avec une réponse de [From.GetLeader]. La réponse est non. Si nous devons soumettre le [From.GetNameDef], nous devons le faire de force."
+ nf_brotherhood.39.a:0 "Ainsi soit-il."
  nf_brotherhood.34.t:0 "La brigade Maxson"
  nf_brotherhood.34.desc:0 "Le choix de défendre les hommes et les femmes de la RNC était un choix couteux, des douzaines de Paladins de la Confrérie ont donné leur vie dans un corps à corps acharné, même si l'Enclave a détruit des centaines d'enregistrement et de schémas dans les profondeurs du Bunker de Navarro. Beaucoup parmis la RNC n'ont jamais compris l'importance de ce sacrifice, ce tournant moral pour la Confrérie qui a enfin placé les vies humaines au dessus de la technologie. Mais, ceux de la Brigade Maxson, qui ont grandi dans le territoire de la Confrérie ? Ceux qui ont compris plus que n'importe quel groupe, et après leur démobilisation après la guerre, ont voulu former des séries de milice apparentées  la Confrérie de l'Acier."
  nf_brotherhood.34.a:0 "Nous sommes honorés de les avoir de notre côté."
