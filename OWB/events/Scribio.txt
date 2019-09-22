@@ -1,18 +1,13 @@
 ﻿add_namespace = scribio
 
-# Give the Scribio startup event for all except NCR and CES who have it after their startup event
+# Give the Scribio startup event for all country after one day (in order to not be behind the pipboy)
 country_event = {
 	id = scribio.1
 	hidden = yes
 	is_triggered_only = yes
 
-	trigger = {
-		NOT = { tag = NCR }
-		NOT = { tag = CES }
-	}
-
 	immediate = {
-		country_event = { id = scribio.2 }
+		country_event = { id = scribio.2 days = 1}
 	}
 }
 
