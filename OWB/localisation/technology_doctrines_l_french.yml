@@ -3,23 +3,6 @@
  # All localisation done by Zapdude.
  # Traduite en français par l'équipe Scribio
 
- # Categories Doctrine
- cat_automated_warfare:0 "Doctrine de la guerre automotisée"
- cat_elite_army:0 "Doctrine des forces d'élites"
- cat_grand_army:0 "Doctrine de la guerre conventionelle"
- cat_terror_tactics:0 "Doctrine de la guerre asymétrique"
- cat_outsider_warfare:0 "Doctrine de la guerre marginale"
- 
- cat_automated_warfare_research:0 "Doctrine de la guerre automotisée"
- cat_superior_firepower_research:0 "Doctrine des forces d'élites"
- cat_grand_army_research:0 "Doctrine de la guerre conventionelle"
- cat_mass_assault_research:0 "Doctrine de la guerre asymétrique"
- cat_outsider_warfare_research:0 "Doctrine de la guerre marginale"
- cat_terror_tactics_research:0 "Doctrine de la guerre asymétrique"
- cat_elite_army_research:0 "Doctrine de la guerre raffinée"
-
- spec_force_doctrine_category:0 "Doctrine des forces spéciales"
-
  # Labels/headers Doctrine
  AUTOMATED_WARFARE_DOCTRINE_LABEL:0 "Guerre automotisée"
  AUTOMATED_WARFARE_DOCTRINE_DESC:0 "L'espèce humaine a abandonné le vieux monde, pas ses créations. Les robots se battent mieux, plus rapidement et plus longtemps que de simples soldats. Mieux encore, les robots n'ont pas de conscience."
