@@ -1,25 +1,60 @@
 ﻿l_english:
-  chieftain: "Chieftain"
-  chieftain_desc: "This faction is ruled over by a chieftain possessing unlimited power over their people."
-  gang: "Gang"
-  gang_desc: "This faction is ruled through a loose gang structure, with the most powerful and ruthless making up it's leadership"
-  constitutional_republic: "Constitutional Republic"
-  constitutional_republic_desc: "This faction is ruled by the people through an elected government with a constitution protecting it's inhabitants rights."
-  warlordship: "Warlordship"
-  warlordship_desc: "This faction is ruled by a warlord who maintains control through power and fear, gaining strength by slaying their foes."
-  town_hall_democracy: "Town Hall Democracy"
-  town_hall_democracy_desc: "This faction is ruled by it's inhabitants through a town council chosen to represent each areas inhabitants."
-  oligarchy: "Oligarchy"
-  oligarchy_desc: "This faction is ruled by it's richest who buy their power through wealth."
-  commune: "Commune"
-  commune_desc: "This faction is ruled through a collective group who pool their resources together and do their best to help the collective survive, usually being united by common goals."
-  benevolent_dictatorship: "Benevolent Dictatorship"
-  benevolent_dictatorship_desc: "This faction is ruled by a benevolent dictator who puts some effort into improving the life of it's people but any challenge to the leadership is met with harsh force."
-  peoples_militia: "People's Militia"
-  peoples_militia_desc: "This faction is ruled by a military collective who work to try and protect it's inhabitants however it can from outside forces. The only allegiance they swear to is their people."
-  indifferent_despotism: "Indifferent Despotism"
-  indifferent_despotism_desc: "This faction is ruled through an indifferent despot who only cares to maintain their power."
-  technocracy: "Technocracy"
-  technocracy_desc: "This faction is ruled through an inner circle of experts in various intellectual fields who make decisions and elect a council leader to guide them."
-  ideocracy: "Ideocracy"
-  ideocracy_desc: "This faction is ruled strictly according to their ideological ideals through an elite council."
+#People
+  #Placeholder localization begins
+  unlimited_democracy:0 "Unlimited Democracy"
+  unlimited_democracy_desc:0 ""
+  tribal_council:0 "Tribal Council"
+  tribal_council_desc:0 ""
+  #Placeholder localization ends
+  constitutional_republic:0 "Constitutional Republic"
+  constitutional_republic_desc:0 "This faction is ruled by the people through an elected government with a constitution protecting it's inhabitants rights."
+  #Placeholder localization beings
+  constitutional_monarchy:0 "Constitutional Monarchy"
+  constitutional_monarchy_desc:0 ""
+  #Placeholder localization ends
+  commune:0 "Commune"
+  commune_desc:0 "This faction is ruled through a collective group who pool their resources together and do their best to help the collective survive, usually being united by common goals."
+  #Placeholder localization beings
+  town_hall_democracy:0 "Town Hall Democracy"
+  town_hall_democracy_desc:0 ""
+  #Placeholder localization ends
+  peoples_militia:0 "People's Militia"
+  peoples_militia_desc:0 "This faction is ruled by a military collective who work to try and protect it's inhabitants however it can from outside forces. The only allegiance they swear to is their people."
+
+#Intellectuals
+  ideocracy:0 "Ideocracy"
+  ideocracy_desc:0 "This faction is ruled strictly according to their ideological ideals through an elite council."
+  technocracy:0 "Technocracy"
+  technocracy_desc:0 "This faction is ruled through an inner circle of experts in various intellectual fields who make decisions and elect a council leader to guide them."
+
+#Ruler
+  oligarchy:0 "Oligarchy"
+  oligarchy_desc:0 "This faction is ruled by it's richest who buy their power through wealth."
+  warlordship:0 "Warlordship"
+  warlordship_desc:0 "This faction is ruled by a warlord who maintains control through power and fear, gaining strength by slaying their foes."
+  benevolent_dictatorship:0 "Benevolent Dictatorship"
+  benevolent_dictatorship_desc:0 "This faction is ruled by a benevolent dictator who puts some effort into improving the life of it's people but any challenge to the leadership is met with harsh force."
+  indifferent_despotism:0 "Indifferent Despotism"
+  indifferent_despotism_desc:0 "This faction is ruled through an indifferent despot who only cares to maintain their power."
+  chieftain:0 "Chieftain"
+  chieftain_desc:0 "This faction is ruled over by a chieftain possessing unlimited power over their people."
+  gang:0 "Gang"
+  gang_desc:0 "This faction is ruled through a loose gang structure, with the most powerful and ruthless making up it's leadership"
+  town_hall_democracy:0 "Town Hall Democracy"
+  town_hall_democracy_desc:0 "This faction is ruled by it's inhabitants through a town council chosen to represent each areas inhabitants."
+
+#Elites
+  #Placeholder localization beings
+  militarist_oligarchy:0 "Militarist Oligarchy"
+  militarist_oligarchy_desc:0 ""
+  feudalism:0 "Feudalism"
+  feudalism_desc:0 ""
+  tribalism:0 "Tribalism"
+  tribalism_desc:0 ""
+  militarist_technocracy:0 "Militarist Technocracy"
+  militarist_technocracy_desc:0 ""
+  conspiratory_oligarchy:0 "Conspiratory Oligarchy"
+  conspiratory_oligarchy_desc:0 ""
+  survivalism:0 "Survivalism"
+  survivalism_desc:0 ""
+  #Placeholder localization ends

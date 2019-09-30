@@ -1,25 +1,6 @@
 ﻿l_english:
  # All localisation done by Zapdude.
  #----------------------------
- # Categories Doctrine
- #----------------------------
-  cat_automated_warfare:0 "Automated Warfare Doctrine"
-  cat_elite_army:0 "Elite Forces Doctrine"
-  cat_grand_army:0 "Conventional Warfare Doctrine"
-  cat_terror_tactics:0 "Asymmetric Warfare Doctrine"
-  cat_outsider_warfare:0 "Outsider Warfare Doctrine"
-
-  cat_automated_warfare_research:0 "Automated Warfare Doctrine"
-  cat_superior_firepower_research:0 "Elite Forces Doctrine"
-  cat_grand_army_research:0 "Conventional Warfare Doctrine"
-  cat_mass_assault_research:0 "Asymmetric Warfare Doctrine"
-  cat_outsider_warfare_research:0 "Outsider Warfare Doctrine"
-  cat_terror_tactics_research:0 "Asymmetric Warfare Doctrine"
-  cat_elite_army_research:0 "Refined Warfare Doctrine"
-
-  spec_force_doctrine_category:0 "Special Forces Doctrine"
-
- #----------------------------
  # Labels/headers Doctrine
  #----------------------------
   AUTOMATED_WARFARE_DOCTRINE_LABEL:0 "Automated Warfare"
