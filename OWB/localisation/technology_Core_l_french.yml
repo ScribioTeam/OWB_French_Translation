@@ -86,27 +86,78 @@
  support_recon_tech_category:0 "Technologie de Reconnaissance"
  support_dog_tech_category:0 "Technologie de chien"
 
- # robotics
- robotics_tech_category:0 "Robotique"
- support_robot_tech_category:0 "Robot de soutien"
- combat_robot_tech_category:0 "Robot de combat"
+ # spec ops
+ spec_force_tech_category:0 "Technologie des forces spéciales"
+ spec_force_doctrine_category:0 "Doctrine des forces spéciales"
+ spec_force_equipment_tech_category:0 "Equipement des forces spéciales"
 
- # doctrine categories
+ # vehicles
+ armor_tech_category:0 "Technologie de blindé"
+ motorized_equipment_category:0 "Équipement motorisé"
+ vehicle_tech_category:0 "Technologie du véhicule"
+ bike_tech_category:0 "Technologie de vélo"
+ truck_tech_category:0 "Technologie du camion"
+ apc_tech_category:0 "Technologie APC"
+ tank_tech_category:0 "Technologie de char"
+ car_tech_category:0 "Technologie automobile"
+
+ # air tech
+ naval_air_tech_category:0 "Technologie aéronavale"
+ air_tech_category:0 "Technologie de l'air"
+ light_air_tech_category:0 "Technologie de l'air léger"
+ heavy_air_tech_category:0 "Technologie de l'air lourd"
+ fighter_tech_category:0 "Technologie de chasse"
+ cas_bomber_tech_category:0 "Technologie de bombardier d'appui aérien rapproché"
+ bomber_tech_category:0 "Technologie de bombardier"
+ cargo_air_tech_category:0 "Technologie de l'air cargo"
+ blimp_tech_category:0 "Technologie du dirigeable"
+ air_equipment_tech_category:0 "Technologie de l'équipement aérien"
+
+ # naval
+ naval_tech_category:0 "Technologie navale"
+ naval_equipment:0 "Technologie de l'équipement naval"
+ naval_hull_tech_category:0 "Technologie de coque navale"
+ naval_light_hull_tech_category:0 "Technologie de coque navale légère"
+ naval_medium_hull_tech_category:0 "Technologie navale de coque moyenne"
+ naval_heavy_hull_tech_category:0 "Technologie navale de coque lourde"
+ naval_super_heavy_hull_tech_category:0 "Technologie navale super lourde"
+ naval_carrier_hull_tech:0 "Technologie de coque navale"
+ naval_invasion_tech_category:0 "Technologie d'invasion navale"
+
+ # naval module
+ naval_armour_module_tech_category:0 "Technologie de module de blindage naval"
+ naval_module_tech_category:0 "Technologie du module naval"
+ naval_engine_module_tech_category:0 "Technologie de module de moteur naval"
+ naval_command_module_tech_category:0 "Technologie du module de commandement naval"
+ naval_weapon_module_tech_category:0 "Technologie de module d'arme navale"
+
+ # land doctrines
  cat_land_doctrine:0 "Doctrine terrestre"
  cat_naval_doctrine:0 "Doctrine Navale"
  cat_river_fleet_doctrine:0 "Doctrine de la flotte fluviale"
  cat_dispered_form_doctine:0 "Doctrine de la formation dispensée"
  cat_force_conc_doctine:0 "Doctrine des forces concentrées"
+ 
+ # naval doctrines
+ cat_naval_force_concentration_doctrine:0 "Doctrine des forces concentrées"
+ cat_naval_river_fleet_doctrine:0 "Doctrine de la flotte fluviale"
+ cat_naval_dispersed_formation_doctrine:0 "Doctrine de la formation dispersée"
+ 
+ # air doctrines
  cat_air_doctrine:0 "Doctrine Aérienne"
+ 
+ # robotics
+ robotics_tech_category:0 "Robotique"
+ power_armor_tech_category:0 "Technologie d'Armure Assistée"
+ support_robot_tech_category:0 "Robot de soutien"
+ combat_robot_tech_category:0 "Robot de combat"
+ 
+ # other techs
  cat_automated_warfare:0 "Guerre automatisée"
  cat_elite_army:0 "Guerre raffinée"
  cat_grand_army:0 "Guerre conventionnelle"
  cat_terror_tactics:0 "Guerre asymétrique"
  cat_outsider_warfare:0 "Guerre des outsiders"
-
- # naval
- naval_tech_category:0 "Technologie navale"
-
  tool_tech:0 "Achat d'outils"
  industry_specialisation_category:0 "Spécialisation de l'industrie"
  extraction_category:0 "Achat de ressources"
@@ -114,6 +165,18 @@
  habitation_category:0 "Habitation"
  agriculture_tech:0 "Agriculture"
  scavenging_tech:0 "Récupération et recyclage"
-
  category_special_units:0 "Forces Spéciales"
- 
+ industry:0 "Technologie de l'industrie"
+ electronics:0 "Technologie électronique"
+ encryption_tech:0 "Technologie de cryptage"
+ decryption_tech:0 "Technologie de décryptage"
+ computing_tech:0 "Technologie de calcul"
+ radar_tech:0 "Technologie Radar"
+ support_tech:0 "Technologie de soutien"
+ implant_tech:0 "Technologie d'implants"
+ med_tech:0 "Technologie médicale"
+ education_tech:0 "Technologie d'éducation"
+ data_storage_tech:0 "Technologie de stockage de données"
+ artillery:0 "Technologie d'artillerie"
+ super_mutant_tech_category:0 "Technologie super mutant"
+ building_tech:0 "Technologie de construction"
