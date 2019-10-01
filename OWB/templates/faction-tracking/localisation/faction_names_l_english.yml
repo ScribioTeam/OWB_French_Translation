@@ -1,0 +1,5 @@
+l_english:
+<% factions.each do |faction_id, config| -%>
+<% faction_name = config['name'] -%>
+  <%= faction_id %>:0 "<%= faction_name %>"
+<% end -%>

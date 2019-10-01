@@ -1,0 +1,19 @@
+l_french:
+<% factions.each do |faction_id, config| -%>
+<% faction_name_def = config['def_name'] -%>
+<% faction_name_def_cap = faction_name_def.dup -%>
+<% faction_name_def_cap[0] = faction_name_def[0].capitalize -%>
+  join_<%= faction_id %>_tt: "Rejoint §Y<%= faction_name_def %>§!."
+  leave_<%= faction_id %>_tt: "Quitte §Y<%= faction_name_def %>§!."
+  is_<%= faction_id %>_member_tt: "Est membre de §Y<%= faction_name_def %>§!"
+  is_not_<%= faction_id %>_member_tt: "§RN'est pas§! membre de §Y<%= faction_name_def %>§!"
+  is_<%= faction_id %>_leader_tt: "Est le leader de §Y<%= faction_name_def %>§!"
+  is_not_<%= faction_id %>_leader_tt: "§RN'est pas§! le leader de §Y<%= faction_name_def %>§!"
+  <%= faction_id %>_exists_tt: "§Y<%= faction_name_def_cap %>§! existe"
+  <%= faction_id %>_does_not_exist_tt: "§Y<%= faction_name_def_cap %>§! n'existe §Rpas§!"
+  has_border_war_with_<%= faction_id %>_tt: "A un §Rconflit frontalier§! avec un membre de §Y<%= faction_name_def %>§!"
+  has_war_with_<%= faction_id %>_tt: "A une §Rguerre§! avec un membre de §Y<%= faction_name_def %>§!"
+  at_peace_with_<%= faction_id %>_tt: "En §Gpaix§! avec tous les membres de §Y<%= faction_name_def %>§!"
+  borders_<%= faction_id %>_tt: "A une §Yfrontière commune§! avec un membre de §Y<%= faction_name_def %>§!"
+  does_not_border_<%= faction_id %>_tt: "§RN'a pas§! de §Yfrontière commune§! avec un membre de §Y<%= faction_name_def %>§!"
+<% end -%>

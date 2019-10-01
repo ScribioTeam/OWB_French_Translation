@@ -1,0 +1,19 @@
+l_french:
+<% factions.each do |faction_id, config| -%>
+<% faction_name = config['def_name'] %>
+<% faction_name_cap = faction_name.dup -%>
+<% faction_name_cap[0] = faction_name[0].capitalize -%>
+  <%= faction_id %>_faction_events.1.t:0 "[Root.GetName] veut nous rejoindre"
+  <%= faction_id %>_faction_events.1.d:0 "[Root.GetName] a damandé à rejoindre notre alliance. Comment devons-nous répondre ?"
+  <%= faction_id %>_faction_events.1.a:0 "Bienvenu à bord !"
+  <%= faction_id %>_faction_events.1.b:0 "Non, ce n'est pas dans notre intérêt."
+  <%= faction_id %>_faction_events.2.t:0 "Bienvenu !"
+  <%= faction_id %>_faction_events.2.d:0 "<%= faction_name_cap %> nous accueille comme allié !"
+  <%= faction_id %>_faction_events.2.a:0 "Excellent !"
+  <%= faction_id %>_faction_events.3.t:0 "Rejet !"
+  <%= faction_id %>_faction_events.3.d:0 "<%= faction_name_cap %> a rejeté notre demande."
+  <%= faction_id %>_faction_events.3.a:0 "Merde !"
+  <%= faction_id %>_faction_events.4.t:0 "Changement d'Alliances"
+  <%= faction_id %>_faction_events.4.d:0 "[Root.GetName] a rejoint <%= faction_name %>!"
+  <%= faction_id %>_faction_events.4.a:0 "Intéressant."
+<% end -%>

@@ -1,0 +1,8 @@
+l_french:
+<% factions.each do |faction_id, config| -%>
+<% faction_name = config['def_name'] -%>
+  ASK_TO_JOIN_<%= faction_id.upcase %>_TITLE:0 "Demande à rejoindre <%= faction_name %>"
+  ASK_TO_JOIN_<%= faction_id.upcase %>_ACTION_DESC:0 "Demande à rejoindre <%= faction_name %>\n\nRequiert une frontière commune avec un membre de <%= faction_name %> et des relations positives avec leur leader."
+  INVITE_TO_JOIN_<%= faction_id.upcase %>_TITLE:0 "Inviter dans <%= faction_name %>"
+  INVITE_TO_JOIN_<%= faction_id.upcase %>_ACTION_DESC:0 "Inviter dans <%= faction_name %>\n\nRequiert une frontière commune avec un membre de <%= faction_name %> et des relations positives avec leur leader."
+<% end -%>

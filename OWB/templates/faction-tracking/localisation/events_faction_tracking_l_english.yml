@@ -1,0 +1,19 @@
+l_english:
+<% factions.each do |faction_id, config| -%>
+<% faction_name = config['def_name'] %>
+<% faction_name_cap = faction_name.dup -%>
+<% faction_name_cap[0] = faction_name[0].capitalize -%>
+  <%= faction_id %>_faction_events.1.t:0 "[Root.GetName] Wants to Join Us"
+  <%= faction_id %>_faction_events.1.d:0 "[Root.GetName] has petitioned us to join our alliance. How do we respond?"
+  <%= faction_id %>_faction_events.1.a:0 "Welcome aboard!"
+  <%= faction_id %>_faction_events.1.b:0 "No, this isn't in our best interests."
+  <%= faction_id %>_faction_events.2.t:0 "Welcome!"
+  <%= faction_id %>_faction_events.2.d:0 "<%= faction_name_cap %> welcomes us as allies!"
+  <%= faction_id %>_faction_events.2.a:0 "Excellent!"
+  <%= faction_id %>_faction_events.3.t:0 "Rejection!"
+  <%= faction_id %>_faction_events.3.d:0 "<%= faction_name_cap %> has rejected our petition."
+  <%= faction_id %>_faction_events.3.a:0 "Drat!"
+  <%= faction_id %>_faction_events.4.t:0 "Shifting Alliances"
+  <%= faction_id %>_faction_events.4.d:0 "[Root.GetName] has joined <%= faction_name %>!"
+  <%= faction_id %>_faction_events.4.a:0 "Interesting."
+<% end -%>

@@ -1,0 +1,6 @@
+l_english:
+<% factions.each do |faction_id, config| -%>
+<% faction_name = config['def_name'] -%>
+  refused_entry_to_<%= faction_id %>:0 "Rejected by <%= faction_name %>"
+  rejected_invitation_to_<%= faction_id %>:0 "Rejected <%= faction_name %>"
+<% end -%>
