@@ -1,0 +1,6 @@
+l_french:
+# decisions
+  MAX_immigration_decisions: "The Imperial Immigration Commission"
+  MAX_immigration_decisions_desc: "His Imperial Majesty, the Emperor of Mexico, Grand Master of the Order of Guadalupe, Founder of the Order of the Mexican Eagle, and Prince of Austria, hereby welcomes all who wish safety to his realm. Of course, they will only earn citizenship after a period of time performing services for their new home."
+  MAX_hire_immigrants: "Ask [FROM.GetName] to bring more immigrants"
+  MAX_hire_immigrants_desc: "[FROM.GetName], despite his differences, is willing to help immigrants escape the squalor of the Wastes. Max will of course reward his subjects for their good deeds."

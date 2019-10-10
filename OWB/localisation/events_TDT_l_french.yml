@@ -1,0 +1,36 @@
+l_french:
+  ############################
+  nf_tdt.1.t:0 "The American's Legacy"
+  nf_tdt.1.d:0 "When the United States occupied Mexico, it crushed the Zapatistas of the south, seizing Mayan land for for the American home front.  What did they prioritize?"
+  nf_tdt.1.a:0 "Clearing the jungle for future sweatshops."
+  nf_tdt.1.b:0 "Prospecting for natural resources."
+  ############################
+  nf_tdt.2.t:0 "Leaving Chichen Itza"
+  nf_tdt.2.d:0 "The break came when the Mayan leaders of [ITZ.GEtCapital] declared the birth of a Mayan empire. To the people of [TDT.GetName], this was absurd. In a world strugglign to rebuild from the Great War, the only thing they would be kings of were the ashes.  The people of the Chiapas revolted against the Itzans, and declared they would go their own way. The break had many causes, but most scholars blame:"
+  nf_tdt.2.a:0 "The demand for more men to conquer the Yucatan."
+  nf_tdt.2.b:0 "The new regime's contempt for traditional Mayan Christianity."
+  nf_tdt.3.t:0 "A Three-Way Brawl"
+  ########
+  nf_tdt.3.t:0 "The Free State"
+  nf_tdt.3.d:0 "Itzan armies poured west, seeking to conquer the breakaway state of Chiapas. But [TDT.GetName]'s leaders new they had their own advantage.  They could rely upon Aztlan support, and their knowledge of Chiapan terrain. In the end, which proved more decisive?"
+  nf_tdt.3.a:0 "Clever diplomacy."
+  nf_tdt.3.b:0 "Dastardly misdirection."
+  ###################
+  nf_tdt.4.t:0 "The Might of the People"
+  nf_tdt.4.d:0 "Although [TDT.GetName] was small, its people were willing to sacrifice for their freedom.  Its people are ready for whatever comes their way."
+  nf_tdt.4.a:0 "Every home is a pillbox, if you fight hard enough."
+  nf_tdt.4.b:0 "And should they cross our rivers, they will find heroes upon the shore."
+  ###################
+  nf_tdt.5.t:0 "The Enemy of Our Enemy"
+  nf_tdt.5.d:0 "Our greatest rivals, [ITZ.GetNameDef] have declared war on [TDT.GetName]. The escalation comes after [TDT.GetName]'s Sajal, Tobias Rey II, defeated the Itza's sponsored candidate, Maximo Vela, in hand-to-hand combat, following Vela's challenge for the leadership of [TDT.GetName]. Seeing that they now have no chance for for a peaceful integration of the territory, the Itza have opted for an all-out invasion. Following the declaration of war, the shrewd Sajal Rey has called in various favours from a wide range of important aristocrats in our Empire, requesting any support that can be given. As a result, an influential group of aristocrats has begun lobbying [ATE.GetLeader] to help [TDT.GetName] in any way possible. One of the possibilities it to send one of our best generals, Christian Gallo, along with 1000 of our most recent weapons to assist their cause. Or we could leave [TDT.GetName] to their fate..."
+  nf_tdt.5.a:0 "Someone wants to kill Itzans? Go Nuts."
+  nf_tdt.5.b:0 "This will only make it harder to kill them later."
+  nf_tdt.5.b.tt:0 "You will lose 5% stability and war support for this."
+  ###################
+  nf_tdt.6.t:0 "The Jaguars Step Out of their Lairs"
+  nf_tdt.6.d:0 "To our great relief, the Jaguar Cult has agreed to help us in our struggle against the Itzans. Although officially the Aztlans have pledged neutrality in the coming war, the piles of guns 'left' on our border implies otherwise....""
+  nf_tdt.6.a:0 "Thanks, amigos."
+  ###################
+  nf_tdt.7.t:0 "One Last Chance"
+  nf_tdt.7.d:0 "The Itza is in flames, and we have one more chance at freedom. Paralysed by the Kalomte's recent critical injury, the court and army of the Itzan Empire has begin to crumble under the pressure of its empire. Recent clashes between the Itza and Aztlan have been overwhelming Aztlan victories, and rumor has it Xma' Su'tal Maskab Hatsik itself is coming under threat from the Petro Chicans to the north. It seems that Itzan protection may no longer be in our interest, and in that spirit the elders of Tzotzil have decided to appoint Tobias Rey once more to lead the country forwards. Whilst the Itza may be unable to react to this declaration now, they'll be sure to come back later..."
+  nf_tdt.7.a:0 "We must make the best of this!"

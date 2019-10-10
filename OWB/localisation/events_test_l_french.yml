@@ -1,0 +1,11 @@
+l_french:
+  test_event.1.a: "[From.GetName]"
+
+  test_event.21.t: "Tag Switch for Code"
+  test_event.21.d: "This switches you tag from NCR to a few other nations."
+  test_event.21.a: "Change to CES"
+  test_event.21.b: "Change to WBH"
+  test_event.21.c: "Change to RRG"
+  test_event.21.e: "Change to TLA"
+  test_event.21.f: "Change to MOJ"
+  test_event.21.g: "Change to NCR"

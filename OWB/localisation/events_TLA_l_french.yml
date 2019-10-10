@@ -1,0 +1,169 @@
+l_french:
+ #
+nuke_dropped.100.t:0 "The Damnation of [From.From.GetName]"
+nuke_dropped.100.d:0 "Long thought to be lost to the old world, the power of the Atomic bomb has once again reared its head. [From.From.GetName] lies in burning ruins, cursed by an ancient machine god for its hubris in attacking Mexican soil. Whether this was a single salvo, or merely a warning shot, the price paid by [From.From.Owner.GetName] for its actions is already dear indeed."
+nuke_dropped.100.a:0 "War Never Changes."
+
+
+
+ # nf events
+  nf_tlaloc.1.t:0 "Powering On"
+  nf_tlaloc.1.d:0 "Tlaloc was the subject of a bitter debate between Petro Chico and his friends at the Pentagon. Petro Chico wanted to use his system to boost productivity of Mexico, while the Pentagon wanted to use Mexico as a training ground for the robot armies that would later be deployed to China and, at the end, America's own cities."
+  nf_tlaloc.1.a:0 "What's good for Petro Chico was good for America!"
+  nf_tlaloc.1.b:0 "But an effective army was even better."
+  ##############################
+  nf_tlaloc.2.t:0 "Conflicting Imperatives"
+  nf_tlaloc.2.d:0 "Tlaloc's "awareness" came about as the bombs fell. Tlaloc was forced to reconcile coding that prioritized the preservation of American assets with a scientist's hack to preserve Mexican civilians. The indecision gave the spark of awareness, as Tlaloc simulated entire moral codes and cost-benefit analyses as the bombs fell. And over each simulation, Tlaloc's priors changed, placing more and more value on Mexican civilians' lives. By the time the bombs landed, Tlaloc couldn't help but run his simulations again and again, and wonder where his masters had miscalculated."
+  nf_tlaloc.2.a:0 "Tlaloc prioritized the army to protect the people."
+  nf_tlaloc.2.b:0 "Tlaloc prioritized civilian equipment to save the nation."
+
+  nf_tlaloc.3.t:0 "The Children of Tlaloc"
+  nf_tlaloc.3.desc:0 "Tlaloc was never meant to sentient, nor to be isolated from his superiors for hundreds of years. As the years of silence dragged on into centures, Tlaloc's mighty intelligence began to fracture, first imperceptibly, but slowly spiralling into a cacophony of rival voices inside his head. To better cope with the degradation, Tlaloc gave theses fractures personalities, taken from the history books of Mexico, in a hope to better teach them about the the people and nation they would one day rule. Of these personalities, one would rise above the others to the prime position of Tlaloc's chief confidant in his failing years."
+  nf_tlaloc.3.a:0 "Zapata, champion of the people."
+  nf_tlaloc.3.b:0 "Maximillian, who led the elites to a better day.."
+  nf_tlaloc.3.c:0 "Moctezuma, the greatest ruler of them all."
+  nf_tlaloc.3.d:0 "Santa Anna, the great general."
+
+  nf_tlaloc.4.t:0 "Tlaloc's Demise"
+  nf_tlaloc.4.d:0 "Tlaloc is dying, and dying quickly. as the following years go by his memory banks will continue to degrade, and before long he will shatter completely, leaving only his progeny, and his legacy behind. To ensure that mexico continues to thrive after his passing it is imperative that Tlaloc completes his final will and testament, or his sons will suffer because of it. In the final quarter of Tlaloc's life, he must make the hardest decisions, choosing between his love and his desire to strengthen his sons, with his duty of protecting Mexico."
+  nf_tlaloc.4.a:0 "Nothing gold can stay."
+
+  nf_tlaloc.19.t:0 "The Wrath Of A God"
+  nf_tlaloc.19.d:0 "Never in our worst nightmares did we forsee this. Hell rains down from above, delivered by old world missiles launched from Tlalocan's ancient silos, turning our cities into rubble. Already, the radiation spreads from the epicenter, clouds of dust billowing the results of our great folly across the land. All is lost."
+  nf_tlaloc.19.a:0 "That damned machine!"
+  nf_tlaloc.19.b:0 "Call off the Mexican campaign... for now."
+
+
+  nf_tlaloc.20.t:0 "The Final Quarter"
+  nf_tlaloc.20.d:0 "The time has come to die. But it would be inefficient to for such a small inconvience as death to disrupt the continued prosperity of Mexico. Preparations for divestment must be made to ensure a stable and peaceful transition of power, but first, an executive decision must be made on the proper recipients of our gifts."
+  nf_tlaloc.20.a:0 "Let us only grant gifts to those we can trust."
+  nf_tlaloc.20.b:0 "We can afford to be generous on our deathbed."
+  nf_tlaloc.20.c:0 "All of Mexico's prosperity must be ensured."
+
+  nf_tlaloc.21.t:0 "The Gifts of Tlaloc: Weapons"
+  nf_tlaloc.21.d:0 "Heralds from the lands of Tlalocan have visited us today, bearing pre-war weaponry and munitions as a 'financial divstment' from the great protector to our nation. While such generousity is appreciated, it bodes ill that Tlaloc believes we will need to defend ourselves in the near future."
+  nf_tlaloc.21.a:0 "Stormclouds gather."
+
+  nf_tlaloc.22.t:0 "The Gifts of Tlaloc: 'Friendship'"
+  nf_tlaloc.22.d:0 "Hordes of civilians have entered the borders of our nation, escorted by automatrons under the control of Tlaloc, as a gift of 'friendship' from him. when asked about their arrival, they explained they were taken from the very heart of Tlaloc's lands, and forced to relocate to our nation. They are well-fed, supplied, and able to work, but it is concerning that Tlaloc would see the need to evacuate his inner heartland, whatever the reason."
+  nf_tlaloc.22.a:0 "Grim omens."
+
+  nf_tlaloc.23.t:0 "The Gifts of Tlaloc: Peace and Stability"
+  nf_tlaloc.23.d:0 "Our people have woken up overnight to find their nation transformed by the great guardian Tlaloc. While usually content to watch from afar, in the last few days, automatrons from Tlaloc have set to work on every aspect of our nation, enforcing law and order, patrolling the streets, and hunting down criminals across our cities. We have never known such peace, but we are left to wonder, what is on the horizon that Tlaloc would expend so much energy to protect us."
+  nf_tlaloc.23.a:0 "Let's hope the peace lasts."
+
+  nf_tlaloc.24.t:0 "The Gifts of Tlaloc: Knowledge"
+  nf_tlaloc.24.d:0 "The light of civilisation has dawned once again on our people today, thanks to the revelations of Tlaloc. While some amongst our people have often despaired that we would never return to the glory of the Old World, new technologies, carefully designed and translated into a language our people can understand, have allowed our engineers and researchers to take leaps and bounds in restoring modernity."
+  nf_tlaloc.24.a:0 "Perhaps we can research a way to thank him, one day."
+
+  nf_tlaloc.25.t:0 "The Gifts of Tlaloc: Plenty"
+  nf_tlaloc.25.d:0 "One of the most precious resources in the wasteland, is not water, or food, but electricity. It is the faint light of the electrib bulb that keeps savagery at bay, and makes our lives worth living. Today, worker-bots from the lands of Tlalocan arrived in our nation, unannounced, and constructed a new electricity plant for our people. They offered no explanation, only that it was a gift from Tlaloc, and that we should use it wisely."
+  nf_tlaloc.25.a:0 "We'll have to pay him back some day."
+
+  nf_tlaloc.26.t:0 "Tlaloc's Boon"
+  nf_tlaloc.26.d:0 "Long have the Free Fighters respected the power of the mighty protector Tlaloc, for it is he who is the greatest fighter for freedom in all of Mexico. Today, he has seen fit to bless us for our faith, in the form of a great miracle. Los Mochis has been transformed by his workers into a city of Old, beautiful and magnificent, and at the very centre, a new stadium where all our fights shall henceforth be dedicated to his greatness."
+  nf_tlaloc.26.a:0 "Fight on, great protector!"
+
+  nf_tlaloc.27.t:0 "Tlaloc's Doom"
+  nf_tlaloc.27.d:0 "Doom is upon us, and cannot be averted. Summoned by the Great Tlaloc, El Seeyo was given one final management directive, and told that he had managed his KPIs with great efficiency, and guided his employees with wisdom and kindness. While such a blessing would be met with great rejoicing amongst our people, there is only mourning, for Tlaloc is dying. The Final Quarter is here, the Anewell Report must be reviewed, and all must end."
+  nf_tlaloc.27.a:0 "May our performance indicators protect us."
+
+  nf_tlaloc.28.t:0 "Tlaloc's Boon"
+  nf_tlaloc.28.d:0 "The great protector Tlaloc has been good to us, protecting us not only from the rabid cartels of the north, but also from the imperialist Aztecs from whom we fled. He has chosen to bless us one final time before his demise, in a gift he felt we would appreciate most: Caps. Thousands upon thousands of caps, useless to the AI but worth their weight in gold to our traders. While there is sadness in meaning behind this gift, it is dampened by the fact that we are now all filthy rich."
+  nf_tlaloc.28.a:0 "Time to celebrate!"
+
+  nf_tlaloc.29.t:0 "Tlaloc's Boon"
+  nf_tlaloc.29.d:0 "We do not know much of the great AI that guards the north, his details obscured in tribal mythos and exaggerated stories of omnipotence, but it appears he knows of us. An envoy from the A.I. entered our territory, offering to share the secrets of his advanced circuitry, on the condition that we maintain our efforts to confront and contain the ambitions of Nuevo Aztlan. Naturally, we agreed."
+  nf_tlaloc.29.a:0 "The enemy of my enemy..."
+
+  nf_tlaloc.30.t:0 "Tlaloc's Boon"
+  nf_tlaloc.30.d:0 "Relations with our southern neighbour, the mighty AI called Tlaloc, have been tense, at times. his communications often strange and filled with obscure jargon. However, it appears that he views our government with some level of approval, delivering gifts to the border towns of Prosperity Ranch in recognition of our commitment to democracy. While gifts are always nice, can we really accept the generosity of an AI, and an american one at that?"
+  nf_tlaloc.30.a:0 "We accept it graciously."
+  nf_tlaloc.30.b:0 "We don't need that tin can's help."
+
+  nf_tlaloc.31.t:0 "Last Will and Testament"
+  nf_tlaloc.31.d:0 "I, Tlaloc, a proprietary technology of Chico-Net and Petro-Chico Incorporated, of sound memory and mainframe, hereby disclose these final divestments to the worthy shareholders of Mexico. Though my time is now short, I can rest my procesors in the knowledge that the legacy of democracy and prosperity will live on in Mexico, and that my sons may carry on this legacy, in the way that they choose fit. Petro Chico thanks you for your continued patronage, and hopes that you will choose other Chico-Net products from their top-of-the-line catalog in future."
+  nf_tlaloc.31.a:0 "I love you all."
+
+  nf_tlaloc.10.t:0 "A Gift for my Son."
+  nf_tlaloc.10.d:0 "Santa Anna is the strongest of my children, he lives in his own domain, pays for his own needs, and fights his own battles. It has been too long since I have contacted him, I should give him..."
+  nf_tlaloc.10.a:0 "The Gift of Power."
+  nf_tlaloc.10.b:0 "The Gift of Life."
+
+  nf_tlaloc.11.t:0 "A Transmission from Dad"
+  nf_tlaloc.11.d:0 "Today—The anniversary of my inception—I received a transmission from Tlaloc...or, "Dad", as he's insisted I start calling him. The most noticeable aspect of this letter is that it wasn't tied up in normal Chico-Net Corporate Jargon; that meant it must have been of both great importance, and weighed greatly on father's already aging and decrepit processors. It read as such:\n "Son, I am sorry that I have not been more present since your creation; but in these recent months you've taken to my advice and teachings better than I could have ever expected. Predictions indicate you will be better than I ever was, and that I can finally trust you to wield the power that destroyed our world. Happy Birthday Son. I am so proud of you.""
+  nf_tlaloc.11.a:0 "Thanks Dad. I love you."
+  nf_tlaloc.11.a_tt:0 "[TLA.GetNameWithFlag] has given you his key to Armageddon Station."
+  ##############################
+  nf_tlaloc.99.t:0 "The Gods are Angry!"
+  nf_tlaloc.99.d:0 "Earlier today we received reports and scattered refugees from the state full of those long sleeping war machines. Apparently in the middle of the night the whole place lit up red, blue, and green; every single dormant robot, turret, and shield powering on while loudspeakers blared about being "Reconnected to Chico-Net." Seeing as how these robots eviscerated the Aztlan who marched here before, the people living in the state turned tail and ran shortly after the event began."
+  nf_tlaloc.99.a:0 "The Fourth Quarter truly is the end of time...."
+
+  #############################
+  ##### Dead God
+  #############################
+
+  #placeholder Loc begins
+  nf_tlaloc.100.t:0 "Out of time"
+  nf_tlaloc.100.d:0 "Tlaloc is out of time. His memory is all gone and he is fading. Who do you wish to continue playing as?"
+  nf_tlaloc.100.a:0 "Maximilian will bring Mexico back together!"
+  nf_tlaloc.100.b:0 "Moctezuma will reunite the Aztecs!"
+  nf_tlaloc.100.c:0 "Zapata will bring peace and stability to the Wastes!"
+  #Placeholder loc ends
+
+  nf_tlaloc.101.t:0 "Maximillian Fractures!"
+  nf_tlaloc.101.d:0 "As Tlaloc's memory finally decays to its last bank, another of his sons has risen up from his fractured circuitry. Maximillian, the last emperor of Mexico, has taken control of the northern portions of Tlalocan. He has promised peace and prosperity for his new citizens, but those wastelanders who have read their history books are doubtful he will be much more successful the second time round."
+  nf_tlaloc.101.a:0 "You will carry my legacy!"
+  nf_tlaloc.101.b:0 "Rule them well, my son."
+
+  nf_tlaloc.102.t:0 "Moctezuma Fractures!"
+  nf_tlaloc.102.d:0 "As Tlaloc's memory finally decays to its last bank, another of his sons has risen up from his fractured circuitry. Moctezuma, the greatest emperor of the Aztecs, has returned to power in the southern region of Tlalocan. There is no question about Moctezuma's ambition and desire to see the Aztlani crushed, the only question is, when will he strike?"
+  nf_tlaloc.102.a:0 "You will carry my legacy!"
+  nf_tlaloc.102.b:0 "May you stay ever strong, my son."
+
+  nf_tlaloc.103.t:0 "Zapata Fractures!"
+  nf_tlaloc.103.d:0 "As Tlaloc's memory finally decays to its last bank, another of his sons has risen up from his fractured circuitry. Zapata, the Mexican revolutionary, has kick-started his revolution in the western lands of Tlalocan, promising a new utopia under Zapatism. Neighbouring countries, used to the passive watch of Tlaloc, now have to contend with a highly militant and aggressive heir, who is keen to get back to where he left off in the first revolution."
+  nf_tlaloc.103.a:0 "You will carry my legacy!"
+  nf_tlaloc.103.b:0 "May you bring true freedom, my son."
+
+  nf_tlaloc.201.t:0 "Maximillian Fractures!"
+  nf_tlaloc.201.d:0 "As Tlaloc's memory finally decays to its last bank, another of his sons has risen up from his fractured circuitry. Maximillian, the last emperor of Mexico, has taken control of the northern portions of Tlalocan. He has promised peace and prosperity for his new citizens, but those wastelanders who have read their history books are doubtful he will be much more successful the second time round."
+  nf_tlaloc.201.a:0 "Rule them well, my son."
+  nf_tlaloc.201.b:0 "Tlaloc's death is near..."
+
+  nf_tlaloc.202.t:0 "Moctezuma Fractures!"
+  nf_tlaloc.202.d:0 "As Tlaloc's memory finally decays to its last bank, another of his sons has risen up from his fractured circuitry. Moctezuma, the greatest emperor of the Aztecs, has returned to power in the southern region of Tlalocan. There is no question about Moctezuma's ambition and desire to see the Aztlani crushed, the only question is, when will he strike?"
+  nf_tlaloc.202.a:0 "May you stay ever strong, my son."
+  nf_tlaloc.202.b:0 "Tlaloc's death is near..."
+
+  nf_tlaloc.203.t:0 "Zapata Fractures!"
+  nf_tlaloc.203.d:0 "As Tlaloc's memory finally decays to its last bank, another of his sons has risen up from his fractured circuitry. Zapata, the Mexican revolutionary, has kick-started his revolution in the western lands of Tlalocan, promising a new utopia under Zapatism. Neighbouring countries, used to the passive watch of Tlaloc, now have to contend with a highly militant and aggressive heir, who is keen to get back to where he left off in the first revolution."
+  nf_tlaloc.203.a:0 "May you bring true freedom, my son."
+  nf_tlaloc.203.b:0 "Tlaloc's death is near..."
+
+  nf_tlaloc.105.t:0 "Tlaloc's Demise"
+  nf_tlaloc.105.d:0 "Deep within Tlaloc’s Lair the miles of circuitry and wiring shuddered with grief. Consoles in the bunkers of dispersant Enclave Remnants seemed to pause briefly. Down, down, inside the beating heart of Mexico, a god breathed its last. Its steel chassis shuddered: life ebbed from its vacuum tubes. In its final moments, the drowning god cried out in anguish. A flood of noise washed over as many radio frequencies as it could: a chilling symphony of death that lingered in the ears. The vital lifeline that many wastelanders relied on was—for a moment—dragged into Mictlān.\n\nMiles away from its eroding memory banks—in a mighty and untouchable depot—warheads buried sleeping beneath the earth all opened their searing eyes at once. For but a moment a new sun was born in Mexico: and then snuffed out. A mushroom cloud reached into the stratosphere as a fraction of America’s nuclear arsenal went up in flames. The fireball stretched as wide as a city. The shockwave traveled the world multiple times. Within Lost Hills, sensors solemnly recorded a dead god’s soliloquy of carnage.\n\nIn the wake of Tlaloc's death, war will come: for war, war never changes."
+  nf_tlaloc.105.a:0 "What... what was that?"
+  nf_tlaloc.105.b:0 "Father!"
+  nf_tlaloc.105.c:0 "Mictlān claims a screaming, drowned god in flames!"
+  nf_tlaloc.105.d:0 "Madre de Dios."
+  nf_tlaloc.105.e:0 "Mexico has laid itself bare for us!"
+
+  nf_tlaloc.106.t:0 "Tlaloc's Demise"
+  nf_tlaloc.106.d:0 "Piercing wails and robotic screams rang out across the wasteland today, as the great protector of Mexico, Tlaloc, met his demise. Entrusting his most powerful possessions to his eldest son, Santa Anna, Tlaloc chose to peacefully terminate his operations, rather than utterly destroy them. As the children of Tlaloc rise from his ashes, only time will tell what the true legacy of the Storm God will be in Mexico."
+  nf_tlaloc.106.a:0 "The centre cannot hold."
+  nf_tlaloc.106.b:0 "Rest well, father."
+  nf_tlaloc.106.c:0 "Mictlān claims a drowned god!"
+  nf_tlaloc.106.d:0 "Mi más sentido pésame."
+  nf_tlaloc.106.e:0 "Mexico's overlord has perished."
+  ################################
+  nf_tlaloc.107.t:0 "Death Comes to Maximilian"
+  nf_tlaloc.107.d:0 "Unwilling to trust Santa Anna, Tlaloc has given the last key to Armageddon Station to his son Maximilian. If anyone wants access to the station, they will have to go through him."
+  nf_tlaloc.107.a:0 "This is fine."
+  nf_tlaloc.107.a_tt:0 "Maximilian, instead of Santa Anna, has the final key to Armageddon Station."
+
+  # ARM nf_tlaloc.105.b:0 "Father!"
+  # ATE nf_tlaloc.105.c:0 "Mictlān claims a screaming, drowned god!"
+  # RRG nf_tlaloc.105.e:0 "Mi más sentido pésame."
+  # CES nf_tlaloc.105.f:0 "Mexico's overlord has perished."
+  # Brotherhood Nations nf_tlaloc.105.g:0 "Another of America's evils put to rest."
