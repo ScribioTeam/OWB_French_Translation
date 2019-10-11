@@ -127,6 +127,10 @@
   melee_equipment_4_desc:0 "Lighter and stronger weaponry, such as power fists, increases the speed of our troops during combat and lessen the fatigue felt during intense close quarter combat, while full, reinforced metal armour will protect them in battle. Giving our troops access to defensive grenades, and improving our ballistic fists with 12 gauge slugs as well as recoil mechanism, let us attack from further afar, even staying in cover during dangerous engagements."
  # spec ops Armour
 
+  spec_ops_equipment:0 "Special Forces Equipment"
+  spec_ops_equipment_short:0 "Spec Ops Eq."
+  spec_ops_equipment_desc:0 ""
+
   spec_ops_equipment_1:0 "Tribal Scout Kit"
   spec_ops_equipment_1_short:0 "Scout Kit"
   spec_ops_equipment_1_desc:0 "Leather armour, along with a rudimentary knapsack, skinning knife, and basic survival equipment make up the standard kit of a tribal scouting party."
@@ -239,7 +243,7 @@
   flamer_demolitions_equipment_4_desc:0 "The Heavy incinerator does what the incinerator does, but heavier. Bulkier and slightly harder to handle does this weapon allow for much higher operational pressures, resulting in more range and increased devastation."
   explosive_demolitions_equipment_2:0 "Fragmentation Grenade"
   explosive_demolitions_equipment_2_short:0 "Frag Grenade"
-  explosive_demolitions_equipment_2_desc:0 "A mix of offensive and defensive grenades, along with demolition charges, let our sapper be more effective in their intended demolition role. Fragmenting explosives and concussive blasts require better protection, so our engineers are equipped with reinforced helmets and steel armour plating, as well as receiving physical training to improve their throwing range."
+  explosive_demolitions_equipment_2_desc:0 "A mix of offensive and defensive grenades, along with demolition charges, lets our sapper be more effective in their intended demolition role. Fragmenting explosives and concussive blasts require better protection, so our engineers are equipped with reinforced helmets and steel armour plating, as well as receiving physical training to improve their throwing range."
   explosive_demolitions_equipment_3:0 "Grenade Rifle"
   explosive_demolitions_equipment_3_short:0 "Grenade Rifle"
   explosive_demolitions_equipment_3_desc:0 "A fixed shell casing containing a propellant, and explosive charge with an impact fuse, allows our sappers to shoot grenades with a considerably increased range. This enables letting them use indirect fire techniques as well, to rain explosives payloads upon fortified positions, or use high-calibre buckshot round to sweep an entire area with steel bearings."
