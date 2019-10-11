@@ -108,7 +108,7 @@ l_french:
   ## Vault City (ids 60 to 69)
   # 60: Generic
   downfall.60.t: "The Fall of Vault City"
-  downfall.60.d: "TODO"
+  downfall.60.d: "Bitter fighting over Vault City is starting to cease. [Root.GetNameDef] are starting to clean up what's left of Vault City, while the residence are unsure of what to expect from they're new overlords. Who would have thought such a city could even be taken?"
   downfall.60.a: "At least we evacuated our tech."
   downfall.60.b: "Let us hope the G.E.C.K. is not lost."
   downfall.60.c: "They can't stand much more..."
@@ -121,7 +121,7 @@ l_french:
   ## New Reno (ids 70 to 79)
   # 70: Generic
   downfall.70.t: "The Fall of New Reno"
-  downfall.70.d: "TODO"
+  downfall.70.d: "The chaos that was the battle of New Reno is coming to a close. [Root.GetNameDef] is starting to enforce order onto the city. Fighting still continues throughout the city, its believed the city will be back to normal in a few days."
   downfall.70.a: "Think of all the Jet we just lost..."
   downfall.70.b: "Reno is going to be drastically poorer now..."
   downfall.70.c: "We heard stories, but this place is worse than any of them!"
@@ -146,9 +146,13 @@ l_french:
 
   ## Capitol Hill (ids 90 to 99)
   # 90: Generic
-  downfall.90.t: "The Fall of Capitol Hill"
-  downfall.90.d: "TODO"
-  downfall.90.a: ""
+  downfall.90.t: "Capitol Hill has Fallen" #Title
+  downfall.90.d: "After fierce resistance, Capitol Hill has fallen to [Root.GetNameDef]. Brotherhood forces staunchly defended there position until the last shots were fired. Cowards were shot when they fled from their positions, but with ammunition supplies dwindling, the order was given at dusk to hastily withdraw from their positions, surrendering it to [Root.GetNameDef]." #Description
+  downfall.90.a: "We shall repay the blood tenfold!" #Owner
+  downfall.90.b: "We must support our friends in their time of need." #OwnerFaction
+  downfall.90.c: "Now that the Capitol has fallen, the war is ours!" #Taker
+  downfall.90.e: "Victory is within our grasp!" #TakerFaction
+  downfall.90.f: "Lets see how these new owners behave from now on." #Unaligned
   # 91: To ISN or TCA
   # 92: To TRL
   # 93: To Generic Brotherhood
@@ -163,6 +167,13 @@ l_french:
 
   ## Hidden Valley (ids 120 to 129)
   # 120: Generic
+  downfall.120.t: "The Siege of Hidden Valley had ended." #Title
+  downfall.120.d: "After days of siege, relentless fighting, Hidden Valley has fallen. [Root.GetNameDef] was able to take Hidden Valley though pockets of resistance still exisit. The Mojave chapter shall be remembered in history books for its defense of Hidden Valley, though fruitless in the end they stood agianst giants. Fighting to the last man, its unsure if this victory was truely a victory for [Root.GetNameDef]. Was it worth the price that was paid in blood for this land." #Description
+  downfall.120.a: "Brothers & Sisters, fight on! Ad Victoriam!" #Owner
+  downfall.120.b: "We must not be outshone by the Brotherhoods heroic deeds." #OwnerFaction
+  downfall.120.c: "With Hidden Valley taken, they shall soon fall." #Taker
+  downfall.120.e: "Soon this war must end." #TakerFaction
+  downfall.120.f: "Wait, what? Must of been a bloodbath." #Unaligned
   # 121: To NCR
   # 122: To CES
   # 123: To VEG
@@ -170,6 +181,13 @@ l_french:
 
   ## Bitter Springs (ids 130 to 139)
   # 130: Generic
+  downfall.130.t: "Another Massacre at Bitter Springs" #Title
+  downfall.130.d: "Fighting is now coming to an end in Bitter Springs, [Root.GetNameDef] are now mopping up resistance. Rumours of another massacre at Bitter Springs is already spreading throughout the wasteland, though confirmed reports are still scattered." #Description
+  downfall.130.a: "We shall avenge our fallen!" #Owner
+  downfall.130.b: "How dare they kill civilians!" #OwnerFaction
+  downfall.130.c: "Clean up what's left of this mess." #Taker
+  downfall.130.e: "We all know the rumours are lies." #TakerFaction
+  downfall.130.f: "These rumours are concerning." #Unaligned
   # 131: To NCR
   # 132: To CES
   # 133: To WHT
@@ -177,6 +195,13 @@ l_french:
 
   ## Gloria (ids 140 to 149)
   # 140: Generic
+  downfall.140.t: "A Glorious Fight" #Title
+  downfall.140.d: "After hours of street to street fighting, [Root.GetNameDef] has finally taken the majority of Gloria. With heroes on both sides fighting until the bitter end & with the shear ferocity of fighting glory must be taken. Though resistance still continue throughout the city, the main forces of the Republic has withdrawn. With the city in ruins, one has to ask what is next for Gloria?" #Description
+  downfall.140.a: "The Republic is more then a city, ¡Por la República, por México!" #Owner
+  downfall.140.b: "We must liberate Gloria, and fight tyranny" #OwnerFaction
+  downfall.140.c: "This is a Glorious day!" #Taker
+  downfall.140.e: "We can't let [Root.GetNameDef] take all the glory!" #TakerFaction
+  downfall.140.f: "Is all this war and death really glorious?" #Unaligned
   # 141: To CES
   # 142: To TAA
   # 143: To ARM

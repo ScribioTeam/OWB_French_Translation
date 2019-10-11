@@ -318,21 +318,21 @@ l_french:
 ##############
 # State Changes
 ##############
-rrg_rename_777:0 "Rename [777.GetName] to Túxpam de Rodríguez Cano"
-rrg_rename_815:0 "Rename [815.GetName]"
-rrg_rename_816:0 "Rename [816.GetName]"
-rrg_rename_818:0 "Rename [818.GetName]"
-rrg_rename_819:0 "Rename [819.GetName]"
-rrg_rename_820:0 "Rename [820.GetName]"
-rrg_rename_822:0 "Rename [822.GetName]"
-rrg_rename_823:0 "Rename [823.GetName]"
-rrg_rename_824:0 "Rename [824.GetName]"
-rrg_rename_826:0 "Rename [826.GetName]"
-rrg_rename_864:0 "Rename [864.GetName]"
-rrg_rename_865:0 "Rename [865.GetName]"
+  rrg_rename_777:0 "Rename [777.GetName] to Túxpam de Rodríguez Cano"
+  rrg_rename_815:0 "Rename [815.GetName] to Apizaco City"
+  rrg_rename_816:0 "Rename [816.GetName] to Xalapa City"
+  rrg_rename_818:0 "Rename [818.GetName] to Acuraio de Veracruz City"
+  rrg_rename_819:0 "Rename [819.GetName] to Coatzacoalcos City"
+  rrg_rename_820:0 "Rename [820.GetName] to Cárdenas City"
+  rrg_rename_822:0 "Rename [822.GetName] to Carmen City"
+  rrg_rename_823:0 "Rename [823.GetName] to Campeche City"
+  rrg_rename_824:0 "Rename [824.GetName] to Chetumal City"
+  rrg_rename_826:0 "Rename [826.GetName] to Belize City"
+  rrg_rename_864:0 "Rename [864.GetName] to Mérida City"
+  rrg_rename_865:0 "Rename [865.GetName] to Carmen City"
 #
 #
-RRG_rebuilding_mexico:0 "Rebuilding Mexico
-RRG_ranmed_state:0 "Has not renamed this state"
+  RRG_rebuilding_mexico:0 "Rebuilding Mexico"
+  rrg_renamed_state:0 "Has not renamed this state"
   rrg_mexico_city: "Restore Mexico City!"
   rrg_mexico_city_desc: "Si Podemos!"
