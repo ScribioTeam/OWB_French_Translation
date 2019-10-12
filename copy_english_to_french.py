@@ -13,7 +13,7 @@ def copy_english_to_french(directory):
         if filename.replace('english', 'french') not in os.listdir(directory):
             with open(os.path.join(directory, filename), 'r', encoding='utf8') as f:
                 lines = f.readlines()
-            lines[0] = 'l_french:\n'
+            lines[0] = lines[0].replace('english', 'french')
             with open(os.path.join(directory, filename.replace('english', 'french')), 'w', encoding='utf8') as f:
                 f.write(''.join(lines))
             print(f'{filename} copied into French')
