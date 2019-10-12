@@ -8,4 +8,4 @@
  bunker_desc:0 "Ce batiment inflige une pénalité d'attaque de $VALUE|+%0$ pour chaque niveau sur l'attaquant au combat. Attaquer de plusieurs directions va reduire cet effet."
  bunker2:0 "Bunker"
  bunker2_plural:0 "Bunkers"
- bunker2_desc:0 "Ce batiment inflige une pénalité d'attaque de §VALUE|+%0§! pour chaque niveau sur l'attaquant au combat. Ce batiment fournit est deux fois plus efficace qu'un avant-poste."
+ bunker2_desc:0 "Ce batiment inflige une pénalité d'attaque de $VALUE|+%0$ pour chaque niveau sur l'attaquant au combat. Ce batiment fournit est deux fois plus efficace qu'un avant-poste."
