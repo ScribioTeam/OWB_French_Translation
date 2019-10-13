@@ -49,11 +49,11 @@
  infantry_weapons_tech_category_research:0 "Temps de recherche des armes d'Infantrie"
  infantry_tech_category_research:0 "Temps de recherche des technologies d'Infantrie"
  energy_weaponry_tech_category_research:0 "Temps de recherche des armes énergétiques"
- ballistic_weaponry_tech_research:1 "Temps de recherche des armes balistiques"
- melee_weaponry_tech_research:1 "Temps de recherche des armes de mêlée"
- plasma_weaponry_tech_research:1 "Temps de recherche des armes à plasma"
- tesla_weaponry_tech_research:1 "Temps de recherche des armes Tesla"
- gauss_weaponry_tech_research:1 "Temps de recherche des armes de Gauss"
+ ballistic_weaponry_tech_category_research:1 "Temps de recherche des armes balistiques"
+ melee_weaponry_tech_category_research:1 "Temps de recherche des armes de mêlée"
+ plasma_weaponry_tech_category_research:1 "Temps de recherche des armes à plasma"
+ tesla_weaponry_tech_category_research:1 "Temps de recherche des armes Tesla"
+ gauss_weaponry_tech_category_research:1 "Temps de recherche des armes de Gauss"
 
  # support
  support_tech_category_research:0 "Temps de recherche du Soutien"
