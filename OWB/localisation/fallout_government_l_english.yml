@@ -1,39 +1,39 @@
 ﻿l_english:
 
-  ruler: "Ruler"
-  ruler_noun: "Autocracy"
-  ruler_desc: "Rule of One"
+  ruler:0 "Ruler"
+  ruler_noun:0 "Autocracy"
+  ruler_desc:0 "Rule of One"
 
-  people: "People"
-  people_noun: "Democracy"
-  people_desc: "Rule of Many"
+  people:0 "People"
+  people_noun:0 "Democracy"
+  people_desc:0 "Rule of Many"
 
-  intellectuals: "Intellectuals"
-  intellectuals_noun: "Technocracy"
-  intellectuals_desc: "Rule of Progress"
+  intellectuals:0 "Intellectuals"
+  intellectuals_noun:0 "Technocracy"
+  intellectuals_desc:0 "Rule of Progress"
 
-  elites: "Elites"
-  elites_noun: "Oligarchy"
-  elites_desc: "Rule of Few"
+  elites:0 "Elites"
+  elites_noun:0 "Oligarchy"
+  elites_desc:0 "Rule of Few"
 
-  BRK_ruler_party: "Graven's Rule"
-  BRK_elites_party: "Ragnar's Power"
-  BRK_intellectuals_party: "Free Thinkers"
-  BRK_people_party: "Soft Hearts"
+  BRK_ruler_party:0 "Graven's Rule"
+  BRK_elites_party:0 "Ragnar's Power"
+  BRK_intellectuals_party:0 "Free Thinkers"
+  BRK_people_party:0 "Soft Hearts"
 
-  NCR_ruler_party: "Boneyard Separatists"
-  NCR_elites_party: "The Barons"
-  NCR_intellectuals_party: "The Old World Party"
-  NCR_people_party: "NCR Congress"
+  NCR_ruler_party:0 "Boneyard Separatists"
+  NCR_elites_party:0 "The Barons"
+  NCR_intellectuals_party:0 "The Old World Party"
+  NCR_people_party:0 "NCR Congress"
 
-  NEW_ruler_party: "The Mordinos"
-  NEW_elites_party: "The Salvatores"
-  NEW_intellectuals_party: "The Wrights"
-  NEW_people_party: "The Bishops"
-  NEW_enclave_party_long: "The Enclave"
-  NEW_enclave_party: "The Enclave"
-  NEW_thradd_party_long: "Warlord Thradd"
-  NEW_thradd_party: "Warlord Thradd"
+  NEW_ruler_party:0 "The Mordinos"
+  NEW_elites_party:0 "The Salvatores"
+  NEW_intellectuals_party:0 "The Wrights"
+  NEW_people_party:0 "The Bishops"
+  NEW_enclave_party_long:0 "The Enclave"
+  NEW_enclave_party:0 "The Enclave"
+  NEW_thradd_party_long:0 "Warlord Thradd"
+  NEW_thradd_party:0 "Warlord Thradd"
 
   # Chichen Itza #
   ITZ_intellectuals_party:0 "The Ti'huun"
@@ -59,3 +59,13 @@
   # AoM
 
   ARM_ruler_party:0 "The Caudillo"
+
+  # RRG
+  RRG_people_party:0 "Los Constitucionalistos"
+  RRG_people_party_long:0 "Los Constitucionalistos"
+  RRG_elites_party:0 "TIC"
+  RRG_elites_party_long:0 "The Texan Interests Coalition"
+  RRG_intellectuals_party:0 "La Iniciativa de Progreso"
+  RRG_intellectuals_party_long:0 "La Iniciativa"
+  RRG_ruler_party:0 "El Movimiento"
+  RRG_ruler_party_long:0 "Los Movimiento de Regeneración Arquitectos"

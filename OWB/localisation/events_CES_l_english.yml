@@ -3,12 +3,28 @@
   nf_legion.1.d: "An envoy from Caesar's Legion has visited our tribal grounds and offered us a deal. Pledge allegiance to Caesar's Legion and abandon the old ways. Refuse, and feel the full might of the legion."
   nf_legion.1.a: "Of course, we accept"
   nf_legion.1.b: "Never!"
+#Placeholder localization begins
+  nf_legion.1000.t: "The White Legs Accept"
+  nf_legion.1000.d: "The White Legs have responded to our petition to them, they have agreed to assist us in our fight against the New Canaanites in return for a alliance and acceptance into the Legion."
+  nf_legion.1000.a: "Just as planned."
 
+  nf_legion.1001.t: "The White Legs Refuse"
+  nf_legion.1001.d: "Those fools! They refuse our petition to bring them into the Legion for assistance in destroying the New Canaanites and their leader Joshua! They will pay for this."
+  nf_legion.1001.a: "The arrogance!"
+#Placeholder localization ends
   nf_legion.2.t: "The Eighties Petition"
   nf_legion.2.d: "An envoy from Caesar's Legion has visited our tribal grounds and offered us a deal. Pledge allegiance to Caesar's Legion and abandon the old ways. Refuse, and feel the full might of the legion."
   nf_legion.2.a: "Of course, we accept"
   nf_legion.2.b: "Never!"
+#Placeholder localization begins
+  nf_legion.2000.t: "The Eighties Accept"
+  nf_legion.2000.d: "The Eighties have responded to our petition to them, they have agreed to assist us in our fight against the New Canaanites in return for a alliance and acceptance into the Legion."
+  nf_legion.2000.a: "Good they will do fine work."
 
+  nf_legion.2001.t: "The Eighties Refuse"
+  nf_legion.2001.d: "Those fools! They refuse our petition to bring them into the Legion for assistance in destroying the New Canaanites and their leader Joshua! They will pay for this."
+  nf_legion.2001.a: "The arrogance!"
+#Placeholder localization ends
   nf_legion.5.t: "The Death Of Caesar"
   nf_legion.5.d: "For years, Caesar has been subject to a malignant cancer - threatening his reign over the Legion. Today, on the eve of his Legion's finest hour, he has withdrawn to his tent, and death will surely claim him. In his final hours, he must name a successor."
   nf_legion.5.a: "He names his Legate"
