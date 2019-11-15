@@ -4,10 +4,24 @@
  nf_legion.1.a: "Bien sûr, nous acceptons"
  nf_legion.1.b: "Jamais!"
  
- nf_legion.2.t: "La Pétition des 80"
+ nf_legion.1000.t:0 "Les White Legs acceptent"
+ nf_legion.1000.d:0 "Les White Legs ont répondu à notre requête, ils ont accepté de nous aider dans notre combat contre les New Cananéens en échange d'une alliance et d'une acceptation dans la Légion."
+ nf_legion.1000.a:0 "Exactement comme prévu."
+ nf_legion.1001.t:0 "Les White Legs refusent"
+ nf_legion.1001.d:0 "Ces imbéciles! Ils refusent notre demande de les faire entrer dans la Légion pour les aider à détruire les New Cananéens et leur chef Joshua ! Ils vont payer pour cela."
+ nf_legion.1001.a:0 "L'arrogance !"
+ 
+ nf_legion.2.t: "La Pétition des Eighties"
  nf_legion.2.d: "Un envoyé de la Légion de César a visité nos terres tribales et nous a proposé un accord. Prêter allégance à la Légion de César et abandonner les vieilles manières. Refuser, et ressentir la pleine puissance de la Légion."
  nf_legion.2.a: "Bien sûr, nous acceptons"
  nf_legion.2.b: "Jamais!"
+
+ nf_legion.2000.t:0 "Les Eighties acceptent"
+ nf_legion.2000.d:0 "Les Eighties ont répondu à notre requête, elles ont accepté de nous aider dans notre combat contre les New Cananéens, en échange d'une alliance et d'une acceptation dans la Légion."
+ nf_legion.2000.a:0 "Bien ils vont faire du bon travail."
+ nf_legion.2001.t:0 "Les Eighties refusent"
+ nf_legion.2001.d:0 "Ces imbéciles! Ils refusent notre demande de les faire entrer dans la Légion pour les aider à détruire les New Cananéens et leur chef Joshua ! Ils vont payer pour cela."
+ nf_legion.2001.a:0 "L'arrogance !"
 
  nf_legion.5.t: "La mort de César"
  nf_legion.5.d: "Pendant des années, César a été victime d'un cancer malin - menaçant son règne sur la Légion. Aujourd'hui, à la veille de la plus belle heure de sa Légion, il s'est retiré dans sa tente, et la mort le réclamera sûrement. Dans ses dernières heures, il doit nommer un successeur."
