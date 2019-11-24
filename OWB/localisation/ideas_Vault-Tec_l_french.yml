@@ -1,10 +1,10 @@
 ﻿l_french:
  #Decisions
-  vault_13_geck: "Damaged GECK"
-  vault_15_heritage: "Vault 15 Heritage Site"
-  vault_rebuilding: "Renovating a Vault"
-  vault_21_economy: "Exploiting Vault 21"
-  vault_22_research: "Spore Carrier Research"
-  vault_70_data: "Vault 70 Cultural Data"
-  vault_29_diana: "Diana's Guidance"
-  vault_29_ZAX: "ZAX Analytics"
+ vault_13_geck:0 "GECK endommagé"
+ vault_15_heritage:15 "Site d'héritage de l'Abri 15"
+ vault_rebuilding:0 "Rénovation d'un Abri"
+ vault_21_economy:21 "Exploiter l'Abri 21"
+ vault_22_research:0 "Recherche de porteurs de spores"
+ vault_70_data:70 "Banque de Données culturelles de l'Abri 70"
+ vault_29_diana:0 "Orientation de Diana"
+ vault_29_ZAX:0 "ZAX Analytics"

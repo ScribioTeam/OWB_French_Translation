@@ -1,4 +1,4 @@
 ﻿l_french:
-  TLALOC_MEMORY_CAPACITY_TT: "§YAvailable Memory§!"
-  TLALOC_MEMORY_CAPACITY_TT_DELAYED: "§YTlaloc§! currently has [?current_databanks|0] of [?max_databanks|0] databanks available, but is losing [?databank_loss_rate] databanks to his children every day. Tlaloc will cease functioning when he no longer has any databanks left. At his current ratio, he is suffering from §R[?memory_stability_bonus|%]§! stability."
-  tla_memory_leaks_malus:0 "Decaying Memory"
+ TLALOC_MEMORY_CAPACITY_TT:0 "§YMémoire Disponible§!"
+ TLALOC_MEMORY_CAPACITY_TT_DELAYED:0 "§YTlaloc§! a actuellement [?current_databanks|0] sur [?max_databanks|0] banques de données disponibles, mais perd [?databank_loss_rate] banques de données par jour en faveur de ses enfants. Tlaloc cessera de fonctionner lorsqu'il n'aura plus aucune banque de données. À son ratio actuel, il souffre de §R[?memory_stability_bonus|%]§! de stabilité."
+ tla_memory_leaks_malus:0 "Mémoire en décomposition"

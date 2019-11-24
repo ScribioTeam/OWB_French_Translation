@@ -1,18 +1,18 @@
 ﻿l_french:
-  flower_war_peacetime_countdown: "Ceasefire on the Border"
-  flower_war_peacetime_countdown_desc: "After the most recent series of large-scale border clashes, [ROOT.flw_enemy] and ourselves have both withdrawn from contested border regions somewhat, to avoid provoking a full-scale war, and to ensure we will come out victorious next time. The fighting will resume soon enough, there is no doubt!"
-  flower_war_gotime_countdown: "Tensions on the Border!"
-  flower_war_gotime_countdown_desc: "Minor skirmishes on the border have recently begun escalating into small-scale combat. A border war seems bound to break out on the border with [ROOT.flw_enemy] at any moment!"
+ flower_war_peacetime_countdown:0 "Cessez-le-feu à la frontière"
+ flower_war_peacetime_countdown_desc:0 "Après la dernière série d'affrontements frontaliers à grande échelle, [ROOT.flw_enemy] et nous-mêmes nous sommes quelque peu retirés des régions frontalières contestées, pour éviter de provoquer une guerre à grande échelle et pour nous assurer de remporter la victoire la prochaine fois. Les combats reprendront bientôt, il n'y a pas de doute !"
+ flower_war_gotime_countdown:0 "Tensions à la frontière!"
+ flower_war_gotime_countdown_desc:0 "Des escarmouches mineures à la frontière ont récemment commencé à dégénérer en combats à petite échelle. Une guerre frontalière semble devoir éclater à la frontière avec [ROOT.flw_enemy] à tout moment !"
 
   # Categories
-  flower_wars: "The Flower Wars"
-  flower_wars_desc: "For many decades, border clashes have raged between ourselved and [ROOT.flw_enemy]. The clashes revolve around three main states: Mexico City, He'la' Uuchben Ts'oon, and La Tumba Compartida. Owning these states gives us important stability bonuses, and also gives our enemy important debuffs. The border is contested every three or four months, with inititive flipping backwards and forward between ourselves and [ROOT.flw_enemy]. If we fail to ignite a border war, as our hardliners demand, we will face harsh consequences..."
+ flower_wars:0 "Les Guerres des Fleurs"
+ flower_wars_desc:0 "Pendant de nombreuses décennies, des affrontements aux frontières ont fait rage entre nous et [ROOT.flw_enemy]. Les affrontements se déroulent autour de trois États principaux : Mexico, He'la 'Uuchben Ts'oon et La Tumba Compartida. La possession de ces états nous donne d'importants bonus de stabilité et donne également à notre ennemi d'importantes faiblesses. La frontière est contestée tous les trois ou quatre mois, avec un basculement initial entre nous et [ROOT.flw_enemy]. Si nous ne parvenons pas à déclencher une guerre des frontières, comme le demande notre dur ligne, nous ferons face à de lourdes conséquences ..."
 
   # Tooltips
-  has_flw_inititive: "We have the inititive in the Flower Wars"
-  flw_cancelled: "The §YFlower War§! has been ceased due to war, diplomacy or other events"
-  flw_following_happen: "§RThe following will occur when this mission completes:§! \n"
+ has_flw_inititive:0 "Nous avons l'initiative dans les Guerres des Fleurs"
+ flw_cancelled:0 "La §YGuerre des Fleurs§! a été arrêté en raison de la guerre, de la diplomatie ou d'autres événements"
+ flw_following_happen:0 "§RLes faits suivants se produiront à la fin de cette mission : §! \n"
 
   # Scripted loc keys
-  flw_ate_name: "[ATE.GetNameDef]"
-  flw_itz_name: "[ITZ.GetNameDef]"
+ flw_ate_name:0 "[ATE.GetNameDef]"
+ flw_itz_name:0 "[ITZ.GetNameDef]"

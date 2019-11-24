@@ -1,13 +1,13 @@
 ﻿l_french:
   # GUI:
-  FALLOUT_TOOLBAR_DROP_DOWN_BUTTON_TT: "§YMiscellaneous Tabs§!\nClick to show or hide the drop down menu for the other tabs."
-  FALLOUT_TOOLBAR_DROP_DOWN_BUTTON_TT_DELAYED: "[This.GetToolbarDropDownButtonTooltipDelayed]"
+ FALLOUT_TOOLBAR_DROP_DOWN_BUTTON_TT:0 "§YNouveaux onglets§!\nCliquez pour afficher ou masquer le menu déroulant des autres onglets."
+ FALLOUT_TOOLBAR_DROP_DOWN_BUTTON_TT_DELAYED:0 "[This.GetToolbarDropDownButtonTooltipDelayed]"
   
-  FALLOUT_TOOLBAR_TAB_BUTTON_TT: "[This.GetToolbarTabButtonTooltip]"
+ FALLOUT_TOOLBAR_TAB_BUTTON_TT:0 "[This.GetToolbarTabButtonTooltip]"
 
   # Scripted Localisation:
-  string_fallout_toolbar_drop_down_button_tt_invalid: "§RWe do not have any other tabs available.§!"
+ string_fallout_toolbar_drop_down_button_tt_invalid:0 "§RNous n'avons pas d'autres onglets disponibles.§!"
   
-  string_fallout_tab_button_tt_1: "§Y[This.GetCoringTabTitle]§! \n[This.GetCoringTabDesc]"
-  string_fallout_coring_tab_desc: "See states that aren't your core states and core them, if possible."
-  string_fallout_tlaloc_coring_tab_desc: "See states that aren't connected to Chico-Net and connect them, if possible."
+ string_fallout_tab_button_tt_1:0 "§Y[This.GetCoringTabTitle]§! \n[This.GetCoringTabDesc]"
+ string_fallout_coring_tab_desc:0 "Voir les états qui ne sont pas vos états coeur et les rendre coeur, si possible."
+ string_fallout_tlaloc_coring_tab_desc:0 "Voir les états qui ne sont pas connectés à Chico-Net et les connecter, si possible."
