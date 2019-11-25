@@ -1,21 +1,21 @@
 ﻿l_french:
   # GUI:
-  PUPPET_LEDGER_OPEN_BUTTON_TT: "§GClick§! to open respectively close the §YPuppet Ledger§!."
+ PUPPET_LEDGER_OPEN_BUTTON_TT:0 "§GCliquer§! pour ouvrir respectivement fermer le §YMenu des dépendances§!."
 
-  PUPPET_LEDGER_TITLE: "Puppet Ledger"
-  PUPPET_LEDGER_ENTRY_FLAG_TT: "§GClick§! to centre the map on their capital state (§Y[This.Capital.GetName]§!)."
-  PUPPET_LEDGER_PP_TT: "§YPolitical Power§! \nPower Change: [?political_power_daily|2+] per day. \nBase value: §Y2.00§!"
-  PUPPET_LEDGER_STABILITY_TT: "§YStability§! \nCurrent Stability: [This.GetPuppetLedgerStabilityColor][?stability|2%]§!"
-  PUPPET_LEDGER_WAR_SUPPORT_TT: "§YWar Support§! \nCurrent War Support: [This.GetPuppetLedgerWarSupportColor][?has_war_support|2%]§!"
-  PUPPET_LEDGER_MANPOWER_TT: "§YManpower§! \nFree Manpower: §Y[This.GetPuppetLedgerManpower]§! \nUsed Manpower: §Y[This.GetPuppetLedgerUsedManpower]§! \n   - In Training: §Y[This.GetPuppetLedgerManpowerInTraining]§! \n\nTotal Manpower: §Y[This.GetPuppetLedgerMaxAvailableManpower]§! \n§Y[?modifier@conscription|2%]§! of Eligible Core Population available (§Y[This.GetPuppetLedgerMaxManpower]§!) [This.GetPuppetLedgerConscriptionFactor]"
-  PUPPET_LEDGER_INDUSTRIAL_CAPACITY_TT: "§YFactories§! \nArms Workshops in use: §Y[?military_factories_in_use|0]§!/§Y[?num_of_military_factories|0]§! \nNaval Dockyards in use: §Y[?naval_factories_in_use|0]§!/§Y[?num_of_naval_factories|0]§! \nCivilian Workshops in use: §Y[?civilian_factories_in_use|0]§!/§Y[?num_of_civilian_factories|0]§!"
-  PUPPET_LEDGER_FUEL_TT: "§YEnergy Cells§!"
-  PUPPET_LEDGER_NAVY_TT: "§YNavy§! \nCurrent amount of ships: §Y[?num_of_ships|0]§!"
-  PUPPET_LEDGER_CONSCRIPTION_LAW_TT: "§YConscription Law§! \nThe current conscription law is §Y[This.GetConscriptionLawName]§! which conscripts §Y[This.GetConscriptionLawPercentage]§! of the core population."
+ PUPPET_LEDGER_TITLE:0 "Menu des dépendances"
+ PUPPET_LEDGER_ENTRY_FLAG_TT:0 "§GCliquer§! pour centrer la carte sur leur état capital (§Y[This.Capital.GetName]§!)."
+ PUPPET_LEDGER_PP_TT:0 "§YPouvoir politique§!\nChangement de pouvoir: [? political_power_daily|2+] par jour.\nValeur de base : §Y2.00§!"
+ PUPPET_LEDGER_STABILITY_TT:0 "§YStabilité§!\nStabilité actuelle: [This.GetPuppetLedgerStabilityColor][?stability|2%]§!"
+ PUPPET_LEDGER_WAR_SUPPORT_TT:0 "§YSoutien à la guerre§! \nSoutien actuel à la guerre: [This.GetPuppetLedgerWarSupportColor][?has_war_support|2%]§!"
+ PUPPET_LEDGER_MANPOWER_TT:0 "§YMain d'oeuvre§! \nMain d'oeuvre disponible : §Y[This.GetPuppetLedgerManpower]§! \nMain d'oeuvre utilisée : §Y[This.GetPuppetLedgerUsedManpower]§! \n   - En entraînement : §Y[This.GetPuppetLedgerManpowerInTraining]§! \n\nMain d'oeuvre totale : §Y[This.GetPuppetLedgerMaxAvailableManpower]§! \n§Y[?modifier@conscription|2%]§! de la population des états coeurs éligible (§Y[This.GetPuppetLedgerMaxManpower]§!) [This.GetPuppetLedgerConscriptionFactor]"
+ PUPPET_LEDGER_INDUSTRIAL_CAPACITY_TT:0 "§YUsines§! \nUsines d'armement utilisées : §Y[?military_factories_in_use|0]§!/§Y[?num_of_military_factories|0]§! \nArsenaux maritimes utilisés : §Y[?naval_factories_in_use|0]§!/§Y[?num_of_naval_factories|0]§! \nUsines civiles utilisées : §Y[?civilian_factories_in_use|0]§!/§Y[?num_of_civilian_factories|0]§!"
+ PUPPET_LEDGER_FUEL_TT:0 "§YCellules énergétiques§!"
+ PUPPET_LEDGER_NAVY_TT:0 "§YFlotte§! \nNombre actuel de navires : §Y[?num_of_ships|0]§!"
+ PUPPET_LEDGER_CONSCRIPTION_LAW_TT:0 "§YLoi de Conscription§! \nLa loi de conscription actuelle est §Y[This.GetConscriptionLawName]§! qui conscrit §Y[This.GetConscriptionLawPercentage]§! de la population des états coeurs."
 
   # Scripted Localisation:
-  string_green: "§G"
-  string_yellow: "§Y"
-  string_red: "§R"
+ string_green:0 "§G"
+ string_yellow:0 "§Y"
+ string_red:0 "§R"
 
-  string_puppet_ledger_conscription_factor: "\n\nEffective Total Manpower modified to §Y[?conscription_factor_temp|0%]§!."
+ string_puppet_ledger_conscription_factor:0 "\n\nMain d'oeuvre totale effective modifiée de §Y[?conscription_factor_temp|0%]§!."

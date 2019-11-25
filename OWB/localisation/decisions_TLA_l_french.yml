@@ -1,20 +1,20 @@
 ﻿l_french:
 
-  tla_annex_decrepit: "Regaining our Southern Defenses"
-  tla_decision_annex_decrepit: "Annexing the Decrepit Defenses"
+ tla_annex_decrepit:0 "Retrouver nos défenses du sud"
+ tla_decision_annex_decrepit:0 "Annexer les défenses décrépites"
 
-  tla_favourites:0 "The Sons of Tlaloc"
-  tla_favourites_desc:0 "As Tlaloc's condition deteriorates, he has become more and more susceptible to the suggestions of his A.I. children, for better or for worse."
+ tla_favourites:0 "Les fils de Tlaloc"
+ tla_favourites_desc:0 "Comme l'état de Tlaloc se détériore, il est devenu de plus en plus sensible aux suggestions de ses IA d'enfants, pour le meilleur ou pour le pire."
 
-  tla_decision_zapata_drift:0 "Food Drives for the Poor"
-  tla_decision_zapata:0 "Unionise Employees"
-  tla_decision_max_drift:0 "Company Speeches"
-  tla_decision_max:0 "Grant Noble Promotions"
-  tla_decision_mont_drift:0 "Employee Fitness Training"
-  tla_decision_mont:0 "Military Armament"
+ tla_decision_zapata_drift:0 "Campagnes alimentaires pour les pauvres"
+ tla_decision_zapata:0 "Syndiquer les employés"
+ tla_decision_max_drift:0 "Discours d'entreprise"
+ tla_decision_max:0 "Attribuer des promotions aux nobles"
+ tla_decision_mont_drift:0 "Entraînement physique des employés"
+ tla_decision_mont:0 "Armement militaire"
 
-  tla_decision_mont_patch:0 "Combat Moctezuma's Influence"
+ tla_decision_mont_patch:0 "Combattre l'influence de Moctezuma"
 
-  tla_asset_protection_protocols: "§RASSET PROTECTION PROTOCOLS§!"
-  tla_asset_protection_protocol: "PROTECTION PROTOCOL [From.Capital.GetID]"
-  tla_nuclear_deterrance_protocol: "§RDETERRANCE PROTOCOL [From.Capital.GetID]§!"
+ tla_asset_protection_protocols:0 "§RPROTOCOLES DE PROTECTION DES AVOIRS§!"
+ tla_asset_protection_protocol:0 "PROTOCOLE DE PROTECTION DE [From.Capital.GetID]"
+ tla_nuclear_deterrance_protocol:0 "§RPROTOCOLE DE DÉTERRANCE DE [From.Capital.GetID] §!"
