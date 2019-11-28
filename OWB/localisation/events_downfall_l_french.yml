@@ -15,13 +15,13 @@
   ### Main Capitals
   ## New Canaan (ids 1 to 9)
   # 1: Generic
-  downfall.1.t: "The Fall of New Canaan"
-  downfall.1.d: "After two days of intense fighting, New Canaan has fallen to [Root.GetNameDef].  Mormon troops bravely defended the settlement until the early hours of the morning, falling back to hastily constructed defensive lines on no less than seven occasions. Whilst an order to withdraw was given late last night following a successful enemy encirclement action, the Mormon defenders of the city refused to acknowledge the order and instead took up highly defensible positions in the centre of the settlement. It was only thanks to heavy ordinance that their last stand was ultimately put down. \n\nIn the morning light, it was clear the settlement had been devastated. [Root.GetNameDefCap] spared no quarter in quashing resistance to their rule, and many building lie in smouldering ruins - including the Church of Jesus Christ of Latter-Day Saints, the Mormon's main place of worship."
-  downfall.1.a: "We must avenge the dead!"
-  downfall.1.b: "They died martyrs. That is all anyone can ask for."
-  downfall.1.c: "The city of refuge is in our hands at last!"
-  downfall.1.e: "New Canaan must be on its last legs now."
-  downfall.1.f: "How long can a nation stand without its namesake city?"
+ downfall.1.t:0 "La chute de New Canaan"
+ downfall.1.d:0 "Après deux jours de combats intenses, New Canaan est tombé à [Root.GetNameDef]. Les troupes mormones ont bravement défendu la colonie jusqu'aux premières heures de la matinée, retombant pas moins de sept fois sur des lignes de défense construites à la hâte. Alors qu'un ordre de retrait avait été donné tard hier soir à la suite d'un encerclement de l'ennemi, les défenseurs mormons de la ville ont refusé de reconnaître cet ordre et ont pris des positions très défendables au centre de la colonie. Ce n’est que grâce à une lourde offensive que leur dernier combat a finalement été renversé.\n\nAu petit matin, il était clair que la colonie avait été dévastée. [Root.GetNameDefCap] n'a ménagé aucun effort pour réprimer sa résistance, et de nombreux bâtiments reposent dans des ruines couvantes - y compris l'église de Jésus-Christ des Saints des Derniers Jours, le principal lieu de culte des Mormons."
+ downfall.1.a:0 "Nous devons venger les morts !"
+ downfall.1.b:0 "Ils sont morts en martyrs. C'est tout ce que le monde peut demander."
+ downfall.1.c:0 "La ville de refuge est enfin entre nos mains !"
+ downfall.1.e:0 "New Canaan doit être sur ses dernières jambes maintenant."
+ downfall.1.f:0 "Combien de temps une nation peut-elle rester sans sa ville éponyme ?"
   # 2: To CES
   # 3: To EHT
   # 4: To HEA
@@ -29,13 +29,13 @@
 
   ## Shady Sands (ids 10 to 19)
   # 10: Generic
-  downfall.10.t: "The Fall of Shady Sands"
-  downfall.10.d: "Following three days of skirmishing, the government of the NCR has today confirmed that their beloved capital, Shady Sands, has fallen into the hands of [Root.GetNameDef]. The capture of the city comes despite fierce resistance from both the NCR Rangers and the town's militias, although precise information on the Battle for Shady Sands is very sparce. It appears that the [Root.GetName]'s final assault was spearheaded by a group of bikers who managed to overwhelm the last Ranger defenders at the main entrance. The bikers, utilising their mobility and small size, rapidly spread through the city, forcing almost every NCR Trooper to take shelter inside buildings. [Root.GetName] forces followed the bikers, surrounding and destroying each cluster of NCR troopers one by one, either by breaking down the door or by leveling the buildings NCR troopers vaily defended. \n\nShady Sands itself appears to have been heavily damaged. Only a small portion of building remain standing, including the Hall of Congress, from which flags of [Root.GetNameDef] now fly."
-  downfall.10.a: "Shady Sands is lost, but the war is not."
-  downfall.10.b: "The Californian front must hold!"
-  downfall.10.c: "The Hall of Congress is the NCR's heart. They must sue for peace soon."
-  downfall.10.e: "Even the Rangers can't stop our alliance."
-  downfall.10.f: "The NCR is wounded, but not yet mortally."
+ downfall.10.t:0 "La chute des Sables Ombragés"
+ downfall.10.d:0 "Après trois jours d'escarmouches, le gouvernement de la RNC a confirmé aujourd'hui que leur capitale bien-aimée, Sables Ombragés, était tombée entre les mains de [Root.GetNameDef]. La capture de la ville intervient malgré la résistance acharnée des Rangers de la RNC et des milices de la ville, bien que des informations précises sur la bataille de Sables Ombragés soient très rares. Il semble que l'assaut final de [Root.GetName] ait été mené par un groupe de motards qui ont réussi à submerger les derniers défenseurs des Rangers à l'entrée principale. Grâce à leur mobilité et à leur petite taille, les motards se sont rapidement répandus dans la ville, obligeant presque tous les soldats de la RNC à s'abriter à l'intérieur des bâtiments. Les forces de [Root.GetName] ont suivi les motards, encerclant et détruisant chaque groupe de soldats de la RNC un par un, soit en cassant la porte, soit en détruisant les bâtiments défendus par les soldats vaincus de la RNC.\n\nSables Ombragés lui-même semble avoir été lourdement endommagé. Seule une petite partie des bâtiments reste debout, y compris le Centre des Congrès, d'où sortent les drapeaux de [Root.GetNameDef]."
+ downfall.10.a:0 "Sables Ombragés est perdu, mais pas la guerre."
+ downfall.10.b:0 "Le front californien doit tenir !"
+ downfall.10.c:0 "Le Centre des Congrès est le cœur de la RNC. Ils doivent demander la paix bientôt."
+ downfall.10.e:0 "Même les Rangers ne peuvent pas arrêter notre alliance."
+ downfall.10.f:0 "La RNC est blessée, mais pas encore mortellement."
   # 11: To CES
   # 12: To BOS
   # 13: To DES
@@ -46,13 +46,13 @@
 
   ## Flagstaff (ids 20 to 29)
   # 20: Generic
-  downfall.20.t: "The Fall of Flagstaff"
-  downfall.20.d: "The City of Flagstaff, long the seat of Caesar's absolute power, fell late last night to [Root.GetNameDef]. Although [CES.GetLeader] stayed to command the defence until defeat was all but certain, even his military wisdom could not save the city, surrounded as it was by [Root.GetName]'s earlier pincer movements. In his infinite wisdom, [CES.GetLeader] ordered a last stand, commanding his elite Praetorian Guard to fire on any units that attempted to desert. Ultimately the order only served to delay the capture of the city at large by a day, although even now sporadic fighting continues between invading forces and Praetorian Guard units holded up in building. Caesar's palace also appears to be still holding out, although this might shortly change when [Root.GetName]'s demolition teams get into position."
-  downfall.20.a: "We have plenty more cities to fall back upon..."
-  downfall.20.b: "One city means nothing to the Legion. Right?"
-  downfall.20.c: "How did the Legion have this many slaves?!?"
-  downfall.20.e: "The Legion's tyranny will soon be no more."
-  downfall.20.f: "The Bull may soon be no more."
+ downfall.20.t:0 "La chute de Flagstaff"
+ downfall.20.d:0 "La ville de Flagstaff, longtemps le siège du pouvoir absolu de César, est tombée tard hier soir sous les coups de [Root.GetNameDef]. Bien que [CES.GetLeader] soit resté jusqu'à commander la défense jusqu'à la défaite, il était presque certain, même avec sa sagesse militaire qu'il ne pourrait pas sauver la ville, entourée des précédents mouvements de tenailles de [Root.GetName]. Dans son infinie sagesse, [CES.GetLeader] a ordonné un dernier combat, ordonnant à sa garde d'élite prétorienne de tirer sur toutes les unités tentant de déserter. En fin de compte, l'ordre ne servit qu'à retarder la capture de la ville d'un jour, bien que des combats sporadiques se poursuivent entre les forces d'invasion et les unités de la Garde prétorienne bloquées dans un bâtiment. Le palais de César semble également tenir le coup, bien que cela puisse bientôt changer lorsque les équipes de démolition de [Root.GetName] se mettent en position."
+ downfall.20.a:0 "Nous avons encore beaucoup de villes sur lesquelles nous baser ..."
+ downfall.20.b:0 "Une ville ne signifie rien pour la Légion. N'est-ce pas ?"
+ downfall.20.c:0 "Comment la Légion a-t-elle eu autant d'esclaves ?!?"
+ downfall.20.e:0 "La tyrannie de la Légion ne sera bientôt plus."
+ downfall.20.f:0 "Le Taureau pourrait bientôt ne plus être."
   # 21: To NCR
   # 22: To RRG
   # 23: To TWI
@@ -63,13 +63,13 @@
 
   ## New Vegas (ids 30 to 39)
   # 30: Generic
-  downfall.30.t: "New Vegas's Downfall"
-  downfall.30.d: "For the first time in living memory, the casinos on the New Vegas Strip failed to open for business this morning, largely thanks to their annihilation in the fierce fighting against [Root.GetNameDef]. For four days, fighting on the Strip raged, as Securitrons and mobs loyal to the great families of the casinos attempted desperately to prevent their precious city from falling to hostile powers. Ultimately the Strip was lost, but even then the families of the Strip contined to stubbornly defend their casinos. Following a direct order from [Root.GetLeader], the casinos were demolished with the last mobsters inside them—much to the dismay of the soldier keen on looting the riches. The Securitrons, meanwhile, withdrew in the direction of the Mojave's weather monitering system, allthough attempts to find them have so far been unsuccesful."
-  downfall.30.a: "Find me those Securitrons!"
-  downfall.30.b: "The Jewel of the Wasteland is ours!"
-  downfall.30.c: "Vegas was rebuilt once, and it can be again."
-  downfall.30.e: "As long as those Securitrons keep fighting..."
-  downfall.30.f: "Vegas survived the Great War, but not [Root.GetNameDef]"
+ downfall.30.t:0 "Chute de New Vegas"
+ downfall.30.d:0 "Pour la première fois de mémoire, les casinos du quartier de New Vegas n'ont pas ouvert leurs portes ce matin, en grande partie à cause de leur anéantissement lors des violents combats contre [Root.GetNameDef]. Pendant quatre jours, les combats ont éclaté sur le Strip, alors que Securitrons et des foules fidèles aux grandes familles des casinos tentaient désespérément d'empêcher leur précieuse ville de tomber sous le contrôle de puissances hostiles. Finalement, le Strip a été perdu, mais même dans ce cas, les familles du Strip ont continué à défendre obstinément leurs casinos. Suivant un ordre direct de [Root.GetLeader], les casinos ont été démolis avec le dernier gangster à l'intérieur, à la grande consternation du soldat désireux de piller les richesses. Pendant ce temps, les Securitrons se sont retirés dans la direction du système de surveillance météorologique de Mojave, bien que les tentatives pour les trouver aient été infructueuses jusqu'à présent."
+ downfall.30.a:0 "Trouvez-moi ces Securitrons !"
+ downfall.30.b:0 "Le Joyau des Terres Désolées est à nous !"
+ downfall.30.c:0 "Vegas a été reconstruit une fois, et peut l'être à nouveau."
+ downfall.30.e:0 "Tant que ces Securitrons continuent à se battre ..."
+ downfall.30.f:0 "Vegas a survécu à la Grande Guerre, mais pas [Root.GetNameDef]"
   # 31: To NCR
   # 32: To CES
   # 33: To KHA
@@ -77,26 +77,26 @@
 
   ## Lost Hills Bunker (ids 40 to 49)
   # 40: Generic
-  downfall.40.t: "The Capture of the Lost Hills Bunker"
-  downfall.40.d: "Some deemed it unpenetrable, others deemed the conquest of it too bloody to even be attempted. However, they both initially seemed to have been proven wrong after a single day of somewhat underwhelming fighting. [Root.GetName] troops began their attack in the early hours of the morning, seemingly catching the Brotherhood napping. The first troops through the bunker doors were elites, armed with enough anti-armour firepower to crack open Liberty Prime—twice over. However, they were met with no resistance. The Brotherhood had seemingly cottoned on to the fact that power armour, their great strength, is not terribly effective in cramped hallways. They also seemingly had no appitite for a desperate last stand. Instead, unbeknownst to the attackers, they had rigged the entire bunker to explode as soon as the fourth level of the bunker was reached, and that it did. The resulting explosion could be felt across California, and resulted in the deaths of over five hundred [Root.GetName] soldiers. It seems, ultimately, those who had deemed the conquest too bloody to be justified were proved correct."
-  downfall.40.a: "They pain the highest price!"
-  downfall.40.b: "Even on the backfoot, the Brotherhood are cunning."
-  downfall.40.c: "Expelling the Brotherhood from Lost Hills was worth the cost."
-  downfall.40.e: "Thankfully it wasn't our troops."
-  downfall.40.f: "With Chapters over North America, losing Lost Hills will not bring the Brotherhood down."
+ downfall.40.t:0 "La Capture du Bunker des Collines Perdues"
+ downfall.40.d:0 "Certains l'ont jugé impénétrable, d'autres ont jugé que sa conquête était trop sanglante pour être tentée. Cependant, ils semblaient tous les deux avoir été déçus après une seule journée de combats quelque peu décevants. Les troupes de [Root.GetName] ont commencé leur attaque au petit matin, semblant troubler la sieste de la Confrérie. Les premières troupes franchissant les portes du bunker étaient des élites, dotées de suffisamment de puissance de feu anti-blindés pour pouvoir ouvrir Liberty Prime - deux fois. Cependant, ils n'ont rencontré aucune résistance. La Confrérie avait apparemment pris conscience du fait que l'armure assistée, leur grande force, n'était pas très efficace dans les couloirs étroits. Ils semblaient également n'avoir aucune intention de tenir une position finale désespérée. Au lieu de cela, à l'insu des assaillants, ils avaient manipulé tout le bunker pour qu'il explose dès que le quatrième niveau du bunker avait été atteint, et c'est ce qu'il a fait. L'explosion qui en a résulté a été ressentie dans toute la Californie et a entraîné la mort de plus de cinq cents soldats [Root.GetName]. Il semble que finalement, ceux qui avaient jugé la conquête trop sanglante pour être justifiée avaient raison."
+ downfall.40.a:0 "Ils souffrent le prix le plus élevé !"
+ downfall.40.b:0 "Même sur le dos, les membres de la Confrérie sont rusés."
+ downfall.40.c:0 "Expulser la Confrérie de Lost Hills en valait la peine."
+ downfall.40.e:0 "Heureusement, ce n'étaient pas nos troupes."
+ downfall.40.f:0 "Avec les Chapitres au-dessus de l’Amérique du Nord, perdre Lost Hills ne fera pas tomber la Confrérie."
   # 41: To NCR
   # 42: To ENC
   # 43: To Generic Brotherhood
 
   ## Ranger Citadel (ids 50 to 59)
   # 50: Generic
-  downfall.50.t: "The Destruction of Ranger Citadel"
-  downfall.50.d: "The Rangers of the Arizona Wasteland, once the bane of all raiders in Arizona, have today lost their great stronghold. Although the Rangers fought well, defending their beloved Citadel for three days straight against a massive assault and against all odds, it seems the Ranger's favoured tactic of survivalist fighting could not stand up to the swarming ranks of [Root.GetNameDef]. Ultimately, the Rangers made the painful decision to withdraw from the Citadel, both to prevent further unnecessary loss of life, and to ensure their leadership is not captured in one unexpected assault."
-  downfall.50.a: "We'll be back again, mark my words!"
-  downfall.50.b: "The Rangers are survivalists. They will endure."
-  downfall.50.c: "We hold the heart of Ranger organisation in our hands!"
-  downfall.50.e: "Soon Arizona shall be open to us!"
-  downfall.50.f: "The Rangers will fight to their last breath."
+ downfall.50.t:0 "La destruction de la citadelle des rangers"
+ downfall.50.d:0 "Les Rangers de Terres Désolées de l’Arizona, jadis le fléau de tous les raiders en Arizona, ont aujourd’hui perdu leur grande place forte. Bien que les Rangers se soient bien battus, défendant leur citadelle bien-aimée pendant trois jours d'affilée contre une attaque massive et contre toute attente, il semble que la tactique privilégiée des Rangers consistant à mener des combats de survie ne puisse résister aux rangs grouillants de [Root.GetNameDef]. En fin de compte, les Rangers ont pris la décision douloureuse de se retirer de la Citadelle, à la fois pour éviter de nouvelles pertes de vies inutiles et pour s'assurer que leur leadership ne soit pas capturé par un seul assaut inattendu."
+ downfall.50.a:0 "Nous serons de retour, marquez mes mots !"
+ downfall.50.b:0 "Les Rangers sont des survivalistes. Ils vont endurer."
+ downfall.50.c:0 "Nous tenons le cœur de l'organisation des Rangers entre nos mains !"
+ downfall.50.e:0 "Bientôt l'Arizona nous sera ouvert !"
+ downfall.50.f:0 "Les Rangers vont se battre jusqu'à leur dernier souffle."
   # 51: To JAC
   # 52: To VIP
   # 53: To NCR
@@ -107,52 +107,52 @@
 
   ## Vault City (ids 60 to 69)
   # 60: Generic
-  downfall.60.t: "The Fall of Vault City"
-  downfall.60.d: "Bitter fighting over Vault City is starting to cease. [Root.GetNameDef] are starting to clean up what's left of Vault City, while the residence are unsure of what to expect from they're new overlords. Who would have thought such a city could even be taken?"
-  downfall.60.a: "At least we evacuated our tech."
-  downfall.60.b: "Let us hope the G.E.C.K. is not lost."
-  downfall.60.c: "They can't stand much more..."
-  downfall.60.e: "The spoils will soon be ours too!"
-  downfall.60.f: "For [VLT.GetLeader], Vault City is everything."
+ downfall.60.t:0 "La Chute de Vault City"
+ downfall.60.d:0 "Les combats acharnés autour de Vault City commencent à cesser. [Root.GetNameDef] commencent à nettoyer ce qui reste de Vault City, tandis que la résidence ne sait pas trop à quoi s'attendre de la part de ses nouveaux seigneurs. Qui aurait pensé qu'une telle ville pourrait même être prise ?"
+ downfall.60.a:0 "Au moins, nous avons évacué notre technologie."
+ downfall.60.b:0 "Espérons que le G.E.C.K. n'est pas perdu."
+ downfall.60.c:0 "Ils ne peuvent pas supporter beaucoup plus ..."
+ downfall.60.e:0 "Le butin sera bientôt le nôtre aussi !"
+ downfall.60.f:0 "Pour [VLT.GetLeader], Vault City est tout."
   # 61: To NCR
   # 62: To ENC
   # 63: To Generic Focus Tree Conquest
 
   ## New Reno (ids 70 to 79)
   # 70: Generic
-  downfall.70.t: "The Fall of New Reno"
-  downfall.70.d: "The chaos that was the battle of New Reno is coming to a close. [Root.GetNameDef] is starting to enforce order onto the city. Fighting still continues throughout the city, its believed the city will be back to normal in a few days."
-  downfall.70.a: "Think of all the Jet we just lost..."
-  downfall.70.b: "Reno is going to be drastically poorer now..."
-  downfall.70.c: "We heard stories, but this place is worse than any of them!"
-  downfall.70.e: "Hopefully we get some of that Jet!"
-  downfall.70.f: "Hopefully they burn that place to the ground!"
+ downfall.70.t:0 "La Chute de New Reno"
+ downfall.70.d:0 "Le chaos de la bataille de New Reno touche à sa fin. [Root.GetNameDef] commence à appliquer l'ordre sur la ville. Les combats se poursuivent dans toute la ville, mais on pense que la ville sera redevenue normale dans quelques jours."
+ downfall.70.a:0 "Pensez à tout le Jet que nous venons de perdre ..."
+ downfall.70.b:0 "Reno va être considérablement plus pauvre maintenant ..."
+ downfall.70.c:0 "Nous avons entendu des histoires, mais cet endroit est pire que n'importe lequel d'entre eux !"
+ downfall.70.e:0 "Espérons que nous aurons un peu de ce Jet !"
+ downfall.70.f:0 "Espérons qu'ils brûlent cet endroit au sol !"
   # 71: To NCR
   # 72: To ENC
   # 73: To Generic Brotherhood
 
   ## The Warren (ids 80 to 89)
   # 80: Generic
-  downfall.80.t: "The Capture of the Warren"
-  downfall.80.d: "TODO"
-  downfall.80.a: "A grave day for Mutants everywhere."
-  downfall.80.b: "They were never much attached to any one place."
-  downfall.80.c: "Purge them from the lands!"
-  downfall.80.e: "The world will be glad to see them gone!"
-  downfall.80.f: "Even the "
+ downfall.80.t:0 "La Capture du Warren"
+ downfall.80.d:0 "TODO"
+ downfall.80.a:0 "Un jour grave pour les mutants partout."
+ downfall.80.b:0 "Ils n'étaient jamais très attachés à un endroit."
+ downfall.80.c:0 "Purgez-les des terres !"
+ downfall.80.e:0 "Le monde sera content de les voir disparus !"
+ downfall.80.f:0 "Même le"
   # 81: To NCR
   # 82: To WBH
   # 83: To Generic Brotherhood
 
   ## Capitol Hill (ids 90 to 99)
   # 90: Generic
-  downfall.90.t: "Capitol Hill has Fallen" #Title
-  downfall.90.d: "After fierce resistance, Capitol Hill has fallen to [Root.GetNameDef]. Brotherhood forces staunchly defended there position until the last shots were fired. Cowards were shot when they fled from their positions, but with ammunition supplies dwindling, the order was given at dusk to hastily withdraw from their positions, surrendering it to [Root.GetNameDef]." #Description
-  downfall.90.a: "We shall repay the blood tenfold!" #Owner
-  downfall.90.b: "We must support our friends in their time of need." #OwnerFaction
-  downfall.90.c: "Now that the Capitol has fallen, the war is ours!" #Taker
-  downfall.90.e: "Victory is within our grasp!" #TakerFaction
-  downfall.90.f: "Lets see how these new owners behave from now on." #Unaligned
+ downfall.90.t:0 "Capitol Hill est tombé"
+ downfall.90.d:0 "Après une résistance féroce, Capitol Hill est tombé face à [Root.GetNameDef]. Les forces de la Confrérie ont défendu avec acharnement leur position jusqu'au dernier coup de feu. Des lâches ont été abattus alors qu'ils fuyaient leurs positions, mais avec le stock de munitions en diminution, l'ordre a été donné au crépuscule de se retirer à la hâte de leurs positions et de la livrer à [Root.GetNameDef]."
+ downfall.90.a:0 "Nous rembourserons le sang dix fois !"
+ downfall.90.b:0 "Nous devons soutenir nos amis en cas de besoin."
+ downfall.90.c:0 "Maintenant que le Capitole est tombé, la guerre est à nous !"
+ downfall.90.e:0 "La victoire est à notre portée !"
+ downfall.90.f:0 "Voyons comment ces nouveaux propriétaires se comportent désormais."
   # 91: To ISN or TCA
   # 92: To TRL
   # 93: To Generic Brotherhood
@@ -167,13 +167,13 @@
 
   ## Hidden Valley (ids 120 to 129)
   # 120: Generic
-  downfall.120.t: "The Siege of Hidden Valley had ended." #Title
-  downfall.120.d: "After days of siege, relentless fighting, Hidden Valley has fallen. [Root.GetNameDef] was able to take Hidden Valley though pockets of resistance still exisit. The Mojave chapter shall be remembered in history books for its defense of Hidden Valley, though fruitless in the end they stood agianst giants. Fighting to the last man, its unsure if this victory was truely a victory for [Root.GetNameDef]. Was it worth the price that was paid in blood for this land." #Description
-  downfall.120.a: "Brothers & Sisters, fight on! Ad Victoriam!" #Owner
-  downfall.120.b: "We must not be outshone by the Brotherhoods heroic deeds." #OwnerFaction
-  downfall.120.c: "With Hidden Valley taken, they shall soon fall." #Taker
-  downfall.120.e: "Soon this war must end." #TakerFaction
-  downfall.120.f: "Wait, what? Must of been a bloodbath." #Unaligned
+ downfall.120.t:0 "Le siège de Hidden Valley prend fin."
+ downfall.120.d:0 "Après des jours de siège et de combats acharnés, Hidden Valley est tombé. [Root.GetNameDef] était capable de prendre Hidden Valley même s'il restait des poches de résistance. Le chapitre de Mojave restera dans les livres d’histoire pour sa défense de Hidden Valley, bien qu’inutile à la fin, ils se dressèrent contre des géants. Se battre jusqu'au dernier homme, il n'est pas sûr que cette victoire soit vraiment une victoire pour [Root.GetNameDef]. Cela valait-il le prix que l'on payait en sang pour cette terre ?"
+ downfall.120.a:0 "Frères et soeurs, continuez ! Ad Victoriam !"
+ downfall.120.b:0 "Nous ne devons pas être éclipsés par les actes héroïques de la Confrérie."
+ downfall.120.c:0 "Avec Hidden Valley prise, ils vont bientôt tomber."
+ downfall.120.e:0 "Bientôt cette guerre doit se terminer."
+ downfall.120.f:0 "Attends quoi ? Ça doit être un bain de sang."
   # 121: To NCR
   # 122: To CES
   # 123: To VEG
@@ -181,13 +181,13 @@
 
   ## Bitter Springs (ids 130 to 139)
   # 130: Generic
-  downfall.130.t: "Another Massacre at Bitter Springs" #Title
-  downfall.130.d: "Fighting is now coming to an end in Bitter Springs, [Root.GetNameDef] are now mopping up resistance. Rumours of another massacre at Bitter Springs is already spreading throughout the wasteland, though confirmed reports are still scattered." #Description
-  downfall.130.a: "We shall avenge our fallen!" #Owner
-  downfall.130.b: "How dare they kill civilians!" #OwnerFaction
-  downfall.130.c: "Clean up what's left of this mess." #Taker
-  downfall.130.e: "We all know the rumours are lies." #TakerFaction
-  downfall.130.f: "These rumours are concerning." #Unaligned
+ downfall.130.t:0 "Un autre massacre à Bitter Springs"
+ downfall.130.d:0 "Les combats s'achèvent maintenant à Bitter Springs, [Root.GetNameDef] élimine maintenant la résistance. Les rumeurs d'un autre massacre à Bitter Springs se répandent déjà dans les terres désolées, bien que des informations confirmées soient encore éparpillées."
+ downfall.130.a:0 "Nous allons venger nos morts !"
+ downfall.130.b:0 "Comment osent-ils tuer des civils !"
+ downfall.130.c:0 "Nettoyez ce qui reste de ce gâchis."
+ downfall.130.e:0 "Nous savons tous que les rumeurs sont des mensonges."
+ downfall.130.f:0 "Ces rumeurs sont préoccupantes."
   # 131: To NCR
   # 132: To CES
   # 133: To WHT
@@ -195,13 +195,13 @@
 
   ## Gloria (ids 140 to 149)
   # 140: Generic
-  downfall.140.t: "A Glorious Fight" #Title
-  downfall.140.d: "After hours of street to street fighting, [Root.GetNameDef] has finally taken the majority of Gloria. With heroes on both sides fighting until the bitter end & with the shear ferocity of fighting glory must be taken. Though resistance still continue throughout the city, the main forces of the Republic has withdrawn. With the city in ruins, one has to ask what is next for Gloria?" #Description
-  downfall.140.a: "The Republic is more then a city, ¡Por la República, por México!" #Owner
-  downfall.140.b: "We must liberate Gloria, and fight tyranny" #OwnerFaction
-  downfall.140.c: "This is a Glorious day!" #Taker
-  downfall.140.e: "We can't let [Root.GetNameDef] take all the glory!" #TakerFaction
-  downfall.140.f: "Is all this war and death really glorious?" #Unaligned
+ downfall.140.t:0 "Un combat glorieux"
+ downfall.140.d:0 "Après des heures de combats de rue, [Root.GetNameDef] a finalement pris la majorité de Gloria. Avec des héros des deux côtés se battant jusqu'à la fin amère et avec la férocité de la gloire de combattre devant être prise. Bien que la résistance continue dans toute la ville, les principales forces de la République se sont retirées. Avec la ville en ruine, il faut se demander quelle est la prochaine étape pour Gloria ?"
+ downfall.140.a:0 "La République est plus qu'une ville, ¡Por la República, por México!"
+ downfall.140.b:0 "Nous devons libérer Gloria et combattre la tyrannie"
+ downfall.140.c:0 "C'est un jour glorieux !"
+ downfall.140.e:0 "Nous ne pouvons pas laisser [Root.GetNameDef] prendre toute la gloire !"
+ downfall.140.f:0 "Toute cette guerre et cette mort sont-elles vraiment glorieuses ?"
   # 141: To CES
   # 142: To TAA
   # 143: To ARM
