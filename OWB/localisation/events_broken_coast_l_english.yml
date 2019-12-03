@@ -35,7 +35,7 @@
   nf_event_brk.6.a: "Whistler is as good as ours"
 
   nf_event_brk.60.t: "Incorporation into the Broken Coast?"
-  nf_event_brk.60.d: "Our friends from the Broken Coast have offered us a position as an autonomous religion within their territory. Their diplomat has assured us that we will retain our independence, and that this is merely another way to tie our two nations closer together. However, many critics within our government claim this would be the final nail in the coffin for our nation..."
+  nf_event_brk.60.d: "Our friends from the Broken Coast have offered us a position as an autonomous region within their territory. Their diplomat has assured us that we will retain our independence, and that this is merely another way to tie our two nations closer together. However, many critics within our government claim this would be the final nail in the coffin for our nation..."
   nf_event_brk.60.a: "Submit"
   nf_event_brk.60.b: "Refuse"
 
@@ -90,17 +90,17 @@
   nf_event_brk.19.a: "Wonderful"
 
   nf_event_brk.20.t: "Border Conflict is Escalating!"
-  nf_event_brk.20.d: "Our recent clashes with the enemy have been inconclusive. Some ground has been won, some has been lost. A few border villages have been reduced to flaming ruins. Other than that, nothing has changed. The enemy knows this as well as we do, and appears to be taking action to overcome this sticking point. They appear to be mobilising more troops to send against our own - we must prepare to repel them too."
+  nf_event_brk.20.d: "Our recent clashes with the enemy have been inconclusive. Some ground has been won, some has been lost. A few border villages have been reduced to flaming ruins. Other than that, nothing has changed. The enemy knows this as well as we do, and appears to be taking action to overcome this sticking point. They appear to be mobilizing more troops to send against our own - we must prepare to repel them too."
   nf_event_brk.20.a: "We will meet them with equal force"
 
  # New Victoria raid event loc
 
   nf_event_brk.21.t: "Raiders on our Coastlines"
-  nf_event_brk.21.d: "Previously raids came infrequently. They used to be carried out by small groups, usually in the night. The ships landed in isolated stretches of the coastline - never our villages or our towns. All that has changed recently. Co-ordinated raid groups have attacked our villages and towns, doing unimaginable destruction before we could react. In response, militias have mobilised and are ready to defend our islands. Only time will tell how well they do..."
+  nf_event_brk.21.d: "Previously raids came infrequently. They used to be carried out by small groups, usually in the night. The ships landed in isolated stretches of the coastline - never our villages or our towns. All that has changed recently. Co-ordinated raid groups have attacked our villages and towns, doing unimaginable destruction before we could react. In response, militias have mobilized and are ready to defend our islands. Only time will tell how well they do..."
   nf_event_brk.21.a: "Resist!"
 
   nf_event_brk.22.t: "Successful Raid against the [HAI.GetName]"
-  nf_event_brk.22.d: "Bodies litter the villages, bodies litter the beach. The raids against the [HAI.GetName] were carried out without mercy, and now are men are experienced in raiding over sea as well as land. This knowledge will surely become indispensable when they turn to raid New Victoria, who will surely be better defended then this irrelevant island chain. \n\nThe resons for the continued existance of [HAI.GetName] are slim, so now is the time to annex them outright."
+  nf_event_brk.22.d: "Bodies litter the villages, bodies litter the beach. The raids against the [HAI.GetName] were carried out without mercy, and now are men are experienced in raiding over sea as well as land. This knowledge will surely become indispensable when they turn to raid New Victoria, who will surely be better defended then this irrelevant island chain. \n\nThe reasons for the continued existence of [HAI.GetName] are slim, so now is the time to annex them outright."
   nf_event_brk.22.a: "Valuable experience"
 
   nf_event_brk.23.t: "Smoke Stacks in the Morning Mist"
@@ -127,7 +127,7 @@
   nf_event_brk.28.a: "Soon..."
 
   nf_event_brk.29.t: "Raiders hit the Ports"
-  nf_event_brk.29.d: "Not satisfied with the control of the coastline they exercise, the tyrannical raiders from Koover have begun conducting co-ordinated raids against our major ports. These are more well defended then the villages of the coast, but the raiders have learnt from their previous raids against us. At the moment, we seem evenly matched - let us hope we come out on top."
+  nf_event_brk.29.d: "Not satisfied with the control of the coastline they exercise, the tyrannical raiders from Koover have begun conducting co-ordinated raids against our major ports. These are more well defended than the villages of the coast, but the raiders have learnt from their previous raids against us. At the moment, we seem evenly matched - let us hope we come out on top."
   nf_event_brk.29.a: "Fight hard, cause we are all in sight!"
 
   nf_event_brk.30.t: "Domination of the Ports"
