@@ -13,15 +13,6 @@ def get_args():
     return parser.parse_args()
 
 
-def unzip(path_to_zip_file, directory_to_extract_to):
-    print(f'Beginning of the extraction of {path_to_zip_file}')
-    zip_ref = zipfile.ZipFile(path_to_zip_file, 'r')
-    zip_ref.extractall(directory_to_extract_to)
-    zip_ref.close()
-    print(f'End of the extraction of {path_to_zip_file}')
-    print(f'{directory_to_extract_to} created.')
-
-
 def main(args):
     # Compute unzip mod directory
     unzip_mod_dir = os.path.join(os.path.join(args.mod, '..', strftime("%Y_%m_%d_%H_%M_%S", gmtime())))
@@ -30,10 +21,8 @@ def main(args):
         if os.path.exists(unzip_mod_dir):
             raise Exception(f'The unzip directory ({unzip_mod_dir}) already exists! Please change it.')
 
-    # Unzip steam archive
-    for file in os.listdir(args.steam):
-        if file.endswith('.zip'):
-            unzip(os.path.join(args.steam, file), unzip_mod_dir)
+    # Copy steam directory
+    shutil.copytree(args.steam, unzip_mod_dir)
 
     # Remove old English files
     i = 0
