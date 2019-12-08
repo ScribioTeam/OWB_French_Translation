@@ -7,4 +7,4 @@ dependencies={
 tags={
 	"Translation"
 }
-supported_version="1.6.x"
+supported_version="1.8.x"
