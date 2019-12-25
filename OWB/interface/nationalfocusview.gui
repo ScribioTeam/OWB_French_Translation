@@ -525,7 +525,7 @@ guiTypes = {
 			borderSize = {x = 0 y = 0}
 			text = ""
 			maxWidth = 455
-			maxHeight = 138
+			maxHeight = 105
 			scrollbarType = standardtext_slider
 #			format = center
 		}
