@@ -81,7 +81,7 @@ if = {
 }
 
 create_country_leader = {
-	name = "Senator Claus"
+	name = "Sénateur Noël"
 	desc = "CLAUS_DESC"
 	picture = "portrait_senator_claus.dds"
 	expire = "3000.1.1"

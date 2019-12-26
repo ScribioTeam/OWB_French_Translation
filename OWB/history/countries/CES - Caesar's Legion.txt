@@ -76,7 +76,7 @@ add_ideas = {
 }
 
 create_country_leader = {
-	name = "Caesar"
+	name = "César"
 	desc = "Caesar_DESC"
 	picture = "portrait_caesar.dds"
 	expire = "3000.1.1"
