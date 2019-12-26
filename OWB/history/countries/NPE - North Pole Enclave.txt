@@ -1,0 +1,94 @@
+﻿capital = 14
+
+set_politics = {
+	ruling_party = ruler
+	elections_allowed = no
+}
+
+set_popularities = {
+	people = 0
+	elites = 0
+	intellectuals = 0
+	ruler = 100
+}
+
+set_stability = 0.35
+set_war_support = 0.45
+set_research_slots = 6
+set_convoys = 150
+
+set_technology = {
+	standard_weaponry_tech = 1
+	ballistic_weaponry_tech_1 = 1
+	robot_automation_tech = 1
+	robot_makeshift_automatons_tech = 1
+	robot_protectron_tech_1 = 1
+	tribal_civilization = 1
+	settled_civilization = 1
+	scientific_civilization = 1
+	basic_industry_tech = 1
+	tool_engineering = 1
+	maketool_engineering_1 = 1
+	pre_construction_industry_tech = 1
+	construction_industry_tech_1 = 1
+	construction_industry_tech_2 = 1
+	extraction_industry_tech_1 = 1
+	habitation_industry_tech_1 = 1
+	extraction_industry_tech_2 = 1
+	habitation_industry_tech_2 = 1
+	resource_generator_tech = 1
+	resource_generator_water_tech_1 = 1
+	resource_generator_power_tech_1 = 1
+	resource_generator_metal_tech_1 = 1
+	stripped_pa_tech = 1
+	enclave_pa_unlock_tech = 1
+	power_armour_enclave_1 = 1
+	vertibird_unlock_tech = 1
+	vertibird_cas_tech = 1
+	vertibird_tech = 1
+}
+
+if = {
+	limit = {
+		has_dlc = "Man the Guns"
+	}
+	set_technology = {
+		nautics_tech_1 = 1
+		light_navy_hull_tech_1 = 1
+		waterproof_sealing_tech = 1
+		medium_navy_hull_tech_1 = 1
+		multi_deck_construction_tech = 1
+		heavy_navy_hull_tech_1 = 1
+		naval_module_tech = 1
+		naval_weapons_module_tech = 1
+		naval_support_module_tech = 1
+		naval_armour_tech_1 = 1
+		naval_communications_module_tech_1 = 1
+	}
+}
+if = {
+	limit = {
+		NOT = { has_dlc = "Man the Guns" }
+	}
+	set_technology = {
+		nautics_tech_non_mtg_1 = 1
+		light_navy_hull_tech_non_mtg_1 = 1
+		waterproof_sealing_tech_non_mtg = 1
+		medium_navy_hull_tech_non_mtg_1 = 1
+		multi_deck_construction_tech_non_mtg = 1
+		heavy_navy_hull_tech_non_mtg_1 = 1
+	}
+}
+
+create_country_leader = {
+	name = "Senator Claus"
+	desc = "CLAUS_DESC"
+	picture = "portrait_senator_claus.dds"
+	expire = "3000.1.1"
+	ideology = warlordship
+
+	traits = {
+		jolly
+		naughty_and_nice
+	}
+}

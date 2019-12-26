@@ -1,0 +1,154 @@
+﻿capital = 520
+oob = "CES_2275"
+set_naval_oob = "CES_2275_naval"
+
+set_technology = {
+	terror_tactics = 1
+	standard_weaponry_tech = 1
+	melee_weaponry_tech_1 = 1
+	#slashing_weaponry = 1
+	#legion_motor_chariots = 1
+	tribal_civilization = 1
+	settled_civilization = 1
+	support_weaponry = 1
+	med_company_tech_1 = 1
+	bike_tech_1 = 1
+	demolitions_weaponry_tech = 1
+	special_forces_doctrine = 1
+
+	spec_ops_equipment_tech_1 = 1
+}
+
+if = {
+	limit = {
+		has_dlc = "Man the Guns"
+	}
+	set_technology = {
+		nautics_tech_1 = 1
+		light_navy_hull_tech_1 = 1
+		light_navy_hull_tech_2 = 1
+		waterproof_sealing_tech = 1
+		medium_navy_hull_tech_1 = 1
+		naval_invasion_tech_1 = 1
+		heavy_navy_hull_tech_1 = 1
+		naval_module_tech = 1
+		naval_armour_tech_1 = 1
+		naval_pd_module_tech_1 = 1
+		naval_communications_module_tech_1 = 1
+		naval_weapons_module_tech = 1
+		naval_support_module_tech = 1
+	}
+}
+if = {
+	limit = {
+		NOT = { has_dlc = "Man the Guns" }
+	}
+	set_technology = {
+		nautics_tech_non_mtg_1 = 1
+		light_navy_hull_tech_non_mtg_1 = 1
+		light_navy_hull_tech_non_mtg_2 = 1
+		waterproof_sealing_tech_non_mtg = 1
+		medium_navy_hull_tech_non_mtg_1 = 1
+		naval_invasion_tech_non_mtg_1 = 1
+	}
+}
+
+set_stability = 0.5
+set_war_support = 0.4
+set_convoys = 220
+set_research_slots = 4
+
+set_politics = {
+	ruling_party = elites
+	elections_allowed = no
+}
+
+set_popularities = {
+	people = 0
+	elites = 50
+	intellectuals = 0
+	ruler = 50
+}
+
+add_ideas = {
+	cultofmars
+	national_spirit_rejection_of_automation
+}
+
+create_country_leader = {
+	name = "Caesar"
+	desc = "Caesar_DESC"
+	picture = "portrait_caesar.dds"
+	expire = "3000.1.1"
+	ideology = militarist_oligarchy
+	id = 10001
+	traits = {
+		cruel_tyrant
+		warmonger
+		conqueror_of_tribes
+	}
+}
+
+create_field_marshal = {
+	name = "Vulpes Inculta"
+	picture = "portrait_inculta.dds"
+	skill = 4
+	id = 10002
+	attack_skill = 3
+	defense_skill = 2
+	planning_skill = 4
+	logistics_skill = 4
+}
+
+create_field_marshal = {
+	name = "Lucius"
+	picture = "portrait_lucius.dds"
+	skill = 4
+	id = 10004
+	attack_skill = 5
+	defense_skill = 3
+	planning_skill = 3
+	logistics_skill = 2
+}
+
+create_equipment_variant = {
+	name = "River Boat"
+	type = ship_hull_light_1
+	name_group = CES_LIGHT
+	parent_version = 0
+	modules = {
+		fixed_ship_command_slot = ship_command_module_1
+		fixed_ship_engine_slot = light_ship_oars_module
+		fixed_ship_engine_slot_1 = light_ship_oars_module
+		fixed_ship_battery_slot = ship_light_mounted_gun_module
+		fixed_ship_battery_slot_1 = ship_light_mounted_gun_module
+		fixed_ship_detection_slot = ship_detection_module_1
+		fixed_ship_detection_slot_1 = empty
+	}
+}
+
+create_equipment_variant = {
+	name = "Destroyer"
+	type = ship_hull_medium_1
+	name_group = CES_MEDIUM
+	parent_version = 0
+	modules = {
+		fixed_ship_command_slot = ship_command_module_1
+		fixed_ship_engine_slot = medium_ship_oars_module
+		fixed_ship_engine_slot_1 = medium_ship_oars_module
+		fixed_ship_battery_slot = ship_medium_mounted_gun_module
+		fixed_ship_battery_slot_1 = ship_medium_mounted_gun_module
+		fixed_ship_detection_slot = ship_detection_module_1
+		fixed_ship_detection_slot_1 = empty
+		fixed_ship_armour_slot = empty
+		fixed_ship_point_defense_slot = ship_light_mounted_gun_module
+		fixed_ship_point_defense_slot_1 = ship_light_mounted_gun_module
+		front_1_custom_slot = ship_medium_mounted_gun_module
+	}
+}
+
+create_or_join_caesars_legion = yes
+declare_war_on = {
+	target = TWI
+	type = annex_everything
+}
