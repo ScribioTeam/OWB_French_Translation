@@ -9,7 +9,7 @@
  flower_wars_desc:0 "Pendant de nombreuses décennies, des affrontements aux frontières ont fait rage entre nous et [ROOT.flw_enemy]. Les affrontements se déroulent autour de trois États principaux : Mexico, He'la 'Uuchben Ts'oon et La Tumba Compartida. La possession de ces états nous donne d'importants bonus de stabilité et donne également à notre ennemi d'importantes faiblesses. La frontière est contestée tous les trois ou quatre mois, avec un basculement initial entre nous et [ROOT.flw_enemy]. Si nous ne parvenons pas à déclencher une guerre des frontières, comme le demande notre dur ligne, nous ferons face à de lourdes conséquences ..."
 
   # Tooltips
- has_flw_inititive:0 "Nous avons l'initiative dans les Guerres des Fleurs"
+ has_flw_initiative:0 "Nous avons l'initiative dans les Guerres des Fleurs"
  flw_cancelled:0 "La §YGuerre des Fleurs§! a été arrêté en raison de la guerre, de la diplomatie ou d'autres événements"
  flw_following_happen:0 "§RLes faits suivants se produiront à la fin de cette mission : §! \n"
 
