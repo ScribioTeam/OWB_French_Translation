@@ -19,3 +19,6 @@
 
   #Scripted Effect tooltips
   give_next_level_of_weapon_equipment_tt:0 "We will receive the next level of weapons tech in our chosen branch.\n"
+
+  #Bypass Generic Tooltip
+  own_all_core_states_of_war_nation_tt:0 "Every core state of the nation(s) specified in this focus is owned by you or your subjects."
