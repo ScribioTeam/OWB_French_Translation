@@ -185,6 +185,12 @@
   RULE_MAP_SETUP_TLALOCAN_STATUS_CHILDREN:0 "@MAX/@MOC/@ZAP Tlaloc's Children"
   RULE_MAP_SETUP_TLALOCAN_STATUS_CHILDREN_DESC:0 "Tlaloc's children will replace him at the beginning of the game."
 
+  RULE_MAP_SETUP_NPE_STATUS:0 "@NPE North Pole Enclave"
+  RULE_MAP_SETUP_NPE_STATUS_DEFAULT:0 "@NPE Default"
+  RULE_MAP_SETUP_NPE_STATUS_DEFAULT_DESC:0 "The North Pole Enclave will not be on the Map."
+  RULE_MAP_SETUP_NPE_STATUS_ONMAP:0 "@NPE North Pole Enclave On Map"
+  RULE_MAP_SETUP_NPE_STATUS_ONMAP_DESC:0 "Santa's coming to town(Puts North Pole Enclave on map above Broken Coast)."
+
   RULE_EVENTS_SYNTHETIC_DAWN:0 "@ITZ Synthetic Dawn"
   RULE_EVENTS_SYNTHETIC_DAWN_DISABLED:0 "@ITZ Default"
   RULE_EVENTS_SYNTHETIC_DAWN_DISABLED_DESC:0 "The Chichen Itza have forgotten the ways of the last true Mexicans."
