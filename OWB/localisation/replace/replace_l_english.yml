@@ -2,21 +2,21 @@
   infantry_equipment: "Infantry Equipment"
   infantry_equipment_short: "Infantry Equipment"
   infantry_equipment_desc: ""
-  
+
   #Fighters
   fighter_equipment_1:0 "Glider"
   fighter_equipment_1_short:0 "Glider"
   fighter_equipment_1_desc:0 "Our engineers have, after multiple stressful tests, invented a glider able to strike from the sky. Armed with two sub-machineguns, a compliment of grenades for ground strikes, and a lot of prayers, our pilots can now support frontline troops. A mobile catapult system, installed on a truck bed for launching procedures, also gives them a considerably increased range, as the trucks have more autonomy than our gliders."
- 
+
   fighter_equipment_3:0 "Monoplane Fighter"
   fighter_equipment_3_short:0 "Monoplane Fighter"
-  fighter_equipment_3_desc:0 "As speed and low drag become primordial, a monoplane design is now preferable. Increased weight capacity allows the installation of a third, air-cooled, higher caliber machinegun for gun runs, as well as external struts able to support two 100lb high explosive bombs. Stacked powerpack units allow higher top speed, giving us the possibility for increased strike range, and interception techniques against enemy crafts.""
+  fighter_equipment_3_desc:0 "As speed and low drag become primordial, a monoplane design is now preferable. Increased weight capacity allows the installation of a third, air-cooled, higher calibre machine-gun for gun runs, as well as external struts able to support two 100lb high explosive bombs. Stacked powerpack units allow higher top speed, giving us the possibility for increased strike range, and interception techniques against enemy crafts."
 
 
  # Infantry Equipment
   infantry_equipment_1: "Pipe Guns"
   infantry_equipment_1_short: "Pipe Guns"
-  infantry_equipment_1_desc: "Arming our troops with bolt-action pipe pistols is all we can do as of now for infantry equipment. While the cartridge fired is somewhat effective, cycling the bolt is a slow process. New equipment is to be developed urgently"
+  infantry_equipment_1_desc: "Arming our troops with improvised pipe pistols is all we can do as of now for infantry equipment. While the cartridge fired is somewhat effective, cycling the bolt is a slow process. New equipment is to be developed urgently"
 
  # Support Equipment
   support_equipment_1: "Support Equipment"

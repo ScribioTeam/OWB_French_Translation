@@ -1,9 +1,10 @@
 ﻿l_english:
   # GUI:
   ADD_CORE_TT:0 "§HCore state§! £pol_power [?coring_var_coring_cost]"
-  ADD_CORE_TT_DELAYED:0 "§HBase value§!: £pol_power 25\n§HState's population§!: £pol_power [?coring_var_state_pop]\n§HYour cored population§!: £pol_power [?coring_var_cored_pop]\n§HDistance from capital§!: £pol_power [?coring_var_distance]\n§HClaim multiplier§!: [?coring_var_claim|%0]\n--------------\n[!add_core_click_enabled]"
+  ADD_CORE_TT_DELAYED:0 "§HBase value§!: £pol_power 25\n§HState's population§!: £pol_power [?coring_var_state_pop]\n§HYour cored population§!: £pol_power [?coring_var_cored_pop]\n§HDistance from capital§!: £pol_power [?coring_var_distance]\n§HCoring Efficiency factor§!: [?coring_cost_factor_gui|%0]\n§HClaim multiplier§!: [?coring_var_claim|%0]\n--------------\n[!add_core_click_enabled]"
   not_allowed_to_core_flag:0 " §RHas coring ability disabled§!"
   tt_is_not_in_home_area:0 "Is not connected to the owner's capital."
+  core_button_25_state_reduction_tt: "Gain a permanent local §G25%§! reduction in coring costs."
 
   ADD_CORE_TLALOC_TT: "§HConnect to Chico-Net§! £resources_strip|2£ [?coring_var_energy_cost]"
   ADD_CORE_TLALOC_TT_DELAYED: "§HBase value§!: £resources_strip|2£ 10 \n§HFrom already connected states§!: [?Root.coring_var_energy_cost_from_coring] \n--------------\n[!add_core_tlaloc_click_enabled]--------------\nThis will make §Y[This.GetName]§! to a core state of §Y[Root.GetName]§!."
@@ -18,7 +19,5 @@
   FALLOUT_TLALOC_CORE_BUTTON: "Connect"
 
   # Scripted Localisation:
-  string_fallout_coring_tab_title: "Uncored States"
-  string_fallout_tlaloc_coring_tab_title: "Restore the power grid"
   string_fallout_coring_tab_no_states_info: "We currently have no uncored states."
   string_fallout_tlaloc_coring_tab_no_states_info: "We currently have no unconnected states."

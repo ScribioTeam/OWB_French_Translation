@@ -5,6 +5,7 @@
   naughty_and_nice_desc: "§GHe's§! §Rgot§! §Ga§! §Rlist§! §Gand§! §Rhe's§! §Gchecking§! §Rit§! §Gtwice!§! §RSenator§! §GClaus§! §Rknows§! §Gexactly§! §Rwho§! §Gdeserves§! §Ra§! §Gnew§! toy§! §Gcar,§! §Rand§! §Gwho§! §Rdeserves§! §Ga§! §Rlump§! §Gof§! §Rcoal.§! §GBe§! §Ron§! §Gyour§! §Rbest§! §Gbehaviour!§!"
   dislikes_brotherhood: "Dislikes the Brotherhood of Steel"
   dislikes_ncr: "Dislikes the NCR"
+  dislikes_ncn: "Dislikes [NCN.GetNameDef]"
   dislikes_legion: "Dislikes Caesar's Legion"
   fortifications_expert: "Fortifications Expert"
   political_workhorse: "Political Workhorse"
@@ -26,6 +27,7 @@
   papa_khan: "Khan Traditionalist"
   regis_trait: "Sneering Imperialist"
   majorie: "Marjorie"
+  timelord: "Timelord"
   military_background: "Military Background"
   conqueror_of_tribes: "Conqueror of Tribes"
   owb_army_chief_offensive_1: "Army Offence\n(Specialist)"
@@ -53,6 +55,7 @@
   black_paladin_trait: "Black Paladin"
   mad_ai:0 "Insane AI"
   ineffective:0 "Ineffective"
+  god_from_the_machine: "God From The Machine"
   # ITZ
   critically_ill:0 "Critically Ill"
   critically_ill_desc:0 "The Kalomte has been shot and critically injured while inspecting his troops on the Steel Coast, and now lies deep in a coma in his palace. With no clear successor, the government is in chaos and the country is falling apart."
@@ -87,3 +90,15 @@
   experimental_subroutine_trait:0 "Research Focus"
   # UTO
   crazy_crazy_crazy:0 "Crazy, Crazy, Crazy"
+
+  #VLT
+  model_citizen:0 "Model Citizen"
+  masterful_engineer:0 "Masterful Engineer"
+  scientific_devotee:0 "Scientific Devotee"
+  vault_tec_engineer:0 "Vault-tec Engineer"
+  rallier_of_the_people:0 "Rallier Of The People"
+  industrial_baron:0 "Industrial Baron"
+  hideous_quartermaster:0 "Hideous Quartermaster"
+  vault_tec_medical_training:0 "Vault-tec Medical Training"
+  vault_tec_security_trainer:0 "Vault-tec Security Trainer"
+  vault_tec_defence:0 "Vault Defender"

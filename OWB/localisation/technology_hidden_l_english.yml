@@ -15,6 +15,7 @@
   HEADER_ITZA_BUFFS: "Chichen Itza Buffs"
   HEADER_ARMY_OF_MEXICO_BUFFS: "Army of Mexico Buffs"
   HEADER_RENO_BUFFS: "New Reno Buffs"
+  HEADER_OREGON_BUFFS: "Oregon Buffs"
   HEADER_SETTLER_BUFFS: "Settler Buffs"
   HEADER_RAIDER_BUFFS: "Raider Buffs"
   HEADER_LEGION_BUFFS: "Legion Buffs"
@@ -30,6 +31,7 @@
   enclave_pa_unlock_tech: "Advanced Power Armour Schematics"
   high_fighter_unlock_tech: "Xian Schematics"
   vertibird_unlock_tech: "Vertibird Schematics"
+
 
 
 
@@ -140,7 +142,7 @@
   oldworldarmour_desc: ""
 
  #Vault City
-  mutant_supremacy: "Super Mutant Supremacy"
+  mutant_supremacy: "The Mole-Men Shall Rule The Earth!"
   mutant_supremacy_desc: ""
  #Itza
   itz_rough_terrian_training: "Rough Terrain Training"
@@ -156,6 +158,13 @@
   #Units
   dog_infantry_tech:0 "Warhound Platoon"
   super_mutant_aux_infantry_tech:0 "Super Mutant Auxilaries"
+
+  mirelurk_infantry_unlock_tech:0 "Mirelurk Platoon"
+
+  molerat_infantry_unlock_tech:0 "Molerat Cohort"
+
+  ghoul_paratrooper_tech:0 "Ghoul Paratroopers"
+  super_mutant_nightkin_tech:0 "Nightkin"
 
   ghoul_civilization:0 "Ghoul Civilization"
 
@@ -215,6 +224,12 @@
   reno_mastersnewarmy: "Master's New Army"
   reno_mastersnewarmy_desc: ""
 
+ #Oregon
+  oregon_geckosupport: "Gecko Support"
+  oregon_geckosupport_desc: ""
+  oregon_mesmetronfieldequipment: "Mesmetron Field Equipment"
+  oregon_mesmetronfieldequipment_desc: ""
+
  #Settler
   settler_caravanmilitia: "Caravan Militia's"
   settler_caravanmilitia_desc: ""
@@ -225,3 +240,13 @@
 
   #Block Tech Tech
   blocked_tech:0 "Not Researchable"
+
+  general_atomics_unlock_tech:0 "General Atomics Shematics"
+  stent_security_solutions_unlock_tech:0 "Sten Security Solution Shematics"
+  wattz_company_unlock_tech:0 "Wattzs Consumer Electronics Shematics"
+  handhtools_unlock_tech:0 "H & H Tools Shematics"
+  poseidon_unlock_tech:0 "Poseidon Energy Shematics"
+  lockreed_unlock_tech:0 "Lockreed Shematics"
+  arcjetsystems_unlock_tech:0 "Arc Jet Systems Shematics"
+  westtek_unlock_tech:0 "West-Tek Shematics"
+  robco_unlock_tech:0 "Robco Industries"

@@ -1,0 +1,29 @@
+﻿l_english:
+  government_events.1.t: "Corruption in [Root.Capital.GetName]"
+  government_events.1.d: "A scandal has rocked [Root.Getname] as the press has revealed that some of [Root.GetAdjective]'s leaders are taking bribes in exchange for government favors. Brahmin ranchers, gun runners, and others have been abusing our nation for their own personal gain. Many critics wonder if [Root.GetName] is worth dying for if its leaders will tolerate this sort of misconduct."
+  government_events.1.a: "This is how we've always done it!"
+  government_events.1.b: "We will root out this injustice!"
+
+  government_events.2.t: "Slaves Escape from [slaving_country.GetName]"
+  government_events.2.d: "[slaving_country.GetName]'s tyranny is known across the wasteland. Although they might justify slavery as a 'favor' to primitives, we know that freedom is the right of every Wastelander and have always looked on with dismay. \n\nEarly this morning slaves crossed the border with [slaving_country.GetAdjective] forces in hot pursuit.  Our troops met them at the border, and [slaving_country.Capital.Getname] is now demanding we turn over the slaves. What shall we do?"
+  government_events.2.a: "[slaving_country.GetName] is too important to insult."
+  government_events.2.b: "Freedom is the right of every Wastelander."
+
+  government_events.3.t: "[FROM.GetName] Supports the Rabble!"
+  government_events.3.d: "[From.GetAdjective] forces have launched a raid to help slaves within our nation escape! This is a grave insult that will jepeordize our relations. One day soon, [ROOT.GETADJ] forces will sack [FROM.Capital.GetName] in revenge! And then we will place chains upon their leader's loves ones, to teach them the price of messing with us."
+  government_events.3.a: "We'll get our revenge"
+  government_events.3.a_tt: "\n§RYou now view [FROM.Getname] as a threat to your way of life.§! Five slaves ran away!\n"
+
+  government_events.4.t: "A Song From the Front"
+  government_events.4.d: "[ROOT.ADJ] forces have fought heroically against our enemies, and one of our soldiers has composed a little poem from the front. We could play this throughout the nation to rally the nation to the cause."
+  government_events.4.a: "We will make sure everyone listens."
+  government_events.4.b: "I'd rather listen to the Inkspots."
+
+  government_events.5.t: "The Press Captures [press_stole_plans.GetAdjective] Plans!"
+  government_events.5.d: "Somehow members of the press have captured [press_stole_plans.GetAdjective] plans for a major offensive.  It turns out that the same reporters who criticize our glorious government are also willing to report on our foes' movements. This is a stirring reminder that whatever our differences, we are all [Root.GetNameDef]."
+  government_events.5.a: "They can't stop the press. Oh they try, they try."
+
+  government_events.6.t: "Profits from the Drug Trade"
+  government_events.6.d: "Jet, Buffout, Psycho, Mentats, and even good old fashion marijuana are making a killing. Literally, for some people. But for every person whose life is ruined by narcotics, there's a person who sold them the drugs that did them in. We're able to profit from this lucrative trade and can use the profits to fund our armies."
+  government_events.6.a: "Pass me a hit."
+  add_caps_500_tt: "Adds 500 "

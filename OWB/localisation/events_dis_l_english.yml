@@ -1,0 +1,31 @@
+﻿l_english:
+  nf_dis.1.t: "True Believers"
+  nf_dis.1.d: "Sacrifices have to be made if one is to stick to their beliefs.\nOnce, the Mirelurk Tribe and [DIS.GetName] were but one people. In recent years however the beliefs of the heads of the Mirelurk tribe began to shift after a new group known as the Coral Court began to influence the Mirelurk Tribals to their bidding.\nOne of the core ideals of the Mirelurk tribe is their belief in the figure of the Ruddy Man, a ancient hero of old who helped the wastelanders of west Oregon survive the first few decades after the Great War. The Mirelurk Tribes new leadership wishes to impose the ideal that the Ruddy Man was not a man, but a Mirelurk! This isn't correct at all, as it was the actions of the Ruddy Man that should be revered - not their bloodline.\nProphet Vadim was one of the first to begin protests among the Mirelurk leadership, who else would have qualms with the Mirelurk's new teachings?"
+  nf_dis.1.a: "The Net Casters"
+  nf_dis.1.b: "The Coral Collectors"
+  nf_dis.1.c: "The Muttfruit Farmers"
+
+  nf_dis.2.t: "The Long Southern Road"
+  nf_dis.2.d: "Eventually, our protests grew too dire for the Mirelurk Tribe to abide by.\nWhile some among them expected execution the Coral Court ultimately chose a leaner sentence - exile.\nWe were forced to the south, travelling along the old Interstate Highway Number 5 in order to reach the raider-filled town of [150.GetName]. It turns out that the village here was controlled by the Bonepickers, a group of cannibal raiders stationed out of Diamond Peak to the east. Shortly after the Battle for Arago would begin, a short skirmish - mostly a prelude to the conflicts ahead.\nHow merciful would we be after the fighting was done to take Arago?"
+  nf_dis.2.a: "We converted who we could, Let the rest return whence they came"
+  nf_dis.2.b: "Spared the children and woman"
+  nf_dis.2.c: "We killed them all"
+
+  nf_dis.3.t: "The Bonepicker War"
+  nf_dis.3.d: "The Bonepicker didn't take kindly to our taking of Arago - a drawn out, long conflict would ensue.\nThe Bonepickers would constantly raid the poorly fortified position of Arago by sending raiders down the mountain in the night. [DIS.GetName] had no choice in the matter  - if they did nothing the Bonepickers would wipe them out eventually!\n[DIS.GetName] began a great trek to take Diamond Peak from the Bonepicker Raiders, it was a terrible conflict - took five years to travel through the Camas Valley and finally reach the old mining complex they had fortified into their stronghold at the top of [251.GetName].\nIn the end, we had lost nearly half of our number, but managed to wipe out the Bonepickers in their entirety. What are some of the things we would have found at the top of the mountain?"
+  nf_dis.3.a: "Caps! Lots and lots of caps!"
+  nf_dis.3.b: "Captured villagers from Arroyo and Klamath!"
+  nf_dis.3.c: "Rare, shiny metals!"
+
+  nf_dis.4.t: "Mending the Schism?"
+  nf_dis.4.d: "It seems the heretics to our southern border have finally made a attempt at reconciling our differences. While they ultimately reject outright submission they feel that us working together in the face of the current adversaries to the east might be a worthwhile investment for us both! After all, if one of us were to fall then surely the other would as well."
+  nf_dis.4.a: "We will have peace, for now."
+  nf_dis.4.b: "We will never work with heretics!"
+
+  nf_dis.5.t: "They accepted!"
+  nf_dis.5.d: "The Mirelurk tribe has agreed to a rudimentary amount of teamwork. We no longer have to fear of a Mirelurk invasion from the north."
+  nf_dis.5.a: "Peace in our time."
+
+  nf_dis.6.t: "They rejected!"
+  nf_dis.6.d: "The Treacherous Mirelurks are always ones for war! They say they will never submit to the beliefs of Heretics!"
+  nf_dis.6.a: "We need to defend ourselves!"

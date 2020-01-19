@@ -1,5 +1,7 @@
 ﻿l_english:
 #People
+  theodemocracy:0 "Theodemocracy"
+  theodemocracy_desc:0 "This faction is ruled by a religious figure who is democratically elected via local elections in parishes."
   #Placeholder localization begins
   unlimited_democracy:0 "Unlimited Democracy"
   unlimited_democracy_desc:0 ""
@@ -22,12 +24,16 @@
   peoples_militia_desc:0 "This faction is ruled by a military collective who work to try and protect it's inhabitants however it can from outside forces. The only allegiance they swear to is their people."
 
 #Intellectuals
+  meritocracy:0 "Meritocracy"
+  meritocracy_desc:0 "This faction's hierarchy is based strictly on the ability to perform specific skills. With the most competent member amongst them acting as de-facto leader."
   ideocracy:0 "Ideocracy"
   ideocracy_desc:0 "This faction is ruled strictly according to their ideological ideals through an elite council."
   technocracy:0 "Technocracy"
   technocracy_desc:0 "This faction is ruled through an inner circle of experts in various intellectual fields who make decisions and elect a council leader to guide them."
 
 #Ruler
+  theocracy:0 "Theocracy"
+  theocracy_desc:0 "This faction is ruled by a messianic figure, who is the head of the nation's religious and political life."
   oligarchy:0 "Oligarchy"
   oligarchy_desc:0 "This faction is ruled by it's richest who buy their power through wealth."
   warlordship:0 "Warlordship"
@@ -44,6 +50,9 @@
   town_hall_democracy_desc:0 "This faction is ruled by it's inhabitants through a town council chosen to represent each areas inhabitants."
 
 #Elites
+  kritocracy:0 "Kritocracy"
+  kritocracy_desc:0 "This faction is ruled by a collection of religious leaders and preachers, who elect a head of state from amongst their own ranks."
+
   #Placeholder localization beings
   militarist_oligarchy:0 "Militarist Oligarchy"
   militarist_oligarchy_desc:0 ""

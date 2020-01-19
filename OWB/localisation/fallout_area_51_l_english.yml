@@ -1,0 +1,78 @@
+﻿l_english:
+
+  # gamerules
+  RULE_AREA_51_EASTER_EGG_TOGGLE:0 "Area 51"
+  RULE_AREA_51_EASTER_EGG_TOGGLE_ENABLED:0 "Special treat enabled"
+  RULE_AREA_51_EASTER_EGG_TOGGLE_ENABLED_DESC:0 "Let us see if anybody can find out what this actually does."
+  RULE_AREA_51_EASTER_EGG_TOGGLE_DISABLED:0 "Special treat disabled"
+  RULE_AREA_51_EASTER_EGG_TOGGLE_DISABLED_DESC:0 "Let us see if anybody can find out what this actually does."
+
+ # Ideas
+  disease_origin: "Spawned the New Plague"
+  area_51_disease_idea: "The New Plague"
+
+ # decision categories
+  area51_raids_category:0 "Strange Places"
+  area51_raids_category_desc:0 "The wasteland is filled with remains of a bygone age. Perhaps we can find something amongst the ashes?"
+
+  area51_raids_cure_disease_category:0 "Cure Efforts"
+  area51_raids_cure_disease_category_desc:0 "No cost will be to great to remove this blight from our soil. We can only hope that we will be fast enough to safe ourselves."
+
+ # Decisions
+  area51_raids_find_area51:0 "Investigate Rumors"
+  area51_raids_find_area51_desc:0 "Some of our people have heard rumors about structures out in the middle of nowhere. Wrecks of metal, towering buildings made from concrete."
+  area51_raids_raid_airbase:0 "Open the hangars"
+  area51_raids_raid_airbase_desc:0 "Plunder the military base for what it is worth. A virtual treasure trove of pre war aircraft awaits us. We just need enough time and effort to let them soar through the air once more."
+  area51_raids_excavate_facility:0 "Excavate the Lab"
+  area51_raids_excavate_facility_desc:0 "It seems that there is something underground. Something burried on purpose under tons of rock. But why? There is only one way for us to find out, we will have to dig into the depth's of the earth itself."
+  area51_raids_open_security_door:0 "Breach the facility"
+  area51_raids_open_security_door_desc:0 "We are stuck. A massive security door blocks our path. Yet with enough explosives we might manage to get through. Is it wise though? The door seems to be made to both keep something inside, as well as us outside."
+
+  area51_raids_cure_effort:0 "Cure the new Plague"
+  area51_raids_cure_effort_desc:0 "No cost will be to great to remove this blight from our soil. We can only hope that we will be fast enough to safe ourselves."
+
+ # Events
+  area51_raid_events.1.title: "Another Forbidden Pre-war Base!"
+  area51_raid_events.1.desc: "[Root.GetAdjective] forces have scoured the wastes of Nevada and found an old pre-war facility. Even for pre-war standards, the place seems... odd. The bunkers were camouflaged and no one has been here for years. Somehow the power is still on, and some of our men claim they hear voices. But it's probably fine. The sign on on one of the bunkers indicates that this was once the Groom Lake Testing Ground. Now we just have to find what they tested."
+  area51_raid_events.1.a: "Excellent!"
+
+  area51_raid_events.2.title: "More Sand"
+  area51_raid_events.2.desc: "[Root.GetAdjective] scouts have turned up nothing in the deserts of Southern Nevada. Although some of our men have reported flickering lights in the sky at night,and menacing figures in their dreams, the only thing they've found are pre-war tourist traps. This is starting to look like a waste of time. Perhaps we should have gone to New Vegas instead?"
+  area51_raid_events.2.a: "I hate sand. It's coarse and gets everywhere."
+
+  area51_raid_events.3.title: "Vanished Scouts!"
+  area51_raid_events.3.desc: "Somehow our men searching in the desert have vanished. We assumed they were hit by raiders, or just got lost, but we have managed to find their last campsite. It looks like they just... vanished.  Their campfire went out on its own, with a full pot over the fire. Their guns were found on the ground, unfired. There was no sign of bloodshed. It's as if they just walked off into the desert!  \n\nExcept there are no footprints."
+  area51_raid_events.3.a: "Well, crap."
+
+  area51_raid_events.4.title: "To Touch the Skies"
+  area51_raid_events.4.desc: "We have managed to dig out a forbidden bunker full of ancient planes. It's not quite what we hoped Area 51 would have, but it's better than nothing. We can study these designs for our own purposes."
+  area51_raid_events.4.a: "I guess not every bunker can have power armour."
+
+  area51_raid_events.5.title: "Aviation Technology"
+  area51_raid_events.5.desc: "It looks like Area 51 and the Groom Lake facility were testing grounds for new aircraft during the Great War. Some of the designs we've found in the system are unbelievable and frankly surpass what we thought the United States Air Force could do. Unfortunately given the total collapse of society we can't manufacture most of these planes, but there are still some good ideas."
+  area51_raid_events.5.a: "This is going to be great."
+
+  area51_raid_events.6.title: "Gauss Rifles"
+  area51_raid_events.6.desc: "It seems that Area 51 was a centre for America's research on electromagnetic equipment. Using what we learned, we can deploy gauss rifles for our men."
+  area51_raid_events.6.a: "I cannot wait to shoot this at our enemies."
+
+  area51_raid_events.7.title: "Plasma Weaponry"
+  area51_raid_events.7.desc: "Many have wondered how the US Army learned to build plasma equipment, and it seems Area 51 has the answer.  Some of the schematics are in a language or code we can't comprehend, but we've pieced together enough detail to build the guns."
+  area51_raid_events.7.a: "I cannot wait to shoot this at our enemies."
+
+  area51_raid_events.8.title: "The New Plague"
+  area51_raid_events.8.desc: "Oh no! Some careless [Root.GetNameDef] soldier broke into a pr-ewar biology lab and released a pre-war disease. Although the poor lad claimed it was just a cold, when his skin turned blue and he began coughing blood we knew something was wrong. By then, it was too late. Dozens of our men are now sick, and the first symptoms have been reported in our capital.  And I'm sorry to report, [Root.GetLeader], that I have the symptoms too."
+  area51_raid_events.8.a: "Why did we open a pre-war bunker!"
+
+  area51_raid_events.9.t: "The New Plague Spreads"
+  area51_raid_events.9.d: "It seems that some of our people brought the disease to a neighbouring country. Some of our wisest leaders fear that the disease will spread across the Wastes, bringing death and despair on a scale not seen since the Great War. Our only hope is that someone can stop it."
+  area51_raid_events.9.a: "Perhaps we can hide in a vault."
+
+  area51_raid_events.10.t: "The End of the New Plague"
+  area51_raid_events.10.d: "We've done it! We have managed to cure the New Plague! Even now the miracle drug is being shipped by brahmin caravan across our country. We will mourn the dead, but we will rebuild. \n\nJust like we always have."
+  area51_raid_events.10.a: "And There Was Much Rejoicing."
+  area_51_disease_survivor: "Survived the New Plague"
+
+  area51_raid_events.80.t: "The New Plague"
+  area51_raid_events.80.d: "[389.Owner.GetNameDef]'s subjects are apparently coming down with a new illness.  Nothing they can do seems to stop its progress, and it's spreading like wildfire through their lands.  Travellers report so many dead that bodies lie unburied on the streets. One merchant told us a companion seemed fine for days, and then collapsed overnight.  The poor man drowned in his own blood. Hopefully the disease won't come here."
+  area51_raid_events.80.a: "Wait, that merchant has a fever..."

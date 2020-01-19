@@ -99,8 +99,8 @@
   ces_new_judea: "New Judea"
   ces_new_judea_desc: "The Rome of old once conquered the province of Judea - then Israel, where Christianity was born. The Mormons, building a New Canaan in Utah, seem to be inviting a New Judea upon themselves."
 
-  ces_the_white_leg_petition: "The White Legs Petition"
-  ces_the_white_leg_petition_desc: "The White Legs, a nearby tribe, have repeatedly petitioned to join the Legion. As we now have a use for them, we should allow them to join in future, so long as they attack the New Canaanites for us."
+  ces_the_white_leg_petition: "The White Legs"
+  ces_the_white_leg_petition_desc: "The White Legs, a nearby tribe, have come to our attention. Perhaps we can extend them our support in exchange for attacking potential threats in Utah. And should they fail . . . we can always find more tribals."
 
   ces_white_legs_accept: "Reward the Loyal Tribe"
   ces_white_legs_accept_desc: "Let it not be said that Caesar does not reward loyalty. The White Legs, thanks to their loyalty in helping to attack the Canaanites, should be rewarded, and promised eventual assimilation."
@@ -117,9 +117,10 @@
 
   ces_new_cohort: "New Cohort"
   ces_new_cohort_desc: "The White Legs have loyally served us in the war, defeating the New Canaanites and delivering Graham to us. They will be welcomed into the Legion, and granted dominion over Utah."
+  ces_new_cohort_tt: "\n§gWe will send advisors to help [WHT.GetLeader] core Utah more efficiently.§!\n"
 
   ces_new_auxilliary: "New Auxiliary"
-  ces_new_auxilliary_desc: "Despite the betrayal of the White Legs an unexpected ally, the 80s tribe, defeated New Canaan. They will be welcomed into the Legion, and granted dominion over Utah."
+  ces_new_auxilliary_desc: "Despite the betrayal of the White Legs an unexpected ally, the 80s tribe, defeated New Canaan. They will be welcomed into the Legion, and granted dominion over Utah. The Legion will also send them warriors to aid in their conquest of New California!"
 
   ces_legionary_utah: "Legionary Utah"
   ces_legionary_utah_desc: "Utah is not deserving of any petty tribe, ally or not. Only the Legion can claim dominion over Utah, and we will bring all the local tribes to heel, incorporated under Caesar."

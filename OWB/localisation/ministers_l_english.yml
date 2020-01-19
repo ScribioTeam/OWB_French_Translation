@@ -328,7 +328,43 @@
   daisy_whitman_desc: "Daisy was and is a accomplished Vertibird pilot and has over 70 missions under her belt in the sky. With her experience and skill in sky our flyers will be unstoppable."
 
   orion_moreno: "Orion Moreno"
-  orion_moreno_dsec: "Orion Moreno was a accomplished soldier in Judah Kreger's squad. His experience on the field and in combat as well as his loyalty leads him to be a rather strong asset to the Enclave in general."
+  orion_moreno_desc: "Orion Moreno was a accomplished soldier in Judah Kreger's squad. His experience on the field and in combat as well as his loyalty leads him to be a rather strong asset to the Enclave in general."
+
+  ##Cultural Advisor Traits
+	#Columnist
+	owb_cultural_advisor_state_columnist: "State Columnist"
+  owb_cultural_advisor_state_columnist_desc: "A state columnist works on behalf of the central government to provide a transparent, generally unbiased news reporting that can be easily digested by the people of the wasteland"
+
+	owb_cultural_advisor_venerated_columnist: "Venerated Columnist"
+  owb_cultural_advisor_venerated_columnist_desc: "Over time, it is almost inevitable that anyone who has witnessed the nature of war and the wasteland will come to despise it. The Venerated Columnist has reached this point in their life, and their frequent writings are often criticized as demoralizing the public."
+
+	#Ideological Somethingorother
+	owb_cultural_advisor_ideological_representative: "Ideological Representative"
+  owb_cultural_advisor_ideological_representative_desc: "The Ideological Representative is capable of tapping into the very core of a nation's national identity, and using it to rally the people in support of the status quo."
+
+	owb_cultural_advisor_ideological_manipulator: "Ideological Manipulator"
+  owb_cultural_advisor_ideological_manipulator_desc: "The Ideological Manipulator is capable of tapping into the beliefs and dreams of the core demographics of the nation, but will invariably achieve this by turning them upon smaller demographic groups, who will in turn cease supporting the nation at large."
+
+	#Strategist
+	owb_cultural_advisor_national_strategist: "National Strategist"
+  owb_cultural_advisor_national_strategist_desc: "The National Strategist is usually a senior warrior or general who specializes in organization of not only military efforts, but high military command."
+
+	owb_cultural_advisor_supreme_strategist: "Supreme Strategist"
+  owb_cultural_advisor_supreme_strategist_desc: "The Supreme Strategist is a senior National Strategist, trusted and beloved by most in high forms of government for the duty they pursue in the dangerous wasteland. However, their demands often come at the cost of political momentum and even the common good."
+
+	#Population
+	owb_cultural_advisor_population_organizer: "Population Organizer"
+  owb_cultural_advisor_population_organizer_desc: "In the wasteland, management of populations is not a simple task. It involves brace men going out to take the census, measure the amount of water an area can sustain, and assess general threats. If not done carefully, a large nation may suddenly find entire sections of their population starving or dying out."
+
+	owb_cultural_advisor_population_micromanager: "Population Micromanager"
+  owb_cultural_advisor_population_micromanager_desc: "The Population Micromanager is the natural evolution of the Population Organizer. They focus on efficient registration of people, distribution of aid, and overall civil structuring. Unfortunately, they have a tendency to single out individuals who should be barred from service, but usually slid under the radar. Those too young, too sick, or too unstable to serve are less likely to do so under their watch."
+
+	#Recruiter
+	owb_cultural_advisor_recruitment_propagandist: "Recruitment Propagandist"
+  owb_cultural_advisor_recruitment_propagandist_desc: "As one might expect, the Recruitment Propagandist specializes in inspiring young people to enlist and fight on behalf of their homeland, often through catchy tunes and emotional editorials."
+
+	owb_cultural_advisor_recruitment_driver: "Recruitment Driver"
+	owb_cultural_advisor_recruitment_driver_desc: "A Recruitment Driver takes recruitment to the next tier, relying heavily on financial and political pressure to encourage the depserate to enlist in the army. While immoral, none can deny they are effective."
 
   chem_pusher: "Chem Pusher"
   slaving_bastard: "Slaving Bastard"
@@ -336,21 +372,35 @@
   settlement_defender: "Settlement Defender"
   raider_punish: "Punishing Raider"
   raider_recruitment: "Raider Recruiter"
+  raider_brute: "Brute"
   sawbones: "Sawbones"
+  settlement_builder: "Settlement Builder"
+  slave_flogger: "Slave Flogger"
   raider_expansion: "Expanding the Gang"
   raider_defend: "Stubborn Bastard"
   raider_navy_buff: "Raider of the Seas"
   raider_air_buff: "Raider of the Skies"
-  man_of_commun: "Person of the Community"
+
+  man_of_community: "Person of the Community"
   caravan_trader: "Caravan Trader"
+  economic_expert: "Economic Expert"
   honest_speaker: "Honest Speaker"
   local_sherrif: "Local Sheriff"
   caravan_guard: "Caravan Guard"
   kind_mercenary: "Kind Mercenary"
+  settler_spymaster: "Spymaster"
+  settler_military_industrial: "Arms Lobbyist"
+  settler_oldworld_infrastructure: "Old World Infrastructure"
+  settler_homestead_defence: "Homestead Defender"
   settler_expansion: "Bringer of Civilisation"
   settler_defend: "Town Defender"
   settler_navy_buff: "Ferry Captain"
   settler_air_buff: "Flyboy"
+  war_monger: "War Monger"
+  friends_in_high_places: "Friends In High Places"
+  scientific_devotion: "Scientific Devotion"
+
+  tribal_ritualist: "The Keeper of Ritual"
   tribal_elder: "Tribal Elder"
   wall_painter: "Wall Painter"
   tribal_shaman: "Shaman"
@@ -360,6 +410,15 @@
   tribal_expansion: "Thunder Warchief"
   tribal_defend: "Boulder Warchief"
   tribal_navy_buff: "Wave Warchief"
+  tribal_trader: "Scoundrel"
+  tribal_good_natured: "Good Natured"
+
+  daniel: "Daniel"
+  daniel_desc: "A devoted missionary, Daniel is gifted with the languages of the tribes of Utah, and his patience has gained him much favour with the tribes and traders of the wastelands. Daniel is an excellent choice to help us negotiate between tribes and traders."
+  gifted_translator: "Gifted Translator"
+
+  burnedman: "Joshua Graham"
+  burnedman_desc: "Once a gifted translator and devoted Mormon, Graham fell into bad company while far from home. Now, times have changed, and Joshua has returned home to us."
 
   abraham: "Abraham Horres"
   abraham_desc: "Sent as a missionary to a tribe in Arizona, the tribe he was with was massacred by the Legion. Fleeing back to Canaan, he saw first hand what the Legion could do. Knowing that they would eventually come for New Canaan, he has spent his years building support to spread the word of God to the world by force."
@@ -370,8 +429,8 @@
   peace_mission: "Peaceful Missionary"
 
   eden: "Eden Dent"
-  eden_desc: "A gifted doctor, Eden is one of New Canaan's best medical experts. Though a Mormon herself, she does not agree with New Canaan's policy of converting the lesser educated tribes to the will of God, seeing it as manipulation instead of salvation."
-  calm_doc: "Conflicting Doctor"
+  eden_desc: "A gifted planner, Eden is one of New Canaan's best. Though a Mormon herself, she does not agree with New Canaan's policy of converting the lesser educated tribes to the will of God, seeing it as manipulation instead of salvation."
+  calm_doc: "Conflicted Industrialist"
 
   aaron: "Arron Grant"
   aaron_desc: "New Canaan's expert arms manufacturer, Aaron is New Canaan's de facto quartermaster. An expert in the .45 caliber pistol, he creates almost all of the weapons used by New Canaan's soldiers."
@@ -388,6 +447,25 @@
   mountain_hawk: "Mountain Hawk"
   mountain_hawk_desc: "A Dead Horse tribal, Mountain Hawk is one of the elders of the tribe. Sharing his wisdom with those below him, he is wary of New Canaan, knowing what their missionaries have done to tribes in the past. Though he is up on years compared to most of the tribals, he has not lost his edge."
   gods_warrior: "God's Warrior"
+#### Eighties
+  grabber_advisor: "Shotgun Webster"
+  grabber_advisor_desc: "The former leader of the Grabbers has found a new rule in the 80s"
+  furiosa: "Furiosa"
+  furiosa_trait: "The Hero of Ruby Valley"
+  major_kalishnakov: "Major Kalashnikov"
+  major_trait: "The Other Hero of Ruby Valley"
+  EHT_speed_key_to_victory: "The King of Speed"
+  EHT_defend_our_turf: "The Harpy"
+  eighties_stonefoot: "Stonefoot"
+  eighties_windwaker: "Windwaker"
+  EHT_windwaker: "Windwaker Honoured"
+  EHT_stonefoot: "Stonefoot Honoured"
+  bigbear: "Big Bear"
+  EHT_big_bear: "Big Bear Honoured"
+  EHT_davison: "Davison Honoured"
+  davison: "Driver Davison"
+
+
 
   rushing_wind: "Rushing Wind"
   rushing_wind_desc: "A tribal convert from the Tar Walkers, Rushing Wind is one of the pride pieces of New Canaan. Now a full citizen with almost no connection to his former tribe, he is a devout Mormon and an example that anyone can follow the will of God."
@@ -539,3 +617,22 @@
   tla_organic_subroutine:0 "Organic Subroutine"
   tla_experimental_subroutine:0 "Experimental Subroutine"
   tla_aerodynamic_subroutine:0 "Aerodynamic Subroutine"
+
+  #VLT
+  vlt_ghoul_cultural_kildog:0 "Kildog"
+  vlt_ghoul_cultural_rumbleeye:0 "Rumbleeye"
+  vlt_ghoul_cultural_rog:0 "Rog"
+  vlt_ghoul_cultural_bitterfoot:0 "Bitterfoot"
+  vlt_ghoul_cultural_mendy:0 "Mendy"
+  vlt_mutant_cultural_devourer:0 "The Devourer"
+  vlt_mutant_cultural_mopes:0 "Mopes"
+  vlt_mutant_cultural_moose:0 "Moose"
+  vlt_mutant_cultural_tadpole:0 "Tadpole"
+  vlt_ghoul_command_zug:0 "Zug"
+  vlt_mutant_command_maggot:0 "Maggot"
+  vlt_mutant_command_tooth:0 "Tooth"
+  vlt_mutant_command_bones:0 "Bones"
+  vlt_mutant_command_snout:0 "Snout"
+  vlt_ghoul_chief_asqot:0 "Asqot"
+  vlt_mutant_chief_bugs:0 "Bugs"
+  vlt_mutant_chief_slime:0 "Slime"

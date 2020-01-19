@@ -1,6 +1,7 @@
 ﻿l_english:
   is_brotherhood_nation_tt: "Is a §YBrotherhood of Steel§! chapter"
   is_not_brotherhood_nation_tt: "Is §Rnot§! a §YBrotherhood of Steel§! chapter"
+  is_brotherhood_nation_proper: "Obeys the §YBrotherhood of Steel§! recruitment laws"
 
   is_ghoul_nation_tt: "Is a §Yghoul§! nation"
   is_not_ghoul_nation_tt: "Is §Rnot§! a §Yghoul§! nation"
@@ -20,6 +21,9 @@
   is_super_mutant_nation_tt: "Is a §Ysuper mutant§! nation"
   is_not_super_mutant_nation_tt: "Is §Rnot§! a §Ysuper mutant§! nation"
 
+  is_psyker_nation_tt: "Is a §Ypsyker§! nation"
+  is_not_psyker_nation_tt: "Is §Rnot§! a §Ypsyker§! nation"
+
   is_tribal_nation_tt: "Is a §Ytribal§! nation"
   is_not_tribal_tt: "Is §Rnot§! a §Ytribal§! nation"
 
@@ -33,3 +37,14 @@
   is_not_south_mexican_tt: "Is §Rnot§! a §YSouthern Mexican§! nation"
 
   is_vault_tec_nation_tt:0 "Is a §YVault-Tec§! nation"
+
+  is_robotic_civilization_tt: "Is a §YRobotic§! nation"
+
+  is_coastal_nation_tt: "Is a §Bcoastal§! nation"
+  is_not_coastal_nation_tt: "Is §Rnot§! a §Bcoastal§! nation"
+
+  is_advanced_nation_tt: "Is an §Badvanced§! nation"
+  is_not_advanced_nation_tt: "Is §Rnot§! an §Yadvanced§! nation"
+
+  is_civilized_nation_tt: "Is a §Bcivilized§! nation"
+  is_not_civilized_nation_tt: "Is §Rnot§! a §Ycivilized§! nation"

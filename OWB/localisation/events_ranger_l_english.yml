@@ -44,3 +44,18 @@
   nf_ranger.8.t: "How dare those technophobes."
  #Placeholder Localisation Ends here
   DES_leader_chosen: "Has chosen a leader"
+  #########################
+  nf_ranger.9.t: "The Threat from the Eighties!"
+  nf_ranger.9.d: "The Eighties have destroyed Ruby Valley and Riperult. Their cars pull countless slaves behind them, their trucks fat with loot and plunder. Vault City and New Reno, alone, could not stand against them. The time has come for the Desert Rangers to keep their promise to the people of Utah."
+  nf_ranger.9.a: "The Rangers will guard you all."
+  nf_ranger.9.b: "Actually, we're really busy."
+  #########################
+  nf_ranger.10.t: "The Eighties Drive West!"
+  nf_ranger.10.d: "It is as we feared. The Eighties have driven west despite our warnings. Now our men and women go to face the Eighties, as the last best hope for peace."
+  nf_ranger.10.a: "We won't go quietly, [EHT.GetLeader] can count on that."
+  protect_nevada: "Protecting Nevada"
+  #########################
+  nf_ranger.11.t: "The Defence of Nevada"
+  nf_ranger.11.d: "All of Nevada remembers the Nevada Road War, where the Eighties drove a path of carnage on their ride east. But now heroes stand against them. The Nevada Rangers have agreed to protect Northern Nevada's people, whatever their many, many flaws. If [EHT.GetLeadername] wants to drive west, he'll have to go through them."
+  nf_ranger.11.a: "We will protect those who cannot protect themselves."
+  nf_ranger.11.b: "Good luck with that!"

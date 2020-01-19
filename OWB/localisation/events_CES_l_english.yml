@@ -1,6 +1,6 @@
 ﻿l_english:
-  nf_legion.1.t: "The White Legs Petition"
-  nf_legion.1.d: "An envoy from Caesar's Legion has visited our tribal grounds and offered us a deal. Pledge allegiance to Caesar's Legion and abandon the old ways. Refuse, and feel the full might of the Legion."
+  nf_legion.1.t: "The Honour of the Bull"
+  nf_legion.1.d: "Caesar has continued to shower us with favours. If we promise to work towards his ends in Utah, we will receive more soldiers to train our warriors. Why would we ever say no?"
   nf_legion.1.a: "Of course, we accept"
   nf_legion.1.b: "Never!"
 #Placeholder localization begins
@@ -11,6 +11,12 @@
   nf_legion.1001.title: "The White Legs Refuse"
   nf_legion.1001.desc: "Those fools! They refuse our petition to bring them into the Legion for assistance in destroying the New Canaanites and their leader Joshua! They will pay for this."
   nf_legion.1001.a: "The arrogance!"
+
+  nf_legion.1002.title: "Advisors for Utah"
+  nf_legion.1002.desc: "[WHT.GetLeader] cannot rule Utah from a tent. [CES.GetName] has sent advisors to help govern the land, skilled in the art of breaking a people to the yoke. With their assistance, all of Utah will learn why the White Legs walk proudly."
+  nf_legion.1002.a: "It is better to be one of the pack than the sheep."
+  nf_legion.1002.a_tt: "§g\nThe cost of coring Utah states is halved."
+
 #Placeholder localization ends
   nf_legion.2.t: "The Eighties Petition"
   nf_legion.2.d: "An envoy from Caesar's Legion has visited our tribal grounds and offered us a deal. Pledge allegiance to Caesar's Legion and abandon the old ways. Refuse, and feel the full might of the Legion."

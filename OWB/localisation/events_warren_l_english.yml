@@ -1,4 +1,9 @@
 ﻿l_english:
+  #Decisions
+  trl_seeking_out_the_wizard_decision: "Seeking out The Wizard"
+  trl_seeking_out_the_wizard_decision_desc: "The Wizard is a elusive figure, Hiding shortly after his mutation under The Master's army decades ago he now hides in his little alcove, having grown senile with old age as his strength wastes away, spending days and nights reading tomes of the old world's legends. Still, perhaps he might know something useful to help the Warren out of the recent troubles they have been in."
+
+  #Events
   nf_warren.1.t: "The First Holotape"
   nf_warren.1.d: "\"Your name is Andrew Shaw, you were born on april 24th, 2043. You have a family, two proud sons who you promised to protect, a wife who you must see again. It's why you became a soldier, Andrew. To protect them. You were raised in Portland. That is your home. When you're ready, you have to go back. You have to face what happened, find your legacy. They were in a vault, Andrew. Your children might have grandchildren, or a some other legacy. Find them; find yourself. You can't forget this, Andrew; you have to remember what matters: what you must do.\""
   nf_warren.1.a: "I must find my old family."
@@ -23,12 +28,30 @@
   nf_warren.4.b: "We shall take their people."
   nf_warren.4.c: "We shall take their warriors."
 
-  nf_warren.5.t: "The Challengers"
-  nf_warren.5.d: "The First has a tradition of accepting any and all challenges to his authority within the Troll Warren. He has never been bested, but often, his best commanders and allies come from those he has bested in single combat. In recent memories, those who came the closest were the fierce Bonesnarl who attempted to fight him head on. The nightkin Pittman, who attempted to overwhelm the First while his back was turned, and with the cover of his stealth boy. And Betty, a mutant from the far east, who almost overpowered him with her sheer strength."
-  nf_warren.5.a: "Bonesnarl's Loyalty"
-  nf_warren.5.b: "Pittman's Cunning"
-  nf_warren.5.c: "Betty's Might"
+  nf_warren.5.t: "Meeting the Wizard"
+  nf_warren.5.d: "Sailing along the FEV dumping grounds of Crater Lake the First made their way to meet the mythical Wizard. A hermit more then any other Mutant - The Wizard was tough to get many answers from. Eventually, when The First asked how he might bring about a new age for the Super Mutants the Wizard simply responded with one word.\n\"North\""
+  nf_warren.5.a: "...I need to go north?"
 
   nf_warren.6.t: "New Mariposa"
-  nf_warren.6.d: "Pittman tore apart the armour-clad \"normals\" guarding the entrance to Vault 6, once again proving that super mutants are the next step in human evolution, the true children of the apocalypse. Vault 6 was home to advanced technology and unthinkable experiments, all buried beneath hardened lava and ash: now it belongs to us. Rowdy mutants jeer at each-other as they tip over barrels of Forced Evolutionary Virus, filling the rusted halls with a sickly green glow. This time the Master's vision will be fulfilled. The age of super mutants has dawned!"
-  nf_warren.6.a: "We will avenge the Master's death!"
+  nf_warren.6.d: "The First tore apart the armour-clad \"normals\" guarding the entrance to Vault 6, once again proving that super mutants are the next step in human evolution, the true children of the apocalypse. Vault 6 was home to advanced technology and unthinkable experiments, all buried beneath hardened lava and ash: now it belongs to us. Rowdy mutants jeer at each-other as they tip over barrels of Forced Evolutionary Virus, filling the rusted halls with a sickly green glow. This time the Master's vision will be fulfilled. The age of super mutants has dawned!"
+  nf_warren.6.a: "I am the new Master!"
+
+  nf_warren.7.t: "A gift of Iron"
+  nf_warren.7.d: "Strangely enough, after the First ordered mutants to scavenge the old roads near Willamette in search of materials he found himself met with a surprise - generosity. Out of loyalty to the First several mutants, rather then pocketing the metals for their own use instead gave their finds to the First personally. This gave the First a idea - if they were to have all Mutants give the Warren metals they would have enough material to build whatever he wished!"
+  nf_warren.7.a: "Proclaim the Iron Tax!"
+
+  nf_warren.8.t: "Betty's Findings"
+  nf_warren.8.d: "Betty has become..enamoured with the words of the past held within this library. She has personally asked the First if he can keep searching for more of these places in the future, believing that it may bring about a new age of power and knowledge for the Super Mutants!"
+  nf_warren.8.a: "Start the search!"
+
+  nf_warren.9.t: "Bonesnarl's War Cry"
+  nf_warren.9.d: "Bonesnarl has taken a personal liking to the Bone Dancers, many of the now-turned Horde looking up to him after their successful mutation. As the Horde disperses across the Warren's vast territories the legends spread!"
+  nf_warren.9.a: "Power to the Super Mutant!"
+
+  nf_warren.10.t: "Pittman's Prodigies"
+  nf_warren.10.d: "Pittman has grown onto the former Mirelurk-worshipping fanatics of the Mirelurk Tribe. Seeing their potential he has asked the First if he can personally show them the ways of the Nightkin - granting them Stealth boys so that they can work for the Warren in the shadows."
+  nf_warren.10.a: "These Nightkin will serve us well!"
+
+  nf_warren.11.t: "A Lesson Learned"
+  nf_warren.11.d: "It took some courage to convince the Super Mutants of the Warren to leave their cave, venturing out to the land of the exiles in the far north. The \"Carcass Wastes\" as the Smooth-skins called them. Littered with bones and the remnants of a old world dried dead by radiation.\nIt is here, in this desolate land that the First finally realized what The Wizard's true lesson to him was.\nThe Firsts answer of how to fix the plight of the Super Mutants wasn't literally the north, but that is merely where he would find the answer. The path of the Super Mutants is one of conquest! Why should the Warren hide in their caves when just a hundred years ago the Super Mutants were poised to hold this world by its throat? He convinced the Super Mutants to attack this place, why not the rest of Oregon!?\n\nSoon the First would return to the Warren, his heart beating like a drum as he searched for a Warchief to bring along with him. Perhaps a good few arena bouts with some of the recent arrivals to the caves would reveal one who is worthy?"
+  nf_warren.11.a: "Sometimes a trip outside is all it takes."

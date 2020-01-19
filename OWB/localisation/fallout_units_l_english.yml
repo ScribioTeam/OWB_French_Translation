@@ -84,6 +84,16 @@
   super_mutant_aux_infantry: "Super Mutant Auxillary Platoon"
   super_mutant_aux_infantry_short: "Super Mutants"
   super_mutant_aux_infantry_desc: "Super mutants, while usually not as smart as their human counterparts, are much stronger and resilient due to their larger, more powerful frame. In contrast to normal infantry however an access to FEV is needed to produce these hulking soldiers."
+
+
+  molerat_infantry:0 "Molerat Cohort"
+  molerat_infantry_short:0 "Molerats"
+  molerat_infantry_desc:0 "One of the buggers might not be dangerous. But what about twenty? Or a hundred?"
+  mirelurk_infantry:0 "Mirelurk Platoon"
+  mirelurk_infantry_short:0 "Lurkers"
+  mirelurk_infantry_desc:0 "Tamed Mirelurks, ready to fight and die for their queen."
+
+
  # Motorized/Mechanized
 
   apc: "APC Platoon"
@@ -187,3 +197,10 @@
   super_heavy_ship_unit:0 "Superheavy Ship"
   super_heavy_ship_unit_short:0 "SHS"
   super_heavy_ship_unit_desc:0 ""
+
+  # Modifiers
+  modifier_army_sub_unit_power_armour_attack_factor:0 "Power Armour Attack"
+  modifier_army_sub_unit_power_armour_defence_factor:0 "Power Armour Defence"
+  modifier_army_sub_unit_power_armour_speed_factor:0 "Power Armour Speed"
+  modifier_army_sub_unit_tank_attack_factor:0 "Tank Attack"
+  modifier_army_sub_unit_tank_defence_factor:0 "Tank Defence"

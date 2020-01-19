@@ -1,5 +1,169 @@
 ﻿l_english:
-  nf_80s.1.t: "Completing I-80"
-  nf_80s.1.d: "The northernmost stretch of I-80 lays in the hands of Vault City. They have been amicable to us in the past, maybe it's time we request control of our rightful lands?"
-  nf_80s.1.a: "Offer to defend them in exchange for the land."
-  nf_80s.1.b: "Not worth our time."
+  nf_80s.111.t: "Completing I-80"
+  nf_80s.111.d: "The northernmost stretch of I-80 lays in the hands of Vault City. They have been amicable to us in the past, maybe it's time we request control of our rightful lands?"
+  nf_80s.111.a: "Offer to defend them in exchange for the land."
+  nf_80s.111.b: "Not worth our time."
+  #########################
+  nf_80s.1.t: "The Oasis"
+  nf_80s.1.d: "The Eighties fled east after [NCR.GetDef]'s assaults on their base. At long last, they found a home near a pre-war town called Wendover. After conquering the small town, the Eighties had to decide. Would they prepare to drive west, to reclaim their homeland? Or would they start a new life in Utah and Nevada?"
+  nf_80s.1.a: "We were born to ride."
+  nf_80s.1.b: "The salt flats of Utah are great for driving."
+  #########################
+  nf_80s.2.t: "The Thunderbird"
+  nf_80s.2.d: "Our leader and ruler shall give us victory, for he is the Thunderbird, greatest of the Road Warriors, master of the great V-8, prophet of the great road, and rightful warchief of the Eighties! To us, his people, he has promised a future, a redemption for the failures of the past. Let us ride to meet destiny, for in his visions the bear knows fear, the bull knows caution, and the Road Warriors ride free once more."
+  nf_80s.2.a: "He has seen a great vision."
+  nf_80s.2.b: "He is a mighty warrior."
+  #########################
+  nf_80s.3.t: "The Nevada Road War"
+  nf_80s.3.d: "The NCR found a foe unlike any other they had faced before, for while they had fought gangs and tribals, they had never before been challenged by true road warriors. Even as they drove us from our homeland, we ravaged their allies during the great exodus through Nevada. A hundredfold are the tales of respect and fear told by those who were our foes, and a hundredfold more are our own tales of greatness and daring, the legends of the Nevada Road War. For now I shall tell you the story of the time the Eighties..."
+  nf_80s.3.a: "Stole scientists from Vault City."
+  nf_80s.3.b: "Kidnapped mechanics from New Reno's chop shops."
+  nf_80s.3.c: "Picked up raider buddies along the way."
+  #########################
+  nf_80s.4.t: "The Utah Road War"
+  nf_80s.4.d: "Wounded, limping, our nation lying in shamble. The dishonourable NCR destroyed us at Sac city, they came with guns, explosives, flame and steel. They killed our greatest warriors and our most honourable citizens. Our elders and our children. Our past and our future. They forced us to flee but we still survived and thrived, and when the time is right, we shall come back to Sac City. The bear think it can drive us to extinction, but again and again we have proven our worth. Our legacy shall not perish, we shall fight for our rightful future, and we will return as heroes, delivering our homeland once again! Until then, let our wrath shake the very core of our neighbours."
+  nf_80s.4.a: "Down with [NCN.GetName]!"
+  nf_80s.4.b: "[WHT.GetName], our ancient foes."
+  nf_80s.4.c: "Honestly, everyone in Utah sucks."
+  #########################
+  nf_80s.5.t: "The Grabbers Call Shotgun"
+  nf_80s.5.d: "The Grabbers put up a valiant fight, but they could not stop the Eighties. Crushed beneath our Road Warriors, their leader is our prisoner. But the Grabbers are free spirits who hate the NCR and all its works, just like us. Webster Adam, their leader, would swear fealty to our case. On the other hand, some Grabbers would gladly work for us if we just give them the peaceful use of our roads. Not everyone can be a Road Warrior, after all."
+  nf_80s.5.a: "Buckle in, Webster."
+  nf_80s.5.a_tt: "\nUnlocks a new advisor who will boost your arms production!\n"
+  nf_80s.5.b: "If they were any good at war they wouldn't have lost."
+  nf_80s.5.b_tt: "\nUnlocks a new advisor who will boost your industry!\n"
+  #########################
+  nf_80s.6.t: "Riding Ruby Valley"
+  nf_80s.6.d: "The Ruby Valley Refuge was settled by cowards who we swept aside during the Nevada road war. They fled to the Ruby Valley, but with our conquest, they've learned they could run, but they can't ride. \n\nTwo of our drivers distinguished themselves. Furiosa was able to hold a position against enormous odds, while Major Kalashnikov kept men driving through the night to strike exposed positions. Which one shall we honour?"
+  nf_80s.6.a: "Furiosa will defend our new empire."
+  nf_80s.6.a_tt: "\nUnlocks a new military advisor\n"
+  nf_80s.6.b: "The Major will keep us moving."
+  #########################
+  nf_80s.7.t: "Hammond's Heroes"
+  nf_80s.7.d: "Conquering Hammond, was not easy, but two of our Elders provided great advice. Windwaker taught us to drive through old abandoned roads, while Stonefoot taught us the advantage of... marching! Both of them offer advice for running our new lands. Windwaker has proposed a new system of tribute, while Stonefoot has suggested using the people of Eastport as our slaves."
+  nf_80s.7.a: "Windwaker, you're so smart."
+  nf_80s.7.a_tt: "\nUnlocks §MWindwaker as an advisor.§!\n"
+  nf_80s.7.b: "Stonefoot is right, let's enslave Eastport."
+  nf_80s.7.b_tt: "§MUnlocks Stonefoot as an advisor§!.\n"
+  #########################
+  nf_80s.8.t: "The Eastport Garage"
+  nf_80s.8.d: "The fall of Eastport has encouraged greater thoughts from our people. Big Bear has cobbled together a system to convert corn and grain into more fuel for our cars, while Davison has developed a way to mount more weapons on our hot rods. Get ready for the Fury Road, New California!  but we can only pick one."
+  nf_80s.8.a: "Big Bear's concerns about fuel efficiency prevail."
+  nf_80s.8.a_tt: "\nUnlocks an advisor to reduce attrition.\n"
+  nf_80s.8.b: "I can't wait to do wheelies in Shady Sands."
+  nf_80s.8.b_tt: "\nUnlocks an advisor to boost our attack.\n"
+  #########################
+  nf_80s.9.t: "The Eighties Attack!"
+  nf_80s.9.d: "Eighties Scouts have approached our border, flying the chequered flag of war. What shall we do?"
+  nf_80s.9.a: "If God is With Us, Then Who is Against Us?"
+  nf_80s.9.b: "Run away!!!!"
+  #########################
+  nf_80s.9.t: "The Eighties Attack!"
+  nf_80s.9.d: "Eighties Scouts have approached our border, flying the chequered flag of war. What shall we do?"
+  nf_80s.9.a: "If God is With Us, Then Who is Against Us?"
+  nf_80s.9.b: "Run away!!!!"
+  #########################
+  nf_80s.10.t: "The New Canaanites Flee!"
+  nf_80s.10.d: "The foolish Canaanites have fled. We would have outrun them (since we have cars, duh), but we'll just loot their land instead."
+  nf_80s.10.a: "Nice!"
+  #########################
+  nf_80s.11.t: "Utah Fights Back!"
+  nf_80s.11.d: "These fools dare oppose the Eighties. They will pay dearly."
+  nf_80s.11.a: "They Will Regret This."
+  eht_activate_escalation_decision: "Activates the ability to escalate the border war."
+  #########################
+  nf_80s.12.t: "The Eighties Prevailed!"
+  nf_80s.12.d: "The raid is over. Now we must bury our dead, but take comfort in knowing that if we live, we live for the Lord; and if we die, we die for the Lord. So, whether we live or die, we belong to the Lord."
+  nf_80s.12.a: "Blessed are those who mourn, for they will be comforted."
+  #########################
+  nf_80s.13.t: "The Border Raid Escalates!"
+  nf_80s.13.d:  "It's no longer just a border skirmish. It's not a raid. This is a full fledged border war. And many  will not survive."
+  nf_80s.13.a: "Let's do it!"
+  #########################
+  nf_80s.14.t: "The Eighties Prevail!"
+  nf_80s.14.d:  "Another burning temple, another broken town. The Eighties have crushed New Canaan, and our fallen will drive the highway in the sky. The future has never looked brighter."
+  nf_80s.14.a: "Another fine road trip."
+  #########################
+  nf_80s.15.t: "We Drove off the Eighties!"
+  nf_80s.15.d:  "At great cost, we have driven the Eighties back to their wasteland homes. With luck they won't be back anytime soon."
+  nf_80s.15.a: "I guess they put on the brakes!"
+  #########################
+  nf_80s.16.t: "We Lost!"
+  nf_80s.16.d:  "The treacherous Canaanites were able to drive our men off, pouring salt in our gas tanks, spiking the roads, and generally refusing to die. We'll get them. Later. Probably."
+  nf_80s.16.a: "Honestly, why didn't we just invade California?"
+  #########################
+  nf_80s.17.t: "Call off the Attack!"
+  nf_80s.17.d:  "The Eighties rely upon mobility.  Given that the Canaanites are entrenched in a position we cannot bypass, there's no point to this attack."
+  nf_80s.17.a: "Why did we attack a single state with ample warning?"
+  #########################
+  nf_80s.18.t: "The Barbarians At the Gates"
+  nf_80s.18.d:  "Yet Again, the 80s prevailed. But the fallen shall be comforted in the arms of the Lord."
+  nf_80s.18.a: "Whoever believes in him should not perish."
+  #########################
+  nf_80s.19.t: "The Eighties Drive Off!"
+  nf_80s.19.d: "We don't know why, but the Eighties Ran Off. Drove off. Sorry."
+  nf_80s.19.a: "I hope they won't come back."
+  #########################
+  nf_80s.20.t: "Why Walk When You Can Drive?"
+  nf_80s.20.d: "[EHT.GetLeader] has come to us with a proposal. Why do we fight, when together, the arms, I mean, legs of the White Legs, and the speed of the Eighties form a deadly combination? Together, New Canaan shall burn!"
+  nf_80s.20.a: "Stronger Together."
+  nf_80s.20.b: "They have no honour."
+  nf_80s.20.b_tt: "The Eighties will probably see this as a basis for a war against you!"
+  #########################
+  nf_80s.21.t: "The White Walkers Spurn Our Alliance!"
+  nf_80s.21.d: "[WHT.GetLeader] spurned our proposal and destroyed our messenger car, dishonouring our followers. How dare he make us walk home in shame? Perhaps he will fill differently when we use his skull as a hood ornament."
+  nf_80s.21.a: "I'm going to do wheelies in their funeral mounds."
+  EHT_whitelegs_spurned_alliance: "The White Legs Spurned the Eighties"
+  #########################
+  nf_80s.22.t: "Salt Upon Wounds Get a Brand New Car!"
+  nf_80s.22.d: "[WHT.GetLeader] agreed to hear our terms. Our messengers have brought him a precious Highwayman, preserved since the war. In return, he has gifted us with slaves and their precious paint. He predicts that white stripes will make our cars go faster."
+  nf_80s.22.a: "Perhaps he does have wisdom."
+  #########################
+  nf_80s.23.t: "The Empire of Salt"
+  nf_80s.23.d: "The White Legs and the 80s can, together, be a powerful force. But forming an alliance with the Eighties, cowards who dare not walk, may be a step too far. Insulting the Eighties now would make them into powerful foes, but it would keep the tribe together."
+  nf_80s.23.a: "Let us form a force that Caesar would fear."
+  nf_80s.23.b: "Nah."
+  nf_80s.23.b_tt: "The Eighties will probably see this as a basis for a war against you!"
+  #########################
+  nf_80s.24.t: "The Trials of the Faithful"
+  nf_80s.24.d: "The Babylonians, the Greeks, the Romans, the Americans. These people have threatened God's people again and again, scourging them with whip and sword, bomb and gun. And now the Eighties and White Legs have come to threaten us. But fear not! For if God is with us, then who is against us?"
+  nf_80s.24.a: "God's people shall endure."
+  nf_80s.24.a_tt: "§g\nPut on the full armour of God, so that you can take your stand against the devil’s schemes.-Ephesians 6:11 \n\n[NCN.GetName] will receive a boost to its militancy!§!"
+  #########################
+  nf_80s.25.t: "The New Persians"
+  nf_80s.25.d: "In the days before Christ, the people of Israel chafed under a foreign yoke. But they received aid and succour from a righteous pagan, the king of the Persians. Now we face a threat from Salt Upon Wounds, who would render under New Canaan as the Assyrians did to the Israelites. The Eighties have offered to work with us, and some claim they are settling down from their raider ways. Perhaps we can work with them."
+  nf_80s.25.a: "We will hear what they have to say."
+  nf_80s.25.b: "Shall we trust those who turn from the Lord?"
+  nf_80s.25.b_tt: "The Eighties will probably hate us for this."
+  #########################
+  nf_80s.26.t: "The Mormons Listen"
+  nf_80s.26.d: "The Mormons are willing to listen to our words of warning about the White Legs. However, they will not yet make an alliance, claiming that our decades of rape and pillage make us less than trustworthy."
+  nf_80s.26.a: "That is tough but fair."
+  ########################
+  nf_80s.27.t: "The Mormons Mock Us."
+  nf_80s.27.d: "The Mormons rejected our proposal, citing our decades of rape, pillage, and conquest. They have urged us to pray and repent, and returned our missionaries with copies of the Bible. This is tough but fair."
+  nf_80s.27.a: "Still going to kill them for it."
+  #########################
+  nf_80s.28.t: "The Ferry Line"
+  nf_80s.28.d: "Although few bother to sail the Great Salt Lake, the Eighties and White Legs have come to an agreement to open a ferry line across the lake.  This will ease trade and protect passengers from tribal attacks. The Eighties have promised that they will even transport vehicles, for a nominal additional fee."
+  nf_80s.28.a: "To progress!"
+  #########################
+  nf_80s.29.t: "The Treaty of the Lake"
+  nf_80s.29.d: "[EHT.GetLeader] has met [NCN.GetLeader] upon Antelope Island, in the Great Sale Lake. The two will discuss the fate of their peoples. The Eighties, under the guidance of the Church of Latter Day Saints, may move towards the light. Or [NCN.GetLeader] may refuse to embrace those who have done so much evil."
+  nf_80s.29.a: "Welcome the prodigal son."
+  nf_80s.29.b: "We shall scatter the nations who delight in war."
+  #########################
+  nf_80s.30.t: "By Land and Sky"
+  nf_80s.30.d: "Area 51 glows at night across the Nevada desert, an unearthly blue that sends shivers down the spines of any who approach. No one knows why the Sky Reavers kill or what their goal is, but everyone knows the tales; of grey monsters from the space between stars, of the flying saucers, of, deathclaw human hybrids. But [EHT.GetLeader] is willing to work with them. Perhaps they can find secrets in the ruins of California, answers in the ruins of Navarro and other facilities lost to time.  And should the Sky Reavers say no, well, the Eighties can always kill them anyway."
+  nf_80s.30.a: "Offer them the sky, if we may have the land."
+  nf_80s.30.b: "I think that UFO ornament would look good on my hood."
+  earth_and_sky_faction_tt: "\nForm the Faction of §MEarth and Sky!§!\n"
+  #########################
+  nf_80s.31.t: "Roaring into Ruby Valley"
+  nf_80s.31.d: "Ruby Valley is a refugee for many who fled the White Legs. But as [EHT.GetLeader] prepares his people for greatness, he has realized they will need to acquire more resources to proceed.  The people of Ruby Valley are a fine, ripe target."
+  nf_80s.31.a: "This is gonna be fun."
+  #########################
+  nf_80s.32.t: "Liberation of the Eighties!"
+  nf_80s.32.d: "Our selflessness in vanquishing the Eighties has made us become seen as a saviour of the people among the Wastes! The Eighties were the scourge of Utah for countless years - now? Thanks to our efforts they are but a memory. Some felt that we were simply going to usurp the reign of power they held - by abstaining and giving power back to the subjugated people we have instead shown our resolve in standing by the needs of the Wasteland."
+  nf_80s.32.a: "They love us!"
+  #########################

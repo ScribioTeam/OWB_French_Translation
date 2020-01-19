@@ -411,12 +411,28 @@
   apc_equipment_3_short:0 "Great War APC"
   apc_equipment_3_desc:0 "Pre-war APCs are the top of the line in matter of what we can manufacture currently. Composite armour plating with spall liners, as well as Kevlar protection for crew and mounted infantry alike, will save the lives of many foot soldier. The short infantry support gun, capable of firing both high explosive and anti-tank shells, will also blast apart any fortified position, vehicle, or enemy that our boys on the ground may encounter."
 
- # Behemoth
+ # Behemoth/monsters
   behemoth_equipment_1:0 "Super Mutant Behemoth"
   behemoth_equipment_1_short:0 "Super Mutant Behemoth"
   behemoth_equipment_1_desc:0 ""
+  mirelurk_equipment_1:0 "Mirelurk Killclaws"
+  mirelurk_equipment_1_short:0 "Mirelurks"
+  mirelurk_equipment_1_desc:0 "Dangerous predators, but with the right methods, even these can be used to wage war."
+  molerat_equipment_1:0 "Molerat Mutants"
+  molerat_equipment_1_short:0 "Moles"
+  molerat_equipment_1_desc:0 "Molerats, while not the most conventional animal to use in combat, can still do what needs to be done to win the fight."
+
+  mirelurk_equipment:0 "Mirelurks"
+  mirelurk_equipment_desc:0 "Tamed Mirelurks"
+  molerat_equipment:0 "Molerat Mutants"
+  molerat_equipment_desc:0 "Molerats, what did ya expect?"
 
  # Fighter
+
+  car_fighter_equipment:0 "Carrier Fighter"
+  hev_fighter_equipment:0 "Heavy Fighter"
+  long_fighter_equipment:0 "Long Range Fighter"
+
   fighter_equipment_1:0 "Glider"
   fighter_equipment_1_short:0 "Glider"
   fighter_equipment_1_desc:0 "Our engineers have, after multiple stressful tests, invented a glider able to strike from the sky. Armed with two submachine guns, a complement of grenades for ground strikes, and a lot of prayers, our pilots can now support frontline troops. A mobile catapult system, installed on a truck bed for launching procedures, also gives them a considerably increased range, as the trucks have more autonomy than our gliders."
@@ -478,6 +494,11 @@
   long_fighter_equipment_5_desc:0 "Focusing more on air-to-air missile systems at the detriment of our mounted ballistic weaponry and ammunition load let us lighten our fighters, which increases their range, at the cost of some air attack."
 
  # CAS
+
+  hev_cas_equipment:0 "Heavy Cas Plane"
+  car_cas_equipment:0 "Carrier Cas Plane"
+  long_cas_equipment:0 "Long Range Cas Plane"
+
   cas_equipment_1:0 "Triplane Attacker"
   cas_equipment_1_short:0 "Triplane Attacker"
   cas_equipment_1_desc:0 "Triplanes, compared to biplanes, increases the carry capacity of our air assets. Integrating such a design in our air force allows the manufacturing of CAS assets, armed with a single 37mm hand-loaded cannon, combined with an under-fuselage pylon for a 250lb high explosive bombs. A rear-facing gun position, equipped with a water-cooled machine gun, let our triplanes defend themselves against aerial threats."

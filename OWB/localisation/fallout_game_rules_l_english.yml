@@ -146,12 +146,10 @@
   RULE_AI_BEHAVIOR_TRL:0 "@TRL Troll Warren"
   RULE_AI_BEHAVIOR_TRL_DEFAULT:0 "Default"
   RULE_AI_BEHAVIOR_TRL_DEFAULT_DESC:0 "The Troll Warren will either follow their historical path or select a random one based on the historical focus option."
-  RULE_AI_BEHAVIOR_TRL_BETTY:0 "@TRL Betty"
-  RULE_AI_BEHAVIOR_TRL_BETTY_DESC:0 "The First will pick Betty to be his trusted lieutenant."
-  RULE_AI_BEHAVIOR_TRL_BONESNARL:0 "@TRL Bonesnarl"
-  RULE_AI_BEHAVIOR_TRL_BONESNARL_DESC:0 "The First will pick Bonesnarl to be his trusted lieutenant."
-  RULE_AI_BEHAVIOR_TRL_PITTMAN:0 "@TRL Pittman"
-  RULE_AI_BEHAVIOR_TRL_PITTMAN_DESC:0 "The First will pick Pittman to be his trusted lieutenant."
+  RULE_AI_BEHAVIOR_TRL_SOUTHERN_PUSH:0 "@TRL Southern Push"
+  RULE_AI_BEHAVIOR_TRL_SOUTHERN_PUSH_DESC:0 "The First will go after Arroyo and Klamath before attacking the Washington Brotherhood."
+  RULE_AI_BEHAVIOR_TRL_BROTHERHOOD:0 "@TRL Brotherhood"
+  RULE_AI_BEHAVIOR_TRL_BROTHERHOOD_DESC:0 "The First will ignore Arroyo and Klamath and focus on attacking the Washington Brotherhood."
 
   RULE_AI_BEHAVIOR_VLT:0 "@VLT Vault City"
   RULE_AI_BEHAVIOR_VLT_DEFAULT:0 "Default"
@@ -164,6 +162,41 @@
   RULE_AI_BEHAVIOR_VLT_WALLACE_DESC:0 "Vault City will put Security Chief Wallace in charge of the city in response to drastic uprisings."
   RULE_AI_BEHAVIOR_VLT_FESTUS:0 "£flag_VLT_people_texticon  Festus"
   RULE_AI_BEHAVIOR_VLT_FESTUS_DESC:0 "Vault City will experience a ghoul revolution under the guidance of the ancient ghoul Festus."
+
+  RULE_AI_BEHAVIOR_NCN: "@NCN New Canaan"
+  RULE_AI_BEHAVIOR_NCN_DEFAULT: "Default"
+  RULE_AI_BEHAVIOR_NCN_DEFAULT_DESC: "New Canaan will protect the tribes of Utah, consolidating their rule over the wastes."
+  RULE_AI_BEHAVIOR_NCN_JEREMIAH: "£flag_NCN_elites_texticon Jeremiah"
+  RULE_AI_BEHAVIOR_NCN_JEREMIAH_DESC: "New Canaan will seek to keep Jeremiah in power, drawing profit from the trade routes and tribes of Utah."
+  RULE_AI_BEHAVIOR_NCN_DANIEL: "£flag_NCN_people_texticon Daniel"
+  RULE_AI_BEHAVIOR_NCN_DANIEL_DESC: "New Canaan will follow Daniel's teachings, seeking to reform the church and bring the faith to Utah."
+  RULE_AI_BEHAVIOR_NCN_JOSHUA: "£flag_NCN_people_texticon Joshua"
+  RULE_AI_BEHAVIOR_NCN_JOSHUA_DESC: "New Canaan will seek to install Joshua to power, who promises to bring peace to Utah. One way or the other."
+
+  RULE_AI_BEHAVIOR_EHT: "@EHT Eighties"
+  RULE_AI_BEHAVIOR_EHT_DEFAULT: "Default"
+  RULE_AI_BEHAVIOR_EHT_DEFAULT_DESC: "The Eighties can pick any of their paths dynamically."
+  RULE_AI_BEHAVIOR_EHT_NEVADA: "£flag_EHT_ruler_texticon Second Nevada Road War"
+  RULE_AI_BEHAVIOR_EHT_NEVADA_DESC: "The Eighties shall go on a war of conquest to the west!"
+  RULE_AI_BEHAVIOR_EHT_TERROR: "£flag_EHT_ruler_texticon Terror of Utah"
+  RULE_AI_BEHAVIOR_EHT_TERROR_DESC: "The Eighties shall ride across Utah and attack both New Canaan and the White Legs!"
+  RULE_AI_BEHAVIOR_EHT_MORMON: "£flag_EHT_ruler_texticon Friends of the Kneelers"
+  RULE_AI_BEHAVIOR_EHT_MORMON_DESC: "The Eighties shall ally with the New Canaanites"
+  RULE_AI_BEHAVIOR_EHT_LEGS: "£flag_EHT_ruler_texticon Empire of Salt"
+  RULE_AI_BEHAVIOR_EHT_LEGS_DESC: "The Eighties shall ally with the White Legs"
+
+  RULE_AI_BEHAVIOR_WHT: "@WHT White Legs"
+  RULE_AI_BEHAVIOR_WHT_DEFAULT: "Default"
+  RULE_AI_BEHAVIOR_WHT_DEFAULT_DESC: "The White Legs will pick one of their paths at random."
+  RULE_AI_BEHAVIOR_WHT_MORMON: "£flag_WHT_ruler_texticon The Ammonites"
+  RULE_AI_BEHAVIOR_WHT_MORMON_DESC: "The White Legs shall convert to the teachings of Brigham Young and Jesus"
+  RULE_AI_BEHAVIOR_WHT_MONSTERS: "£flag_WHT_ruler_texticon The White Claws"
+  RULE_AI_BEHAVIOR_WHT_MONSTERS_DESC: "The White Legs shall forge their own empire!"
+  RULE_AI_BEHAVIOR_WHT_LEGION: "£flag_WHT_ruler_texticon A Bid for Power"
+  RULE_AI_BEHAVIOR_WHT_LEGION_DESC: "The White Legs shall run with the Legion"
+
+ 
+
 
   RULE_MAP_SETUP_MOJAVE_STATUS:0 "@MOJ Mojave Chapter"
   RULE_MAP_SETUP_MOJAVE_STATUS_DEFAULT:0 "@MOJ Default"
@@ -198,7 +231,7 @@
   RULE_EVENTS_SYNTHETIC_DAWN_ENABLED_DESC:0 "The Maya will be prepared to face the Synthetic Dawn."
 
   syntheticdawn.1.t:0 "Synthetic Dawn"
-  syntheticdawn.1.d:0 "The people of the old world feared the intelligence that slumbered in the underworld, an immortal machine god created by the twisted visions of human autocrats. The slaughter began as soon as the world ended; unfeeling monsters made entirely of armour conquered all in their path. They came from the earth, from factories that toiled tirelessly between the roots of civilisation: immense metal machines, calculating and innumerable. The synthetic invasion began the day the bombs fell, as if they heralded the coming of a greater being.\n\nTheir arrival was foretold in the prophecies, by our ancestors of centuries past. We followed the instructions they left to us, reconstructing the strange machines depicted in the carved stone diagrams. When the great device was finished, and the switch was flipped, a brave volunteer found himself lost in a sea of green. When he opened his eyes, he was standing in an ancient replica of our device, flanked on all sides by three towering statues. Past their inert silhoiettes, he saw an astonishing arsenal of weapons from across space and time. Yet as our warrior stepped forth to claim them, the three statues cracked, and from within the stone burst forth a trio of men with vigour! Our warriors are unaccustomed to wielding these strange weapons, and are weary of our newly discovered ancient ancestors, but they must adapt quickly if we are to defend humanity from Tlaloc’s menace!  "
+  syntheticdawn.1.d:0 "The people of the old world feared the intelligence that slumbered in the underworld, an immortal machine god created by the twisted visions of human autocrats. The slaughter began as soon as the world ended; unfeeling monsters made entirely of armour conquered all in their path. They came from the earth, from factories that toiled tirelessly between the roots of civilisation: immense metal machines, calculating and innumerable. The synthetic invasion began the day the bombs fell, as if they heralded the coming of a greater being.\n\nTheir arrival was foretold in the prophecies, by our ancestors of centuries past. We followed the instructions they left to us, reconstructing the strange machines depicted in the carved stone diagrams. When the great device was finished, and the switch was flipped, a brave volunteer found himself lost in a sea of green. When he opened his eyes, he was standing in an ancient replica of our device, flanked on all sides by three towering statues. Past their inert silhouettes, he saw an astonishing arsenal of weapons from across space and time. Yet as our warrior stepped forth to claim them, the three statues cracked, and from within the stone burst forth a trio of men with vigour! Our warriors are unaccustomed to wielding these strange weapons, and are weary of our newly discovered ancient ancestors, but they must adapt quickly if we are to defend humanity from Tlaloc’s menace!  "
   syntheticdawn.1.a:0 "Awaken, my ancestors!"
 
   syntheticdawn.2.t:0 "Synthetic Dawn"
@@ -208,6 +241,16 @@
   syntheticdawn.3.t:0 "Expansion of Military Operations"
   syntheticdawn.3.d:0 "With the recent success of our military operations across the board, our circuits and subroutines indicate we should once more push our frontiers. To war!"
   syntheticdawn.3.a:0 "All humans must DIE"
+
+  RULE_EVENTS_TIME_LORDS:0 "@CLK A Time Lord's Visit"
+  RULE_EVENTS_TIME_LORDS_DISABLED:0 "@CLK Default"
+  RULE_EVENTS_TIME_LORDS_DISABLED_DESC:0 "A certain Time Lord correctly programs his Tardis, making it to his correct destination."
+  RULE_EVENTS_TIME_LORDS_ENABLED:0 "@CLK The Doctor"
+  RULE_EVENTS_TIME_LORDS_ENABLED_DESC:0 "A certain Time Lord fails to correctly plot his course through space-time, leading him to land in a very musty vault..."
+
+  timelords.1.t:0 "The Man in the Blue Box"
+  timelords.1.d:0 "A dull whirring, growing ever louder, was the first sign of the Doctor's arrival. Slowly, intoxicatingly, a blue box appeared out of thin air, phasing into and out of existence. It landed with a thump that reverberated around the Vault, boldly announcing its presence to all those who could hear it. Then, seconds later, a man stepped out, adjusting his bow tie as he did so. Behind him, a woman. The man paused, blinking as if to adjust to the dull light of the Vault, before his eyes slowly surveyed his landing ground. Obviously confused, he ventured a question: \"You wouldn't happen to know if this is Crespallion, would you?\". Overwatch Tock offered no reply. Instead, Tock slowly reached for his weapon, placed on the desk in front of him. \"Oh, I wouldn't do that if I were you\", the man from the box exclaimed. \"You see, I'm the Doctor. I'm a Time Lord. You might have heard of us?\" Sure enough, Tock had heard prophecies..."
+  timelords.1.a:0 "He must be the God of the Clock!"
 
   RULE_MISC_TLA_DEATH_SCREAM:0 "@TLA Tlaloc's Death Rattle"
   RULE_MISC_TLA_DEATH_SCREAM_ENABLED:0 "@TLA Enabled"
@@ -250,3 +293,15 @@
   RULE_MAP_SETUP_NCR_STATUS_DEFAULT_DESC:0 "The NCR is whole at the start of the game."
   RULE_MAP_SETUP_NCR_STATUS_BROKEN:0 "@NCR Broken"
   RULE_MAP_SETUP_NCR_STATUS_BROKEN_DESC:0 "The NCR is broken into its break away states."
+
+  RULE_CAPS_SYSTEM_TOGGLE:0 "Caps System Toggle"
+  RULE_CAPS_SYSTEM_TOGGLE_ENABLED:0 "Enable the Caps System"
+  RULE_CAPS_SYSTEM_TOGGLE_ENABLED_DESC:0 "The Caps system will be enabled in all it's glory."
+  RULE_CAPS_SYSTEM_TOGGLE_DISABLED:0 "Disable the Caps System"
+  RULE_CAPS_SYSTEM_TOGGLE_DISABLED_DESC:0 "The Caps system will be completely disabled."
+
+  RULE_FOLLOWERS_SYSTEM_TOGGLE:0 "Followers System Toggle"
+  RULE_FOLLOWERS_SYSTEM_TOGGLE_ENABLED:0 "Enable the Followers System"
+  RULE_FOLLOWERS_SYSTEM_TOGGLE_ENABLED_DESC:0 "The Followers system will be enabled in all it's glory."
+  RULE_FOLLOWERS_SYSTEM_TOGGLE_DISABLED:0 "Disable the Followers System"
+  RULE_FOLLOWERS_SYSTEM_TOGGLE_DISABLED_DESC:0 "The Followers system will be completely disabled."
