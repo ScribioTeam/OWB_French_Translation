@@ -134,12 +134,12 @@
   ## The Warren (ids 80 to 89)
   # 80: Generic
   downfall.80.t: "The Capture of the Warren"
-  downfall.80.d: "The Mutant armies of [TRL.GetName] have fallen to [ROOT.GetNameDef]. Is there any future for mutantkind in the Wasteland now?"
+  downfall.80.d: "The Mutant armies of [TRL.GetName] have fallen to [ROOT.GetNameDef], the FEV filled caves surrounding Crater Lake becoming militarily occupied by the invading force. With the Mutants within the Warren being forced to flee their homes in retreat is there any future for mutantkind in the far north now?"
   downfall.80.a: "A grave day for Mutants everywhere."
   downfall.80.b: "They were never much attached to any one place."
   downfall.80.c: "Purge them from the lands!"
   downfall.80.e: "The world will be glad to see them gone!"
-  downfall.80.f: "Even the "
+  downfall.80.f: "What will happen in the north now?"
   # 81: To NCR
   # 82: To WBH
   # 83: To Generic Brotherhood

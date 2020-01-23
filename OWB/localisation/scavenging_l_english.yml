@@ -45,6 +45,7 @@
   scavenge.3.t: "Deathclaws Ate Our Team!"
   scavenge.3.d: "[ROOT.GetLeader], terrible news. A pack of deathclaws set upon our scavenging expedition, stripping their flesh like gecko on a stick. The few bloody survivors have sworn never to visit that site again. "
   scavenge.3.a: "This is a terrible day for our men and nation."
+  scav_deathclaw_tt: "§gSome of our team managed to make it back to our lands, bringing with them horrifying tales...§!\n"
 
   scavenge.4.t: "Contact Lost!"
   scavenge.4.d: "[Root.GetLeader], some of our scavengers went missing. We can't raise them and we only have a message with their last known location. It is your call whether we try to rescue them."
@@ -96,7 +97,7 @@
 
   # Scavenging project initiated
   scavenge.15.t: "The Reclamation Authority"
-  scavenge.15.d: "[Leader.GetName] has decide to construct a Reclamation Authority, devoted to promoting scavenging in the Wasteland. This will give our nation expertise in scouring the Wastes."
+  scavenge.15.d: "[Root.GetLeader] has decide to construct a Reclamation Authority, devoted to promoting scavenging in the Wasteland. This will give our nation expertise in scouring the Wastes."
   scavenge.15.a: "The Old World's secrets will be ours!"
 
   # Scaving dismantled

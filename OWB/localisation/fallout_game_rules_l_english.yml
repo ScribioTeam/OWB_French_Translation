@@ -195,7 +195,7 @@
   RULE_AI_BEHAVIOR_WHT_LEGION: "£flag_WHT_ruler_texticon A Bid for Power"
   RULE_AI_BEHAVIOR_WHT_LEGION_DESC: "The White Legs shall run with the Legion"
 
- 
+
 
 
   RULE_MAP_SETUP_MOJAVE_STATUS:0 "@MOJ Mojave Chapter"
@@ -305,3 +305,9 @@
   RULE_FOLLOWERS_SYSTEM_TOGGLE_ENABLED_DESC:0 "The Followers system will be enabled in all it's glory."
   RULE_FOLLOWERS_SYSTEM_TOGGLE_DISABLED:0 "Disable the Followers System"
   RULE_FOLLOWERS_SYSTEM_TOGGLE_DISABLED_DESC:0 "The Followers system will be completely disabled."
+
+  RULE_SCAVENGING:0 "Scavenging System Toggle"
+  RULE_SCAVENGING_ENABLED:0 "Enable the Scavenging System"
+  RULE_SCAVENGING_ENABLED_DESC:0 ""
+  RULE_SCAVENGING_DISABLED:0 "Disable the Scavenging System"
+  RULE_SCAVENGING_DISABLED_DESC:0 ""

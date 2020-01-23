@@ -176,6 +176,11 @@
   DIS_melee_equipment_2_short: "Conch Knife"
   DIS_melee_equipment_2_desc: "One of the effects from the Great War was actually a warming of the seas. Two hundred years of no sea travel, warmer oceans and idle mutation has allowed the Anacapa Coral Reef System to spread across most of the western United States seaboard. Off the coast of Oregon tribals pick up bits of coral washed onto the sea for building construction, rituals and even armor and weapons!\nConch Knives are a part of this culture. Two pieces of shell grafted together with the conch shell in question being sharpened to a razor point these weapons made for effective slicing and dicing of any tribal, sacrifice or mutant."
   
+  # EHT (The Eighties)
+  EHT_ballistic_equipment_2: ".45 Automatic Submachine Gun"
+  EHT_ballistic_equipment_2_short: ".45 Auto SMG"
+  EHT_ballistic_equipment_2_desc: "The .45 automatic submachine gun puts out a devastating amount of firepower at close ranges."
+
   # ENC (Enclave, both New Reno and NCR variants)
   ENC_energy_equipment_3:0 "M1 Winchester"
   ENC_energy_equipment_3_short:0 "M1 Winchester"
@@ -252,7 +257,7 @@
   NCN_ballistic_equipment_1_desc: "\"This type of .45 automatic pistol was designed by one of my tribe almost four hundred years ago. Learning its use is a New Canaanite rite of passage.\" - Joshua Graham"
   NCN_ballistic_equipment_2: ".45 Automatic Submachine Gun"
   NCN_ballistic_equipment_2_short: ".45 Auto SMG"
-  NCN_ballistic_equipment_2_desc: "Also designed by an ancestor of the New Caananites, the .45 automatic submachine gun puts out a devastating amount of firepower at close ranges."
+  NCN_ballistic_equipment_2_desc: "Also designed by an ancestor of the New Canaanites, the .45 automatic submachine gun puts out a devastating amount of firepower at close ranges."
 
   # NCR (New California Republic)
   NCR_ballistic_equipment_1:0 "M&A 9mm Pistol"
