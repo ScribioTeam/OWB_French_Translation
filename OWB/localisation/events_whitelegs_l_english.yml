@@ -16,7 +16,7 @@
   nf_whitelegs.3.b: "Some of the missionaries have much to teach us."
   ########################
   nf_whitelegs.4.t: "The Spanish Fork Armoury"
-  nf_whitelegs.4.d: "Our people will sing of this victory for generations! Ulysses led a band of warriors to the Spanish Fork, and borke in.  In a daring raid, cutting through the New Canaannites like brahmin for the slaughter, we broke into the fortress and escaped with hundreds, nay, thousands of weapons and ammunition. Now Ulysses is preparing to lead our people in the final battle. To war! To war!"
+  nf_whitelegs.4.d: "Our people will sing of this victory for generations! Ulysses led a band of warriors to the Spanish Fork, and broke in.  In a daring raid, cutting through the New Canaanites like brahmin for the slaughter, we broke into the fortress and escaped with hundreds, nay, thousands of weapons and ammunition. Now Ulysses is preparing to lead our people in the final battle. To war! To war!"
   nf_whitelegs.4.a:0 "The tears in his eyes must be a sign of pride."
   nf_whitelegs.4.a.tt:0 "You will gain 5,000 Storm Drums. Baika-good, fren!\n\n"
   ########################
@@ -114,15 +114,11 @@
   nf_whitelegs.23.t: "The Wall of Jericho"
   nf_whitelegs.23.d: "Alas, the Eighties have held the walls of Jericho. We will need to take another path to hit New Canaan."
   nf_whitelegs.23.a: "We shall avenge our honour one day."
-
-  ########################
-  nf_whitelegs.23.t: "The Wall of Jericho"
-  nf_whitelegs.23.d: "Alas, the Eighties have held the walls of Jericho. We will need to take another path to hit New Canaan."
-  nf_whitelegs.23.a: "We shall avenge our honour one day."
  ########################
   nf_whitelegs.24.t: "Jericho Falls"
   nf_whitelegs.24.d: "Somehow the White Legs drove our men from Jericho. Granted it's a useless salt pan, but still, those arseholes."
   nf_whitelegs.24.a: "We'll get them one day."
+  nf_whitelegs.24_tt: "\n[213.GetName] will be transferred to [WHT.GetLeader]"
   #######################
   nf_whitelegs.25.t: "Jericho Stands!"
   nf_whitelegs.25.d: "[WHT.GetLeader] will have to try again, because we have held Jericho against him and his men. The fool."

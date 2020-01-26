@@ -15,7 +15,7 @@
   government_events.3.a_tt: "\n§RYou now view [FROM.Getname] as a threat to your way of life.§! Five slaves ran away!\n"
 
   government_events.4.t: "A Song From the Front"
-  government_events.4.d: "[ROOT.ADJ] forces have fought heroically against our enemies, and one of our soldiers has composed a little poem from the front. We could play this throughout the nation to rally the nation to the cause."
+  government_events.4.d: "[ROOT.GetAdjective] forces have fought heroically against our enemies, and one of our soldiers has composed a little poem from the front. We could play this throughout the nation to rally the nation to the cause."
   government_events.4.a: "We will make sure everyone listens."
   government_events.4.b: "I'd rather listen to the Inkspots."
 

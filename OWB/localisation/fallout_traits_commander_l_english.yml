@@ -45,7 +45,7 @@
   nerd_rage_trait_desc:0 "Genius. Is. ANGRY! You've been pushed around long enough! With the Nerd Rage Trait, you can put your brain to use organising troop movements on the fly. Don't let jocks and bullies keep you down, use your army to show them who's boss!"
 
   agile_trait:0 "Agile"
-  agile_trait_desc:0 "Growing up in a hostile world that emphasis's the importance of living to fight another day, agile leaders drive their units to do better and live longer, instilling in them a level of physical fitness most commanders can only dream of."
+  agile_trait_desc:0 "Growing up in a hostile world that emphasizes the importance of living to fight another day, agile leaders drive their units to do better and live longer, instilling in them a level of physical fitness most commanders can only dream of."
   gunslinger_trait:0 "Gunslinger"
   gunslinger_trait_desc:0 "Channel the spirit of the old west! With a quick hand and steady aim, you'll be able to shoot down any varmit who dares disturb the peace with ease."
   commando_trait:0 "Commando"
@@ -170,3 +170,7 @@
   fast_shot_trait_desc:0 ""
   finesse_trait:0 "Finesse"
   finesse_trait_desc:0 ""
+
+  #Unique Traits
+  conqueror:0 "Conqueror"
+  conqueror_desc:0 ""

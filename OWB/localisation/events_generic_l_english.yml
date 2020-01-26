@@ -6,3 +6,7 @@
   generic.180.t:0 "[From.GetName] is Critically Damaged"
   generic.180.d:0 "After a prolonged bout of combat, [From.GetRank] [From.GetName] returned to the camp suffering heavy damage. Many of [From.GetHerHis] critical components were blown out, and the [From.GetRank]’s structural integrity is incredibly low. [From.GetName] was fortunate to return in a working condition, and will need to undergo extensive repairs before [From.GetSheHe] is capable of full operation once more."
   generic.180.a:0 "That's a Lotta Damage!"
+
+  helper_events.1.title:0 "[FROM.GetName] Demands Territory!"
+  helper_events.1.desc:0 "The [FROM.GetName] demands territory we currently control as they feel it if rightfully their land! We must deal with this as a decision. Please go to your decisions tab and deal with this so you don't get randomly war declared on and miss why you did."
+  helper_events.1.a:0 "Guess we'll deal with this."

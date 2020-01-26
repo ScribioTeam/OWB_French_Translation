@@ -30,6 +30,7 @@
   string_border_war_select_state_tt_disabled_no_matching_neighbor_state: "§RThis state has no matching neighbor state in which a border war could be started.§!"
   string_border_war_select_state_tt_disabled_no_divisions_in_state: "§RWe do not have any divisions in this state to start a border war.§!"
   string_border_war_select_state_tt_disabled_war_with_owner: "§RWe already are at war with the owner of this state, which makes it impossible to start a border war in this state.§!"
+  string_border_war_select_state_tt_disabled_impassable_states: "§RThe terrain between §Y[?Root.selected_own_state_for_border_war.GetName]§! and §Y[This.GetName]§! is impassable.§W"
   string_border_war_select_state_tt: "§GClick§! to select this state. \n§GRight-click§! to center the map on §Y[This.GetName]§!."
   
   string_border_war_select_state_tt_delayed_own_state: "Here you select your own state from which you want the border war to start from. \nSelecting this state will display all valid neighbor states on the right."

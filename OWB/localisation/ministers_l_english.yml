@@ -169,7 +169,7 @@
   hell_razor_desc: "Hell Razor hasn't changed much since ascending to the position of Ranger General; his tactics are still recklessly aggressive, and tend to garner the same results; massive casualties on both sides."
 
   mason_salvatore: "Mason Salvatore"
-  mason_salvatore_desc: "The Salvatores are known for being schemers, dealers, movers, shakers; Mason will improve our economic capacity, but he will be working again us at every turn, looking for his chance."
+  mason_salvatore_desc: "The Salvatores are known for being schemers, dealers, movers, shakers; Mason will improve our economic capacity, but he will be working against us at every turn, looking for his chance."
   two_timing_dealer: "Two-Timing Dealer"
 
   christopher_wright: "Christopher Wright"
@@ -464,6 +464,8 @@
   EHT_big_bear: "Big Bear Honoured"
   EHT_davison: "Davison Honoured"
   davison: "Driver Davison"
+  EHT_soldiers_grabbers: "Turned New Hammond's Craftsmen to War"
+  EHT_civilians_grabbers: "Enslaved the People"
 
 
 
@@ -636,3 +638,6 @@
   vlt_ghoul_chief_asqot:0 "Asqot"
   vlt_mutant_chief_bugs:0 "Bugs"
   vlt_mutant_chief_slime:0 "Slime"
+
+  scout_ambrosone: "Scout Ambrosone"
+
