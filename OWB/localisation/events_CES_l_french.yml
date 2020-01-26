@@ -1,6 +1,6 @@
 ﻿l_french:
- nf_legion.1.t: "La Pétition des Whites Legs "
- nf_legion.1.d: "Un envoyé de la Légion de César a visité nos terres tribales et nous a proposé un accord. Prêter allégance à la Légion de César et abandonner les vieilles manières. Refuser, et ressentir la pleine puissance de la Légion."
+ nf_legion.1.t:0 "L'Honneur du Taureau"
+ nf_legion.1.d:0 "César a continué à nous couvrir de faveurs. Si nous promettons de travailler à ses fins dans l'Utah, nous recevrons davantage de soldats pour former nos guerriers. Pourquoi aurions-nous refusé ?"
  nf_legion.1.a: "Bien sûr, nous acceptons"
  nf_legion.1.b: "Jamais!"
  
@@ -12,6 +12,10 @@
  nf_legion.1001.a:0 "L'arrogance !"
  
  nf_legion.2.t: "La Pétition des Eighties"
+ nf_legion.1002.title:0 "Des conseillers pour l'Utah"
+ nf_legion.1002.desc:0 "[WHT.GetLeader] ne peut pas diriger l'Utah depuis une tente. [CES.GetName] a envoyé des conseillers pour aider à gouverner la terre, habiles dans l'art de briser le joug d'un peuple. Avec leur aide, tout l'Utah apprendra pourquoi les White Legs marchent fièrement."
+ nf_legion.1002.a:0 "Il vaut mieux faire partie de la meute que d'être un mouton."
+ nf_legion.1002.a_tt:0 "§g\nLe coût pour rendre les États de l'Utah en état coeur est réduit de moitié."
  nf_legion.2.d: "Un envoyé de la Légion de César a visité nos terres tribales et nous a proposé un accord. Prêter allégance à la Légion de César et abandonner les vieilles manières. Refuser, et ressentir la pleine puissance de la Légion."
  nf_legion.2.a: "Bien sûr, nous acceptons"
  nf_legion.2.b: "Jamais!"

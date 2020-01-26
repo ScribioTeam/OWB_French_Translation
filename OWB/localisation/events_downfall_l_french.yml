@@ -134,7 +134,7 @@
   ## The Warren (ids 80 to 89)
   # 80: Generic
  downfall.80.t:0 "La Capture du Warren"
- downfall.80.d:0 "TODO"
+ downfall.80.d:0 "Les armées mutantes de [TRL.GetName] sont tombées sur [ROOT.GetNameDef], les grottes remplies de FEV entourant Crater Lake devenant militairement occupées par la force d'invasion. Les mutants de Warren ayant été forcés de fuir leurs foyers pour se retirer, y a-t-il un avenir pour l'humanité mutante dans le Grand Nord maintenant ?"
  downfall.80.a:0 "Un jour grave pour les mutants partout."
  downfall.80.b:0 "Ils n'étaient jamais très attachés à un endroit."
  downfall.80.c:0 "Purgez-les des terres !"
@@ -159,11 +159,25 @@
 
   ## North Koover (ids 100 to 109)
   # 100: Generic
+ downfall.100.t:0 "Le Nord de Koover pris dans un raid"
+ downfall.100.d:0 "Ironiquement, la capitale des pirates de la Côte Brisée, North Koover, est tombée aux mains de groupes d'attaque envoyés par les forces de [Root.GetNameDef]. L'infanterie navale a débarqué sur les plages de la Haute-Colombie en pleine nuit, prenant au dépourvu le petit détachement de sécurité de North Koover. Selon des sources officielles, avant que les renforts ennemis ne puissent être signalés, ces raids ont rapidement sécurisé les infrastructures clés de la ville, éliminé rapidement les dirigeants de la chaîne de commandement ennemie et se sont retranchés dans les intersections, sur les gratte-ciel et dans les magasins abandonnés. En peu de temps, la force principale [Root.GetNameDef] s'est mise à renforcer ces raids et a fait avancer la ligne de front dans la guerre contre la Côte Brisée. Bien que la Côte Brisée soit encore très engagée dans le combat, nous soupçonnons que cette attaque a plongé leur structure de commandement dans une frénésie. Il reste à voir si [Root.GetNameDef] sera capable de maintenir l'élan de cette victoire."
+ downfall.100.a:0 "Nous allons reprendre North Koover - et prendre leur vie aussi !"
+ downfall.100.b:0 "La Côte a saigné pour cette ville. Aidons à la reprendre."
+ downfall.100.c:0 "Nous avons fait un raid sur les pilleurs. Justice poétique !"
+ downfall.100.e:0 "Grâce à [Root.GetNameDef], nous pouvons respirer de soulagement."
+ downfall.100.f:0 "Est-ce que [Root.GetNameDef] peut s'accrocher à North Koover ? Le temps nous le dira."
   # 101: To Generic Unbroken Resistance Member
 
   ## Heaven's Gate (ids 110 to 119)
   # 110: Generic
   # 111: To NCN
+ downfall.110.t:0 "La chute de Heaven's Gate"
+ downfall.110.d:0 "La sainte croisade contre [Root.GetNameDef] s'est avérée être trop difficile à gérer pour Heaven's Gate. Après une campagne épouvantable, les carcasses des fidèles et de leurs créations à la vapeur ont jonché la terre promise, créant une piste qui menait jusqu'aux portes brisées de la cathédrale et à la ville saccagée elle-même. Les combats dans la ville ont été intenses, car chaque homme, femme et enfant valide a reçu l'ordre du clergé de donner sa vie pour la vision de l'Archange d'un monde pur. Les forces de [Root.GetNameDef] ont été impliquées dans d'âpres combats urbains alors qu'elles se battaient en montant pour atteindre la cathédrale au sommet de la montagne sur laquelle la ville reposait, chaque bloc de la ville étant fortement contesté par une infanterie et une milice civile fortement retranchées. Pour une fois depuis des décennies, la fumée provenant de la ville n'était pas un appel à la messe."
+ downfall.110.a:0 "Ils sauront que je suis l'Éternel quand j'exercerai ma vengeance sur eux."
+ downfall.110.b:0 "Nous ne laisserons pas la Heaven's Gate être souillée par les pécheurs !"
+ downfall.110.c:0 "Et nous avons pris la Porte, et Dieu a vu qu'elle était bonne."
+ downfall.110.e:0 "Et nous avons respiré de soulagement, car les croisés ont été vaincus. "
+ downfall.110.f:0 "On dirait qu'ils se sont essoufflés."
 
   ## Hidden Valley (ids 120 to 129)
   # 120: Generic
@@ -209,23 +223,58 @@
 
   ## Los Mochis (ids 150 to 159)
   # 150: Generic
+ downfall.150.t:0 "Les masques brisés"
+ downfall.150.d:0 "Après de longs combats et avec de nombreux soldats qui ont donné leur vie des deux côtés, les Free Fighters ont finalement été repoussés de leurs frontières initiales et ont finalement perdu leur capitale, Los Mochis. Conscients de la dévastation que subirait leur peuple s'ils n'agissaient pas rapidement, les Tres Mascaras et leurs combattants d'élite se sont jurés de gagner le plus de temps possible pour que leur peuple puisse échapper aux combats."
+ downfall.150.a:0 "On ne peut pas vaincre l'esprit d'un Free Fighter. Nous reviendrons !"
+ downfall.150.b:0 "Cette fois, nous allons nous battre pour la liberté des Free Fighters !"
+ downfall.150.c:0 "Les vrais héros ne porteraient pas de masques ridicules et ne tomberaient pas si facilement."
+ downfall.150.e:0 "[Root.GetNameDef] a aidé le Mexique en éliminant ces justiciers."
+ downfall.150.f:0 "Las Tres Mascaras et leurs habitants peuvent-ils être si facilement battus ?"
 
   ## Reynosa (ids 160 to 169)
   # 160: Generic
+  downfall.160.t:0 "Deux fois en deux vies"
+ downfall.160.d:0 "Des combats intenses et meurtriers ont pris fin dans la capitale de la jungle, Reynosa. Les forces de [Root.GetNameDef] ont dégagé les robots et enrôlé les forces des positions retranchées. Les reporters attachés aux unités de première ligne ont déclaré que les soldats vivants à Reynosa étaient rassemblés comme prisonniers de guerre, et que tout ce qui restait à faire était traité par des unités à haut niveau d'explosifs et de flammes. De plus, toutes les forces mécanisées restantes dans la zone sous le commandement du généralissime étaient éliminées par des équipes spécialisées dans la lutte contre les blindés. Les civils autrefois sous le règne de Santa Anna commencèrent à sortir prudemment mais sûrement de leurs maisons, s'émerveillant de l'absence de la présence omnisciente de robots mortels patrouillant dans les rues. \n\nBien que le front des Ejercitos à Reynosa s'évaporait rapidement, les services de renseignement de [Root.GetNameDef] ont appris que Santa Anna ralliait son armée et son aviation pour monter une contre-attaque et reprendre la ville. Bien que la perte de sa capitale ait été une lourde perte, le généralissime n'était pas prêt à s'effondrer sans un autre combat ou dix."
+ downfall.160.a:0 "Je refuse d'accepter cela ! Reynosa sera à nouveau à moi !"
+ downfall.160.b:0 "Santa Anna a perdu son trône ; aidons-le à le reconquérir."
+ downfall.160.c:0 "Reynosa est à nous ! Mort à Santa Anna ! Vive le Mexique !"
+ downfall.160.e:400 "Plus de 400 ans pour se préparer, et il a encore perdu des terres. Pathétique."
+ downfall.160.f:0 "Santa Anna a perdu sa capitale ; le Mexique va perdre un tyran."
   # 161: To RRG
   # 162: To ITZ
 
-  ## The Refinery (ids 170 to 179)
+## The Refinery (ids 170 to 179)
   # 170: Generic
+ downfall.170.t:0 "La prise de contrôle hostile de Petro-Chico"
+ downfall.170.d:0 "Après des jours de combats acharnés, des rapports commencent à arriver du front, indiquant que [Root.GetNameDef] a brisé la solide défense de la capitale de Petro-Chico, la Raffinerie. Malgré une ligne défensive composée de milliers d'hommes, les unités d'opérations spéciales de [Root.GetNameDef] ont pu pénétrer dans une section légèrement gardée de la défense de la Raffinerie. Le détachement de garde dans la zone a été rapidement et discrètement éliminé sous le couvert de la nuit et un trou béant a été fait dans une barrière qui séparait l'intérieur de la Raffinerie des combats extérieurs, fournissant à [Root.GetNameDef] une ouverture pour canaliser les forces vers l'objectif. Confronté à la défense de sa capitale de l'intérieur et de l'extérieur et à la perte de plus d'hommes qu'il ne pouvait en supporter, El Seeyo, qui avait combattu l'ennemi aux côtés de sa garde d'élite, les Mannajias, ordonna à toute la garnison de la Raffinerie de rendre les armes. Maintenant dispersés au vent, les habitants de Petro-Chico s'enfuirent à l'est vers Chichen Itza et au sud vers Nueva Aztlán. Il semble que pour ce peuple autrefois fier, le quatrième trimestre soit enfin arrivé. Les forces de [Root.GetNameDef] occupaient maintenant la Raffinerie abandonnée mais précieuse, une relique de l'Ancien Monde."
+ downfall.170.a:0 "Si Zheiroldas le veut bien, nous reprendrons notre Raffinerie et Kompenni !"
+ downfall.170.b:0 "Nous devons récupérer à la fois la Raffinerie et toute autre perte."
+ downfall.170.c:0 "Nos soldats ont payé suffisamment de sang. La Raffinerie est à nous !"
+ downfall.170.e:0 "On dirait qu'ils auraient dû investir davantage dans la défense."
+ downfall.170.f:0 "Un autre bain de sang au Mexique. Quoi de neuf ?"
   # 171: To ARM
   # 172: To ITZ
 
   ## Xochicalco (ids 180 to 189)
   # 180: Generic
+ downfall.180.t:0 "La chute de Xochicalco : Une catastrophe imprévue"
+ downfall.180.d:0 "Après une longue et difficile campagne contre Nueva Aztlán, les forces [Root.GetNameDef] ont finalement réussi à se frayer un chemin jusqu'à la capitale montagneuse de Xochicalco. Des unités de guerre de montagne ainsi que des forces d'opérations spéciales ont été engagées dans de violents combats avec des soldats des cultes des guerriers de l'Aigle et du Jaguar, qui ont été déployés dans le but de donner aux élites et aux civils de Nueva Aztlán le temps d'échapper au carnage qui a suivi. Des rumeurs parmi les soldats du front ont fait état de violents combats de rue à rue, la guerre asymétrique ayant complètement englouti la ville. Pour certaines unités [Root.GetNameDef], les baïonnettes et les combats au corps à corps sont devenus presque aussi, sinon plus, courants que les combats à distance.\n\nIl reste à voir si les efforts d'Aztlán le sauveur, d'Aztlán le légendaire et du président Yesenia ont créé une nation capable de survivre même en ces temps difficiles, ou si Nueva Aztlán se soumettra à un destin et un avenir sombres."
+ downfall.180.a:0 "Au nom d'Aztlán, nous défions notre destin !"
+ downfall.180.b:0 "L'avenir n'est pas écrit. Nous allons aider à libérer Xochicalco !"
+ downfall.180.c:0 "Nous allons assister à la fin de Nueva Aztlán, contrairement à Yesenia."
+ downfall.180.e:0 "Les armes nucléaires de Tlaloc ont commencé le travail ; nous allons aider à le terminer !"
+ downfall.180.f:0 "Les guerres des fleurs se sont transformées en quelque chose d'horrible..."
   # 181: To ITZ
 
   ## Chichen Itza (ids 190 to 199)
   # 190: Generic
+ downfall.190.t:0 "La chute du Chichen Itza"
+ downfall.190.d:0 "Après une campagne sanglante, Chichen Itza a été repoussé jusqu'à la péninsule du Yucatan par [Root.GetNameDef]. Des corps de soldats des deux armées ont couvert le paysage autour de la ziggourat tandis que les forces de [Root.GetNameDef] repoussaient lentement mais sûrement les lignes de front plus profondément dans le territoire de Chichen Itza et, finalement, dans sa capitale. Le gouvernement d'Itzan a fait appel à tous les hommes et femmes capables de combattre les envahisseurs, espérant en vain qu'un nombre supérieur d'entre eux pourrait tourner la guerre en leur faveur. \n\nLe commandement espère que la prise de la capitale démoralisera encore plus les soldats d'Itzan déjà en difficulté. [ITZ.GetLeader] et leur détachement de sécurité ont évité de justesse la capture par les forces d'opérations spéciales [Root.GetNameDef], réussissant à s'enfuir vers la côte. On pense qu'ils ont traversé le golfe du Mexique vers le sud des États-Unis ou vers l'une des nombreuses îles des Caraïbes, mais les forces [Root.GetNameDef] n'ont pas pu les poursuivre. Quoi qu'il en soit, on suppose que [ITZ.GetLeader] devra bientôt retourner sur le continent pour négocier la paix pour le peuple Itzan."
+ downfall.190.a:0 "Le blanc est le drapeau qu'ils brandiront quand nous les forcerons à se mettre au pied du mur !"
+ downfall.190.b:0 "Chichen Itza est dans une situation désespérée ; nous devons les aider !"
+ downfall.190.c:0 "Orange est le soleil qui se couche sur l'empire Itzan !"
+ downfall.190.e:0 "Chichen Itza sera un sacrifice pour notre prospérité !"
+ downfall.190.f:0 "Quel que soit le vainqueur, c'est le peuple d'Itzan qui souffrira le plus."
   # 191: To ATE
 
   ### Additional Cities
