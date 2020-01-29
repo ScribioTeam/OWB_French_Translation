@@ -179,3 +179,6 @@
  modifier_army_sub_unit_combat_robot_attack_factor:0 "Attaque Robot Combat"
  modifier_army_sub_unit_support_robot_defence_factor:0 "Défense Robot Support"
  modifier_army_sub_unit_combat_robot_defence_factor:0 "Défense Robot Combat"
+ modifier_army_sub_unit_dog_infantry_attack_factor:0 "Attaque d'un peloton de chiens de guerre"
+ modifier_army_sub_unit_dog_infantry_defence_factor:0 "Défense des pelotons de chiens de guerre"
+ modifier_army_sub_unit_dog_infantry_speed_factor:0 "Vitesse du peloton de chiens de guerre"
