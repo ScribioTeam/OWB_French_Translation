@@ -31,7 +31,7 @@
   power_armor_tech_research:0 "Power Armour Research Time"
   cat_old_world_armies_research:0 "Old World Armies Research Time"
   cat_land_doctrine_research:0 "Land Doctrine Research Time"
-  cat_elite_army_research:0 "Elite Army Research Time"
+  cat_elite_army_research:0 "Refined Warfare Research Time"
   air_equipment_tech_category_research:0 "Air Equipment Research Time"
   naval_light_hull_tech_category_research:0 "Light Ships Research Time"
   naval_heavy_hull_tech_category_research:0 "Heavy Ships Research Time"
@@ -182,4 +182,3 @@
   modifier_army_sub_unit_dog_infantry_attack_factor:0 "Warhound Platoon Attack"
   modifier_army_sub_unit_dog_infantry_defence_factor:0 "Warhound Platoon Defense"
   modifier_army_sub_unit_dog_infantry_speed_factor:0 "Warhound Platoon Speed"
-  

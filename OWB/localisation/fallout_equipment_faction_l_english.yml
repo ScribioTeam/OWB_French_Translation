@@ -38,7 +38,7 @@
   BJS_spec_ops_equipment_5: "Veteran Ranger Combat Armour"
   BJS_spec_ops_equipment_5_short: "Veteran Armour"
   BJS_spec_ops_equipment_5_desc: "The distinctive black ranger combat armour consists of the Desert Rangers' traditional trench coat worn with pre-War advanced riot armour."
-  
+
   # BLO (Beltran-Levya Cartel)
   BLO_ballistic_equipment_1: "M&A 9mm Custom Pistol"
   BLO_ballistic_equipment_1_short: "9mm Custom"
@@ -150,14 +150,14 @@
   DEA_melee_equipment_2: "War Club"
   DEA_melee_equipment_2_short: "War Club"
   DEA_melee_equipment_2_desc: "It is made of a hardwood native to the Zion Valley that has been sculpted into a 2-foot long club. The war club is the signature weapon of the Dead Horses tribe, hence the striking end of the weapon being shaped like a horse's head."
-  
+
   # DES (Desert Rangers)
   DES_ballistic_equipment_1:0 "Big Iron"
   DES_ballistic_equipment_1_short:0 "Big Iron"
   DES_ballistic_equipment_1_desc:0 "No self respecting ranger wears anything but a hand tooled .44 caliber big iron on his hip."
-  DES_ballistic_equipment_3:0 "Brush Gun"
-  DES_ballistic_equipment_3_short:0 "Brush Gun"
-  DES_ballistic_equipment_3_desc:0 "High calibre cowboy weaponry may not look like much, but in the hands of a veteran Desert Ranger it will destroy any foe in its path."
+  DES_ballistic_equipment_2:0 "Brush Gun"
+  DES_ballistic_equipment_2_short:0 "Brush Gun"
+  DES_ballistic_equipment_2_desc:0 "High calibre cowboy weaponry may not look like much, but in the hands of a veteran Desert Ranger it will destroy any foe in its path."
   DES_ballistic_equipment_4:0 "Desert Marksman Carbine"
   DES_ballistic_equipment_4_short:0 "Marksman Carbine"
   DES_ballistic_equipment_4_desc:0 "The marksman carbine is a semi-automatic, medium-power carbine with a 20 round magazine. Both highly accurate at long range and easy to handle in short range encounters, the marksman carbine is a precision weapon for a precision military."
@@ -170,12 +170,12 @@
   DES_spec_ops_equipment_5: "Veteran Ranger Combat Armour"
   DES_spec_ops_equipment_5_short: "Veteran Armour"
   DES_spec_ops_equipment_5_desc: "The distinctive black ranger combat armour consists of the Desert Rangers' traditional trench coat worn with pre-War advanced riot armour."
-  
+
   # DIS (The Apostles)
   DIS_melee_equipment_2: "Conch Knife"
   DIS_melee_equipment_2_short: "Conch Knife"
   DIS_melee_equipment_2_desc: "One of the effects from the Great War was actually a warming of the seas. Two hundred years of no sea travel, warmer oceans and idle mutation has allowed the Anacapa Coral Reef System to spread across most of the western United States seaboard. Off the coast of Oregon tribals pick up bits of coral washed onto the sea for building construction, rituals and even armor and weapons!\nConch Knives are a part of this culture. Two pieces of shell grafted together with the conch shell in question being sharpened to a razor point these weapons made for effective slicing and dicing of any tribal, sacrifice or mutant."
-  
+
   # EHT (The Eighties)
   EHT_ballistic_equipment_2: ".45 Automatic Submachine Gun"
   EHT_ballistic_equipment_2_short: ".45 Auto SMG"
@@ -224,7 +224,7 @@
   MLT_melee_equipment_2: "Conch Knife"
   MLT_melee_equipment_2_short: "Conch Knife"
   MLT_melee_equipment_2_desc: "One of the effects from the Great War was actually a warming of the seas. Two hundred years of no sea travel, warmer oceans and idle mutation has allowed the Anacapa Coral Reef System to spread across most of the western United States seaboard. Off the coast of Oregon tribals pick up bits of coral washed onto the sea for building construction, rituals and even armor and weapons!\nConch Knives are a part of this culture. Two pieces of shell grafted together with the conch shell in question being sharpened to a razor point these weapons made for effective slicing and dicing of any tribal, sacrifice or mutant."
-  
+
   # MOJ (Mojave Chapter)
   #MOJ_melee_equipment_3: "X-2 antenna"
   #MOJ_melee_equipment_3_short: "X-2 antenna"

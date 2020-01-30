@@ -137,6 +137,22 @@
   plasma_weaponry_1:0 "Plasma Weaponry"
   plasma_weaponry_2:0 "Plasma Weaponry 2"
 
+  mirelurk_infantry_unlock_tech:0 "Mirelurk Platoon"
+  mirelurk_upgrade_tech_1:0 "Proper Feed"
+  mirelurk_upgrade_tech_1_desc:0 "Mirelurks generally rely on a scavenger's diet, which means practically everything they can get their claws on. Changing their diet for one with proper food, and giving only the best and most nutritious prisoners to our soldiers will let them be at peakt performance at all time."
+  mirelurk_upgrade_tech_2:0 "Metabolic Boost"
+  mirelurk_upgrade_tech_2_desc:0 "By stimulating Mirelurks with the right combinations of drugs, one can increase their metabolism to run rampant. They move quicker, fight harder, and even manage to regenerate quicker. Just be careful once supply runs out."
+  mirelurk_upgrade_tech_3:0 "Advanced Breeding"
+  mirelurk_upgrade_tech_3_desc:0 "Selective breeding as well as special "techniques" will allow us to form a superior warrior caste, with improved combat capabilities, as well as generally much better physical conditions. Keeping up a high rate of birth and using non-selected mirelurks as support instead of frontline troops also insures proper rear-line troops."
+
+  molerat_infantry_unlock_tech:0 "Molerat Cohort"
+  molerat_upgrade_tech_1:0 "Mining Suits"
+  molerat_upgrade_tech_1_desc:0 "Even as mutant bodies provide quite a challenge to our outfitters, we should still seek to equip them with proper protection. The mining armor is composed of a lightweight, skin-tight undersuit reinforced in key points with integrated leather pads, as well as low-profil steel plating. Included are also mining claws, ables to rip through enemies and terrain alike."
+  molerat_upgrade_tech_2:0 "HEDP Explosives"
+  molerat_upgrade_tech_2_desc:0 "Providing what amount to battle sappers with dual-purpose weaponry is always a challenge, but our engineered have managed to manufacture a new grenade, composed of a strong central blasting element with a copper liner, and surrounded by a fragmenting charge with integrated ball bearings. This makes it not only useful for demolition purposes, but also effective as an offensive weaponry against armor and personel alike."
+  molerat_upgrade_tech_3:0 "Lightweight Battle Rifle"
+  molerat_upgrade_tech_3_desc:0 "Mutants can withstand quite a bit more recoil than normal humans, so we have decided to take some of our battle rifle prototypes and rechamber them for a shortened 15mm cartridge, as well as shedding any unnecessary weight and shortening their barrels to make them akin to carbines. With such heavy firepowers on their side that can be taken on any digging operation, our troops shall not be found lacking."
+
  #----------------------------
  # Nation Specific Localisation
  #----------------------------

@@ -240,6 +240,7 @@ chem_cross_tt: "§RUsing multiple drugs will double this chance§!"
 
 ###Chem Withdrawl events
 ###Factories destroyed
+chem_withdrawl_effect: "§YWithdrawal§!"
 chem_event.1.t: "The Psychotic Break"
 chem_event.1.d: "Extensive use of chems in our combat units have provoked wildly violent outbursts, with widespread violence seemingly committed with no regard for rank, past relations or even civilian safety. Those psychotic break mostly touch frontline units, but they have also been reported in our rear line divisions as well. We must deploy non-affected units at once to contain the soldiers undergoing those outbursts, lest they provoke even more damage to our infrastructure, along with senseless killing of civilians."
 chem_event.1.a: "Round up the affected units, and shoot those that can't be saved. We can't afford to lose control"
@@ -259,17 +260,26 @@ slavers_4_idea: "Slave Cities"
 slavers_5_idea: "Majority Slave Workfoce"
 
 ###Opinion Boosts
-gun_runner_opinion_1: "Friend of the Gun Runners\nBoost max opinion of Gun Runners by §G+15§!"
-gun_runner_opinion_2: "Member of the Gun Runners\nBoost max opinion of Gun Runners by §G+20§!"
-gun_runner_opinion_3: "Leader of the Gun Runners\nBoost max opinion of Gun Runners by §G+30§!"
+gun_runner_opinion_1: "Friend of the Gun Runners"
+gun_runner_opinion_1_tt: "Boost max opinion of Gun Runners by §G+15§!\n"
+gun_runner_opinion_2: "Member of the Gun Runners"
+gun_runner_opinion_2_tt: "Boost max opinion of Gun Runners by §G+20§!\n"
+gun_runner_opinion_3: "Leader of the Gun Runners"
+gun_runner_opinion_3_tt: "Boost max opinion of Gun Runners by §G+30§!\n"
 
-chem_runner_opinion_1: "Friend of the Mordino's\nBoost max opinion of Mordino's by §G+15§!"
-chem_runner_opinion_2: "Member of the Mordino's\nBoost max opinion of Mordino's by §G+20§!"
-chem_runner_opinion_3: "Leader of the Mordino's\nBoost max opinion of Mordino's by §G+30§!"
+chem_runner_opinion_1: "Friend of the Mordino's"
+chem_runner_opinion_1_tt: "Boost max opinion of Mordino's by §G+15§!\n"
+chem_runner_opinion_2: "Member of the Mordino's"
+chem_runner_opinion_2_tt: "Boost max opinion of Mordino's by §G+20§!\n"
+chem_runner_opinion_3: "Leader of the Mordino's"
+chem_runner_opinion_3_tt: "Boost max opinion of Mordino's by §G+30§!\n"
 
-slave_runner_opinion_1: "Friend of the Chiquita's\nBoost max opinion of Chiquita's by §G+15§!"
-slave_runner_opinion_2: "Member of the Chiquita's\nBoost max opinion of Chiquita's by §G+20§!"
-slave_runner_opinion_3: "Leader of the Chiquita's\nBoost max opinion of Chiquita's by §G+30§!"
+slave_runner_opinion_1: "Friend of the Chiquita's"
+slave_runner_opinion_1_tt: "Boost max opinion of Chiquita's by §G+15§!\n"
+slave_runner_opinion_2: "Member of the Chiquita's"
+slave_runner_opinion_2_tt: "Boost max opinion of Chiquita's by §G+20§!\n"
+slave_runner_opinion_3: "Leader of the Chiquita's"
+slave_runner_opinion_3_tt: "Boost max opinion of Chiquita's by §G+30§!\n"
 
 ###GAMERULE DATA
 RULE_CAPS_DEBUG_TOGGLE: "Caps System Data Generator"
