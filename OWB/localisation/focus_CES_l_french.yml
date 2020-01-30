@@ -100,9 +100,9 @@
  ces_new_judea:0 "Nouvelle Judée"
  ces_new_judea_desc:0 "Le Rome d'autrefois a conquis la province de Judée - maintenant Israël, où est né le christianisme. Les Mormons, construisant un nouveau Canaan en Utah, semblent inviter une Nouvelle Judée sur eux-mêmes."
  
- ces_the_white_leg_petition:0 "La pétition des Jambes Blanches"
- ces_the_white_leg_petition_desc:0 "Les Jambes Blanches, une tribu voisine,ont adressé une pétition à plusieurs reprises pour rejoindre la Légion. Comme nous avons maintenant une utilisation pour eux, nous devrions leur permettre de se joindre à l'avenir, tant qu'ils attaquent les Neo Cananéens pour nous."
- 
+ ces_the_white_leg_petition: "Les White Legs"
+ ces_the_white_leg_petition_desc: "Les White Legs, une tribu voisine, ont attiré notre attention. Peut-être pouvons-nous leur apporter notre soutien en échange d'une attaque contre des menaces potentielles dans l'Utah. Et s'ils échouent . ... nous pourrons toujours trouver d'autres tribus."
+
  ces_white_legs_accept:0 "Récompenser la tribu loyale"
  ces_white_legs_accept_desc:0 "Qu'on ne dise pas que Ceasar ne récompense pas la loyauté. Les Jambes Blanches, grâce à leur loyauté en aidant à attaquer les Cananéens, devrait être récompensé, en leur promettant l'assimilation"
  
@@ -117,10 +117,11 @@
  ces_graham_execution_desc:0 "Avec les Neo Cananéens vaincus, Joshua Graham, le légat de  Malpais, l'homme brûlé, a été apporté à Ceasar. Pour finalement éteindre les rumeurs de l'homme brûlé - Graham sera crucifié publiquement."
  
  ces_new_cohort:0 "Nouvelle Cohorte"
+ ces_new_cohort_tt:0 "\n§gNous enverrons des conseillers pour aider [WHT.GetLeader] le noyau de l'Utah de manière plus efficace.§!\n"
  ces_new_cohort_desc:0 "Les Jambes Blanches nous ont loyalement servi pendant la guerre, en vainquant les Neo Cananéens et livrant Graham à nous. Ils seront accueillis dans la Légion, en accordant la domination sur l'Utah."
  
  ces_new_auxilliary:0 "Nouvelle Auxilliaire"
- ces_new_auxilliary_desc:0 "Malgré la trahison des Jambes Blanches, un allié inattendu, la tribu des années 80, vaint les Neo Cananéens. Ils seront accueillis dans la Légion, en accordant la domination sur l'Utah."
+ ces_new_auxilliary_desc:0 "Malgré la trahison des White Legs, un allié inattendu, la tribu des Eighties, a vaincu New Canaan. Ils seront accueillis dans la Légion, et se verront accorder la domination de l'Utah. La Légion leur enverra également des guerriers pour les aider dans leur conquête de la Nouvelle-Californie !"
  
  ces_legionary_utah:0 "Légionariser Utah"
  ces_legionary_utah_desc:0 "Utah ne mérite pas de petite tribu, allié ou non. Seule la Légion peut prétendre dominer l'Utah, et nous allons mettre toutes les tribus locales au talon, incorporé sous César."
