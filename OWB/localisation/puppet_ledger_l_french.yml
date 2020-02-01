@@ -1,7 +1,5 @@
 ﻿l_french:
   # GUI:
- PUPPET_LEDGER_OPEN_BUTTON_TT:0 "§GCliquer§! pour ouvrir respectivement fermer le §YMenu des dépendances§!."
-
  PUPPET_LEDGER_TITLE:0 "Menu des dépendances"
  PUPPET_LEDGER_ENTRY_FLAG_TT:0 "§GCliquer§! pour centrer la carte sur leur état capital (§Y[This.Capital.GetName]§!)."
  PUPPET_LEDGER_PP_TT:0 "§YPouvoir politique§!\nChangement de pouvoir: [? political_power_daily|2+] par jour.\nValeur de base : §Y2.00§!"
@@ -12,6 +10,7 @@
  PUPPET_LEDGER_FUEL_TT:0 "§YCellules énergétiques§!"
  PUPPET_LEDGER_NAVY_TT:0 "§YFlotte§! \nNombre actuel de navires : §Y[?num_of_ships|0]§!"
  PUPPET_LEDGER_CONSCRIPTION_LAW_TT:0 "§YLoi de Conscription§! \nLa loi de conscription actuelle est §Y[This.GetConscriptionLawName]§! qui conscrit §Y[This.GetConscriptionLawPercentage]§! de la population des états coeurs."
+ legion_vassal:0 "Sujet tribal"
 
   # Scripted Localisation:
  string_green:0 "§G"
