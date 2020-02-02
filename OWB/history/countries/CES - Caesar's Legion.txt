@@ -70,9 +70,21 @@ set_popularities = {
 	ruler = 50
 }
 
+set_country_flag = slavery_allowed
+set_country_flag = manpower_laws_hidden
+set_country_flag = slave_society
+
 add_ideas = {
+	currencycesdenarius
 	cultofmars
 	national_spirit_rejection_of_automation
+	slavers_idea_2
+	tribal_recruitment
+	undesirables_law_petty
+}
+
+set_rule = {
+	can_send_volunteers = no
 }
 
 create_country_leader = {
@@ -89,15 +101,20 @@ create_country_leader = {
 	}
 }
 
+add_to_tech_sharing_group = legion_research_pact
+
+set_variable = { never_return_stolen_territory = 1 }
+
 create_field_marshal = {
 	name = "Vulpes Inculta"
 	picture = "portrait_inculta.dds"
 	skill = 4
 	id = 10002
 	attack_skill = 3
-	defense_skill = 2
-	planning_skill = 4
-	logistics_skill = 4
+	defense_skill = 3
+	planning_skill = 6
+	logistics_skill = 5
+	traits = { perceptive_trait intelligent_trait tough_leader_trait }
 }
 
 create_field_marshal = {
@@ -106,9 +123,10 @@ create_field_marshal = {
 	skill = 4
 	id = 10004
 	attack_skill = 5
-	defense_skill = 3
+	defense_skill = 4
 	planning_skill = 3
-	logistics_skill = 2
+	logistics_skill = 5
+	traits = { strong_trait enduring_trait }
 }
 
 create_equipment_variant = {

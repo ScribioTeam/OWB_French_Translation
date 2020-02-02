@@ -26,14 +26,13 @@ guiTypes = {
 		show_position = { x = 0 y = -1 }
 		animation_type = decelerated
 		animation_time = 1000
-		size = { width = 448 height = 300}
+		size = { width = 448 height = 300 }
 		Orientation = CENTER_UP
 
-		iconType =
-		{
+		iconType = {
 			name ="frontend_game_logo"
 			# spriteType = "GFX_frontend_game_logo"
-			spriteType = "GFX_frontend_game_logo_animated"
+			spriteType = "GFX_frontend_game_logo_static"
 			position = { x = -224 y = 20 }
 			# position = { x = -224 y = -420 }
 		}
@@ -42,7 +41,7 @@ guiTypes = {
 	#containerWindowType = {
 	#	name ="frontend_alpha_stamp"
 	#	position = { x=100 y =-100 }
-	#	size = { width = 131 height = 132}
+	#	size = { width = 131 height = 132 }
 	#	orientation = lower_left
 	#	origo = lower_left
 	#
@@ -62,7 +61,7 @@ guiTypes = {
 		show_position = { x=-256 y =-1 }
 		animation_type = decelerated
 		animation_time = 1000
-		size = { width = 256 height = 768}
+		size = { width = 256 height = 768 }
 		Orientation = upper_right
 
 		# iconType = {
@@ -81,8 +80,8 @@ guiTypes = {
 	### SINGLE PLAYER MENU
 	containerWindowType = {
 		name = "mainmenu_single_player"
-		position = { x = 0 y = 159}
-		size = { width = 320 height = 395}
+		position = { x = 0 y = 159 }
+		size = { width = 320 height = 395 }
 		Orientation = CENTER
 		Origo = center
 
@@ -178,8 +177,8 @@ guiTypes = {
 	### MAIN MENU PANEL (bottom)
 	containerWindowType = {
 		name ="mainmenu_panel_bottom"
-		position = { x = 0 y = 159}
-		size = { width = 320 height = 395}
+		position = { x = 0 y = 159 }
+		size = { width = 320 height = 395 }
 		Orientation = CENTER
 		Origo = center
 
@@ -200,7 +199,7 @@ guiTypes = {
 
 		ButtonType = {
 			name = "multi_player_button"
-			position = { x = 16 y = 58}
+			position = { x = 16 y = 58 }
 			quadTextureSprite ="GFX_main_lobby_button"
 			font = "hoi_24header"
 			text = "FE_MULTI_PLAYER"
@@ -214,7 +213,7 @@ guiTypes = {
 			position = { x = 35 y = 356 }
 			textureFile = ""
 			font = "hoi_18b"
-			borderSize = {x = 0 y = 0}
+			borderSize = {x = 0 y = 0 }
 			text = "ALPHA"
 			format = centre
 			maxWidth = 250

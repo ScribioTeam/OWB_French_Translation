@@ -3,7 +3,7 @@ guiTypes = {
 	containerWindowType = {
 		name = "ingamemenu"
 		position = { x = 0 y = 0 }
-		size = { width = 320 height = 415}
+		size = { width = 320 height = 415 }
 		Orientation = center
 		Origo = center
 		fade_time = 500
@@ -37,7 +37,7 @@ guiTypes = {
 
 		buttonType = {
 			name = "menu_gamesettings_button"
-			position = { x = 16 y = 98}
+			position = { x = 16 y = 98 }
 			quadTextureSprite ="GFX_main_lobby_button"
 			buttonText = "MENU_BAR_GAME_OPTIONS"
 			buttonFont = "hoi_24header"
@@ -47,7 +47,7 @@ guiTypes = {
 
 		buttonType = {
 			name = "menu_wiki_button"
-			position = { x = 16 y = 138}
+			position = { x = 16 y = 138 }
 			quadTextureSprite ="GFX_main_lobby_button"
 			buttonText = "MENU_BAR_GAME_WIKI"
 			buttonFont = "hoi_24header"
@@ -58,7 +58,7 @@ guiTypes = {
 
 		buttonType = {
 			name = "menu_resign_button"
-			position = { x = 16 y = 178}
+			position = { x = 16 y = 178 }
 			quadTextureSprite ="GFX_main_lobby_button"
 			buttonText = "MENU_BAR_GAME_RESIGN"
 			buttonFont = "hoi_24header"
@@ -152,15 +152,13 @@ guiTypes = {
 	containerWindowType = {
 		name ="ingamemenu_load"
 		position = { x = -210 y = -250 }
-		size = { width = 420 height = 500}
+		size = { width = 420 height = 500 }
 		Orientation = center
-
-
 
 		containerWindowType = {
 			name ="games"
 			position = { x = 75 y = 126 }
-			size = { width = 350 height = 370}
+			size = { width = 350 height = 370 }
 			verticalScrollbar = "right_vertical_slider"
 			vertical_scroll_step = 5
 
@@ -171,8 +169,8 @@ guiTypes = {
 
 			gridBoxType = {
 				name = "games_grid"
-				position = { x=13 y =2}
-				size = { width =280 height = 400}
+				position = { x=13 y =2 }
+				size = { width =280 height = 400 }
 				slotsize = { width = 280 height = 55 }
 				format = "UPPER_LEFT"
 				max_slots_horizontal = 1
@@ -196,13 +194,12 @@ guiTypes = {
 			Orientation = "UPPER_LEFT"
 		}
 
-		instantTextBoxType =
-		{
+		instantTextBoxType = {
 			name = "saves_dirs"
 			position = { x = 10 y = 375 }
 			textureFile = ""
 			font = "hoi_20bs"
-			borderSize = {x = 0 y = 4}
+			borderSize = { x = 0 y = 4 }
 			text = ""
 			maxWidth = 120
 			maxHeight = 16
@@ -230,7 +227,7 @@ guiTypes = {
 			position = { x = 115 y = 91 }
 			textureFile = ""
 			font = "hoi_20bs"
-			borderSize = {x = 0 y = 0}
+			borderSize = { x = 0 y = 0 }
 			text = "MENU_BAR_LOCALGAMES"
 			maxWidth = 100
 			maxHeight = 20
@@ -244,7 +241,7 @@ guiTypes = {
 			position = { x = 269 y = 91 }
 			textureFile = ""
 			font = "hoi_20bs"
-			borderSize = {x = 0 y = 0}
+			borderSize = { x = 0 y = 0 }
 			text = "MENU_BAR_CLOUDGAMES"
 			maxWidth = 100
 			maxHeight = 20
@@ -252,7 +249,6 @@ guiTypes = {
 			Orientation = "UPPER_LEFT"
 			format = centre
 		}
-
 
 		buttonType = {
 			name = "load"
@@ -282,7 +278,7 @@ guiTypes = {
 	containerWindowType = {
 		name ="ingamemenu_save"
 		position = { x=-210 y =-250 }
-		size = { width = 420 height = 500}
+		size = { width = 420 height = 500 }
 		Orientation = center
 
 		iconType =
@@ -307,7 +303,7 @@ guiTypes = {
 			position = { x = 10 y = 375 }
 			textureFile = ""
 			font = "hoi_20bs"
-			borderSize = {x = 0 y = 4}
+			borderSize = { x = 0 y = 4 }
 			text = ""
 			maxWidth = 120
 			maxHeight = 16
@@ -347,7 +343,7 @@ guiTypes = {
 			position = { x = 115 y = 91 }
 			textureFile = ""
 			font = "hoi_20bs"
-			borderSize = {x = 0 y = 0}
+			borderSize = { x = 0 y = 0 }
 			text = "MENU_BAR_LOCALGAMES"
 			maxWidth = 100
 			maxHeight = 20
@@ -361,7 +357,7 @@ guiTypes = {
 			position = { x = 269 y = 91 }
 			textureFile = ""
 			font = "hoi_20bs"
-			borderSize = {x = 0 y = 0}
+			borderSize = { x = 0 y = 0 }
 			text = "MENU_BAR_CLOUDGAMES"
 			maxWidth = 100
 			maxHeight = 20
@@ -373,7 +369,7 @@ guiTypes = {
 		containerWindowType = {
 			name ="games"
 			position = { x = 75 y = 126 }
-			size = { width = 350 height = 320}
+			size = { width = 350 height = 320 }
 			verticalScrollbar = "right_vertical_slider"
 			vertical_scroll_step = 5
 
@@ -384,8 +380,8 @@ guiTypes = {
 
 			gridBoxType = {
 				name = "games_grid"
-				position = { x=13 y =15}
-				size = { width =280 height = 400}
+				position = { x=13 y =15 }
+				size = { width =280 height = 400 }
 				slotsize = { width = 280 height = 55 }
 				format = "UPPER_LEFT"
 				max_slots_horizontal = 1
@@ -393,10 +389,10 @@ guiTypes = {
 		}
 
 		instantTextBoxType={
-			position = {x = 93 y = 450 }
+			position = { x = 93 y = 450 }
 			name = "filename_label"
 			font = "hoi_16mbs"
-			borderSize = {x = 8 y = 0}
+			borderSize = { x = 8 y = 0 }
 			maxWidth = 300
 			maxHeight = 18
 			text = "MENU_BAR_SAVE_GAME_FILENAME"
@@ -472,7 +468,7 @@ guiTypes = {
 		}
 
 		instantTextBoxType={
-			position = {x = 53 y = 5 }
+			position = { x = 53 y = 5 }
 			name = "name"
 			font = "hoi_18mbs"
 			maxWidth = 224
@@ -483,7 +479,7 @@ guiTypes = {
 		}
 
 		instantTextBoxType={
-			position = {x = 50 y = 24 }
+			position = { x = 50 y = 24 }
 			name = "date"
 			font = "hoi_18mbs"
 			maxWidth = 217
