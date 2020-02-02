@@ -1,0 +1,117 @@
+﻿l_french:
+  utah_pantheon:0 "§GPleasing the Gods§!"
+  utah_pantheon_desc:0 "The Great War destroyed the old gods, but in its shadow a new pantheon has arisen. For centuries our people have worshipped these deities, and for their loyalty,  they have been rewarded richly."
+
+  utah_pantheon_sacrifice:0 "Sacrifice to the Gods"
+  utah_pantheon_loyalty:0 "Reaffirm our loyalty to §Y[This.GetPantheonSelectedGodName]§!"
+
+  utah_pantheon_timeout:0 "The Worship of [This.GetPantheonSelectedGodName]"
+  utah_pantheon_timeout_desc:0 "We are in the midst of observing worship to §Y[This.GetPantheonSelectedGodName]§!, and must wait before choosing a new deity."
+
+  CAN_SELECT_OTHER_GOD_IN_PANTHEON_AGAIN_TT: "§Y[This.GetName]§! is able to select another god in §YThe Pantheon§!.\n"
+
+  utah_pantheon_sun_unique:0 "Blinding Radiance"
+  utah_pantheon_sun_ritual:0 "Praising the Sun"
+  utah_pantheon_sun_ritual_upgrade:0 "Glorious Incandescence"
+  utah_pantheon_moon_unique:0 "Night Missions"
+  utah_pantheon_moon_ritual:0 "Procession of the Heavens"
+  utah_pantheon_moon_ritual_upgrade:0 "Lunar Revelations"
+  utah_pantheon_land_unique:0 "Resting the Earth"
+  utah_pantheon_land_ritual:0 "The Great Harvest"
+  utah_pantheon_land_ritual_upgrade:0 "Cornucopia"
+  utah_pantheon_mountain_unique:0 "Holy Autarky"
+  utah_pantheon_mountain_ritual:0 "The Great Climb"
+  utah_pantheon_mountain_ritual_upgrade:0 "Where Eagles Dare"
+  utah_pantheon_ncn_unique:0 "God's Gifts"
+  utah_pantheon_ncn_ritual:0 "Spiritual Revival"
+
+  utah_pantheon_legion_unique:0 "War Drums"
+  utah_pantheon_legion_ritual:0 "Crucifixion"
+
+  utah_pantheon_sor_unique:0 "Combat Training"
+  utah_pantheon_sor_ritual:0 "Lessons from the Father"
+  utah_pantheon_sor_ritual_upgrade:0 "Meticulous Planning"
+  utah_pantheon_tar_unique:0 "The Old Ultraviolence"
+  utah_pantheon_tar_ritual:0 "Seeing Red"
+  utah_pantheon_tar_ritual_upgrade:0 "Reckless Victory"
+  utah_pantheon_dea_unique:0 "God's Work"
+  utah_pantheon_dea_ritual:0 "Militarisation"
+  utah_pantheon_dea_ritual_upgrade:0 "War Society"
+  utah_pantheon_crz_unique:0 "Purification"
+  utah_pantheon_crz_ritual:0 "Immolative Glory"
+  utah_pantheon_crz_ritual_upgrade:0 "From the Ashes"
+  utah_pantheon_uin_unique:0 "Veneration of Speed"
+  utah_pantheon_uin_ritual:0 "Soaring Vengeance"
+  utah_pantheon_uin_ritual_upgrade:0 "Death From Above"
+  utah_pantheon_lon_unique:0 "Liberation Of the Night"
+  utah_pantheon_lon_ritual:0 "Silence of Violence"
+  utah_pantheon_lon_ritual_upgrade:0 "Deafening Stillness"
+  #utah_pantheon__unique:0 ""
+  #utah_pantheon__ritual:0 ""
+  #utah_pantheon__ritual_upgrade:0 ""
+  utah_pantheon_ritual_tt:0 "§GUpgrades Our God's Holy Rituals.§!"
+  utah_pantheon_blessing_tt:0 "§GUpgrades Our God's Blessing to us.\n§!"
+  utah_pantheon_mood_small_tt:0 "Minorly Improves [This.GetPantheonSelectedGodName]'s Opinion of Us"
+  utah_pantheon_mood_medium_tt:0 "Sizably Improves [This.GetPantheonSelectedGodName]'s Opinion of Us"
+  utah_pantheon_mood_large_tt:0 "Greatly Improves [This.GetPantheonSelectedGodName]'s Opinion of Us"
+  utah_pantheon_mood_negative_small_tt:0 "Minorly Decreases [This.GetPantheonSelectedGodName]'s Opinion of Us"
+  utah_pantheon_mood_negative_medium_tt:0 "Sizably Decreases [This.GetPantheonSelectedGodName]'s Opinion of Us"
+  utah_pantheon_mood_negative_large_tt:0 "Greatly Decreases [This.GetPantheonSelectedGodName]'s Opinion of Us"
+  utah_pantheon_sacrifice_tt:0 "Greatly Reduces the Cost of Tribal Sacrifices"
+  pantheon_sacrifice_cost:0 "[?pantheon_sacrifice_var]"
+  pantheon_sacrifice_cost_blocked:0 "£pol_power  §R[?pantheon_sacrifice_var]§!"
+
+  utah_religious_sermons:0 "The Good Word"
+  utah_religious_sermons_desc:0 "'Man shall not live on bread alone, but by every word that comes from the mouth of God.'"
+
+  utah_religious_sermons_diligence:0 "Preach On Diligence"
+  utah_religious_sermons_charity:0 "Preach On Charity"
+  utah_religious_sermons_sacrifice:0 "Preach On Sacrifice"
+  utah_religious_sermons_masses:0 "Revival Sermons"
+  utah_religious_sermons_syncretism:0 "Preach On Unity"
+  utah_religious_sermons_heresy:0 "Preach Against Heresy"
+
+
+  utah_hgh_interaction:0 "Supplicating the Baptisers"
+  utah_hgh_interaction_desc:0 "'One Lord, one faith, one baptism; one God and Father of all.'"
+
+  utah_baptise:0 "Baptising Our People"
+  utah_ban_fishing:0 "Ban Fishing In Sacred Waters"
+  utah_cleanse_water:0 "Cleanse The Water"
+
+
+  utah_mur_ano_war:0 "Mending the Schism"
+  utah_mur_ano_war_desc:0 "'Behold, how good and how pleasant it is for brethren to dwell together in unity!'"
+
+  utah_new_offensive_effort:0 "New Offensives"
+  utah_reinforce_the_frontline:0 "Reinforce the Front Line"
+
+
+  utah_glass_trade_with_ham:0 "Trading with the Glass-Blowers"
+  utah_glass_trade_with_ham_desc:0 "'A just balance and scales belong to the LORD; All the weights of the bag are His concern.'"
+
+  utah_sand_upon_the_river:0 "Sand Dredging"
+  utah_end_trade_with_ham:0 "Cease Trading with the Hammond Mystics"
+  mur_stopped_trade:0 "Murtaugh has ceased trading with us."
+
+
+  utah_ham_glass_forging:0 "Desert Forges"
+  utah_ham_glass_forging_desc:0 "Many view the desert as a wasteland, devoid of life and usage, befit only the outcasts and dregs of society.\n\n We beg to differ."
+
+  utah_desert_clearing:0 "Clearing the Deserts"
+  DESERT_CLEARING_TOOLTIP:0 "We have uncleared desert states"
+  utah_new_forge:0 "Building New Forges"
+  NEW_FORGE_TOOLTIP:0 "We have undeveloped desert states"
+
+  utah_war_for_heaven:0 "The War for Heaven"
+  utah_war_for_heaven_desc:0 "Conflict with Heaven's Gate is an inevitability, we must be ready for battle when the time comes."
+
+  walls_of_jericho:0 "The Walls of Jericho"
+  abandon_northern_states:0 "Abandon Border States"
+  retake_states:0 "Make A New Offensive"
+  secure_wastes:0 "Secure the Terraton Wastes"
+  form_united_front:0 "Form The United Front"
+  UNITED_FRONT:0 "United Front"
+  missionary_recruitment:0 "Southern Recruitment Missions"
+  northern_aid:0 "Northern Military Aid"
+  all_for_god:0 "All for God"

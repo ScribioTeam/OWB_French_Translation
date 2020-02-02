@@ -1,0 +1,95 @@
+﻿l_french:
+  # GUI:
+  PANTHEON_TITLE:0 "THE PANTHEON"
+
+  pantheon_mood_title:0 "the gods are:"
+  pantheon_mood_modifier:0 "The Mood of the Gods"
+  PANTHEON_MOOD:0 "[This.GetPantheonMood]"
+  PANTHEON_MOOD_TOOLTIP:0 "§WPolitical Power Gain:§! §g[?pantheon_mood_var]§!"
+  PANTHEON_MOOD_TOOLTIP_DELAYED:0 "The Gods are fickle in their desire, but deadly in their wrath, we must stay on [This.GetPantheonSelectedGodName]'s good side at all costs."
+
+  pantheon_mood_check_tt:0 "The Gods Are: [This.GetPantheonMood]"
+
+  PANTHEON_GOD_NAME:0 "[GetPantheonGodNameColor][This.GetPantheonGodName]§!"
+
+  PANTHEON_GOD_TOOLTIP:0 "§Y[This.GetPantheonGodName]§! \n[This.GetPantheonGodDescription]"
+  PANTHEON_GOD_TOOLTIP_DELAYED:0 "[This.GetPantheonSelectGodButtonTooltip]"
+
+  PANTHEON_ICON_TOOLTIP:0 "The Pantheon"
+  PANTHEON_ICON_TOOLTIP_DELAYED:0 "§GClick§! to open or close §YThe Pantheon§!."
+
+
+
+  # Scripted Localisation:
+  string_pantheon_colour_white:0 "§W"
+  string_pantheon_colour_yellow:0 "§Y"
+  string_select_pantheon_god_button_tt_invalid_selected_this_god: "§Y[This.GetPantheonGodName]§! is the currently worshipped god of §Y[This.GetName]§!."
+  string_select_pantheon_god_button_tt_invalid_recently_selected: "§RWe recently selected §Y[This.GetPantheonSelectedGodName]§R as worshipped god. We cannot select another god within the next §Y[?days_mission_timeout@utah_pantheon_timeout]§R days.§W"
+  string_select_pantheon_god_button_tt: "§GClick§! to select §Y[This.GetPantheonGodName]§! as worshipped god."
+
+
+
+  pantheon_title_sun:0 "Sol"
+  pantheon_title_moon:0 "Luna"
+  pantheon_title_land:0 "Terra"
+  pantheon_title_mountain:0 "Mesa"
+
+  pantheon_title_legion:0 "Mars"
+  pantheon_title_ncn:0 "Elohim"
+
+  pantheon_title_sor:0 "The Father"
+  pantheon_title_tar:0 "The War-Road"
+  pantheon_title_crz:0 "The Phoenix"
+  pantheon_title_dea:0 "The Burned Man"
+  pantheon_title_uin:0 "Zephyr"
+  pantheon_title_lon:0 "The Quiet"
+  #pantheon_title_:0 ""
+
+  pantheon_desc_sun:0 "The god of the sun, providing bountiful harvest and soft weather to loyal worshippers \n---- \n§YBonuses to:§!\n§WProduction Efficiency Growth:§! §G[?pantheon_loyalty_print]%§!\n§WHeat Attrition:§! §G[?pantheon_sun_print]%§!"
+  pantheon_desc_moon:0 "The god of the moon, giving to his worshippers shrewd negotiation skills and an alliance with the shadows \n---- \n§YBonuses to:§!\n§WNight Attack:§! §G[?pantheon_loyalty_print]%§!\n§WTrade Opinion:§! §G[?pantheon_moon_print]%§!"
+  pantheon_desc_land:0 "The god of the earth, presenting deep ore vein and plentiful of food to his followers \n---- \n§YBonuses to:§!\n§WLocal Resources:§! §G[?pantheon_loyalty_print]%§!\n§WSupply Consumption: §G[?pantheon_land_print]%§!"
+  pantheon_desc_mountain:0 "The god of the mountain, granting unwavering strength and demanding frugal living of his devotees \n---- \n§YBonuses to:§!\n§WArmy defence:§! §G[?pantheon_loyalty_print]%§!\n§WConsumer Goods: §G[?pantheon_mountain_print]%§!"
+
+  pantheon_desc_ncn:0 "Elohim, God itself. Venerating the divine father, the shepherd gives his flock kindness and humility, making them focus on healing and building. \n---- \n§YBonuses to:§!\n§WExperience Loss:§! §G[?pantheon_loyalty_print]%§!\n§WWorkshop Construction:§! §G[?pantheon_legion_print]%§!"
+  pantheon_desc_legion:0 "Mars, the war god. His followers are granted unwavering courage under fire, and the desire to make the heavens themselves bend to their will. \n---- \n§YBonuses to:§!\n§WArmy Organisation:§! §G[?pantheon_loyalty_print]%§!\n§WArms Factory Construction:§! §G[?pantheon_legion_print]%§!"
+
+  pantheon_desc_sor:0 "The Father, the god of self-reliance. His devotees focus on strength toward the outside world, and making heavy use of scavenge. \n---- \n§YBonuses to:§!\n§WEntrenchment Speed:§! §G[?pantheon_loyalty_print]%§! \nEquipment Conversion §G[?pantheon_sor_print]%§!"
+  pantheon_desc_tar:0 "The Road to war, all who battle upon its lanes trade their lives to glory.\n---- \n§YBonuses to:§!\n§WReinforce Rate:§! §G[?pantheon_loyalty_print]%§!\nMilitary Production §G[?pantheon_yar_print]%§!"
+  pantheon_desc_crz:0 "The Purifying fire, cleansing all who are anointed by its flame.\n---- \n§YBonuses to:§!\n§WEnergy Gain:§! §G[?pantheon_loyalty_print]%§! \n§WPower Production:§! §G[?pantheon_crz_print]%§!"
+  pantheon_desc_dea:0 "The Burned Man, the avatar of vengeance. His worshippers gain the most burning of hatred against their enemies, thwarting their advance at every turn. \n---- \n§YBonuses to:§!\n§WCore defence:§! §G[?pantheon_loyalty_print]%§! \nMobilisation Speed §G[?pantheon_dea_print]%§!"
+  pantheon_desc_uin:0 "The wind of life, the enemy of stagnation and origin of all movement.\n---- \n§YBonuses to:§!\n§WArmy Speed:§! §G[?pantheon_loyalty_print]%§! \nAir Superiority §G[?pantheon_uin_print]%§!"
+  pantheon_desc_lon:0 "The embodiment of oblivion, darkness, and silence. Vonsumes all who break its sacred entity.\n---- \n§YBonuses to:§!\n§WSpecial Forces Cap:§! §G[?pantheon_loyalty_print]%§! \nSpecial Forces Attack §G[?pantheon_lon_print]%§!"
+
+  pantheon_mood_wrathful:0 "§RWRATHFUL§!"
+  pantheon_mood_unamused:0 "§HUNAMUSED§!"
+  pantheon_mood_indifferent:0 "INDIFFERENT"
+  pantheon_mood_pleased:0 "§BPLEASED§!"
+  pantheon_mood_benevolent:0 "§GBENEVOLENT§!"
+
+  pantheon_sun:0 "The Blessing of Sol"
+  pantheon_sun_desc:0 "[This.GetPantheonSelectedGodDescription]"
+  pantheon_moon:0 "The Blessing of Luna"
+  pantheon_moon_desc:0 "[This.GetPantheonSelectedGodDescription]"
+  pantheon_land:0 "The Blessing of Terra"
+  pantheon_land_desc:0 "[This.GetPantheonSelectedGodDescription]"
+  pantheon_mountain:0 "The Blessing of Mesa"
+  pantheon_mountain_desc:0 "[This.GetPantheonSelectedGodDescription]"
+
+  pantheon_ncn:0 "The Blessing of Elohim"
+  pantheon_ncn_desc:0 "[This.GetPantheonSelectedGodDescription]"
+  pantheon_legion:0 "The Blessing of Mars"
+  pantheon_legion_desc:0 "[This.GetPantheonSelectedGodDescription]"
+
+  pantheon_sor:0 "The Blessing of The Father"
+  pantheon_sor_desc:0 "[This.GetPantheonSelectedGodDescription]"
+  pantheon_tar:0 "The Blessing of The War-Road"
+  pantheon_tar_desc:0 "[This.GetPantheonSelectedGodDescription]"
+  pantheon_crz:0 "The Blessing of The Phoenix"
+  pantheon_crz_desc:0 "[This.GetPantheonSelectedGodDescription]"
+  pantheon_dea:0 "The Blessing of The Burned Man"
+  pantheon_dea_desc:0 "[This.GetPantheonSelectedGodDescription]"
+  pantheon_uin:0 "The Blessing of Zephyr"
+  pantheon_uin_desc:0 "[This.GetPantheonSelectedGodDescription]"
+  pantheon_lon:0 "The Blessing of The Quiet"
+  pantheon_lon_desc:0 "[This.GetPantheonSelectedGodDescription]"
+

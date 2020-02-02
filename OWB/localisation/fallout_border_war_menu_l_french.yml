@@ -1,0 +1,44 @@
+﻿l_french:
+  # GUI:
+  FALLOUT_BORDER_WAR_MENU_TITLE: "Start a Border War"
+  FALLOUT_BORDER_WAR_MENU_OWN_STATES_TITLE: "[This.GetAdjective] States"
+  FALLOUT_BORDER_WAR_MENU_OWN_STATES_TT: "Here you select your own state from which you want the border war to start from."
+  FALLOUT_BORDER_WAR_MENU_ENEMY_STATES_TITLE: "Enemy States"
+  FALLOUT_BORDER_WAR_MENU_ENEMY_STATES_TT: "Here you select the enemy state which you want the border war to involve."
+  FALLOUT_BORDER_WAR_MENU_LEADERS_TITLE: "Available Leaders"
+  FALLOUT_BORDER_WAR_MENU_LEADERS_TT: "Here you select the leader that will command the units in the border war."
+  FALLOUT_BORDER_WAR_MENU_INFO_NO_OWN_STATES_SHOWN: "§RYou currently don't have any states that you can start a border war from.§!"
+  FALLOUT_BORDER_WAR_MENU_INFO_NO_ENEMY_STATES_YET_SHOWN: "§YSelect one of your states first to show the available neighbor states here.§!"
+  FALLOUT_BORDER_WAR_MENU_INFO_NO_LEADERS_SHOWN: "§RYou currently don't have any leaders available that you can use to start a border war.§!"
+  
+  START_BORDER_WAR_TT: "[This.GetBorderWarStartButtonTooltip]"
+  
+  FALLOUT_BORDER_WAR_MENU_SELECT_STATE_BUTTON_TT: "[This.GetBorderWarSelectStateButtonTooltip]"
+  FALLOUT_BORDER_WAR_MENU_UNSELECT_STATE_BUTTON_TT: "§GClick§! to unselect this state. \n§GRight-click§! to center the map on §Y[This.GetName]§!."
+  FALLOUT_BORDER_WAR_MENU_SELECT_STATE_BUTTON_TT_DELAYED: "[This.GetBorderWarSelectStateButtonTooltipDelayed]"
+  
+  FALLOUT_BORDER_WAR_MENU_SELECT_LEADER_BUTTON_TT: "[This.GetBorderWarSelectLeaderButtonTooltip]"
+  FALLOUT_BORDER_WAR_MENU_UNSELECT_LEADER_BUTTON_TT: "§GClick§! to unselect this leader."
+  FALLOUT_BORDER_WAR_MENU_SELECT_LEADER_BUTTON_TT_DELAYED: "Here you select the leader that will command the units in the border war. \nSelecting this leader will unassign him from his current army, if he is assigned, and will assign him to the army that will fight in the border war."
+  
+  # Scripted Localisation:
+  string_border_war_start_tt: "§GClick§! to start the border war with §Y[This.GetBorderWarEnemyCountry]§! in §Y[?selected_own_state_for_border_war.GetName]§! and §Y[?selected_enemy_state_for_border_war.GetName]§!."
+  string_border_war_start_tt_disabled: "§RYou need to select a state, an enemy state and a leader to be able to start the border war!§!"
+  
+  string_border_war_select_state_tt_disabled_already_border_war: "§RThis state is already involved in a border war.§!"
+  string_border_war_select_state_tt_disabled_not_owned_or_controlled: "§RThis state is not under the owners control anymore or the owner has changed.§!"
+  string_border_war_select_state_tt_disabled_no_matching_neighbor_state: "§RThis state has no matching neighbor state in which a border war could be started.§!"
+  string_border_war_select_state_tt_disabled_no_divisions_in_state: "§RWe do not have any divisions in this state to start a border war.§!"
+  string_border_war_select_state_tt_disabled_war_with_owner: "§RWe already are at war with the owner of this state, which makes it impossible to start a border war in this state.§!"
+  string_border_war_select_state_tt_disabled_impassable_states: "§RThe terrain between §Y[?Root.selected_own_state_for_border_war.GetName]§! and §Y[This.GetName]§! is impassable.§W"
+  string_border_war_select_state_tt: "§GClick§! to select this state. \n§GRight-click§! to center the map on §Y[This.GetName]§!."
+  
+  string_border_war_select_state_tt_delayed_own_state: "Here you select your own state from which you want the border war to start from. \nSelecting this state will display all valid neighbor states on the right."
+  string_border_war_select_state_tt_delayed_enemy_state: "Here you select the enemy state. \nSelecting this state will make it the enemy state of the border war that you are about to start."
+  
+  string_border_war_select_leader_tt_disabled_in_border_war: "§R[This.GetBorderWarMenuLeaderName] is already involved in a border war.§!"
+  string_border_war_select_leader_tt_disabled_in_combat: "§R[This.GetBorderWarMenuLeaderName] is currently involved in a combat.§!"
+  string_border_war_select_leader_tt_disabled_sick: "§R[This.GetBorderWarMenuLeaderName] is sick.§!"
+  string_border_war_select_leader_tt_disabled_wounded: "§R[This.GetBorderWarMenuLeaderName] is wounded.§!"
+  string_border_war_select_leader_tt: "§GClick§! to select §Y[This.GetBorderWarMenuLeaderName]§! as the leader in the border war."
+  

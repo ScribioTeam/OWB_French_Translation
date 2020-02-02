@@ -1,0 +1,38 @@
+﻿l_french:
+
+
+
+po.puppet_events.1.t:0 "An Alarming Trend"
+po.puppet_events.1.d:0 "Nationalist sentiment is beginning to rise in one of our subjects. Words like 'Self Determination,' 'Freedom,' and 'Liberty' are being spoken by powerful figures in [From.GetName] far too often for our liking. If we don't do something about this now, this sentiment may get out of hand."
+po.puppet_events.1.a:0 "Squash these agitators."
+po.puppet_events.1.b:0 "It's nothing."
+
+po.puppet_events.2.t:0 "A Watchful Eye"
+po.puppet_events.2.d:0 "The [From.GetAdjective] hand is a firm one, and not to be trifled with. A new official has taken a particularly meddling approach to overseeing our nation, and has managed to strip away several of our hard-fought liberties in the process."
+po.puppet_events.2.a:0 "Distract and obfuscate him."
+po.puppet_events.2.b:0 "This is the price of servitude."
+
+po.puppet_events.3.t:0 "A Shining Example"
+po.puppet_events.3.d:0 "The art of nation-building is usually a thankless one, but today is not the case. The people of [From.GetName] seem to have taken to the role of subject wonderfully, our officials are welcomed, our demands met, and hearts and minds are being won to our cause."
+po.puppet_events.3.a:0 "It's wonderful to finally see eye-to-eye."
+po.puppet_events.3.b:0 "Let's use this to our advantage."
+
+po.puppet_events.4.t:0 "An Inattentive Eye"
+po.puppet_events.4.d:0 "It seems that the bureaucrats of [From.GetName] have found a new punching bag lately. Demands are not being enforced, communication is sparse, and our government is running unhindered by outside forces. For now at least, we have the reins of our nation."
+po.puppet_events.4.a:0 "Let's use this to strengthen our position."
+po.puppet_events.4.b:0 "It's best to just appreciate the peace and quiet."
+
+#wartime
+
+po.puppet_events.5.t:0 "Wartime Administration"
+po.puppet_events.5.d:0 "With most of our administration occupied with the ongoing war, the administration of our subjects has been left to the wayside. If we continue to neglect our overlordship, we may run into trouble if the war drags on."
+po.puppet_events.5.a:0 "Use them to bolster the war effort!"
+po.puppet_events.5.b:0 "Reaffirm our control."
+po.puppet_events.5.c:0 "We can worry about them later."
+
+po.puppet_events.6.t:0 "Together for Victory"
+po.puppet_events.6.d:0 "While we are fighting side by side with our Overlord, the question still remains how much we want to commit to someone elses war. Voices in our nation have called for us to use this conflict to strengthen our autonomy, while others have insisted that if we do not fight together, we will die separately."
+po.puppet_events.6.a:0 "This is not our fight."
+po.puppet_events.6.b:0 "We are together for victory!"
+
+po_puppet_event_localisation:0 "Events"

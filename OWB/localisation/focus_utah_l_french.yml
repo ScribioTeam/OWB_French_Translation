@@ -1,0 +1,583 @@
+﻿l_french:
+ #-------------------------------------
+ # Utah
+ #-------------------------------------
+
+  utah_origin_1:0 "Our Origins"
+  utah_origin_1_desc:0 "In the ashes of the Old World, our only salvation was each other..."
+
+  utah_origin_2:0 "The New Gods"
+  utah_origin_2_desc:0 "The blastwave slew the Old Gods, and even their memory would be lost as the fallout settled..."
+
+  utah_origin_3:0 "Our Path"
+  utah_origin_3_desc:0 "As the final aftershocks of the end settle, the path our people must walk becomes clear..."
+
+  utah_war:0 "Age of Strife"
+  utah_war_desc:0 "These are no longer peaceful times. The dark clouds of war gather on the horizon, and whatever part we are to play, whether aggressor or defender, we must prepare for the storm."
+
+  utah_war_offense:0 "Readying for War"
+  utah_war_offense_desc:0 "If we are not ready to fight and die standing for our people, then we will simply die on our knees. War must be at the forefront of our minds at all times, that every man and women understands the trials that will soon follow. "
+
+  utah_warrior_lifestyle:0 "Warrior Lifestyle"
+  utah_warrior_lifestyle_desc:0 "To live for war means to abandon many things once held precious to you, but it also requires that you live in accordance with it's way. We must furnish our warriors with all the necessary equipment and supplies needed to fight for our people."
+
+  utah_canyon_warfare:0 "Canyon Warfare"
+  utah_canyon_warfare_desc:0 "Gone are the days of pitched battle on open fields, and yet, so two are the tenets of urban warfare long past us. The ground beneath our feet, the earthen walls on our sides, and clear sky above us will teach us all there is to know about Post-Modern Warfare."
+
+  utah_warbands:0 "War Bands"
+  utah_warbands_desc:0 "One does not fight alone, in the heat of battle, the brothers and sisters we fight alongside are as valuable as any sword or bullet. Our warriors must begin to eat, sleep, and breathe in tandem together, that one day, they may fight just as well. "
+
+  utah_raiding_missions:0 "Raiding Missions"
+  utah_raiding_missions_desc:0 "There are two types of warriors in battle, those who would stand their ground and fight with honour against all comers, and those who live. We must practice the art of lightning raids, always choosing our battles, and never being drawn into a drawn-out conflcit."
+
+  utah_weapons_of_war:0 "Weapons of Destruction"
+  utah_weapons_of_war_desc:0 "The Old World may have made many mistakes, but one area in which they excelled was in dealing death. While our own facsimiles are merely homages to ancient power, they are still just as lethal."
+
+  utah_honor_the_champions:0 "Honouring the Champions"
+  utah_honor_the_champions_desc:0 "To those who have laid their lives forfeit in the service of their people, there can be no honour too great. Our nation lifts these champions up as the pillars and protectors they are, a shining example that every soul can aspire too."
+
+  utah_war_defense:0 "Protecting our People"
+  utah_war_defense_desc:0 "There is no sense in sending our people to die on foreign lands, let us instead let the fight come to us, and let the blood of the fallen foe act as consecration for our bulwarks."
+
+  utah_ambush_strategies:0 "Ambush Strategies"
+  utah_ambush_strategies_desc:0 "Even amongst the tribes of Utah, there is no such thing as a 'fair fight', we shall strike at the feet of the goliaths that surround us, and bring them crashing down to earth."
+
+  utah_scouts:0 "Canyon Scouts"
+  utah_scouts_desc:0 "The treacherous canyons of Paradise are both a blessing and a curse, depending on which end of the river you're on. With advanced warning, we can safely harry and trap opposing forces, the very land they walk on rising up to smite them."
+
+  utah_defense_in_depth:0 "Defence in Depth"
+  utah_defense_in_depth_desc:0 "There is no such thing as a overcautiousness. Let us build trenches upon trenches, walls upon walls, until our Jericho cannot be breached by any hand other than that of a god."
+
+  utah_defending_the_rivers:0 "Holding the Rivers"
+  utah_defending_the_rivers_desc:0 "The rivers are the lifeblood of Paradise, flowing arteries of sustenance and trade, connecting us both within and without. We cannot allow that jealous minds take this bounty from us, and must meet them head on to assert our sacred right."
+
+  utah_water_control:0 "Flowing Waters"
+  utah_water_control_desc:0 "The rush of the rivers flows far and wide, to lands unseen and people unheard of. Some may wish us well, others ill, but the world beyond beckons to us just the same."
+
+  utah_destroy_the_weak:0 "Cleansing the Weak"
+  utah_destroy_the_weak_desc:0 "There are those among us unfit for war, not only in strength, but in mind, every day they sap willpower from better men, peddling cowardice and frailty. \n\nThey will be silenced."
+
+  utah_spoils_of_victory:0 "Spoils of the Strong"
+  utah_spoils_of_victory_desc:0 "There are those who do not see the storms of war on the horizon, those who would withhold from the good of the people, those who vainly cling to the material in their folly.\n\nThey will be dealt with."
+
+  utah_holy_war:0 "§RHoly War§!"
+  utah_holy_war_desc:0 "We have been weighed, we have been measured, and we have not been found wanting. Let our warriors march forth and may victory be granted from on high, that the blood that is shed this day will nourish the soil that brings forth the fruit of victory. \n\n §RTO WAR!.§!"
+
+
+
+  utah_economy:0 "The Chosen Land"
+  utah_economy_desc:0 "Our land is blessed with abundance, and dangers. While it demands much, it gives generously in return. While the outside world may continue to move and change, we know that we are right where we belong."
+
+  utah_nomadic_life:0 "Nomadic Life"
+  utah_nomadic_life_desc:0 "To settle down is to miss out on life. Our people understand this, and for as long as we have been a nation, we have refused to be chained by brick or mortar. A life of travel is one well lived."
+
+  utah_city_life:0 "City Life"
+  utah_city_life_desc:0 "No man is an island. To drift apart is to invite danger that we can only face together. As one people, we will build a society together that will stand firm during any storm."
+
+  utah_sanctifying_the_land:0 "Sanctifying the Land"
+  utah_sanctifying_the_land_desc:0 "'Sterile soil, will harden\n\n This wasted world\n\n Our garden.'"
+
+  utah_food_for_the_hungry:0 "Food for the Hungry"
+  utah_food_for_the_hungry_desc:0 "If any one of us cannot eat, we all starve. While it may take sacrifice on behalf of those more fortunate, this sacrifice must be made for the good of our people."
+
+  utah_bountiful_harvests:0 "Bountiful Harvests"
+  utah_bountiful_harvests_desc:0 "Our frugality has been blessed with abundance, our generosity with generosity. Thus, it is our duty to shared this bounty to all our people."
+
+  utah_stewards_of_the_land:0 "Stewards of the Land"
+  utah_stewards_of_the_land_desc:0 "The Old World disrespected the land, stripped and plundered her, and left her bleeding in the ashes of its own demise. This mistake cannot be repeated, our land is sacred, and we must cherish everything she gives us."
+
+  utah_inherit_the_earth:0 "Inheriting the Earth"
+  utah_inherit_the_earth_desc:0 "Some would say we have inherited a cursed land, but we have found only blessings. The shattered wreckage of the Old World, fit not even for veneration, can be given new purpose, reborn to serve the new in harmony with nature."
+
+  utah_work_for_the_idle:0 "Work for the Idle"
+  utah_work_for_the_idle_desc:0 "Paradise is not built with idle hands. No matter our fortunes or favours, there will always be work to be done. Our people must know this, and be ready to work for the common good above their own needs."
+
+  utah_fruits_of_labor:0 "Fruits of Labour"
+  utah_fruits_of_labor_desc:0 "The diligent worker sows the seeds of plenty. Our hard work has paid off, and every labour our people undertake is ever the more easier knowing the great fruits it has borne."
+
+  utah_venerate_the_old:0 "Veneration"
+  utah_venerate_the_old_desc:0 "The Old World was vast, unknowable, and powerful. We should not trespass in the ruins of those who came before us, lest we awaken a horror that was laid to rest in atomic fire."
+
+  utah_improve_the_old:0 "Improvement"
+  utah_improve_the_old_desc:0 "The Old World was vast, unknowable, and now gone. We are not the past, we are the future, we shall take these fallen monuments and make something out of them that even the greatest of those who came before would bow in awe."
+
+  utah_new_discoveries:0 "New Discoveries"
+  utah_new_discoveries_desc:0 "We have been granted great knowledge of the world outside our world, but in the land of flesh and blood, we are still apprentices. May our insights into the spiritual guide our journey of the material, so that we may master both."
+
+  utah_precious_tools:0 "Precious Tools"
+  utah_precious_tools_desc:0 "The spanner, the spear, the sword and the solder. The way of the world is locked, but with the right tools, we may unlock it."
+
+  utah_ancient_science:0 "Ancient Science"
+  utah_ancient_science_desc:0 "Energy can be harnessed, power can be trapped. The very spirit of the air we breath can be channelled via ancient science to achieve modern miracles."
+
+  utah_metal_men:0 "Metal Men"
+  utah_metal_men_desc:0 "To clothe oneself in the earth ancient garments of the Old World, that make a man immortal to all but heaven itself, this is our greatest act of devotion."
+
+  utah_where_eagles_dare:0 "Where Eagles Dare"
+  utah_where_eagles_dare_desc:0 "We lay claim to the sky as we do the land, to respect, cherish, and protect it. To commune with air and find fellowship with eagles, this is our purpose in the sky."
+
+
+
+  utah_religion:0 "The Pantheon"
+  utah_religion_desc:0 "Faith's last bastion is held in the mountains and deserts of this land. Where the outside world, disillusioned by apocalypse and death, has abandoned belief, we have cherished it. From the air we breathe to the soil we walk over, this land is home to the Gods, we merely walk wamongst them."
+
+  utah_religion_sun:0 "Sol"
+  utah_religion_sun_desc:0 "When the ashen clouds choked out the sky so many years ago, it was the first rays of the sun, breaking through the sky, that provided hope and faith for our people. Sol burns through all impurity, and illuminates the truth in a world of perversion."
+
+  utah_religion_sun_2:0 "Blessed Light"
+  utah_religion_sun_2_desc:0 "Though our eyes may be blinded, the pure light of the sun shines through. There can be no aversion of gaze, no dark corner which such radiant truth cannot penetrate, the sun shines its burning blessing upon all."
+
+  utah_religion_mountain:0 "Mesa"
+  utah_religion_mountain_desc:0 "There is no truth that can be found easily, no understanding without sacrifice. In the hidden caverns and holy rises our people were granted sanctuary from the apocalypse, and so cast our lives to their service. "
+
+  utah_religion_mountain_2:0 "Holy Mountains"
+  utah_religion_mountain_2_desc:0 "The mountain is our teacher, and its lessons dear. The world of those who shun the shadow of the mountain is a false path, filled with meaningless abundance and perverse pleasures. Only through dedicating ourselves to the solemn teaching of the mountain can we withstand such temptations."
+
+  utah_religion_land:0 "Terra"
+  utah_religion_land_desc:0 "We are selfish creatures, ever prone to conflict and destruction, with no thought to the evil we bring into this world. The very soil of our land is under attack, poisoned by blood and fallout, it is our holy penance to restore the land, that it may one day bloom again."
+
+  utah_religion_land_2:0 "Promised Land"
+  utah_religion_land_2_desc:0 "There is a beauty bleak,\n\n In this wasteland world."
+
+  utah_religion_moon:0 "Luna"
+  utah_religion_moon_desc:0 "In this world, it is easy to lose oneself, to give in t o the entropy and despair of the apocalypse, to degenerate beyond humanity. Our people, once proud and wise, know this more than anyone, but we have been spared by the light of Luna. Under her knowing gaze, we will return to the world of old, and rediscover the ancient heritage we have left behgind."
+
+  utah_religion_moon_2:0 "Holy Night"
+  utah_religion_moon_2_desc:0 "It is said that the ancient world abandoned faith in their pursuit of reason. This, was perhaps their greatest folly. It is not reason that destroys faith, but faith that illuminates the path of reason to all who believe."
+
+
+  utah_religion_sor:0 "The Father"
+  utah_religion_sor_desc:0 "When our ancient forefathers were mere children, we were taught the way of survival in this new world. The Father, who lives still in the caves of the mountain, silently guided us with his teachings. Though the father has long since stopped guiding us directly, he forever watches over our people, content in the knowledge that we will always honour his teachings."
+
+  utah_religion_sor_2:0 "Building Zion"
+  utah_religion_sor_2_desc:0 "Zion is the heart of people, we are connected to its trees and plains as much as we are connected to our own flesh and blood. Thus, we will build a monument to zion, and make zion a monument to itself."
+
+  utah_religion_sor_3:0 "Eternal Vigilance"
+  utah_religion_sor_3_desc:0 "The Father is always watching, so to must we always be watchful. Our rest must be guarded and our gaze alert, for in doing so we honour his teachings."
+
+  utah_religion_tar:0 "The Road to War"
+  utah_religion_tar_desc:0 "There are those who decry the act of war, that it is destructive, all-consuming, and turns men into monsters. It is precisely for these reasons that we honour war, for war gives us the strength that others lack, the wisdom that others decry, and the unity and power that all envy. War is our god, and battle our sacrament."
+
+  utah_religion_tar_2:0 "Warshops"
+  utah_religion_tar_2_desc:0 "To destroy, one must first create. The weapon of a warrior is that of an instrument to an artist, through it, the warrior creates his offering to Keres, and with it, he becomes the artist of war. "
+
+  utah_religion_tar_3:0 "Glory At All Costs"
+  utah_religion_tar_3_desc:0 "When one dedicates themselves to war, they put aside the gentler things of life. Home, family, peace, these are distractions and mysterious to the warrior. Every ounce of one's will must be given to the fight, if glory is to be attained in victory."
+
+  utah_religion_crz:0 "Phoneix"
+  utah_religion_crz_desc:0 "The flames that engulfed the old world were not an ending, but a new beginning. Foolishly, those who remain have refused to embrace this, and have began to reinfest the world with the filth that the holy fires sought to burn away, It is our holy duty to return the world to fire, that the process the ancients started could be finally completed."
+
+  utah_religion_crz_2:0 "The Art of the Flame"
+  utah_religion_crz_2_desc:0 "Flames that burn brighter, heat that lasts longer, fire that rises to the heavens, once we have attained true mastery over the holy flame, then purification of the world may begin."
+
+  utah_religion_crz_3:0 "Purification"
+  utah_religion_crz_3_desc:0 "Already the unwashed masses feel the heat of our purity, their clutch their degenerate possessions, unwilling to embrace the flame. We will show them the folly of their ways. \n\n The great cleansing has begun, \n§RPurification is in progress.§!"
+
+  utah_religion_dea:0 "The Burned Man"
+  utah_religion_dea_desc:0 "There are tales of a great man from across the canyons. A man of war, of peace, a man of god and also of reason. Though he rarely walks amongst us, his footfalls shake the pillars of the earth. The Burned man lives, and the fire that burns inside him will burn in us too."
+
+  utah_religion_dea_2:0 "Memories of the Legate"
+  utah_religion_dea_2_desc:0 "A lifetime of war leaves its marks, both on the body and the soul. There is much to be learnt by our people from the trials of the burned man, both from his victories, and his failures."
+
+  utah_religion_dea_3:0 "Preparing the Soul for War"
+  utah_religion_dea_3_desc:0 "War is hell, but it need not be so. If the soul is prepared and the spirit willing, when the act is done righteously and without falter, it is just a chore, like any other"
+
+  utah_religion_uin:0 "Zephyr"
+  utah_religion_uin_desc:0 "It is movement of the wind that separates the living from the dead. The air we breathe gives us the life we live, and the wind carries this life to all people. We honour this gift with our movements, and cherish our bond with the sky above."
+
+  utah_religion_uin_2:0 "Reinforced Gliders"
+  utah_religion_uin_2_desc:0 "The ancients too, knew the secret of the wind. Though their knowledge is long gone, they, like us, honoured the wind and became as one, sanctifying metal temples that graced the skies above. Though the unbelievers may mock us, we too will discover this secret, and finally begin our communion with the sky."
+
+  utah_religion_uin_3:0 "Ruling the Skies"
+  utah_religion_uin_3_desc:0 "Though others may claim the land and see, the sky is ours alone. We hold sovereignty as co-rulers with the wind, and strike down any who rise to challenge us."
+
+  utah_religion_lon:0 "Umbra"
+  utah_religion_lon_desc:0 "When the world was broken down by apocalyptic fire, when the great clouds of ash had settled, and those few survivors that remained dared not leave their shelters, the world was finally at peace. No more light, no more movement, no more sound. Humanity, however, rejected this purity, and once again begain to fill the world with their disgusting clamour. Now, only we who recognise the holiness of this oblivion still pay respect to the great silence."
+
+  utah_religion_lon_2:0 "Walking in the Shadows"
+  utah_religion_lon_2_desc:0 "The hideous light, the cacophonic sound, the filth of being, all encroach upon us ever further. We must return to the sanctity of oblivion, by force if need be."
+
+  utah_religion_lon_3:0 "The Quiet"
+  utah_religion_lon_3_desc:0 "..."
+
+  utah_religion_monotheism:0 "Monotheism"
+  utah_religion_monotheism_desc:0 "It is time to dedicate ourselves, no longer to one deity amongst many, but to the sole veneration and worship of [This.GetPantheonSelectedGodName]. No longer will we cheapen our worship with indecision, from this day forward, there will be only one god and one people."
+
+
+
+  utah_ncn:0 "Emissaries of God"
+  utah_ncn_desc:0 "The Mormons have long abided in the north, content to limit their prosletyzing to individual missionaries. Now, however, with war in heaven approaching, the New Canaan has sent new emissaries, calling for our submission to God, and to stand in the face of an unholy conquest."
+
+  utah_accepting_missionaries:0 "Accept Missionaries"
+  utah_accepting_missionaries_desc:0 "New Canaan's missionaries, while tolerated, have never been allowed to preach without restraint. Now, with our fates bound together, such a restriction is unnecessary, and prevents the spread of the good word to our people."
+
+  utah_new_gospel:0 "The New Gospel"
+  utah_new_gospel_desc:0 "The words of God are strange indeed. Archaic, inscrutable, and alien, the help of the mormons in translating their gospel into a comprehensible speech will greatly help boost the spread of their religion."
+
+  utah_learning_from_god:0 "Learning from Elohim"
+  utah_learning_from_god_desc:0 "While they consider themselves to be the first tribe amongst tribes, there is no denying that the mormons have not fallen as far from paradise as we have. With their help, we may yet regain the knowledge that our forefathers lost."
+
+  utah_tribal_conversion:0 "Baptism"
+  utah_tribal_conversion_desc:0 "Guestures of fealty are not sufficient to bind our people together, what is necessary is true conversion. Our tribal leaders have agreed, and [ROOT.GetLeader] shall travel to the Great Salt, to fully dedicate our people unto God."
+
+  utah_new_missionaries:0 "New Mormons"
+  utah_new_missionaries_desc:0 "With the acceptance of the Mormon faith by our leaders, our people have become more eager to convert, new converts in turn spread the word to their own peers, and the work of God spreads like wildfire amongst our nation."
+
+  utah_reaching_the_unconverted:0 "Reaching the Unconverted"
+  utah_reaching_the_unconverted_desc:0 "It is not enough to convert merely our own people, every man and woman should have a chance to hear the words of salvation. We must begin preparations to fund our own missions to the unconverted masses."
+
+  utah_lords_blessings:0 "The Lord's Blessing"
+  utah_lords_blessings_desc:0 "A new God means new rituals, new sacraments and sacrifices, and Elohim is no different. The mormons seem somewhat confused with how quickly we adapted our rituals to their God, but when it comes to worship, we are rather experienced in the process."
+
+  utah_a_new_pantheon:0 "A New Pantheon"
+  utah_a_new_pantheon_desc:0 "There is room enough for Christ amongst our beliefs. All paths of worship lead back to God, and we should respect those who choose to walk a different path among us."
+
+  utah_no_gods_before_me:0 "No Gods Before Me"
+  utah_no_gods_before_me_desc:0 "There is no God but God, our beliefs in the past were misguided, our holy beings false idols before the true salvation. We must repent and turn away from these heretical practices and dedicate ourselves to Christ without exception."
+
+  utah_cast_out_the_devil:0 "Casting out the Devil"
+  utah_cast_out_the_devil_desc:0 "The devil rampages through the lands of Zion, destroying all that is good and pure, our stand against this evil is blessed by God, and we cast out this devil with the rightous fury of the Lord!"
+
+  utah_new_world_saints:0 "New World Saints"
+  utah_new_world_saints_desc:0 "We have learned at the feet of the mormons, served by their side, and shared their victory, now, we must become our own disciples, and continue to spread the good word throughout the wasteland."
+
+
+  utah_legion:0 "Emissaries of Mars"
+  utah_legion_desc:0 "The Legion has long been content to leave the tribes of the canyon to their own designs. Only occasionally sending scouts and spies through our lands. Now however, as the bull begins to charge, white-marked emissaries bearing the sign of Mars have come to our people, demanding subjugation to the new Rome."
+
+  utah_feats_of_strength:0 "Feats of Strength"
+  utah_feats_of_strength_desc:0 "The strength of the Legion is unquestioned, even by it's fiercest enemies. As we begin our tutelage under the bull, we must begin to harness that strength, and learn to apply it ourselves against our foes."
+
+  utah_tales_of_destruction:0 "Tales of Destruction"
+  utah_tales_of_destruction_desc:0 "There are many who question the path of obedience under Caesar, but the answer to rebellion is clear. There is no future without the legion, at least, one that we will survive in."
+
+  utah_gifts_of_conquest:0 "Gifts of Conquest"
+  utah_gifts_of_conquest_desc:0 "Legion coffers run deep. With our alliance to the cause of Mars underway, the spoils of the legion's past victories have been bestowed upon us, under the auspice that one day, we will add our own victories to this legacy."
+
+  utah_submission:0 "Submission"
+  utah_submission_desc:0 "There can be no more questioning or hesitation, we are under the bull now, for better or worse. It is time for us to recognise the son of mars for what he truly is: a new god of the wasteland, come to take what is rightfully his."
+
+  utah_subjugating_the_weak:0 "Subjugating the Weak"
+  utah_subjugating_the_weak_desc:0 "Freedom, liberty, and equality are but illusions, designed to keep the strong from taking their rightful place. No more shall man be shackled by his inferiors, by the infirm, the women, the weak. Now, he will answer only to his own strength."
+
+  utah_eliminating_the_unwilling:0 "Purge the Unwilling"
+  utah_eliminating_the_unwilling_desc:0 "We have come too far for dissent to be tolerated. Caesar's will is law, and none can be allowed to live outside it. The false prophets of New Canaan will fall, and be crucified once again in the name of Mars."
+
+  utah_the_blessing_of_mars:0 "The Blessing of Mars"
+  utah_the_blessing_of_mars_desc:0 "The great work of Mars has been accomplished in Utah. While there may still be those who cower and scurry, hiding in the cracks from the legion's will, the land of heaven has be conquered under the flag of the Bull. Veni, Vidi, Vici."
+
+  utah_following_the_footsteps:0 "Following the Footsteps"
+  utah_following_the_footsteps_desc:0 "The White legs were the first to show us the path of strength and will of Mars, it is they, not Caesar, that deserve this glory, we will follow their footsteps ever on, as the true scions of Mars."
+
+  utah_the_great_tribe:0 "The Great Tribe"
+  utah_the_great_tribe_desc:0 "Are we not fellow soldiers of Mars? Did we not fight alongside the White legs for every step of the way? Shall we not then, take our place as equals, united by our strength and purpose?"
+
+  utah_true_to_caesar:0 "True to Caesar"
+  utah_true_to_caesar_desc:0 "All glory for our victory must be given to Caesar, for without his teachings, we would of never learned of the strength within us. Some may have fallen to the wayside, or questioned their resolve, but our people have, and will remain loyal to the son of Mars."
+
+  utah_87th_tribe:0 "The 87th Tribe"
+  utah_87th_tribe_desc:0 "It is time for us to take our rightful place, no longer separated from the Legion's greatness, but as a part of something greater than ourselves. Our integration is at hand, let us rejoice!"
+
+  utah_utah_legion:0 "The Utah Legion"
+  utah_utah_legion_desc:0 "We are the legion, and yet we are something more. Our independence is merely another facet of our strength, and we must embrace it, rather than bow the knee."
+
+
+
+  utah_tribal:0 "Going Alone"
+  utah_tribal_desc:0 "After much deliberation with the Tribal Council it has been decided that the path of our nation will be one we walk alone; without outside interference from major powers, we should be able to run our nation as we please. "
+
+  utah_rejecting_their_gifts:0 "Rejecting Their Gifts"
+  utah_rejecting_their_gifts_desc:0 "The first step of independence from these evergazing hawks is to step away from their promises of power and luxurious gifts; these things ring hollow when knocked against, and will only in debt us to these oppressors."
+
+  utah_strength_of_tradition:0 "Strength of Tradition"
+  utah_strength_of_tradition_desc:0 "We find our greatest strength in our traditions, those that have seen us through ever since our first settled these lands; in these trying times, we will find this same strength in sticking to them."
+
+  utah_tribal_unity:0 "Tribal Unity"
+  utah_tribal_unity_desc:0 "Our Greatest allies do not hail from Flagstaff or New Canaan, they come from within; it is important now more than ever that everybody is on the same page, ready to meet any threat."
+
+  utah_expel_the_outsiders:0 "Expel the Outsiders"
+  utah_expel_the_outsiders_desc:0 "Allowing outsiders into our lands poses an uncountable number of threats to both our people, and our home. It is high time we cast them out to the wretched wasteland from whence they came."
+
+  utah_tribal_equality:0 "Tribal Equality"
+  utah_tribal_equality_desc:0 "The path of a mother, or housewife is not a path fit for every woman; As dreadful hordes blot out the horizon, every able bodied adult must stand in our defense. It is also worth noting that having lots of experienced cooks and gatherers in the army has it's perks when supply caravans cannot reach the front."
+
+  utah_loyalty_to_the_gods:0 "Loyalty to the Gods"
+  utah_tribal_desc:0 "To abandon the loving embrace of our faith is nigh unthinkable in times such as these; by holding more regular ceremonies and giving gifts to our god, we can reinforce both our loyalty, and our chosen's favor."
+
+  utah_apocalypse:0 "Impending Apocalypse"
+  utah_apocalypse_desc:0 "Our time here may be limited, as time goes on we face another apocalypse, either from hostile tribes, the tyrant Caeser, or evangelizing Zealots from Canaan. It is time to rally the troops."
+
+  utah_neutral_ground:0 "A Neutral Ground"
+  utah_neutral_ground_desc:0 "The line between not enough isolation, and being cut off from the outside is a thin line worth sticking to; by curating outsiders and building good relationships with good neighbors we can maintain both our identity and our friendships."
+
+  utah_religious_tolerance:0 "Religious Tolerance"
+  utah_religious_tolerance_desc:0 "Though we pay due respect to our god, it would be a waste of both effort and potential allies to prosecute all outsiders who come bearing reverence for a different deity. Besides, them being wrong will sort itself out without our meddling."
+
+  utah_tribal_confederation:0 "The Tribal Confederation"
+  utah_tribal_confederatoin_desc:0 "The only way forward is together, to resist the reaching and hungry grasp of the Legion and the Mormons, the tribes must band together in a great confederation against them!"
+
+  utah_isolation:0 "Isolation"
+  utah_isolatoin_desc:0 "We don't need interaction with any outsider! For the last two hundred years we have stood alone, and we will continue to stand alone until either the end of time, or the end of us! "
+
+  utah_purge_heretics:0 "Purging Heretics"
+  utah_purge_heretics_desc:0 "There is no room within our tribe for other gods; ours not only reigns supreme, but he demands blood. It is time to fill the gallows and clear the homes of these wretched infidels, to spill their blood on the streets in a great display of devout passion."
+
+  utah_crusade:0 "The Crusade"
+  utah_crusade_desc:0 "The time has come to impose our righteous doctrine on the rest of the Utah; We are done hiding in the shadows from tyrants on either side, their religious reign is over, and now ours will begin."
+  utah_crusade_tt: "Gain wargoals on two of your §Rneighbouring infidels§!.\n"
+
+
+  utah_religious:0 "Our Religion"
+  utah_religious_desc:0 "Our faith has brought our people together from the ashes of apocalypse, but now we have come to a crossroads. The world around us is changing, how shall we change with it?"
+
+  utah_religious_fundamentalism:0 "Fundamentalism"
+  utah_religious_fundamentalism_desc:0 "The ways of our forefathers will be our ways too, we will stick to the old teachings of our faith."
+
+  utah_religious_new_interpretations:0 "New Interpretations"
+  utah_religious_new_interpretations_desc:0 "Belief with out evolution is stagnation, our understanding of our faith must evolve if we are to thrive."
+
+  utah_religious_hold_sermons:0 "Hold Open Sermons"
+  utah_religious_hold_sermons_desc:0 "Our beliefs cannot be held by a chosen few, they must be shotued from the mountaintops, that all the world may hear the Good News."
+
+  utah_religious_prozletize_to_the_masses:0 "Prozletize To The Masses"
+  utah_religious_prozletize_to_the_masses_desc:0 "Every sinner that remains unreached is a policy failure. We must redouble our efforts in spreading our message to the unsaved masses."
+
+  utah_religious_new_followers:0 "New Followers"
+  utah_religious_new_followers_desc:0 "Already our efforts are being rewarded, new converts, both from within and without, have resonated with our message and flock to our churches in droves, hallelujah!"
+
+  utah_religious_restrict_holy_books:0 "Restrict Holy Books"
+  utah_religious_restrict_holy_books_desc:0 "To read the word of God is a privilege, not a right. Those who are unable to grasp its sanctity shall not pervert its meaning, and instead shall receive enlightenment from trusted preachers."
+
+  utah_religious_fanaticism:0 "Fanaticism"
+  utah_religious_fanaticism_desc:0 "There is only one truth, one way, and one holy word, all else is a work of the devil, designed to waylay our faithful from the true path to salvation. We will not stand for such deceit amongst our nation."
+
+  utah_religious_proclaim_a_new_jerusalem:0 "Proclaim A New Jerusalem"
+  utah_religious_proclaim_a_new_jerusalem_desc:0 "Jerusalem is centre of God's kingdom, the city of all holy people. Our devotion to our faith has proven that we are worthy of such a distinction, and may take up the mantle of Jerusalem anew."
+
+  utah_religious_the_great_scripture:0 "The Great Scripture"
+  utah_religious_the_great_scripture_desc:0 "Learning the scripture is perhaps the greatest act one can devote themselves to. All efforts to help our people understand the word of God will grow their faith ever stronger."
+
+  utah_religious_united_by_god:0 "United By God"
+  utah_religious_united_by_god_desc:0 "There are others that would share sentiments with us over our interpretation of faith. We should reach out to them if we are to prosper into the far future."
+
+  utah_religious_syncretism:0 "Syncretism"
+  utah_religious_syncretism_desc:0 "While there is only one way, there are many paths to salvation. We should celebrate and cherish the different walks of life that lead all believers to the one truth."
+
+  utah_religious_heretics:0 "Heretics"
+  utah_religious_heretics_desc:0 "All is sin, only we are pure. We are surrounded by sinners, pagans, and idolators, and cannot afford to tolerate any form of heresy in our path to salvation."
+
+  utah_religious_new_revelations:0 "New Revelations"
+  utah_religious_new_revelations_desc:0 "There is a world of unexplored wisdom in the lands beyond us, holding revelations of knowledge and faith. We must venture forth to discover this knowledge, both for our material and spiritual growth."
+
+  utah_religious_mass_baptism:0 "Worldwide Mission"
+  utah_religious_mass_baptism_desc:0 "Faith cannot be restrained by one people, it belongs to all who are called to salvation, wherever they may be. We must venture forth into the world to spread this message of hope."
+
+  utah_religious_remove_unbelievers:0 "Banish Unbelievers"
+  utah_religious_remove_unbelievers_desc:0 "We can no longer suffer the unbelievers to live among us, every moment they spend in our presence, they corrupt and waylay our spiritual journey. Only the true believers shall remain in the Kingdom of God."
+
+  utah_religious_final_crusade:0 "Final Crusade"
+  utah_religious_final_crusade_desc:0 "All of the unfaithful will be cut down by our righteous steel. The heathens won't dare rise up against us for a millenia as all will know the consequences of denying our holy word."
+
+
+  utah_HGH_unique:0 "The Baptisers"
+  utah_HGH_unique_desc:0 "When the world ended, God brought our people together. From across the shattered remains of the old world, they came to our chapel, seeking refuge from the hell to come. We forged a community together, baptised as one people, and united by the river that gives life to us all."
+
+  utah_HGH_heaven_contested:0 "Heaven Contested"
+  utah_HGH_heaven_contested_desc:0 "The heretics of Heavens Gate continue to be a threat to our parishes. Their perfidious steam-engines greedily suck the riverbeds dry, destroying that all we hold dear. We must stand strong against their evil."
+
+  utah_HGH_inquisitors_passing_border:0 "Fortify the Borders"
+  utah_HGH_inquisitors_passing_border_desc:0 "High Chapel has always been a place of open sanctuary, but we can no longer afford such generosity, the way to the gate must be closed as heaven is to those who swim against the river-currents."
+
+  utah_HGH_fallback_fortresses:0 "Fallback Fortresses"
+  utah_HGH_fallback_fortresses_desc:0 "It is unlikely will we be able to repel the steam cultists along the whole border. If our border defenses fail, we must fall back to defend our core settlements."
+
+  utah_HGH_root_out_sympathisers:0 "Expelling Sympathisers"
+  utah_HGH_root_out_sympathisers_desc:0 "Many refugees from the steam-worshippers now reside in High-Chapel, but not all who have joined us have put aside their past sins. A test of faith is required, let the waters of the river determine their true loyalty."
+
+  utah_HGH_final_effort:0 "One Final Effort"
+  utah_HGH_final_effort_desc:0 "The time of reckoning is soon upon us, there can be no more measured responses. The final preparations of judgement are to be commenced, with righteous vigour."
+
+  utah_HGH_war_in_heaven:0 "War In Heaven"
+  utah_HGH_war_in_heaven_desc:0 "Let the souls of those who give their lives today in the service of God and his people be granted a seat at the table of heaven, and may every sinner we strike down today be sent to the fires of hell, in the of the Lord and the river, Amen!"
+
+  utah_HGH_the_great_river:0 "The Great River"
+  utah_HGH_the_great_river_desc:0 "The River of God flows through our lands as the life blood of the wasteland. We must protect it against those that would see it sullied by their filth."
+
+  utah_HGH_the_river_provides:0 "The River Provides"
+  utah_HGH_the_river_provides_desc:0 "The Lord hath lead us beside flowing waters, and lays us down at the mouth of the river. In the bounty that these waters provide we find the blessing of God anew every morning."
+
+  utah_HGH_protecting_water_ways:0 "Protecting The Water Ways"
+  utah_HGH_protecting_water_ways_desc:0 "For the protection of the sacred waters, great fortresses will be built in order to maintain protection from: heathens, heretics and all manner of evil."
+
+  utah_HGH_great_boat_builders:0 "The Shipwrights"
+  utah_HGH_great_boat_builders_desc:0 "Throughout our parishes there are many excellent shipwrights that have allowed many to make pilgrimage down the river. Their work is more than Godly, and must be supported in these turbulent times."
+
+  utah_HGH_sturdy_river_ships:0 "River-Arks"
+  utah_HGH_sturdy_river_ships_desc:0 "Just as Noah's Ark delivered him and his family from calamity, so to will our own arks, armed with the weapons and spirit of God, deliver us from the hands of the sinners."
+
+  utah_HGH_revoke_water_way_rights:0 "Revoke Rights To Water"
+  utah_HGH_revoke_water_way_rights_desc:0 "We have long tolerated the settlement of the southern believers along the banks of the Great River, in the belief that all who are devout should partake in God's bounty. This generosity, however, has reached its limit. We will no longer tolerate the continued befoulment of our precious river by their industrial filth, they will respect the life that the river gives them, or they will lose it."
+
+  utah_HGH_cleansed_waters:0 "Cleansing the Waters"
+  utah_HGH_cleansed_waters_desc:0 "Peace has returned to our troubled waters. The River of God may once again flow in peace, knowing that our stewardship over these waters will prevail against all foes of the Lord."
+
+
+  utah_MUR_unique:0 "The Prodigal Sons"
+  utah_MUR_unique_desc:0 "For too long, the Lord's faithful have perverted the message of God, twisting it into a message of cruelty and isolation. Under the teachings of Saint Cynthia, we have returned to the true message of the Gospel: that all may come to know the anointment and salvation of the Lord. For this belief, we have become outcasts from Eden, and must prepare ourselves lest the light of truth be snuffed out forever."
+
+  utah_MUR_glass_of_the_south:0 "Southern Glass"
+  utah_MUR_glass_of_the_south_desc:0 "To the south of our refuge lies the Glassmakers of New Hammond. While fiercely protective of their secrets, they remain an open trade partner, and one of the few friendly faces amongst our neighbors. \n\nFor now at least."
+
+  utah_MUR_rebuilding_roads:0 "Rebuilding the Trade Routes"
+  utah_MUR_rebuilding_roads_desc:0 "Trade between the Faithul and New Hammond was once prosperous and flowing, but during the events of the Schism, all organised trade fell apart. We should endeavour to rebuild this trade relation with the Glassmakers."
+
+  utah_MUR_hammond_aggression:0 "The Writing On The Wall"
+  utah_MUR_hammond_aggression_desc:0 "There can be no lasting relationship with the Glassmakers, only a prelude to destruction. Their seemingly benign ways hide a bloodthirsty soul, and we must distance ourselves from them lest we become the next Eastport."
+
+  utah_MUR_the_glass_blowing_corp:0 "Artisan Techniques"
+  utah_MUR_the_glass_blowing_corp_desc:0 "There is no denying the skills the Glassmakers have developed over the years. While their obsession with glass borders onto the impractical in many ways, there is much that we can learn from their artisans for our own uses."
+
+  utah_MUR_the_highest_chapel:0 "Northern Guardians"
+  utah_MUR_the_highest_chapel_desc:0 "Highchapel's Protection is the only reason our Reformation has survived as long as it did. While they ostensibly hold no side in our conflict, it is no secret that they view the fanatical nature of the anointed poorly. We must continue to strengthen our bond into a full fledged alliance."
+
+  utah_MUR_debate_of_ideas:0 "Debate Of Ideas"
+  utah_MUR_debate_of_ideas_desc:0 "The Highchapel devotees view our faith as a benign heterodoxy, but perhaps we have more in common than we think, our greatest theologians have undertaken the task of syncretising our religious doctrines, that we may be united by faith."
+
+  utah_MUR_defence_of_faithful:0 "Petition for Defence"
+  utah_MUR_defence_of_faithful_desc:0 "Our efforts in wooing Highchapel have paid off, and their Council of Parishes has agreed to hear our petition for defence. While the exact details of our new relationship are still being discussed, this may be our salvation from the Anointed's wrath."
+
+  utah_MUR_river_preservation:0 "River Preservation"
+  utah_MUR_river_preservation_desc:0 "With Highchapel's protection assured, we can now safely focus our defences against land assault by the Anointed. As a show of gratitude to Baptisers, we have also agreed to demilitarise our current naval presence."
+
+  utah_MUR_protect_the_rivers:0 "Coastal Protection"
+  utah_MUR_protect_the_rivers_desc:0 "We can no longer rely on the protection of Highchapel in our time of need, our fate is now in our own hands. The river must be guarded at all costs, lest a naval invasion breach our defences."
+
+  utah_MUR_self_anointed:0 "Eastern Schismatics"
+  utah_MUR_self_anointed_desc:0 "Our former brothers and sisters in the faith, now bitter enemies, eye is with contempt across the Great River. Already, the fires of war burn deep in the heart of Eden, it is only a time before they are unleashed upon us."
+
+  utah_MUR_the_last_refuge_of_christ:0 "The Last Refuge Of Christ"
+  utah_MUR_the_last_refuge_of_christ_desc:0 "Not all who reside under the Anointed are lost. Even now, defectors make midnight crossings across the river to join their brothers in freedom. We must use these defections as a tool to further destabilise their fanatical regime."
+
+  utah_MUR_defensive_plans:0 "Defence Of The Faithful"
+  utah_MUR_defensive_plans_desc:0 "If we are to fight for our faith, then every believer will fight. From the youngest child to the Elder, we all move as one towards the common goal of survival."
+
+  utah_MUR_riverside_combat:0 "Theological Supremacy"
+  utah_MUR_riverside_combat_desc:0 "If the faith we profess is true and good, and God is indeed on our side, there is simply no room for defeat, our victory is assured just as our place in heaven is a certainty."
+
+  utah_MUR_mending_schism:0 "Mending the Schism"
+  utah_MUR_mending_schism_desc:0 "After years of division and strife, the Lord's people are once again united as one, this is a day of celebration, not just for us, but for all God-fearing people of this world, wherever they may reside."
+
+
+  utah_ANO_unique:0 "The Anointed"
+  utah_ANO_unique_desc:0 "When the rapture visited this Godless land, the holy walls of our vault kept us safe and prepared our souls for the Second Coming. Now, as we venture forth, returning the word of the Lord back to these Hellish lands, we must forever guard ourselves from the soulless, whose human-like ways beguile and deceive. Only we who have been anointed by the Lord's Spirit will achieve salvation."
+
+  utah_ANO_the_heretic_reformists:0 "The Heretic Reformers"
+  utah_ANO_the_heretic_reformists_desc:0 "The only thing more wretched in the eyes of God than a soulless husk, is one who willingly abandoned their soul to the Devil. The Murtaugh Apostates have broken our covenant with the Lord, and endanger their souls with every moment they spend outside our flock. We must return them to the fold at any cost."
+
+  utah_ANO_crusades:0 "Lessons Of The Crusades"
+  utah_ANO_crusades_desc:0 "We are not the first to go to war in the Lord's name, but Lord-willing, we will be the last. A thousand generations of crusaders look down at us from heaven, and we will join them as equals, in battle or in victory."
+
+  utah_ANO_the_last_crusaders:0 "The Last Crusaders"
+  utah_ANO_the_last_crusaders_desc:0 "To answer the call to crusade is to forfeit one's mortal possessions, ambitions, and ultimately, one's life, to the Lord. In return, they are absolved of all sin, past and future, and are vouchsafed an eternal reward in heaven. It is these brave souls who will lead the charge against the heretics, for the Glory and honour of God, Amen."
+
+  utah_ANO_the_northern_problem:0 "Guarding Eden"
+  utah_ANO_the_northern_problem_desc:0 "We are a Holy people in a Godless land, surrounded by souless and the heretical. We can only rely on ourselves, and God, and must protect our people from the outside world at all costs."
+
+  utah_ANO_our_promised_land:0 "Our Promised Land"
+  utah_ANO_our_promised_land_desc:0 "The Murtaughs have stolen our Promised Land from us, splitting our people, and our souls in two. The earth calls for Godly governance once more, we must only make the effort to return to it."
+
+  utah_ANO_crusade_against_MUR:0 "The Seventy-Seventh Crusade"
+  utah_ANO_crusade_against_MUR_desc:0 "The time is almost at hand. Our prayers have been offered to the Lord, and our souls girded against any machination or trick with which the Apostates could waylay us. Deus Vult!"
+
+  utah_ANO_high_chapel:0 "The River-Churches"
+  utah_ANO_high_chapel_desc:0 "While the Highchapel converts are arguably soulless heretics, their belief is admirable, and similar enough to ours to allow for some form of compatibiltiy. Most importantly, they are the Apostate's chief protector, and thus we must convince them of the error of their ways, by force if necessary."
+
+  utah_ANO_lords_navy:0 "The Lord's Navy"
+  utah_ANO_lords_navy_desc:0 "There can be no pause for consideration of the heretic in the work of the Lord. The waters of Paradise belong to heaven, not Highchapel, and as the stewards of Earth we claim full ownership over these waters."
+
+  utah_ANO_galilee_fleet:0 "The Galilee Fleet"
+  utah_ANO_galilee_fleet_desc:0 "The Lord commanded us to be fishers of men, and what is a fisherman without his boat? The Galilee fleet will deliver the word of the Lord to heathen and heretic alike, with righteous fury."
+
+  utah_ANO_walking_on_water:0 "Walking on Water"
+  utah_ANO_walking_on_water_desc:0 "To control the rivers is merely an means to an end, for just as the ark carried Noah to dry land, so will our ships deliver us unto the lands of our enemies, that we may enact the will of the Lord upon them."
+
+  utah_ANO_respect_waters:0 "Respecting the Waters"
+  utah_ANO_respect_waters_desc:0 "While it may seem foolish to our enlightened selves, to the Highchapel devotees, there is nothing more sacred than respecting the rivers and estuaries of their people. Thus, if we are to curry their favour, we must take steps to demonstrate our own respect for these waters."
+
+  utah_ANO_military_collaboration:0 "Military Collaboration"
+  utah_ANO_military_collaboration_desc:0 "Rather than fight against Highchapel, we should endeavour to cultivate a relationship in which we fight with them. To do this, we should build military cooperation between our people."
+
+  utah_ANO_united_front:0 "A United Front"
+  utah_ANO_united_front_desc:0 "While we are concerned mostly with our astray brothers in the west, it is no secret that we are in grave danger from the northern cultists as well. Finding a common cause with Highchapel in repelling the steam-worshippers will further strengthen our relationship."
+
+  utah_ANO_mediation:0 "Mediation"
+  utah_ANO_mediation_desc:0 "With our relation with Highchapel solidified, perhaps we can use this newfound partnership to resolve our issue with Murtaugh for us. The Apostates trust Highchapel far more than they ever would us, so it is possible that they may listen to reason if it comes from their guardian than from the people trying to kill them."
+
+  utah_ANO_unfinished_business:0 "Unfinished Business"
+  utah_ANO_unfinished_business_desc:0 "With our relation with Highchapel solidified, we can return to the most important matter of the day: the heretics. While we are almost certainly sure that Highchapel will now favour our enlightened position over that of the Apostates, it would still be polite to check in with them before we go crusading."
+
+  utah_ANO_mending_the_schism:0 "Mending The Schism"
+  utah_ANO_mending_the_schism_desc:0 "After years of division and strife, the Lord's people are once again united as one, this is a day of celebration, not just for us, but for all God-fearing people of this world, wherever they may reside."
+
+
+  utah_HAM_unique:0 "The Glassmaskers Of Utah"
+  utah_HAM_unique_desc:0 "To work one's hardest, to pour heart and soul into the craft, to create from entropy order; these are the finest goals in life. The art of glass is our people's calling, a tradition forged in the ashes of the old world, bringing us together. As the centuries have passed, we have transformed this skill into a way of life, and have blessed the wasteland with the beauty we have created."
+
+  utah_HAM_glass_shortage:0 "Glass Shortage"
+  utah_HAM_glass_shortage_desc:0 "Without the Glassworks, our people lay idle, chaos begins to seep in, despair gathers. We must act quickly before our entire way of life is destroyed."
+
+  utah_HAM_eastport_glass:0 "Eastport Sand"
+  utah_HAM_eastport_glass_desc:0 "Our neighbours to the west, the Eastport drunks, have long been a scourge to our people. Not only is their community an insult to our ethos of work and craftmanaship, they neglect the veritable bounty of the desert underneath their feet. We must rectify this."
+
+  utah_HAM_demanding_supplies:0 "The Charlestone Purchase"
+  utah_HAM_demanding_supplies_desc:0 "There is no need for violence as first recourse, we can instead make an offer they simply won't refuse: shipments of fine-blown glass bottles for their disgusting distilleries, in exchange for the Charlestone badlands. \n\nOf course, if they do refuse..."
+
+  utah_HAM_demand_territory:0 "An Unquenchable Thirst"
+  utah_HAM_demand_territory_desc:0 "It's not enough, the Glassworks hunger, we need more sand. Isaac has gathered the artisans together and a new proposal has been drafted to send to Eastport: The southern deserts, or their lives."
+
+  utah_HAM_murtaugh_trade:0 "Murtaugh Trade"
+  utah_HAM_murtaugh_trade_desc:0 "The northern schismastics eye us with suspicion, but as long as our supplies pass muster, they keep the trade routes open. Perhaps this uneasy relationship can blossom into something more permanent."
+
+  utah_HAM_supply_and_demand:0 "Supply And Demand"
+  utah_HAM_supply_and_demand_desc:0 "Glass armour, glass bricks, glass tools. Impractical? Maybe, but that's the thing about a monopoly; You're the only game in town."
+
+  utah_HAM_reward_loyal_customer:0 "Reward Loyal Customers"
+  utah_HAM_reward_loyal_customer_desc:0 "The Reformers have stayed true to us, and so too we to them. Any attack on their people is also an attack on us, and we will respond accordingly."
+
+  utah_HAM_force_mur_trade:0 "Ensure a Captive Market"
+  utah_HAM_force_mur_trade_desc:0 "The Reformers have betrayed our trust, and closed the trade routes to the north. This cannot be allowed to continue, the glass must flow, at all costs."
+
+  utah_HAM_restart_forges:0 "Restart the Forges"
+  utah_HAM_restart_forges_desc:0 "With trade once again flowing and our supplies secured, life can return anew to peace. Isaac has decreed a new monument to be forged, to celebrate the unity and strength that our people have shown in this time of crisis. "
+
+  utah_HAM_glass_houses:0 "Improving the Forges"
+  utah_HAM_glass_houses_desc:0 "Perfection is unattainable, which is why we must always strive towards it. There will always be a tool to improve, a technique to refine, a mold to redesign. This is our calling, in this world, and any other."
+
+  utah_HAM_improved_housing:0 "Glass Houses"
+  utah_HAM_improved_housing_desc:0 "While others sit in squalor in old world ruins or crudely attempt to recreate the homes of the past, our people have chosen a new path. We are not the Old World, we are something better, something new."
+
+  utah_HAM_glass_vendors:0 "New Horizons"
+  utah_HAM_glass_vendors_desc:0 "We have only begun to scratch the surface of what is possible with glass. Perhaps we may fly, or sail the oceans, explore the stars or discover the inner workings of the world. The glass still has much to teach us, we only need to apply ourselves to this vision."
+
+  utah_HAM_transporting_glass:0 "Transporting Glass"
+  utah_HAM_transporting_glass_desc:0 "As versatile as our glass is, it is still susceptible to fractures if not handled properly. Building proper infrastructure to transport glass from the forges is our new priority."
+
+  utah_HAM_clear_out_ruins:0 "Clearing Out Ruins"
+  utah_HAM_clear_out_ruins_desc:0 "The Old World has nothing more to teach us. It is merely a memory of a foolish people, a people that we have surpassed, if not in knowledge, then in the strength and beauty of our purpose. Let others worship their memory, we will forge the future."
+
+  utah_HAM_the_great_city_of_glass:0 "The Great City Of Glass"
+  utah_HAM_the_great_city_of_glass_desc:0 "Glass Shall Be All And All Shall Be Glass, All Shall Be Seen Through The Glass And Through The Glass We Will See All. All That Was Will Be Again, Forever And Ever, Amen."
+
+
+  HGH_hea_opinion:0 "Sullied the Waters"
+  utah_emissaries:0 "Accepted Emissaries"
+  utah_missionaries:0 "United By God"
+  rejected_emissaries:0 "Rejected Emissaries"
+  utah_MUR_ANO_hatred:0 "Heretics"
+  utah_ANO_diplomacy:0 "Theological Reconciliation"
+  HGH_respect:0 "Respected the Waters"
+  HGH_disrespect:0 "Disrespected the Waters"
+  MUR_ham_opinion:0 "Glass Trade"
+  MUR_hghh_opinion:0 "Supplication"
+
+  THE_GRAND_CONFEDERATION:0 "The Grand Confederation"
