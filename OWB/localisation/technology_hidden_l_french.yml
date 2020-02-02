@@ -15,6 +15,7 @@
  HEADER_ITZA_BUFFS:0 "Bonus Chichen Itza"
  HEADER_ARMY_OF_MEXICO_BUFFS:0 "Bonus Armée de Mexico"
  HEADER_RENO_BUFFS:0 "Bonus New Reno"
+ HEADER_OREGON_BUFFS:0 "Bonus de l'Oregon"
  HEADER_SETTLER_BUFFS:0 "Bonus Colon"
  HEADER_RAIDER_BUFFS:0 "Bonus Pillard"
  HEADER_LEGION_BUFFS:0 "Bonus Légion"
@@ -139,7 +140,7 @@
   oldworldarmour_desc: ""
 
  #Vault City
-  mutant_supremacy: "Super Mutant Supremacy"
+  mutant_supremacy: "Les hommes taupes vont diriger la Terre !"
   mutant_supremacy_desc: ""
  #Itza
   itz_rough_terrian_training: "Rough Terrain Training"
@@ -158,6 +159,8 @@
   
   ghoul_civilization:0 "Ghoul Civilization"
   
+ ghoul_paratrooper_tech:0 "Parachutistes goules"
+ super_mutant_nightkin_tech:0 "Nightkin"
   #NCR
  ncr_reorgranger:0 "Réorganisation des Rangers"
  ncr_reorgranger_desc:0 ""
@@ -218,9 +221,22 @@
  settler_caravanmilitia:0 "Milice de Caravane"
  settler_caravanmilitia_desc:0 ""
  
+ oregon_geckosupport:0 "Soutien au Gecko"
+ oregon_geckosupport_desc:0 ""
+ oregon_mesmetronfieldequipment:0 "Équipement de terrain Mesmetron"
+ oregon_mesmetronfieldequipment_desc:0 ""
  # Raider
  raider_reckless_aggression:0 "Agression téméraire"
  raider_reckless_aggression_desc:0 ""
 
  # Block tech
  blocked_tech:0 "Non Recherchable"
+ general_atomics_unlock_tech:0 "Schémas atomiques généraux"
+ stent_security_solutions_unlock_tech:0 "Schémas des solutions de sécurité pour les stents"
+ wattz_company_unlock_tech:0 "Schémas de l'électronique grand public Wattzs"
+ handhtools_unlock_tech:0 "Schémas des outils H & H"
+ poseidon_unlock_tech:0 "Schémas énergétiques de Poséidon"
+ lockreed_unlock_tech:0 "Schémas de Lockreed"
+ arcjetsystems_unlock_tech:0 "Schémas des systèmes à jet d'arc"
+ westtek_unlock_tech:0 "Schémas West-Tek"
+ robco_unlock_tech:0 "Industries Robco"
