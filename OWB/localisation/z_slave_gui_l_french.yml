@@ -1,11 +1,11 @@
 ﻿l_french:
  
- SLAVE_TOOLTIP: "You Have [?slave_number_display] slaves \n\n You Gain §G[?slave_monthly]§! slaves per month. \n  \n"
- SLAVE_TOOLTIP_delayed: "As our number of slaves increases our industrial capacity is also increased. For every 200 slaves this perk will become more valuable."
- SLAVE_MAIN: "[?slave_number_display|*0]"
- slaves_taken: "We gain: \n  §G100 §! slaves \n §G Increased monthly slave capturing §!"
- slaves_capture: "Monthly Slave Capturing Increased By:§Y 3.0% §!"
- slaves_capture_decrease: "Monthly Slave Capturing Decreased By:§R 3.0% §!"
- slaves_released: "\n §RWe lose slaves§! \n \n"
- slaves_mystery: "§YWho knows what the outcome will be, only time will tell.§! \n \n"
+ SLAVE_TOOLTIP:0 "Vous possédez [?slave_number_display] esclaves \n\n Vous gagnez §G[?slave_monthly]§! esclaves par mois. \n  \n"
+ SLAVE_TOOLTIP_delayed:200 "L'augmentation de notre nombre d'esclaves s'accompagne d'une augmentation de notre capacité industrielle. Pour chaque tranche de 200 esclaves, cet avantage devient plus précieux."
+ SLAVE_MAIN:0 "[?slave_number_display|*0]"
+ slaves_taken:0 "Nous gagnons : \n  §G100 §! esclaves \n §G Augmentation du nombre mensuel d'esclaves capturés §!"
+ slaves_capture:0 "Le nombre mensuel de captures d'esclaves a augmenté de :§Y 3.0% §!"
+ slaves_capture_decrease:0 "Diminution du nombre mensuel de captures d'esclaves de :§R 3.0% §!"
+ slaves_released:0 "\n §RNous perdons des esclaves§! \n \n"
+ slaves_mystery:0 "§YQui sait quel sera le résultat, seul l'avenir nous le dira.§! \n \n"
  
