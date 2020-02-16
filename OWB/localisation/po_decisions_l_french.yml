@@ -1,36 +1,36 @@
 ﻿l_french:
 
 
-po_overlord_decisions:0 "Manage our Subjects"
-po_overlord_decisions_desc:0 ""
+ po_overlord_decisions:0 "Gérer nos sujets"
+ po_overlord_decisions_desc:0 ""
 
-po_clamp_down_1:0 "Clamp Down on Autonomy"
-
-
-po_clamp_down_2:0 "Clamp Down on Autonomy"
+ po_clamp_down_1:0 "Mettre un frein à l'autonomie"
 
 
-po_clamp_down_3:0 "Clamp Down on Autonomy"
+ po_clamp_down_2:0 "Mettre un frein à l'autonomie"
 
 
-po_clamp_down_4:0 "Clamp Down on Autonomy"
-
-po_exploit_subjects:0 "Exploit [From.GetName]"
+ po_clamp_down_3:0 "Mettre un frein à l'autonomie"
 
 
-po_subject_decisions:0 "Earning our Freedom"
-po_subject_decisions_desc:0 ""
+ po_clamp_down_4:0 "Mettre un frein à l'autonomie"
 
-po_night_meetings:0 "Night Meetings"
+ po_exploit_subjects:0 "Exploiter [From.GetName]"
 
-po_meet_needs:0 "Meeting Their Needs"
 
-po_provide_conscripts:0 "Conscription Drives"
+ po_subject_decisions:0 "Gagner notre liberté"
+ po_subject_decisions_desc:0 ""
 
-po_fighting_for_freedom:0 "Fighting for our Freedom"
+ po_night_meetings:0 "Réunions nocturnes"
 
-po_autonomy_modifier:0 "Subject Actions"
+ po_meet_needs:0 "Répondre à leurs besoins"
 
-po_mmanpower_modifier:0 "Subject Conscripts"
+ po_provide_conscripts:0 "Conscription"
 
-po_exploit_running:0 "Already Exploiting A Subject"
+ po_fighting_for_freedom:0 "Combattre pour notre Liberté"
+
+ po_autonomy_modifier:0 "Actions des sujets"
+
+ po_mmanpower_modifier:0 "Conscrits des sujets traités"
+
+ po_exploit_running:0 "Exploite déjà un sujet"
