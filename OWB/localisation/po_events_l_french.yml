@@ -2,37 +2,37 @@
 
 
 
-po.puppet_events.1.t:0 "An Alarming Trend"
-po.puppet_events.1.d:0 "Nationalist sentiment is beginning to rise in one of our subjects. Words like 'Self Determination,' 'Freedom,' and 'Liberty' are being spoken by powerful figures in [From.GetName] far too often for our liking. If we don't do something about this now, this sentiment may get out of hand."
-po.puppet_events.1.a:0 "Squash these agitators."
-po.puppet_events.1.b:0 "It's nothing."
+ po.puppet_events.1.t:0 "Une tendance alarmante"
+ po.puppet_events.1.d:0 "Le sentiment nationaliste commence à se manifester chez l'un de nos sujets. Des mots comme \"autodétermination\" et \"liberté\" sont trop souvent prononcés par des personnages puissants dans [From.GetName] à notre goût. Si nous ne faisons pas quelque chose à ce sujet maintenant, ce sentiment risque d'échapper à tout contrôle."
+ po.puppet_events.1.a:0 "Ecrasez ces agitateurs."
+ po.puppet_events.1.b:0 "Ce n'est rien."
 
-po.puppet_events.2.t:0 "A Watchful Eye"
-po.puppet_events.2.d:0 "The [From.GetAdjective] hand is a firm one, and not to be trifled with. A new official has taken a particularly meddling approach to overseeing our nation, and has managed to strip away several of our hard-fought liberties in the process."
-po.puppet_events.2.a:0 "Distract and obfuscate him."
-po.puppet_events.2.b:0 "This is the price of servitude."
+ po.puppet_events.2.t:0 "Un œil vigilant"
+ po.puppet_events.2.d:0 "La main [From.GetAdjective] est une main ferme, et il ne faut pas s'en moquer. Un nouveau fonctionnaire a adopté une approche particulièrement ingénieuse pour superviser notre nation, et a réussi à nous priver de plusieurs de nos libertés durement conquises au cours du processus."
+ po.puppet_events.2.a:0 "Distrayez-le et embrouillez-le."
+ po.puppet_events.2.b:0 "C'est le prix de la servitude."
 
-po.puppet_events.3.t:0 "A Shining Example"
-po.puppet_events.3.d:0 "The art of nation-building is usually a thankless one, but today is not the case. The people of [From.GetName] seem to have taken to the role of subject wonderfully, our officials are welcomed, our demands met, and hearts and minds are being won to our cause."
-po.puppet_events.3.a:0 "It's wonderful to finally see eye-to-eye."
-po.puppet_events.3.b:0 "Let's use this to our advantage."
+ po.puppet_events.3.t:0 "Un exemple brillant"
+ po.puppet_events.3.d:0 "L'art de construire une nation est généralement ingrat, mais ce n'est pas le cas aujourd'hui. Les gens de [From.GetName] semblent avoir merveilleusement pris le rôle de sujet, nos fonctionnaires sont accueillis, nos demandes sont satisfaites, et les cœurs et les esprits sont gagnés à notre cause."
+ po.puppet_events.3.a:0 "C'est merveilleux de voir enfin les choses en face."
+ po.puppet_events.3.b:0 "Utilisons cela à notre avantage."
 
-po.puppet_events.4.t:0 "An Inattentive Eye"
-po.puppet_events.4.d:0 "It seems that the bureaucrats of [From.GetName] have found a new punching bag lately. Demands are not being enforced, communication is sparse, and our government is running unhindered by outside forces. For now at least, we have the reins of our nation."
-po.puppet_events.4.a:0 "Let's use this to strengthen our position."
-po.puppet_events.4.b:0 "It's best to just appreciate the peace and quiet."
+ po.puppet_events.4.t:0 "Un œil inattentif"
+ po.puppet_events.4.d:0 "Il semble que les bureaucrates de [From.GetName] aient trouvé un nouveau punching-ball ces derniers temps. Les demandes ne sont pas appliquées, la communication est rare et notre gouvernement fonctionne sans entraves de la part de forces extérieures. Pour l'instant au moins, nous avons les rênes de notre nation."
+ po.puppet_events.4.a:0 "Utilisons cela pour renforcer notre position."
+ po.puppet_events.4.b:0 "Il est préférable d'apprécier le calme et la tranquillité."
 
 #wartime
 
-po.puppet_events.5.t:0 "Wartime Administration"
-po.puppet_events.5.d:0 "With most of our administration occupied with the ongoing war, the administration of our subjects has been left to the wayside. If we continue to neglect our overlordship, we may run into trouble if the war drags on."
-po.puppet_events.5.a:0 "Use them to bolster the war effort!"
-po.puppet_events.5.b:0 "Reaffirm our control."
-po.puppet_events.5.c:0 "We can worry about them later."
+ po.puppet_events.5.t:0 "Administration en temps de guerre"
+ po.puppet_events.5.d:0 "La majeure partie de notre administration étant occupée par la guerre en cours, l'administration de nos sujets a été laissée de côté. Si nous continuons à négliger notre souveraineté, nous risquons d'avoir des problèmes si la guerre s'éternise."
+ po.puppet_events.5.a:0 "Utilisez-les pour soutenir l'effort de guerre !"
+ po.puppet_events.5.b:0 "Réaffirmer notre contrôle."
+ po.puppet_events.5.c:0 "Nous pourrons nous en préoccuper plus tard."
 
-po.puppet_events.6.t:0 "Together for Victory"
-po.puppet_events.6.d:0 "While we are fighting side by side with our Overlord, the question still remains how much we want to commit to someone elses war. Voices in our nation have called for us to use this conflict to strengthen our autonomy, while others have insisted that if we do not fight together, we will die separately."
-po.puppet_events.6.a:0 "This is not our fight."
-po.puppet_events.6.b:0 "We are together for victory!"
+ po.puppet_events.6.t:0 "Ensemble pour la victoire"
+ po.puppet_events.6.d:0 "Alors que nous nous battons côte à côte avec notre chef suprême, la question demeure de savoir combien nous voulons nous engager envers quelqu'un d'autre que la guerre. Des voix dans notre nation ont demandé que nous utilisions ce conflit pour renforcer notre autonomie, tandis que d'autres ont insisté sur le fait que si nous ne nous battons pas ensemble, nous mourrons séparément."
+ po.puppet_events.6.a:0 "Ce n'est pas notre combat."
+ po.puppet_events.6.b:0 "Nous sommes ensemble pour la victoire !"
 
-po_puppet_event_localisation:0 "Events"
+ po_puppet_event_localisation:0 "Événements"
