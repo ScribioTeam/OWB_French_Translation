@@ -1,111 +1,111 @@
 ﻿l_french:
  ### Decisions ###
-  # category
-  scavenging_decisions: "Procurement of things"
-  scavenging_decisions_desc: "Producing our equipment is all well and good, but the wasteland is also a treasure trove of ancient secrets waiting to be discovered. This Knowledge is often hidden, guarded, and perilous to recover. We can send out search parties to find things in the wastes (risking their lives in the process) at the expense of some political power. Hopefully our men will return with something we can use."
+ # category
+ scavenging_decisions:0 "Acquisition de biens"
+ scavenging_decisions_desc:0 "Produire notre équipement, c'est bien beau, mais les terres désolées sont aussi un trésor de secrets anciens qui attendent d'être découverts. Ce savoir est souvent caché, gardé et il est périlleux de le récupérer. Nous pouvons envoyer des équipes de recherche pour trouver des choses dans les terres désolées (au risque de leur vie) aux dépens d'un certain pouvoir politique. Il faut espérer que nos hommes reviendront avec quelque chose que nous pourrons utiliser."
 
-  # Scavenging Startup Non WTT
-  begin_scavenging_program: "Begin a Scavenging Program"
-  begin_scavenging_program_desc: "Whilst scavenging for resources has been done in the past, we should begin a comprehensive scavenging program of dedicated procurement specialists. We can send them out to look for anything worthwhile. If they return something we might need is a matter of fate."
+ # Scavenging Startup Non WTT
+ begin_scavenging_program:0 "Lancer un programme de récupération"
+ begin_scavenging_program_desc:0 "Bien que des recherches de ressources aient été effectuées dans le passé, nous devrions lancer un programme complet de récupération par des spécialistes. Nous pouvons les envoyer chercher tout ce qui vaut la peine d'être récupéré. S'ils nous rendent quelque chose dont nous pourrions avoir besoin, c'est une question de destin."
 
-  # Scavenging Starup WTT
-  begin_scavenging_program_wtt: "Begin a Scavenging Program"
-  begin_scavenging_program_wtt_desc: "Whilst scavenging for resources has been done in the past, we should begin a comprehensive scavenging program of dedicated procurement specialists. We can send them out to look for anything worthwhile. If they return something we might need is a matter of fate."
+ # Scavenging Starup WTT
+ begin_scavenging_program_wtt:0 "Lancer un programme de récupération"
+ begin_scavenging_program_wtt_desc:0 "Bien que des recherches de ressources aient été effectuées dans le passé, nous devrions lancer un programme complet de récupération par des spécialistes. Nous pouvons les envoyer chercher tout ce qui vaut la peine d'être récupéré. S'ils nous rendent quelque chose dont nous pourrions avoir besoin, c'est une question de destin."
 
-  # Demolish Scavenging program
-  dismantle_scavenging_program:0 "Dismantle Scavenging program"
-  dismantle_scavenging_program_desc:0 "While unfortunate, we can repurpose manpower set aside for this project to once more serve in other capacities. It will also allow us to regain some of the economic investment."
+ # Demolish Scavenging program
+ dismantle_scavenging_program:0 "Démanteler le programme de récupération"
+ dismantle_scavenging_program_desc:0 "Bien que cela soit regrettable, nous pouvons réaffecter la main-d'œuvre mise à disposition pour ce projet à d'autres fonctions. Cela nous permettra également de récupérer une partie de l'investissement économique."
 
-  # scaving missions
-  scavenging_mission_foot:0 "Send out Manual Prospecters"
-  scavenging_mission_foot_desc:0 "We can send out prospects to search through the ruins. Sadly, as we lack any vehicles to assist them, they will be limited to whatever they and their brahmin can carry."
-  scavenging_mission_vehicle:0 "Scavenge With Vehicles"
-  scavenging_mission_vehicle_desc:0 "Some of our scavengers have asked that we give them some of our precious vehicles to assist in scavenging. They can now carry more than a Brahmin while going farther and faster."
-  scavenging_mission_pa:0 "Provide Power Armour to Scavengers"
-  scavenging_mission_pa_desc:0 "For understandable reasons, our scavengers would like a suit of armour. Perhaps if we give them some they will die less."
+ # scaving missions
+ scavenging_mission_foot:0 "Envoyer des prospecteurs non motorisés"
+ scavenging_mission_foot_desc:0 "Nous pouvons envoyer des prospects pour fouiller les ruines. Malheureusement, comme nous n'avons pas de véhicules pour les aider, ils seront limités à ce qu'ils peuvent porter, eux et leur brahmane."
+ scavenging_mission_vehicle:0 "Faire de la récupération avec des véhicules"
+ scavenging_mission_vehicle_desc:0 "Certains de nos récupérateurs ont demandé que nous leur donnions certains de nos précieux véhicules pour les aider dans leur travail. Ils peuvent désormais transporter plus qu'un brahmane tout en allant plus loin et plus vite."
+ scavenging_mission_pa:0 "Fournir des armures assistées aux récupérateurs"
+ scavenging_mission_pa_desc:0 "Pour des raisons compréhensibles, nos récupérateurs aimeraient avoir une armure. Peut-être que si nous leur en donnons, ils mourront moins."
 
-  # Rescue crisis, aka what happens when shit goes down. Aka, lost contact to scavs tis a mission. Started via Event
-  scavenging_rescue_crisis:0 "Contact Lost"
-  scavenging_rescue_crisis_desc:0 "Something happened to our scavengers! Can we send a force to rescue them?"
+ # Rescue crisis, aka what happens when shit goes down. Aka, lost contact to scavs tis a mission. Started via Event
+ scavenging_rescue_crisis:0 "Contact perdu"
+ scavenging_rescue_crisis_desc:0 "Il est arrivé quelque chose à nos récupérateurs ! Pouvons-nous envoyer une force pour les sauver ?"
 
-  # Response to scav missing event, decision.
-  scavening_send_rescue_team:0 "Send a rescue team!"
-  scavening_send_rescue_team_desc:0 "Perhaps our scavengers can be saved. Let us leave no man behind."
+ # Response to scav missing event, decision.
+ scavening_send_rescue_team:0 "Envoyer une équipe de secours !"
+ scavening_send_rescue_team_desc:0 "Peut-être que nos récupérateurs peuvent être sauvés. Ne laissons aucun homme derrière nous."
 
  # Events #
-  # foot scavers
-  scavenge.1.t: "The scavengers found something!"
-  scavenge.1.d: "In the ruins of an ancient factory, our scavengers found pre-war goods. Time will tell whether it was worth the blood and sweat we paid for it."
-  scavenge.1.a: "Better in our hands than our enemies."
+ # foot scavers
+ scavenge.1.t:0 "Les récupérateurs ont trouvé quelque chose !"
+ scavenge.1.d:0 "Dans les ruines d'une ancienne usine, nos récupérateurs ont trouvé des marchandises d'avant-guerre. Le temps dira si cela valait le sang et la sueur que nous avons payés pour cela."
+ scavenge.1.a:0 "Mieux vaut que cela soit entre nos mains qu'entre celles de nos ennemis."
 
-  scavenge.2.t: "The Old World Blues"
-  scavenge.2.d: "Our scavengers have failed to find something, spending weeks in the Wastes in pursuit of old dreams. The scavengers are so obsessed with the past they can't see the present, much less the future, for what it is. And so they wasted their times on a fools errand, for what?"
-  scavenge.2.a: "Finding nothing, they stare into the what-was, guttering and spent."
+ scavenge.2.t:0 "Le Old World Blues"
+ scavenge.2.d:0 "Nos récupérateurs n'ont rien trouvé, passant des semaines dans les terres désolées à la poursuite de vieux rêves. Les récupérateurs sont tellement obsédés par le passé qu'ils ne voient pas le présent, et encore moins l'avenir, pour ce qu'il est. Et ils ont donc perdu leur temps dans une course folle, pour quoi ?"
+ scavenge.2.a:0 "Ne trouvant rien, ils regardent fixement ce qui s'est passé, goutte à goutte et dépensé."
 
-  scavenge.3.t: "Deathclaws Ate Our Team!"
-  scavenge.3.d: "[ROOT.GetLeader], terrible news. A pack of deathclaws set upon our scavenging expedition, stripping their flesh like gecko on a stick. The few bloody survivors have sworn never to visit that site again. "
-  scavenge.3.a: "This is a terrible day for our men and nation."
-  scav_deathclaw_tt: "§gSome of our team managed to make it back to our lands, bringing with them horrifying tales...§!\n"
+ scavenge.3.t:0 "Les Deathclaws ont mangé notre équipe !"
+ scavenge.3.d:0 "[ROOT.GetLeader], de terribles nouvelles. Une meute de Deathclaws s'est mise en route pour notre expédition de récupération, se dépouillant de leur chair comme un gecko sur un bâton. Les quelques survivants sanglants ont juré de ne plus jamais visiter ce site. "
+ scavenge.3.a:0 "C'est un jour terrible pour nos hommes et notre nation."
+ scav_deathclaw_tt:0 "§gCertains membres de notre équipe ont réussi à revenir sur nos terres, apportant avec eux des récits horrifiants...§!\n"
 
-  scavenge.4.t: "Contact Lost!"
-  scavenge.4.d: "[Root.GetLeader], some of our scavengers went missing. We can't raise them and we only have a message with their last known location. It is your call whether we try to rescue them."
-  scavenge.4.a: "When the leader fails, others pay the price."
+ scavenge.4.t:0 "Contact perdu !"
+ scavenge.4.d:0 "[Root.GetLeader], certains de nos récupérateurs ont disparu. Nous ne pouvons pas les retrouver et nous n'avons qu'un message avec leur dernière position connue. C'est à vous de décider si nous essayons de les sauver."
+ scavenge.4.a:0 "Lorsque le chef échoue, les autres en paient le prix."
 
-  # Mot scavers
-  scavenge.5.t: "The Scavengers Triumph!"
-  scavenge.5.d: "In the ruins of an ancient factory, our scavengers found pre-war goods. A caravan of trucks is bringing the expedition's plunder back to [Root.Capital.GetName]. This is a great triumph for us!"
-  scavenge.5.a: "A mighty step into the future."
+ # Mot scavers
+ scavenge.5.t:0 "Les récupérateurs triomphent !"
+ scavenge.5.d:0 "Dans les ruines d'une ancienne usine, nos récupérateurs ont trouvé des marchandises d'avant-guerre. Une caravane de camions ramène le butin de l'expédition à [Root.Capital.GetName]. C'est un grand triomphe pour nous !"
+ scavenge.5.a:0 "Un grand pas vers l'avenir."
 
-  scavenge.6.t: "Our Scavengers Found Nothing!"
-  scavenge.6.d: "Despite the flat tires, the blood loss, and the fuel spent, we found nothing in our scavenging expedition. But perhaps [Root.GetLeader], the real loot was the friendships we formed?"
-  scavenge.6.a: "Get out of my office."
+ scavenge.6.t:0 "Nos récupérateurs n'ont rien trouvé !"
+ scavenge.6.d:0 "Malgré les pneus crevés, la perte de sang et le carburant utilisé, nous n'avons rien trouvé lors de notre expédition de récupération. Mais peut-être [Root.GetLeader], le vrai butin était-il les amitiés que nous avons nouées ?"
+ scavenge.6.a:0 "Sortez de mon bureau."
 
-  scavenge.7.t: "Deathclaws Ate Some of Our Team!"
-  scavenge.7.d: "It appears that a Deathclaw ate one of our motorcycles and the people on it. The survivors fled as quickly as possible, but more of them were left behind when the trucks drove off.  This is pretty embarrassing."
-  scavenge.7.a: "Maybe we should have given them guns instead."
+ scavenge.7.t:0 "Les Deathclaws ont mangé une partie de notre équipe !"
+ scavenge.7.d:0 "Il semblerait qu'un Deathclaw ait mangé une de nos motos et les personnes qui s'y trouvaient. Les survivants ont fui aussi vite que possible, mais un plus grand nombre d'entre eux ont été laissés derrière lorsque les camions sont partis.  C'est assez embarrassant."
+ scavenge.7.a:0 "Peut-être aurions-nous dû leur donner des armes à la place."
 
-  scavenge.8.t: "Contact Lost!"
-  scavenge.8.d: "[Root.GetLeader], some of our scavengers went missing. We can't raise them and we only have a message with their last known location. It is your call whether we try to rescue them."
-  scavenge.8.a: "When the leader fails, others pay the price."
+ scavenge.8.t:0 "Contact perdu !"
+ scavenge.8.d:0 "[Root.GetLeader], certains de nos récupérateurs ont disparu. Nous ne pouvons pas les retrouver et nous n'avons qu'un message avec leur dernière position connue. C'est à vous de décider si nous essayons de les sauver."
+ scavenge.8.a:0 "Lorsque le chef échoue, les autres en paient le prix."
 
-  # Power armour scavers
-  scavenge.9.t: "Our Scavengers Return in Triumph!"
-  scavenge.9.d: "Neither raider nor deathclaw nor super-mutants will stop our scavengers. They have returned to [Root.Capital.GetName], their power armor caked in blood and grime. Let this example show the potential for our future."
-  scavenge.9.a: "Time for some new world hopes."
+ # Power armour scavers
+ scavenge.9.t:0 "Nos récupérateurs reviennent en triomphe !"
+ scavenge.9.d:0 "Ni les pillards, ni les lois de la mort, ni les super-mutants n'arrêteront nos récupérateurs. Ils sont retournés à [Root.Capital.GetName], leur armure de puissance trempée dans le sang et la crasse. Que cet exemple montre le potentiel de notre avenir."
+ scavenge.9.a:0 "Il est temps d'avoir de nouveaux espoirs pour le monde."
 
-  scavenge.10.t: "Scavengers Return Empty Handed"
-  scavenge.10.d: "Apparently providing a power armour escort to our scavengers kept them safe, but it made them no more successful. Oh well, it's not like we needed that armour for our military. Did we?"
-  scavenge.10.a: "Well that was pointless."
+ scavenge.10.t:0 "Les récupérateurs reviennent les mains vides"
+ scavenge.10.d:0 "Apparemment, le fait de fournir une escorte en armure assistée à nos récupérateurs les protégeait, mais cela ne les rendait pas plus efficaces. Ce n'est pas comme si nous avions besoin de cette armure pour notre armée. En avons-nous besoin ?"
+ scavenge.10.a:0 "Eh bien, c'était inutile."
 
-  scavenge.11.t: "Power Armour Scavengers Attacked!"
-  scavenge.11.d: "I don't understand how, [Root.GetLeaderName], but our scavengers were attacked. A band of raiders in power armour launched a coordinated strike upon our scavengers and created an epic battle that left dozens dead. The ensuing battle wiped our a nearby village, and many of the raiders died, but we had to retreat."
-  scavenge.11.a: "How can raiders field power armour?"
+ scavenge.11.t:0 "Les récupérateurs en armure assistée sont attaqués !"
+ scavenge.11.d:0 "Je ne comprends pas comment, [Root.GetLeaderName], mais nos récupérateurs ont été attaqués. Une bande de pillards en armure assistée a lancé une attaque coordonnée sur nos récupérateurs et a créé une bataille épique qui a fait des dizaines de morts. La bataille qui s'ensuivit anéantit un village voisin, et beaucoup de pillards moururent, mais nous avons dû battre en retraite."
+ scavenge.11.a:0 "Comment les pillards peuvent-ils utiliser des armures assistées ?"
 
-  scavenge.12.t: "Contact Lost!"
-  scavenge.12.d: "[Root.GetLeader], some of our scavengers went missing. We can't raise them and we only have a message with their last known location. It is your call whether we try to rescue them."
-  scavenge.12.a: "When the leader fails, others pay the price."
+ scavenge.12.t:0 "Contact Perdu !"
+ scavenge.12.d:0 "[Root.GetLeader], certains de nos récupérateurs ont disparu. Nous ne pouvons pas les retrouver et nous n'avons qu'un message avec leur dernière position connue. C'est à vous de décider si nous essayons de les sauver."
+ scavenge.12.a:0 "Lorsque le chef échoue, les autres en paient le prix."
 
-  # Lost scavers rescued
-  scavenge.13.t: "We Found the Expedition!"
-  scavenge.13.d: "It's a miracle! The courier we dispatched found the scavengers, bloodied but alive.  It seems like they may have even found some lot to justify the expedition."
-  scavenge.13.a: "Thank goodness."
+ # Lost scavers rescued
+ scavenge.13.t:0 "Nous avons trouvé l'expédition !"
+ scavenge.13.d:0 "C'est un miracle ! Le coursier que nous avons envoyé a trouvé les récupérateurs, ensanglantés mais vivants.  Il semble qu'ils aient même trouvé un lot pour justifier l'expédition."
+ scavenge.13.a:0 "Dieu merci."
 
-  # Lost scavers ignored
-  scavenge.14.t: "Dust In the Wind"
-  scavenge.14.d: "We didn't care enough to look for our scavengers, and it seems they are gone for good.  Hopefully their friends and loved ones will forgive us for letting them die. But they won't be the last people to die in the Wasteland."
-  scavenge.14.a: "So it goes."
+ # Lost scavers ignored
+ scavenge.14.t:0 "Poussière dans le vent"
+ scavenge.14.d:0 "Nous ne nous sommes pas suffisamment souciés de chercher nos récupérateurs, et il semble qu'ils soient partis pour de bon.  Espérons que leurs amis et leurs proches nous pardonneront de les avoir laissés mourir. Mais ils ne seront pas les derniers à mourir dans les terres désolées."
+ scavenge.14.a:0 "C'est ainsi."
 
-  # Scavenging project initiated
-  scavenge.15.t: "The Reclamation Authority"
-  scavenge.15.d: "[Root.GetLeader] has decided to construct a Reclamation Authority, devoted to promoting scavenging in the Wasteland. This will give our nation expertise in scouring the Wastes."
-  scavenge.15.a: "The Old World's secrets will be ours!"
+ # Scavenging project initiated
+ scavenge.15.t:0 "L'autorité de réclamation"
+ scavenge.15.d:0 "[Root.GetLeader] a décidé de créer une Autorité de Récupération, consacrée à la promotion de la récupération dans les Terres Désolées. Cela permettra à notre nation d'acquérir une expertise dans le domaine de l'élimination des déchets."
+ scavenge.15.a:0 "Les secrets du Vieux Monde seront les nôtres !"
 
-  # Scaving dismantled
-  scavenge.16.t: "End Scavenging"
-  scavenge.16.d: "Scavenging is a fool's errand. Let us look forward, not backwards."
-  scavenge.16.a: "There were better plans."
+ # Scaving dismantled
+ scavenge.16.t:0 "Mettre fin à la récupération"
+ scavenge.16.d:0 "La récupération est une course folle. Regardons vers l'avant, pas vers l'arrière."
+ scavenge.16.a:0 "Il y avait de meilleurs plans."
 
  # Ideas #
 
-  # Flags #
-  scavenging_underway: "Scavenging Underway"
+ # Flags #
+ scavenging_underway:0 "Récupération en cours"
