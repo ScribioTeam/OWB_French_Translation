@@ -430,8 +430,14 @@
  # Fighter
 
   car_fighter_equipment:0 "Carrier Fighter"
+  car_fighter_equipment_short:0 "Carrier Fighter"
+  car_fighter_equipment_desc:0 ""
   hev_fighter_equipment:0 "Heavy Fighter"
+  hev_fighter_equipment_short:0 "Heavy Fighter"
+  hev_fighter_equipment_desc:0 ""
   long_fighter_equipment:0 "Long Range Fighter"
+  long_fighter_equipment_short:0 "Long Range Fighter"
+  long_fighter_equipment_desc:0 ""
 
   fighter_equipment_1:0 "Glider"
   fighter_equipment_1_short:0 "Glider"
@@ -496,8 +502,14 @@
  # CAS
 
   hev_cas_equipment:0 "Heavy Cas Plane"
+  hev_cas_equipment_short:0 "Heavy Cas Plane"
+  hev_cas_equipment_desc:0 ""
   car_cas_equipment:0 "Carrier Cas Plane"
+  car_cas_equipment_short:0 "Carrier Cas Plane"
+  car_cas_equipment_desc:0 ""
   long_cas_equipment:0 "Long Range Cas Plane"
+  long_cas_equipment_short:0 "Long Range Cas Plane"
+  long_cas_equipment_desc:0 ""
 
   cas_equipment_1:0 "Triplane Attacker"
   cas_equipment_1_short:0 "Triplane Attacker"
@@ -576,6 +588,10 @@
   strategic_bomber_equipment_4_short:0 "Nuclear Jetbomber"
   strategic_bomber_equipment_4_desc:0 "Incredible operational range, higher service ceilling and the addition of a multi-spectrum flare countermeasure system all integrates seamlessly into the latest low-drag, high speed fuselage design our engineers have created. A rotary bomb-bay allows faster runs as well as decreased scattering of ordonnance, while integrated guided glider systems let our crew perfectly pinpoint and strike strategical assets."
 
+  hev_strategic_bomber_equipment:0 "Heavy Turboprop Bomber"
+  hev_strategic_bomber_equipment_short:0 "Heavy Turboprop Bomber"
+  hev_strategic_bomber_equipment_desc:0 ""
+
   hev_strategic_bomber_equipment_2:0 "Heavy Turboprop Bomber"
   hev_strategic_bomber_equipment_2_short:0 "Heavy Turboprop Bomber"
   hev_strategic_bomber_equipment_2_desc:0 "Downsizing the armoured fuel tanks of our strategical bomber will increase internal space, exploited for additional bomb tonnage and thus higher bombing potential."
@@ -588,6 +604,10 @@
   hev_strategic_bomber_equipment_4_short:0 "Strategical Annihilator"
   hev_strategic_bomber_equipment_4_desc:0 "Removing the entirety of the bomb-bay door and it's rotary drop system let us switch our explosive shells for a single, massive, 10 ton high-yield explosive shell. This huge device can devastate entire cities in a single blast."
 
+  nav_strategic_bomber_equipment:0 "Torpedo Bomber"
+  nav_strategic_bomber_equipment_short:0 "Torpedo Bomber"
+  nav_strategic_bomber_equipment_desc:0 ""
+
   nav_strategic_bomber_equipment_2:0 "Torpedo Bomber"
   nav_strategic_bomber_equipment_2_short:0 "Torpedo Bomber"
   nav_strategic_bomber_equipment_2_desc:0 "As naval crafts become more and more of a problem, a solution is needed. Replacing the explosive payload of our turboprop bombers with two surface torpedoes, creating massive hull breaches in enemy vessels upon contact."
@@ -599,6 +619,10 @@
   nav_strategic_bomber_equipment_4:0 "Nuclear Maritime Destructor"
   nav_strategic_bomber_equipment_4_short:0 "Nuclear Maritime Destructor"
   nav_strategic_bomber_equipment_4_desc:0 "Lengthening the bomb bay and it's rotary system let us fire upward of five missiles per minute, while those missiles are specially made for anti-ship duties with accurate targeting uplink and a focused detonation effect, gutting even heavily armoured vessels."
+
+  long_strategic_bomber_equipment:0 "Long Range Bomber"
+  long_strategic_bomber_equipment_short:0 "Long Range Bomber"
+  long_strategic_bomber_equipment_desc:0 ""
 
   long_strategic_bomber_equipment_2:0 "Long Range Bomber"
   long_strategic_bomber_equipment_2_short:0 "Long Range Bomber"
@@ -629,6 +653,10 @@
   blimp_equipment_4_short:0 "Superfortress"
   blimp_equipment_4_desc:0 "Carte Blanche was given to our engineers in term of budget to improve our blimps, and while embezzlement rumours have been going around, they are indeed just that. Rumours. With all the autocannons increased in calibre and given gun-laying radars, along with mortar upgraded to low-velocity howitzers, few can stand against our might. With the armour of a tank for the gondola alone, capable of stopping direct missile hits, and a reinforced nano-Kevlar balloon with internal bulkheads and emergency air pumps, nothing can stand in our way now."
 
+  cheap_blimp_equipment:0 "Light Zeppelin"
+  cheap_blimp_equipment_short:0 "Light Zeppelin"
+  cheap_blimp_equipment_desc:0 ""
+
   cheap_blimp_equipment_1:0 "Light Zeppelin"
   cheap_blimp_equipment_1_short:0 "Light Zeppelin"
   cheap_blimp_equipment_1_desc:0 "While \"sensible\" wouldn't be something used to describe a huge battle blimp, we can still improve our manufacturing techniques and streamline their design enough to make them manufacturable at a lower cost. Downsizing the entire design, replacing the tail propeller engine by an existing aircraft motor, and reducing the number of armaments transform our blimps into suitable long-range aircraft."
@@ -645,6 +673,10 @@
   cheap_blimp_equipment_4_short:0 "Strategical Coverage Zeppelin"
   cheap_blimp_equipment_4_desc:0 "As some engineers have been taken away due to embezzlement charges, we have to make do with the ones we have left. Switching the huge howitzer turrets for more manageable ones armed with light field guns, reducing the armour thickness to sensible levels, and replacing the molten-salt nuclear core by a simpler atomic design let us manufacture in quantities one of the most advanced blimps of the wasteland, both efficient and capable of striking targets half a county away."
 
+  ground_blimp_equipment:0 "Infantry Support Blimp"
+  ground_blimp_equipment_short:0 "Infantry Support Blimp"
+  ground_blimp_equipment_desc:0 ""
+
   ground_blimp_equipment_1:0 "Infantry Support Blimp"
   ground_blimp_equipment_1_short:0 "Infantry Support Blimp"
   ground_blimp_equipment_1_desc:0 "With some of the AA firing positions changed for downward-firing heavy machine gun ones, and a higher quantity of hand-thrown explosive shells given to the entire crew, we can focus the effort of our blimps toward destroying ground targets."
@@ -660,6 +692,10 @@
   ground_blimp_equipment_4:0 "Battery Carrier"
   ground_blimp_equipment_4_short:0 "Battery Carrier"
   ground_blimp_equipment_4_desc:0 "Going further into our ground attack doctrine, we increased the calibre of our automatic cannons even further, to a staggering 75mm. Transforming our blimp into the equivalent of a flying artillery battalion makes it the most devastating air asset we have against enemy troops."
+
+  air_blimp_equipment:0 "Tactical Air Coverage Blimp"
+  air_blimp_equipment_short:0 "Tactical Air Coverage Blimp"
+  air_blimp_equipment_desc:0 ""
 
   air_blimp_equipment_1:0 "Tactical Air Coverage Blimp"
   air_blimp_equipment_1_short:0 "Tactical Air Coverage Blimp"

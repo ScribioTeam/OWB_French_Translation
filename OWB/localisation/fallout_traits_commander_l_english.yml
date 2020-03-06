@@ -19,8 +19,8 @@
 
   enduring_trait:0 "Enduring"
   enduring_trait_desc:0 "Some people are renowned for their supreme endurance, and this leader is one such individual. Enduring leaders are resourceful and resolute, capable of operating comfortably in conditions which would break most."
-  cannibal_trait:0 "Cannibal"
-  cannibal_trait_desc:0 "With the Cannibal Trait, when you're out in the Wastes, you gain the option to eat corpses in place of supplies. But every time you feed, you lose Karma, and if the act is witnessed, it is considered a crime against nature."
+  survivalist_trait:0 "Survivalist"
+  survivalist_trait_desc:0 "You are a master of the outdoors. This Perk confers the ability to survive in hostile environments. You gain the ability to adapt even if the climate changes."
   life_giver_trait:0 "Life Giver"
   life_giver_trait_desc:0 "You embody wellness! Merely by standing around you, the men and women of the Wasteland feel less fatigue, and are more likely to survive the trials of daily life!"
   aqua_boy_trait:0 "Aqua Boy/Girl"
@@ -140,6 +140,8 @@
   ham_fisted_trait_desc:0 ""
   glowing_one_trait:0 "Glowing One"
   glowing_one_trait_desc:0 ""
+  cannibal_trait:0 "Cannibal"
+  cannibal_trait_desc:0 "With the Cannibal Trait, when you're out in the Wastes, you gain the option to eat corpses in place of supplies. But every time you feed, you lose Karma, and if the act is witnessed, it is considered a crime against nature."
 
  #Civilized and advanced
   expert_excrement_expeditor_trait:0 "Expert Excrement Expediter"

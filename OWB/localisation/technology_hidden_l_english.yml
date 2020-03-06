@@ -32,34 +32,6 @@
   high_fighter_unlock_tech: "Xian Schematics"
   vertibird_unlock_tech: "Vertibird Schematics"
 
-
-
-
-
- #-------------------------------------
- # Legion Focus Techs
- #-------------------------------------
-  legion_nf_shottol_god_of_dogs: "Shottol, God of Dogs"
-  legion_nf_shottol_god_of_dogs_desc: ""
-
-  legion_nf_goddess_diana: "Goddess Diana"
-  legion_nf_goddess_diana_desc: ""
-
-  legion_nf_caesar_the_godslayer: "Caesar the Godslayer"
-  legion_nf_caesar_the_godslayer_desc: ""
-
-  legion_nf_cult_of_nas: "Cult of Nas"
-  legion_nf_cult_of_nas_desc: ""
-
-  legion_nf_cult_of_nas_minor: "Cult of Nas"
-  legion_nf_cult_of_nas_minor_desc: ""
-
-  legion_nf_wyatt_the_demon: "Wyatt the Demon"
-  legion_nf_wyatt_the_demon_desc: ""
-
-  legion_nf_legion_outlaws: "Legion Outlaws"
-  legion_nf_legion_outlaws_desc: ""
-
  #----------------------------
  # Civilizations
  #----------------------------
@@ -165,20 +137,20 @@
   ghoul_civilization:0 "Ghoul Civilization"
 
   #NCR
-  ncr_reorgranger: "Reorganization of the Rangers"
-  ncr_reorgranger_desc: ""
+  ncr_reorgranger_tech: "Reorganization of the Rangers"
+  ncr_reorgranger_tech_desc: ""
 
-  ncr_rangercore: "Ranger Corps"
-  ncr_rangercore_desc: ""
+  ncr_rangercore_tech: "Ranger Corps"
+  ncr_rangercore_tech_desc: ""
 
   ncr_jim_drills: "Jim Drills"
   ncr_jim_drills_desc: ""
 
-  ncr_rangerlead: "Ranger Leads"
-  ncr_rangerlead_desc: ""
+  ncr_rangerlead_tech: "Ranger Leads"
+  ncr_rangerlead_tech_desc: ""
 
-  ncr_rangercanopeners: "Ranger can Openers"
-  ncr_rangercanopeners_desc: ""
+  ncr_rangercanopeners_tech: "Ranger can Openers"
+  ncr_rangercanopeners_tech_desc: ""
 
   ncr_seth: "Seth's Rangers"
   ncr_seth_desc: ""

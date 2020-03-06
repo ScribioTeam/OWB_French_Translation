@@ -11,8 +11,6 @@
   vertibirds_research_tt:0 "Allows the research of Vertibirds Aircraft.\n"
   enclave_pa_research_tt:0 "Allows the research of Enclave PA Models.\n"
   plasma_weapons_research_tt:0 "Allows the research of Plasma Weaponry.\n"
-  RULE_NOT_ALLOWED_TO_RELEASE_TLALOC:0 "Tlaloc can not be released normally."
-  RULE_NOT_ALLOW_RELEASE_DECISION:0 "You can not release this nation besides by decision"
 
   #Rule tooltips
   RULE_NOT_ALLOWED_TO_RELEASE_TLALOC:0 "We don't have the technology to restore Tlaloc."
@@ -27,3 +25,6 @@
 
   #Bypass Generic Tooltip
   own_all_core_states_of_war_nation_tt:0 "Every core state of the nation(s) specified in this focus is owned by you or your subjects."
+
+  #Scavenging Tooltips
+  rescue_team_send:0 "Has sent a rescue team out."

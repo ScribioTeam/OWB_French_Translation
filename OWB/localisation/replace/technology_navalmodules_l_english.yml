@@ -388,9 +388,6 @@
   naval_fire_protection_tech_3:0 "Automated Fire Prevention System"
   naval_fire_protection_tech_3_desc:0 "Heat sensors and oxygen level readers are installed in most sub-sections, particularly in the engine compartment and magazine. All connected to multiple tanks containing powder-based agent, they automatically detect any fire, gauge it's severity, and disperse the compounds in the right quantity to extinguish the flames."
 
-  naval_special_module_tech_2:0 "Mine Tech 1"
-  naval_special_module_tech_2_desc:0 ""
-  naval_special_module_tech_3:0 "Mine Tech 2"
   naval_special_module_tech_1:0 "Mine Laying Equipment"
   naval_special_module_tech_1_desc:0 "As naval warfare becomes more and more of a concern, we have to manage our naval protection. While we may think of active measures such as ship patrols, the sheer size that needs to be patrolled has to be managed more efficiently. Naval mines filled with explosives and triggered by passing ships will help us protect our shore, and expertise with them will also let us develop minesweeping equipment."
   naval_special_module_tech_2:0 "Mine Tech 2"

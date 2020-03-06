@@ -11,7 +11,6 @@
   new_mariposa_reformed: "Is New Mariposa"
   new_mariposa_rebuild_new_mariposa: "Reinvigorate Our New Capital"
   new_mariposa_rebuild_new_mariposa_desc: "Our new capital New Mariposa is in a precarious position. While it is indeed a important location for mutant kind it is barren in resources and manpower. We need a fitting capital for our new nation! Lets move resources from some of our conquered cities and bring them to the great capital!"
-  new_mariposa_reformed: "Is New Mariposa"
   new_mariposa_move_resources_north_tt: "All resources in [84.GetName] and [179.GetName] are moved to [Root.Capital.GetName]"
   new_mariposa_move_resources_north_not_own_south_tt: "\nIf we control all of The Master's old territory as well as Washington we will core those instead of this territory.\n"
   new_mariposa_move_resources_south_tt: "All resources in [253.GetName] and the [1.GetName] are moved to [Root.Capital.GetName]"

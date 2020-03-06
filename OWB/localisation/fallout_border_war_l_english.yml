@@ -4,9 +4,6 @@
   border_conflict_incident_warning_defender_desc: "§WMove divisions to §H[From.From.GetName]§!§!"
   border_conflict_escalation_warning_defender: "Incident at [From.From.GetName] border to [From.GetNameDef]"
   border_conflict_escalation_warning_defender_desc: "§WMaintain divisions in §H[From.From.GetName]§!\n§H[From.GetNameDef]§! can escalate to a §HBorder Conflict§!§!."
-  escalation_possible_tooltip_for_defender: "§H[From.GetNameDef]§! can escalate incident to a §HBorder Conflict§!.\nWe will instantly lose if we have no divisions in the state\n"
-  effects_if_border_conflict_is_lost: "§HEffects if Border Conflict is lost§!:\n"
-  from_cannot_escalate: "§H[From.GetNameDef]§! can no longer escalate to a §HBorder Conflict§!.\n\n"
   escalate_incident_to_border_conflict: "Escalate to Border Conflict with [From.GetName]"
   border_incident_forgotten: "Incident in [From.From.GetName] Forgotten"
   border_incident_delay_until_new_incident_120: "Cannot stage a new incident against §H[From.GetName]§! for §H120§! days.\n"
@@ -15,12 +12,6 @@
   border_conflict_back_out_of_conflict: "Withdraw from Conflict"
   border_conflict_escalate_conflict: "Escalate Conflict"
   border_conflict_escalate_to_war: "Escalate To War"
-  defensive_border_conflict_won: "Defensive Border Conflict Won"
-  not_initiated_border_incident_with_FROM: "Has not initiated a Border Incident with [From.GetNameDef]"
-  not_initiated_border_incident_with_ROOT: "Has not initiated a Border Incident with [Root.GetNameDef]"
-  at_least_one_division_in_state: "At least §H1§! division in the State"
-  in_45_days: "In 45 Days:\n"
-  border_incident_active: "States do not have an active border incident"
 
 ### #   # ### #  # ###  ##
 #   #   # #   ## #  #  #

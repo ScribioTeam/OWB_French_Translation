@@ -60,6 +60,14 @@
 
   ARM_ruler_party:0 "The Caudillo"
 
+  #Bone Dancers
+  BDT_people_party:0 "Pilgrims of Heaven"
+  BDT_elites_party:0 "Pillar Men"
+  BDT_elites_party_long:0 "The Pillar Men"
+  BDT_intellectuals_party:0 "Crimson Acolytes"
+  BDT_intellectuals_party_long:0 "The Crimson Acolytes"
+  BDT_ruler_party:0 "Cranium's' Arena"
+
   #### Laws #####
 
   # Military Law Categories
@@ -69,23 +77,6 @@
   mutant_recruitment_laws: "Mutant Recruitment"
   officer_training_laws: "Officer Training"
   army_training_laws: "Army Training"
-
-  ## Settler Recruitment
-
-  disarmed_nation:0 "Settlement Levies"
-  disarmed_nation_desc:0 ""
-  volunteer_militia_conscription:0 "Wasteland Militia"
-  volunteer_militia_conscription_desc:0 ""
-  funded_militia_conscription:0 "Funded Militia"
-  funded_militia_conscription_desc:0 ""
-  two_year_conscription:0 "Two Year Conscription"
-  two_year_conscription_desc:0 ""
-  four_year_conscription:0 "Four Year Conscription"
-  four_year_conscription_desc:0 ""
-  until_dismissal_conscription:0 "Service Until Dismissal"
-  until_dismissal_conscription_desc:0 ""
-  child_conscription:0 "War Never Changes"
-  child_conscription_desc:0 ""
 
   ## Outsider Recruitment
 
@@ -187,10 +178,10 @@
   slavers_idea_4: "Despotic Slavers"
   slavers_idea_4_desc: "It is a sad but inescapable fact that some are destined to simply fuel the ambitions of their betters."
   slavers_idea_5: "Slavers of the Wastes!"
-  slavers_idea_4_desc: "Slavery once build empires in the Pre-war world. Now it will do so again."
-  aircraft_restoration_advisor: "Aviation Design"
+  slavers_idea_5_desc: "Slavery once build empires in the Pre-war world. Now it will do so again."
   navy_restoration_advisor: "Navy Designer"
   vehicle_restoration_advisor: "Vehicle Designer"
+  aircraft_restoration_advisor: "Aircraft Company"
 
   # RRG
   RRG_people_party:0 "Los Constitucionalistos"

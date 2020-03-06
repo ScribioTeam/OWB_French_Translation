@@ -59,17 +59,15 @@
 
   michael_leader_tt:0 "§YSaint Michael§! is the current country leader of §Y[HEA.GetNameDef]§!"
   michael_not_leader_tt:0 "§YSaint Michael§! is not the current country leader of §Y[HEA.GetNameDef]§!"
-  council_leader_tt:0 "The §YEsteemed Council§! is the current country leader of §Y[HEA.GetNameDef]§!"
-  council_not_leader_tt:0 "The §YEsteemed Council§! is not the current country leader of §Y[HEA.GetNameDef]§!"
 
   first_leader_tt:0 "§YThe First§! is the current country leader of §Y[TRL.GetNameDef]§!"
   first_not_leader_tt:0 "§YThe First§! is not the current country leader of §Y[TRL.GetNameDef]§!"
-  first_betty_leader_tt:0 "§YThe First and Betty§! is the current country leader of §Y[TRL.GetNameDef]§!"
-  first_betty_not_leader_tt:0 "§YThe First and Betty§! is not the current country leader of §Y[TRL.GetNameDef]§!"
-  first_pitt_leader_tt:0 "§YThe First and Pittman§! is the current country leader of §Y[TRL.GetNameDef]§!"
-  first_pitt_not_leader_tt:0 "§YThe First and Pittman§! is not the current country leader of §Y[TRL.GetNameDef]§!"
-  first_bone_leader_tt:0 "§YThe First and Bonesnarl§! is the current country leader of §Y[TRL.GetNameDef]§!"
-  first_bone_not_leader_tt:0 "§YThe First and Bonesnarl§! is not the current country leader of §Y[TRL.GetNameDef]§!"
+  betty_leader_tt:0 "§YBetty§! is the current country leader of §Y[TRL.GetNameDef]§!"
+  betty_not_leader_tt:0 "§YBetty§! is not the current country leader of §Y[TRL.GetNameDef]§!"
+  pitt_leader_tt:0 "§YPittman§! is the current country leader of §Y[TRL.GetNameDef]§!"
+  pitt_not_leader_tt:0 "§YPittman§! is not the current country leader of §Y[TRL.GetNameDef]§!"
+  bone_leader_tt:0 "§YBonesnarl§! is the current country leader of §Y[TRL.GetNameDef]§!"
+  bone_not_leader_tt:0 "§YBonesnarl§! is not the current country leader of §Y[TRL.GetNameDef]§!"
 
   guerra_leader_tt:0 "§YDante Guerra§! is the current country leader of §Y[RRG.GetNameDef]§!"
   guerra_not_leader_tt:0 "§YDante Guerra§! is not the current country leader of §Y[RRG.GetNameDef]§!"

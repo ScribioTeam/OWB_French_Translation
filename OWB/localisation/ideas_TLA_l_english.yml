@@ -8,15 +8,15 @@
   victorious_protector:0 "Victorious Protector"
   victorious_protector_desc:0 "§GSuperman...§!"
 
-  tla_agriculture:0 "Sowing the Seed"
+  tla_agriculture_idea:0 "Sowing the Seed"
   tla_feeding_people:0 "Feeding the People"
   tla_compensation:0 "Worker's Compensations"
 
-  tla_political:0 "A Helping Hand"
+  tla_political_idea:0 "A Helping Hand"
   tla_organising_people:0 "Organising the People"
   tla_concessions:0 "Employee Concessions"
 
-  tla_mil:0 "Standing Guard"
+  tla_mil_idea:0 "Standing Guard"
   tla_protecting_people:0 "Protecting the People"
   tla_compliance:0 "Compliance-bots"
   tla_self_defense:0 "Self-Defense Training"
@@ -28,7 +28,7 @@
   tla_protectors_guarantee_desc:0 "§GTlaloc's Guarantees only protect (a few) Mexican nations from outsiders, but they will not protect the cartels from other Mexican nations!§!"
 
   tla_the_guarantees:0 "The Guarantees"
-  tla_the_guarantees:0 "§GYour guarantees will allow you to protect any mexican nation in your sphere of influence from having to fight alone. Though this will NOT allow you to intervene on the side of the Cartels against local nations.§!"
+  tla_the_guarantees_desc:0 "§GYour guarantees will allow you to protect any mexican nation in your sphere of influence from having to fight alone. Though this will NOT allow you to intervene on the side of the Cartels against local nations.§!"
 
   tla_decaying_memory:0 ""
   tla_decaying_memory_desc:0 "As Tlaloc, you will be constantly losing memory to both the sands of time, and the three conflicting personalities that have risen within you. You will have around five years to make peace with the world, and then you will die. Afterwards you will be born again as your favored son."
@@ -52,6 +52,9 @@
 
   tla_nuclear_shellshock:0 "Nuclear Shellshock"
   tla_nuclear_shellshock_desc:0 "Fresh radiations spreads like a plague across our lands, riots have broken out in our cities, and our soldiers are deserting in droves. Not since the Great War has such terrible power and destruction been seen. But war, war never changes."
+  
+  apocalypse_now:0 "Horrors of the Old World"
+  apocalypse_now_desc:0 "What has happened, has the day of reckoning come again"
 
   petro_chico_inc:0 "Petro Chico Inc."
   petro_chico_rails:0 "Petro Chico Rails"
@@ -66,8 +69,8 @@
   tla_gift_recipient:0 "Gift Recipient"
   tla_gift_received:0 "Gift Received"
 
-  tla_gift_weapons:0 "Gift of Weapons"
-  tla_gift_people:0 "Gift of Friendship"
-  tla_gift_stability:0 "Gift of Stability"
-  tla_gift_technology:0 "Gift of Knowledge"
-  tla_gift_resources:0 "Gift of Resources"
+  tla_gift_weapons_flag:0 "Gift of Weapons"
+  tla_gift_people_flag:0 "Gift of Friendship"
+  tla_gift_stability_flag:0 "Gift of Stability"
+  tla_gift_technology_flag:0 "Gift of Knowledge"
+  tla_gift_resources_flag:0 "Gift of Resources"

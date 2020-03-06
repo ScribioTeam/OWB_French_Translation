@@ -5,7 +5,7 @@
   #Placeholder localization begins
   unlimited_democracy:0 "Unlimited Democracy"
   unlimited_democracy_desc:0 ""
-  tribal_council:0 "Tribal Council"
+  tribal_council:0 "Tribal Bureaucracy"
   tribal_council_desc:0 ""
   #Placeholder localization ends
   constitutional_republic:0 "Constitutional Republic"
@@ -16,12 +16,10 @@
   #Placeholder localization ends
   commune:0 "Commune"
   commune_desc:0 "This faction is ruled through a collective group who pool their resources together and do their best to help the collective survive, usually being united by common goals."
-  #Placeholder localization beings
-  town_hall_democracy:0 "Town Hall Democracy"
-  town_hall_democracy_desc:0 ""
-  #Placeholder localization ends
   peoples_militia:0 "People's Militia"
   peoples_militia_desc:0 "This faction is ruled by a military collective who work to try and protect it's inhabitants however it can from outside forces. The only allegiance they swear to is their people."
+  town_hall_democracy:0 "Town Hall Democracy"
+  town_hall_democracy_desc:0 "This faction is ruled by it's inhabitants through a town council chosen to represent each areas inhabitants."
 
 #Intellectuals
   meritocracy:0 "Meritocracy"
@@ -46,8 +44,6 @@
   chieftain_desc:0 "This faction is ruled over by a chieftain possessing unlimited power over their people."
   gang:0 "Gang"
   gang_desc:0 "This faction is ruled through a loose gang structure, with the most powerful and ruthless making up it's leadership"
-  town_hall_democracy:0 "Town Hall Democracy"
-  town_hall_democracy_desc:0 "This faction is ruled by it's inhabitants through a town council chosen to represent each areas inhabitants."
 
 #Elites
   kritocracy:0 "Kritocracy"

@@ -27,8 +27,12 @@
   category_capital_ship:0 "Capital Ships"
   category_carrier_ship:0 "Carrier Ships"
 
- # Infantry
+ # Groups (Division designer categories)
+  group_robot_group_title:0 "Robot Platoons"
+  group_mutant_group_title:0 "Mutant Platoons"
+  group_special_forces_group_title:0 "Special Platoons"
 
+ # Infantry
   Infantry:0 "Infantry Platoon"
   Infantry_short:0 "Infantry"
   Infantry_desc:0 ""
@@ -81,7 +85,7 @@
   super_mutant_infantry_short: "Super Mutants"
   super_mutant_infantry_desc: "Super mutants, while usually not as smart as their human counterparts, are much stronger and resilient due to their larger, more powerful frame. In contrast to normal infantry however an access to FEV is needed to produce these hulking soldiers."
 
-  super_mutant_aux_infantry: "Super Mutant Auxillary Platoon"
+  super_mutant_aux_infantry: "Super Mutant Auxiliary Platoon"
   super_mutant_aux_infantry_short: "Super Mutants"
   super_mutant_aux_infantry_desc: "Super mutants, while usually not as smart as their human counterparts, are much stronger and resilient due to their larger, more powerful frame. In contrast to normal infantry however an access to FEV is needed to produce these hulking soldiers."
 
@@ -118,6 +122,9 @@
   blimp_bomber:0 "Airship"
   blimp_bomber_short:0 "Airship"
   blimp_bomber_desc:0 ""
+  ground_blimp_bomber:0 "Support Airship"
+  ground_blimp_bomber_short:0 "Support Airship"
+  ground_blimp_bomber_desc:0 ""
   strat_bomber:0 "Strategic Bomber"
   strat_bomber_short:0 "Heavy Bomber"
   strat_bomber_desc:0 ""

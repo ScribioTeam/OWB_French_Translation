@@ -24,3 +24,10 @@
   modifier_experience_gain_super_heavy_ship_unit_combat_factor: "Super Heavy Ship Combat Experience Gain"
   modifier_experience_gain_super_heavy_carrier_ship_unit_training_factor: "Heavy Carrier Ship Training Experience Gain"
   modifier_experience_gain_super_heavy_carrier_ship_unit_combat_factor: "Heavy Carrier Ship Combat Experience Gain"
+
+  temporary_state_resource_energy:0 "Energy"
+  temporary_state_resource_metal:0 "Metal"
+  temporary_state_resource_composites:0 "Composites"
+  temporary_state_resource_circuitry:0 "Circuitry"
+  temporary_state_resource_advanced:0 "Advanced Components"
+  temporary_state_resource_water:0 "Water"

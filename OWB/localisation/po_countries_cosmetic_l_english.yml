@@ -48,13 +48,6 @@
   ARM_ATE_autonomy_cuahtlatoani:0 "Tamaulipas Cuahtlatoani"
   ARM_ATE_autonomy_cuahtlatoani_DEF:0 "Cuahtlatoani of Tamaulipas"
 
-  TVR_ATE_autonomy_tlatoani:0 "Tamaulipas"
-  TVR_ATE_autonomy_tlatoani_DEF:0 "Tamaulipas"
-  TVR_ATE_autonomy_calpixqui:0 "Tamaulipas Altepetl"
-  TVR_ATE_autonomy_calpixqui_DEF:0 "Tamaulipas Altepetl"
-  TVR_ATE_autonomy_cuahtlatoani:0 "Tamaulipas Cuahtlatoani"
-  TVR_ATE_autonomy_cuahtlatoani_DEF:0 "Cuahtlatoani of Tamaulipas"
-
   TVR_ATE_autonomy_tlatoani:0 "Nayarit"
   TVR_ATE_autonomy_tlatoani_DEF:0 "Nayarit"
   TVR_ATE_autonomy_calpixqui:0 "Nayarit Altepetl"
@@ -132,13 +125,6 @@
   ARM_CIR_autonomy_cuahtlatoani:0 "Tamaulipas Cuahtlatoani"
   ARM_CIR_autonomy_cuahtlatoani_DEF:0 "Cuahtlatoani of Tamaulipas"
 
-  TVR_CIR_autonomy_tlatoani:0 "Tamaulipas"
-  TVR_CIR_autonomy_tlatoani_DEF:0 "Tamaulipas"
-  TVR_CIR_autonomy_calpixqui:0 "Tamaulipas Altepetl"
-  TVR_CIR_autonomy_calpixqui_DEF:0 "Tamaulipas Altepetl"
-  TVR_CIR_autonomy_cuahtlatoani:0 "Tamaulipas Cuahtlatoani"
-  TVR_CIR_autonomy_cuahtlatoani_DEF:0 "Cuahtlatoani of Tamaulipas"
-
   TVR_CIR_autonomy_tlatoani:0 "Nayarit"
   TVR_CIR_autonomy_tlatoani_DEF:0 "Nayarit"
   TVR_CIR_autonomy_calpixqui:0 "Nayarit Altepetl"
@@ -200,7 +186,6 @@
   FFI_ARM_autonomy_arm_puppet:0 "The Luchadores"
   FFI_ARM_autonomy_arm_puppet_DEF:0 "The Luchadores"
 
-
   BLO_FFI_autonomy_sidekick:0 "Beltran Fighters"
   BLO_FFI_autonomy_sidekick_DEF:0 "The Beltran Fighters"
 
@@ -210,8 +195,8 @@
   GDH_FFI_autonomy_sidekick:0 "Del Sol Fighters"
   GDH_FFI_autonomy_sidekick_DEF:0 "The Del Sol Fighters"
 
-  GDH_FFI_autonomy_sidekick:0 "Tierra Fighters"
-  GDH_FFI_autonomy_sidekick_DEF:0 "The Tierra fighters"
+  TDT_FFI_autonomy_sidekick:0 "Tierra Fighters"
+  TDT_FFI_autonomy_sidekick_DEF:0 "The Tierra fighters"
 
   PEC_RRG_autonomy_rio_free_state:0 "Pecos"
   PEC_RRG_autonomy_rio_free_state_DEF:0 "Pecos"
@@ -254,7 +239,7 @@
   BVC_NCR_DEF:0 "The Baja State"
 
   BLP_NCR:0 "Lower Baja State"
-  BLP_NCR:0 "The Lower Baja State"
+  BLP_NCR_DEF:0 "The Lower Baja State"
 
   BJS_NCR_autonomy_free_state:0 "Baja Country"
   BJS_NCR_autonomy_free_state_DEF:0 "Baja Country"
@@ -503,11 +488,6 @@
   NAV_CES_autonomy_tributary_DEF:0 "The Navajo Tributarius"
   NAV_CES_autonomy_client_tribe:0 "Navajo Legion"
   NAV_CES_autonomy_client_tribe_DEF:0 "The Navajo Legion"
-
-  TON_CES_autonomy_tributary:0 "Tohono Tributarius"
-  TON_CES_autonomy_tributary_DEF:0 "The Tohono Tributarius"
-  TON_CES_autonomy_client_tribe:0 "Tohono Legion"
-  TON_CES_autonomy_client_tribe_DEF:0 "The Tohono Legion"
 
   TON_CES_autonomy_tributary:0 "Tohono Tributarius"
   TON_CES_autonomy_tributary_DEF:0 "The Tohono Tributarius"

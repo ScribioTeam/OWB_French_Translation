@@ -2,8 +2,6 @@
  #-------------------------------------
  # Tribal
  #-------------------------------------
-  tribal_nation: "Tribal Nation"
-
   gentribal_gods: "Our Gods"
   gentribal_gods_desc: "Since our tribe first arose from the ashes of the Great Cleansing, we have been loyal to our gods, to appease their wrath, the very wrath that brought the flames on our world. We must choose one god in particular to pay tribute to and worship."
 
@@ -15,7 +13,6 @@
 
   gentribal_defense: "Tribal Defence"
   gentribal_defense_desc: "Above all, our tribe must be defended from the nations surrounding us. The dangers of the Wasteland have prepared us for this, and our warriors know a doctrine of defence."
-  tribal_defence: "Tribal Defence"
 
   gentribal_cult: "The Warrior Cult"
   gentribal_cult_desc: "From the very beginning of our tribe's life, we have had a cult of warriors dedicated to protecting the members of our tribe. They have had rigorous training, and a life of experience."
@@ -60,7 +57,6 @@
 
   gentribal_skirmish: "Skirmish Line"
   gentribal_skirmish_desc: "Our tribal warbands are now proficient at skirmishing, allowing them to more efficiently supply themselves and defend themselves in an area, and creating a deadly line of defence."
-  tribalskirmish: "Skirmish Line"
 
   gentribal_bodyguards: "The Chief's Guard"
   gentribal_bodyguards_desc: "The Chief rightly requires an elite bodyguard, made up of the chosen few of our tribe, the deadliest and strongest, to protect him and his clan."
@@ -115,7 +111,6 @@
 
   gentribal_elders: "Revered Elders"
   gentribal_elders_desc: "The great elders of our tribe our wise and knowledgeable, and guide our people towards a great destiny."
-  elders: "Revered Elders"
 
   gentribal_lands: "Sacred Land"
   gentribal_lands_desc: "The land on which our tribe has settled his sacred land, blessed by the gods. Outsiders and heathens must not be allowed to tarnish our sacred land, so we must defend it will all we have."
@@ -167,7 +162,6 @@
 
   gentribal_spirits: "Words Of The Spirits"
   gentribal_spirits_desc: "The Spirits speak to our Elders, and reveal great secrets to them. Some say it is just radiation poisoning from the nuclear waste nearby."
-  spirits: "Words Of The Spirits"
 
   gentribal_warpaint: "Tribal War Paint"
   gentribal_warpaint_desc: "We can use war paint on our warriors to intimidate and scare our enemies, causing our warband to be more proficient in breaking enemy lines and morale."

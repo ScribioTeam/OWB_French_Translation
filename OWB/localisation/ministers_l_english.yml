@@ -75,7 +75,6 @@
   julie_farkas: "Julie Farkas"
   julie_farkas_desc: "Julie is a sweetheart, and her organization will happily improve our infrastructure and healthcare free of charge; but the more people that take the ideals of the Followers into their hearts, the less that are willing to die for the republic."
 
-  war_hero: "War Hero"
   general_wait_and_see: "General Wait-and-See"
   first_recon_commander: "First Recon Commander"
   unblinking_hawk: "Unblinking Hawk"
@@ -150,7 +149,7 @@
   jack_hidalgo_desc: "Hidalgo was the leader of the Jackals, and like the starving scavengers they named themselves for, the jackals know how to survive with no resupply, no back up, and no reinforcements. However, the horrific past of the Jackals makes his appointment a question of dignity, and may weaken the legitimacy of the Rangers."
   jackal: "Jackal"
   hell_razor_commander: "Hell Razor"
-  hell_razor_commander: "Hell Razor's always been known as something of a berserker, and that didn't change when he took command and stopped being a field operative. His aggressive tactics have been known to shatter enemy lines, but also potentially cost us dearly, a lack of heed for human life."
+  hell_razor_commander_desc: "Hell Razor's always been known as something of a berserker, and that didn't change when he took command and stopped being a field operative. His aggressive tactics have been known to shatter enemy lines, but also potentially cost us dearly, a lack of heed for human life."
   aggressive_attacker: "Aggressive Attacker"
 
   veteran_ranger_holstadt: "Veteran Ranger Holstadt"
@@ -180,7 +179,7 @@
   mr_bishop_desc: "Mr Bishop won't accept our takeover lying down, but he's perfectly willing to play the scheming vizier; for now. He'll help control New Reno's wayward souls, but he'll be sowing dissent all the while."
   chessmaster: "Chessmaster"
   lil_jesus_mordino: "Lil' Jesus Mordino"
-  lil_jesus_mordino: "The dregs of this fair city would do anything for Mordino and his Jet, but giving Mordino what he wants means sacrificing a significant number of those dregs; to his workhouses, to his bodyguard, to his brothels."
+  lil_jesus_mordino_desc: "The dregs of this fair city would do anything for Mordino and his Jet, but giving Mordino what he wants means sacrificing a significant number of those dregs; to his workhouses, to his bodyguard, to his brothels."
   jet_baron: "Jet Baron"
 
   tiaret_van_graff: "Tiaret Van Graff"
@@ -393,7 +392,7 @@
   settler_oldworld_infrastructure: "Old World Infrastructure"
   settler_homestead_defence: "Homestead Defender"
   settler_expansion: "Bringer of Civilisation"
-  settler_defend: "Town Defender"
+  settler_defend_trait: "Town Defender"
   settler_navy_buff: "Ferry Captain"
   settler_air_buff: "Flyboy"
   war_monger: "War Monger"
@@ -640,3 +639,8 @@
   vlt_mutant_chief_slime:0 "Slime"
 
   scout_ambrosone: "Scout Ambrosone"
+
+  # JCT
+  doctor_henry: "Doctor Henry"
+  doctor_henry_desc: "One of the best doctors in the Wasteland, Doctor Henry has expressed a strong interest in helping to address the nightkin schizophrenia problem."
+  doctor_henry_trait: "Expert Physician"

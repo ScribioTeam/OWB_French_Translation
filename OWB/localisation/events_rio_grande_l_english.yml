@@ -81,10 +81,6 @@
   nf_rrg.19.d:0 "The Great War had destroyed America, Mexico, and Canada; but while the American dream was tarnished by the Enclave's actions since the war, some in Mexico still remembered when their nation was ruled by free men and women, instead of AIs or false kings. But as long as Tlaloc ruled from his citadel, there would be no change. People knew they were Mexicans, but the idea of a Mexican country, standing strong and free? Absurd.\n\nUnless you were President Mora. Faced with threats from the NCR, the Legion, and the rogue AIs that dominated the nation, Mora believed the only way for the Mexican people to remain free was to stand together."
   nf_rrg.19.a:0 "Siempre Unidos, Siempre Libre!"
 ############################
-  nf_rrg.19.t:0 "Mora's Great Ambition"
-  nf_rrg.19.d:0 "The Great War had destroyed America, Mexico, and Canada; but while the American dream was tarnished by the Enclave's actions since the war, some in Mexico still remembered when their nation was ruled by free men and women, instead of AIs or false kings. But as long as Tlaloc ruled from his citadel, there would be no change. People knew they were Mexicans, but the idea of a Mexican country, standing strong and free? Absurd.\n\nUnless you were President Mora. Faced with threats from the NCR, the Legion, and mutants of Texas, Mora believed the only way for the Mexican people to remain free was to stand together."
-  nf_rrg.19.a:0 "Siempre Unidos, Siempre Libre!"
-############################
   nf_rrg.20.t:0 "Mexico Reborn"
   nf_rrg.20.d:0 "Mora's evening chats on the radio were well known across Mexico, but the one he has chosen to give today was a little bit different. The announcement began with a song that few had ever heard, and then a short speech from the President. \"The Mexican nation, which for over two hundred has had neither had its own will, nor free use of its voice, leaves today the oppression in which it has lived. We are no longer citizens of Rio, or Sinoala. We are no longer subjects of Tlaloc or Xochicalco. We are Mexicans, one and all.\"\n\n\"And I promise I will not rest until we are all free.\""
   nf_rrg.20.a:0 "Viva Mexico!"
@@ -220,10 +216,6 @@
   nf_rrg.50.d:0 "Beset by enemies within and without, the people of the Republic of the Rio Grande go to the polls. Let their foes come, for the Rio Grande has heroes of its own. Rosa, Mora, and Guerra; any of them would make a great leader for the nation."
   nf_rrg.50.a:0 "Whatever our problems, siempre libre!"
 ############################
-  nf_rrg.50.t:0 "The Election of 2277"
-  nf_rrg.50.d:0 "Beset by enemies within and without, the people of the Republic of the Rio Grande go to the polls. Let their foes come, for the Rio Grande has heroes of its own. Rosa, Mora, and Guerra; any of them would make a great leader for the nation."
-  nf_rrg.50.a:0 "Whatever our problems, siempre libre!"
-############################
   nf_rrg.51.t:0 "Our New President"
   nf_rrg.51.d:0 "The people have flocked to ballot boxes, and after due consideration, have picked their president. No matter who prevailed, the fact that our leaders are chosen by the people instead of a diktat from above is a testament to Rio. Viva libertad!"
   nf_rrg.51.a:0 "Mora's Mexico dream prevails"
@@ -280,6 +272,14 @@
   nf_rrg.83.d:0 "[FROM.GetName] must decide whether to join the Republic of Rio Grande, or stand apart as Caesar sets his eyes on us.  What shall we do?"
   nf_rrg.83.a:0 "We all drink from the Rio Grande, we are all one people."
   nf_rrg.83.b:0 "Let's just be friends."
+
+  nf_rrg.831.title:0 "[FROM.GetName] has accepted"
+  nf_rrg.831.desc:0 "[FROM.GetName] has accepted our offer of statehood and has become a integrated part of our glorious nation."
+  nf_rrg.831.a:0 "Praise to Mexico!"
+
+  nf_rrg.832.title:0 "[FROM.GetName] has declined"
+  nf_rrg.832.desc:0 "[FROM.GetName] has declined our offer to statehood. This is a very unforunate outcome."
+  nf_rrg.832.a:0 "They will join in time."
 ############################
   nf_rrg.84.t:0 "Democratic Tendencies"
   nf_rrg.84.d:0 "This is RRG, announcing that [FFI.GetLeader] has agreed to join [RRG.GetName] in an alliance to protect Mexico against the Legion.  The treaty was formalized at a party where Guerra rode a bull into exhaustion, and [FFI.GetLeader] wrestled with some of Rio's finest soldiers."
