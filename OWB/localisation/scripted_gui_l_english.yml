@@ -1,7 +1,7 @@
 ﻿l_english:
   # GUI:
   ADD_CORE_TT:0 "§HCore state§! £pol_power [?coring_var_coring_cost]"
-  ADD_CORE_TT_DELAYED:0 "§HBase value§!: £pol_power 15\n§HState's population§!: £pol_power [?coring_var_state_pop]\n§HYour cored population§!: £pol_power [?coring_var_cored_pop]\n§HDistance from capital§!: £pol_power [?coring_var_distance]\n§HCoring Efficiency factor§!: [?coring_cost_factor_gui|%0]\n§HClaim multiplier§!: [?coring_var_claim|%0]\n--------------\n[!add_core_click_enabled]"
+  ADD_CORE_TT_DELAYED:0 "§HBase value§!: £pol_power 15\n§HState's population§!: £pol_power [?coring_var_state_pop]\n§HYour cored population§!: £pol_power [?coring_var_cored_pop]\n§HDistance from capital§!: £pol_power [?coring_var_distance]\n§HCoring Efficiency factor§!: [?coring_cost_factor_gui|%0]\n§HClaim multiplier§!: [?coring_var_claim|%0]\n§HCoring Cost Cap§!: £pol_power 300\n--------------\n[!add_core_click_enabled]"
   not_allowed_to_core_flag:0 " §RHas coring ability disabled§!"
   tt_is_not_in_home_area:0 "Is not connected to the owner's capital."
   core_button_25_state_reduction_tt: "Gain a permanent local §G25%§! reduction in coring costs."

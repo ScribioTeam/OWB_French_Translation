@@ -15,16 +15,16 @@
  #----------------------------
  # Infantry Training
  #----------------------------
-  unit_training_tech_1:0 "Militia Training"
-  unit_training_tech_1_desc:0 "A basic restructuring of our training program to focus on stress resistance courses, and continuous squad bonding drills. This allows us to root out undisciplined soldiers early, along with those too frail mentally to withstand the rigor of combat, decreasing training time."
-  unit_training_tech_2:0 "Warrior Training"
-  unit_training_tech_2_desc:0 "Military drills aimed at basic defensive operations are carried out accross our army. The cornerstone of it is teaching our troops basic guerilla tactics, proper skirmishing procedures as well as field fortification building."
+  unit_training_tech_1:0 "Warrior Training"
+  unit_training_tech_1_desc:0 "A basic restructuring of our training program to focus on stress resistance courses, and continuous squad bonding drills. This allows us to root out undisciplined soldiers early, along with those too frail mentally to withstand the rigour of combat, decreasing training time."
+  unit_training_tech_2:0 "Militia Training"
+  unit_training_tech_2_desc:0 "Military drills aimed at basic defensive operations are carried out across our army. The cornerstone of it is teaching our troops basic guerilla tactics, proper skirmishing procedures as well as field fortification building."
   unit_training_tech_3:0 "Guerilla Tactics"
   unit_training_tech_3_desc:0 "A deeper understanding of guerrilla tactics, and wasteland operation training given by experienced survivalists, let our army strike in unexpected places, as well as take advantage of the rocky terrain or sandstorms."
   unit_training_tech_4:0 "Platoon Training"
   unit_training_tech_4_desc:0 "Officer training and platoon organization allows our command structures to be simplified when compared to loose militia units. Lieutenants trained in field operation and battlefield thinking will also increase our tactical readiness."
   unit_training_tech_5:0 "Basic Drill"
-  unit_training_tech_5_desc:0 "Standardized physical drills, and intense training programms, increases the endurance and resilience of our troops. Pairing this with tactical retreat exercises let our soldiers regroup and reorganize much faster from a failed assault or strategical movement."
+  unit_training_tech_5_desc:0 "Standardized physical drills, and intense training programs, increases the endurance and resilience of our troops. Pairing this with tactical retreat exercises let our soldiers regroup and reorganize much faster from a failed assault or strategical movement."
   unit_training_tech_6:0 "Mechanized Training"
   unit_training_tech_6_desc:0 "Mechanized combined operations along with general motorization can be used to our advantage. Skirmishing troops in light motorized vehicles can quickly engage and tie-up enemy assets, allowing our forces to reinforce ongoing assaults faster."
   unit_training_tech_7:0 "Objective Security Tactics"
