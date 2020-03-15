@@ -198,7 +198,7 @@
 
 ###Raider Decisions
  caps_raider_decision_entry_tt:0 "[This.GetName]"
- caps_raider_decision_entry_tt:0 "You found my secret tooltip!"
+ #caps_raider_decision_entry_tt:0 "You found my secret tooltip!"
  caps_raider_events.1.t:0 "Raid de [FROM.GetName]"
 ###LOC
  caps_raider_events.1.d:0 "Des pillards sont venus de [FROM.GetName] pour remplir leurs coffres ! Si nous ne leur donnons pas ce qu'ils désirent, ils vont piller notre Etat !"

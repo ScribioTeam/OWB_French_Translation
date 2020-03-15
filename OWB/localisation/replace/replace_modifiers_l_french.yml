@@ -9,6 +9,7 @@
  MODIFIER_ARMY_GROUP_LEADER_MAX_ARMY_GROUP_SIZE:0 "Taille maximale de l'armée du Commandant d'Armée"
  MODIFIER_REASSIGNMENT_DURATION_FACTOR_DESC:0 "Augmente la durée en route du Commandant"
  MODIFIER_WOUNDED_CHANCE_FACTOR_DESC:0 "Probabilité que votre commandant soit blessé après avoir perdu un combat."
+ 
  modifier_experience_gain_heavy_ship_unit_training_factor:0 "Expérience d'entraînement de navire lourd"
  modifier_experience_gain_heavy_ship_unit_combat_factor:0 "Expérience de combat de navire lourd"
  modifier_experience_gain_heavy_carrier_ship_unit_training_factor:0 "Expérience d'entraînement de porte-avions lourd"
@@ -23,3 +24,10 @@
  modifier_experience_gain_super_heavy_ship_unit_combat_factor:0 "Expérience de combat de navire très lourd"
  modifier_experience_gain_super_heavy_carrier_ship_unit_training_factor:0 "Expérience d'entraînement de porte-avions lourds"
  modifier_experience_gain_super_heavy_carrier_ship_unit_combat_factor:0 "Expérience de combat de porte-avions lourds"
+ 
+ temporary_state_resource_energy:0 "Énergie"
+ temporary_state_resource_metal:0 "Métal"
+ temporary_state_resource_composites:0 "Matériaux Composites"
+ temporary_state_resource_circuitry:0 "Circuits"
+ temporary_state_resource_advanced:0 "Composants avancés"
+ temporary_state_resource_water:0 "Eau"

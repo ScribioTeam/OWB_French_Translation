@@ -8,15 +8,15 @@
  victorious_protector:0 "Protecteur victorieux"
  victorious_protector_desc:0 "§GSuperman ... §!"
 
- tla_agriculture:0 "Semer la graine"
+ tla_agriculture_idea:0 "Semer la graine"
  tla_feeding_people:0 "Nourrir le peuple"
  tla_compensation:0 "Indemnisation du travailleur"
 
- tla_political:0 "Un coup de main"
+ tla_political_idea:0 "Un coup de main"
  tla_organising_people:0 "Organiser le peuple"
  tla_concessions:0 "Concessions des employés"
 
- tla_mil:0 "Garde debout"
+ tla_mil_idea:0 "Garde debout"
  tla_protecting_people:0 "Protéger le peuple"
  tla_compliance:0 "Bots de conformité"
  tla_self_defense:0 "Entraînement d'autodéfense"
@@ -27,8 +27,8 @@
  tla_protectors_guarantee:0 "Garantie du protecteur"
  tla_protectors_guarantee_desc:0 "§GLes garanties de Tlaloc ne protègent que quelques nations mexicaines des étrangers, mais elles ne protégeront pas les cartels d'autres nations mexicaines !§!"
 
-  tla_the_guarantees:0 "The Guarantees"
- tla_the_guarantees:0 "§GVos garanties vous permettront de protéger n'importe quel pays mexicain de votre sphère d'influence de la nécessité de combattre seul. Bien que cela ne vous permette PAS d'intervenir du côté des cartels contre les nations locales.§!"
+ tla_the_guarantees:0 "Les garanties"
+ tla_the_guarantees_desc:0 "§GVos garanties vous permettront de protéger n'importe quel pays mexicain de votre sphère d'influence de la nécessité de combattre seul. Bien que cela ne vous permette PAS d'intervenir du côté des cartels contre les nations locales.§!"
 
  tla_decaying_memory:0 ""
  tla_decaying_memory_desc:0 "En tant que Tlaloc, vous perdrez constamment la mémoire à la fois par le temps qui passe et pour les trois personnalités opposées qui se sont développées en vous. Vous aurez environ cinq ans pour faire la paix avec le monde, puis vous mourrez. Ensuite, vous serez né de nouveau comme votre fils préféré."
@@ -53,6 +53,9 @@
  tla_nuclear_shellshock:0 "Shellshock nucléaire"
  tla_nuclear_shellshock_desc:0 "De nouvelles radiations se propagent comme une plaie sur nos terres, des émeutes ont éclaté dans nos villes et nos soldats désertent en masse. Depuis la Grande Guerre, aucune puissance et destruction aussi terribles n’ont été constatées. Mais la guerre, la guerre ne change jamais."
 
+ apocalypse_now:0 "Horreurs de l'Ancien Monde"
+ apocalypse_now_desc:0 "Ce qui s'est passé, le jour des comptes est-il revenu"
+  
  petro_chico_inc:0 "Petro Chico Inc."
  petro_chico_rails:0 "Rails Petro Chico"
  petro_chico_robotics:0 "Robotique Petro Chico"
@@ -66,8 +69,8 @@
  tla_gift_recipient:0 "Destinataire du cadeau"
  tla_gift_received:0 "Cadeau reçu"
 
- tla_gift_weapons:0 "Don d'Armes"
- tla_gift_people:0 "Cadeau d'amitié"
- tla_gift_stability:0 "Cadeau de stabilité"
- tla_gift_technology:0 "Don de la connaissance"
- tla_gift_resources:0 "Don de ressources"
+ tla_gift_weapons_flag:0 "Don d'Armes"
+ tla_gift_people_flag:0 "Cadeau d'amitié"
+ tla_gift_stability_flag:0 "Cadeau de stabilité"
+ tla_gift_technology_flag:0 "Don de la connaissance"
+ tla_gift_resources_flag:0 "Don de ressources"

@@ -15,9 +15,9 @@
  #----------------------------
  # Infantry Training
  #----------------------------
- unit_training_tech_1:0 "Entraînement de la milice"
+ unit_training_tech_1:0 "Entraînement des guerriers"
  unit_training_tech_1_desc:0 "Une restructuration de base de notre programme d’entraînement, axée sur les cours de résistance au stress et les exercices continus de liaison des équipes. Cela nous permet de repérer tôt les soldats indisciplinés, ainsi que ceux qui sont trop fragiles mentalement pour supporter la rigueur du combat, réduisant ainsi le temps d’entraînement."
- unit_training_tech_2:0 "Entraînement des guerriers"
+ unit_training_tech_2:0 "Entraînement de la milice"
  unit_training_tech_2_desc:0 "Des exercices militaires visant à des opérations défensives de base sont effectués dans l'ensemble de notre armée. Sa pierre angulaire est d’enseigner à nos troupes les tactiques de base de la guérilla, les procédures d’escarmouche appropriées et la construction de fortifications sur le terrain."
  unit_training_tech_3:0 "Tactiques de guérilla"
  unit_training_tech_3_desc:0 "Une meilleure compréhension des tactiques de guérilla et une formation aux opérations dans les Terres Désolées dispensée par des survivants expérimentés ont permis à notre armée de frapper dans des endroits inattendus et de tirer parti des terrains rocheux et des tempêtes de sable."
@@ -73,9 +73,6 @@
  #----------------------------
  # Power Armour
  #----------------------------
- power_armour:0 "Armure assistée basique"
- power_armour_desc:0 "Les armures assistées sont le sommet de la technologie de l'infanterie blindée, permettant à l'utilisateur de résister aux dangers les plus extrêmes de la guerre."
-
  stripped_pa_tech:0 "Armure assistée dépouillée"
  stripped_pa_tech_desc:0 ""
 

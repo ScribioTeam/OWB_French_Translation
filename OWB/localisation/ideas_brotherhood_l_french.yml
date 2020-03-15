@@ -1,31 +1,48 @@
 ﻿l_french:
- generic_bos_scribes:0 "Fondateurs Scribes"
- generic_bos_scribes_desc:0 ""
- generic_bos_paladins:0 "Fondateurs Paladin"
- generic_bos_paladins_desc:0 ""
- genericbossteellegions:0 "Légions d'acier"
- genericbossteellegions_desc:0 ""
- genericbosfleshbeforesteel:0 "La chair avant l'acier"
- genericbosfleshbeforesteel_desc:0 ""
- genericbosscriberesearch:0 "Recherche Scribe"
- genericbosscriberesearch_desc:0 ""
- genericbosbunkerthought:0 "Bunker Mindset"
- genericbosbunkerthought_desc:0 ""
- genericbosaerialsupermacy:0 "Suprématie Aérienne"
- genericbosaerialsupermacy_desc:0 ""
- genericbosflightacademy:0 "Académie de vol de la Confrérie"
- genericbosflightacademy_desc:0 ""
- genericbost45d:0 "Production d'armure assistée T-45d"
- genericbost45d_desc:0 ""
- genericbost51b:0 "Production d'armure assistée T-51b"
- genericbost51b_desc:0 ""
- genericboscombinedoperations:0 "Opérations Combinées"
- genericboscombinedoperations_desc:0 ""
- genericbossurfaceoutposts:0 "Avant-postes de surface"
- genericbossurfaceoutposts_desc:0 ""
- genericbosnewtech:0 "Percée technologique"
- genericbosnewtech_desc:0 ""
- genericbosfactoryoutput:0 "Processus de fabrication"
- genericbosfactoryoutput_desc:0 ""
- genericbosresources:0 "Production de ressources"
- genericbosresources_desc:0 ""
+  generic_bos_scribes: "Scribe Founders"
+  generic_bos_scribes_desc: ""
+
+  generic_bos_paladins: "Paladin Founders"
+  generic_bos_paladins_desc: ""
+
+  genericbossteellegions: "Steel Legions"
+  genericbossteellegions_desc: ""
+
+  genericbosfleshbeforesteel: "Flesh Before Steel"
+  genericbosfleshbeforesteel_desc: ""
+
+  genericbosscriberesearch: "Scribe Research"
+  genericbosscriberesearch_desc: ""
+
+  genericbosbunkerthought: "Bunker Mindset"
+  genericbosbunkerthought_desc: ""
+
+  genericbosaerialsupermacy: "Aerial Supremacy"
+  genericbosaerialsupermacy_desc: ""
+
+  genericbosflightacademy: "Brotherhood Flight Academy"
+  genericbosflightacademy_desc: ""
+
+  genericbost45d: "T-45d Power Armour Production"
+  genericbost45d_desc: ""
+
+  genericbost51b: "T-51b Power Armour Production"
+  genericbost51b_desc: ""
+
+  genericboscombinedoperations: "Combined Operations"
+  genericboscombinedoperations_desc: ""
+
+  genericbossurfaceoutposts: "Surface Outposts"
+  genericbossurfaceoutposts_desc: ""
+
+  genericbosnewtech: "Technological Breakthrough"
+  genericbosnewtech_desc: ""
+
+  genericbosfactoryoutput: "Manufacturing Process"
+  genericbosfactoryoutput_desc: ""
+
+  genericbosresources: "Resource Production"
+  genericbosresources_desc: ""
+
+  intelligence_defense_boost_dlc_weak_tt:0 "If you own La Resistance, this idea also adds \n§G2 counter-intelligence§! and §G1 crypto strength§!"
+  intelligence_defense_boost_dlc_strong_tt:0 "If you own La Resistance, this idea also adds \n§G3 counter-intelligence§! and §G2 crypto strength§!"

@@ -59,17 +59,15 @@
  
  michael_leader_tt:0 "§YSaint Michel§! est l'actuel dirigeant de §Y[HEA.GetNameDef]§!"
  michael_not_leader_tt:0 "§YSaint Michel§! n'est pas l'actuel dirigeant de §Y[HEA.GetNameDef]§!"
- council_leader_tt:0 "Le §YEsteemed Council§! est l'actuel dirigeant de §Y[HEA.GetNameDef]§!"
- council_not_leader_tt:0 "Le §YEsteemed Council§! n'est pas l'actueldirigeant de §Y[HEA.GetNameDef]§!"
  
  first_leader_tt:0 "§YLe First§! est l'actuel dirigeant de §Y[TRL.GetNameDef]§!"
  first_not_leader_tt:0 "§YLe First§! n'est pas l'actuel dirigeant de §Y[TRL.GetNameDef]§!"
- first_betty_leader_tt:0 "§YLe First et Betty§! est l'actuel dirigeant de §Y[TRL.GetNameDef]§!"
- first_betty_not_leader_tt:0 "§YLe First et Betty§! n'est pas l'actuel dirigeant de §Y[TRL.GetNameDef]§!"
- first_pitt_leader_tt:0 "§YLe First et Pittman§! est l'actuel dirigeant de §Y[TRL.GetNameDef]§!"
- first_pitt_not_leader_tt:0 "§YLe First et Pittman§! n'est pas l'actuel dirigeant de §Y[TRL.GetNameDef]§!"
- first_bone_leader_tt:0 "§YLe First et Bonesnarl§! est l'actuel dirigeant de §Y[TRL.GetNameDef]§!"
- first_bone_not_leader_tt:0 "§YLe First et Bonesnarl§! n'est pas l'actuel dirigeant de §Y[TRL.GetNameDef]§!"
+ betty_leader_tt:0 "§YBetty§! est l'actuel dirigeant de §Y[TRL.GetNameDef]§!"
+ betty_not_leader_tt:0 "§YBetty§! n'est pas l'actuel dirigeant de §Y[TRL.GetNameDef]§!"
+ pitt_leader_tt:0 "§YPittman§! est l'actuel dirigeant de §Y[TRL.GetNameDef]§!"
+ pitt_not_leader_tt:0 "§Pittman§! n'est pas l'actuel dirigeant de §Y[TRL.GetNameDef]§!"
+ bone_leader_tt:0 "§YBonesnarl§! est l'actuel dirigeant de §Y[TRL.GetNameDef]§!"
+ bone_not_leader_tt:0 "§YBonesnarl§! n'est pas l'actuel dirigeant de §Y[TRL.GetNameDef]§!"
  
  guerra_leader_tt:0 "§YDante Guerra§! est le dirigeant actuel du pays §Y[RRG.GetNameDef]§!"
  guerra_not_leader_tt:0 "§YDante Guerra§! n'est pas l'actuel chef de pays de §Y[RRG.GetNameDef]§!"

@@ -5,3 +5,5 @@
  FM_GAIN_TRAIT_LEVEL:0 "Les Commandants peuvent attribuer un nouveau trait lorsqu'ils sont promus.\n"
  fm_leader:0 "Commandant"
  FIELD_MARSHAL_BONUS_INFO:0 "Les bonus des traits de non-§Hcommandant§! s'appliquent avec un ratio de $RATIO|%.0H$\n"
+ group_mobile_title:0 "Pelotons Mobiles"
+ group_infantry_group_title:0 "Pelotons d'Infanterie"

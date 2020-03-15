@@ -8,7 +8,6 @@
  gentribal_era_desc:0 "Les Anciens de notre tribu ont appelé un Grand Conseil et communiquent avec les esprits de nos ancêtres pour déterminer notre prochain mouvement. La réponse des esprits déterminera si nous vivons dans une ère de guerre ou de paix."
  gentribal_defense:0 "Défense tribale"
  gentribal_defense_desc:0 "Avant tout, notre tribu doit être défendue des nations qui nous entourent. Les dangers des Terres Désolées nous ont préparés à cela, et nos guerriers connaissent une doctrine de défense."
- tribal_defence:0 "Défense tribale"
  gentribal_cult:0 "Le culte guerrier"
  gentribal_cult_desc:0 "Dès le début de la vie de notre tribu, nous avons eu un culte de guerriers voués à la protection des membres de notre tribu. Ils ont eu une formation rigoureuse et une expérience de vie."
  gentribal_cult_tt:0 "Gains §HCulte guerrier§!, qui accorde (§HInfanterie:§! Organisation Max: §G+5.0§!)."
@@ -49,7 +48,6 @@
 
  gentribal_skirmish:0 "Ligne d'escarmouche"
  gentribal_skirmish_desc:0 "Nos troupes tribales maîtrisent désormais les escarmouches, ce qui leur permet de se fournir plus efficacement et de se défendre dans une zone, et de créer une ligne de défense mortelle."
- tribalskirmish:0 "Ligne d'escarmouche"
  gentribal_bodyguards:0 "La garde du chef"
  gentribal_bodyguards_desc:0 "Le chef exige à juste titre une garde d'élite personnelle, composée des quelques élus de notre tribu, les plus meurtriers et les plus forts, pour le protéger, lui et son clan."
  gentribal_bodyguards_tt:0 "Spawns 3 §HInfanterie d'élite§! dans notre capitale."
@@ -89,7 +87,6 @@
  gentribal_village_desc:0 "À mesure que notre population s’agrandit, le village fait de même, et le grand afflux de personnes a créé une plus grande source d’armes et de nourriture pour notre peuple."
  gentribal_elders:0 "Anciens révérés"
  gentribal_elders_desc:0 "Les grands anciens de notre tribu sont sages et compétents et guident notre peuple vers un grand destin."
- elders:0 "Anciens révérés"
  gentribal_lands:0 "Terre Sacrée"
  gentribal_lands_desc:0 "La terre sur laquelle notre tribu a installé sa terre sacrée, bénie par les dieux. Les étrangers et les païens ne doivent pas être autorisés à ternir notre terre sacrée, nous devons donc la défendre tout avec ce que nous avons."
  
@@ -133,7 +130,6 @@
  
  gentribal_spirits:0 "Les mots des esprits"
  gentribal_spirits_desc:0 "Les esprits parlent à nos anciens et leur révèlent de grands secrets. Certains disent qu'il ne s'agit que d'empoisonnement par rayonnement des déchets nucléaires à proximité."
- spirits:0 "Les mots des esprits"
  gentribal_warpaint:0 "Peinture de guerre tribale"
  gentribal_warpaint_desc:0 "Nous pouvons utiliser de la peinture de guerre sur nos guerriers pour intimider et effrayer nos ennemis, ce qui a pour effet que nos troupes sont plus efficaces pour briser les lignes et le moral des ennemis."
  gentribal_warpaint_tt:0 "Gains §HPeinture de Guerre Tribale§!, qui accorde (§HInfanterie§!: Percée: §G+15.0% §!)"
