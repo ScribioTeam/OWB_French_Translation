@@ -2,6 +2,50 @@
   # FACTION SPECIFIC UNIQUES
   # Alphabetical by TAG
 
+  # Republic of Rio Grande
+  RRG_ballistic_equipment_2:0 "Paciencia Rifle"
+  RRG_ballistic_equipment_2_short:0 "AM Rifle"
+  RRG_ballistic_equipment_2_desc:0 "Few adversaries would consider a hunting rifle to be dangerous, yet they are gravely mistaken. It's threat comes from the fact it is a rechambered bolt-action, made to fire a shortened anti-material round able to pierce straight through most obstacles, and even light armor. What it gains in recoil, it makes up for in sheer firepower."
+
+  # Imperio Mexicano
+  MAX_ballistic_equipment_2:0 "Paciencia Rifle"
+  MAX_ballistic_equipment_2_short:0 "AM Rifle"
+  MAX_ballistic_equipment_2_desc:0 "Few adversaries would consider a hunting rifle to be dangerous, yet they are gravely mistaken. It's threat comes from the fact it is a rechambered bolt-action, made to fire a shortened anti-material round able to pierce straight through most obstacles, and even light armor. What it gains in recoil, it makes up for in sheer firepower."
+
+# Army of Mexico (Ejercito)
+  ARM_ballistic_equipment_2:0 "Paciencia Rifle"
+  ARM_ballistic_equipment_2_short:0 "AM Rifle"
+  ARM_ballistic_equipment_2_desc:0 "Few adversaries would consider a hunting rifle to be dangerous, yet they are gravely mistaken. It's threat comes from the fact it is a rechambered bolt-action, made to fire a shortened anti-material round able to pierce straight through most obstacles, and even light armor. What it gains in recoil, it makes up for in sheer firepower."
+
+  # Heavens Gate
+  HEA_explosive_demolitions_equipment_2:0 "Holy Frag grenade"
+  HEA_explosive_demolitions_equipment_2_short:0 "Blessed Grenade"
+  HEA_explosive_demolitions_equipment_2_desc:0 "A thrice-blessed handheld explosive, this grenade's firepower does not come exclusively from the wrath of God. Built around a specially designed explosive matrix for optimized fragmentation, and boasting an impressive explosive charge, it's destructive potential make it suited for both soft and armored targets, though care must be taken as the detonation mechanism tends to vary wildly between 3 or 5 seconds."
+
+  # High Chappel
+  HGH_explosive_demolitions_equipment_2:0 "Holy Frag grenade"
+  HGH_explosive_demolitions_equipment_2_short:0 "Blessed Grenade"
+  HGH_explosive_demolitions_equipment_2_desc:0 "A thrice-blessed handheld explosive, this grenade's firepower does not come exclusively from the wrath of God. Built around a specially designed explosive matrix for optimized fragmentation, and boasting an impressive explosive charge, it's destructive potential make it suited for both soft and armored targets, though care must be taken as the detonation mechanism tends to vary wildly between 3 or 5 seconds."
+
+  # IRN Iron Marauders??
+  IRN_power_armor_equipment_2:0 "Raider PA"
+  IRN_power_armor_equipment_2_short:0 "Scrap PA"
+  IRN_power_armor_equipment_2_desc:0 "Extremely lucky raiders may be able to find power armor, but for most others, they have to make do with bare and un-armored exoskeleton frames left. Not to be detered, most of them are refitted with scrap armored plates, homemade gas masks, and improvised backpack engine to power them. Much less suited to combat than normal power armors, they still boast improved strength, much better ease of use, owing to using fuel instead of using fusion cells, and bulletproof protection."
+
+  # TAA Texas Arms Assosiation
+  TAA_ballistic_equipment_1:0 "Silenced Sidearm"
+  TAA_ballistic_equipment_1_short:0 "Deliverer"
+  TAA_ballistic_equipment_1_desc:0 "Produced for Texas Arms operatives and clients seeking a silent option, this compact sidearm fires the typical 9mm caliber from a lightweight plateform with minimal sound thanks to it's silencer and use of sub-sonic ammunition. Perfect for infiltration and covert operations, this pistol is a classic to play secret agent."
+  TAA_ballistic_equipment_2:0 "Service Rifle MK1"
+  TAA_ballistic_equipment_2_short:0 "Standard Rifle"
+  TAA_ballistic_equipment_2_desc:0 "An old service rifle taken from various weapon depot around the county, it has been retrofitted to fire standard-issue ammunition, and for easier maintenance. It's battle-proven design consisting of a tough 5.56 receiver with wood finish makes it perfect for the harsh reality of the wasteland, while still retaining enough weight to use as a melee weapon in those tough situations."
+  TAA_ballistic_equipment_3:0 "Service Rifle MK2"
+  TAA_ballistic_equipment_3_short:0 "Improved Rifle"
+  TAA_ballistic_equipment_3_desc:0 "With many improvements given to the venerable service rifle, it becomes a capable weapon plateform suited to the new kind of war propping up around the wasteland. A light stock suited to hectic battles, improved rectangular handguard for better grip, and open-ended sights for viewplane make it more suited to a war of movement, urban warfare, or outright insurgency."
+  TAA_ballistic_equipment_4:0 "Service Rifle MK3"
+  TAA_ballistic_equipment_4_short:0 "Assault Rifle"
+  TAA_ballistic_equipment_4_desc:0 "The last word in term of infantry-bound small arms, as well as the final improvement on the service rifle, this assault weapon boasts a shortened ergonomic stock with a dampening pad, and a treated pistol grip, for comfortable firing as well as manageable recoil. Alongside it, an extended magazine with stronger spring improves the reliability of the feeding mechanism, and a simple one point five magnification sight increases accuracy at both short and medium range."
+
   # BAR (Baron's Republic)
   BAR_ballistic_equipment_1:0 "M&A 9mm Pistol"
   BAR_ballistic_equipment_1_short:0 "9mm Pistol"
@@ -16,6 +60,14 @@
   BAR_ballistic_equipment_4_short:0 "Marksman Carbine"
   BAR_ballistic_equipment_4_desc:0 "The marksman carbine is a semi-automatic, medium-power carbine with a 20 round magazine. Both highly accurate at long range and easy to handle in short range encounters, the marksman carbine is a precision weapon for a precision military."
 
+  # BDT (Bonedancers)
+  BDT_melee_equipment_1:0 "Cultist Knife"
+  BDT_melee_equipment_1_short:0 "Cult Knife"
+  BDT_melee_equipment_1_desc:0 "A magnificently crafted knife, it's esotheric properties make any person in it's presence feel unease and gnawing despair as it's sight. The handle is made of polished bones, imbued with tainted blood to give it a red color, while a wave-bladed edge gives it a horribly wounding effect on strike, akin to a serrated edge. Perfect to spill blood in It's name."
+  BDT_melee_equipment_2:0 "Cultist Sword"
+  BDT_melee_equipment_2_short:0 "Cult Sword"
+  BDT_melee_equipment_2_desc:0 ""
+  
   # BJS (Baja State)
   BJS_ballistic_equipment_1:0 "M&A 9mm Pistol"
   BJS_ballistic_equipment_1_short:0 "9mm Pistol"
@@ -103,6 +155,9 @@
   BRK_melee_equipment_2:0 "Gut Harpoon"
   BRK_melee_equipment_2_short:0 "Gut Harpoon"
   BRK_melee_equipment_2_desc:0 "Despite their deadly appearance, these broken harpoon tips on sticks are little more than unbalanced blunt rods. They're a favourite of Broken Coast raiders for their intimidating aura and unpredictability.\n\n"
+  BRK_infantry_equipment_1:0 "Black powder pistol"
+  BRK_infantry_equipment_1_short:0 "Old Sidearm"
+  BRK_infantry_equipment_1_desc:0 "The lack of resources, weapon knowledge and manufacturing availability made flintlocks a common sight amongst the Broken Coast. Beyond it's simple sidearm function, a weighted grip makes it perfect for pistol-whipping during boarding, and a wide barrel let daring pirates load it with buckshot, before shredding any unlucky enemy in a blinding light and deafening blast"
   BRK_ballistic_equipment_1:0 "Little Marie"
   BRK_ballistic_equipment_1_short:0 "Little Marie"
   BRK_ballistic_equipment_1_desc:0 "Pistol sized shotguns that pack a bunch large enough to puncture holes in wooden ships, Little Maries are carried by every pirate worth his salt. Sickeningly, the name comes from a local folk tale about a girl who used a shotgun to murder her father.\n\n"
@@ -139,48 +194,50 @@
   CES_melee_equipment_4_short: "Ballistic Fist"
   CES_melee_equipment_4_desc: "A ballistic fist is a wrist mounted shotgun connected to a pressure plate worn over the knuckles. The shotgun discharges on contact, causing massive damage to the unlucky victim."
   CES_ballistic_equipment_2: "Cowboy Repeater"
- DAY_ballistic_equipment_3:0 "Carabine d'assaut"
- DAY_ballistic_equipment_3_short:0 "Carabine d'assaut"
- DAY_ballistic_equipment_3_desc:0 "La carabine d'assaut est une arme automatique compacte alimentée par un magasin, avec une cadence de tir élevée et une diffusion relativement faible. C'est l'une des armes automatiques les plus précises des Terres Désolées, et peut être utilisée efficacement dans les combats à courte et moyenne distance."
   CES_ballistic_equipment_2_short: "Cowboy Repeater"
   CES_ballistic_equipment_2_desc: "A tube loading rifle that is both reliable and easy to produce. The Cowboy Repeater serves as an effective combat rifle on the battlefield in the right hands allowing rapid, accurate fire."
   CES_power_armour_equipment_2: "Brotherhood of Mars Power Armour"
   CES_power_armour_equipment_2_short: "BoM PA"
   CES_power_armour_equipment_2_desc: "Designed to invoke the fury of Mars in battle, the Brotherhood of Mars created this varient of T-51b to outfit their legions with in the coming wars. Its mediocre materials make it worse in battle than regular T-51b, but for equipment designed by former luddites, it is exceptional."
+  
+  # CLK (Clockwatchers)
+  CLK_infantry_equipment_1:0 "Pipe Revolver"
+  CLK_infantry_equipment_1_short:0 "Revolver"
+  CLK_infantry_equipment_1_desc:0 "From need comes ingenuity. While the clockwatchers appreciate immense firepower, it is certainly hard to acquire it, much less standardize it. Using scrap metal and abandonned forge around their territory, they managed to manufacture this huge, bulky sidearm. Barely holding together with every shot of it's massive, 200 grain, .38 cartridge."
+  CLK_ballistic_equipment_1:0 ".44 Revolver"
+  CLK_ballistic_equipment_1_short:0 ".44"
+  CLK_ballistic_equipment_1_desc:0 "As improvements came along to the standard Clockwatcher weaponry, a massive change was in order. The a proper metal frame, reinforced cylinder, and an elongated barrel makes this weapon a sight to behold. Firing the same .38 caliber cartridge, with improved recoil control and accuracy, means the same devastating stopping power in a reliable package."
+  CLK_ballistic_equipment_2:0 "Improved .44 Revolver"
+  CLK_ballistic_equipment_2_short:0 ".44 Improved"
+  CLK_ballistic_equipment_2_desc:0 "Very little can be considered "improvement" when it comes to Clockwatcher weaponry, at least to them. As such, this sidearm was only called "Improved" when a crafty weaponsmith managed to have what amounts to a battle pistol fire a 350 grain, shortened .50 cartridge without the whole gun going up with his hands. While pre-war movies tended to exaggerate the effect of weaponry, this revolver can actually blow someone clear across a room"
+  CLK_ballistic_equipment_3:0 "Revolver Rifle"
+  CLK_ballistic_equipment_3_short:0 ".44 Carbine"
+  CLK_ballistic_equipment_3_desc:0 "There comes a point in every revolver development where a hard limit is, sadly, reached in term of firepower. Thankfully, that's where carbine convertions generally come in. With a solid stock, center-line assembly and elongated barrel, this revolver carbine can not only provide a more stable firing plateform, but increase firepower even further by firing a full-length, .50 cartridge more commonly seen fired from anti-material rifles."
+  CLK_ballistic_equipment_4:0 "Railway Rifle"
+  CLK_ballistic_equipment_4_short:0 "Pain Train"
+  CLK_ballistic_equipment_4_desc:0 "An extremely bulky yet curious contraption, this converted railway spike driver has been fitted with a stock, barrel, and stand-alone power unit to be able to fire it's spike at long range. When bullets could no longer satisfy the Clockwatcher's need for increased firepower, this was a natural choice for a replacement. The spike itself is propelled at revolver-like velocity, themselves being huge .62 caliber metal rods able to literally nail an enemy to a wall."
+
  DEA_melee_equipment_2:0 "Club de guerre"
  DEA_melee_equipment_2_short:0 "Club de guerre"
  DEA_melee_equipment_2_desc:2 "Il est fait d'un bois dur originaire de la vallée de Zion qui a été sculpté en un club de 2 pieds de long. Le gourdin de guerre est l'arme emblématique de la tribu des Chevaux morts, d'où la forme de l'extrémité de l'arme qui ressemble à une tête de cheval."
 
   # Dayglow (Dayglow)
+
   DAY_ballistic_equipment_1:0 "M&A 9mm Pistol"
   DAY_ballistic_equipment_1_short:0 "9mm Pistol"
   DAY_ballistic_equipment_1_desc:0 "Common sidearm of both military and police force alike, and chambered in one of the most prolific calibres in existence, this firearm is the perfect candidate for widespread adoption."
- DES_ballistic_equipment_3:0 "Pistolet à brosse"
- DES_ballistic_equipment_3_short:0 "Pistolet à brosse"
- DES_ballistic_equipment_3_desc:0 "Les armes de cow-boy de haut calibre peuvent sembler insignifiantes, mais dans les mains d'un vétéran des Rangers du Désert, elles détruiront tout ennemi sur son passage."
-  DAY_ballistic_equipment_2:0 "Service Rifle"
+   DAY_ballistic_equipment_2:0 "Service Rifle"
   DAY_ballistic_equipment_2_short:0 "Service Rifle"
   DAY_ballistic_equipment_2_desc:0 "A mainstay weapon of the pre-war US-Army, repaired and refurbished with Redwood furniture."
- DES_spec_ops_equipment_3:0 "Armure de patrouille des Rangers"
- DES_spec_ops_equipment_3_short:0 "Armure de patrouille"
- DES_spec_ops_equipment_3_desc:0 "L'armure de patrouille de base utilisée par les Rangers"
- DES_spec_ops_equipment_4:0 "Armure de combat des Rangers"
- DES_spec_ops_equipment_4_short:0 "Armure des Rangers"
- DES_spec_ops_equipment_4_desc:0 "L'armure de combat distinctive des Rangers noirs se compose du traditionnel trench-coat des Rangers du Désert, porté avec l'armure anti-émeute d'avant-guerre."
- DES_spec_ops_equipment_5:0 "Armure de combat des Rangers vétérans"
- DES_spec_ops_equipment_5_short:0 "Armure de vétéran"
- DES_spec_ops_equipment_5_desc:0 "L'armure de combat distinctive noire des Rangers se compose du traditionnel trench-coat des Rangers du Désert, porté avec l'armure anti-émeute avancée d'avant-guerre."
-  DAY_ballistic_equipment_4:0 "Marksman Carbine"
+ DAY_ballistic_equipment_3:0 "Carabine d'assaut"
+ DAY_ballistic_equipment_3_short:0 "Carabine d'assaut"
+ DAY_ballistic_equipment_3_desc:0 "La carabine d'assaut est une arme automatique compacte alimentée par un magasin, avec une cadence de tir élevée et une diffusion relativement faible. C'est l'une des armes automatiques les plus précises des Terres Désolées, et peut être utilisée efficacement dans les combats à courte et moyenne distance." 
+   DAY_ballistic_equipment_4:0 "Marksman Carbine"
   DAY_ballistic_equipment_4_short:0 "Marksman Carbine"
- DIS_melee_equipment_2:0 "Couteau de poche"
- DIS_melee_equipment_2_short:0 "Couteau de poche"
- DIS_melee_equipment_2_desc:0 "L'un des effets de la Grande Guerre a été en fait un réchauffement des mers. Deux cents ans d'absence de voyage en mer, d'océans plus chauds et de mutations inopérantes ont permis au système de récifs coralliens Anacapa de s'étendre sur la majeure partie du littoral occidental des États-Unis. Au large des côtes de l'Oregon, les tribus ramassent des morceaux de corail rejetés à la mer pour la construction de bâtiments, les rituels et même les armures et les armes !\nLes couteaux de poche font partie de cette culture. Deux morceaux de coquille greffés ensemble, la coquille de conque en question étant aiguisée à la pointe du rasoir, ces armes permettent de trancher et de découper efficacement tout tribal, sacrifice ou mutant."
-  DAY_ballistic_equipment_4_desc:0 "The marksman carbine is a semi-automatic, medium-power carbine with a 20 round magazine. Both highly accurate at long range and easy to handle in short range encounters, the marksman carbine is a precision weapon for a precision military."
+    DAY_ballistic_equipment_4_desc:0 "The marksman carbine is a semi-automatic, medium-power carbine with a 20 round magazine. Both highly accurate at long range and easy to handle in short range encounters, the marksman carbine is a precision weapon for a precision military."
 
- EHT_ballistic_equipment_2:45 "Mitrailleuse automatique .45"
- EHT_ballistic_equipment_2_short:45 ".45 Auto SMG"
- EHT_ballistic_equipment_2_desc:45 "La mitraillette automatique de calibre .45 déploie une puissance de feu dévastatrice à courte distance."
-  # DES (Desert Rangers)
+  
+    # DES (Desert Rangers)
   DES_ballistic_equipment_1:0 "Big Iron"
   DES_ballistic_equipment_1_short:0 "Big Iron"
   DES_ballistic_equipment_1_desc:0 "No self respecting ranger wears anything but a hand tooled .44 caliber big iron on his hip."
@@ -190,6 +247,39 @@
 #  DES_spec_ops_equipment_4: "Desert Ranger Combat Armour"
 #  DES_spec_ops_equipment_4_short: "Ranger Armour"
 #  DES_spec_ops_equipment_4_desc: "A USMC-issued armor boasting a desert camouflage pattern, worn with a matching military helmet with built-in low light optics, a combination IR/white light lamp and gas mask, an olive green duster and a pair of worn-out khaki pants."
+ DES_spec_ops_equipment_3:0 "Armure de patrouille des Rangers"
+ DES_spec_ops_equipment_3_short:0 "Armure de patrouille"
+ DES_spec_ops_equipment_3_desc:0 "L'armure de patrouille de base utilisée par les Rangers"
+ DES_spec_ops_equipment_4:0 "Armure de combat des Rangers"
+ DES_spec_ops_equipment_4_short:0 "Armure des Rangers"
+ DES_spec_ops_equipment_4_desc:0 "L'armure de combat distinctive des Rangers noirs se compose du traditionnel trench-coat des Rangers du Désert, porté avec l'armure anti-émeute d'avant-guerre."
+ DES_spec_ops_equipment_5:0 "Armure de combat des Rangers vétérans"
+ DES_spec_ops_equipment_5_short:0 "Armure de vétéran"
+ DES_spec_ops_equipment_5_desc:0 "L'armure de combat distinctive noire des Rangers se compose du traditionnel trench-coat des Rangers du Désert, porté avec l'armure anti-émeute avancée d'avant-guerre."
+
+  # DIS (The Apostles)
+  DIS_melee_equipment_1:0 "Cultist knife"
+  DIS_melee_equipment_1_short:0 "Cult Knife"
+  DIS_melee_equipment_1_desc:0 "A magnificently crafted knife, it's esotheric properties make any person in it's presence feel unease and gnawing despair as it's sight. The handle is made of polished bones, imbued with tainted blood to give it a red color, while a wave-bladed edge gives it a horribly wounding effect on strike, akin to a serrated edge. Perfect to spill blood in It's name."
+ DIS_melee_equipment_2:0 "Couteau de poche"
+ DIS_melee_equipment_2_short:0 "Couteau de poche"
+ DIS_melee_equipment_2_desc:0 "L'un des effets de la Grande Guerre a été en fait un réchauffement des mers. Deux cents ans d'absence de voyage en mer, d'océans plus chauds et de mutations inopérantes ont permis au système de récifs coralliens Anacapa de s'étendre sur la majeure partie du littoral occidental des États-Unis. Au large des côtes de l'Oregon, les tribus ramassent des morceaux de corail rejetés à la mer pour la construction de bâtiments, les rituels et même les armures et les armes !\nLes couteaux de poche font partie de cette culture. Deux morceaux de coquille greffés ensemble, la coquille de conque en question étant aiguisée à la pointe du rasoir, ces armes permettent de trancher et de découper efficacement tout tribal, sacrifice ou mutant."
+
+
+  # EHT (The Eighties)
+  EHT_ballistic_equipment_1: "Sawn off shotgun"
+  EHT_ballistic_equipment_1_short: "Sawn Off"
+  EHT_ballistic_equipment_1_desc: "The strain of motorcycle gun-run leave few options open when it comes to firearms, but if the road wars taught the eighties anything, it's the importance of overwhelming close-range firepower. Taking a simple 12 gauge shotgun, cutting both stock and barrel, to then load it with triple 0 buckshot, gives any road-warrior the ability to inflict devastating damage in adrenaline-fueled raids."
+ EHT_ballistic_equipment_2:45 "Mitrailleuse automatique .45"
+ EHT_ballistic_equipment_2_short:45 ".45 Auto SMG"
+ EHT_ballistic_equipment_2_desc:45 "La mitraillette automatique de calibre .45 déploie une puissance de feu dévastatrice à courte distance."
+  EHT_melee_equipment_2:0 "Bladed Tire Iron"
+  EHT_melee_equipment_2_short:0 "Road Blade"
+  EHT_melee_equipment_2_desc:0 "Simple solutions to complex problems are generally the best. Complex problems such as "How do i kill this person over there." and simple solutions such as "A full-speed road blade strike to the forehead from the back of a motorcycle." are perfectly in the eighties' style. Little more than blades welded to tire irons, those dual-purpose weapons let a rider both maintain their bikes and bash some skulls in."
+  EHT_melee_equipment_3:0 "Fuel-Fed Chainsaw"
+  EHT_melee_equipment_3_short:0 "Chainsaw"
+  EHT_melee_equipment_3_desc:0 "A crude melee weapon, this fuel-fed chainsaw is still a highly-customized piece of hardware, of which many eighties riders are proud of. It consists of a welded chainsaw mechanism, wrapped around a long metal pole and powered by a compact high-RPM bike engine, the resulting weapon being more akin to a polearm than an actual saw. Usable even on a motorcycle to decapitate or maim any unfortunate foes, any enemy should rightfully fear it's roar."
+
 
   # ENC (Enclave, both New Reno and NCR variants)
   ENC_energy_equipment_3:0 "M1 Winchester"
@@ -255,6 +345,9 @@
   MOJ_ballistic_fireteam_equipment_4: "K9000 Cyberdog Gun"
   MOJ_ballistic_fireteam_equipment_4_short: "Cyberdog Gun"
   MOJ_ballistic_fireteam_equipment_4_desc: "This weapon is actually an odd form of cyberdog, except instead of a robotic body in the image of a canine companion, a living dog's brain has been provided with a machine gun frame, utilizing .357 Magnum ammunition. Its \"canine\" features include two metallic \"ears\" mounted on top of the weapon that move like a real dog's and a sniffer mounted on the jar containing its preserved brain, allowing the gun to sense its surroundings."
+  MOJ_flamer_demolitions_weaponry_4: "Solar Cannon"
+  MOJ_flamer_demolitions_weaponry_4_short: "Solar Cannon"
+  MOJ_flamer_demolitions_weaponry_4_desc: "First conceptualized and produced before the Great War, the Solar Cannon is a crowd control weapon intended for use against massed soft targets. Though never put into mass production at any point in time, it has seen spotty usage with the Enclave, and now with us."
 
   # NCN
   NCN_ballistic_equipment_1: ".45 Automatic Pistol"
@@ -309,6 +402,9 @@
  SHI_spec_ops_equipment_4:0 "Armure furtive de Hei Gui"
  SHI_spec_ops_equipment_4_short:0 "Armure furtive"
  SHI_spec_ops_equipment_4_desc:0 "L'armure furtive chinoise a été utilisée lors de l'invasion chinoise de l'Alaska et a été la solution chinoise à l'invasion des forces américaines en armure de puissance. Disponible pour les troupes d'élite chinoises de Crimson Dragoon ainsi que pour les unités de contre-insurrection/terrorisme avant et pendant la Grande Guerre, cette technologie continue d'être utilisée par les Shi pour surveiller leurs ennemis."
+   SHI_explosive_demolitions_equipment_3:0 "Red Victory Grenade Rifle"
+  SHI_explosive_demolitions_equipment_3_short:0 "Grenade Rifle"
+  SHI_explosive_demolitions_equipment_3_desc:0 "A prototype converted to mass production, this captured american weapon has been modified for chinese use by lightening the wooden assembly with the use of alloy, and making it able to fire devastating 40mm dual-purpose grenades. Originally intended to fight american power armors in the frozen north, it is still equally suited to devastating strikes on soft target, or focused fire to crack open armor."
   NCR_power_armor_equipment_1_desc: "Salvaged from T-45d power armor recovered during the first NCR-Brotherhood war, NCR technicians have stripped out much of the advanced technology inside. While it doesn't require specialized training to wear and can absorb a significant amount of punishment, it is a notoriously difficult piece of equipment to move around in."
   NCR_power_armor_equipment_2: "Scorched Sierra Power Armour"
  SIN_ballistic_equipment_1:9 "Pistolet modifié M&A 9mm"
@@ -330,6 +426,17 @@
 #  SHI_spec_ops_equipment_5_short: "Stealth Armour"
 #  SHI_spec_ops_equipment_5_desc: "Chinese stealth armor was used during the Chinese invasion of Alaska and was the Chinese solution to invasion by U.S. forces in power armor. Available to elite Chinese Crimson Dragoon troops as well as the counter-insurgency/terror units before and during the Great War, the technology continues to be used by the Shi to keep watch over their enemies."
 
+  # TIM (Timberline)
+  TIM_melee_equipment_1:0 "Treated Hatchet"
+  TIM_melee_equipment_1_short:0 "Hatchet"
+  TIM_melee_equipment_1_desc:0 "A handheld bladed weapon, the hatchet is compact, light, and versatile. Contrary to typical pre-war examples, this weapon has been customized for military purposes. A special tapped handle assures a firm grip while in combat, with a large sharpened edge on one side for unarmored targets, and spike on the other to pierce straight through metal armor."
+  TIM_melee_equipment_2:0 "Fireaxe"
+  TIM_melee_equipment_2_short:0 "Axe"
+  TIM_melee_equipment_2_desc:0 "Usually used to break down doors in case of emergency, the robust construction and dual-purpose blade is made more deadly by the addition of a weighted axe head, letting any swing that connect either pierce huge holes into armor, or cleaving through limbs like nothing. "
+  TIM_melee_equipment_3:0 "Fusion-Powered Chainsaw"
+  TIM_melee_equipment_3_short:0 "Chainsaw"
+  TIM_melee_equipment_3_desc:0 "Multiple convertions to this pre-war tool made it a deadly close-combat weapon that few fighters dare approach. An alloy frame combined with a converted fusion engine made to receive military-grade laser sidearm capacitors considerably lighten it, while the increased power draw and carbide-alloy teeth can make it tear through even power armor with enough force."
+
  VLT_power_armour_equipment_3:45 "Armure assistée Vault-Tec T-45d"
  VLT_power_armour_equipment_3_short:45 "T-45d PA"
  VLT_power_armour_equipment_3_desc:45 "Basé sur l'armure assistée T-45d de l'armée américaine mais fabriqué par Vault-Tec, l'armure assistée T-45d de Vault-Tec a été distribué dans une petite poignée d'abris avant que les bombes ne tombent."
@@ -342,7 +449,7 @@
  WBH_melee_equipment_4_short:0 "Grille-pain Paladin"
  WBH_melee_equipment_4_desc:0 ""
   VEG_ballistic_equipment_1_short: "9mm SMG"
-  VEG_ballistic_equipment_1_desc: "The 9mm submachine gun is a small, yet capable weapon, able to empty a full magazine in under 3 seconds. The 9mm rounds are common and lightweight, making it even easier to spray-and-pray."
+  VEG_ballistic_equipment_1_desc: "The 9mm submachine gun is a classic that hardly need an introduction. Improving upon the basic package, a telescopic assembly reduces it's size further, while higher quality cartridges crafted with increased powder load allows enhanced muzzle velocity and effect on soft target. Spray and Pray has never been this much fun."
   VEG_energy_equipment_3: "Laser Rapid Capacitor Weapon"
   VEG_energy_equipment_3_short: "Laser RCW"
   VEG_energy_equipment_3_desc: "The Laser Rapid Capacitor Weapon uses a drum containing six capacitors centered around an electron charge pack. The drum spins as the weapon fires, producing a continuous laser beam while simultaneously using the electron charge pack to recharge previously discharged capacitors. The design allows the Laser RCW to achieve rates of fire unavailable to single capacitor designs."

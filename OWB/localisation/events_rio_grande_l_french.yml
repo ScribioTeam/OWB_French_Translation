@@ -76,10 +76,6 @@
  nf_rrg.18.d:0 "Avec la défaite de la TAA, Rosado a honoré son accord et a reconnu le contrôle de la Confrérie sur leur centre-ville. Certains s'interrogeaient sur l'influence de la confrérie dans la région, mais Rosado a fait remarquer que Rio était maintenant la seule faction mexicaine à avoir accès à des armures assistées."
  nf_rrg.18.a:0 "Toujours mieux que la TAA"
  ############################
- nf_rrg.19.t:0 "La grande ambition de Mora"
- nf_rrg.19.d:0 "La Grande Guerre avait détruit l'Amérique, le Mexique et le Canada ; mais alors que le rêve américain était terni par les actions de l'Enclave depuis la guerre, certains au Mexique se souvenaient encore quand leur nation était gouvernée par des hommes et des femmes libres, et non par des IA ou de faux rois. Mais tant que Tlaloc régnerait depuis sa citadelle, il n'y aurait pas de changement. Les gens savaient qu'ils étaient mexicains, mais l'idée d'un pays mexicain, fort et libre ? Absurde.\n\nSauf si vous étiez le président Mora. Face aux menaces de la RNC, de la Légion et des mutants du Texas, Mora croyait que la seule façon pour le peuple mexicain de rester libre était de rester uni."
- nf_rrg.19.a:0 "Siempre Unidos, Siempre Libre !"
- ############################
  nf_rrg.20.t:0 "Le Mexique renaît"
  nf_rrg.20.d:0 "Les causeries de Mora à la radio étaient bien connues dans tout le Mexique, mais celle qu'il a choisi de donner aujourd'hui était un peu différente. L'annonce a commencé par une chanson que peu de gens avaient entendue, puis par un bref discours du Président. \"La nation mexicaine, qui depuis plus de deux cents ans n'a ni volonté propre, ni libre usage de sa voix, laisse aujourd'hui l'oppression dans laquelle elle a vécu. Nous ne sommes plus citoyens de Rio ou de Sinoala. Nous ne sommes plus sujets de Tlaloc ou Xochicalco. Nous sommes mexicains, tous et chacun.\"\n\n\"Et je promets que je n'aurai pas de repos jusqu'à ce que nous soyons tous libres.\""
  nf_rrg.20.a:0 "Vive le Mexique !"
@@ -211,10 +207,6 @@
  nf_rrg.49.d:0 "Le Bureau de réclamation a pu poursuivre un des gardes de sécurité jusqu'à la péninsule de Baja, où il est mort il y a presque deux cents ans en défendant un village contre des bandits. Une victime de plus des Terres Désolées. Mais on a trouvé son mot de passe. \nObsidienne."
  nf_rrg.49.a:0 "Un de moins."
  ############################
- nf_rrg.50.t:0 "L'élection de 2277"
- nf_rrg.50.d:0 "Assaillis par des ennemis à l'intérieur et à l'extérieur, les habitants de la République du Rio Grande se rendent aux urnes. Que leurs ennemis viennent, car le Rio Grande a ses propres héros. Rosa, Mora et Guerra ; n'importe lequel d'entre eux ferait un grand leader pour la nation."
- nf_rrg.50.a:0 "Quels que soient nos problèmes, siempre libre !"
- ############################
  nf_rrg.51.t:0 "Notre nouveau président"
  nf_rrg.51.d:0 "Le peuple s'est rendu en masse aux urnes et, après mûre réflexion, a choisi son président. Peu importe qui l'a emporté, le fait que nos dirigeants soient choisis par le peuple au lieu d'un diktat d'en haut est un témoignage de Rio. Vive la liberté !"
  nf_rrg.51.a:0 "Le rêve mexicain de Mora l'emporte"
@@ -271,6 +263,14 @@
  nf_rrg.83.d:0 "[FROM.GetName] doit décider s'il faut rejoindre la République du Rio Grande, ou se tenir à l'écart alors que César nous fixe des yeux. Que devons-nous faire ?"
  nf_rrg.83.a:0 "Nous buvons tous au Rio Grande, nous sommes tous un seul peuple."
  nf_rrg.83.b:0 "Soyons juste amis."
+
+ nf_rrg.831.title:0 "[FROM.GetName] a accepté"
+ nf_rrg.831.desc:0 "[FROM.GetName] a accepté notre offre de devenir un État et est devenu une partie intégrante de notre glorieuse nation."
+ nf_rrg.831.a:0 "Loué soit le Mexique !"
+
+ nf_rrg.832.title:0 "[FROM.GetName] a décliné"
+ nf_rrg.832.desc:0 "[FROM.GetName] a décliné notre offre de devenir un État. C'est un résultat très regrettable."
+ nf_rrg.832.a:0 "Ils se joindront à temps." 
  ############################
  nf_rrg.84.t:0 "Tendances démocratiques"
  nf_rrg.84.d:0 "C'est RRG, annonçant que [FFI.GetLeader] a accepté de se joindre à [RRG.GetName] dans une alliance pour protéger le Mexique contre la Légion. Le traité a été officialisé lors d'une fête où Guerra a monté un taureau jusqu'à l'épuisement, et [FFI.GetLeader] s'est battu avec certains des meilleurs soldats de Rio."

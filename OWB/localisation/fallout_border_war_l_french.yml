@@ -4,9 +4,6 @@
  border_conflict_incident_warning_defender_desc:0 "§WAmener les divisions à §H[From.From.GetName]§!§!"
  border_conflict_escalation_warning_defender:0 "Incident à la frontière [From.From.GetName] avec [From.GetNameDef]"
  border_conflict_escalation_warning_defender_desc:0 "§WMaintenir les divisions dans §H[From.From.GetName]§!\n§H[From.GetNameDef]§!peut dégénérer en un §Hconflit frontalier§!§!."
- escalation_possible_tooltip_for_defender:0 "§H[From.GetNameDef]§! peut dégénérer d'un incident à un §Hconflit frontalier§!.\nNous allons perdre instantanément si nous n'avons pas de divisions dans l'état\n"
- effects_if_border_conflict_is_lost:0 "§Effets si le conflit frontalier est perdu§!:\n"
- from_cannot_escalate:0 "§H[From.GetNameDef §! ne peut plus dégénérer en un §Hconflit frontalier§!.\n\n"
  escalate_incident_to_border_conflict:0 "Passer à un conflit de frontière avec [From.GetName]"
  border_incident_forgotten:0 "Incident dans [From.From.GetName] oublié"
  border_incident_delay_until_new_incident_120:0 "Ne peut pas organiser un nouvel incident contre §H[From.GetName]§! pour §H120§! jours.\n"
@@ -15,13 +12,7 @@
  border_conflict_back_out_of_conflict:0 "Se retirer du conflit"
  border_conflict_escalate_conflict:0 "Escalader le conflit"
  border_conflict_escalate_to_war:0 "Escalader à la guerre"
- defensive_border_conflict_won:0 "Conflit de frontière défensif gagné"
- not_initiated_border_incident_with_FROM:0 "N'a pas lancé d'incident de frontière avec [From.GetNameDef]"
- not_initiated_border_incident_with_ROOT:0 "N'a pas lancé d'incident de frontière avec [Root.GetNameDef]"
- at_least_one_division_in_state:0 "Au moins §H1§! division dans l'Etat"
- in_45_days:0 "En 45 jours: \n"
- border_incident_active:0 "Les États n'ont pas d'incident frontalier actif"
- 
+
 ### #   # ### #  # ###  ##
 #   #   # #   ## #  #  #
 ##   # #  ##  # ##  #   #

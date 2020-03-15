@@ -6,5 +6,5 @@
  generic.180.d:0 "Après un combat prolongé, [From.GetRank] [De.GetName] est rentré dans le camp et souffre de gros dommages. Beaucoup de ses composants critiques ont été détruits et l’intégrité structurelle de [From.GetRank] est incroyablement basse. [From.GetName] a eu la chance de revenir en état de fonctionnement et devra subir d'importantes réparations avant que [From.GetSheHe] ne soit à nouveau opérationnel."
  generic.180.a:0 "C'est un Lotta Damage !"
  helper_events.1.title:0 "[FROM.GetName] Revendique un territoire !"
- helper_events.1.desc:0 "Les [FROM.GetName] réclament le territoire que nous contrôlons actuellement, tel qu'ils le ressentent, si c'est bien leur terre ! Nous devons traiter cette question comme une décision. Veuillez vous rendre au menu \"Décisions\" et traiter cette question afin de ne pas vous faire déclarer la guerre au hasard et de ne pas perdre de vue les raisons de votre décision."
- helper_events.1.a:0 "Je suppose qu'on va s'occuper de ça."
+ helper_events.1.desc:0 "[FROM.GetName] a l'audace de nous réclamer du territoire ! Comment devrions-nous procéder ? Devrions-nous écraser leurs misérables ambitions d'un seul coup, ou les retarder en cédant suffisamment de temps pour les anéantir complètement ? §RNous devons prendre une décision immédiatement, avant qu'ils ne prennent notre silence en signe d'irrespect et décident de riposter à leur tour. Nous ne pouvons pas leur permettre de prendre l'initiative§!"
+ helper_events.1.a:0 "Nous allons nous occuper de ça."

@@ -19,9 +19,9 @@
   nf_ate.4.d:0 "The last Speaker was our greatest, but like the hummingbird who flew too high, he reached for the sun and perished.  The Speaker thought he could invade territory under the control of Tlaloc, refusing to believe that the aging AI could stop him.  \n\nThe Speaker was wrong. He and his wife perished in battle, along with ten thousand Aztlan warriors, when Tlaloc dropped a nuke on forces in [779.GetName]. The defeat threw the empire into chaos, and left his great works unfinished."
   nf_ate.4.a:0 "Oh God."
 
-  nf_ate.20.t:0 "The Warrior Cults"
-  nf_ate.20.d:0 "The Jaguar and Eagle cults of the Triple Alliance honored only warriors with several kills or prisoners of war, hailing them as heroes. The First Empress revived the tradition, but the Eagle and Jaguar Cults have expanded to become professional military forces.  The Jaguar Cult will welcome anyone, be they serf or nobleman, so long as they can survive the Test of Trials. The Eagle Cult only accepts the nobility, but make up for the lack of manpower with the best weapons the Empire has."
-  nf_ate.20.a:0 "They are like a spear in the hands of the sun."
+  # nf_ate.20.t:0 "The Warrior Cults"
+  # nf_ate.20.d:0 "The Jaguar and Eagle cults of the Triple Alliance honored only warriors with several kills or prisoners of war, hailing them as heroes. The First Empress revived the tradition, but the Eagle and Jaguar Cults have expanded to become professional military forces.  The Jaguar Cult will welcome anyone, be they serf or nobleman, so long as they can survive the Test of Trials. The Eagle Cult only accepts the nobility, but make up for the lack of manpower with the best weapons the Empire has."
+  # nf_ate.20.a:0 "They are like a spear in the hands of the sun."
 
   nf_ate.5.t:0 "The Great Work Undone"
   nf_ate.5.d:0 "The last Speaker knew the world was changing; Tlaloc had shielded Mexico, but he had kept it trapped in amber. No great warlord could oppress the land; but no great hero could save it, either. Pursuing the orders of a long-dead world, Tlaloc kept Mexico weak and divided, \"protecting\" Mexico by crushing any force too powerful as a \"guerilla element.\" But as he began to fail, opportunities beckoned. The ships of [CAF.GetName] brought word of bears and bulls, while the Mayans emerged from their jungles to menace the land. To survive, the Aztlan would have to become more than an empire. It would have to become a nation.  \n\nToo bad his plans perished in a mushroom cloud."
@@ -125,12 +125,12 @@
   nf_ate.27.a:0 "It's probably an inside joke."
   nf_ate.27_tt:0 "We agree to a nonaggression pact with the Aztlani if the Jaguar tries to seize the throne."
 
-  nf_ate.28.t:0 "Aztalan Refuses!"
-  nf_ate.28.d:0 "The Aztalan delegation has refused to any more alterations to our relationship, violating both the spirit and the law of the treaty. The Baron is reportedly furious, and has vowed not to take this disrespect sitting down."
-  nf_ate.28.a:0 "Big mistake, [ATE.getleader]."
+  # nf_ate.28.t:0 "Aztalan Refuses!"
+  # nf_ate.28.d:0 "The Aztalan delegation has refused to any more alterations to our relationship, violating both the spirit and the law of the treaty. The Baron is reportedly furious, and has vowed not to take this disrespect sitting down."
+  # nf_ate.28.a:0 "Big mistake, [ATE.getleader]."
 
-  nf_ate.28.t:0 "Costa has refuses an alliance."
-  nf_ate.28.d:0 "Despite our generosity in granting them their freedom, Costa has apparently decided to leave us high and dry, leaving us without an ally or a servant. Honestly, this wasn't too unexpected, really."
+  # nf_ate.28.t:0 "Costa has refuses an alliance."
+  # nf_ate.28.d:0 "Despite our generosity in granting them their freedom, Costa has apparently decided to leave us high and dry, leaving us without an ally or a servant. Honestly, this wasn't too unexpected, really."
 
   nf_ate.29.t:0 "Fly Like an Eagle"
   nf_ate.29.d:0 "The Speaker's terrible, bullet related accident has left Ocelotl with no choice but to become Speaker. Mexico City has swiftly fallen to the Itzans, who may press their atttack. But for now, to war!"
@@ -161,7 +161,7 @@
   nf_ate.34.b:0 "Out of mercy, only blind him."
 
   nf_ate.35.t:0 "We've Always Made Our Own Luck"
-  nf_ate.35.d:0 "Rafael may stand before the new speaker unbowed, unbent, unbroken, but still he stands. \n\nThe Jaguar had already deccided The Eagle's's fate before he walked into the room.  It was to be:"
+  nf_ate.35.d:0 "Rafael may stand before the new speaker unbowed, unbent, unbroken, but still he stands. \n\nThe Jaguar had already decided The Eagle's fate before he walked into the room.  It was to be:"
   nf_ate.35.a:0 "Find a cliff and see if he can fly."
 
   nf_ate.36.t:0 "The Fate of Empire"

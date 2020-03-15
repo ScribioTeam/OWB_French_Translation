@@ -59,14 +59,6 @@
   rough_and_ready_shovelers: "Rough and Ready Shovelers"
   lock_and_load_company: "Lock and Load"
 
-  ## slots
-  research_advisor: "Research Advisor"
-  vehicle_restoration_advisor: "Vehicle Company"
-  navy_restoration_advisor: "Naval Company"
-  aircraft_restoration_advisor: "Aircraft Company"
-
-
-
  # Traits
   power_armor_manufacturer:0 "Power Armor Manufacturer"
   robot_manufacturer:0 "Robot Manufacturer"
@@ -149,12 +141,3 @@
   lethal_blows_desc:0 ""
   neutrality_owb:0 "Neutrality"
   neutrality_owb_desc:0 ""
-
-  car_fighter_equipment: "Naval Fighter"
-  hev_fighter_equipment: "Heavy Fighter"
-  long_fighter_equipment: "Long-Range Fighter"
-  hev_strategic_bomber_equipment: "Heavy Bomber"
-  long_strategic_bomber_equipment: "Long-Range Bomber"
-  hev_cas_equipment: "Heavy Close Air Support Plane"
-  car_cas_equipment: "Naval Close Air Support Plane"
-  long_cas_equipment: "Long-Range Close Air Support Plane"

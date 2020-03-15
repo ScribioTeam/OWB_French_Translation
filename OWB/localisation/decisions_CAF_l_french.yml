@@ -27,20 +27,20 @@
 
   caf_internal_investment_tt:0 "Continued internal investment will allow for us to boost our external trading capacity."
 
-  caf_trade_aztlan:0 "Prepare A Trade Mission to Aztlan"
-  caf_trade_aztlan_desc:0 "Aztlan is the bread and butter of our coffee trade, but that doesn't mean we can take these customers for granted. A new trade initiative to the Aztalan border cities is the first stop in our coffee chain empire."
+  caf_trade_aztlan_decision:0 "Prepare A Trade Mission to Aztlan"
+  caf_trade_aztlan_decision_desc:0 "Aztlan is the bread and butter of our coffee trade, but that doesn't mean we can take these customers for granted. A new trade initiative to the Aztalan border cities is the first stop in our coffee chain empire."
 
   caf_trade_aztlan_mission:0 "Aztlan Trade Profits"
   caf_trade_aztlan_mission_desc:0 ""
 
-  caf_trade_honduras:0 "Prepare A Trade Mission to Honduras"
-  caf_trade_honduras_desc:0 "Honduras is a wild place, the last line of defense against a horde of horrors and jungle that extends without end. Perhaps we can give them a discount for their services to civilisation."
+  caf_trade_honduras_decision:0 "Prepare A Trade Mission to Honduras"
+  caf_trade_honduras_decision_desc:0 "Honduras is a wild place, the last line of defense against a horde of horrors and jungle that extends without end. Perhaps we can give them a discount for their services to civilisation."
 
   caf_trade_honduras_mission:0 "Honduran Trade Profits"
   caf_trade_honduras_mission_desc:0 ""
 
-  caf_trade_tzotzil:0 "Prepare A Trade Mission to Tzotzil"
-  caf_trade_tzotzil_desc:0 "Our position with Tzotzil is...precarious, to say the least. But far be it from us to let the threat of an upcoming bloody war get in the way of good business!
+  caf_trade_tzotzil_decision:0 "Prepare A Trade Mission to Tzotzil"
+  caf_trade_tzotzil_decision_desc:0 "Our position with Tzotzil is...precarious, to say the least. But far be it from us to let the threat of an upcoming bloody war get in the way of good business!"
 
   caf_trade_tzotzil_mission:0 "Tzotzil Trade Profits"
   caf_trade_tzotzil_mission_desc:0 ""
@@ -111,7 +111,7 @@
 
   caf_independence:0 "Bad Business"
   caf_independence_desc:0 "Nothing personal, kid. \nAztlan Pissed-off-O-meter:  §R[?caf_ate_fucking_pissed]§!"
-  
+
   caf_ate_fucking_pissed_tooltip:0 "We need at least §R7§! Independence points to break away."
   caf_itz_fucking_pissed_tooltip:0 "We need at least §R7§! Trade Power points to embargo Itza."
 

@@ -1,9 +1,4 @@
 ﻿l_french:
- RULE_GROUP_EVENTS:0 "Règles d'événements"
- RULE_GROUP_GENERAL_FOREIGN_POLICY:0 "Règles de diplomatie"
- RULE_GROUP_COUNTRY_SPECIFIC:0 "Règles de pays"
- RULE_GROUP_MAP_SETUP:0 "Configuration de la carte"
- RULE_GROUP_MISC:0 "Règles Diverses"
  RULE_AI_BEHAVIOR_BRK:0 "@BRK Côte Brisée"
  RULE_AI_BEHAVIOR_BRK_DEFAULT:0 "Défaut"
  RULE_AI_BEHAVIOR_BRK_DEFAULT_DESC:0 "La Côte Brisée prendra ses décisions librement ou historiquement sur la base de l’option historique IA."
@@ -205,6 +200,11 @@
  RULE_MAP_SETUP_VEGAS_STATUS_DEFAULT_DESC:0 "New Vegas possède Nellis AFB au début du jeu."
  RULE_MAP_SETUP_VEGAS_STATUS_BOOMERS:0 "@VEG/@BOO Boomers"
  RULE_MAP_SETUP_VEGAS_STATUS_BOOMERS_DESC:0 "Les Boomers coexisteront avec New Vegas au début du jeu chez Nellis AFB."
+ RULE_MAP_SETUP_VEGAS_STATUS_JACOBSTOWN:0 "@VEG/@JCT Jacobstown"
+ RULE_MAP_SETUP_VEGAS_STATUS_JACOBSTOWN_DESC:0 "Jacobstown coexistera avec New Vegas dès le début du jeu."
+ RULE_MAP_SETUP_VEGAS_STATUS_BOOMERS_AND_JACOBSTOWN:0 "@VEG/@BOO/@JCT Boomers & Jacobstown"
+ RULE_MAP_SETUP_VEGAS_STATUS_BOOMERS_AND_JACOBSTOWN_DESC:0 "Jacobstown et les Boomers coexisteront avec New Vegas dans le jeu."
+
  RULE_GAME_SETUP_CES_CAMPAIGN_BUFF_EVENT_DESC:0 "La Légion recevra l'événement en jeu pour sélectionner le bonus comme d'habitude."
  RULE_MAP_SETUP_TLALOCAN_STATUS:0 "@TLA Tlalocan"
  RULE_MAP_SETUP_TLALOCAN_STATUS_DEFAULT:0 "@TLA Défaut"
