@@ -8,5 +8,5 @@ tags={
 	"Translation"
 }
 picture="thumb.jpg"
-supported_version="1.8.*"
+supported_version="1.9.*"
 remote_file_id="1493571954"

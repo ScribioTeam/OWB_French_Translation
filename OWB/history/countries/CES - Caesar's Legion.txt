@@ -15,7 +15,6 @@ set_technology = {
 	bike_tech_1 = 1
 	demolitions_weaponry_tech = 1
 	special_forces_doctrine = 1
-
 	spec_ops_equipment_tech_1 = 1
 }
 
@@ -73,6 +72,7 @@ set_popularities = {
 set_country_flag = slavery_allowed
 set_country_flag = manpower_laws_hidden
 set_country_flag = slave_society
+set_country_flag = bans_drugs
 
 add_ideas = {
 	currencycesdenarius
