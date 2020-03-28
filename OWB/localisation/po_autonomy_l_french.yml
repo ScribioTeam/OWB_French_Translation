@@ -1,75 +1,75 @@
 ﻿l_french:
-  autonomy_convert:0 "Convert"
-  autonomy_brother_in_the_faith:0 "Brother in the Faith"
-  autonomy_child_in_the_faith:0 "Child in the Faith"
+ autonomy_convert:0 "Convertir"
+ autonomy_brother_in_the_faith:0 "Frère dans la Foi"
+ autonomy_child_in_the_faith:0 "Enfant dans la Foi"
 
   #
-  autonomy_client_tribe:0 "Client Tribe"
-  autonomy_tributary:0 "Tributary"
+ autonomy_client_tribe:0 "Tribu Cliente"
+ autonomy_tributary:0 "Tributaire"
 
   #
-  autonomy_free_state:0 "Free State"
-  autonomy_protected_state:0 "Protected State"
-  autonomy_unincorporated_territory:0 "Unincorporated Territory"
-  autonomy_incorporated_territory:0 "Incorporated Territory"
+ autonomy_free_state:0 "État libre"
+ autonomy_protected_state:0 "État protégé"
+ autonomy_unincorporated_territory:0 "Territoire non incorporé"
+ autonomy_incorporated_territory:0 "Territoire incorporé"
 
   #
-  autonomy_brotherhood_protectorate:0 "Brotherhood Protectorate"
-  autonomy_brotherhood_dependency:0 "Brotherhood Dependency"
-  autonomy_brotherhood_initiate:0 "Brotherhood Initiate"
-  autonomy_initiate_chapter:0 "Initiate Chapter"
+ autonomy_brotherhood_protectorate:0 "Protectorat de la Confrérie"
+ autonomy_brotherhood_dependency:0 "Dépendance de la Confrérie"
+ autonomy_brotherhood_initiate:0 "Initiation de la Confrérie"
+ autonomy_initiate_chapter:0 "Initié du Chapitre"
 
   #
-  autonomy_enclave_occupation:0 "Federal Occupied Territory"
-  autonomy_enclave_reservation:0 "Federal Reservation"
-  autonomy_enclave_protectorate:0 "Enclave Protectorate"
-  autonomy_enclave_state:0 "Federal State"
+ autonomy_enclave_occupation:0 "Territoire fédéral occupé"
+ autonomy_enclave_reservation:0 "Réserve fédérale"
+ autonomy_enclave_protectorate:0 "Protectorat de l'Enclave"
+ autonomy_enclave_state:0 "État fédéral"
 
   #
-  autonomy_little_city:0 "Little City"
+ autonomy_little_city:0 "Petite ville"
 
-  autonomy_courtyard_state:0 "Courtyard State"
-  autonomy_council_state:0 "Council State"
-  autonomy_vault_territory:0 "Vault Territory"
-
-  #
-  autonomy_brotherhood_slave:0 "Brotherhood Thrall"
-
-  autonomy_district:0 "District"
-  autonomy_periphery:0 "Periphery"
-  autonomy_family:0 "Family"
+ autonomy_courtyard_state:0 "Cour d'État"
+ autonomy_council_state:0 "Conseil d'État"
+ autonomy_vault_territory:0 "Territoire d'Abri"
 
   #
-  autonomy_slave_den:0 "Slave Den"
-  autonomy_slave_warren:0 "Slave Warren"
+ autonomy_brotherhood_slave:0 "Esclave de la Confrérie"
+
+ autonomy_district:0 "District"
+ autonomy_periphery:0 "Périphérie"
+ autonomy_family:0 "Famille"
+
+  #
+ autonomy_slave_den:0 "Repaire d'esclaves"
+ autonomy_slave_warren:0 "Esclave Warren"
 
   ###
-  autonomy_slave_port:0 "Slave Port"
-  autonomy_slave_raiders:0 "Slave Raiders"
-  autonomy_raider_city:0 "Raider City"
+ autonomy_slave_port:0 "Port d'esclaves"
+ autonomy_slave_raiders:0 "Pillards d'esclaves"
+ autonomy_raider_city:0 "Ville de pillards"
 
   #
-  autonomy_junior_deputy:0 "Junior Deputy"
-  autonomy_deputy:0 "Deputy"
-  autonomy_sheriff:0 "Sheriff"
+ autonomy_junior_deputy:0 "Député junior"
+ autonomy_deputy:0 "Député"
+ autonomy_sheriff:0 "Sheriff"
 
   #
-  autonomy_tlatoani:0 "Tlatoani"
-  autonomy_calpixqui:0 "Calpixqui"
-  autonomy_cuahtlatoani:0 "Cuahtlatoani"
+ autonomy_tlatoani:0 "Tlatoani"
+ autonomy_calpixqui:0 "Calpixqui"
+ autonomy_cuahtlatoani:0 "Cuahtlatoani"
 
-  autonomy_junior_executive:0 "Junior Executive"
-  autonomy_executive:0 "Executive"
-  autonomy_boardmember:0 "Board Member"
+ autonomy_junior_executive:0 "Exécutif débutant"
+ autonomy_executive:0 "Exécutif"
+ autonomy_boardmember:0 "Membre de l'exécutif"
 
-  autonomy_arm_puppet:0 "Mexican Protectorate"
+ autonomy_arm_puppet:0 "Protectorat mexicain"
 
-  autonomy_sidekick:0 "Sidekick"
+ autonomy_sidekick:0 "Acolyte"
 
-  autonomy_rio_free_state:0 "Estado Libre"
-  autonomy_rio_protected_state:0 "Estado Soberano"
-  autonomy_rio_unincorporated_territory:0 "Territorio"
-  autonomy_rio_client_state:0 "Estado Cliente"
+ autonomy_rio_free_state:0 "Estado Libre"
+ autonomy_rio_protected_state:0 "Estado Soberano"
+ autonomy_rio_unincorporated_territory:0 "Territorio"
+ autonomy_rio_client_state:0 "Estado Cliente"
 
 #  AUTONOMY_CAN_TAKE_DESC:1 "$OWNER|UH$ can become $NEXTLEVEL|H$"
 #  AUTONOMY_CANT_TAKE_DESC:1 "$OWNER|UH$ can not become $NEXTLEVEL|H$ yet"
