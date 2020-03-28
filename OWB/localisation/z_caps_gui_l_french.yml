@@ -124,7 +124,7 @@
  accept_ncrdollar:0 "Liens avec la RNC"
  accept_denarius:0 "Liens avec la Légion"
 
- ##Flavor
+  ##Flavor
  currency_get_icon_tt:0 "[GetCapCurrencyInfo]"
  currencyncrdollar_info:23 "La RNC a introduit sa propre monnaie au tournant du 23e siècle et s'est d'abord appuyée sur des pièces frappées en or. En 2241, l'économie de la RNC dominait la côte ouest et les pièces sont devenues une monnaie universelle, utilisée par les trois grandes puissances : RNC, Vault City et New Reno. À cette époque, les capsules de bouteilles étaient devenues sans valeur dans ces régions."
  currencycesdenarius_info:0 "Le Denarius (argent), qui porte l'image d'un César plus jeune à l'avers et de César, Joshua Graham et Calhoun au revers. Les inscriptions sont en latin, \"Caesaer Dictator\" signifiant \"Dictateur César\" ou \"Souverain absolu César\" au recto et \"Magnum Chasma\" signifiant \"Grand Abyssin\" ou \"Grande Fissure\" au verso, faisant référence au Grand Canyon. Le symbolisme est simple - le denier commémore le voyage du jeune César vers le Canyon et ses premières victoires en tant que dictateur des tribus."
@@ -140,7 +140,7 @@
  capdisplayusdtxt:0 "£currency_USD_text_icon"
  capdisplaycadtxt:0 "£currency_CAD_text_icon"
 
-### TUTORIAL EVENT LOC ###
+  ### TUTORIAL EVENT LOC ###
  tutorial_caps.1.t:0 "L'économie des capsules de bouteille"
  tutorial_caps.1.d:0 "Avec la mise à jour 2.1, \"Trouble in Paradise\", l'expérience de base de Old World Blues a été mise à jour pour inclure le système économique des \"Capsules\". A partir de la version 2.1, le système est encore à l'état embryonnaire, mais nous espérons qu'il deviendra un système bien ancré qui ajoute une nouvelle méthode d'interaction à l'expérience Hearts of Iron.\n\nCette série d'événements vous fera découvrir un tutoriel de base sur le système."
  tutorial_caps.1.a:0 "Je suis déjà un expert en économie !"
@@ -161,15 +161,15 @@
  tutorial_caps.4.a:0 "A suivre...."
  tutorial_caps.4.b:0 "Quitter"
 
-####BANKRUPT LOC
-####BANKRUPT LOC
+  ####BANKRUPT LOC
+  ####BANKRUPT LOC
  caps_bankruptcy_modifier:0 "En faillite !"
  bankrupt_events.1.t:0 "La frugalité nous a échappé, et c'est ce que nous récoltons."
  bankrupt_events.1.d:0 "Nos conseillers économiques nous rapportent des nouvelles extrêmement troublantes ! En raison de nos récentes dépenses, nos coffres sont vides. En effet, nos revenus actuels n'ont pas suffi à compenser nos dépenses et, par conséquent, nous avons épuisé trop rapidement nos fonds excédentaires. On peut dire sans risque de se tromper que nous souffrons actuellement d'une stabilité de [?caps_bankrupcy_deficit_stab|=%+] et d'une foule d'autres effets terribles qui sont venus avec notre horrible situation budgétaire. Il est absolument impératif que nous mettions tout en œuvre pour résoudre cette crise et remettre notre économie sur les rails ! Si nous laissons ce problème s'aggraver encore longtemps, on ne peut vraiment pas dire ce qui arrivera à chacun d'entre nous. Notre peuple pourrait même se révolter contre nous !"
  bankrupt_events.1.a:0 "[GetBankruptEventTT]"
  bankrupt_event_1_tt_1:0 "C'est très troublant."
  bankrupt_event_1_tt_2:0 "Utiliser les fonds d'urgence."
-###Bankrupt 2 - Infra
+  ###Bankrupt 2 - Infra
  bankrupt_events.2.t:0 "Ça ne peut pas être pire, n'est-ce pas ?"
  bankrupt_events.2.d:0 "La crise fiscale a finalement poussé nos populations au point de rupture. N'ayant plus rien en poche et n'ayant plus rien à perdre, notre peuple est descendu dans la rue et proteste violemment contre nous. D'importantes infrastructures ont déjà été endommagées par des émeutiers, et ces dégâts entraînent des problèmes logistiques dans la distribution d'importantes ressources sur notre territoire. La police locale et les forces de sécurité ont eu du mal à maintenir la paix, et nous avons malheureusement dû retourner le pouvoir de nos militaires contre notre peuple afin de rétablir la paix. Nous n'avons pas encore réussi à réprimer toute la résistance et nous sommes toujours en train de réparer les dégâts dans tout le pays, mais nous devons de toute urgence nous occuper de notre situation économique afin d'éviter d'autres dégâts et des effusions de sang. Si nous ne remettons pas notre pays sur les rails, la situation peut et va encore s'aggraver."
  bankrupt_events.2.a:0 "Les ouvriers du bâtiment acceptent-ils les reconnaissances de dette ?"
@@ -196,11 +196,11 @@
  bankrupt_events.7.d:0 "Nos conseillers économiques signalent que notre économie et notre situation financière se sont redressées au point que nous sommes en mesure de supprimer la réduction temporaire mais austère de la solde que nous avons imposée à nos troupes. Il est fortement suggéré que nous le fassions ; plus vite nous pourrons revenir à notre état d'avant la crise, plus vite nous pourrons avoir un retour à la normale et être en mesure de mettre ce cauchemar prolongé derrière nous."
  bankrupt_events.7.a:0 "Payez-leur, et à notre peuple, ce qui leur est dû."
 
-###Raider Decisions
+  ###Raider Decisions
  caps_raider_decision_entry_tt:0 "[This.GetName]"
- #caps_raider_decision_entry_tt:0 "You found my secret tooltip!"
+  #caps_raider_decision_entry_tt:0 "You found my secret tooltip!"
  caps_raider_events.1.t:0 "Raid de [FROM.GetName]"
-###LOC
+  ###LOC
  caps_raider_events.1.d:0 "Des pillards sont venus de [FROM.GetName] pour remplir leurs coffres ! Si nous ne leur donnons pas ce qu'ils désirent, ils vont piller notre Etat !"
  caps_raider_events.1.a:0 "Donnez-leur ce qu'ils demandent..."
  caps_raider_events.1.b:0 "Nous allons nous battre pour ce qui nous appartient !"
@@ -234,17 +234,17 @@
  raider_cap_decision_no_tt:0 "Veuillez sélectionner un État à cibler pour un raid !"
  raider_caps_decision_tt:0 "Lancer un raid depuis [?attack_state.GetName] dans [?raider_state_target.GetName], territoire de [?temp_owner.GetName]. \nLe raid sur cet État nous rapportera [?temp_caps_raided|=+].\n   Le défenseur sera autorisé à céder à nos exigences, ou nous devrons peut-être prendre ce que nous voulons."
 
-###Chem Withdrawl Information
+  ###Chem Withdrawl Information
  chem_decision_effect_tooltip:0 "\nCette décision aura pour conséquence le §YSevrage§!\n§YSevrage§! courant: [?temp_withdrawl|-]\nLorsque nous serons à court de ravitaillement, nos armées souffriront de [?temp_withdrawl|-] d'organisation pendant 40 jours\nIl y a [?temp_chance|-%] de chance que quelque chose de catastrophique arrive !\n[GetCrossData]\nPlus on se sevre, plus la catastrophe est grave."
  chem_cross_tt:0 "§RLa consommation de plusieurs drogues doublera cette chance§!"
 
-###Chem Withdrawl events
-###Factories destroyed
+  ###Chem Withdrawl events
+  ###Factories destroyed
  chem_withdrawl_effect:0 "§YSevrage§!"
  chem_event.1.t:0 "La crise psychotique"
  chem_event.1.d:0 "L'utilisation intensive de chems dans nos unités de combat a provoqué des explosions de violence, la violence généralisée semblant être commise sans égard au grade, aux relations passées ou même à la sécurité des civils. Ces crises psychotiques touchent principalement les unités de première ligne, mais elles ont également été signalées dans nos divisions de ligne arrière. Nous devons déployer immédiatement des unités non touchées pour contenir les soldats qui subissent ces accès de violence, de peur qu'ils ne provoquent encore plus de dégâts à nos infrastructures, ainsi que des meurtres insensés de civils."
  chem_event.1.a:0 "Rassembler les unités touchées, et tirer sur celles qui ne peuvent être sauvées. Nous ne pouvons pas nous permettre de perdre le contrôle"
-##Manpower loss
+  ##Manpower loss
  chem_event.2.t:0 "Désertions"
  chem_event.2.d:0 "Des rapports sont parvenus au haut commandement concernant une désertion massive commise juste sous notre nez dans une de nos bases militaires. Alors que les officiers tentaient de rétablir l'ordre et de rassembler les soldats déserteurs, la situation a rapidement dégénéré en une véritable insurrection, avec des pertes massives subies de tous côtés dans ce qui s'apparentait à un véritable bain de sang. Les déserteurs semblent avoir détruit tout le stock de chem présents dans l'armurerie dans un acte de protestation, et depuis, ils pillent la campagne pour de l'argent."
  chem_event.2.a:0 "C'est inacceptable ! Poursuivez-les et exécutez tout traînard !"
@@ -252,14 +252,14 @@
  chem_event.3.d:0 "Nos réserves de chem étant épuisées, le rationnement et la distribution de produits de remplacement ne peuvent pas faire grand-chose. Tant que nous ne pourrons pas retrouver un stock approprié pour poursuivre nos opérations, nos soldats souffriront de divers effets de retrait qui réduiront considérablement leurs capacités tactiques. Nous devrons également faire face à des comportements de dépendance tels que le vol généralisé, l'insubordination et le pillage."
  chem_event.3.a:0 "Il est temps de passer à l'action, semble-t-il. L'isolement est là pour une raison, je suppose"
 
-###Slave Ideas
+  ###Slave Ideas
  slavers_1_idea:0 "Esclaves personnels"
  slavers_2_idea:0 "Esclavage organisé"
  slavers_3_idea:0 "Grands camps d'esclaves"
  slavers_4_idea:0 "Villes d'esclaves"
  slavers_5_idea:0 "L'esclavage représente la majorité de la main-d'œuvre"
 
-###Opinion Boosts
+  ###Opinion Boosts
  gun_runner_opinion_1:0 "Ami des Gun Runners"
  gun_runner_opinion_1_tt:15 "Bonus d'opinion maximale des Gun Runners de §G+15§!\n"
  gun_runner_opinion_2:0 "Membre des Gun Runners"
@@ -281,7 +281,7 @@
  slave_runner_opinion_3:0 "Chef des Chiquita's"
  slave_runner_opinion_3_tt:30 "Bonus d'opinion maximale des Chiquita's de §G+30§!\n"
 
-###GAMERULE DATA
+  ###GAMERULE DATA
  RULE_CAPS_DEBUG_TOGGLE:0 "Générateur de données du système Capsules"
  RULE_CAPS_DEBUG_TOGGLE_ENABLED:0 "Activer l'enregistreur de données"
  RULE_CAPS_DEBUG_TOGGLE_ENABLED_DESC:0 "Enregistrer toutes les données relatives aux capsules dans le fichier game.log à des fins de suivi\nCela réduira légèrement les performances."

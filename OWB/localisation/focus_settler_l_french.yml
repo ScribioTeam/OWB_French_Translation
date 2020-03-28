@@ -58,8 +58,6 @@
 
  settler_focus_monopoly:0 "Monopole"
  settler_focus_monopoly_desc:0 "Étonnamment, quelques hommes d’affaires ont en réalité fui notre État après avoir assisté à une manifestation de militarisme et de violence à la suite de sentiments de vengeance. Les rares qui restent sont soit trop effrayés pour quitter leurs postes, soit à la recherche d'opportunités. Cela laisse assez de vide pour avoir une forme de monopole économique et, avec elle, encore plus d'usines peuvent être dédiées à la construction d'armes. Nous allons saigner les terres désolées à sec."
- settler_monopoly:0 "Monopole"
- settler_monopoly_desc:0 " "
 
  settler_traderoutes:0 "Établir des routes commerciales"
  settler_traderoutes_desc:0 "Pour accroître nos échanges commerciaux et jeter les bases de futurs efforts en la matière, nous allons consacrer du temps et des limites à l’amélioration de nos routes et de nos sentiers menant de nos villes à l’arrière. Les convois de brahmanes ainsi que les randonneurs peuvent désormais se déplacer plus facilement à l'intérieur de notre territoire et avec eux, les bénéfices suivront."
@@ -180,9 +178,6 @@
 
  settler_focus_robco:0 "Équipement RobCo récupéré"
  settler_focus_robco_desc:0 "Une entreprise d'avant-guerre connue sous le nom de \"Rob-Co\" opérait dans le domaine de la robotique personnelle et militaire avant la chute de la bombe. Le nettoyage de leurs centres régionaux et de leurs usines de fabrication devrait nous donner un aperçu de leur philosophie de conception et améliorer simultanément nos propres unités mécaniques grâce à des conceptions rationalisées."
- 
- settler_robco:0 "Équipement RobCo récupéré"
- settler_robco_desc:0 " "
 
  settler_vehicles:0 "Véhicules de transport"
  settler_vehicles_desc:0 "Plusieurs véhicules de transport personnel sont utilisés dans toutes nos villes et il serait dommage de ne pas les utiliser. Une demande générale de propositions de conception et d’études mécaniques de ces machines donnera des idées à nos propres ingénieurs, permettant éventuellement d’améliorer la conception motorisée de nos troupes."

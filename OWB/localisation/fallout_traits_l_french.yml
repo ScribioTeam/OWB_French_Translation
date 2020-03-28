@@ -56,6 +56,7 @@
  mad_ai:0 "IA folle"
  ineffective:0 "Inefficace"
  god_from_the_machine:0 "Dieu de la Machine"
+  # ITZ
  critically_ill:0 "Gravement malade"
  critically_ill_desc:0 "Le Kalomte a été blessé par balle et gravement blessé alors qu'il inspectait ses troupes sur la côte d'acier. Il est maintenant plongé dans le coma dans son palais. Sans successeur clair, le gouvernement est dans le chaos et le pays en train de s'effondrer."
  cult_of_personality:0 "Culte de la personnalité"
@@ -72,12 +73,14 @@
  gulf_patroller:0 "Patrouilleur du Golfe"
  decisive_battle_expert:0 "Expert de bataille décisif"
  righteous_duelist:0 "Duelliste vertueux"
+  ### RRG
  caesar_redeemed:0 "Un homme honnête"
  minor_baron:0 "Un baron mineur"
  baroness:0 "La baronne du commerce"
  contingency_minister:0 "Héros réel de cette histoire"
  xiuhcoatl_manufacturer1:0 "Patrimoine mexicain"
  high_noon_manufacturer:0 "Héritage texan"
+  #### TLA
  organisation_subroutine_trait:0 "Focus organisationnel"
  robotic_subroutine_trait:0 "Focus robotique"
  organic_subroutine_trait:0 "Focus organique"
@@ -85,7 +88,10 @@
  aggressive_subroutine_trait:0 "Focus agressif"
  aerodynamic_subroutine_trait:0 "Focus aérien"
  experimental_subroutine_trait:0 "Focus de recherche"
+  # UTO
  crazy_crazy_crazy:0 "Fou fou fou"
+
+  #VLT
  model_citizen:0 "Citoyen modèle"
  masterful_engineer:0 "Ingénieur de génie"
  scientific_devotee:0 "Dévoué à la science"

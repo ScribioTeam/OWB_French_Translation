@@ -1,5 +1,7 @@
 ﻿l_french:
-
+#----------------------------
+# Headers
+#----------------------------
   HEADER_PROPULSION:0 "Propulsion"
   HEADER_SHIP_LIGHT_HULL:0 "Navires légers"
   HEADER_SHIP_MEDIUM_HULL:0 "Navires moyens"
@@ -24,6 +26,7 @@
   outrigger_tech_desc:0 "La plupart de nos navires peuvent être équipés de structures de stabilisation des longerons afin d'améliorer les capacités de navigation par mauvais temps et de réduire le recul lors d'un incendie de large bord, ce qui devrait accroître la résilience générale de nos navires et réduire les risques de chavirement."
   proper_rigging_tech:0 "Voiles de gréement carrées"
   proper_rigging_tech_desc:0 "La modification de nos embarcations pour utiliser une voile carrée, dont l'efficacité aérodynamique a été démontrée, devrait améliorer notre mobilité stratégique. Au lieu d'un seul tissu, il en utilise plusieurs petits sur un seul mât, ce qui réduit l'équipage nécessaire pour les plier ou les déplier. Ils sont également plus résistants aux avaries, puisqu'une seule petite voile perdue n'a pratiquement pas d'impact sur la vitesse de pointe qui a été augmentée."
+ metal_bows_tech_desc:0 "Impact analysis run on our vessels have allowed us to identify their most commonly targeted areas during battle. This obviously include the broadside, but the bow is also a target, as our ship manoeuvre around the battlefield. Reinforcement to it should help our crafts withstand more damage without losing the ability to fight."
   naval_manuals_tech:0 "Manuels navals"
   naval_manuals_tech_desc:0 "Des manuels d'utilisation détaillés, qui ne font pas 500 pages cette fois-ci, devraient aider notre équipe à identifier rapidement les problèmes et à les résoudre de la manière la plus appropriée. Et bien que nous apprécions le sens de l'humour de son auteur, nous ne devrions peut-être pas laisser l'impression finale mentionner la réponse à une brèche critique dans la coque /\"Blame the Enclave/\""
   naval_armor_reinforcement_tech:0 "Renforcement de l'armure"

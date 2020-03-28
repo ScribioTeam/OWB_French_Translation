@@ -1,14 +1,14 @@
 ﻿l_french:
+ # decisions
  ncn_conversion:0 "Missions de conversion"
  ncn_conversion_desc:0 "Les gens autour de nous ne sont pas éclairés aux yeux du seigneur. Nous devons envoyer nos missionnaires pour convertir ces pécheurs là où ils vivent, et lentement notre influence et l'influence du seigneur se répandront."
- ncn_slow_conversion:0 "Mission de conversion vers [From.GetNameDef]"
  convert_CLK:0 "Convertir [CLK.GetNameWithFlag]"
  convert_TAR:0 "Convertir [TAR.GetNameWithFlag]"
  convert_CRZ:0 "Convertir [CRZ.GetNameWithFlag]"
  convert_ANO:0 "Convertir [ANO.GetNameWithFlag]"
  convert_LON:0 "Convertir [LON.GetNameWithFlag]"
  convert_UIN:0 "Convertir [UIN.GetNameWithFlag]"
- ncn_bind_to_us:0 "Liez-nous [From.GetNameDef] à nous!"
+  # Outcasts and Misfits
  ncn_outcasts_and_misfits:0 "Les exclus et les inadaptés"
  ncn_outcasts_and_misfits_desc:0 ""
  farfield_revolt_mission:0 "Révoltes de Farfield !"
@@ -35,7 +35,7 @@
  brigham_build_up_industry_desc:0 "Une bonne façon de montrer notre puissance militaire et de s'assurer de la loyauté de Brigham serait de construire un nouvel atelier militaire à Brigham. Qu'on leur rappelle notre puissance !"
  brigham_conduct_training_exercises:0 "Mener des exercices d'entraînement militaire"
  brigham_conduct_training_exercises_desc:0 "Si nous devions entraîner certaines de nos milices tribales dans nos régions frontalières du nord, nous pourrions sûrement montrer à quel point notre armée est bien entraînée et équipée."
- ncn_bind_to_us_desc:0 "Nos missions de conversion ont fait leur travail, et maintenant, tout [From.GetNameDef] a été converti en adoration de Dieu tout-puissant. Il est temps de les rapprocher de nous et de nous rejoindre."
+  # Corruption
  ncn_corrupt_our_neighbors:0 "Convertir nos voisins ... par profit !"
  ncn_corrupt_our_neighbors_desc:0 "Bien que nous voulions évidemment sauver les âmes des autres habitants de l'Utah, ils n'ouvriront leur cœur que s'ils ouvrent leur portefeuille pour notre plus grand bien. La foi peut aller de pair avec la vente des meilleurs pots et casseroles de New Canaan."
  corrupt_south:0 "Corrompre [FROM.GetNameWithFlag]"
@@ -57,6 +57,15 @@
  ncn_conversion_daniel_sack_of_new_canaan_desc:0 "La persécution n'a pas arrêté le progrès de la vérité, mais n'a fait qu'ajouter de l'huile sur le feu. Elle s'est propagée avec une rapidité croissante. Fiers de la cause qu'ils ont épousée et conscients de notre innocence et de la vérité de leur système, au milieu des calomnies et des reproches, les anciens de cette Église sont allés prêcher l'Évangile."
  convert_tribes_daniel_sack_1:0 "Convertir [From.GetName]"
  convert_tribes_daniel_sack_ally:0 "Bienvenue [From.GetName] dans la foi."
+
+
+
+
+ ncn_bind_to_us:0 "Liez-nous [From.GetNameDef] à nous!"
+ ncn_bind_to_us_desc:0 "Nos missions de conversion ont fait leur travail, et maintenant, tout [From.GetNameDef] a été converti en adoration de Dieu tout-puissant. Il est temps de les rapprocher de nous et de nous rejoindre."
+
+
+ # tooltips
  ncn_eligible_tt:0 "Ils possèdent un État adjacent à un autre État que nous possédons ou à un État converti par nous"
  ncn_converted_state_tt:0 "L'état sera converti"
  ncn_converted_all_tt:0 "Chaque état qu'ils possèdent a été converti par nous"

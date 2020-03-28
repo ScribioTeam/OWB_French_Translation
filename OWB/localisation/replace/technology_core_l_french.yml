@@ -21,8 +21,8 @@
  fallout_air_doctrine_folder:0 "Doctrines Spécialisées"
  fallout_air_doctrine_folder_desc:0 ""
 
- # fallout_air_doctrine_folder:0 "Air Doctrine"
- # fallout_air_doctrine_folder_desc:0 "Although producing new aircraft is highly unlikely for all but the most advanced of factions, researching methods to repair the exponentially more complicated aircraft which remain in the wasteland can provide a way to enhance and assist our combat forces on the ground."
+  # fallout_air_doctrine_folder:0 "Air Doctrine"
+  # fallout_air_doctrine_folder_desc:0 "Although producing new aircraft is highly unlikely for all but the most advanced of factions, researching methods to repair the exponentially more complicated aircraft which remain in the wasteland can provide a way to enhance and assist our combat forces on the ground."
 
  fallout_air_folder:0 "Air"
  fallout_air_folder_desc:0 ""
@@ -126,7 +126,7 @@
  naval_carrier_hull_tech_category:0 "Technologie de Coque de Porte-Avions"
  naval_invasion_tech_category:0 "Technologie d'Invasion navale"
 
- # naval module
+  # naval module
  naval_armour_module_tech_category:0 "Technologie de Module de Blindage"
  naval_module_tech_category:0 "Technologie de Module Naval"
  naval_engine_module_tech_category:0 "Technologie de Module de Moteur"
@@ -150,7 +150,7 @@
  # air doctrines
  cat_air_doctrine:0 "Doctrine Aérienne"
 
- # robotics
+  # robotics
  robotics_tech_category:0 "Robotique"
  support_robot_tech_category:0 "Robot de Soutien"
  combat_robot_tech_category:0 "Robot de Combat"

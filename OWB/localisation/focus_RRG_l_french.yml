@@ -1,4 +1,5 @@
 ﻿l_french:
+ # Focuses
  rrg_american_intervention:0 "Intervention américaine"
  rrg_american_intervention_desc:0 "La République est née de l'occupation américaine, mais les gens des deux côtés ont essayé de revenir en arrière."
  rrg_el_apocalipsis:0 "El Apocalipsis"
@@ -122,6 +123,7 @@
  rrg_best_of_best_desc:0 "Nous sommes les rares, les fiers, les Fuerzas Especiales."
  rrg_chico_stash_elite:7 "Cachette Chico-Net #7a329"
  rrg_chico_stash_elite_desc:0 "Certains documents dans ce bunker suggèrent que ces armes étaient destinées à une sorte d'enclave de l'armée américaine d'avant-guerre pour reconstruire après la guerre. Ces types ne sont pas là pour s'en servir."
+ # Tooltips
  rrg_unlock_carlos_avila:0 "Le ministre §HCarlos Avila§! devient disponible pour le service."
  rrg_unlock_pablo_reyna:0 "Le ministre §HPablo Reyna§! devient disponible pour le service."
  rrg_unlock_esteban_lugo:0 "Le ministre §HEsteban Lugo§! devient disponible pour le service."
@@ -131,6 +133,10 @@
  rrg_arm_militia:0 "Déverrouille la capacité d'armer la milice à la frontière."
  rrg_raise_TAA_militias:0 "Déverrouille la capacité de lever des milices dans le TAA pour combattre pour la République !"
  rrg_unlock_rio_chapter:0 "Le chapitre de Rio de la Confrérie de l'Acier se battra pour vous."
+
+ ############################
+ ## Early Games
+ #################
  rrg_legion_shame:0 "La Honte de la Légion"
  rrg_legion_shame_desc:0 "Paullus a été abandonné par César pour son échec sur le Rio Grande, mais il continue de faire des raids dans les villages éloignés avec des tribus fanatiques et des pillards. Il faut qu'on arrête ça."
  rrg_paullus_directive:0 "Traquer Paullus"
@@ -203,6 +209,9 @@
  rrg_declaration_authority_desc:0 "Bonne nouvelle, tout le monde ! Mora a l'intention de vous libérer du joug Aztlán et de l'esclavage de Santa Anna."
  rrg_declaration_intent:0 "Déclaration d'intention"
  rrg_declaration_intent_desc:0 "La constitution mexicaine d'avant-guerre promettait aux Mexicains un niveau de vie de base, l'absence d'oppression, le droit à l'éducation, le droit à la sécurité et le droit à un environnement propre. Ces rêves sont morts depuis la Grande Guerre, mais Mora peut promettre de les ramener. Si, Se Puede !"
+ ############################
+ ## Mora
+ #################
  rrg_davinci_of_war:0 "Le Da Vinci de la guerre"
  rrg_davinci_of_war_desc:0 "Mora était l'un des plus grands héros de Rio, un vainqueur dans d'innombrables batailles. Mais la guerre n'était qu'un outil pour poursuivre son véritable but...."
  rrg_mora_amigos:0 "Caballeros de Mora"
@@ -348,6 +357,9 @@
  rrg_mexican_unity:0 "Siempre Unidos"
  rrg_mexican_unity_desc:0 "Du Yucatan à Baja, de l'Apacapulco à Reynosa, le Mexique est un. Mexique :  Toujours uni, toujours libre !"
  mexican_unity_tt:0 "\n\nDéverrouille les décisions pour restaurer la gloire du §GMexique§! d'autrefois."
+ ############################
+ ## Flags
+ #################
  rrg_arm_militias:0 "Les Minutos gardent la frontière !"
  rrg_end_paullus:0 "Un cadeau pour César"
  rrg_end_paullus_desc:0 "Los Minutos traqueront Paullus. Renvoyons-le à César dans un sac mortuaire."
@@ -357,8 +369,16 @@
  key_3:0 "Muerte"
  key_4:0 "Hambruna"
  friend_mexico:0 "Ami du Mexique"
+
+ ###
+ ### OOB
+ ###
  flota_mercantile:0 "La Flota Mercantile"
  ocelomeh:0 "El Ocēlōmeh"
+
+ ############################
+ ## Rosado
+ #################
  rrg_rose_of_mexico:0 "La Rose du Mexique"
  rrg_rose_of_mexico_desc:0 "Rosado voulait construire le Rio de l'avenir et en faire le cœur battant de l'Amérique du Nord. Rosado croyait que Rio pouvait être l'allié de Tlaloc dans le Nord, protégeant le Mexique des menaces étrangères et nationales."
  rrg_brotherhood_influence:0 "Influence de la Confrérie"
@@ -462,6 +482,9 @@
  rrg_servant_underworld_desc:0 "En coupant Moctezuma de ses réseaux, Rosado a pu le piéger dans une simulation du monde souterrain aztèque, où tous les goûts de cendre et s'estompe. Rosado peut lui offrir une issue, à condition qu'il la serve sous son apparence de Mictecacíhuatl, la reine des morts."
  rrg_tlaloc_broken_heart:0 "Le cœur battant de Tlaloc"
  rrg_tlaloc_broken_heart_desc:0 "Tlaloc est profondément enfoui sous terre, brisé, les portes de son substrat neutre brisé sont protégées par des clés éparpillées à travers le Mexique. Personne n'en a eu depuis la Grande Guerre. Jusqu'à maintenant."
+ #################
+ #### Guerra
+ #################
  rrg_dantes_inferno:0 "L'Enfer de Dante"
  rrg_dantes_inferno_desc:0 "La Légion a poussé Guerra dans un enfer personnel, alors qu'il imagine sa femme morte dans une fosse à esclaves de la Légion. Maintenant, il va montrer à la Légion le sens de la souffrance."
  rrg_vindicta:0 "Vindicta !"
@@ -477,6 +500,7 @@
  rrg_railway_north_desc:0 "Guerra ne conduira jamais jusqu'à Flagstaff à moins que Rio puisse ravitailler les troupes sur le front. Il est temps que les aciéries de Rio construisent un nouveau chemin de fer."
  rrg_mexican_trade_alliance:0 "L'Alliance commerciale mexicaine"
  rrg_mexican_trade_alliance_desc:0 "Guerra peut rallier les marchands du Mexique pour repousser l'agression de la Légion et pour subventionner les efforts de Rio pour protéger le pays de l'armée des esclavagistes."
+
  rrg_guerra_luchador_friend:0 "Le plus beau visage du Mexique"
  rrg_guerra_luchador_friend_desc:0 "Les [FFI.GetNameWithFlag] défendront la vérité, la justice et la manière mexicaine. C'est l'heure de donner un coup de pied aux hommes de César."
  rrg_guerra_luchador_enemy:0 "Le plus grand talon du Mexique"
@@ -571,11 +595,17 @@
  rrg_dante_geck:0 "Le Paradis de Dante"
  rrg_dante_geck_desc:0 "Maintenant, nous pouvons utiliser un G.E.C.K. pour améliorer la nation."
  rrg_dante_geck_tt:0 "Débloque la possibilité d'utiliser un §MG.E.C.K.§! pour améliorer Rio."
+ ################
+ ## Flags
+ ################
  uses_drugs:0 "Soutient les cartels"
  guerra_merciless:0 "Guerra est §RImpitoyable§!"
  guerra_charismatic:0 "Guerra est §MCharismatique§ !"
+ ### Reesarch Pact###
  rio_research_pact:0 "El Instituto Politécnico Mexicano"
  rio_research_pact_desc:0 "El Instituto Politécnico Mexicano est conçu pour diffuser l'apprentissage et la technologie à tous les citoyens du Mexique."
+
+ #### Discarded##
  rrg_approach_pecos:0 "Approche Pecos"
  rrg_approach_pecos_desc:0 "Pecos a depuis longtemps des liens avec Rio, et avec la menace de la Légion, ils pourraient être ouverts à une alliance plus étroite."
  rrg_legion_ate_pecos:0 "Caesare Pecom"

@@ -13,10 +13,14 @@
  string_fallout_coring_tab_desc:0 "Voir les états qui ne sont pas vos états coeur et les rendre coeur, si possible."
  string_fallout_tlaloc_coring_tab_title:0 "Restaurer le réseau électrique"
  string_fallout_tlaloc_coring_tab_desc:0 "Voir les états qui ne sont pas connectés à Chico-Net et les connecter, si possible."
+  
  string_fallout_tab_button_tt_2:0 "§YEconomie§! \n- Trouvez des détails sur la situation économique de votre pays et dépensez vos trésors."
+  
  string_fallout_tab_button_tt_3:0 "§YGestionnaire de sujets§! \nVoir les détails sur tous vos sujets, y compris leur pouvoir politique actuel, leur main-d'œuvre et la situation de la loi sur la conscription."
+  
  string_fallout_tab_button_tt_4:0 "§Y[This.GetSenateTabTitle]§! \n[This.GetSenateTabDesc]"
  string_fallout_default_senate_tab_title:0 "Parlement"
  string_fallout_default_senate_tab_desc:0 "Voir votre parlement et les interactions possibles avec lui."
  string_fallout_rrg_senate_tab_title:0 "Sénat [RRG.GetAdjective]"
  string_fallout_rrg_senate_tab_desc:0 "Voir le Sénat [RRG.GetAdjective] et donc les opinions de tous les sénateurs et députés des candidats aux élections ou les lois."
+  

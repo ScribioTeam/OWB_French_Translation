@@ -1,57 +1,10 @@
 ﻿l_french:
- TRIBAL_HEADER:0 "Tribal"
- CIVILIZED_HEADER:0 "Civilisé"
- ADVANCED_HEADER:0 "Avancé"
- SPECIAL_HEADER:0 "Unique"
- HEADER_REQUISITES:0 "Prérequis"
- HEADER_INFANTRY_TRAINING:0 "Entraînement d'infanterie"
- HEADER_ARMOUR:0 "Armure"
- HEADER_COMBAT_SUPPLIES:0 "Matériel de combat"
- HEADER_BALLISTIC_EQUIPMENT:0 "Équipement balistique"
- HEADER_ENERGY_EQUIPMENT:0 "Équipement énergétique"
- HEADER_MELEE_WEAPONS:0 "Armes de corps à corps"
- HEADER_POWER_ARMOUR:0 "Armure assistée"
- HEADER_SPECIAL_FORCES:0 "Forces spéciales"
- HEADER_SUPPORT_COMPANIES:0 "Soutien"
- HEADER_SUPPORT_EQUIPMENT:0 "Équipement de soutien"
- HEADER_DOGS:0 "Chien de soutien"
- HEADER_CHEM_STUDIES:0 "Études de chimie"
- HEADER_MOTORIZATION:0 "Motorisation"
- HEADER_MECHANISATION:0 "Mécanisation"
- HEADER_TANKS:0 "Chars"
- HEADER_UPGRADES:0 "Mises à niveau"
- HEADER_PROTECTRON:0 "Protectron"
- HEADER_MISTER_HANDY:0 "Monsieur Handy"
- HEADER_MISTER_GUTSY:0 "Monsieur Gutsy"
- HEADER_ROBOBRAIN:0 "Robo-cerveau"
- HEADER_SENTRY_BOT:0 "Sentry Bot"
- HEADER_FIGHTER:0 "Chasseurs"
- HEADER_BOMBER:0 "Bombardiers"
- HEADER_AIR_SUPPORT:0 "Appui aérien"
- HEADER_TRANSPORT:0 "Transports"
- HEADER_BATTLESHIPS:0 "Cuirassés"
- HEADER_DESTROYERS:0 "Corsaires"
- HEADER_CRUISER:0 "Corsaires lourds"
- HEADER_BATTLESHIP:0 "Navires super-lourds"
- HEADER_HEAVY_CRUISER:0 "Navires"
- HEADER_CARRIER:0 "Porte-hydravion"
- HEADER_NAVAL_INVASION:0 "Invasion navale"
- HEADER_FARMING:0 "Agriculture"
- HEADER_PRODUCTION:0 "Fabrication"
- HEADER_ORGANISATION:0 "Organisation"
- HEADER_EXTRACTION:0 "Extraction"
- HEADER_CONSTRUCTION:0 "Construction"
- HEADER_HABITATION:0 "Habitation"
- HEADER_FORTIFICATION:0 "Fortification"
- HEADER_WATER:0 "Eau"
- HEADER_ELECTRICITY:0 "Électricité"
- HEADER_METAL:0 "Métal"
- HEADER_FUEL:0 "Carburant"
- HEADER_ELECTRONICS:0 "Électronique"
- HEADER_FOOD:0 "Nourriture"
- HEADER_ADVANCED_TECHNOLOGY:0 "Technologie avancée"
- HEADER_RHETORIC:0 "Rhétorique"
+
+ # ideas
  available_army_chief:0 "Disponible en tant que §YChef d'armée§! : \n"
+ #-------------------------------------
+ # National Focuses
+ #-------------------------------------
  legion_must_own_hangdog_territory:0 "Vous devez posséder des états appartenant aux §YHangdogs§! pour obtenir un effet."
  legion_must_own_twin_mothers_territory:0 "Vous devez posséder des états appartenant aux §YTwin Mothers§! pour obtenir un effet."
  legion_must_own_two_sun_territory:0 "Vous devez posséder des états appartenant aux §YTwo Sun§! pour obtenir un effet."
@@ -61,24 +14,37 @@
  legion_must_own_arizona_territory:0 "Vous devez posséder des états dans l'§YArizona§! pour obtenir un effet."
  legion_must_own_new_mexico_territory:0 "Vous devez posséder des états dans §YNew Mexico§! pour obtenir un effet."
  legion_must_own_colorado_territory:0 "Vous devez posséder des états dans le §YColorado§! pour obtenir un effet."
+
  legion_mongrels_tt:0 "3 §YUnités Legion Wardog§! apparaissent.\n"
  cult_of_nas_tt:0 "2 §YUnités motorisées§! apparaissent.\n"
  demon_servants_tt:0 "2 §YInfantries Spec Ops§! apparaissent\n"
  steelbreakers_tt:0 "Débloque §YSteelbreakers§!.\n"
+
  legion_siege_battalion_tt:2 "Fait apparaître 2 §Ydivisions de siège§! avec §Y1§! compagnie explosive."
  legion_recon_battalion_tt:3 "3 §YDivisions Frumentarii§! apparaissent avec une compagnie de reconnaissance."
  legion_chariots_tt:2 "2 divisions de §YChariots de la Légion§! apparaissent."
+
  legion_unlock_shottol_god_of_dogs_tt:0 "Débloque §YShottol, Dieu des Chiens§!: améliore §YCompagnie de Chiens§! : §G+10%§! Attaque légère"
+
  legion_unlock_goddess_diana_tt:0 "Débloque §YDéesse Diana§!: Améliore §G+10%§! Taux de renforcement."
+
  legion_unlock_caesar_the_godslayer_tt:0 "Débloque §YCésar le tueur de Dieu§! : Améliore §G+5%§! Taux de renforcement."
+
  legion_unlock_cult_of_nas_tt:0 "Débloque §YCulte de Nas§! : Améliore §YVéhicules§! : §G+5%§! Attaque légère et §G+10%§! Percée."
+
  legion_unlock_cult_of_nas_minor_tt:0 "Débloque §YCulte de Nas§! : Améliore §YVehicules§! : §G+5%§! Percée."
+
  legion_unlock_wyatt_the_demon_tt:0 "Débloque §YWyatt le Démon§! : Améliore §G+10%§! Vitesse des Divisions."
+
  legion_unlock_legion_outlaws_tt:0 "Débloque §YHors la loi de la Légion§! : Améliore §G+5%§! Vitesse des Divisions."
+
  zetan_landing_tt:0 "Le robot militaire Zetan débarque.\n"
+
  bosgetvertibirds_tt:0 "La Confrérie reçoit §Y30§! Vertibirds. La RNC en reçoit §G10§!."
  allgetvertibirds_tt:0 "La Confrérie reçoit §Y20§! Vertibirds. La RNC en reçoit §G20§!."
  ncrgetvertibirds_tt:0 "La Confrérie reçoit §Y10§! Vertibirds. La RNC en reçoit §G30§!."
+
+ # Flags
  refused_petition:0 "Pétition refusée"
  accepted_petition:0 "Pétition Acceptée"
  hoover_dam_lost:0 "Hoover Dam Perdu"
@@ -92,14 +58,17 @@
  no_generic_manufacturer:0 "Ne permet pas les fabricants génériques"
  no_generic_advisor:0 "N'autorise pas de conseillers génériques"
  stole_cores:0 "Gains territoriaux légitimes volés"
+
+ #idea tooltips
  killed_off:0 "N'a pas été tué"
  enclave_return:0 "Dornan est de retour"
+ #event OOB tooltips
  vallebandits_tt:0 "Trois forces de la milice se rassemblent pour nous !"
  pazbandits_tt:0 "Trois forces de la milice se rassemblent pour nous !"
-  
+
   #Fuck he's here everybody get down
   riseofclaus:0 "§RLe Sénateur va évoluer vers sa forme la plus puissante à ce jour et gagner des cœurs sur son nouveau domaine.§!"
   thelist1:0 "§G Le Sénateur Noël va vérifier sa liste deux fois, et obtenir un but de guerre sur toutes les vilaines nations des Terres Désolées.§!"
   thelist2:0 "§R Vous êtes TOUS sur la liste.§!"
-  
+
   slavery_now_allowed_tt: "Des §Rlois supplémentaires sur l'esclavage§! sont maintenant disponibles pour [This.GetNameDef]."

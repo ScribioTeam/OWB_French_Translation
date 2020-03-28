@@ -1,9 +1,8 @@
 ﻿l_french:
-
  # All localisation done by Zapdude.
- # Traduite en français par l'équipe Scribio
-
+ #----------------------------
  # Labels/headers Doctrine
+ #----------------------------
  AUTOMATED_WARFARE_DOCTRINE_LABEL:0 "Guerre automotisée"
  AUTOMATED_WARFARE_DOCTRINE_DESC:0 "L'espèce humaine a abandonné le vieux monde, pas ses créations. Les robots se battent mieux, plus rapidement et plus longtemps que de simples soldats. Mieux encore, les robots n'ont pas de conscience."
  ELITE_ARMY_DOCTRINE_LABEL:0 "Guerre rafinée"
@@ -20,8 +19,10 @@
  AIR_DOCTRINE_DESC:0 "Ils avaient l'habitude de dire que le ciel était la limite : mais avec des moteurs nucléaires modifiés et des avions en ferraille, nous leur prouverons que le ciel n'est que le début."
  HEADER_NAVY_DOCTRINE:0 "Tactiques navales"
  NAVY_DOCTRINE_DESC:0 "Le plus grand empire de l'histoire, dont la superficie dépassait presque celle de la surface de la lune, ne contrôlait pas que ses sujets : ils gouvernaient les vagues."
- 
+
+ #----------------------------
  # sublabels/subheaders Doctrine
+ #----------------------------
  AUTOMATED_WARFARE_LABEL:0 "Quantité"
  AUTOMATED_WARFARE_LABEL_TT:0 "La qualité et la capacité de combat sont au second plan après la supériorité numérique - des assauts massifs de robot sont préférables."
  AUTOMATED_WARFARE_LABEL_1:0 "Qualité"
@@ -47,7 +48,9 @@
  TERROR_TACTICS_LABEL_1:0 "Tactiques des Terres Désolées"
  TERROR_TACTICS_LABEL_1_TT:0 "Nous pouvons apprendre des créatures mortelles des Terres Désolées. Leur férocité et leurs tactiques sauvages feront de nous des adversaires vraiment terrifiants."
 
+ #----------------------------
  # Localisation Tech Doctrine Automated Warfare
+ #----------------------------
  automated_warfare:0 "Guerre automatisée"
  automated_warfare_desc:0 "La guerre automatisée se concentre sur l'envoi de machines, et non d'hommes, sur l'ennemi. Les hommes sont fragiles, les robots ne le sont pas.\n\n"
  combat_protocols:0 "Logiciel de ciblage humain"
@@ -80,8 +83,10 @@
  networked_ai_desc:0 "L'intelligence simple est facile à programmer, mais l'intelligence artificielle entièrement autonome en est une autre. Nous pouvons donner à tous nos robots une mise à jour de l'IA, ce qui les rend plus intelligents, plus autonomes et leur donne même de vraies personnalités. Au fil du temps, ces personnalités peuvent diverger, mais leur réseau de ruche devrait empêcher les unités rebelles.\n\n"
  internal_replicators:0 "Réplicateurs internes"
  internal_replicators_desc:0 "En construisant à partir de nos unités de construction standardisées et autonomes, nous pouvons donner à nos robots la capacité d'effectuer des autoréparations en interne. Cette technologie incroyablement avancée leur permet de devenir plus résistantes et de moins dépendre des chaînes d'approvisionnement.\n\n"
- 
+
+ #----------------------------
  # Localisation Tech Doctrine Elite Forces
+ #----------------------------
  elite_army:0 "Guerre raffinée"
  elite_army_desc:0 "Des effectifs limitée et des coûts d'équipement coûteux nécessitent une action prudente. Savoir quels hommes utiliser, quand les utiliser et comment se retirer efficacement de la bataille est la clé de notre succès en temps de guerre.\n\n"
  concentration_of_force:0 "Concentration des forces"
@@ -114,8 +119,10 @@
  combined_arms_doctrine_desc:0 "L'Armure Assistée en soi n'est pas la panacée du combat terrestre. En fait, en soi, l'Armure Assistée peut s'avérer vulnérable. Afin de contrer ces problèmes, nous devrions combiner plus étroitement les Armures Assistées et l'infanterie, en créant des escadrons mixtes qui utilisent au mieux les deux forces.\n\n"
  brigades_of_steel:0 "Champions de la vertu"
  brigades_of_steel_desc:0 "L'Armure Assistée est plus qu'une simple pièce d'équipement, c'est un symbole. Pour nos hommes sur le terrain, servir aux côtés de ceux qui sont en Armure Assistée est une source de grand confort. Ils savent que ces hommes et ces femmes vont se battre contre vents et marées pour s'assurer que leurs homologues de l'infanterie peuvent battre en retraite en toute sécurité.\n\n"
- 
+
+ #----------------------------
  # Localisation Tech Doctrine Grand Army
+ #----------------------------
  grand_army:0 "Guerre conventionelle"
  grand_army_desc:0 "Nous nous battons pour ne pas décimer une population ou pour attaquer notre ennemi parce qu'il est différent de nous - nous nous battons pour survivre. La guerre n'est pas un mode de vie, c'est une conséquence de la vie, et nous visons à rendre le conflit aussi bref que possible.\n\n"
  grand_battle_plan_owb:0 "Plans de bataille"
@@ -148,8 +155,10 @@
  mass_conscription_desc:0 "Les campagnes peuvent durer des semaines ou des années, et au fil du temps, les pertes commencent à s'accumuler. L'établissement d'une projet civile nous donnerait un bassin de recrutement beaucoup plus vaste avec lequel travailler, mais cela se ferait au détriment de l'efficacité de l'unité.\n\n"
  ranger_infiltration:0 "Tactiques d'infiltration"
  ranger_infiltration_desc:0 "L'infiltration des zones contrôlées par l'ennemi nous permettra de recueillir des informations sur les positions ennemies et les lignes de ravitaillement. Nous pouvons utiliser ces informations, ainsi que la présence d'alliés en territoire ennemi, pour attaquer avec plus d'effet.\n\n"
- 
+
+ #----------------------------
  # Localisation Tech Doctrine Terror Tactics
+ #----------------------------
  terror_tactics:0 "Guerre asymétrique"
  terror_tactics_desc:0 "Pour gagner, nous devons être imprévisibles. Nos hommes sont nombreux a contrario de notre industrie, mais cela ne nous gêne pas. Si nous voulons dominer les Terres Désolées, nous devons mettre la technologie derrière nous. Les lasers ne gagneront pas le jour : notre nombre le fera.\n\n"
  pocket_defence_doctrine:0 "Recherche de nourriture"
@@ -170,7 +179,7 @@
  divide_et_vincet_desc:0 "Les Légions romaines construisirent leurs propres fortifications en mouvement. Leurs camps étaient plus proches de colonies permanentes, avec des murs, des tranchées, des tours de guet, etc. En adoptant ces méthodes, nos armées seront beaucoup plus difficiles à retirer du territoire occupé.\n\n"
  summa_bellum:0 "La Légion"
  summa_bellum_desc:0 "La Légion romaine était le sommet de la tactique militaire dans l'Antiquité. Les légionnaires étaient capables de réorganiser leur formation à l'improviste, leurs commandants criant des ordres au milieu de la bataille, leur donnant l'ordre de devenir l'une des nombreuses formations. Nous deviendrons une véritable Légion : et personne ne pourra nous arrêter.\n\n"
- 
+
  tribal_wisdom_doctrine:0 "Connaissance des Terres Désolées"
  tribal_wisdom_doctrine_desc:0 "Grandir sous le soleil impitoyable de la terre meurtrie rend nos soldats plus conscients de leur environnement. La capacité de reconnaître un endroit sûr pour se reposer, de savoir quels chemins prendre et de pouvoir traverser les déchets à grande vitesse : nous possédons toutes ces qualités.\n\n"
  the_dog_barks:0 "Intuition des Terres Désolées"
@@ -186,7 +195,9 @@
  the_deathclaws_might:0"Férocité de l'écorcheur"
  the_deathclaws_might_desc:0"Craint dans tout le continent pour sa capacité à assassiner quoi que ce soit en quelques secondes, le majestueux écorcheur est le prédateur par excellence des Terres Désolées. D'où viennent-ils ? Personne ne le sait, mais partout où les écorcheurs vont, la mort suit. Nous devons devenir comme eux, une puissance terrifiante que tous les hommes vivants craignent.\n\n"
 
+ #----------------------------
  # Localisation Tech Doctrine Outsider Warfare
+ #----------------------------
  outsider_warfare:0 "Guerre marginale"
  outsider_warfare_desc:0 ""
  we_are_different:0 "Nous sommes Différent"
@@ -219,8 +230,10 @@
  mixed_army_desc:0 ""
  master_race:0 "Nous sommes les Maîtres"
  master_race_desc:0 ""
- 
+
+ #----------------------------
  # Localisation air doctrine tech
+ #----------------------------
  formation_flying_doctrine:0 "Vol en formation"
  formation_flying_doctrine_desc:0 "Le pilote non entraîné a tendance à voler en bloquant occasionnellement la ligne de vue d'un membre de son escadre ; Cela peut être atténué par le développement de schémas de vol plus axés sur le maintien de lignes de visibilité cruciales."
  fighter_sweeps_doctrine:0 "Balayage des chasseurs"
@@ -257,9 +270,10 @@
  direct_ground_support_doctrine_desc:0 "En permettant aux unités individuelles de faire appel à des frappes aériennes sur des cibles particulièrement difficiles, nous pouvons considérablement améliorer l’effet de nos frappes au sol."
  dynamic_target_assignment_doctrine:0 "Affectation de cible dynamique"
  dynamic_target_assignment_doctrine_desc:0 "Au lieu d'engager pleinement nos avions à chaque attaque ; nous pouvons plutôt les envoyer en groupes plus petits et plus nombreux. Cela laisse l'ennemi sans répit de ce qui doit ressembler à un flot incessant de bruits, de feux et d'obus."
- 
- # localisation navy doctrine tech
 
+ #----------------------------
+ # localisation navy doctrine tech
+ #----------------------------
  pacific_fleet_navy_doctrine:0 "Flotte du Pacifique"
  pacific_fleet_navy_doctrine_desc:0 "De la manipulation de pots de feu primitifs aux obus hautement explosifs ; Il est essentiel pour les organisations navales de forer nos marins à arrimer leurs munitions en toute sécurité."
  river_fleet_navy_doctrine:0 "Flotte fluviale"
@@ -306,42 +320,7 @@
  rapid_redeployment_navy_doctrine_desc:0 "Aider à atténuer le manque de vitesse dans les gros navires ; Les équipages doivent être préparés au changement de cap de leur navire, ce qui leur permet de réagir rapidement à toute menace soudaine."
  sail_focus_navy_doctrine:0 "Utilisation des voiles"
  sail_focus_navy_doctrine_desc:0 "Notre dévouement dans le domaine des petites embarcations a porté ses fruits. Nous ne possédons pas les vagues par le biais de gros et coûteux navires de guerre ; mais en remplissant la mer avec un engin rapide et mortel. La mort par mille coupures à tous ceux qui s'opposent à nous !"
- 
- # Industry Localisation
- 
- basic_well_pump:0 "Pompe pour puit de forage"
- basic_well_pump_desc:0 ""
- advanced_well_pump:0 "Pompe avancée pour puit de forage"
- advanced_well_pump_desc:0 ""
- basic_aquifer:0 "Aquifère de base"
- basic_aquifer_desc:0 ""
- advanced_aquifer:0 "Aquifère avancée"
- advanced_aquifer_desc:0 ""
- purified_aquifer:0 "Aquifère purifié"
- purified_aquifer_desc:0 ""
- 
- basic_generator:0 "Générateur électrique"
- basic_generator_desc:0 ""
- advanced_generator:0 "Générateur électrique avancée"
- advanced_generator_desc:0 ""
- basic_power_plant:0 "Centrale électrique"
- basic_power_plant_desc:0 ""
- advanced_power_plant:0 "Centrale électrique avancée"
- advanced_power_plant_desc:0 ""
- nuclear_reactor:0 "Réacteur nucléaire"
- nuclear_reactor_desc:0 ""
 
- basic_smeltery:0 "Forge"
- basic_smeltery_desc:0 ""
- advanced_smeltery:0 "Forge avancée"
- advanced_smeltery_desc:0 ""
- basic_foundry:0 "Fonderie"
- basic_foundry_desc:0 ""
- advanced_foundry:0 "Fonderie avancée"
- advanced_foundry_desc:0 ""
- autonomous_foundry:0 "Fonderie autonome"
- autonomous_foundry_desc:0 "" 
- 
  #----------------------------
  # Localisation special forces tech
  #----------------------------

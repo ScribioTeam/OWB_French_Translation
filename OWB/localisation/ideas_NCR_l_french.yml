@@ -6,6 +6,7 @@
  ncrjustice:0 "Cour Suprême"
  ncrmotroops:0 "Propagande militaire"
  ncrcentral:0 "État centralisé"
+
  hooverdamvictor:0 "Victoire du Barrage Hoover"
  hooverdamvictor_desc:0 "Ce pays a été victorieux au barrage Hoover, leur donnant le contrôle du désert de Mojave et beaucoup de prestige."
  ranger_jackson:0 "Ranger Jackson"
@@ -15,147 +16,213 @@
  alice_mclafferty:0 "Alice McLafferty"
  al_chestbreach:0 "Al Chestbreach"
  joseph_dodge:0 "Joseph Dodge"
+
  oldworldmachines:0 "Machines du Vieux Monde"
  oldworldmachines_desc:0 ""
+
+ oldworldarmour_tt:10 "Bénéficiez d'une technologie qui augmente de 10% l'attaque et la défense de vos armées en zone urbaine."
+
  oldworldtheatre:0 "Théâtre du Vieux Monde"
  oldworldtheatre_desc:0 ""
+
  denmotherpenalty:0 "Peine de Mort"
- oldworldarmour_tt:10 "Bénéficiez d'une technologie qui augmente de 10% l'attaque et la défense de vos armées en zone urbaine."
  denmotherpenalty_desc:0 ""
+
  long15:0 "Long 15"
  long15_desc:0 ""
+
  brahminbarons:0 "Baron Brahmin"
  brahminbarons_desc:0 ""
+
  ncrguns:0 "Réoutillage de la production d’armes à feu"
  ncrguns_desc:0 ""
+
  ncrguns2:0 "Réaménagement des armes à feu"
  ncrguns2_desc:0 ""
+
  heavytroops:0 "Soldats lourds"
  heavytroops_desc:0 ""
+
  scavunion:0 "Union des Récolteurs"
  scavunion_desc:0 ""
+
  allarewelcome:0 "Tout le monde est bienvenu"
  allarewelcome_desc:0 ""
+
  immigrationlimits:0 "Limites de l'immigration"
  immigrationlimits_desc:0 ""
+
  mutantlabour:0 "Travail des Mutants"
  mutantlabour_desc:0 ""
+
  flyingbears:0 "Les Ours Volants"
  flyingbears_desc:0 ""
+
  hubdrugs:0 "Centre d'échange de drogue"
- hubweapons:0 "Centre des armes"
- mechcore:0 "Noyau mécanisé"
- shockcomp:0 "Sociétés de choc"
- rapidadvance:0 "Avance rapide"
- onlythebest:0 "Seulement le meilleur"
- gunrunnerliscense:0 "Licence Gun Runner"
- drummondsarmy:0 "Armée De Drummond"
- blastfromthepast:0 "Souffle du passé"
- mobilearmy:0 "Armée mobile"
- speartip:0 "Tactiques de Speartip"
- bigjim:0 "Big Jim"
- legacyofnavarro1:0 "Héritage de Navarro"
- legacyofnavarro2:0 "Héritage de Navarro"
- legacyofnavarro3:0 "Héritage de Navarro"
- aradesh:0 "Aradesh"
  hubdrugs_desc:0 ""
- seth:0 "Seth\n§YForces spéciales§!§W:§!\n    §WAttaque légère:§! §G+5%§!\n    §WAttaque lourde:§! §G+5%§!\n    §WDéfense:§! §G+5%§!"
- tandi:0 "Tandi"
+
+ hubweapons:0 "Centre des armes"
  hubweapons_desc:0 ""
- baronswar:0 "La Guerre des Barons"
- baronswarbuyout:0 "Baron Buyout"
+
+ mechcore:0 "Noyau mécanisé"
  mechcore_desc:0 ""
- ncrbarons:0 "Les Barons"
- baronofbarons:0 "Baron des Barons"
+
+ shockcomp:0 "Sociétés de choc"
  shockcomp_desc:0 ""
- rattletailrepaid:0 "Rattletail rendu"
- banditopayments:0 "Paiements des Bandito"
+
+ rapidadvance:0 "Avance rapide"
  rapidadvance_desc:0 ""
- brahminbill:0 "Facture de Brahmin"
- rationing:0 "Rationnement"
+
+ onlythebest:0 "Seulement le meilleur"
  onlythebest_desc:0 ""
- oldworldmilitary:0 "Vieux Monde militaire"
+
+ gunrunnerliscense:0 "Licence Gun Runner"
  gunrunnerliscense_desc:0 ""
- militindustrial:0 "Complexe Industriel Militaire"
- draftstandards:0 "Projets de Normes"
+
+ drummondsarmy:0 "Armée De Drummond"
  drummondsarmy_desc:0 ""
- riverpatrols:0 "Patrouilles fluviales"
- nevtradeagreements:0 "Accords commerciaux du Nevada"
+
+ blastfromthepast:0 "Souffle du passé"
  blastfromthepast_desc:0 ""
- monopoly:0 "Monopoles"
- newleague:0 "La nouvelle ligue"
+
+ mobilearmy:0 "Armée mobile"
  mobilearmy_desc:0 ""
- leagueradio:0 "Radio de la Ligue"
- ncrdraft:0 "Le Projet"
+
+ speartip:0 "Tactiques de Speartip"
  speartip_desc:0 ""
- hundredeighteenthcore:108 "108ème Corps"
- theatoms:0 "Les atomes"
+
+ bigjim:0 "Big Jim"
  bigjim_desc:0 ""
+
+ legacyofnavarro1:0 "Héritage de Navarro"
  legacyofnavarro1_desc:0 ""
- aaronkimball:0 "Aaron Kimball"
- urbandraft:0 "Ébauche urbaine"
+
+ legacyofnavarro2:0 "Héritage de Navarro"
  legacyofnavarro2_desc:0 ""
- ncrmarch:0 "La Marche"
- jimdraft:0 "Jim's Draft"
+
+ legacyofnavarro3:0 "Héritage de Navarro"
  legacyofnavarro3_desc:0 ""
- rangergenmossman:0 "Ranger Mossman"
- ncrrangerprop:0 "Propagande des Rangers"
+
+ aradesh:0 "Aradesh"
  aradesh_desc:0 ""
- followerfunding:0 "Financement des adeptes"
- ncrmint:0 "Frappe de la RNC"
+
  seth:0 "Seth"
  seth_desc:0 ""
- theboneyard:0 "Le Boneyard"
- gizmoslegacy:0 "L'héritage de Gizmo"
+
+ tandi:0 "Tandi"
  tandi_desc:0 ""
- gunrunnerexpanded:0 "Expansion de Gun Runner"
- ncr_revolt_exhaustion_1:0 "Légère épuisement de la guerre"
+
+ baronswar:0 "La Guerre des Barons"
  baronswar_desc:0 ""
- ncr_revolt_exhaustion_2:0 "Épuisement de la guerre légère"
- ncr_revolt_exhaustion_3:0 "Épuisement de la guerre modéré"
+
+ baronswarbuyout:0 "Baron Buyout"
  baronswarbuyout_desc:0 ""
- ncr_revolt_exhaustion_4:0 "Épuisement majeur de la guerre"
- ncr_revolt_exhaustion_5:0 "Épuisement extrême de la guerre"
+
+ ncrbarons:0 "Les Barons"
  ncrbarons_desc:0 ""
- ncr_revolt_exhaustion_6:0 "Épuisement critique de la guerre"
- ncr_revolts_development:0 "Développement de la Fédération Phoenix"
+
+ baronofbarons:0 "Baron des Barons"
  baronofbarons_desc:0 ""
- ncr_revolts_development_desc:0 "Conformément à notre accord de paix avec la fédération Phoenix, nous devons leur verser une grande partie de nos revenus pour les aider dans leur relance économique. Cela pourrait revenir pour nous aider, mais cela signifierait des pays plus développés et plus civilisés avec lesquels commercer."
- ncr_revolts_payments:0 "Paiements de réparation de la RNC"
+
+ rattletailrepaid:0 "Rattletail rendu"
  rattletailrepaid_desc:0 ""
+
+ banditopayments:0 "Paiements des Bandito"
+ banditopayments_desc:0 ""
+
+ brahminbill:0 "Facture de Brahmin"
+ brahminbill_desc:0 ""
+
+ rationing:0 "Rationnement"
+ rationing_desc:0 ""
+
+ oldworldmilitary:0 "Vieux Monde militaire"
+ oldworldmilitary_desc:0 ""
+
+ militindustrial:0 "Complexe Industriel Militaire"
+ militindustrial_desc:0 ""
+
+ draftstandards:0 "Projets de Normes"
+ draftstandards_desc:0 ""
+
+ riverpatrols:0 "Patrouilles fluviales"
+ riverpatrols_desc:0 ""
+
+ nevtradeagreements:0 "Accords commerciaux du Nevada"
+ nevtradeagreements_desc:0 ""
+
+ monopoly:0 "Monopoles"
+ monopoly_desc:0 ""
+
+ newleague:0 "La nouvelle ligue"
+ newleague_desc:0 ""
+
+ leagueradio:0 "Radio de la Ligue"
+ leagueradio_desc:0 ""
+
+ ncrdraft:0 "Le Projet"
+ ncrdraft_desc:0 ""
+
+ hundredeighteenthcore:108 "108ème Corps"
+ hundredeighteenthcore_desc:0 ""
+
+ theatoms:0 "Les atomes"
+ theatoms_desc:0 ""
+
+ aaronkimball:0 "Aaron Kimball"
+ aaronkimball_desc:0 ""
+
+ urbandraft:0 "Ébauche urbaine"
+ urbandraft_desc:0 ""
+
+ ncrmarch:0 "La Marche"
+ ncrmarch_desc:0 ""
+
+ jimdraft:0 "Jim's Draft"
+ jimdraft_desc:0 ""
+
+ rangergenmossman:0 "Ranger Mossman"
+ rangergenmossman_desc:0 ""
+
+ ncrrangerprop:0 "Propagande des Rangers"
+ ncrrangerprop_desc:0 ""
+
+ followerfunding:0 "Financement des adeptes"
+ followerfunding_desc:0 ""
+
+ ncrmint:0 "Frappe de la RNC"
+ ncrmint_desc:0 ""
+
+ theboneyard:0 "Le Boneyard"
+ theboneyard_desc:0 ""
+
+ gizmoslegacy:0 "L'héritage de Gizmo"
+ gizmoslegacy_desc:0 ""
+
+ gunrunnerexpanded:0 "Expansion de Gun Runner"
+ gunrunnerexpanded_desc:0 ""
+
+ ncr_revolt_exhaustion_1:0 "Légère épuisement de la guerre"
+ ncr_revolt_exhaustion_1_desc:0 ""
+ ncr_revolt_exhaustion_2:0 "Épuisement de la guerre légère"
+ ncr_revolt_exhaustion_2_desc:0 ""
+ ncr_revolt_exhaustion_3:0 "Épuisement de la guerre modéré"
+ ncr_revolt_exhaustion_3_desc:0 ""
+ ncr_revolt_exhaustion_4:0 "Épuisement majeur de la guerre"
+ ncr_revolt_exhaustion_4_desc:0 ""
+ ncr_revolt_exhaustion_5:0 "Épuisement extrême de la guerre"
+ ncr_revolt_exhaustion_5_desc:0 ""
+ ncr_revolt_exhaustion_6:0 "Épuisement critique de la guerre"
+ ncr_revolt_exhaustion_6_desc:0 ""
+
+ ncr_revolts_development:0 "Développement de la Fédération Phoenix"
+ ncr_revolts_development_desc:0 "Conformément à notre accord de paix avec la fédération Phoenix, nous devons leur verser une grande partie de nos revenus pour les aider dans leur relance économique. Cela pourrait revenir pour nous aider, mais cela signifierait des pays plus développés et plus civilisés avec lesquels commercer."
+
+ ncr_revolts_payments:0 "Paiements de réparation de la RNC"
+
  opening_long_15:0 "Ouvrir le Long 15"
  opening_long_15_desc:0 "Pour rouvrir le Long 15 et accéder aux Terres Désolées du Mojave, nous devons d’abord expulser les populations de raideurs locaux."
- banditopayments_desc:0 ""
- brahminbill_desc:0 ""
- rationing_desc:0 ""
- oldworldmilitary_desc:0 ""
- militindustrial_desc:0 ""
- draftstandards_desc:0 ""
- riverpatrols_desc:0 ""
- nevtradeagreements_desc:0 ""
- monopoly_desc:0 ""
- newleague_desc:0 ""
- leagueradio_desc:0 ""
- ncrdraft_desc:0 ""
- hundredeighteenthcore_desc:0 ""
- theatoms_desc:0 ""
- aaronkimball_desc:0 ""
- urbandraft_desc:0 ""
- ncrmarch_desc:0 ""
- jimdraft_desc:0 ""
- rangergenmossman_desc:0 ""
- ncrrangerprop_desc:0 ""
- followerfunding_desc:0 ""
- ncrmint_desc:0 ""
- theboneyard_desc:0 ""
- gizmoslegacy_desc:0 ""
- gunrunnerexpanded_desc:0 ""
- ncr_revolt_exhaustion_1_desc:0 ""
- ncr_revolt_exhaustion_2_desc:0 ""
- ncr_revolt_exhaustion_3_desc:0 ""
- ncr_revolt_exhaustion_4_desc:0 ""
- ncr_revolt_exhaustion_5_desc:0 ""
- ncr_revolt_exhaustion_6_desc:0 ""
+
  mr_fantastic:0 "Mr. Fantastic"
  mr_fantastic_desc:0 "Ayant obtenu un diplôme théorique en physique, il y a peu de personnes dans les Terres Désolées plus qualifiées pour la gestion d'Helios One que M. Fantastic."
  mr_fantastic_tt:0 "Temps de la recherche en physique théorique : §G+10%§!"

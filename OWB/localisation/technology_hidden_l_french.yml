@@ -31,7 +31,6 @@
  enclave_pa_unlock_tech:0 "Schémas d'Armure Assistée Avancée"
  high_fighter_unlock_tech:0 "Schémas Xian"
  vertibird_unlock_tech:0 "Schémas Vertibird"
-  
 
  #----------------------------
  # Civilizations
@@ -44,7 +43,12 @@
  scientific_civilization_desc:0 ""
  super_mutant_civilization:0 "Civilisation Super Mutante"
  super_mutant_civilization_desc:0 ""
-  
+
+
+
+
+
+
  #Tribal
   pathfinders:0 "Éclaireurs"
   pathfinders_desc: ""
@@ -122,85 +126,89 @@
 
   jungle_tribal_integration_tech: "Jungle Tribal integration"
   jungle_tribal_integration_tech_desc: ""
-  
+
   #Units
   dog_infantry_tech:0 "Warhound Platoon"
   super_mutant_aux_infantry_tech:0 "Super Mutant Auxilaries"
-  
-  ghoul_civilization:0 "Ghoul Civilization"
-  
+
  ghoul_paratrooper_tech:0 "Parachutistes goules"
  super_mutant_nightkin_tech:0 "Nightkin"
+
+  ghoul_civilization:0 "Ghoul Civilization"
+
   #NCR
  ncr_reorgranger_tech:0 "Réorganisation des Rangers"
  ncr_reorgranger_tech_desc:0 ""
- 
+
  ncr_rangercore_tech:0 "Corps de Rangers"
  ncr_rangercore_tech_desc:0 ""
- 
+
  ncr_jim_drills:0 "Jim Drills"
  ncr_jim_drills_desc:0 ""
- 
+
  ncr_rangerlead_tech:0 "Ranger Dirige"
  ncr_rangerlead_tech_desc:0 ""
- 
+
  ncr_rangercanopeners_tech:0 "Ranger peut ouvrir"
  ncr_rangercanopeners_tech_desc:0 ""
- 
+
  ncr_seth:0 "Rangers de Seth"
  ncr_seth_desc:0 ""
- 
+
  ncr_privatepolice:0 "Police privée de la RNC"
  ncr_privatepolice_desc:0 ""
- 
- # Ranger
+
+ #Ranger
  ranger_knighttactics:0 "Tactiques de Chevalier de Ranger de la Confrérie de l'Acier"
  ranger_knighttactics_desc:0 ""
- 
+
  ranger_slayinggiants:0 "Tactiques d'abattage du géant des Rangers"
  ranger_slayinggiants_desc:0 ""
- 
+
  ranger_rangerslegionwar:0 "Tactiques de guerre Ranger-Légion"
  ranger_rangerslegionwar_desc:0 ""
- 
+
  ranger_rangersnewthreat:0 "Nouvelle évaluation de la menace des Rangers"
  ranger_rangersnewthreat_desc:0 ""
- 
- # Western Brotherhood
+
+ #Western Brotherhood
  bos_navarroscoutcamp:0 "Camp Scout Navarro"
  bos_navarroscoutcamp_desc:0 ""
- 
+
  bos_bosdigin:0 "Fortifications de terrain de la Confrérie"
  bos_bosdigin_desc:0 ""
- 
- # Legion
+
+ #Legion
  legion_centurions_tech:0 "Centurions"
  legion_centurions_tech_desc:0 "Cela donnera à l’ensemble de l’infanterie piétonne 0,5 point d'organisation supplémentaire."
- 
+
  legion_warriors_of_mars_tech:0 "Guerriers de Mars"
  legion_warriors_of_mars_tech_desc:0 ""
- 
+
  legion_vexillarius_tech:0 "Vexillarius"
  legion_vexillarius_tech_desc:0 ""
- 
- # Reno
+
+ #Reno
  reno_mastersnewarmy:0 "Nouvelle armée du Maître"
  reno_mastersnewarmy_desc:0 ""
- 
- # Settler
- settler_caravanmilitia:0 "Milice de Caravane"
- settler_caravanmilitia_desc:0 ""
- 
+
+ #Oregon
  oregon_geckosupport:0 "Soutien au Gecko"
  oregon_geckosupport_desc:0 ""
  oregon_mesmetronfieldequipment:0 "Équipement de terrain Mesmetron"
  oregon_mesmetronfieldequipment_desc:0 ""
- # Raider
+
+ #Settler
+ settler_caravanmilitia:0 "Milice de Caravane"
+ settler_caravanmilitia_desc:0 ""
+
+ #Raider
  raider_reckless_aggression:0 "Agression téméraire"
  raider_reckless_aggression_desc:0 ""
 
- # Block tech
+  #Block Tech Tech
  blocked_tech:0 "Non Recherchable"
+
  general_atomics_unlock_tech:0 "Schémas atomiques généraux"
  stent_security_solutions_unlock_tech:0 "Schémas des solutions de sécurité pour les stents"
  wattz_company_unlock_tech:0 "Schémas de l'électronique grand public Wattzs"

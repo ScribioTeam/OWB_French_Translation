@@ -1,205 +1,309 @@
 ﻿l_french:
  trl_firstholotape:0 "La première HoloBande"
  trl_firstholotape_desc:0 "En sentant son esprit s'évanouir, l'homme qui deviendrait le Premier a créé plusieurs enregistrements pour se guider. Le premier était de lui rappeler sa morale. Ce qui avait fait de lui l'homme qu'il était et ce qu'il tenait le plus près de son cœur."
+
  trl_secholotape:0 "La deuxième HoloBande"
  trl_secholotape_desc:0 "Entraîné dans un désespoir plus profond par son instabilité mentale croissante, la violence qu'il ressentait dans son cœur, l'homme qui deviendrait le Premier laissa un deuxième enregistrement, un message pour lui-même lorsqu'il vit de plus en plus de personnes affluer vers sa demeure impromptue. Il était encore soldat, il était de son devoir et de son honneur de protéger ces gens, et il serait damné s'il avait oublié cela."
+
  trl_thirdholotape:0 "La Troisième HoloBande"
  trl_thirdholotape_desc:0 "Le troisième enregistrement a été fait longtemps après le second, à la suite d'une attaque contre le Warren par plusieurs proto-raiders. Des goules et des âmes désespérées cherchant à savoir ce qu'on pourrait prendre."
+
  trl_fourthholotape:0 "La HoloBande Finale"
  trl_fourthholotape_desc:0 "La HoloBande Finale est une chose volée, dérobée à un passant victime du Warren pendant une période de désespoir, car la gravité de leur situation et la reproduction stérile s’étaient installées."
+
  trl_warrenstirs:0 "Le Warren fait sensation"
  trl_warrenstirs_desc:0 "Les tambours de guerre, créés à partir des innombrables tonneaux qui contenaient autrefois le FEV qui a donné vie au Warren, résonnent à travers les collines. Même les plus violentes des tribus locales se terrent chez elles, se régalant de ce qui pourrait être leur dernier repas de chair humaine. Le Warrenfait sensation, et de là vient une horde de mutants affamés."
+
  trl_attackmarrow:0 "Moelle Succulente"
  trl_attackmarrow_desc:0 ""
+
  trl_attackbreakers:0 "Côtes tendres"
  trl_attackbreakers_desc:0 ""
+
  trl_breakingribs:0 "Casser leurs côtes"
  trl_breakingribs_desc:0 "Les Briseurs de côtes sont nos victimes depuis des décennies. Nos raids réclament constamment leurs jeunes guerriers les plus courageux pour la mutation, alors même que nous nous régalons de leurs plus faibles. Nous avons trop longtemps laissé cette tribu faible exister! Ils doivent être écrasés."
+
  trl_drinking_marrow:0 "Boire la moelle"
  trl_drinking_marrow_desc:0 "Les buveurs de moelle étaient trop faibles pour nous résister, mais n'importe qui dans la caste des guerriers de Warren aurait pu vous le dire. Ils ressemblaient à des charognes, récupérant les os des batailles des autres, buvant ce qu'ils ne gagnaient pas ouvertement. Ils ont cassé facilement et resteront brisés."
+
  trl_williamette:0 "Reconstruction de la forteresse de Willamette"
  trl_williamette_desc:0 "Les Briseurs de côtes opéraient à partir d'une série d'immeubles d'avant-guerre massifs, qu'ils appelaient seulement Willamette. Nous avons détruit une grande partie de cette forteresse lors de nos combats, mais nous allons la reconstruire! Plus grand et plus grand que jamais. Ce sera un symbole de notre domination dans la région."
+
  trl_fromtheruins:0 "Depuis les ruines"
  trl_fromtheruins_desc:0 "Le démantèlement de leurs constructions et de leurs bâtiments peut nous donner un aperçu de ce qu'ils ont fait pour survivre dans ces conditions inhospitalières. Mieux encore, nous les tirerons des ruines, de ceux qui ont fui, de ceux qui se sont cachés, de ceux qui sont indignes de transformation. Nous les ferons travailler pour nous! Ils s'occuperont de nos terres, construiront nos bâtiments et travailleront dans nos mines."
+
  trl_forced_mutation:0 "Mutation forcée 1"
  trl_forced_mutation_desc:0 "Des centaines de nouveaux guerriers ont été entraînés lors de nos conquêtes réussies des tribus Briseurs de côtes et Buveurs de moellle! Ils seront immergés dans le lac souterrain des eaux du FEV au-dessous du Warren et ceux qui survivent ? Ils nous serviront bien!"
+
  trl_warhornseast: "Cornes de Guerre à l'Est"
  trl_warhornseast_desc: "Of all the northern tribes, there are none greater than the Bone Dancers, who stand atop the masses of unworthy. They are the only worthy foe we can find in these lands, and our battles with them shall be savoured! To the south lies the last of the hidden tribes, the long reclusive animists of the swamp. Like all others, they must be defeated."
+
  trl_warhornsgreat:0 "Cornes de Guerre à l'Ouest"
  trl_warhornsgreat_desc:0 "Les cornes qui résonnent des terres en ruines des briseurs de côtes et des buveurs de moelle se rapprochent de plus en plus des frontières de tribus chaque jour. Pourtant, ces tribus ne sont pas aussi faibles que les dernières. Ils sont de fier guerrier, prêt à se battre avec tous ceux qui s’opposent à eux."
+
  trl_expanding_the_warren: "L'extension du Warren"
  trl_expanding_the_warren_desc: "With our newly conquered lands in tandem we are no longer such a weak nation, already many Mutants are now able to leave the caves for the first time and spread out across the fields and hills we have attained. For many, it is good to see the sky again."
+
  trl_weakness_in_the_north: "Faiblesse dans le Nord"
  trl_weakness_in_the_north_desc: "With the Ghosts of Washington dealt with there is no longer anything keeping us from pushing for Vault 6! We need to take up this opportunity!"
+
+ trl_broken_tribes: "Tribal Encampments"
+ trl_broken_tribes_desc: "Those tribes who have been broken under our boot are crawling to us. Their women, their children, their elderly and their feeble. They grow to live around the Warren, in dense encampments that bring us wealth and a ready supply of slaves."
+
  trl_pinnaclepoint:0 "Pinnacle Point"
  trl_pinnaclepoint_desc:0 "La bibliothèque de Pinnacle Point héberge une grande quantité d'informations que nous pouvons utiliser pour nous développer. Peu de nos gens peuvent lire, mais ceux qui peuvent lire peuvent porter en avant la connaissance depuis longtemps oubliée."
+
  trl_pickingbones:0 "Faire craquer les cultistes"
  trl_pickingbones_desc:0 "Pendant de nombreuses décennies, nous avons utilisé des os dans nos armes. Qu'il s'agisse d'une simple décoration ou, dans le cas de nos guerriers non prouvés, d'armes bon marché et abordables. Maintenant que nous avons anéanti les cultistes, nous avons des os en abondance et nos jeunes guerriers fabriquent avec eux des répliques glorieuses d'armes plus grandes."
+
  trl_takinghomes:0 "Prendre leurs maisons"
  trl_takinghomes_desc:0 "La communauté du commerce humain de la station de Chemult s’est montrée remarquablement résistante au cours des dernières décennies, en rappelant nos attaques à plusieurs reprises. Le Premier a déclaré que nous les prenons finalement au sérieux en tant que menace et que nous leur portons le poids de notre force. Avec l'acier et l'os, ils seront humiliés."
+
  trl_oldroad:0 "La vieille route"
  trl_oldroad_desc:0 "Il y a d'innombrables routes et chemins détruits au sein de notre nation en pleine croissance. La reconstruction de ces autoroutes, de ces routes et de simples sentiers permettra aux armées de Troll Warren de se déplacer avec beaucoup plus d'efficacité et de retourner chez elles avec le butin de guerre tout aussi rapidement."
+
  trl_forcedmut2:0 "Mutation forcée 2"
  trl_forcedmut2_desc:0 "Les [DIS.GetAdjective] sont brisés ! Leurs forteresses de moelle sont en ruines, leurs armées d’esclaves nourris de chair ont déjà été brisées. Chemult se trouve dans des ruines fumantes, car nous avons brûlé à rien. Nous leur avons pris leurs rêves, leur sécurité et laissé leur souffrance être un message pour l'humanité ! L'âge du mutant est sur eux. Ils deviendront comme nous sommes ou ils seront rejetés !"
+
  trl_greattribes: "Viande de Mirelurk"
  trl_greattribes_desc: ""
+
  trl_bonepickers: "Annihilation de l'apôtre"
  trl_bonepickers_desc: ""
+
  trl_chemultstation: "Briser la station"
  trl_chemultstation_desc: ""
+
  trl_bonedancers: "Décimer les Dancers"
  trl_bonedancers_desc: ""
+
  trl_armory:0 "Dépasser l'armurerie"
  trl_armory_desc:0 "L'armurerie de Chemult est parmi les plus impressionnantes du nord du pays. Des milliers d'armes à feu de formes et de tailles variées se sont rassemblées pendant plus de cent ans dans des fouilles et des conflits avec des pillards et des tribus. On peut apprendre beaucoup des schémas que contient l'armurerie ..."
+
  trl_oldguns:0 "Les vieux canons"
  trl_oldguns_desc:0 "La station de Chemult était protégée par une batterie de pièces d’artillerie d’avant-guerre, d’outils massifs de bombardement et de violence conçus pour se protéger des envahisseurs étrangers. Ils leur ont donné peu d'aide contre nous, mais ils étaient certains de les détruire avant de dépasser leur position. Pourtant, nous pouvons apprendre beaucoup de leurs restes ..."
+
  trl_overrun:0 "Dépasser les marais"
  trl_overrun_desc:0 "Les Mirelurks se sont cachés dans leurs marécages pendant des décennies, ne désirant jamais les quitter ou se développer. Des guerriers courageux et puissants, blindés dans les peaux et les coquillages des créatures mutantes qu'ils adoraient si étroitement. Ils auraient pu être de grands guerriers! Les conquérants! Mais maintenant ? Maintenant, ils ne sont rien et leurs marais sont à nous."
+
  trl_dancingbones:0 "Danser sur leurs os"
  trl_dancingbones_desc:0 "Les Danseurs d'os étaient tristement célèbres pour leurs fêtes d'après-bataille, au cours desquelles ils entassaient les os de ceux qu'ils avaient consommés dans une vaste masse charnue. Leurs guerriers les plus courageux dansaient au-dessus de ces os jusqu'à devenir trop fatigués pour bouger. Être le dernier homme en mouvement était un grand honneur pour leur peuple. Il est normal que nous traitions leurs morts avec les mêmes célébrations rituelles qu’ils ont données à tant d’autres."
+
  trl_bountifulcoast:0 "La côte généreuse"
  trl_bountifulcoast_desc:0 "Les soi-disant Crowlands ne sont rien de plus qu'un vaste marais muté, rempli de choses mourantes. Pourtant, c’est là que pousse un fruit rouge vibrant et qu’il pousse en si grandes quantités qu’il n’est pas nécessaire de se demander pourquoi la Tribu Mirelurk n’a jamais grandi! Dans un pays de famine et de souffrance, ils avaient de quoi manger en abondance ..."
+
  trl_mirelurkconverts:0 "Mirelurk se convertit"
  trl_mirelurkconverts_desc:0 "Les nouveaux mutants que nous avons obtenus en immergeant de force les guerriers de la tribu de Mirelurk dans le lac, sous le Warren, se sont avérés incroyablement disposés à travailler avec nous, rapidement en train de se convertir à notre cause. Ils proposent de nous apprendre les méthodes qu'ils utilisaient pour traverser des plans d'eau lors de leurs raids."
+
  trl_forcedmute3:0 "Mutation forcée 3"
  trl_forcedmute3_desc:0 "Même la plus grande des tribus ne pouvait pas se présenter devant nous! Le Warren a fait ses preuves en tant que puissance suprême dans le nord, et même maintenant, les nations du sud tremblent sous leurs bottes. Leurs guerriers, comme tout le monde auparavant, sont emmenés dans les lacs au-dessous du Warren, et se sont transformés en quelque chose de plus digne d'aider notre cause ..."
+
  trl_monsterwoods:0 "Le monstre dans les bois"
  trl_monsterwoods_desc:0 "Dans les bois se cachent les guerriers perdus du Warren, ceux qui errent alors que leur esprit commence à se fondre dans la pure folie. Ces géants de nos plus grands guerriers, mais ne sont guère plus que des créatures sauvages maintenant. Les ramener dans le pli est essentiel à nos objectifs de conquête et de guerre."
+
  trl_bone_picks: "Héritage des Bonepickers"
  trl_bone_picks_desc: "La tribu des Bonepickers, qui a disparu depuis longtemps - anéantie par le [DIS.GetAdjective] dans les temps anciens - a clairement laissé une marque sur cette terre - ses armes dispersées au sommet de la montagne. Ces armes sont tombées entre nos mains maintenant, et resteront à jamais les nôtres ! Les Bone Picks utilisaient des traitements chimiques spéciaux sur les os de leurs ennemis, qui les durcissaient pour en faire quelque chose qui rivalisait avec l'acier. Cela permet une utilisation plus efficace du corps d'un ennemi vaincu après sa consommation..."
+
  trl_worthyfoe:0 "Un digne ennemi!"
  trl_worthyfoe_desc:0 "Le chef de guerre Shatterhand nous a combattus jusqu'à son dernier et nous a déjoués à plusieurs reprises. Il est au-dessus de tous les autres parmi son peuple digne du don de la mutation. Il fera une belle addition à nos militaires, en supposant qu'il survit ..."
+
  trl_greatherd:0 "La grande horde"
  trl_greatherd_desc:0 "Il y avait peu parmi les Danseurs d'Os qui n'étaient pas dignes de ce cadeau, et même maintenant que les colonnes de leur peuple sont entraînées dans les fosses, il est devenu clair pour tous qu'ils deviendront une grande horde de mutants, ceux qui serviront notre cause grandement dans les années suivantes."
+
  trl_memories_of_ages:0 "Souvenirs d'Ages"
  trl_memories_of_ages_desc:0 "Les souvenirs des âges passés persistent encore dans l'esprit du Premier, troublant ses rêves et l'inspirant au plus profond de la bataille. Les anciennes tactiques militaires frappaient l'esprit d'un jeune homme qui ne connaissait plus son propre nom. Comme il se souvient de ces choses, notre espoir grandit toujours plus."
+
  trl_weaponspast:0 "Armes du passé"
  trl_weaponspast_desc:0 "Le plomb, la poudre, le son tonitruant de la mort. Ce sont les armes de jadis, celles qui ont déterminé le destin d'innombrables vies à travers l'histoire. Ils sont en mesure de créer, et plus encore, quelque chose que nos guerriers convoitent et en qui ils ont confiance. Il est naturel pour un super mutant de désirer de telles armes."
+
  trl_tribaldakka:0 "La tribu Dakka"
  trl_tribaldakka_desc:0 "Nous avons capturé d'innombrables armes à feu et captives capables de les produire tout au long de nos conquêtes, et il est temps de les mettre en service en armant nos guerriers! Le Warren ne peut pas aller si loin avec des gourdins et des marteaux après tout."
+
  trl_moredakka:0 "Plus de Dakka"
  trl_moredakka_desc:0 "Les armes à feu du mutant tribal moyen n'ont rien d'impressionnant, mais elles sont convoitées et bien entretenues. Ces armes sont transmises de guerrier en guerrier, car lorsqu'un ancien combattant trouve une arme plus adaptée à sa position, son ancien passe à ceux qui n'ont pas encore fait leurs preuves. Il n'y a pas d'armes inférieures parmi notre peuple."
+
  trl_betterdakka:0 "Meilleure Dakka"
  trl_betterdakka_desc:0 "Les armes de la tribu sont largement inférieures à celles de nos rivaux et doivent être constamment retravaillées pour rester compétitives sur le champ de bataille. Nous devons apprendre des armes que nous avons prises sur nos ennemis et prendre non seulement leur vie, mais aussi leurs outils de mise à mort."
+
  trl_weaponsfuture:0 "Armes du futur"
  trl_weaponsfuture_desc:0 "Le ronronnement sourd de l'énergie et le flash de la mort cramoisie! L'avenir de l'armement est ce qui doit faire avancer la tribu dans le futur et faire savoir que nous nous consacrerons pleinement à l'apprentissage de leur utilisation."
+
  trl_tribalzappa:0 "Tribu de Zappa"
  trl_tribalzappa_desc:0 "Nous avons capturé une poignée d'armes énergétiques et de captifs capables de les produire tout au long de nos conquêtes, et il est temps de les mettre en service en armant nos meilleurs guerriers! Le Warren ne peut pas aller si loin avec des gourdins et des marteaux après tout."
+
  trl_morezappa:0 "Plus Zappa"
  trl_morezappa_desc:0 "Les armes énergétiques du mutant tribal moyen ne sont rien d’impressionnant, mais elles sont convoitées et bien entretenues. Ces armes sont transmises de guerrier en guerrier, car lorsqu'un ancien combattant trouve une arme plus adaptée à sa position, son ancien passe à ceux qui n'ont pas encore fait leurs preuves. Il n'y a pas d'armes inférieures parmi notre peuple."
+
  trl_morezappa2:0 "Mieux zappa"
  trl_morezappa2_desc:0 "Les armes énergétiques de la tribu sont largement inférieures à celles de nos rivaux et doivent être constamment remaniées pour rester compétitives sur le terrain. Nous devons apprendre des armes que nous avons prises sur nos ennemis et prendre non seulement leur vie, mais aussi leurs outils de mise à mort."
+
  trl_guardianwild:0 "Gardiens de la nature"
  trl_guardianwild_desc:0 "Il est du devoir du Warren de protéger les terres tribales du nord contre les efforts expansionnistes de l'homme. Nous avons conquis ces lieux et fait descendre les personnes qui vivaient ici avec nos propres forces, et nous défendrons ce que nous avons pris!"
+
  trl_warriorswild:0 "Guerriers de la nature"
  trl_warriorswild_desc:0 "Il est du devoir de notre peuple d’avancer et d’écraser nos ennemis, quels qu’ils soient, et où qu’ils se trouvent, ils sauront que les guerriers mutants des endroits sauvages viennent pour leurs maisons, leurs moyens de subsistance et leur liberté. Laissez tout tomber devant le Warren!"
+
  trl_baneofman:0 "Le fléau de l'homme"
  trl_baneofman_desc:0 "L'humanité a jeté son droit sur ce monde il y a longtemps quand elle l'a baigné dans un feu de l'enfer et des radiations. Nous sommes leur génération, leur plus puissante création et leur plus grande création! L’humanité n’a aucun droit sur notre monde, car c’est l’âge du super mutant!"
+
  trl_realmsofgoliath:0 "Royaume du Goliath"
  trl_realmsofgoliath_desc:0 "Longtemps, le plus grand guerrier était connu sous le nom de Goliath, et c'est lui qui a amené les armées d'une grande nation à s'agenouiller devant lui. Seule l'intervention du tout-puissant suffisait à rester la main, l'agression. À présent ? Il n'y a aucun tout-puissant gauche pour sauver l'humanité du Goliath. Et ayez peur de la chute de malheur qui tomberont sur ceux qui attaqueront son royaume."
+
  trl_callofgiants:0 "Appel des géants"
  trl_callofgiants_desc:0 "Nous avons des mutants en abondance, mais ce dont nos gens ont vraiment besoin, c'est le pouvoir du grand frère! Les Béhémoths qui traquent les lieux sauvages, ceux qui ont donné leur raison! Sur leur dos, nous porterons le jour! Laissons les géants venir humilier nos ennemis et ruiner l’espoir qu’ils avaient laissé."
+
  trl_callofhorde:0 "Appel de la Horde"
  trl_callofhorde_desc:0 "Mutantkind n'est pas aussi peu peuplé que nos rivaux aimeraient l'imaginer. L'armée du maître a peut-être été éparpillée, mais il ne faut qu'une rumeur, un murmure, pour leur apprendre ce lieu. Appeler la Horde qui provoquera la disparition de l'humanité."
+
  trl_trollsofthewarren:0 "Trolls du Warren"
  trl_trollsofthewarren_desc:0 "Bonesnarl, en privé, nous a dit que si nous voulions que tous les Béhémoths se joignent à nous, nous devions chercher leur chef. Le Premier entre dans les bois, pour appeler le monstre qui attend dans l'ombre..."
+
  trl_callofthefirst:0 "L'appel du Premier"
  trl_callofthefirst_desc:0 "Le Premier est le plus ancien de notre espèce, né dans les jours qui ont suivi la guerre, un accident de la nature, destiné à hériter des royaumes de l’humanité. Que ses paroles se répercutent dans le désert, que tous ceux qui l'entendent, humains, mutants ou goules, sachent qu'il est venu les chercher. Ils peuvent s'agenouiller ou tomber, mais tous ceux qui entendent l'appel du Premier doivent répondre."
+
  trl_sonsofman: "Mutation Mobile"
  trl_sonsofman_desc: "Un de nos petits généraux, un mutant connu sous le nom de Peon Tusk-Hell, s'est fait un nom en utilisant la \"Mutation Mobile\" en première ligne ! Plutôt que de ramener les captifs jusqu'au bout, il apporte une petite quantité de FEV avec lui dans des canisters, l'utilisant pour transformer les soldats qu'il combat sur le champ de bataille en horribles monstres mutants ! Sa stratégie fonctionne, peut-être devrions-nous le promouvoir ?"
+
  trl_riverexpedition:0 "Expéditions fluviales"
  trl_riverexpedition_desc:0 "Le contrôle des fleuves est une partie essentielle du commerce entre les tribus de l'Oregon et de Washington. La capacité de projeter son pouvoir et de transporter les guerriers est la clé de tout groupe de sauvages cherchant à dominer."
+
  trl_mutantwarship:0 "Navires de guerre mutants"
  trl_mutantwarship_desc:0 "Nos navires de guerre sont comme nos guerriers. Hardy, violent et brut. Digne d'un super mutant!"
+
  trl_amassingfleet:0 "Amasser une flotte"
  trl_amassingfleet_desc:0 "La construction de nos navires est essentielle à la projection de notre puissance! Nous allons les amasser et dominer nos ennemis!"
+
  trl_mutantcanoe:0 "Canoë mutant"
  trl_mutantcanoe_desc:0 "Des bateaux légers sont bons pour réduire en pièce des navires de transport ennemis. Bien qu'ils ne soient pas aussi glorieux que leurs cousins ​​plus lourds, ils sont essentiels."
+
  trl_raidingculture: "Raid de Port Maw"
  trl_raidingculture_desc: "Beaucoup de nos jeunes guerriers ont pris goût à faire la guerre sur les rivières. Un de ces pilleurs en général pourrait nous être plutôt utile..."
+
  trl_rivergiants:0 "Rivières des géants"
  trl_rivergiants_desc:0 "Le Bateau de Siège du Warren est encombrant,une lourde chose, mais ils fait le travail néanmoins. Rien sur les rivières ne peut nous opposer, et dès que nous aurons accès à la mer ? Nos ennemis trembleront."
+
  trl_goliath:0 "Le goliath"
  trl_goliath_desc:0 "Le Goliath est le Vaisseau amiral personnel de la Première flotte, construit à partir des ruines d’une ancienne barge d’avant-guerre, c'est une force irrésistible sur la rivière."
+
  trl_slavesunworthy:0 "Faire des esclaves des indignes"
  trl_slavesunworthy_desc:0 "Il y a peu de choses sur nos terres qui soient vraiment dignes du don de la mutation. Au lieu de cela, nous les gardons comme esclaves pour le travail et dans le cas de ceux qui sont trop faibles pour le travail  ? Du bétail sur quel festoyer."
+
  trl_forceddigging:0 "Les obliger à creuser"
  trl_forceddigging_desc:0 "Il faut peu de travail pour apprendre à utiliser une simple pioche pour recueillir la pierre, mais il est difficile de les encourager sans menaces de violence."
+
  trl_unwillinggatherers:0 "Récolteurs"
  trl_unwillinggatherers_desc:0 "Nos récolteurs apprennent ce que cela signifie de travailler jusqu’à ce qu’on ait abandonné, car c’est seulement à ce moment que nous les laissons se reposer, les laisser manger. Plus ils travaillent dur, plus vite ils peuvent s'effondrer."
+
  trl_expandingslavelabour:0 "Travail d'esclave en expansion"
  trl_expandingslavelabour_desc:0 "Nos dirigeant d'esclaves envoient des équipes de dizaines de travailleurs potentiels pour dégager les rondes et établir des sentiers à travers des forêts mutées par ailleurs denses."
+
  trl_forcedroads:0 "Forcer les à faire des routes"
  trl_forcedroads_desc:0 "Le processus de pose pierre après pierre est souvent considéré comme angoissant. Heureusement, ce travail est inférieur à un vrai mutant."
+
  trl_slavemutanthouse:0 "Loger esclaves et mutants"
  trl_slavemutanthouse_desc:0 "La majorité de nos esclaves vivent dans de petites tentes inconfortables. Ceux qui ont gagné le droit ? Ils peuvent construire leurs maisons à partir de ces ressources qui restent après la construction de logements pour les Super Mutants."
+
  trl_slaveworkshop:0 "Ateliers Esclaves"
  trl_slaveworkshop_desc:0 "Ces quelques esclaves possédant des compétences en architecture et en design mènent une vie de confort relatif par rapport à leurs compagnons. Ils ont des maisons et conçoivent des plans et des schémas pour nos opérations d’expansion. Cela garantit leur sécurité."
+
  trl_mutantlabor:0 "Travail du supermutant"
  trl_mutantlabor_desc:0 "Le travail des supermutants est, en gros, moins efficace que le travail humain. Pourtant, ils sont de loin plus forts et peuvent faire le travail d’une demi-douzaine de leurs cousins ​​moins fort quand vient le temps de soulever des objets lourds."
+
  trl_militarizedlabour:0 "Travail militarisé"
  trl_militarizedlabour_desc:0 "Au moment du conflit, même un super mutant qui ne sait rien de la guerre est encore Super Mutant. Donnez-lui une arme, et il finira par le découvrir."
+
  trl_readyforwar:0 "Prêt pour la guerre"
  trl_readyforwar_desc:0 "Afin d'être prêts pour les guerres qui vont arriver, nous devons apprendre à construire les ateliers et les armureries de nos plus petits cousins. Pour que nous puissions maintenir un flux constant d’armements."
+
  trl_stockpiledweapons:0 "Stocker des armes"
  trl_stockpiledweapons_desc:0 "Nous conquérons beaucoup et gardons d'innombrables trophées. Cela étant, ces armes sont mieux adaptées à la réparation et à la réutilisation que comme décoration sur les murs des Super Mutants."
+
  trl_rewardsofvictory:0 "Les récompenses de la victoire"
  trl_rewardsofvictory_desc:0 "Conquérir un ennemi, c'est gagner le droit à tout ce qu'il a. Nous rapportons à la maison les richesses de ceux que nous avons vaincus, les choses qu'ils ont tenu pour acquis, les objets qu’ils n’ont jamais pris la peine d’utiliser et les utilisent pour encourager nos propres commerçants et artisans à travailler plus fort."
+
  trl_gloriouscity:0 "La ville glorieuse"
  trl_gloriouscity_desc:0 "Le Warren grandit chaque jour! Même maintenant, il prospère, avec une population de mutants en plein essor et une sous-classe toujours croissante d’êtres humains qui peinent à gagner leur vie sous nos pieds."
+
  trl_defendingthewarren:0 "Défendre le Warren"
  trl_defendingthewarren_desc:0 "La défense des fosses FEV au-dessous du Warren est la priorité absolue de notre tribu et, en tant que telle, les plans d'amélioration de la capacité défensive de la capitale évoluent constamment."
+
  trl_oregonline:0 "La ligne de l'Oregon"
  trl_oregonline_desc:0 "Le Warren n’est pas une forteresse, mais il peut en être une avec suffisamment de temps et d’efforts. Le fait de mettre les esclaves à l’œuvre nous permettra de le renforcer contre l’invasion, au cas où cela se produirait."
+
  trl_seek_out_the_wizard: "A la recherche du Sorcier"
  trl_seek_out_the_wizard_desc: "The Super Mutants of the Warren are a isolated people, yet none are more isolated then The Wizard, a old-aged Nightkin living atop the volcanic isle in the middle of the FEV filled Crater Lake. Perhaps The Wizard would have ideas on how we could inspire hope in the Super Mutant remnants?"
+
  trl_the_first_above_all: "Le Premier avant tout"
  trl_the_first_above_all_desc: "There is no reason why any of these fools should have the title of Warchief. The Warbands should all heed the words of The First straight from within the depths of the Warren. From here The First can instruct the other leaders how to fight better, teach them where they might falter and how they can succeed."
+
  trl_pittmancunning:0 "La ruse de Pittman"
  trl_pittmancunning_desc:0 "Après s’être frayé un chemin dans les bonnes grâces du chef de guerre, Pittman s’est mis à insuffler un sentiment de fierté personnelle aux mutants du Warren. Il leur prêche la gloire du Maître, alors même que ses guerriers de nuit deviennent les favoris du Premier."
+
  trl_nightkinmigration:0 "Immigration de Nightkin"
  trl_nightkinmigration_desc:0 "Encouragés par l’histoire de la popularité de Pittman au sein du Warren et du statut social croissant de Nightkin, des milliers de ses semblables ont commencé à migrer vers le nord pour rejoindre les armées du Warren."
+
  trl_firsts_ambition: "Les Ambitions du Premier"
  trl_firsts_ambition_desc: "Now that we have conquered most of Oregon we can look to fulfilling our ambitions, where do the Firsts desires lay?"
+
  trl_southernpush:0 "La poussée du sud"
  trl_southernpush_desc:0 "Ha! The Ghosts of Washington don't threaten us. No, there is a bigger prize awaiting the Warren. We can conquer the Brotherhood later, for now? The Warren seeks to march southwards and punish the descendants of those who destroyed the master all those years ago! The men and women of Arroyo shall know naught but suffering and death!"
+
  trl_vengeancemaster:0 "Vengeance pour le Maître!"
  trl_vengeancemaster_desc:0 "It is time we finally achieve vengeance for the Master's fall! We must strike at the lands of the Chosen One now - bring about the end of their Legacy!"
+
  trl_redriver:0 "La rivière rouge"
  trl_redriver_desc:0 "When we defeat Klamath our victory will be known throughout the south! The River after which the town was named runs deep, deep into civilized lands.\nWe will pitch the bodies into the stream after an unceremonious slaughter of the civilian population, bring about an end to this meager little town!"
+
  trl_mariposareborn:0 "La renaissance de Mariposa"
  trl_mariposareborn_desc:0 "To the north lies a massive underground complex known as Vault Six. With its technology and some of the FEV from Troll Warren, The First believes that he can recreate Mariposa! It will require the removal of the bothersome Washington Brotherhood, but who are they to stand before the Super Mutant Race?"
+
  trl_bonesnarlloyalty:0 "La loyauté de Bonesnarl"
  trl_bonesnarlloyalty_desc:0 "Bonesnarl est un guerrier du Warren à travers et à travers. Il ne pose aucune question à son maître et croit en gros au concept de force par la consommation. Les guerriers du Warren s'entassent jour et nuit autour de lui, écoutant les paroles de celui qui a l'oreille de l'Immortel."
+
  trl_cannibalmutants:0 "Mutants Cannibales"
  trl_cannibalmutants_desc:0 "N'oublions pas d'où viennent les guerriers du Warren! Les tribus cannibales de l'Oregon ont fourni leurs meilleurs guerriers et coutumes au FEV au-dessous du Warren, et des générations de monstruosités cannibales ont émergé."
+
  trl_preparingthewarren:0 "Préparer le Warren"
  trl_preparingthewarren_desc:0 "Si le Warren doit se développer et s’épanouir, il doit devenir plus qu’il ne l’est déjà. Les armes, le commerce et mille autres choses doivent arriver à la ville avant qu’elles puissent vraiment être considérées comme excellentes."
+
  trl_developingslavesmines:0 "Développer les mines d'esclave"
  trl_developingslavesmines_desc:0 "Il y a de l'eau et du métal en abondance autour du Warren si l'on veut creuser pour cela. Ou on devrait dire, assez craintif du sort de ceux qui ne veulent pas creuser pour cela."
+
  trl_ritualscarring: "Le Pow-Ow"
  trl_ritualscarring_desc: "We have managed to uncover a stockpile of rather.. useful weapons. Pow-Ow's! The Smooth-Skins call them 'Power Fists' and they are a force to be reckoned with. We need to repair more of these!"
+
  trl_eatersman:0 "Mangeurs de l'humanité!"
  trl_eatersman_desc:0 "Que tous ceux qui savent ce qui vient du nord le craignent! Laissez-les trembler devant les dents aiguisées et les mâchoires du genre Mutant, car dans leur cœur de cœur, ils savent qu'ils doivent nourrir leurs créations erronées ..."
+
  trl_masters_of_men: "Maîtres de l'Humanité !"
  trl_masters_of_men_desc: "Let all who know is the true ruler in the north! Humanity are just our puppets, to toil in the mines and build weapons for us. They are pets and nothing more - just as the Old World sought to use us!"
+
  trl_bettysmight:0 "Pouvoir de Betty"
  trl_bettysmight_desc:0 "Betty a lutté contre le Premier avec un entraînement supérieur, avant d'être finalement submergé par sa force physique. Ce combat, le plus proche qui ait jamais été une perte pour le compte du Premier, est la parole du Warren! Déjà, les histoires de Betty pourraient se propager!"
+
  trl_armorrepurposing: "Mutants Méga Métal !"
  trl_armorrepurposing_desc: "Who needs Dakka?! If we build better armour we can defend against any wimpy bullet! Super Mutants are supreme - we can't die!"
+
  trl_causeoftrouble:0 "Cause du problème"
  trl_causeoftrouble_desc: "The Brotherhood is one of the last true symbols of the old worlds clutch on this land. The people that burned the world in hellfire and created the Super Mutants in the first place. They are not Ghosts - they are just men! We need to focus our efforts on claiming Vault 6 and destroying them!"
+
  trl_mutantshocktactics: "Tactiques d'hiver"
  trl_mutantshocktactics_desc: "We have been approached by a Mutant with the name of Ice Jaw, unlike many of the rest of our kin he had a gentle soul. That is, before the Brotherhood found him and struck him with their Plasma Casters. He has offered to show us the way through the coldest parts of Washington in exchange for help getting his cave back."
+
  trl_mounthawk: "Repousser les frontières"
  trl_mounthawk_desc: "Borders mean nothing to the mutants - already, even before the War for Supremacy has begun soldiers launch raids into Brotherhood lands in the search of more Smooth-Skins to mutate!"
+
  trl_destroy_the_temple: "Détruire le temple"
  trl_destroy_the_temple_desc: "Unlike our other conquests, there is nothing to use from the lands of Arroyo. These lands birthed the Chosen One. Many Mutants would feel it safer simply to destroy the Temple, to destroy this icon and make the Chosen One a long forgotten memory."
+
  trl_prepare_for_war: "Se préparer à la guerre"
  trl_prepare_for_war_desc: "The War for Supremacy, a conflict which will determine which is the truly superior species draws closer. We need to work hard to get the Warren prepared for this conflict! All Mutants, all Slaves must work twice as hard!"
+
  trl_timberline: "Lutte contre la filière bois"
  trl_timberline_desc: "The lumberjacks near the Timberline have enjoyed a good deal of peace due to being a buffer state between the Warren and the Northern League. If we were to bring the Northern League out of the picture there would be nothing keeping us from attacking this small little state."
+
  trl_the_final_threat: "La menace finale"
  trl_the_final_threat_desc: "There is but one final threat that lingers for the Warren - the great ghosts of the north. The 'Brotherhood' is a symbol of the people that once lived in the old world - men of metal with weapons of lightning. Let us tear these gods down from their pillar!"
+
  trl_war_for_supremacy: "Guerre pour la Suprématie"
  trl_war_for_supremacy_desc: "The War for Supremacy is here! We can no longer contain the hunger growing in the Warren's stomach, the need for conflict. It is time to push against our heated rival and begin the battle to decide the north's future forever!"

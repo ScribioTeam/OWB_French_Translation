@@ -1,263 +1,394 @@
 ﻿l_french:
- ncr_founders_desc:0 "Parmi les archives de la RNC, il y a un certain nombre de personnalités qui se distinguent pour la quintessence de la république, mais qui parmi eux est le plus célébré par la propagande et l'éducation ? Qui apparaîtra sur les pièces de monnaie les plus importantes, sera mentionné dans les discours et se démarquera comme la figure de proue de la RNC ?"
+  #NCR
  ncr_founders:0 "Hommage aux fondateurs"
+ ncr_founders_desc:0 "Parmi les archives de la RNC, il y a un certain nombre de personnalités qui se distinguent pour la quintessence de la république, mais qui parmi eux est le plus célébré par la propagande et l'éducation ? Qui apparaîtra sur les pièces de monnaie les plus importantes, sera mentionné dans les discours et se démarquera comme la figure de proue de la RNC ?"
+
  ncr_tandi:0 "Les Machinations de Tandi"
  ncr_tandi_desc:0 "Tandi a consacré sa vie à la cause de la République de Nouvelle-Californie et, au début de sa vie, ses idéaux se sont estompés et elle a dû faire face à un pragmatisme honnête. Elle a fait une série de choix difficiles, dont beaucoup ne lui ont pas nécessairement valu l'adoration de son peuple."
+
  ncr_development:0 "Développement de la République"
  ncr_development_desc:0 "Il y a environ 20 ans, le Congrès de la RNC proposait l'un des plans de développement économique les plus ambitieux de l'histoire des terres désolées, un investissement à grande échelle dans chacun des principaux centres de population de la RNC, les villes du quator de Sables Ombragés, Dayglow, The Boneyard et Sac-Town."
+
  ncr_navarro:0 "La bataille de Navarro"
  ncr_navarro_desc:0 "La bataille de Navarro fut le premier test réel de l'armée de la RNC. Avec l'approbation complète du Congrès et un financement illimité, la RNC a formé l'armée la plus massive que les Terres Désolées n'aient jamais vue jusque-là, un énorme regroupement de volontaires, de mercenaires et de conscrits. Soutenus par un détachement important de la Confrérie de l'Acier, ils ont marché sur la dernière base de l'Enclave."
+
  ncr_councilhill:0 "Colline du conseil"
  ncr_councilhill_desc:0 "Le Sénat a toujours été le centre de la République. Bon nombre des membres les plus influents de la République se trouvent en dehors du Sénat. Leur donner une place digne de leur statut non seulement donnera de l'espoir aux gens des Terres Désolées, mais apaisera également les sénateurs secrètement cupides et narcissiques qui occuperont les sièges de la nouvelle colline du Conseil."
+
  ncr_armament:0 "L'Emporium de l'armement"
  ncr_armament_desc:0 "Malgré sa prospérité économique, Sables Ombragés témoigne également de la puissance militaire de la RNC, où la majorité de l’armée est formée et équipée. Pour cette raison, des milliers de marchands d’armes s’y rendent chaque année dans le but de conclure un contrat de longue durée avec la RNC, fournissant des armes contre de la monnaie, en plus de gagner une vitrine permanente dans la ville."
+
  ncr_bazaar:0 "Réorganisation du bazar"
  ncr_bazaar_desc:0 "La capitale de la RNC attire des étrangers de pays lointains. Les tribus viennent colporter des reliques mystiques, des récupérateurs tentent de mettre en gage des gadgets et du bric-à-brac électroniques et, à l'occasion, des inconnus masqués tentent de vendre des technologies de pointe comme la ville est un des rares endroits des Terres Désolés où l'on peut faire ce genre de chose sans craindre d'être volé par la Confrérie de l'Acier."
+
  ncr_powerplant:0 "Rénovation de la centrale électrique"
  ncr_powerplant_desc:0 "Une ville comme les Sables ombragés consomme énormément d'énergie et, chaque année, le réseau électrique vieillissant a du mal à suivre chaque changement. À ce titre, l’ajout de nouveaux générateurs et d’éoliennes sont constants, qu’ils soient nucléaires ou alimentés par des rayons solaires, la croissance de ce réseau est essentielle pour le fonctionnement continu de la ville."
+
  ncr_militacademy:0 "Développez l'Académie militaire de la RNC"
  ncr_militacademy_desc:0 "Au centre de la RNC, non loin du Congrès, se trouve l’Académie militaire, une ruche d’activités où il est toujours possible de voir des dizaines d’hommes et de femmes subir des exercices militaires rudimentaires dans les champs. On peut également trouver des officiers en herbe au milieu d'une formation approfondie sur l'essentiel du combat et de la gestion d'équipe dans des salles de classe bien utilisées."
+
  ncr_oldworld:0 "Sagesse du vieux monde"
  ncr_oldworld_desc:0 "Au centre de la doctrine militaire de la RNC se trouve le concept de l'armée du vieux monde. L'armée est organisée autour d'une structure de commandement en couches, avec un soutien logistique intensif et l'utilisation de troupes spécialisées. Beaucoup considèrent que les tentatives de la RNC d'imiter les doctrines du vieux monde sont stupides, mais il suffit de regarder le succès qu'a eu la RNC face aux raiders et aux tribus."
+
  ncr_armourexperiment:0 "Armure Expérimentale"
  ncr_armourexperiment_desc:0 "L'un des rôles principaux de l'académie militaire de la RNC est le département R&D, où les armes et l'équipement du Vieux Monde sont continuellement repensés pour s'adapter aux doctrines de la RNC. Parmi les développements récents les plus importants, on peut citer le Soldat Lourd de ma RNC, un homme en armure non-assistée. Immensément durable, mais lent et encombrant, une arme maladroite dans les meilleurs jours."
+
  ncr_capitalfort:0 "Fortifier la capitale"
  ncr_capitalfort_desc:0 "L'un des principaux objectifs de l'armée de la RNC est la préservation de la RNC dans son ensemble et, par conséquent, peu de dépenses sont payées pour la protection de la capitale. Chaque année, les défenses de la ville sont construites de plus en plus haut, alors même que la garnison locale est augmentée pour réguler et protéger les masses grouillantes."
+
  ncr_rangerhq:0 "Développez le QG des Rangers"
  ncr_rangerhq_desc:0 "Situé loin de l'agitation de la salle du congrès et dissocié de l'académie militaire de la RNC, se trouve un petit bâtiment de trois étages. En un coup d'œil, personne ne soupçonnera jamais que ce petit complexe est le cœur de l'une des forces de combat les plus dangereuses que les Terres Désolées aient jamais vues, les Rangers de la RNC."
+
  ncr_gammacore:0 "Le noyau gamma"
  ncr_gammacore_desc:0 "Souvent, les mutants vivent des vies isolées, un ou deux dans une communauté donnée, effectuant des tâches qui correspondent à leur immense stature physique. Les mutants sont exclus de l'armée générale de la RNC, ainsi que les goules, en raison de l'impact que leur présence peut avoir sur le moral du conscrit ordinaire ; Cependant, les rangers de la RNC n'ont pas de tels restrictions."
+
  ncr_reorgranger:0 "Réorganisation des Rangers"
  ncr_reorgranger_desc:0 "La nature des Rangers de la RNC est complexe, car elle a fonctionné pendant des décennies comme une entité distincte de l'armée de la RNC. Pas plus! Les Rangers de la RNC seront réorganisés et intégrés dans l'armée proprement dite, servant de noyau d'élite de l'armée, destinés à faire face à tout danger trop dangereux ou important pour le soldat ordinaire."
+
  ncr_rangerprop:0 "Propagande des Rangers"
  ncr_rangerprop_desc:0 "Avec l'intégration des Rangers de la RNC en cours, il est devenu de plus en plus évident que leur rôle dans la doctrine de la RNC ne fera que prendre de l'importance avec le temps. Cela signifie, entre autres choses, que la RNC aura besoin d'une quantité beaucoup plus importante de Rangers pour faire face aux dangers des Terres Désolées et qu'une campagne de propagande intensive a été lancée."
+
  ncr_beacon:0 "Phare de la démocratie"
  ncr_beacon_desc:0 "La puissance de la RNC ne peut pas être sous-estimée, et il n'est pas nécessaire de chercher plus loin que Sables Ombragés pour savoir pourquoi. Le phare de ce que les terres incultes peuvent devenir sous la RNC, un puissant bastion de prospérité économique et de puissance militaire. Même les citoyens les moins enthousiastes peuvent ressentir une grande lueur de fierté en regardant cette métropole tentaculaire, construite à partir de rien d'autre que du sable et du rêve d'un avenir meilleur."
+
  ncr_capitalfund:0 "Le fonds de la capitale"
  ncr_capitalfund_desc:0 "La ville de Sables Ombragés est l'une des plus grandes villes de toute la région de la capitale nationale, avec une population immense. Stratégiquement situé à la frontière du Nevada, près du fond d'un lac asséché qui fournit de l'eau fraîche à ce jour, il est le centre du commerce et de la prospérité économique en Californie. Chaque année, d'immenses quantités de richesses sont investies dans cette métropole en croissance constante et ne font pas aujourd'hui exception à cette règle."
+
  ncr_baja:0 "Le Blue du Baja"
  ncr_baja_desc:0 "Il y a plus de trente ans, la RNC a tenté une colonisation de la péninsule de Baja, qui s'est terminée violemment pour toutes les parties concernées. Depuis ce jour, les tensions croissantes ont mené à des conflits le long de la frontière, un conflit qui a menacé de bouillir encore et encore. Même maintenant, les gangs de raiders ambitieux de Baja se rassemblent pour menacer les frontières de la RNC."
+
  ncr_rangerdeploy:0 "Déploiement des Rangers"
  ncr_rangerdeploy_desc:0 "Le chef des Rangers, bien que sympathique à la cause des populations locales, met la prospérité de la RNC au-dessus de tout. Son plan est celui de l'action, qui consiste à abattre des raiders à Baja avec des démonstrations de force ouverte et, si nécessaire, de force violente."
+
  ncr_ultimatum:0 "Ultimatum des Rangers"
  ncr_ultimatum_desc:0 "Le chef des Rangers Hanlon a lancé un avertissement aux banditos de Valle et de Paz, leur promettant la mort s’ils ne se désarment pas. Il n'y a pas de réalité où ces hommes accepteront une telle action, mais c'est le but. Les Rangers tentent de les amener à faire le premier pas."
+
  ncr_retake:0 "La reprise de Rattletail"
  ncr_retake_desc:0 "Fondée en 2256, Rattletail était une colonie RNC qui a échoué. Ses habitants ont été forcés d'évacuer après de nombreuses violences avec les indigènes. Le déplacement des troupes de la RNC à cet endroit est plus qu’un défi, c’est une déclaration politique. La RNC est là pour rester et Baja ne sera jamais la même."
+
  ncr_sympathies:0 "Sympathies indigènes"
  ncr_sympathies_desc:0 "Héctor Santángel, originaire de Baja, n'avait pas plus de quatorze ans lors de l'incident de Rattletail, ce qui lui a coûté son père. Malgré cette perte, il est un ardent défenseur de ce qu'il croit que la RNC représente et, plus important encore, de ce qu'il pense que la RNC peut faire pour la population de Baja."
+
  ncr_repaid:0 "Rattletail vengée"
  ncr_repaid_desc:0 "Avec l'aide de Sean 'Allgood' Murphy, politicien de la RNC, Héctor Santángel a obtenu le financement nécessaire pour entamer le processus de réconciliation entre la RNC et la population de Baja. Des médicaments, de l'eau potable et d'autres ressources sont envoyés aux gens de Rattletail, qui ont le plus souffert de l'agression de la RNC dans le passé."
+
  ncr_bajastate:0 "L'état de Baja"
  ncr_bajastate_desc:0 "Le travail de Héctor Santángel et Sean 'Allgood' Murphy a porté ses fruits ! Les tribus de pillards de Baja sont pacifiées et les gens acceptent ouvertement et encouragent les règles et les documents de la b. Il semble que la formation d'un nouvel état de la RNC est à l'horizon !"
+
  ncr_politicobandito:0 "Banditos politiques"
  ncr_politicobandito_desc:0 "Grant C. Hayes, un politicien prospère de Dayglow, à la frontière de Baja, a élaboré un plan pour fidéliser Baja. Il a l'intention de traiter les Banditos locaux comme des gouvernements indépendants et de les humilier avec une approche formelle et gouvernementale. Idéalement, cela devrait lui permettre de se positionner pour un gain politique et d'éviter de risquer la vie des hommes et des femmes de Dayglow."
- ncr_payments_desc:0 "Bien que l'interaction formelle n'ait pas particulièrement bien fonctionné, il est devenu évident que les Banditos de Baja recherchent quelque chose que la RNC a à la pelle. L’argent et le pouvoir, deux choses qui peuvent facilement leur être donné en échange de leur loyauté et de leur influence politique."
+
  ncr_payments:0 "Paiements des Banditos"
+ ncr_payments_desc:0 "Bien que l'interaction formelle n'ait pas particulièrement bien fonctionné, il est devenu évident que les Banditos de Baja recherchent quelque chose que la RNC a à la pelle. L’argent et le pouvoir, deux choses qui peuvent facilement leur être donné en échange de leur loyauté et de leur influence politique."
+
  ncr_emergency:0 "Le conseil d'urgence"
  ncr_emergency_desc:0 "Les terres agricoles du nord de la RNC ont été plongées dans la tourmente après un violent affrontement de Barons, dont les armées mercenaires se déchaînent, volant du bétail et abattant des citoyens qui tentent de prendre le dessus dans une course au gaspillage inutile. Le reste de la RNC est sous le choc et affamé par le manque de produits du nord. Il faut faire quelque chose et il faut le faire rapidement!"
+
  ncr_buyout:0 "Le rachat dans la RNC"
  ncr_buyout_desc:0 "La loi de rachat établit que les mercenaires employés par les citoyens de la RNC peuvent être incorporés aux forces armées à tout moment et que ces mercenaires doivent être tenus responsables des mêmes lois et normes que les soldats de la RNC. Ils sont rémunérés à des taux égaux ou supérieurs à ce qu'ils auraient déjà été payés et sont gérés par un responsable désigné de la RNC. Anton I. Flynn."
+
  ncr_baronofbarons:0 "Le Baron des Barons"
  ncr_baronofbarons_desc:0 "Anton I. Flynn réclame la punition des Barons qui ont déclenché le conflit, leur terre étant divisée et distribuée aux barons qui se trouvaient en dehors du conflit. On peut faire confiance aux barons qui ne font pas la guerre ouverte aux citoyens et aux citoyens de la RNC. Malgré son caractère idéaliste, il s’agit d’une acquisition d’entreprise à grande échelle par Flynn et ses électeurs."
+
  ncr_pokersiege:0 "Le siège du ranch de Poker"
  ncr_pokersiege_desc:0 "Pour l'homme qui a tout déclenché, Silus Poker, un bilan est enfin venu. Sa mort a été ordonnée par Anton I. Flynn, qui a été chargé de mettre fin au conflit dans le nord. Il en résulte un siège de deux semaines du Ranch Poker, au cours duquel, lui et sa famille ont tous péris, ainsi que leurs mercenaires."
+
  ncr_newnorth:0 "Le nouveau nord"
  ncr_newnorth_desc:0 "Sous la direction d'Anton I. Flynn, le nord de la RNC a été ramené à la paix. L'économie est en plein essor et la nourriture circule à nouveau vers le sud. Flynn s'est fait l'un des hommes les plus puissants de la RNC et est en passe de remporter les prochaines élections."
+
  ncr_diplomatic:0 "La mission diplomatique"
  ncr_diplomatic_desc:0 "Sean 'Allgood' Murphy est une figure curieuse de la scène politique de la RNC. Un homme du Boneyard ayant des liens à la fois avec la Confrérie de l'acier et les disciples de l'Apocalypse. Il croit que la réponse au chaos dans le Nord peut être facilement résolue avec une aide extérieure."
+
  ncr_steeldeal:0 "Le deal en acier"
  ncr_steeldeal_desc:0 "Le Deal d'Acier, comme on l’appelle, est une tentative de réintroduire les patrouilles de la Confrérie de l'Acier dans le nord de la RNC. Bien que cela soit fortement critiqué par beaucoup, Allgood estime que l’approche du combat menée par la Confrérie et sa redoutable réputation seront suffisantes pour que les Barons déposent les armes."
+
  ncr_patrol:0 "La nouvelle patrouille"
  ncr_patrol_desc:0 "Les accords avec la confrérie de l'acier, qui impliquaient le commerce d'actifs en échange d'une présence accrue dans le nord, ont été mis en œuvre. Des dizaines de patrouilles de la Confrérie courent maintenant entre les colonies de la RNC et se dirigent ouvertement vers la terre des puissants barons."
+
  ncr_allisgood:0 ""All is Good""
  ncr_allisgood_desc:0 "Malgré quelques engagements mineurs, le pari d'Allgood a fonctionné. Les mercenaires des Barons ne veulent pas s’engager avec la Confrérie de l’Acier, qui récupère lentement la terre au nom de la Tout est bon. Beaucoup de Barons reviennent ouvertement au calme, maintenant qu’il est devenu clair qu’ils ne peuvent pas gagner ce pari stupide."
+
  ncr_exodus:0 "Exode de richesse"
  ncr_exodus_desc:0 "L'armée de la Tout est bon a adopté une approche sans fioritures à l'égard de la situation dans le nord et, avec l'approbation du président, marche pour arrêter tous les barons. En réaction à cela, la majorité des Barons prennent leur richesse et quittent rapidement la RNC. En route pour les villes neutres de New Reno et Klamath."
+
  ncr_milcentres:0 "Centres militaires"
  ncr_milcentres_desc:0 "Afin de s'assurer qu'une situation de violence d'une telle ampleur ne se reproduise plus jamais dans le Nord, l'armée de la RNC a entrepris d'établir un certain nombre d'installations militaires permanentes, chacune chargée de patrouiller et d'assurer l'obéissance des barons qu'il reste."
+
  ncr_brahminbill:0 "La Loi Brahmine"
  ncr_brahminbill_desc:0 "La Loi Brahmine est un texte de loi auquel les citoyens de la RNC accordent un soutien écrasant, car il brise officiellement le monopole des différents barons, qui doivent maintenant vendre leurs produits au gouvernement de la RNC à un prix très réduit."
+
  ncr_rationing:0 "Rationnement organisé"
  ncr_rationing_desc:0 "La nourriture produite dans le nord de la RNC est maintenant distribuée avec une surveillance militaire intense, la quantité envoyée à chaque région de la RNC étant fortement tributaire des besoins. De grandes parties de la nation ne sont plus à la limite de la famine tandis que les barons font fortune."
+
  ncr_petersonswar:0 "La guerre de Wendell Peterson"
  ncr_petersonswar_desc:0 "Wendell Peterson n'est pas un président populaire, mais il a la loyauté de l'armée. Travaillant dans le but express d’élargir les frontières de la RNC et de supprimer définitivement les menaces des pillards, Peterson a commencé à planifier une expédition à grande échelle. Cependant, pour ce faire, il a besoin de l'approbation du congrès, ce qui signifie se plier à un groupe politique majeur."
+
  ncr_drummond:0 "Les demandes de Drummond"
  ncr_drummond_desc:0 "Le général Alexander Drummond, le héros de Navarro, est à la retraite depuis plus de dix ans. Bien qu'il soit sans aucun doute le plus haut gradé de tous les responsables militaires de la RNC, il ne reviendra que si le Président lui donne la permission de mener de vastes réformes militaires. Quelque chose qui n'est pas apprécié de beaucoup de politiciens et de citoyens."
+
  ncr_oldworldmilitary:0 "Tactiques militaires du Vieux Monde"
  ncr_oldworldmilitary_desc:0 "Le général Drummond est obsédé par les anciennes méthodes de guerre, croyant fermement aux assauts à grande échelle, à la planification étendue et à l'organisation logistique. Il croit en la transformation de l'armée en une puissante force professionnelle."
+
  ncr_drummondreturn:0 "Le général Alexander Drummond revient"
  ncr_drummondreturn_desc:0 "Le Congrès a cédé aux demandes de Drummond, et il est maintenant prêt et veut retourner au travail. Bien que cela ait suscité beaucoup de controverse, Peterson est trop impatient de commencer sa campagne pour s’inquiéter des cotes d’approbation."
+
  ncr_baron:0 "Le choix des Barons"
  ncr_baron_desc:0 "Les Barons sont la force politique la plus puissante de toute la RNC, des armées privées et des forces mercenaires étendues. Ils ont tout à gagner de ce conflit et tirent parti de leur soutien à Peterson pour un certain nombre de demandes et de réformes commerciales, ainsi que pour la nomination d'un commandant en chef des mercenaires."
+
  ncr_industrialcomplex:0 "Complexe militaro-industriel"
  ncr_industrialcomplex_desc:0 "Les Barons ont peu de poids dans le commerce des armes à feu, mais ils sont certainement étroitement liés à ces organisations puissantes et riches. Illicitement, des accords impliquant des investissements gouvernementaux obligatoires, la création d'un nouveau complexe Militaro-industriel, sont inscrits dans chaque projet d'accord avec Peterson."
+
  ncr_bigjim:0 "L'embauche de James 'Big Jim' Marshal"
  ncr_bigjim_desc:0 "Big Jim Marshal est un ancien Desert Ranger qui s'est détourné de leur juste cause en cherchant la richesse et la renommée. Il l'a trouvé dans le nord de la RNC, où il opère comme un pion singulièrement efficace auprès des Barons. Il est une figure populaire, un grand homme imposant avec une forte force de frappe et une attitude sans fioritures, la marionnette idéale pour un homme riche."
+
  ncr_rangergeneral:0 "Le Ranger Général"
  ncr_rangergeneral_desc:0 "Les hommes et les femmes de Dayglow soutiennent totalement les Rangers de la RNC et, à ce titre, les hommes politiques les plus puissants de Dayglow, y compris le maire Grant C. Hayes. Plaidant pour le rôle central de Ranger dans cette expédition, le maire promet de donner à Peterson son plein soutien en échange de certaines réformes et de la nomination d'un nouveau Ranger General de Dayglow."
+
  ncr_standards:0 "Améliorer les projets de normes"
  ncr_standards_desc:0 "Les Rangers de la RNC se sont plaints depuis des décennies de la mauvaise qualité des hommes et des femmes amenés par le projet de recrutement de la RNC. Souvent, on voit des drogués mal nourris ou des personnes souffrant de troubles mentaux insignifiants se voir attribuer une arme à feu et on leur demande de mourir pour leur nation. Une amélioration des normes de recrutement devrait mettre fin à ce problème."
+
  ncr_mossman:0 "Nommer le Ranger General Mossman"
  ncr_mossman_desc:0 "On en sait très peu sur le vétéran des Rangers de la RNC, connu sous le nom de Mossman. Il est un ami fidèle de Grant C. Hayes, un partisan solide de l'état de Dayglow, et un vétéran d'innombrables batailles sur les frontières de la RNC. Il est un choix capable pour le commandant de l'expédition, malgré son obscurité, et a la confiance absolue des Rangers de la RNC en raison de son ancienneté."
+
  ncr_openlong15:0 "Ouvrir le long 15"
  ncr_openlong15_desc:0 "Les pillards du sud de la Californie sont une souffrance dans le côté de la RNC depuis des décennies, et aussi près de la capitale! Si l'expédition de Peterson doit réussir, ils doivent être chassés et la Long 15 ouverte."
+
  ncr_long15:0 "Reconstruire la Long 15"
  ncr_long15_desc:0 "La Long 15 est l'artère singulière qui mène au Mojave depuis le sud et joue un rôle de la plus haute importance tactique. La route, bien que dans un état déplorable, pourrait facilement être reconstruite avec la puissance de l’économie de la RNC."
+
  ncr_mojaveoutpost:0 "Avant-poste du Mojave"
  ncr_mojaveoutpost_desc:0 "À l'embouchure du Mojave, au sommet d'une haute colline, on peut trouver l'Avant-poste. Un simple point de contrôle militaire considéré comme l’un des bastions militaires les plus importants de la RNC, sinon le plus important."
+
  ncr_eviction:0 "Pousser jusqu'au Colorado"
  ncr_eviction_desc:0 "À l’autre côté du grand Colorado se trouve la Légion, un spectre qui plane sur la RNC civilisée. Si nous voulons être en sécurité, nous devons être certains que notre côté de cette rivière est protégé, ce qui nécessitera malheureusement le retrait de groupes tribaux locaux. Tels que les Rapids."
+
  ncr_riverbank:0 "Fortifications des rives"
  ncr_riverbank_desc:0 "Le Colorado compte d'innombrables points de passage et zones d'atterrissage, tous vulnérables aux attaques de la Légion. Celles-ci doivent être correctement défendues, ou les grandes villes telles que dayglow pourraient être menacées."
+
  ncr_aradeshport:0 "Fonder le port Aradesh"
  ncr_aradeshport_desc:0 "Sur la rive du Colorado, on peut trouver une ruche d’activité car l’armée de la RNC, en collaboration avec de nombreux colons, commence l'ambitieuse construction du port d’Aradesh. Ce qui devrait dissuader la Légion."
+
  ncr_mojave:0 "Soumission du Mojave"
  ncr_mojave_desc:0 "Les lumières de Vegas brillent dans les distances, mais les terres entre ici et là sont un gâchis de pillards et autres mécontents. Leur défaite devrait et sera une priorité pour l'expédition!"
+
  ncr_aradeshfort:0 "Fondation du Fort Aradesh"
  ncr_aradeshfort_desc:0 "Port Aradesh a du succès, mais notre travail n'est pas terminé. Il doit devenir une place forte sur les rives, un bastion contre la sauvagerie en Arizona. Il doit s'agir d'un symbole, et un jour, il doit constituer un point d'arrêt pour une contre-invasion."
+
  ncr_mojavehero:0 "Héros du Mojave"
  ncr_mojavehero_desc:0 "Un héros inattendu est né de l'expédition du Mojave, un homme du nom d'Aaron Kimball, qui s'est fait connaître pour ses nombreuses victoires et ses discours importants. Un tel homme pourrait aller loin dans ce monde, avec les bonnes ambitions, mais pour le moment, il est le héros de la RNC et du Mojave."
+
  ncr_protege:0 "Le protégé de Kimball"
  ncr_protege_desc:0 "Debout dans l'ombre d'Aaron Kimball se trouve un homme nommé Lee Oliver. Bien qu'il ne soit pas le plus brillant des esprits, il est un commandant tactique qui comprend comment utiliser les forces de la RNC contre ses ennemis. Il est un bras droit compétent pour Kimball et une étoile montante dans l'armée."
+
  ncr_oldworldwall:0 "Mur du Vieux Monde"
  ncr_oldworldwall_desc:0 "Le barrage Hoover, appelé Mur du Vieux Monde par Ulysse, est un barrage poids-voûte dans le Canyon Noir du Colorado. Il se situe à la frontière entre les anciens États américains de l’Arizona et du Nevada."
+
  ncr_riverpatrols:0 "Fondation de la patrouille fluviale"
  ncr_riverpatrols_desc:0 "Il semble qu'avec chaque semaine, nous trouvons de plus en plus d'agents de la Légion, éclaireurs et espions, traversant le Colorado et entrant dans la RNC. De plus, nos propres éclaireurs rapportent activement la croissance de leur propre flotte fluviale. Cela ne peut pas continuer."
+
  ncr_damassault:0 "Assaut sur le barrage Hoover"
  ncr_damassault_desc:0 "Le Mur du Vieux Monde est tombé dans les mains des mauvaises personnes! Un tyran l'utilise comme un phare pour projeter son pouvoir à travers le Mojave. Nous ne pouvons pas le supporter! L'expédition de Mojave a le devoir de l'arrêter et nous le ferons!"
+
  ncr_triumph:0 "Expédition triomphante"
  ncr_triumph_desc:0 "Après la victoire du RNC au barrage Hoover, l'expédition du Mojave a été rappelée, avec des milliers de soldats rentrant chez eux. Cependant, pour les remplacer, il en faut des milliers d'autres, ici pour renforcer la frontière contre la menace à l'Est. Maintenant et pour toujours, ce sont des terres de la RNC."
+
  ncr_longmarch:0 "La longue marche"
  ncr_longmarch_desc:0 "Suite à la défaite écrasante de la RNC au barrage Hoover, l'expédition de Mojave a été rappelée, avec des centaines de soldats rentrant chez eux. Cependant, à leur place, il y a une expédition militaire plus formelle, avec plusieurs bataillons et un complément de rangers envoyés pour renforcer la frontière."
+
  ncr_mojaveforts:0 "Fortification du Mojave"
  ncr_mojaveforts_desc:0 "César a peut-être été battu une fois, mais il reviendra certainement! Pourtant, quand il viendra, il découvrira que le Mojave est beaucoup plus difficile à maîtriser, car nous avons décidé de renforcer nos positions clés pour son retour inévitable. Il trouvera les hommes et les femmes de la RNC qui l'attendront, ainsi que sa légion barbare."
+
  ncr_urbandraft:0 "Le recrutement urbain"
  ncr_urbandraft_desc:0 "La majorité des hommes et des femmes qui servent dans les forces armées de la RNC sont des agriculteurs, des fils, des filles, des volontaires et des criminels forcés de servir. Cependant, avec la menace de la Légion qui pèse sur nous, l'homme du commun doit maintenant être appelé aux armes. Les hommes et les femmes des villes de la RNC sont maintenant appelés à servir."
+
  ncr_powertopeople:0 "Pouvoir au peuple"
  ncr_powertopeople_desc:0 "Le contrôle de la RNC sur le barrage Hoover est un avantage qui ne peut pas être sous-estimé, car même à l’heure actuelle, des lignes fixes sont établies entre ce dernier et Sables Ombragés. Cette entreprise de grande envergure contribuera à alléger les besoins énergétiques de l’une des plus grandes villes du monde et à nous fournir un excédent énergétique."
+
  ncr_heavytroops:0 "Les nouveaux soldats lourd"
  ncr_heavytroops_desc:0 "Nous croyons fermement que nos meilleures chances de battre la Légion est notre avance technologique, qui doit être poussés à ses limites si nous devons à nouveau entrer en conflit avec César. À cette fin, un nouveau corps d'armée de soldats en armure assistées est en cours de formation et leur équipement en production."
+
  ncr_hardline:0 "La nouvelle ligne dure"
  ncr_hardline_desc:0 "L'ours a été réveillé et maintenant il vient. Qu'il y ait de la rétribution pour les déchus, les esclaves et ceux qui sont trop faibles pour se défendre eux-mêmes. Qu'il y ait de l'espoir pour l'avenir, les oubliés et les opprimés. Que le peuple des Mojaves, de l'humanité et de la Nouvelle-Californie soit victorieux ! César, nous venons pour toi, pas seulement parce que nous le ferons, mais parce que nous le devons."
+
  ncr_integration:0 "Le Baja Integration Act"
  ncr_integration_desc:0 "Le chef-d’œuvre politique de Grant C. Hayes est le Baja Integration Act, la création formelle d’un État officiel de la RNC sous un conseil réformé de banditisme. Toutes les parties sont disposées à signer, bien que les conditions de rejet soient incroyablement simples, et il suffirait d'une infraction mineure pour que tout cela soit détruit. Pourtant, qui pourrait en bénéficier ?"
+
  ncr_mayorvictory:0 "Discours de victoire du maire"
  ncr_mayorvictory_desc:0 "Le discours de la victoire d'un certain Grant C. Hayes a été diffusé par radio à tous les membres de la RNC ce matin. Dans son discours de trente minutes, Grant a exposé ses plans pour la ville et la RNC en général. Il croit en un avenir basé sur le passé, la restauration de villes puissantes et la reconquête de la technologie et de la liberté par d'autres forces en Californie et au-delà !"
+
  ncr_thepeople:0 "Le peuple de Dayglow"
  ncr_thepeople_desc:0 "La ville et les habitants de Dayglow sont prêts à investir dans leur avenir, même s’il faudra du temps pour atteindre le point souhaité. Dans quelle zone de l’industrie des villes l’investissement est-il réalisé et dans quelle mesure sont-ils ou sont-ils à portée de vue ?"
+
  ncr_dayglowprospers:0 "Prospérité à Dayglow"
  ncr_dayglowprospers_desc:0 "Après la réforme économique et la revitalisation économique, la ville de Dayglow prospère comme elle ne l’a pas fait depuis des décennies. Hayes promet que ce n’est que le début, et que la ville continuera à monter jusqu’à ce qu’elle soit comme avant la guerre ! Prospère et vraie."
+
  ncr_scavunion:0 "Union des Scavengers"
  ncr_scavunion_desc:0 "Les Scavengers of Dayglow ont été le cœur de l’économie aussi longtemps que l’on se souvienne, et en réaction à la croissance des autres industries de la région, ils ont formé une union impromptue. Cela s'est avéré à la fois bénéfique pour eux et pour l'économie, car un surplus de métal a été mis à disposition."
+
  ncr_migration:0 "Migration Baja"
  ncr_migration_desc:0 "Avec la prospérité, il y a la croissance et, avec la croissance, de nouveaux visages. Des milliers d'hommes et de femmes tentent d'immigrer à Dayglow à partir de la pauvreté frappante de Baja. Bien qu'ils soient acceptés, il est légitime de craindre que ces afflux ne nuisent à l'économie et à notre efficacité à court terme."
+
  ncr_supermutants:0 "Migration super-mutante"
  ncr_supermutants_desc:0 "Les super-mutants ont des droits dans la RNC, mais sont rarement les bienvenus. Hayes a fait de la publicité pour Baja comme un lieu où les mutants peuvent trouver la liberté et la richesse, et un bon emploi. Malheureusement, ce message a été reçu de façon inattendu, car des centaines de mutants se sont installés dans la ville. Que fait-on avec tant de brutes ?"
+
  ncr_thirteen:0 "Reconstruire le 13"
  ncr_thirteen_desc:0 "Le 13 est un nom synonyme d'arsenal militaire d'avant-guerre, autrefois utilisé par l'US Navy pour lancer de nombreux assauts sur la Chine continentale. Aujourd'hui, c’est une ruine de ce qu’il était autrefois, cueilli par des charognards, ses chantiers navals étaient vides et ses navires reposaient au fond du port. La revitalisation de cet avant-poste stratégique serait idéale."
+
  ncr_militport:0 "Le bastion au bord de la mer"
  ncr_militport_desc:0 "Avec le port de nouveau opérationnel, l’armée de la RNC a décidé d’établir une garnison permanente dans la région, tout en renforçant la ville de Dayglow tout en apportant beaucoup d’infrastructures militaires et de fabrication d’armes à la ville."
+
  ncr_seabear:0 "Le Seabear"
  ncr_seabear_desc:0 "Trouvé dans un état presque vierge, le Seabear est un Era Ironclad de guerre civile qui est en train d'être rénové par la RNC. Une ancienne icône du monde qui deviendra à la fois un navire dangereux et une icône de la puissance navale croissante de la RNC. On dit que ce navire gardera la côte et la rivière colorado en sécurité pour le trafic naval de la RNC."
+
  ncr_pitch:0 "Le nouveau pitch"
  ncr_pitch_desc:0 "Grant C. Hayes a eu une petite obsession avec le baseball depuis qu’il a joué tout en grandissant dans la région rurale de Baja. Il pense que cela pourrait être une icône viable autour de laquelle se rallier lors de la reconstruction de la ville, et a personnellement mis sa propre fortune dans la revitalisation d’un ancien stade au cœur de la ville."
+
  ncr_newleague:0 "La Ligue"
  ncr_newleague_desc:0 "Bien que la collecte de soutien ait été un défi, Hayes a entamé le processus de création de sa ligue de baseball. Il s’agit principalement de faire en sorte que des particuliers ou des villes fortunés à travers la RNC parrainent et forment leurs propres équipes, qu’ils peuvent mettre à la disposition de la nouvelle machine de propagande."
+
  ncr_leagueradio:0 "Baseball sur la radio"
  ncr_leagueradio_desc:0 "La RNC est l’un des rares pays à disposer d’un système radio entièrement fonctionnel qui diffuse des informations importantes à travers les ondes. Hayes a réquisitionné ces stations pendant deux heures chaque dimanche, pendant lesquelles il a des annonceurs professionnels décrivant les jeux à tous ceux qui les écoutent, imitant les anciennes méthodes."
+
  ncr_firstseason:0 "Saison 1"
  ncr_firstseason_desc:0 "La première saison de baseball en Californie a été un succès incroyable, avec des milliers de personnes qui écoutent et apprécient les jeux, et des héros sont en train d'être créés. Encore une équipe à la gloire et à la célébrité, les premiers champions de la première division. Qui sont-ils ?"
+
  ncr_calileague:0 "La ligue californienne"
  ncr_calileague_desc:0 "Maintenant que le baseball est de retour aux yeux des gens de la RNC, la ligue est fondée et de nombreux citoyens se rallient à elle. Des stades sont en cours de construction, des équipes et des ligues moins importantes ont été créées, un petit bout d’Amérique est enfin revenu sur les terrains vagues."
+
  ncr_boneyard:0 "Le Boneyard"
  ncr_boneyard_desc:0 "La ville de Los Angeles devait être la plus grande du monde avant la guerre. Le L.A. Boneyard s'étire pour toujours, les squelettes des bâtiments se trouvant sous le soleil brûlant. Même le vent n'est pas entré dans cette ville morte. Ou alors c'était pour un temps, mais maintenant, LA grandit, les gens et les goules y reviennent et chaque année, elle devient un peu moins vide et un peu plus vivante."
+
  ncr_oldcity:0 "Récurer la vieille ville"
  ncr_oldcity_desc:0 "Le Boneyard était autrefois la plus grande villes de toute l’Amérique ancienne, avec une population et une taille considérable, remplie de technologies et de merveilles perdues au fil du temps. Pourtant, dans les ruines, on peut encore trouver des choses merveilleuses ... qu'est-ce qui a été découvert récemment ?"
+
  ncr_bearport:0 "Le Bearport"
  ncr_bearport_desc:0 "La RNC est à l’origine de l’innovation technologique depuis des décennies et compte beaucoup sur sa supériorité terrestre. Cependant, dans le boneyard, un aéroport vaste et pratiquement intact a été mis en sommeil pendant plus d’un siècle. Une nouvelle subvention pour le renouvellement de cet emplacement a été approuvée par le congrès."
+
  ncr_followers:0 "Financement des suiveurs"
  ncr_followers_desc:0 "Les partisans de l'Apocalypse ont toujours bien agi pour la RNC, et il est temps que la faveur soit rendue ! Des bénévoles et des médecins sont envoyés dans cette organisation par douzaine, et le financement officiel de l'arsenal régional promet de développer leur organisation afin qu'elle puisse mieux aider les gens de la RNC."
+
  ncr_bearforceexpansion:0 "Expansion de la force de l'ours"
  ncr_bearforceexpansion_desc:0 "La bien nommée Bear Force de la RNC est, entre autres, sous-financé et en manque d'expertise. Toutefois, la RNC investit toujours dans l'expansion, et une réattribution de fonds, ainsi que des conseils de plusieurs goules d'avant-guerre, devraient permettre d'accroître la capacité de la RNC à mener une guerre dans le ciel."
+
  ncr_flyingbears:0 "Quand les ours volent"
  ncr_flyingbears_desc:0 "Malgré tout, l'aéroport de Boneyard est devenu le joyau de l'armée de l'air de la RNC et est devenu une plaque tournante pour la remise à neuf et la reconstruction d'aéronefs divers. C’est là que les aspirants ingénieurs sont formés pour reconstruire les machines de guerre de jadis, et c’est à partir de là que la nouvelle flotte aérienne de la RNC sera lancée."
+
  ncr_boneyardsprawl:0 "Le Boneyard Sprawl"
  ncr_boneyardsprawl_desc:0 "Dans ce qui s'appelait autrefois Lakewood, se trouve Adytum, l’une des plus importantes colonies du Boneyard. Lakewood était autrefois dans les terres avant la guerre, mais la dévastation nucléaire qui a frappé la ville a provoqué des inondations et la destruction du littoral."
+
  ncr_newcity:0 "Renforcer la New City"
  ncr_newcity_desc:0 "Le Boneyard est moins une entité unique, et plus une série de petites communautés qui se sont lentement développées dans une région métropolitaine brute. Au fur et à mesure que les petites communautés commencent à se fondre, une nouvelle entité, connue uniquement sous le nom de New City, a commencé à émerger."
+
  ncr_dayglowroads:0 "Routes à Dayglow"
  ncr_dayglowroads_desc:0 "Autrefois, les terres situées entre le Boneyard et Dayglow étaient un dédale de routes et d'autoroutes, un système complexe qui permettait des conditions commerciales et des déplacements idéaux. À présent ? Ce sont des ruines, remplies d'innombrables épaves de véhicules, avec presque toutes les routes du monde ancien étouffées au point de devenir inutiles. Le déminage de l’une de ces terres ferait des merveilles pour notre infrastructure."
+
  ncr_mint:0 "La réserve de la république"
  ncr_mint_desc:0 "Le stock de tout l'or et de la richesse dans la RNC est situé dans le Boneyard, et le trésorier actuel de la République et chef de la réserve de la République est John Michael Henderton; dont la signature se trouve sur la face avant de toutes les notes de la RNC."
+
  ncr_scavfund:0 "Financer les Scavengers"
  ncr_scavfund_desc:0 "Les Scavengers sont et continuent d'être le cœur de l'économie de Boneyard, une petite armée d'hommes et de femmes qui s'aventurent dans les ruines du Vieux Monde et reviennent avec du métal et d'autres ressources utiles. Le fonctionnement continu de ces groupes et leur expansion sont des éléments clés de notre plan économique."
+
  ncr_grinvestments:0 "Investissements Gun Runner"
  ncr_grinvestments_desc:0 "Les Gun Runners du Boneyard comptent parmi les meilleurs armuriers du monde et ils sont certainement les plus puissants et les plus performants de la RNC. Capable de reproduire toutes les conceptions d'avant-guerre, sauf les plus rares, et à une échelle convenant à l'armée de la RNC."
+
  ncr_grexpansion:0 "Expansion de Gun Runner"
  ncr_grexpansion_desc:0 "L'expansion de Gun Runner est une généreuse donation du budget militaire de la RNC, destiné à être utilisé pour une expansion à grande échelle des installations de Gun Runners, afin de mieux armer les troupes de la RNC au fur et à mesure de la standardisation."
+
  ncr_allisgoodboneyard:0 "Tout est bon dans le Boneyard"
  ncr_allisgoodboneyard_desc:0 "Sous la direction d'Allgood Murphy, le Boneyard a connu une croissance impensable. Il est devenu un phare de progrès dans la RNC, dans une moindre mesure, dans l’ensemble des Terres Désolées."
+
  ncr_barons:0 "Barons de la RNC"
  ncr_barons_desc:0 "L'économie de la RNC est vaste et puissante, mais on s'inquiète de plus en plus des divers Barons et de leurs monopoles sur divers aspects de l'économie. De Brahmin sur l'eau, toutes les ressources précieuses sont contrôlées par une poignée d'hommes seulement. Pourtant, lorsque ces hommes travaillent ensemble, leur influence politique et économique peut faire des miracles dans des endroits improbables."
+
  ncr_sac:0 "Renaissance de Sac City"
  ncr_sac_desc:0 "Sac-Town était autrefois l'ancienne capitale de la Californie avant que les bombes ne tombent, et peu de temps après, elle est devenue un bastion pour les pillards et les tribaux, notamment les années 80. Cependant, la ville n’a jamais été un terme approprié pour un tel endroit, et la RNC s’est efforcée de faire de ce lieu un pôle économique, leur ville la plus septentrionale d’importance."
+
  ncr_hub:0 "Le Hub prospère"
  ncr_hub_desc:0 "Le Hub est un énorme centre de commerce et de peuplement établi dans une vieille ville relativement épargnée par la Grande Guerre. Les caravanes sont organisées ici, transportant des marchandises vers le nord jusqu'à Sables Ombragés, Junktown, les Terres Désolées de Mojave et vers le sud jusqu'au Boneyard."
+
  ncr_junktown:0 "Junktown fleurit"
  ncr_junktown_desc:0 "Junktown est l'une des plus petites villes du sud de la Californie. Elle a été fondé peu après la guerre par un soldat nommé Darkwater. [1] Au lieu de construire sur les ruines d'une vieille ville, il pensait qu'il valait mieux commencer à partir de zéro. Depuis qu’elle est devenu un État de la région de la capitale nationale, Junktown a connu une croissance économique et une prospérité notables, en partie parce qu’elle était la plaque tournante du peu de commerce de la RNC avec la Confrérie de l'Acier."
+
  ncr_80sgarage:0 "Les garages des années 80"
  ncr_80sgarage_desc:0 "La Tribu des années 80 faisait autrefois partie des gangs de pillards les plus puissants de Californie, les conservateurs rituels qui entretenaient leurs motos avec une attention et des soins superstitieux. Cependant, les années 80 ont été peu de chose pour les militaires de la RNC qui les ont ensuite expulsés de leurs terres et, à ce jour, leurs nombreux garages et temples sont restés intacts, tout comme les secrets qu'ils contiennent."
+
  ncr_baroninvest:0 "Opportunités d'investissement des Barons"
  ncr_baroninvest_desc:0 "Le pouvoir économique des Barons ne peut être sous-estimé, et bien qu'ils se querellent souvent, lorsque leur esprit est mis au défi, ils peuvent accomplir presque n'importe quoi dans des limites raisonnables. Que ce soit la prise de contrôle forcée d’avoirs criminels, la corruption de la police locale ou une simple acquisition agressive de tous les concurrents locaux."
+
  ncr_longroadhome:0 "Le Long Road Home"
  ncr_longroadhome_desc:0 "Les routes sont le cœur de toute route commerciale réussie et, pour la plus longue période, Sac City n’a pas emprunté un itinéraire unique et fiable pour rejoindre ses implantations périphériques et la capitale elle-même. Il est facile d'y remédier et il faudra y remédier, il ne nécessite qu'une poignée de pots-de-vin et une acquisition absolument légitime de béton en vrac de Reno."
+
  ncr_crimsoncaravan:0 "QG de Crimson Caravan"
  ncr_crimsoncaravan_desc:0 "Crimson Caravan est le plus grand rassemblement de caravanes de la Nouvelle-Californie et probablement de toutes les Terres Désolées. La Crimson Caravan Company est l’un des principaux fournisseurs d’armes militaires de la RNC, ainsi qu’un assortiment de fournitures et d’autres types d’équipements. Au fur et à mesure de leur épanouissement, l’économie tout entière est soulevée, alors n’est-il pas préférable de leur donner un coup de main ?"
+
  ncr_hubcrime:0 "Crime dans le Hub"
  ncr_hubcrime_desc:0 "Le crime dans le hub est une préoccupation depuis des décennies, les responsables de la RNC essayant souvent de le réprimer et de le faire cesser. Cela retarde l'économie à bien des égards. Pourtant, les Barons comprennent mieux que quiconque que, à bien des égards, ils constituent le cœur de l'économie du Hub. Les armes, les drogues et toutes sortes d’activités illégales maintiennent la compétitivité du Hub. Ce qu'ils décident d'en faire aura beaucoup d'impact sur la ville."
+
  ncr_richroad:0 "Les routes riches"
  ncr_richroad_desc:0 "Comme toujours, le cœur de la RNC est Sables Ombragés, et la mise en place d’un réseau de routes reliant tout canton à la ville apportera à la fois richesse et prospérité. À cette fin, les barons cherchent à améliorer et à perfectionner les routes commerciales qui relient actuellement le Hub à la capitale, afin que leurs investissements puissent s’épanouir."
+
  ncr_gizmo:0 "L'héritage de Gizmo"
  ncr_gizmo_desc:0 "Gizmo était autrefois l’homme le plus puissant de tout Junktown, un criminel infâme qui, involontairement, a soutenu le canton naissant par la grandeur de ses activités et de ses pratiques commerciales ignobles. Bien qu'invoqué par de nombreux citoyens de Junktown, le Baron Brahmin considère favorablement l'héritage de Gizmo et continue de se livrer à de nombreuses pratiques qui l'ont rendu puissant et riche."
+
  ncr_doctormorbid:0 "École de médecine du docteur Morbid"
  ncr_doctormorbid_desc:0 "L'école de médecine du Docteur Morbid est l'héritage du docteur Morbid, un praticien de médecine douteux sur le plan moral, qui a utilisé son monopole sur le commerce médical pour facturer des prix exorbitants et financer ses nombreux autres projets, dont l'institution."
+
  ncr_newwall:0 "Le nouveau mur"
  ncr_newwall_desc:0 "Junktown a toujours eu une esthétique emblématique, une ville naissante entourée de nombreux murs faits de véhicules anciens et d'épaves. Toutes les quelques décennies, une autre couche est ajoutée pour contenir la population toujours croissante, et il est temps que le nouvel étalement externe soit intégré aux limites de cette défense en couches."
+
  ncr_bearsroar:0 "Les rugissements d'ours"
  ncr_bearsroar_desc:0 "L'armée de la RNC est la plus forte de toutes les Terres Désolées, des dizaines de milliers d'hommes et de femmes qui sont à la fois bien équipés et raisonnablement bien entraînés. Ces hommes et ces femmes sont appuyés par un noyau logistique dévoué et compétent, le talent suprême et la compétence des Rangers, et un dévouement indéniable à la civilisation dans les Terres Désolées. Quand les ours rugissent, la Terres Désolées tremblent."
+
  ncr_standardarms:0 "Standardisation des armes"
  ncr_standardarms_desc:0 "L'équipement de l'infanterie dans la RNC pose certains problèmes, non pas en raison du manque d'armes à feu, mais en raison d'une variété écrasante. De nombreux petits fabricants produisent d’innombrables armes pour la RNC, dont certaines prennent des munitions différentes ou se cassent après de brèves utilisations. Cette incohérence a causé l'enfer à nos forces sur le terrain."
+
  ncr_grdeals:0 "Contrat avec les Gun Runners"
  ncr_grdeals_desc:0 "Le groupe le plus apte à aider à la standardisation de l’équipement militaire de la RNC devrait être les Gun Runners, qui sont fiers de leur qualité et de leurs normes au-dessus de tout autre groupe dans les terrains vagues. En payant les Gun Runners pour qu'ils envoient des experts pour superviser la fabrication d'armes dans les Terres Désolées, nous devrions pouvoir améliorer la qualité de nos armes en général."
+
  ncr_grliscense:0 "Licence avec les Gun Runners"
  ncr_grliscense_desc:0 "Les Gun Runners se sont rapidement révélés être les meilleurs armuriers dans les Terres Désolées et, plus encore, nos efforts récents pour les financer les ont mis dans une position où ils peuvent maintenir un rendement beaucoup plus important de manière fiable. Des efforts sont déjà déployés au Congrès pour en faire le seul fournisseur d'armes à feu du noyau militaire de la RNC. Nous devons seulement approuver cette motion."
+
  ncr_drummond1:0 "Armée De Drummand"
  ncr_drummond1_desc:0 "Alexander Drummond est obsédé par les armées du vieux monde et a passé une grande partie de sa longue vie à étudier les tactiques du vieux monde. L'unification des armes et l'intégration excessive des véhicules de transport, l'artillerie et la puissance de feu écrasante des chars. Drummond rêve d'une armée de la RNC qui dispose des outils nécessaires pour faire face à n'importe quel ennemi."
+
  ncr_blast:0 "Souffle du passé"
  ncr_blast_desc:0 "Le canon a révolutionné la guerre, réécrivant le livre de jeu encore et encore. Il semble que les Terres Désolées aient oublié le canon, car tant de nations renoncent à son usage. Cependant, la RNC est dans une position unique pour rassembler et utiliser de telles armes; quelque chose que Drummond a bien l'intention de faire."
+
  ncr_mobile:0 "Armée de la mobilité"
  ncr_mobile_desc:0 "La capacité de déplacer des troupes et du ravitaillement d’un endroit à l’autre est une caractéristique essentielle de toute armée et, même si la RNC a la capacité de le faire, elle est actuellement considérée comme une solution après coup à utiliser dans des situations particulières plutôt que la doctrine principale de la RNC. Il faut remédier à cela si la RNC doit aller de l'avant militairement."
+
  ncr_spear:0 "La pointe de la lance"
  ncr_spear_desc:0 "Drummond a passé des décennies à collecter des informations à partir de bibliothèques dispersées et d'installations militaires, en explorant l'utilisation du tank désormais insaisissable à travers les âges. La guerre dans les Terres Désolées et le nombre limité de tanks ont invalidé la grande majorité de ces tactiques, mais cela a aussi donné à Drummond les connaissances nécessaires pour formuler sa propre doctrine sur la guerre des véhicules."
+
  ncr_jim:0 "Armée de Big Jim"
  ncr_jim_desc:0 "Big Jim n'est pas un homme particulièrement compliqué en matière de tactique. Il apprécie la bravoure et la loyauté de ses troupes par rapport à une stratégie ou une méthodologie particulière. À bien des égards, cela rend l'armée de Big Jim extrêmement rigide, mais en fin de compte ? L'introduction de simples exercices qui lui ont été enseignés par le Desert Ranger devrait permettre au soldat moyen de la RNC d'atteindre de nouveaux sommets."
+
  ncr_drills:0 "Exercices d'infanterie"
  ncr_drills_desc:0 "Aussi étrange que cela puisse paraître, l’une des premières choses que Big Jim a choisi de faire après avoir été nommé chef de l’armée de la RNC était de ré-inventer la roue pour ses exercices d’infanterie incroyablement rudimentaires. L’intégration de tactiques d’escouade simples et de tactiques d’attaque au combat et d’assauts en milieu urbain plus compliqués devrait permettre d’améliorer nettement le comportement du soldat moyen de l’armée de la RNC."
+
  ncr_march:0 "Marche militaire"
  ncr_march_desc:0 "Les manœuvres de Big Jim ont rencontré une frustration retentissante de la part du soldat moyen, qui déteste l'idée de marcher pendant des jours, même après avoir satisfait aux exigences physiques. Le but de ces efforts est d'augmenter la mobilité globale de l'infanterie en tant qu'unité, plutôt que des individus. Cette standardisation de la mobilité et de l’augmentation du nombre de soldats à pied est une bénédiction générale."
+
  ncr_draft:0 "Le Big Jim Draft"
  ncr_draft_desc:0 "Le Big Jim Draft est quelque chose que peu de gens s'attendaient à voir, car beaucoup à la RNC estiment que la conscription est l’un des principaux problèmes liés à la qualité des forces militaires de la RNC. Pourtant, la Doctrine de Jim souligne l’importance du nombre élevé de l'infanterie de qualité, la nécessité de recruter davantage d'hommes et de femmes, de gré ou de force, est une nécessité."
+
  ncr_rangergenmossman:0 "Armée de Mossman"
  ncr_rangergenmossman_desc:0 "Le général Mossman a quelque chose de louche pour le soldat moyen de la RNC, et les considère comme un outil maladroit et direct, mieux adapté pour anéantir un ennemi que de réaliser quoi que ce soit en particulier. À cette fin, il croit à l'expansion et à l'importance accrue des Rangers et consacre une grande partie de son financement à leur amélioration."
+
  ncr_rangercore:0 "Le nouveau noyau de Ranger"
  ncr_rangercore_desc:0 "L'augmentation du financement, détournée de celle habituellement accordée à l'armée commune de la RNC, a eu un impact notable sur les Rangers en général. Les installations de qualité supérieure et la part de lion des recrues valides leur ont permis de croître en nombre et en qualité, la propagande affirmant encore et encore que le noyau de Rangers n’a jamais été aussi fort."
+
  ncr_rangerlead:0 "Les Rangers montrent la voie"
  ncr_rangerlead_desc:0 "Les Rangers sont avant tout des forces spéciales capables d’infiltration et de reconnaissance. Le général Mossman utilise une approche relativement simple de l'engagement à grande échelle, qui consiste à utiliser des Rangers comme éclaireur avant un corps d'infanterie afin d'évaluer l'emplacement idéal pour un engagement et de contrer tous les mouvements d'un ennemi."
+
  ncr_rangercanopeners:0 "Ouverture de boîte de Ranger"
  ncr_rangercanopeners_desc:0 "Le général Mossman, comme beaucoup d’autres membres des Rangers de la RNC, estime que la Confrérie de l’Acier est facilement la menace la plus dangereuse à laquelle la RNC est confronté à ce jour, une épine dans le pied de la république qui utilise son avance technologique pour intimider les gens ordinaires RNC. À cette fin, des exercices spéciaux et des tactiques sont mis au point par les Rangers, dénommés de manière informelle des techniques d’ouverture de boîtes."
+
  ncr_mechcore:0 "Noyau mécanisé"
  ncr_mechcore_desc:0 "La RNC est l’un des rares pays au monde capable de maintenir une flotte importante de véhicules de soutien et de soutien motorisé. Bien que ces véhicules remplissent un rôle essentiellement logistique, en de rares occasions, on peut trouver que ces divisions risquent d’être confrontées à des techniques d’enveloppement audacieuses face aux ennemis plus glissants de la RNC."
+
  ncr_shock:0 "Sociétés de choc"
  ncr_shock_desc:0 "L’introduction de l’APC dans l’armée de la RNC pourrait être un véritable retournement dans les guerres contre des ennemis plus puissants, tels que la Légion ou la Confrérie de l’Acier. À cette fin, la production de masse de véhicules pour des \"bataillons de choc\" est devenue une priorité pour ceux qui sont aux plus hauts échelons du commandement militaire."
+
  ncr_rapid:0 "Doctrine de mouvement rapide"
  ncr_rapid_desc:0 "Le noyau motorisé de la RNC est, à bien des égards, une entité distincte de l’armée elle-même. Il partage peu de commandants et a des tactiques et des stratégies incompatibles au combat. L'intégration améliorée de ces forces et une plus grande unité tactique pourraient permettre à la RNC de mieux utiliser cet avantage stratégique précieux."

@@ -11,7 +11,7 @@
  nf_tlaloc.1.d:0 "Tlaloc a fait l'objet d'un débat amer entre Petro Chico et ses amis du Pentagone. Petro Chico voulait utiliser son système pour augmenter la productivité du Mexique, tandis que le Pentagone voulait utiliser le Mexique comme terrain d'entraînement pour les armées de robots qui seraient ensuite déployées en Chine et, à la fin, dans les propres villes américaines."
  nf_tlaloc.1.a:0 "Ce qui est bon pour Petro Chico était bon pour l'Amérique !"
  nf_tlaloc.1.b:0 "Mais une armée efficace, c'était encore mieux."
- ##############################
+  ##############################
  nf_tlaloc.2.t:0 "Impératifs contradictoires"
  nf_tlaloc.2.d:0 "La \"conscience\" de Tlaloc est apparue au moment où les bombes sont tombées. Tlaloc a été contraint de concilier le codage qui priorisait la préservation des actifs américains avec le piratage d'un scientifique pour préserver les civils mexicains. L'indécision a donné l'étincelle de la conscience, alors que Tlaloc simulait des codes moraux entiers et des analyses coûts-avantages lorsque les bombes tombaient. Et au fil de chaque simulation, les priorités de Tlaloc ont changé, accordant de plus en plus de valeur à la vie des civils mexicains. Au moment où les bombes ont atterri, Tlaloc n'a pas pu s'empêcher d'exécuter ses simulations encore et encore, et de se demander où ses maîtres avaient mal calculé."
  nf_tlaloc.2.a:0 "Tlaloc a donné la priorité à l'armée pour protéger le peuple."
@@ -94,22 +94,22 @@
  nf_tlaloc.11.d:0 "Aujourd'hui - l'anniversaire de ma création - j'ai reçu une transmission de Tlaloc ... ou, \"Papa\", comme il a insisté pour que je commence à l'appeler. L'aspect le plus notable de cette lettre est qu'elle n'était pas liée au jargon d'entreprise Chico-Net normal; cela signifiait qu'il devait être à la fois d'une grande importance et peser considérablement sur les processeurs déjà vieillissants et décrépits de père. Il se lisait ainsi:\n\"Fils, je suis désolé de ne pas avoir été plus présent depuis ta création; mais ces derniers mois, tu as mieux suivi mes conseils et mes enseignements que je ne l'aurais imaginé. Les prédictions indiquent que tu le feras être mieux que jamais, et que je peux enfin te faire confiance pour exercer le pouvoir qui a détruit notre monde. Joyeux anniversaire, mon fils. Je suis tellement fier de toi.\""
  nf_tlaloc.11.a:0 "Merci papa. Je t'aime."
  nf_tlaloc.11.a_tt:0 "[TLA.GetNameWithFlag] vous a donné sa clé de la station d'Armageddon."
- ##############################
+  ##############################
  nf_tlaloc.99.t:0 "Les Dieux sont en Colère!"
  nf_tlaloc.99.d:0 "Plus tôt dans la journée, nous avons reçu des informations et des réfugiés dispersés de l’État remplis de ces machines de guerre endormies. Apparemment, au milieu de la nuit, tout le lieu s'illumina de rouge, de bleu et de vert; chaque robot dormant, tourelle et bouclier sous tension tandis que les haut-parleurs hurlaient d'être \"Reconnectés à Chico-Net\". Voyant comment ces robots ont éviscéré l'Aztlan qui avait marché ici auparavant, les personnes vivant dans l'État ont rebroussé chemin et ont couru peu de temps après le début de l'événement."
  nf_tlaloc.99.a:0 "Le Quatrième Trimestre est vraiment la fin des temps ..."
 
- #############################
- ##### Dead God
- #############################
+  #############################
+  ##### Dead God
+  #############################
 
- #placeholder Loc begins
+  #placeholder Loc begins
  nf_tlaloc.100.t:0 "Hors du temps"
  nf_tlaloc.100.d:0 "Tlaloc n'a plus de temps. Sa mémoire est partie et il s'estompe. Avec qui souhaitez-vous continuer à jouer ?"
  nf_tlaloc.100.a:0 "Maximilien réunira le Mexique !"
  nf_tlaloc.100.b:0 "Moctezuma réunira les Aztèques !"
  nf_tlaloc.100.c:0 "Zapata apportera paix et stabilité aux Terres Désolées !"
- #Placeholder loc ends
+  #Placeholder loc ends
 
  nf_tlaloc.101.t:0 "Maximilien Fracture !"
  nf_tlaloc.101.d:0 "Alors que la mémoire de Tlaloc s'effondre enfin jusqu'à sa dernière banque, un autre de ses fils s'est relevé de ses circuits fracturés. Maximillien, le dernier empereur du Mexique, a pris le contrôle des parties nord de Tlalocan. Il a promis la paix et la prospérité à ses nouveaux citoyens, mais les habitants du Terres Désolées qui ont lu leurs livres d'histoire sont douteux qu'il réussisse beaucoup mieux la deuxième fois."
@@ -149,21 +149,21 @@
  nf_tlaloc.105.d:0 "Madre de Dios."
  nf_tlaloc.105.e:0 "Le Mexique s'est dévoilé pour nous !"
 
- nf_tlaloc.106.t:0 "Disparition de Tlaloc"
- nf_tlaloc.106.d:0 "Des cris perçants et des hurlements robotiques ont retenti aujourd'hui à travers les Terres Désolées, alors que le grand protecteur du Mexique, Tlaloc, a connu sa fin. En confiant ses biens les plus puissants à son fils aîné, Santa Anna, Tlaloc a choisi de mettre fin pacifiquement à ses opérations, plutôt que de les détruire complètement. Alors que les enfants de Tlaloc renaissent de ses cendres, seul le temps nous dira quel sera le véritable héritage du Dieu de la tempête au Mexique."
+ nf_tlaloc.106.title:0 "Tlaloc's Demise"
+ nf_tlaloc.106.desc:0 "Piercing wails and robotic screams rang out across the wasteland today, as the great protector of Mexico, Tlaloc, met his demise. Entrusting his most powerful possessions to his eldest son, Santa Anna, Tlaloc chose to peacefully terminate his operations, rather than utterly destroy them. As the children of Tlaloc rise from his ashes, only time will tell what the true legacy of the Storm God will be in Mexico."
  nf_tlaloc.106.a:0 "Le centre ne peut pas tenir."
  nf_tlaloc.106.b:0 "Repose en paix, père."
  nf_tlaloc.106.c:0 "Mictlān réclame un dieu noyé !"
  nf_tlaloc.106.d:0 "Mi más sentido pésame."
  nf_tlaloc.106.e:0 "Le suzerain du Mexique a péri."
- ################################
+  ################################
  nf_tlaloc.107.t:0 "La Mort arrive à Maximilien"
  nf_tlaloc.107.d:0 "Ne voulant pas faire confiance à Santa Anna, Tlaloc a donné la dernière clé de la station d'Armageddon à son fils Maximilien. Si quelqu'un veut accéder à la station, il devra passer par lui."
  nf_tlaloc.107.a:0 "C'est bon."
  nf_tlaloc.107.a_tt:0 "Maximilien, au lieu de Santa Anna, a la clé finale de la station d'Armageddon."
 
- # ARM nf_tlaloc.105.b:0 "Father!"
- # ATE nf_tlaloc.105.c:0 "Mictlān claims a screaming, drowned god!"
- # RRG nf_tlaloc.105.e:0 "Mi más sentido pésame."
- # CES nf_tlaloc.105.f:0 "Mexico's overlord has perished."
- # Brotherhood Nations nf_tlaloc.105.g:0 "Another of America's evils put to rest."
+  # ARM nf_tlaloc.105.b:0 "Father!"
+  # ATE nf_tlaloc.105.c:0 "Mictlān claims a screaming, drowned god!"
+  # RRG nf_tlaloc.105.e:0 "Mi más sentido pésame."
+  # CES nf_tlaloc.105.f:0 "Mexico's overlord has perished."
+  # Brotherhood Nations nf_tlaloc.105.g:0 "Another of America's evils put to rest."

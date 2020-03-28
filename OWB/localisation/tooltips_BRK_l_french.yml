@@ -1,4 +1,5 @@
 ﻿l_french:
+ # tooltips
  brk_can_raid_vic_or_hai:0 "La cible est soit §H [VIC.GetNameDef]§! ou §H [HAI.GetNameDef]§!: nous pouvons lancer un raid naval à la fois.\n"
  brk_raid_decisions:0 "L'effet de la suppression de cette décision dépend de la façon dont [From.GetNameDef] réagit à notre raid!\n"
  brk_activate_escalation_decision:0 "Une nouvelle décision est apparue qui nous permettra d'intensifier notre raid actuel en un conflit frontalier.\n"

@@ -1,28 +1,30 @@
 ﻿l_french:
  spacer_tt:0 "\n"
  annex_wargoal_against_owners_of_the_states_tt:0 "Gagne les objectifs de guerre pour §Yl'Annexion§! contre §Ytous ceux qui possèdent cet État§!"
- # named threat
+  # named threat
  took_territory:0 "A volé le territoire revendiqué."
  returned_territory:0 "A rendu le territoire revendiqué."
 
- #Research tooltips
+  #Research tooltips
  gauss_weapons_research_tt:0 "Permet la recherche d'Armes de Gauss.\n"
  xian_fighter_research_tt:0 "Permet la recherche de combattants Xian-85.\n"
  vertibirds_research_tt:0 "Permet la recherche des avions Vertibirds.\n"
  enclave_pa_research_tt:0 "Permet la recherche de modèles d'Armure Assistée de l’Enclave.\n"
  plasma_weapons_research_tt:0 "Permet la recherche d’Armes à Plasma.\n"
 
- #Rule tooltips
+  #Rule tooltips
  RULE_NOT_ALLOWED_TO_RELEASE_TLALOC:0 "Nous n'avons pas la technologie pour restaurer Tlaloc."
  RULE_NOT_ALLOW_RELEASE_DECISION:0 "Vous ne pouvez pas libérer cette nation en outre par décision."
  RULE_NOT_ALLOW_RELEASE_EVENT:0 "Cette nation ne sera libérée que par événement."
 
- #Scripted Effect tooltips
+  #Scripted Effect tooltips
  give_next_level_of_weapon_equipment_tt:0 "Nous recevrons le prochain niveau de technologie des armes dans la branche de notre choix.\n"
 
- #Bypass Generic Tooltip
- own_all_core_states_of_war_nation_tt:0 "Chaque état coeur de(s) nation(s) spécifiée(s) dans ce focus est possédé par vous ou vos sujets."
+  #Decimation Tooltips
  decimate_half_all_industry:0 "L'industrie dans cet État est §Rdécimée§!.\n"
 
- #Scavenging Tooltips
+  #Bypass Generic Tooltip
+ own_all_core_states_of_war_nation_tt:0 "Chaque état coeur de(s) nation(s) spécifiée(s) dans ce focus est possédé par vous ou vos sujets."
+
+  #Scavenging Tooltips
  rescue_team_send:0 "A envoyé une équipe de secours."

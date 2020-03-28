@@ -1,178 +1,267 @@
 ﻿l_french:
  new_american_pmc:0 "SMP américaine"
  new_american_pmc_desc:0 "Les armées de New Reno ont toujours été un méli-mélo de forces mercenaires, engagées dans toutes les Terres Désolées pour faire respecter la volonté des familles. Ces hommes et ces femmes sont tout à fait disposés à travailler pour la pièce de l'enclave."
+
  new_oldworld:0 "Le vieux monde"
  new_oldworld_desc:0 "Le but de l'enclave a toujours été, sous une forme ou une autre, la restauration de l'Amérique du vieux monde. Ramener Les Terres Désolées à un état qu'elle juge respectable. Ils sont les gardiens du passé et cherchent à agir en tant que tels."
+
  new_bio_med:0 "Expériences biomédicales"
  new_bio_med_desc:0 "En dépit d'être le chef de l'enclave du Nevada, Arch Dornan est un vieil homme qui est en grande partie incapable d'agir sur le terrain, avec beaucoup de ses anciens gardes. Cependant, une percée récente dans le domaine de la science médicale pourrait permettre une restauration de sa jeunesse ..."
+
  new_sierra_depot:0 "Rénovation du dépôt Sierra de l'armée"
  new_sierra_depot_desc:0 "Il y a longtemps, la S.A.D. base était un avant-poste militaire américain dans l'ouest du Nevada, et maintenant qu'il dispose d'un financement et d'un soutien de l'Enclave ? Il le sera à nouveau. Remis à neuf et réintégré comme un lieu de puissance militaire américaine."
+
  new_old_newworld:0 "Nouveau monde, vieilles idées"
  new_old_newworld_desc:0 "Les hommes et les femmes de Vault City sont depuis longtemps un symbole de l’élitisme du vieux monde dans les Terres Désolées, accumulant leur science et leur technologie pour leur bien-être et celui des dignes. Vraiment! Ils pourraient faire de fiers Américains, en supposant que rien ne leur soit arrivé ..."
+
  new_newworld:0 "Le nouveau Monde"
  new_newworld_desc:0 "En dépit de ce que nous espérons, l'Amérique, comme nous le savions, est partie depuis longtemps. Si jamais nous voulons restaurer notre nation bien-aimée à son ancienne gloire, nous devrons nous adapter à l’époque et apprivoiser ce nouveau monde."
+
  new_vertibird:0 "Construction Vertiptère"
  new_vertibird_desc:0 "Les Vertiptères ont été essentiels à l’Enclave Military pendant la plus grande partie du siècle, mais nos stocks ont été pratiquement dévastés. Nous devrons partir de zéro, reconstruire notre flotte avec ce que nous pouvons acheter."
+
  new_newcapitol:0 "La capitale du Nevada était autrefois Carson"
  new_newcapitol_desc:0 "La capitale du Nevada était autrefois Carson, mais cet endroit est maintenant un peu plus que des bouts de tôles. Bombardé à la ruine et détruit par des pillards. New Reno deviendra la capitale de l'État, selon les souhaits d'Arch Dornan."
+
  new_reclaimnevada:0 "Réclamation de Nevada"
  new_reclaimnevada_desc:0 "L’État du Nevada était autrefois un fier membre des États-Unis! Et le sera à nouveau!"
+
  new_thradd_army:0 "L'armée de Thradd"
  new_thradd_army_desc:0 "Le seigneur de guerre Thradd a conquis New Reno! Il cherche maintenant à établir une base de pouvoir au Nevada et en Utah, en unissant les factions super-mutantes disparates pour qu'il puisse forger une nouvelle armée capable de punir ceux qui ont détruit son Maître bien-aimé!"
+
  new_ode_to_rats:0 "Une ode aux rats"
  new_ode_to_rats_desc:0 "Le cerveau avait prévu de conquérir Vault il y a longtemps et a reçu de petites quantités de FEV de Thradd pour effectuer cette prise de contrôle. En supposant qu'il l'a fait ? Il pourrait s'avérer un allié précieux!"
+
  new_scheming_rats:0 "Machination avec la vermine"
  new_scheming_rats_desc:0 "Le cerveau est beaucoup plus intelligent que tous les autres! Et pour le mieux, sa technologie et ses ressources permettront à notre alliance d’aller loin contre les faibles au sud!"
+
  new_conquer_vault:0 "À la conquête de l'abri"
  new_conquer_vault_desc:0 "Vault City a toujours été gaspillée par l'humanité, leur technologie était la merveille des Terres Désolées, mais leur avarice la souillait de sang. À présent ? Nous allons la laver en rouge ..."
+
  new_rebuild_cult:0 "Reconstruire l'unité ?"
  new_rebuild_cult_desc:0 "Le culte de l'unité est l'endroit où les humains loyaux appartiennent! À genoux au service de la gloire du maître! Prêcher la bonne parole. L'unité peut nous avoir manqué avant, mais beaucoup parlent de la ramener."
+
  new_stir_the_giants:0 "Agitant les géants"
  new_stir_the_giants_desc:0 "Les super-mutants de Warren Troll, sous le Premier, sont parmi les plus grandes forces de toute l’Amérique du Nord-Ouest. Ils serviraient de bons alliés!"
+
  new_enslaving_warren:0 "Asservir le Warren"
  new_enslaving_warren_desc:0 "Alors que le premier ne s’agenouillera pas volontiers devant nous, son peuple et lui s’agenouilleront devant eux quand ils seront alourdis par des chaînes."
+
  new_honorable_allies:0 "Honorables Alliés"
  new_honorable_allies_desc:0 "Le Premier a accepté notre cause dans son cœur et travaille avec nous pour vaincre l'humanité! Ensemble, avec de tels alliés honorables, nous serons imparables!"
+
  new_for_master:0 "Pour le maître!"
  new_for_master_desc:0 "Ils ont pris le Maître de nous! Ils ont pris notre avenir, nos rêves et nos espoirs! Pourtant, ils ne pouvaient pas lui enlever sa mémoire, et ils ne peuvent pas nous empêcher de finir ses rêves! Les Terres Désolées appartiendront aux super-mutants!"
+
+ #Reno Tree Loc
+
  new_littlecity:0 "La plus grande petite ville des Terres Désolées"
  new_littlecity_desc:0 "Avant que le feu atomique ne pleuve d'en haut ? Reno était la plus grande petite ville du monde! Mais maintenant ? Maintenant, il pourrait s'agir de la plus grande ville des Terres Désolées. À ce jour, les œuvres et les structures qui ont survécu à la fin du monde nous profitent."
+
  new_thefamily:0 "Appeler dans la famille"
  new_thefamily_desc:0 "De toutes les «familles» criminelles de Reno, la nôtre est la seule vraie famille par le sang. Reno est un gouffre décrépit, et il a avalé un des notres. Bien que nous soyons considérés comme la plus faible des familles, Reno prospérera sous notre direction et, surtout, sera purifiée."
+
  new_church:0 "Église évangélique de New Reno"
  new_church_desc:0 "Construire des églises et des écoles à travers Reno contribuerait grandement à notre rêve d'une ville idéaliste, qui ne serait plus une ville remplie de la plus mauvaise des terres dévastées. Le démantèlement de certains casinos des anciennes familles pour nos églises est également une métaphore appropriée pour notre avenir."
+
  new_speakeasies:0 "Bar clandestin de Reno"
  new_speakeasies_desc:0 "Même les personnes tempérées de notre utopie New Reno ont besoin d'un endroit pour se détendre. Le commerce secret de l’alcool était le métier d’Orville Wright et nous a fait prendre conscience en tant que famille. Il est donc logique de construire des bars clandestins à travers Reno pour un divertissement sûr et responsable."
+
  new_police:0 "Nouveau service de police de Reno"
  new_police_desc:0 "Les criminels de Reno ne veulent pas appliquer nos lois, mais grâce à Christopher Wrights, nous avons un plan infaillible. Un service de police composé de superhumains renforcés par le FEV serait certainement en mesure de faire respecter la loi et l'ordre, même à Reno."
+
  new_criminalworld:0 "Petit crime dans les Terres Désolées"
  new_criminalworld_desc:0 "Tout ce qui se passe à Reno ne se produit pas uniquement parce que les hommes et les femmes en veulent. C'est un lieu de réflexion libre rempli d'entrepreneurs prêts à tout pour une poignée de capsules."
+
  new_renodeal:0 "Quel est le problème avec New Reno ?"
  new_renodeal_desc:0 "Notre affaire ? Enfer tu connais notre affaire. Vivre la vie, vivre le rêve, faire ce que vous voulez, quand vous voulez, aussi longtemps que vous le pouvez. Sexe, Drogues, Rock'n'Roll ! Qu'y a-t-il d'autre que vous pouvez souhaiter dans une Terre Désolée comme celle-ci ? Allez, oubliez qui vous êtes, oubliez où vous êtes et profitez de la fête."
+
  new_expansionism:0 "Expansionnisme"
  new_expansionism_desc:0 "Bien sûr, Reno est la plus grande petite ville du monde, mais pourquoi se limiter à une petite ville ? Nous sommes une grande puissance dans les Terres Désolées, et son temps a été reconnu. Pourquoi ne pas élargir un peu nos frontières ?"
+
  new_savages:0 "Abattre les Sauvages"
  new_savages_desc:0 "Pour notre nord, la tribu sauvage d'Antelope fait baisser les prix de l'immobilier et menace nos citoyens. Comment est-ce que quelqu'un est censé gérer une entreprise avec ces tribus qui grignotent la place ? Nous devrions les chasser."
+
  new_bet:0 "Placer un pari"
  new_bet_desc:0 "La tribu de Antelope est maintenant sous la sphère d'influence de Reno et peut être propulsée dans le pli. Construire des colonies là-bas est risqué, mais c'est un pari que nous sommes prêts à prendre."
+
  new_slavery:0 "Esclavage à grande échelle"
  new_slavery_desc:0 "Les sauvages de la tribu de Antelope ne valent presque rien, sauf en tant qu'esclaves potentiels. Capturer les restes de la tribu et les mettre au travail, même en tant que gardes du corps personnels, sera certainement très bénéfique."
+
  new_loosends:0 "Lier les extrémités lâches"
  new_loosends_desc:0 "Les Yakuza sont une nuisance pour New Reno depuis sa création. Leurs groupes de raid perturbent souvent les relations, mais ils n'ont jamais franchi les frontières de la ville. Avec leurs bases finalement découvertes, nous devrions leur montrer ce que nous faisons à nos ennemis."
+
  new_spoils:0 "Butin de guerre"
  new_spoils_desc:0 "La destruction des Yakuza brillait de nombreux butins de guerre, comme ils nous avaient soutenus pendant des années. Ce n'est que justice, maintenant ce butin de guerre devrait nous revenir."
+
  new_shop:0 "Mise en place de la boutique"
  new_shop_desc:0 "La terre occupée par les Yakuza est en réalité utile, avec des zones assez peuplées. Peut-être devrions-nous maintenant franchir le pas et créer des casinos dans le nouveau territoire que nous avons acquis, afin de les intégrer au marché."
+
  new_topdog:0 "Qui est le Top Dog ?"
  new_topdog_desc:0 "Tout le monde à Reno se bat depuis des décennies pour obtenir une part du gâteau. Chacune des grandes familles cherche à prendre une longueur d’avance sur les autres, à trouver un moyen de prendre le contrôle. Mais ces jours-ci, seule une des familles dirige les rues."
+
  new_salvatores:0 "Renaissance de Salvatore"
  new_salvatores_desc:0 "Une des plus petites familles, nous les Salvatores, nous avons passé notre temps et, avec beaucoup de patience et de ruse, nous sommes arrivés au pouvoir. Nos anciens alliés de l’Enclave nous ont échangé des armes à haute énergie en échange de produits chimiques que nous avions l'habitude de prendre en main pendant que nos ennemis se combattaient."
+
  new_whitepawn:4 "Pion Blanc en E4"
  new_whitepawn_desc:0 "Les familles de Reno manquent toutes de vision. Tous sauf nous, les Bishops. Contrairement aux autres familles, qui ne recherchent que des profits, nous souhaitons un réel pouvoir et une alliance avec la RNC ou Vault City est le moyen d'y parvenir."
+
  new_bishop:4 "Bishop en B4"
  new_bishop_desc:0 "Le patriarche de notre famille est également l'un de nos plus grands atouts. M. Bishop, dont le lignage douteux lui a sans doute donné une pénalité pour l'exploration et la familiarité avec les durs déchets du Nevada. Grâce à ses fréquentes errances, il a appris à conduire des troupes à travers le désert."
+
  new_f3:3 "Reine en F3"
  new_f3_desc:0 "Pour consolider notre domination sur Reno, nous allons forger une alliance avec les Van Graff - dont la technologie impitoyable et supérieure en font l’allié parfait pour éliminer nos ennemis. M. Bishop est prêt à se marier avec les Van Graff par l'intermédiaire de leur matriarche, Tiaret, en échange de leur aide."
+
  new_queen:7 "Reine en F7"
  new_queen_desc:0 "En notre nom, les Van Graff élimineront la famille Wright, avec qui ils rivalisent depuis un certain temps. Bien que le pragmatique M. Bishop ne veuille pas entendre les détails, Tiaret Van Graff assure qu'il sera brutal. Échec et mat."
+
  new_mordinos:0 "Les tributaires Mordinos"
  new_mordinos_desc:0 "Notre famille, les Mordinos, était autrefois la famille la plus puissante de Reno, et nos affluents ont encore beaucoup de poids dans les relations de Reno. Nous souhaitons un retour à l'âge d'or de Reno, où la débauche et la dépendance ont balayé le Nevada."
+
  new_addictionempire:0 "Empire de la dépendance"
  new_addictionempire_desc:0 "Bien que d'autres familles peu recommandables aient recours à la violence pour faire respecter leurs règles, notre produit hautement addictif, Jet, nous maintiendra au pouvoir. Les Terres Désolées sont un endroit terrifiant et Jet peut fournir une distraction temporaire."
+
  new_myron:0 "L'héritage de Myron"
  new_myron_desc:0 "Myron était le génie qui a développé Jet pour la première fois, après avoir constaté que le peyote avait un effet plus long et n’était pas aussi addictif. Son héritage est la super-drogue hautement réactive et hautement addictive de Jet, qui a rendu les Mordinos très riches."
+
  new_jetbeta:0 "Jet Beta"
  new_jetbeta_desc:0 "Enfin, la clé de nos lois sur Reno a été complétée. La version bêta de Jet, beaucoup plus addictive et totalement insensible à un remède, est maintenant terminée, et en la diffusant, nous rendrons toutes les personnes des Terres Désolées addictes, formant véritablement notre Empire de la dépendance."
+
  new_allroads:0 "Toutes les routes mènent à Reno"
  new_allroads_desc:0 "Toutes les routes mènent vraiment ceux qui recherchent une nuit de plaisir à Reno. Investir dans l’infrastructure locale ne manquera pas de nous amener à développer notre activité et, bien sûr, à générer des profits."
+
  new_sharkclub:0 "Rénovation du Shark Club"
  new_sharkclub_desc:0 "Le Shark Club est le plus grand casino de New Reno, appartenant à la famille Bishop. C'est un noyau prospère de jeux et de divertissements au cœur même de New Reno, mais il pourrait être revitalisé."
+
  new_boxing:0 "Élargir la scène de boxe"
  new_boxing_desc:0 "Le Jungle Gym de Reno accueille la scène de boxe massive de Reno. Il fournit un grand divertissement aux masses, après tout, qui ne veut pas voir un homme se faire taper dessus ?"
+
  new_desperado:0 "Rénovation du Desperado"
  new_desperado_desc:0 "Le Desperado est un autre des grands casinos de New Reno, appartenant aux Mordinos, il est également le centre du trafic de drogue de Reno, principalement le commerce de Jet."
+
  new_distillery:0 "Rénovation de la distillerie Wright"
  new_distillery_desc:0 "Les Wrights amassent leur fortune et leur pouvoir grâce à la distillerie et à la distribution d’alcool, bien qu’ils insistent sur le fait qu’ils sont des personnes qui ne boivent pas d'alcool ou des buveurs tempérés. La rénovation de leur distillerie apportera plus de richesses à Reno."
+
  new_expansion:0 "Expansion de Van Graff"
  new_expansion_desc:0 "Permettre à la famille Van Graff d’étendre ses activités de distribution d’armes énergétiques rapporterait encore plus d’argent. Dans un endroit dangereux comme New Reno, les gens méritent un peu de protection."
+
  new_precautions:0 "Précautions"
  new_precautions_desc:0 "Des précautions doivent être prises à Reno pour protéger nos actifs. Il ne suffit pas de compter sur la paix de nos voisins dans un pays comme les Terres Désolées. Un grand mur doit être construit autour de New Reno."
+
  new_radio:0 "Radio de New Reno"
  new_radio_desc:0 "La construction de tour de radio à travers Reno seraient utiles à la fois pour le divertissement, car nous pouvons diffuser de la musique, mais aussi comme moyen de subterfuge et de communication avec des gangsters et d’autres armées."
+
  new_sweatshop:0 "Atelier de misère"
  new_sweatshop_desc:0 "Les fins justifient les moyens, et le travail en atelier est finalement extrêmement efficace. Ce sont des gaspilleurs et des drogués qui mourraient dans les rues, du moins de cette façon, ils sont employés."
+
  new_farmsteads:0 "Ferme de Modoc"
  new_farmsteads_desc:0 "Les fermes de Modoc sont une excellente source de nourriture pour les habitants de Reno. Investir dans leur expansion pourrait entraîner une augmentation de la population dans la ville, alors que de plus en plus de personnes prospèrent et restent nourries."
+
  new_airport:0 "Aéroport de Vieux Reno"
  new_airport_desc:0 "Un effort de restauration pourrait être fait sur l'aéroport d'avant-guerre de Reno, lui permettant d'être réutilisé comme base aérienne juste à l'extérieur de Reno. Les possibilités d'un réseau d'avions de Reno sont infinies."
+
  new_contracts:0 "Contrats étendus"
  new_contracts_desc:0 "Contrairement à la république tyrannique de la Nouvelle-Californie, nous ne forçons pas nos citoyens à se battre. Au lieu de cela, les individus avec des ensembles de compétences particulières s’inscrivent comme protection dans les familles de gangsters. L'extension de ces contrats entraînera une augmentation des effectifs de réserve."
+
  new_sierradepot:0 "Piller le dépôt Sierra"
  new_sierradepot_desc:0 "Le Dépôt de l'armée Sierra tient de l'armement et des trésors inimaginables. Avoir une équipe désignée pillant le dépôt créerait une importation régulière d’armements aux familles de gangsters de Reno."
+
  new_sanctuary:0 "Ville sanctuaire"
  new_sanctuary_desc:0 "Reno est une ville prospère et nous trouvons souvent à nos portes des personnes privées de leurs droits. Les ouvrir pour une ville sanctuaire provoquerait un afflux de population mais pourrait présenter d'autres opportunités."
+
  new_slavers:0 "Confrérie des esclavagistes de Modoc"
  new_slavers_desc:0 "Bien que ce soit une action très controversée, asservir les gens de Modoc provoquerait un afflux d'esclaves qui pourraient être utilisés comme gardes du corps pour des gangsters et conserveraient les avantages que nous obtenons en travaillant leurs fermes."
+
  new_oldbirds:0 "Les vieux oiseaux"
  new_oldbirds_desc:0 "Les Vieux Oiseaux sont un groupe de mercenaires d'avant-guerre, formés comme parachutistes et pilotes. Avec l'aéroport récemment ouvert à Reno, nous pouvons embaucher ces mercenaires comme force aérienne potentielle."
+
  new_golgotha:0 "Restauration de Golgotha"
  new_golgotha_desc:0 "Golgotha ​​est le cimetière à l'extérieur de Reno, où les morts ont été enterrés et les ennemis de certaines familles ont été envoyés pour être éliminés. Restaurer le Golgotha ​​dans son objectif initial éliminerait beaucoup plus discrètement les ennemis des familles de gangsters."
+
  new_techslot:0 "Excavation du dépôt Sierra"
  new_techslot_desc:0 "Transformer le pillage de Sierra Depot en une excavation à grande échelle nécessiterait un peu de main-d'œuvre, mais les secrets d'avant-guerre de la base militaire sont trop précieux pour être ignorés. Nous pourrions faire beaucoup de miracles du dépôt."
+
  new_mercmilitary:0 "Mercenaire militaire"
  new_mercmilitary_desc:0 "Reno n'a pas de force de combat permanente, à moins que vous ne considériez les gangsters des familles individuelles. Au lieu de cela, ils doivent compter sur des mercenaires comme leurs armées. La richesse de Reno signifie cependant que les contrats de leur mercure durent très longtemps."
+
  new_uniques:0 "Mercenaires Unique"
  new_uniques_desc:0 "Les dirigeants des familles de Reno ont leurs propres contacts dans le monde des mercenaires et certaines armées de mercenaires sont plus disposées à leur offrir des contrats. Ces mercenaires uniques s'adaptent souvent aux «besoins» spécifiques du chef de famille."
+
  new_roaring:0 "Les ours rugissants"
  new_roaring_desc:0 "Les Ours Rugissants sont des ex-militaires de la NRC qui ont découvert que leurs compétences spécialisées pourraient leur rapporter plus de richesse dans le monde des mercenaires que les conscrits de laNRC. Fortement disciplinés et compétents dans le domaine de la guerre motorisée, les Ours Rugissants représentent une armée de choix."
+
  new_artillery:0 "Les Marteaux de l'Enfer"
  new_artillery_desc:0 "Les Mareaux de l'Enfer sont un groupe d'hommes fous, mais organisés de manière rigide, obsédés par l'armement. Extrêmement qualifiés en artillerie et en armement lourd, ils représentent sans doute la plus grande ligne de défense que toute la ville puisse demander."
+
  new_thradd:0 "Les immortels de Thradd"
  new_thradd_desc:0 "Dirigés par Thradd l'Immortel, un ex-chef rusé de l'armée du Maître, les Immortels sont un groupe de mercenaires de Super Mutant. Sans doute l'une des forces les plus redoutables et les plus infâmes disponibles dans les Terres Désolées, leur allégeance est douteuse."
+
  new_granite:0 "Companie de défense du sergent Granite"
  new_granite_desc:0 "Une entreprise infernale de Enclave Remnants, la société a trouvé une vie modérée en protégeant les petites localités des pillards grâce à leur technologie de pointe. Leur chef grisonnant, Sgt. Granite forme avec diligence son entreprise à attendre le retour de l’Enclave."
+
  new_capsforloyalty:0 "Capsules pour la fidélité"
  new_capsforloyalty_desc:0 "Bien que beaucoup disent que les allégeances des mercenaires sont fragiles, les capsules sont le plus grand facteur de motivation pour beaucoup de personnes vivant dans les Terres Désolées, et nous en avons beaucoup."
+ remove_500_caps_ttt:500 "500 capsules à dépenser."
+
  new_councilfunding:0 "Fondation d'un Conseil militaire"
  new_councilfunding_desc:0 "Dans un acte presque sans précédent, nous pourrions formaliser un conseil de gangsters entièrement consacré à l’organisation d’actions militaires, parmi les gardes du corps de gangsters et les armées de mercenaires que nous avons sous contrat."
+
  new_enctech:0 "Technicien de l'Enclave"
  new_enctech_desc:0 "Et à ce conseil militaire, nous pourrions ajouter un ancien membre local de l’Enclave, qui connaît très bien sa technologie de pointe et ses tactiques d’avant-guerre."
+
  new_mutanttech:0 "Technicien Mutant"
  new_mutanttech_desc:0 "Et à ce conseil militaire, nous pourrions ajouter un super mutant qui était jadis un général dans l’armée du Maître, et dont la grande expérience de la guerre dans les Terres Désolées allait révolutionner notre conseil."
+
  new_genericmercs:0 "Mercenaires Génériques"
  new_genericmercs_desc:0 "Bon nombre des entreprises que nous embauchons ont des talents uniques qui les distinguent des mercenaires ordinaires. Leurs compétences spécialisées, si elles sont utilisées avec ruse, pourraient signifier une armée ultra adaptable et infaillible."
+
  new_vengefulsons:0 "Les fils vengeurs"
  new_vengefulsons_desc:0 "Les Fils Vengeurs sont des tribus vicieuses chassées de leurs terres par le dictateur brutal César. Bien qu'elles soient en grande partie désorganisées, leur férocité dans la bataille et leur grand nombre, sans parler de leur vengeance brûlante, en feraient un grand atout."
+
  new_pablos:0 "Les conquistadors de Pablo"
  new_pablos_desc:0 "Les Conquistadors de Pablo sont une unité de vétéran d'infanterie hautement disciplinée du sud du Mexique. Ils sont très adaptables et bien formés et peuvent être utilisés dans presque toutes les situations."
+
  new_gladiators:0 "Les Gladiateurs de Junk City"
  new_gladiators_desc:0 "Les gladiateurs de Junk City sont une armée de mercenaires entièrement composée de robots, dirigée par un capitaine pour le moins erratique, Pit Master Frazz. Ils seraient très utiles comme support lourd."
+
  new_roadpsychos:0 "Road Psychos"
  new_roadpsychos_desc:0 "Les Road Psychos sont une bande de mercenaires itinérants composée de motards et d’autres véhicules. Extrêmement rapides et très utiles pour les attaques de précision et les attaques éclairs, les Road Psychos sont à peu près comme leur nom l'indique."
+
  new_oldallies:0 "Appeler les anciens alliés"
  new_oldallies_desc:0 "Certains restes de l'ancienne Enclave survivent toujours, et malgré toute leur aide dans notre domination sur Reno, nous devrions accueillir ces restes dans notre ville et, par conséquent, nous protéger encore plus de leurs soldats d'élite."
+
  new_stash:0 "La vieille cachette"
  new_stash_desc:0 "Heureusement, nos alliés de l’Enclave nous ont laissé une grande réserve d’armes énergétiques que nous avons déterrées, ce qui nous permet d’équiper nos gangsters avec des armes bien plus avancées que celles de nos contemporains."
+
  new_bloodynight:0 "La nuit sanglante"
  new_bloodynight_desc:0 "En utilisant l’armement de l’Enclave, nos gangsters mèneront une grande campagne contre les autres familles de Reno, acquérant un contrôle total et total pour nous. Notre conquête sera certainement sanglante, mais nous sortirons victorieux."
+
  new_hedge:0 "Paris à couvert"
  new_hedge_desc:0 "Renforcer le territoire de l'ex-Yakuza devrait être un facteur dissuasif suffisant pour que d'autres groupes de pilleurs puissent se réfugier dans la région. De plus, avec les ennemis potentiels qui se développent dans le sud et l’ouest, il n’est jamais mauvais de couvrir vos paris."
+
  new_hordes:0 "Hordes du Nord"
  new_hordes_desc:0 "Au nord du Nevada, il y a un territoire froid et aride, plein de sauvages et de menaces puissantes et éloignées. Avec la réserve d'Antelope sous notre contrôle, c'est maintenant notre première ligne de défense contre les Hordes du Nord."
+
  new_klamathdeal:0 "L'accord Klamath"
  new_klamathdeal_desc:0 "Klamath est une petite ville du nord qui, sans nous menacer, pourrait être un atout, voire un allié, décent. Nous devrions conclure un accord commercial avec cette petite ville et peut-être ouvrir de nouvelles relations."
+
  new_klamathagreements:0 "Accords Klamath"
  new_klamathagreements_desc:0 "Nous avons agressivement poursuivi les négociations avec les habitants de Klamath et un accord a finalement été conclu. En échange de biens et de services, Klamath relèvera de notre sphère de contrôle."
+
  new_takedown:0 "Prendre le repaire"
  new_takedown_desc:0 "Les habitants de Klamath sont, après tout, assez primitifs et leur ville pourrait être mieux servie sous d'autres règnes. Ce serait un grand atout pour New Reno de l’acquérir après tout."
+
  new_township:0 "Prendre le canton"
  new_township_desc:0 "Avec notre pouvoir sur Klamath consolidé, nous pouvons revendiquer la ville comme notre territoire légitime, et travailler à le placer sous la domination directe de New Reno."
+
  new_debtwarriors:0 "Guerriers de la dette"
  new_debtwarriors_desc:0 "Les guerriers de Klamath nous sont redevables en tant que leur seigneur et sont maintenant disponibles en tant que mercenaires pour que nous les conscrivions. Cela signifiera également plus de combattants dans la ville de Klamath."
+
  new_addictsworks:0 "Mettez les toxicomanes au travail"
  new_addictsworks_desc:0 "Les Mordinos ont un plan pour contrôler les gens par leur dépendance à la drogue Jet et les endetter sous leur dette, les obligeant à rembourser leur dette. C'est un bon plan."
+
  new_rail:0 "Gare du côté est"
  new_rail_desc:0 "La restauration de l’ancienne gare ferroviaire créera un centre d’infrastructure et un autre moyen pour les citoyens de la RNC qui recherchent les sensations fortes ou tout citoyen des Terres Désolées de se rendre dans la plus grande petite ville du monde."
+
  new_silverrush:0 "La ruée vers l'argent"
  new_silverrush_desc:0 "La ruée vers l’argent est l’établissement des Van Graff, spécialisés dans les armes à énergie et d’autres technologies de pointe. Leur implantation signifie une plus grande disponibilité de technologies avancées pour Reno."
- remove_500_caps_ttt:500 "500 capsules à dépenser."

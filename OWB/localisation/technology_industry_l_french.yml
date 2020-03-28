@@ -1,9 +1,9 @@
 ﻿l_french:
- # Equipment naming is inherited from the equipment name when displayed in the techtree
+  # Equipment naming is inherited from the equipment name when displayed in the techtree
 
- #----------------------------
- # Industry Headers/Labels
- #----------------------------
+  #----------------------------
+  # Industry Headers/Labels
+  #----------------------------
  HEADER_TOOLS_SCAVENGING:0 "Récupération d'outils"
  HEADER_TOOLS_PRODUCTION:0 "Production d'outils"
  HEADER_GENERALIZED_PRODUCTION:0 "Production généralisée"
@@ -17,11 +17,12 @@
  HEADER_ENERGY:0 "Énergie"
  HEADER_SCRAP_METAL:0 "Métal récupéré"
 
- #----------------------------
- # Industry
- #----------------------------
+  #----------------------------
+  # Industry
+  #----------------------------
  tool_engineering:0 "Achat d'outils"
  tool_engineering_desc:0 "Nos installations de production ont besoin d'outils - de toute urgence. Afin de maintenir des taux de production élevés et de fournir nos soldats à temps, nos aînés ont proposé deux solutions : la récupération et la simplification. Donner la priorité à nos équipes de récupération nous permettrait de trouver et d’équiper notre main-d’œuvre avec les meilleurs outils disponibles, tandis que nous concentrer sur une simplification de la conception des outils permettrait de produire en masse le matériel nécessaire."
+
  maketool_engineering_1:0 "Outils improvisés"
  maketool_engineering_1_desc:0 "En utilisant notre compréhension de base de la fabrication d'outils, nous pouvons utiliser les matériaux dans l'environnement immédiat de nos ateliers pour improviser des outils de base à la volée. Tandis que les résultats ne sont guère impressionnants; L'utilisation de couteaux en métal de récupération, de bâtons d'armature et d'autres outils de base est beaucoup plus efficace que d'utiliser simplement nos mains pour tout faire.\n\n"
  maketool_engineering_2:0 "Outils basiques"
@@ -59,10 +60,10 @@
  agriculture_industry_tech_6_desc:0 "Le processus de récolte des produits végétaux a toujours été une tâche ardue, mais avec l'aide de la robotique, ce défi s'estompera et donnera à nouveau une productivité accrue."
  agriculture_industry_tech_7:0 "OGM"
  agriculture_industry_tech_7_desc:0 "Les cultures génétiquement modifiées sont des plantes utilisées en agriculture, dont l'ADN a été modifié à l'aide de méthodes de génie génétique. Dans la plupart des cas, l’objectif est d’introduire un nouveau trait dans la plante qui n’existe pas naturellement dans l’espèce."
- 
+
  basic_industry_tech:0 "Planification de l'industrie"
  basic_industry_tech_desc:0 "Bien que les ateliers dispersés répondent à nos besoins jusqu'à présent, nous ne pouvons pas continuer à améliorer notre système sans planification industrielle. Bien que les détails ne soient pas encore définis, leur regroupement et la coopération entre eux devraient déjà nous apporter des avantages et ouvrir la voie à de nouvelles réformes."
- 
+
  generalized_industry_tech_1:0 "Travailler au besoin"
  generalized_industry_tech_1_desc:0 "Travailler en fonction de demandes et non de quotas offre de nombreux avantages. Cela nous permet de réagir plus rapidement aux changements de la ligne de front, car nous sommes plus en contact avec les besoins de nos soldats et nous pouvons ainsi plus facilement changer de production. Cela libère également une partie de la main-d'œuvre pour qu'elle puisse se joindre à la bataille, si le besoin se fait sentir."
  generalized_industry_tech_2:0 "Espaces de travail locaux"
@@ -77,7 +78,7 @@
  generalized_industry_tech_6_desc:0 "Les imprimantes tridimensionnelles sont une extension de nos machines de prototypage rapide. Arborant une interface informatique et des outils faciles à utiliser, elles permettent des expériences beaucoup plus faciles visant à simplifier la production. Certains modèles plus grands sont même utilisés pour remplacer des lignes de production entières !"
  generalized_industry_tech_7:0 "Réplicateurs"
  generalized_industry_tech_7_desc:0 "Les réplicateurs sont le summum de notre doctrine de fabrication. Un seul élément est d'abord pensé et conçu sur une imprimante avant d'être inséré dans le réplicateur, ce qui nous donne une copie parfaite des éléments souhaités. Cela ne laisse littéralement aucun défaut dans notre système, des modifications extrêmement rapides de la production d'articles désirée et des niveaux de production accélérés jusqu'alors impensables."
- 
+
  specialized_industry_tech_1:0 "Travaux assignés"
  specialized_industry_tech_1_desc:0 "Travailler via un système de quotas et d’objectifs de production nous a permis de travailler à un rythme bien supérieur et de fabriquer plus d’équipements en un temps donné, sans perdre de temps en simplifications. Comme il se doit, nos ingénieurs en équipement devraient en être responsables. Nos lignes de production fonctionnent de cette manière à leur capacité maximale, mais sont quelque peu inefficaces face aux changements brusques de fabrication."
  specialized_industry_tech_2:0 "Ateliers Dédiés"
@@ -92,7 +93,7 @@
  specialized_industry_tech_6_desc:0 "De plus en plus d'ouvriers mécaniques dans nos chaînes d'assemblage signifie que chaque étape du processus de fabrication est réalisée plus rapidement et avec plus de précision que par des mains humaines, et de telles machines peuvent fonctionner jour et nuit sous la supervision d'équipes telles que les contremaîtres et les ingénieurs chargés de leur maintenance en rotation."
  specialized_industry_tech_7:0 "Construction Technologique standard"
  specialized_industry_tech_7_desc:0 "Les plans numériques normalisés et extrêmement détaillés partagés et améliorés par toutes les équipes de conception de notre super-usine et chargés dans nos chaînes de montage robotiques permettent de respecter des quotas extrêmement élevés sans pratiquement aucun effort. Les véhicules peuvent être fabriqués en quelques heures et les armes en quelques minutes. Les balles et les cellules énergétiques peuvent être fabriquées en quelques secondes. Nous ne manquerons jamais de munitions et l'ennemi en sera très vite conscient."
- 
+
  extraction_industry_tech_1:0 "Camps de travail"
  extraction_industry_tech_1_desc:0 "Beaucoup moins rigoureux qu'il n'y paraît, les camps de travail cherchent à fournir un avant-poste proche des ressources naturelles ou des sites de récupération à partir desquels nos travailleurs peuvent se reposer, planifier et travailler sans être exposés au soleil du désert ou à la météo."
  extraction_industry_tech_2:0 "Équipement dédié"
@@ -119,7 +120,7 @@
  construction_industry_tech_5_desc:0 "Le ciment et le béton sont plus résistants aux dommages et aux intempéries que les simples briques, tout en pouvant être renforcés avec des barres d'armature pour créer un matériau de construction capable à la fois de supporter les tensions, les pressions et tout ce que les gens pourraient lui infliger. Tout en étant plus facile à construire avec."
  construction_industry_tech_6:0 "Matériaux composites"
  construction_industry_tech_6_desc:0 "Les matériaux composites sont le meilleur des deux mondes. Léger, facile à poser, facile à utiliser, robuste, résistant et respirant. Les bâtiments peuvent être construits en seulement quelques mois avec des techniques dont même certains pays d’avant-guerre seraient jaloux."
- 
+
  habitation_industry_tech_1:0 "Huttes tribales"
  habitation_industry_tech_1_desc:0 "De simples huttes construites à une échelle plus nombreuse devraient nous permettre de protéger même les éléments les plus faibles de notre civilisation des rigueurs des déchets, qui constituent la base de toute valeur de civilisation de ce nom."
  habitation_industry_tech_2:0 "Habitation en adobe"
@@ -143,7 +144,7 @@
  recycling_industry_tech_3_desc:0 "Utiliser des pièces dans de bonnes conditions avec notre équipement militaire en panne allégera nos systèmes d'approvisionnement, tandis que les réseaux de nettoyage permettront aux soldats d'avoir facilement accès à des pièces de rechange."
  recycling_industry_tech_4:0 "Recyclage avancé"
  recycling_industry_tech_4_desc:0 "L'utilisation de chaque pièce disponible et des procédures de démontage étendues pour ramener les produits à leurs composants de base nous permettent d'utiliser chaque équipement à la limite."
- 
+
  resource_generator_tech:0 "Production de ressources"
  resource_generator_tech_desc:0 "Bien que la récupération soit un bon moyen de s'en sortir, il ne peut pas produire tout ce dont nous avons besoin pour approvisionner notre pays. Nous devrons concevoir des bâtiments entièrement consacrés à la production de ressources et aller au-delà de la récupération."
 

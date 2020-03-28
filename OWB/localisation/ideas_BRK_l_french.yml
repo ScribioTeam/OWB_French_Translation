@@ -1,76 +1,112 @@
 ﻿l_french:
+ # ideas
  brk_startup_natives:0 "Patrimoine Autochtone"
  brk_startup_natives_desc:0 ""
+
  brk_startup_marines:0 "Héritage des Marines"
  brk_startup_marines_desc:0 ""
+
  brk_startup_sailors:0 "Héritage des Matelots"
  brk_startup_sailors_desc:0 ""
+
  brk_startup_fled:0 "Flexibilité"
  brk_startup_fled_desc:0 ""
+
  brk_startup_sheltered:0 "Protection"
  brk_startup_sheltered_desc:0 ""
+
  brk_startup_weathered:0 "Altéré"
  brk_startup_weathered_desc:0 ""
+
  brk_startup_riches:0 "Perspective de la Richesse"
  brk_startup_riches_desc:0 ""
+
  brk_startup_slaves:0 "Perspective des Esclaves"
  brk_startup_slaves_desc:0 ""
+
  brk_tech_adaptation:0 "Adaptation Technologique"
  brk_tech_adaptation_desc:0 ""
+
  brk_ruler:0 "Graven le Cruel"
  brk_ruler_desc:0 ""
+
  brk_ruler_1:0 "Autorité Incontestée"
  brk_ruler_1_desc:0 ""
+
  brk_ruler_2:0 "Opposition Asservie"
  brk_ruler_2_desc:0 ""
+
  brk_ruler_3_conquest:0 "Femme Trophée"
  brk_ruler_3_conquest_desc:0 ""
+
  brk_ruler_3_strength:0 "Femme Martiale"
  brk_ruler_3_strength_desc:0 ""
+
  brk_elites:0 "Ragnar"
  brk_elites_desc:0 ""
+
  brk_elites_1:0 "Le Duel"
  brk_elites_1_desc:0 ""
+
  brk_elites_2:0 "Conseil des Guerriers"
  brk_elites_2_desc:0 ""
+
  brk_elites_2_offense:0 "Conseil des Infractions"
  brk_elites_2_offense_desc:0 ""
+
  brk_elites_2_defense:0 "Conseil de Défense"
  brk_elites_2_defense_desc:0 ""
+
  brk_salvage_parties:0 "Parties de Récupération"
  brk_salvage_parties_desc:0 ""
+
  brk_slave:0 "Esclaves"
  brk_slave_desc:0 ""
+
  brk_slave_1:0 "Travail des Esclaves"
  brk_slave_1_desc:0 ""
+
  brk_slave_2:0 "Sélection des Esclaves"
  brk_slave_2_desc:0 ""
+
  brk_slave_3:0 "Horaires de travail des Esclaves"
  brk_slave_3_desc:0 ""
+
  brk_spikes:0 "Pointes"
  brk_spikes_desc:0 ""
+
  brk_spikes_1:0 "Pointes Supplémentaires"
  brk_spikes_1_desc:0 ""
+
  brk_plates:0 "Placage"
  brk_plates_desc:0 ""
+
  brk_plates_1:0 "Encore plus de Placage"
  brk_plates_1_desc:0 ""
+
  brk_manu_drive:0 "Maîtres Esclaves"
  brk_manu_drive_desc:0 ""
+
  brk_manu_drive_1:0 "Maîtres Esclaves"
  brk_manu_drive_1_desc:0 ""
+
  brk_manu_drive_2:0 "Maîtres Esclaves"
  brk_manu_drive_2_desc:0 ""
+
  brk_naval_range:0 "Maîtres de la Mer"
  brk_naval_range_desc:0 ""
+
  brk_terrorized:0 "Terreur des Raideurs"
  brk_terrorized_desc:0 ""
+
  brk_coastal_terror:0 "Terreur Côtière"
  brk_coastal_terror_desc:0 "Nos navires peuvent atteindre n'importe où ! Les marins expérimentés sont fréquents sur la côte, ce qui est pratique quand beaucoup de butins attendent d'être pris sur des terres lointaines, ou que les navires transportant des marchandises doivent être poursuivis et pillés."
+
  brk_raider_society:0 "Société des Raideurs"
  brk_raider_society_desc:0 "Le butin est une forte incitation pour les habitants de la Broken Coast, beaucoup de raiders endurcis de tous les coins se rassemblent pour chercher leur fortune au combat. Ces raiders sont nés et ont grandi dans les montagnes glaciales et baignés par le vent glacial de la mer, ce qui les rend extrêmement résistants au froid. Cela étant dit, tout ce temps consacré au raid fait de l'innovation une priorité."
+
  brk_vic_patriotic_defence:0 "Défense Patriotique"
  brk_vic_patriotic_defence_desc:0 "Les Raiders menacent notre pays. La situation a dégénéré suite aux raids côtiers et aux attaques portuaires passées. Les pillards occupent maintenant des parties de notre île dans le seul but de nous faire leurs esclaves. Nous ne pouvons pas permettre que cela se produise - nous devons nous battre."
- 
+
  bel_bellingham_for_battle:0 "Bataille pour Bellingham"
  bel_bellingham_for_battle_desc:0 "La ville de Bellingham, en raison de sa proximité avec le pipeline transalaskien, a été un lieu clé pendant le conflit américano-canadien. Beaucoup de Goules qui vivent aujourd'hui dans la ville se souviennent de ces batailles, et s'y sont même battus.\n\nElles n'ont pas de repos."

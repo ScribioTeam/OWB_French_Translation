@@ -3,84 +3,92 @@
  nf_legion.1.d:0 "César a continué à nous couvrir de faveurs. Si nous promettons de travailler à ses fins dans l'Utah, nous recevrons davantage de soldats pour former nos guerriers. Pourquoi aurions-nous refusé ?"
  nf_legion.1.a: "Bien sûr, nous acceptons"
  nf_legion.1.b: "Jamais!"
- 
+#Placeholder localization begins
  nf_legion.1000.title:0 "Les White Legs acceptent"
  nf_legion.1000.desc:0 "Les White Legs ont répondu à notre requête, ils ont accepté de nous aider dans notre combat contre les New Cananéens en échange d'une alliance et d'une acceptation dans la Légion."
  nf_legion.1000.a:0 "Exactement comme prévu."
+
  nf_legion.1001.title:0 "Les White Legs refusent"
  nf_legion.1001.desc:0 "Ces imbéciles! Ils refusent notre demande de les faire entrer dans la Légion pour les aider à détruire les New Cananéens et leur chef Joshua ! Ils vont payer pour cela."
  nf_legion.1001.a:0 "L'arrogance !"
- 
- nf_legion.2.t: "La Pétition des Eighties"
+
  nf_legion.1002.title:0 "Des conseillers pour l'Utah"
  nf_legion.1002.desc:0 "[WHT.GetLeader] ne peut pas diriger l'Utah depuis une tente. [CES.GetName] a envoyé des conseillers pour aider à gouverner la terre, habiles dans l'art de briser le joug d'un peuple. Avec leur aide, tout l'Utah apprendra pourquoi les White Legs marchent fièrement."
  nf_legion.1002.a:0 "Il vaut mieux faire partie de la meute que d'être un mouton."
  nf_legion.1002.a_tt:0 "§g\nLe coût pour rendre les États de l'Utah en état coeur est réduit de moitié."
+
+#Placeholder localization ends
+ nf_legion.2.t: "La Pétition des Eighties"
  nf_legion.2.d: "Un envoyé de la Légion de César a visité nos terres tribales et nous a proposé un accord. Prêter allégance à la Légion de César et abandonner les vieilles manières. Refuser, et ressentir la pleine puissance de la Légion."
  nf_legion.2.a: "Bien sûr, nous acceptons"
  nf_legion.2.b: "Jamais!"
-
+#Placeholder localization begins
  nf_legion.2000.title:0 "Les Eighties acceptent"
  nf_legion.2000.desc:0 "Les Eighties ont répondu à notre requête, elles ont accepté de nous aider dans notre combat contre les New Cananéens, en échange d'une alliance et d'une acceptation dans la Légion."
  nf_legion.2000.a:0 "Bien ils vont faire du bon travail."
+
  nf_legion.2001.title:0 "Les Eighties refusent"
  nf_legion.2001.desc:0 "Ces imbéciles! Ils refusent notre demande de les faire entrer dans la Légion pour les aider à détruire les New Cananéens et leur chef Joshua ! Ils vont payer pour cela."
  nf_legion.2001.a:0 "L'arrogance !"
-
+#Placeholder localization ends
  nf_legion.5.t: "La mort de César"
  nf_legion.5.d: "Pendant des années, César a été victime d'un cancer malin - menaçant son règne sur la Légion. Aujourd'hui, à la veille de la plus belle heure de sa Légion, il s'est retiré dans sa tente, et la mort le réclamera sûrement. Dans ses dernières heures, il doit nommer un successeur."
  nf_legion.5.a: "Il nomme son Légat"
  nf_legion.5.b: "Il nomme Vulpes"
  nf_legion.5.c:0 "Une sorcière entre dans sa tente ..."
- 
+
  nf_legion.6.t: "César vit"
  nf_legion.6.d: "Une sorcière de la tribu des Twin Mothers, épargnée il y a longtemps, entre dans la tente de César. Dans la matinée, César se lève - plus revigoré que jamais. Mais la garde prétorienne postée devant sa tente est partie. Lucius, leur chef, affirme que César est un hérétique, utilisant la technologie interdite pour reprendre vie. Lui et ses disciples remettent désormais en question les idéaux de la Légion de rejeter la technologie."
  nf_legion.6.a: "Crucifier les prétoriens déloyaux"
  nf_legion.6.b: "Hérésie!"
- 
+
  nf_legion.7.t: "Expédition vers Blackfoot"
  nf_legion.7.d: "L'expédition vers la tribu des Pieds-Noirs a été l'événement créateur de l'histoire de la Légion. La tribu est le fondement de la grande légion de César, et c'est au travers des flammes des guerres de ces tribus primitives que la volonté de fer de César a été forgée. Il leur a appris ..."
  nf_legion.7.a: "Maintenace des armes"
  nf_legion.7.b: "Tactiques d'unité"
  nf_legion.7.c: "Créations explosives"
- 
+
  nf_legion.8.t: "Morts dans les Canyons"
  nf_legion.8.d: "Les premières années de la Légion ont également été parmi les plus brutales. Dans sa conquête des Canyons, César abattit brutalement trois des tribus locales, chaque acte fut tout aussi cruel. Mais un acte a gagné une infamie particulière dans les Terres Désolées ..."
  nf_legion.8.a: "Ridgers"
  nf_legion.8.b: "Kaibabs"
  nf_legion.8.c: "Fredonians"
- 
+
  nf_legion.9.t: "Le Légat Malpais"
  nf_legion.9.d: "Joshua Graham, le Légat Malpais, était le co-fondateur de la Légion, et le plus grand serviteur de César. Un général astucieux et rusé - cet acte précoce cimentait sa légende à travers la Légion, et formait la base de ses prouesses militaires ..."
  nf_legion.9.a: "Il a brulé Phoenix"
  nf_legion.9.b: "Il a chassé ses ennemis jusqu'au dernier"
  nf_legion.9.c: "Il a semé les Soleils Rouges"
- 
+
  nf_legion.10.t: "César, fils de Mars"
  nf_legion.10.d: "La volonté de César est la loi. Il est un dieu parmi les hommes, le fils du dieu de la guerre, Mars. Tous dans sa légion vivent pour le servir, comme une lame sert son maître. Il est l'enseignant et le maître des tribus, sous lui - et dans sa conquête, il leur a enseigné de nombreuses leçons parmi lesquels ..."
  nf_legion.10.a: "Détruire les Proliférateurs"
  nf_legion.10.b: "Divide et Impera"
  nf_legion.10.c: "Decimatio"
- vulpes_chosen: "Vulpes doit faire face aux légions orientales de Lanius"
- lanius_chosen: "Lanius défend contre une révolte de Vulpes Inculta"
+
+  #Placeholder Localisation Begins
  nf_legion.11.t:0 "Bilan du barrage Hoover"
  nf_legion.11.d:0 "C'est fini que s'est-il réellement passé ?"
  nf_legion.11.a:0 "Vous avez perdu, perdant !"
  nf_legion.11.b:0 "Vous avez gagné ! Bon travail"
- lucius_chosen: "Passer à Lucius et se révolter contre l'hypocrisie de César"
+
  nf_legion.12.t:0 "César nous envoie une "requête""
  nf_legion.12.d:0 "Un messager de César est arrivé et apporte une lettre d'invitation à la Légion. Ils souhaitent nous permettre d’écraser ceux qui ont osé nous menacer et nous ont maltraité.\n\nQue devons-nous faire mon Khan ?"
  nf_legion.12.a:0 "Accepter son invitation"
  nf_legion.12.b:0 "Décliner. Nous n'avons pas besoin de son aide"
- caesar_chosen: "Restez comme César et installez la nouvelle thèse"
+
  nf_legion.13.t:0 "Réponse des Khans"
  nf_legion.13.d:0 "Les Khans ont accepté votre généreuse invitation à la Légion. Ils seront de puissants alliés."
  nf_legion.13.a:0 "Très bien"
- load_CES_crossing_party: "§Y5 unités d'infanterie d'élite saisissent Parker Strip§!"
+
  nf_legion.14.d:0 "Les Khans ont refusé votre généreuse invitation à la Légion ! Ils vont payer pour cette transgression !"
  nf_legion.14.a:0 "Des imbéciles"
+  #Placeholder Localisation Ends
+
+ vulpes_chosen: "Vulpes doit faire face aux légions orientales de Lanius"
+ lanius_chosen: "Lanius défend contre une révolte de Vulpes Inculta"
+ lucius_chosen: "Passer à Lucius et se révolter contre l'hypocrisie de César"
+ caesar_chosen: "Restez comme César et installez la nouvelle thèse"
+ load_CES_crossing_party: "§Y5 unités d'infanterie d'élite saisissent Parker Strip§!"
  load_CES_crossing_party_nelson: "§Y5 unités d'infanterie d'élite saisissent Nipton§!"
  legion_had_civil_war:0 "La guerre civile de la Légion a commencé"
- 
- 
- 

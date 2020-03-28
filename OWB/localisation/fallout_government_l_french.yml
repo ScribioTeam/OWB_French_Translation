@@ -1,24 +1,31 @@
 ﻿l_french:
+
  ruler:0 "Despotisme"
  ruler_noun:0 "Autocratie"
  ruler_desc:0 "Règne d'un seul"
+
  people:0 "Démocratie"
  people_noun:0 "Démocratie"
  people_desc:0 "Règne de plusieurs"
+
  intellectuals:0 "Technocratie"
  intellectuals_noun:0 "Technocratie"
  intellectuals_desc:0 "Règne du progrès"
+
  elites:0 "Oligarchie"
  elites_noun:0 "Oligarchie"
  elites_desc:0 "Règne de peu"
+
  BRK_ruler_party:0 "Règne de Graven"
  BRK_elites_party:0 "Pouvoir de Ragnar"
  BRK_intellectuals_party:0 "Penseurs libres"
  BRK_people_party:0 "Coeurs doux"
+
  NCR_ruler_party:0 "Séparatistes Boneyard"
  NCR_elites_party:0 "Les Barons"
  NCR_intellectuals_party:0 "La fête du vieux monde"
  NCR_people_party:0 "Congrès de la RNC"
+
  NEW_ruler_party:0 "Les Mordinos"
  NEW_elites_party:0 "Les Salvatores"
  NEW_intellectuals_party:0 "Les Wrights"
@@ -27,35 +34,39 @@
  NEW_enclave_party:0 "L'Enclave"
  NEW_thradd_party_long:0 "Seigneur de guerre Thradd"
  NEW_thradd_party:0 "Seigneur de guerre Thradd"
+
+  # Chichen Itza #
  ITZ_intellectuals_party:0 "Le Ti'huun"
  ITZ_ruler_party:0 "Le Kalomte"
  ITZ_elites_party:0 "Le Ejército"
  ITZ_people_party:0 "Le Conseil"
+
+  # Tzotzil
+
  TDT_people_party:0 "Le Conseil du Peuple"
  TDT_elites_party:0 "Loyalistes Itzan"
  TDT_ruler_party:0 "Le Porte-Parole"
  TDT_intellectuals_party:0 "Les Réformateurs"
+
+  # Aztlan
+
  ATE_ruler_party:0 "Le Porte-Parole"
  ATE_ruler_party_long:0 "La Famille Royale"
  ATE_elites_party:0 "Culte de l'Aigle"
  ATE_intellectuals_party:0 "Culte du Jaguar"
  ATE_people_party:0 "Vrai Mexico"
+
+  # AoM
+
  ARM_ruler_party:0 "Le Caudillo"
+
+  #Bone Dancers
  BDT_people_party:0 "Pèlerins de Heaven"
  BDT_elites_party:0 "Hommes Piliers"
  BDT_elites_party_long:0 "Les Hommes Piliers"
  BDT_intellectuals_party:0 "Acolytes de Crimson"
  BDT_intellectuals_party_long:0 "Les Acolytes de Crimson"
  BDT_ruler_party:0 "Arène de Cranium"
- RRG_people_party:0 "Los Constitucionalistos"
- RRG_people_party_long:0 "Los Constitucionalistos"
- RRG_elites_party:0 "TIC"
- RRG_elites_party_long:0 "Coalition des intérêts texans (TIC)"
- RRG_intellectuals_party:0 "La Iniciativa de Progreso"
- RRG_intellectuals_party_long:0 "La Iniciativa"
- RRG_ruler_party:0 "El Movimiento"
- RRG_ruler_party_long:0 "Los Movimiento de Regeneración Arquitectos"
-
 
   #### Laws #####
 

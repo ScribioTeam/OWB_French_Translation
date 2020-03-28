@@ -1,17 +1,24 @@
 ﻿l_french:
+  # GUI:
  ADD_CORE_TT:0 "§HTransformer en État coeur (core)§! £pol_power 100"
  ADD_CORE_TT_DELAYED:0 "§HValeur de base§!: £pol_power 25\n§HPopulation de l'état§!: £pol_power [?coring_var_state_pop]\n§HPopulation acquise à votre cause§!: £pol_power [?coring_var_cored_pop]\n§HDistance de la capitale§!: £pol_power [?coring_var_distance]\n§HFacteur d'efficacité pour rendre des états coeurs§!: [?coring_cost_factor_gui|%0]\n§HMultiplicateur de revendication§!: [?coring_var_claim|%0]\n§HPlafon des coûts pour rendre un état coeur§!: £pol_power 300\n--------------\n[!add_core_click_enabled]"
  not_allowed_to_core_flag:0 " §RA la possibilité de transformer en État coeur (core) désactivé§!"
  tt_is_not_in_home_area:0 "N'est pas connecté à la capitale du propriétaire."
- ADD_CORE_TLALOC_TT:2 "§HConnectez-vous à Chico-Net§! £resources_strip|2£ [?coring_var_energy_cost]"
  core_button_25_state_reduction_tt:25 "Obtenir une réduction locale permanente de §G25%§! des coûts pour rendre un état coeur"
  trigger_less_than_20_resistance: "Moins de §Y20%§! de Résistance"
+
+ ADD_CORE_TLALOC_TT:2 "§HConnectez-vous à Chico-Net§! £resources_strip|2£ [?coring_var_energy_cost]"
  ADD_CORE_TLALOC_TT_DELAYED:0 "§HValeur de base§!: £resources_strip|2£ 10 \n§HA partir d'états déjà connectés§!: [?Root.coring_var_energy_cost_from_coring] \n--------------\n[!add_core_tlaloc_click_enabled]--------------\nCela fera de §Y[This.GetName]§! un état cœur de §Y[Root.GetName]§!."
+
  HAS_ENOUGH_ENERGY_TO_CORE_STATE:0 "§Y[Root.GetName]§! produit assez d'§YEnergie§! pour avoir §Y [?coring_var_energy_cost] §! disponibles (actuellement §Y [?free_energy_for_coring] §!)"
+
  FALLOUT_CORING_TAB_TITLE:0 "[This.GetCoringTabTitle]"
  FALLOUT_CORING_TAB_NO_STATES_INFO:0 "[This.GetCoringTabNoStatesInfo]"
+
  FALLOUT_GO_TO_STATE_TT:0 "§GCliquer§! pour centrer la carte sur §Y[This.GetName]§!."
  FALLOUT_CORE_BUTTON:0 "Cœur"
  FALLOUT_TLALOC_CORE_BUTTON:0 "Relier"
+
+  # Scripted Localisation:
  string_fallout_coring_tab_no_states_info:0 "Nous n'avons actuellement aucun état non cœur."
  string_fallout_tlaloc_coring_tab_no_states_info:0 "Nous n'avons actuellement aucun état non connecté."

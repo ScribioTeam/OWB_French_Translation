@@ -37,12 +37,6 @@
  #----------------------------
  standard_weaponry_tech:0 "Armes rudimentaires"
  standard_weaponry_tech_desc:0 "Les pistolets en tuyaux sont faciles à fabriquer, faciles à entretenir en raison de leur simplicité, ne nécessitent pas de plan, pas de matériaux spéciaux et pas d'usinage spécial en raison de leur canon lisse. Tous ces facteurs en font aussi objectivement les armes balistiques les moins efficaces des Terres Désolées. Il faut choisir entre la balistique ou les armes de mêlée."
- basic_laser_weaponry:0 "Armes laser basiques"
- basic_laser_weaponry_desc:0 "Improvisées de l'armement laser plus avancé, ces armes portent les avantages de l'armement laser tout en étant relativement simple à fabriquer ; cependant, ils sont significativement plus faibles qu'un fusil laser correctement construit."
- improved_laser_weaponry:0 "Armes laser améliorées"
- improved_laser_weaponry_desc:0 "En utilisant les plans standardisés des fabricants d'avant-guerre et des exemples déterrés d'ingénierie inverse, nous avons découvert comment fabriquer des armes laser d'avant-guerre ; c'est plus mortel et plus fiable que toutes celles que nous avons utilisées dans le passé."
- advanced_laser_weaponry:0 "Armes laser avancées"
- advanced_laser_weaponry_desc:0 "Nous avons travaillé dur pour améliorer les anciens modèles, et ce que nous avons créé ne peut pas être comparé avec précision à ce qui existait avant la guerre ; nous avons amélioré les armes laser d'avant-guerre et les avons renforcées."
  melee_weaponry_tech_1:0 "Armes de mêlée de base"
  melee_weaponry_tech_2:0 "Armes de mêlée de frappe"
  melee_weaponry_tech_3:0 "Armes de mêlée lourdes"
@@ -52,13 +46,9 @@
  energy_weaponry_tech_3:0 "Armes à énergie avancée"
  energy_weaponry_tech_4:0 "Arme à énergie d'élite"
  ballistic_weaponry_tech_1:0 "Armes balistiques de base"
- ballistic_weaponry_tech_1_desc:0 "En fabriquant à partir de plans normalisés d'avant-guerre, nous pouvons rendre nos pistolets plus efficaces grâce à l'utilisation combinée de canons rayés et de matériaux de qualité, par opposition aux efforts de nos pistolets en tuyaux."
  ballistic_weaponry_tech_2:0 "Armes balistiques communes"
- ballistic_weaponry_tech_2_desc:0 ""
  ballistic_weaponry_tech_3:0 "Armes balistiques améliorées"
- ballistic_weaponry_tech_3_desc:0 "En utilisant des fusils, nous pouvons augmenter la portée de combat efficace de nos troupes, ce qui permet de mieux organiser les engagements autour d'un tir précis et suppressif que des tactiques de charge."
  ballistic_weaponry_tech_4:0 "Armes balistiques avancées"
- ballistic_weaponry_tech_4_desc:0 "Les fusils d'assaut permettent à notre infanterie standard d'atteindre avec précision les cibles à grande portée avec des balles de grands calibres et de faire une projection mortelle à moyenne portée, augmentant ainsi la polyvalence et les capacités de choc d'un soldat."
  warrior_equipment:0 "Équipement du guerrier"
  warrior_equipment_desc:0 "Fournir des choses comme des sacs, des sacs de couchage, des trousses médicales et des outils d'entretien améliore le moral et l'efficacité au combat."
  overcharged_ammunition:0 "Munitions surchargées"
@@ -78,16 +68,16 @@
 
  scav_pa_tech:0 "Armure assistée récupérée"
  scav_pa_tech_desc:0 "Le pauvre homme, souvent concocté avec des pièces de rechange et des restes cassés. Pas aussi efficace qu'un T-45d ordinaire mais bien meilleur qu'une simple armure de métal."
-  
+
  t45d_pa_tech:0 "Armure assistée T-45d"
  t45d_pa_tech_desc:0 "La T-45d a été initialement déployé en 2067 et a été utilisé avec grand succès en Alaska lors de la réclamation d'Anchorage. Toutefois, au fil de l'opération, il a commencé à montrer ses défauts. Bien qu'elle ne soit pas parfaite, la T-45d a sa place en tant que plate-forme d'armes lourdes relativement peu coûteuse et efficace."
- 
+
  c_t45d_pa_tech:0 "T-45d Composite"
  c_t45d_pa_tech_desc:0 "Une conception expérimentale qui négocie armures et qualité globale en contrepartie d'une construction légère et d'une production plus rapide. Bien qu’elle ne soit pas aussi fiable que la T-45d classique sur le terrain, la construction en composite la rend beaucoup plus rapide et plus facile à installer."
 
  t51b_pa_tech:0 "Armure assistée T-51b"
  t51b_pa_tech_desc:0 "Le roi d'avant guerre. Les améliorations apportées à sa conception et à ses matériaux signifiaient qu’en 2076, lors du premier déploiement de l’armure au combat, elle servait admirablement à la lutte contre l’agression chinoise. Même après la guerre, les combinaisons de l'armure du T-51b continuent de fonctionner de manière brillante, seulement surclassées par les conceptions d'après-guerre."
- 
+
  c_t51b_pa_tech:0 "T-51b composite"
  c_t51b_pa_tech_desc:0 ""
 
@@ -108,7 +98,7 @@
 
  power_armour_raider:0 "Armure Assistée de Pillard"
  power_armour_raider_desc:0 ""
-  
+
  spec_ops_equipment_tech_1:0 "Forces spéciales 1"
  spec_ops_equipment_tech_1_desc:0 ""
  spec_ops_equipment_tech_2:0 "Forces spéciales 2"
@@ -134,6 +124,16 @@
  night_vision_tech:0 "Dispositifs de vision nocturne"
  night_vision_tech_desc:0 "La technologie d'imagerie infrarouge, lorsqu'elle est mise en œuvre dans le cadre de l'observateur et dans des lunettes de combat spécialisées, augmente considérablement l'efficacité de la nuit."
  thermal_vision_tech:0 "Appareils de vision thermique"
+ thermal_vision_tech_desc:0 "La technologie d'imagerie thermique fonctionne sans émetteur infrarouge ni lumière ambiante, ce qui augmente encore l'efficacité de nos forces la nuit."
+
+ #----------------------------
+ # Special
+ #----------------------------
+ gauss_weaponry_1:0 "Armes Gauss"
+ gauss_weaponry_2:0 "Armes Gauss 2"
+ plasma_weaponry_1:0 "Armes Plasma"
+ plasma_weaponry_2:0 "Armes Plasma 2"
+
  mirelurk_infantry_unlock_tech:0 "Peloton de Mirelurk"
  mirelurk_upgrade_tech_1:0 "Alimentation correcte"
  mirelurk_upgrade_tech_1_desc:0 "Les mirelurks dépendent généralement du régime d'un charognard, c'est-à-dire de pratiquement tout ce qui peut leur servir de griffes. En changeant leur régime alimentaire pour un régime à base de nourriture adéquate, et en ne donnant à nos soldats que les prisonniers les meilleurs et les plus nutritifs, ils pourront être au sommet de leur forme à tout moment."
@@ -141,7 +141,7 @@
  mirelurk_upgrade_tech_2_desc:0 "En stimulant les Mirelurks avec les bonnes combinaisons de médicaments, on peut augmenter leur métabolisme pour qu'il se développe. Ils bougent plus vite, se battent plus durement et parviennent même à se régénérer plus vite. Il suffit d'être prudent lorsque les réserves sont épuisées."
  mirelurk_upgrade_tech_3:0 "Élevage avancé"
  mirelurk_upgrade_tech_3_desc:0 "L'élevage sélectif ainsi que des \"techniques\" spéciales nous permettront de former une caste de guerriers supérieure, avec des capacités de combat améliorées, ainsi que des conditions physiques généralement bien meilleures. Le maintien d'un taux de natalité élevé et l'utilisation de mireluks non sélectionnées comme soutien plutôt que de troupes de première ligne assurent également des troupes de ligne arrière adéquates."
- thermal_vision_tech_desc:0 "La technologie d'imagerie thermique fonctionne sans émetteur infrarouge ni lumière ambiante, ce qui augmente encore l'efficacité de nos forces la nuit."
+
  molerat_infantry_unlock_tech:0 "Cohorte Molerat"
  molerat_upgrade_tech_1:0 "Combinaisons minières"
  molerat_upgrade_tech_1_desc:0 "Même si les corps mutants représentent un véritable défi pour nos pourvoyeurs, nous devrions quand même chercher à les équiper d'une protection adéquate. L'armure minière est composée d'une sous-combinaison légère, étanche à la peau et renforcée aux points clés par des coussinets de cuir intégrés, ainsi que d'un blindage en acier à faible profil. Elle comprend également des griffes de mineur, des ables pour se frayer un chemin à travers les ennemis et le terrain."
@@ -149,20 +149,6 @@
  molerat_upgrade_tech_2_desc:0 "Il est toujours difficile de fournir aux sapeurs de combat des armes à double usage, mais nos ingénieurs ont réussi à fabriquer une nouvelle grenade, composée d'un élément central de dynamitage puissant avec un revêtement en cuivre, et entourée d'une charge de fragmentation avec des roulements à billes intégrés. Cela la rend non seulement utile à des fins de démolition, mais aussi efficace comme arme offensive contre les armures et le personnel."
  molerat_upgrade_tech_3:0 "Fusil de combat léger"
  molerat_upgrade_tech_3_desc:0 "Les mutants peuvent résister à un recul plus important que les humains normaux, c'est pourquoi nous avons décidé de prendre certains de nos prototypes de fusils de combat et de les réaménager pour obtenir une cartouche raccourcie de 15 mm, ainsi que de supprimer tout poids inutile et de raccourcir leurs canons pour les rendre semblables à des carabines. Avec une telle puissance de feu de leur côté, qui peut être utilisée pour n'importe quelle opération de creusement, nos troupes ne manqueront pas de rien."
-
-
- #----------------------------
- # Special
- #----------------------------
- gauss_weaponry_1:0 "Armes Gauss"
- gauss_weaponry_1_desc:0 ""
- gauss_weaponry_2:0 "Armes Gauss 2"
- gauss_weaponry_2_desc:0 ""
- plasma_weaponry_1:0 "Armes Plasma"
- plasma_weaponry_1_desc:0 ""
- plasma_weaponry_2:0 "Armes Plasma 2"
- plasma_weaponry_2_desc:0 ""
-
 
  #----------------------------
  # Nation Specific Localisation

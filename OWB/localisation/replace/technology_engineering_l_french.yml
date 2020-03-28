@@ -1,21 +1,19 @@
 ﻿l_french:
- # Equipment naming is inherited from the equipment name when displayed in the techtree
- 
- #----------------------------
- # Headers/labels Electronics
- #----------------------------
+  # Equipment naming is inherited from the equipment name when displayed in the techtree
+
+  #----------------------------
+  # Headers/labels Electronics
+  #----------------------------
  HEADER_ENCRYPTION:0 "Chiffrement"
  HEADER_DECRYPTION:0 "Décryptage"
  HEADER_COMMUNICATION:0 "Communication"
  HEADER_ELECTRONICS:0 "Électronique"
  HEADER_RADAR:0 "Détection radar"
  HEADER_RESOURCES:0 "Ressources"
- HEADER_TOOLS_PRODUCTION:0 "Production d'outils"
- HEADER_TOOLS_SCAVENGING:0 "Récupération d'outils"
 
- #----------------------------
- # Electronics Localisation
- #----------------------------
+  #----------------------------
+  # Electronics Localisation
+  #----------------------------
  electronic_engineering:0 "Loi d'Ohm"
  electronic_engineering_desc:0 "La loi d’Ohm indique que la tension aux bornes d’une résistance est proportionnelle à l’intensité du courant. C'est la quintessence de tout ce qui est lié de près ou de loin à l'électricité."
  electronic_engineering_1:0 "Résistance"
@@ -64,7 +62,7 @@
  communication_engineering_4_desc:0 "Un réseau interconnecté de radio militaire à dos, associé à des antennes mobiles installées dans les avant-postes arrière, permet à notre état-major de se tenir rapidement au courant de toutes les situations de développement et d’envoyer rapidement des renforts à n’importe quel point chaud."
  communication_engineering_5:0 "Liens de données numériques"
  communication_engineering_5_desc:0 "Les réseaux de commandement centralisés et les avant-postes militaires sont désormais équipés d'une liaison montante de données ultramoderne, connectée au HUD de casque de notre soldat et permettant à chacun d'entre eux d'accéder rapidement à la situation, même sous le feu. Une telle technologie est un progrès tendance des équipements de collecte d’informations, qui permettra également une meilleure communication entre nos laboratoires."
- 
+
  radio_detection:0 "Détection radio"
  radio_detection_desc:0 "Le développement du RADAR, (Radio Detection and Ranging), permet d'utiliser les ondes radio pour détecter des objets physiques. La recherche est très secrète, compte tenu de l'impact que ces inventions pourraient avoir sur la localisation des unités."
  decimetric_radar:0 "Radar décimétrique"

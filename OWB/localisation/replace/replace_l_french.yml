@@ -2,16 +2,27 @@
  infantry_equipment:0 "Équipement d'infanterie"
  infantry_equipment_short:0 "Équipement d'infanterie"
  infantry_equipment_desc:0 ""
- 
+
+  #Fighters
+ fighter_equipment_1:0 "Chasseur de ferraille"
+ fighter_equipment_1_short:0 "Chasseur de ferraille"
+ fighter_equipment_1_desc:0 "Nos ingénieurs ont, après de multiples essais stressants, inventé un parapente capable de frapper du ciel. Armés de deux mitrailleuses, d'un complément de grenades pour les frappes au sol et de beaucoup de prières, nos pilotes peuvent maintenant appuyer les troupes de première ligne. Un système de catapultage mobile, installé sur la plate-forme d'un camion pour les procédures de lancement, leur donne également une autonomie considérablement accrue, puisque les camions ont plus d'autonomie que nos planeurs."
+
+ fighter_equipment_3:0 "Chasseur nucléaire récupéré"
+ fighter_equipment_3_short:0 "Chasseur nucléaire récupéré"
+ fighter_equipment_3_desc:50 "Comme la vitesse et la faible traînée deviennent primordiales, une conception monoplan est maintenant préférable. L'augmentation de la capacité de poids permet l'installation d'une troisième mitrailleuse de calibre supérieur, refroidie par air, pour le passage des armes à feu, ainsi que de jambes de force externes pouvant supporter deux bombes explosives de 50 kg de haut. Les unités powerpack empilées permettent une vitesse de pointe plus élevée, ce qui nous donne la possibilité d'augmenter la portée de frappe et les techniques d'interception contre les vaisseaux ennemis."
+
+
  # Infantry Equipment
  infantry_equipment_1:0 "Pistolets"
  infantry_equipment_1_short:0 "Pistolets"
  infantry_equipment_1_desc:0 "Armer nos troupes avec des pistolets à tube improvisés est tout ce que nous pouvons faire pour l'instant pour l'équipement de l'infanterie. Bien que la cartouche tirée soit quelque peu efficace, le cycle du boulon est un processus lent. De nouveaux équipements doivent être développés d'urgence"
- 
+
  # Support Equipment
  support_equipment_1:0 "Équipement de soutien"
  support_equipment_1_desc:0 "Assortiment d'objets et de gadgets utilisés pour communiquer, ravitailler les soldats, donner du matériel au personnel médical et autres fonctions diverses."
- 
+
+ # Anti-tank Support
  anti_tank_equipment_1:0 "Fusils Antichars"
  anti_tank_equipment_1_short:0 "Fusils Antichars"
  anti_tank_equipment_1_desc:0 "Les vieux fusils antichars de gros calibre peuvent être utilisés pour assurer la pénétration des blindés dans les unités d'infanterie. Même si la capacité de ces canons à pénétrer dans les blindages est limitée, ils servent toujours leur but."
@@ -19,192 +30,20 @@
  anti_tank_equipment_2:0 "Lance-roquettes"
  anti_tank_equipment_2_short:0 "Lance-roquettes"
  anti_tank_equipment_2_desc:0 "Un lance-roquettes est un dispositif qui lance un projectile non guidé propulsé par une fusée. Efficace pour détruire les unités blindées grâce à sa conception propulsée par fusée et à sa tête à charge creuse."
- 
+
  anti_tank_equipment_3:0 "Lance Missiles"
  anti_tank_equipment_3_short:0 "Lance Missiles"
  anti_tank_equipment_3_desc:0 "Un missile, également connu sous le nom de missile guidé, est un système autopropulsé guidé, par opposition à une munition autopropulsée non guidée, appelée fusée. Les systèmes de missiles guidés ont beaucoup plus de chances d'atteindre des cibles là où ils font mal."
- 
- fighter_equipment_1:0 "Chasseur de ferraille"
- fighter_equipment_1_short:0 "Chasseur de ferraille"
- fighter_equipment_1_desc:0 "Nos ingénieurs ont, après de multiples essais stressants, inventé un parapente capable de frapper du ciel. Armés de deux mitrailleuses, d'un complément de grenades pour les frappes au sol et de beaucoup de prières, nos pilotes peuvent maintenant appuyer les troupes de première ligne. Un système de catapultage mobile, installé sur la plate-forme d'un camion pour les procédures de lancement, leur donne également une autonomie considérablement accrue, puisque les camions ont plus d'autonomie que nos planeurs."
- 
- fighter_equipment_2:0 "Chasseur sauvé"
- fighter_equipment_2_short:0 "Chasseur sauvé"
- fighter_equipment_2_desc:0 ""
- 
- fighter_equipment_3:0 "Chasseur nucléaire récupéré"
- fighter_equipment_3_short:0 "Chasseur nucléaire récupéré"
- fighter_equipment_3_desc:50 "Comme la vitesse et la faible traînée deviennent primordiales, une conception monoplan est maintenant préférable. L'augmentation de la capacité de poids permet l'installation d'une troisième mitrailleuse de calibre supérieur, refroidie par air, pour le passage des armes à feu, ainsi que de jambes de force externes pouvant supporter deux bombes explosives de 50 kg de haut. Les unités powerpack empilées permettent une vitesse de pointe plus élevée, ce qui nous donne la possibilité d'augmenter la portée de frappe et les techniques d'interception contre les vaisseaux ennemis."
- 
- # Destroyer
- destroyer_equipment:0 "Équipement de Destroyer"
- destroyer_equipment_short:0 "Équipement de Destroyer"
- destroyer_equipment_desc:0 ""
- 
- destroyer_equipment_1:0 "Canoë Outrigger I"
- destroyer_equipment_1_short:0 "Canoë Outrigger I"
- destroyer_equipment_1_desc:0 ""
- 
- destroyer_equipment_2:0 "Canoë Outrigger II"
- destroyer_equipment_2_short:0 "Canoë Outrigger II"
- destroyer_equipment_2_desc:0 ""
- 
- destroyer_equipment_3:0 "Bateau de secours I"
- destroyer_equipment_3_short:0 "Bateau de secours I"
- destroyer_equipment_3_desc:0 ""
- 
- destroyer_equipment_4:0 "Bateau de secours II"
- destroyer_equipment_4_short:0 "Bateau de secours II"
- destroyer_equipment_4_desc:0 ""
- 
- destroyer_equipment_5:0 "Artisanat Armé I"
- destroyer_equipment_5_short:0 "Artisanat Armé I"
- destroyer_equipment_5_desc:0 ""
- 
- destroyer_equipment_6:0 "Artisanat Armé II"
- destroyer_equipment_6_short:0 "Artisanat Armé II"
- destroyer_equipment_6_desc:0 ""
- 
- # Light Cruiser
- light_cruiser_equipment:0 "Équipement de croiseur léger"
- light_cruiser_equipment_short:0 "Équipement de croiseur léger"
- light_cruiser_equipment_desc:0 ""
- 
- light_cruiser_equipment_1:0 "Navire à voile I"
- light_cruiser_equipment_1_short:0 "Navire à voile I"
- light_cruiser_equipment_1_desc:0 ""
- 
- light_cruiser_equipment_2:0 "Navire à voile II"
- light_cruiser_equipment_2_short:0 "Navire à voiles II"
- light_cruiser_equipment_2_desc:0 ""
- 
- light_cruiser_equipment_3:0 "Remorqueur armé I"
- light_cruiser_equipment_3_short:0 "Remorqueur armé I"
- light_cruiser_equipment_3_desc:0 ""
- 
- light_cruiser_equipment_4:0 "Remorqueur armé II"
- light_cruiser_equipment_4_short:0 "Remorqueur armé II"
- light_cruiser_equipment_4_desc:0 ""
- 
- light_cruiser_equipment_5:0 "Navire de patrouille I"
- light_cruiser_equipment_5_short:0 "Navire de patrouille I"
- light_cruiser_equipment_5_desc:0 ""
- 
- light_cruiser_equipment_6:0 "Navire de patrouille II"
- light_cruiser_equipment_6_short:0 "Navire de patrouille II"
- light_cruiser_equipment_6_desc:0 ""
- 
- # Heavy Cruiser
- heavy_cruiser_equipment:0 "Équipement de croiseur lourd"
- heavy_cruiser_equipment_short:0 "Équipement de croiseur lourd"
- heavy_cruiser_equipment_desc: ""
- 
- heavy_cruiser_equipment_1:0 "Péniche I"
- heavy_cruiser_equipment_1_short:0 "Péniche I"
- heavy_cruiser_equipment_1_desc: ""
- 
- heavy_cruiser_equipment_2:0 "Péniche II"
- heavy_cruiser_equipment_2_short:0 "Péniche II"
- heavy_cruiser_equipment_2_desc: ""
- 
- heavy_cruiser_equipment_3:0 "Bateau à roues à aubes I"
- heavy_cruiser_equipment_3_short:0 "Bateau à roues à aubes I"
- heavy_cruiser_equipment_3_desc: ""
- 
- heavy_cruiser_equipment_4:0 "Bateau à roues à aubes II"
- heavy_cruiser_equipment_4_short:0 "Bateau à roues à aubes II"
- heavy_cruiser_equipment_4_desc: ""
- 
- heavy_cruiser_equipment_5:0 "Contre-torpilleur I"
- heavy_cruiser_equipment_5_short:0 "Contre-torpilleur I"
- heavy_cruiser_equipment_5_desc: ""
- 
- heavy_cruiser_equipment_6:0 "Destroyer II"
- heavy_cruiser_equipment_6_short:0 "Destroyer II"
- heavy_cruiser_equipment_6_desc: ""
- 
- # Carrier
- carrier_equipment:0 "Équipement de navire de transport"
- carrier_equipment_short:0 "Équipement de transport"
- carrier_equipment_desc: ""
- 
- carrier_equipment_1:0 "Porte-hydravion vapeur"
- carrier_equipment_1_short:0 "Porte-hydravion vapeur"
- carrier_equipment_1_desc: ""
- 
- carrier_equipment_2:0 "Destructeur d'hydravions"
- carrier_equipment_2_short:0 "Destructeur d'hydravions"
- carrier_equipment_2_desc: ""
- 
- # Battleships
- battleship_equipment:0 "Équipement de cuirassé"
- battleship_equipment_short:0 "Équipement de cuirassé"
- battleship_equipment_desc: ""
- 
- battleship_equipment_1:0 "Péniche super-lourde"
- battleship_equipment_1_short:0 "Péniche super-lourde"
- battleship_equipment_1_desc: ""
- 
- battleship_equipment_2:0 "Bateau à roues à aubes super-lourd"
- battleship_equipment_2_short:0 "Bateau à roues à aubes super-lourd"
- battleship_equipment_2_desc: ""
- 
- battleship_equipment_3:0 "Contre-torpilleur super-lourd"
- battleship_equipment_3_short:0 "Contre-torpilleur super-lourd"
- battleship_equipment_3_desc: ""
 
- # Superheavy Battleships
- superheavy_battleship_equipment_1: ""
- superheavy_battleship_equipment_1_short: ""
- superheavy_battleship_equipment_1_desc: ""
-
- superheavy_battleship_equipment_2: ""
- superheavy_battleship_equipment_2_short: ""
- superheavy_battleship_equipment_2_desc: ""
-
- # Battle Cruisers
- battle_cruiser_equipment: ""
- battle_cruiser_equipment_short: ""
- battle_cruiser_equipment_desc: ""
-
- battle_cruiser_equipment_1: ""
- battle_cruiser_equipment_1_short: ""
- battle_cruiser_equipment_1_desc: ""
-
- battle_cruiser_equipment_2: ""
- battle_cruiser_equipment_2_short: ""
- battle_cruiser_equipment_2_desc: ""
-
- # Submarines
- submarine_equipment: ""
- submarine_equipment_short: ""
- submarine_equipment_desc: ""
-
- submarine_equipment_1: ""
- submarine_equipment_1_short: ""
- submarine_equipment_1_desc: ""
-
- submarine_equipment_2: ""
- submarine_equipment_2_short: ""
- submarine_equipment_2_desc: ""
-
- submarine_equipment_3: ""
- submarine_equipment_3_short: ""
- submarine_equipment_3_desc: ""
-
- submarine_equipment_4: ""
- submarine_equipment_4_short: ""
- submarine_equipment_4_desc: ""
- 
  # Convoy
  convoy_equipment:0 "Équipement de convoi"
  convoy_equipment_short:0 "Équipement de convoi"
  convoy_equipment_desc: ""
- 
+
  convoy_equipment_1:0 "Convois"
  convoy_equipment_1_short:0 "Convois"
  convoy_equipment_1_desc: ""
- 
+
  # States
  STATE_743:0 "New Vegas"
  STATE_744:0 "Goodsprings & Primm"

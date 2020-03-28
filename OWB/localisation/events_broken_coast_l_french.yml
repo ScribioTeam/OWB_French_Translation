@@ -1,134 +1,178 @@
 ﻿l_french:
+ # events
  nf_event_brk.1.t:0 "Nos ancêtres"
  nf_event_brk.1.d:0 "Après la grande guerre, la protection naturelle des côtes montagneuses est devenue le foyer d'un groupe dont tous les autres se sont adaptés à leur culture. Certains Marines d'avant-guerre, stationnés en défense des envahisseurs chinois, ont survécu dans les montagnes après la chute des bombes. Divers navires, se retrouvant bloqués, se sont réfugiés contre les rudes hivers pour leurs équipages. Les indigènes de la terre précédemment sous occupation ont également gagné leurs libertés après la chute des bombes. Toutes ces personnes forment le tissu des habitants de la Côte Cassée, mais le premier groupe à partir auquel tous les autres ont été assimilés était ..."
  nf_event_brk.1.a:0 "Les natives des côtes"
  nf_event_brk.1.b:0 "US Marines"
  nf_event_brk.1.c:0 "Des marins de rivages étrangers"
+
  nf_event_brk.2.t:0 "Le grand blizzard"
  nf_event_brk.2.d:0 "Après que les bombes soient tombées, les effets ne sont pas partis. Une grande noirceur envahit le ciel, bloquant le soleil et provoquant un grand blizzard sur les gens de la côte. Beaucoup sont morts dans le froid, leurs corps gelés par le froid extrême en quelques minutes. Hors des cendres, un peuple né de la cruauté a réussi à survivre en ..."
  nf_event_brk.2.a:0 "Fuyant la tempête dans l'espoir de revenir"
  nf_event_brk.2.b:0 "Construisant un abri de navires d'avant-guerre"
  nf_event_brk.2.c:0 "À la tempête, seuls les plus forts ont survécu"
+
  nf_event_brk.3.t:0 "Pourquoi nous combattons"
  nf_event_brk.3.d:0 "Nos ancêtres se sont battus et ont saigné pour la Côte Cassée. Les anciennes manières vont et les nouvelles manières nous mèneront à la gloire. Mais nous devons nous concentrer pour nous construire. Sur quoi devrions-nous nous concentrer ?"
  nf_event_brk.3.a:0 "Des esclaves"
  nf_event_brk.3.b:0 "Richesse"
+
  nf_event_brk.4.t:0 "Dévaliser Alvin Bleak"
  nf_event_brk.4.d:0 "Alvin Bleak dormait doucement dans la nuit alors que la tempête de neige se transformait en une frénésie, le son du vent noyant les bousculades désorganisée des pillards empiétant sur la colonie. La paix fut brisée par le son des vitres brisées, le rugissement et le crépitement des flammes, et les cris des femmes et des enfants se réveillant à la lumière aveuglante d’un enfer. Ceux qui ont réussi à résister ont été abattus en pleine nuit, leurs enfants regardant dans l'ombre les larmes aux yeux. Cela aurait été une clémence de tuer les survivants après que les flammes se soient éteintes - mais les pirates ne font pas preuve de clémence. Les pirates se livrent au pillage et au butin, et il n’est pas surprenant que les seules choses qui ont laissé Alvin Bleak intact sont des objets de valeur qui rapporteront un prix élevé ..."
  nf_event_brk.4.a:0 "Dors bien!"
+
  nf_event_brk.5.t:0 "Briser Whistler"
  nf_event_brk.5.d:0 "Traversant les forêts enneigées de Whistler par un matin clair et sec, nos hommes recherchent plus de soldats à tuer. Peu de temps après notre attaque contre Alvin Bleak, Whistler a organisé son «armée» pour lancer une contre-attaque et nos forces se sont rencontrées dans une zone forestière le long de notre frontière. C'est la forêt que nous avons patrouillée ces derniers matins, une forêt tapissée de corps gelés et préservés dans leurs derniers instants d'agonie. Il faudra beaucoup de temps pour que ces visages torturés disparaissent. Whistler est sur le point de s'effondrer et nous leur enverrons bientôt nos demandes. Devenez membre de notre nation: ou nous tuerons ce qui reste de vous."
  nf_event_brk.5.a:0 "Ils seraient stupides de refuser"
+
  nf_event_brk.50.t:0 "Le chef de la Côte Brisée offre la paix"
  nf_event_brk.50.d:0 "Après l’horrible raid contre Alvin Bleak et les nombreuses attaques qui ont suivi, la Côte Cassée nous a finalement envoyé un accord de paix. Cependant, contrairement à Kamlo qui exigeait de la drogue et des esclaves, la côte cassée exige tout. Notre terre, notre peuple, nos approvisionnements ... ils veulent nous faire partie de leur nation pirate tordue. Nous avons fui Kamlo pour nous sauver de ce genre de règle: avec le dos appuyé contre le mur, allons-nous finalement nous soumettre à la règle du pilleur ?"
  nf_event_brk.50.a:0 "Nous n'avons pas le choix, nous devons nous soumettre"
  nf_event_brk.50.b:0 "Au diable ça! Nous préférons mourir!"
+
  nf_event_brk.6.t:0 "Incorporer Whistler"
  nf_event_brk.6.d:0 "Notre diplomate a lentement érodé l'autonomie de Whistler à leur insu, détruisant leur nation morceau après morceau jusqu'à ce qu'il repose fermement dans notre paume. Il a une dernière demande à en faire. Maintenant que Whistler est économiquement et militairement lié à nous, il est temps pour eux d’être eux aussi liés au gouvernement. Nous intégrerons leurs terres et leurs citoyens sur la Côte Cassée et les administrerons en tant que région autonome: du moins, c'est ce que nous leur dirons. Leur "autonomie" ne durera que quelques jours, après quoi ils seront complètement sous notre contrôle."
  nf_event_brk.6.a:0 "Whistler est aussi bon que le nôtre"
+
  nf_event_brk.60.t:0 "Incorporation dans la Côte Cassée ?"
  nf_event_brk.60.d:0 "Nos amis de la Côte Cassée nous ont offert un poste de region autonome sur leur territoire. Leur diplomate nous a assuré que nous conserverions notre indépendance et que cela ne serait qu’un autre moyen de rapprocher nos deux nations. Cependant, de nombreux critiques au sein de notre gouvernement affirment que ce serait le dernier clou du cercueil pour notre pays ..."
  nf_event_brk.60.a:0 "Soumettre"
  nf_event_brk.60.b:0 "Refuser"
+
  nf_event_brk.7.t:0 "Dévaliser Kamlo"
  nf_event_brk.7.d:0 "Envoyez quelques groupes de pillard à Kamlo pour brûler et piller leurs magasins. Nous utiliserons tout ce qu'ils ont contre eux!"
  nf_event_brk.7.a:0 "Envoyer les groupes de pillard"
+
  nf_event_brk.8.t:0 "Campagnes de Terreur"
  nf_event_brk.8.d:0 "Envoyer des hommes dans la nuit pour brûler des villages et laisser les têtes des villageois dehors pour que tout le monde puisse les voir. C'est la voie de la Côte."
  nf_event_brk.8.a:0 "Ils ne dormiront plus jamais"
+
  nf_event_brk.9.t:0 "[BRK.GetName] Envoie des Raiders"
  nf_event_brk.9.d:0 "Dans leurs manteaux lourds, avec des armes à portée de main, des raiders sont entrés dans nos frontières. Ils pillent nos magasins, volent nos objets de valeur, pillent notre industrie et tuent tous ceux qui résistent. Les implantations à la frontière implorent l'envoi de milices et de nos forces armées pour lutter contre les pillards - pour le seul bénéfice de notre industrie, nous devrions le faire."
  nf_event_brk.9.a:0 "Nous ne pouvons pas nous permettre de les arrêter"
  nf_event_brk.9.b:0 "Se défendre!"
+
  nf_event_brk.10.t:0 "Aucune opposition des locaux"
  nf_event_brk.10.d:0 "Nos récents raids dans les territoires voisins se sont déroulés sans accroc. Il n’y a eu qu’une résistance symbolique de la part de la population locale à nos raids, et ils ont réussi à revenir avec une partie importante du matériel, ainsi que des machines et d’autres objets utiles.\n\n Le territoire que nous avons attaqué est devenu stérile et mis à nu, nous nous abstiendrons donc de faire des raids de sitôt pour permettre à la population de se rétablir. Alors nous pillerons à nouveau ..."
  nf_event_brk.10.a:0 "Profiter du butin"
+
  nf_event_brk.11.t:0 "Opposition locale !"
  nf_event_brk.11.d:0 "Nos raids peuvent être difficiles - ce raid ne fait pas exception. Nous avons rencontré une résistance marquée de la part des populations locales sous la forme de milices et même d’unités armées semi-professionnelles. Dans le cas de ce raid, nos petits groupes de raid ne vont pas couper la moutarde. Nous avons besoin d'un plus grand dévouement des forces dans la région pour écraser la résistance et réclamer le butin qui est légitimement le nôtre."
  nf_event_brk.11.a:0 "Jetez notre poids derrière"
+
  nf_event_brk.12.t:0 "Raiders Withdraw"
  nf_event_brk.12.d:0 "Les raiders de la Côte Cassée sont venus et repartis. Les zones frontalières sont en ruines - des panaches de fumée parsèment la ligne d'horizon. L'attaque a été vraiment dévastatrice pour la région et il faudra du temps pour se remettre de l'attaque."
  nf_event_brk.12.a:0 "Récupérer nous devons"
+
  nf_event_brk.13.t:0 "Le conflit frontalier se transforme en guerre"
  nf_event_brk.13.d:0 "Nos récents affrontements avec l'ennemi n'ont pas été concluants. Certains terrains ont été gagnés, certains ont été perdus. Quelques villages frontaliers ont été réduits à des ruines enflammées. À part ça, rien n'a changé. L'ennemi le sait aussi bien que nous et semble prendre des mesures drastiques pour surmonter ce problème. Ils se mobilisent pour la guerre."
  nf_event_brk.13.a:0 "Alors la guerre sera"
+
  nf_event_brk.14.t:0 "Le conflit frontalier est fini"
  nf_event_brk.14.d:0 "Excellentes nouvelles du front - les affrontements frontaliers sont terminés et nous avons gagné ! On peut voir les forces ennemies reculer devant notre impressionnante démonstration de force, et il est temps pour nous de profiter enfin du butin que nous méritons tant."
  nf_event_brk.14.a:0 "On se régale bien ce soir !"
+
+ # 15.t, 16.t and 17.2 are purposefully omitted before you think I have missed them, Dominus
+
  nf_event_brk.15.d:0 "Excellentes nouvelles du front - les affrontements frontaliers sont terminés et nous avons gagné! On peut voir les forces ennemies reculer avant notre impressionnante démonstration de force - nous avons repoussé avec succès l’écume de raider de nos terres. Nos gens dormiront en sécurité pendant un certain temps, sachant que la force de nos forces armées est là pour les protéger, le cas échéant."
  nf_event_brk.15.a:0 "Bon travail les gars"
  nf_event_brk.16.d:0 "Mauvaises nouvelles du front - les affrontements frontaliers sont terminés et nos troupes ont été forcées de battre en retraite. L'ennemi a repoussé avec succès nos raiders avec leurs militaires et nous avons donc besoin de temps pour panser nos blessures et nous regrouper. Nous éviterons de lancer des raids contre ces colonies pendant un certain temps - nous les accaparerons dans un faux sentiment de sécurité, puis nous frapperons le moment venu."
  nf_event_brk.16.a:0 "Bientôt, les gars. Bientôt."
  nf_event_brk.17.d:0 "Mauvaises nouvelles du front - les affrontements frontaliers sont terminés et nos troupes ont été forcées de se retirer de la frontière. Les voleurs ont envahi nos villages et nos zones frontalières, détruisant de vastes étendues de terres et d’infrastructures. Nos troupes se sont retirées dans des positions plus défendables plus loin de la frontière, mais nous doutons que les attaquants mènent une campagne prolongée. Au lieu de cela, nous devrons attendre qu'ils se retirent, panser nos blessures et tenter de reconstruire. Nous serons davantage prêts pour eux la prochaine fois."
  nf_event_brk.17.a:0 "Nous allons reconstruire ..."
+
  nf_event_brk.18.t:0 "Nous reculons"
  nf_event_brk.18.d:0 "Nous avons décidé avec tact de retirer nos raiders du territoire ennemi pour conserver la main-d’œuvre et le matériel. Nous avons acquis une expérience précieuse au combat tout au long de la rencontre, mais l’ennemi aussi. À temps, nous reviendrons et raserons leurs villages."
  nf_event_brk.18.a:0 "Un geste stratégique"
+
  nf_event_brk.19.t:0 "Raider Back Down"
  nf_event_brk.19.d:0 "Bonnes nouvelles des régions frontalières - les pillards ont cessé leurs activités et se sont retirés de nos terres. Même si ce n’était pas la défaite de l’armée que nous espérions, c’est certainement une victoire!"
  nf_event_brk.19.a:0 "Formidable"
+
  nf_event_brk.20.t:0 "Le conflit frontalier s'intensifie ! "
  nf_event_brk.20.d:0 "Nos récents affrontements avec l'ennemi n'ont pas été concluants. Certains terrains ont été gagnés, certains ont été perdus. Quelques villages frontaliers ont été réduits à des ruines enflammées. À part ça, rien n'a changé. L'ennemi le sait aussi bien que nous et semble prendre des mesures pour surmonter ce problème. Ils semblent mobiliser plus de troupes pour les envoyer contre nous - nous devons nous préparer à les repousser nous aussi."
  nf_event_brk.20.a:0 "Nous les rencontrerons avec la même force"
+
+ # New Victoria raid event loc
+
  nf_event_brk.21.t:0 "Raiders sur nos littoraux"
  nf_event_brk.21.d:0 "Auparavant, les raids étaient peu fréquents. Auparavant, ils étaient effectués par de petits groupes, généralement la nuit. Les navires accostés sur des portions isolées du littoral - jamais nos villages ou nos villes. Tout cela a changé récemment. Des groupes de raids coordonnés ont attaqué nos villages et nos villes, provoquant des destructions inimaginables avant même de pouvoir réagir. En réponse, les milices se sont mobilisées et sont prêtes à défendre nos îles. Seul le temps dira dans quelle mesure ils font..."
  nf_event_brk.21.a:0 "Résister !"
+
  nf_event_brk.22.t:0 "Raid réussi contre le [HAI.GetName]"
  nf_event_brk.22.d:0 "Des corps jonchent les villages, des corps jonchent la plage. Les raids contre le [HAI.GetName] ont été effectués sans pitié, et maintenant, les hommes sont expérimentés dans les raids sur la mer et la terre. Cette connaissance deviendra sûrement indispensable quand ils se tourneront vers New Victoria, qui sera sûrement mieux défendu que cette chaîne d'île sans intérêt \n\nLes raisons pour l'existence continue de [HAI.GetName] sont minces, il est maintenant temps de les annexer carrément."
  nf_event_brk.22.a:0 "Expérience précieuse"
+
  nf_event_brk.23.t:0 "Les cheminées dans la brume matinale"
  nf_event_brk.23.d:0 "Une vue sombre a accueilli les survivants de la nuit de sang. Les cadavres jonchaient les villages et les plages à perte de vue, beaucoup se souillaient et se découpaient en morceaux. Les survivants ne pouvaient que pleurer leurs proches - pleurer et espérer que les pillards ne reviendront pas."
  nf_event_brk.23.a:0 "Nous allons reconstruire"
+
  nf_event_brk.24.t:0 "Échec du raid contre le [HAI.GetName]"
  nf_event_brk.24.d:0 "Lorsque les premiers bateaux ont touché le rivage, tout était calme. Le premier village était endormi et sa population fut rapidement mise au feu. Cependant, un jeune garçon a échappé au carnage et a couru au sommet d’une colline voisine avant d’allumer une grande torche qui a brillé dans la nuit. La lumière brillante se répandit rapidement le long de la côte, et rapidement toute l'île était réveillée. Nos deuxième et troisième groupes d'atterrissage, dépourvus de tout élément de surprise, ont été repoussés à la mer par les milices du village - un échec complet."
  nf_event_brk.24.a:0 "Nous reviendrons"
+
  nf_event_brk.25.t:0 "Retraite des Raiders"
  nf_event_brk.25.d:0 "Lorsque les premiers bateaux ont touché le rivage, tout était calme. Le premier village était endormi et sa population fut rapidement mise au feu. Cependant, un jeune garçon héroïque a échappé au carnage et a couru au sommet d’une colline voisine avant d’allumer une grande torche qui a brillé dans la nuit. La lumière brillante se répandit rapidement le long de la côte, comme prévu, et rapidement toute l'île était réveillée. Les deuxièmes et troisièmes groupes d'atterrissage, dépourvus de tout élément de surprise, ont été repoussés à la mer par nos milices villageoises - une magnifique victoire sur les forces de la tyrannie."
  nf_event_brk.25.a:0 "Ils reviendront"
+
  nf_event_brk.26.t:0 "Raiders de la côte"
  nf_event_brk.26.a:0 "Nous, nous allons résister et mordre !"
+
  nf_event_brk.27.t:0 "Les côtes de Victoria sont cassées"
  nf_event_brk.27.d:0 "Du sang, du sang partout. C'était le destin qui s'est abattu sur le littoral de New Victoria. Nos groupes de raid ont totalement brisé les habitants des villages aux alentours - maintenant, nos chaloupes peuvent amarrer n'importe où le long de la côte sans craindre de devoir se battre à terre. Nous pouvons maintenant passer à la planification de raids plus ambitieux contre des zones plus construites et bien défendues."
  nf_event_brk.27.a:0 "La première étape est terminée ..."
+
  nf_event_brk.28.t:0 "Le rivage brise la vague"
  nf_event_brk.28.d:0 "Nous avons sous-estimé New Victoria. Chaque fois qu'un groupe de raid a atterri, une milice était là pour nous rencontrer. Nos groupes de raid sont trop petits et nous semblons trop prévisibles dans nos choix de cibles. En conséquence, nos raids n'ont été qu'un échec lamentable. Nous devons nous améliorer si nous voulons piller New Victoria lui-même."
  nf_event_brk.28.a:0 "Bientôt..."
+
  nf_event_brk.29.t:0 "Des raiders frappent les ports"
  nf_event_brk.29.d:0 "Non satisfaits du contrôle de la côte qu'ils exercent, les pillards tyranniques de Koover ont commencé à mener des raids coordonnés contre nos principaux ports. Ceux-ci sont mieux défendues que les villages de la côte, mais les raiders ont tiré des leçons de leurs précédentes attaques contre nous. Pour le moment, nous semblons égaux - espérons que nous arrivons en tête."
  nf_event_brk.29.a:0 "Combattez fort, car nous sommes tous en vue!"
+
  nf_event_brk.30.t:0 "Domination des Ports"
  nf_event_brk.30.d:0 "Le port des Pics Dorés est en ruine. Nos groupes de raids ont éliminé toute forme de vie, et la majeure partie du bâtiment est une épave qui couve. La seule structure laissée intacte est le port lui-même - une structure qui nous aidera à l'avenir. Dans le même temps, cependant, nous laisserons le port seul - nous ne voulons pas provoquer une bataille sans merci alors que nous ne pouvons pas encore la gagner."
  nf_event_brk.30.a:0 "Nous nous rapprochons de Victoria"
+
  nf_event_brk.31.t:0 "La nuit des horreurs"
  nf_event_brk.31.d:0 "Nous avons pensé que nous avions vu le pire des pillards quand ils ont mis les populations côtières à l'épée. Nous avions tort. Les attaquants ont lancé une attaque contre le port de Pics Dorés la nuit dernière, réussissant à envahir la milice et à capturer le port. Le reste de la nuit a été marqué par un massacre inconnu du monde - tous les hommes, femmes et enfants ont été torturés et tués. Au moment où nos armées sont arrivées, les attaquants sont rentrés dans la nuit. Ils ont infligé une terrible blessure à l’île."
  nf_event_brk.31.a:0 "Ils sont de plus en plus audacieux"
+
  nf_event_brk.32.t:0 "Les ports restent fort"
  nf_event_brk.32.d:0 "Une tentative a été faite hier soir pour capturer le port des Pics Dorés par nos raiders. Nous avons vaincu la milice locale lors des affrontements initiaux, mais les forces restantes se sont obstinément battues rue contre rue pour défendre leurs maisons. Au début de la matinée, une unité de l'armée de New Victoria est arrivée sur les lieux - nos petites forces de raid n'étant pas à la hauteur de cet ennemi bien discipliné. Nous avons été lentement repoussés dans la mer - mais pas avant de brûler une bonne partie de la ville portuaire."
  nf_event_brk.32.a:0 "Nous reviendrons"
+
  nf_event_brk.33.t:0 "Raiders fuient"
  nf_event_brk.33.d:0 "Une tentative a été faite la nuit dernière pour capturer le port des Pics Dorés par les forces des raiders. Le conflit initial avec la milice locale était une victoire pour les attaquants. Les milices se sont battues vaillamment, rue par rue, en perdant la moitié de la ville portuaire aux assaillants avant l'arrivée de nos unités militaires. À ce moment-là, les attaquants étaient ceux sur la défensive et à la lumière de l'aube, les attaquants avaient été expulsés du port. Malgré cette victoire, plus de la moitié de la ville est désormais en flammes, bien que la plupart de la population en soi sortie indemne."
  nf_event_brk.33.a:0 "Les abris sont durables, nos gens ne sont pas"
+
  nf_event_brk.34.t:0 "Opération Blizzard"
  nf_event_brk.34.d:0 "Nous avons maintenant la domination sur les côtes et nous nous sommes montrés capables de capturer des villes portuaires. Il est maintenant temps de passer à la vitesse supérieure - le port de Port d'Hiver est riche mais isolé, parfait pour notre prise. Trois plans ont été proposés par des capitaines de raids - l'un pour saisir le port de Winter dans le cadre d'une escalade vers la guerre, un pour s'emparer du port comme base pour préparer une guerre future et un autre pour s'emparer du port et partie en laissant cela comme une démonstration de force. Chacun a du mérite, mais quel plan allons-nous exécuter ?"
  nf_event_brk.34.a:0 "Une large invasion"
  nf_event_brk.34.b:0 "Une frappe ciblée"
  nf_event_brk.34.c:0 "Une démonstration de force"
+
  nf_event_brk.35.t:0 "La guerre pour New Victoria"
  nf_event_brk.35.d:0 "Le jour pour lequel nous nous sommes préparés est venu. Les forces de raid ont finalement rassemblé la confiance nécessaire pour lancer une invasion complète plutôt qu'une série de raids. La nuit dernière, ils ont saisi les ports de Port d'Hiver et des Pics Dorés en plus grand nombre que jamais auparavant. Heureusement, nos gens sont motivés pour résister aux attaquants car ils savent quel destin ils vont subir s'ils gagnent. Nous allons nous battre jusqu'à la fin."
  nf_event_brk.35.a:0 "Nous, nous allons prendre les armes et nous battre !"
+
  nf_event_brk.36.t:0 "Des raiders s'emparent de Port d'Hiver"
  nf_event_brk.36.d:0 "Hier soir, les Raiders sont descendus dans un nombre sans précédent sur Port d'Hiver et l’ont saisi avec tant de férocité et de vitesse que nous en savons peu sur ce qui s’est passé (et c’est probablement pour notre bien-être que nous ne le découvrons pas). Nous pensons que son isolement et sa distance par rapport à Victoria en ont fait une cible de choix. Nous pensons que les attaquants s'en serviront comme base pour lancer leur conquête sur l’ensemble de l’île. Allons-nous nous battre maintenant et tenter de reprendre l'île, ou allons-nous nous préparer à tirer en premier?"
  nf_event_brk.36.a:0 "On ne peut pas se défendre"
  nf_event_brk.36.b:0 "Nous, nous allons prendre les armes et nous battre !"
+
  nf_event_brk.37.t:0 "Décimation de Port d'Hiver"
  nf_event_brk.37.d:0 "Dans une autre escalade, les pillards qui ont terrorisé nos terres ces derniers mois ont saisi et rasé Port d'Hiver. La région entière est en feu - un contraste frappant avec les terres gelées qui l'entourent - et nous n'avons trouvé aucun survivant. Seuls les cadavres déchiquetés et les infrastructures portuaires demeurent. Les attaquants veulent sûrement lancer bientôt une invasion à grande échelle - nous devrions nous préparer à combattre jusqu'au bout."
  nf_event_brk.37.a:0 "La guerre est à l'horizon"
+
  nf_event_brk.38.t:0 "Démonstration de force"
  nf_event_brk.38.d:0 "Saisir Port d'Hiver n'était pas un mince exploit. Non seulement il y avait une milice locale bien armée et déterminée, mais une unité de l’armée était également stationnée à quelques kilomètres de la ville pour repousser toute agression. Cependant, nous sommes descendus en grand nombre sur la ville, anéantissant rapidement la milice locale avant même qu'il puisse avertir l’unité de l’armée. À ce moment-là, nous avons tendu une embuscade à l’unité, l’essuyant rapidement et efficacement. Finalement, notre attention s'est tournée vers la ville et ses habitants, et la réponse a été plus habituelle: viol, torture, pillage et mort. Il ne reste plus rien de Port d'Hiver, hormis des os carbonisés et les restes des bâtiment et des gens."
  nf_event_brk.38.a:0 "Ils vont nous craindre maintenant"
+
  nf_event_brk.39.t:0 "La guerre pour New Victoria"
  nf_event_brk.39.d:0 "Le temps est venu - les pillards lancent leur invasion complète. À l’heure où nous parlons, les ports de haut en bas du pays sont attaqués par des forces de raid dans d’immenses groupements tactiques. Nous devons maintenant faire confiance à nos forces armées pour nous garder en sécurité - et s’ils échouent dans ce travail, nous avons peu de chances d’attendre une mort lente et douloureuse."
  nf_event_brk.39.a:0 "Combattez dur, résistez et faites ce qui est juste!"
+
  nf_event_brk.40.t:0 "Le Moot"
  nf_event_brk.40.d:0 "Graven rugit en signe de protestation alors que le Moot commençait, sa main serrée autour de la hache à sa ceinture. Il était temps de voter pour un nouveau dirigeant. Le Moot avait été organisé en secret par un groupe de capitaines mécontents, et maintenant ils invitaient tout le monde à s'opposer à Graven. Ragnar fit un pas en avant, provoquant le chaos dans les assaillants et le titan d'un homme planta sa hache sur la terre gelée. "Je me dresserai contre Graven, car il n'est plus apte à régner." Un frisson descendit sur ceux qui étaient rassemblés alors qu'ils observaient Graven, sa poignée se resserrant alors qu'une intention meurtrière brûlait derrière ses yeux."
  nf_event_brk.40.a:0 "La victoire de Graven dans le vote était à prévoir."

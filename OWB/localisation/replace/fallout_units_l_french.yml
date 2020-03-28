@@ -1,12 +1,12 @@
 ﻿l_french:
- category_vehicles:0 "Véhicules"
+ #	Categories
  category_tanks:0 "Tanks"
  category_behemoth:0 "Super Behémoth Mutant"
  category_super_mutants:0 "Super mutant"
- category_power_armor:0 "Armure Assistée"
+ category_vehicles:0 "Véhicules"
  category_motorized:0 "Motorisé"
+ category_power_armor:0 "Armure Assistée"
  category_melee:0 "Mêlée"
- spec_ops:0 "Forces spéciales"
  category_robots:0 "Robots"
  category_air_unit:0 "Tous les avions"
  category_fighter:0 "Chasseur"
@@ -26,85 +26,90 @@
  category_screen_ship:0 "Navires écran"
  category_capital_ship:0 "Navires Capitaux"
  category_carrier_ship:0 "Porte-avions"
- spec_ops_desc:0 ""
- militia:0 "Milice"
- power_armour_support:0 "Support d'Armure Assistée"
+
+ # Groups (Division designer categories)
  group_robot_group_title:0 "Pelotons de Robots"
  group_mutant_group_title:0 "Pelotons de Mutants"
  group_special_forces_group_title:0 "Pelotons Spéciaux"
+
+ # Infantry
  Infantry:0 "Peloton d'infanterie"
  Infantry_short:0 "Infanterie"
  Infantry_desc:0 ""
- power_armour_support_short:0 "Support d'Armure Assistée"
+
  dog_infantry:0 "Peloton de chien de guerre"
  dog_infantry_short:0 "Chiens de guerre"
  dog_infantry_desc:0 "Laisse glisser les chiens de guerre"
- power_armour_support_short_desc:0 "Une unité d'infanterie équipée d'Armures Assistées. Leur armure peut fournir un avantage énorme en combat en ajoutant plus de résistance aux attaques en douceur. Le coût de production d'un tel blindage augmente le coût des unités d'infanterie, mais peut fournir une bien meilleure utilisation des ressources humaines."
- power_armour:0 "Bataillon d'Armure Assistée"
+
+ spec_ops:0 "Forces spéciales"
  spec_ops_short:0 "Forces spéciales"
- power_armour_short:0 "Bataillon d'Armure Assistée"
- power_armour_desc:0 "Une unité d'infanterie équipée d'Armures Assistées. Leurs armures peuvent fournir un avantage énorme en combat en ajoutant plus de résistance aux attaques en douceur. Le coût de production de ce type d’armure augmente le coût des unités d’infanterie, mais peut fournir une bien meilleure utilisation des ressources humaines."
- ghoul_infantry:0 "Infanterie de goule"
+ spec_ops_desc:0 ""
+
+ militia:0 "Milice"
  militia_short:0 "Milice"
  militia_desc:0 ""
- ghoul_infantry_short:0 "Goule Inf."
+
  fireteam_infantry:0 "Peloton de feu"
  fireteam_infantry_short:0 "Equipe de feu"
  fireteam_infantry_desc:0 ""
- ghoul_infantry_desc:0 "Un groupe de soldats de goules intelligentes, beaucoup plus résistants à la dure réalité des friches que les humains normaux en raison de leur exposition prolongée aux radiations."
+
  demolitions_infantry:0 "Peloton de démolition"
  demolitions_infantry_short:0 "Démolitions"
  demolitions_infantry_desc:0 ""
- super_mutant_infantry:0 "Infanterie de Super Mutant"
+
  ghoul_paratrooper:0 "Infanterie de goule aéroportée"
  ghoul_paratrooper_short:0 "Aéroporté"
  ghoul_paratrooper_desc:0 ""
- super_mutant_infantry_short:0 "Super Mutant Inf."
+
  super_mutant_nightkin_infantry:0 "Infanterie de veilleuse"
  super_mutant_nightkin_infantry_short:0 "Veilleuse"
  super_mutant_nightkin_infantry_desc:0 "Les veilleuses étaient une caste de guerriers d'élite appartenant à l'armée des super mutants du Maître et le point culminant de sa création de super mutants."
- super_mutant_infantry_desc:0 "Les super mutants, même s'ils ne sont généralement pas aussi intelligents que leurs homologues humains, sont beaucoup plus forts et résilients en raison de leur cadre plus grand et plus puissant. Contrairement à l'infanterie normale, un accès au FEV est nécessaire pour produire ces soldats imposants."
- apc:0 "Bataillon APC"
- apc_short:0 "Bataillon APC"
- apc_desc:0 "Des véhicules de combat blindés moyens capables de faire dévier la plupart des tirs d’armes légères tout en étant capables de faire feu eux-mêmes."
- ghoul_paratroopers:0 "Parachutistes Ghoul"
+
+ power_armour:0 "Bataillon d'Armure Assistée"
+ power_armour_short:0 "Bataillon d'Armure Assistée"
+ power_armour_desc:0 "Une unité d'infanterie équipée d'Armures Assistées. Leurs armures peuvent fournir un avantage énorme en combat en ajoutant plus de résistance aux attaques en douceur. Le coût de production de ce type d’armure augmente le coût des unités d’infanterie, mais peut fournir une bien meilleure utilisation des ressources humaines."
+
  power_armour_fireteam_infantry:0 "Peloton de Fireteam motorisé"
  power_armour_fireteam_infantry_short:0 "Fireteam Armure Assistée"
  power_armour_fireteam_infantry_desc:0 ""
- ghoul_paratroopers_short:0 "Ghoul Para."
+
  power_armour_demolitions_infantry:0 "Peloton de démolitions motorisées"
  power_armour_demolitions_infantry_short:0 "Démolitions AA"
  power_armour_demolitions_infantry_desc:0 ""
- ghoul_paratroopers_desc:0 "Un groupe de soldats ghouls intelligentes, beaucoup plus résistants à la dure réalité des terres désolées que les humains normaux en raison de leur exposition prolongée aux radiations. Ils se souviennent également de la manière de se poser efficacement sur les lignes ennemies"
- apc_support:0 "Assistance APC"
- apc_support_short:0 "Assistance APC"
- apc_support_desc:0 ""
- tank:0 "Bataillon de chars"
- tank_short:0 "Bataillon de chars"
- tank_desc:0 "Les chars lourdement armés et blindés traverseront toutes les cibles assez folles pour se mettre en travers de leur chemin."
- light_robot:0 "Robots Légers"
- light_robot_short:0 "LRs"
+
+ ghoul_infantry:0 "Infanterie de goule"
+ ghoul_infantry_short:0 "Goule Inf."
+ ghoul_infantry_desc:0 "Un groupe de soldats de goules intelligentes, beaucoup plus résistants à la dure réalité des friches que les humains normaux en raison de leur exposition prolongée aux radiations."
+
+ super_mutant_infantry:0 "Infanterie de Super Mutant"
+ super_mutant_infantry_short:0 "Super Mutant Inf."
+ super_mutant_infantry_desc:0 "Les super mutants, même s'ils ne sont généralement pas aussi intelligents que leurs homologues humains, sont beaucoup plus forts et résilients en raison de leur cadre plus grand et plus puissant. Contrairement à l'infanterie normale, un accès au FEV est nécessaire pour produire ces soldats imposants."
+
  super_mutant_aux_infantry:0 "Peloton Auxiliaire Super Mutant"
  super_mutant_aux_infantry_short:0 "Super mutants"
  super_mutant_aux_infantry_desc:0 "Les super mutants, bien que généralement pas aussi intelligents que leurs homologues humains, sont beaucoup plus forts et résilients en raison de leur cadre plus grand et plus puissant. Contrairement à l'infanterie normale, un accès au FEV est nécessaire pour former ces soldats imposants."
- light_robot_desc:0 "Des robots légèrement blindés mis en service comme unité de combat."
- medium_robot:0 "Robots moyens"
+
+
  molerat_infantry:0 "Cohorte Molerat"
  molerat_infantry_short:0 "Molerats"
  molerat_infantry_desc:0 "Un des bougres n'est peut-être pas dangereux. Mais qu'en est-il d'une vingtaine ? Ou d'une centaine ?"
  mirelurk_infantry:0 "Peloton de Mirelurk"
  mirelurk_infantry_short:0 "Lurkers"
  mirelurk_infantry_desc:0 "Des Mirelurks apprivoisés, prêts à se battre et à mourir pour leur reine."
- medium_robot_short:0 "Robots moyens"
- medium_robot:0 "Robots blindés moyens mis en service en tant qu'unité de combat."
- heavy_robot:0 "Robots lourds"
- heavy_robot_short:0 "Robots lourds"
- heavy_robot_desc:0 "Des robots lourdement blindés mis en service comme unité de combat."
- behemoth:0 "Monstre"
- behemoth_short:0 "Monstre"
- behemoth_desc:0 ""
- signal_company:0 "Société de signal"
- signal_company_short:0 "Société de signal"
+
+
+ # Motorized/Mechanized
+
+ apc:0 "Bataillon APC"
+ apc_short:0 "Bataillon APC"
+ apc_desc:0 "Des véhicules de combat blindés moyens capables de faire dévier la plupart des tirs d’armes légères tout en étant capables de faire feu eux-mêmes."
+
+ # tanks
+ tank:0 "Bataillon de chars"
+ tank_short:0 "Bataillon de chars"
+ tank_desc:0 "Les chars lourdement armés et blindés traverseront toutes les cibles assez folles pour se mettre en travers de leur chemin."
+
+ # Planes
  fighter:0 "Avion de chasse"
  fighter_short:0 "Chasseur"
  fighter_desc:0 ""
@@ -123,71 +128,84 @@
  strat_bomber:0 "Bombardier stratégique"
  strat_bomber_short:0 "Bombardier lourd"
  strat_bomber_desc:0 ""
- signal_company_desc:0 "L'utilisation de la technologie radio restaurée au sein d'entreprises spécifiques pour communiquer entre les unités peut permettre une poussée plus cohérente des unités vers la bataille."
- recon_company:0 "Compagnie de reconnaissance"
+
+ # Robots
  support_robot:0 "Peloton de robot de soutien"
  support_robot_short:0 "Robots Support"
  support_robot_desc:0 "Robots légèrement blindés et armés mis en service en tant qu'unité de combat. En mettant l'accent sur les rôles de soutien."
- recon_company_short:0 "Compagnie de reconnaissance"
+
  combat_robot:0 "Peloton de robot de combat"
  combat_robot_short:0 "Robots de combat"
  combat_robot_desc:0 "Robots lourdement blindés et armés mis en service comme unité de combat."
- recon_company_desc:0 "Dans les vastes Terres Désolées du vieux monde, des technologies comme le GPS et l’accès à la technologie de cartographie, avec un groupe traditionnel d’infanterie pour effectuer des opérations de reconnaissance, permettent à une unité de mieux choisir les tactiques au combat."
- maintenance_company:0 "Compagnie de Maintenance"
- maintenance_company_short:0 "Compagnie de Maintenance"
- maintenance_company_desc:0 "Les véhicules et les robots sont difficiles à produire, au lieu de devoir jeter ceux qui tombent en panne dans le désert, certains peuvent être sauvés en utilisant des unités spécialement formées avec des compétences de réparation de base pour les remettre en état de marche."
- logistics_company:0 "Compagnie de logistique"
- logistics_company_short:0 "Compagnie de Logistique"
- logistics_company_desc:0 "Dans les Terres Désolées, les approvisionnements sont encore plus difficiles à acheminer sur les lignes de front qu'avant la guerre en raison du peu d'infrastructures restants. L'ajout de sociétés de logistique aidera certainement à permettre à une armée plus importante d'être déployée et correctement approvisionnée."
- explosive_company:0 "Soutien aux explosifs"
- explosive_company_short:0 "Soutien aux explosifs"
+
+ behemoth:0 "Monstre"
+ behemoth_short:0 "Monstre"
+ behemoth_desc:0 ""
+
+ # Support
+
+ power_armour_support:0 "Support d'Armure Assistée"
+ power_armour_support_short:0 "Support d'Armure Assistée"
  power_armour_support_desc:0 "Une unité d'infanterie équipée d'une armure assistée. Leur armure peut fournir un avantage énorme au combat en ajoutant plus de résistance aux attaques légères. Le coût de production de telles armures augmente le coût des unités d'infanterie mais peut permettre une utilisation bien meilleure des ressources en main-d'œuvre"
- explosive_company_desc:0 "Les troupes entraînées à utiliser une variété d’engins explosifs et d’armes assemblées librement afin de fournir un peu plus de puissance de feu à l’armée."
+
  fireteam_support:0 "Équipe de feu Support"
  fireteam_support_short:0 "Équipe de feu"
  fireteam_support_desc:0 ""
- flamer_company:0 "Soutien de lance-flamme"
+
  demolitions_support:0 "Soutien de démolitions"
  demolitions_support_short:0 "Démolitions"
  demolitions_support_desc:0 ""
- flamer_company_short:0 "Soutien de lance-flamme"
+
  power_armour_fireteam_support:0 "Équipe de feu de soutien motorisée"
  power_armour_fireteam_support_short:0 "Fireteam AA"
  power_armour_fireteam_support_desc:0 ""
- flamer_company_desc:0 "Utiliser la puissance des flammes contre l’ennemi dans un rôle spécialisé a sa place dans la capacité de dégager les zones et les pièces de manière sensiblement plus facile que sans eux. Regardez vos ennemis brûler devant vos yeux!"
+
  power_armour_demolitions_support:0 "Assistance à la démolition motorisée"
  power_armour_demolitions_support_short:0 "Démolitions AA"
  power_armour_demolitions_support_desc:0 ""
+
+ recon_company:0 "Compagnie de reconnaissance"
+ recon_company_short:0 "Compagnie de reconnaissance"
+ recon_company_desc:0 "Dans les vastes Terres Désolées du vieux monde, des technologies comme le GPS et l’accès à la technologie de cartographie, avec un groupe traditionnel d’infanterie pour effectuer des opérations de reconnaissance, permettent à une unité de mieux choisir les tactiques au combat."
+
+ maintenance_company:0 "Compagnie de Maintenance"
+ maintenance_company_short:0 "Compagnie de Maintenance"
+ maintenance_company_desc:0 "Les véhicules et les robots sont difficiles à produire, au lieu de devoir jeter ceux qui tombent en panne dans le désert, certains peuvent être sauvés en utilisant des unités spécialement formées avec des compétences de réparation de base pour les remettre en état de marche."
+
+ logistics_company:0 "Compagnie de logistique"
+ logistics_company_short:0 "Compagnie de Logistique"
+ logistics_company_desc:0 "Dans les Terres Désolées, les approvisionnements sont encore plus difficiles à acheminer sur les lignes de front qu'avant la guerre en raison du peu d'infrastructures restants. L'ajout de sociétés de logistique aidera certainement à permettre à une armée plus importante d'être déployée et correctement approvisionnée."
+
  dog_company:0 "Chien de soutien"
  dog_company_short:0 "Chien de soutien"
  dog_company_desc:0 "Les chiens entraînés à tuer offrent des avantages, en particulier dans les zones boisées, ils sont un soutien supplémentaire au combat."
+
  anti_tank_company:0 "Support anti-char"
  anti_tank_company_short:0 "Support anti-char"
  anti_tank_company_desc:0 "Diverses armes anti-chars assemblées en une unité pour fournir un appui sur des cibles blindées pour permettre à l'infanterie et aux autres unités souples de résister aux véhicules et aux robots sans avoir à les produire."
- anti_personnel_company:0 "Soutien de mitrailleuse"
- anti_personnel_company_short:0 "Soutien de mitrailleuse"
- anti_personnel_company_desc:0 "Un petit groupe de troupes utilisant des armes automatiques lourdes pouvant fournir une ligne de défense au front et séparer l’infanterie attaquante."
- anti_personnel_brigade:0 "Brigade de mitrailleuses"
- anti_personnel_brigade_short:0 "Brigade de mitrailleuses"
- anti_personnel_brigade_desc:0 "Un groupe de combat utilisant des armes automatiques lourdes qui peuvent constituer une ligne de défense pour le front et séparer l’infanterie attaquante."
- laser_company:0 "Support de batterie laser"
- laser_company_short:0 "Support de batterie laser"
- laser_company_desc:0 "Un groupe de combat composé de soldats utilisant des armes à laser automatiques pouvant fournir une ligne de défense au front et séparer l'infanterie attaquante."
+
  medical_chem_company:0 "Compagnie Médicale"
  medical_chem_company_short:0 "Compagnie Médicale"
  medical_chem_company_desc:0 "Les bons hommes sont difficiles à trouver, surtout après la fin du monde. L'ajout de compagnie spécialisées transportant des équipements médicaux et pratiquant des compétences médicales de base peut au moins réduire certaines des pertes subies sur le champ de bataille."
+
+  # Support
  light_ship_unit:0 "Navire léger"
  light_ship_unit_short:0 "Navire léger"
  light_ship_unit_desc:0 ""
+
  medium_ship_screen_unit:0 "Navire moyen"
  medium_ship_screen_unit_short:0 "Navire moyen"
  medium_ship_screen_unit_desc:0 ""
+
  heavy_ship_unit:0 "Navire lourd"
  heavy_ship_unit_short:0 "Navire lourd"
  heavy_ship_unit_desc:0 ""
+
  super_heavy_ship_unit:0 "Navire super-lourd"
  super_heavy_ship_unit_short:0 "Navire super-lourd"
  super_heavy_ship_unit_desc:0 ""
+
+  # Modifiers
  modifier_army_sub_unit_power_armour_attack_factor:0 "Attaque d'armure assistée"
  modifier_army_sub_unit_power_armour_defence_factor:0 "Défense d'armure assistée"
  modifier_army_sub_unit_power_armour_speed_factor:0 "Vitesse d'armure assistée"

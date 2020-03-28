@@ -1,10 +1,18 @@
 ﻿l_french:
+ # Equipment naming is inherited from the equipment name when displayed in the techtree
 
+ #----------------------------
+ # Header
+ #----------------------------
   HEADER_THRUSTER_ROBOT:0 "Robot Propulseur"
   HEADER_EYEBOT_ROBOT:0 "Robot flottant"
   HEADER_BIPEDAL_ROBOT:0 "Robot bipède"
   HEADER_COMBAT_ROBOT:0 "Robot de combat"
   HEADER_ADVANCED_ROBOT:0 "Robot avancé"
+
+ #----------------------------
+ # Robotics
+ #----------------------------
   robot_automation_tech:0 "Automatisation"
   robot_automation_tech_desc:0 "Les progrès dans le domaine de la robotique et de l'intelligence artificielle pourraient être mis à profit. L'augmentation de nos capacités industrielles par l'installation de bras mécaniques simples capables de souder, boulonner et généralement d'équiper une ligne d'assemblage de base accélérera notre rythme de production tout en ouvrant la voie à des applications militaires très intéressantes."
   robot_makeshift_automatons_tech:0 "Automates"
@@ -65,8 +73,10 @@
   robot_pacification_bot_tech_desc:0 "Grand robot quadrupède rappelant les grands animaux d'autrefois, cette machine de guerre était à l'origine dotée d'une protection en forme de réservoir et de quatre canons de pacification. Les quatre canons ont été remplacés par deux autocanons laser rotatifs, et l'attention s'est portée sur des systèmes de mobilité améliorés et une meilleure liaison tactique avec d'autres unités robotiques, ce qui en fait des postes de commandement mobiles."
   robot_behemoth_robot_tech:0 "Bot Béhémoth"
   robot_behemoth_robot_tech_desc:0 "Une bête gargantuesque d'une machine, appeler ce robot un char d'assaut serait rendre un mauvais service à la masse d'armes et d'armures qu'il transporte. Armé à l'origine de quatre mitrailleuses de calibre.50 à tir rapide, elles ont été remplacées par un quadruple canon automatique de 20 mm. Combiné à une armure assez épaisse pour arrêter les projectiles à plasma ou même l'artillerie navale, il n'y a rien d'autre à faire que de haleter avant d'être réduit en pièces."
+    ### Headers
   HEADER_LIGHT_ROBOT:0 "Robots légers"
   HEADER_ROBOT_SUBTECH:0 "Améliorations du robot"
   HEADER_MEDIUM_ROBOT:0 "Robots moyens"
   HEADER_ROBOT_SUBTECH_1:0 "Raffinements robotiques"
   HEADER_HEAVY_ROBOT:0 "Robots lourds"
+  

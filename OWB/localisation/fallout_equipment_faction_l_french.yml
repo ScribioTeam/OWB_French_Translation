@@ -2,6 +2,7 @@
   # FACTION SPECIFIC UNIQUES
   # Alphabetical by TAG
 
+
   # Republic of Rio Grande
   RRG_ballistic_equipment_2:0 "Paciencia Rifle"
   RRG_ballistic_equipment_2_short:0 "AM Rifle"
@@ -67,7 +68,7 @@
   BDT_melee_equipment_2:0 "Cultist Sword"
   BDT_melee_equipment_2_short:0 "Cult Sword"
   BDT_melee_equipment_2_desc:0 ""
-  
+
   # BJS (Baja State)
   BJS_ballistic_equipment_1:0 "M&A 9mm Pistol"
   BJS_ballistic_equipment_1_short:0 "9mm Pistol"
@@ -90,12 +91,11 @@
  BJS_spec_ops_equipment_5:0 "Armure de combat des Rangers vétérans"
  BJS_spec_ops_equipment_5_short:0 "Armure de vétéran"
  BJS_spec_ops_equipment_5_desc:0 "L'armure de combat distinctive des Rangers noirs se compose du traditionnel trench-coat des Rangers du Désert porté avec l'armure anti-émeute avancée d'avant-guerre."
-#  BJS_spec_ops_equipment_4: "Baja Ranger Combat Armour"
-#  BJS_spec_ops_equipment_4_short: "Ranger Armour"
+
+  # BLO (Beltran-Levya Cartel)
  BLO_ballistic_equipment_1:9 "Pistolet 9mm Custom M&A"
  BLO_ballistic_equipment_1_short:9 "9mm Custom"
  BLO_ballistic_equipment_1_desc:9 "Modèle personnalisé d'un pistolet 9 mm fabriqué par M&A Guns Manufacturers, cette arme comporte une image de Notre-Dame de Guadalupe, une figure catholique bien connue, et une représentation de la Femme biblique de l'Apocalypse, peintes sur les poignées perlées de l'arme à feu. Tout le corps du pistolet est damasquiné de lierre et de détails floraux, avec une finition en nickel poli et une détente dorée."
-#  BJS_spec_ops_equipment_4_desc: "The distinctive black ranger combat armor consists of the Desert Rangers' traditional trench coat worn with pre-War riot armor. Baja Ranger combat armor is hand-manufactured outside of Rattletail."
 
   # BON (Boneyard State)
   BON_ballistic_equipment_1:0 "M&A 9mm Pistol"
@@ -103,22 +103,23 @@
   BON_ballistic_equipment_1_desc:0 "Common sidearm of both military and police force alike, and chambered in one of the most prolific calibres in existence, this firearm is the perfect candidate for widespread adoption."
   BON_ballistic_equipment_2:0 "Service Rifle"
   BON_ballistic_equipment_2_short:0 "Service Rifle"
+  BON_ballistic_equipment_2_desc:0 "A mainstay weapon of the pre-war US-Army, repaired and refurbished with Redwood furniture."
  BON_ballistic_equipment_3:0 "Carabine d'assaut"
  BON_ballistic_equipment_3_short:0 "Carabine d'assaut"
  BON_ballistic_equipment_3_desc:0 "La carabine d'assaut est une arme automatique compacte alimentée par un magasin, avec une cadence de tir élevée et une diffusion relativement faible. C'est l'une des armes automatiques les plus précises des Terres Désolées, et peut être utilisée efficacement dans les combats à courte et moyenne distance."
-  BON_ballistic_equipment_2_desc:0 "A mainstay weapon of the pre-war US-Army, repaired and refurbished with Redwood furniture."
   BON_ballistic_equipment_4:0 "Marksman Carbine"
   BON_ballistic_equipment_4_short:0 "Marksman Carbine"
   BON_ballistic_equipment_4_desc:0 "The marksman carbine is a semi-automatic, medium-power carbine with a 20 round magazine. Both highly accurate at long range and easy to handle in short range encounters, the marksman carbine is a precision weapon for a precision military."
 
+  # BOO (Boomers)
  BOO_power_armour_equipment_3:45 "Armure assistée Vault-Tec T-45d"
  BOO_power_armour_equipment_3_short:45 "T-45d PA"
  BOO_power_armour_equipment_3_desc:45 "Basé sur l'armure assistée T-45d de l'armée américaine mais fabriqué par Vault-Tec, l'armure assistée T-45d de Vault-Tec a été distribué dans une petite poignée d'abris avant que les bombes ne tombent."
  BOO_power_armour_equipment_4:51 "Armure assistée Vault-Tec T-51b"
  BOO_power_armour_equipment_4_short:51 "T-51b PA"
  BOO_power_armour_equipment_4_desc:51 "Basé sur l'armure assistée T-51b de l'armée américaine mais non fabriqué en nombre significatif avant la chute des bombes, certains abris contiennent les schémas cryptés pour en produire d'autres."
-  # BOO (Boomers)
-  BOO_power_armor_equipment_3: "Vault-Tec T-45d Power Armour"
+
+#  BOS (Brotherhood of Steel)
  BOS_melee_equipment_4:0 "Gant de déplacement"
  BOS_melee_equipment_4_short:0 "Gant de déplacement"
  BOS_melee_equipment_4_desc:0 "Le gant de déplacement crée une onde de choc lors de l'impact, similaire à celle produite par le fusil Gauss, infligeant tous deux de nombreux dégâts et repoussant une cible. Il peut le faire par un souffle sonique, indiqué par le haut-parleur sur la jointure."
@@ -131,19 +132,6 @@
  BOS_spec_ops_equipment_5:0 "Armure composite de reconnaissance"
  BOS_spec_ops_equipment_5_short:0 "Armure composite de reconnaissance"
  BOS_spec_ops_equipment_5_desc:0 "En utilisant des matériaux et des techniques de construction avancés, nous pouvons produire des armures de reconnaissance qui sont à la fois plus légères et plus durables que les modèles précédents."
-  BOO_power_armor_equipment_3_short: "T-45d PA"
-  BOO_power_armor_equipment_3_desc: "Based on the US Military's T-45d power armour but manufactured by Vault-Tec, Vault-Tec T-45d power armour was distributed to a small handful of vaults before the bombs fell."
-  BOO_power_armor_equipment_4: "Vault-Tec T-51b Power Armour"
-  BOO_power_armor_equipment_4_short: "T-51b PA"
-  BOO_power_armor_equipment_4_desc: "Based on the US Military's T-51b power armour but not manufactured in any significant number before the bombs fell, some vaults contain the encrypted schematics to produce more."
-
-#  BOS (Brotherhood of Steel)
-#  BOS_spec_ops_equipment_4: "Recon Armor"
-#  BOS_spec_ops_equipment_4_short: "Recon Armour"
-#  BOS_spec_ops_equipment_4_desc: "Originally designed to serve as the under-armor for T-45d power armor, recon armor is a vacuum-sealed asbestos jumpsuit that covers the entire body. While useful in its intended role, recon armor is renowned for being an effective armor for operations that require more mobility than traditional power armor can provide."
-#  BOS_spec_ops_equipment_5: "Composite Recon Armor"
-#  BOS_spec_ops_equipment_5_short: "Composite Recon Armour"
-#  BOS_spec_ops_equipment_5_desc: "By using advanced materials and construction techniques, we can produce recon armour that is both lighter and more durable than previous models."
   BOS_blimp_equipment_4:0 "Osceola Class Skyship"
   BOS_blimp_equipment_4_short:0 "Osceola Class"
  BOS_blimp_equipment_4_desc:0 "La fierté de toute force aérienne d'après-guerre, un seul Skyship de classe Osceola est une force avec laquelle il faut compter, alors que plusieurs seraient une projection de force encore jamais vue à travers les Terres Désolées. Base militaire volante capable à la fois de combat aérien et de bombardement air-sol, l'Osceola n'est pas seulement une super-arme, mais aussi un symbole de puissance militaire."
@@ -199,7 +187,7 @@
   CES_power_armour_equipment_2: "Brotherhood of Mars Power Armour"
   CES_power_armour_equipment_2_short: "BoM PA"
   CES_power_armour_equipment_2_desc: "Designed to invoke the fury of Mars in battle, the Brotherhood of Mars created this varient of T-51b to outfit their legions with in the coming wars. Its mediocre materials make it worse in battle than regular T-51b, but for equipment designed by former luddites, it is exceptional."
-  
+
   # CLK (Clockwatchers)
   CLK_infantry_equipment_1:0 "Pipe Revolver"
   CLK_infantry_equipment_1_short:0 "Revolver"
@@ -217,12 +205,7 @@
   CLK_ballistic_equipment_4_short:0 "Pain Train"
   CLK_ballistic_equipment_4_desc:0 "An extremely bulky yet curious contraption, this converted railway spike driver has been fitted with a stock, barrel, and stand-alone power unit to be able to fire it's spike at long range. When bullets could no longer satisfy the Clockwatcher's need for increased firepower, this was a natural choice for a replacement. The spike itself is propelled at revolver-like velocity, themselves being huge .62 caliber metal rods able to literally nail an enemy to a wall."
 
- DEA_melee_equipment_2:0 "Club de guerre"
- DEA_melee_equipment_2_short:0 "Club de guerre"
- DEA_melee_equipment_2_desc:2 "Il est fait d'un bois dur originaire de la vallée de Zion qui a été sculpté en un club de 2 pieds de long. Le gourdin de guerre est l'arme emblématique de la tribu des Chevaux morts, d'où la forme de l'extrémité de l'arme qui ressemble à une tête de cheval."
-
   # Dayglow (Dayglow)
-
   DAY_ballistic_equipment_1:0 "M&A 9mm Pistol"
   DAY_ballistic_equipment_1_short:0 "9mm Pistol"
   DAY_ballistic_equipment_1_desc:0 "Common sidearm of both military and police force alike, and chambered in one of the most prolific calibres in existence, this firearm is the perfect candidate for widespread adoption."
@@ -236,17 +219,21 @@
   DAY_ballistic_equipment_4_short:0 "Marksman Carbine"
     DAY_ballistic_equipment_4_desc:0 "The marksman carbine is a semi-automatic, medium-power carbine with a 20 round magazine. Both highly accurate at long range and easy to handle in short range encounters, the marksman carbine is a precision weapon for a precision military."
 
-  
-    # DES (Desert Rangers)
+  # DEA (Dead Horse)
+ DEA_melee_equipment_2:0 "Club de guerre"
+ DEA_melee_equipment_2_short:0 "Club de guerre"
+ DEA_melee_equipment_2_desc:2 "Il est fait d'un bois dur originaire de la vallée de Zion qui a été sculpté en un club de 2 pieds de long. Le gourdin de guerre est l'arme emblématique de la tribu des Chevaux morts, d'où la forme de l'extrémité de l'arme qui ressemble à une tête de cheval."
+
+  # DES (Desert Rangers)
   DES_ballistic_equipment_1:0 "Big Iron"
   DES_ballistic_equipment_1_short:0 "Big Iron"
   DES_ballistic_equipment_1_desc:0 "No self respecting ranger wears anything but a hand tooled .44 caliber big iron on his hip."
+ DES_ballistic_equipment_2:0 "Brush Gun"
+ DES_ballistic_equipment_2_short:0 "Brush Gun"
+ DES_ballistic_equipment_2_desc:0 "High calibre cowboy weaponry may not look like much, but in the hands of a veteran Desert Ranger it will destroy any foe in its path."
   DES_ballistic_equipment_4:0 "Desert Marksman Carbine"
   DES_ballistic_equipment_4_short:0 "Marksman Carbine"
   DES_ballistic_equipment_4_desc:0 "The marksman carbine is a semi-automatic, medium-power carbine with a 20 round magazine. Both highly accurate at long range and easy to handle in short range encounters, the marksman carbine is a precision weapon for a precision military."
-#  DES_spec_ops_equipment_4: "Desert Ranger Combat Armour"
-#  DES_spec_ops_equipment_4_short: "Ranger Armour"
-#  DES_spec_ops_equipment_4_desc: "A USMC-issued armor boasting a desert camouflage pattern, worn with a matching military helmet with built-in low light optics, a combination IR/white light lamp and gas mask, an olive green duster and a pair of worn-out khaki pants."
  DES_spec_ops_equipment_3:0 "Armure de patrouille des Rangers"
  DES_spec_ops_equipment_3_short:0 "Armure de patrouille"
  DES_spec_ops_equipment_3_desc:0 "L'armure de patrouille de base utilisée par les Rangers"
@@ -265,7 +252,6 @@
  DIS_melee_equipment_2_short:0 "Couteau de poche"
  DIS_melee_equipment_2_desc:0 "L'un des effets de la Grande Guerre a été en fait un réchauffement des mers. Deux cents ans d'absence de voyage en mer, d'océans plus chauds et de mutations inopérantes ont permis au système de récifs coralliens Anacapa de s'étendre sur la majeure partie du littoral occidental des États-Unis. Au large des côtes de l'Oregon, les tribus ramassent des morceaux de corail rejetés à la mer pour la construction de bâtiments, les rituels et même les armures et les armes !\nLes couteaux de poche font partie de cette culture. Deux morceaux de coquille greffés ensemble, la coquille de conque en question étant aiguisée à la pointe du rasoir, ces armes permettent de trancher et de découper efficacement tout tribal, sacrifice ou mutant."
 
-
   # EHT (The Eighties)
   EHT_ballistic_equipment_1: "Sawn off shotgun"
   EHT_ballistic_equipment_1_short: "Sawn Off"
@@ -279,7 +265,6 @@
   EHT_melee_equipment_3:0 "Fuel-Fed Chainsaw"
   EHT_melee_equipment_3_short:0 "Chainsaw"
   EHT_melee_equipment_3_desc:0 "A crude melee weapon, this fuel-fed chainsaw is still a highly-customized piece of hardware, of which many eighties riders are proud of. It consists of a welded chainsaw mechanism, wrapped around a long metal pole and powered by a compact high-RPM bike engine, the resulting weapon being more akin to a polearm than an actual saw. Usable even on a motorcycle to decapitate or maim any unfortunate foes, any enemy should rightfully fear it's roar."
-
 
   # ENC (Enclave, both New Reno and NCR variants)
   ENC_energy_equipment_3:0 "M1 Winchester"
@@ -311,9 +296,6 @@
   HEA_energy_equipment_2:0 "Archangel's Fury"
   HEA_energy_equipment_2_short:0 "Archangel's Fury"
   HEA_energy_equipment_2_desc:0 "Drastically higher power output comes at the cost of higher temperature output. All AER3 weapons come with bulky frames designed to house their white laser components and heat dissipation equipment. Every shot fired produces a brilliant white laser, followed by a burst of steam from the rifle. The released steam jet screams in a peculiar way that's often likened to a warrior's cry.\n\n"
- MLT_melee_equipment_2:0 "Couteau de poche"
- MLT_melee_equipment_2_short:0 "Couteau de poche"
- MLT_melee_equipment_2_desc:0 "L'un des effets de la Grande Guerre a été en fait un réchauffement des mers. Deux cents ans d'absence de voyage en mer, d'océans plus chauds et de mutations inopérantes ont permis au système de récifs coralliens Anacapa de s'étendre sur la majeure partie du littoral occidental des États-Unis. Au large des côtes de l'Oregon, les tribus ramassent des morceaux de corail rejetés à la mer pour la construction de bâtiments, les rituels et même les armures et les armes !\nLes couteaux de poche font partie de cette culture. Deux morceaux de coquille greffés ensemble, la coquille de conque en question étant aiguisée à la pointe du rasoir, ces armes permettent de trancher et de découper efficacement tout tribal, sacrifice ou mutant."
   HEA_energy_equipment_3:0 "Demonslayer"
   HEA_energy_equipment_3_short:0 "Demonslayer"
   HEA_energy_equipment_3_desc:0 "Improving upon the prototypes our forefathers left to us, the engineers at the heart of The Steam have developed a weapon of God unlike any other. The bulk of the body consists of capacitors to increase the output of the laser, and rather than wasting the heat energy of the cooling system, our engineers have turned the heat release plume into a short range death sentence: cooking anybody in front of the weapon with a superheated jet of steam.\n\n"
@@ -323,25 +305,30 @@
   KHA_ballistic_equipment_1_short: "9mm SMG"
   KHA_ballistic_equipment_1_desc: "The 9mm submachine gun is a small, yet capable weapon, able to empty a full magazine in under 3 seconds. The 9mm rounds are common and lightweight, making it even easier to spray-and-pray."
 
+  # MLT (Mirelurk Tribe)
+ MLT_melee_equipment_2:0 "Couteau de poche"
+ MLT_melee_equipment_2_short:0 "Couteau de poche"
+ MLT_melee_equipment_2_desc:0 "L'un des effets de la Grande Guerre a été en fait un réchauffement des mers. Deux cents ans d'absence de voyage en mer, d'océans plus chauds et de mutations inopérantes ont permis au système de récifs coralliens Anacapa de s'étendre sur la majeure partie du littoral occidental des États-Unis. Au large des côtes de l'Oregon, les tribus ramassent des morceaux de corail rejetés à la mer pour la construction de bâtiments, les rituels et même les armures et les armes !\nLes couteaux de poche font partie de cette culture. Deux morceaux de coquille greffés ensemble, la coquille de conque en question étant aiguisée à la pointe du rasoir, ces armes permettent de trancher et de découper efficacement tout tribal, sacrifice ou mutant."
+
   # MOJ (Mojave Chapter)
+  #MOJ_melee_equipment_3: "X-2 antenna"
+  #MOJ_melee_equipment_3_short: "X-2 antenna"
+  #MOJ_melee_equipment_3_desc: "It is one of the many special antennas used to make the radar-guided repulsive field around the Big Mountain Research and Development Center, and for the transmissions of the X-2 array. When used as a weapon it focuses brainwave patterns and does electrical damage, causing extra damage to robots and power armour users."
+  #MOJ_melee_equipment_4: "Zap Glove"
+  #MOJ_melee_equipment_4_short: "Zap Glove"
+  #MOJ_melee_equipment_4_desc: "Intended originally for disabling haywire robots, the Zap Glove has proven to be a useful weapon against all targets, whether armored or soft, organic or artificial. Taking the form of a wrist-mounted battery housing and an electrified knuckle plate, the Zap Glove is used with a punching motion, zapping robots and power armor, and producing a tasing effect on humans."
   MOJ_energy_equipment_3: "Laser Assisted Electrical Rifle"
   MOJ_energy_equipment_3_short: "LAER"
   MOJ_energy_equipment_3_desc: "The Laser Assisted Electrical Rifle uses lasers to create a conductive plasma conduit in the air and then discharge a large electrical differential across the conduit. A particularly stubborn technology to work with, this variety of electrolaser weapon was perfected at the Big Mountain Research and Development Center."
   MOJ_energy_equipment_4: "Holorifle"
+  MOJ_energy_equipment_4_short: "Holorifle"
+  MOJ_energy_equipment_4_desc: "A scoped, pump-action energy weapon, holorifles are unique in that their projectiles are not a bullet, plasma, laser, flame, electromagnetic pulse, or electrical charge. Based instead on the hologram technology perfected at the Sierra Madre, the holorifle represents an entirely new form of energy weapon technology."
  MOJ_spec_ops_equipment_4:0 "Armure de reconnaissance"
  MOJ_spec_ops_equipment_4_short:0 "Armure de reconnaissance"
  MOJ_spec_ops_equipment_4_desc:45 "Conçu à l'origine pour servir de sous-combinaison pour l'armure assistée T-45d, l'armure de reconnaissance est une combinaison en amiante scellée sous vide qui couvre tout le corps. Bien qu'utile dans son rôle, l'armure de reconnaissance est réputée pour être un blindage efficace pour les opérations qui exigent plus de mobilité que le l'armure assistée traditionnelle peut fournir."
  MOJ_spec_ops_equipment_5:0 "Armure composite de reconnaissance"
  MOJ_spec_ops_equipment_5_short:0 "Armure composite de reconnaissance"
  MOJ_spec_ops_equipment_5_desc:0 "En utilisant des matériaux et des techniques de construction avancés, nous pouvons produire des armures de reconnaissance qui sont à la fois plus légers et plus durables que les modèles précédents."
-  MOJ_energy_equipment_4_short: "Holorifle"
-  MOJ_energy_equipment_4_desc: "A scoped, pump-action energy weapon, holorifles are unique in that their projectiles are not a bullet, plasma, laser, flame, electromagnetic pulse, or electrical charge. Based instead on the hologram technology perfected at the Sierra Madre, the holorifle represents an entirely new form of energy weapon technology."
-#  MOJ_spec_ops_equipment_4: "Recon Armor"
-#  MOJ_spec_ops_equipment_4_short: "Recon Armour"
-#  MOJ_spec_ops_equipment_4_desc: "Originally designed to serve as the under-armor for T-45d power armor, recon armor is a vacuum-sealed asbestos jumpsuit that covers the entire body. While useful in its intended role, recon armor is renowned for being an effective armor for operations that require more mobility than traditional power armor can provide."
-#  MOJ_spec_ops_equipment_5: "Composite Recon Armor"
-#  MOJ_spec_ops_equipment_5_short: "Composite Recon Armour"
-#  MOJ_spec_ops_equipment_5_desc: "By using advanced materials and construction techniques, we can produce recon armour that is both lighter and more durable than previous models."
   MOJ_ballistic_fireteam_equipment_4: "K9000 Cyberdog Gun"
   MOJ_ballistic_fireteam_equipment_4_short: "Cyberdog Gun"
   MOJ_ballistic_fireteam_equipment_4_desc: "This weapon is actually an odd form of cyberdog, except instead of a robotic body in the image of a canine companion, a living dog's brain has been provided with a machine gun frame, utilizing .357 Magnum ammunition. Its \"canine\" features include two metallic \"ears\" mounted on top of the weapon that move like a real dog's and a sniffer mounted on the jar containing its preserved brain, allowing the gun to sense its surroundings."
@@ -365,6 +352,11 @@
   NCR_ballistic_equipment_2_short:0 "Service Rifle"
   NCR_ballistic_equipment_2_desc:0 "A mainstay weapon of the pre-war US-Army, repaired and refurbished with Redwood furniture."
   NCR_ballistic_equipment_3:0 "Brush Gun and Sequoia Revolver"
+  NCR_ballistic_equipment_3_short:0 "Ranger Gear"
+  NCR_ballistic_equipment_3_desc:0 "High calibre cowboy weaponry may not look like much, but in the hands of a veteran NCR Ranger it will destroy any foe in its path."
+  NCR_ballistic_equipment_4:0 "Marksman Carbine"
+  NCR_ballistic_equipment_4_short:0 "Marksman Carbine"
+  NCR_ballistic_equipment_4_desc:0 "The marksman carbine is a semi-automatic, medium-power carbine with a 20 round magazine. Both highly accurate at long range and easy to handle in short range encounters, the marksman carbine is a precision weapon for a precision military."
  NCR_spec_ops_equipment_3:0 "Armure de patrouille des Rangers"
  NCR_spec_ops_equipment_3_short:0 "Armure de patrouille"
  NCR_spec_ops_equipment_3_desc:0 "L'armure de patrouille de base utilisée par les Rangers"
@@ -380,19 +372,19 @@
  NCR_power_armour_equipment_2:0 "Armure assistée de la Sierra"
  NCR_power_armour_equipment_2_short:0 "Armure assistée de la Sierra"
  NCR_power_armour_equipment_2_desc:45 "L'armure assistée écorchée Sierra est une combinaison d'armure assistée T-45d qui a été modifiée par la RNC pour ses officiers. Le chaudron de l'épaule gauche a été remplacé par une tête d'ours chauve et taxidermiée, maintenue par un manteau vert avec deux pinces à médaillon en bronze. Les cylindres de puissance montés à l'arrière ont été remplacés par un boîtier plus aérodynamique avec des panneaux vert brillant qui apparaissent également sur les avant-bras. Contrairement à l'armure assistée récupérée par la RNC, l'armure assistée de la Sierra est toujours pleinement fonctionnel, conservant ses servomoteurs."
-  NCR_ballistic_equipment_3_short:0 "Ranger Gear"
-  NCR_ballistic_equipment_3_desc:0 "High calibre cowboy weaponry may not look like much, but in the hands of a veteran NCR Ranger it will destroy any foe in its path."
-  NCR_ballistic_equipment_4:0 "Marksman Carbine"
-  NCR_ballistic_equipment_4_short:0 "Marksman Carbine"
-  NCR_ballistic_equipment_4_desc:0 "The marksman carbine is a semi-automatic, medium-power carbine with a 20 round magazine. Both highly accurate at long range and easy to handle in short range encounters, the marksman carbine is a precision weapon for a precision military."
-#  NCR_spec_ops_equipment_4: "NCR Ranger Combat Armour"
-#  NCR_spec_ops_equipment_4_short: "Ranger Armour"
+
+  # NEW (New Reno)
+  NEW_energy_equipment_3: "Laser Rapid Capacitor Weapon"
+  NEW_energy_equipment_3_short: "Laser RCW"
+  NEW_energy_equipment_3_desc: "The Laser Rapid Capacitor Weapon uses a drum containing six capacitors centered around an electron charge pack. The drum spins as the weapon fires, producing a continuous laser beam while simultaneously using the electron charge pack to recharge previously discharged capacitors. The design allows the Laser RCW to achieve rates of fire unavailable to single capacitor designs."
+
+  # SHI (The Shi)
  SHI_melee_equipment_3:0 "Épée d'officier chinois"
  SHI_melee_equipment_3_short:0 "Épée d'officier"
  SHI_melee_equipment_3_desc:0 "Une épée fabriquée à la main, d'après des dessins du pays d'origine"
-#  NCR_spec_ops_equipment_4_desc: "The distinctive black ranger combat armor consists of the Desert Rangers' traditional trench coat worn with pre-War riot armor. Ranger combat armor is hand-manufactured in the NCR."
-  NCR_power_armor_equipment_1: "NCR Salvaged Power Armour"
-  NCR_power_armor_equipment_1_short: "NCR Salvaged PA"
+ SHI_ballistic_equipment_1:17 "Shanxi Type 17"
+ SHI_ballistic_equipment_1_short:17 "Pistolet Type 17"
+ SHI_ballistic_equipment_1_desc:17 "Le Shanxi Type 17 était une arme de poing produite en série avant la Grande Guerre. Produit à l'origine en 1929 par l'Arsenal de Taiyuan pour l'armée de Yan Xishan, ce pistolet est aujourd'hui une relique de la guerre sino-américaine."
  SHI_ballistic_equipment_2:0 "Fusil d'assaut fabriqué à la main"
  SHI_ballistic_equipment_2_short:0 "Fusil d'assaut fabriqué à la main"
  SHI_ballistic_equipment_2_desc:93 "Une conception simple dérivée du Type 93. C'est une imitation bon marché, bien qu'inférieure, elle est largement plus simple à produire et à entretenir. Ce modèle plus ancien est préféré par certaines des familles les plus anciennes parmi celles des Shi, souvent préférées pour des raisons de familiarité et de sentimentalité plutôt que pour la puissance de feu réelle."
@@ -405,26 +397,11 @@
    SHI_explosive_demolitions_equipment_3:0 "Red Victory Grenade Rifle"
   SHI_explosive_demolitions_equipment_3_short:0 "Grenade Rifle"
   SHI_explosive_demolitions_equipment_3_desc:0 "A prototype converted to mass production, this captured american weapon has been modified for chinese use by lightening the wooden assembly with the use of alloy, and making it able to fire devastating 40mm dual-purpose grenades. Originally intended to fight american power armors in the frozen north, it is still equally suited to devastating strikes on soft target, or focused fire to crack open armor."
-  NCR_power_armor_equipment_1_desc: "Salvaged from T-45d power armor recovered during the first NCR-Brotherhood war, NCR technicians have stripped out much of the advanced technology inside. While it doesn't require specialized training to wear and can absorb a significant amount of punishment, it is a notoriously difficult piece of equipment to move around in."
-  NCR_power_armor_equipment_2: "Scorched Sierra Power Armour"
+
+  # SIN (Sinaloa Cartel)
  SIN_ballistic_equipment_1:9 "Pistolet modifié M&A 9mm"
  SIN_ballistic_equipment_1_short:9 "9mm Custom"
  SIN_ballistic_equipment_1_desc:9 "Modèle personnalisé d'un pistolet 9 mm fabriqué par M&A Guns Manufacturers, cette arme comporte une image de Notre-Dame de Guadalupe, une figure catholique bien connue, et une représentation de la Femme biblique de l'Apocalypse, peintes sur les poignées perlées de l'arme à feu. Tout le corps du pistolet est damasquiné de lierre et de détails floraux, avec une finition en nickel poli et une détente dorée."
-  NCR_power_armor_equipment_2_short: "Scorched Sierra PA"
-  NCR_power_armor_equipment_2_desc: "The scorched Sierra power armor is a suit of T-45d power armor that has been modified by the NCR for its officers. The left shoulder pauldron has been replaced with a hairless, taxidermied bear's head held in place by a green mantle with two bronze star medallion clips. The back-mounted power cylinders have been replaced by a more streamlined box unit with glowing green panels which also appear on the forearms. Unlike NCR salvaged power armor, scorched Sierra power armor is still fully functional, retaining its servo-motors."
-
-  # NEW (New Reno)
-  NEW_energy_equipment_3: "Laser Rapid Capacitor Weapon"
-  NEW_energy_equipment_3_short: "Laser RCW"
-  NEW_energy_equipment_3_desc: "The Laser Rapid Capacitor Weapon uses a drum containing six capacitors centered around an electron charge pack. The drum spins as the weapon fires, producing a continuous laser beam while simultaneously using the electron charge pack to recharge previously discharged capacitors. The design allows the Laser RCW to achieve rates of fire unavailable to single capacitor designs."
-
-  # SHI (The Shi)
- SHI_ballistic_equipment_1:17 "Shanxi Type 17"
- SHI_ballistic_equipment_1_short:17 "Pistolet Type 17"
- SHI_ballistic_equipment_1_desc:17 "Le Shanxi Type 17 était une arme de poing produite en série avant la Grande Guerre. Produit à l'origine en 1929 par l'Arsenal de Taiyuan pour l'armée de Yan Xishan, ce pistolet est aujourd'hui une relique de la guerre sino-américaine."
-#  SHI_spec_ops_equipment_5: "Hei Gui Stealth Armour"
-#  SHI_spec_ops_equipment_5_short: "Stealth Armour"
-#  SHI_spec_ops_equipment_5_desc: "Chinese stealth armor was used during the Chinese invasion of Alaska and was the Chinese solution to invasion by U.S. forces in power armor. Available to elite Chinese Crimson Dragoon troops as well as the counter-insurgency/terror units before and during the Great War, the technology continues to be used by the Shi to keep watch over their enemies."
 
   # TIM (Timberline)
   TIM_melee_equipment_1:0 "Treated Hatchet"
@@ -437,17 +414,8 @@
   TIM_melee_equipment_3_short:0 "Chainsaw"
   TIM_melee_equipment_3_desc:0 "Multiple convertions to this pre-war tool made it a deadly close-combat weapon that few fighters dare approach. An alloy frame combined with a converted fusion engine made to receive military-grade laser sidearm capacitors considerably lighten it, while the increased power draw and carbide-alloy teeth can make it tear through even power armor with enough force."
 
- VLT_power_armour_equipment_3:45 "Armure assistée Vault-Tec T-45d"
- VLT_power_armour_equipment_3_short:45 "T-45d PA"
- VLT_power_armour_equipment_3_desc:45 "Basé sur l'armure assistée T-45d de l'armée américaine mais fabriqué par Vault-Tec, l'armure assistée T-45d de Vault-Tec a été distribué dans une petite poignée d'abris avant que les bombes ne tombent."
- VLT_power_armour_equipment_4:51 "Armure assistée Vault-Tec T-51b"
- VLT_power_armour_equipment_4_short:51 "T-51b PA"
- VLT_power_armour_equipment_4_desc:51 "Basé sur l'armure assistée T-51b de l'armée américaine mais non fabriqué en nombre significatif avant la chute des bombes, certains abris contiennent les schémas cryptés pour en produire d'autres."
   # VEG (New Vegas)
   VEG_ballistic_equipment_1: "9mm Submachine Gun"
- WBH_melee_equipment_4:0 "Grille-pain Paladin"
- WBH_melee_equipment_4_short:0 "Grille-pain Paladin"
- WBH_melee_equipment_4_desc:0 ""
   VEG_ballistic_equipment_1_short: "9mm SMG"
   VEG_ballistic_equipment_1_desc: "The 9mm submachine gun is a classic that hardly need an introduction. Improving upon the basic package, a telescopic assembly reduces it's size further, while higher quality cartridges crafted with increased powder load allows enhanced muzzle velocity and effect on soft target. Spray and Pray has never been this much fun."
   VEG_energy_equipment_3: "Laser Rapid Capacitor Weapon"
@@ -459,32 +427,23 @@
   VLT_ballistic_equipment_1_desc:0 "Vault-Tec contracted arms development out to a large number of private contractors, and one of the best results of these contracts was the Colt 6520. Chambered in 10mm."
   VLT_ballistic_equipment_1_short:0 "10mm Pistol"
   VLT_energy_equipment_2:0 "Wattz 2000 Laser Carbine"
- WHT_melee_equipment_2:0 "Gantlet Yao-Guai"
- WHT_melee_equipment_2_short:0 "Gantlet Yao-Guai"
- WHT_melee_equipment_2_desc:0 "Bien qu'à l'origine une arme utilisée par la tribu des Sorrows, le Gantlet Yao-Guai s'est avéré à la fois puissant et intimidant lorsqu'il est entre les mains de nos guerriers."
- WHT_melee_equipment_3:0 "Club des barres d'armature"
- WHT_melee_equipment_3_short:0 "Club des barres d'armature"
- WHT_melee_equipment_3_desc:0 "Un instrument de guerre émoussé, capable d'écraser des crânes sous le poids d'une bascule."
   VLT_energy_equipment_2_desc:0 "The Wattz 2000 is the choice of laser marksmen everywhere."
   VLT_energy_equipment_2_short:0 "Wattz 2000"
-  VLT_power_armor_equipment_3: "Vault-Tec T-45d Power Armour"
-  VLT_power_armor_equipment_3_short: "T-45d PA"
-  VLT_power_armor_equipment_3_desc: "Based on the US Military's T-45d power armour but manufactured by Vault-Tec, Vault-Tec T-45d power armour was distributed to a small handful of vaults before the bombs fell."
-  VLT_power_armor_equipment_4: "Vault-Tec T-51b Power Armour"
- WHT_ballistic_equipment_1:9 "Mitrailleuse de 9 mm"
- WHT_ballistic_equipment_1_short:9 "9mm SMG"
- WHT_ballistic_equipment_1_desc:9 "La mitraillette de 9 mm est une arme petite mais efficace, capable de vider un chargeur plein en moins de 3 secondes. Les balles de 9 mm sont courantes et légères, ce qui les rend encore plus faciles à pulvériser et à prier."
-  VLT_power_armor_equipment_4_short: "T-51b PA"
-  VLT_power_armor_equipment_4_desc: "Based on the US Military's T-51b power armour but not manufactured in any significant number before the bombs fell, some vaults contain the encrypted schematics to produce more."
+ VLT_power_armour_equipment_3:45 "Armure assistée Vault-Tec T-45d"
+ VLT_power_armour_equipment_3_short:45 "T-45d PA"
+ VLT_power_armour_equipment_3_desc:45 "Basé sur l'armure assistée T-45d de l'armée américaine mais fabriqué par Vault-Tec, l'armure assistée T-45d de Vault-Tec a été distribué dans une petite poignée d'abris avant que les bombes ne tombent."
+ VLT_power_armour_equipment_4:51 "Armure assistée Vault-Tec T-51b"
+ VLT_power_armour_equipment_4_short:51 "T-51b PA"
+ VLT_power_armour_equipment_4_desc:51 "Basé sur l'armure assistée T-51b de l'armée américaine mais non fabriqué en nombre significatif avant la chute des bombes, certains abris contiennent les schémas cryptés pour en produire d'autres."
 
   # WBH (Washington Brotherhood)
-#  WBH_spec_ops_equipment_4: "Recon Armor"
- YZK_melee_equipment_3:0 "Katana"
- YZK_melee_equipment_3_short:0 "Katana"
- YZK_melee_equipment_3_desc:23 "Un katana est un type d'épée japonaise dont la longueur de la lame est supérieure à 23.6-28.7 pouces (60-73 centimètres) et qui se caractérise par son apparence distinctive : une lame incurvée, mince et à un seul tranchant, une garde circulaire ou carrée et une longue poignée qui peut accueillir deux mains. Souvent appelé \"sabre de samouraï\" ou \"sabre du samouraï\" en raison de son utilisation par les guerriers féodaux, il est devenu un symbole de la caste des samouraïs."
+ WBH_melee_equipment_4:0 "Grille-pain Paladin"
+ WBH_melee_equipment_4_short:0 "Grille-pain Paladin"
+ WBH_melee_equipment_4_desc:0 ""
+#  WBH_spec_ops_equipment_4: "Recon Armour"
 #  WBH_spec_ops_equipment_4_short: "Recon Armour"
-#  WBH_spec_ops_equipment_4_desc: "Originally designed to serve as the under-armor for T-45d power armor, recon armor is a vacuum-sealed asbestos jumpsuit that covers the entire body. While useful in its intended role, recon armor is renowned for being an effective armor for operations that require more mobility than traditional power armor can provide."
-#  WBH_spec_ops_equipment_5: "Composite Recon Armor"
+#  WBH_spec_ops_equipment_4_desc: "Originally designed to serve as the under-armour for T-45d power armour, recon armour is a vacuum-sealed asbestos jumpsuit that covers the entire body. While useful in its intended role, recon armour is renowned for being an effective armour for operations that require more mobility than traditional power armour can provide."
+#  WBH_spec_ops_equipment_5: "Composite Recon Armour"
 #  WBH_spec_ops_equipment_5_short: "Composite Recon Armour"
 #  WBH_spec_ops_equipment_5_desc: "By using advanced materials and construction techniques, we can produce recon armour that is both lighter and more durable than previous models."
 
@@ -492,6 +451,26 @@
   WHT_melee_equipment_1: "Machete"
   WHT_melee_equipment_1_short: "Machete"
   WHT_melee_equipment_1_desc: "A simple, yet effective tool. Used to hack and slash at the enemy, this machete can cut through most body armor and inflict horrific wounds upon the enemy."
+ WHT_melee_equipment_2:0 "Gantlet Yao-Guai"
+ WHT_melee_equipment_2_short:0 "Gantlet Yao-Guai"
+ WHT_melee_equipment_2_desc:0 "Bien qu'à l'origine une arme utilisée par la tribu des Sorrows, le Gantlet Yao-Guai s'est avéré à la fois puissant et intimidant lorsqu'il est entre les mains de nos guerriers."
+ WHT_melee_equipment_3:0 "Club des barres d'armature"
+ WHT_melee_equipment_3_short:0 "Club des barres d'armature"
+ WHT_melee_equipment_3_desc:0 "Un instrument de guerre émoussé, capable d'écraser des crânes sous le poids d'une bascule."
+  #WHT_melee_equipment_4: "Mantis Gauntlet"
+  #WHT_melee_equipment_4_short: "Mantis Gauntlet"
+  #WHT_melee_equipment_4_desc: "Crafted from the foreleg of a Mantis, the sharpness of the weapon will prove brutal to those that fight it."
+  #WHT_ballistic_equipment:0 "Tomahawk"
+  #WHT_ballistic_equipment_short:0 "Tomahawk"
+  #WHT_ballistic_equipment_desc:0 "A primitive yet effective ranged weapon"
+ WHT_ballistic_equipment_1:9 "Mitrailleuse de 9 mm"
+ WHT_ballistic_equipment_1_short:9 "9mm SMG"
+ WHT_ballistic_equipment_1_desc:9 "La mitraillette de 9 mm est une arme petite mais efficace, capable de vider un chargeur plein en moins de 3 secondes. Les balles de 9 mm sont courantes et légères, ce qui les rend encore plus faciles à pulvériser et à prier."
   WHT_ballistic_equipment_2: "Storm Drum"
   WHT_ballistic_equipment_2_short: "Storm Drum"
   WHT_ballistic_equipment_2_desc: "Our warriors strike like lightning, while the sound of our Storm Drums inspires terror in any enemy unfortunate enough to hear their fire."
+
+  #YZK (Yakuza)
+ YZK_melee_equipment_3:0 "Katana"
+ YZK_melee_equipment_3_short:0 "Katana"
+ YZK_melee_equipment_3_desc:23 "Un katana est un type d'épée japonaise dont la longueur de la lame est supérieure à 23.6-28.7 pouces (60-73 centimètres) et qui se caractérise par son apparence distinctive : une lame incurvée, mince et à un seul tranchant, une garde circulaire ou carrée et une longue poignée qui peut accueillir deux mains. Souvent appelé \"sabre de samouraï\" ou \"sabre du samouraï\" en raison de son utilisation par les guerriers féodaux, il est devenu un symbole de la caste des samouraïs."

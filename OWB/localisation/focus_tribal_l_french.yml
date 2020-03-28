@@ -1,44 +1,53 @@
 ﻿l_french:
- tribal_nation:0 "Nation Tribale"
+ #-------------------------------------
+ # Tribal
+ #-------------------------------------
  gentribal_gods:0 "Nos dieux"
  gentribal_gods_desc:0 "Depuis que notre tribu est née des cendres de la grande purification, nous avons été fidèles à nos dieux, pour apaiser leur colère, la colère même qui a enflammé notre monde. Nous devons choisir un dieu en particulier pour rendre hommage et adorer."
+
  gentribal_legend:0 "Nos légendes"
  gentribal_legend_desc:0 "Il y a eu un temps où notre tribu était confrontée à beaucoup de dangers, des dangers des déchets, à la menace d'autres tribus. Heureusement, un héros légendaire est né de notre tribu en tant que notre sauveur."
+
  gentribal_era:0 "L'ère à venir"
  gentribal_era_desc:0 "Les Anciens de notre tribu ont appelé un Grand Conseil et communiquent avec les esprits de nos ancêtres pour déterminer notre prochain mouvement. La réponse des esprits déterminera si nous vivons dans une ère de guerre ou de paix."
+
  gentribal_defense:0 "Défense tribale"
  gentribal_defense_desc:0 "Avant tout, notre tribu doit être défendue des nations qui nous entourent. Les dangers des Terres Désolées nous ont préparés à cela, et nos guerriers connaissent une doctrine de défense."
+
  gentribal_cult:0 "Le culte guerrier"
  gentribal_cult_desc:0 "Dès le début de la vie de notre tribu, nous avons eu un culte de guerriers voués à la protection des membres de notre tribu. Ils ont eu une formation rigoureuse et une expérience de vie."
  gentribal_cult_tt:0 "Gains §HCulte guerrier§!, qui accorde (§HInfanterie:§! Organisation Max: §G+5.0§!)."
+
  gentribal_tradition:0 "Armes Traditionnelles"
  gentribal_tradition_desc:0 "Dans toutes les Terres Désolées, les armes traditionnelles sont dispersées. Nos bandes de guerriers nous récupèrent souvent des parties de ces armes et nous pourrons peut-être les reforger avec un certain effort."
+
  gentribal_pathfinders:0 "Éclaireurs Tribaux"
  gentribal_pathfinders_desc:0 "Une partie importante de nos bandes de guerriers tribaux sont les éclaireurs, les éclaireurs qui connaissent le terrain vague comme leur poche. Avec ces éclaireurs constituant nos bandes de guerriers, ils sont sûrs d'être plus rapides dans la plupart des terrains."
  gentribal_pathfinders_tt:0 "Gains §HÉclaireurs§!, qui accorde (Vitesse de l'armée: §G+0.1§!)."
+
  gentribal_martialarts:0 "Style de combat de clan"
  gentribal_martialarts_desc:0 "Notre tribu a un style de combat distinct, adopté en raison du manque d'armes et de l'entraînement dogmatique de nos guerriers. Cela fais de nous de bien meilleur combattant que le monde autour."
  gentribal_martialarts_tt:0 "Gains §HStyle de combat de Clan§!, qui accorde (§HInfanterie:§! Attaque simple et lourde: §G+0.5§!)."
 
  gentribal_youth:0 "Rituels de combat chez les jeunes"
  gentribal_youth_desc:0 "Autoriser les plus jeunes membres de notre tribu à participer à des rituels de combat fournira une base plus importante à nos bandes de guerriers et leur permettra d’être de plus grands guerriers à l’avenir."
- tribalyouth:0 "Bandes de guerriers Youngblood"
+
  gentribal_champions:0 "Champions de la tribu"
  gentribal_champions_desc:0 "Les plus grands de nos guerriers sont des champions, des membres glorifiés de la tribu qui deviendront des anciens vénérés ou des chefs respectés à l'avenir. Le rêve de gloire et d'honneur est si répandu que beaucoup de membres de notre tribu se joindront à eux pour devenir comme ces champions."
- 
+
  gentribal_healing:0 "Poudre de guérison"
  gentribal_healing_desc:0 "Des années de vie hors de la terre ont amené plusieurs membres de notre tribu à devenir des apothicaires respectés. Ils peuvent créer des poudres cicatrisantes à partir de fleurs et de racines qui peuvent aider nos guerriers à les soigner."
- 
+
  gentribal_muster:0 "Rassemblement de troupe"
  gentribal_muster_desc:0 "Bientôt, il faudra peut-être que notre tribu part en guerre, que ce soit pour défendre notre terre sacrée ou pour élargir notre tribu. Nous devons rassembler nos troupes, former et équiper tous les membres de la tribu que nous pouvons."
- 
+
  gentribal_secrets:0 "Perfectionner les secrets"
  gentribal_secrets_desc:0 "Les secrets du monde sont lentement découverts par nos apothicaires. Ils développent de nouveaux moyens de guérir, pour soutenir nos troupes au combat."
- 
+
  gentribal_nomads:0 "Guerriers nomades"
  gentribal_nomads_desc:0 "Notre tribu vient d'un milieu nomade, souvent mobile lorsque nous sommes incertains. Cela se reflète dans l'attitude de nos guerriers, qui peuvent plus facilement traverser le paysage sans être désorganisés."
  gentribal_nomads_tt:0 "Gains §HGuerriers Nomades§!, qui accorde (Perte d'organisation en mouvement: §G-0.1§!)."
- 
+
  gentribal_houndmasters:0 "Maîtres de chasse tribaux"
  gentribal_houndmasters_desc:0 "Certains membres de notre tribu, que nous appelons maintenant maîtres de chasse, ont perfectionné l'art de former des chiens, ce qui les rend beaucoup plus faciles à utiliser en tant que chien de guerre et aide nos troupes."
 
@@ -48,99 +57,122 @@
 
  gentribal_skirmish:0 "Ligne d'escarmouche"
  gentribal_skirmish_desc:0 "Nos troupes tribales maîtrisent désormais les escarmouches, ce qui leur permet de se fournir plus efficacement et de se défendre dans une zone, et de créer une ligne de défense mortelle."
+
  gentribal_bodyguards:0 "La garde du chef"
  gentribal_bodyguards_desc:0 "Le chef exige à juste titre une garde d'élite personnelle, composée des quelques élus de notre tribu, les plus meurtriers et les plus forts, pour le protéger, lui et son clan."
  gentribal_bodyguards_tt:0 "Spawns 3 §HInfanterie d'élite§! dans notre capitale."
+
  gentribal_noct:0 "Guerriers Nocturnes"
  gentribal_noct_desc:0 "Nos guerriers sont devenus plus efficaces pour attaquer furtivement dans la nuit, en raison de leur expérience dans les vastes friches qui entourent notre tribu. Cela les rendra mortels au combat la nuit."
  gentribal_noct_tt:0 "Gains §HGuerriers nocturnes§!, qui accorde (Attaque de nuit: §G+0.15§!)."
 
  gentribal_tribe:0 "Réforme Tribale"
  gentribal_tribe_desc:0 "Bien que notre tribu se soit maintenue seule pendant des années, sa population a augmenté en masse et la guerre menace de tous côtés. La tribu a plus que jamais besoin d’un leader fort."
+
  gentribal_war:0 "Le chef de guerre"
  gentribal_war_desc:0 "Qui de mieux pour nous conduire en cette période de turbulences et d'agitation qu'un guerrier décoré, le champion le plus fort de notre peuple ? Il nous amènera à l'avant-garde des tribus locales et nous donnera toutes les terres dont nous avons besoin."
+
  gentribal_shaman:0 "Le chaman"
  gentribal_shaman_desc:0 "Le grand nettoyage a été provoqué par le manque de foi des gens. Nous ne devons pas faire la même erreur. L'installation d'un saint homme, le chaman, en tant que notre chef, peut aider à prévenir cela et à apporter l'illumination à notre peuple."
+
  gentribal_elder:0 "L'ancien"
  gentribal_elder_desc:0 "Aucun homme ne devrait être plus respecté que les anciens vénérables de notre société. Notre chef devrait être un vieil homme averti, doté des connaissances et de l’expérience du monde."
+
  gentribal_highchief:0 "Le grand chef"
  gentribal_highchief_desc:0 "Le chef actuel de notre tribu devrait être élevé en tant que Grand Chef, tous les clans de notre tribu cédant leur autonomie. La seule voie à suivre est une tribu forte sous un Grand Chef fort."
+
  gentribal_rise:0 "Leçons du chef de guerre"
  gentribal_rise_desc:0 "La connaissance approfondie du chef de guerre de nos troupes, combinée à ses liens profonds avec la caste de guerriers de nos tribus, rend nos troupes beaucoup plus meurtrières et expérimentées."
+
  gentribal_realm:0 "Ambitions du chef de guerre"
  gentribal_realm_desc:0 "Le chef de guerre sait que la meilleure défense est une bonne attaque. Afin de protéger notre tribu, nous devons détruire nos ennemis et prendre leurs terres pour les nôtres."
+
  gentribal_holywar:0 "Ferveur Religieuse"
  gentribal_holywar_desc:0 "Le chaman a déclaré une guerre sainte. Les païens du monde doivent être sauvés de leur propre ignorance et de leur stupidité, et le destin qui nous est imposé est de leur apporter la lumière. De jeunes hommes au sang chaud affluent pour rejoindre nos troupes."
+
  gentribal_holyorg:0 "Le dieu dans la grotte"
  gentribal_holyorg_desc:0 "Toute la tribu, en particulier les bandes de guerre zélées, répond à notre dieu. Ils savent ne pas remettre en question leurs ordres, car leurs ordres viennent des dieux eux-mêmes. Curieusement, les dieux semblent seulement communiquer avec le chaman."
  gentribal_holyorg_tt:0 "Gains §HLe Dieu dans la grotte§!, qui accorde (§HInfanterie:§! Organisation Max: §G+5.0§!)."
- 
+
  gentribal_council:0 "Le haut conseil "
  gentribal_council_desc:0 "Notre ancien, grâce à sa sagesse et à ses connaissances, juge bon de créer un haut conseil composé principalement de tous les anciens de la tribu. Cette initiative devrait promouvoir l’unité au sein des clans de notre tribu."
+
  gentribal_migrate:0 "La migration des tribus"
  gentribal_migrate_desc:0 "Un membre du clan sauvage et des membres indépendants d'autres tribus affluent vers notre tribu, le voyant comme un refuge libre. Avec autant de population supplémentaire, ils peuvent être intégrés à nos troupes et leurs connaissances peuvent être utilisées."
+
  gentribal_chief:0 "Une bannière"
  gentribal_chief_desc:0 "Pour prospérer véritablement dans les Terres Désolées, notre tribu doit s’unir sous une même bannière. Les petits clans ne peuvent plus se quereller, ils doivent s'unir sous la bannière du grand chef pour la survie de notre tribu."
+
  gentribal_duty:0 "Le devoir du guerrier"
  gentribal_duty_desc:0 "Chaque guerrier de notre tribu a un devoir; servir et protéger le Haut Chef, afin qu'il continue à guider et à diriger notre tribu dans la bonne direction. Notre sage chef les guidera donc et formera leur doctrine."
+
  gentribal_village:0 "Le village en croissance"
  gentribal_village_desc:0 "À mesure que notre population s’agrandit, le village fait de même, et le grand afflux de personnes a créé une plus grande source d’armes et de nourriture pour notre peuple."
+
  gentribal_elders:0 "Anciens révérés"
  gentribal_elders_desc:0 "Les grands anciens de notre tribu sont sages et compétents et guident notre peuple vers un grand destin."
+
  gentribal_lands:0 "Terre Sacrée"
  gentribal_lands_desc:0 "La terre sur laquelle notre tribu a installé sa terre sacrée, bénie par les dieux. Les étrangers et les païens ne doivent pas être autorisés à ternir notre terre sacrée, nous devons donc la défendre tout avec ce que nous avons."
- 
+
  gentribal_unity:0 "Unification tribale"
  gentribal_unity_desc:0 "Notre tribu contient des personnes de différents clans et croyances, et pourrait un jour contenir de nombreuses personnes de tribus très différentes. Il est important d'inculquer un sentiment d'unification tribale, de les garder sous le talon."
+
  gentribal_gifts:0 "Cadeaux de la terre"
  gentribal_gifts_desc:0 "En échange de notre protection de la terre sacrée des dieux, nous recevons des dons généreux de la terre."
  gentribal_gifts_tt:0 "Gains §HCadeaux de la Terre§!, qui accorde (Gain de ressources: §G+10.0% §!)."
- 
+
  gentribal_city:0 "Le centre tribal"
  gentribal_city_desc:0 "Au fur et à mesure que notre tribu grandit, notre village est devenu une ville, ce qui permet d'avoir beaucoup plus d’industrie et incite beaucoup de gens à venir en masse pour le commerce."
+
  gentribal_factions:0 "Offrandes tribales"
  gentribal_factions_desc:0 "Nos liens avec d’autres tribus par le biais du commerce nous ont également permis d’établir des liens culturels et diplomatiques. Si nous choisissons, nous pourrions être en mesure de former des alliances avec d'autres tribus, de nous protéger mutuellement."
+
  gentribal_trade:0 "Marché pour armes à feu"
  gentribal_trade_desc:0 "Nos relations continues avec les autres tribus à travers le commerce a conduit à des «nations» plus avancées, disposées à commercer avec nous. Ils nous donnent des armes en échange de nos biens, des armes plus puissantes que celles que nous utilisons."
+
  gentribal_agreement:0 "Accords de l'étranger"
  gentribal_agreement_desc:0 "Avec des accords constamment conclus avec des tiers, de plus en plus de nos biens et ressources sont nécessaires au commerce. Heureusement, notre personnel est prêt à faire plus d'économies."
- 
+
  gentribal_deathpowder:0 "Pots De Poudre De Mort"
  gentribal_deathpowder_desc:0 "Les tribus d'étranger avec lesquelles nous travaillons ont des armes étranges, des pots de poudre de mort qui créent une grande fureur de feu divin. Nous avons proposé d'en échanger pour essayer de comprendre leurs secrets."
+
  gentribal_fragprod:0 "Lignes de production robotisées"
  gentribal_fragprod_desc:0 "Les pots de poudre de mort que nous avons découverts ont des capacités extraordinaires. Nous devrions consacrer notre industrie à fabriquer plus."
- 
+
  gentribal_tradepost:0 "Postes commerciaux"
  gentribal_tradepost_desc:0 "Le commerce avec les autres tribus augmentant, nous devrions créer des postes commerciaux pour élargir notre réseau commercial et introduire davantage de biens et d’armes."
+
  gentribal_outsiders:0 "Leçons des étrangers"
  gentribal_outsiders_desc:0 "Le commerce expansif a poussé beaucoup de personnes de l'extérieur à nous apprendre leur manière et leur culture. Beaucoup de nos troupes notent les leçons défensives que les autres nations insulaires leur ont données."
  gentribal_outsiders_tt:0 "Gains §HLeçons des étrangers§!, qui accorde (§HInfantrie§!: Défense: §G+5,0%§!)."
- 
+
  gentribal_volunteers:0 "Volontaires tribaux"
  gentribal_volunteers_desc:0 "Nos liens étroits avec d’autres tribus commerciales ont conduit nos troupes à exprimer son désir de se battre avec et pour d’autres tribus. Cela peut être une expérience utile pour eux."
+
  gentribal_mercs:0 "Mercenaires Tribaux"
  gentribal_mercs_desc:0 "Au fur et à mesure que nos troupes tribales socialise avec les militaires des autres pays, ils commencent à avoir des liens plus étroits. Beaucoup de nos troupes s’intéressent maintenant aux combats dans les guerres étrangères en temps de paix, cela pourrait être une entreprise rentable."
- 
+
  gentribal_slipperyenemies:0 "Pouvoir de négociation"
  gentribal_slipperyenemies_desc:0 "Notre vaste réseau de commerce et de mercenaires nous a presque rendus essentiels pour le reste du monde. Comme le dit l'adage du vieux monde: nous gardons nos amis proches et nos ennemis plus proches."
- 
+
  gentribal_immortals:0 "Guerriers Immortels"
  gentribal_immortals_desc:0 "Avec une vaste expérience dans d'autres guerres et des connaissances tirées d'autres tribus, nos guerriers sont parmi les plus grands. Certains prétendent qu'ils sont même immortels, car ils tombent très rarement au combat."
  gentribal_immortals_tt:0 "Gains §HGuerriers Immortels§!, qui accorde (Renforcement du taux de la terre: §G+2.0§!)."
- 
+
  gentribal_spirits:0 "Les mots des esprits"
  gentribal_spirits_desc:0 "Les esprits parlent à nos anciens et leur révèlent de grands secrets. Certains disent qu'il ne s'agit que d'empoisonnement par rayonnement des déchets nucléaires à proximité."
+
  gentribal_warpaint:0 "Peinture de guerre tribale"
  gentribal_warpaint_desc:0 "Nous pouvons utiliser de la peinture de guerre sur nos guerriers pour intimider et effrayer nos ennemis, ce qui a pour effet que nos troupes sont plus efficaces pour briser les lignes et le moral des ennemis."
  gentribal_warpaint_tt:0 "Gains §HPeinture de Guerre Tribale§!, qui accorde (§HInfanterie§!: Percée: §G+15.0% §!)"
- 
+
  gentribal_numbers:0 "La force du nombre"
  gentribal_numbers_desc:0 "Plus nous pouvons envoyer de guerriers au combat, plus nous avons de chances de vaincre nos ennemis. Nous devons adapter notre doctrine pour cela, en permettant à plus de nos guerriers d’attaquer en même temps."
  gentribal_numbers_tt:0 "Gains §HLa force du nombre§!, Qui accorde (§Infanterie§!: Largeur de combat: §G-0.3§!)"
- 
+
  gentribal_wasteland:0 "Durci par les Terres Désolées"
  gentribal_wasteland_desc:0 "Une vaste expérience dans les Terres Désolées a durci nos guerriers et notre peuple. Beaucoup plus de gens, habitués aux dangers des déchets, rejoignent nos troupes chaque jour."
- 
+
  gentribal_wardrums:0 "Les Tambours de Guerre Battent"
  gentribal_wardrums_desc:0 "Partout dans la tribu, les tambours de la guerre battent. Nos troupes sont robustes, fortes et expérimentées, et elles aspirent à tester leur force au combat. Peut-être devrions-nous les laisser."
- 

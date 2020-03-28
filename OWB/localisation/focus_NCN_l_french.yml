@@ -1,5 +1,5 @@
 ﻿l_french:
-
+  ## Judges
   NCN_judge_1:0 "Le temps des juges"
   NCN_judge_1_desc:0 "L'Église de Jésus-Christ des Saints des Derniers Jours s'est préparée pour la fin des jours, mais même nous n'étions pas préparés pour la Grande Guerre. Certains de nos survivants sont restés dans une chambre forte, dirigée par un des anciens de l'Église. Mais le Prophète n'a pas atteint la voûte et a péri dans l'explosion. Les survivants dans le caveau ont élu un nouveau prophète. Mais dans ce désert déchu, les Prophètes se sont inspirés des Juges de l'Ancien Testament."
   NCN_judge_2:0 "La décision d'Ehud"
@@ -8,6 +8,7 @@
   NCN_judge_3_desc:0 "Gideon est arrivé au pouvoir lorsque New Canaan a commencé à contrôler l'Utah et les routes commerciales de l'Ouest. Face aux menaces du Montana et des tribus du sud, il représente pour certains le sommet de notre pouvoir."
   NCN_judge_4:0 "En ce temps-là, il n'y avait pas de roi en Israël"
   NCN_judge_4_desc:0 "Déborah n'a jamais été un prophète officiel, car l'Église ne laissait pas les femmes diriger. Mais qu'on l'aime ou qu'on la déteste, son règne a façonné Nouvelle-Canaan.  Prenant le simple titre de \"maire\", elle a piétiné le prophète de l'époque."
+  ## Threat Trees
   NCN_growing_threat:0 "Une menace croissante"
   NCN_growing_threat_desc:0 "Au sud, après les années 80 et les Tar Walkers, près du Colorado, réside une tribu qui se nomme les White Legs. Cette tribu se militarise rapidement et semble vouloir conquérir l'Utah pour elle-même. Mais il ne viendra pas si loin au nord, n'est-ce pas ?"
   NCN_attempt_lr:0 "Tentative de réarmement limité"
@@ -40,6 +41,7 @@
   NCN_build_tribal_industry_desc:0 "Les tribus dans lesquelles nous prêchons sont terriblement mal préparées pour se défendre. Leur donner les moyens de produire davantage d'armes contribuera à compenser quelque peu cette situation."
   NCN_bring_war_to_wht:0 "Faire la guerre aux jambes blanches"
   NCN_bring_war_to_wht_desc:0 "Il est temps. Les White Legs sont aux portes, et ils ont fait assez d'histoires pour mériter une bonne raclée. Deus vult !"
+  ## Decadence Trees
   NCN_decadence_clutches:0 "Les griffes de la décadence"
   NCN_decadence_clutches_desc:0 "Notre peuple s'est enrichi grâce aux routes commerciales qui sillonnent les déchets de l'Utah. En conséquence, les gens ont commencé à s'éloigner du Seigneur dans leurs efforts pour obtenir plus de casquettes. Le temps nous dira où cela mène..."
   NCN_follower_1:0 "Les disciples de l'Apocalypse"

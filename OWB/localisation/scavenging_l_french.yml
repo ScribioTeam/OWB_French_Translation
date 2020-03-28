@@ -1,22 +1,22 @@
 ﻿l_french:
  ### Decisions ###
- # category
+  # category
  scavenging_decisions:0 "Acquisition de biens"
  scavenging_decisions_desc:0 "Produire notre équipement, c'est bien beau, mais les terres désolées sont aussi un trésor de secrets anciens qui attendent d'être découverts. Ce savoir est souvent caché, gardé et il est périlleux de le récupérer. Nous pouvons envoyer des équipes de recherche pour trouver des choses dans les terres désolées (au risque de leur vie) aux dépens d'un certain pouvoir politique. Il faut espérer que nos hommes reviendront avec quelque chose que nous pourrons utiliser."
 
- # Scavenging Startup Non WTT
+  # Scavenging Startup Non WTT
  begin_scavenging_program:0 "Lancer un programme de récupération"
  begin_scavenging_program_desc:0 "Bien que des recherches de ressources aient été effectuées dans le passé, nous devrions lancer un programme complet de récupération par des spécialistes. Nous pouvons les envoyer chercher tout ce qui vaut la peine d'être récupéré. S'ils nous rendent quelque chose dont nous pourrions avoir besoin, c'est une question de destin."
 
- # Scavenging Starup WTT
+  # Scavenging Starup WTT
  begin_scavenging_program_wtt:0 "Lancer un programme de récupération"
  begin_scavenging_program_wtt_desc:0 "Bien que des recherches de ressources aient été effectuées dans le passé, nous devrions lancer un programme complet de récupération par des spécialistes. Nous pouvons les envoyer chercher tout ce qui vaut la peine d'être récupéré. S'ils nous rendent quelque chose dont nous pourrions avoir besoin, c'est une question de destin."
 
- # Demolish Scavenging program
+  # Demolish Scavenging program
  dismantle_scavenging_program:0 "Démanteler le programme de récupération"
  dismantle_scavenging_program_desc:0 "Bien que cela soit regrettable, nous pouvons réaffecter la main-d'œuvre mise à disposition pour ce projet à d'autres fonctions. Cela nous permettra également de récupérer une partie de l'investissement économique."
 
- # scaving missions
+  # scaving missions
  scavenging_mission_foot:0 "Envoyer des prospecteurs non motorisés"
  scavenging_mission_foot_desc:0 "Nous pouvons envoyer des prospects pour fouiller les ruines. Malheureusement, comme nous n'avons pas de véhicules pour les aider, ils seront limités à ce qu'ils peuvent porter, eux et leur brahmane."
  scavenging_mission_vehicle:0 "Faire de la récupération avec des véhicules"
@@ -24,16 +24,16 @@
  scavenging_mission_pa:0 "Fournir des armures assistées aux récupérateurs"
  scavenging_mission_pa_desc:0 "Pour des raisons compréhensibles, nos récupérateurs aimeraient avoir une armure. Peut-être que si nous leur en donnons, ils mourront moins."
 
- # Rescue crisis, aka what happens when shit goes down. Aka, lost contact to scavs tis a mission. Started via Event
+  # Rescue crisis, aka what happens when shit goes down. Aka, lost contact to scavs tis a mission. Started via Event
  scavenging_rescue_crisis:0 "Contact perdu"
  scavenging_rescue_crisis_desc:0 "Il est arrivé quelque chose à nos récupérateurs ! Pouvons-nous envoyer une force pour les sauver ?"
 
- # Response to scav missing event, decision.
+  # Response to scav missing event, decision.
  scavening_send_rescue_team:0 "Envoyer une équipe de secours !"
  scavening_send_rescue_team_desc:0 "Peut-être que nos récupérateurs peuvent être sauvés. Ne laissons aucun homme derrière nous."
 
  # Events #
- # foot scavers
+  # foot scavers
  scavenge.1.t:0 "Les récupérateurs ont trouvé quelque chose !"
  scavenge.1.d:0 "Dans les ruines d'une ancienne usine, nos récupérateurs ont trouvé des marchandises d'avant-guerre. Le temps dira si cela valait le sang et la sueur que nous avons payés pour cela."
  scavenge.1.a:0 "Mieux vaut que cela soit entre nos mains qu'entre celles de nos ennemis."
@@ -51,7 +51,7 @@
  scavenge.4.d:0 "[Root.GetLeader], certains de nos récupérateurs ont disparu. Nous ne pouvons pas les retrouver et nous n'avons qu'un message avec leur dernière position connue. C'est à vous de décider si nous essayons de les sauver."
  scavenge.4.a:0 "Lorsque le chef échoue, les autres en paient le prix."
 
- # Mot scavers
+  # Mot scavers
  scavenge.5.t:0 "Les récupérateurs triomphent !"
  scavenge.5.d:0 "Dans les ruines d'une ancienne usine, nos récupérateurs ont trouvé des marchandises d'avant-guerre. Une caravane de camions ramène le butin de l'expédition à [Root.Capital.GetName]. C'est un grand triomphe pour nous !"
  scavenge.5.a:0 "Un grand pas vers l'avenir."
@@ -68,7 +68,7 @@
  scavenge.8.d:0 "[Root.GetLeader], certains de nos récupérateurs ont disparu. Nous ne pouvons pas les retrouver et nous n'avons qu'un message avec leur dernière position connue. C'est à vous de décider si nous essayons de les sauver."
  scavenge.8.a:0 "Lorsque le chef échoue, les autres en paient le prix."
 
- # Power armour scavers
+  # Power armour scavers
  scavenge.9.t:0 "Nos récupérateurs reviennent en triomphe !"
  scavenge.9.d:0 "Ni les pillards, ni les lois de la mort, ni les super-mutants n'arrêteront nos récupérateurs. Ils sont retournés à [Root.Capital.GetName], leur armure de puissance trempée dans le sang et la crasse. Que cet exemple montre le potentiel de notre avenir."
  scavenge.9.a:0 "Il est temps d'avoir de nouveaux espoirs pour le monde."
@@ -85,27 +85,27 @@
  scavenge.12.d:0 "[Root.GetLeader], certains de nos récupérateurs ont disparu. Nous ne pouvons pas les retrouver et nous n'avons qu'un message avec leur dernière position connue. C'est à vous de décider si nous essayons de les sauver."
  scavenge.12.a:0 "Lorsque le chef échoue, les autres en paient le prix."
 
- # Lost scavers rescued
+  # Lost scavers rescued
  scavenge.13.t:0 "Nous avons trouvé l'expédition !"
  scavenge.13.d:0 "C'est un miracle ! Le coursier que nous avons envoyé a trouvé les récupérateurs, ensanglantés mais vivants.  Il semble qu'ils aient même trouvé un lot pour justifier l'expédition."
  scavenge.13.a:0 "Dieu merci."
 
- # Lost scavers ignored
+  # Lost scavers ignored
  scavenge.14.t:0 "Poussière dans le vent"
  scavenge.14.d:0 "Nous ne nous sommes pas suffisamment souciés de chercher nos récupérateurs, et il semble qu'ils soient partis pour de bon.  Espérons que leurs amis et leurs proches nous pardonneront de les avoir laissés mourir. Mais ils ne seront pas les derniers à mourir dans les terres désolées."
  scavenge.14.a:0 "C'est ainsi."
 
- # Scavenging project initiated
+  # Scavenging project initiated
  scavenge.15.t:0 "L'autorité de réclamation"
  scavenge.15.d:0 "[Root.GetLeader] a décidé de créer une Autorité de Récupération, consacrée à la promotion de la récupération dans les Terres Désolées. Cela permettra à notre nation d'acquérir une expertise dans le domaine de l'élimination des déchets."
  scavenge.15.a:0 "Les secrets du Vieux Monde seront les nôtres !"
 
- # Scaving dismantled
+  # Scaving dismantled
  scavenge.16.t:0 "Mettre fin à la récupération"
  scavenge.16.d:0 "La récupération est une course folle. Regardons vers l'avant, pas vers l'arrière."
  scavenge.16.a:0 "Il y avait de meilleurs plans."
 
  # Ideas #
 
- # Flags #
+  # Flags #
  scavenging_underway:0 "Récupération en cours"

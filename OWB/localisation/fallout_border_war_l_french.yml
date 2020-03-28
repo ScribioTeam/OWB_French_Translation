@@ -21,19 +21,19 @@
  border_conflict_won_attacker.1.t:0 "Victoire dans [their_state.GetName]"
  border_conflict_won_attacker.1.d:0 "L'affrontement dans les zones limitrophes entre [our_state.GetName] et [their_state.GetName] a permis à nos forces de remporter une victoire nette sur les forces de [their_country.GetLeader]. Les forces de [their_country.GetAdjective] ont reculé pour se regrouper et nos forces ont pris le contrôle de la zone contestée."
  border_conflict_won_attacker.1.a:0 "Nous leur avons montré notre force !"
- 
+
  border_conflict_won_defender.1.t:0 "Victoire dans [their_state.GetName]"
  border_conflict_won_defender.1.d:0 "L'affrontement dans les zones limitrophes entre [our_state.GetName] et [their_state.GetName] a permis à nos forces de remporter une victoire nette sur les forces de [their_country.GetLeader]. Les forces de [their_country.GetAdjective] ont reculé pour se regrouper et nos forces ont pris le contrôle de la zone contestée."
  border_conflict_won_defender.1.a:0 "Nous leur avons montré notre force !"
- 
+
  border_conflict_lost_attacker.1.t:0 "Défaite dans [our_state.GetName]"
  border_conflict_lost_attacker.1.d:0 "Les forces sous le commandement de [their_country.GetLeader] ont réussi à nous faire sortir de la zone contestée entre [our_state.GetName] et [their_state.GetName]. Nos forces se sont retirées en bon ordre et en se réorganisent si nous voulons renouveler la bataille à l’avenir."
  border_conflict_lost_attacker.1.a:0 "Nous devons contre-attaquer dès que possible !"
- 
+
  border_conflict_lost_defender.1.t:0 "Défaite dans [our_state.GetName]"
  border_conflict_lost_defender.1.d:0 "Les forces sous le commandement de [their_country.GetLeader] ont réussi à nous faire sortir de la zone contestée entre [our_state.GetName] et [their_state.GetName]. Nos forces se sont retirées en bon ordre et en se réorganisent si nous voulons renouveler la bataille à l’avenir."
  border_conflict_lost_defender.1.a:0 "Nous devons contre-attaquer dès que possible !"
- 
+
  border_conflict_canceled_attacker.1.t:0 "Impasse dans [their_state.GetName]"
  border_conflict_canceled_attacker.1.d:0 "Les combats dans la zone [our_state.GetName] - [their_state.GetName] se sont arrêtés car les deux parties se sont révélées incapables de déloger l'autre. Peu de territoire a été gagné de part et d'autre. Les éclaireurs rapportent que les soldats [their_country.GetAdjective] de l'autre côté sont en train de creuser sur un terrain défensif. Il semblerait qu'ils aient l'intention de conserver le territoire qu'ils possèdent, mais ils ne vont probablement pas aller à l'encontre de nos lignes."
  border_conflict_canceled_attacker.1.a:0 "Nous reviendrons."
@@ -41,11 +41,11 @@
  border_conflict_canceled_defender.1.t:0 "Impasse dans [their_state.GetName]"
  border_conflict_canceled_defender.1.d:0 "Les combats dans la zone [our_state.GetName] - [their_state.GetName] se sont arrêtés car les deux parties se sont révélées incapables de déloger l'autre. Peu de territoire a été gagné de part et d'autre. Les éclaireurs rapportent que les soldats [their_country.GetAdjective] de l'autre côté sont en train de creuser sur un terrain défensif. Il semblerait qu'ils aient l'intention de conserver le territoire qu'ils possèdent, mais ils ne vont probablement pas aller à l'encontre de nos lignes."
  border_conflict_canceled_defender.1.a:0 "Nous reviendrons."
- 
+
  border_incident_defender_warning.1.t:0 "[From.GetNameDefCap] menace notre frontière"
  border_incident_defender_warning.1.d:0 "Plus tôt dans la journée d'hier, des soldats de [their_country.GetAdjective] ont été repérés en traversant la frontière de [attacker_state.GetName] vers [defender_state.GetName]. Au cours de la nuit, plus de forces [their_country.GetAdjective] se sont déversées dans la zone et ont établi des positions défensives à l'intérieur de notre territoire.\n\nCela suit une série d'escarmouches mineures et de violations des frontières par les forces de [their_country.GetLeader] tout le long de notre frontière commune.\n\nCette fois, cependant, il est clair que les forces [their_country.GetAdjective] sont là pour rester. Nous devons envoyer des forces dans la région dès que possible pour vérifier leur avance."
  border_incident_defender_warning.1.a:0 "Mobiliser toutes les forces disponibles !"
- 
+
  border_conflict_escalate_to_war.1.t:0 "[From.GetNameDefCap] se mobilise pour la guerre"
  border_conflict_escalate_to_war.1.d:0 "Les rapports de reconnaissance indiquent que les forces de [From.GetAdjective] se massent à l'intérieur de [their_state.GetName] pour une opération majeure de percée en profondeur dans [our_state.GetName]]. Compte tenu de la quantité de ressources que [From.GetLeader] est prêt à consacrer à cette aventure, il est clair qu’il ne s’agit plus d’une simple dispute sur l’emplacement exact d’une ligne de démarcation.\n\nLa guerre totale est à l'horizon."
  border_conflict_escalate_to_war.1.a:0 "Nous devons être prêts à les rencontrer !"

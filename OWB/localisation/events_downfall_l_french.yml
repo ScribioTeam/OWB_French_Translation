@@ -153,7 +153,7 @@
  downfall.90.c:0 "Maintenant que le Capitole est tombé, la guerre est à nous !"
  downfall.90.e:0 "La victoire est à notre portée !"
  downfall.90.f:0 "Voyons comment ces nouveaux propriétaires se comportent désormais."
-  # 91: To ISN or TCA
+  # 91: To OLY or TCA
   # 92: To TRL
   # 93: To Generic Brotherhood
 
@@ -166,11 +166,11 @@
  downfall.100.c:0 "Nous avons fait un raid sur les pilleurs. Justice poétique !"
  downfall.100.e:0 "Grâce à [Root.GetNameDef], nous pouvons respirer de soulagement."
  downfall.100.f:0 "Est-ce que [Root.GetNameDef] peut s'accrocher à North Koover ? Le temps nous le dira."
+
   # 101: To Generic Unbroken Resistance Member
 
   ## Heaven's Gate (ids 110 to 119)
   # 110: Generic
-  # 111: To NCN
  downfall.110.t:0 "La chute de Heaven's Gate"
  downfall.110.d:0 "La sainte croisade contre [Root.GetNameDef] s'est avérée être trop difficile à gérer pour Heaven's Gate. Après une campagne épouvantable, les carcasses des fidèles et de leurs créations à la vapeur ont jonché la terre promise, créant une piste qui menait jusqu'aux portes brisées de la cathédrale et à la ville saccagée elle-même. Les combats dans la ville ont été intenses, car chaque homme, femme et enfant valide a reçu l'ordre du clergé de donner sa vie pour la vision de l'Archange d'un monde pur. Les forces de [Root.GetNameDef] ont été impliquées dans d'âpres combats urbains alors qu'elles se battaient en montant pour atteindre la cathédrale au sommet de la montagne sur laquelle la ville reposait, chaque bloc de la ville étant fortement contesté par une infanterie et une milice civile fortement retranchées. Pour une fois depuis des décennies, la fumée provenant de la ville n'était pas un appel à la messe."
  downfall.110.a:0 "Ils sauront que je suis l'Éternel quand j'exercerai ma vengeance sur eux."
@@ -178,6 +178,7 @@
  downfall.110.c:0 "Et nous avons pris la Porte, et Dieu a vu qu'elle était bonne."
  downfall.110.e:0 "Et nous avons respiré de soulagement, car les croisés ont été vaincus. "
  downfall.110.f:0 "On dirait qu'ils se sont essoufflés."
+  # 111: To NCN
 
   ## Hidden Valley (ids 120 to 129)
   # 120: Generic
@@ -223,6 +224,7 @@
 
   ## Los Mochis (ids 150 to 159)
   # 150: Generic
+  #Los Mochis/Freedom Fighters
  downfall.150.t:0 "Les masques brisés"
  downfall.150.d:0 "Après de longs combats et avec de nombreux soldats qui ont donné leur vie des deux côtés, les Free Fighters ont finalement été repoussés de leurs frontières initiales et ont finalement perdu leur capitale, Los Mochis. Conscients de la dévastation que subirait leur peuple s'ils n'agissaient pas rapidement, les Tres Mascaras et leurs combattants d'élite se sont jurés de gagner le plus de temps possible pour que leur peuple puisse échapper aux combats."
  downfall.150.a:0 "On ne peut pas vaincre l'esprit d'un Free Fighter. Nous reviendrons !"
@@ -230,6 +232,7 @@
  downfall.150.c:0 "Les vrais héros ne porteraient pas de masques ridicules et ne tomberaient pas si facilement."
  downfall.150.e:0 "[Root.GetNameDef] a aidé le Mexique en éliminant ces justiciers."
  downfall.150.f:0 "Las Tres Mascaras et leurs habitants peuvent-ils être si facilement battus ?"
+
 
   ## Reynosa (ids 160 to 169)
   # 160: Generic
@@ -240,10 +243,11 @@
  downfall.160.c:0 "Reynosa est à nous ! Mort à Santa Anna ! Vive le Mexique !"
  downfall.160.e:400 "Plus de 400 ans pour se préparer, et il a encore perdu des terres. Pathétique."
  downfall.160.f:0 "Santa Anna a perdu sa capitale ; le Mexique va perdre un tyran."
+
   # 161: To RRG
   # 162: To ITZ
 
-## The Refinery (ids 170 to 179)
+  ## The Refinery (ids 170 to 179)
   # 170: Generic
  downfall.170.t:0 "La prise de contrôle hostile de Petro-Chico"
  downfall.170.d:0 "Après des jours de combats acharnés, des rapports commencent à arriver du front, indiquant que [Root.GetNameDef] a brisé la solide défense de la capitale de Petro-Chico, la Raffinerie. Malgré une ligne défensive composée de milliers d'hommes, les unités d'opérations spéciales de [Root.GetNameDef] ont pu pénétrer dans une section légèrement gardée de la défense de la Raffinerie. Le détachement de garde dans la zone a été rapidement et discrètement éliminé sous le couvert de la nuit et un trou béant a été fait dans une barrière qui séparait l'intérieur de la Raffinerie des combats extérieurs, fournissant à [Root.GetNameDef] une ouverture pour canaliser les forces vers l'objectif. Confronté à la défense de sa capitale de l'intérieur et de l'extérieur et à la perte de plus d'hommes qu'il ne pouvait en supporter, El Seeyo, qui avait combattu l'ennemi aux côtés de sa garde d'élite, les Mannajias, ordonna à toute la garnison de la Raffinerie de rendre les armes. Maintenant dispersés au vent, les habitants de Petro-Chico s'enfuirent à l'est vers Chichen Itza et au sud vers Nueva Aztlán. Il semble que pour ce peuple autrefois fier, le quatrième trimestre soit enfin arrivé. Les forces de [Root.GetNameDef] occupaient maintenant la Raffinerie abandonnée mais précieuse, une relique de l'Ancien Monde."
@@ -264,7 +268,9 @@
  downfall.180.c:0 "Nous allons assister à la fin de Nueva Aztlán, contrairement à Yesenia."
  downfall.180.e:0 "Les armes nucléaires de Tlaloc ont commencé le travail ; nous allons aider à le terminer !"
  downfall.180.f:0 "Les guerres des fleurs se sont transformées en quelque chose d'horrible..."
+
   # 181: To ITZ
+
 
   ## Chichen Itza (ids 190 to 199)
   # 190: Generic

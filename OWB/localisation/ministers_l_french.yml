@@ -5,22 +5,29 @@
  war_shaman:0 "Chaman de guerre"
  caesars_hound:0 "Chien de César"
  war_dog:0 "Chien de guerre"
+
  selene_command:0 "Mère Sélène vengeuse"
  selene_command_desc:0 "Sélène possède des pouvoirs de guérison presque mystiques; nous pouvons l'utiliser pour la guerre."
+
  bares_his_teeth_advisor:0 "Dévoile-Ses-Dents"
  bares_his_teeth_advisor_desc:0 "Bien que nous ayons rompu sa volonté de combattre, il a toujours des compétences d'utilisation; la Tribu des Pendus était des récolteurs notoires, après tout."
+
  bares_his_teeth_command:0 "Maître-chien Barbarus"
  bares_his_teeth_command_desc:0 "En lui faisant prendre un nom de Légion, il a été assimilé et peut donc être mis au travail pour rendre nos chiens plus féroces."
  arizona_ranger:0 "Rangers de l'Arizona"
  bushranger:0 "Bushrangers"
+
  carmine_advisor:0 "Shérif Carmine"
  carmine_advisor_desc:0 "Carmine et sa famille adorent les hommes de loi et les hors-la-loi; en faisant de Carmine un défenseur de notre volonté, nous pouvons amener nos tribus au talon."
+
  carmine_command:0 "Carmine «chien fou»"
  carmine_command_desc:0 "Carmine sait comment vivre de la terre et il peut enseigner cela à nos soldats."
  speed_demon:0 "Démon de la vitesse"
  pit_lord:0 "Seigneur de la fosse"
+
  earnhardt_advisor:0 "Tabellarius Earnhardt "
  earnhardt_advisor_desc:0 "Earnhardt aime faire la course et est un leader naturel des hommes; laissez-le distribuer des ressources et construire nos routes."
+
  earnhardt_command:0 "Pit Lord Earnhardt "
  earnhardt_command_desc:0 "Earnhardt est un mécanicien doué; laissez-le contrôler les équipages de la fosse et il va affiner nos chariots pour la vitesse."
  ruthless_capitalist:0 "Capitaliste impitoyable"
@@ -29,18 +36,22 @@
  total_war_tactician:0 "Tacticien de la Guerre Totale"
  praetorian_prefect:0 "Préfet prétorien"
  vulpes_inculta_advisor:0 "Le Vulpes Inculta"
+
  vulpes_inculta_command:0 "Le Vulpes Inculta"
  vulpes_inculta_advisor_desc:0 "Le Vulpes Inculta est un agent brutal et secret de César; il infiltrera les frumentarii dans toutes les nations, sans être vu."
  vulpes_inculta_command_desc:0 "Le Vulpes Inculta est un agent brutal et secret de César; si nos ennemis prennent notre terre, il empilera corps sur corps."
  lucius_advisor:0 "Préfet Lucius"
  lucius_command:0 "Préfet Lucius"
+
  ces_crucified_lucius:0 "Lucius n'a pas été crucifié"
  lucius_advisor_desc:0 "Lucius, comme tout bon commandant de la légion, connaît bien la valeur de l'ingénierie et de la discipline; cela nous permettra de nous mobiliser et de nous rassembler plus facilement."
  lucius_command_desc:0 "Nos prétoriens utilisent des poings balistiques; ils ne craignent pas la bagarre. Lucius, leur préfet, sait comment envoyer des troupes dans cette mêlée, brisant les lignes ennemies."
  malpais_legatus_chief:0 "Le Légat Malpais"
+
  lanius_legatus_chief:0 "Légat Lanius"
  malpais_legatus_chief_desc:0 "Joshua Graham est le plus grand tacticien et ami que César a; à tel point que certains murmurent que César le craint."
  lanius_legatus_chief_desc:0 "Champion de sa tribu, et tueur de celle-ci, César lui donna un nouveau visage et en fit le champion de la légion: les légionnaires préféreraient faire face à la mort à la colère de Lanius."
+
  monster_of_the_east_chief:0 "Monstre de l'Est"
  alice_mclafferty_desc:0 "Alice sait faire des affaires et le fait bien; elle peut satisfaire la demande populaire de consommation, à condition de recevoir des contrats gouvernementaux lucratifs."
  old_world_blues:0 "Old World Blues "
@@ -48,39 +59,55 @@
  peaceful_foreman:0 "Contremaître pacifique"
  gun_runner:0 "Trafiquant d'Armes"
  follower_of_the_apocalypse:0 "Suiveur de l'Apocalypse"
+
  grant_c_hayes:0 "Grant C. Hayes "
  grant_c_hayes_desc:0 "Hayes est un politicien perturbateur obsédé par le vieux monde. Avec son aide, nous pouvons mieux réacquérir ses secrets, mais il repoussera son propre agenda tout le temps, et ce sera une entreprise coûteuse."
+
  allgood_murphy:0 "Allgood Murphy "
  allgood_murphy_desc:0 "Allgood veut la paix et la prospérité, pour la RNC dans son ensemble, mais surtout pour l’argenterie; Avec son aide, notre fabrication en bénéficiera, mais notre enthousiasme et notre enthousiasme pour la guerre en souffriront."
+
  anton_flynn:0 "Anton Flynn "
  anton_flynn_desc:0 "Anton Flynn est un négociateur et a fini par contrôler une grande partie des mouvements et des secousses dans la RNC; Cependant, la légitimité de la république sera remise en question si nous l’engageons, car la population craint que l’oligarchie ne s’enracine."
+
  zachariah_rigby:0 "Zachariah Rigby "
  zachariah_rigby_desc:0 "En tant que chef des Gunrunners, Rigby peut rendre notre fabrication d’armes beaucoup plus efficace; mais les Gunrunner sont des mercenaires et Rigby exige un salaire élevé. "
+
  julie_farkas:0 "Julie Farkas "
  julie_farkas_desc:0 "Julie est un ange et son organisation se fera un plaisir d’améliorer notre infrastructure et nos soins de santé gratuitement; mais plus les gens prennent dans leurs cœurs les idéaux des disciples, moins ils sont prêts à mourir pour la république."
+
  general_wait_and_see:0 "Général Wait-And-See"
  first_recon_commander:0 "Premier commandant de reconnaissance "
  unblinking_hawk:0 "Faucon Crépitant "
  calm_leader:0 "Leader calme "
  all_american_badass:0 "Badass All-American "
+
  general_oliver:0 "Général Oliver "
- colonel_hsu:0 "Colonel Hsu "
- colonel_moore:0 "Colonel Moore "
- colonel_royez:0 "Colonel Royez "
- chief_hanlon:0 "Chef Hanlon "
- major_dhatri:0 "Major Dhatri "
  general_oliver_desc:0 "En tant que protégé du héros des Mojaves, Oliver a beaucoup de poids politique et de prestige derrière lui; mais sa tactique prudente et sa confiance dans les troupes lourdes laissent à désirer, aux yeux de nombreux hommes d’entreprise. "
+
+ colonel_hsu:0 "Colonel Hsu "
  colonel_hsu_desc:0 "Le colonel Hsu est aimé par les hommes et est un bourreau de travail sans comparaison dans les hauts gradés. Hsu sait gérer les lignes d'approvisionnement, extirper les espions et s'assurer que les hommes savent qu'ils sont compris et pris en charge: un avantage considérable pour le moral. "
+
+ colonel_moore:0 "Colonel Moore "
  colonel_moore_desc:0 "Moore ne cligne pas, n'hésite pas; ses instincts de rôdeur l'ont amenée à frapper fort, vite et sans pitié. Il peut voir les menaces avant leur apparition et peut préparer un plan de bataille avant de pouvoir frapper. "
+
+ colonel_royez:0 "Colonel Royez "
  colonel_royez_desc:0 "Le colonel Royez a obtenu son rang lors de l’acquisition du Long-15, grâce à ses exploits de bravoure et de force; il est le summum de ce qu'un soldat RNC peut devenir. Cependant, il n'est qu'un homme et ne peut pas être partout à la fois."
+
+ chief_hanlon:0 "Chef Hanlon "
  chief_hanlon_desc:0 "Le chef Hanlon est le plus vieux garde-forestier vivant sans goule, et ses années d'expérience le montrent. Il a occupé le poste de chef des Rangers pendant plus de trois décennies et plusieurs témoignent de son habileté, de sa ténacité et de sa ruse. Il est un symbole vivant des rangers de la RNC. "
+
+ major_dhatri:0 "Major Dhatri "
  major_dhatri_desc:0 "Le major Dhatri commande le premier escadron de reconnaissance, une équipe de tireurs d’élite incomparable. Avec ses hommes et ses femmes effectuant des mouvements tactiques et des réaffectations, Dhatri peut efficacement repérer, dégager et préparer le terrain pour les camps et les divisions. "
+
  big_jim_chief_of_army:0 "Maréchal James 'Big Jim' "
- mossman_chief_of_army:0 "Général Ranger Mossman"
- drummond_chief_of_army:0 "Général Alexander Drummond "
  big_jim_chief_of_army_desc:0 "Big Jim sait réussir en guerre et réussir rapidement; des démonstrations de force écrasantes! En tant que tel, sa nomination à la tête de l'armée entraînera une augmentation de l'efficacité de la conscription et de la mobilisation. "
+
+ mossman_chief_of_army:0 "Général Ranger Mossman"
  mossman_chief_of_army_desc:0 "Mossman croit totalement au pouvoir des Rangers; À ce titre, sa nomination à la tête de l’armée entraînera l’extension des rangers de la RNC et un entraînement plus rigoureux pour tous."
+
+ drummond_chief_of_army:0 "Général Alexander Drummond "
  drummond_chief_of_army_desc:0 "Drummond a des années d’expérience pour appuyer sa nomination, et cela montre sa capacité à planifier, à la fois en termes de rapidité et de brio. Cependant, il est impopulaire parmi la population et sa nomination va affaiblir la réputation de la république. "
+
  the_baron:0 "Le Baron"
  ranger_general:0 "Général Ranger"
  unpopular_genius:0 "Génie impopulaire "
@@ -89,10 +116,13 @@
  elias_wordsworth:0 "Elias Wordsworth "
  patrick_fitzpatrick:0 "Patrick Fitzpatrick "
  scribe_theresa:0 "Scribe Theresa "
+
  gilbert_sagarra:0 "Gilbert Sagarra "
  doctor_verdrehtnerv_desc:0 "Verdrehtnerv a reçu sa formation auprès de ses adeptes et est largement reconnu pour son efficacité en matière de santé et de rétablissement, et sa supervision assurera que plus d'hommes et de femmes seront en forme et prêts pour le combat (ainsi que d'assurer la santé générale de la population)."
+
  randy_aldgate_desc:0 "Une découverte improbable de Yerington, Aldgate était un escroc et un colporteur. Cependant, ces compétences de duplicité et de charisme peuvent être mises à profit. La propagande de guerre et le matériel de recrutement sont toujours bénéfiques pour notre capacité de guerre et, en tant que tels, notre capacité à aider la population du Nevada."
  elias_wordsworth_desc:0 "Wordsworth faisait de la gestion pour la Caravane Crimson, mais se retirait pour vivre dans le territoire contrôlé par les Rangers; il ne faudrait pas grand-chose pour le sortir de la retraite dans un rôle gouvernemental, pour le bien des Rangers."
+
  patrick_fitzpatrick_desc:0 "Fitzpatrick possède un esprit de logistique, de nécessité et de nombre; combien de coups, combien d'hommes, combien d'armes ? Il sera parfait pour organiser le réapprovisionnement de nos soldats. "
  scribe_theresa_desc:0 "Scribe Theresa est une attachée de la Confrérie, envoyée pour classer nos fichiers de technologie et partager leur propre technologie avec nous; alors qu'elle est ici, elle est trop heureuse d'aider avec d'autres recherches, particulièrement dans son domaine, une scientifique enthousiaste."
  gilbert_sagarra_desc:0 "Sagarra est un vieux sans comparaison, et bien qu'il ait eu un nom beaucoup plus féroce dans le passé, il a dépassé son apogée. Il aide maintenant les Rangers en lisant d’anciens rapports de combat, des textes tactiques et d’autres éléments de l’histoire de la guerre, espérant apprendre du passé pour améliorer notre avenir. "
@@ -102,124 +132,163 @@
  head_recruiter:0 "Chef Recruteur "
  dedicated_scribe:0 "Scribe dédié "
  tactical_historian:0 "Historien tactique "
+
  angela_deth:0 "Angela Deth "
  angela_deth_desc:0 "L'âme d'Angela est aussi ardente que ses cheveux; Chaque membre de la direction des Rangers le sait depuis l'incident de Cochise. Elle donnera tout pour protéger les Rangers et elle s'arrêtera sans limite pour que nos ennemis paient. "
  frontline_operative:0 "Première ligne Opératoire"
+
  snake_vargas_dispatch:0 "'Snake' Vargas "
  snake_vargas_dispatch_desc:0 "Vargas a peut-être été forcé de prendre sa retraite, mais cela ne signifie pas qu'il s'est retiré. Au lieu de cela, Snake a pris la relève, utilisant ses connaissances des opérations sur le terrain pour s’assurer que les hommes sont de haute moralité et qu’ils sont aidés et soulagés le cas échéant."
  dispatcher:0 "Répartiteur "
+
  ross_nakam:0 "Ross Nakam "
  ross_nakam_desc:0 "Nakam était le chef des Vipers, mais ses compétences en matière de guérilla et de contrôle de la population pourraient nous être très précieuses. Cependant, son passé horrible et ses méthodes discutables peuvent amener les gens à s'interroger sur la cause des Rangers. "
  viper:0 "Vipère "
+
  jack_hidalgo:0 "Jack Hidalgo "
  jack_hidalgo_desc:0 "Hidalgo était le chef des Jackals et, comme les récolteurs qu'ils ont eux-mêmes nommés, les Jackals savent comment survivre sans aucun ravitaillement, aucun secours et aucun renfort. Cependant, le passé horrible des Jackals fait de sa nomination une question de dignité et peut affaiblir la légitimité des Rangers."
  jackal:0 "Jackal "
  hell_razor_commander:0 "Hell Razor"
  hell_razor_commander_desc:0 "Hell Razor's a toujours été considéré comme un berserker, et cela n'a pas changé lorsqu'il a pris le commandement et a cessé d'être un agent de terrain. Ses tactiques agressives ont été connues pour briser les lignes ennemies, mais elles peuvent aussi nous coûter cher, un manque de respect pour la vie humaine. "
  aggressive_attacker:0 "Agresseur agressif "
+
  veteran_ranger_holstadt:0 "Ranger Vétéran Holstadt "
  veteran_ranger_holstadt_desc:0 "Holstadt a servi avec les Rangers pendant plus de 20 ans, et après que l'unification ait été envoyée aux Desert Rangers pour qu'ils prennent leur retraite, ils servent plutôt à instruire et à former un plus grand nombre de nos propres Rangers. "
  ranger_instructor:0 "Instructeur Ranger "
+
  snake_vargas:0 "'Snake' Vargas "
  snake_vargas_desc:0 "Vargas est un vétéran qui a mérité son rang et sa renommée dans l'Incident de Cochise, aux côtés de Deth, Hell Razor et Sagarra. il a été dans tous les rôles que cette organisation a à offrir, et il sait comment utiliser la poigne de fer des Rangers."
  lifelong_ranger:0 "Ranger à vie"
+
  thrasher_sagarra:0 "'Thrasher' Sagarra "
  thrasher_sagarra_desc:0 "La lecture prolongée de Sagarra et son étude des anciennes tactiques ne sont pas en reste. cela lui a donné un esprit tactique précis et analytique, lui permettant de planifier rapidement les lignes de bataille et de les exécuter avec une efficacité mortelle. "
  tactically_minded:0 "Esprit tactique "
+
  hell_razor:0 "Hell Razor "
  hell_razor_desc:0 "Hell Razor n'a pas beaucoup changé depuis son ascension au poste de Ranger Général; ses tactiques sont toujours agressives et tendent à obtenir les mêmes résultats; des pertes massives des deux côtés."
+
  mason_salvatore:0 "Salvateur Mason"
  mason_salvatore_desc:0 "Les Salvateurs sont connus pour être des intrus, des marchands, des déménageurs, des secoueurs; Mason améliorera notre capacité économique, mais il nous travaillera de nouveau à chaque fois, cherchant sa chance."
  two_timing_dealer:0 "Concessionnaire à deux temps "
+
  christopher_wright:0 "Christopher Wright "
  christopher_wright_desc:0 "Wright est un évangélisateur qui fait son argent en vendant de l'alcool de contrebande; le pire type d'hypocrite. Mais tant que nous garderons ses distilleries en marche et que ses clients seront alcooliques, il mettra sa pensée, sa lecture et son écriture au service de notre cause."
  moonshine_intellectual:0 "Moonshine Intellectuel "
+
  mr_bishop:0 "M. Bishop "
  mr_bishop_desc:0 "M. Bishop n'acceptera pas notre prise de contrôle, mais il est parfaitement disposé à jouer le rôle du vizir. pour l'instant. Il aidera à contrôler les âmes rebelles de New Reno, mais il sèmera la dissidence tout le temps. "
  chessmaster:0 "Maitre des échecs "
  lil_jesus_mordino:0 "Lil 'Jesus Mordino "
  lil_jesus_mordino_desc:0 "La lie de cette belle ville ferait n'importe quoi pour Mordino et son Jet, mais donner à Mordino ce qu’il veut, c’est sacrifier un nombre important de ces personnes. à ses ateliers, à son garde du corps, à ses bordels. "
  jet_baron:0 "Jet Baron "
+
  tiaret_van_graff:0 "Tiaret Van Graff "
  tiaret_van_graff_desc:0 "En épousant le patriarche de la matriarche Van Graff, elle a assuré son soutien et ses capacités pour notre cause; personne ne veut baiser avec les Van Graff et ils connaissent mieux les armes énergétiques que quiconque. Cependant, il y aura des murmures; des rumeurs selon lesquelles Bishop est maintenant juste une marionnette de Van Graff ... "
  bloody_bride_of_bishop:0 "Mariée Sanglante de Bishop"
+
  ol_crookshanks:0 "Ol 'Crookshanks "
  ol_crookshanks_desc:0 "Crookshanks n'avait pas l'habitude d'obtenir le respect de personne, jusqu'à ce que nous disions clairement que New Reno héberge tous les esprits, les parias et les rebuts. Maintenant, Crookshanks est reconnu pour ce qu'il est; un administrateur expérimenté et un employé précieux. Cependant, certains des crétins fanatiques de la ville pourraient ne pas pouvoir regarder au-delà des lésions."
  pre_war_administrator:0 "Administrateur d'avant-guerre"
+
  pablo:0 "Pablo "
  pablo_desc:0 "Pablo est un mercenaire expérimenté qui, avec son groupe, a gravi les échelons du nord à la recherche d'un endroit où obtenir un contrat à vie et s'installer. il sait se battre, faire se battre ses hommes, et il sait garder les mercenaires de toutes sortes motivés et agressifs. "
  conquistador_captain:0 "Capitaine Conquistador "
+
  runs_with_hatred:0 "Runs-With-Hatred "
  runs_with_hatred_desc:0 "Runs-With-Hatred et ses Fils Vengeurs ont été chassés de chez eux par le cruel et terrible César; en offrant une nouvelle maison à New Reno (et une rémunération lucrative), nous pouvons nous assurer qu'ils sont fidèles et prêts à défendre notre ville."
+
  pit_master_frazz:0 "Pit Master Frazz "
  pit_master_frazz_desc:0 "Frazz est étrange, mais ses désirs sont simples; il veut construire des robots et les faire se battre. Si nous lui fournissons des matériaux et le payons suffisamment, il le fera pour nous. Il ne fait jamais de mal à se livrer à un passe-temps. "
  erratic_engineer:0 "Ingénieur erratique "
+
  warcrying_todd:0 "Warcrying Todd "
  warcrying_todd_desc:0 "Todd et ses garçons adorent faire la course, aiment se battre et aiment combiner leurs loisirs. Ils sont également des réducteurs qui aiment leurs véhicules. Si nous parvenons à donner de l'amour à nos véhicules, nous pouvons améliorer nos capacités de combat motorisé. "
  blitzer:0 "Blitzer "
+
  tech_officer_hilden:0 "Officier Technologique Hilden "
  tech_officer_hilden_desc:0 "Hilden est issu d'une longue lignée de scientifiques et d'ingénieurs de l'Enclave, et il connaît bien la technologie de pointe. Il peut appliquer ses compétences uniques à nos batteries laser et à notre armure assistée, ce qui les rend mieux visibles."
  esoteric_engineer:0 "Ingénieur ésotérique "
+
  karm_the_brilliant:0 "Karm le Brillant "
  karm_the_brilliant_desc:0 "Karm est potentiellement l'un des plus anciens super mutants, comparable à Thradd. Son esprit est solide et ses instincts sont aiguisés; l'expérience et le temps ont fait de lui un planificateur de patients. Bien qu'il puisse prendre plus de temps pour préparer un plan, il sera mortel lorsqu'il sera exécuté et dépassera la vue de la plupart des ennemis. "
  ancient_tactician:0 "Ancien tacticien "
+
  sergeant_granite:0 "Sergent Granite "
  sergeant_granite_desc:0 "Farouchement fidèle à l’Enclave, mais prêt à tirer sur quelqu'un jusqu’à son retour, Granite est un sergent d’exercices bien formé, capable de s’assurer que les soldats apprennent et apprennent rapidement. "
  drill_sergeant:0 "Sergent de forage "
+
  thradd_the_immortal:0 "Thradd l'Immortel "
  thradd_the_immortal_desc:0 "Bien que secrètement il pleure son amour perdu, dans les endroits où il pense que personne ne peut l'entendre, Thradd est un tueur de sang froid et ne peut être arrêté; il sera capable de tuer tous ceux qui marchent sur notre terrain."
  immortal_titan:0 "Titan immortel "
+
  colonel_jalabert:0 "Colonel Jalabert "
  colonel_jalabert_desc:0 "On ne sait pas si c'était uniquement une incitation financière qui a poussé Jalabert à abandonner son rang dans l'armée de la RNC et à passer à la vie de mercenaire, mais on sait qu'il est un disciplinaire strict et un tacticien compétent en matière de forces motorisées. ."
  the_bear_of_reno:0 "L'ours de Reno"
+
  tobias_halvorsen:0 "Tobias Halvorsen "
  tobias_halvorsen_desc:0 "Tobias aime les armes à feu, les bombes et toute arme qui a un coup de pied. Lui et ses hommes savent comment utiliser, régler et personnaliser ces armes pour atteindre leur plein potentiel, et nos ennemis n'auront jamais le sentiment d'apprendre par eux-mêmes le pouvoir d'arrêt des Hell-Hammers de Halvorsen. "
  flash_in_the_pan:0 "Flash-in-the-Pan"
+
  militia_leader_mick:0 "Chef de milice Mick "
  militia_leader_mick_desc:0 "Bien que Mick ne soit qu’un petit marchand d’armes local, il est également un fervent défenseur de Freeside et un pilier de sa communauté. En lui donnant la capacité officielle de contrôler nos faubourgs, il peut rendre Freeside plus sûr, tout en offrant un enfer à nos ennemis, qu’ils soient occupants ou occupés. "
  armed_politeness:0 "Politesse armée "
+
  mr_new_vegas:0 "M. New Vegas "
  mr_new_vegas_desc:0 "Les gens aiment écouter les airs de Radio New Vegas, mais ils aiment entendre les tonalités douces et fortes de Mr. New Vegas, son hôte. En réaffectant M. New Vegas et son poste comme réseau de propagande, nous pouvons utiliser cette personnalité bien-aimée pour accroître notre soutien populaire. "
  beloved_personality:0 "Personnalité bien-aimée "
+
  michael_angelo:0 "Michael Angelo "
  michael_angelo_desc:0 "Michael Angelo est une âme sensible qui fait des signes pour New Vegas, augmentant sa beauté et sa luminosité. Son travail aide les gens à se rappeler pourquoi ils adorent New Vegas et permet aux petites entreprises de démarrer plus rapidement. "
  sensitive_artist:0 "Artiste sensible "
+
  offensive_protocols:0 "Protocoles offensifs "
  offensive_protocols_desc:0 "Un ensemble de protocoles d'IA conçu par M. House dans le but d'accroître l'efficacité au combat des groupes de sécurité sur le terrain et lors des campagnes militaires (si une telle situation devenait nécessaire). En tant que tel, il rend les securitrons plus efficaces dans l'art de l'abattage."
  aggressive_ai:0 "IA Agressive"
+
  defensive_protocols:0 "Protocoles défensifs"
  defensive_protocols_desc:0 "Un ensemble de protocoles d’IA conçus par M. House pour protéger New Vegas et ses filiales, en mettant l’accent sur le renforcement de la capacité des securitrons à récupérer, leur permettant de mieux tenir la ligne."
  reserved_ai:0 "AI Réservé"
+
  unorthodox_protocols:0 "Protocoles Peu Orthodoxes"
  unorthodox_protocols_desc:0 "Un ensemble de protocoles d'IA que M. House a conçu pour être plus capable de tactiques complexes et d'apprendre de l'expérience, sans se concentrer uniquement sur l'amélioration de l'adaptabilité et de l'imprévisibilité des securitrons et de toutes les forces guidées par les protocoles."
  unpredictable_ai:0 "AI Imprévisible"
  subroutine_alpha:0 "Sous-programme: Alpha"
  subroutine_beta:0 "Sous-programme: Bêta"
+
  subroutine_gamma:0 "Sous-programme: Gamma"
  subroutine_alpha_desc:0 "Le Sous-programme Alpha a été conçu dans le but de réduire la quantité de maintenance nécessaire et la vitesse à laquelle ils seraient à nouveau prêts à se battre en stimulant leurs systèmes de réparation embarqués. Cette réduction des besoins des securitrons renforce également le moral de nos troupes non robotisées et nous permet de les fournir plus efficacement."
+
  subroutine_beta_desc:0 "Le Sous-programme bêta a été conçue dans le but de permettre aux securitrons de formuler des stratégies plus efficaces et de créer des plans tactiques. L'installation de sous-programme Beta rend notre IA plus efficace et fournit des tactiques plus efficaces plus rapidement, pour l'homme comme pour la machine."
  subroutine_gamma_desc:0 "Le Sous-programme Gamma a été conçu dans le but d'améliorer la capacité de notre IA à réagir et à s'adapter aux menaces situationnelles grâce à l'auto-apprentissage et à l'amélioration, permettant à notre IA de récupérer plus efficacement des pertes et de se défendre contre les menaces."
  internal_repair:0 "Réparation interne"
  pre_simulated_tactics:0 "Tactiques pré-simulées"
  adaptive_learning:0 "Apprentissage adaptatif"
  burning_avenger:0 "Avenger brûlant"
+
  pittman:0 "Pittman"
  pittman_desc:0 "Pittman a toujours été perspicace et paranoïaque, même quand il tente de le couvrir dans sa propre vanité, il est facile de voir avec ceux qui ont une perception. De toute façon avec lui maintenant, le Premier a commencé à appliquer les tactiques qu’il a apprises au fil des décennies."
  pittman_chief_of_army:0 "Pittman"
+
  bonesnarl:0 "Bonesnarl"
  bonesnarl_desc:0 "Bonesnarl était une fois un cannibale humble qui a contourné le Warren en essayant de trouver des vivres pour se nourrir. Sa chance s’est épuisée lorsque le Premier l’a attrapé et l’a jeté dans les fosses FEV du Warren. Désormais un super mutant, sa faim n'a fait que croître avec le temps et les rumeurs croient qu'il va arracher des esclaves juste pour satisfaire sa faim."
  bonesnarl_chief_of_army:0 "Bonesnarl"
+
  betty:0 "Betty"
  betty_desc:0 "Betty vient d'un passé sombre et mystérieux. Seules le Premier et la Mère pouvaient connaître ses origines. Elle est amenée à trouver ceux qui l'ont "provoquée" et ne s'arrêtera pas tant que sa revanche n'aura pas été prise."
  betty_chief_of_army:0 "Betty"
+
  shepard:0 "Shepard"
  shepard_desc:0 "Shepard est un nouvel ajout à la famille croissante des Warren, et il a déjà prouvé sa valeur avec son amélioration par rapport aux esclaves locaux, les obligeant à travailler plus dur avec de la cruauté et à laisser Bonesnarl se débrouiller des esclaves."
+
  mother:0 "Mère"
  mother_desc:0 "Mère est l'une des toutes Premières personnes à avoir plongé dans le Warren et elle a presque atteint sa taille. Cependant sa faculté mentale reste inébranlable en elle, elle prend soin du Warren et s'occupe d'eux. Bonesnarl et Betty lui parlent souvent pour parler de leurs problèmes et demander conseil."
+
  scurge:0 "Scurge"
  scurge_desc:0 "Scurge était un chasseur tribal avant d'être capturé et immergé dans le lagon FEV du Warren. Bonesnarl l'utilise souvent pour chasser des prix pour lui et son petit clan. Cependant, il est fier de sa loyauté implacable envers le Premier, et non des partisans au-dessous de lui."
+
  marro:0 "Marro"
  marro_desc:0 "Marro était un soldat juste après que les bombes soient tombées, un de ceux qui sont retournés au Warren pour aller chercher le Premier le rattrapaient et le trempaient. Sachant à quel point le monde est devenu mauvais, il est resté avec le Premier, devenant l'un de ses rares amis les plus proches et agissant comme une contre-mesure à son manque de mentalité croissant."
+
  doctor:0 "Doc Torr"
  doctor_desc:0 "Doc Torr est un mutant brut et souvent psychotique, s'il ne savait pas comment guérir notre espèce, le Premier ou l'un de ses disciples l'aurait probablement tué, jusqu'à ce qu'il cesse d'être utile, mais ses compétences peuvent être utilisées. Guérir nos guerriers qui reviennent de la bataille."
  nightkin_terror:0 "Terreur de nuit"
@@ -233,42 +302,104 @@
  power_of_might:0 "Puissance de la force"
  power_of_hunger:0 "Puissance de la faim"
  power_of_tactics:0 "Pouvoir de la tactique"
+
  raul:0 "Raul"
  raul_desc:0 "Raul était le meilleur mécanicien de Vertibird de l'enclave. Après la défaite de l'enclave à la plate-forme pétrolière et à Navarro, il disparut avec Dornan. Au retour de Dornan, Raul a très vite compris que l’équipement dont ils avaient besoin pour construire leurs usines nécessitait une révision majeure et a commencé à travailler immédiatement pour devenir le meilleur ingénieur de l'Enclave."
  raul_engineer:0 "Ingénieur"
+
  judah_kreger:0 "Capitaine Judah Kreger"
  judah_kreger_desc:0 "Judah Kreger était un capitaine dans l'enclave de Navarro et un bon à cela. Ses compétences en leadership ont permis d'éviter plusieurs rivalités dans l'enclave et de continuer à travailler ensemble sans aucun problème. Lorsque l'enclave a été vaincue à Oil Rig et que Navarro s'est enfui, il a tenté de s'intégrer secrètement à la RNC. Puis Dornan est revenu et tout a changé."
  judah_kreger_leader:0 "Leader"
+
  snookie:0 "Snookie"
  snookie_desc:0 "Snookie était un garde à la base de Navarro gardant un Griffe de la mort intelligent que l'enclave avait fait prisonnier. Elle était aussi un soldat et excellait à se faire une place et à ne pas bouger d'un pouce. Lorsque l'Enclave a perdu à Navarro, elle a réussi à s'échapper avec Dornan et elle revient avec lui pour assister à la victoire finale des Enclaves."
  snookie_guard:0 "Garde"
+
  quincy:0 "Quincy"
  quincy_desc:0 "En tant que chef de l'équipe de techniciens chez Navarro, Quincy était un homme de grande compétence et de grande responsabilité. Il était chargé de superviser le travail des mécaniciens et des équipes de maintenance qui se trouvaient à la base. Lorsque l'Enclave a perdu à la plate-forme pétrolière et à Navarro, il a disparu avec Arch Dornan et revient maintenant avec Dornan lui-même."
  quincy_technician:0 "Technicien"
+
  sanders:0 "Colonel Sanders"
  sanders_desc:0 "Sanders était l'officier chargé de superviser les fouilles à la base militaire de Mariposa. Ses capacités étaient ce qui permettait à l'Enclave de se procurer l'échantillon de VEMS-II et d'empêcher les Mineurs mutants de vaincre les gardes et les camps juste à l'extérieur de la base. Il dirige ses opérations spéciales avec la capacité d'un véritable officier de l'enclave."
  sanders_spec_ops:0 "Entraînement Spec Ops"
+
+ daisy_whitman:0 "Daisy Whitman"
+ daisy_whitman_desc:70 "Daisy était et est une pilote de Vertibird accomplie et compte plus de 70 missions à son actif. Grâce à son expérience et à ses compétences dans le ciel, nos flyers seront inarrêtables."
+
+ orion_moreno:0 "Orion Moreno"
+ orion_moreno_desc:0 "Orion Moreno était un soldat accompli dans l'escouade de Judah Kreger. Son expérience sur le terrain et au combat ainsi que sa loyauté le conduisent à être un atout assez fort pour l'Enclave en général."
+
+  ##Cultural Advisor Traits
+	#Columnist
+ 	owb_cultural_advisor_state_columnist: "State Columnist"
+ owb_cultural_advisor_state_columnist_desc:0 "Un chroniqueur d'État travaille au nom du gouvernement central pour fournir un reportage transparent, généralement impartial, qui peut être facilement digéré par les habitants du Terres Désolées"
+
+ 	owb_cultural_advisor_venerated_columnist: "Venerated Columnist"
+ owb_cultural_advisor_venerated_columnist_desc:0 "Avec le temps, il est presque inévitable que quiconque a été témoin de la nature de la guerre et les Terres Désolées en vienne à la mépriser. Le vénérable chroniqueur est arrivé à ce point dans sa vie, et ses écrits fréquents sont souvent critiqués comme démoralisant pour le public."
+
+	#Ideological Somethingorother
+ 	owb_cultural_advisor_ideological_representative: "Ideological Representative"
+ owb_cultural_advisor_ideological_representative_desc:0 "Le représentant idéologique est capable de puiser au cœur même de l'identité nationale d'une nation, et de l'utiliser pour rallier le peuple en faveur du statu quo."
+
+ 	owb_cultural_advisor_ideological_manipulator: "Ideological Manipulator"
+ owb_cultural_advisor_ideological_manipulator_desc:0 "Le manipulateur idéologique est capable d'exploiter les croyances et les rêves du noyau démographique de la nation, mais il y parviendra invariablement en se tournant vers des groupes démographiques plus petits, qui à leur tour cesseront de soutenir la nation dans son ensemble."
+
+	#Strategist
+ 	owb_cultural_advisor_national_strategist: "National Strategist"
+ owb_cultural_advisor_national_strategist_desc:0 "Le stratège national est généralement un guerrier ou un général de haut rang qui se spécialise dans l'organisation non seulement des efforts militaires, mais aussi du haut commandement militaire."
+
+ 	owb_cultural_advisor_supreme_strategist: "Supreme Strategist"
+ owb_cultural_advisor_supreme_strategist_desc:0 "Le stratège suprême est un stratège national de haut rang, auquel la plupart des hauts fonctionnaires font confiance et qu'ils aiment beaucoup pour le devoir qu'ils accomplissent dans les dangereuses Terres Désolées. Cependant, ses revendications se font souvent au détriment de l'élan politique et même du bien commun."
+
+	#Population
+ 	owb_cultural_advisor_population_organizer: "Population Organizer"
+ owb_cultural_advisor_population_organizer_desc:0 "Dans les Terres Désolées, la gestion des populations n'est pas une tâche simple. Elle implique que des hommes armés aillent faire le recensement, mesurer la quantité d'eau qu'une zone peut supporter et évaluer les menaces générales. Si elle n'est pas effectuée avec soin, une grande nation peut soudainement voir des pans entiers de sa population mourir de faim ou de soif."
+
+ 	owb_cultural_advisor_population_micromanager: "Population Micromanager"
+ owb_cultural_advisor_population_micromanager_desc:0 "Le Micromanager de la population est l'évolution naturelle de l'Organisateur de la population. Il se concentre sur l'enregistrement efficace des personnes, la distribution de l'aide et la structuration civile globale. Malheureusement, il a tendance à isoler les personnes qui devraient être exclues du service, mais ils passent généralement inaperçus. Ceux qui sont trop jeunes, trop malades ou trop instables pour servir sont moins susceptibles de le faire sous leur surveillance."
+
+	#Recruiter
+ 	owb_cultural_advisor_recruitment_propagandist: "Recruitment Propagandist"
+ owb_cultural_advisor_recruitment_propagandist_desc:0 "Comme on peut s'y attendre, le propagandiste du recrutement se spécialise dans l'incitation des jeunes à s'engager et à se battre au nom de leur pays d'origine, souvent par le biais d'airs accrocheurs et d'éditoriaux émouvants."
+
+ 	owb_cultural_advisor_recruitment_driver: "Recruitment Driver"
+ 	owb_cultural_advisor_recruitment_driver_desc: "A Recruitment Driver takes recruitment to the next tier, relying heavily on financial and political pressure to encourage the depserate to enlist in the army. While immoral, none can deny they are effective."
+
  chem_pusher:0 "Pousseur Chem"
  slaving_bastard:0 "Bâtard Esclave"
  settlement_raider:0 "Règlement Raider"
  settlement_defender:0 "Défenseur des règlements"
  raider_punish:0 "Punisseur des Raiders"
  raider_recruitment:0 "Recruteur de Raiders"
+ raider_brute:0 "Brute"
  sawbones:0 "Chirurgien"
+ settlement_builder:0 "Constructeur de colonies"
+ slave_flogger:0 "Flagellateur d'esclaves"
  raider_expansion:0 "Expansion du gang"
  raider_defend:0 "Bâtard têtu"
  raider_navy_buff:0 "Raider des mers"
  raider_air_buff:0 "Raider des cieux"
- man_of_commun:0 "Personne de la communauté"
+
+ man_of_community:0 "Personne de la Communauté"
  caravan_trader:0 "Trader"
+ economic_expert:0 "Expert économique"
  honest_speaker:0 "Orateur honnête"
  local_sherrif:0 "Shérif local"
  caravan_guard:0 "Garde de caravane"
  kind_mercenary:0 "Gentil mercenaire"
+ settler_spymaster:0 "Maître espion"
+ settler_military_industrial:0 "Lobbyiste des armes"
+ settler_oldworld_infrastructure:0 "Infrastructure de l'ancien monde"
+ settler_homestead_defence:0 "Défenseur du patrimoine"
  settler_expansion:0 "Porteur de la Civilisation"
  settler_defend_trait:0 "Défenseur de la ville"
  settler_navy_buff:0 "Capitaine de ferry"
  settler_air_buff:0 "Pilote"
+ war_monger:0 "Marchand de guerre"
+ friends_in_high_places:0 "Amis en haut lieu"
+ scientific_devotion:0 "Dévotion scientifique"
+
+ tribal_ritualist:0 "Le gardien du rituel"
  tribal_elder:0 "Aîné tribal"
  wall_painter:0 "Peintre de mur"
  tribal_shaman:0 "Chaman"
@@ -278,175 +409,44 @@
  tribal_expansion:0 "Tonnerre de guerre"
  tribal_defend:0 "Chef de guerre"
  tribal_navy_buff:0 "Chef de guerre"
- abraham:0 "Abraham Horres"
- abraham_desc:0 "Envoyé comme missionnaire dans une tribu en Arizona, la tribu avec laquelle il a était massacrée par la Légion. Fuyant à Canaan, il vit de première main ce que la Légion pouvait faire. Sachant qu'ils finiraient par venir pour New Canaan, il a passé ses années à construire un soutien pour diffuser la parole de Dieu au monde par la force."
- unrelenting_crusader:0 "Croisé implacable"
- matthew:0 "Matthew Green"
- matthew_desc:0 "Un homme paisible, Matthew Green était un disciple dévot de Dieu. Envoyé à Ires pour essayer de soulager les tensions entre les mormons et les catholiques et essayer de former une alliance entre nos peuples. Après beaucoup de succès, il retourna à New Canaan un pacifiste complet, voyant de première main que la volonté de Dieu était celle de la paix."
- peace_mission:0 "Missionnaire pacifique"
- eden:0 "Eden Dent"
- eden_desc:0 "Un médecin doué, Eden est l'un des meilleurs experts médicaux de New Canaan. Bien que Mormon elle-même, elle n'est pas d'accord avec la politique de New Canaan de convertir les tribus les moins instruites à la volonté de Dieu, la considérant comme une manipulation plutôt que comme un salut."
- calm_doc:0 "Docteur en conflit"
- aaron:0 "Aaron Grant"
- aaron_desc:45 "Le fabricant d'armes de New Canaan, Aaron, est le quartier général de facto de New Canaan. Expert dans le pistolet de calibre .45, il crée presque toutes les armes utilisées par les soldats de New Canaan."
- quatermaster_45:0 "Quartier-maître mormon"
- waking_cloud:0 "Réveiller le nuage"
- waking_cloud_desc:0 "Un converti tribal des Douleurs, Waking Cloud était l'un des premiers Sorrows convertis par Daniel. En tant que sage-femme pour les Sorrows, elle se soucie beaucoup de la tribu et de leur culture tout en adoptant le mode de vie mormon."
- coming_convert:0 "Convertisseur"
- gideon:0 "Gideon Maywater"
- gideon_desc:0 "Expert en tactique et en entraînement, Gideon est un instructeur mormon pour leur armée. Pendant qu'il forme les soldats de New Canaan, il refuse de former quiconque en dehors de New Canaan, en particulier les tribus. Craignant que, s'ils connaissaient leurs tactiques, ils puissent être utilisés contre eux."
- mormon_militia:0 "Maître du Seigneur"
- mountain_hawk:0 "Faucon de montagne"
- mountain_hawk_desc:0 "Un tribal Dead Horse, Mountain Hawk est l'un des anciens de la tribu. Partageant sa sagesse avec ceux qui sont en dessous de lui, il se méfie de New Canaan, sachant ce que leurs missionnaires ont fait aux tribus dans le passé. Bien qu'il soit en forme par rapport à la plupart des tribus, il n'a pas perdu son avantage."
- gods_warrior:0 "Guerrier de Dieu"
- rushing_wind:0 "Vent pressant"
- rushing_wind_desc:0 "Un converti tribal des Tar Walkers, Rushing Wind est l'un des morceaux de fierté de New Canaan. Maintenant un citoyen à part entière avec presque aucun lien avec son ancienne tribu, il est un pieux mormon et un exemple que n'importe qui peut suivre la volonté de Dieu."
- joel_desc:0 "Joel est un prêtre mormon qui croit fermement que New Canaan est la terre sainte. Il croit qu'il n'y a aucune raison de gaspiller les personnes de Dieu en expansion alors que la terre sainte a déjà été établie. Il soutient la défense de New Canaan à tout prix et ne ferait qu'élargir la terre sainte si cela ne coûtait pas la vie des gens de Dieu."
- defender_priest:0 "Prêtre défenseur"
- david_desc:0 "Ancien membre des Desert Rangers, David a déménagé à New Canaan pour enseigner aux mormons les stratégies des Rangers. Bien qu’initialement méfiant, il a gagné sa place en tant que membre de New Canaan."
- mormon_ranger:0 "Rangers mormons"
- tribal_mormon:0 "Tribal Mormon"
- joel:0 "Joel Harnigan"
- wallace_desc:0 "Pour un homme qui passe tout son temps dans l'eau, Wallace ne s'en est jamais lassé. Utilisant ses bateaux pour traverser le grand lac salé, il rêve d'un temps où il est fréquent que les gens utilisent les bateaux et les voies navigables autant que New Canaan compte sur les routes. Il espère que ce jour viendra bientôt."
- mormon_navy_buff:0 "Voyageur de Salt Lake"
- sariah_desc:0 "Sariah, une dévote Mormon, n'a jamais été la femme mormone traditionnelle. Dès son plus jeune âge, sa passion pour le vol a contrôlé sa vie. À partir du moment où elle est devenue adulte, elle s'est consacrée à la création de la force aérienne de New Canaan."
- mormon_air_buff:0 "Ailes sacrées"
- paladin_ramos_desc:0 "Paladin Ramos a longtemps servi la Confrérie en tant que chef de la sécurité dans la section Mojave. Il ne connaît que la loyauté envers la cause et les idéaux de la Confrérie."
- paladin_hardin_advisor:0 "Chef paladin Hardin"
- paladin_hardin_advisor_desc:0 "Le chef paladin Edgar Hardin est membre de la Confrérie de l'Acier des terres dévastées de Mojave, il montre une loyauté divine à la Confrérie. Il est connu pour son attitude non sensuelle et sa moralité de donner à chacun une chance de faire ses preuves et de se rendre mieux."
- paladin_sato:0 "Paladin Sato"
- paladin_sato_desc:0 "Paladin Sato est un membre de longue date de la Confrérie. Il a gravi les échelons pour devenir paladin et est maintenant considéré comme un expert dans le domaine des armes."
- knight_torres:0 "Chevalier Torres"
- daisy_whitman:0 "Daisy Whitman"
- daisy_whitman_desc:70 "Daisy était et est une pilote de Vertibird accomplie et compte plus de 70 missions à son actif. Grâce à son expérience et à ses compétences dans le ciel, nos flyers seront inarrêtables."
- scout_sierra:0 "Chevalier Sierra"
- orion_moreno:0 "Orion Moreno"
- orion_moreno_dsec:0 "Orion Moreno était un soldat accompli dans l'escouade de Judah Kreger. Son expérience sur le terrain et au combat ainsi que sa loyauté le conduisent à être un atout assez puissant pour l'Enclave en général."
- scout_sierra_desc:0 "Sierra est un éclaireur qui a grandi au service de la Confrérie. Après un entraînement et une initiation exténuante, elle a gravi les échelons avant de devenir éclaireuse."
- scribe_taggart:0 "Chef scribe Taggart"
- head_paladin_richardson:0 "Chef paladin Richardson"
- paladin_myers:0 "Senior Paladin Myers"
- scribe_perez:0 "Scribe Perez"
- orion_moreno_desc:0 "Orion Moreno était un soldat accompli dans l'escouade de Judah Kreger. Son expérience sur le terrain et au combat ainsi que sa loyauté le conduisent à être un atout assez fort pour l'Enclave en général."
- paladin_moore:0 "Paladin Moore"
- knight_watson:0 "Chevalier Watson"
- scout_davies:0 "Scout Davies"
- owb_cultural_advisor_state_columnist:0 "Chroniqueur d'Etat"
- owb_cultural_advisor_state_columnist_desc:0 "Un chroniqueur d'État travaille au nom du gouvernement central pour fournir un reportage transparent, généralement impartial, qui peut être facilement digéré par les habitants du Terres Désolées"
- knight_simmons:0 "Chevalier Simmons"
- owb_cultural_advisor_venerated_columnist:0 "Chroniqueur vénéré"
- owb_cultural_advisor_venerated_columnist_desc:0 "Avec le temps, il est presque inévitable que quiconque a été témoin de la nature de la guerre et les Terres Désolées en vienne à la mépriser. Le vénérable chroniqueur est arrivé à ce point dans sa vie, et ses écrits fréquents sont souvent critiqués comme démoralisant pour le public."
- scribe_dyson:0 "Chef Scribe Dyson"
- paladin_myers_advisor:0 "Paladin Myers"
- owb_cultural_advisor_ideological_representative:0 "Représentant idéologique"
- owb_cultural_advisor_ideological_representative_desc:0 "Le représentant idéologique est capable de puiser au cœur même de l'identité nationale d'une nation, et de l'utiliser pour rallier le peuple en faveur du statu quo."
- journeyman_fritz:0 "Compagnon fritz"
- owb_cultural_advisor_ideological_manipulator:0 "Manipulateur idéologique"
- owb_cultural_advisor_ideological_manipulator_desc:0 "Le manipulateur idéologique est capable d'exploiter les croyances et les rêves du noyau démographique de la nation, mais il y parviendra invariablement en se tournant vers des groupes démographiques plus petits, qui à leur tour cesseront de soutenir la nation dans son ensemble."
- david:0 "David Toreen"
- wallace:0 "Wallace Regdan"
- owb_cultural_advisor_national_strategist:0 "Stratège national"
- owb_cultural_advisor_national_strategist_desc:0 "Le stratège national est généralement un guerrier ou un général de haut rang qui se spécialise dans l'organisation non seulement des efforts militaires, mais aussi du haut commandement militaire."
- sariah:0 "Sariah June"
- owb_cultural_advisor_supreme_strategist:0 "Stratège suprême"
- owb_cultural_advisor_supreme_strategist_desc:0 "Le stratège suprême est un stratège national de haut rang, auquel la plupart des hauts fonctionnaires font confiance et qu'ils aiment beaucoup pour le devoir qu'ils accomplissent dans les dangereuses Terres Désolées. Cependant, ses revendications se font souvent au détriment de l'élan politique et même du bien commun."
- paladin_ramos:0 "Paladin Ramos"
- paladin_fairbanks:0 "Paladin Fairbanks"
- owb_cultural_advisor_population_organizer:0 "Organisateur de la population"
- owb_cultural_advisor_population_organizer_desc:0 "Dans les Terres Désolées, la gestion des populations n'est pas une tâche simple. Elle implique que des hommes armés aillent faire le recensement, mesurer la quantité d'eau qu'une zone peut supporter et évaluer les menaces générales. Si elle n'est pas effectuée avec soin, une grande nation peut soudainement voir des pans entiers de sa population mourir de faim ou de soif."
- paladin_todd:0 "Paladin Todd"
- owb_cultural_advisor_population_micromanager:0 "Micromanager de la population"
- owb_cultural_advisor_population_micromanager_desc:0 "Le Micromanager de la population est l'évolution naturelle de l'Organisateur de la population. Il se concentre sur l'enregistrement efficace des personnes, la distribution de l'aide et la structuration civile globale. Malheureusement, il a tendance à isoler les personnes qui devraient être exclues du service, mais ils passent généralement inaperçus. Ceux qui sont trop jeunes, trop malades ou trop instables pour servir sont moins susceptibles de le faire sous leur surveillance."
- paladin_finley:0 "Paladin Finley"
- paladin_matiz:0 "Paladin Matiz"
- owb_cultural_advisor_recruitment_propagandist:0 "Propagandiste du recrutement"
- owb_cultural_advisor_recruitment_propagandist_desc:0 "Comme on peut s'y attendre, le propagandiste du recrutement se spécialise dans l'incitation des jeunes à s'engager et à se battre au nom de leur pays d'origine, souvent par le biais d'airs accrocheurs et d'éditoriaux émouvants."
- inquisitor_torland:0 "Maître inquisiteur Torland"
- owb_cultural_advisor_recruitment_driver:0 "Pilote de recrutement"
- owb_cultural_advisor_recruitment_driver_desc:0 "Un pilote de recrutement fait passer le recrutement au niveau supérieur, en s'appuyant fortement sur la pression financière et politique pour encourager les déportés à s'engager dans l'armée. Bien qu'immoral, personne ne peut nier qu'il est efficace."
- head_paladin_blair:0 "Chef Paladin Blair"
- paladin_jetson:0 "Paladin Jetson"
- inquisitor_abram:0 "Inquisiteur Abram"
- paladin_talso:0 "Paladin Talso"
- knight_boston:0 "Chevalier Boston"
- scout_cormac:0 "Éclaireur Paladin Cormac"
- knight_kamala:0 "Chevalier Kamala"
- raider_brute:0 "Brute"
- paladin_jakzin:0 "Paladin Jakzin"
- settlement_builder:0 "Constructeur de colonies"
- slave_flogger:0 "Flagellateur d'esclaves"
- black_paladin_landon:0 "Paladin Noir Landon"
- inquisitor_fritz:0 "Inquisiteur Fritz"
- WBH_military_theorist:0 "Chevalier Malorie"
- ITZ_clara_guzman:0 "Ti'huun Clara Guzmán"
- ITZ_nacom_agustin_rasgado:0 "Nacom Agustín Rasgado"
- man_of_community:0 "Personne de la Communauté"
- ITZ_tupil_lucas_aguinaldo:0 "Tupil Lucas Aguinaldo"
- economic_expert:0 "Expert économique"
- ITZ_armando_berganza:0 "Armando Berganza"
- ITZ_martin_arrabal:0 "Martín Arrabal"
- ITZ_carlos_franco:0 "Nacom Carlos Franco"
- ITZ_marino_arista:0 "Ti'huunan Marino Arista"
- settler_spymaster:0 "Maître espion"
- settler_military_industrial:0 "Lobbyiste des armes"
- settler_oldworld_infrastructure:0 "Infrastructure de l'ancien monde"
- settler_homestead_defence:0 "Défenseur du patrimoine"
- ITZ_montoya_tijerina:0 "Nacom Montoya Tijerina"
- ITZ_camila:0 "Almirante Camila"
- ITZ_mateo:0 "Almirante Mateo"
- ITZ_luis:0 "Almirante Luis"
- war_monger:0 "Marchand de guerre"
- friends_in_high_places:0 "Amis en haut lieu"
- scientific_devotion:0 "Dévotion scientifique"
- ITZ_perez:0 "Almirante Perez"
- tribal_ritualist:0 "Le gardien du rituel"
- ITZ_guillermo_gonzalez:0 "Guillermo González"
- kim_carrion:0 "Kimberly Carrión"
- dominic_unger:0 "Dominic Unger"
- juanita_flores:0 "Juanita Flores"
- rinaldo_martinez:0 "Rinaldo Martinez"
- pablo_jimenes:0 "Pablo Jimenez"
- leonardo_poblete:0 "Leonardo Poblete"
- senor_cromwell:0 "Senor Cromwell"
- leo_scarazzo:0 "Leo Scarazzo"
  tribal_trader:0 "Canaille"
  tribal_good_natured:0 "Bonne nature"
- maria_carlos:0 "Maria Carlos"
+
  daniel:0 "Daniel"
  daniel_desc:0 "Missionnaire dévoué, Daniel est doué pour les langues des tribus de l'Utah, et sa patience lui a valu la faveur des tribus et des commerçants des terres désolées. Daniel est un excellent choix pour nous aider à négocier entre les tribus et les commerçants."
  gifted_translator:0 "Traducteur doué"
- fio_orezzoli:0 "Fio Orezzoli"
+
  burnedman:0 "Joshua Graham"
  burnedman_desc:0 "Autrefois traducteur doué et mormon dévoué, Graham est tombé en mauvaise compagnie alors qu'il était loin de chez lui. Aujourd'hui, les temps ont changé, et Joshua est revenu chez nous."
- cesare_lopez:0 "Cesare Lopez"
- alejandro:0 "Alejandro"
- jacob_martinez:0 "Jacob Martinez"
- jacob_martinez_desc:0 "Né et élevé sur la rive nord du Rio Grande, Jacob était le troisième fils d'un baron des armes influent, l'un des nombreux qui parsemèrent le nord de la République. Son père l'a négligé, le poussant sur un chemin différent de celui de ses frères, loin de l'entreprise familiale et de la politique. Peut-être son père avait-il espéré l'utiliser comme lobbyiste, mais lorsque Jacob a été élu député, il avait depuis longtemps rompu les liens avec sa famille."
- gaius_aetius:0 "Gaius Aetius"
- gaius_aetius_desc:0 "Anciennement l'un des meilleurs subordonnés de Paullus, Gaius s'est déshonoré en tombant amoureux d'une locale, se faisant passer pour un sympathisant. Sa punition était de voir ses camarades massacrer la population locale. Paullus, dans son orgueil, avait oublié à qui il avait affaire. Dans un spectacle époustouflant de prouesses martiales, Gaius a exécuté la décimation inverse sur ses ravisseurs, s'échappant avec sa vie et l'amour de celle-ci. Fuyant vers la République, il a juré de tourner le dos à la barbarie et de devenir un homme honnête."
- amelia_martinez:0 "Amelia Martinez"
- amelia_martinez_desc:0 "Ne l'embêtez pas. Elle va vous couper."
- justin_walton:0 "Justin Walton"
- southern_hummingbird:0 "Southern Hummingbird"
- southern_hummingbird_desc:0 "Un transfuge de la cour d'Aztlan, Southern Hummingbird croit que le Sixième Soleil n'a pas besoin de sacrifices sur un autel sanglant ; il a besoin d'un peuple uni autour d'un chef aussi grand que Mora."
- RRG_martinez:0 "Admiralante Martinez"
- carlos_avila:0 "Carlos Avila"
- carlos_avila_desc:0 "Vieille garde de part en part, Carlos Avila est une goule qui a tout vu. Il travaille pour la République depuis 200 ans et l'expérience qu'il a accumulée lui permet de prédire les événements avec une grande perspicacité. Nombreux sont ceux qui plaisantent en disant que son dévouement contre nature à ses diverses fonctions au fil des ans montre qu'il est devenu sauvage : mais en vérité, sa loyauté féroce envers la République est peut-être tout ce qui le garde sain d'esprit."
- high_noon_inc:0 "High Noon Arms"
- high_noon_inc_desc:0 "Considéré comme une branche moins importante de l'une des principales dynasties de l'A.T.A., la famille McCree, High Noon Arms a longtemps opéré dans l'ombre de ses sociétés mères. Malgré son profil bas, cependant, il est responsable de certaines des armes légères les plus performantes de l'A.T.A.. En mettant l'accent sur les conceptions qui réduisent le temps de production, les gens de High Noon prennent plus de temps sur la planche à dessin, mais compensent sur le plancher de l'usine."
- xiuhcoatl_inc:0 "Xiuhcoatl Industries"
- xiuhcoatl_inc_desc:0 "Xiuhcoatl Industries, du nom d'un projet d'armement légendaire de l'avant-guerre, se spécialise dans la conception sur mesure pour la tâche à accomplir. Ils opèrent à Moncolva depuis 2235, et ont accumulé un grand nombre de designers talentueux au cours des années qui ont suivi. Leurs méthodes de production sont plus lentes que celles de leurs concurrents, mais leurs résultats sont indéniablement supérieurs."
- maximilian:0 "Maximilien"
- maximilian_desc:0 "Maximilien est d'abord un politicien avant tout ; si vous deviez dire qu'il excellait à quoi que ce soit, ce serait exciter les gens à ses côtés. Malheureusement, il a tendance à faire des promesses coûteuses pour obtenir un tel soutien."
- bumbling_politician_trait:0 "Politicien Maladroit"
- zapata:0 "Zapata"
- zapata_desc:0 "Zapata est un révolutionnaire dans l'âme, sa première préoccupation étant que le travailleur soit bien nourri et qu'il ait des usines gouvernementales utiles à exploiter au profit de l'État et de son peuple. Malheureusement, cela ne laisse pas autant de corps aptes pour les militaires."
- revolutionary_farmer_trait:0 "Fermier Révolutionnaire"
- moctezuma:0 "Moctezuma"
- moctezuma_desc:0 "Moctezuma est un guerrier sanguinaire assoiffé de sang, d'héritage mexicain ancien, et qui a pratiquement envie de se battre avec les ennemis de Tlaloc. Malheureusement, sa propension au sacrifice rituel est à la fois mauvaise pour la santé des gens et pour leur opinion du gouvernement."
- ancient_warmonger_trait:0 "Ancien Belliciste"
- tla_defensive_subroutine:0 "Sous-routine défensive"
- tla_aggressive_subroutine:0 "Sous-routine offensive"
+
+ abraham:0 "Abraham Horres"
+ abraham_desc:0 "Envoyé comme missionnaire dans une tribu en Arizona, la tribu avec laquelle il a était massacrée par la Légion. Fuyant à Canaan, il vit de première main ce que la Légion pouvait faire. Sachant qu'ils finiraient par venir pour New Canaan, il a passé ses années à construire un soutien pour diffuser la parole de Dieu au monde par la force."
+ unrelenting_crusader:0 "Croisé implacable"
+
+ matthew:0 "Matthew Green"
+ matthew_desc:0 "Un homme paisible, Matthew Green était un disciple dévot de Dieu. Envoyé à Ires pour essayer de soulager les tensions entre les mormons et les catholiques et essayer de former une alliance entre nos peuples. Après beaucoup de succès, il retourna à New Canaan un pacifiste complet, voyant de première main que la volonté de Dieu était celle de la paix."
+ peace_mission:0 "Missionnaire pacifique"
+
+ eden:0 "Eden Dent"
+ eden_desc:0 "Un médecin doué, Eden est l'un des meilleurs experts médicaux de New Canaan. Bien que Mormon elle-même, elle n'est pas d'accord avec la politique de New Canaan de convertir les tribus les moins instruites à la volonté de Dieu, la considérant comme une manipulation plutôt que comme un salut."
+ calm_doc:0 "Docteur en conflit"
+
+ aaron:0 "Aaron Grant"
+ aaron_desc:45 "Le fabricant d'armes de New Canaan, Aaron, est le quartier général de facto de New Canaan. Expert dans le pistolet de calibre .45, il crée presque toutes les armes utilisées par les soldats de New Canaan."
+ quatermaster_45:0 "Quartier-maître mormon"
+
+ waking_cloud:0 "Réveiller le nuage"
+ waking_cloud_desc:0 "Un converti tribal des Douleurs, Waking Cloud était l'un des premiers Sorrows convertis par Daniel. En tant que sage-femme pour les Sorrows, elle se soucie beaucoup de la tribu et de leur culture tout en adoptant le mode de vie mormon."
+ coming_convert:0 "Convertisseur"
+
+ gideon:0 "Gideon Maywater"
+ gideon_desc:0 "Expert en tactique et en entraînement, Gideon est un instructeur mormon pour leur armée. Pendant qu'il forme les soldats de New Canaan, il refuse de former quiconque en dehors de New Canaan, en particulier les tribus. Craignant que, s'ils connaissaient leurs tactiques, ils puissent être utilisés contre eux."
+ mormon_militia:0 "Maître du Seigneur"
+
+ mountain_hawk:0 "Faucon de montagne"
+ mountain_hawk_desc:0 "Un tribal Dead Horse, Mountain Hawk est l'un des anciens de la tribu. Partageant sa sagesse avec ceux qui sont en dessous de lui, il se méfie de New Canaan, sachant ce que leurs missionnaires ont fait aux tribus dans le passé. Bien qu'il soit en forme par rapport à la plupart des tribus, il n'a pas perdu son avantage."
+ gods_warrior:0 "Guerrier de Dieu"
+#### Eighties
  grabber_advisor:0 "Shotgun Webster"
  grabber_advisor_desc:80 "L'ancien chef des Grabbers a trouvé un nouveau régime avec les Eighties"
  furiosa:0 "Furiosa"
@@ -465,11 +465,161 @@
  davison:0 "Driver Davison"
  EHT_soldiers_grabbers:0 "Les artisans de New Hammond sont partis à la guerre"
  EHT_civilians_grabbers:0 "Asservir le peuple"
+
+
+
+ rushing_wind:0 "Vent pressant"
+ rushing_wind_desc:0 "Un converti tribal des Tar Walkers, Rushing Wind est l'un des morceaux de fierté de New Canaan. Maintenant un citoyen à part entière avec presque aucun lien avec son ancienne tribu, il est un pieux mormon et un exemple que n'importe qui peut suivre la volonté de Dieu."
+ tribal_mormon:0 "Tribal Mormon"
+
+ joel:0 "Joel Harnigan"
+ joel_desc:0 "Joel est un prêtre mormon qui croit fermement que New Canaan est la terre sainte. Il croit qu'il n'y a aucune raison de gaspiller les personnes de Dieu en expansion alors que la terre sainte a déjà été établie. Il soutient la défense de New Canaan à tout prix et ne ferait qu'élargir la terre sainte si cela ne coûtait pas la vie des gens de Dieu."
+ defender_priest:0 "Prêtre défenseur"
+
+ david:0 "David Toreen"
+ david_desc:0 "Ancien membre des Desert Rangers, David a déménagé à New Canaan pour enseigner aux mormons les stratégies des Rangers. Bien qu’initialement méfiant, il a gagné sa place en tant que membre de New Canaan."
+ mormon_ranger:0 "Rangers mormons"
+
+ wallace:0 "Wallace Regdan"
+ wallace_desc:0 "Pour un homme qui passe tout son temps dans l'eau, Wallace ne s'en est jamais lassé. Utilisant ses bateaux pour traverser le grand lac salé, il rêve d'un temps où il est fréquent que les gens utilisent les bateaux et les voies navigables autant que New Canaan compte sur les routes. Il espère que ce jour viendra bientôt."
+ mormon_navy_buff:0 "Voyageur de Salt Lake"
+
+ sariah:0 "Sariah June"
+ sariah_desc:0 "Sariah, une dévote Mormon, n'a jamais été la femme mormone traditionnelle. Dès son plus jeune âge, sa passion pour le vol a contrôlé sa vie. À partir du moment où elle est devenue adulte, elle s'est consacrée à la création de la force aérienne de New Canaan."
+ mormon_air_buff:0 "Ailes sacrées"
+
+ paladin_ramos:0 "Paladin Ramos"
+ paladin_ramos_desc:0 "Paladin Ramos a longtemps servi la Confrérie en tant que chef de la sécurité dans la section Mojave. Il ne connaît que la loyauté envers la cause et les idéaux de la Confrérie."
+
+ paladin_hardin_advisor:0 "Chef paladin Hardin"
+ paladin_hardin_advisor_desc:0 "Le chef paladin Edgar Hardin est membre de la Confrérie de l'Acier des terres dévastées de Mojave, il montre une loyauté divine à la Confrérie. Il est connu pour son attitude non sensuelle et sa moralité de donner à chacun une chance de faire ses preuves et de se rendre mieux."
+
+ paladin_sato:0 "Paladin Sato"
+ paladin_sato_desc:0 "Paladin Sato est un membre de longue date de la Confrérie. Il a gravi les échelons pour devenir paladin et est maintenant considéré comme un expert dans le domaine des armes."
+
+ paladin_fairbanks:0 "Paladin Fairbanks"
+
+ knight_torres:0 "Chevalier Torres"
+
+ scout_sierra:0 "Chevalier Sierra"
+ scout_sierra_desc:0 "Sierra est un éclaireur qui a grandi au service de la Confrérie. Après un entraînement et une initiation exténuante, elle a gravi les échelons avant de devenir éclaireuse."
+
+ paladin_todd:0 "Paladin Todd"
+
+ scribe_taggart:0 "Chef scribe Taggart"
+
+ paladin_finley:0 "Paladin Finley"
+
+ paladin_matiz:0 "Paladin Matiz"
+
+ head_paladin_richardson:0 "Chef paladin Richardson"
+
+ paladin_myers:0 "Senior Paladin Myers"
+
+ scribe_perez:0 "Scribe Perez"
+
+ paladin_moore:0 "Paladin Moore"
+
+ knight_watson:0 "Chevalier Watson"
+
+ scout_davies:0 "Scout Davies"
+
+ knight_simmons:0 "Chevalier Simmons"
+
+ scribe_dyson:0 "Chef Scribe Dyson"
+
+ paladin_myers_advisor:0 "Paladin Myers"
+
+ journeyman_fritz:0 "Compagnon fritz"
+
+ inquisitor_torland:0 "Maître inquisiteur Torland"
+
+ head_paladin_blair:0 "Chef Paladin Blair"
+
+ paladin_jetson:0 "Paladin Jetson"
+
+ inquisitor_abram:0 "Inquisiteur Abram"
+
+ paladin_talso:0 "Paladin Talso"
+
+ knight_boston:0 "Chevalier Boston"
+
+ scout_cormac:0 "Éclaireur Paladin Cormac"
+
+ knight_kamala:0 "Chevalier Kamala"
+
+ paladin_jakzin:0 "Paladin Jakzin"
+
+ black_paladin_landon:0 "Paladin Noir Landon"
+
+ inquisitor_fritz:0 "Inquisiteur Fritz"
+
+ WBH_military_theorist:0 "Chevalier Malorie"
+
+  #Itza
+ ITZ_clara_guzman:0 "Ti'huun Clara Guzmán"
+ ITZ_nacom_agustin_rasgado:0 "Nacom Agustín Rasgado"
+ ITZ_tupil_lucas_aguinaldo:0 "Tupil Lucas Aguinaldo"
+ ITZ_armando_berganza:0 "Armando Berganza"
+ ITZ_martin_arrabal:0 "Martín Arrabal"
+ ITZ_carlos_franco:0 "Nacom Carlos Franco"
+ ITZ_marino_arista:0 "Ti'huunan Marino Arista"
+ ITZ_montoya_tijerina:0 "Nacom Montoya Tijerina"
+ ITZ_camila:0 "Almirante Camila"
+ ITZ_mateo:0 "Almirante Mateo"
+ ITZ_luis:0 "Almirante Luis"
+ ITZ_perez:0 "Almirante Perez"
+ ITZ_guillermo_gonzalez:0 "Guillermo González"
+
+  #RRG
+ kim_carrion:0 "Kimberly Carrión"
+ dominic_unger:0 "Dominic Unger"
+ juanita_flores:0 "Juanita Flores"
+ rinaldo_martinez:0 "Rinaldo Martinez"
+ pablo_jimenes:0 "Pablo Jimenez"
+ leonardo_poblete:0 "Leonardo Poblete"
+ senor_cromwell:0 "Senor Cromwell"
+ leo_scarazzo:0 "Leo Scarazzo"
+ maria_carlos:0 "Maria Carlos"
+ fio_orezzoli:0 "Fio Orezzoli"
+ cesare_lopez:0 "Cesare Lopez"
+ alejandro:0 "Alejandro"
+ jacob_martinez:0 "Jacob Martinez"
+ jacob_martinez_desc:0 "Né et élevé sur la rive nord du Rio Grande, Jacob était le troisième fils d'un baron des armes influent, l'un des nombreux qui parsemèrent le nord de la République. Son père l'a négligé, le poussant sur un chemin différent de celui de ses frères, loin de l'entreprise familiale et de la politique. Peut-être son père avait-il espéré l'utiliser comme lobbyiste, mais lorsque Jacob a été élu député, il avait depuis longtemps rompu les liens avec sa famille."
+ gaius_aetius:0 "Gaius Aetius"
+ gaius_aetius_desc:0 "Anciennement l'un des meilleurs subordonnés de Paullus, Gaius s'est déshonoré en tombant amoureux d'une locale, se faisant passer pour un sympathisant. Sa punition était de voir ses camarades massacrer la population locale. Paullus, dans son orgueil, avait oublié à qui il avait affaire. Dans un spectacle époustouflant de prouesses martiales, Gaius a exécuté la décimation inverse sur ses ravisseurs, s'échappant avec sa vie et l'amour de celle-ci. Fuyant vers la République, il a juré de tourner le dos à la barbarie et de devenir un homme honnête."
+ amelia_martinez:0 "Amelia Martinez"
+ amelia_martinez_desc:0 "Ne l'embêtez pas. Elle va vous couper."
+ justin_walton:0 "Justin Walton"
+ southern_hummingbird:0 "Southern Hummingbird"
+ southern_hummingbird_desc:0 "Un transfuge de la cour d'Aztlan, Southern Hummingbird croit que le Sixième Soleil n'a pas besoin de sacrifices sur un autel sanglant ; il a besoin d'un peuple uni autour d'un chef aussi grand que Mora."
+ RRG_martinez:0 "Admiralante Martinez"
+ carlos_avila:0 "Carlos Avila"
+ carlos_avila_desc:0 "Vieille garde de part en part, Carlos Avila est une goule qui a tout vu. Il travaille pour la République depuis 200 ans et l'expérience qu'il a accumulée lui permet de prédire les événements avec une grande perspicacité. Nombreux sont ceux qui plaisantent en disant que son dévouement contre nature à ses diverses fonctions au fil des ans montre qu'il est devenu sauvage : mais en vérité, sa loyauté féroce envers la République est peut-être tout ce qui le garde sain d'esprit."
+ high_noon_inc:0 "High Noon Arms"
+ high_noon_inc_desc:0 "Considéré comme une branche moins importante de l'une des principales dynasties de l'A.T.A., la famille McCree, High Noon Arms a longtemps opéré dans l'ombre de ses sociétés mères. Malgré son profil bas, cependant, il est responsable de certaines des armes légères les plus performantes de l'A.T.A.. En mettant l'accent sur les conceptions qui réduisent le temps de production, les gens de High Noon prennent plus de temps sur la planche à dessin, mais compensent sur le plancher de l'usine."
+ xiuhcoatl_inc:0 "Xiuhcoatl Industries"
+ xiuhcoatl_inc_desc:0 "Xiuhcoatl Industries, du nom d'un projet d'armement légendaire de l'avant-guerre, se spécialise dans la conception sur mesure pour la tâche à accomplir. Ils opèrent à Moncolva depuis 2235, et ont accumulé un grand nombre de designers talentueux au cours des années qui ont suivi. Leurs méthodes de production sont plus lentes que celles de leurs concurrents, mais leurs résultats sont indéniablement supérieurs."
+  ######Tlaloc
+ maximilian:0 "Maximilien"
+ maximilian_desc:0 "Maximilien est d'abord un politicien avant tout ; si vous deviez dire qu'il excellait à quoi que ce soit, ce serait exciter les gens à ses côtés. Malheureusement, il a tendance à faire des promesses coûteuses pour obtenir un tel soutien."
+ bumbling_politician_trait:0 "Politicien Maladroit"
+ zapata:0 "Zapata"
+ zapata_desc:0 "Zapata est un révolutionnaire dans l'âme, sa première préoccupation étant que le travailleur soit bien nourri et qu'il ait des usines gouvernementales utiles à exploiter au profit de l'État et de son peuple. Malheureusement, cela ne laisse pas autant de corps aptes pour les militaires."
+ revolutionary_farmer_trait:0 "Fermier Révolutionnaire"
+ moctezuma:0 "Moctezuma"
+ moctezuma_desc:0 "Moctezuma est un guerrier sanguinaire assoiffé de sang, d'héritage mexicain ancien, et qui a pratiquement envie de se battre avec les ennemis de Tlaloc. Malheureusement, sa propension au sacrifice rituel est à la fois mauvaise pour la santé des gens et pour leur opinion du gouvernement."
+ ancient_warmonger_trait:0 "Ancien Belliciste"
+
+ tla_defensive_subroutine:0 "Sous-routine défensive"
+ tla_aggressive_subroutine:0 "Sous-routine offensive"
  tla_organisation_subroutine:0 "Sous-routine d'organisation"
  tla_robotic_subroutine:0 "Sous-routine de Robotique"
  tla_organic_subroutine:0 "Sous-routine Organique"
  tla_experimental_subroutine:0 "Sous-routine Expérimentale"
  tla_aerodynamic_subroutine:0 "Sous-routine Aérodynamique"
+
+  #VLT
  vlt_ghoul_cultural_kildog:0 "Kildog"
  vlt_ghoul_cultural_rumbleeye:0 "Rumbleeye"
  vlt_ghoul_cultural_rog:0 "Rog"
@@ -487,7 +637,10 @@
  vlt_ghoul_chief_asqot:0 "Asqot"
  vlt_mutant_chief_bugs:0 "Bugs"
  vlt_mutant_chief_slime:0 "Slime"
+
  scout_ambrosone:0 "Scout Ambrosone"
+
+  # JCT
  doctor_henry: "Docteur Henry"
  doctor_henry_desc: "L'un des meilleurs médecins des Terres Désolées, le docteur Henry a exprimé un vif intérêt pour aider à résoudre le problème de la schizophrénie nocturne."
  doctor_henry_trait: "Médecin expert"

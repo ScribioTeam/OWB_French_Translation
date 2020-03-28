@@ -1,7 +1,11 @@
 ﻿l_french:
+
+ #Decision Categories
  KHA_drug_trade_category:0 "Les Rois du Trafic de Drogue"
  KHA_slaver_category:0 "Décisions d'esclaves"
  KHA_diplomatic_options:0 "Diplomatie"
+
+ #decisions
  KHA_drug_run_to_fiends_renewal:0 "Course aux Monstres de la Drogue"
  KHA_drug_run_to_fiends_renewal_desc:0 "Courir aux Monstres de la Drogue"
  KHA_drugged_up:0 "Drogué"

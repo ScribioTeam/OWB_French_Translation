@@ -6,47 +6,61 @@
  NCR_MOJ_border_war.1.c:0 "Fiez-vous uniquement à nos troupes."
  NCR_MOJ_border_war.1_tt:0 "§Y Si la Confrérie du Mojave choisit de faire face à l'attaque: §! \n"
  NCR_MOJ_border_war.1_tt_2:0 "§Y Si la Confrérie du Mojave choisit de se retirer: §! \n"
+
  NCR_MOJ_border_war.2.t:0 "La RNC lance l'offensive"
  NCR_MOJ_border_war.2.d:0 "La RCN n’a pas l’intention de nous laisser grandir sans plus de confrontations. Nos éclaireurs ont repéré de grandes concentrations de troupes de la RNC à l’intérieur du Mojave et ils semblent prêts à mener une campagne imminente contre nous."
  NCR_MOJ_border_war.2.a:0 "Parer l'attaque avec tous les moyens possibles!"
  NCR_MOJ_border_war.2.b:0 "Retraite dans l'isolationnisme."
+
  NCR_MOJ_border_war.3.t:0 "Retraite de la Confrérie"
  NCR_MOJ_border_war.3.d:0 "En découvrant notre offensive planifiée grâce aux rapports de leurs éclaireurs, la Confrérie du Mojave a retiré ses troupes plus loin dans Hidden Valley. Bien qu'ils aient évité de se battre avec nous, leur lâche retraite montre au Mojave que la RNC est désormais la véritable force responsable de la région."
  NCR_MOJ_border_war.3.a:0 "Lâches!"
+
  NCR_MOJ_border_war.4.t:0 "Victoire contre la Confrérie"
  NCR_MOJ_border_war.4.d:0 "Notre engagement à mettre en déroute les troupes de la Confrérie a été un succès, du moins pour le moment. En dépit d’obtenir des informations sur l’attaque, la Confrérie a décidé de faire face à nos forces et ont été détruits lors de nos feux croisés. Cela réduira probablement leur moral pour se battre à l'avenir."
  NCR_MOJ_border_war.4.a:0 "Et à juste titre!"
+
  NCR_MOJ_border_war.5.t:0 "La Confrérie repousse l'Attaque"
  NCR_MOJ_border_war.5.d:0 "Ayant obtenu des informations sur nos projets de lancer une offensive au préalable, les troupes de la confrérie ont été préparées et ont dû faire face à notre attaque. Les troupes que nous avions réussi à rassembler dans cette région, où notre pouvoir est faible, étaient insuffisantes pour vaincre les forces de la Confrérie. \n Surtout, l'attaque a été retournée contre nous et considérée comme un signe de la récupération des troupes de la Fraternité après leur longue retraite."
  NCR_MOJ_border_war.5.a:0 "Cela ne les aidera pas à long terme."
+
  NCR_MOJ_border_war.6.t:0 "Défaite contre la RNC"
  NCR_MOJ_border_war.6.d:0 "Malgré tous nos efforts pour repousser l'attaque des troupes rassemblées localement en faveur du gouvernement de la RNC, nos préparatifs étaient insuffisants pour l'arrêter. Avec des pertes significatives, nous avons été forcés de faire un nouveau recul, même si celui-ci était plus court. \n \n Contrer les étrangers avant que nous ayons complètement récupéré pourrait avoir été une erreur. Notre magnifique rétablissement de la longue marche a redonné espoir à nos partisans, mais maintenant, les graines du doute ont été semées."
  NCR_MOJ_border_war.6.a:0 "Nous allons récupérer et gagner la foi du peuple à nouveau."
+
  NCR_MOJ_border_war.7.t:0 "Victoire contre la RNC"
  NCR_MOJ_border_war.7.d:0 "Repousser l'offensive de la RNC a été en notre faveur. Les troupes assemblées localement envoyées pour affronter les troupes de la Confrérie n'étaient pas préparées à notre connaissance de l'attaque imminente et ont été défaites, toutes servant d'avertissement aux seigneurs de guerres proches que nous attaquer peut-être coûteux. \n\n Les étrangers ont seulement prouvé qu'ils nous sous-estimaient en tant qu'ennemi et que la République populaire était à nouveau en hausse."
  NCR_MOJ_border_war.7.a:0 "Le pouvoir politique sort du canon d'un fusil."
+
  NCR_MOJ_border_war.8.t:0 "Affrontement avec les guérillas de la Confrérie"
  NCR_MOJ_border_war.8.d:0 "Avec à la fois nous et les troupes de fraternité ayant à peine récupéré de notre précédente offensive, notre présence mutuelle de troupes à proximité de la frontière a relancé le conflit. En plus des seigneurs de guerres et des milices locales, nous avons envisagé d’emmener plus de troupes d’ailleurs. \n\n Même si cela ne nous donne peut-être pas la possibilité d’écraser la menace de la Confrérie une fois pour toutes, ce serait une victoire idéologique importante de montrer qu’ils ne seront pas autorisés à se développer davantage."
  NCR_MOJ_border_war.8.a:0 "Nous devons tracer la ligne maintenant!"
  NCR_MOJ_border_war.8.b:0 "Nous ne pouvons pas nous permettre une autre confrontation."
+
  NCR_MOJ_border_war.9.t:0 "Défaite dans [From.GetName]"
  NCR_MOJ_border_war.9.d:0 "Malgré nos efforts pour montrer que la Confrérie ne sera pas autorisé à étendre son influence en dehors de l'endroit où elle s'est réfugié, nous ne pouvions pas nous permettre d'engager suffisamment de ressources pour gagner le conflit le long de la frontière [From.GetName]. \n\n Les conflits sporadiques avec les milices de la Confrérie ont manifestés de plus en plus en leur faveur, ce qui a finalement empêché la campagne de démontrer que la situation était sous contrôle. Si leur force ne cesse d’augmenter, la Confrérie pourrait se révéler être une véritable menace."
  NCR_MOJ_border_war.9.a:0 "Troublant"
+
  NCR_MOJ_border_war.10.t:0 "Victoire dans [From.From.GetName]"
  NCR_MOJ_border_war.10.d:0 "Après un certain nombre de petites rencontres à la périphérie de notre territoire contrôlé, le conflit avec la RNC semble avoir tourné à notre avantage. Bien que le maintien d’une pression constante ait pesé sur nos troupes et nos approvisionnements, l’effort en a valu la peine. \n\n Pas de batailles décisives ont eu lieu, nous avons remporté une lente victoire cette fois, ce qui a renforcé la confiance en notre cause et attisé les flammes de la révolution encore une fois."
  NCR_MOJ_border_war.10.a:0 "Ce ne sera pas vite oublié!"
+
  NCR_MOJ_border_war.11.t:0 "Défaite dans [From.GetName]"
  NCR_MOJ_border_war.11.d:0 "Nos efforts pour mener une guerre indirecte contre la présence accrue de RNC se sont révélés désastreux. Les étrangers étaient simplement plus déterminés à nous repousser que nous le pensions, peut-être en s’attendant à l’impact que cet échec aurait sur notre réputation. Bien que notre armée soit à nouveau en sécurité, pour l’instant, les pertes n’ont pas échappé aux autres chapitres et les récits de nos échecs ont été largement diffusés."
  NCR_MOJ_border_war.11.a:0 "La révolution est loin d'être morte!"
+
  NCR_MOJ_border_war.12.t:0 "Victoire dans [From.From.GetName]"
  NCR_MOJ_border_war.12.d:0 "Nos efforts pour tracer la ligne contre la menace de la Confrérie ont été couronnés de succès. Les campagnes de guérilla de la Confrérie du Mojave en réponse à notre présence accrue de troupes dans les régions entourant leur base n’ont pas anticipé notre détermination à les arrêter. Cette démonstration de force a ruiné la réputation de la Confrérie dans le Mojave et amélioré la nôtre."
  NCR_MOJ_border_war.12.a:0 "Espérons qu'ils s'en souviendront."
+
  NCR_MOJ_border_war.13.t:0 "Affrontement avec l'armée de la RNC"
  NCR_MOJ_border_war.13.d:0 "Bien que nous ayons encore à peine récupéré de leur précédente offensive, les étrangers semblent accroître leur présence dans les zones proches de notre frontière. De toute évidence, ils essaient de montrer qu’ils nous ont à nouveau contenus et que nos tentatives de combattre la RNC n’ont fait que retarder leur dernière attaque contre la Confrérie du Mojave. Nous ne pouvons pas laisser les gens penser que c'est vrai."
  NCR_MOJ_border_war.13.a:0 "Nous ne pouvons pas nous permettre de passer notre temps à récupérer."
+
  NCR_MOJ_border_war.14.t:0 "Victoire dans le Mojave"
  NCR_MOJ_border_war.14.d:0 "Bien que la campagne ait été difficile, nous avons finalement ramené la Confrérie du Mojave dans Hidden Valley et nous contrôlons fermement une partie importante du Mojave. C'est une grande victoire pour la république."
  NCR_MOJ_border_war.14.a:0 "La victoire est à nous!"
+
  NCR_MOJ_border_conflict_initiate_incident:0 "Incident de scène à la frontière de [From.From.GetName]"
  NCR_mojave_campaign:0 "La campagne du Mojave"
  NCR_mojave_campaign_desc:38 "Après le massacre de 38 citoyens de la RNC aux mains des pillards du Mojave la même année, nous devons agir pour protéger notre peuple dans le désert dangereux qu'est le Mojave. D'après les informations recueillies par nos équipes de scouts, non seulement les pillards occupent cette terre. Il semble que la grande ville d'avant-guerre Vegas soit remarquablement intacte, relativement épargnée par la grande guerre. Un chapitre de la Confrérie semble également contrôler une centrale électrique d'avant-guerre appelée "HELIOS One". Et ils ne semblent pas désireux de le partager avec nous. Les vaincre ne sera pas facile, nous avons été incapables de découvrir leur base, nous obligeant à les repousser une bataille à la fois."

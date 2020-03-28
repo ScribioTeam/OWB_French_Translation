@@ -1,13 +1,16 @@
 ﻿l_french:
+ # decisions
  hea_conversion:0 "Convertir les infidèles"
  hea_conversion_desc:0 "Les gens autour de nous ne sont pas éclairés aux yeux du seigneur. Nous devons envoyer nos missionnaires pour convertir ces pécheurs là où ils vivent, et lentement notre influence et l'influence du seigneur se répandront."
  hea_slow_conversion:0 "Mission de conversion vers [From.GetNameDef]"
+
  hea_inquisition:0 "Envoyer les inquisiteurs vers [From.GetNameDef]"
+
  hea_bind_to_us:0 "Liez [From.GetNameDef] à nous!"
  hea_bind_to_us_desc:0 "Nos missions de conversion ont fait leur travail, et maintenant, tout [From.GetNameDef] a été converti en adoration de Dieu tout-puissant. Il est temps de les rapprocher de nous et de nous rejoindre."
+
+ # tooltips
  hea_converted_state_tt:0 "L'état sera converti"
- hea_converted_all_tt:0 "Chaque état qu'ils possèdent a été converti par nous"
- hea_not_converted_all_tt:0 "Nous n'avons pas converti chaque état"
  hea_not_converted_state_tt:0 "Nous n'avons pas converti un état qu'ils possèdent"
  hea_convert_state_tt:0 "Nous avons converti tout ou partie de leurs états."
  hea_bind_to_us_attempt_tt:0 "Nous allons essayer de lier leur état aux nôtres !"
