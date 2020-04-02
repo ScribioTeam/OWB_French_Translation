@@ -37,6 +37,11 @@
   Infantry_short:0 "Infantry"
   Infantry_desc:0 ""
 
+ # Infantry
+  heavy_infantry:0 "Enforcers"
+  heavy_infantry_short:0 "Enforcers"
+  heavy_infantry_desc:0 ""
+
   dog_infantry:0 "Warhound Platoon"
   dog_infantry_short:0 "Warhounds"
   dog_infantry_desc:0 "Let slip the dogs of war"

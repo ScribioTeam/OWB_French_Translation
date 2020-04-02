@@ -1,11 +1,17 @@
 ﻿l_english:
 
   # gamerules
-  RULE_AREA_51_EASTER_EGG_TOGGLE:0 "Area 51"
-  RULE_AREA_51_EASTER_EGG_TOGGLE_ENABLED:0 "Special treat enabled"
-  RULE_AREA_51_EASTER_EGG_TOGGLE_ENABLED_DESC:0 "Let us see if anybody can find out what this actually does."
-  RULE_AREA_51_EASTER_EGG_TOGGLE_DISABLED:0 "Special treat disabled"
-  RULE_AREA_51_EASTER_EGG_TOGGLE_DISABLED_DESC:0 "Let us see if anybody can find out what this actually does."
+  RULE_AREA_51_EASTER_EGG_TOGGLE:0 "Area 51: New Plague"
+  RULE_AREA_51_EASTER_EGG_TOGGLE_ENABLED:0 "Event option enabled"
+  RULE_AREA_51_EASTER_EGG_TOGGLE_ENABLED_DESC:0 "The New Plague can occur as a result of Area 51 exploring."
+  RULE_AREA_51_EASTER_EGG_TOGGLE_DISABLED:0 "Event option disabled"
+  RULE_AREA_51_EASTER_EGG_TOGGLE_DISABLED_DESC:0 "The New Plague can not occur as a result of Area 51 exploring."
+
+  RULE_AREA_51_COMMANDER_KEEN:0 "Area 51: SECRET"
+  RULE_AREA_51_COMMANDER_KEEN_TOGGLE_ENABLED:0 "SECRET enabled"
+  RULE_AREA_51_COMMANDER_KEEN_TOGGLE_ENABLED_DESC:0 "Good luck, you will need it."
+  RULE_AREA_51_COMMANDER_KEEN_TOGGLE_DISABLED:0 "SECRET disabled"
+  RULE_AREA_51_COMMANDER_KEEN_TOGGLE_DISABLED_DESC:0 "Wimp."
 
  # Ideas
   disease_origin: "Spawned the New Plague"
@@ -74,6 +80,15 @@
   area51_raid_events.10.a: "And There Was Much Rejoicing."
   area_51_disease_survivor: "Survived the New Plague"
 
+  area51_raid_events.11.title: "It was a trap!"
+  area51_raid_events.11.desc: "It turns out that Area 51 was not meant to protect riches from the outside world, but to protect the outside world from something within. As soon as the blast doors were broken into we were swarmed by a replicated robotic army led by a mysterious commander. This commander has no interest in diplomacy, fueled only by rage - like a demon wrought from hell itself to punish us for summoning it."
+  area51_raid_events.11.a: "WHAT HAVE WE DONE?!"
+
   area51_raid_events.80.t: "The New Plague"
   area51_raid_events.80.d: "[389.Owner.GetNameDef]'s subjects are apparently coming down with a new illness.  Nothing they can do seems to stop its progress, and it's spreading like wildfire through their lands.  Travellers report so many dead that bodies lie unburied on the streets. One merchant told us a companion seemed fine for days, and then collapsed overnight.  The poor man drowned in his own blood. Hopefully the disease won't come here."
   area51_raid_events.80.a: "Wait, that merchant has a fever..."
+
+  area51_raid_events.81.t: "GREETINGS EARTH MONKEYS"
+  area51_raid_events.81.d: ""YOUR FOREBEARS HAVE KEPT ME PRISONER IN THAT DREADED CAGE FOR ALMOST THREE HUNDRED OF YOUR EARTH-YEARS.\NTHANKFULLY, ONE OF YOU WAS STUPID ENOUGH TO LET ME GO. I WILL ENJOY REDUCING YOUR FAMILIES TO SUB-ATOMIC ASH AND CALLING UPON THE GREAT ARMADA SO YOUR OCEANS CAN BE DRAINED, STRONG AND MEEK ENSLAVED AND ZETAN RULERSHIP ESTABLISHED OVER THIS RUINED MUD-PITT.\NSIGNED COMMANDER K'EEN, OF THE ZETAN STAR ARMADA.""
+  area51_raid_events.81.a: "I don't want to be probed!"
+  area51_raid_events.81.b: "I thought that went well!"

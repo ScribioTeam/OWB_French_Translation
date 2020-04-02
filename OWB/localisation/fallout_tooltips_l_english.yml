@@ -68,7 +68,8 @@
 
   #Fuck he's here everybody get down
   riseofclaus:0 "§RThe Senator will evolve to his most powerful form yet and gain cores on his new domain.§!"
-  thelist1:0 "§G Senator Claus will check his list twice, and get a wargoal on all the naughty nations of the wasteland.§!"
-  thelist2:0 "§R You're ALL on the list.§!"
-
+  thelist1:0 "§GSenator Claus will check his list twice, and get a wargoal on all the naughty nations of the wasteland.§!"
+  thelist2:0 "§RYou're ALL on the list.§!"
+  claim_the_north_tt: "Grants §Y[This.GetNameDef]§! §Gclaims§! and §Gwargoals§! for the core territories of every country §Ynorth§! of §YWashington§!!"
+  own_the_north_tt: "All land §Ynorth§! of §YWashington§! is owned by §Y[This.GetNameDef]§!, their subjects, or their allies.\n"
   slavery_now_allowed_tt: "Additional §Rslavery laws§! are now available for [This.GetNameDef]."

@@ -169,3 +169,35 @@
 
   legion_gr_reduce_pop:0 "Reduce Manpower Available"
   legion_gr_reduce_pop_desc:0 ""
+
+  #######################
+  ##### TEMP LAC IDEA LOC
+  #######################
+
+  legion_nf_worthy_foe_2: "Worthy Foe"
+  legion_nf_worthy_foe_2_desc: ""
+
+  lac_nf_assert_hegemony: "Hegemony Over Colorado"
+  lac_nf_assert_hegemony_desc: ""
+
+  lac_nf_rio_hegemony: "Hegemony Over The Rio"
+  lac_nf_rio_hegemony_desc: ""
+
+  lac_nf_the_sword: "The Sword"
+  lac_nf_the_sword_desc: ""
+
+  lac_nf_the_pen: "The Pen"
+  lac_nf_the_pen_desc: ""
+
+  lac_nf_warriors_of_mars: "Warriors of Mars"
+  lac_nf_warriors_of_mars_desc: ""
+
+  lac_nf_caesar_legacy: "Caesar's Legacy"
+  lac_nf_caesar_legacy_desc: ""
+
+  lac_pen_tt: "§gYou feel like you've seen this pen before. Its ink looks at you expectantly, and you avert your eyes.§!"
+  lac_caesar_tt: "§gSomething grabs your wrist. Your blood demands caution: you play dumb. You realise Caesar was right beside you the whole time.§! §RHe's been screaming for months.§!"
+  lac_mars_tt: "§RA clap of thunder. The firmament screams. You see a red room, and Caesar is there. He's peering through a velvet curtain. He turns to look at you, and his eyes—§! §gSome ancient body chuckles with satisfaction...§!"
+  lac_ksr_tt: "§YLanius' Cohort§! teaches §YKaiser Wilhelm§! a lesson in Wasteland warfare—§Rthe hard way.§!"
+
+  lac_faction: "The New Empire"

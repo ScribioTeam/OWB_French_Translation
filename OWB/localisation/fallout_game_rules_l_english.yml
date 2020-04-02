@@ -250,11 +250,41 @@
   timelords.1.d:0 "A dull whirring, growing ever louder, was the first sign of the Doctor's arrival. Slowly, intoxicatingly, a blue box appeared out of thin air, phasing into and out of existence. It landed with a thump that reverberated around the Vault, boldly announcing its presence to all those who could hear it. Then, seconds later, a man stepped out, adjusting his bow tie as he did so. Behind him, a woman. The man paused, blinking as if to adjust to the dull light of the Vault, before his eyes slowly surveyed his landing ground. Obviously confused, he ventured a question: \"You wouldn't happen to know if this is Crespallion, would you?\". Overwatch Tock offered no reply. Instead, Tock slowly reached for his weapon, placed on the desk in front of him. \"Oh, I wouldn't do that if I were you\", the man from the box exclaimed. \"You see, I'm the Doctor. I'm a Time Lord. You might have heard of us?\" Sure enough, Tock had heard prophecies..."
   timelords.1.a:0 "He must be the God of the Clock!"
 
+  RULE_EVENTS_UFO_INVASION:0 "@UFO The Zetan Invasion!"
+  RULE_EVENTS_UFO_INVASION_ENABLED:0 "@UFO Enabled"
+  RULE_EVENTS_UFO_INVASION_ENABLED_DESC:0 "The Zetan Army lands in Area 51!"
+  RULE_EVENTS_UFO_INVASION_DISABLED:0 "@UFO Disabled"
+  RULE_EVENTS_UFO_INVASION_DISABLED_DESC:0 "The Zetan Star Armada chooses to wait a few centuries before launching their invasion of Earth."
+
+  RULE_EVENTS_KSR_KAISERS_RETURN:0 "£april_fools_kr_texticon  £april_fools_the_kaisers_return_texticon"
+  RULE_EVENTS_KSR_KAISERS_RETURN_ENABLED:0 "@CES Enabled"
+  RULE_EVENTS_KSR_KAISERS_RETURN_ENABLED_DESC:0 "Caesar decides to take a moment to relax. Whats the worst that could happen?"
+  RULE_EVENTS_KSR_KAISERS_RETURN_DISABLED:0 "@CES Disabled"
+  RULE_EVENTS_KSR_KAISERS_RETURN_DISABLED_DESC:0 "Caesar focuses on his job, he can rest after he takes the Dam."
+
+  RULE_EVENTS_MLP_HARMONY_AND_UNITY:0 "£april_fools_eaw_texticon  £april_fools_harmony_and_unity_texticon"
+  RULE_EVENTS_MLP_HARMONY_AND_UNITY_ENABLED:0 "@NCR Enabled"
+  RULE_EVENTS_MLP_HARMONY_AND_UNITY_ENABLED_DESC:0 "Some friendly visitors visit Shady Sands!"
+  RULE_EVENTS_MLP_HARMONY_AND_UNITY_DISABLED:0 "@NCR Disabled"
+  RULE_EVENTS_MLP_HARMONY_AND_UNITY_DISABLED_DESC:0 "The visitors decide to go back home before causing trouble."
+
   RULE_MISC_TLA_DEATH_SCREAM:0 "@TLA Tlaloc's Death Rattle"
   RULE_MISC_TLA_DEATH_SCREAM_ENABLED:0 "@TLA Enabled"
   RULE_MISC_TLA_DEATH_SCREAM_ENABLED_DESC:0 "Tlaloc will emit a final horrifying sound upon his death."
   RULE_MISC_TLA_DEATH_SCREAM_DISABLED:0 "@TLA Disabled"
   RULE_MISC_TLA_DEATH_SCREAM_DISABLED_DESC:0 "Tlaloc will not emit any audible final sounds upon his demise."
+
+  RULE_MAP_SETUP_EIGHTIES_STATUS:0 "@EHT Eighties"
+  RULE_MAP_SETUP_EIGHTIES_STATUS_DEFAULT:0 "@EHT Default"
+  RULE_MAP_SETUP_EIGHTIES_STATUS_DEFAULT_DESC:0 "The Eighties are whole at the start of the game."
+  RULE_MAP_SETUP_EIGHTIES_STATUS_BROKEN:0 "@NOE/@PSH/@WEN Broken"
+  RULE_MAP_SETUP_EIGHTIES_STATUS_BROKEN_DESC:0 "The Eighties are broken into their conquered states."
+
+  RULE_MAP_SETUP_WHITE_LEGS_STATUS:0 "@WHT White Legs"
+  RULE_MAP_SETUP_WHITE_LEGS_STATUS_DEFAULT:0 "@WHT Default"
+  RULE_MAP_SETUP_WHITE_LEGS_STATUS_DEFAULT_DESC:0 "The White Legs are whole at the start of the game."
+  RULE_MAP_SETUP_WHITE_LEGS_STATUS_BROKEN:0 "@WHT/@FRI Broken"
+  RULE_MAP_SETUP_WHITE_LEGS_STATUS_BROKEN_DESC:0 "The White Legs will coexist with Frisco Cities at game start."
 
   RULE_MAP_SETUP_LEGION_STATUS:0 "@CES Caesar's Legion"
   RULE_MAP_SETUP_LEGION_STATUS_DEFAULT:0 "@CES Default"
@@ -291,6 +321,12 @@
   RULE_MAP_SETUP_NCR_STATUS_DEFAULT_DESC:0 "The NCR is whole at the start of the game."
   RULE_MAP_SETUP_NCR_STATUS_BROKEN:0 "@NCR Broken"
   RULE_MAP_SETUP_NCR_STATUS_BROKEN_DESC:0 "The NCR is broken into its break away states."
+
+  RULE_MAP_SETUP_NCN_STATUS:0 "@NCN New Canaan"
+  RULE_MAP_SETUP_NCN_STATUS_DEFAULT:0 "@NCN Default"
+  RULE_MAP_SETUP_NCN_STATUS_DEFAULT_DESC:0 "New Canaan is whole at the start of the game."
+  RULE_MAP_SETUP_NCN_STATUS_BROKEN:0 "@BRI/@FAR Broken"
+  RULE_MAP_SETUP_NCN_STATUS_BROKEN_DESC:0 "New Canaan is split up as the Brigham Barons and the Farfield Warband."
 
   RULE_CAPS_SYSTEM_TOGGLE:0 "Caps System Toggle"
   RULE_CAPS_SYSTEM_TOGGLE_ENABLED:0 "Enable the Caps System"

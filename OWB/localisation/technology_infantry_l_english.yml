@@ -5,6 +5,7 @@
  # Header
  #----------------------------
   HEADER_INFANTRY_TRAINING:0 "Infantry Training"
+  HEADER_HEAVY_INFANTRY_EQUIPMENT:0 "Riot Control"
   HEADER_BALLISTIC_EQUIPMENT:0 "Ballistic Equipment"
   HEADER_ENERGY_EQUIPMENT:0 "Energy Equipment"
   HEADER_MELEE_WEAPONS:0 "Melee Weapons"
@@ -31,6 +32,16 @@
   unit_training_tech_7_desc:0 "Massive distribution of entrenching spades is carried out to all soldiers in our army. Combined with specialist shock training dealing with rapid area securing, and squad-level sweep tactics, this allows our troops to quickly secure and reinforce positions."
   unit_training_tech_8:0 "Virtual Reality Training"
   unit_training_tech_8_desc:0 "Pre-war training pods, loaded with all previous improvements to our army drills, let our troops become experienced soldiers much quicker with less ressources directed toward boot camps."
+
+ #----------------------------
+ # Ranged Weaponry
+ #----------------------------
+  heavy_infantry_tech_1:0 "Enforcers"
+  heavy_infantry_tech_1_desc:0 ""
+  heavy_infantry_tech_2:0 "Additional Plating"
+  heavy_infantry_tech_2_desc:0 ""
+  heavy_infantry_tech_3:0 "CqC Training"
+  heavy_infantry_tech_3_desc:0 ""
 
  #----------------------------
  # Ranged Weaponry

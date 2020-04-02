@@ -3,6 +3,9 @@
   support_equipment:0 "Support Equipment"
   support_equipment_desc:0 "A collection of supplies and various equipment, those objects allow us to equip our support divisions and provide a variety of effect to our frontline troops."
 
+  heavy_infantry_equipment:0 "Infantry Armour"
+  heavy_infantry_equipment_desc:0 "The will of the people stands above all."
+
   ballistic_equipment:0 "Basic Weaponry"
   ballistic_equipment_short:0 "Basic Weaponry"
   ballistic_equipment_desc:0 "Personal and crew served weapons for firearm as well as the various other bits of kit a soldier needs."
@@ -91,6 +94,11 @@
   ballistic_equipment_4:0 "Elite Weaponry"
   ballistic_equipment_4_short:0 "Elite Weaponry"
   ballistic_equipment_4_desc:0 "Custom-made ammunition coupled with precision parts in our new assault rifle allows our troops unprecedented level of firepower. Along with recoil compensators for our side arms, combat knives switched for modified rippers, high-yield grenades, and full bulletproof armour, this makes it the most advanced personal equipment in the wasteland."
+
+  # Heavy infantry armour
+  heavy_infantry_equipment_1:0 "Crowd Control Gear"
+  heavy_infantry_equipment_1_short:0 "Crowd Gear"
+  heavy_infantry_equipment_1_desc:0 "While not nearly as sophisticated as Special forces equipment, or as advanced as power armour, these pieces of metal and padding one can strap to their body, still do aid in some situations. Especially useful in it's intended role to supress resistance. This equipment severely limits mobility."
 
  # Energy Equipment
   energy_equipment_1:0 "Basic Laser Weaponry"

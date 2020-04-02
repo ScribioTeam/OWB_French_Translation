@@ -228,3 +228,12 @@
   EFFECT_CHANGE_LAW_vehicle_restoration_advisor:0 "Change Vehicle Restoration Law to '$NAME|Y$' which grants ($DESC$)."
   EFFECT_CHANGE_LAW_navy_restoration_advisor:0 "Change Navy Restoration Law to '$NAME|Y$' which grants ($DESC$)."
   EFFECT_CHANGE_LAW_aircraft_restoration_advisor:0 "Change Aircraft Restoration Law to '$NAME|Y$' which grants ($DESC$)."
+
+  has_unique_manpower_law:0 "Has Unique Manpower Laws"
+  has_unique_officer_laws:0 "Has Unique Officer Laws"
+  has_unique_outsider_laws:0 "Has Unique Outsider Laws"
+  has_unique_economic_laws:0 "Has Unique Economic Laws"
+  has_unique_trade_laws:0 "Has Unique Trade Laws"
+  has_unique_press_laws:0 "Has Unique Press Laws"
+  has_unique_slave_laws:0 "Has Unique Slave Laws"
+  has_unique_drug_laws:0 "Has Unique Drug Laws"
