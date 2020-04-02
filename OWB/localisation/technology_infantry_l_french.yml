@@ -5,6 +5,7 @@
  # Header
  #----------------------------
  HEADER_INFANTRY_TRAINING:0 "Entraînement d'infanterie"
+ HEADER_HEAVY_INFANTRY_EQUIPMENT:0 "Riot Control"
  HEADER_BALLISTIC_EQUIPMENT:0 "Équipement balistique"
  HEADER_ENERGY_EQUIPMENT:0 "Équipement énergétique"
  HEADER_MELEE_WEAPONS:0 "Armes de mélée"
@@ -31,6 +32,16 @@
  unit_training_tech_7_desc:0 "Une distribution massive de pelles de retranchement est effectuée à tous les soldats de notre armée. Combiné à une formation de choc spécialisée sur la sécurisation rapide de zones et à une tactique de balayage au niveau de l'escadron, cela permet à nos troupes de sécuriser et de renforcer rapidement leurs positions."
  unit_training_tech_8:0 "Formation en réalité virtuelle"
  unit_training_tech_8_desc:0 "Les modules d’entraînement d’avant-guerre, chargés de toutes les améliorations apportées précédemment à nos exercices militaires, permettent à nos troupes de devenir des soldats expérimentés beaucoup plus rapidement, avec moins de ressources destinées aux camps d’entraînement."
+
+ #----------------------------
+ # Ranged Weaponry
+ #----------------------------
+ heavy_infantry_tech_1:0 "Enforcers"
+ heavy_infantry_tech_1_desc:0 ""
+ heavy_infantry_tech_2:0 "Additional Plating"
+ heavy_infantry_tech_2_desc:0 ""
+ heavy_infantry_tech_3:0 "CqC Training"
+ heavy_infantry_tech_3_desc:0 ""
 
  #----------------------------
  # Ranged Weaponry
