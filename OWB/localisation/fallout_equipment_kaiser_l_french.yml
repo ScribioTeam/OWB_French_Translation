@@ -1,0 +1,96 @@
+﻿l_french:
+  # FACTION SPECIFIC UNIQUES
+  # Alphabetical by TAG
+
+  KSR_infantry_equipment:0 "Erbsenschießer"
+  KSR_infantry_equipment_short:0 "Erbsenschießer"
+  KSR_infantry_equipment_desc:0 "Primitives Gerät das Erbsen schleudert. Mit sehr großer Geschwindigkeit. Dass ist alles."
+  KSR_ballistic_equipment_1:0 "Kleinkalibergewehr Ausführung 3"
+  KSR_ballistic_equipment_1_short:0 "Kleinkalibergewehr"
+  KSR_ballistic_equipment_1_desc:0 "Ausführung drei, nicht vier oder fünf, nein. Ausführung DREI."
+  KSR_ballistic_equipment_2:0 "Halbautomatikgewehr Ausführung 4"
+  KSR_ballistic_equipment_2_short:0 "Halbauto-Gewehr"
+  KSR_ballistic_equipment_2_desc:0 "Halbautomatisch, nur für die, die es nicht wissen, bedeutet das jeder Druck auf den Abzug nur eine Kugel abfeuert. Für erneutes Schießen muss der Abzug erneut betätigt werden."
+  KSR_ballistic_equipment_3:0 "Sturmgewehr 2283"
+  KSR_ballistic_equipment_3_short:0 "Sturmgewehr"
+  KSR_ballistic_equipment_3_desc:0 "Ah Sturmgewehr, JEDER kriegt eins, für dich, und dich. JEDER!!!"
+  KSR_ballistic_equipment_4:0 "Vollautomatisches Großkalibergewehr Ausfürung 2"
+  KSR_ballistic_equipment_4_short:0 "Großkalibergewehr"
+  KSR_ballistic_equipment_4_desc:0 "Großes Kaliber bedeutet große Kugeln. Lerne dass doch endlich Hans. Wo ist die Luger überhaupt?"
+
+  KSR_melee_equipment_1:0 "Reifenheber"
+  KSR_melee_equipment_1_short:0 "Heber"
+  KSR_melee_equipment_2:0 "Messer"
+  KSR_melee_equipment_2_short:0 "Messer"
+  KSR_melee_equipment_3:0 "Raketenhammer"
+  KSR_melee_equipment_3_short:0 "Raketenhammer"
+  KSR_melee_equipment_4:0 "Pneumatische Faustwaffe"
+  KSR_melee_equipment_4_short:0 "Faustwaffe"
+  KSR_energy_equipment_1:0 "Laserrepetiergewehr"
+  KSR_energy_equipment_1_short:0 "Laserrepetierer"
+  KSR_energy_equipment_2:0 "Lichtbündelungsgerät"
+  KSR_energy_equipment_2_short:0 "Lasergewehr"
+  KSR_energy_equipment_3:0 "Rotierendes Lichtbündelungsgerät"
+  KSR_energy_equipment_3_short:0 "Auto-Laser"
+  KSR_energy_equipment_4:0 "Elektrostatikgewehr"
+  KSR_energy_equipment_4_short:0 "Blitzgewehr"
+
+  KSR_support_equipment:0 "Feldmaterialien"
+  KSR_support_equipment_short:0 "Feldmaterialien"
+
+  KSR_gauss_equipment_1:0 "Ferromagnetisches Beschleunigungsgewehr"
+  KSR_gauss_equipment_1_short:0 "Beschleunigungsgewehr"
+  KSR_gauss_equipment_1_desc:0 "Ah Gauss, welch geniale Matematik"
+  KSR_gauss_equipment_2:0 "Kaiserliches Panzerknackergewehr"
+  KSR_gauss_equipment_2_short:0 "Panzerknacker"
+  KSR_gauss_equipment_2_desc:0 "Es war einmal ein Panzer. Jetzt ist er wech."
+  KSR_plasma_equipment_1:0 "Magnetisch stabilisierter Fusionswerfer Ausführung B"
+  KSR_plasma_equipment_1_short:0 "Fusionswerfer"
+  KSR_plasma_equipment_1_desc:0 "Fusionswerfer werft fusion. Recht einfacht eigentlich."
+  KSR_plasma_equipment_2:0 "Magnetisch stabilisierter Fusionswerfer Ausführung F"
+  KSR_plasma_equipment_2_short:0 "Kaiserliche Flamme"
+  KSR_plasma_equipment_2_desc:0 "Klatsch Kaiserlich an den anfang und bumm, es läuft besser."
+
+
+  KSR_spec_ops_equipment_1:0 "Basiskit"
+  KSR_spec_ops_equipment_1_short:0 "Basiskit"
+
+  KSR_spec_ops_equipment_2:0 "Späherkit"
+  KSR_spec_ops_equipment_2_short:0 "Späherkit"
+
+  KSR_spec_ops_equipment_3:0 "Jägerkit"
+  KSR_spec_ops_equipment_3_short:0 "Jägerkit"
+
+  KSR_spec_ops_equipment_4:0 "Scharfschützenkit"
+  KSR_spec_ops_equipment_4_short:0 "Scharfshützenkit"
+
+  KSR_spec_ops_equipment_5:0 "Aktives Tarnkit"
+  KSR_spec_ops_equipment_5_short:0 "Aktives Tarnkit"
+
+ # Power Armour
+  KSR_power_armor_equipment_1:0 "Ödlandsrüstung"
+  KSR_power_armor_equipment_1_short:0 "Ödlandsrüstung"
+
+  KSR_power_armor_equipment_2:0 "Grenadierrüstung"
+  KSR_power_armor_equipment_2_short:0 "Grenadierrüstung"
+
+  KSR_power_armor_equipment_3:0 "Garderüstung"
+  KSR_power_armor_equipment_3_short:0 "Garderüstung"
+
+  KSR_power_armor_equipment_3_light:0 "Leichte Garderüstung"
+  KSR_power_armor_equipment_3_light_short:0 "Leichte Garderüstung"
+
+  KSR_power_armor_equipment_4:0 "Leibgardistenrüstung"
+  KSR_power_armor_equipment_4_short:0 "Leibgardistenrüstung"
+
+  KSR_power_armor_equipment_4_light:0 "Leichte Leibgardistenrüstung"
+  KSR_power_armor_equipment_4_light_short:0 "Leichte Leibgardistenrüstung"
+
+  KSR_power_armor_equipment_5:0 "Kaiserliche Rüstung"
+  KSR_power_armor_equipment_5_short:0 "Kaiserliche Rüstung"
+
+  KSR_enclave_power_armour_equipment_1:0 "Demokratenpanzer"
+  KSR_enclave_power_armour_equipment_1_short:0 "Demokratenpanzer"
+
+  KSR_enclave_power_armour_equipment_2:0 "Erweiterter Demokratenpanzer"
+  KSR_enclave_power_armour_equipment_2_short:0 "Demokratenpanzer Ausf. B"
