@@ -3,8 +3,8 @@
  support_equipment:0 "Équipement de soutien"
  support_equipment_desc:0 "Ensemble de fournitures et d’équipements divers, ces objets nous permettent d’équiper nos divisions de soutien et de fournir divers effets à nos troupes de première ligne."
 
- heavy_infantry_equipment:0 "Infantry Armour"
- heavy_infantry_equipment_desc:0 "The will of the people stands above all."
+ heavy_infantry_equipment:0 "Armure d'infanterie"
+ heavy_infantry_equipment_desc:0 "La volonté du peuple prime avant tout."
 
  ballistic_equipment:0 "Armes ballistiques de base"
  ballistic_equipment_short:0 "Armes de base"
@@ -96,9 +96,9 @@
  ballistic_equipment_4_desc:0 "Des munitions personnalisées associées à des pièces de précision dans notre nouveau fusil d’assaut permettent à nos troupes de bénéficier d’une puissance de feu sans précédent. Avec des compensateurs de recul pour nos armes de poing, des couteaux de combat échangés contre des défonceuses modifiées, des grenades à haut rendement et une armure à toute épreuve, cela en fait l’équipement personnel le plus avancé des terres désolées."
 
   # Heavy infantry armour
- heavy_infantry_equipment_1:0 "Crowd Control Gear"
- heavy_infantry_equipment_1_short:0 "Crowd Gear"
- heavy_infantry_equipment_1_desc:0 "While not nearly as sophisticated as Special forces equipment, or as advanced as power armour, these pieces of metal and padding one can strap to their body, still do aid in some situations. Especially useful in it's intended role to supress resistance. This equipment severely limits mobility."
+ heavy_infantry_equipment_1:0 "Équipement de contrôle des foules"
+ heavy_infantry_equipment_1_short:0 "Equipement pour la foule"
+ heavy_infantry_equipment_1_desc:0 "Bien qu'ils ne soient pas aussi sophistiqués que les équipements des forces spéciales, ni aussi avancés que les armures assistées, ces morceaux de métal et de rembourrage que l'on peut attacher à son corps, sont toujours utiles dans certaines situations. Ils sont particulièrement utiles dans leur rôle prévu, qui est de réprimer la résistance. Cet équipement limite considérablement la mobilité."
 
  # Energy Equipment
  energy_equipment_1:0 "Fusils énergétiques"

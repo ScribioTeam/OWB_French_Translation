@@ -5,7 +5,7 @@
  # Header
  #----------------------------
  HEADER_INFANTRY_TRAINING:0 "Entraînement d'infanterie"
- HEADER_HEAVY_INFANTRY_EQUIPMENT:0 "Riot Control"
+ HEADER_HEAVY_INFANTRY_EQUIPMENT:0 "Contrôle des émeutes"
  HEADER_BALLISTIC_EQUIPMENT:0 "Équipement balistique"
  HEADER_ENERGY_EQUIPMENT:0 "Équipement énergétique"
  HEADER_MELEE_WEAPONS:0 "Armes de mélée"
@@ -36,12 +36,12 @@
  #----------------------------
  # Ranged Weaponry
  #----------------------------
- heavy_infantry_tech_1:0 "Enforcers"
+ heavy_infantry_tech_1:0 "Troupes d'exécution"
  heavy_infantry_tech_1_desc:0 ""
- heavy_infantry_tech_2:0 "Additional Plating"
- heavy_infantry_tech_2_desc:0 ""
- heavy_infantry_tech_3:0 "CqC Training"
- heavy_infantry_tech_3_desc:0 ""
+ heavy_infantry_tech_2:0 "Placage supplémentaire"
+ heavy_infantry_tech_2_desc:0 "Avec l'arrivée d'armes plus lourdes entre les mains des insurgés, nous devons veiller à équiper correctement toute troupe d'exécution que nous déployons dans les points chauds. Un renforcement supplémentaire de la partie frontale du casque, ainsi que de la poitrine, devrait améliorer considérablement leur protection contre la plupart des tirs d'armes légères. De plus, une meilleure mobilité des articulations et un blindage complet des membres seront fournis. Bien que cela les ralentira encore plus, très peu de personnes refuseraient la possibilité de résister à une cartouche de fusil sur le crâne."
+ heavy_infantry_tech_3:0 "Entraînement CqC"
+ heavy_infantry_tech_3_desc:0 "Des équipements encombrants et des armes de suppression lourdes signifient que certaines tactiques sont impossibles à appliquer pour nos troupes d'exécutions. Le développement d'une doctrine opérationnelle spécialisée augmentera considérablement leur efficacité sur de multiples terrains, tout en leur permettant de mieux faire leur travail. Cette doctrine consiste à utiliser leur blindage en remplacement de la mobilité tactique, en laissant les coups ennemis rebondir sans danger sur l'épais rembourrage tout en exploitant l'ouverture donnée par l'adversaire lorsqu'il recule en titubant."
 
  #----------------------------
  # Ranged Weaponry

@@ -174,29 +174,29 @@
   #######################
 
  legion_nf_worthy_foe_2: "Worthy Foe"
- legion_nf_worthy_foe_2_desc: ""
+ legion_nf_worthy_foe_2_desc:0 ""
 
- lac_nf_assert_hegemony: "Hegemony Over Colorado"
- lac_nf_assert_hegemony_desc: ""
+ lac_nf_assert_hegemony:0 "Hégémonie sur le Colorado"
+ lac_nf_assert_hegemony_desc:0 ""
 
- lac_nf_rio_hegemony: "Hegemony Over The Rio"
- lac_nf_rio_hegemony_desc: ""
+ lac_nf_rio_hegemony:0 "Hégémonie sur le Rio"
+ lac_nf_rio_hegemony_desc:0 ""
 
- lac_nf_the_sword: "The Sword"
- lac_nf_the_sword_desc: ""
+ lac_nf_the_sword:0 "L'Epée"
+ lac_nf_the_sword_desc:0 ""
 
- lac_nf_the_pen: "The Pen"
- lac_nf_the_pen_desc: ""
+ lac_nf_the_pen:0 "Le Stylo"
+ lac_nf_the_pen_desc:0 ""
 
- lac_nf_warriors_of_mars: "Warriors of Mars"
- lac_nf_warriors_of_mars_desc: ""
+ lac_nf_warriors_of_mars:0 "Guerriers de Mars"
+ lac_nf_warriors_of_mars_desc:0 ""
 
- lac_nf_caesar_legacy: "Caesar's Legacy"
- lac_nf_caesar_legacy_desc: ""
+ lac_nf_caesar_legacy:0 "Héritage de César"
+ lac_nf_caesar_legacy_desc:0 ""
 
- lac_pen_tt: "§gYou feel like you've seen this pen before. Its ink looks at you expectantly, and you avert your eyes.§!"
- lac_caesar_tt: "§gSomething grabs your wrist. Your blood demands caution: you play dumb. You realise Caesar was right beside you the whole time.§! §RHe's been screaming for months.§!"
- lac_mars_tt: "§RA clap of thunder. The firmament screams. You see a red room, and Caesar is there. He's peering through a velvet curtain. He turns to look at you, and his eyes—§! §gSome ancient body chuckles with satisfaction...§!"
- lac_ksr_tt: "§YLanius' Cohort§! teaches §YKaiser Wilhelm§! a lesson in Wasteland warfare—§Rthe hard way.§!"
+ lac_pen_tt:0 "§gVous avez l'impression d'avoir déjà vu ce stylo. Son encre vous regarde avec impatience, et vous détournez les yeux.§!"
+ lac_caesar_tt:0 "§gQuelque chose vous attrape le poignet. Votre sang exige de la prudence : vous jouez les idiots. Vous réalisez que César était à vos côtés tout le temps.§! §RIl a crié pendant des mois.§!"
+ lac_mars_tt:0 "§RUn coup de tonnerre. Le firmament crie. Vous voyez une salle rouge, et César est là. Il regarde à travers un rideau de velours. Il se tourne pour vous regarder, et ses yeux—§! §gCertains corps anciens rient de satisfaction...§!"
+ lac_ksr_tt:0 "§YLa Cohorte de Lanius§! apprend au §YKaiser Wilhelm§! une leçon de la guerre dans les Terres Désolées—§Rla manière dure.§!"
 
- lac_faction: "The New Empire"
+ lac_faction:0 "Le Nouvel Empire"

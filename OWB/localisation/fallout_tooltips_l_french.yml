@@ -70,6 +70,6 @@
   riseofclaus:0 "§RLe Sénateur va évoluer vers sa forme la plus puissante à ce jour et gagner des cœurs sur son nouveau domaine.§!"
   thelist1:0 "§G Le Sénateur Noël va vérifier sa liste deux fois, et obtenir un but de guerre sur toutes les vilaines nations des Terres Désolées.§!"
   thelist2:0 "§R Vous êtes TOUS sur la liste.§!"
- claim_the_north_tt: "Grants §Y[This.GetNameDef]§! §Gclaims§! and §Gwargoals§! for the core territories of every country §Ynorth§! of §YWashington§!!"
- own_the_north_tt: "All land §Ynorth§! of §YWashington§! is owned by §Y[This.GetNameDef]§!, their subjects, or their allies.\n"
+ claim_the_north_tt:0 "Accorde des §Grevendications§! §Y[This.GetNameDef]§! et §Gobjectifs de guerre§! pour les territoires coeur de chaque pays au §YNord§! de §YWashington§!"
+ own_the_north_tt:0 "Toutes les terres du §YNord§! de §YWashington§! sont la propriété de §Y[This.GetNameDef]§!, de leurs sujets ou de leurs alliés."
   slavery_now_allowed_tt: "Des §Rlois supplémentaires sur l'esclavage§! sont maintenant disponibles pour [This.GetNameDef]."
