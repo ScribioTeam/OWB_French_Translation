@@ -57,16 +57,3 @@
   ncn_conversion_daniel_sack_of_new_canaan_desc: "Persecution has not stopped the progress of truth, but has only added fuel to the flame. It has spread with increasing rapidity. Proud of the cause which they have espoused and conscious of our innocence and of the truth of their system, amidst calumny and reproach, have the elders of this Church gone forth and planted the gospel."
   convert_tribes_daniel_sack_1: "Convert [From.GetName]"
   convert_tribes_daniel_sack_ally: "Welcome [From.GetName] into the faith."
-
-
-
-
-  ncn_bind_to_us: "Bind [From.GetNameDef] to Us!"
-  ncn_bind_to_us_desc: "Our conversion missions have done their work, and now all of [From.GetNameDef] has been converted to worship of God almighty. It is time to bring them closer to us and in to our fold."
-
-
- # tooltips
-  ncn_eligible_tt: "They own a state which is adjacent to either a state we own or to a state converted by us"
-  ncn_converted_state_tt: "The state will be converted"
-  ncn_converted_all_tt: "Every state they own has been converted by us"
-  ncn_not_converted_all_tt: "We have not converted every state the own"
