@@ -57,16 +57,3 @@
  ncn_conversion_daniel_sack_of_new_canaan_desc:0 "La persécution n'a pas arrêté le progrès de la vérité, mais n'a fait qu'ajouter de l'huile sur le feu. Elle s'est propagée avec une rapidité croissante. Fiers de la cause qu'ils ont épousée et conscients de notre innocence et de la vérité de leur système, au milieu des calomnies et des reproches, les anciens de cette Église sont allés prêcher l'Évangile."
  convert_tribes_daniel_sack_1:0 "Convertir [From.GetName]"
  convert_tribes_daniel_sack_ally:0 "Bienvenue [From.GetName] dans la foi."
-
-
-
-
- ncn_bind_to_us:0 "Liez-nous [From.GetNameDef] à nous!"
- ncn_bind_to_us_desc:0 "Nos missions de conversion ont fait leur travail, et maintenant, tout [From.GetNameDef] a été converti en adoration de Dieu tout-puissant. Il est temps de les rapprocher de nous et de nous rejoindre."
-
-
- # tooltips
- ncn_eligible_tt:0 "Ils possèdent un État adjacent à un autre État que nous possédons ou à un État converti par nous"
- ncn_converted_state_tt:0 "L'état sera converti"
- ncn_converted_all_tt:0 "Chaque état qu'ils possèdent a été converti par nous"
- ncn_not_converted_all_tt:0 "Nous n'avons pas converti chaque état"
