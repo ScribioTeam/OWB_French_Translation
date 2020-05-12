@@ -37,7 +37,7 @@
   nf_ate.7.a:0 "Good luck giving imperial knights to give up fresh quetzal feathers."
 
   nf_ate.8.t:0 "The Coffee Baron"
-  nf_ate.8.d:0 "Lurking behind ever wicked deal, every corrupt official, is [Caf.GetLeader]. He wheels and deals, and has extended loans with such favorable terms that many still wonder why his fingers are in every enchilada. To this day, some still are not sure how a man who started selling coffee after a nuclear war became the one to place his grip on Mexico's economy."
+  nf_ate.8.d:0 "Lurking behind ever wicked deal, every corrupt official, is [CAF.GetLeader]. He wheels and deals, and has extended loans with such favorable terms that many still wonder why his fingers are in every enchilada. To this day, some still are not sure how a man who started selling coffee after a nuclear war became the one to place his grip on Mexico's economy."
   nf_ate.8.a:0 "It mostly comes from controlling trade routes."
   nf_ate.8.a_tt: "\nThe coffee just tastes good.\n"
 
@@ -190,6 +190,7 @@
   nf_ate.40.t:0 "Reviving the Mexican Constitution"
   nf_ate.40.d:0 "The Speaker lacks the powers of prophecy or the support of the imperial cults. But the Empire's real strength comes from its farmers and craftsmen, not crazy women who helpfully point out things like \"the AI that's breaking down will probably die soon.\"  To win their support, Kinkaid will guarantee the rights their ancestors held dear. \n\nThe Mexican constitution has been a dead letter outside of [RRG.GetName] since before the Great War, but people still remember when the government worked for them. The Speaker has announced that Aztlan will adopt the constitution and affirm all of its citizens are free and equal."
   nf_ate.40.a:0 "These rights cannot be denied and they cannot be suspended...."
+  nf_ate.40.a_tt: "\nCoring costs on Mexican states are reduced by §M25%§!"
 
   nf_ate.41.t:0 "Are You Smarter Than a Supermutant?"
   nf_ate.41.d:0 "Oh, so sorry Senora Seven Flowers, but \"Navarro, I guess?\" is not the capital of the New California Republic. Seneca, what's your guess? That's right, it's Shady Sands! Well, don't worry, Senora, you'll still be going home with a year's supply of Costa Cafeinada coffee. Costa Cafeinada: So addictive you probably shouldn't check what's in it! \n\nAnd that's all for tonight folks. Tune in next week for another episode of \"Are you smarter than a supermutant!\""

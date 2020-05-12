@@ -160,7 +160,7 @@
   nf_ncr.13.d: "The NCR election teeters on the edge of disaster, for never before has the republic been so divided! The cumulative tests such as the Legion and Brotherhood of Steel have aroused a staunch anti-war stance from many of the NCR’s states, which has in turn damaged trust in the central government of the republic and its military. The Brahmin Baron’s, who have flocked to the side of presidential candidate Anton Flynn, squabble for power after their recent disasters. Meanwhile, Allgood Murphy Preaches fire and Brimstone against the Warlike Aaron Kimball, going so far as to threaten bringing the Brotherhood of Steel into any potential conflict. Meanwhile, the charismatic Grant C. Hayes has corned the vote in the state of Dayglow, and his shadowy allies begin to make their move all across the republic. It is very possible that the election may end up being utterly inconclusive! A nightmare event in the eyes of many. Will the Republic survive?"
   nf_ncr.13.a: "The Barons should take control"
   nf_ncr.13.b: "Allgood Murphy should take control"
-  nf_ncr.13.c: "The Enclave is the future"
+  nf_ncr.13.c: "Dayglow is the future"
   nf_ncr.13.e: "General Drummond shall seize the republic"
   nf_ncr.13.f: "Kimball is the way"
   nf_ncr.13.g: "Is this the end of the Republic?"
@@ -236,7 +236,7 @@
 
   ncr_civil_war_starts: "§R The Civil War Begins §!"
   NCR_civil_war_fires: "§R The NCR devolves into factions vying for power §!"
-  NCR_civil_war_fires_switch_to_enclave: "§R The NCR dissolves into civil unrest, as the Enclave you will need to rise from it's ashes. §!"
+  NCR_civil_war_fires_switch_to_dayglow: "§R The NCR dissolves into civil unrest, as Dayglow you will need to rise from it's ashes. §!"
   load_seabear: "A destroyer named §Y\"The Seabear\"§! is spawned in Dayglow.\n"
   load_gammacore: "§YElite infantry unit spawns in the capital§!"
   load_ncrheavytroops: "§YSpawns two Power Armour units in Shady Sands§!"

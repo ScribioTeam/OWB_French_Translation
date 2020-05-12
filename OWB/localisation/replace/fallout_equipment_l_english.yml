@@ -98,7 +98,7 @@
   # Heavy infantry armour
   heavy_infantry_equipment_1:0 "Crowd Control Gear"
   heavy_infantry_equipment_1_short:0 "Crowd Gear"
-  heavy_infantry_equipment_1_desc:0 "While not nearly as sophisticated as Special forces equipment, or as advanced as power armour, these pieces of metal and padding one can strap to their body, still do aid in some situations. Especially useful in it's intended role to supress resistance. This equipment severely limits mobility."
+  heavy_infantry_equipment_1_desc:0 "While not nearly as sophisticated as special forces equipment, or as advanced as power armour, these pieces of metal and padding one can strap to their body, still do aid in some situations. Especially useful in its intended role to suppress resistance. This equipment severely limits mobility."
 
  # Energy Equipment
   energy_equipment_1:0 "Basic Laser Weaponry"
@@ -481,7 +481,7 @@
 
   hev_fighter_equipment_5:0 "Nuclear Strike Fighter"
   hev_fighter_equipment_5_short:0 "Nuclear Strike Fighter"
-  hev_fighter_equipment_5_desc:0 "Lightening of the airframe and sacrifices in term of fuel capacity let our nuclear jet fighters carry double-barrelled autocannon gunpods under each wing, providing a staggering rate of fire in addition to the central rotary weapon, with no loss in agility."
+  hev_fighter_equipment_5_desc:0 "Lightening of the airframe and sacrifices in terms of fuel capacity let our nuclear jet fighters carry double-barrelled autocannon gunpods under each wing, providing a staggering rate of fire in addition to the central rotary weapon, with no loss in agility."
 
   car_fighter_equipment_3:0 "Fleet Defense Fighter"
   car_fighter_equipment_3_short:0 "Fleet Defense Fighter"
@@ -561,7 +561,7 @@
 
   car_cas_equipment_3:0 "Carrier Attacker"
   car_cas_equipment_3_short:0 "Carrier Attacker"
-  car_cas_equipment_3_desc:0 "Further modification and lightening of the airframe in term of wingspan and material density let our jet attackers launch from carrier decks with no trouble."
+  car_cas_equipment_3_desc:0 "Further modification and lightening of the airframe in terms of wingspan and material density let our jet attackers launch from carrier decks with no trouble."
 
   car_cas_equipment_4:0 "Zero-Length Launch CAS"
   car_cas_equipment_4_short:0 "Zero-Length Launch CAS"
@@ -582,7 +582,7 @@
  # Strategic Bomber
   strategic_bomber_equipment_1:0 "R-plane Bomber"
   strategic_bomber_equipment_1_short:0 "R-plane Bomber"
-  strategic_bomber_equipment_1_desc:0 "A monoplane design, reinforced with struts, combined with four engines in a double-line tandem configuration let us create a sturdy bomber design, able to carry an impressive payload in an internal bomb bay, as well as three machine guns in armoured turrets. This configuration allows large autonomy in enemy territory, both in term of ammo and fuel, as well as defensive capabilities."
+  strategic_bomber_equipment_1_desc:0 "A monoplane design, reinforced with struts, combined with four engines in a double-line tandem configuration let us create a sturdy bomber design, able to carry an impressive payload in an internal bomb bay, as well as three machine guns in armoured turrets. This configuration allows large autonomy in enemy territory, both in terms of ammo and fuel, as well as defensive capabilities."
 
   strategic_bomber_equipment_2:0 "Rotary-Engine Bomber"
   strategic_bomber_equipment_2_short:0 "Rotary-Engine Bomber"
@@ -659,7 +659,7 @@
 
   blimp_equipment_4:0 "Superfortress"
   blimp_equipment_4_short:0 "Superfortress"
-  blimp_equipment_4_desc:0 "Carte Blanche was given to our engineers in term of budget to improve our blimps, and while embezzlement rumours have been going around, they are indeed just that. Rumours. With all the autocannons increased in calibre and given gun-laying radars, along with mortar upgraded to low-velocity howitzers, few can stand against our might. With the armour of a tank for the gondola alone, capable of stopping direct missile hits, and a reinforced nano-Kevlar balloon with internal bulkheads and emergency air pumps, nothing can stand in our way now."
+  blimp_equipment_4_desc:0 "Carte Blanche was given to our engineers in terms of budget to improve our blimps, and while embezzlement rumours have been going around, they are indeed just that. Rumours. With all the autocannons increased in calibre and given gun-laying radars, along with mortar upgraded to low-velocity howitzers, few can stand against our might. With the armour of a tank for the gondola alone, capable of stopping direct missile hits, and a reinforced nano-Kevlar balloon with internal bulkheads and emergency air pumps, nothing can stand in our way now."
 
   cheap_blimp_equipment:0 "Light Zeppelin"
   cheap_blimp_equipment_short:0 "Light Zeppelin"
