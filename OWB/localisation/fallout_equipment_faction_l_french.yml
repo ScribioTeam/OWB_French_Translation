@@ -343,6 +343,9 @@
   NCN_ballistic_equipment_2: ".45 Automatic Submachine Gun"
   NCN_ballistic_equipment_2_short: ".45 Auto SMG"
   NCN_ballistic_equipment_2_desc: "Also designed by an ancestor of the New Canaanites, the .45 automatic submachine gun puts out a devastating amount of firepower at close ranges."
+ NCN_ballistic_fireteam_equipment_2:0 "Squad Automatic Rifle"
+ NCN_ballistic_fireteam_equipment_2_short:0 "SAR"
+ NCN_ballistic_fireteam_equipment_2_desc:0 "With the base model wholly unsuited for modern warfare, but still showing promises, the NCN Armorers have taken to modify this old-world relic into a powerful support weapon. Lightened bolt assembly, battle rifle caliber, pistol grip, and recoil compensator all combine to form a capable SAW/Marksman weapon hybrid, easy to field and even easier to use."
 
   # NCR (New California Republic)
   NCR_ballistic_equipment_1:0 "M&A 9mm Pistol"
