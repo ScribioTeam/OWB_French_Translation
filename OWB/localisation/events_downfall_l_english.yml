@@ -108,7 +108,7 @@
   ## Vault City (ids 60 to 69)
   # 60: Generic
   downfall.60.t: "The Fall of Vault City"
-  downfall.60.d: "Bitter fighting over Vault City is starting to cease. [Root.GetNameDef] are starting to clean up what's left of Vault City, while the residents are unsure of what to expect from they're new overlords. As [Root.GetNameDef] takes the treasures of the Vault to [Root.GetCapital], Who would have thought such a city could even be taken?"
+  downfall.60.d: "Bitter fighting over Vault City is starting to cease. [Root.GetNameDef] are starting to clean up what's left of Vault City, while the residents are unsure of what to expect from they're new overlords. As [Root.GetNameDef] takes the treasures of the Vault to [Root.Capital.GetName], who would have thought such a city could even be taken?"
   downfall.60.a: "At least we evacuated our tech."
   downfall.60.b: "Let us hope the G.E.C.K. is not lost."
   downfall.60.c: "They can't stand much more..."

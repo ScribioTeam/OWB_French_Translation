@@ -29,21 +29,21 @@
 
 
 
-  pantheon_title_sun:0 "Sol"
-  pantheon_title_moon:0 "Luna"
-  pantheon_title_land:0 "Terra"
-  pantheon_title_mountain:0 "Mesa"
+  pantheon_title_sun:0 "§YSol§!"
+  pantheon_title_moon:0 "§YLuna§!"
+  pantheon_title_land:0 "§YTerra§!"
+  pantheon_title_mountain:0 "§YMesa§!"
 
-  pantheon_title_legion:0 "Mars"
-  pantheon_title_ncn:0 "Elohim"
+  pantheon_title_legion:0 "§YMars§!"
+  pantheon_title_ncn:0 "§YElohim§!"
 
-  pantheon_title_sor:0 "The Father"
-  pantheon_title_tar:0 "The War-Road"
-  pantheon_title_crz:0 "The Phoenix"
-  pantheon_title_dea:0 "The Burned Man"
-  pantheon_title_uin:0 "Zephyr"
-  pantheon_title_lon:0 "The Quiet"
-  #pantheon_title_:0 ""
+  pantheon_title_sor:0 "§YThe Father§!"
+  pantheon_title_tar:0 "§YThe War-Road§!"
+  pantheon_title_crz:0 "§YThe Phoenix§!"
+  pantheon_title_dea:0 "§YThe Burned Man§!"
+  pantheon_title_uin:0 "§YZephyr§!"
+  pantheon_title_lon:0 "§YThe Quiet§!"
+  pantheon_title_none:0 "§YNothing§!"
 
   pantheon_desc_sun:0 "The god of the sun, providing bountiful harvest and soft weather to loyal worshippers \n---- \n§YBonuses to:§!\n§WProduction Efficiency Growth:§! §G[?pantheon_loyalty_print]%§!\n§WHeat Attrition:§! §G[?pantheon_sun_print]%§!"
   pantheon_desc_moon:0 "The god of the moon, giving to his worshippers shrewd negotiation skills and an alliance with the shadows \n---- \n§YBonuses to:§!\n§WNight Attack:§! §G[?pantheon_loyalty_print]%§!\n§WTrade Opinion:§! §G[?pantheon_moon_print]%§!"
@@ -59,6 +59,7 @@
   pantheon_desc_dea:0 "The Burned Man, the avatar of vengeance. His worshippers gain the most burning of hatred against their enemies, thwarting their advance at every turn. \n---- \n§YBonuses to:§!\n§WCore defence:§! §G[?pantheon_loyalty_print]%§! \nMobilisation Speed §G[?pantheon_dea_print]%§!"
   pantheon_desc_uin:0 "The wind of life, the enemy of stagnation and origin of all movement.\n---- \n§YBonuses to:§!\n§WArmy Speed:§! §G[?pantheon_loyalty_print]%§! \nAir Superiority §G[?pantheon_uin_print]%§!"
   pantheon_desc_lon:0 "The embodiment of oblivion, darkness, and silence. Vonsumes all who break its sacred entity.\n---- \n§YBonuses to:§!\n§WSpecial Forces Cap:§! §G[?pantheon_loyalty_print]%§! \nSpecial Forces Attack §G[?pantheon_lon_print]%§!"
+  pantheon_desc_none:0 "With no current alignment, we are sworn only to ourselves.\n--- \n§YBonuses to:§!\n§RNothing.§!"
 
   pantheon_mood_wrathful:0 "§RWRATHFUL§!"
   pantheon_mood_unamused:0 "§HUNAMUSED§!"
@@ -93,3 +94,5 @@
   pantheon_lon:0 "The Blessing of The Quiet"
   pantheon_lon_desc:0 "[This.GetPantheonSelectedGodDescription]"
 
+  has_selected_a_pantheon_tt:0 "Has selected a §Ypantheon§!"
+  utah_select_a_pantheon:0 "Select a Pantheon"

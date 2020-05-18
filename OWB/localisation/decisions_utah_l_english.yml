@@ -50,7 +50,7 @@
   #utah_pantheon__ritual:0 ""
   #utah_pantheon__ritual_upgrade:0 ""
   utah_pantheon_ritual_tt:0 "§GUpgrades Our God's Holy Rituals.§!"
-  utah_pantheon_blessing_tt:0 "§GUpgrades Our God's Blessing to us.\n§!"
+  utah_pantheon_blessing_tt:0 "§GUpgrades Our God's Blessing to us.§!"
   utah_pantheon_mood_small_tt:0 "Minorly Improves [This.GetPantheonSelectedGodName]'s Opinion of Us"
   utah_pantheon_mood_medium_tt:0 "Sizably Improves [This.GetPantheonSelectedGodName]'s Opinion of Us"
   utah_pantheon_mood_large_tt:0 "Greatly Improves [This.GetPantheonSelectedGodName]'s Opinion of Us"
@@ -58,7 +58,7 @@
   utah_pantheon_mood_negative_medium_tt:0 "Sizably Decreases [This.GetPantheonSelectedGodName]'s Opinion of Us"
   utah_pantheon_mood_negative_large_tt:0 "Greatly Decreases [This.GetPantheonSelectedGodName]'s Opinion of Us"
   utah_pantheon_sacrifice_tt:0 "Greatly Reduces the Cost of Tribal Sacrifices"
-  pantheon_sacrifice_cost:0 "[?pantheon_sacrifice_var]"
+  pantheon_sacrifice_cost:0 "£pol_power  §Y[?pantheon_sacrifice_var]§!"
   pantheon_sacrifice_cost_blocked:0 "£pol_power  §R[?pantheon_sacrifice_var]§!"
 
   utah_religious_sermons:0 "The Good Word"
