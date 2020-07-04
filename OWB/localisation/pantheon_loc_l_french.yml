@@ -29,21 +29,21 @@
 
 
 
- pantheon_title_sun:0 "Sol"
- pantheon_title_moon:0 "Luna"
- pantheon_title_land:0 "Terra"
- pantheon_title_mountain:0 "Mesa"
+ pantheon_title_sun:0 "§YSol§!"
+ pantheon_title_moon:0 "§YLuna§!"
+ pantheon_title_land:0 "§YTerra§!"
+ pantheon_title_mountain:0 "§YMesa§!"
 
- pantheon_title_legion:0 "Mars"
- pantheon_title_ncn:0 "Elohim"
+ pantheon_title_legion:0 "§YMars§!"
+ pantheon_title_ncn:0 "§YElohim§!"
 
- pantheon_title_sor:0 "Le Père"
- pantheon_title_tar:0 "La Route de Guerre"
- pantheon_title_crz:0 "Le Phénix"
- pantheon_title_dea:0 "L'Homme Brûlé"
- pantheon_title_uin:0 "Zephyr"
- pantheon_title_lon:0 "Le Silence"
-  #pantheon_title_:0 ""
+ pantheon_title_sor:0 "§YLe Père§!"
+ pantheon_title_tar:0 "§YLa Route de Guerre§!"
+ pantheon_title_crz:0 "§YLe Phénix§!"
+ pantheon_title_dea:0 "§YL'Homme Brûlé§!"
+ pantheon_title_uin:0 "§YZephyr§!"
+ pantheon_title_lon:0 "§YLe Silence§!"
+ pantheon_title_none:0 "§YRien§!"
 
  pantheon_desc_sun:0 "Le dieu du soleil, qui fournit une récolte abondante et un temps doux aux fidèles \n---- \n§YDes bonus pour :§!\n§WCroissance de l'efficacité de la production :§! §G[?pantheon_loyalty_print]%§!\n§WAttrition de la chaleur :§! §G[?pantheon_sun_print]%§!"
  pantheon_desc_moon:0 "Le dieu de la lune, offrant à ses adorateurs des talents de négociateur astucieux et une alliance avec les ombres \n---- \n§YDes bonus pour :§!\n§WAttaque de nuit :§! §G[?pantheon_loyalty_print]%§!\n§WOpinion commerciale :§! §G[?pantheon_moon_print]%§!"
@@ -59,6 +59,7 @@
  pantheon_desc_dea:0 "L'Homme Brûlé, l'avatar de la vengeance. Ses adorateurs éprouvent la haine la plus brûlante contre leurs ennemis, contrecarrant leur progression à chaque instant. \n---- \n§YBonus pour :§!\n§WDéfense sur le territoire coeur :§! §G[?pantheon_loyalty_print]%§! \nVitesse de mobilisation §G[?pantheon_dea_print]%§!"
  pantheon_desc_uin:0 "Le vent de la vie, l'ennemi de la stagnation et l'origine de tout mouvement.\n---- \n§YBonus pour :§!\n§WVitesse de l'armée:§! §G[?pantheon_loyalty_print]%§! \nSupériorité aérienne §G[?pantheon_uin_print]%§!"
  pantheon_desc_lon:0 "L'incarnation de l'oubli, de l'obscurité et du silence. Vonise tous ceux qui brisent son entité sacrée.\n---- \n§YBonus pour :§!\n§WCap des Forces spéciales :§! §G[?pantheon_loyalty_print]%§! \nAttaque des Forces Spéciales §G[?pantheon_lon_print]%§!"
+ pantheon_desc_none:0 "En l'absence d'alignement actuel, nous ne sommes sous serment que pour nous-mêmes.\n--- \n§YBonus pour :§!\n§RRien.§!"
 
  pantheon_mood_wrathful:0 "§RCOURROUX§!"
  pantheon_mood_unamused:0 "§HINUTILISÉ§!"
@@ -93,3 +94,5 @@
  pantheon_lon:0 "La Bénédiction du Silence"
  pantheon_lon_desc:0 "[This.GetPantheonSelectedGodDescription]"
 
+ has_selected_a_pantheon_tt:0 "A sélectionné un §Ypanthéon§!"
+ utah_select_a_pantheon:0 "Selectionner un Panthéon"
