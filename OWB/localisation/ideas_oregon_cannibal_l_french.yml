@@ -34,7 +34,6 @@
  mdt_envoy_for_war:0 "§Nous envoyons un "Envoyé" dans le nord et faisons une offre simple à [RBT.Getname] - nous permettre de lutter pour leur indépendance en échange d'un "Pacte de service", ou nous envahissons non seulement [TRL.Getname], mais eux aussi."
  mdt_has_not_accepted_pact_of_servitude:0 "§Y[RBT.GetNameWithFlag]§ ! n'a pas accepté notre offre, ou nous ne l'avons jamais envoyée aucune offre !.§!§ !"
  mdt_super_mutants_loyal:0 "§gLe Primordial a enfin pu voir la vision de [MDT.GetLeader] et le reste des Trolls que nous n'avons pas encore hypnotisés ont commencé à s'aligner!§!\n"
- mdt_super_mutants_loyal:0 "§Le Primordial a enfin pu voir la vision de [MDT.GetLeader] et le reste des super-mutants que nous n'avons pas encore hypnotiser ont commencé à s'aligner !
  mdt_gecko_warriors:0 "§g [MDT.GetLeader] utilise ses sorcelleries  pour déformer les esprits des Geckos régionaux, les transformant en puissants guerriers hommes-lézards !§!\n"
  mdt_first_commander:0 "§g [MDT.GetLeader], avec beaucoup de difficulté est finalement capable d'ensorceller l'esprit du leader de Troll Warren, Le Primordial§!\n"
  mdt_mlulu_commander:0 "§g [MDT.GetLeader] utilise ses "sombres sortilèges" pour convaincre les membres de la Cour de Corail de lui céder le contrôle de leur grande bête M'lulu§!\n"
@@ -46,5 +45,4 @@
  mdt_artefacts_of_control:0 "Reliques du Contrôle"
  mdt_if_they_are_puppeted_annex:0 "S'ils sont sujets de §Y[MDT.GetNameDef]§ ! ils sont §G Instantanément intégré§!\n"
  mdt_artefacts_of_control_desc:0 "Mesmeralda possède plusieurs reliques "uniques" de son ancien monde avec les Vipers - des colliers d'esclaves, des Mesmetrons et d'autres "reliques enchantées" malfaisantes. Grâce à elles, elle peut contrôler ceux qui vivent à ses pieds avec une efficacité bien supérieure à celle de ses pairs."
- oregon_cannibal_one_year_off_rooting_tt:365 "Reduce §YCombattre le Cannibalisme§! by §Y365§! jours.\n"
  oregon_cannibal_one_year_off_rooting_tt:365 "Réduit §YCombattre le Cannibalisme§! Par §Y365§! jours.\n"
