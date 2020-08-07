@@ -12,13 +12,13 @@
  caf_trade_external_mission:0 "Répondre aux Demandes des Investisseurs"
  caf_trade_external_mission_desc:0 "Alors que d'autres nations commencent à investir dans notre entreprise, la valeur de nos actions continuera à augmenter, mais si nous ne pouvons pas répondre aux attentes des investisseurs en matière de croissance, nos deux économies en pâtiront."
 
- caf_investors_tooltip:0 "Nous avons actuellement besoin d'usines civiles libres §G[?current_industry]§! pour répondre aux demandes de nos investisseurs."
+ caf_investors_tooltip:0 "Nous avons actuellement besoin de §G[?current_industry]§! usines civiles libres pour répondre aux demandes de nos investisseurs."
 
- caf_available_factories_tooltip_1:0 "Nous avons besoin de l'usine §G1§! offmap pour commencer cette mission commerciale."
- caf_available_factories_tooltip_2:0 "Nous avons besoin d'usines hors carte §G2§! disponibles pour commencer cette mission commerciale."
- caf_available_factories_tooltip_3:0 "Nous avons besoin d'usines hors carte §G3§! disponibles pour commencer cette mission commerciale."
- caf_available_factories_tooltip_4:0 "Nous avons besoin d'usines hors carte §G4§! disponibles pour commencer cette mission commerciale."
- caf_available_factories_tooltip_5:0 "Nous avons besoin d'usines hors carte §G5§! disponibles pour commencer cette mission commerciale."
+ caf_available_factories_tooltip_1:0 "Nous avons besoin de §G1§! usine hors carte pour commencer cette mission commerciale."
+ caf_available_factories_tooltip_2:0 "Nous avons besoin de §G2§! usines hors carte disponibles pour commencer cette mission commerciale."
+ caf_available_factories_tooltip_3:0 "Nous avons besoin de §G3§! usines hors carte disponibles pour commencer cette mission commerciale."
+ caf_available_factories_tooltip_4:0 "Nous avons besoin de §G4§! usines hors carte disponibles pour commencer cette mission commerciale."
+ caf_available_factories_tooltip_5:0 "Nous avons besoin de §G5§! usines hors carte disponibles pour commencer cette mission commerciale."
 
 
 
@@ -30,7 +30,7 @@
  caf_trade_aztlan_decision:0 "Préparer une Mission Commerciale à Aztlan"
  caf_trade_aztlan_decision_desc:0 "Aztlan est le pain et le beurre de notre commerce de café, mais cela ne signifie pas que nous pouvons prendre ces clients pour acquis. Une nouvelle initiative commerciale vers les villes frontalières de l'Aztalan est la première étape de notre empire de la chaîne du café."
 
- caf_trade_aztlan_mission:0 "Les Bénéfices Commerciaux d'Aztlan"
+ caf_trade_aztlan_mission:0 "Bénéfices Commerciaux d'Aztlan"
  caf_trade_aztlan_mission_desc:0 ""
 
  caf_trade_honduras_decision:0 "Préparer une Mission Commerciale au Honduras"
@@ -99,8 +99,8 @@
  caf_trade_brotherhood:0 "Préparer une Mission Commerciale à la Confrérie de l'Acier"
  caf_trade_brotherhood_desc:0 ""
 
- caf_dependence:0 "L'art du Deal"
- caf_dependence_desc:0 "L'affaire de notre indépendance étant si généreusement conclue, il n'est que juste que nous aidions les Aztalans à résoudre leur problème de Raiders de fonds. \nItza Pissed-off-O-meter:  §R[?caf_itz_fucking_pissed]§!"
+ caf_dependence:0 "L'Art de la Négociation"
+ caf_dependence_desc:0 "L'affaire de notre indépendance étant si généreusement conclue, il n'est que juste que nous aidions les Aztalans à résoudre leur problème de pillards de fonds. \nItza Pissed-off-O-meter :  §R[?caf_itz_fucking_pissed]§!"
  caf_dependence_disrupt_river_traffic:0 "Perturber le Trafic Fluvial"
  caf_dependence_agitate_tzotzil:0 "Contacter les Partisans de Tzotzil"
  caf_dependence_honduran_partisans:0 "Contacter les Partisans Honduriens"
@@ -112,8 +112,8 @@
  caf_independence:0 "Mauvaises Affaires"
  caf_independence_desc:0 "Rien de personnel, gamin. \nAztlan Pissed-off-O-meter :  §R[?caf_ate_fucking_pissed]§!"
 
- caf_ate_fucking_pissed_tooltip:0 "Nous avons besoin au moins de §R7§! Les points d'indépendance pour se détacher."
- caf_itz_fucking_pissed_tooltip:0 "Nous avons besoin au moins de §R7§! pouvoir de commerce pour mettre l'embargo sur Itza"
+ caf_ate_fucking_pissed_tooltip:0 "Nous avons besoin au moins de §R7§! points d'indépendance pour se détacher."
+ caf_itz_fucking_pissed_tooltip:0 "Nous avons besoin au moins de §R7§! points de pouvoir de commerce pour mettre l'embargo sur Itza"
 
  caf_independence_disrupt_sea_trade:0 "Perturber le Commerce Maritime"
  caf_independence_water_down:0 "Arroser notre Café"
@@ -142,6 +142,6 @@
  caf_ncr_clean_flag:0 "La Dinde à la Traîne"
 
 
- caf_axp_cost:0 "§H25§!£expérience_de_l'armée"
+ caf_axp_cost:0 "§H25§! £army_experience"
 
- caf_axp_cost_blocked:0 "§R25§!£expérience_de_l'armée"
+ caf_axp_cost_blocked:0 "§R25§! £army_experience"
