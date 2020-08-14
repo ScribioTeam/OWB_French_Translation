@@ -94,7 +94,7 @@ add_opinion_modifier = { target = BOS modifier = mutantshatebos }
 add_opinion_modifier = { target = WBH modifier = mutantshatebos }
 
 create_country_leader = {
-	name = "The First"
+	name = "Le Primordial"
 	desc = "First_DESC"
 	picture = "portrait_trl_first.dds"
 	expire = "3000.1.1"
