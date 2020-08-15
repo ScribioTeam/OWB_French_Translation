@@ -1,0 +1,191 @@
+﻿capital = 235
+oob = "TRL_2275"
+
+set_technology = {
+	tribal_civilization = 1
+	tool_engineering = 1
+	standard_weaponry_tech = 1
+	melee_weaponry_tech_1 = 1
+	pre_construction_industry_tech = 1
+	pre_agriculture_industry_tech = 1
+	pre_recycling_industry_tech = 1
+	basic_industry_tech = 1
+	support_weaponry = 1
+	super_mutant_civilization = 1
+	super_mutant_behemoth = 1
+	super_mutant_nightkin_tech = 1
+}
+
+if = {
+	limit = {
+		has_dlc = "Man the Guns"
+	}
+	set_technology = {
+		nautics_tech_1 = 1
+		light_navy_hull_tech_1 = 1
+		naval_invasion_tech_1 = 1
+	}
+}
+if = {
+	limit = {
+		NOT = { has_dlc = "Man the Guns" }
+	}
+	set_technology = {
+		nautics_tech_non_mtg_1 = 1
+		light_navy_hull_tech_non_mtg_1 = 1
+		naval_invasion_tech_non_mtg_1 = 1
+	}
+}
+
+#Purposefully extremely low, as to encourage them to gain lots of stability with their focus tree
+set_stability = 0.12
+set_war_support = 0.65
+set_research_slots = 3
+
+set_politics = {
+	ruling_party = ruler
+	elections_allowed = no
+}
+
+set_popularities = {
+	people = 20
+	elites = 20
+	intellectuals = 20
+	ruler = 40
+}
+
+set_party_name = {
+ideology = ruler
+long_name = "The First's Warband"
+name = "First's Warband"
+}
+
+set_party_name = {
+ideology = elites
+long_name = "Pittman's Warband"
+name = "Pittman's Warband"
+}
+
+set_party_name = {
+ideology = intellectuals
+long_name = "Betty's Warband"
+name = "Betty's Warband"
+}
+
+set_party_name = {
+ideology = people
+long_name = "Bonesnarl's Warband"
+name = "Bonesnarl's Warband"
+}
+
+set_country_flag = slavery_allowed
+set_country_flag = dont_give_super_mutant_generic_high_command
+set_country_flag = dont_give_super_mutant_generic_chiefs
+
+add_ideas = {
+	closed_economy
+	war_economy
+	trl_cave_trolls
+	slavers_idea_2
+	trl_warband_without_a_home
+}
+
+add_opinion_modifier = { target = BOS modifier = mutantshatebos }
+add_opinion_modifier = { target = WBH modifier = mutantshatebos }
+
+create_country_leader = {
+	name = "Le Primordial"
+	desc = "First_DESC"
+	picture = "portrait_trl_first.dds"
+	expire = "3000.1.1"
+	ideology = warlordship
+	id = 10161
+	traits = {
+		isolationist
+		tyrant_of_the_warren
+	}
+}
+
+create_country_leader = {
+	name = "Betty"
+	id = 10162
+	desc = ""
+	picture = "portrait_trl_betty.dds"
+	expire = "3000.1.1"
+	ideology = technocracy
+	traits = {
+		isolationist
+	}
+}
+
+create_country_leader = {
+	name = "Pittman"
+	id = 10163
+	desc = ""
+	picture = "portrait_trl_pittman.dds"
+	expire = "3000.1.1"
+	ideology = militarist_oligarchy
+	traits = {
+		isolationist
+	}
+}
+
+create_country_leader = {
+	name = "Bonesnarl"
+	id = 10164
+	desc = ""
+	picture = "portrait_trl_bonesnarl.dds"
+	expire = "3000.1.1"
+	ideology = peoples_militia
+	traits = {
+		isolationist
+	}
+}
+
+create_corps_commander = {
+	name = "Betty"
+	id = 10165
+	picture = "portrait_trl_betty.dds"
+	skill = 3
+	traits = { intelligent_trait strong_trait }
+	attack_skill = 3
+	defense_skill = 1
+	planning_skill = 2
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "Bonesnarl"
+	id = 10166
+	picture = "portrait_trl_bonesnarl.dds"
+	skill = 2
+	traits = { lucky_trait strong_trait }
+	attack_skill = 1
+	defense_skill = 2
+	planning_skill = 2
+	logistics_skill = 1
+}
+
+create_corps_commander = {
+	name = "Pittman"
+	id = 10167
+	picture = "portrait_trl_pittman.dds"
+	skill = 3
+	traits = { agile_trait strong_trait }
+	attack_skill = 2
+	defense_skill = 2
+	planning_skill = 1
+	logistics_skill = 3
+}
+
+set_variable = { never_return_stolen_territory = 1 }
+
+2275.1.1 = {
+	#Increase this to increase the amount of time before Troll Warren can start declaring war on other nations, and the time it takes WBH to get their war goals against Troll Warren
+	set_variable = { trl_time_days_for_war = 75 }
+	add_offsite_building = { type = industrial_complex level = 1 }
+	add_offsite_building = { type = arms_factory level = 1 }
+	every_unit_leader = { if = { limit = { has_trait = intelligent_trait } save_global_event_target_as = commander_betty } }
+	every_unit_leader = { if = { limit = { has_trait = lucky_trait } save_global_event_target_as = commander_bonesnarl } }
+	every_unit_leader = { if = { limit = { has_trait = agile_trait } save_global_event_target_as = commander_pittman } }
+}

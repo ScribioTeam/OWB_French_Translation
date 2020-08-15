@@ -1,147 +1,147 @@
 ﻿l_french:
 
-  caf_trade_decisions:0 "Coffee Trade Missions"
-  caf_trade_decisions_desc:0 "Current Offmap Factories: §G[?caf_trade_factory_total]§!"
+ caf_trade_decisions:0 "Missions Commerciales du Café"
+ caf_trade_decisions_desc:0 "Usines actuelles hors carte : §G[?caf_trade_factory_total]§!"
 
-  caf_trade_decisions_external:0 "Financial Decisions"
-  caf_trade_decisions_external_desc:0 ""
+ caf_trade_decisions_external:0 "Décisions Financières"
+ caf_trade_decisions_external_desc:0 ""
 
-  caf_trade_external:0 "Invest in Costa Cafeinada"
-  caf_trade_external_desc:0 ""
+ caf_trade_external:0 "Investir dans la Costa Cafeinada"
+ caf_trade_external_desc:0 ""
 
-  caf_trade_external_mission:0 "Meeting Investor Demands"
-  caf_trade_external_mission_desc:0 "As other nations begin to invest in our company, our stock value will continue to rise, however, if we cannot meet investor expectations for growth, both of our economies will suffer for it."
+ caf_trade_external_mission:0 "Répondre aux Demandes des Investisseurs"
+ caf_trade_external_mission_desc:0 "Alors que d'autres nations commencent à investir dans notre entreprise, la valeur de nos actions continuera à augmenter, mais si nous ne pouvons pas répondre aux attentes des investisseurs en matière de croissance, nos deux économies en pâtiront."
 
-  caf_investors_tooltip:0 "We currently need §G[?current_industry]§! free civilian factories to meet our investor demands."
+ caf_investors_tooltip:0 "Nous avons actuellement besoin de §G[?current_industry]§! usines civiles libres pour répondre aux demandes de nos investisseurs."
 
-  caf_available_factories_tooltip_1:0 "We need §G1§! offmap factory available to begin this trade mission."
-  caf_available_factories_tooltip_2:0 "We need §G2§! offmap factories available to begin this trade mission."
-  caf_available_factories_tooltip_3:0 "We need §G3§! offmap factories available to begin this trade mission."
-  caf_available_factories_tooltip_4:0 "We need §G4§! offmap factories available to begin this trade mission."
-  caf_available_factories_tooltip_5:0 "We need §G5§! offmap factories available to begin this trade mission."
-
-
-
-  caf_trade_internal:0 "Internal investments"
-  caf_trade_internal_desc:0 ""
-
-  caf_internal_investment_tt:0 "Continued internal investment will allow for us to boost our external trading capacity."
-
-  caf_trade_aztlan_decision:0 "Prepare A Trade Mission to Aztlan"
-  caf_trade_aztlan_decision_desc:0 "Aztlan is the bread and butter of our coffee trade, but that doesn't mean we can take these customers for granted. A new trade initiative to the Aztalan border cities is the first stop in our coffee chain empire."
-
-  caf_trade_aztlan_mission:0 "Aztlan Trade Profits"
-  caf_trade_aztlan_mission_desc:0 ""
-
-  caf_trade_honduras_decision:0 "Prepare A Trade Mission to Honduras"
-  caf_trade_honduras_decision_desc:0 "Honduras is a wild place, the last line of defense against a horde of horrors and jungle that extends without end. Perhaps we can give them a discount for their services to civilisation."
-
-  caf_trade_honduras_mission:0 "Honduran Trade Profits"
-  caf_trade_honduras_mission_desc:0 ""
-
-  caf_trade_tzotzil_decision:0 "Prepare A Trade Mission to Tzotzil"
-  caf_trade_tzotzil_decision_desc:0 "Our position with Tzotzil is...precarious, to say the least. But far be it from us to let the threat of an upcoming bloody war get in the way of good business!"
-
-  caf_trade_tzotzil_mission:0 "Tzotzil Trade Profits"
-  caf_trade_tzotzil_mission_desc:0 ""
-
-  caf_trade_cartels:0 "Prepare A Trade Mission to the Cartels"
-  caf_trade_cartels_desc:0 ""
-
-  caf_trade_cartels_mission:0 "Cartel Trade Profits"
-  caf_trade_cartels_mission_desc:0 ""
-
-  caf_trade_gente:0 "Prepare A Trade Mission to Gente Del Sol"
-  caf_trade_gente_desc:0 ""
-
-  caf_trade_gente_mission:0 "Gente Trade Profits"
-  caf_trade_gente_mission_desc:0 ""
-
-  caf_trade_tohono:0 "Prepare A Trade Mission to Tohono"
-  caf_trade_tohono_desc:0 ""
-
-  caf_trade_tohono_mission:0 "Tohono Trade Profits"
-  caf_trade_tohono_mission_desc:0 ""
-
-  caf_trade_banditos:0 "Prepare A Trade Mission to the Baja Bandits"
-  caf_trade_banditos_desc:0 ""
-
-  caf_trade_baja:0 "Prepare A Trade Mission to the Baja"
-  caf_trade_baja_desc:0 ""
-
-  caf_trade_banditos_mission:0 "Baja Trade Profits"
-  caf_trade_banditos_mission_desc:0 ""
-
-  caf_trade_ncr:0 "Prepare A Trade Mission to the N.C.R."
-  caf_trade_ncr_desc:0 ""
-
-  caf_trade_ncr_mission:0 "Californian Trade Profits"
-  caf_trade_ncr_mission_desc:0 ""
-
-  caf_trade_arroyo:0 "The Last Port of Call"
-  caf_trade_arroyo_desc:0 ""
-
-  caf_trade_arroyo_mission:0 "Arroyan Trade Profits"
-  caf_trade_arroyo_mission_desc:0 ""
-
-  caf_trade_bellingham:0 "Prepare A Trade Mission to the Far North"
-  caf_trade_bellingham_desc:0 ""
-
-  caf_trade_bellingham_mission:0 "Northern Trade Profits"
-  caf_trade_bellingham_mission_desc:0 ""
-
-  caf_trade_victoria:0 "Prepare A Trade Mission to the Frozen Isles"
-  caf_trade_victoria_desc:0 ""
-
-  caf_trade_victoria_mission:0 "Royal Trade Profits"
-  caf_trade_victoria_mission_desc:0 ""
-
-  caf_trade_brotherhood:0 "Prepare A Trade Mission to the Brotherhood of Steel"
-  caf_trade_brotherhood_desc:0 ""
-
-  caf_dependence:0 "The Art of the Deal"
-  caf_dependence_desc:0 "With the business of our independence so generously concluded, it's only fair that we help the Aztalan out with their upstart raider problem. \nItza Pissed-off-O-meter:  §R[?caf_itz_fucking_pissed]§!"
-  caf_dependence_disrupt_river_traffic:0 "Disrupt River Traffic"
-  caf_dependence_agitate_tzotzil:0 "Contact Tzotzil Partisans"
-  caf_dependence_honduran_partisans:0 "Contact Honduran Partisans"
-  caf_dependence_economic_pressure:0 "Embargo Itza"
-
-  caf_dependence_economic_refugees:0 "Accept Itzan Refugees"
-  caf_dependence_war_readiness:0 "Close the Borders"
-
-  caf_independence:0 "Bad Business"
-  caf_independence_desc:0 "Nothing personal, kid. \nAztlan Pissed-off-O-meter:  §R[?caf_ate_fucking_pissed]§!"
-
-  caf_ate_fucking_pissed_tooltip:0 "We need at least §R7§! Independence points to break away."
-  caf_itz_fucking_pissed_tooltip:0 "We need at least §R7§! Trade Power points to embargo Itza."
-
-  caf_independence_disrupt_sea_trade:0 "Disrupt Sea Trade"
-  caf_independence_water_down:0 "Water Down Our Coffee"
-  caf_independence_disrupt_advisors:0 "Disrupt Aztlan Advisors"
-  caf_independence_tariffs:0 "Hike Food Prices"
-  caf_independence_propaganda:0 "Issue Anti-Aztlan Propaganda"
-  caf_independence_trade_itza:0 "A Deal with the Devil"
-
-  caf_war_profiteering:0 "War Profiteering"
-  caf_arms_trade:0 "Arms Trade"
-
-  caf_invest_tooltip:0 "Costa has established a trade route to our country."
-  caf_investor:0 "Investor"
-  investors:0 "Investors"
-  current_industry:0 "Current Industry"
-  caf_trade_success:0 "Successful Trade Mission"
-  caf_trade_failure:0 "Unsuccessful Trade Mission"
-
-  caf_ncr_crisis:0 "Gumming up the Machine of Democracy"
-  caf_bribe_congress:0 "Bribe Members of Congress"
-  caf_reduce_addictiveness:0 "Reduce Addictive Chemicals"
-  caf_free_samples:0 "Free samples!"
-  caf_allgood_support:0 "Pressure Allgood"
-  caf_ncr_legislation_mission:0 "The N.C.R. Bans Coffee!"
-
-  caf_ncr_clean_flag:0 "Going Cold Turkey"
+ caf_available_factories_tooltip_1:0 "Nous avons besoin de §G1§! usine hors carte pour commencer cette mission commerciale."
+ caf_available_factories_tooltip_2:0 "Nous avons besoin de §G2§! usines hors carte disponibles pour commencer cette mission commerciale."
+ caf_available_factories_tooltip_3:0 "Nous avons besoin de §G3§! usines hors carte disponibles pour commencer cette mission commerciale."
+ caf_available_factories_tooltip_4:0 "Nous avons besoin de §G4§! usines hors carte disponibles pour commencer cette mission commerciale."
+ caf_available_factories_tooltip_5:0 "Nous avons besoin de §G5§! usines hors carte disponibles pour commencer cette mission commerciale."
 
 
-  caf_axp_cost:0 "§H25§!£army_experience"
 
-  caf_axp_cost_blocked:0 "§R25§!£army_experience"
+ caf_trade_internal:0 "Investissements Internes"
+ caf_trade_internal_desc:0 ""
+
+ caf_internal_investment_tt:0 "La poursuite des investissements internes nous permettra de renforcer notre capacité de commerce extérieur."
+
+ caf_trade_aztlan_decision:0 "Préparer une Mission Commerciale à Aztlan"
+ caf_trade_aztlan_decision_desc:0 "Aztlan est le pain et le beurre de notre commerce de café, mais cela ne signifie pas que nous pouvons prendre ces clients pour acquis. Une nouvelle initiative commerciale vers les villes frontalières de l'Aztalan est la première étape de notre empire de la chaîne du café."
+
+ caf_trade_aztlan_mission:0 "Bénéfices Commerciaux d'Aztlan"
+ caf_trade_aztlan_mission_desc:0 ""
+
+ caf_trade_honduras_decision:0 "Préparer une Mission Commerciale au Honduras"
+ caf_trade_honduras_decision_desc:0 "Le Honduras est un endroit sauvage, la dernière ligne de défense contre une horde d'horreurs et une jungle qui s'étend sans fin. Peut-être pouvons-nous leur accorder une remise pour leurs services à la civilisation."
+
+ caf_trade_honduras_mission:0 "Profits Commerciaux du Honduras"
+ caf_trade_honduras_mission_desc:0 ""
+
+ caf_trade_tzotzil_decision:0 "Préparer une Mission Commerciale à Tzotzil"
+ caf_trade_tzotzil_decision_desc:0 "Notre position avec Tzotzil est pour le moins précaire. Mais loin de nous l'idée de laisser la menace d'une guerre sanglante à venir entraver les bonnes affaires !"
+
+ caf_trade_tzotzil_mission:0 "Profits Commerciaux de Tzotzil"
+ caf_trade_tzotzil_mission_desc:0 ""
+
+ caf_trade_cartels:0 "Préparer une Mission Commerciale Auprès des Cartels"
+ caf_trade_cartels_desc:0 ""
+
+ caf_trade_cartels_mission:0 "Profits Commerciaux des Cartels"
+ caf_trade_cartels_mission_desc:0 ""
+
+ caf_trade_gente:0 "Préparer une Mission Commerciale à Gente Del Sol"
+ caf_trade_gente_desc:0 ""
+
+ caf_trade_gente_mission:0 "Bénéfices Commerciaux de Gente"
+ caf_trade_gente_mission_desc:0 ""
+
+ caf_trade_tohono:0 "Préparer une Mission Commerciale à Tohono"
+ caf_trade_tohono_desc:0 ""
+
+ caf_trade_tohono_mission:0 "Bénéfices Commerciaux de Tohono"
+ caf_trade_tohono_mission_desc:0 ""
+
+ caf_trade_banditos:0 "Préparer une Mission Commerciale Auprès des Bandits de Baja"
+ caf_trade_banditos_desc:0 ""
+
+ caf_trade_baja:0 "Préparer une Mission Commerciale à Baja"
+ caf_trade_baja_desc:0 ""
+
+ caf_trade_banditos_mission:0 "Bénéfices commerciaux de Baja"
+ caf_trade_banditos_mission_desc:0 ""
+
+ caf_trade_ncr:0 "Préparer une Mission Commerciale dans la R.N.C"
+ caf_trade_ncr_desc:0 ""
+
+ caf_trade_ncr_mission:0 "Bénéfices Commerciaux de la Californie"
+ caf_trade_ncr_mission_desc:0 ""
+
+ caf_trade_arroyo:0 "La Dernière Escale"
+ caf_trade_arroyo_desc:0 ""
+
+ caf_trade_arroyo_mission:0 "Bénéfices Commerciaux de l'Arroyo"
+ caf_trade_arroyo_mission_desc:0 ""
+
+ caf_trade_bellingham:0 "Préparer une Mission Commerciale dans le Grand Nord"
+ caf_trade_bellingham_desc:0 ""
+
+ caf_trade_bellingham_mission:0 "Bénéfices Commerciaux du Nord"
+ caf_trade_bellingham_mission_desc:0 ""
+
+ caf_trade_victoria:0 "Préparer une Mission Commerciale dans les Îles Glacées"
+ caf_trade_victoria_desc:0 ""
+
+ caf_trade_victoria_mission:0 "Bénéfices du Commerce Royal"
+ caf_trade_victoria_mission_desc:0 ""
+
+ caf_trade_brotherhood:0 "Préparer une Mission Commerciale à la Confrérie de l'Acier"
+ caf_trade_brotherhood_desc:0 ""
+
+ caf_dependence:0 "L'Art de la Négociation"
+ caf_dependence_desc:0 "L'affaire de notre indépendance étant si généreusement conclue, il n'est que juste que nous aidions les Aztalans à résoudre leur problème de pillards de fonds. \nItza Pissed-off-O-meter :  §R[?caf_itz_fucking_pissed]§!"
+ caf_dependence_disrupt_river_traffic:0 "Perturber le Trafic Fluvial"
+ caf_dependence_agitate_tzotzil:0 "Contacter les Partisans de Tzotzil"
+ caf_dependence_honduran_partisans:0 "Contacter les Partisans Honduriens"
+ caf_dependence_economic_pressure:0 "Embargo sur Itza"
+
+ caf_dependence_economic_refugees:0 "Accepter les Réfugiés Itzani"
+ caf_dependence_war_readiness:0 "Fermer les Frontières"
+
+ caf_independence:0 "Mauvaises Affaires"
+ caf_independence_desc:0 "Rien de personnel, gamin. \nAztlan Pissed-off-O-meter :  §R[?caf_ate_fucking_pissed]§!"
+
+ caf_ate_fucking_pissed_tooltip:0 "Nous avons besoin au moins de §R7§! points d'indépendance pour se détacher."
+ caf_itz_fucking_pissed_tooltip:0 "Nous avons besoin au moins de §R7§! points de pouvoir de commerce pour mettre l'embargo sur Itza"
+
+ caf_independence_disrupt_sea_trade:0 "Perturber le Commerce Maritime"
+ caf_independence_water_down:0 "Arroser notre Café"
+ caf_independence_disrupt_advisors:0 "Perturber les Conseillers d'Aztlan"
+ caf_independence_tariffs:0 "Hausse des prix des Denrées Alimentaires"
+ caf_independence_propaganda:0 "Diffuser la Propagande Anti-Aztlan"
+ caf_independence_trade_itza:0 "Un Pacte avec le Diable"
+
+ caf_war_profiteering:0 "Profiter de la Guerre"
+ caf_arms_trade:0 "Commerce des Armes"
+
+ caf_invest_tooltip:0 "Costa a établi une route commerciale vers notre pays."
+ caf_investor:0 "Investisseur"
+ investors:0 "Investisseurs"
+ current_industry:0 "Secteur Industriel"
+ caf_trade_success:0 "Mission Commerciale Réussie"
+ caf_trade_failure:0 "Mission commerciale Infructueuse"
+
+ caf_ncr_crisis:0 "Gommer la Machine de la Démocratie"
+ caf_bribe_congress:0 "Corruption de Membres du Congrès"
+ caf_reduce_addictiveness:0 "Réduire les Substances Chimiques Addictives"
+ caf_free_samples:0 "Des échantillons gratuits !"
+ caf_allgood_support:0 "Pression sur le Gouvernement"
+ caf_ncr_legislation_mission:0 "La R.N.C interdit le café !"
+
+ caf_ncr_clean_flag:0 "La Dinde à la Traîne"
+
+
+ caf_axp_cost:0 "§H25§! £army_experience"
+
+ caf_axp_cost_blocked:0 "§R25§! £army_experience"

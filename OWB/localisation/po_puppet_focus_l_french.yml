@@ -1,503 +1,503 @@
 ﻿l_french:
 
-ncr_puppet_bear_victorious:0 "The Bear Victorious"
-ncr_puppet_bear_victorious_desc:0 "The Bear Victorious"
+ ncr_puppet_bear_victorious:0 "L'Ours Victorieux"
+ ncr_puppet_bear_victorious_desc:0 "L'Ours Victorieux"
 
-ncr_puppet_capital_siege:0 "The Siege of [Root.Capital.GetName]"
-ncr_puppet_capital_siege_desc:0 "The Siege of [Root.Capital.GetName]"
+ ncr_puppet_capital_siege:0 "Le Siège de [Root.Capital.GetName]"
+ ncr_puppet_capital_siege_desc:0 "Le Siège de [Root.Capital.GetName]"
 
-ncr_puppet_ncrta:0 "The N.C.R. Territoral Administration"
-ncr_puppet_ncrta_desc:0 "The N.C.R. Territoral Administration"
+ ncr_puppet_ncrta:0 "L'Administration Territoriale de la R.N.C"
+ ncr_puppet_ncrta_desc:0 "L'Administration Territoriale de la R.N.C"
 
-ncr_puppet_subduing_warchiefs:0 "Subduing the Warbands"
-ncr_puppet_subduing_warchiefs_desc:0 "While we may have pacified the majority of the region, the remaining raiders have yet to recognise their new lot in life. By making an example of the most rebellious of the warchiefs, we can convince the rest of the raiders to integrate peacefully."
+ ncr_puppet_subduing_warchiefs:0 "Soumettre les Bandes de Guerre"
+ ncr_puppet_subduing_warchiefs_desc:0 "Si nous avons pacifié la majorité de la région, les autres pilleurs n'ont pas encore reconnu leur nouveau statut dans la vie. En faisant un exemple du plus rebelle des chefs de guerre, nous pouvons convaincre le reste des raiders de s'intégrer pacifiquement."
 
-ncr_puppet_taking_skulls_off_sticks:0 "Taking Skulls off Sticks"
-ncr_puppet_taking_skulls_off_sticks_desc:0 "Turning raiders into law-abiding citizens is no easy task, and such a process has to encompass every aspect of society. By dismantling the various gorey monuments to violence that have been erected in the region, we can hopefully dampen the bloodlust in our new subjects."
+ ncr_puppet_taking_skulls_off_sticks:0 "Enlever les Crânes des Bâtons"
+ ncr_puppet_taking_skulls_off_sticks_desc:0 "Il n'est pas facile de transformer les raiders en citoyens respectueux des lois, et un tel processus doit englober tous les aspects de la société. En démantelant les différents monuments gorey de la violence qui ont été érigés dans la région, nous pouvons espérer atténuer la soif de sang de nos nouveaux sujets."
 
-ncr_puppet_freeing_slaves:0 "Freeing the Slaves"
-ncr_puppet_freeing_slaves_desc:0 "Slavery is disgustingly commonplace in the wasteland, now that we have brought order to the region, releasing the captured innocents that were enslaved under the raiders, we can win the loyalty of a large portion of our citizens."
+ ncr_puppet_freeing_slaves:0 "Libérer les Esclaves"
+ ncr_puppet_freeing_slaves_desc:0 "L'esclavage est une pratique répugnante dans les terres désolées. Maintenant que nous avons mis de l'ordre dans la région, en libérant les innocents capturés qui étaient réduits en esclavage par les ravisseurs, nous pouvons gagner la loyauté d'une grande partie de nos citoyens."
 
-ncr_puppet_tribal_talks:0 "Tribal Talks"
-ncr_puppet_tribal_talks_desc:0 "While the tribals of the wasteland may be uncivilized, unhygenic, and generally pathetic, they still can listen to reason, By engaging in discussion with the Elders of the community, a peaceful transition to modernity can be ensured."
+ ncr_puppet_tribal_talks:0 "Discussions Tribales"
+ ncr_puppet_tribal_talks_desc:0 "Si les tribus des terres désolées peuvent être non civilisées, non hygiéniques et généralement pathétiques, elles peuvent néanmoins entendre raison. En discutant avec les anciens de la communauté, une transition pacifique vers la modernité peut être assurée."
 
-ncr_puppet_introduce_modernity:0 "Introducing Modernity"
-ncr_puppet_introduce_modernity_desc:0 "The isolation of wasteland tribes may be their safety, but it has also meant that they are sorely lacking in modern amenities. An easy way to win support amongst the natives is to start a new infrastructure project to facilitate growth in the region."
+ ncr_puppet_introduce_modernity:0 "Introduire la Modernité"
+ ncr_puppet_introduce_modernity_desc:0 "L'isolement des tribus des terres incultes est peut-être leur sécurité, mais il signifie aussi qu'elles manquent cruellement de commodités modernes. Un moyen facile de gagner le soutien des indigènes est de lancer un nouveau projet d'infrastructure pour faciliter la croissance dans la région. "
 
-ncr_puppet_dispelling_myths:0 "Dispelling Myths"
-ncr_puppet_dispelling_myths_desc:0 "No matter how many roads we build or wells we dig, at the end of the day the biggest obstacle to enlightening the natives is themselves. If we can provide a proper education for the tribals, we can hopefully dispell the most ignorant of their beliefs."
+ ncr_puppet_dispelling_myths:0 "Dissiper les Mythes"
+ ncr_puppet_dispelling_myths_desc:0 "Peu importe le nombre de routes que nous construisons ou de puits que nous creusons, au bout du compte, le plus grand obstacle à l'éducation des indigènes est eux-mêmes. Si nous pouvons fournir une éducation appropriée aux tribus, nous pouvons espérer dissiper les plus ignorants de leurs croyances."
 
-ncr_puppet_community_leaders:0 "Engaging the Community"
-ncr_puppet_community_leaders_desc:0 "Becoming part of something larger is always an uncertain prospect, and not everyone has the highest opinion of the N.C.R. If we are to fully incorporate our new state, we need to prove ourselves to be invested in the community, and to take steps to see it grow."
+ ncr_puppet_community_leaders:0 "Engagement de la Communauté"
+ ncr_puppet_community_leaders_desc:0 "Faire partie de quelque chose de plus grand est toujours une perspective incertaine, et tout le monde n'a pas la plus haute opinion de la R.N.C. Si nous voulons intégrer pleinement notre nouvel État, nous devons prouver que nous sommes investis dans la communauté, et prendre des mesures pour la voir grandir."
 
-ncr_puppet_introduce_law:0 "Introduce N.C.R. Law"
-ncr_puppet_introduce_law_desc:0 "The wasteland is a lawless place, like the West of Old, might too often makes right on the frontiers. The N.C.R. brings order, and by introducing and enforcing our code of laws into the community, we can prove this claim."
+ ncr_puppet_introduce_law:0 "Introduire les Lois de la R.N.C"
+ ncr_puppet_introduce_law_desc:0 "Les Terres Désolées est un lieu sans loi, comme l'Ouest de l'Ancien, pourrait trop souvent faire droit aux frontières. La R.N.C apporte l'ordre, et en introduisant et en appliquant notre code de lois dans la communauté, nous pouvons prouver cette affirmation."
 
-ncr_puppet_taxes_for_infrastructure:0 "Taxes for Infrastructure"
-ncr_puppet_taxes_for_infrastructure_desc:0 "Freedom isn't free, and sadly, neither are roads. To better integrate frontier states into the republic, we will use our new taxpayers to fund infrastructure in the region."
+ ncr_puppet_taxes_for_infrastructure:0 "Taxes pour les Infrastructures"
+ ncr_puppet_taxes_for_infrastructure_desc:0 "La liberté n'est pas gratuite, et malheureusement, les routes non plus. Pour mieux intégrer les États frontaliers dans la république, nous utiliserons nos nouveaux contribuables pour financer les infrastructures dans la région."
 
-ncr_puppet_ncr_draft:0 "The N.C.R. Draft"
-ncr_puppet_ncr_draft_desc:0 "Now that we have won the hearts of minds of the people, we need to protect them. Fresh recruits who can patrol the region will build security and patriotism for our new state."
+ ncr_puppet_ncr_draft:0 "Le Projet de R.N.C"
+ ncr_puppet_ncr_draft_desc:0 "Maintenant que nous avons gagné le cœur des gens, nous devons les protéger. Les nouvelles recrues qui pourront patrouiller dans la région renforceront la sécurité et le patriotisme de notre nouvel État."
 
-ncr_puppet_introducing_trade:0 "Reintroduce Trade"
-ncr_puppet_introducing_trade_desc:0 "With the roads now secured, we need to prioritize new trading opportunities in the region, N.C.R. based caravan companies can start bringing wealth from the capital to us."
+ ncr_puppet_introducing_trade:0 "Rétablir le Commerce"
+ ncr_puppet_introducing_trade_desc:0 "Les routes étant maintenant sécurisées, nous devons donner la priorité aux nouvelles opportunités commerciales dans la région, les sociétés de caravanes basées en R.N.C peuvent commencer à nous apporter la richesse de la capitale."
 
-ncr_puppet_creating_defense_militia:0 "Defensive Militias"
-ncr_puppet_creating_defense_militia_desc:0 "While our recruits may not meet the standards of the N.C.R., They have everything to lose when fighting for their state. By focusing our troop capabilities on defense, we can maximise our effective fighting strength."
+ ncr_puppet_creating_defense_militia:0 "Milices Défensives"
+ ncr_puppet_creating_defense_militia_desc:0 "Si nos recrues ne répondent pas aux normes de la R.C.N., elles ont tout à perdre en se battant pour leur État. En concentrant nos capacités de troupes sur la défense, nous pouvons maximiser notre force de combat effective."
 
-ncr_puppet_light_of_civilisation:0 "Light of Civilisation"
-ncr_puppet_light_of_civilisation_desc:0 "While we don't have the population of Shady Sands, or the technology of Dayglow, we still have one thing in common with these great cities, civilisation. We are the newest bright light of humanity in the wasteland, and we're damn proud of this."
+ ncr_puppet_light_of_civilisation:0 "Lumière de la Civilisation"
+ ncr_puppet_light_of_civilisation_desc:0 "Bien que nous n'ayons pas la population de Shady Sands, ni la technologie de Dayglow, nous avons toujours une chose en commun avec ces grandes villes, la civilisation. Nous sommes la plus récente lumière de l'humanité dans les terres désolées, et nous en sommes sacrément fiers."
 
-ncr_puppet_new_industry:0 "New Industry"
-ncr_puppet_new_industry_desc:0 "With more and more citizens able to work, and with our infrastucture now with a capability to support it, we can finally invest in a proper industrial region in our state."
+ ncr_puppet_new_industry:0 "Nouvelle Industrie"
+ ncr_puppet_new_industry_desc:0 "Avec de plus en plus de citoyens capables de travailler, et avec notre infrastructure désormais capable de la soutenir, nous pouvons enfin investir dans une véritable région industrielle dans notre État."
 
-ncr_puppet_embracing_the_future:0 "Embracing The Future"
-ncr_puppet_embracing_the_future_desc:0 "For too long, our people have been stuck in the Old World Blues, unable to move on from the past. But now, the future is bright, and our state will be among the first to embrace it."
+ ncr_puppet_embracing_the_future:0 "Embrasser l'Avenir"
+ ncr_puppet_embracing_the_future_desc:0 "Pendant trop longtemps, notre peuple a été coincé dans le blues de l'Ancien Monde, incapable d'oublier le passé. Mais aujourd'hui, l'avenir est prometteur, et notre État sera parmi les premiers à l'embrasser."
 
-ncr_puppet_ncr_state:0 "A new N.C.R. State"
-ncr_puppet_ncr_state_desc:0 "Industry is thriving, culture is flowering, people are dying less and generally being more polite. The N.C.R. has a new, loyal state, and it's all thanks to the hard-working men and women in the Territorial Administration."
+ ncr_puppet_ncr_state:0 "Un Nouvel Etat de la R.N.C"
+ ncr_puppet_ncr_state_desc:0 "L'industrie est florissante, la culture s'épanouit, les gens meurent moins et sont généralement plus polis. La R.N.C a un nouvel État loyal, et tout cela grâce aux hommes et aux femmes qui travaillent dur au sein de l'administration territoriale."
 
 ##RRG
 
-rrg_puppet_matador_and_bull:0 "Between the River and the Bull"
+ rrg_puppet_matador_and_bull:0 "Entre le Fleuve et le Taureau"
 rrg_puppet_matador_and_bull_desc:0 ""
 
-rrg_puppet_capital_treaty:0 "The Treaty of [Root.Capital.GetName]"
+ rrg_puppet_capital_treaty:0 "Le Traité de [Root.Capital.GetName]"
 rrg_puppet_capital_treaty_desc:0 ""
 
-rrg_puppet_building_the_estado:0 "Building the Estado"
+ rrg_puppet_building_the_estado:0 "Construction de l'Estado"
 rrg_puppet_building_the_estado_desc:0 ""
 
-rrg_puppet_dantes_vision:0 "A Great Vision"
+ rrg_puppet_dantes_vision:0 "Une Grande Vision"
 rrg_puppet_dantes_vision_desc:0 ""
 
-rrg_puppet_mutual_trade:0 "Mutual Trade Agreements"
+ rrg_puppet_mutual_trade:0 "Accords Commerciaux Mutuels"
 rrg_puppet_mutual_trade_desc:0 ""
 
-rrg_puppet_economic_support:0 "Economic Support"
+ rrg_puppet_economic_support:0 "Soutien Économique"
 rrg_puppet_economic_support_desc:0 ""
 
-rrg_puppet_the_new_ranch_model:0 "The New Ranch Model"
+ rrg_puppet_the_new_ranch_model:0 "Le Nouveau Modèle de Ranch"
 rrg_puppet_the_new_ranch_model_desc:0 ""
 
-rrg_puppet_moras_rule:0 "A Firm Hand"
+ rrg_puppet_moras_rule:0 "Une Main Ferme"
 rrg_puppet_moras_rule_desc:0 ""
 
-rrg_puppet_resource_extraction:0 "Resource Extraction"
+ rrg_puppet_resource_extraction:0 "Extraction des Ressources"
 rrg_puppet_resource_extraction_desc:0 ""
 
-rrg_puppet_colonial_conscription:0 "Territorial Conscription"
+ rrg_puppet_colonial_conscription:0 "Conscription Territoriale"
 rrg_puppet_colonial_conscription_desc:0 ""
 
-rrg_puppet_for_the_good_of_the_republic:0 "For the Good of the Republic"
+ rrg_puppet_for_the_good_of_the_republic:0 "Pour le Bien de la République"
 rrg_puppet_for_the_good_of_the_republic_desc:0 ""
 
-rrg_puppet_rosados_ideas:0 "A Brilliant Mind"
+ rrg_puppet_rosados_ideas:0 "Un Esprit Brillant"
 rrg_puppet_rosados_ideas_desc:0 ""
 
-rrg_puppet_the_best_and_the_brightest:0 "The Best and the Brightest"
+ rrg_puppet_the_best_and_the_brightest:0 "Les Meilleurs et les plus Brillants"
 rrg_puppet_the_best_and_the_brightest_desc:0 ""
 
-rrg_puppet_robotic_hands_make_light_work:0 "Robotic Hands Make Light Work"
+ rrg_puppet_robotic_hands_make_light_work:0 "Des mains Robotisées pour un Travail Léger"
 rrg_puppet_robotic_hands_make_light_work_desc:0 ""
 
-rrg_puppet_join_the_NIPT:0 "Join the N.I.P.T."
+ rrg_puppet_join_the_NIPT:0 "Rejoignez le N.I.P.T."
 rrg_puppet_join_the_NIPT_desc:0 ""
 
-rrg_puppet_defense_of_the_state:0 "Defense of the State"
+ rrg_puppet_defense_of_the_state:0 "Défense de l'État"
 rrg_puppet_defense_of_the_state_desc:0 ""
 
-rrg_puppet_border_patrols:0 "Border Patrols"
+ rrg_puppet_border_patrols:0 "Patrouilles Frontalières"
 rrg_puppet_border_patrols_desc:0 ""
 
-rrg_puppet_red_flags_for_the_bull:0 "Red Flags for the Bull"
+ rrg_puppet_red_flags_for_the_bull:0 "Drapeaux Rouges pour le Taureau"
 rrg_puppet_red_flags_for_the_bull_desc:0 ""
 
-rrg_puppet_invite_the_reclamation_bureau:0 "Invite the Reclamation Bureau"
+ rrg_puppet_invite_the_reclamation_bureau:0 "Inviter le Bureau de Réclamation"
 rrg_puppet_invite_the_reclamation_bureau_desc:0 ""
 
-rrg_puppet_texan_arms_investment:0 "Texan Arms Investments"
+ rrg_puppet_texan_arms_investment:0 "Investissements Texans en Matière d'Armement"
 rrg_puppet_texan_arms_investment_desc:0 ""
 
-rrg_puppet_el_nuevo_estado:0 "El Nuevo Estado"
+ rrg_puppet_el_nuevo_estado:0 "El Nuevo Estado"
 rrg_puppet_el_nuevo_estado_desc:0 ""
 
 ### CES
 
-ces_puppet_bull_victorious:0 "The Victorious Bull"
-ces_puppet_bull_victorious_desc:0 "We couldn't stop them. We failed. They came in like the thunder and slaughtered us like cattle. Put our women and children in cages, conscripted the able men, maimed and butchered the unable ones. Years and years of culture and history, destroyed. How did it happen?"
+ ces_puppet_bull_victorious:0 "Le Taureau Victorieux"
+ ces_puppet_bull_victorious_desc:0 "Nous ne pouvions pas les arrêter. Nous avons échoué. Ils sont arrivés comme le tonnerre et nous ont massacrés comme du bétail. Ils ont mis nos femmes et nos enfants dans des cages, enrôlé les hommes aptes, mutilé et massacré les incapables. Des années et des années de culture et d'histoire, détruites. Comment cela s'est-il produit ?"
 
-ces_puppet_capital_siege:0 "The Burning of [Root.Capital.GetName]"
-ces_puppet_capital_siege_desc:0 "Caesar wanted to set an example. After our empire fell, he marched his army all the way to our capital. He set it ablaze, burned it and locked innocent people inside of the buildings. The only comfort we can have for them is that they died free..."
+ ces_puppet_capital_siege:0 "L'incendie de [Root.Capital.GetName]"
+ ces_puppet_capital_siege_desc:0 "César voulait donner l'exemple. Après la chute de notre empire, il a fait défiler son armée jusqu'à notre capitale. Il l'a incendiée, l'a brûlée et a enfermé des innocents à l'intérieur des bâtiments. Le seul réconfort que nous pouvons avoir pour eux est qu'ils sont morts libres..."
 
-ces_puppet_administratio_imperii:0 "The Administratio Imperii"
-ces_puppet_administratio_imperii_desc:0 "The occupation arm of the legion, those ruthless men want first and foremost to make us slaves in service of their masters. They will use any mean they can to reach that goal, but what is their precise intention with us?"
+ ces_puppet_administratio_imperii:0 "L'Administratio Imperii"
+ ces_puppet_administratio_imperii_desc:0 "Bras d'occupation de la légion, ces hommes impitoyables veulent d'abord et avant tout faire de nous des esclaves au service de leurs maîtres. Ils utiliseront tous les moyens possibles pour atteindre ce but, mais quelle est leur intention précise à notre égard ?"
 
-ces_puppet_via_romana:0 "Via Romana"
-ces_puppet_via_romana_desc:0 "A lot of work has been done to improve the roads leading to Caesar's empire, and our people has regarded such things with curiosity and weariness. We must warn them, there is little doubt that they only do this to increase the output of slaves and plundered resources. "
+ ces_puppet_via_romana:0 "Via Romana"
+ ces_puppet_via_romana_desc:0 "Beaucoup de travail a été fait pour améliorer les routes menant à l'empire de César, et notre peuple a considéré ces choses avec curiosité et lassitude. Nous devons les avertir, il ne fait aucun doute qu'ils ne font cela que pour augmenter la production d'esclaves et les ressources pillées. "
 
-ces_puppet_roman_justice:0 "Roman Justice"
-ces_puppet_roman_justice_desc:0 "More and more, criminals are executed and made an example of in gruesome ways. Public firing squad, decapitation, Crucifixion. And while some of these criminals were murderers and bandits, most of them were petty thiefs or intellectuals."
+ ces_puppet_roman_justice:0 "Justice Romaine"
+ ces_puppet_roman_justice_desc:0 "De plus en plus, les criminels sont exécutés et servent d'exemple de manière macabre. Peloton d'exécution public, décapitation, crucifixion. Et si certains de ces criminels étaient des meurtriers et des bandits, la plupart étaient des petits voleurs ou des intellectuels."
 
-ces_puppet_new_nobility:0 "Ave! Duci Nova"
-ces_puppet_new_nobility_desc:0 "The legion has been rebuilding small cities destroyed in their advance, but they are... different. They are dedicated to fueling their entrenchment efforts, and worked by enslaved populations. They are trying to chain our people to their factories."
+ ces_puppet_new_nobility:0 "Ave! Duci Nova"
+ ces_puppet_new_nobility_desc:0 "La Légion a reconstruit de petites villes détruites dans leur avancée, mais elles sont... différentes. Elles se consacrent à alimenter leurs efforts de retranchement, et sont travaillées par des populations réduites en esclavage. Ils essaient d'enchaîner nos gens à leurs usines."
 
-ces_puppet_romano_tribalism:0 "Romano-Tribalism"
-ces_puppet_romano_tribalism_desc:0 "Legion propaganda has been massively spread accross our lands, threatening and persuading our people to support their rule. They make wild claims of grandeur and huge promises, yet... some make sense. Their horrible tactics did indeed clean our territory from bandits and raiders. Could they have a point?"
+ ces_puppet_romano_tribalism:0 "Romano-Tribalisme"
+ ces_puppet_romano_tribalism_desc:0 "La propagande de la Légion a été massivement diffusée sur nos terres, menaçant et persuadant notre peuple de soutenir son pouvoir. Ils font de folles revendications de grandeur et d'énormes promesses, mais... certaines ont un sens. Leurs horribles tactiques ont effectivement nettoyé notre territoire des bandits et des pilleurs. Pourraient-ils avoir raison ?"
 
-ces_puppet_lingua_franca:0 "Lingua Romana"
-ces_puppet_lingua_franca_desc:0 "Working to the base of our culture now, they teach our children and our youth the way of the legion and it's language. We cannot do anything but yield, and knowing some of their language will surely appease them in their cleansing, right?"
+ ces_puppet_lingua_franca:0 "Lingua Romana"
+ ces_puppet_lingua_franca_desc:0 "Travaillant à la base de notre culture actuelle, ils enseignent à nos enfants et à nos jeunes le mode de fonctionnement de la légion et sa langue. Nous ne pouvons rien faire d'autre que céder, et le fait de connaître une partie de leur langue les apaisera sûrement dans leur purification, n'est-ce pas ?"
 
-ces_puppet_when_under_rome:0 "When Under Rome"
-ces_puppet_when_under_rome_desc:0 "They seem to have a saying over there, something about acting the same as the people of the city you are in. To lessen the massacres and crucifixions, we should heed those words, and act like legion citizens, as much as it pains us."
+ ces_puppet_when_under_rome:0 "Sous Rome"
+ ces_puppet_when_under_rome_desc:0 "Ils semblent avoir un dicton là-bas, quelque chose à propos d'agir comme les gens de la ville où vous vous trouvez. Pour réduire les massacres et les crucifixions, nous devrions tenir compte de ces paroles et agir comme des citoyens de la légion, autant que cela nous fait mal."
 
-ces_puppet_decimatio:0 "Decimatio"
-ces_puppet_decimatio_desc:0 "Huge ethnical cleansing spread throughout our lands. Any small clan or community that doesn't yield is annihilated, and any person caught talking negatively about the legion is either whipped or even crucified in the worst cases. How far did we fall..."
+ ces_puppet_decimatio:0 "Decimatio"
+ ces_puppet_decimatio_desc:0 "Un énorme nettoyage ethnique s'est répandu sur nos terres. Tout petit clan ou communauté qui ne cède pas est anéanti, et toute personne surprise à parler négativement de la Légion est soit fouettée, soit même crucifiée dans le pire des cas. Jusqu'où sommes-nous tombés..."
 
-ces_puppet_iron_collar:0 "Iron Collars"
-ces_puppet_iron_collar_desc:0 "Our people we swore to protect, in chains. Enslaved, broken, hopeless... can we truly keep going, knowing we failed every man, woman and child who trusted us? How can we ever hope to recover from this..."
+ ces_puppet_iron_collar:0 "Colliers de Fer"
+ ces_puppet_iron_collar_desc:0 "Notre peuple que nous avons juré de protéger, enchaîné. Esclaves, brisés, désespérés... pouvons-nous vraiment continuer, sachant que nous avons laissé tomber tous les hommes, femmes et enfants qui nous faisaient confiance ? Comment pouvons-nous espérer nous remettre de ça..."
 
-ces_puppet_punishing_profligates:0 "Punishing Profligates"
-ces_puppet_punishing_profligates_desc:0 "Profligates, that's the name they give to degenerates. But for them, anyone not serving the legion and enslaving their family is one. As men refuse to take the cultural tradition of the legion, they receive whippings, savage beatings, and are even executed as an example."
+ ces_puppet_punishing_profligates:0 "Punir les Débauchés"
+ ces_puppet_punishing_profligates_desc:0 "Débauchés, c'est le nom qu'ils donnent aux dégénérés. Mais pour eux, quiconque ne sert pas la Légion et asservit sa famille est un dégénéré. Comme les hommes refusent de s'approprier la tradition culturelle de la légion, ils reçoivent des coups de fouet, des coups sauvages, et sont même exécutés à titre d'exemple."
 
-ces_puppet_disenfranchisement:0 "Disenfranchisement"
-ces_puppet_disenfranchisement_desc:0 "Little by little, they erode our rights. Already, we cannot choose, we cannot vote, and we cannot do anything but submit. They feed us less and less as time goes on, saying the rest will go to the legion to pay for it's /"protection/". Our people cannot withstand this much further..."
+ ces_puppet_disenfranchisement:0 "Privation de Droits"
+ ces_puppet_disenfranchisement_desc:0 "Peu à peu, ils érodent nos droits. Déjà, nous ne pouvons pas choisir, nous ne pouvons pas voter, et nous ne pouvons que nous soumettre. Ils nous nourrissent de moins en moins au fil du temps, en disant que le reste ira à la légion pour payer sa /"protection/". Notre peuple ne peut pas supporter cela plus longtemps..."
 
-ces_puppet_separating_the_children:0 "Separating the Young"
-ces_puppet_separating_the_children_desc:0 "They've come during the night, in raids. They took our children away. So many of them. From what we can gather, they will be trained to become legion soldiers, or cannon fodder. Some people tried to fight back, they were... made an example of..."
+ ces_puppet_separating_the_children:0 "Séparer les Jeunes"
+ ces_puppet_separating_the_children_desc:0 "Ils sont venus pendant la nuit, lors de raids. Ils ont emmené nos enfants. Ils sont si nombreux. D'après ce que nous pouvons rassembler, ils seront formés pour devenir des soldats de la légion, ou de la chair à canon. Certains ont essayé de se défendre, ils ont été... pris en exemple..."
 
-ces_puppet_dissolute_become_whole:0 "The Dissolute Become Whole"
-ces_puppet_dissolute_become_whole_desc:0 "It is done, our will is broken, our hopes are dashed to the ground. How can we resist such might? Any dissident is burned alive, any profligate is decapitated, and their corpses decorate the roads leading to their empire. To survive, we must utterly submit."
+ ces_puppet_dissolute_become_whole:0 "Le Dissolution Devient Entière"
+ ces_puppet_dissolute_become_whole_desc:0 "C'est fait, notre volonté est brisée, nos espoirs sont anéantis. Comment pouvons-nous résister à une telle puissance ? Tout dissident est brûlé vif, tout débauché est décapité, et leurs cadavres ornent les routes menant à leur empire. Pour survivre, nous devons nous soumettre totalement."
 
-ces_puppet_the_evil_of_technology:0 "the Evils of Technology"
-ces_puppet_the_evil_of_technology_desc:0 "As their influence spread, so does their doctrine. They talk about the evils of technology, how it destroyed the old world, how it will destroy the next. There is some wisdom in their words, and our population begins to heed their culture. Books are burned, machines destroyed, and engineers or scientists ostracized"
+ ces_puppet_the_evil_of_technology:0 "les Méfaits de la Technologie"
+ ces_puppet_the_evil_of_technology_desc:0 "Leur influence s'étend, tout comme leur doctrine. Ils parlent des méfaits de la technologie, comment elle a détruit l'ancien monde, comment elle détruira le prochain. Il y a une certaine sagesse dans leurs paroles, et notre population commence à tenir compte de leur culture. Les livres sont brûlés, les machines détruites, les ingénieurs ou les scientifiques ostracisés"
 
-ces_puppet_roman_conscription:0 "Roman Conscription"
-ces_puppet_roman_conscription_desc:0 "Press gangs of soldiers have been scouring the countryside, looking for anyone fit enough to serve the Caesar. Little attention is given to their situation, or condition, for as long as they serve, they will live."
+ ces_puppet_roman_conscription:0 "La Conscription Romaine"
+ ces_puppet_roman_conscription_desc:0 "Des bandes de soldats parcourent les campagnes à la recherche de ceux qui sont en mesure de servir le César. Peu d'attention est accordée à leur situation, ou à leur condition, car tant qu'ils serviront, ils vivront."
 
-ces_puppet_para_pax_bellum:0 "Para Pax Bellum"
-ces_puppet_para_pax_bellum_desc:0 "He gave us the power to enact revenge! Before Caesar's rule, we were afraid, and we were powerless, but look at us now! Mighty, our ranks filling with soldiers, our lands clean of degenerate filth. We will retake what is rightfully ours! To war! Ave Legio! Ave Caesar! "
+ ces_puppet_para_pax_bellum:0 "Para Pax Bellum"
+ ces_puppet_para_pax_bellum_desc:0 "Il nous a donné le pouvoir de nous venger ! Avant le règne de César, nous avions peur et nous étions impuissants, mais regardez-nous maintenant ! Puissants, nos rangs se remplissent de soldats, nos terres sont débarrassées de la saleté dégénérée. Nous allons reprendre ce qui nous revient de droit ! A la guerre! Ave Legio! Ave Caesar! "
 
-ces_puppet_the_new_pax_romana:0 "The New Pax Romana"
-ces_puppet_the_new_pax_romana_desc:0 "Caesar is right, about everything. Out there, without his protection, we would be savages and profligates. Look around us, degenerates, raiders, tribals. Their lands are lawless and their people undisciplined. But now? We are those things. We will protect our lands from the savages, whatever the cost."
+ ces_puppet_the_new_pax_romana:0 "La Nouvelle Pax Romana"
+ ces_puppet_the_new_pax_romana_desc:0 "César a raison, sur tout. Là-bas, sans sa protection, nous serions des sauvages et des vagabonds. Regardez autour de nous, des dégénérés, des pilleurs, des tribaux. Leurs terres sont sans loi et leur peuple indiscipliné. Mais maintenant ? Nous sommes ces choses. Nous protégerons nos terres des sauvages, quel qu'en soit le prix."
 
-ces_puppet_aeternit_imperi:0 "Aeternit Imperi"
-ces_puppet_aeternit_imperi_desc:0 "The eternal empire. This is what we have become. Caesar will lead us to victory, and so will our might. Nothing can stop or even slow us, not the profligates, not the petty wasteland nations, and certainly not the NCR. America will be ours, and the empire will rule. Eternal, beautiful, mighty. Ave Caesar! Imperium Aeternum!"
+ ces_puppet_aeternit_imperi:0 "Aeternit Imperi"
+ ces_puppet_aeternit_imperi_desc:0 "L'empire éternel. C'est ce que nous sommes devenus. César nous conduira à la victoire, et notre puissance aussi. Rien ne peut nous arrêter ou même nous ralentir, ni les débauchés, ni les petites nations des terres désolées, et certainement pas la RNC. L'Amérique sera à nous, et l'empire régnera. Eternel, beau, puissant. Ave César ! Imperium Aeternum !"
 
 ## BOS
 
-bos_puppet_ad_victorium:0 "Bound by Steel"
-bos_puppet_ad_victorium_desc:0 "Defeated by the monsters of steel, we can do nothing but submit and wait for their judgements. We fought valiantly, but their advanced technology gave them the edge, and now we must endure. Our population is weary and fearful, little is known about them. Will they be sadistic conqueror?"
+ bos_puppet_ad_victorium:0 "Lié par l'Acier"
+ bos_puppet_ad_victorium_desc:0 "Vaincus par les monstres d'acier, nous ne pouvons que nous soumettre et attendre leur jugement. Nous nous sommes battus vaillamment, mais leur technologie avancée leur a donné l'avantage, et maintenant nous devons endurer. Notre population est fatiguée et craintive, on sait peu de choses sur eux. Seront-ils des conquérants sadiques ?"
 
-bos_puppet_capital_siege:0 "Liberation of [Root.Capital.GetName]"
-bos_puppet_capital_siege_desc:0 "The Brotherhood has decided to march on our capital. Our citizens lock their door and stare out of their windows, afraid of those hulking soldiers clad in power armors. What do they want? To they seek to gloat after our defeat?"
+ bos_puppet_capital_siege:0 "Libération de [Root.Capital.GetName]"
+ bos_puppet_capital_siege_desc:0 "La Confrérie a décidé de marcher sur notre capitale. Nos citoyens ferment leur porte à clé et regardent par la fenêtre, effrayés par ces soldats en armure. Que veulent-ils ? Qu'ils cherchent à se vanter de notre défaite ?"
 
-bos_puppet_hall_of_initiates:0 "Hall of Initiates"
-bos_puppet_hall_of_initiates_desc:0 "They apparently seek initiates, new recruits for their army, and we can only oblige. Yet it is strange, it cannot be said it is conscription, they seem to want to uplift us. But what will their teachings be?"
+ bos_puppet_hall_of_initiates:0 "Salle des Initiés"
+ bos_puppet_hall_of_initiates_desc:0 "Ils cherchent apparemment des initiés, de nouvelles recrues pour leur armée, et nous ne pouvons que les obliger. Pourtant, c'est étrange, on ne peut pas dire qu'il s'agit de la conscription, ils semblent vouloir nous élever. Mais quels seront leurs enseignements ?"
 
-bos_puppet_initiate_education:0 "Education for Service"
-bos_puppet_initiate_education_desc:0 "Their auxiliary militia need men, soldiers willing to walk beside their armored silhouette. Already we have chosen our most hardy citizens to give to the invaders, for we thought of it as drafting. But they seek willing soldiers, and in exchange they will give us the gift of knowledge."
+ bos_puppet_initiate_education:0 "L'éducation pour le Service"
+ bos_puppet_initiate_education_desc:0 "Leur milice auxiliaire a besoin d'hommes, de soldats prêts à marcher à côté de leur silhouette blindée. Nous avons déjà choisi nos citoyens les plus robustes pour les donner aux envahisseurs, car nous avons pensé à l'enrôlement. Mais ils recherchent des soldats volontaires, et en échange ils nous feront cadeau du savoir."
 
-bos_puppet_drilling:0 "Drills"
-bos_puppet_drilling_desc:0 "Our army, surprisingly, hasn't been disbanded once the country went under. If anything, it increased in size! Brotherhood advisors have watched our military drills as well as training programs, and have offered vast amount of improvements to them. This should make our forces into a more capable fighting machine, but what is their goal?"
+ bos_puppet_drilling:0 "Formations"
+ bos_puppet_drilling_desc:0 "Notre armée, étonnamment, n'a pas été dissoute après la chute du pays. Au contraire, elle a augmenté en taille ! Les conseillers de la confrérie ont observé nos exercices militaires ainsi que les programmes de formation, et leur ont proposé de nombreuses améliorations. Cela devrait faire de nos forces une machine de combat plus performante, mais quel est leur objectif ?"
 
-bos_puppet_ideological_strength:0 "Brotherhood Propaganda"
-bos_puppet_ideological_strength_desc:0 "Pamphlets, public speakers, humanitarian aid campaign, The Brotherhood is clearly looking for good PR. Yet can we fault them? They bring food and shelter to our population, it is only fair they gain some amount of trust in return."
+ bos_puppet_ideological_strength:0 "Propagande de la Confrérie"
+ bos_puppet_ideological_strength_desc:0 "Tracts, orateurs, campagne d'aide humanitaire, la Confrérie est clairement à la recherche de bonnes relations publiques. Pourtant, peut-on les blâmer ? Ils apportent de la nourriture et un abri à notre population, il est juste qu'ils gagnent une certaine confiance en retour."
 
-bos_puppet_reintroducing_technology:0 "Reintroduce Basic Technology"
-bos_puppet_reintroducing_technology_desc:0 "Out of every technology reintroduced by The Nrotherhood into our nation, air conditioning is the most appreciated one. While functioning terminals and working laboratories are all well and good, they displayed a certain bewilderment at seeing us more interested by fresh air than science. What do they know, their suits have integrated ventilation after all..."
+ bos_puppet_reintroducing_technology:0 "Réintroduire la Technologie de Base"
+ bos_puppet_reintroducing_technology_desc:0 "De toutes les technologies réintroduites par la Confrérie dans notre pays, la climatisation est la plus appréciée. Si les terminaux et les laboratoires en fonctionnement sont tous très bien, ils ont montré une certaine perplexité à nous voir plus intéressés par l'air frais que par la science. Que savent-ils, leurs combinaisons ont une ventilation intégrée après tout..."
 
-bos_puppet_earning_our_place:0 "Earning Our Place"
-bos_puppet_earning_our_place_desc:0 "The Chapter calls, and for their efforts toward improving our lives, we answer. We cannot idly stand by as they work for our benefit, we will warrant this privilege, and we will merit their respect! Let it be known we form exceptional auxiliaries, for we will earn our place alongside them!"
+ bos_puppet_earning_our_place:0 "Gagner notre Place"
+ bos_puppet_earning_our_place_desc:0 "Le Chapitre lance un appel, et nous répondons à leurs efforts pour améliorer nos vies. Nous ne pouvons pas rester les bras croisés pendant qu'ils travaillent pour nous, nous mériterons ce privilège et leur respect ! Faites savoir que nous formons des auxiliaires exceptionnels, car nous mériterons notre place à leurs côtés !"
 
-bos_puppet_scribe_initiation:0 "Scribe Initiation"
-bos_puppet_scribe_initiation_desc:0 "For our efforts, we have earned the privilege to receive scribe initiation, in the same way any aspiring initiates would. Our military as well as people stands ready, we will pass this test!"
+ bos_puppet_scribe_initiation:0 "Initiation de Scribe"
+ bos_puppet_scribe_initiation_desc:0 "Pour nos efforts, nous avons gagné le privilège de recevoir l'initiation de scribe, de la même manière que tout aspirant initié. Notre armée ainsi que notre peuple se tiennent prêts, nous allons passer ce test !"
 
-bos_puppet_learning_from_the_ancients:0 "Learning From the Ancients"
-bos_puppet_learning_from_the_ancients_desc:0 "Our people seek more knowledge, and so they seek the relics of the old world. Scavenging teams are put in place, with every finding minutiously cleaned and studied for future use. The Brotherhood seeks those objects as much as us, and they could prove useful in the future."
+ bos_puppet_learning_from_the_ancients:0 "Tirer les leçons des Anciens"
+ bos_puppet_learning_from_the_ancients_desc:0 "Notre peuple recherche plus de connaissances, et donc les reliques de l'ancien monde. Des équipes de récupérateur sont mises en place, et chaque trouvaille est minutieusement nettoyée et étudiée en vue d'une utilisation future. La Fraternité recherche ces objets autant que nous, et ils pourraient s'avérer utiles à l'avenir."
 
-bos_puppet_tutelage:0 "Tutelage"
-bos_puppet_tutelage_desc:0 "With our army following the new training regiment to the letter, armored soldiers see that we seek to fill their ranks. The advisors have already requested to act as military advisors and drill supervisors, a request which we can only accept. How could we pass the opportunity for such a good example to strive toward?"
+ bos_puppet_tutelage:0 "Tutelage"
+ bos_puppet_tutelage_desc:0 "Avec notre armée qui suit à la lettre le nouveau régiment d'entraînement, les soldats blindés voient que nous cherchons à remplir leurs rangs. Les conseillers ont déjà demandé à agir en tant que conseillers militaires et superviseurs d'exercices, une demande que nous ne pouvons qu'accepter. Comment pourrions-nous laisser passer l'occasion d'un si bon exemple à suivre ?"
 
-bos_puppet_old_world_medicine:0 "Old World Medicine"
-bos_puppet_old_world_medicine_desc:0 "Arguably, what determines the level of a civilization is how well it's citizens are taken care of. As such, and to prevent any avoidable military casualties, a huge scavenging campaign of every clinic, hospital and medical facilities in our lands should improve our knowledge and let us developp new technologies."
+ bos_puppet_old_world_medicine:0 ""
+ bos_puppet_old_world_medicine_desc:0 "On peut dire que ce qui détermine le niveau d'une civilisation est la qualité des soins apportés à ses citoyens. À ce titre, et pour éviter toute perte militaire évitable, une vaste campagne de nettoyage de toutes les cliniques, hôpitaux et installations médicales de nos terres devrait améliorer nos connaissances et nous permettre de développer de nouvelles technologies."
 
-bos_puppet_new_discoveries:0 "New Scientific Discoveries"
-bos_puppet_new_discoveries_desc:0 "Our scientists have made a breakthrough! After such a long time improving our knowledge and expanding our technological operations, we have managed to make a new scientific discovery! Surely this will please The Brotherhood, for we will present it to them as a gift."
+ bos_puppet_new_discoveries:0 "Nouvelles Découvertes Scientifiques"
+ bos_puppet_new_discoveries_desc:0 "Nos scientifiques ont fait une percée ! Après avoir si longtemps amélioré nos connaissances et développé nos opérations technologiques, nous avons réussi à faire une nouvelle découverte scientifique ! Cela fera certainement plaisir à la Fraternité, car nous la leur offrirons en cadeau."
 
-bos_puppet_power_armour_maintenance:0 "Power Armour Maintenance"
-bos_puppet_power_armour_maintenance_desc:0 "As a symbol of trust, our nation has been assigned a small amount of salvaged power armor. We are to learn how to use them, maintain them and improve them, for we are to become knights! Already, our troops feel mighty in an actual powered armor. But we have still a long way to go."
+ bos_puppet_power_armour_maintenance:0 "Maintenance d'Armures Assistées"
+ bos_puppet_power_armour_maintenance_desc:0 "En symbole de confiance, notre nation a reçu une petite quantité d'armure assistées récupérées. Nous devons apprendre à les utiliser, les entretenir et les améliorer, car nous devons devenir chevaliers ! Déjà, nos troupes se sentent puissantes dans une véritable armure assistée. Mais nous avons encore un long chemin à parcourir."
 
-bos_puppet_knight_school:0 "Knight School"
-bos_puppet_knight_school_desc:0 "The Brotherhood saw fit to begin giving us knight training, a great honor to be sure! With it comes technology, knowledge and power! We are making great progress, and soon we will be as mighty as their steel titans."
+ bos_puppet_knight_school:0 "L'École des Chevaliers"
+ bos_puppet_knight_school_desc:0 "La Confrérie a jugé bon de commencer à nous donner une formation de chevalier, un grand honneur, c'est certain ! Avec ils viennent avec la technologie, la connaissance et le pouvoir ! Nous faisons de grands progrès, et bientôt nous serons aussi puissants que leurs titans d'acier."
 
-bos_puppet_art_of_war:0 "The Art of War"
-bos_puppet_art_of_war_desc:0 "If we are to become a fully fledged chapter, we need to be the very best, the cream of the crop. Our power armors have served us well, but what is needed is training and tactics. We will be fearless, strike fast and hard, destroy our enemies before they can even react."
+ bos_puppet_art_of_war:0 "L'art de la Guerre"
+ bos_puppet_art_of_war_desc:0 "Si nous voulons devenir un chapitre à part entière, nous devons être les meilleurs, la crème de la crème. Nos armures de puissance nous ont bien servi, mais ce qu'il faut, c'est de l'entraînement et des tactiques. Nous serons sans peur, nous frapperons vite et fort, nous détruirons nos ennemis avant même qu'ils ne puissent réagir."
 
-bos_puppet_power_armour_training:0 "Power Armour Training"
-bos_puppet_power_armour_training_desc:0 "Specialized power armor drills dealing with proper handling, maintenance procedure as well as battlefield repair will let us streamline our current design, accounting for the superior training of our troops, which can easily compensate. We need to focus on both quality as well as quantity, for if we manage to combine both, surely our enemies are doomed."
+ bos_puppet_power_armour_training:0 "Entraînement au Port de l'Armure"
+ bos_puppet_power_armour_training_desc:0 "Des exercices spécialisés sur les armures assistées, portant sur la manutention, la procédure de maintenance et la réparation du champ de bataille, nous permettront de rationaliser notre conception actuelle, ce qui contribuera à la formation supérieure de nos troupes, ce qui peut facilement compenser. Nous devons nous concentrer à la fois sur la qualité et la quantité, car si nous parvenons à combiner les deux, nos ennemis sont sûrement condamnés."
 
-bos_puppet_wasteland_missions:0 "Wasteland Missions"
-bos_puppet_wasteland_missions_desc:0 "New recruits, new auxiliaries, new initiates, we need all those and more. If we are to defend ourselves and strive, we must have more forces. Recruiting missions will be sent throughout the wastelands, asking for hardened soldiers to become knights. This should bolster our troops enough for us to take most foes head on."
+ bos_puppet_wasteland_missions:0 "Missions sur les Terres Désolées"
+ bos_puppet_wasteland_missions_desc:0 "Nouvelles recrues, nouveaux auxiliaires, nouveaux initiés, nous avons besoin de tout cela et plus encore. Si nous voulons nous défendre et lutter, nous devons disposer de plus de forces. Des missions de recrutement seront envoyées dans les régions désertes, demandant à des soldats endurcis de devenir chevaliers. Cela devrait renforcer suffisamment nos troupes pour nous permettre de prendre la plupart des ennemis de front."
 
-bos_puppet_new_bunkers:0 "New Bunkers"
-bos_puppet_new_bunkers_desc:0 "Fortifications are required for any military headquarters, and our allies have been kind enough to provide us with some of their low-level bunker designs. Work has already begun, with provision for tactical command rooms and hardened defensive positions. There is little doubt that we will bleed anyone trying to take us on dry."
+ bos_puppet_new_bunkers:0 "Nouveaux Bunkers"
+ bos_puppet_new_bunkers_desc:0 "Des fortifications sont nécessaires pour tout quartier général militaire, et nos alliés ont eu la gentillesse de nous fournir certains de leurs modèles de bunkers de bas niveau. Les travaux ont déjà commencé, avec la mise en place de salles de commandement tactique et de positions défensives renforcées. Il ne fait guère de doute que nous saignerons quiconque essaiera de nous mettre à sec."
 
-bos_puppet_technology_raids:0 "Technology Raids"
-bos_puppet_technology_raids_desc:0 "It's time to put all this practice and training to use. The Brotherhood has sighted dangerous technology around our territory, and tasked us with capturing them, as well as taking out any hostile asset. We will not disappoint, Ad Victoriam."
+ bos_puppet_technology_raids:0 "Raids Technologiques"
+ bos_puppet_technology_raids_desc:0 "Il est temps de mettre à profit toute cette pratique et cette formation. La Confrérie a repéré des technologies dangereuses sur notre territoire et nous a chargés de les capturer et de détruire tout élément hostile. Nous ne décevrons pas, Ad Victoriam."
 
-bos_puppet_paladin:0 "Paladin Initiation"
-bos_puppet_paladin_desc:0 "Finally, we are deemed worthy. Our armed forces are to undergo official paladin initiation, and that will mean the hardest test for them. They are ready, and they will not disappoint. True paladins will soon grace our lands, in service of the people and fighting against the horror of the wasteland!"
+ bos_puppet_paladin:0 "Initiation Paladin"
+ bos_puppet_paladin_desc:0 "Enfin, nous sommes jugés dignes. Nos forces armées doivent se soumettre à l'initiation officielle des paladins, ce qui constituera pour elles l'épreuve la plus difficile. Elles sont prêtes et elles ne décevront pas. Les vrais paladins vont bientôt faire la grâce de nos terres, au service du peuple et en luttant contre l'horreur du désert !"
 
-bos_puppet_visit_from_the_elder:0 "Visit From the Elders"
-bos_puppet_visit_from_the_elder_desc:0 "Elders from the [ROOT.OVERLORD.getName] have graced us with their presence, and as such we have been deemed worthy. A visit from them had widespread consequences amongst the population. Our people is now proudful and hopeful again, for they have given us water, electricity, and the opportunity to prove ourselves. We reiterate our pledge of allegiance, and promise our support toward the cause."
+ bos_puppet_visit_from_the_elder:0 "Visite des Aînés"
+ bos_puppet_visit_from_the_elder_desc:0 "Les Aînés de [ROOT.OVERLORD.getName] nous ont gratifiés de leur présence et, en tant que tels, nous avons été jugés dignes. Une visite de leur part a eu des conséquences importantes au sein de la population. Notre peuple est maintenant de nouveau fier et plein d'espoir, car ils nous ont donné l'eau, l'électricité et l'occasion de faire nos preuves. Nous réitérons notre serment d'allégeance et promettons notre soutien à cette cause."
 
-bos_puppet_new_chapter:0 "A New Chapter"
-bos_puppet_new_chapter_desc:0 "All our efforts and training, all the people we lost, the people we met, the friends we made, the enemies we crushed, all lead to this. We are now officially recognised as a new Brotherhood chapter, the first to ever be formed from the wasteland. Created from the ashes of the apocalypse, we rise to secure and protect our people, as well as contain dangerous technology. We pledge loyalty to The Brotherhood, now and forever!"
+ bos_puppet_new_chapter:0 "Un Nouveau Chapitre"
+ bos_puppet_new_chapter_desc:0 "Tous nos efforts et notre formation, toutes les personnes que nous avons perdues, celles que nous avons rencontrées, les amis que nous nous sommes faits, les ennemis que nous avons écrasés, tout cela mène à cela. Nous sommes maintenant officiellement reconnus comme un nouveau chapitre de la Fraternité, le premier à avoir été formé à partir du terrain vague. Créés sur les cendres de l'apocalypse, nous nous élevons pour sécuriser et protéger notre peuple, ainsi que pour contenir les technologies dangereuses. Nous promettons fidélité à la Fraternité, maintenant et pour toujours !"
 
-bos_puppet_semper_invicta:0 "Duty, Honor, Courage"
-bos_puppet_semper_invicta_desc:0 "Those values are instilled in us since training. Our pride is well deserved, for we have served our chapter beyond expectation. As a newly formed independent Chapter, we now enjoy a new degree of autonomy that will allow us to undertake independent missions in enemy territory, as well as better fight the enemies of the Brotherhood. Never again will technology be allowed to destroy our world, our elite armored soldiers will make sure of this."
+ bos_puppet_semper_invicta:0 "Devoir, Honneur, Courage"
+ bos_puppet_semper_invicta_desc:0 "Ces valeurs nous sont inculquées depuis la formation. Notre fierté est bien méritée, car nous avons servi notre chapitre au-delà de toute attente. En tant que chapitre indépendant nouvellement formé, nous jouissons maintenant d'un nouveau degré d'autonomie qui nous permettra d'entreprendre des missions indépendantes en territoire ennemi, ainsi que de mieux combattre les ennemis de la Fraternité. Plus jamais la technologie ne sera autorisée à détruire notre monde, nos soldats d'élite blindés s'en assureront."
 
-bos_puppet_the_art_of_rifle_maintenance:0 "The Art of Rifle Maintenance"
-bos_puppet_the_art_of_rifle_maintenance_desc:0 "Proper field stripping and cleaning is indeed an art. Every soldier worth of this name should be able to strip their laser rifle, clean the lenses and the battery receiver, as well as check alignments and electrical conduits. Those rifles must be an extention of ourselves, and taken care of as well as we take care of our own body."
+ bos_puppet_the_art_of_rifle_maintenance:0 "L'Art de l'Entretien des Fusils"
+ bos_puppet_the_art_of_rifle_maintenance_desc:0 "Le décorticage et le nettoyage des sols est en effet un art. Tout soldat digne de ce nom devrait être capable de démonter son fusil laser, de nettoyer les lentilles et le récepteur de la batterie, ainsi que de vérifier les alignements et les conduits électriques. Ces fusils doivent être une extension de nous-mêmes, et nous devons en prendre soin tout comme nous prenons soin de notre propre corps."
 
 ##TRL
 
-trl_puppet_warrens_triumph:0 "The Warren's Triumph"
+ trl_puppet_warrens_triumph:0 "Le Triomphe du Warren"
 trl_puppet_warrens_triumph_desc:0 ""
 
-trl_puppet_capital_siege:0 "The Slaughter of [Root.Capital.GetName]"
+ trl_puppet_capital_siege:0 "Le massacre de [Root.Capital.GetName]"
 trl_puppet_capital_siege_desc:0 ""
 
-trl_puppet_will_of_the_first:0 "The Will of The First"
+ trl_puppet_will_of_the_first:0 "La Volonté du Primordial"
 trl_puppet_will_of_the_first_desc:0 ""
 
-trl_puppet_end_of_man:0 "The End of Man"
+ trl_puppet_end_of_man:0 "La Fin de l'Homme"
 trl_puppet_end_of_man_desc:0 ""
 
-trl_puppet_burning_the_old_world:0 "Burning the Old World"
+ trl_puppet_burning_the_old_world:0 "Brûler l'Ancien Monde"
 trl_puppet_burning_the_old_world_desc:0 ""
 
-trl_puppet_the_death_of_the_nuclear_family:0 "Death of the Nuclear Family"
+ trl_puppet_the_death_of_the_nuclear_family:0 "La Mort de la Famille Nucléaire"
 trl_puppet_the_death_of_the_nuclear_family_desc:0 ""
 
-trl_puppet_breeding_duties:0 "Breeding Duties"
+ trl_puppet_breeding_duties:0 "Tâches d'Élevage"
 trl_puppet_breeding_duties_desc:0 ""
 
-trl_puppet_feeding_duties:0 "Feeding Duties"
+ trl_puppet_feeding_duties:0 "Tâches d'Alimentation"
 trl_puppet_feeding_duties_desc:0 ""
 
-trl_puppet_embracing_servitude:0 "Embracing Servitude"
+ trl_puppet_embracing_servitude:0 "L'Acceptation de la Servitude"
 trl_puppet_embracing_servitude_desc:0 ""
 
-trl_puppet_slave_hierarchies:0 "Slave Hierarchies"
+ trl_puppet_slave_hierarchies:0 "Hiérarchies des Esclaves"
 trl_puppet_slave_hierarchies_desc:0 ""
 
-trl_puppet_educated_slaves:0 "Educated Slaves"
+ trl_puppet_educated_slaves:0 "Esclaves Instruits"
 trl_puppet_educated_slaves_desc:0 ""
 
-trl_puppet_slave_masters:0 "Slave Masters"
+ trl_puppet_slave_masters:0 "Maîtres d'Esclaves"
 trl_puppet_slave_masters_desc:0 ""
 
-trl_puppet_age_of_the_mutant:0 "Age of the Mutant"
+ trl_puppet_age_of_the_mutant:0 "L'Âge du Mutant"
 trl_puppet_age_of_the_mutant_desc:0 ""
 
-trl_puppet_mutated_salvation:0 "Mutated Salvation"
+ trl_puppet_mutated_salvation:0 "Le Salut Muté"
 trl_puppet_mutated_salvation_desc:0 ""
 
-trl_puppet_sending_the_worthy:0 "Sending the Worthy"
+ trl_puppet_sending_the_worthy:0 "Envoyer les Dignes"
 trl_puppet_sending_the_worthy_desc:0 ""
 
-trl_puppet_request_our_own_barrel:0 "Request Our Own Barrel"
+ trl_puppet_request_our_own_barrel:0 "Demander Notre Propre Baril"
 trl_puppet_request_our_own_barrel_desc:0 ""
 
-trl_puppet_mastery_of_the_ritual:0 "Mastery of the Ritual"
+ trl_puppet_mastery_of_the_ritual:0 "Maîtrise du Rituel"
 trl_puppet_mastery_of_the_ritual_desc:0 ""
 
-trl_puppet_embracing_our_mastery:0 "Embracing Our Mastery"
+ trl_puppet_embracing_our_mastery:0 "Embrasser notre Maîtrise"
 trl_puppet_embracing_our_mastery_desc:0 ""
 
-trl_puppet_learning_to_walk_again:0 "Learning to Walk Again"
+ trl_puppet_learning_to_walk_again:0 "Apprendre à Marcher à Nouveau"
 trl_puppet_learning_to_walk_again_desc:0 ""
 
-trl_puppet_combatting_the_rage:0 "Combatting the Rage"
+ trl_puppet_combatting_the_rage:0 "Combattre la Rage"
 trl_puppet_combatting_the_rage_desc:0 ""
 
-trl_puppet_letting_go_of_the_past:0 "Letting Go of the Past"
+ trl_puppet_letting_go_of_the_past:0 "Laisser le Passé Derrière Soi"
 trl_puppet_letting_go_of_the_past_desc:0 ""
 
-trl_puppet_building_mutopia:0 "Building Mutopia"
+ trl_puppet_building_mutopia:0 "Construire Mutopia"
 trl_puppet_building_mutopia_desc:0 ""
 
-trl_puppet_FEV_breakthroughs:0 "FEV Breakthroughs"
+ trl_puppet_FEV_breakthroughs:0 "Percées du FEV"
 trl_puppet_FEV_breakthroughs_desc:0 ""
 
-trl_puppet_warcalls:0 "Warcalls"
+ trl_puppet_warcalls:0 "Appels de Guerre"
 trl_puppet_warcalls_desc:0 ""
 
-trl_puppet_mutant_idealism:0 "Mutant Idealism"
+ trl_puppet_mutant_idealism:0 "Idéalisme Mutant"
 trl_puppet_mutant_idealism_desc:0 ""
 
-trl_puppet_mutant_pragmatism:0 "Mutant Pragmatism"
+ trl_puppet_mutant_pragmatism:0 "Pragmatisme Mutant"
 trl_puppet_mutant_pragmatism_desc:0 ""
 
-trl_puppet_the_firsts_call:0 "The First's Call"
+ trl_puppet_the_firsts_call:0 "L'Appel du Primordial"
 trl_puppet_the_firsts_call_desc:0 ""
 
 ###
 
-vlt_puppet_vault_tec_calling:0 "Vault-Tec Calling"
-vlt_puppet_vault_tec_calling_desc:0 "Hello to each and everyone of you! Vault Tec calling, and oh boy do we do so with good news! As of now, you are all considered a subsidiary of Vault Tec Inc., and as such we will give you the warmest greeting possible. Welcome in our ever expanding family, we are thrilled to have you and hope our cooperation is a fruitful one!"
+ vlt_puppet_vault_tec_calling:0 "L' Appel de Vault-Tec"
+ vlt_puppet_vault_tec_calling_desc:0 "Bonjour à tous et à chacun d'entre vous ! Vault Tec à votre service, et oh bon sang, nous avons de bonnes nouvelles ! À partir de maintenant, vous êtes tous considérés comme une filiale de Vault Tec Inc. et, à ce titre, nous vous saluerons chaleureusement. Bienvenue dans notre famille toujours plus nombreuse, nous sommes ravis de vous accueillir et espérons que notre coopération sera fructueuse !"
 
-vlt_puppet_capital_siege:0 "The Incorporation of [Root.Capital.GetName]"
-vlt_puppet_capital_siege_desc:0 "It's us again, your favorite company in this little slice of wasteland! We had to take some time cleaning up the remains left by unwilling assets that were in the way during our forceful hostile takeover, so sorry for the little mess our security team made. But it's all in the past, right? Now let's look at the terms of the contract."
+ vlt_puppet_capital_siege:0 "L'incorporation de [Root.Capital.GetName]"
+ vlt_puppet_capital_siege_desc:0 "C'est encore nous, votre entreprise préférée dans cette petite tranche de Terres Désolées ! Nous avons dû prendre un certain temps pour nettoyer les restes laissés par les actifs réticents qui se trouvaient sur notre chemin lors de notre prise de contrôle agressive et forcée, alors désolé pour le petit gâchis que notre équipe de sécurité a fait. Mais tout cela, c'est du passé, n'est-ce pas ? Examinons maintenant les termes du contrat."
 
-vlt_puppet_the_new_overseer:0 "The New Overseer"
-vlt_puppet_the_new_overseer_desc:0 "We are pleased to announce to you all, our most loyal subsidiary, that we have assigned you a regional manager! You won't have to worry about such boring thing as "autonomy" or "self-determination", we'll take care of that now. Say hello to your new overseer!"
+ vlt_puppet_the_new_overseer:0 "Le Nouveau Superviseur"
+ vlt_puppet_the_new_overseer_desc:0 "Nous sommes heureux de vous annoncer à tous, notre plus fidèle filiale, que nous vous avons attribué un directeur régional ! Vous n'aurez plus à vous soucier de choses aussi ennuyeuses que l'"autonomie" ou l'"autodétermination", nous nous en chargeons maintenant. Dites bonjour à votre nouveau directeur !"
 
-vlt_puppet_for_science:0 "For Science"
-vlt_puppet_for_science_desc:0 "Science! Some might say it's horrible, and use vastly inaccurate terms such as "breach of human rights" or even maybe "abhorrent behavior", but here at Vault Tec we see much further! Imagine everything we could accomplish together, and all that's required is a monthly payment of (25) civilian assets!"
+ vlt_puppet_for_science:0 "Pour la Science"
+ vlt_puppet_for_science_desc:0 "La science ! Certains pourraient dire que c'est horrible, et utiliser des termes largement inexacts tels que "violation des droits de l'homme" ou même peut-être "comportement odieux", mais ici, à Vault Tec, nous voyons beaucoup plus loin ! Imaginez tout ce que nous pourrions accomplir ensemble, et tout ce qui est nécessaire est un paiement mensuel de (25) biens civils !"
 
-vlt_puppet_scientific_method:0 "Scientific Method"
-vlt_puppet_scientific_method_desc:0 "The scientific method, a wonderful thing to be sure. Here at Vault Tec we wish to advance humanity, and for this we need to try our experiments again, again, again and run them one more time to be sure! Now please, children, double files into the test chamber, and do not be alarmed if you step on anything sticky!. Vault Boy thanks you for your contribution!"
+ vlt_puppet_scientific_method:0 "Méthode Scientifique"
+ vlt_puppet_scientific_method_desc:0 "La méthode scientifique, une chose merveilleuse à coup sûr. Ici, à Vault Tec, nous souhaitons faire progresser l'humanité, et pour cela, nous devons tenter nos expériences encore, encore, encore et les répéter encore une fois pour en être sûrs ! Maintenant, s'il vous plaît, les enfants, faites une double file dans la chambre d'essai, et ne vous inquiétez pas si vous marchez sur quelque chose de collant ! Vault Boy vous remercie pour votre contribution !"
 
-vlt_puppet_test_subjects:0 "Test Subjects"
-vlt_puppet_test_subjects_desc:0 "We would like to gently remind you that screaming can be heard outside of the test chamber, but that no personel will come to your help in case of limb dissolution or nerve rot, as such we would kindly suggest to use the provided wooden piece to bite on during clinical trials to not disturb our trained personel. Please have a great day, and thank you for choosing Vault Tec!"
+ vlt_puppet_test_subjects:0 "Sujets d'Essai"
+ vlt_puppet_test_subjects_desc:0 "Nous aimerions vous rappeler que les cris peuvent être entendus en dehors de la chambre d'essai, mais qu'aucun membre du personnel ne viendra à votre aide en cas de dissolution d'un membre ou de pourriture nerveuse. Nous vous suggérons donc d'utiliser la pièce de bois fournie pour mordre pendant les essais cliniques afin de ne pas déranger notre personnel qualifié. Nous vous souhaitons une bonne journée et vous remercions d'avoir choisi Vault Tec !"
 
-vlt_puppet_human_trials:0 "Human Trials"
-vlt_puppet_human_trials_desc:0 "Vault Tec wishes to gracefully thank the family of test subjects, let it be known they provided very useful ballistic analysis and corporal damage readings! Provided with this message is a token of thanks from the team, namely a gun made with these reports taken into account. We also cheerfully reminds you that usage of this present gift for disposition of "unwilling assets" would result in a pay raise! (2) of your family members have been designated as such. Have a great day!"
+ vlt_puppet_human_trials:0 "Essais Humains"
+ vlt_puppet_human_trials_desc:0 "Vault Tec tient à remercier gracieusement la famille des sujets d'essai, faites savoir qu'ils ont fourni des analyses balistiques et des relevés de dommages corporels très utiles ! Ce message est un gage de remerciement de la part de l'équipe, à savoir un pistolet fabriqué en tenant compte de ces rapports. Nous vous rappelons également avec joie que l'utilisation de ce cadeau pour la disposition de "biens non désirés" entraînerait une augmentation de salaire ! (2) des membres de votre famille ont été désignés comme tels. Nous vous souhaitons une bonne journée !"
 
-vlt_puppet_control_groups:0 "Control Groups"
-vlt_puppet_control_groups_desc:0 "Please citizens, do not be alarmed. The recent disappearance have simply been the result of our all new policy of constituting control groups. They are well cared for, and fed as well as any of you. Any family having one of their members forcefully reassigned, and wanting compensation, can contact their local officer for reassignment to the same control group facilities as their loved ones."
+ vlt_puppet_control_groups:0 "Groupes de Contrôle"
+ vlt_puppet_control_groups_desc:0 "S'il vous plaît, citoyens, ne soyez pas alarmés. Les récentes disparitions sont simplement le résultat de notre toute nouvelle politique de constitution de groupes de contrôle. Ils sont bien soignés et nourris comme chacun d'entre vous. Toute famille dont l'un des membres a été réaffecté de force et qui souhaite obtenir une compensation peut contacter son agent local pour être réaffecté dans les mêmes installations de groupe de contrôle que ses proches."
 
-vlt_puppet_science_enrichment_centres:0 "Enrichment Centres"
-vlt_puppet_science_enrichment_centres_desc:0 "In the interest of soothing test subjects, we are pleased to announce the opening of an all new enrichment centre! With padded walls for a comfortable atmosphere, and a calming series of speakers and television in every room, it is guaranteed to give a wonderful experience to our beloved contributors. Ask you local supervisor about it today!"
+ vlt_puppet_science_enrichment_centres:0 "Centres d'Enrichissement"
+ vlt_puppet_science_enrichment_centres_desc:0 "Dans l'intérêt des sujets de test apaisants, nous sommes heureux d'annoncer l'ouverture d'un tout nouveau centre d'enrichissement ! Avec des murs rembourrés pour une atmosphère confortable, et une série de haut-parleurs et de télévision apaisante dans chaque pièce, il est garanti de donner une expérience merveilleuse à nos contributeurs bien-aimés. Renseignez-vous dès aujourd'hui auprès de votre superviseur local !"
 
-vlt_puppet_artificial_loyalty_enhancement:0 "Artificial Loyalty Enchancement"
-vlt_puppet_artificial_loyalty_enhancement_desc:0 "All new loyalty chip directly implanted in the nerval system is the most recent advancement coming straight from our sales division! Guaranteed to make you happy with chem injecting technology specifically made for your well being! Vault Tec kindly remind you that the surgery is mandatory, and wish you a wonderful day!"
+ vlt_puppet_artificial_loyalty_enhancement:0 "Renforcement Artificiel de la Loyauté"
+ vlt_puppet_artificial_loyalty_enhancement_desc:0 "Toute nouvelle puce de fidélité directement implantée dans le système Nerval est la plus récente avancée venant directement de notre division commerciale ! La garantie de vous rendre heureux grâce à une technologie d'injection de produits chimiques spécialement conçue pour votre bien-être ! Vault Tec vous rappelle que l'opération est obligatoire et vous souhaite une excellente journée !"
 
-vlt_puppet_SPCW:0 "Citizens for the Ethical Treatment of Wastelanders"
-vlt_puppet_SPCW_desc:0 "With the new development concerning the C.E.T.W's campaign, we are saddened to announce that, after much deliberation, we are to stop all enrichment programs and scientific advancements. While i am sure most of you are shocked and horrified at this development, we still want to say Vault Tec will do it's best to lead you all into humanity's future!"
+ vlt_puppet_SPCW:0 "Les Citoyens pour un Traitement Ethique des Surviants"
+ vlt_puppet_SPCW_desc:0 "Avec le nouveau développement concernant la campagne du C.E.T.W., nous sommes attristés d'annoncer qu'après de longues délibérations, nous allons arrêter tous les programmes d'enrichissement et les avancées scientifiques. Bien que je sois sûr que la plupart d'entre vous soient choqués et horrifiés par ce développement, nous voulons quand même dire que Vault Tec fera de son mieux pour vous mener tous vers l'avenir de l'humanité !"
 
-vlt_puppet_for_the_vault:0 "For the City"
-vlt_puppet_for_the_vault_desc:0 "As a new subsidiary of Vault Tec Incorporated, we are pleased to announce to specialized engineer will soon arrive and help your city/region/nation to become the thriving location we know it can be! We believe in you champ! Do not pay attention to the armed guard, they are purely here for protection against raiders and wildlife."
+ vlt_puppet_for_the_vault:0 "Pour la Ville"
+ vlt_puppet_for_the_vault_desc:0 "En tant que nouvelle filiale de Vault Tec incorporé, nous sommes heureux d'annoncer qu'un ingénieur spécialisé arrivera bientôt et aidera votre ville/région/nation à devenir l'endroit prospère que nous savons qu'il peut être ! Nous croyons en vous, champion ! Ne faites pas attention aux gardes armés, ils sont là uniquement pour vous protéger contre les pillards et la faune."
 
-vlt_puppet_the_new_courtyard:0 "The New Courtyard"
-vlt_puppet_the_new_courtyard_desc:0 "Continuing our partnership, Vault City has decided to send you additional settlers to help you tame the deserted wastes! How lucky can you be? Now you might raise some concern as to their skin tone and their general attitude, but we assure you they are the very best the courtyard can provide!"
+ vlt_puppet_the_new_courtyard:0 "La Nouvelle Cour"
+ vlt_puppet_the_new_courtyard_desc:0 "Poursuivant notre partenariat, Vault City a décidé de vous envoyer des colons supplémentaires pour vous aider à apprivoiser les Terres Dévastées ! Quelle chance pouvez-vous avoir ? Vous pouvez maintenant vous inquiéter de leur teint et de leur attitude générale, mais nous vous assurons qu'ils sont ce que la cour peut offrir de mieux !"
 
-vlt_puppet_resource_extraction:0 "Resource Extraction"
-vlt_puppet_resource_extraction_desc:0 "To help our relations even further, we decided to give you access to advanced resource extraction devices. Of course, we will expect our own part of the deal, but we have negociated a more than fair trade! After all, 25% of the most advanced mine in the waste is better than 100% of nothing, right?"
+ vlt_puppet_resource_extraction:0 "Extraction des Ressources"
+ vlt_puppet_resource_extraction_desc:0 "Afin de faciliter encore davantage nos relations, nous avons décidé de vous donner accès à des dispositifs avancés d'extraction de ressources. Bien sûr, nous attendons notre propre part de l'accord, mais nous avons négocié un commerce plus qu'équitable ! Après tout, 25 % de la mine la plus avancée dans les Terres Désolées, c'est mieux que 100 % de rien, n'est-ce pas ?"
 
-vlt_puppet_industrial_repurposing:0 "Industrial Repurposing"
-vlt_puppet_industrial_repurposing_desc:0 "Recent visit by our accredited engineers have revealed perfectly good civilian workshops to be used for civilian projects. Somehow it seems like they were used for less than ideal purposes, so we took the liberty to repurpose them ourselves and send the dangerous materials back to Vault City for better use. Thank you for your cooperation!"
+ vlt_puppet_industrial_repurposing:0 "Reconversion Industrielle"
+ vlt_puppet_industrial_repurposing_desc:0 "La récente visite de nos ingénieurs accrédités a révélé des ateliers civils parfaitement adaptés à des projets civils. Il semble qu'ils aient été utilisés à des fins moins qu'idéales, nous avons donc pris la liberté de les réutiliser nous-mêmes et de renvoyer les matériaux dangereux à Vault City pour une meilleure utilisation. Merci pour votre coopération !"
 
-vlt_puppet_vault_security_training:0 "Vault Security Training"
-vlt_puppet_vault_security_training_desc:0 "With our partnership deepening, it has been deemed appropriate to give you, our most esteemed partners, access to special Vault Security training! Those advanced programs run by our experienced veteran is sure to make your security forces an effective military force indeed! Results in a month or a full refund is offered!"
+ vlt_puppet_vault_security_training:0 "Formation de la Sécutité de l'Abri"
+ vlt_puppet_vault_security_training_desc:0 "Avec l'approfondissement de notre partenariat, il a été jugé opportun de vous donner, à vous nos partenaires les plus estimés, accès à une formation spéciale sur la sécurité des abris ! Ces programmes avancés, dirigés par notre vétéran expérimenté, feront certainement de vos forces de sécurité une force militaire efficace ! Résultats en un mois ou un remboursement complet est offert !"
 
-vlt_puppet_for_the_people:0 "For Humanity"
-vlt_puppet_for_the_people_desc:0 "Humanity! Glorious torchbearer of civilization and science! Here at Vault Tec, our main goal is to preserve it, and we do it more than well. To advance our goals further, we will sadly have to ask of you all to tighten your belt just a tad to facilitate your uplifting. Think of humanity's future! It will all be worth it in the end."
+ vlt_puppet_for_the_people:0 "Pour l'Humanité"
+ vlt_puppet_for_the_people_desc:0 "L'Humanité ! Glorieux porte-flambeau de la civilisation et de la science ! Ici, à Vault Tec, notre principal objectif est de la préserver, et nous le faisons plus que bien. Pour aller plus loin, nous allons malheureusement devoir vous demander à tous de vous serrer un peu la ceinture pour faciliter votre ascension. Pensez à l'avenir de l'humanité ! Tout cela en vaudra la peine à la fin."
 
-vlt_puppet_building_utopia:0 "Building Utopia"
-vlt_puppet_building_utopia_desc:0 "Utopia is, for us, a more than manageable goal. After all, we of all people would know about life blooming after the apocalypse. But it requires willing participant, strong and determined, and you are those participants! Already, manual tools and manuals have been delivered to your local Vault Tec Coordination Center. Engage today!"
+ vlt_puppet_building_utopia:0 "Construire l'Utopie"
+ vlt_puppet_building_utopia_desc:0 "L'utopie est, pour nous, un objectif plus que gérable. Après tout, nous savons tous que la vie s'épanouit après l'apocalypse. Mais il faut pour cela des participants volontaires, forts et déterminés, et vous êtes ces participants ! Déjà, des outils et des manuels ont été livrés au centre de coordination Vault Tec de votre région. Engagez-vous dès aujourd'hui !"
 
-vlt_puppet_vaultways:0 "Vaultways"
-vlt_puppet_vaultways_desc:0 "To begin the construction of an all-new vault, we will have to construct new infrastructures to move the material required. Lucky for you, your local Vault Tec subsidiary is more than willing to help! Simply ask for some construction assets, don't let the chains get too loose and you'll have a brand new road before you can say /"Thank you Vault Tec!/""
+ vlt_puppet_vaultways:0 "Les Voies de l'Abri"
+ vlt_puppet_vaultways_desc:0 "Pour commencer la construction d'un tout nouveau abri, nous devrons construire de nouvelles infrastructures pour déplacer le matériel nécessaire. Heureusement pour vous, votre filiale locale Vault Tec est plus que disposée à vous aider ! Il suffit de demander des biens de construction, de ne pas laisser les chaînes se détacher trop et vous aurez une toute nouvelle route avant de pouvoir dire "Merci Vault Tec" !"
 
-vlt_puppet_GECK_replicas:0 "G.E.C.K. Replicas"
-vlt_puppet_GECK_replicas_desc:0 "While our G.E.C.K replicas might not bring back the lush forests of old, we sincerely think it will be more than enough to clear the way for the future! Please refer to operation manual 23 through 46 and never touch the device before being equipped with a double-layered radiation suit as well as charcoal pills, report any suspicious leaks to your overseer immediatly."
+ vlt_puppet_GECK_replicas:0 "Répliques du G.E.C.K."
+ vlt_puppet_GECK_replicas_desc:0 "Même si nos répliques G.E.C.K. ne ramènent peut-être pas les forêts luxuriantes d'autrefois, nous pensons sincèrement que cela suffira amplement à ouvrir la voie de l'avenir ! Veuillez vous référer aux manuels d'utilisation 23 à 46 et ne jamais toucher l'appareil avant d'être équipé d'une combinaison anti-radiations à double couche ainsi que de pilules de charbon, signalez immédiatement toute fuite suspecte à votre superviseur."
 
-vlt_puppet_free_lunchboxes:0 "Free Lunchboxes!"
-vlt_puppet_free_lunchboxes_desc:0 "As a welcome gift from our regional department to you, all of you have been provided with special edition Vault Boy lunchboxes! The sturdy lead lining is extremely good to keep any food inside, while the asbestos exterior will protect it from heat and most damage. No need for thanks, it's our pleasure!"
+ vlt_puppet_free_lunchboxes:0 "Déjeuners Gratuits !"
+ vlt_puppet_free_lunchboxes_desc:0 "En guise de cadeau de bienvenue de la part de notre département régional, vous avez tous reçu une édition spéciale de boîtes à lunch Vault Boy ! La solide doublure en plomb est extrêmement efficace pour conserver les aliments à l'intérieur, tandis que l'extérieur en amiante les protège de la chaleur et de la plupart des dommages. Pas besoin de remerciements, c'est notre plaisir !"
 
-vlt_puppet_vault_boy_posters:0 "Vault Propaganda"
-vlt_puppet_vault_boy_posters_desc:0 "Even though it is clear what the benefits of being a Vault Tec Incorporated partner is, we would like to remind you all of the multiple benefits that come with this status. Consider the fulfilment and beauty in serving a higher purpose, in building humanity's future and contributing to the next scientifical breakthrough! Now please, get back to work."
+ vlt_puppet_vault_boy_posters:0 "Propagande de Vault City"
+ vlt_puppet_vault_boy_posters_desc:0 "Même si les avantages d'être un partenaire de Vault Tec incorporé sont évidents, nous aimerions vous rappeler les multiples avantages qui accompagnent ce statut. Considérez l'accomplissement et la beauté de servir un but supérieur, de construire l'avenir de l'humanité et de contribuer à la prochaine percée scientifique ! Maintenant, s'il vous plaît, retournez au travail."
 
-vlt_puppet_new_jumpsuits:0 "New Jumpsuits"
-vlt_puppet_new_jumpsuits_desc:0 "It is with warm hearts and heightened mind that we are proud to announce a new vault jumpsuit series to be manufactured, as of right now, for the numerous additional vault dwellers! Our family has expanded so much in the last few months, and we welcome one and all in our organization."
+ vlt_puppet_new_jumpsuits:0 "Nouvelles Combinaisons"
+ vlt_puppet_new_jumpsuits_desc:0 "C'est avec un cœur chaleureux et un esprit vif que nous sommes fiers d'annoncer la fabrication d'une nouvelle série de combinaisons pour les nombreux autres habitants de l'abri, dès à présent ! Notre famille s'est beaucoup agrandie ces derniers mois, et nous souhaitons la bienvenue à tous dans notre organisation."
 
-vlt_puppet_taking_the_GOAT:0 "Taking the GOAT"
-vlt_puppet_taking_the_GOAT_desc:0 "The Generalized Occupational Aptitude Test! A rite of passage for every Vault Tec associate, and today you are the privileged individual to pass it! With multiple fun questions and a quarantee to have a fulfilling occupation at the end of it, it is sure to be a real hitter amongst the youth. Now please, dear citizens, step right up for the GOAT!"
+ vlt_puppet_taking_the_GOAT:0 "Prendre le G.O.A.T"
+ vlt_puppet_taking_the_GOAT_desc:0 "Le test d'aptitude professionnelle généralisée ! Un rite de passage pour chaque associé de Vault Tec, et aujourd'hui vous êtes le privilégié pour le réussir ! Avec de multiples questions amusantes et une garantie d'avoir un métier épanouissant à la fin, il est sûr d'être un vrai succès auprès des jeunes. Maintenant, s'il vous plaît, chers citoyens, faites un pas vers le G.O.A.T!"
 
-vlt_puppet_a_new_great_experiment:0 "A New Great Experiment"
-vlt_puppet_a_new_great_experiment_desc:0 "Vault Tec want to take some precious time out of your wonderful day to remind you that while the current situations of the wasteland is indeed dire, we here at Vault Tec can do much better! So we gently ask you to do your best in this whole new world alongside our trained personel, for the betterment of mankind. If you do not want to do so, please refer to Manual 12.C and appropriate the loaded weapon 2.B for self-disposal procedures"
+ vlt_puppet_a_new_great_experiment:0 "Une Nouvelle Grande Expérience"
+ vlt_puppet_a_new_great_experiment_desc:0 "Vault Tec veut prendre un peu de temps précieux de votre merveilleuse journée pour vous rappeler que si la situation actuelle des Terres Désolées est effectivement désastreuse, nous, ici à Vault Tec, pouvons faire beaucoup mieux ! Nous vous demandons donc gentiment de faire de votre mieux dans ce tout nouveau monde, aux côtés de notre personnel qualifié, pour le bien de l'humanité. Si vous ne souhaitez pas le faire, veuillez vous référer au manuel 12.C et vous approprier l'arme chargée 2.B pour les procédures d'autodécharge"
 
-vlt_puppet_honorary_vault_dwellers:0 "Honorary Vault Dwellers"
-vlt_puppet_honorary_vault_dwellers_desc:0 "You all worked so hard to come all this way, and for this we are most honored to present you all with the wonderful thing that every aspiring vault dweller seeks. Your very own Certificate of Capacity! The road was a arduous one, but you still went through it no problem, and we are proud to count you amongst our rank. Please receive our most esteemed gratitude, and thank you again for choosing Vault Tec!"
+ vlt_puppet_honorary_vault_dwellers:0 "Habitants Honorables de l'Abri"
+ vlt_puppet_honorary_vault_dwellers_desc:0 "Vous avez tous travaillé si dur pour faire tout ce chemin, et pour cela nous sommes très honorés de vous présenter la chose merveilleuse que tout aspirant à la vie de caveau recherche. Votre propre Certificat de Capacité ! La route a été ardue, mais vous l'avez quand même parcourue sans problème, et nous sommes fiers de vous compter parmi nos rangs. Recevez notre plus grande gratitude, et merci encore d'avoir choisi Vault Tec !"
 
-rio_chapter_ad_victorium:0 "Bound by Steel"
-rio_chapter_ad_victorium_desc:0 "Defeated by the monsters of steel, we can do nothing but submit and wait for their judgements. We fought valiantly, but their advanced technology gave them the edge, and now we must endure. Our population is weary and fearful, little is known about them. Will they be sadistic conqueror?"
+ rio_chapter_ad_victorium:0 "Lié par l'Acier"
+ rio_chapter_ad_victorium_desc:0 "Vaincus par les monstres d'acier, nous ne pouvons que nous soumettre et attendre leur jugement. Nous nous sommes battus vaillamment, mais leur technologie avancée leur a donné l'avantage, et maintenant nous devons endurer. Notre population est fatiguée et craintive, on sait peu de choses sur eux. Seront-ils des conquérants sadiques ?"
 
-rio_chapter_capital_siege:0 "Liberation of [Root.Capital.GetName]"
-rio_chapter_capital_siege_desc:0 "The Brotherhood has decided to march on our capital. Our citizens lock their door and stare out of their windows, afraid of those hulking soldiers clad in power armors. What do they want? To they seek to gloat after our defeat?"
+ rio_chapter_capital_siege:0 "Libération de [Root.Capital.GetName]"
+ rio_chapter_capital_siege_desc:0 "La Confrérie a décidé de marcher sur notre capitale. Nos citoyens ferment leur porte à clé et regardent par la fenêtre, effrayés par ces soldats en armure. Que veulent-ils ? Qu'ils cherchent à jubiler après notre défaite ?"
 
-rio_chapter_hall_of_initiates:0 "Hall of Initiates"
-rio_chapter_hall_of_initiates_desc:0 "They apparently seek initiates, new recruits for their army, and we can only oblige. Yet it is strange, it cannot be said it is conscription, they seem to want to uplift us. But what will their teachings be?"
+ rio_chapter_hall_of_initiates:0 "Salle des Initiés"
+ rio_chapter_hall_of_initiates_desc:0 "Ils cherchent apparemment des initiés, de nouvelles recrues pour leur armée, et nous ne pouvons que les obliger. Pourtant, c'est étrange, on ne peut pas dire qu'il s'agit de la conscription, ils semblent vouloir nous élever. Mais quels seront leurs enseignements ?"
 
-rio_chapter_initiate_education:0 "Education for Service"
-rio_chapter_initiate_education_desc:0 "Their auxiliary militia need men, soldiers willing to walk beside their armored silhouette. Already we have chosen our most hardy citizens to give to the invaders, for we thought of it as drafting. But they seek willing soldiers, and in exchange they will give us the gift of knowledge."
+ rio_chapter_initiate_education:0 "L'Éducation pour le Service"
+ rio_chapter_initiate_education_desc:0 "Leur milice auxiliaire a besoin d'hommes, de soldats prêts à marcher à côté de leur silhouette blindée. Nous avons déjà choisi nos citoyens les plus robustes pour les donner aux envahisseurs, car nous avons pensé à l'enrôlement. Mais ils recherchent des soldats volontaires, et en échange ils nous feront cadeau du savoir."
 
-rio_chapter_drilling:0 "Drills"
-rio_chapter_drilling_desc:0 "Our army, surprisingly, hasn't been disbanded once the country went under. If anything, it increased in size! Brotherhood advisors have watched our military drills as well as training programs, and have offered vast amount of improvements to them. This should make our forces into a more capable fighting machine, but what is their goal?"
+ rio_chapter_drilling:0 "Exercices"
+ rio_chapter_drilling_desc:0 "Notre armée, étonnamment, n'a pas été dissoute après la chute du pays. Au contraire, elle a augmenté en taille ! Les conseillers de la confrérie ont observé nos exercices militaires ainsi que les programmes de formation, et leur ont proposé de nombreuses améliorations. Cela devrait faire de nos forces une machine de combat plus performante, mais quel est leur objectif ?"
 
-rio_chapter_ideological_strength:0 "Brotherhood Propaganda"
-rio_chapter_ideological_strength_desc:0 "Pamphlets, public speakers, humanitarian aid campaign, The Brotherhood is clearly looking for good PR. Yet can we fault them? They bring food and shelter to our population, it is only fair they gain some amount of trust in return."
+ rio_chapter_ideological_strength:0 "Propagande de la Confrérie"
+ rio_chapter_ideological_strength_desc:0 "Tracts, orateurs, campagne d'aide humanitaire, la confrérie recherche clairement de bonnes relations publiques. Pourtant, peut-on les blâmer ? Ils apportent de la nourriture et un abri à notre population, il est juste qu'ils gagnent une certaine confiance en retour."
 
-rio_chapter_reintroducing_technology:0 "Reintroduce Basic Technology"
-rio_chapter_reintroducing_technology_desc:0 "Out of every technology reintroduced by The Nrotherhood into our nation, air conditioning is the most appreciated one. While functioning terminals and working laboratories are all well and good, they displayed a certain bewilderment at seeing us more interested by fresh air than science. What do they know, their suits have integrated ventilation after all..."
+ rio_chapter_reintroducing_technology:0 "Réintroduire la Technologie de Base"
+ rio_chapter_reintroducing_technology_desc:0 "De toutes les technologies réintroduites par la Confrérie dans notre pays, la climatisation est la plus appréciée. Si les terminaux et les laboratoires en fonctionnement sont tous très bien, ils ont montré une certaine perplexité à nous voir plus intéressés par l'air frais que par la science. Que savent-ils, leurs combinaisons ont une ventilation intégrée après tout..."
 
-rio_chapter_earning_our_place:0 "Earning Our Place"
-rio_chapter_earning_our_place_desc:0 "The Chapter calls, and for their efforts toward improving our lives, we answer. We cannot idly stand by as they work for our benefit, we will warrant this privilege, and we will merit their respect! Let it be known we form exceptional auxiliaries, for we will earn our place alongside them!"
+ rio_chapter_earning_our_place:0 "Gagner notre Place"
+ rio_chapter_earning_our_place_desc:0 "Le chapitre appelle, et nous répondons à leurs efforts pour améliorer nos vies. Nous ne pouvons pas rester les bras croisés pendant qu'ils travaillent pour nous, nous mériterons ce privilège et leur respect ! Faites savoir que nous formons des auxiliaires exceptionnels, car nous mériterons notre place à leurs côtés !"
 
-rio_chapter_scribe_initiation:0 "Scribe Initiation"
-rio_chapter_scribe_initiation_desc:0 "For our efforts, we have earned the privilege to receive scribe initiation, in the same way any aspiring initiates would. Our military as well as people stands ready, we will pass this test!"
+ rio_chapter_scribe_initiation:0 "Initiation du Scribe"
+ rio_chapter_scribe_initiation_desc:0 "Pour nos efforts, nous avons gagné le privilège de recevoir l'initiation de scribe, de la même manière que tout aspirant initié. Notre armée ainsi que notre peuple se tiennent prêts, nous allons passer ce test !"
 
-rio_chapter_learning_from_the_ancients:0 "Learning From the Ancients"
-rio_chapter_learning_from_the_ancients_desc:0 "Our people seek more knowledge, and so they seek the relics of the old world. Scavenging teams are put in place, with every finding minutiously cleaned and studied for future use. The Brotherhood seeks those objects as much as us, and they could prove useful in the future."
+ rio_chapter_learning_from_the_ancients:0 "Tirer les Leçons des Anciens"
+ rio_chapter_learning_from_the_ancients_desc:0 "Notre peuple recherche plus de connaissances, et donc les reliques de l'ancien monde. Des équipes de fouille sont mises en place, et chaque trouvaille est minutieusement nettoyée et étudiée en vue d'une utilisation future. La Confrérie recherche ces objets autant que nous, et ils pourraient s'avérer utiles à l'avenir."
 
-rio_chapter_tutelage:0 "Tutelage"
-rio_chapter_tutelage_desc:0 "With our army following the new training regiment to the letter, armored soldiers see that we seek to fill their ranks. The advisors have already requested to act as military advisors and drill supervisors, a request which we can only accept. How could we pass the opportunity for such a good example to strive toward?"
+ rio_chapter_tutelage:0 "Tutelage"
+ rio_chapter_tutelage_desc:0 "Avec notre armée qui suit à la lettre le nouveau régiment d'entraînement, les soldats blindés voient que nous cherchons à remplir leurs rangs. Les conseillers ont déjà demandé à agir en tant que conseillers militaires et superviseurs d'exercices, une demande que nous ne pouvons qu'accepter. Comment pourrions-nous laisser passer l'occasion d'un si bon exemple à suivre ?"
 
-rio_chapter_old_world_medicine:0 "Old World Medicine"
-rio_chapter_old_world_medicine_desc:0 "Arguably, what determines the level of a civilization is how well it's citizens are taken care of. As such, and to prevent any avoidable military casualties, a huge scavenging campaign of every clinic, hospital and medical facilities in our lands should improve our knowledge and let us developp new technologies."
+ rio_chapter_old_world_medicine:0 "Médecine de l'Ancien Monde"
+ rio_chapter_old_world_medicine_desc:0 "On peut dire que ce qui détermine le niveau d'une civilisation est la qualité des soins apportés à ses citoyens. À ce titre, et pour éviter toute perte militaire évitable, une vaste campagne de nettoyage de toutes les cliniques, hôpitaux et installations médicales de nos pays devrait améliorer nos connaissances et nous permettre de développer de nouvelles technologies."
 
-rio_chapter_new_discoveries:0 "New Scientific Discoveries"
-rio_chapter_new_discoveries_desc:0 "Our scientists have made a breakthrough! After such a long time improving our knowledge and expanding our technological operations, we have managed to make a new scientific discovery! Surely this will please The Brotherhood, for we will present it to them as a gift."
+ rio_chapter_new_discoveries:0 "Nouvelles Découvertes Scientifiques"
+ rio_chapter_new_discoveries_desc:0 "Nos scientifiques ont fait une percée ! Après avoir si longtemps amélioré nos connaissances et développé nos opérations technologiques, nous avons réussi à faire une nouvelle découverte scientifique ! Cela fera certainement plaisir à la Confrérie, car nous la leur offrirons en cadeau."
 
-rio_chapter_power_armour_maintenance:0 "Power Armour Maintenance"
-rio_chapter_power_armour_maintenance_desc:0 "As a symbol of trust, our nation has been assigned a small amount of salvaged power armor. We are to learn how to use them, maintain them and improve them, for we are to become knights! Already, our troops feel mighty in an actual powered armor. But we have still a long way to go."
+ rio_chapter_power_armour_maintenance:0 "Maintenance d'Armures Assistées"
+ rio_chapter_power_armour_maintenance_desc:0 "En symbole de confiance, notre nation a reçu une petite quantité d'armure assistée récupérée. Nous devons apprendre à les utiliser, les entretenir et les améliorer, car nous devons devenir chevaliers ! Déjà, nos troupes se sentent puissantes dans une véritable armure assistée. Mais nous avons encore un long chemin à parcourir."
 
-rio_chapter_knight_school:0 "Knight School"
-rio_chapter_knight_school_desc:0 "The Brotherhood saw fit to begin giving us knight training, a great honor to be sure! With it comes technology, knowledge and power! We are making great progress, and soon we will be as mighty as their steel titans."
+ rio_chapter_knight_school:0 "L'École des Chevaliers"
+ rio_chapter_knight_school_desc:0 "La Confrérie a jugé bon de commencer à nous donner une formation de chevalier, un grand honneur, c'est certain ! Avec elle viennent la technologie, la connaissance et le pouvoir ! Nous faisons de grands progrès, et bientôt nous serons aussi puissants que leurs titans d'acier."
 
-rio_chapter_art_of_war:0 "The Art of War"
-rio_chapter_art_of_war_desc:0 "If we are to become a fully fledged chapter, we need to be the very best, the cream of the crop. Our power armors have served us well, but what is needed is training and tactics. We will be fearless, strike fast and hard, destroy our enemies before they can even react."
+ rio_chapter_art_of_war:0 "L'Art de la Guerre"
+ rio_chapter_art_of_war_desc:0 "Si nous voulons devenir un chapitre à part entière, nous devons être les meilleurs, la crème de la crème. Nos armures assistées nous ont bien servi, mais ce qu'il faut, c'est de l'entraînement et des tactiques. Nous serons sans peur, nous frapperons vite et fort, nous détruirons nos ennemis avant même qu'ils ne puissent réagir."
 
-rio_chapter_power_armour_training:0 "Power Armour Training"
-rio_chapter_power_armour_training_desc:0 "Specialized power armor drills dealing with proper handling, maintenance procedure as well as battlefield repair will let us streamline our current design, accounting for the superior training of our troops, which can easily compensate. We need to focus on both quality as well as quantity, for if we manage to combine both, surely our enemies are doomed."
+ rio_chapter_power_armour_training:0 "Entraînement au Port d'Armure Assistée"
+ rio_chapter_power_armour_training_desc:0 "Des exercices spécialisés sur les armures assistées, portant sur la manutention, la procédure de maintenance et la réparation du champ de bataille, nous permettront de rationaliser notre conception actuelle, ce qui contribuera à la formation supérieure de nos troupes, ce qui peut facilement compenser. Nous devons nous concentrer à la fois sur la qualité et la quantité, car si nous parvenons à combiner les deux, nos ennemis sont sûrement condamnés."
 
-rio_chapter_wasteland_missions:0 "Wasteland Missions"
-rio_chapter_wasteland_missions_desc:0 "New recruits, new auxiliaries, new initiates, we need all those and more. If we are to defend ourselves and strive, we must have more forces. Recruiting missions will be sent throughout the wastelands, asking for hardened soldiers to become knights. This should bolster our troops enough for us to take most foes head on."
+ rio_chapter_wasteland_missions:0 "Missions dans les Terres Désolées"
+ rio_chapter_wasteland_missions_desc:0 "Nouvelles recrues, nouveaux auxiliaires, nouveaux initiés, nous avons besoin de tout cela et plus encore. Si nous voulons nous défendre et lutter, nous devons disposer de plus de forces. Des missions de recrutement seront envoyées dans les régions des Terres Désolées, demandant à des soldats endurcis de devenir chevaliers. Cela devrait renforcer suffisamment nos troupes pour nous permettre de prendre la plupart des ennemis de front."
 
-rio_chapter_new_bunkers:0 "New Bunkers"
-rio_chapter_new_bunkers_desc:0 "Fortifications are required for any military headquarters, and our allies have been kind enough to provide us with some of their low-level bunker designs. Work has already begun, with provision for tactical command rooms and hardened defensive positions. There is little doubt that we will bleed anyone trying to take us on dry."
+ rio_chapter_new_bunkers:0 "Nouveaux Bunkers"
+ rio_chapter_new_bunkers_desc:0 "Des fortifications sont nécessaires pour tout quartier général militaire, et nos alliés ont eu la gentillesse de nous fournir certains de leurs modèles de bunkers de bas niveau. Les travaux ont déjà commencé, avec la mise en place de salles de commandement tactique et de positions défensives renforcées. Il ne fait guère de doute que nous saignerons quiconque essaiera de nous mettre à sec."
 
-rio_chapter_technology_raids:0 "Technology Raids"
-rio_chapter_technology_raids_desc:0 "It's time to put all this practice and training to use. The Brotherhood has sighted dangerous technology around our territory, and tasked us with capturing them, as well as taking out any hostile asset. We will not disappoint, Ad Victoriam."
+ rio_chapter_technology_raids:0 "Raids Technologiques"
+ rio_chapter_technology_raids_desc:0 "Il est temps de mettre à profit toute cette pratique et cette formation. La Confrérie a repéré des technologies dangereuses sur notre territoire et nous a chargés de les capturer et de détruire tout élément hostile. Nous ne décevrons pas, Ad Victoriam."
 
-rio_chapter_paladin:0 "Paladin Initiation"
-rio_chapter_paladin_desc:0 "Finally, we are deemed worthy. Our armed forces are to undergo official paladin initiation, and that will mean the hardest test for them. They are ready, and they will not disappoint. True paladins will soon grace our lands, in service of the people and fighting against the horror of the wasteland!"
+ rio_chapter_paladin:0 "Initiation Paladin"
+ rio_chapter_paladin_desc:0 "Enfin, nous sommes jugés dignes. Nos forces armées doivent se soumettre à l'initiation officielle des paladins, ce qui constituera pour elles l'épreuve la plus difficile. Elles sont prêtes et elles ne décevront pas. Les vrais paladins vont bientôt faire la grâce de nos terres, au service du peuple et en luttant contre l'horreur des Terres Désolées !"
 
-rio_chapter_visit_from_the_elder:0 "Visit From the Elders"
-rio_chapter_visit_from_the_elder_desc:0 "The elders have graced us with their presence, and as such we have been deemed worthy. A visit from them had widespread consequences amongst the population. Our people is now proudful and hopeful again, for they have given us water, electricity, and the opportunity to prove ourselves. We reiterate our pledge of allegiance, and promise our support toward the cause."
+ rio_chapter_visit_from_the_elder:0 "Visite des Aînés"
+ rio_chapter_visit_from_the_elder_desc:0 "Les Aînés nous ont gratifiés de leur présence et, en tant que tels, nous avons été jugés dignes. Une visite de leur part a eu des conséquences importantes au sein de la population. Notre peuple est à nouveau fier et plein d'espoir, car ils nous ont donné de l'eau, de l'électricité et la possibilité de faire nos preuves. Nous réitérons notre serment d'allégeance et promettons notre soutien à cette cause."
 
-rio_chapter_new_chapter:0 "A New Chapter"
-rio_chapter_new_chapter_desc:0 "All our efforts and training, all the people we lost, the people we met, the friends we made, the enemies we crushed, all lead to this. We are now officially recognised as a new Brotherhood chapter, the first to ever be formed from the wasteland. Created from the ashes of the apocalypse, we rise to secure and protect our people, as well as contain dangerous technology. We pledge loyalty to The Brotherhood, now and forever!"
+ rio_chapter_new_chapter:0 "Un Nouveau Chapitre"
+ rio_chapter_new_chapter_desc:0 "Tous nos efforts et notre formation, toutes les personnes que nous avons perdues, celles que nous avons rencontrées, les amis que nous nous sommes faits, les ennemis que nous avons écrasés, tout cela mène à cela. Nous sommes maintenant officiellement reconnus comme un nouveau chapitre de la Confrérie, le premier à avoir été formé à partir des Terres Désolées. Créés sur les cendres de l'apocalypse, nous nous élevons pour sécuriser et protéger notre peuple, ainsi que pour contenir les technologies dangereuses. Nous promettons fidélité à la Confrérie, maintenant et pour toujours !"
 
-rio_chapter_semper_invicta:0 "Duty, Honor, Courage"
-rio_chapter_semper_invicta_desc:0 "Those values are instilled in us since training. Our pride is well deserved, for we have served our chapter beyond expectation. As a newly formed independent Chapter, we now enjoy a new degree of autonomy that will allow us to undertake independent missions in enemy territory, as well as better fight the enemies of the Brotherhood. Never again will technology be allowed to destroy our world, our elite armored soldiers will make sure of this."
+ rio_chapter_semper_invicta:0 "Devoir, Honneur, Courage"
+ rio_chapter_semper_invicta_desc:0 "Ces valeurs nous sont inculquées depuis la formation. Notre fierté est bien méritée, car nous avons servi notre chapitre au-delà de toute attente. En tant que chapitre indépendant nouvellement formé, nous jouissons maintenant d'un nouveau degré d'autonomie qui nous permettra d'entreprendre des missions indépendantes en territoire ennemi, ainsi que de mieux combattre les ennemis de la Fraternité. Plus jamais la technologie ne sera autorisée à détruire notre monde, nos soldats d'élite blindés s'en assureront."
 
-rio_chapter_the_art_of_rifle_maintenance:0 "The Art of Rifle Maintenance"
-rio_chapter_the_art_of_rifle_maintenance_desc:0 "Proper field stripping and cleaning is indeed an art. Every soldier worth of this name should be able to strip their laser rifle, clean the lenses and the battery receiver, as well as check alignments and electrical conduits. Those rifles must be an extention of ourselves, and taken care of as well as we take care of our own body."
+ rio_chapter_the_art_of_rifle_maintenance:0 "L'art de l'Entretien des Fusils"
+ rio_chapter_the_art_of_rifle_maintenance_desc:0 "Le nettoyage et le démantèlement des champs est en effet un art. Tout soldat digne de ce nom devrait être capable de démonter son fusil laser, de nettoyer les lentilles et le récepteur de la batterie, ainsi que de vérifier les alignements et les conduits électriques. Ces fusils doivent être une extension de nous-mêmes, et nous devons en prendre soin tout comme nous prenons soin de notre propre corps."
 
 
 
