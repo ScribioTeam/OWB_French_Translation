@@ -12,7 +12,7 @@
  nf_utah.2.c:0 "Le Phénix, qui brûle les impurs."
  nf_utah.2.d:0 "L'Homme brûlé, qui veille sur nous."
  nf_utah.2.e:0 "Zéphyr, le vent de la vie."
- nf_utah.2.f:0 "Le calme."
+ nf_utah.2.f:0 "Le Calme."
  nf_utah.2.g:0 "Saint Orissa, Le Fondateur."
  nf_utah.2.h:0 "Saint Barnabé, le Réformateur."
  nf_utah.2.i:0 "Saint Arthur, l'Unificateur."
@@ -53,12 +53,12 @@
   nf_utah.9.a: ""
   nf_utah.9.b: ""
 
- nf_utah.10.t:0 "[FROM.GetName] Pétitions pour l'Autonomie"
+ nf_utah.10.t:0 "Pétitions de [FROM.GetName] pour l'Autonomie"
  nf_utah.10.desc:0 "La guerre contre les Mormons étant terminée avec succès, [FROM.GetName] nous a demandé d'être à égalité dans le nouvel ordre, en récompense de leur loyauté tout au long du conflit."
  nf_utah.10.a:0 "Il n'y a qu'une seule tribu dans l'Utah"
  nf_utah.10.b:0 "Leur loyauté devrait être récompensée."
 
- nf_utah.11.t:0 "La Réponse de Jambes Blanches"
+ nf_utah.11.t:0 "La Réponse des Jambes Blanches"
  nf_utah.11.desc:0 "Malgré nos années de loyauté et de service, les Jambes Blanches nous ont trahis au cours de la dernière heure, plutôt que de nous considérer comme des frères, elles nous ont utilisés comme des outils pour leur sale boulot, et nous ont maintenant mis de côté."
  nf_utah.11.a:0 "Il faut si attendre avec de telles brutes."
  nf_utah.11.b:0 "Alors la guerre nous libérera !"
@@ -80,7 +80,7 @@
  nf_utah.20.t:0 "[FROM.GetName] Demande de l'autonomie"
  nf_utah.20.desc:0 "L'Utah étant gagné pour la légion, [FROM.GetName], une tribu loyale sous le contrôle des Jambes Blanches, a demandé que nous reconnaissions leurs efforts dans la guerre contre les Mormons, et que nous les placions comme une légion amie en Utah."
  nf_utah.20.a:0 "Ils seront peut-être plus faciles à gérer."
- nf_utah.20.b:0 "Ils ont besoin de se mettre à leur place."
+ nf_utah.20.b:0 "Ils ont besoin d'apprendre leur place."
 
  nf_utah.21.t:0 "La Légion Refuse"
  nf_utah.21.desc:0 "Bien que cela ait toujours été difficile, la Légion a refusé de reconnaître notre demande d'autonomie dans l'Utah, et a déclaré que nous devions rester sous la coupe des Jambes Blanches."
@@ -112,7 +112,7 @@
  nf_pantheon.11.t:0 "Se cacher de Sol"
  nf_pantheon.11.desc:0 "On nous a signalé des individus qui ont tenté de se cacher de la lumière divine de Sol. Ils se cachent dans l'ombre et se délectent au crépuscule, d'une manière très perverse pour nos saints enseignements. Bien qu'ils prétendent se reposer de la chaleur du soleil, il ne fait aucun doute qu'il s'agit d'hérétiques parmi nous."
  nf_pantheon.11.a:0 "Ce n'est pas un péché de faire de l'ombre à ses yeux."
- nf_pantheon.11.b:0 "Punissez ces débauchés."
+ nf_pantheon.11.b:0 "Punir ces débauchés."
 
  nf_pantheon.12.t:0 "Fausses Lumières"
  nf_pantheon.12.desc:0 "Des questions ont été soulevées parmi les plus fervents d'entre nous concernant la manière dont les fausses lumières sont utilisées. Si les anciens avaient de nombreuses façons de capter et d'exploiter la lumière, nombreux sont ceux qui pensent que cette pratique est hérétique et que seule la vraie lumière du ciel devrait être autorisée. Devrions-nous accepter la fausse lumière comme étant sacrée, ou la bannir de nos terres ?"
@@ -121,7 +121,7 @@
 
  nf_pantheon.20.t:0 "Découvertes Célestes"
  nf_pantheon.20.desc:0 "L'observation des étoiles n'est pas seulement un devoir sacré pour Luna, c'est aussi une abondance de découvertes inexploitées sur le cortège des cieux. La dernière de ces découvertes concerne l'une de nos planètes sœurs les plus proches. Nos observateurs des étoiles ont rapporté que des filles plus petites dansaient en tandem de la même manière que Luna le fait pour nous. Est-il possible qu'il y ait plus d'une lune dans notre procession ?"
- nf_pantheon.20.a:0 "Hérésie ! Il n'y a qu'un seul Luna."
+ nf_pantheon.20.a:0 "Hérésie ! Il n'y a qu'une seule Luna."
  nf_pantheon.20.b:0 "Célébrons ces découvertes !"
 
  nf_pantheon.21.t:0 "Une Nouvelle Lune"
@@ -139,8 +139,8 @@
 
  nf_pantheon.31.t:0 "Une Récolte Abondante !"
  nf_pantheon.31.desc:0 "Un miracle nous a gratifiés en cette saison de récolte. Des fruits de la taille d'un brahmine et des récoltes qui se balancent plus haut qu'un Deatchclaw. La quantité de nourriture que nous avons récoltée a largement dépassé toute capacité de stockage, que devons-nous faire de cet excès ?"
- nf_pantheon.31.a:0 "Nous devons rendre notre prime à la terre."
- nf_pantheon.31.b:0 "Nous partagerons cette prime avec notre peuple."
+ nf_pantheon.31.a:0 "Nous devons rendre notre récompense à la terre."
+ nf_pantheon.31.b:0 "Nous partagerons cette récompense avec notre peuple."
 
  nf_pantheon.32.t:0 "De Nouvelles Cultures ?"
  nf_pantheon.32.desc:0 "L'entretien de la terre est un devoir solennel pour notre peuple, et s'appuie sur une tradition sacrée et un ancien rituel. Malgré cela, nos agriculteurs ont demandé que de nouvelles cultures soient cousues dans nos champs pour la saison suivante, en remplacement de nos aliments de base traditionnels. Les agriculteurs affirment que cela contribuera à rajeunir le sol, mais ce serait un sacrilège évident de nos droits sacrés. Que devrions-nous faire ?"
@@ -181,7 +181,7 @@
  nf_pantheon.80.a:0 "Tout ce qui compte, c'est la bataille."
  nf_pantheon.80.b:0 "Une victoire bien planifiée est toujours une victoire."
 
- nf_pantheon.81.t:0 "War-Weariness"
+ nf_pantheon.81.t:0 "Peur de la Guerre"
  nf_pantheon.81.desc:0 "Tous ne sont pas assez forts pour parcourir la route de la guerre, mais tous doivent essayer. Certains des membres les plus compatissants de notre société demandent que nous nous reposions de notre lutte continuelle pour le moment, afin que les blessés parmi nous puissent soigner leurs blessures et que nous puissions récupérer nos pertes."
  nf_pantheon.81.a:0 "Il doit y avoir la paix avant la guerre."
  nf_pantheon.81.b:0 "Laissez-les se reposer quand ils seront morts."
@@ -216,7 +216,7 @@
  nf_pantheon.101.desc:0 "Sérénité dégoûtante, pluie étouffante. Le ciel même travaille contre nous ! Les feux sont éteints, les explosions sont étouffées, tout est humide et désespéré. "
  nf_pantheon.101.b:0 "Même l'eau doit brûler un jour."
 
- nf_pantheon.102.t:0 "Un Nouveau Design de Flamme ?"
+ nf_pantheon.102.t:0 "Une Nouvelle Conception de Flamme ?"
  nf_pantheon.102.desc:0 "Un harnais pour la destruction. Navire d'immolation, transformé ? Hérésie ou destruction de grande puissance. Progrès ou pureté. La flamme appelle si vivement, brûlant dans les yeux de l'esprit."
  nf_pantheon.102.a:0 "Une plus grande flamme nous apporte à tous la gloire."
  nf_pantheon.102.b:0 "Il ne peut y avoir aucun progrès, seulement de la destruction."
@@ -229,7 +229,7 @@
  nf_pantheon.111.t:0 "Vol de Tempête"
  nf_pantheon.111.desc:0 "Le tonnerre se déchaîne ! La foudre gronde ! Zéphyr se fraye un chemin à travers la tempête, appelant les téméraires et les braves. Osons-nous défier la rage du ciel, rire comme le vent de toute calamité ?"
  nf_pantheon.111.a:0 "Nous allons communier avec le tonnerre !"
- nf_pantheon.111.b:0 "Vous êtes fou ! Vous allez être grillés !"
+ nf_pantheon.111.b:0 "Vous êtes fou ? Vous allez être grillés !"
 
  nf_pantheon.112.t:0 "La Chasse au Vent"
  nf_pantheon.112.desc:0 "Au-dessus de nos pics de lancement, au sommet des montagnes, et plus haut encore, Zéphyr appelle. Le soleil est à notre portée, les nuages eux-mêmes se trouvent en dessous de nous, un vent plus fort nous est ouvert, si nous avons le courage de le poursuivre."
@@ -292,12 +292,12 @@
  nf_utah.160.c:0 "Si nous ne pouvons pas être des alliés, ne soyons pas des ennemis."
 
  nf_utah.161.t:0 "Murtaugh demande une alliance"
- nf_utah.161.desc:0 "Si nous avons longtemps maintenu l'équilibre du pouvoir le long du fleuve, cela s'est fait de manière essentiellement informelle. Aujourd'hui, cependant, les réformateurs de Murtaugh ont demandé une alliance complète avec notre peuple, pour contrer l'agression des Anointed."
+ nf_utah.161.desc:0 "Si nous avons longtemps maintenu l'équilibre du pouvoir le long du fleuve, cela s'est fait de manière essentiellement informelle. Aujourd'hui, cependant, les réformateurs de Murtaugh ont demandé une alliance complète avec notre peuple, pour contrer l'agression des Oints."
  nf_utah.161.a:0 "Accueillez-les au bercail."
  nf_utah.161.b:0 "Ils sont livrés à eux-mêmes."
 
  nf_utah.162.t:0 "Murtaugh demande un Droit de Regard"
- nf_utah.162.desc:0 "Si nous avons longtemps maintenu l'équilibre du pouvoir le long du fleuve, cela s'est fait de manière essentiellement informelle. Aujourd'hui, cependant, les réformateurs de Murtaugh ont demandé que nous prenions le contrôle de leur peuple, en échange de la protection de Lord's Anointed."
+ nf_utah.162.desc:0 "Si nous avons longtemps maintenu l'équilibre du pouvoir le long du fleuve, cela s'est fait de manière essentiellement informelle. Aujourd'hui, cependant, les réformateurs de Murtaugh ont demandé que nous prenions le contrôle de leur peuple, en échange de la protection de Oint du Seigneur."
  nf_utah.162.a:0 "Nous les dirigerons bien."
  nf_utah.162.b:0 "Nous n'avons pas besoin de sujets."
 
@@ -347,12 +347,12 @@
  nf_utah.176.a:0 "Nous sommes unis."
  nf_utah.176.b:0 "Nous sommes mieux seuls."
 
- nf_utah.180.t:0 "L'Anointed demande une médiation."
- nf_utah.180.desc:0 "Les Anointed ont prouvé qu'ils étaient des amis précieux en ces temps difficiles. Maintenant, ils viennent demander une faveur pour eux-mêmes. Notre relation avec les réformateurs de Murtaugh est bien meilleure que celle de leurs homologues orthodoxes, et les Anointed ont demandé à servir de médiateur dans le schisme entre leurs peuples, afin de tenter de combler le fossé."
+ nf_utah.180.t:0 "Les Oints demandent une médiation."
+ nf_utah.180.desc:0 "Les Oints ont prouvé qu'ils étaient des amis précieux en ces temps difficiles. Maintenant, ils viennent demander une faveur pour eux-mêmes. Notre relation avec les réformateurs de Murtaugh est bien meilleure que celle de leurs homologues orthodoxes, et les Oints ont demandé à servir de médiateur dans le schisme entre leurs peuples, afin de tenter de combler le fossé."
  nf_utah.180.a:0 "Un but noble, nous l'acceptons."
 
  nf_utah.181.t:0 "La Haute Chapelle propose de servir de médiateur dans le cadre du Schisme."
- nf_utah.181.desc:0 "La relation entre la Haute Chapelle et l'Anointed a été une source de préoccupation pour notre peuple. Cette inquiétude s'est accentuée à la suite d'un message de la Haute Chapelle, demandant que nous assistions à un nouveau conseil dont ils seraient les médiateurs, afin de tenter de réparer le schisme. Beaucoup de nos concitoyens soupçonnent un piège, mais cela pourrait être notre seul moyen d'unification pacifique."
+ nf_utah.181.desc:0 "La relation entre la Haute Chapelle et les Oints ont été une source de préoccupation pour notre peuple. Cette inquiétude s'est accentuée à la suite d'un message de la Haute Chapelle, demandant que nous assistions à un nouveau conseil dont ils seraient les médiateurs, afin de tenter de réparer le schisme. Beaucoup de nos concitoyens soupçonnent un piège, mais cela pourrait être notre seul moyen d'unification pacifique."
  nf_utah.181.a:0 "Nous ne nous réunirons jamais avec ces apostats."
  nf_utah.181.b:0 "Si cela peut apporter l'unité, nous acceptons."
 
@@ -361,13 +361,13 @@
  nf_utah.182.a:0 "Des Imbéciles Têtus."
 
  nf_utah.183.t:0 "Le Conseil de New Nicea."
- nf_utah.183.desc:0 "En l'année de notre Seigneur [ROOT.GetYear], un conseil de tous les peuples du Seigneur s'est réuni, pour réparer le schisme des âmes et apporter l'unité aux fidèles. Les Schismatiques de Murtaugh tiennent bon dans leur doctrine de l'immuabilité des âmes, et tout en acceptant de négocier sur les questions doctrinales de la conversion et du baptême, refusent d'accepter la position orthodoxe de l'Anointment des âmes. Après une semaine de délibérations et de pontification théologique, le verdict du concile a été rendu :"
+ nf_utah.183.desc:0 "En l'année de notre Seigneur [ROOT.GetYear], un conseil de tous les peuples du Seigneur s'est réuni, pour réparer le schisme des âmes et apporter l'unité aux fidèles. Les Schismatiques de Murtaugh tiennent bon dans leur doctrine de l'immuabilité des âmes, et tout en acceptant de négocier sur les questions doctrinales de la conversion et du baptême, refusent d'accepter la position orthodoxe de l'Onction des âmes. Après une semaine de délibérations et de pontification théologique, le verdict du concile a été rendu :"
  nf_utah.183.a:0 "Leurs réformes sont raisonnables, nous l'acceptons."
  nf_utah.183.b:0 "Nous ne pouvons accepter que certains de ces changements."
  nf_utah.183.c:0 "Un piège ! Capturez ces hérétiques et saisissez leurs terres !"
 
- nf_utah.185.t:0 "L'Anointed demande aucune interférence."
- nf_utah.185.desc:0 "La menace nordique étant passée, les Anointed ont de nouveau tourné leurs yeux vers Murtaugh, sachant que nous protégeons leur peuple. Les Anointed ont demandé que nous leur retirions notre soutien, afin qu'ils puissent réunifier leur peuple par la force."
+ nf_utah.185.t:0 "Les Oints demandent aucune interférence."
+ nf_utah.185.desc:0 "La menace nordique étant passée, les Oints ont de nouveau tourné leurs yeux vers Murtaugh, sachant que nous protégeons leur peuple. Les Oints ont demandé que nous leur retirions notre soutien, afin qu'ils puissent réunifier leur peuple par la force."
  nf_utah.185.a:0 "Très bien, nous n'interviendrons pas."
  nf_utah.185.b:0 "Nous allons rejoindre nos frères dans la victoire !"
  nf_utah.185.c:0 "Nous ne pouvons pas abandonner Murtaugh."
