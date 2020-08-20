@@ -1,7 +1,7 @@
 # Old World Blues
 > Traduction française
 
-![image link broken](https://img.shields.io/badge/OWB%20version%20translation-2.2.4-green.svg)
+![image link broken](https://img.shields.io/badge/OWB%20version%20translation-2.2.8-green.svg)
 ![image link broken](https://img.shields.io/badge/Translation%20status-release-yellow.svg)
 
 ## Présentation
@@ -40,6 +40,7 @@ Traduisez/corrigez les erreurs sur [votre fork](https://help.github.com/articles
 
 ## Remerciements pour la traduction française
 Les personnes suivantes ont participé à la traduction française :
+- UltraNico
 - 52Alexis
 - Warkild
 - Kileahh

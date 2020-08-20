@@ -7,6 +7,6 @@ dependencies={
 tags={
 	"Translation"
 }
-picture="thumb.jpg"
+picture="thumb.png"
 supported_version="1.9.*"
 remote_file_id="1493571954"
