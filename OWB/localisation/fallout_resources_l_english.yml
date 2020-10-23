@@ -5,6 +5,12 @@
   PRODUCTION_MATERIALS_COMPOSITES: "Composite Materials"
   PRODUCTION_MATERIALS_CIRCUITRY: "Circuitry"
   PRODUCTION_MATERIALS_ADVANCED: "Advanced Components"
+  country_resource_water: "Extra£resources_strip|1"
+  country_resource_energy: "Extra£resources_strip|2"
+  country_resource_metal: "Extra£resources_strip|3"
+  country_resource_composites: "Extra£resources_strip|4"
+  country_resource_circuitry: "Extra£resources_strip|5"
+  country_resource_advanced: "Extra£resources_strip|6"
 
   water_desc: "Water is possibly the most valuable resource in the Wasteland."
   energy_desc: "Energy is a rare resource in the Wasteland. It is needed for many buildings however."

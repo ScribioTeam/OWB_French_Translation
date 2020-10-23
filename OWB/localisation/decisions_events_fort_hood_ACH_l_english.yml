@@ -1,0 +1,108 @@
+﻿l_english:
+  # Decision categories, scripted gui stuff
+
+
+  ach_fort_hood_decisions:0 "Fort Hood Expedition"
+  ach_fort_hood_decisions_desc:0 "\n\n\n\n\n\n\n\n\n\n\n\n\nExpeditionary Manpower: [ACH_fort_hood_readiness_troopers_color_scripted_localization] \nUnused Security Codes: [ACH_fort_hood_readiness_codes_color_scripted_localization] \n------------------------------------\nFort Hood Level Breached: §G[?ACH_fort_hood_progress]§!"
+  ACH_fort_hood_readiness_troopers_red:0 "§R[?ACH_fort_hood_readiness_troopers]§!"
+  ACH_fort_hood_readiness_troopers_yellow:0 "§Y[?ACH_fort_hood_readiness_troopers]§!"
+  ACH_fort_hood_readiness_troopers_green:0 "§G[?ACH_fort_hood_readiness_troopers]§!"
+  ACH_fort_hood_readiness_codes_red:0 "§R[?ACH_fort_hood_readiness_codes]§!"
+  ACH_fort_hood_readiness_codes_yellow:0 "§Y[?ACH_fort_hood_readiness_codes]§!"
+  ACH_fort_hood_readiness_codes_green:0 "§G[?ACH_fort_hood_readiness_codes]§!"
+
+  fort_hood_closed:0 "Expedition Concluded"
+  fort_hood_exploited:0 "Fort Hood Plundered"
+
+  #Decisions
+  ach_preparations:0 "Expedition Preparations"
+  ach_preparations_desc:0 ""
+  ach_recruit_rosado:0 "Recruit Rosado"
+  ach_recruit_rosado_desc:0 "Recruiting Rosado to help us with this might provide substantial benefits. It always helps to have a good old friend at your side. Let's hope she accepts for the sake of old times and revenge for her lost limb."
+  ach_crack_codes:0 "Prepare a Hijacker"
+  ach_crack_codes_desc:0 ""
+  ach_crack_codes_science:0 "Prepare Gatecrasher"
+  ach_crack_codes_science_desc:0 ""
+  ach_launch_expedition:0 "Launch Expedition"
+  ach_launch_expedition_desc:0 "Once we feel prepared enough we can venture further into the bowels of Fort Hood. Let us either decipher it's secrets or die trying."
+  ach_fort_hood_hire_mercenaries:0 "Hire Mercenaries"
+  ach_fort_hood_hire_mercenaries_desc:0 ""
+
+  ach_fort_hood_troops_muster_25_tt:0 "§gAdds§! §GTwenty Five soldiers§! §gto our Expeditionary Manpower Pool§!"
+  ach_fort_hood_codes_added_1_tt:0 "§gAdds§! §Gone unused security code§!"
+  ach_fort_hood_codes_added_3_tt:0 "§gAdds§! §GThree unsued security codes§!"
+  ach_fort_hood_rosado_recruitment_tt:0 "§gRecruiting Rosado should help his delve deeper into the facility, she has helped us before after all.§!"
+
+  ach_fort_hood_focus_readiness_tt:0 "§gAdds§! §GOne Hundred soldiers§! §gto our Expeditionary Manpower Pool§!"
+  ach_fort_hood_focus_hack_tt:0 "§gAdds§! §GFive unsued security codes§!"
+
+
+  #Events
+  nf_event_ach.23.t:0 "The Alamo Chapter Requests Rosado's aid"
+  nf_event_ach.23.d:0 "Rosado and Kathrine were part of the original expedition that ventured into the depths of some old world military base. The very same place that took the presidential candidates arm. Now they are requesting her aid once more, to help them crack the high security that place has. Should we allow old friendships to bloom once more, or should we deem this too risky. After all, the Alamo is in Texas."
+  nf_event_ach.23.a:0 "Yes!"
+  nf_event_ach.23.b:0 "No!"
+
+  nf_event_ach.24.t:0 "Security Door Gamma Thirteen"
+  nf_event_ach.24.d:0 "Last time we ventured into the depths of Fort Hood we managed to reach this door. Impassable and with no alternative route in sight. A massive hulk of reinforced metal blocking any further progress. But we need to get through here to further uncover the secrets of the past. Who knows what wonders will wait for us beyond this obstacle."
+  nf_event_ach.24.a:0 "Use Brute Force"
+  nf_event_ach.24.b:0 "Hack the System"
+  nf_event_ach.24.c:0 "Try to Find a Way Around"
+  nf_event_ach.24.e:0 "Retreat"
+  nf_event_ach_24_a_tt:0 "Smack it violently, even if it might explode. Or cave in, or blow up. Perhaps we should not smack it after all, but rather blow it up."
+  nf_event_ach_24_b_tt:0 "Using security codes prepared by our scribes might be the best option. If we have enough codes that is."
+  nf_event_ach_24_c_tt:0 "It is very unlikely we will find a way around. Very very unlikely, but never hurts to try, right?"
+  nf_event_ach_24_e_tt:0 "We can always return at a later date. Better equipped and prepared to deal with this particular issue."
+
+  nf_event_ach.25.t:0 "Success"
+  nf_event_ach.25.d:0 "We are through, we managed, let us delve onwards, ever deeper. Every step forward brings us closer to victory."
+  nf_event_ach.25.a:0 "Bound by Steel"
+  nf_event_ach.26.t:0 "A Terrible Tragedy"
+  nf_event_ach.26.d:0 "Sometimes violence is not an option, sometimes codes are not enough, sometimes, lady luck just does not smile on us. But at least we tried, and who can blame us? We did not know better."
+  nf_event_ach.26.a:0 "They will be remembered"
+  nf_event_ach.27.t:0 "This place is a Maze"
+  nf_event_ach.27.d:0 "Told ya so!!!"
+  nf_event_ach.27.a:0 "Let us try again"
+
+  nf_event_ach.28.t:0 "A Corridor of Guns"
+  nf_event_ach.28.d:0 "Guns, guns, guns. Usually our brothers and sisters get very excited about the prospect of finding automated futuristic weapon systems that can cut down a man, even if in T51b in seconds. There is one exception to this though, one small exception. If the guns are pointed at our brothers, it is a very different thing. We have to decide what we want to do. How will we best this particular obstacle?"
+  nf_event_ach.28.a:0 "Brute Force"
+  nf_event_ach_28_a_tt:0 "Brute force against Turrets, it might just work, but we will have to accept that it will also cause us to loose brothers and sisters."
+  nf_event_ach.28.b:0 "Hack"
+  nf_event_ach_28_b_tt:0 "These turrets are sophisticated, our number of codes might not be sufficient to disable all of them, but we can clear out the rest with firepower."
+  nf_event_ach.28.c:0 "Superior Hack"
+  nf_event_ach_28_c_tt:0 "By using an excessive amount of codes we might be able to crack all of them."
+
+  nf_event_ach.29.t:0 "Turret Success"
+  nf_event_ach.29.d:0 "By what ever means, we managed to get past those Turrets. Let us hope we won'T see more of these troublsome things."
+  nf_event_ach.29.a:0 "Onwards"
+
+  nf_event_ach.30.t:0 "Turret Failure"
+  nf_event_ach.30.d:0 "What ever we did, it was not enough. May our fallen brothers and sisters forgive us."
+  nf_event_ach.30.a:0 "We mourn their loss"
+
+  nf_event_ach.31.t:0 "Security force Fields"
+  nf_event_ach.31.d:0 "Pre war USA always had a penchant for blocking progress of those that wanted to compete. Pulse fields that easily allow those with the right genetic makeup to pass unhindered are one such obstacle. Everyone not coded for them simply ceases to exist once trying to pass them. Disintegrated into atomic particles. The faint glow they emit makes this section of the fort, so deep underground seem particularly eery. Let us hope we will find a way around. Or the way back..."
+  nf_event_ach.31.a:0 "Brute Force"
+  nf_event_ach_31_a_tt:0 "Brute force against a system specifically designed to prevent this does not bode well. But if you insist, we can try."
+  nf_event_ach.31.b:0 "Hack"
+  nf_event_ach_31_b_tt:0 "The obviously better option, assuming we have enough codes."
+
+  nf_event_ach.32.t:0 "Success"
+  nf_event_ach.32.d:0 "We managed, if by code or force, we are through. How deep does this rabid hole go? How much more must we endure to finally reach our destination?"
+  nf_event_ach.32.a:0 "We can do this"
+
+  nf_event_ach.33.t:0 "Failure"
+  nf_event_ach.33.d:0 "Broken, shambled, disintegrated. There is nothing left of our brothers, burned to cinders, ash, reduced to nothing but particles floating in the wind. Ripped apart by forces from a bygone age. Technological marvels, in the wrong hands, are very much monstrosities."
+  nf_event_ach.33.a:0 "We will endure"
+
+  nf_event_ach.34.t:0 "Slumbering Sentries"
+  nf_event_ach.34.d:0 "We have to decide what to do with them. Turn them into scrap metal, taking meticulous care to remove them all? Or do we try to take them over. Let us hope our choice is the right one while we wade between the bodies of a thousand sleeping sentries."
+  nf_event_ach.34.a:0 "Smash Them"
+  nf_event_ach_34_a_tt:0 "Better safe than sorry"
+  nf_event_ach.34.b:0 "Attempt to Hack them"
+  nf_event_ach_34_b_tt:0 "Better sorry than safe"
+
+  nf_event_ach.40.t:0 "Sentinel Automated Power Armour Unit"
+  nf_event_ach.40.d:0 "Look a that glow iluminating it, and the terminal with those schematics. Yet the heart of the piece is the software sleeping within those terminals. Ready to be taken. Ready to awake our suits even without masters. Slaved to the command of a singular brother. We will become legion with this. It was worth it, every single sacrifice. Steek sentinels will bring order to a lawless wasteland. Forged in steel. Tempered in Blood."
+  nf_event_ach.40.a:0 "For the Brotherhood"

@@ -6,3 +6,6 @@
   has_mutually_positive_opinion_with_prev_tt: "Has §Gmutually positive§! opinions with §Y[Prev.GetNameDef]§!.\n"
   within_reachable_land_distance_of_prev_tt: "Controls a §Ghome-area§! §Ystate§! within [?distance_in_km|Y] §Ykm§! of any of §Y[Prev.GetNameDef]'s§! §Ghome-area§! §Ystates§!.\n"
   all_of_the_following_must_be_true_tt: "All of the following must be true:\n"
+  startup.100.t:0 "§RCountry Missing Initalization§!"
+  startup.100.d:0 "§RPLEASE REPORT TO DEVELOPERS. THIS COUNTRY HAS NOT PROPER INITALIZED!§! \nTAG: [This.GetTag]\nDATE: [This.GetDateText]\nIDEOLOGY: [This.GetRulingIdeology]"
+  FOCUS_FILTER_IDEAS: "Ideas"

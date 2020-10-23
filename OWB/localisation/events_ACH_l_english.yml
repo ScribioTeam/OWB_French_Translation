@@ -1,43 +1,47 @@
 ﻿l_english:
-  ach_fort_hood_troops_muster_10_tt:0 "§gAdds§! §GTen soldiers§! §gto our Expeditionary Manpower Pool§!"
-  ach_fort_hood_troops_muster_25_tt:0 "§gAdds§! §GTwenty Five soldiers§! §gto our Expeditionary Manpower Pool§!"
-  ach_fort_hood_codes_added_1_tt:0 "§gAdds§! §Gone unused security code§!"
-  ach_fort_hood_codes_added_3_tt:0 "§gAdds§! §GThree unsued security codes§!"
-  ach_fort_hood_rosado_recruitment_tt:0 "§gRecruiting Rosado should help his delve deeper into the facility, she has helped us before after all.§!"
-  ach_fort_hood_decisions:0 "Fort Hood Expedition"
-  ach_fort_hood_decisions_desc:0 "Fort Hood \nExpeditionary Manpower: [ACH_fort_hood_readiness_troopers_color_scripted_localization] \nUnused Security Codes: [ACH_fort_hood_readiness_codes_color_scripted_localization] \n------------------------------------\nFort Hood Level Breached: §G[?ACH_fort_hood_progress]§!"
-  ACH_fort_hood_readiness_troopers_red:0 "§R[?ACH_fort_hood_readiness_troopers]§!"
-  ACH_fort_hood_readiness_troopers_yellow:0 "§Y[?ACH_fort_hood_readiness_troopers]§!"
-  ACH_fort_hood_readiness_troopers_green:0 "§G[?ACH_fort_hood_readiness_troopers]§!"
-  ACH_fort_hood_readiness_codes_red:0 "§R[?ACH_fort_hood_readiness_codes]§!"
-  ACH_fort_hood_readiness_codes_yellow:0 "§Y[?ACH_fort_hood_readiness_codes]§!"
-  ACH_fort_hood_readiness_codes_green:0 "§G[?ACH_fort_hood_readiness_codes]§!"
+  # Consolidation
+  nf_event_ach.1.t:0 "An Old New Focus"
+  nf_event_ach.1.d:0 "While our brothers to the north cling to their dreams of restoring the old world, have we seen the truth. Technology still needs to be safeguarded until humanity is ready for it again. Until then, will we stand eternal vigil. The choice was not easy, but we all agree that it was necessary. Let us never forget our brothers, even those that decided to leave the brotherhood for promises of a restoring something that has failed time and time again."
+  nf_event_ach.1.a:0 "To safeguard humanity"
 
-  nf_event_ach.24.t:0 "Security Door Gamma Thirteen"
-  nf_event_ach.24.d:0 "Last time we ventured into the depths of Fort Hood we managed to reach this door. Impassable and with no alternative route in sight. A massive hulk of reinforced metal blocking any further progress. But we need to get through here to further uncover the secrets of the past. Who knows what wonders will wait for us beyond this obstacle."
-  nf_event_ach.24.a:0 "Use Brute Force"
-  nf_event_ach.24.b:0 "Hack the System"
-  nf_event_ach.24.c:0 "Try to find a way around"
-  nf_event_ach.24.e:0 "Retreat"
-  nf_event_ach_24_a_tt:0 ""
-  nf_event_ach_24_b_tt:0 ""
-  nf_event_ach_24_c_tt:0 ""
-  nf_event_ach_24_e_tt:0 ""
-  nf_event_ach.25.t:0 "Success"
-  nf_event_ach.25.d:0 ""
-  nf_event_ach.25.a:0 ""
-  nf_event_ach.26.t:0 "A Terrible Tragedy"
-  nf_event_ach.26.d:0 ""
-  nf_event_ach.26.a:0 ""
-  nf_event_ach.27.t:0 "This place is a Maze"
-  nf_event_ach.27.d:0 ""
-  nf_event_ach.27.a:0 ""
-  nf_event_ach.28.t:0 "Security system operational"
-  nf_event_ach.28.d:0 ""
-  nf_event_ach.28.a:0 ""
-  nf_event_ach.29.t:0 "Onwards, deeper."
-  nf_event_ach.29.d:0 ""
-  nf_event_ach.29.a:0 ""
-  nf_event_ach.30.t:0 "Another accident"
-  nf_event_ach.30.d:0 ""
-  nf_event_ach.30.a:0 ""
+  # Open the Vaults
+  nf_event_ach.2.t:0 "Open the Vaults"
+  nf_event_ach.2.d:0 "Even as part of the Texas branch we collected and safeguarded technology, though one of the reasons for our split was that they wanted to distribute what we guard. We can't let that happen obviously, but what of our now lonely vigil? We need every edge we can get."
+  nf_event_ach.2.a:0 "No matter the cost..."
+
+  # Richmond Demand
+  nf_event_ach.3.t:0 "Richmond: We Need It"
+  nf_event_ach.3.d:0 "Direct land access to the USSA headquaters is basically mandatory. Let us achieve this, by force or by finance. Let us hope that our former brothers still have some symapthy for our mission."
+  nf_event_ach.3.a:0 "Purchase Richmond"
+
+  # HRO access Send Demand
+  nf_event_ach.4.t:0 "Broadcast From Central Houston"
+  nf_event_ach.4.d:0 "A war is costly, but we do not need to fight if they just give us unlimited access to their facilities. But if we have to, we will take it by force. One way or another the USSA headquaters secrets will be ours."
+  nf_event_ach.4.a:0 "Houston, do we have a problem?"
+
+  # Contact West
+  nf_event_ach.5.t:0 "Chains that Bind"
+  nf_event_ach.5.d:0 "We failed, be it due to atmospheric issues, broken satellites or what other obstacles could be present. For our best efforts to send a signal to Lost Hills, we failed. We are... alone."
+  nf_event_ach.5.a:0 "Silence has never been so cruel."
+
+  # Houston secrets ending
+  nf_event_ach.6.t:0 "Relics of the Past"
+  nf_event_ach.6.d:0 "To safeguard the past is our duty, even if it is out of physical reach. Codes, equipment, satellites. Let us use them to discover, to prevent humanity from abusing technology once more. Only those worthy enough shall wield the sword."
+  nf_event_ach.6.a:0 "Magnify!"
+
+
+  # Back to Texas
+  nf_event_ach.41.t:0 "Brothers United"
+  nf_event_ach.41.d:0 "We have no other choice. We need to return, abandon what made us our ancestors Brotherhood. The way forward is not ours. It is theirs. The way forward lies in Texas. May we hope to one day return to our charge. One day, once the menace from the south has been dealt with."
+  nf_event_ach.41.a:0 "Humility, perhaps, is a virtue."
+
+  # Midwest
+  nf_event_ach.42.t:0 "Unexpected Aid"
+  nf_event_ach.42.d:0 "They came with faces like devils.\n\nNot from the west, but from the north-east. They decended from great airships, looking like salvation itself. The Midwest is here. Saviors in Horned and beige armour."
+  nf_event_ach.42.a:0 "Does Barnaky still live?"
+
+  # Houston Access HRO recieves
+  nf_event_ach.100.t:0 "They Demand Access"
+  nf_event_ach.100.d:0 "The Elder of the Alamo chapter has come forth and demanded access to our territory. We can either grant it to them or, in their words, suffer the consquences. Considering how they run about, frothing at the mouth at the mere prospect of seeing the internals of the space center? We should consider thorougly. Refusal means war."
+  nf_event_ach.100.a:0 "Let them in"
+  nf_event_ach.100.b:0 "Defy them"

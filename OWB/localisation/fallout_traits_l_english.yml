@@ -1,6 +1,9 @@
 ﻿l_english:
+  greenway_ingenuity: "Greenway's Ingenuity"
+  arm_man_of_destiny: ""The Man of Destiny""
   moj_distrusted_elder: "Distrusted Elder"
   moj_obsessed_elder: "Obsessed Elder"
+  mos_no_need_for_bombs: "§RNo need for bombs, when hate will do.§!"
   jolly: "Jolly"
   jolly_desc: "§GHo§! §Rho§! §Gho!§! §RSenator§! §GClaus§! §Ris§! §Gloved§! §Rand§! §Gcherished§! §Rby§! §Gall§! §Rthe§! §Gelves§! §Rof§! §Ghis§! §Rworkshop.§! §GHis§! §Rkindness,§! §Gfestive§! §Rcheer,§! §Gand§! §Rhappiness§! §Gknows§! §Rno§! §Gbounds!§!"
   naughty_and_nice: "Naughty and Nice"
@@ -78,6 +81,10 @@
   the_137th_archbishop:0 "The 137th Archbishop"
   survivalist:0 "Survivalist"
   grand_captain:0 "Grand Captain of the Rapids"
+  logistics_tsar:0 "Logistical Genius"
+  bane_of_the_ncr:0 "Bane of the NCR"
+  local_patriot:0 "Local Patriot"
+  pirate_queen:0 "Pirate Queen"
 
 
   ##Organization Traits
@@ -162,10 +169,28 @@
   #CMC
   casino_heiress: "Casino Heiress"
   caged_songbird: "Caged Songbird"
+  caged_songbird_lar: "Caged Songbird"
   crazy_songbird: "Crazy Songbird"
-  cmc_friends_in_low_places: "Friends in Low Places"
+  cmc_friends_in_low_places: "Squandered Legacy"
+  cmc_queen_of_the_red_river: "Queen of the Red River"
   cmc_ear_to_the_ground: "Ear to the Ground"
+  cmc_chief_of_surveillance: "Chief of Surveillance"
   cmc_police_chief: "Police Chief"
+  cmc_entertainer: "Entertainer"
+
+  #GPF
+  gpf_raider_tactics: "Raider Tactics"
+  gpf_wasteland_survivor: "Wasteland Survivor"
+  gpf_pathfinder: "Pathfinder"
+  gpf_scarcity_magician: "Scarcity Magician"
+  gpf_recruiter: "Convincing Recruiter"
+  gpf_enterprising_weaponsmith: "Artisan Weaponsmith"
+  gpf_business_magnate: "Business Magnate"
+  gpf_road_warrior: "Road Warrior"
+
+  #CHO
+  librarian_trait: "Librarian"
+  medicine_man: "Medicine Man"
 
 	# ASS
 	roller_derby_queen:0 "Roller Derby Queen"
@@ -176,3 +201,11 @@
   lanius_builder_trait: "For the Glory of the Legion"
   LAC_master_of_the_rock: "Master of the Rock"
   lanius_women: "Ministras"
+  lanius_monster_east: "The Monster of the East"
+  lanius_frumentarii: "Frumentarii Followers"
+  propaganda_team: "Sponsored Bards"
+
+### ACH
+  cos_member:0 "Circle of Steel Agent"
+  mistress_of_subterfuge:0 "Mistress of Subterfuge"
+  elder_emergency_authority_trait:0 "Elder Emergency Authority"

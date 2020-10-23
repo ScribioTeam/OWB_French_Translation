@@ -28,6 +28,8 @@
   string_fallout_tab_button_tt_5: "§YTrade Node Map§! \nExplore the economic links of the wasteland."
 
   string_fallout_tab_button_tt_6: "§YOrganization Marketplace§! \nVisit the local bazaar to purchase weapons, equipment, and more!"
+
+  string_fallout_tab_button_tt_7: "Our §YConstitution§!"
   popup_hover_over_tooltip: "[GetPopupTooltip]"
   node_level_up_popup_tooltip: "[GetNodeLevelUpPopUp]"
   node_level_up_popup_tooltip_tt: "§Y[?target_state_var.GetName]§! can level up to level [?new_level|+0]"
@@ -35,3 +37,6 @@
   node_disabled_popup_tooltip_tt: "§Y[?target_state_var.GetName]§! is §RDisabled§!\nNode will provide no income while disabled"
   node_trade_income_tt: "[GetNodeNewRoutePopup]"
   node_recieve_route_popup_tt: "Route established from §Y[?recieving_state.GetName]§! for [?trade_recieved_from|+=] [GetCapType]"
+  node_new_node_popup_tt: "[GetNodeNewNodePopup]"
+  node_new_node_popup_tooltip_tt: "§Y[?new_node_state.GetName]§! has become a center for commerce in the wasteland and is the primary hub for §Y[THIS.GetName]§!!"
+  node_new_node_popup_tooltip_tt_short: "§Y[?new_node_state.GetName]§! has become a center for commerce in the wasteland!"

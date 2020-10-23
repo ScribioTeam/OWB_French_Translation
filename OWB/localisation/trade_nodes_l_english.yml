@@ -3,6 +3,7 @@ l_english:
   spellcheck_ignore: "node_level_up_icon"
   spellcheck_ignore: "node_disabled_icon"
   spellcheck_ignore: "node_trade_notification_icon"
+  spellcheck_ignore: "node_new_node_notification_icon"
   node_disabled_tt: "The Trade Node is §Rdisabled§!."
   node_disabled_timed_tt: "The Trade Node is §Rdisabled§! for [?OWNER.duration_node_disabled|§Y§0] days."
   # EFFECTS
@@ -17,11 +18,11 @@ l_english:
   TRADE_NODE_NAME: "§Y[?current_node_name.GetName]§! §WEconomic Node [GetTradeNodeNameAffix]§!"
   TRADE_NODE_MAIN_NODE_TT: "§Y[?current_node_name.GetName]§! is the main node of [?main_node_holder.GetFlag] §L[?main_node_holder.GetName]§!."
   TRADE_NODE_LEVEL: "Level: §Y[?current_node_level]§!"
-  TRADE_NODE_LEVEL_TT: "The level of the §Y[?current_node_name.GetName]§! trade node currently is §Y[?current_node_level]§!. \nThe maximum level of a trade node is §Y10§!."
+  TRADE_NODE_LEVEL_TT: "The level of the §Y[?current_node_name.GetName]§! trade node currently is §Y[?current_node_level]§!. \nThe maximum level of a trade node is §Y10§!. \n\n §gOnly level§! §Y8§! §gcan be achieved without§! §cEconomic Development§!§g.§!"
   TRADE_NODE_INFRASTRUCTURE_LEVEL: "§Y[?current_node_name_infrastructure]§!"
   TRADE_NODE_INFRASTRUCTURE_LEVEL_TT: "The §Y[?current_node_name.GetName]§! trade node has a total amount of §Y[?current_node_name_infrastructure]§! infrastructure."
   TRADE_NODE_ECONOMIC_DEVELOPMENT: "§Y[?current_node_economic_development|1+]§!"
-  TRADE_NODE_ECONOMIC_DEVELOPMENT_TT: "The §Y[?current_node_name.GetName]§! trade node has an Economic §cDevelopment§! of [?current_node_economic_development|1+]."
+  TRADE_NODE_ECONOMIC_DEVELOPMENT_TT: "The §Y[?current_node_name.GetName]§! trade node has an §cEconomic Development§! of [?current_node_economic_development|1+].\n\n §cEconomic Development§! §gallows a node to progress beyond level§! §Y8§!"
   TRADE_NODE_NAVAL_BASE_LEVEL: "§Y[?current_node_name_naval_base]§!"
   TRADE_NODE_NAVAL_BASE_LEVEL_TT: "The §Y[?current_node_name.GetName]§! trade node has a total amount of §Y[?current_node_name_naval_base]§! naval bases."
   TRADE_NODE_ARMS_FACTORY_LEVEL: "§Y[?current_node_name_arms_factory]§!"
@@ -163,6 +164,9 @@ l_english:
   node_disabled_icon: "GFX_node_disabled_notification"
   node_trade_notification_icon: "GFX_trade_economic_trade_icon"
 
+  node_new_node_notification_icon: "GFX_trade_economic_value_icon"
+
+
   ### Node tutorial Hints
   TRADE_NODE_NAME_TRIGGER: "[GetTradeNodeNameTTHint]"
   TRADE_NODE_NAME_HINT_TT: "§gTrade nodes are a collection of states which have above average commerce for the wasteland. Each node has a centre state which collects [GetCapCurrencyType]s and is the origin of trade routes. Member states contribute development to the node, increasing its level.§!"
@@ -171,10 +175,10 @@ l_english:
   TRADE_NODE_PROGRESS_HINT_TT: "§gProgress and level are measured by state development in an Economic Node. State development is a weighted average of factories, dockyards, infrastructure, and river access between a centre state, and its member states.§!"
 
   TRADE_NODE_LEVEL_TRIGGER: "[GetTradeNodeLevelTTHint]"
-  TRADE_NODE_LEVEL_HINT_TT: "§gLevel 8 can be reached naturally, beyond level 8 requires outside influences.§!"
+  TRADE_NODE_LEVEL_HINT_TT: "§gLevel 8 can be reached naturally, beyond level 8 requires Economic Development.§!"
 
   TRADE_NODE_ECONOMIC_DEVELOPMENT_TRIGGER: "[GetTradeNodeEconomicDevelopmentTTHint]"
-  TRADE_NODE_ECONOMIC_DEVELOPMENT_HINT_TT: "§gEconomic Development increases level by one per point. Economic development can be granted through focuses, events, decisions, and more!§!"
+  TRADE_NODE_ECONOMIC_DEVELOPMENT_HINT_TT: "§gEconomic Development increases level by one per point. Economic development can be granted through focuses, events, decisions, and more! Each point allows development past level 8 to a maximum of level 10§!"
 
   TRADE_NODE_BASE_VALUE_TRIGGER: "[GetTradeNodeBaseValueTTHint]"
   TRADE_NODE_BASE_VALUE_HINT_TT: "§gNode level creates development value.§!"

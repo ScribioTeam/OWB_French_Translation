@@ -154,6 +154,7 @@
   artillery_research:0 "Artillery Technology Research Speed"
   super_mutant_tech_category_research:0 "Super Mutant Technology Research Speed"
   building_tech_research:0 "Building Technology Research Speed"
+  modifier_army_sub_unit_infantry_speed_factor: "Infantry Speed"
 
   modifier_production_speed_water_generator_factor:0 "§YPurification Station§! construction speed"
   modifier_production_speed_radar_station_factor_desc:0 ""
@@ -175,3 +176,16 @@
   modifier_army_sub_unit_dog_infantry_attack_factor:0 "Warhound Platoon Attack"
   modifier_army_sub_unit_dog_infantry_defence_factor:0 "Warhound Platoon Defense"
   modifier_army_sub_unit_dog_infantry_speed_factor:0 "Warhound Platoon Speed"
+  modifier_army_sub_unit_spec_ops_attack_factor: "Special Forces Attack Factor"
+  modifier_army_sub_unit_power_armour_fireteam_infantry_attack_factor: "Power Armor Fire Team Attack Factor"
+  modifier_army_sub_unit_power_armour_fireteam_infantry_defence_factor: "Power Armor Fire Team Defence Factor"
+	modifier_army_sub_unit_recon_company_attack_factor: "Recon Company Attack Factor"
+  modifier_army_sub_unit_fireteam_support_attack_factor: "Fire Team Support Attack Factor"
+	modifier_army_sub_unit_demolitions_support_attack_factor: "Demolitions Support Attack Factor"
+  modifier_army_sub_unit_anti_tank_company_attack_factor: "Anti Tank Company Attack Factor"
+  modifier_army_sub_unit_dog_company_attack_factor: "Dog Support Company Attack Factor"
+  modifier_army_sub_unit_apc_attack_factor: "APC Attack Factor"
+	modifier_army_sub_unit_apc_defence_factor: "APC Defence Factor"
+
+  # operations
+  MODIFIER_COMMANDO_TRAIT_CHANCE_FACTOR:1 "Chance of recruiting an Operative with the §HIntensive Training§! trait"

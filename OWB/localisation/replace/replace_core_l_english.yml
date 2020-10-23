@@ -22,3 +22,4 @@
   LEADER_ENDLESS_CAPACITY_DESC: "$NAME$ is a Commanding Officer and has no command limit."
   weather_rain_light:0 "Radiation Storm"
   DR_STRATEGIC_FRIENDSHIP:1 "Strategic Reasons: " #§Y$US|U$§! §Y$THEM$§!
+  EFFECT_ADD_STATE_MODIFIER:0 "Add the following: $MODIFIERS$§!"

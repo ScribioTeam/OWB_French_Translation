@@ -2,14 +2,185 @@
   tex_taking_stock:0 "Taking Stock"
   tex_taking_stock_desc:0 "The reformation of the Republic of Texas has long been a dream of many withing Lone Star and the Texan Rangers. Now it is at last a reality. Before we blindly stumble into a unified future, however, we must take stock of our current situation."
   tex_matters_of_war:0 "Matters of War"
-  tex_matters_of_war_desc:0 "TODO"
-  tex_matters_of_the_state:0 "Matters of the State"
-  tex_matters_of_the_state_desc:0 "TODO"
+  tex_matters_of_war_desc:0 "Speak softly and carry a big stick. Or better yet, a shotgun."
+  tex_matters_of_the_state:0 "Matters of State"
+  tex_matters_of_the_state_desc:0 "A state neads a head, like everything else. We need to make a very simple choice, who is going to lead us into the future, who is going to take responsibility?"
   tex_matters_of_governance:0 "Matters of Governance"
-  tex_matters_of_governance_desc:0 "TODO"
+  tex_matters_of_governance_desc:0 "Determining the laws and code that will outline our fledgling state is of the upmost importance."
+  texas_budget:0 "Texas Budget"
+  texas_budget_desc: "The last Texan Constitution required the state to balance its budget every year, never spending more than it receives in taxes. But Cho Bang has proposed the new Republic take a much more aggressive approach to make sure that the Lone Star is so big and bright."
+  texas_budget_tt: "Yes, that seems about right."
+  tex_the_flag:0 "Our Flag"
+  tex_the_flag_desc:0 "The image of a state is nearly as important as the state itself. The design of our flag will speak volumes on who we are as a people. Let our flag soar high, no matter how it looks."
+
+  tex_the_capital:0 "Our Capital"
+  tex_the_capital_desc:0 "Every grand nation needs a grand city to be governed from. Even if we value individual freedoms, a shining city on a hill will be the proud beacon to which all our citizens can look."
+### War branch
+  tex_emergency_industry_act:0 "Emergency Industry Act"
+  tex_emergency_industry_act_desc:0 "We've been pushed to the brink by enroaching enemy forces. Some of our greatest losses have been their strikes at our industrial heartland, forcing us to make emergency seizures of supplies and workshop space."
+
+  tex_texan_defence_bureau:0 "Embracing the Texan Deputy Model"
+  tex_texan_defence_bureau_desc:0 ""
+
+  tex_form_dod:0 "Form a Department of Defense"
+  tex_form_dod_desc:0 "The first clamoring of our people will always be safety and security. An army by the people, for the people, will help calm their fears."
+
+  tex_the_deputy_model:0 "The Deputy Model"
+  tex_the_deputy_model_desc:0 "The Deputization model of the Texan Brotherhood has clearly shown its strength. We'd do best to adopt it as our primary means of defense."
+
+  tex_the_mercenary_model:0 "The Mercenary Model"
+  tex_the_mercenary_model_desc:0 "We've been lucky to inherit the economic prowess of Lone Star, meaning we're best off hiring mercenaries in a similar fashion."
+
+  tex_upgrade_conscription_1:0 "Deputies for Deputies"
+  tex_upgrade_conscription_1_desc:0 "We'd do best to create a deeper method of organization throughout our military. Assigning our deputies further deputies, as odd as it may sound, will help to create a more formidable and flexible military."
+
+  tex_upgrade_conscription_2:0 "Deputies for Deputies for Deputies"
+  tex_upgrade_conscription_2_desc:0 "As before, a deeper expansion into our army's structure might enhance our capabilities even further."
+
+  tex_form_spy_agency:0 "Form Texan Defense Bureau"
+  tex_form_spy_agency_desc:0 "While an army will do plenty for us, an intelligence bureau might help protect us from more invisible threats. A lone assassin can deal more damage than an army of mutants, and we'd be fools to look past the danger of either."
+
+  tex_manifest_destiny:0 "Manifest Destiny"
+  tex_manifest_destiny_desc:0 "The people of the lands around us cry for our help. Oppressed by maleficent savages and cruel masters, we have a duty to them and ourselves."
+
+  tex_airforce_academy:0 "Airforce Academy"
+  tex_airforce_academy_desc:0 "Mastery of the skies is not far away. Young children across Texas now look to the skies, praying for the day they may join the ravens that circle above their schoolhouses."
+
+  tex_national_flight_shows:0 "National Flight Shows"
+  tex_national_flight_shows_desc:0 "Engaging the populace in our sky-born dreams could lead to an even greater interest in our programs.We'll show off our best pilots, impressing our citizens and striking fear into the enemy."
+
+  tex_commemorative_airforce:0 "Commemorative Airforce"
+  tex_commemorative_airforce_desc:0 "Texas has a proud history, and how better to remember it than through our air warriors? Let's remember our great battles, all the while striving towards new victories."
+
+  tex_dont_mess_airforce:0 "Don't Mess With Texas"
+  tex_dont_mess_airforce_desc:0 "All in the name, baby! Our army's guns just aren't quite enough sometimes, which is where our oversized and overpowered fighters come in."
+
+
+#### Annex wargoals
+  tex_annex_car:0 "Let the Gas Flow"
+  tex_annex_car_desc:0 "Carthage's raiders may wish to stay out of Texas, but how can we leave control of the last natural gas field in their hands?"
+
+  tex_annex_bandits:0 "Bandits in the East"
+  tex_annex_bandits_desc:0 "Little known fact, but Texas' natural border lies upon the Missisippi! Crushing these brigands will help the Lone Star shine a little brighter."
+
+  tex_annex_TAA:0 "The Economic Sectors"
+  tex_annex_TAA_desc:0 "Although some across the Rio might think they rule TAA just because it's been part of their republic for over a century, the continued unrest in the TAA shows that they belong to Texas. It's even in their name!"
+
+
+  texas_constitution: "The Constitution"
+  texas_constitution_desc: "Texas has had a total of 8 constitutions: the 1827 constitution; the 1836 Constitution of the Republic; the 1845 Constitution; the 1861 Constitution (which we don't talk about); the 1866 Constitution; and the 1869 Constitution; the 1876 Constitution; and the 2054 Constitution. Let us make another one!"
+  texas_foundations_of_government: "Foundations of a Government"
+
+  texas_bill_of_rights: "The Bill of Rights"
+  texas_freedom_of_speech: "Freedom of Speech"
+  texas_freedom_of_speech_desc: "The Texan Constitution guaranteed freedom of speech. At Mr. Entertainment's urging, it shall again."
+  texas_freedom_of_religion: "Freedom of Religion"
+  texas_freedom_of_religion_desc: "There has oddly been a vigorous debate about the Constitution's guarantee of freedom of religion. The old Constitution barred office to atheists, but some from Austin think this is absurd. Are we not a modern civilization?"
+  texas_freedom_guns: "The Right to Bear Arms"
+  texas_freedom_guns_desc: "An armed society is a polite society. And Texans are very, very, polite."
+  texas_ban_slavery: "Breaking Shackles"
+  texas_ban_slavery_desc: "Those who formerly resided over pieces of our united Texas bound our citizens. Though they wish to continue this exploitation, such violations of rights will not stand."
+
+  texas_freedom_movement: "Immigration"
+  texas_freedom_movement_desc: "Many Wastelanders are moving to Texas in search of a better life. Let us formalize a process for these Wastelanders to become citizens of the Lone Star Republic!"
+  texas_legislature: "The Legislature"
+  texas_judiciary: "The Judiciary"
+  texas_judiciary_desc: "Cho Bang and the Texan Brotherhood have very different ideas of justice. Which shall prevail?"
+  texas_execuative: "The Executive"
+  texas_judiciary_desc: "Cho Bang and the Texan Brotherhood have very different ideas of justice. Which shall prevail?"
+  texas_primary_powers: "The Highest Branch of the Texas Tree"
+
+  texas_constitutional_convention: "Convention of [?global.date.GetDateStringNoHourLong]"
+  texas_constitutional_convention_extentions: "Weeks to Months"
+  texas_elongated_deliberations: "Careful Negotiations"
+
+  texas_constitution_signed: "Cornerstone of Texas"
+  #Development branch foci
+  tex_form_the_tbr: "Form the TBR"
+  tex_form_the_tbr_desc: "The bounty of Texas is both great and underutilized, now that we've got something of a steady grip on the territories, we should make a dedicated section of government that can rebuild our fledgling state."
+
+  tex_secure_mission_control: "Secure Mission Control"
+  tex_secure_mission_control_desc: "Mission control in the ruined city of Houston used to be the living heart of the American space program. While we won't be going to he moon any time soon, we can possibly launch a few satellites into atmosphere if we owned the site."
+
+  tex_refurbish_satellites: "Refurbish Old Satellites"
+  tex_refurbish_satellites_desc: "With Mission Control in our grasp, we can start dusting off some of the old satellites that have been preserved in storage since the war. Weather, GPS, and spy satellites will give us an unmatched edge on the battlefield."
+
+  tex_rebuild_the_fields: "Rebuild the Gas Fields"
+  tex_rebuild_the_fields_desc: "Now that the Raiders are out of the way, we can begin the refurbishing of the Carthage gas field, supplementing our power supplies with hefty natural gas income."
+
+  tex_take_the_tubeheads: "Take the Tubeheads"
+  tex_take_the_tubeheads_desc: "The Tubeheads aren't necessarily opposed to us in principle, but they hold one of the most valuable powers in the wasteland: The ability to project influence via radio. It's become clear they aren't giving it up without a fight, so let's give them one."
+
+  tex_texas_calling: "Texas Calling!"
+  tex_texas_calling_desc: "Radios, telephone lines, broadcasting and amplification stations; all parts of what could be a wide ranging chain of information infrastructure, spanning the whole of Texas."
+
+  tex_clear_the_way: "Clear the Way!"
+  tex_clear_the_way_desc: "Shipping by rail will never be safe until the raiders have been cleared out, and it'll never be efficient until we can secure a favorable route for the lines."
+
+  tex_build_the_trans_texan_line: "Build the Trans-Texan Line"
+  tex_build_the_trans_texan_line_desc: "The landscape is dotted with the old metal spines of what used an incredibly complex and durable network of rail lines; while we may not be able to recapture that might, with an overhaul of existing lanes and the construction of new ones, we can certainly pay homage to it."
+
+  tex_seize_lousiana_harbor: "Seize Louisiana Harbor"
+  tex_seize_lousiana_harbor_desc: "Our current ability to project navally is...less than ideal; while this isn't a problem now, it could quickly become one if we were engaged by a naval power in the gulf. The first place we could use to remedy this is the impressive wharfs and shipyards of Bayou Motors."
+
+  tex_begin_shipping_in_gulf: "Start Shipping in the Gulf"
+  tex_begin_shipping_in_gulf_desc: "The gulf of Mexico's unique shape would give us an unrivalled ability to trade with nation's all along it's coast, should we have sufficient facilities to house and produce seafaring cargo ships."
+
+
+  # Tex President Branch
+  tex_executive_matters:0 "The Head Decides"
+  tex_executive_matters_desc:0 "It's now time to make a critical choice. Our first head of state will be sung into the history books, as well as determining the opening plays of our nation."
+  tex_cho_bang_plan:0 "Bang's Plan"
+  tex_cho_bang_plan_desc:0 "Bang makes a persuasive point: a flourishing people will base itself around prosperity, as was Lone Star's model. Our great societal innovation will be wealth unlike that ever seen before in the wasteland."
+  tex_invasive_capitalism:0 "Invasive Capitalism"
+  tex_invasive_capitalism_desc:0 "The accumulation of capital will be the single measure of success. Competition is king in the market, and we'll drive that competition into every aspect of Texan life, building a meritocracy unlike anything seen before."
+  tex_corporate_state:0 "The Corporate State"
+  tex_corporate_state_desc:0 "Isn't the post-War system a market economy anyway? The adaptable nations survive, while those stagnant and resistant to change are crushed by the wastes."
+  tex_measured_in_wealth:0 "Measured in Wealth"
+  tex_measured_in_wealth_desc:0 "The largest factor in success is the presence of wealth in a nation. Constant comparison of ourselves to our neighbors will help us gauge our power, as well as plan for the future."
+  tex_market_expansion:0 "Market Expansion"
+  tex_market_expansion_desc:0 "The best market is a large market. We'll help spur investment and innovation, encouraging even poor villagers to take positions in our shack markets."
+  tex_edward_j_rusk_plan:0 "Rusk's Plan"
+  tex_edward_j_rusk_plan_desc:0 "Rusk views our situation in a militaristic light. Surrounded by, at best, untrustworthy neighbors, our priorities must lie with defending ourselves and our people."
+  tex_defensive_militarism:0 "Defensive Militarism"
+  tex_defensive_militarism_desc:0 "A strong military does not necessitate wanton aggression. Our people will always be ready for war, but only as a defensive measure."
+  tex_measured_in_freedom:0 "Measured in Freedom"
+  tex_measured_in_freedom_desc:0 "We've been proud to build a nation of personal freedoms and responsibility. Thinking of ourselves as anything other than a free people is fatalistic and fearful. Our respect for each other is what matters most."
+  tex_the_liberal_state:0 "The Liberal State"
+  tex_the_liberal_state_desc:0 "The nations that flourish are those that respect its people. Our liberal state values clear, defined rules for ourself, while enabling the individual citizen to establish a future for themselves."
+  tex_freedom_expansion:0 "Spread Freedom"
+  tex_freedom_expansion_desc:0 "Our people are lucky to live here.\nBut what about those who aren't so lucky? Despots and tyrants threaten their villagers more than they do us, but that doesn't excuse their terror. We have a duty to all those suffering-a duty to bring them the Texan way of life!"
+
   # Tooltips
   tex_the_ranger_model_tt:0 "We gain access to the powerful §YMobilization Laws§! that the §OTexan Rangers§! employed. Our current §YMobilization Law§! will be changed to reflect this:\n\n"
   tex_the_merc_model_tt:0 "We gain access to the versatile §YMobilization Laws§! that §OLone Star§! employed. Our current §YMobilization Law§! will be changed to reflect this:\n\n"
   tex_lone_star_economic_complex_tt:0 "We will set ourselves on a path towards being an §Ocentralised economic powerhouse§!, centred around §Ycivilian industry§! across Texas.\n\n"
   tex_the_protection_scheme_tt:0 "We will set ourselves on a path towards being a §Ostrong military power§!, specialising in §Ypowerful, militarised puppet-states§! and §Yautonomous settlements§!.\n\n"
   tex_texan_defence_bureau_tt:0 "We will form the \"§OTexan Defence Bureau§!\" as an §YIntelligence Agency§!. They will begin with a number of §YAgency Ungrades§!, but without a §YCryptography Department§!.\n\n"
+  tex_manifest_destiny_effect_tt:0 "Gain §G-15%§! Core Cost Reduction on the cores of: §Y[TUB.GetName]§!, §Y[CAR.GetName]§!, §Y[ASS.GetName]§!, §Y[DSP.GetName]§!, §Y[GAM.GetName]§!, §Y[HRO.GetName]§!, §Y[TLL.GetName]§!, §Y[CWB.GetName]§!, §Y[PEC.GetName]§!\n\n"
+  ### Ideas
+  tex_dod_idea:0 "Department of Defense"
+  tex_dod_idea_2:0 "Better Department of Defense"
+
+  texas_spy_agency:0 "Texan Defense Bureau"
+
+  tex_airforce_idea_1:0 "Texas' Air Academies"
+  tex_airforce_idea_2:0 "National Texan Flight Shows"
+  tex_airforce_idea_3:0 "Texan Confederate Airforce"
+  tex_airforce_idea_4:0 "Texan Commemorative Airforce"
+
+  #dev decisions
+
+  tex_development_category:0 "Rebuilding the Lone Star State"
+  rebuild_gas_fields:0 "Rebuild the Gas Fields"
+  refurbish_satellites:0 "Refurbish Old Satellites"
+  texan_shipping:0 "Begin Shipping in the Gulf"
+  texan_radios:0 "Texas Calling!"
+  texan_railways:0 "Build the Trans-Texas Line"
+
+  #dev ideas
+
+  tex_idea_carthage_gas:0 "The Carthage Gas Fields"
+  tex_idea_running_satellites:0 "Refurbished Houstonian Satellites"
+  tex_idea_gulf_shipping:0 "Shipping in the Gulf"
+  tex_idea_national_tv:0 "The Texan Broadcasting Service"

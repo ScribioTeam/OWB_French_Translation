@@ -1,8 +1,25 @@
 ﻿l_english:
 
   nf_event_fp.1.t: "The Time of Smoke and Fire"
+  nf_event_fp.1.d: "Our forefathers called the great war 'the time of smoke and fire'. We survived by being prepared. The smartest people in our community foresaw a war coming and predicted it would be quick and end in total devastation on both sides. We build shelters, the mother mounds. Not quite vaults, but good enough to let us survive comfortably with enough goods stored to bridge the time we needed to spend underground. What did we have in abundance?"
+  nf_event_fp.1.a: "Food"
+  nf_event_fp.1.b: "Entertainment"
+  nf_event_fp.1.c: "Weapons"
   nf_event_fp.2.t: "Leaving the Mother Mounds"
+  nf_event_fp.2.d: "We knew we could not stay forever underground. But the surface was too dangerous for a while directly after the bombs dropped. How long did we stay underground?"
+  nf_event_fp.2.a: "5 Years"
+  nf_event_fp.2.b: "10 Years"
+  nf_event_fp.2.c: "20 Years"
   nf_event_fp.3.t: "The Accord of First People's Junction"
+  nf_event_fp.3.d: "Efficient and protected construction allowed us to stay in contact with the other mother mounds while we were underground. As soon as we decided to come to the surface again, we contacted the other groups to come together to discuss how to proceed further. This ended in us signing the Accord of First People's Junction. What was the most important concept we wrote down?"
+  nf_event_fp.3.a: "Cooperation"
+  nf_event_fp.3.b: "Safety"
+  nf_event_fp.3.c: "Freedom"
+
+  nf_event_fp.4.t: "The Little Brother of War"
+  nf_event_fp.4.d: "The first full scale stickball match took a while to get going. There are various versions of the rules that are half remembered by the participants and judges and nobody could agree on a single one. Some wanted to go with the lacrosse rule set, since it had the most comprehensive rule set of all variations survive the war. Others wanted to go back to more traditional versions that got passed down through generations. In the end a weird mix of multiple rule sets was adopted as the new 'official' stickball rules. The game lasted a good four hours and ended with a brawl because one team didn't agree with the final score. All in all, everyone agreed that they all had a good time and should repeat it as soon as possible."
+  nf_event_fp.4.a: "Good Training for Our Warriors"
+  nf_event_fp.4.b: "Maybe all the Strategies translate to actual war?"
 
   nf_event_fp.5.t: "A Tough Decision"
   nf_event_fp.5.d: "The raider gang holed up in the PIT transformed the erstwhile place of learning into a maze of traps. Coupled with them being heavily armed this means while we could take them out, we would not be able to do so without heavy losses. We could try to reason with them, but this is not guaranteed to succeed either, because raiders rarely listen to reason. Also this may lead to them being aware of our designs for the place and dig in even deeper. Whatever we do, everyone needs to pitch in and we need a group decision of how to progress from here."
@@ -14,12 +31,59 @@
   nf_event_fp.6.a: "Clear!"
 
   nf_event_fp.7.t: "We try to negotiate"
-  nf_event_fp.7.d: "Sending in our troops just to die to makeshift explosives and hidden spike traps does not seem like a good way of solving this issue. Especially if we can do it without loss of life. Maybe if we extend the same courtesy, that of not losing their lives, to the Lord of the Pit and his goons we can come to an agreement that satisfies both parties.\n\nApproaching with a small team of negotiators showing a white flag, in the hopes that the raiders knew what that means was the tensest moment of the whole operation. Surprisingly enough, they were not immediately shot. We actually managed to get a parley started. This led to the Lord of the Pit and his men giving up the PIT to us, as long as we promised them no repercussions for anything they did while being in the raiding business and a permanent place in our ranks. This actually may benefit us in the long run in different ways. More people capable of handling weapons is always good. Also, while crude, their defences showed an impressive level of ingenuity, which we surely can apply to other construction efforts. And the Lord of the Pit himself is a capable leader managing to keep a raider gang together for multiple years."
+  nf_event_fp.7.d: "Sending in our troops just to die to makeshift explosives and hidden spike traps does not seem like a good way of solving this issue. Especially if we can do it without loss of life. Maybe if we extend the same courtesy, that of not losing their lives, to the Lord of the Pit and his goons we can come to an agreement that satisfies both parties.\n\nApproaching with a small team of negotiators showing a white flag, in the hopes that the raiders knew what that means was the tensest moment of the whole operation. Surprisingly enough, they were not shot immediately and actually managed to get a parley started. This led to the Lord of the Pit and his men giving up the PIT to us, as long as we promised them no repercussions for anything they did while being in the raiding business and a permanent place in our ranks. This actually may benefit us in the long run in different ways. More people capable of handling weapons is always good. Also, while crude, their defences showed an impressive level of ingenuity, which we surely can apply to other construction efforts. And the Lord of the Pit himself is a capable leader managing to keep a raider gang together for multiple years."
 
 
   fp_unlock_lord_of_the_pit: "\nThe Raider Boss calling himself §HLord of the Pit§! becomes available for service.\n"
   fp_unlock_pit_raider_advisor_tt: "\nA Raider §HEconomic Advisor§! becomes available for service.\n"
 
+  nf_event_fp.8.t: "Attract Foreign Caravan Companies"
+  nf_event_fp.8.d: "We have send messages far and wide to entice as many promising foreign caravan companies as we can to put down roots, are at least an outpost in our lands. Promises were made to subsidize them for some time or give them exclusive rights to whatever market they are trying to corner.\nThe first batch of answers has arrived and we can pick whoever we think will give us the most benefit."
+  nf_event_fp.8.a: "Crimson Caravan"
+  nf_event_fp.8.b: "Diamond Shipping Company"
+  nf_event_fp.8.c: "Ozark Logging"
+
+  nf_event_fp.9.t: "Horse Breeding Programs"
+  nf_event_fp.9.desc: "The stock we have brought with us from Diana won't last forever. We need to think long term if we want to keep using horses years down the line.\nWhile the need for a dedicated breeding program is clear, the specifics are up for discussion, as is how much of our current stock we dedicate to it. The more horses are bound up in breeding programs, the less we have for our current needs."
+  nf_event_fp.9.a: "Large Scale Breeding Program"
+  nf_event_fp.9.b: "Medium Scale Breeding Program"
+  nf_event_fp.9.c: "Small Scale Breeding Program"
+  nf_event_fp.9.d: "Specialized Breeding Program"
+
+  nf_event_fp.9_large_tt: "§GThis option offers the biggest bonus at the cost of the longest production penalty time.§!"
+  nf_event_fp.9_medium_tt: "§GThis option offers a a good balance between bonus strength and production penalty time.§!"
+  nf_event_fp.9_small_tt: "§GThis option offers the smallest bonus but also the shortest production penalty time.§!"
+  nf_event_fp.9_special_tt: "§GThis option offers the good bonus with a short production penalty time, but the resulting horses are hard to tame and less reliable.§!"
+
+
+  nf_event_fp.100.t: "The Big Question"
+  nf_event_fp.100.d: "Our nations have grown closer and closer in recent times and we have danced around a particular topic for a while now. Should we jump over our own shadows and become one nation and one people? While it would make us a force to be reckoned with in the area, there are not only upsides to it. Even with our already close cooperation, it will still be a while before the new nation would run as effective as the individual ones. And some might argue that some things that make our people unique will get lost in the shuffle.\n\nWhat do we vote?"
+  nf_event_fp.100.a: "Yay!"
+  nf_event_fp.100.b: "Nay!"
+
+
+
   nf_event_fp.200.t: "Visions of an Unknown Woman"
-  nf_event_fp.200.d: "We received a report that last night two hunters received what they called 'a vision'. \nAfter a rather unsuccessful hunt they were prepared to head home when they heard strange noises seemingly coming from everywhere. Looking for the source of that noise they spotted a woman that suddenly appeared 'like an illuminated shadow' a few dozen meters away from them. She was wearing loose robes and was carrying bundles of grain. Cautiously the hunters approached her. Before they could get too close she only said the words \"Come to me again.\", pointing westward. At this point a map appeared next to her in thin air, looking similarly ethereal to her. The hunters said they were certain that it showed a location at the end of the Arkansas River. Then the woman disappeared again in a flash of light. The hunters ran back to their base as fast as they could to report what they have seen.\n\nThere has already been a lot of discussion what this 'vision' means. The Choctaw story keepers say that this event bears a striking resemblance to one of our ancient legends. The Cherokee Council of Scientists and Engineers says the 'vision' could be reasonably easily achievable giving the right technical know-how and resources. But all of this means that someone went to great lengths to bring this message to us. Too much effort for this to be a simple trap. Even if it would be somewhat of an undertaking to make the trip, chances are the result will be worthwhile, even if just to satisfy our curiosity."
+  nf_event_fp.200.d: "We received a report that last night two hunters received what they called 'a vision'. \nAfter a rather unsuccessful hunt they were prepared to head home when they heard strange noises seemingly coming from everywhere at once. Looking for the source of that noise they spotted a woman that suddenly appeared 'like an illuminated shadow' a few dozen meters away from them. She was wearing loose robes and carrying bundles of grain. Cautiously the hunters approached her. Before they could get too close she only said the words \"Come to me.\", pointing westward. At this point a map appeared next to her in thin air, looking similarly ethereal to her. The hunters said they were certain that it showed a location at the end of the Arkansas River. Then the woman disappeared again in a flash of light. The hunters ran back to their outpost as fast as they could to report what they have seen.\n\nThere has already been a lot of discussion what this 'vision' means. The Choctaw storytellers say that this event bears a striking resemblance to one of our ancient legends. The Cherokee Council of Scientists and Engineers says the 'vision' could be reasonably easily achievable giving the right technical know-how and resources. But all of this means that someone went to great lengths to bring this message to us. Too much effort for this to be a simple trap. Even if it would be somewhat of an undertaking to make the trip, chances are the result will be worthwhile, even if just to satisfy our curiosity."
   nf_event_fp.200.a: "Time to plan an Expedition"
+
+  nf_event_fp.201.t: "Calm Beginnings"
+  nf_event_fp.201.d: "The first stretch of our journey has been rather calm so far. The weather is fine and we are making good time towards our goal on the Arkansas River. Though we barely left federation lands, so this is to be expected. And even beyond that, the influence of the last patrol can still be felt, even if they are not as powerful as they once were. but soon we will travel into mostly unknown territory and who knows what will happen there."
+  nf_event_fp.201.a: "Onwards"
+
+  nf_event_fp.202.t: "Getting the Hell out of Dodge"
+  nf_event_fp.202.d: "We knew the calm couldn't last forever. We were roughly a third of the way to our goal when we encountered what we think are the ruins of Dodge City. Not only were we slowed down by ruins of buildings having crashed into the river, we also noticed several corpses hanging from the few intact bridges we crossed under. This put the guards already on edge, people mentioning spotting movement on the river shore didn't make it any better. Nothing happened for a while until a shot from a ruin took the head of a guard on the starboard side. The crew started to hunker down, guards went into cover and exchanged fire with an enemy they couldn't actually see. The captain put some strain on the engines to get out of the area as fast as we could."
+  nf_event_fp.202.a: "Faster!"
+
+  nf_event_fp.203.t: "Forging New Paths"
+  nf_event_fp.203.d: "The river clearly went some new (or possibly old) paths in the years since the war. We came across a partially flooded village that it now snaked it's way through. The local wildlife was not particularly fond of us passing through it, but didn't pose any real threat to us. Mirelurk are hard to kill due to their thick shells, but their pincers could not pierce our ships hull. The Mirelurk Kings were a different thing all together, but they were scarce enough among the regular mirelurks that we could pick them off early, before their sonic attacks could harm anyone. While nobody was injured, we were happy to get past this area and into more open water again."
+  nf_event_fp.203.a: "It's Roasted Mirelurk Tonight"
+
+  nf_event_fp.204.t: "Restocking"
+  nf_event_fp.204.d: "We spotted some untouched looking buildings on our port-side, including a supermarket and a hardware store. We decided to stop and look if we could find some useful supplies in it. We indeed found some. We also found out that what we thought were a couple of dead bodies were instead a mass of feral ghouls in their resting state. The noises of our shopping trip woke them up and they began shambling towards us. We decided on a hasty retreat with way less loot than we planned on getting out of the market."
+  nf_event_fp.204.a: "Better hungry than dead."
+
+  nf_event_fp.205.t: "The Audience"
+  nf_event_fp.205.d: "We finally arrived at what we thought was our destination. We were greeted by a group of tribals seeming to have expected us, surprisingly enough accompanied by a mister handy robot. They accompanied us to a grand hall that housed a woman that was taller than buildings. Some of the scientifically minded people in our group quickly pointed out the projectors placed in the corners of the room. We could assume that the 'vision' we received was done in a similar vein, though it is not quite clear where the origin of the projection was from during that event. The talk with the 'Goddess Diana' as the tribals called her was pleasant but we could not shake the feeling she expected us to be more deferring and awed by her presence then we were. What we were impressed by was the reason she brought us here.\nHorses. Honest to god horses. We were pretty sure there weren't any around anymore. She basically confirmed that suspicion by saying that these horses were specifically 'produced' to survive in the wasteland by some machines hidden away in a secret place. And they were a gift to us.\n We had to quickly figure out the logistics of putting them on our boats somehow and keeping them safe on the long trek back home. Also some doubts became loud among crew and expedition members about why she would gift us something like this. What were her motives? We are not sure and hope she won't ask for a favor in return at some point."
+  nf_event_fp.204.a: "Don't look a gift horse in the mouth?"
+  fp_expedition_encounter_05: "has met a goddess"

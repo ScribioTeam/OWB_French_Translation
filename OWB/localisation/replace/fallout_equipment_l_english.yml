@@ -90,10 +90,22 @@
   air_payload_equipment_short:0 "Bomb Gliders"
   air_payload_equipment_desc:0 ""
 
+  spotter_plane_equipment:0 "Recon Aircraft"
+  spotter_plane_equipment_short:0 ""
+  spotter_plane_equipment_desc:0 ""
+
+  spotter_plane_equipment_1:0 "Recon Glider"
+  spotter_plane_equipment_1_short:0 "Recon Glider"
+  spotter_plane_equipment_1_desc:0 ""
+
+  spotter_plane_equipment_2:0 "Recon Plane"
+  spotter_plane_equipment_2_short:0 "Recon Plane"
+  spotter_plane_equipment_2_desc:0 ""
+
  # Ballistic Equipment
   ballistic_equipment_1:0 "Basic Weaponry"
   ballistic_equipment_1_short:0 "Basic Weaponry"
-  ballistic_equipment_1_desc:0 "Rearming our troops with better infantry equipment is capital to our military efforts. To this end, a new infantry kit composed of a 5.56mm bolt action rifle, suited for medium-range engagements, is supplemented by tin-can grenades for explosive firepower. Scrap metal helmets provides protection, while a shiv as well as a .22LR pipe pistol help in case of emergency."
+  ballistic_equipment_1_desc:0 "A new infantry kit intended to standardize our troops, it is composed of a bolt-action 5.56 rifle suited to medium engagements, a scrap metal helmet to protect against projectiles and shrapnel, as well as a shiv and .22LR pistol for close-quarter defense. Tin can grenades seals the deal when it comes to firepower.\n\n"
 
   ballistic_equipment_2:0 "Common Weaponry"
   ballistic_equipment_2_short:0 "Common Weaponry"
@@ -101,50 +113,50 @@
 
   ballistic_equipment_3:0 "Advanced Weaponry"
   ballistic_equipment_3_short:0 "Adv. Weaponry"
-  ballistic_equipment_3_desc:0 "New select-fire assault rifles increases the volume of projectiles our troops can put downrange, allowing suppression tactics and concentrated barrage on enemy positions. Offensive grenades along with burst-fire side arms let our troops clear buildings easier, while bulletproof vests and combat knives will protect them against common small arms."
+  ballistic_equipment_3_desc:0 "New select-fire assault rifles increases the volume of projectiles our troops can put downrange, allowing suppression fire tactics and concentrated barrage on enemy positions. Grenades alongside combat knives and burst-fire side arms will let our troops clear buildings easier, while bulletproof vests will protect them against common small arms."
 
   ballistic_equipment_4:0 "Elite Weaponry"
   ballistic_equipment_4_short:0 "Elite Weaponry"
-  ballistic_equipment_4_desc:0 "Custom-made ammunition coupled with precision parts in our new assault rifle model allows our troops unprecedented level of firepower. Along with recoil compensators for our side arms, combat knives switched for modified rippers, high-yield grenades, and full bulletproof armour, this makes it the most advanced personal equipment in the wasteland."
+  ballistic_equipment_4_desc:0 "Custom-made ammunition coupled with precision parts in our new assault rifle model allows our troops unprecedented level of firepower. Alongside recoil compensators for our side arms, combat knives switched for rippers, high-yield grenades and full bulletproof armour, this makes it the most advanced personal equipment in the wasteland."
 
   # Heavy infantry armour
   heavy_infantry_equipment_1:0 "Crowd Control Gear"
   heavy_infantry_equipment_1_short:0 "Crowd Gear"
-  heavy_infantry_equipment_1_desc:0 "While not nearly as sophisticated as special forces equipment, or as advanced as power armour, these pieces of metal and padding strapped to one's body do still help in some situations. Especially useful in its intended role to suppress resistance, it, however, severely limits mobility."
+  heavy_infantry_equipment_1_desc:0 "While not nearly as sophisticated as special forces equipment, or as advanced as power armour, these pieces of metal and padding strapped to one's body do still help in some situations. Especially useful in its intended role to suppress resistance, it however severely limits mobility."
 
  # Energy Equipment
   energy_equipment_1:0 "Basic Laser Weaponry"
   energy_equipment_1_short:0 "Basic Laser Weaponry"
-  energy_equipment_1_desc:0 "Laser weaponry is an increasingly viable alternative to ballistic firearms. With better capabilities against hard targets but higher cost, they can be very useful to our army. A basic kit composed of a hand-cranked energy musket and laser revolver pistol for soft targets, microfusion waste grenades to clear enemy positions, brass knuckles for melee combat and a welding helmets for protection will equip our troops."
+  energy_equipment_1_desc:0 "Laser weaponry is an increasingly viable alternative to firearms, with better capabilities against hard targets. A basic kit composed of a hand-cranked energy musket and laser revolver provides firepower against soft targets, while microfusion waste grenades, brass knuckle and a welding helmets are used in CQC.\n\n"
 
   energy_equipment_2:0 "Common Energy Weaponry"
   energy_equipment_2_short:0 "Common Energy Weaponry"
-  energy_equipment_2_desc:0 "Gaining more insight into pre-war weaponry design, we can compose a new energy kit with better specifications. Semi-automatic laser rifles, AEP7 side arms, improvised MFC grenades as well as basic metal armour let us deal with threats more easily at range, while a contact discharger is reserved for CQC."
+  energy_equipment_2_desc:0 "Gaining more insight into pre-war weaponry design, we can compose a new infantry kit with better specifications. Semi-automatic laser rifles, AEP7 side arms, improvised MFC grenades as well as basic metal armour let us deal with threats more easily at range, while a contact discharger is reserved for close combat."
 
   energy_equipment_3:0 "Advanced Energy Weaponry"
   energy_equipment_3_short:0 "Adv. Energy Weaponry"
-  energy_equipment_3_desc:0 "Our research capabilities allows us to improve even the pre-war tech our kit is based off of. Overcharged, specially-manufactured MFC grenades increases our explosive capabilities, fully-automatic laser rifle variants improves our firepower, and composite alloy armour will considerably reduce the number of casualties our troops suffer."
+  energy_equipment_3_desc:0 "Our research capabilities have allowed us to improve even the pre-war tech our kit is based off of. Overcharged, specially-manufactured MFC grenades increases our explosive capabilities, fully-automatic laser rifle variants improves our firepower, and composite alloy armour will considerably reduce the number of casualties our troops suffer."
 
   energy_equipment_4:0 "Pulse Energy Weaponry"
   energy_equipment_4_short:0 "Pulse Energy Weaponry"
-  energy_equipment_4_desc:0 "With improved efficiency over pre-war prototypes, coming from stacked microfusion breeder cell firing chambers, those pulse weapons give us a significant advantage over the military of any other nation. Complimented by plasma grenades and electrically-charged armour, along with proton combat knives, this makes it the most advanced infantry kit in the entirety of the wasteland."
+  energy_equipment_4_desc:0 "With improved efficiency over pre-war prototypes, coming from breeder cell firing chambers, those pulse weapons give us a significant advantage over the military of any other nation. Complimented by plasma grenades and electrically-charged armour, along with proton combat knives, this makes it the most advanced infantry kit in the entirety of the wasteland."
 
  # Melee Equipment
   melee_equipment_1:0 "Basic Melee Weaponry"
   melee_equipment_1_short:0 "Basic Melee Weaponry"
-  melee_equipment_1_desc:0 "Simple blunt weaponry, along with better physical training, is a cheap alternative to firearm manufacturing, while also improving our capabilities to simply overwhelm enemy lines. Even though we cannot defend positions as effectively, and we lack the ability to damage hard targets, this will let us bash most tribes to a pulp."
+  melee_equipment_1_desc:0 "Simple blunt weaponry, alongside better physical training, is a cheap alternative to firearm manufacturing while also improving our capabilities to simply overwhelm enemy lines. Even though we cannot defend positions as effectively, and we lack the ability to damage hard targets, this will let us bash most tribes to a pulp."
 
   melee_equipment_2:0 "Slashing Melee Weaponry"
   melee_equipment_2_short:0 "Slashing Melee Weaponry"
-  melee_equipment_2_desc:0 "Replacing our crude blunt weapons by weighted machetes, and manufacturing thick scrap metal breastplates, let our troops close the distance to the enemy much easier along with overtaking enemy positions in close quarter combat. Improvement to physical drills are also made again to let them move without even feeling the weight of their armour."
+  melee_equipment_2_desc:0 "Replacing our crude blunt weapons by weighted machetes as well as manufacturing thick scrap metal breastplates will let our troops close the distance much easier to overwhelm enemy positions in close quarter combat. Improvement and streamlining of physical drills are also made to allow our troops to move without even feeling the weight of their armour.\n\n"
 
   melee_equipment_3:0 "Heavy Melee Weaponry"
   melee_equipment_3_short:0 "Heavy Melee Weaponry"
-  melee_equipment_3_desc:0 "Sledgehammers provide our troops with both increased capabilities against armoured enemy personnel, along with breaching possibilities on enemy positions. This is further supplemented by defensive grenades, and the addition of ballistic fists to our arsenal, giving us some measure of ranged firepower in the form of a 20 gauge, double-barrelled, wrist-mounted shotgun."
+  melee_equipment_3_desc:0 "Sledgehammers provide our troops with increased capabilities against armoured enemy personnel, along with breaching possibilities on enemy positions. This is further supplemented by grenades, and the addition of ballistic fists to our arsenal, giving us some measure of ranged firepower in the form of a wrist-mounted 20 gauge shotgun."
 
   melee_equipment_4:0 "Powered Weaponry"
   melee_equipment_4_short:0 "Powered Weaponry"
-  melee_equipment_4_desc:0 "Lighter weaponry such as power fists increases the speed of our troops during combat, and lessen the fatigue felt during intense close quarter combat, while reinforced metal armour protects them in battle. Improving our ballistic fists with 12 gauge slugs as well as recoil management mechanism, let our soldiers attack from further afar, even staying in cover during dangerous engagements."
+  melee_equipment_4_desc:0 "Lighter weaponry such as power fists lessens the fatigue felt during intense close quarter combat, while reinforced metal armour provides better protection. Improving our ballistic fists with 12 gauge slugs and double-barrels let our soldiers attack from further afar, even staying in cover during dangerous engagements.\n\n"
  # spec ops Armour
 
   spec_ops_equipment:0 "Special Forces Equipment"
@@ -221,6 +233,10 @@
   power_armor_equipment_tbh_short:0 "Vault-Tec PA"
   power_armor_equipment_tbh_desc:0 "A Vault-Tec prototype. Made to emulate the succes West-Tek had with it's armour designs."
 
+  power_armor_equipment_midwest:0 "Advanced Technical Armour"
+  power_armor_equipment_midwest_short:0 "ATA 1b"
+  power_armor_equipment_midwest_desc:0 ""
+
  # Unique Infantry guns
   gauss_equipment_1:0 "Improvised Mass Driver"
   gauss_equipment_1_short:0 "Mass Driver"
@@ -241,25 +257,25 @@
  # Fireteam weapons
   fireteam_equipment_1:0 "Makeshift Squad Automatic Weapon"
   fireteam_equipment_1_short:0 "M SAW"
-  fireteam_equipment_1_desc:0 "A makeshift machine gun made of salvaged metal and scrap components with a simple cloth ammunition belt, firing intermediate cartridges, provide our troops with automatic fire support during assaults or defences. Our SAW teams have requested better weapons as soon as possible, as this weapon is much heavier than needed, cannot switch barrels in case of overheating, and has a low cyclic rate."
+  fireteam_equipment_1_desc:0 "A makeshift machinegun made of scrap components and fed by a simple cloth ammunition belt can provide our troops with much-needed automatic fire support. Still, this weapon is heavier than needed, cannot switch barrels when overheating, and has a low cyclic rate. As such our MG teams have urged for further development."
   ballistic_fireteam_equipment_2:0 "Light Machine Gun"
   ballistic_fireteam_equipment_2_short:0 "LMG"
-  ballistic_fireteam_equipment_2_desc:0 "Reliable, easy to produce, and more effective against soft target than laser weaponry, this light machine gun has numerous improved features over it's predecessor. Upgrades include a quick change barrel, metal belt, better extraction mechanism, as well as improved cyclic rate owing to it's roller-locked design."
+  ballistic_fireteam_equipment_2_desc:0 "Reliable, easy to produce, and more effective against soft target than laser weaponry, this light machine gun has numerous improved features over it's predecessor. Upgrades include a quick change barrel, metal belt, better extraction mechanism, as well as improved cyclic rate owing to it's roller-locked design.\n\n"
   ballistic_fireteam_equipment_3:0 "Heavy Machine Gun"
   ballistic_fireteam_equipment_3_short:0 "HMG"
-  ballistic_fireteam_equipment_3_desc:0 "A heavy machine gun using large calibre ammunition, this weapon is designed to be fired from a bipod, while the lightweight construction also allows it be handled from the hip in case of an enemy advance. A muzzle booster device, open bolt for better airflow, less moving parts, as well as provision for improved continuous belt feeding all makes it very effective against soft target."
+  ballistic_fireteam_equipment_3_desc:0 "A heavy machine gun design, this weapon is designed to be fired from a bipod, while the lightweight construction also allows it be handled from the hip in case of an enemy advance. A muzzle booster device, open bolt, as well as provision for improved continuous feeding all makes it very effective against soft target."
   ballistic_fireteam_equipment_4:0 "Minigun"
   ballistic_fireteam_equipment_4_short:0 "Minigun"
-  ballistic_fireteam_equipment_4_desc:0 "Rotary weapons allow an unprecedented rate of fire, while backpack feeds, HUD-assisted aim and ported barrels improves their accuracy. Too heavy to be handled by common soldiers, our machine gun teams undergo advanced training destined to let them be able to operate exo-skeletons enhancing their strength, allowing them to carry this huge weapon and it's ammunition while firing them from the hip."
+  ballistic_fireteam_equipment_4_desc:0 "Rotary weapons allow an unprecedented rate of fire, while backpack feeds, HUD-assisted aim and ported barrels improves their accuracy. Too heavy to be handled by common soldiers, our machine gun teams are equipped with exo-skeletons enhancing their strength, allowing them to carry this huge weapon and it's ammunition while firing them from the hip."
   energy_fireteam_equipment_2:0 "Heavy Rapid Capacitor Weapon"
   energy_fireteam_equipment_2_short:0 "H-RCW"
-  energy_fireteam_equipment_2_desc:0 "H-RCWs benefit from good performances against hard targets, on the account of them firing bolts powerful enough to blast clean through metal armour. Training in laser specificity such as proper handling of overheated weapons, and energy cell reloading, let our soldiers be proficient with weaponry effective against both soft and hard targets."
+  energy_fireteam_equipment_2_desc:0 "H-RCWs benefit from good performances against hard targets, on the account of firing bolts powerful enough to blast clean through metal armour. Training in laser specificity, such as proper handling of overheated weapons and energy cell reloading, let our soldiers be effective against both soft and hard targets.\n\n"
   energy_fireteam_equipment_3:0 "Gatling Laser"
   energy_fireteam_equipment_3_short:0 "Gatling Laser"
-  energy_fireteam_equipment_3_desc:0 "A rotary lens design with each barrel feeding from a stacked microfusion cell allows more shots, along with improving internal cooling and precision. While the lack of a traditional ballistic feeding system makes it lightweight enough to be handled by normal soldiers, we are beginning to hit the limit of what can be reasonably hip carried, and our future research should take this fact into consideration."
+  energy_fireteam_equipment_3_desc:0 "A rotary lens design with each barrel feeding from a stacked microfusion cell allows better rate of fire, alongside improved internal cooling and precision. While the lack of a traditional ballistic feeding system makes it lightweight enough to be handled by normal soldiers, we are beginning to hit the limit of what can be reasonably hip carried."
   energy_fireteam_equipment_4:0 "Tesla Cannon"
   energy_fireteam_equipment_4_short:0 "Tesla Cannon"
-  energy_fireteam_equipment_4_desc:0 "Originally an anti-tank weapon, this tesla cannon is modified to be more akin to an autocannon than it's heavier sibling by the installation of smaller focusing array, and quick-discharge electron packs. While not having a rate of fire comparable to other support weaponry, the sheer impact of each shot will get everyone to keep their heads down, while retaining enough piercing capabilities to puncture any conventional body armour."
+  energy_fireteam_equipment_4_desc:0 "Originally an anti-tank weapon, this tesla device is modified to be more akin to an autocannon than its heavier sibling by the installation of smaller focusing array, and quick-discharge electron packs. While the rate of fire is quite low, the sheer impact and piercing capabilities of each shot is enough to puncture any body armour."
 
  # Demolitions Equipment
   demolitions_equipment_1:0 "Dynamite"
@@ -267,7 +283,7 @@
   demolitions_equipment_1_desc:0 "2,4,6-trinitrotoluene, clay and stabilisers packed into a cardboard tube with a fuse. A simple, but effective, tool for mining, quarrying and, more obviously, blowing people to kingdom come."
   flamer_demolitions_equipment_2:0 "Flamethrower"
   flamer_demolitions_equipment_2_short:0 "Flamer"
-  flamer_demolitions_equipment_2_desc:0 "The flamer uses a gas projection system to expel a flammable liquid that is then ignited by a small flame in the tip of the muzzle. Suffice to say, a stream of burning fluid is not to be triffled with."
+  flamer_demolitions_equipment_2_desc:0 "The flamer uses a gas projection system to expel a flammable liquid that is then ignited by a small flame in the tip of the muzzle. Suffice to say, a stream of burning fluid is not to be triffled with.\n\n"
   flamer_demolitions_equipment_3:0 "Incinerator"
   flamer_demolitions_equipment_3_short:0 "Incinerator"
   flamer_demolitions_equipment_3_desc:0 "The incinerator is even more incidious than it's predessesor. Instead of sending a constant low pressure steam does it build up steam to fire one blob of burning liquid directy at the intended target. Often keeping them alight for considerable time."
@@ -276,7 +292,7 @@
   flamer_demolitions_equipment_4_desc:0 "The Heavy incinerator does what the incinerator does, but heavier. Bulkier and slightly harder to handle does this weapon allow for much higher operational pressures, resulting in more range and increased devastation."
   explosive_demolitions_equipment_2:0 "Fragmentation Grenade"
   explosive_demolitions_equipment_2_short:0 "Frag Grenade"
-  explosive_demolitions_equipment_2_desc:0 "A mix of offensive and defensive grenades, along with demolition charges, lets our sapper be more effective in their intended demolition role. Fragmenting explosives and concussive blasts require better protection, so our engineers are equipped with reinforced helmets and steel armour plating, as well as receiving physical training to improve their throwing range."
+  explosive_demolitions_equipment_2_desc:0 "A mix of offensive and defensive grenades, along with demolition charges, lets our sapper be more effective in their intended demolition role. Fragmenting explosives and concussive blasts require better protection, so our engineers are equipped with heavy armor, alongside receiving physical training to improve their throwing range.\n\n"
   explosive_demolitions_equipment_3:0 "Grenade Rifle"
   explosive_demolitions_equipment_3_short:0 "Grenade Rifle"
   explosive_demolitions_equipment_3_desc:0 "A fixed shell casing containing a propellant, and explosive charge with an impact fuse, allows our sappers to shoot grenades with a considerably increased range. This enables letting them use indirect fire techniques as well, to rain explosives payloads upon fortified positions, or use high-calibre buckshot round to sweep an entire area with steel bearings."
@@ -316,27 +332,27 @@
 
   support_robot_handy_equipment:0 "Mister Handy"
   support_robot_handy_equipment_short:0 "Mr Handy"
-  support_robot_handy_equipment_desc:0 "While those pre-war housekeepers can be found in many places in the wasteland, they might have a tad more firepower than required for most children birthday party. With bolt-on armour supplementing the civilian-grade shell, as well as the removal of the flamethrower and it's replacement by a laser pistol, it becomes an effective combat unit that we can more easily field."
+  support_robot_handy_equipment_desc:0 "While those pre-war housekeepers can be found in many places in the wasteland, they might have a tad more firepower than required for most children birthday party. With bolt-on armour supplementing the civilian-grade shell, as well as the replacement of its flamethrower by a laser pistol, it becomes an effective combat unit."
 
   support_robot_gutsy_equipment:0 "Mister Gutsy"
   support_robot_gutsy_equipment_short:0 "Mr Gutsy"
-  support_robot_gutsy_equipment_desc:0 "A pre-war and more advanced variant of the Mr Handy, manufactured expressly for combat, can upgrade our robot divisions while reducing cost by taking the basis of it's householding sibling. And even though we cannot manufacture the original specifications found in the blueprints, we can still manage to provide them with face-hardened steel plating, as well as automatic laser weaponry."
+  support_robot_gutsy_equipment_desc:0 "A pre-war variant of the Mr Handy, manufactured expressly for combat, can upgrade our robot divisions while reducing cost by taking the basis of it's householding sibling. And even though we cannot manufacture the original specifications, we can still manage to provide them with face-hardened steel plating as well as automatic laser weaponry."
 
   support_robot_eyebot_equipment:0 "Duraframe Eyebot"
   support_robot_eyebot_equipment_short:0 "Eyebot"
-  support_robot_eyebot_equipment_desc:0 "Originally designed as a mobile media transmitter, eyebots were often re-equipped with weaponry to act as listening post, scout units and law enforcement. The duraframe shaped shell, as well as a mounting point allowing us to arm them with cut-down laser submachine guns, make them the most advanced light robot we can field."
+  support_robot_eyebot_equipment_desc:0 "Originally designed as a mobile media transmitter, eyebots were often re-equipped with weaponry to act as listening post, scout units or law enforcement. The duraframe shaped shell, as well as a mounting point allowing us to arm them with cut-down laser submachine guns, make them the most advanced light robot we can field."
 
   support_robot_protectron_equipment_1:0 "Commercial Protectron"
   support_robot_protectron_equipment_1_short:0 "Protectron Mk I"
-  support_robot_protectron_equipment_1_desc:0 "Often called \"trash cans on legs\" for their cumbersome appearance and top-heavy design, civilian protectrons can still make useful shields for our main troops. Replacing the frail shell by a more sturdy armour steel one, and supplying their recently added arm-mounted laser machine pistols with overcharged ammunition maximizes their potential in this role."
+  support_robot_protectron_equipment_1_desc:0 "Often called \"trash cans on legs\" for their cumbersome appearance and top-heavy design, civilian Protectrons can still make useful shields for our main troops. Replacing the frail shell with sturdy armour steel, as well as rearming them with laser machine pistols, maximizes their potential in this role."
 
   support_robot_protectron_equipment_2:0 "Police Protectron"
   support_robot_protectron_equipment_2_short:0 "Protectron Mk II"
-  support_robot_protectron_equipment_2_desc:0 "Security Protectrons, or Mark 2 Protectrons, are a line of advanced robots manufactured by RobCo for light police duty. While \"advanced\" is a relative term when it comes to them, the addition of better housing for their arm-mounted weaponry, along with replacing their old laser pistols with energy submachine guns, makes them fearsome opponents. The final touch is a series of bolted-on plating to supplement the bullet-proof shell."
+  support_robot_protectron_equipment_2_desc:0 "Mark 2 Protectrons are a line of advanced robots manufactured by RobCo for light police duty. While \"advanced\" is a relative term when it comes to Protectrons, the addition of energy machineguns replacing their old cumbersome laser pistols makes them fearsome opponents. The final touch is a series of bolted-on plating to supplement the bullet-proof shell."
 
   combat_robot_lifter_equipment:0 "Heavy Lifter Bot"
   combat_robot_lifter_equipment_short:0 "Heavy Lifter"
-  combat_robot_lifter_equipment_desc:0 "Intended for logistical duties, this heavy robot can be converted into a fearsome frontline fighter. Our engineers are already working on a multitude of refits, such as bolting alloy platings to weak spots not covered by the already thick industrial shell, and replacing the lifting claws by protected weapon mounts. This lets us arm these robots with a mix of light ordinance launchers, and full-length laser machine guns."
+  combat_robot_lifter_equipment_desc:0 "Intended for logistical duties, this robot can be converted into a fearsome frontline fighter. Our engineers are already working on a multitude of refits, such as bolting additional platings to supplement the already thick industrial shell, and replacing the lifting claws by protected weapon mounts. This lets us arm these robots with a mix of light ordinance launchers, and full-length laser machine guns."
 
   combat_robot_sentry_equipment_1:0 "Sentry Bot Mk I"
   combat_robot_sentry_equipment_1_short:0 "Sentry Bot Mk I"
@@ -344,39 +360,35 @@
 
   combat_robot_sentry_equipment_2:0 "Sentry Bot Mk II"
   combat_robot_sentry_equipment_2_short:0 "Sentry Bot Mk II"
-  combat_robot_sentry_equipment_2_desc:0 "Lessons learned through training exercises and actual combat can all be applied to the Sentrybot Mark 2, a pre-world wonder of heavy robotics suited to any frontline task. Boasting a choice of multiple weaponry, this version is armed with two high-powered laser chain guns, privileging a focus toward annihilating soft target while the high cyclic rate combined with the nuclear core powering them can still melt through light enemy armour in seconds."
+  combat_robot_sentry_equipment_2_desc:0 "Lessons learned through combat can be applied to the Sentrybot Mark 2, a pre-world wonder of robotics suited to any frontline task. Boasting a choice of multiple weaponry, this version is armed with two high-powered laser chain guns, privileging the annihilation of soft target while the nuclear core power supply still allows them to melt light armour in seconds."
 
   combat_robot_assaultron_equipment:0 "RobCo Assaultron"
   combat_robot_assaultron_equipment_short:0 "Assaultron"
-  combat_robot_assaultron_equipment_desc:0 "A medium robot designed for frontline combat and CQC operations, it's agility and advanced internal processor let it swiftly move through the battlefield while scanning and dispatching threats with it's focused laser beam and close-quarter claws."
+  combat_robot_assaultron_equipment_desc:0 "A medium robot designed for frontline combat and CQC operations, its agility and advanced internal processor let it swiftly move through the battlefield while scanning and dispatching threats with it's focused laser beam and close-quarter claws."
 
-  combat_robot_securitron_equipment_1:0 "RobCo Securitron Mk I"
-  combat_robot_securitron_equipment_1_short:0 "Securitron Mk I"
-  combat_robot_securitron_equipment_1_desc:0 "A private security robot manufactured for police duty in difficult areas of operation, the monowheel propulsion system and fully welded titanium alloy shell provides both good mobility, and armour against typical small arms found on patrols. Meanwhile, an arm mounted 9mm submachine gun and X-25 gatling laser pistol allows them to handle any close-combat scenario."
-
-  combat_robot_securitron_equipment_2:0 "RobCo Securitron Mk II"
-  combat_robot_securitron_equipment_2_short:0 "Securitron Mk II"
-  combat_robot_securitron_equipment_2_desc:0 "An OS update enables an on-board auto-repair system for diagnostics, and battlefield maintenance, of damaged components while also allowing access to hidden weaponry. Those Securitron Mark 2 have now the processing power to track and target enemy threats with an automatic grenade launcher and salvo rocket launcher, transforming patrol units into hardened frontline combatants."
+  security_robot_securitron_equipment_1:0 "RobCo Securitron Mk I"
+  security_robot_securitron_equipment_1_short:0 "Securitron Mk I"
+  security_robot_securitron_equipment_1_desc:0 "A private security robot manufactured for police duty in difficult areas of operation, the monowheel propulsion system and fully welded titanium alloy shell provides both good mobility, and armour against typical small arms found on patrols. Meanwhile, an arm mounted 9mm submachine gun and X-25 gatling laser pistol allows them to handle any close-combat scenario."
 
   combat_robot_robobrain_equipment:0 "RobCo Robobrain"
   combat_robot_robobrain_equipment_short:0 "Robobrain"
-  combat_robot_robobrain_equipment_desc:0 "A tracked chassis on a two-piece welded frame using hardened composite platings, and integrated laser cannons, form the basis for our Robobrain design. The final touch is a completely sterile and bulletproof glass dome containing either the mind-wiped brain of executed criminal, or those of particularly willing soldiers wanting to become death machines, which makes them able to react to threats on the fly and be as efficient as footsoldiers."
+  combat_robot_robobrain_equipment_desc:0 "A tracked chassis on a two-piece welded frame using hardened composite platings alongside integrated laser cannons form the basis for our Robobrain design. The final touch is a bulletproof glass dome, using the brain of particularly willing soldiers wanting to become death machines as the most efficient processor in the world, giving unparalleled reactivity on the field."
 
   support_robot_scurry_equipment:0 "Scurry Salvager Bot"
-  support_robot_scurry_equipment_short:0 ""
-  support_robot_scurry_equipment_desc:0 "Small robots designed for underground ambush and close-quarter combat, those mechanical spiders are equipped with sharp arachnid legs and seismic sensors to detect surface target while on the prowl. The horrific manner in which they dispatch threats as well as the way their salvaging claws can make them burrow into lightly armoured enemy vehicles leaves little doubt as to their effectiveness."
+  support_robot_scurry_equipment_short:0 "Scurry Bot"
+  support_robot_scurry_equipment_desc:0 "Small robots designed for underground ambushes, those mechanical spiders are equipped with sharp arachnid legs and seismic sensors to detect surface target while on the prowl. The horrific manner in which their salvaging claws can make them burrow into infantry and vehicles alike leaves little doubt as to their effectiveness."
 
   support_robot_humanoid_equipment:0 "C-22 Humanoid Combat Platform"
-  support_robot_humanoid_equipment_short:0 ""
-  support_robot_humanoid_equipment_desc:0 "Bipedal robots designed before the great war to pacify the nuclear wasteland of thereafter, those units sports a sophisticated sensor network to identify any target via a spectrum of scanning range. Designed to use small arms, they are still armoured with composite plating, and post-war engineering added a layer of EMP shielding to the package. Armed with weaponry such as laser miniguns, gauss pistols and plasma rifles, they are a force to be reckoned with."
+  support_robot_humanoid_equipment_short:0 "C-22"
+  support_robot_humanoid_equipment_desc:0 "Bipedal robots designed before the great war to pacify the nuclear wasteland of thereafter, those units sports a sophisticated sensor network and thick composite plating, as well as EMP shielding. Armed with weaponry such as laser miniguns, gauss pistols and plasma rifles, they are a force to be reckoned with."
 
   combat_robot_pacification_equipment:0 "Pacification Robot"
   combat_robot_pacification_equipment_short:0 ""
-  combat_robot_pacification_equipment_desc:0 "A large quadrupedal robot reminescent of animals of old, this war machine originally boasted tank-like protection and four pacification cannons. Further thinkinering done by the Calculator has replaced the four cannons by two rotary laser autocannons, and attention was given to enhanced mobility systems as well as better tactical link with other robotical units, making them mobile command posts."
+  combat_robot_pacification_equipment_desc:0 "A large quadrupedal robot, this war machine originally boasted tank-like protection and four pacification cannons. Further thinkinering done by the Calculator has replaced the four cannons by two rotary laser autocannons, and attention was given to enhanced mobility systems as well as better tactical link with other robotical units, making them mobile command posts."
 
   combat_robot_behemoth_equipment:0 "Behemoth Robot"
   combat_robot_behemoth_equipment_short:0 ""
-  combat_robot_behemoth_equipment_desc:0 "A gargantuan beast of a machine, calling this robot a walking tank would be a disservice to the sheer bulk in weaponry and armour it carries. Originally armed with four fast-firing .50 cal machine guns, those were replaced for a quadruple 20mm autocannon arrangement. Combined with armour thick enough to stop plasma projectiles or even naval artillery, there is nothing our enemy can do but gasp before being shred to pieces."
+  combat_robot_behemoth_equipment_desc:0 "A gargantuan beast of a machine, calling this robot a walking tank would be a disservice to the sheer bulk in weaponry and armour it carries. Originally armed with four fast-firing .50 cal machine guns, those were replaced for a quadruple 20mm autocannon arrangement. Combined with armour thick enough to stop plasma projectiles, there is nothing our enemy can do but gasp before being shred to pieces."
 
  # Artillery
   artillery_equipment_1:0 "Artillery Equipment"
@@ -414,38 +426,38 @@
   tank_equipment_desc:0 ""
   tank_equipment_1:0 "Improvised Tank"
   tank_equipment_1_short:0 "Improvised Tank"
-  tank_equipment_1_desc:0 "A tracked chassis rebuilt from plans for industrial construction vehicles, armoured with slabs of concrete as well as spaced steel armour, provides protection against even simple weapons. Armoured ball mounts let our vehicles be armed with a choice of small arms, ranging from heavy machine guns to anti-tank rifles. The forward bulldozer blade also let our crew demolish fortified positions and ram enemy AFVs."
+  tank_equipment_1_desc:0 "A tracked chassis rebuilt from industrial construction vehicles, armoured with slabs of concrete as well as spaced steel armour, provides protection against most simple weapons. Armoured ball mounts let our vehicles be armed with a choice of small arms ranging from machine guns to anti-tank rifles, while the bulldozer blade let our crew demolish fortified positions or ram enemy AFVs."
   tank_equipment_2:0 "Wasteland Tank"
   tank_equipment_2_short:0 "Wasteland Tank"
-  tank_equipment_2_desc:0 "Improving upon it's industrial heritage, the entire top part of the improvised tank has been cut out, and the armor now reinforced by solid, monocoque armor plating presenting few flaws for enemy AT fire to pierce. Removing the frontal bulldozer blade also lightened the tank, increasing it's mobility, while allowing our engineers to be able to fit a 75mm howitzer in the hull. This let our crew engage fortified positions with devastating high-explosive projectiles, while still benefiting from thick frontal armor."
+  tank_equipment_2_desc:0 "Improving upon it's industrial heritage, the entire top part  has been cut out, and the armor reinforced by solid, monocoque plating presenting few flaws for enemy fire to pierce. Removing the frontal bulldozer blade also increased mobility, while allowing our engineers to be able to fit a 75mm howitzer in the hull. This let our crew engage fortified positions with devastating high-explosive projectiles."
   tank_equipment_3:0 "Battle Tank"
   tank_equipment_3_short:0 "Battle Tank"
-  tank_equipment_3_desc:0 "Cutting out the improvised superstructure and beginning again from the hull base lets us design a much more efficient AFV. Secured ammo storage, a hull mounted and coaxial machine gun, as well as an actual powered turret with an infantry support gun, improves their efficiency against soft and hard target alike, while the lighter armouring made of face-hardened steel plates let the same engine achieve higher speeds."
+  tank_equipment_3_desc:0 "Beginning again from the hull base lets us design a more efficient AFV, equipped with secured ammo storage, coaxial machine gun, and a powered turret mounting a large-caliber infantry support gun. This improves its efficiency against soft and hard target alike, while the lighter armouring made of face-hardened steel plates let it achieve higher speeds."
   tank_equipment_4:0 "Great War Tank"
   tank_equipment_4_short:0 "Great War Tank"
-  tank_equipment_4_desc:0 "While the design process of the tank itself is very straightforward, the manufacturing is not. Pre-war technology requires advanced production capabilities, or very creative thinking. Replacing the depleted uranium plating by an alloy front plate, unifying the four-tracked system into a two-tracked one, and replacing extensive internal electronics by simpler substitutes allows us to build a fearsome product of the past."
+  tank_equipment_4_desc:0 "Pre-war tank technology requires extremely advanced production capabilities, or very creative thinking. Replacing the depleted uranium plating by an alloy front plate, unifying the four-tracked system into a two-tracked one, and replacing extensive internal electronics by simpler substitutes allows us to build a fearsome product of the past."
 
  # Truck
   truck_equipment_1:0 "Scrap Guntruck"
   truck_equipment_1_short:0 "Scrap Guntruck"
-  truck_equipment_1_desc:0 "Cobbled together from salvage, those trucks aren't much to look at. But while the scrap metal can barely hold against small arms, and the engine has trouble keeping up with the increased weight, they provide decent protection for our infantry, which would never be caught complaining about not being shot. A mounted automatic rifle also provides supporting fire during disembarking, but the crew is expressly told not to engage in direct combat otherwise."
+  truck_equipment_1_desc:0 "Cobbled together from salvage, those trucks aren't much to look at. But while the scrap metal can barely hold against small arms, and the engine has trouble keeping up with the increased weight, they provide decent protection for our infantry which would never be caught complaining about not being shot. A mounted automatic rifle also provides some support fire."
 
   truck_equipment_2:0 "Salvaged Guntruck"
   truck_equipment_2_short:0 "Salvaged Guntruck"
-  truck_equipment_2_desc:0 "Another product of our salvage network, those trucks are a mismatch of rusted armour plating taken from dilapidated vehicles, and engine units trying to work together through a hastily-designed transmission. Sporting better defences than previous models, these trucks are also armed with a proper mounted machine gun equipped with a gun shield. Provisions are also made for the infantry to let them stock more firepower inside."
+  truck_equipment_2_desc:0 "These trucks are a mismatch of rusted armour plating taken from dilapidated vehicles and engine units trying to work together through a hastily-designed transmission. Sporting better defences than previous models, they are also armed with a proper mounted machine gun equipped with a gun shield. Provisions are also made for the infantry to let them stock more firepower inside."
 
  # APC
   apc_equipment_1:0 "Salvaged APC"
   apc_equipment_1_short:0 "Salvaged APC"
-  apc_equipment_1_desc:0 "Salvaged heavy trucks clad in armour provides a more suitable base to our mechanized divisions. Thick steel plating supported by better suspensions and high-torque engines can now resist rifle fire, or even laser attacks. A forward-mounted heavy machine gun brings suitable firepower for frontline combat, while these features combined allows them to directly support our infantry, resulting in coordinated combined-arm operations."
+  apc_equipment_1_desc:0 "Salvaged heavy trucks clad in armour provides a more suitable base to our mechanized divisions. Thick steel plating supported by better suspensions and high-torque engines can now resist rifle fire, or even laser attacks. A forward-mounted heavy machine gun brings suitable firepower for frontline combat or combined-arm operations."
 
   apc_equipment_2:0 "Wasteland APC"
   apc_equipment_2_short:0 "Wasteland APC"
-  apc_equipment_2_desc:0 "A tracked chassis to navigate the blasted wasteland, together with a twin coupled engine drive and alloy plating, is the result of our engineers' effort into better AFVs for our mechanized divisions. A ramp system allowing disembarking under armour protection, while external communication system for infantry support, and a new mounted autocannon firing armour-piercing incendiary projectiles, all goes toward improving our offensive capabilities."
+  apc_equipment_2_desc:0 "A tracked chassis to navigate the blasted wasteland coupled with a twin coupled engine drive and alloy plating is the result of our engineers' effort into better AFVs for our mechanized divisions. A ramp system allows disembarking under armour protection, while external communication system for infantry support and a mounted autocannon considerably improve our offensive capabilities."
 
   apc_equipment_3:0 "Great War APC"
   apc_equipment_3_short:0 "Great War APC"
-  apc_equipment_3_desc:0 "Pre-war APCs are the top of the line in matter of what we can manufacture currently. Composite armour plating with spall liners, as well as Kevlar protection for crew and mounted infantry alike, will save the lives of many foot soldier. The short infantry support gun, capable of firing both high explosive and anti-tank shells, will also blast apart any fortified position, vehicle, or enemy that our boys on the ground may encounter."
+  apc_equipment_3_desc:0 "Pre-war APCs are the top of the line in matter of what we can manufacture currently. Composite armour plating with spall liners will save the lives of many foot soldier, while their short infantry support gun capable of firing both high explosive and anti-tank shells, will blast apart any fortified position, vehicle, or enemy that our boys on the ground may encounter."
 
 
  # Chariots
@@ -776,8 +788,8 @@
   payload_glider_equipment_1_short:0 "Bomb Gliders"
   payload_glider_equipment_1_desc:0 ""
 
-  air_chaff_equipment_1:0 "Air obstructions"
-  air_chaff_equipment_1_short:0 "Air obstructions"
+  air_chaff_equipment_1:0 "Barrage Ballons"
+  air_chaff_equipment_1_short:0 "Barrage Ballons"
   air_chaff_equipment_1_desc:0 ""
 
  # Special Equipments

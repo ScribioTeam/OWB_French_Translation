@@ -1,27 +1,298 @@
 ﻿l_english:
+  #Token
+  OPERATION_TOKEN_SMUGGLER:0 "Smuggler Infiltration"
+  OPERATION_TOKEN_SMUGGLER_DESC:0 "Has infiltrated the country's black market."
+
+  #Operations
   infiltration_submarine:0 "Deployment via Ship"
   infiltration_submarine_desc:0 "Agents will be delivered close to the shore by one of our merchant vessels. We have already reconnoitred possible landing sites and the timing of enemy patrols to avoid detection."
+
   infiltration_diplomatic:0 "Diplomatic Passage"
   infiltration_diplomatic_desc:0 "Agents will use their rights as diplomatic envoys of [Root.GetName] to enter the country and move around. We expect enemy counter-intelligence to try and tail them, but this can be overcome with sufficient training."
+
   resistance_support_organize_training:0 "Organize Trainingcamps"
   resistance_support_organize_training_desc:0 "Our agents will hold courses in escape & evasion skills as well as basic fieldcraft. The most promising students will then proceed to basic firearms training."
+
   exfiltration_submarine_pickup:0 "Pickup by Ship"
   exfiltration_submarine_pickup_desc:0 "One of our merchant vessels will be on station at a designated pickup point along the coast. Timing will be of the essence as enemy naval patrols do cover the area."
+
   resistance_contacts_radio_circuits:0 "Create Radio Transistors"
   resistance_contacts_radio_circuits_desc:0 "The team will distribute radios to resistance members and teach basic radio protocol, especially with an eye towards avoiding enemy radio-direction finding."
+
   operation_infiltrate_civilian:0 "Bribe Leadership."
   operation_infiltrate_civilian_desc:0 "§LThe [From.GetAdjective] government has numerous weakpoints through which we might infiltrate an agent into its operations. Doing so would give us valuable insight into the internal workings of [From.GetNameDef] as well as giving us an opportunity to utilize this agent in future operations against [From.GetNameDef].§!"
+
   operation_raid_country:0 "Raid The Treasury"
   operation_raid_country_desc:0 "We can raid [From.GetName]'s settlements for our own profit."
+
   operation_infiltrate_armed_forces_airforce:0 "Infiltrate Airforce"
   operation_infiltrate_armed_forces_airforce_desc:0 "§LThe [From.getAdjective] Air Force really impressive given that this is still a post-nuclear wasteland.  Neverhteless, probably should find out what  [From.GetAdjective] planes are carrying.§!"
+
   operation_infiltrate_armed_forces_army:0 "Infiltrate Army"
   operation_infiltrate_armed_forces_army_desc:0 "§LThe [From.GetAdjective] Army has a number of individuals in its ranks that could be turned to provide additional information and support for future operations.§!"
+
   operation_steal_tech_army:1 "Steal Army Secrets"
   operation_steal_tech_army_desc:0 "§LOur intelligence analysts believe that [From.GetNameDef] has made significant advances in the field of Ground Warfare and military engineering. A more thorough investigation, coupled with some more direct methods, might yield some valuable insight for our own research projects.§!"
+
   operation_steal_tech_civilian:1 "Steal Trade Secrets"
   operation_steal_tech_civilian_desc:0 "§L[From.GetNameDef] has managed, according to rumor, rival or even exceed prewar America in some areas.  We need to learn how, to save tomorrow's future from yesterday's mistakes. Namely, that we don't have those secrets. §!"
+
   infiltrate_military_bribe:0 "Bribe their Soldiers"
   infiltrate_military_bribe_desc:1 "It's quite a shame that some of [From.GetName]'s soldiers have run up gambling debts.  But at least those debts make them useful to us."
+
   infiltrate_military_seduction:0 "Apply Charms"
   infiltrate_military_seduction_desc:1 "Our Agent will enter into a very close and intimate relationship with someone on the inside to gain information and leverage on them. Although we aren't sure what a 'Fisto' is."
+
+  operation_steal_enemy_supplies:0 "Steal Enemy Supplies"
+  operation_steal_enemy_supplies_desc:0 "Having infiltrated the army we are able to siphon enemy supplies for our own use."
+
+  create_smuggling_ring:0 "Create a Smuggling Ring"
+  create_smuggling_ring_desc:0 "Moving chems and slaves from one place to another is just business. Why should we let some bossy government types get in our way"
+
+  create_kha_smuggling:0 "Begin Khan Distribution Efforts"
+  create_kha_smuggling_desc:0 "Who’s the greatest tribe of all time? The Khans are! So who’s the best at selling drugs? Damn right, it’s the Khans! We know more about making bucket-loads of caps off drugs than anyone else, and we’ll milk their addicts for every single cap!"
+
+  operation_smuggle_drugs:0 "Smuggle Chems"
+  operation_smuggle_drugs_desc:0 "So many chems, such varieties! Whenever I take Mentats, I can feel my entire chassis breeeeeathe like a big spherical lung. *coughs*"
+
+  sneak_drugs_past_the_border:0 "Ship Drugs In"
+  sneak_drugs_past_the_border_desc:0 "After some thorough cleaning, we’ve been able to get the drugs into the country. Time to find a buyer."
+
+  operation_smuggle_slaves:0 "Smuggle Slaves"
+  operation_smuggle_slaves_desc:0 "Ah, fresh meat.... Welcome ta the slaver's guild. The name's Aidan. Ya here on business? Ya better be."
+
+  operation_agitate_in_city:0 "Agitate in Mexico City"
+  operation_agitate_in_city_desc:0 "The people of Mexico City live under the thumb of our cruel enemies. By reminding them of their oppression we can increase resistance in the area."
+
+  operation_agitate_in_tumba:0 "Agitate in La Tumba"
+  operation_agitate_in_tumba_desc:0 "La Tumba has been captured by our enemies. Victory in the Flower Wars will require holding it as our own, meaning we should encourage the local population to act against their current rulers."
+
+  operation_agitate_in_hela:0 "Agitate in He'la' Uuchben Ts'oon"
+  operation_agitate_in_hela_desc:0 "We have lost He'la' Uuchben Ts'oon in our recent skirmishes. We must now resort to covert operations to destabilize our enemy's rule in the province."
+
+  operation_buy_in_neighbor:0 "Discretely Siphon Weapons"
+  operation_buy_in_neighbor_desc:0 "Despite [From.GetName]'s neutrality in the Flower Wars, their supply of weapons and lack of open hostility makes them a suitable target for under-the-table purchases."
+
+  operation_recruit_from_honduras:0 "Recruit Mercenaries from the Guerreros"
+  operation_recruit_from_honduras_desc:0 "Spending time as a mercenary is common practice for many Guerreros. Nearly all inhabitants are trained in some level of warfare, which makes the area perfect for mercenary recruitment schemes."
+
+  operation_weaken_tierra:0 "Weaken Tierra de los Tzotzil"
+  operation_weaken_tierra_desc:0 "The Tierra have languished on our southern border for too long. They make a formidable enemy in battle, and therefore should be dealt with using other means."
+
+  operation_support_tierra:0 "Support Tierra de los Tzotzil"
+  operation_support_tierra_desc:0 "The Tierra are under serious threat from our enemies in the Flower War. They could make a valuable ally, so long as we support their endeavors."
+
+  operation_spike_drugs:0 "Spike Costa Cafeinada's Drugs"
+  operation_spike_drugs_desc:0 "For a nation so reliant on chems, Costa Cafeinada sure takes its internal security lightly. Spiking the drug supplies of their soldiers and citizens should send them reeling."
+
+  operation_siphon_fuel:0 "Siphon Petro Chico's Fuel"
+  operation_siphon_fuel_desc:0 "Petro Chico is a nation built by machines. What do machines need? Fuel. They won't notice if a bit goes missing."
+
+  operation_siphon_research:0 "Siphon Petro Chico's Research"
+  operation_siphon_research_desc:0 "Our robotic neighbors to the north are quite advanced. This operation will bring our researchers serious benefits, but could also escalate tensions."
+
+  pose_refugees:0 "Pose as Refugees"
+  pose_refugees_desc:0 "Our conquests have sent many fleeing from their homes to nearby tribes. Sending our own agents to join their ranks might act as an easy way in to our target."
+
+  operation_burn_hangdogs:0 "Burn the Hangdogs' Dogs"
+  operation_burn_hangdogs_desc:0 "The dogs are the pride and joy of the Hangdogs. In order to defeat them we'll need to break their spirits, best done through a violent show of cruelty."
+
+  operation_pillage_ttm:0 "Salt Diana's Earth"
+  operation_pillage_ttm_desc:0 "The people of The Twin Mothers thrive off their agriculture. We have ways, however, of taking their greatest achievement and reducing it to salt and ash."
+
+  operation_destroy_monuments:0 "Desecrate Their Monuments"
+  operation_destroy_monuments_desc:0 "A tribe’s faith is central to their identity. By systematically attacking their symbols of it we can weaken the very fabric of their culture, massively destabilizing them."
+
+  operation_kill_town:0 "Terrorize a Village"
+  operation_kill_town_desc:0 "Many of our enemy's villages are small, isolated communities. We can take advantage of their isolation to make a cruel example of their townsfolk."
+
+  operation_scorch_earth:0 "Scorch the Earth"
+  operation_scorch_earth_desc:0 "We've already lost significant territory to the enemy. By sending our operatives behind enemy lines we might be able to disrupt their logistics and slow their advance."
+
+  legion_raid_generic:0 "Raid Enemy Territory"
+  legion_raid_generic_desc:0 "Our enemies are overstretched, and our operatives can make them pay the price. By taking a small team to attack an isolated military target we'll remind them that their hold on their own territory is always weakening."
+
+  legion_raid_mojave_territories:0 "Make Trouble in the Mojave"
+  legion_raid_mojave_territories_desc:0 "The NCR's Mojave Expedition constantly teters on the brink of disaster. Swift and decisive attacks from our operatives might push it over the edge into a rapid collapse."
+
+  operation_repconn:0 "Survey REPCONN Headquarters"
+  operation_repconn_desc:0 "The REPCONN Headquarters, located in [380.GetName], is no doubt full of interesting tech and salvage. The possibilities are endless, and might lead to breakthroughs in our own flight research."
+
+  operation_vertibird:0 "Investigate the Vertibird Graveyard"
+  operation_vertibird_desc:0 "From what we understand, this junk pile contains a massive amount of vertibird parts and schematics. Visiting it could be the key to unlocking our own ability to produce them."
+
+  operation_yuma:0 "Explore the Yuma Caves"
+  operation_yuma_desc:0 "That traveler's lead is promising, and his evidence convincing enough. It may not be a popular decision, but we must pursue every lead!"
+
+  operation_deflate_schemes:0 "Concoct a Deflation Scheme"
+  operation_deflate_schemes_desc:0 "[From.GetName] is in the progress of forming a sustainable political body, which necessitates a sustainable economic system. We have an opportunity to disrupt their economy by executing a deflation scheme, therefore prompting an efflux of currency from their coffers. They’ll counter this, of course, but it will cost them both time and resources."
+
+  operation_interrupt_deal:0 "Interrupt Weapons Deal"
+  operation_interrupt_deal_desc:0 "We've caught win of a deal going on between the Van Graffs and Legion. With enough convincing we can push the Van Graffs into giving us 'first dibs', so to speak."
+
+  operation_nuke_vp:0 "Dirty Bomb Attack"
+  operation_nuke_vp_desc:0 "The various nuclear devices sitting in storage would probably be better off in the enemy's hands, so to speak."
+
+  #Operation Phases
+  make_underworld_connections:0 "Make Underworld Connections"
+  make_underworld_connections_desc:0 "We know a pack of drugged-out killers. They're addicted to every stim, every pill, every psychoactive enema on this fucked-up Earth. Let’s see if they’ll work with us."
+  make_underworld_connections_outcome:0 "The thugs will work with us.  Little do they know we can always find new scum to trade with."
+
+  build_a_distribution_network:0 "Find Buyers"
+  build_a_distribution_network_desc:0 "Quite a few people will take a hit of jet even if their government bans it. We are just meeting demand."
+  build_a_distribution_network_outcome:0 "We found buyers for our new products! Huzzah! And have a free sample."
+
+  take_stock:0 "Prepare Our Methods"
+  take_stock_desc:0 "There are several ways we hope to reduce their currency count. The first is honest selling, where we offload various high demand goods. That can only go so far however, which is when our... other... methods become useful."
+  take_stock_outcome:0 "We made sure all our plans were in place, then made our move."
+
+  steal_everything:0 "Journey Through Their Land"
+  steal_everything_desc:0 "We’ll then make our way from town to town, denting their currency supply however we can. A thousand small cuts can kill a man, a statement we hope to apply to their economy."
+  steal_everything_outcome:0 "Our travels bore fruit, and neither soldiers nor the average townsperson noticed a thing."
+
+  leave_country:0 "Withdraw from the Country"
+  leave_country_desc:0 "Having traded our products, we should think about heading home. This is a nice place to visit, but I wouldn’t want to live here."
+  leave_country_outcome:0 "With happy customers, and their caps in hand, it’s time to go home."
+  leave_country_outcome_fail:0 "However, despite their best efforts, our operative was revealed while attempting to escape!"
+
+  pose_drug_peddlers:0 "Pose as Chem Peddlers"
+  pose_drug_peddlers_desc:0 "The Fiends have a well-known enthusiasm for chems, which we can exploit by pretending we'll sell them some. Instead, we'll use this access to their territory as a way to reach our destination."
+  pose_drug_peddlers_outcome:0 "They fell for it without a second thought. The ploy was as easy as giving jet to a baby."
+
+  distribute_the_drugs_to_distributors:0 "Distribute the Goods"
+  distribute_the_drugs_to_distributors_desc:0 "We didn’t come all this way to do drugs.  We came here to find a ready buyer!"
+  distribute_the_drugs_to_distributors_outcome:0 "We have made some new friends who will sell the drugs for us. How thoughtful."
+
+  sneak_slaves_past_the_border:0 "Sneak Slaves In"
+  sneak_slaves_past_the_border_desc:0 "We’ll have to smuggle slaves into the country.  If anyone asks, they’re long-term workers on burdensome contracts."
+  sneak_slaves_past_the_border_outcome:0 "Excellent! Our Guest Workers have gotten into the country with no questions asked."
+
+  hold_secret_auctions:0 "Secret Auctions"
+  hold_secret_auctions_desc:0 "There’s nothing wrong with bidding on labour contracts. So what if the workers can’t say no?"
+  hold_secret_auctions_outcome:0 "We made a pretty cap on the auctions. Time to head home."
+
+  buy_from_officers:0 "Buy From Low-level Officials"
+  buy_from_officers_desc:0 "Although the top ranks may be unwilling to make a deal, we're certain we can convince various officers to siphon a few extra guns."
+  buy_from_officers_outcome:0 "It wasn't free, but we managed to buy some weapons discretely."
+
+  recruit_mercs:0 "Find and Recruit Mercenaries"
+  recruit_mercs_desc:0 "Many villages are filled with able-bodied fighters, just looking for work. We'll find them and convince them to sign with us."
+  recruit_mercs_outcome:0 "Our manpower has grown sizeably due to our actions here. This is a notable success."
+
+  lace_supplies:0 "Lace the Drug Supplies"
+  lace_supplies_desc:0 "Now that we've entered the country, time to do the dirty work. We'll lace their chem supplies with all sorts of dangerous chemicals."
+  lace_supplies_outcome:0 "They'll certainly realize that their chems have been laced, although not who did it."
+
+  root_out_enemies:0 "Root out Enemy Operatives"
+  root_out_enemies_desc:0 "Enemy operatives have been known to be working against our allies here. Uncovering them will certainly help our cause."
+  root_out_enemies_outcome:0 "Anti-government efforts in the region have been quashed, propping up our allies."
+
+  quiet_buy:0 "Quietly Purchase Fuel"
+  quiet_buy_desc:0 "Buying fuel from lower-level officials will be a convenient way to siphon fuel from [From.GetName]'s stockpile."
+  quiet_buy_outcome:0 "We've managed to sneak some incoming fuel from reaching their stockpile. They'll notice eventully, but it'll work for a while."
+
+  hack_scientists:0 "Hack Robotic Researchers"
+  hack_scientists_desc:0 "Using robots as lab assistants can facilitate the research process. It can also leave major discoveries open to easy theft, which we hope to take advantage of."
+  hack_scientists_outcome:0 "Our hacking teams have accessed and copied research breakthroughs, with the researchers none the wiser."
+
+  return_to_frontline:0 "Return to Our Frontline"
+  return_to_frontline_desc:0 "Once the operation is complete our agents will link up with the nearest contingent of soldiers, ensuring their safe escape."
+  return_to_frontline_outcome:0 "Finally, our agents safetly returned to our frontline, shielding them from any pursuers."
+
+  burn_dogs:0 "Roast Their Dogs"
+  burn_dogs_desc:0 "The Hangdogs love nothing more than their precious pets. We’ll spread terror throughout the region by making a vicious show of killing them."
+  burn_dogs_outcome:0 "We’ve made sure that they had an unforgettable night. They’ll no doubt submit easily as our soldiers march through."
+
+  pillage_ttm_fields:0 "Pillage Their Fields"
+  pillage_ttm_fields_desc:0 "Their 'Goddess' has bestowed a thriving agriculture upon them. Fire, sword, and salt will take it all away."
+  pillage_ttm_fields_outcome:0 "Their plants have been burnt, and their earth salted. We've made sure many of them will go hungry this next winter."
+
+  crucify_them:0 "Crucify the Profligates"
+  crucify_them_desc:0 "Gluttony and sloth is a way of life in [From.GetName]’s towns. We’ll single one out, turn them against each other, and lash them all to crosses."
+  crucify_them_outcome:0 "We gave them all hope, and slowly took it away, leaving only a few alive. The smoke could be seen for miles. And the smell? It will never leave the town’s streets."
+
+  attack_checkpoint:0 "Attack Military Checkpoint"
+  attack_checkpoint_desc:0 "A small team will quickly raid one of the enemy's checkpoints, stealing weapons and damaging their hold on the area."
+  attack_checkpoint_outcome:0 "We've raided a checkpoint and severly hurt their ability to maintain control."
+
+  train_moj_jackals:0 "Train the Jackals"
+  train_moj_jackals_desc:0 "The once mighty Jackal gang has fallen on hard times recently. By spending resources to have our frumentari train them we can help bring them back up to par with NCR soldiers."
+  train_moj_jackals_outcome:0 "The Jackals seem to have benefitted from our teachings. Hopefully they'll be more effective in future confrontations."
+
+  train_moj_vipers:0 "Advise the Great Snakekeeper"
+  train_moj_vipers_desc:0 "The religion of the Viper Gang centers around their fierce loyalty to their leader, the Great Snakekeeper. Convincing him to ally with the Legion could refocus the Vipers on harassing and disrupting the NCR forces in the region."
+  train_moj_vipers_outcome:0 "The Great Snakekeeper listened well to our wise words, and will be directing his followers to exclusively attack the NCR, at least for now."
+
+  lure_geckos:0 "Place Lures for Geckos"
+  lure_geckos_desc:0 "Mojave geckos are infamous to explorers of the region, but they tend to shy away from major roads. Placing bait and lures throughout the Mojave could help facilitate aggressive behaviour, making the NCR's job all the harder."
+  lure_geckos_outcome:0 "The geckos loved our bait so much we barely managed to avoid them on the way out! The NCR will certainly have a hard time with this."
+
+  destroy_totems:0 "Destroy Religious Totems"
+  destroy_totems_desc:0 "These tribals seem to have various gods they worship dearly. We’ll quietly desecrate their monuments and totems, demoralizing their will and using their own faith against them."
+  destroy_totems_outcome:0 "We’ve destroyed some of the icons they hold dearest, weakening their will to resist."
+
+  scavenge_facility:0 "Scavenge Old Facility"
+  scavenge_facility_desc:0 "Our scouts have noted several old facilities in the area that could be ripe for scavenging. Our operative will take a small team, raid the facility, and return with what they find."
+  scavenge_facility_outcome:0 "The raid was a success, and our men are returning with the goodies they've found."
+
+  infiltrate_vertibird:0 "Infiltrate Via Vertibird"
+  infiltrate_vertibird_desc:0 "What operational vertibirds we still control work perfectly for troop transport and infiltration."
+  infiltrate_vertibird_outcome:0 "Our Vertibird deftly avoided enemy surveillance and safetly landed in enemy territory."
+
+  exfiltrate_vertibird:0 "Exfiltrate Via Vertibird"
+  exfiltrate_vertibird_desc:0 "The nearby vertibirds will provide the perfect opportunity for our operatives to escape the locale."
+  exfiltrate_vertibird_outcome:0 "Our operative rendezvoused with the vertibird safetly and left the area."
+
+  long_march:0 "Travel North"
+  long_march_desc:0 "Sadly, [329.GetName] is far from Hidden Valley. To get there we'll need to send our operatives on a grueling treck to the north. This sadly necessitates that they'll be unable to contact us for a while."
+  long_march_outcome:0 "The journey was perilous, but our operatives managed to reach the vertibird graveyard."
+
+  search_graveyard:0 "Search the Graveyard"
+  search_graveyard_desc:0 "Next, our operatives will take copious notes and pictures of what they do find. Their findings will be of critical importance in helping us recreate these vertibirds."
+  search_graveyard_outcome:0 "Our operatives studied these vertibirds closely, and even managed to repair one! Their findings will be invaluable to our research."
+
+  stowaway_moj:0 "Hitch a Ride with Traders"
+  stowaway_moj_desc:0 "Boat travel from the Mojave to Mexico isn't the most popular route, but there's enough traders that take the route that we should be able to find one who's willing to accommodate our operatives."
+  stowaway_moj_outcome:0 "Our operatives made contact with a cooperative trader who agreed to transport them."
+
+  search_yuma_caves:0 "Search the Yuma Caves"
+  search_yuma_caves_desc:0 "With the traveler's directions we'll locate and explore the caves."
+  search_yuma_caves_outcome:0 "This was where our operatives' problems began. They found the caves, but they had been heavily looted, with only scraps left. Even worse, venomous pit snakes had made the caves their home, forcing us to make a hasty retreat."
+
+  sad_return:0 "Return Home"
+  sad_return_desc:0 "Finally, we'll meet back with our trader and return to the Mojave."
+  sad_return_outcome:0 "Thankfully, our trader was still waiting for us by the time we returned. The expedition returned virtually empty-handed, but luckily avoided complete disaster."
+
+  meet_van_graffs:0 "Meet With the Van Graffs"
+  meet_van_graffs_desc:0 "We have a troubled history with the Van Graffs. Still, we know them well enough to understand that enough caps will have them singing our tune."
+  meet_van_graffs_outcome:0 "After some haggling, they agreed to our proposal."
+
+  setup_bust:0 "Meet With the Van Graffs"
+  setup_bust_desc:0 "We have a troubled history with the Van Graffs. Still, we know them well enough to understand that enough caps will have them singing our tune."
+  setup_bust_outcome:0 "They met the Legion at the designated place and time, but our troopers made sure to make quite the impression on the Legion pickup team."
+
+  construct_dirty_bomb:0 "Construct a Dirty Bomb"
+  construct_dirty_bomb_desc:0 "By combining our various nukes we can create a dirty bomb, a weapon designed to irradiate a large area."
+  construct_dirty_bomb_outcome:0 "We built the bomb and trained men to deploy it."
+
+  use_dirty_bomb:0 "Deploy the Dirty Bomb"
+  use_dirty_bomb_desc:0 "We'll conscript a few fanatical fighters to deploy the dirty bomb in a major population location."
+  use_dirty_bomb_outcome:0 "Those who deployed it died, of course, but it was a worthy sacrifice. This has been a major success."
+
+  # Tooltips
+  1_leg_ops_tt:0 "Gained [?slaves_to_add|G]k slaves."
+  2_leg_ops_tt:0 "This operation will give us a §Gbonus reward§! of either army experience or an operative trait!"
+  3_leg_ops_tt:0 "Buildings take §R15% longer§! to build in the targeted state for §Y180 days§!."
+  4_leg_ops_tt:0 "We'll sabotage their infastructure, and with any luck also decrease their building speed."
+  5_leg_ops_tt:0 "We've destroyed much of their agricultural infastructure, the backbone of their nation."
+  6_leg_ops_tt:0 "News of this destruction is bound to spread across our nation. It will cost us:\n§R-7% Stability§!\n§R-10% War Support§!"
+  7_leg_ops_tt:0 "News of these attacks is bound to spread across our nation. It will cost us:\n§R-10% Stability§!\n§R-5% War Support§!"
+  8_leg_ops_tt:0 "We'll send a small group of elite forces, led by our operative, to raid an NCR checkpoint."
+
+  1_kha_ops_tt:0 "Our §Ycaps income§! will §Gincrease§!!"
+  2_kha_ops_tt:0 "Our §Ycaps income§! has §Gincreased§!!"
+  3_kha_ops_tt:0 "Our §Ycaps income§! has §Rdecreased§!!"
+
+  operation_raid_country_tt:0 "Our raid was a §Gsuccess!§!"
+  operation_nuke_vp_tt:0 "We will deploy a §Ydirty bomb§! against them!"
+  operation_nuke_vp_result_tt:0 "The dirty bomb went off as planned, turning the area into a radioactive hellhole."

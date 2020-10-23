@@ -1,0 +1,35 @@
+﻿l_english:
+    #Events
+    spy_events.1.t:0 "Drug Smuggling"
+    spy_events.1.d:0 "There have been reports of drug smuggling in our country. This is a serious problem and must be deal with at once."
+    spy_events.1.a:0 "Stop the drug trade"
+    spy_events.1.b:0 "People deserve to take a shot once in a while"
+    spy_events.2.t:0 "Slave Smuggling"
+    spy_events.2.d:0 "There have been reports of slave smuggling in our country. This is a serious problem and must be deal with at once."
+    spy_events.2.a:0 "Stop the slave trade"
+    spy_events.2.b:0 "Save the slaves but put them in debt for rescuing them"
+    spy_events.2.c:0 "If they can afford a personal slave they can keep it!"
+
+    spy_events.3.t:0 "Deflation!"
+    spy_events.3.d:0 "It began as a small thing at first—a bit less to spend, a smaller loaf of bread at the end of the day. It took our top experts weeks to realize what was going on, and even longer to raise the alarm.\n\nIt seems our nation has fallen into a currency shortage, reducing the average person’s spending power, and therefore our economic growth. We have countermeasures, such as increasing borrowing and economic stimulation, but such practices won’t be easy to implement, nor come without their own cost."
+    spy_events.3.a:0 "We can't let this happen again."
+
+    spy_events.4.t:0 "Economic Recovery"
+    spy_events.4.d:0 "Our economists have reported nothing but good news over the past few days. Our economy seems to be recovering, and our people are spending again! The various measures we’ve taken seem to have paid off, and we’re hoping to see a small economic boom coming off this crisis."
+    spy_events.4.a:0 "Good!"
+
+    leg_ops_evnt.1.t:0 "Our Dogs Lit Aflame"
+    leg_ops_evnt.1.d:0 "We learned yesterday that the savagery of the Legion knows no bounds.\n\nOne of their operatives managed to infiltrate our kennels, douse them in gasoline, and light it aflame. The howls and whimpers could be heard for miles, but there was nothing we could do.\n\nThe flames were simply too great."
+    leg_ops_evnt.1.a:0 "We shall have revenge, whatever the cost!"
+
+    leg_ops_evnt.2.t:0 "The Horror"
+    leg_ops_evnt.2.d:0 "The first reports came from a lone agent crossing through the area:\nMen and women nailed to crosses, bodies heaped in a smoldering pile, and one man in the center of it all, cackling at his good fortune. The town they targeted served no strategic purpose. There were no soldiers or officers stationed there.\n\nThey killed them in order to make us fear."
+    leg_ops_evnt.2.a:0 "The Legion has advanced this far?"
+
+    leg_ops_evnt.3.t:0 "The Gods' Wrath"
+    leg_ops_evnt.3.d:0 "Many of our people awoke yesterday to find their monuments and idols to our gods smashed and defaced. Although some say this is an indication of disfavor and anger from our dieties, we instead believe that the Legion may have sent operatives to attack our cultural sites in an attempt to demoralize us. We'll do what we can to apprehend these demons, but for now their attacks seem to have caused the intended effect."
+    leg_ops_evnt.3.a:0 "We will make sacrifices to appease them!"
+
+    leg_ops_evnt.4.t:0 "Salt Upon Our Earth"
+    leg_ops_evnt.4.d:0 "It seems that the Legion not only disrespects their fellow man, but will go so far as to attack the earth itself. I’ve learned from my children that a number of their operatives have recently attacked and seriously damaged our best farmland. This is certain to impact our ability to feed our people, and it’s made all the worse by the Legion’s recent invasion. The next few winters will be difficult indeed."
+    leg_ops_evnt.4.a:0 "§CThey dare to pillage my gifts?§!"

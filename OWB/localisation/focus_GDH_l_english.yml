@@ -206,7 +206,9 @@
   gdh_baja_arms_desc:0 ""
 
   gdh_baja_purchase:0 "The Baja Purchase"
-  gdh_baja_purchase_desc:0 ""
+  gdh_baja_purchase_desc:0 "The Legion is overstretched, and really doesn't want or need Baja. In contrast, our acquisition would give us control over the Sea of Cortez! Soon to be the Sea of Vialla!"
+	ces_owns_baja_states_tt: "[CES.GetName] or a subject owns the Baja Penninsula."
+
 
   gdh_ranger_mission:0 "Rio's Roughnecks"
   gdh_ranger_mission_desc:0 "The Republic of Rio Grande's army has a thing or two to teach us. Why not learn from our new customers?"

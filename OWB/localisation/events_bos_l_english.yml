@@ -89,19 +89,21 @@
   nf_brotherhood.20.d: "Honouring our trade, the Desert Rangers have sent a large detachment of their soldiers to support us."
   nf_brotherhood.20.a: "Welcome to the Brotherhood of Steel"
 
+  #Demand the Bay
   nf_brotherhood.22.t: "Demand The Bay"
-  nf_brotherhood.22.d: "With the recent conquest and occupation of San-Francisco we are one step closer to fully securing the Bay Area. Now that our hold of the area is undisputed we should make a demand of the NCR to hand over Point-Green to us. Although not particularly important strategically, the location has good infrastructure that would allow us to expand our operations in the bay - and it would also provide a crucial buffer leading up to the Golden Gate Bridge."
+  nf_brotherhood.22.d: "Our hold of the greater Bay Area area is undisputed we should make a demand of the NCR to hand over this area to us. Although not particularly important strategically, the location has good infrastructure that would allow us to expand our operations in the bay - and it would also provide a crucial buffer leading up to the Golden Gate Bridge."
   nf_brotherhood.22.a: "Send the demand immediately."
 
   nf_brotherhood.23.t: "The Brotherhood's Ultimatum."
-  nf_brotherhood.23.d: "After the worrying news of the Brotherhood annexing the Shi reached Shady Sands, it was almost immediately followed by a demand from the Brotherhood themselves. Looking to finally secure their grasp on the Bay Area once and for all, the Brotherhood are demanding that we hand over control of Point-Green to them. Point-Green, while not rural in any respect, is also not a significantly important part of the NCR as a whole. The Brotherhood have assured us that handing over the area would be a strong step in the right direction for future cooperation."
+  nf_brotherhood.23.d: "We have received a demand from the Brotherhood themselves. Looking to finally secure their grasp on the Bay Area once and for all, the Brotherhood are demanding that we hand over Santa Rosa, San-Rafael and Point-Green to them. The fact that they are sending this demand while our rangers are busy will cause the public to panic if we refuse openly - after all, the last time this happened the Brotherhood was able to sack our gold reserves."
   nf_brotherhood.23.a: "Point-Green? They can have it."
   nf_brotherhood.23.b: "To hell with that!"
 
   nf_brotherhood.24.t: "The NCR Refuse!"
-  nf_brotherhood.24.d: "Only a couple of days after sending our demand to the NCR, we were sent a message in return; the contents of which are not agreeable. The NCR has decried our demand and insists that Point-Green is theirs, and shall remain theirs. It appears that any hope of securing the bay without provoking war have been dashed."
+  nf_brotherhood.24.d: "Only a couple of days after sending our demand to the NCR, we were sent a message in return; the contents of which are not agreeable. The NCR has decried our demand and insists that the Bay Area is theirs, and shall remain theirs. It appears that any hope of securing the bay without provoking war have been dashed."
   nf_brotherhood.24.a: "So be it."
 
+  #Nobody ever put in loc for this one lol
   nf_brotherhood.26.t: "Victory or Death"
   nf_brotherhood.26.d: ""
   nf_brotherhood.26.a: ""

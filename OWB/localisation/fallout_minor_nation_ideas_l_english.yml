@@ -32,7 +32,7 @@
 
   #SYN
   syilx_council_of_eight:0 "The Council of Eight"
-  syilx_council_of_eight_desc:0 "The Syilx Nation is governed by the Chiefs Executive Council, a council composed of the seven Nation Chiefs and the Coleville Confederated Tribes' Chairman of the Nation. The Council holds regular meetings to decide on areas of concern and matters arising, and works to protect the Nation's people, land and resources."
+  syilx_council_of_eight_desc:0 "The Syilx Nation is governed by the Chiefs Executive Council, composed of the seven Nation Chiefs and the Coleville Confederated Tribes' Chairman of the Nation. The Council holds regular meetings to decide on areas of concern and and works to protect the Nation's people, land, and resources."
   syilx_captikwl:0 "captíkwł"
   syilx_captikwl_desc:0 "captíkwł are teachings about Sylix principles, customs, values, laws and structures that inform the responsibilities and rights of the Sylix to their land. They serve as both natural laws and part of a cultural renewal and revitalization process. The laws teach the Syilx people how to survive in their lands, and are passed on to each young person in the Nation."
 
@@ -83,7 +83,7 @@
   asf_the_memorabilia:0 "The \"Memorabilia\""
   asf_the_memorabilia_desc:0 "The greatest mission of the Santa Fe Archdiocese is to preserve the \"Memorabilia\" of the Old World, writings that have survived the Great War and the Chaos that followed it. Through hiding, smuggling, memorizing and copying Old World writings, they have made great strides to the day."
   asf_legacy_of_saint_leibowitz:0 "The Legacy of Saint Leibowitz"
-  asf_legacy_of_saint_leibowitz_desc:0 "Saint Leibowitz was an electrical engineer before the Great War. When the bombs fell he fled the military base he worked in, seeking refuge from the nuclear fire in one of the Churches of the Archdiocese of Santa Fe. There he became a monk in the order, becoming one of the Archdiocese's best agents. Betrayed by his close fried, Leibowitz became a Martyr. Years later, he was canonized by the 102nd Archbishop in recognition for his work protecting valuable remnants of the Old World."
+  asf_legacy_of_saint_leibowitz_desc:0 "Saint Leibowitz was an electrical engineer before the Great War. When the bombs fell he fled the military base he worked in, seeking refuge from the nuclear fire in one of the Churches of the Archdiocese of Santa Fe. There he became a monk in the order, becoming one of the Archdiocese's best agents. Betrayed by his close fried, Leibowitz became a Martyr. Years later, he was canonized by the 102nd Archbishop in recognition for his work protecting valuable remnants of the Old World. The monks continue to guard his relics, but would rather lose their lives than see them lost."
 
 
   #EDA
@@ -94,23 +94,23 @@
 
   #WHI
   whi_burden_of_a_nation:0 "Burden of a Nation"
-  whi_burden_of_a_nation_desc:0 "After the massacre of the Elders of the Whistler at the hands of the Kamlo Survivalists, it fell upon the young to continue the memories of their tribe. Lacking the years of experience necessary to properly assume this duty, the weight of the nation bears down on the nation. Often sacrifices need to be made in order to ensure Whistler's heritage is continued."
+  whi_burden_of_a_nation_desc:0 "After the massacre of the Elders of the Whistler at the hands of the Kamlo Survivalists, it fell upon the young to continue the memories of their tribe. Lacking the years of experience necessary to properly assume this duty, the burdens of ruling weigh heavily on the young administration. Often sacrifices need to be made in order to ensure Whistler's heritage is continued."
   whi_bitter_resistance:0 "Bitter Resistance"
   whi_bitter_resistance_desc:0 "We know those from Kamlo will come once more for our women and children, determined to strip us of our wealth and family. We must be prepared for that day, and make we are ready to crush them before they can repeat the horrors of our last conflict."
 
   #KAM
   kam_sourge_of_the_whiteout:0 "Scourge of the Whiteout"
-  kam_sourge_of_the_whiteout_desc:0 "The Kamlo Survivalists know only the ways of surviving in the wasteland: extorting through terror. By ruling with an iron fist over the few settlements in the Great White Wastes of Canada, they eek out a sustainable existence."
+  kam_sourge_of_the_whiteout_desc:0 "The Kamlo Survivalists know only the ways of surviving in the wasteland: terror and extortion. By ruling with an iron fist over the few settlements in the Great White Wastes of Canada, they eke out a living. But some of them wonder if there is more to life in the fat, warm lands to the south. And they will go and find it."
 
   #DRE
   dre_mining_economy:0 "Mining Economy"
-  dre_mining_economy_desc:0 "A union of varying mining settlements across what was parts of British Columbia, the Dredgers make a living from the resources buried deep beneath their settlements. Making use of robots to both mine the resources vital to their trade, and to defend their lands, the Dredgers have become a refuge for settlers and robots alike fleeing the terrors of the Kamlo Survivalists and Broken Coast."
+  dre_mining_economy_desc:0 "A union of varying mining settlements across what was once British Columbia, the Dredgers make a living from the resources buried deep beneath their settlements. Making use of robots to both mine the resources vital to their trade, to defend their lands, the Dredgers have become a refuge for settlers and robots alike fleeing the terrors of the Kamlo Survivalists and Broken Coast."
 
   #VIC
   vic_strait_of_georgia_defence_fleet:0 "Strait of Georgia Defence Fleet"
-  vic_strait_of_georgia_defence_fleet_desc:0 "The main defence between New Victoria and her enemies is the Strait of Georgia, flanking New Victoria to the North and East. By maintaining a fast and nimble fleet, we can defend our shores against the raiders and tribal that infest Canada until we can find our strength to return."
+  vic_strait_of_georgia_defence_fleet_desc:0 "The main defence between New Victoria and her enemies is the Strait of Georgia, flanking New Victoria to the North and East. By maintaining a fast and nimble fleet, we can defend our shores against the raiders and tribals that infest Canada until we can find our strength to return."
   vic_cascadian_heriatge:0 "Cascadian Heritage"
-  vic_cascadian_heriatge_desc:0 "Ruled by a monarchy that descends from Old World Canadian Politicians, New Victoria can claim descendence from both Canada and Cascadia due to the monarchys' old ties."
+  vic_cascadian_heriatge_desc:0 "Ruled by a monarchy that descends from Old World Canadian Politicians, New Victoria can claim descent from both Canada and Cascadia due to the monarchys' old ties."
   can_form_cascadia_tt:0 "Can form §RCascadia§!, should we own all §Ocores§! of the §OBroken Coast§!."
 
   #RAP
@@ -137,6 +137,11 @@
   tvr_the_merchant_class:0 "The Merchant Class"
   tvr_the_merchant_class_desc:0 "The vast majority of our ruling class comes from merchants who left the Aztlan Empire after their defeat at the hands of Tlaloc. As a result, we are remarkably efficient at all matters pertaining to trade."
 
+  # UIN
+  uin_ute_heritage: "Ute Heritage"
+  uin_ute_heritage_desc: "The town of Eagle Rock is primarily composed of wastelanders and refugees from the disgraced tribes of the Daughters of Hecate. There is, however a signifiant population here that originated from the Uintah Reservation, one of the ancient homes of the Ute people."
+  uin_eagle_rock_airfield: "Eagle Rock Airfield"
+  uin_eagle_rock_airfield_desc: "When settlers began arriving to the abandoned town of Eagle Rock they discovered a airfield there. For many tribals they saw great potential in being able to soar above the skies and see what lies beyond the clouds. To the tribals of Eagle Rock the sky is a safe haven - the great Zephyr protecting you from harm, worries or troubles while in their embrace."
   #YAK
   yak_the_forest_of_the_elders:0 "The Forest of the Elders"
   yak_the_forest_of_the_elders_desc:0 "Much of the Yakama Nation's traditional land is covered in vast timber forests. Many trees in the forest were planted by Elders of the tribe, and each generation of the Nation maintains the forest for future generations."
@@ -172,3 +177,84 @@
   rot_eternal_quest:0 "The Eternal Quest of the Pure"
   rot_eternal_quest_desc:0 "Ever since out exile from Vault 100, our rightful home, we have been plotting our vengence. Armed with flamers, our prefered Ghoul-exterminating weapon, and three generations of training and planning, we are finally ready to reclaim our home. We will make Spokane §Rburn bright§! in the night, if that's what it takes to kill the ghouls once and for all."
   rot_eternal_quest_tt:0 "Our §Rhatred§! of those twisted by radiation means we §Rcannot§! choose to recruit any form of §Omutants§!.\n"
+
+  #FIE
+  fie_drug_monopoly:0 "Mojave Drug Monopoly"
+  fie_drug_monopoly_desc:0 "The Fiends have a near total monopoly on the flow of chems throughout the Mojave, assisted by their suppliers from the Great Khans and New Reno. The chem trade is incredibly lucrative, especially when the locals of the Mojave live such a depressing life."
+  fie_strength_in_numbers:0 "Strength in Numbers"
+  fie_strength_in_numbers_desc:0 "What the Fiends may lack in brains or technological edge, they more than make up for in numbers. Strangely enough, there's no shortage of down-on-their-luck chem addicts in the waste that is the Mojave."
+
+  #COW
+  cow_remnants_of_rangers:0 "Remnants of the Arizona Rangers"
+  cow_remnants_of_rangers_desc:0 "The Arizona Rangers, pledged to protecting the vulnerable from those who sought to subjugate them, have been fighting a decade-long conflict with Caesar's Legion and his brainwashed soldiers. While the Rangers were well trained and armed to the teeth, in the face of the Legion's overwhelming numbers they have been slowly forced to abandon more and more territory. After their defeat by the Malpais Legate in 2271, most of what remained of the Arizona Rangers fled over the Colorado to  join the New California Republic. A small splinter chose instead to flee south to the last group of free settlements in Arizona: afectionately dubbed 'Cowboy Country'. While far too few Rangers remain for the group to claim leadership over the area, their military training and spec-ops expertise has a significant impact on the Cowboy Country."
+  cow_bastion_of_liberty:0 "Arizona's Last Bastion of Liberty"
+  cow_bastion_of_liberty_desc:0 "The Legion has overrun Arizona, and threatens the life and liberty of everyone it claims overlordship over. While many refugees managed to flee from the Legion's armies, many more became slaves to Caesar's men. We must not let this happen to the men and women of the Cowboy Country: no matter the cost."
+
+  #KLA
+  KLA_gecko_abundance:0 "Gecko Abundance"
+  KLA_gecko_abundance_desc:0 "Klamath earns enough money from trapping and skinning the near infinite supply of geckos to ensure the settlement survives and thrives. Some poor fools still fall victim to them, however."
+  KLA_professional_trappers:0 "Professional Trappers"
+  KLA_professional_trappers_desc:0 "While Klamath's residents are best equipped for trapping geckos, if push came to shove they could conceivably use their skills for other means. If the trap can kill a gecko, you don't want to imagine what it can do to some poor raider's leg..."
+
+  #PMR
+  PMR_slaves_and_drugs:0 "Slaves and Drugs"
+  PMR_slaves_and_drugs_desc:0 "Port Maw's economy is driven almost completetly by the sale of slaves and drugs. While the trade may neither be moral nor terribly profitable, Port Maw's unqiue status as one of the few non-cannibal settlements in Oregan means they get a suprising amount of customers. After all, it's better to be hooked on Psyco than in a cannibal's stew."
+  PMR_wannabe_criminal_empire:0 "Wannabe Criminal Empire"
+  PMR_wannabe_criminal_empire_desc:0 "The gangs of Port Maw have their eyes set on a high prize: to be the hub of a vast criminal empire trading in slaves, smuggled goods and caps. Sadly they face a fair bit of competition, with drugs pouring out of The Den and New Reno, while slaves are readily traded along the northen coastlines. Regardless, the promise of future glory encourages swathes of desperate young people with no other life prospects to join the gangs. Poor buggers."
+
+  #BEl
+  bel_bellingham_for_battle: "Bellingham for Battle"
+  bel_bellingham_for_battle_desc: "The city of Bellingham, due to its proximity to the Trans-Alaskan Pipeline, was a key location during the American-Canadian conflict. Many of the Ghouls living in the city today remember those battles, fought in them even.\n\nThey won't go quietly."#
+  bel_spirit_of_liberty:0 "Liberty's Lingering Spirit"
+  bel_spirit_of_liberty_desc:0 "American propaganda was strong in the years before the Great War, leaving deep impressions on those who called America their home. Indeed, American propaganda was so strong that it still has a lasting effect on the ghouls of Bellingham some 200 years later. The emphasis on liberty, and American world dominance, have become key to Bellingham's fiercely independent culture."
+
+  #BLP / BVC
+  baja_banditos:0 "Baja Banditos"
+  baja_banditos_desc:0 "The two great criminal gangs of the Baja, the Paz Bandits and the Valle Bandits, are masters of their trade. Combining the experitse of the two gangs, and their skilled leaders, the \"Baja Banditos\" run an enourmous smuggling operation. Specialising in delivering guns and drugs from the Mexican cartels and warlords to the raider gangs of the NCR, the Banditos have made serious caps – and serious enemies..."
+  blp_procurement_specialists:0 "Procurement Specialists"
+  blp_procurement_specialists_desc:0 "As part of their partnership with the Valle Bandits, the Paz Bandits more or less completely handle the aquisition of illicit goods. The Paz Bandits have contacts that can get you slaves, drugs, guns or even addictive coffee. If you can name it, the Paz Bandits can find it for you: for the right price..."
+  bvc_expert_smugglers:0 "Expert Smugglers"
+  bvc_expert_smugglers_desc:0 "Nobody knows how to bribe an NCR trooper or avoid a Ranger patrol like the Valle Bandits do. From decades of smuggling experience, the Valle Bandits have had the NCR running rings around itself to try and clamp down on their illicit deliveries to Dayglow, the Boneyard and the Hub."
+
+  #OLY
+  oly_park_legacy:0 "Legacy of the National Park"
+  oly_park_legacy_desc:0 "While the days of park rangers and guided tours are long gone, the cultural importance of orienteering and understanding nature remained empressed on the Olympus Tribe over the centuries since the Great War. Their knowledge of industry or construction may be basic to say the least, but nobody can out-maneuver the warriors of the Olympus Tribe."
+  oly_nomadic_traditions:0 "Nomadic Traditions"
+  oly_nomadic_traditions_desc:0 "After the bombs fell, many in Western Washington fled to the Olympus National Park to escape the nuclear hellfire that engulfed major cities. However, there was nowhere near enough houses to accomodate the influx of people, and instead everyone had to become used to a more nomadic lifestyle. As knowlegde of their past withered away between successive generations of apocalypse survivors, the importance of constantly moving and adapting remained core to the tribe."
+
+  #VIP
+  vip_legacy_of_great_snake:0 "Legacy of the Great Snake"
+  vip_legacy_of_great_snake_desc:0 "Decades before the Vipers were forced to flee California by the Brotherhood of Steel, the Vipers worshiped their Great Snake god. Their entire lives and cultures revolved around the Great Snake, and its poision: sacrifices were made to it, its poison was ritually cosumed and weapons were made smothered in its venom. While the \"Pit\", where the Great Snake resided, was destroyed by the Brotherhood when they finally drove the Vipers from California, fragments of the Vipers' old religion remains. One of the most important lessons that has survived the hard years the Vipers have wandered in the wasteland is regaarding survival of the fittest. Sure, some half-decent cannon fodder may die before their time, but this way the Vipers are strong."
+  vip_a_broken_tribe:0 "A Shattered Tribe"
+  vip_a_broken_tribe_desc:0 "When a band of Vipers set upon a patrolling group of the Brotherhood of Steel in 2155, they had no idea who they were making enemies with. In the resulting fight the leader of the small Brotherhood patrol group, a certain Maxson II, was struck and fatally injured by a poisoned arrow. Unfortunately for the Vipers, Maxson II was none other than the Brotherhood's High Elder: his death stirred the Brothehood up into a genocidal fury. By 2261, after 6 years of being hounded relentlessly by the Brotherhood, the Vipers finally shattered. Bands fled across America, with some settling in the Mojave, some in Nevada and some as far afield as the Hounds of Hectare. The Vipers are a mere shadow of their former selves."
+
+  #PEC
+  pec_animal_husbandry:0 "Animal Husbandry"
+  pec_animal_husbandry_desc:0 "As far as post-apocalyptic farmsteads go, the Pecos Colony has some of the best. Blessed by their proximity to the Rio Grande river and the large cattle herds that grazed the area before the Great War, Pecos has survived and thrived through a heavy focus on cattle rearing. Their wealth of knowledge when it comes to post-apocalyptic animals makes them skilled hunters and influential brahmin herders: the Colony hosts almost as many Brahmin as it does people."
+  pec_rancher_culture:0 "Rancher Culture"
+  pec_rancher_culture_desc:0 "The men and women of Pecos are used to being on the move, herding their Brahmin across the Texan wastes. The few settlements in the Colony that do exist are mainly used for traiding, while the people are highly agile. If one settlement falls to raiders, the entire community can easily relocate with most of their worldly posessions."
+
+  #UMB
+  umb_spiritual_guidance:0 "Guidance from the Spirits"
+  umb_spiritual_guidance_desc:0 "Extreme believers in the idea that people remain spirits after death, the Umbran tribe reveres a wide variety of spirits and attributes many personality characteristics to their influence. These spirits guide the Umbran tribe, offering them advice and insights into the future. While how true these spirits' words are is somewhat debatable, the fundamental religious belief in their existance helps the Umbran tribe stay motivated like few others."
+  umb_arroyo_trade:0 "Trade with Arroyo"
+  umb_arroyo_trade_desc:0 "What started as a simple companionship between Sulik, an Umbran tribesman, and the Chosen One swiftly blossomed into a strong friendship between the two peoples. Arroyo and Umbra enjoy strong trade ties, with Umbra learning about \"civilised\" technology from Arroyo and Arroyo reaping the benefits of Umbra's strong hunter-gatherer skillset."
+
+  #TON
+  ton_expert_cultivators:0 "Expert Cultivators"
+  ton_expert_cultivators_desc:0 "The Tohono O'odham Nation has a proud history of studying and mastering their environment. From building complex irrigation systems to creating new methods of planting and harvesting, the O'odham are amongst the finest agricultural minds in the entire American wasteland. Their bountiful crop harvests ensure significant population growth, and are always developing new techniques to improve their farms."
+  ton_seven_stars:0 "Eleven Stars"
+  ton_seven_stars_desc:0 "The Great Seal of the Tohono O'odham Nation bears upon it eleven stars: one representing each of the eleven districts that compose the Nation. While the eleven joined together in harmony long before the Great War, after the bombs fell the Nation found a new sense of unity sparked by the necessity to survive the nuclear hell they would soon encounter. All eleven nations remain represented on the Legislative Council, and work together to ensure the saftey and prosperity of the Nation."
+
+  #SHO
+  sho_outcasts_once_again:0 "Outcasts Once More"
+  sho_outcasts_once_again_desc:0 "For centuries after the arrival of European colonists in America, the Shoshone made their home in the rough terrain of the west. Of the many Shoshone groups, a significant number settled in Utah and southern Idaho, and achieved federal recognition in the late 1900s. Like many other Native American Nations and Tribes, the Shoshone fared resonably well in the post-apocalytic wasteland: their ancestoral teaching proved useful in an era of hunting and gathering, and the reservations the USA threw many native groups in were remarkably undamaged by nuclear hellfire. However, trouble began for the Shoshone in the decades after the nuclear ash began to settle. Utah and Idaho became stricken by religious wars: a huge variety of neo-christian groups, all with their own twisted interpretation of the bible, decided Utah should be theirs. Between the zealouts in Heavens Gate, the \"pious\" in High Chapel and the schism between Murtagah and the Lord's Annointed, the Shoshone found themselves being persecuted from all sides. Eventually the Shosone were forced to flee west, away from their ancestral land, where they remain plotting their next move."
+  sho_snake_river_teachings:0 "Snake River's Teachings"
+  sho_snake_river_teachings_desc:0 "The Snake River, running along the Shoshone's northern flank and stretching acorss Utah and Idaho, has provided the Shoshone with a reliable source of food and water for centuries. While they may have been expelled from their homeland, the Shoshone's continued access to the Snake River means they are far from clueless about how to survive."
+
+  #MOS
+  mos_storms_of_the_divide:0 "Storms of the Divide"
+  mos_storms_of_the_divide_desc:0 "The "Divide" is the name of the settlements located near the old world ruins of Ashton and Hopeville. These ruins have been preserved due to the fact that strange storms constantly blanket the valley, keeping the scars of the old world laid bare and open."
+
+  mos_old_world_heritage:0 "Old World Heritage"
+  mos_old_world_heritage_desc:0 "The Divide is so pristine that those living there can still find symbols and heraldry that the old world left behind."

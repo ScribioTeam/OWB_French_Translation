@@ -5,6 +5,9 @@
   fallout_tech_implant_folder_desc: "Implant description"
 
   HEADER_EQUIPMENT: "Equipment"
+  HEADER_IMPLANT:0 "Cybernetic Implants"
+  HEADER_IMPLANT_DANGEROUS:0 "Dangerous Implants"
+  HEADER_IMPLANT_DEPLOYMENT:0 "Implant Deployment"
   implant_militia_supply_tech:0 "Give militia implants"
   implant_militia_supply_tech_desc:0 "Our militias, amongst all other military personel, could particularly benefit from our implant program. With their lack of training or equipment replaced with advanced biological functions, we could counteract their vulnerability entirely."
   implant_infantry_supply_tech:0 "give infantry implants"

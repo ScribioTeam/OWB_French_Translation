@@ -6,7 +6,7 @@
   nf_mojave_brotherhood.1.c: "The Brotherhood is doomed without me."
 
   nf_mojave_brotherhood.2.t: "Journey to the Mojave"
-  nf_mojave_brotherhood.2.d: "A pathological control freak, he would often view the people under him as mere equipment, expecting them to carry out his orders and requests unquestionably, while dissent or unpredictability on their part would not just annoy, but even outright infuriate him. By far the only person with whom he had any kind of working relationship was Scribe Veronica Santangelo, his pupil.\n\nThe conflict’s Elijah had with the other members of the Brotherhood only worsened as Elijah pushed for developing new technologies and new, ethically questionable weapons. The elders, rather than deal with him, decided to send him and a small accompanying Brotherhood force away out east, to investigate the Hoover Dam and the possibility of bringing it back to functionality."
+  nf_mojave_brotherhood.2.d: "A pathological control freak, he would often view the people under him as mere equipment, expecting them to carry out his orders and requests unquestionably, while dissent or unpredictability on their part would not just annoy, but even outright infuriate him. By far the only person with whom he had any kind of working relationship was Scribe Veronica Santangelo, his pupil.\n\nThe conflicts Elijah had with the other members of the Brotherhood only worsened as Elijah pushed for developing new technologies and new, ethically questionable weapons. The elders, rather than deal with him, decided to send him and a small accompanying Brotherhood force away out east, to investigate the Hoover Dam and the possibility of bringing it back to functionality."
   nf_mojave_brotherhood.2.a: "Ultimately, I care for Veronica."
   nf_mojave_brotherhood.2.b: "Veronica listens to me, that’s why I respect her."
 
@@ -15,10 +15,18 @@
   nf_mojave_brotherhood.3.a: "I won’t let anyone take what is owed to me."
   nf_mojave_brotherhood.3.b: "The Brotherhood will not be slighted."
 
+  nf_mojave_brotherhood.4.t: "Trials and Tribulations"
+  nf_mojave_brotherhood.4.d: "Our conflict with the Mojave Territories is innevitable. Soon enough, political pressure from the NCR Congress will place overwhelming force on General Oliver to launch his assault on HELIOS One. The only way we can even hope to fend off their onslaught is through preparation: a unique dynamic modifier representing the struggle for inititive between the Brotherhood and NCR. When Operation: Sunburst occurs, the current balance of preparation will be set in stone, so we must make sure to be well prepared before the war ever comes!"
+  nf_mojave_brotherhood.4.a: "We must be nothing if not prepared."
+  nf_mojave_brotherhood.4.b: "Through Power Armour alone will we win victory!"
+  nf_mojave_brotherhood.4.c: "We need more men to counter the NCR's numbers!"
+
+  # .5 doesn't need loc
+
   nf_mojave_brotherhood.6.t: "Victory in Operation Sunburst"
   nf_mojave_brotherhood.6.d: "Today is a glorious day for the Brotherhood of Steel, Elder Elijah revealing his tactical prowess in his stunning defence of the Mojave Chapter against the tyrannical New California Republic. We have managed to push the republic soldiers to the Mojave Outpost - although the question remains on weather we should continue the advance down the Long 15 into California. If we were to try to assert dominance over this land its likely we would have to face a more coordinated response in turn."
   nf_mojave_brotherhood.6.a: "This is our land!"
-  nf_mojave_brotherhood.6.b: "Lets let them hold onto the Mojave Outpost for now."
+  nf_mojave_brotherhood.6.b: "Lets not push this too far."
 
   nf_mojave_brotherhood.7.t: "Oliver's Folly"
   nf_mojave_brotherhood.7.d: "Oliver has lost the Mojave for the New California Republic, facing a devastating defeat at the hands of the Brotherhood of Steel Oliver has been forced to head back down the Long 15 towards Shady Sands. Thankfully, it seems that he wont be asked to be called to service anytime soon - the Brotherhood not seeming too eager to chase him back into California."
@@ -37,7 +45,7 @@
   nf_mojave_brotherhood.10.a: "Send out a dispatch for retrieval."
 
   nf_mojave_brotherhood.11.t: "Border Skirmish at the Dam"
-  nf_mojave_brotherhood.11.d: "It seems that after our recent victory at Helios our paladins may have got a bit overzealous.\nAs Elijah made their way to the Dam ( Of which the NCR denied them access to so foolishly ) they learned that there was a skirmish there between the Brotherhood and the eastern slaver horde known as "Caesar's Legion". Our paladins seemed to have no experience fighting such strange foes - their strategy mixing elements of tribal, wastelander and ancient tactics in terrifying fashion.\nIt seems we have some training to do if we are to stand up to such a threat."
+  nf_mojave_brotherhood.11.d: "It seems that after our recent victory at Helios our paladins may have got a bit overzealous.\nAs Elijah made their way to the Dam (of which the NCR denied them access to so foolishly) they learned that there was a skirmish there between the Brotherhood and the eastern slaver horde known as "Caesar's Legion". Our paladins seemed to have no experience fighting such strange foes - their strategy mixing elements of tribal, wastelander and ancient tactics in terrifying fashion.\nIt seems we have some training to do if we are to stand up to such a threat."
   nf_mojave_brotherhood.11.tt: "We can improve our tactics against the Legion through training, done from a decision unlocked by the focus §Y"Preparing Against the Legion"§!."
   nf_mojave_brotherhood.11.a: "It seems we have some training to do!"
 
@@ -69,7 +77,7 @@
   nf_mojave_brotherhood.18.t: "Securing X-13"
   nf_mojave_brotherhood.18.d: "The X-13 Facility was a strange one - seemingly built around testing a prototype alternative to the Chinese Stealth Suit. Brotherhood Scouts had to run through a series of increasingly difficult challenges arranged by some sort of artificial intelligence before they were able to secure the facility.\nWe can use the computer data here in order to further our own research!"
   nf_mojave_brotherhood.18.a: "At least the data will be put to use."
-  
+
   nf_mojave_brotherhood.19.t: "Securing Y-0"
   nf_mojave_brotherhood.19.d: "This facility is notable not for what it has -.. but what it 'once had'.\nThe Y-0 facility is completely destroyed, yet scarce terminal records say that what was conducted here may have been the most important of all. The facility here was researching §Rmolecular assembly§! - the act of turning anything into anything, the alchemist's stone of old world science.\nIt seems that the Big Mountain scientists here were able to accomplish this - but not here. They mentioned that this research was done for one "Fredrick Sinclair", in a place known as the §RSierra Madre§!."
   nf_mojave_brotherhood.19.a: "§RThe Sierra Madre...§!"
@@ -77,7 +85,7 @@
   nf_mojave_brotherhood.20.t: "Securing X-8"
   nf_mojave_brotherhood.20.d: "...We are not sure why this facility was even made. It seems to just be a giant school made under some sort of ego experiment? After our paladins stormed through the halls they were able to find one thing of note though - a small Cyber dog by the name of Roxie.\nVeronica has taken a particular liking to them."
   nf_mojave_brotherhood.20.a: "I am glad she is happy."
-  
+
   nf_mojave_brotherhood.21.t: "Securing X-7"
   nf_mojave_brotherhood.21.d: "The X-7 facility is actually just a gigantic artillery gun -.. of which, isn't actually of much use due to the fact that its completely isolated from any real threat. Still - we can take the ammunitions here and convert them into something our troops can use."
   nf_mojave_brotherhood.21.a: "At least we don't have to put it to waste."
@@ -89,11 +97,11 @@
   nf_mojave_brotherhood.23.t: "Securing X-17"
   nf_mojave_brotherhood.23.d: "The X-17 facility is notable for a strange technology within it - the "Trauma Harness". These suits are essentially a mix of power armor frames and robots, able to drive and keep soldiers walking indefinitely, even centuries after their death. If we were to install this technology into our power armor frames our soldiers would be practically unkillable!"
   nf_mojave_brotherhood.23.a: "Old world technology being put to use.."
-  
+
   nf_mojave_brotherhood.24.t: "Securing Little Yangtze"
   nf_mojave_brotherhood.24.d: "It seems we have finally found the origin of the "Slave Collars" we have found across the wastes. Here in Big Mountain we have found a ancient Chinese prisoner camp populated by ghoul prisoners still wearing collars on their necks. This technology has always been useful to the brotherhood in weeding out potentially bad recruits. Now that we have a good stockpile of these we can keep on keep on collaring the disloyal for years to come."
   nf_mojave_brotherhood.24.a: "Compliance is appreciated."
-  
+
   nf_mojave_brotherhood.25.t: "Securing THE FORBIDDEN ZONE"
   nf_mojave_brotherhood.25.d: "The "FORBIDDEN ZONE", as it has been called again and again by the Robo-scorpions skittering about the land has finally been secured by our forces, much to the chagrin seemingly of whoever is leading these Robo-scorpions - this "Doctor Mobius". When we finally went and secured this facility we were expecting to find the mastermind that was running it -.. yet we didn't? Whoever this "Doctor Mobius" was seems to have vanished, having gone off to the Dome to meet with the other leaders of this place."
   nf_mojave_brotherhood.25.a: "We will meet him there when we take the Dome."
@@ -101,10 +109,11 @@
   nf_mojave_brotherhood.26.t: "Securing Big Mountain"
   nf_mojave_brotherhood.26.d: "We have taken the rest of Big Mountain - now we just have to meet with the leaders of this place.\nOur paladins approached the Dome within the centre of Big Mountain, ready to confront the figures that had been leading this place.\n\nThey weren't there.\n\nWhen the paladins investigated what had happened they discovered something grave...."
   nf_mojave_brotherhood.26.a: "Oh no..."
-  
+
   nf_mojave_brotherhood.27.t: "The Dome Cracked"
   nf_mojave_brotherhood.27.d: "The Think Tank, it seems has had enough of our messing into their experiments. They have studied the technology we have used to travel to and from Big Mountain and reversed engineered it! Rumours have begun to spread across the southern Mojave. Word of robo-scorpions hordes, brainless lobotomites and "floating spheres," flickering like a rainbow of torches in the desert like Old World wisps."
   nf_mojave_brotherhood.27.a: "We have to stop them!"
+  nf_mojave_brotherhood.27.b: "§PIts time We show this geezer what for!§!"
 
   nf_mojave_brotherhood.28.t: "Rumours of the Old World"
   nf_mojave_brotherhood.28.d: "The Sierra Madre was designed and built by one man, Frederick Sinclair, his last venture a few years before the Great War. The Sierra Madre was intended as a place for guests to reverse their fortunes and "begin again.".\n\n During its construction until the end, it remained a reclusive area. All conveniences were supplied to the inhabitants by unique vending machines capable of using advanced science to assemble materials on the spot and allowed the residents to live in self-sufficiency, even when cut off from the outside world. The goal of the entire enterprise was not only to create a great casino - it was to create the perfect shelter from the nuclear holocaust. Every element of Sierra Madre's functions is to protect its inhabitants.\n\nThe Sierra Madre Casino is more than a mere casino – it is the material testament to one man's inability to let go. Seeing the Great War nearing, Frederick Sinclair, wished to save Vera Keyes, a famous actress and his love, from the looming destruction. To this end, the Sierra Madre Villa and its capstone casino were built. But that was not enough for Sinclair: deep within the basement of the casino, a nearly impenetrable vault was constructed as well, to make sure he and his love could ride out the apocalypse, together.\n\nIt is this vault that Elijah seeks, there - Elijah hopes to find the secrets to the Sierra Madre. The hologram technology, the vending machines, the mysterious red cloud that blankets it to this day. Elijah has been captivated by the Old World, and he isn’t going to let go."
@@ -149,10 +158,23 @@
   nf_mojave_brotherhood.39.t: "Voice Given Shape"
   nf_mojave_brotherhood.39.d: "On the night the bombs dropped, the night of the Grand Opening, the casino locked its doors and its security systems activated. The holograms, due to a critical mistake began to massacre the guests as a result of faulty programming, and Vera was trapped in her room, with only one way out. She scrawled her last words, "LET GO", on the wall, and took an overdose of the chem cocktail which had both saved her from and caused so much pain already.\n\nA malfunction with the emergency broadcast, caused by the Gala Event's broadcasting being routed via the emergency announcement system to save money, caused the advertisement for the casino's grand opening to be sent across the airwaves, rather than the intended rescue broadcast. For over two centuries, Vera's voice would act as bait, not for the rescue Sinclair had hoped for, but for potential treasure hunters, luring them to their deaths, urging them to come to the Sierra Madre - a place where they could begin again.\n\nThe earthly remains of Vera can be found in a chair in her suite, still wearing her gala dress. Her last moments were recorded by the security equipment, making the holograms patrolling the area, as well as the hologram in the Villa's fountain, take form after her while playing what appears to be her last words, consisting of a plea to Sinclair to let her go.\n\nThe hologram in Vera Keyes’ room is notable for the fact that it recorded her final words - storing parts of her mind within itself as an impression of her, a memory.\nElijah would be the one to realize that she could be used to open the vault, hacking into the Holo-emitters and enslaving the digital memory, forcing Vera’s last words to come with him to the bottom of the Sierra Madre to open the vault that was meant to protect her."
   nf_mojave_brotherhood.39.a: "I will have what is owed to me."
-  
+
   nf_mojave_brotherhood.40.t: "Begin Again"
   nf_mojave_brotherhood.40.d: "We brought the broken Voice of Vera Keyes down into the lower levels of the facility, to finally arrive at what we have been waiting for - the vault.\nShe would, as asked, open the door for us using Vera’s last words.\nThe Vault itself was small, only a few small rooms, well stocked with food, medical supplies and the last of Sinclair’s riches. There were gold bars here - a small nation’s worth of gold - certainly more than the NCR’s after their gold reserves were destroyed by the Brotherhood years ago.\n\nWith the hologram technology and Vera’s digital spectre, the vending machine technology, the holorifle, the cloud and now this gold reserve the [MOJ.GetName] is on the precipice of becoming something great."
   nf_mojave_brotherhood.40.a: "After all this time. The Sierra Madre... mine."
+
+  nf_mojave_brotherhood.41.t: "Data From REPCONN"
+  nf_mojave_brotherhood.41.d: "As our operatives explored REPCONN Headquarters they were careful to extract any information they could from the building's terminals. Most of it was junk, but not all. Some of the company's records revealed a decrepit vertibird testing ground far to the north, in [329.GetName]. This expedition would require serious time and resources, but think of the potential!"
+  nf_mojave_brotherhood.41.a: "We must pursue this lead!"
+
+  nf_mojave_brotherhood.42.t: "A Traveler From Yuma"
+  nf_mojave_brotherhood.42.d: "Yesterday, a traveler hailing from the south contacted us. He was moving through the area, and claims that his home city of Yuma sits atop a massive treasure trove of pre-War technology. Apparently, the American army used natural caves under the city as storage for various discarded experiments and projects. As proof, he showed us one of his packs, filled to the brim with all sorts of advanced ammunition and gadgets. We can dispatch our operatives to travel down to the city, explore the caves, and return with whatever they find. However, this would be a costly operation when we’re already strapped for resources. It will most likely ferment instability, and lead to even worse effects if the operation turns up blank."
+  nf_mojave_brotherhood.42.a: "We must send a team to investigate!"
+
+  nf_mojave_brotherhood.43.t: "Fallout From the Yuma Operation"
+  nf_mojave_brotherhood.43.d: "Nearly every Paladin in the Mojave Chapter advised against our expedition to Yuma. They said it would be too costly, too risky, and take focus away from where it mattered: our military strength. Now, with the expedition returning with little to show for itself, it seems they may have been right. A group of Paladins confronted Elijah again today, urging him to re-evaluate his priorities. Either way, this decision will determine how the Mojave Chapter achieves its goals."
+  nf_mojave_brotherhood.43.a: "Fine! Have it your way!"
+  nf_mojave_brotherhood.43.b: "No, we must stay our course!"
 
   nf_mojave.1.t: "Chapter Leadership"
   nf_mojave.1.d: "The question of who should ultimately lead the Mojave Brotherhood is one that has come up many a time before. Head Paladin McNamara has his doubts about Elijah's search for technology, worried that controlling Helios One will make them an opportune target for the great powers of the wasteland. An emergency meeting is called, with McNamara and Elijah leading the discussion. The meeting quickly descends into heated arguments and threats, culminating in Paladin Hardin and a few of his men drawing their weapons and threatening to kill Elder Elijah. Wanting to avoid unnecessary bloodshed, McNamara launches into an emboldened speech about brotherhood and loyalty."

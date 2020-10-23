@@ -67,13 +67,13 @@
 
 
   #Placeholder Localisation Begins
-  nf_legion.11.t: "Outcome of the Hoover Dam"
-  nf_legion.11.d: "It's over what actually happened?"
-  nf_legion.11.a: "You lost loser"
-  nf_legion.11.b: "You won! Good job"
+  nf_legion.11.t: "Testing our Mettle"
+  nf_legion.11.d: "The battle for Hoover Dam is over, our might has been tested and our armies have thrown every last soldier that they had available into the breach. Even now, its surface burn, the heavy smell of death, gunpowder and flames enough to make even a veteran retch. Corpses litter the old war relic, the testimony of a horrible grinder upon which both The Bull and the Bear clashed on this day, but who won this decisive engagement? Did The Bull's endless legion and cunning manage to win the day? Or did the Bear's defences and thunderous volleys shattered their will?"
+  nf_legion.11.a: "The Bear won... for now"
+  nf_legion.11.b: "The Bull is victorious! All Hail Caesar!"
 
   nf_legion.12.t: "Caesar sends us a 'request'"
-  nf_legion.12.d: "A messanger from Caesar has arrived and brings forth a letter of invitation to the legion. They wish to allow us to crush those who have dared threaten us and abused us.\n\nWhat should we do my Khan?"
+  nf_legion.12.d: "A messenger from Caesar has arrived and brings forth a letter of invitation to the legion. They wish to allow us to crush those who have dared threaten us and abused us.\n\nWhat should we do my Khan?"
   nf_legion.12.a: "Accept his invitation"
   nf_legion.12.b: "Decline. We don't need his assistance"
 
@@ -173,7 +173,7 @@
 
   ###### Two Sun
   nf_legion.32.t: "In Need of a Miracle"
-  nf_legion.32.d: "[CES.GetLeader] has learned that Two-Sun's priests have been withholding tribute by storing it in their temples, called 'Garages'. Malpais wishes to seize this tribute for Caesar, but Vulpes is wary that this will cause unrest and anger the faithful of Two Sun. And does not Caesar always say, 'control the coins, control the courts, and let the rabble have the rest?'  \n\n A race is on now. Malpais marches with a column to storm Two Sun's temples, while Malpais intends to offer the priesthood a deal where they present their tribute as a 'gift' to the Legion."
+  nf_legion.32.d: "[CES.GetLeader] has learned that Two-Sun's priests have been withholding tribute by storing it in their temples, called 'Garages'. Malpais wishes to seize this tribute for Caesar, but Vulpes is wary that this will cause unrest and anger the faithful of Two Sun. And does not Caesar always say, 'control the coins, control the courts, and let the rabble have the rest?'  \n\n A race is on now. Malpais marches with a column to storm Two Sun's temples, while Vulpes intends to offer the priesthood a deal where they present their tribute as a 'gift' to the Legion."
   nf_legion.32.a: "Vulpes explains the benefits of a divine revelation."
   nf_legion.32.a_tt: "In a prophetic dream, the high priest of Cannonball learned their god wishes for half of their tribute to go to the Legion."
   nf_legion.32.b: "And making a whip of cords, he drove them all out of the temple."
@@ -331,7 +331,7 @@
   nf_legion.82.b: "The Frumentarii run the Legion."
   nf_legion.82.c: "Lucius Remains True to Caesar."
   nf_legion.82.e: "Malpais Legate knows how to crucify."
-
+  CES_civil_war: "The Civil War!"
   ### White legs Upgrade
   nf_legion.83.t: "The Lessons of Ulysses"
   nf_legion.83.d: "Ulysses has taught us how to use maintain storm drums, and 'machine gun companies', and 'mortars.' Clearly, Caesar must be a mighty wizard to have such spells at his command, and by joining the Legion, we shall learn such magicks for ourselves. With these tools we will crush the Canaanites and sweep across Utah! And perhaps, in time, we will learn some spells of our own, to keep in reserve if the Legion collar should ever grow too tight."
@@ -392,6 +392,10 @@
   nf_legion.92.b: "The Cult of Vulcan was right!"
   ############### bhd.1
 
+   ### Res Publica
+  nf_legion.93.t: "The Public Affair"
+  nf_legion.93.d: "As if to a virtuous, brave, and magnanimous man there could be a juster reason for seeking the government than this—to avoid being subjected to worthless men, and to prevent the Commonwealth from being torn to pieces by them; when, even if they were then desirous to save her, they would not have the power."
+  nf_legion.93.a: "The Legion shall finish the synthesis."
   ### Navajo
   nf_legion.94.t: "Caesar's Dead!"
   nf_legion.94.d: "The conqueror of some varying number of tribes has died! The Wasteland holds ids breath, and for [NAV.GetLeader], perhaps now is a time to prepare to strike."
@@ -440,6 +444,7 @@
   nf_legion.104.d: "With the defeat at Hoover Dam, someone had to take the blame. And it certainly would not be Caesar. "
   nf_legion.104.a: "Malpais, this is your fault."
   nf_legion.104.b: "I cannot punish my brother in arms."
+  nf_legion.104.b_tt: "\nYou will take stress from this."
   #### the Mojave Campaign
   nf_legion.105.t: "the Mojave Campaign"
   nf_legion.105.d: "Defeating the Legion at the Dam was but the first step.  Despite the defeat, we're faced with an unending guerilla war and raids across the mighty Colorado. But at least this costs the Legion as much as us."
@@ -465,6 +470,54 @@
   nf_legion.108.b: "Be Merciful, O Lord, unto thy people Israel."
 
 
+  ###  Gente Stuff
+  nf_legion.109.t: "Economic Expansion"
+  nf_legion.109.d: "The Legion of Arizona wishes to buy firearms from us, muttering that they trust us more than the Van Graffs. We should commence to sell guns to them immediately!"
+  nf_legion.109.a: "Amigos nuevos!"
+
+
+
+  ###  Dam
+  nf_legion.110.t: "The Decimation"
+  nf_legion.110.d: "It is clear that Malpais did not fail at the Dam. No, his soldiers failed. To that end, Malpais has decreed their decimation, as God smote those who failed him.  \n\nBut Great Caesar has decreed they shall be spared! Instead, the soldiers will serve in glory battalions that fight in the first wave against the NCR in our next fight!"
+  nf_legion.110.a: "Hail Caesar!"
+  CES_stress_decrease_2: "\nThat was suspiciously nice of Caesar. He must be trying to help Malpais Legate out, even if it causes stress."
+
+
+  nf_legion.111.t: "A New Legate?"
+  nf_legion.111.d: "With Malpais' failure, we must determine if the Legion needs a new Legate. Aurelius, Vulpes, and Lucius would all be worthy of the role. But perhaps we should rely solely upon Lanius."
+  nf_legion.111.a: "Legate Lucius has a nice ring."
+  nf_legion.111.b: "To Vulpes, our loyal friend."
+  nf_legion.111.c: "Aurelius knows best."
+  nf_legion.111.e: "The Butcher will carve the NCR."
+
+
+  nf_legion.112.t: "Why Won't You Die!"
+  nf_legion.112.d: "Somehow Joshua Graham survived, literally, being tossed into the Grand Canyon while on fire. We will never admit this, but this is one reason to encourage the Utah tribals to go after New Canaan. Christ, what an asshole."
+  nf_legion.112.a: "I hate that guy."
+
+  nf_legion.113.t: "The Palace" ## Aurelius
+  nf_legion.113.d: "Aurelius has recognized that the greatest way to control New California is to move the Legion's capital there.  Accordingly, he has decreed a great palace shall be built in Dayglow, in honour of the Legion. Perhaps he shall even invite el Generalissimo to visit."
+  nf_legion.113.a: "This is a palace for the people I hold in their stead."
+
+
+  nf_legion.114.t: "The Library" ### Caesar
+  nf_legion.114.d: "Caesar always wanted to bring the torch of civilization to the Wastes. What better way to do that than to commission a great Library in Shady Sands, a university to spread the Legion's word across the Wasteland. The Followers may mock, but they will in time appreciate all that Caesar has done for the world."
+  nf_legion.114.a: "I have lit a fire, and I shall guard it while it burns."
+
+
+  nf_legion.115.t: "Magistrianoi" # Vulpes
+  nf_legion.115.d: "It is said by some tribals that the gods whisper into Vulpes' ear. That may be true, but he has no need of them; he has the Magistrianoi.  Secret police among the Legion, they root out dissent before it sprouts. Under Vulpes the Magistrianoi will spread across New California, and ensure that all understand their place under his watchful eyes. Or upon one of the many crosses, sprouting like trees in a forest."
+  nf_legion.115.a: "There are wolves among sheep."
+
+
+  nf_legion.116.t: "The Senate Building"
+  nf_legion.116.d: "Caesar dreamed of the synthesis, and of a better day. But Lucius built that day. To listen to the people of New California, he commissioned a new senate building, greater than the old hill. A new building, for a dream. One greater than the tribes of the east, or the merchant houses of the west. A place for the people of the Wastes to advice, and opine, to their dictator. \n\nBut eventually, by the time Lucius died, it was the Senate that would dictate."
+  nf_legion.116.a: "SPQNC"
+
+  nf_legion.117.t: "The Fabricator"
+  nf_legion.117.d: "Some in the Legion questioned Lucius for the Cult of Vulcan, and some thought he went mad. But as those who complained vanished, and as Lucius' wisdom prevailed, they learned to keep their thoughts to themselves. \n\nWith the conquest of New California, Lucius decreed he would build a workshop to study the secrets of the old world. Vulcan would be glorified with a Legion that fought with the weapons of the god. And woe to anyone who stood in their path."
+  nf_legion.117.a: "If Caesar could see us now."
   ############### bhd.1
   bhd.1.t: "The Bridge Across the Divide"
   bhd.1.d: "the Legion's expansion has continued, and we much of Utah and Colorado, and cities of our own.  But nothing compares to Vegas. We will cross the Colorado, and pour forth into Vegas. We will have our Rome. To Victory!"
@@ -474,6 +527,18 @@
   nf_legion.14.a: "Fools"
   #Placeholder Localisation Ends
 
+  nf_legion.118.t: "The Raiders!"
+  nf_legion.118.d: "Somehow, raiders have come across the Colorado River and destroyed our supply convoys. We've lost a great deal of infantry equipment, a disastrous outcome!"
+  nf_legion.118.a: "This is terrible!"
+
+  nf_legion.119.t: "The Raiders!"
+  nf_legion.119.d: "Somehow, raiders have come across the Colorado River and destroyed our supply convoys. We've lost a great deal of infantry equipment, a disastrous outcome!"
+  nf_legion.119.a: "This is terrible!"
+
+
+  nf_legion.120.t: "The Fiends' Resurgence"
+  nf_legion.120.d: "It looks like those weirdos across the Colorado River have slipped weapons to the Fiends, who are harassing our convoys. Again. I am so, so, sick of patrolling the Mojave."
+  nf_legion.120.a: "It almost makes me wish for nuclear winter."
 
   ###
   CES_healthy: "Caesar is healed!"

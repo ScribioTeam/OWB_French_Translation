@@ -91,7 +91,7 @@
 
   ### Warning Event
   caps_raider_events.100.t: "Imminent Raid Against Our Borders"
-  caps_raider_events.100.d: "We have learn of a planned raid to steal [GetCapTxt] from §R[?FROM.GetName]§! Thankfully we've managed to decipher messages sent between the raiders, and learn of their target before any nasty surprise."
+  caps_raider_events.100.d: "We have learned of a planned raid to steal [GetCapTxt] from §R[?FROM.GetName]§! Thankfully we've managed to decipher messages sent between the raiders, and learn of their target before any nasty surprise."
   caps_raider_events.100.a: "We should muster a defence."
 
   ###Reverse Raid

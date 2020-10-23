@@ -1,18 +1,157 @@
 ﻿l_english:
 
   nf_event_cmc.1.t: "A Night to Remember" # Good
-  nf_event_cmc.1.d: "A police force that they couldn't control or bribe apparently was the last straw. It wasn't long after my official inauguration of the new police chief that things came to a head. Several members of the criminal underground stormed many of the high profile casinos, trying to take out, or take hostage, leading members of the casino families, to gain control of those establishments. But we were prepared.\n\nI was prepared.\n\nThey were greeted by a hail of bullets, a good amount from my own pistol, killing many and making the rest flee outside, waiting for something.\nTo my shock I recognized a few faces among the dead. People i thought of as friends. Family. The corruption must have run deeper than i thought.\n\nThe initial wave of attack beaten back I was about to retreat to one of the offices in the Red River Casino that was made into an impromptu war room. Aspen joined me half way there. I didn't see her in the defence, so I was pretty sure i knew what was going to happen. I was not surprised, just saddened when she pointed a gun at my head.\nWhat came as a surprise, at least to her, was the knife sticking out of her throat a blink of an eye later. How to lead a casino was not the only thing my parents taught me. Our family was the first out of the bunkers. We didn't survive by pure chance against raiders and hostile creatures. That too is part of my legacy.\nHer involvement explains how the various gangs could operate under our noses for so long without us ever catching them. A person that can walk in and out of any casino whenever she wants without questions is a great asset if you want to gain information or access to certain areas.\n\nAfter one last look at her body, I carried on. The night was still young and they were still waiting outside. We radioed the police for assistance. This would be a trial by fire for them too."
+  nf_event_cmc.1.d: "A police force that they couldn't control or bribe apparently was the last straw. It wasn't long after the official inauguration of the new police chief that things came to a head. Several members of the criminal underground stormed many of the high profile casinos, trying to take out, or take hostage, leading members of the casino families. All in a bid to gain control of those establishments. But we were prepared.\n\nI was prepared.\n\nThey were greeted by a hail of bullets, a good amount from my own pistol, killing many and making the rest flee outside, waiting for something.\nTo my dismay I recognized a few faces among the dead. People I thought of as friends. Family. I did not think the rift caused by our differing opinions went this deep.\n\nThe initial wave of attack beaten back I was about to retreat to one of the offices in the Red River Casino that was made into an impromptu war room. Aspen joined me half way there. I didn't see her in the defence, so I was pretty sure i knew what was going to happen. I was not surprised, just saddened when she pointed a gun at my head.\nWhat came as a surprise, at least to her, was the knife sticking out of her throat a blink of an eye later. \nHow to lead a casino was not the only thing my parents taught me.\nOur family was the first out of the bunkers. We didn't survive by pure chance against raiders and hostile creatures. That too is part of my legacy. A legacy that Aspen did not want. Lessons she never learned. \n\nIt's easy to see why they swayed her to their side. She had basically free access to wherever she feels like. This is invaluable if certain people want to gain information or access to certain areas.\n\nAfter one last look at her body, I carried on. The night was still young and they were still waiting outside. We radioed the police for assistance. This would be a trial by fire for them too."
   nf_event_cmc.1.a: "Dawn will arrive"
   cmc_aspen_killed_tt: "§YAspen§! has been killed!"
   nf_event_cmc.2.t: "A Night to Remember" # Bad
+  nf_event_cmc.2.d: "Things have been brewing below the surface of our nation for a while. Certain people of importance tended to vanish or turned up dead. Accidents, all of them, I was assured. Things turned up missing. Weapons, ammunition, information. Now, what I've dreaded has come to pass. Tonight several members of the criminal underground stormed many of the high profile casinos trying to take out, or take hostage, leading members of the casino families. All in a bid to gain control of those establishments.\n\nAnd i am completely helpless to stop them.\n\nThose still loyal to me and I tried the best we could to defend everything we build, but it was a losing battle from the start.\nWhen the doors burst open, i recognized many of the faces. People I thought of as friends. Family. I did not think the rift caused by our differing opinions went this deep.\n\nWe were making a fighting retreat towards a safe room we set up for a case just like this. Aspen joined me half way there. I didn't see her in the defence, so I was pretty sure i knew what was going to happen. I closed my eyes expecting a shot to end it all. I heard the shot, but the expected short burst of pain before the end did not appear. I opened my eyes again.\nLiam was lying dead on the floor next to me. The shot was never meant for me. I saw us being surrounded by various gang members on all sides. This fight was over.\nAspen looked at me with a nasty grin on her face.\n'He would just have be a nuisance, so it was time to get rid of him. You on the other hand, we still need. You are going to be our bird in a cage, doing exactly as we tell you to. Otherwise his life will not be the only one ended this way.'\nA threat not to me, but towards loved ones. Leaving me with no way out.\nI just want this to be over."
+  nf_event_cmc.2.a: "A Long Night"
   cmc_liam_killed_tt: "§YLiam§! has been killed!"
   nf_event_cmc.3.t: "A Night to Remember" # Dummy
 
+  nf_event_cmc.4.t: "Looking for Love"
+  nf_event_cmc.4.d: "I arrived at KXII Station without any issues. About half way there we were greeted by a group of Tubehead guards, accompanying us the rest of the way. I expected the usual raider look, honestly. Leather, metal spikes, the occasional skull or bone. What i saw was military gear over fine suits. It was different, to say the least. The meeting took place in one of the recording studios. I had seen this place before, on TV. It's where he hosts his 'Talk Show' with various guests. I asked if he was recording this negotiation for his show too. He just laughed and answered that he just felt the most comfortable in this place, that's why he chose it. The 'tense negotiations' were done incredibly quick. We disagreed on some details, but came to an agreement in the span of half an hour. It came down to our investment money, their technical expertise and established media catalogue. The rest of the evening that i thought i would spend arguing with a raider warlord putting on a civilized front was instead spend having a pleasant conversation over various topics. Some meaningless, some in regards to both of our situations. We drank a bit, laughed together. It was a nice distraction from everything that has been going on recently."
+  nf_event_cmc.4.a: "A Nice Evening"
+
+  nf_event_cmc.5.t: "The Fate of the Scrappers"
+  nf_event_cmc.5.d: "The Scrappers know every nook and cranny of the corroded fields. Not a day has passed without some of them springing out of some trailer of a truck we thought was empty, or our workers being sniped from the top of some old construction equipment. Just for them to vanish in a blink of an eye once we manage a counter attack. Workers are refusing to work in the area and we are wasting too much resources and men on this. So we moved in our troops again in full force to stop this.\nA lucky operation managed to get us one of their clan chiefs as prisoner. After a brief 'discussion' with him, we send him back with a proposal. Their tenacity despite such overwhelming odds facing them is admirable and we could use warriors like them. Everyone has a price and working for us beats being hunted down like rabid dogs. The other options we gave him was that we would hire them as workers in the area. They could basically do what they did before we came along, but the good bits of scrap would go directly to us. Let's see what their answer will be."
+  nf_event_cmc.5.a: "It's a Mercenary Life for Them"
+  nf_event_cmc.5.b: "Working for a Living Beats Dying For Old Traditions"
+  CMC_scrapper_mercenaries_tt: "Spawns 2 units of §YScrapper Mercenaries§! in the §YCorroded Fields§!"
+
+  nf_event_cmc.6.t: "Looking for Revenge"
+  nf_event_cmc.6.d: "It was that night all over again. Except this time it was me waiting outside to burst in some doors. Waiting with a large amount of Tubehead soldiers. More blood was spilled. More blood on my hands. I can console myself with the fact that it was to rescue people. To save my friends and family. And what my family has build. [TUB.GetLeader]'s troops sure knew what they were doing. It was over mercifully quick.\n Aspen, though, was nowhere to be found. My office, now actually mine again, was abandoned by the time i arrived there. She wasn't among the bodies either. She just vanished.\n I need to set a team on trying to find her again. To either capture her, or...it doesn't matter now. There is work to be done. We need to clean up this mess."
+  nf_event_cmc.6.a: "Let's Hope This Will Be the End"
+
+  nf_event_cmc.7.t: "A Strange Wanderer"
+  nf_event_cmc.7.d: "A Woman appeared in town today. Haggard and weary, she told of being persecuted in her nation, of being wrongfully accused of crimes by her own sister who wanted to get rid of her to take her place. Now she asks for sanctuary in our nation. She is willing to work for a living and show what made her so successful that people became jealous enough to chase her out.\nAre we willing to believe her story?\n\n§RThis will probably anger the [CMC.GetName]!§!"
+  nf_event_cmc.7.a: "Let's see what she can do"
+  nf_event_cmc.7.b: "No, thanks!"
+
+  nf_event_cmc.71.t: "We Found Her"
+  nf_event_cmc.71.d: "Aspen was found hiding in [FROM.GetName] lands. She already managed to work her way up the chain of power. I can't let her get away with this. There is too much blood on her hands. The [FROM.GetName] are not willing to giver her up, she is too firmly entrenched in their hierarchy. There is an option we could take, but are we willing to go that far?"
+  nf_event_cmc.71.a: "To War It Is"
+  nf_event_cmc.71.b: "Maybe Just Let Sleeping Dogs Lie"
+
+  nf_event_cmc.8.t: "An Offer from the Coalition"
+  nf_event_cmc.8.d: "The Chickasaw-Muscogee Coalition has offered us a significant amount of money to effectively buy out the Tubeheads from our control. We have to carefully consider if this is worth the effort we already put into this undertaking."
+  nf_event_cmc.8.a: "Immediate Benefit, Baby!"
+  nf_event_cmc.8.b: "But What About More Money?"
+  nf_event_cmc.8.c: "Thanks, But We'd Like to Keep Them"
+
+  nf_event_cmc.9.t: "The [TBH.GetName] Accepts"
+  nf_event_cmc.9.d: "Even though it costs a large amount of money, from this point our two nations stand as equals, as partners. We should probably announce this on TV? That seems like a good idea given the circumstances."
+  nf_event_cmc.9.a: "The Check is in the Mail"
+  nf_event_cmc.9.b: "Uhm, do you take credit?"
+  nf_event_cmc.9.c: "We Changed Our Mind"
+  cmc_event_9_tt: "§RYou don't have enough caps to pay the [TBH.GetName].§!"
+
+  nf_event_cmc.10.t: "The Texans Want More Cash"
+  nf_event_cmc.10.d: "Apparently the Brotherhood regrets running an economy based on vigilante justice, because they are desperate for caps and want more money before they recognize our rights on the Tubeheads."
+  nf_event_cmc.10.a: "Sure!"
+  nf_event_cmc.10.b: "Am I made of caps? Yes, but this is too much"
+  cmc_event_10_tt: "§RYou don't have enough caps to pay the [TBH.GetName], or don't want to§!"
+
+  nf_event_cmc.11.t: "[TBH.GetName] Said No!"
+  nf_event_cmc.11.d: "Apparently the Brotherhood has decided they can tell our husband what to do, and rejected our kind offer. I hope a robotic army of some sort takes the Alamo from them, those jerks."
+  nf_event_cmc.11.a: "Man, that would be funny."
+
+  nf_event_cmc.12.t: "The [CMC.GetName] has Withdrawn Their Offer"
+  nf_event_cmc.12.d: "We are not sure what type of game the [CMC.GetName] are playing, but they have withdrawn their offer for one reason or another. Maybe it was just a ploy to gauge our reaction to it. Anyway, we are not sure if anything more will come from this."
+  nf_event_cmc.12.a: "Okay Then"
+
+
+  nf_event_cmc.13.t: "What is Love, Baby Don't Hurt Me"
+  nf_event_cmc.13.d: "The Texas Brotherhood has agreed that the Tubeheads may align more closely with the fun loving people of Sequoyah instead of their weird nation building project in exchange for a large pile of money. Hurrah!"
+  nf_event_cmc.13.a: "Finally, I will be with my true love and market."
+
+  nf_event_cmc.14.t: "More Money, More Problems"
+  nf_event_cmc.14.d: "[CMC.GetLeader] has offered even more money to us if Mr. Entertainment moves north. What do we do now?"
+  nf_event_cmc.14.a: "We can use these caps against our many, many foes."
+  nf_event_cmc.14.c: "But then what would we watch?"
+
+  nf_event_cmc.15.t: "A Better Offer"
+  nf_event_cmc.15.d: "[CMC.GetLeader] has offered even more money to us if Mr. Entertainment moves north. What do we do now?"
+  nf_event_cmc.15.a: "We can use these caps against our many, many foes."
+  nf_event_cmc.15.c: "But then what would we watch?"
+
+
+
+  nf_event_cmc.16.t: "Moving In"
+  nf_event_cmc.16.d: "Tired of the long distance relationship, Mr. Entertainment (or Ryan Entertainment to his friends) has agreed to move in with [CMC.GetLeader]. He can work with both Texas and [CMC.GetName], but his heart belongs to his lovely lady wife."
+  nf_event_cmc.16.a: "Plus, the tax rate is better."
+
+
+
+  nf_event_cmc.200.t: "Heir to two Empires"
+  nf_event_cmc.200.d: "After being mostly absent from the public eye for a a few months at this point, [CMC.GetLeader] has appeared on the stage again. Quite literally in this case, as [TUB.GetLeader] has seen it fit to produce a special broadcast this night. The reason for this was clear as only a few minutes into the show after a short musical number by one of [TUB.GetLeader]s live bands, both of them walked in front of the camera, presenting their new born child to a cheering audience. The proud parents talked briefly about future plans concerning both nations before they retreated backstage again, wishing viewers and home audience alike a pleasant evening and giving the stage to an ensemble of various live acts."
+  nf_event_cmc.200.a: "I guess congratulations are in order."
+
   # Gambling
-  nf_event_cmc.100.t: "Heir to two Empires"
-  nf_event_cmc.100.d: "After being mostly absent from the public eye for a a few months at this point, [CMC.GetLeader] has appeared on the stage again. Quite literally in this case, as [TUB.GetLeader] has seen it fit to produce a special broadcast this night. The reason for this was clear as only a few minutes into the show after a short musical number by one of [TUB.GetLeader]s live bands, both of them walked in front of the camera, presenting their new born child to a cheering audience. The proud parents talked briefly about future plans concerning both nations before they retreated backstage again, wishing viewers and home audience alike a pleasant evening and giving the stage to an ensemble of various live acts."
-  nf_event_cmc.100.a: "I guess congratulations are in order."
-  
+
   nf_event_cmc.101.t: "Jackpot!"
-  nf_event_cmc.101.d: "Awesome....no, wait! That's a bad thing if you own a casino.\n\nSomeone made bank and went home with a massive pile of caps. He didn't even have the courtesy to tip the dealer or spend it at the in house bar. \nI guess that means your pockets will be a little less full in the near future."
+  nf_event_cmc.101.d: "Awesome....no, wait! That's a bad thing if you own a casino.\n\nSomeone made bank and went home with a massive pile of caps. He didn't even have the courtesy to tip the dealer or spend it at the in-house bar. \nI guess that means your pockets will be a little less full in the near future."
   nf_event_cmc.101.a: "Time to fasten our belts"
+
+  nf_event_cmc.102.t: "Full House"
+  nf_event_cmc.102.d: "Tonight Bobby and the Mutfruits played in front of a filled house. The eclectic mix of the ever so popular jazz interspersed with Luis Hunter playing his ‘Musical Chainsaw’ found great appreciation from the audience. While it was a small venue, the ticket sales and food and drink consumed will be a nice bonus."
+  nf_event_cmc.102.a: "Encore!"
+
+  nf_event_cmc.103.t: "New Dish"
+  nf_event_cmc.103.d: "The kitchen of the Ibofanga has gotten a recipe for a new dish called ‘cranberry meatball grinder’ from a caravan coming from the east. While the cook says the original recipe requires meat from something called a ‘scorchbeast’, which nobody here has ever heard of, it does taste pretty damn nice with just regular brahmin meat. The first batch sold really well and we have arranged for the caravan to supply us with all the necessary ingredients we don’t have locally."
+  nf_event_cmc.103.a: "Enjoy your Meal"
+
+  nf_event_cmc.104.t: "Rowdy Guests"
+  nf_event_cmc.104.d: "Not every guest is here to have a good time. Some are just here to cause trouble. Or maybe that is their definition of a good time.\nIn any case, a group of intoxicated ^patrons decided to smash the windows of a local store, steal some of the goods on display and then vandalize some street lights along their route. Do you know how hard it is to get proper window pane large enough in size for a store window? The street lights will be easier to repair, but it will still take some time to find spare parts."
+  nf_event_cmc.104.a: "Maybe Happy Hour Wasn’t Such a Great Idea"
+
+  nf_event_cmc.105.t: "Popular New Cocktail"
+  nf_event_cmc.105.d: "After the opening of a local Black Drink brewery some enterprising individual has tried to combine it with multiple alcoholic beverages. The one that stuck out was mixing it with equal parts Roentgen Rum and topping it with a prickly pear fruit. Refreshing and invigorating, allowing guests to enjoy the night life until they eventually crash and burn in their overpriced hotel suites. Overall a net win for us."
+  nf_event_cmc.105.a: "Cheers!"
+
+  nf_event_cmc.106.t: "A Good Evening"
+  nf_event_cmc.106.d: "While nothing special was happening this evening, earnings were good all around. We should invest this money back into our casinos. As long as even slow evenings can bring in a nice profit, we are doing well."
+  nf_event_cmc.106.a: "Onto the Next Day!"
+
+  nf_event_cmc.107.t: "An New Old Act!"
+  nf_event_cmc.107.d: "It appears that someone has revived a pre-war singer who was cryogenically frozen! After over two hundred years on ice, she's taken to the new world with surprising gusto, saying she will just dance the night away. \n\nGood news for us, although her love song set after a nuclear war is a little on the nose."
+  nf_event_cmc.107.a: "I'll Always Remember Us This Way."
+
+
+  nf_event_cmc.108.t: "Let's Not Ask Questions"
+  nf_event_cmc.108.d: "One of our recent guests is a shady individual who seems to come from up north. After a few drinks in, she mentioned she's from the 'Midwest Brotherhood' and has 'seen some stuff, man.' We didn't ask many questions, because she was mostly harmless and tipped well. But what the heck is a Calliope Queen? "
+  nf_event_cmc.108.a: "Can't be any worse than the gibbering choir, I guess."
+
+  nf_event_cmc.109.t: "Chicago, Chicago, That Toddling Town"
+  nf_event_cmc.109.d: "Apparently everyone from the Midwest is popping by, because we've had a couple of suspicious men with emblems of the old US of A drop in. Despite initial concerns, they were shockingly polite, paid well, and lost a lot of money, as if they didn't quite understand the concept. One of them mentioned with a new lady friend that more of his friends would be visiting real soon, and smirked.  \n\nAnyway, because we're not idiots we arrested them and they revealed they're from some group called the 'Enclave' in Illinois. We let them go, but confiscated their side-arms."
+  nf_event_cmc.109.a: "No group discounts."
+
+  nf_event_cmc.110.t: "A Mysterious Stranger Attacks!"
+  nf_event_cmc.110.d: "A wandering hooligan interfered in a battle between one of our warriors and a raider and shot our guy. Even the raiders were appalled and asked why he took their side. Apparently, the fool assumed we were the villains because of the poor quality of our hospitality industry."
+  nf_event_cmc.110.a: "Everybody's a critic."
+  nf_event_cmc.110.a_tt: "Best case, the man's an amoral lunatic. \n\nWorst case, a prolific serial killer."
+
+
+  nf_event_cmc.111.t: "Positive Review in the Ghoul Travel Guide!"
+  nf_event_cmc.111.d: "The Ghoul Travel Guide issued a rave review for our hotel and services! The travel guide praised the all you can eat buffet, the generous casino tables, and the wonderful gift shops we run. This will surely attract more business, although we didn't think ghouls ate?"
+  nf_event_cmc.111.a: "Eh, we'll charge them either way."
+
+
+  nf_event_cmc.112.t: "A Negative Review from the Ghoul Travel Guide"
+  nf_event_cmc.112.d: "Apparently when we kicked out a ghoul for smelling, not tipping well, and cheating at cards, we didn't realize that he worked for the Ghoul Travel Guide. Actually, according to the guide, one of our bartenders was a bigot and kicked him out for smelling. Maybe we should have checked with other employees before throwing him out . . ."
+  nf_event_cmc.112.a: "Quick, hire a new head of Non-human Resources."
+
+  nf_event_cmc.113.t: "A Slow Evening"
+  nf_event_cmc.113.d: "Not many guests, some events that were too expensive to set up and didn't pull a big enough crowd. Some logistical troubles. It all just piles up. While not the end of the world, it did hurt our bottom line a bit."
+  nf_event_cmc.113.a: "Oh, Well"
+ #CHC Teaser
+  nf_event_cmc.300.t: "Just a Dream... Hopefully"
+  nf_event_cmc.300.d: "I awoke, sudden, drenched in sweat. On my lips not a scream, but the last notes of a melody §c(song?)§!. But which? I don't remember, but i feel i have never heard it before. How could i sing it then?. Images §c(visions?)§! came with it, already slowly fading, as dreams do. But i feel there was more to them than just a dream, some importance §c(danger?)§!. I have to remember.\nThere was a throne...a cell §c(coffin?)§!. Maybe all of these. Beings where chained to the it. The chains that were were holding them also gave them power. Terrifying power. But the chains were crumbling §c(torn apart?)§!. The chains were ancient, as were the beings.\n\nI feel the throne was somewhere in the west §c(underground?)§!. But the beings on it were facing towards us with eyes that promise danger §cP(death)§!."
+  nf_event_cmc.300.a: "A Bad Omen"
+  CHC_orchestra_flag: "§PThe Band Began to Play§!"
+
+  #CHC Teaser
+  nf_event_cmc.301.t: "Do You Hear What I Hear?"
+  nf_event_cmc.301.d: "If you listened to the §cheartbeat of a star§! or the §claughter of a tree§! you might know the wonder and joy that comes from the Choir. Their words, their melody silent for so long, has grown in power. The First Chorister loves the world, despite all it has done to wrong her. She just wants to share the joy with the rest of the Wasteland. \n\n§cCome, and listen.§!"
+  nf_event_cmc.301.a: "I just can't get it out of my head."

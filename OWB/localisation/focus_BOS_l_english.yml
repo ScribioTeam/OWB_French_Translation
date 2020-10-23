@@ -165,10 +165,10 @@
   bos_shichapter_desc: "The Shi could easily be conquered by our forces, but many within the brotherhood fear that such a choice of action would lead to the mass destruction of their secretive technological archives. Instead, an alternative method has been proposed... why not simply reopen the Brotherhood chapter we used to run out of that city?"
 
   bos_demand: "Demand the Bay"
-  bos_demand_desc: "Our recent show of force against the Shi has shaken the mighty NCR. We could make use of this moment and attempt to demand the NCR owned section of the Bay Area, Point-Green."
+  bos_demand_desc: "The NCR's recent war has put them into a precarious position. We could make use of this moment and attempt to demand the NCR owned section of the Bay Area."
 
   bos_emperor: "Audience with the Emperor"
-  bos_emperor_desc: "The Emperor of the Shi has deemed us worth of a formal meeting, following the founding of our chapter. He is a marvellous machine, and while many are uncomfortable with the presence of this AI, many more are eager to hear the secrets he could teach us."
+  bos_emperor_desc: "The Emperor of the Shi has deemed us worth of a formal meeting, following the founding of our chapter. He is a marvellous man - at least, according to his advisor."
 
   bos_shisecrets: "Stolen Secrets"
   bos_shisecrets_desc: "The ground infantry of the Shi bring with them advance Gauss Weaponry, the likes of which can't be produced anywhere else in the wasteland. By controlling their areas of manufacturing, we can take such weapons from their producers."
@@ -379,3 +379,21 @@
 
   bos_forbiddenweapons: "Forbidden Weapons"
   bos_forbiddenweapons_desc: "The production of Plasma Weaponry, the long-standing hallmark of the most advanced factions in the wasteland, was once thought impossible. With the aid of information stolen from the Enclave, we believe our facilities can be retrofitted to produce them on mass!"
+
+  #Sunburst
+  bos_elijahs_victory_at_sunburst: "Elijah's Victory at Sunburst!"
+  bos_elijahs_victory_at_sunburst_desc: "None of the elders truly believed that Elijah would win out there in the east. However, it seems word has gotten back that he has done the impossible! Lets send him a small supply of Power Armour to help him keep control of the Mojave."
+  
+  #Arthurian Brotherhood
+  spellcheck_ignore: "bos_knights_of_the_round_table_desc, bos_the_holy_hand_grenade_desc, bos_holy_hand_grenade_tt_3"
+  bos_the_arthurian_brotherhood: "The Arthurian Brotherhood"
+  bos_the_arthurian_brotherhood_desc: "The Arthurian Squadron, while unorthodox embodied the spirit of the Brotherhood better then any other. Lets honour their legacy and reform Lost Hills to match their image!"
+  bos_arthurian_brotherhood_tt: "We embrace the identity of the Arthurian Squadron's legacy.\nMari Törni will now be known as 'Catherine Törni', to honour their legacy."
+  bos_knights_of_the_round_table: "Knights of the Round Table"
+  bos_knights_of_the_round_table_desc: "We're Knights of the Round Table.\nWe dance whene'er we're able.\nWe do routines and chorus scenes\nWith footwork impeccable!"
+  bos_the_holy_hand_grenade: "The Holy Hand Grenade"
+  bos_the_holy_hand_grenade_desc: "Four shalt thou not count, neither count thou two, excepting that thou then proceed to three. Five is right out. Once the number three, being the third number, be reached, then lobbest thou thy Holy Hand Grenade of Antioch towards thy foe, who, being naughty in My sight, shall snuff it."
+  bos_holy_hand_grenade_tt_1: "The vile, nefarious republic has met their end."
+  bos_holy_hand_grenade_tt_2: "We have struck down, or brought the Dragon of the Orient under our banner."
+  bos_holy_hand_grenade_tt_3: "The year is at least Anno Domini 2280."
+  

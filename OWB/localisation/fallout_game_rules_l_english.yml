@@ -62,6 +62,12 @@
   RULE_AI_BEHAVIOR_KHA_REGIS:0 "@KHA Regis"
   RULE_AI_BEHAVIOR_KHA_REGIS_DESC:0 "The Great Khans will go in a new direction under Regis, leading to closer ties with the NCR."
 
+
+  RULE_AI_BEHAVIOR_LAC:0 "@LAC Lanius' Cohort"
+  RULE_AI_BEHAVIOR_LAC_DEFAULT:0 "Default"
+  RULE_AI_BEHAVIOR_LAC_DEFAULT_DESC:0 "Lanius will strike north into Colorado before seeing his eyes upon Texas."
+
+
   RULE_AI_BEHAVIOR_MOJ:0 "@MOJ Mojave Chapter"
   RULE_AI_BEHAVIOR_MOJ_DEFAULT:0 "Default"
   RULE_AI_BEHAVIOR_MOJ_DEFAULT_DESC:0 "The Mojave Chapter will either follow their historical path or select a random one based on the historical focus option."
@@ -73,9 +79,9 @@
   RULE_AI_BEHAVIOR_MOJ_VERONICAS_AID_DESC:0 "The Mojave Chapter will prepare for Operation Sunburst by rallying several minor groups in the Mojave against the NCR."
 
   RULE_MAP_SETUP_TNK_STATUS: "@TNK Think Tank"
-  RULE_MAP_SETUP_TNK_STATUS_DEFAULT: "Default"
+  RULE_MAP_SETUP_TNK_STATUS_DEFAULT: "@MOJ Default"
   RULE_MAP_SETUP_TNK_STATUS_DEFAULT_DESC: "The Think Tank can only appear as a result of @MOJ Mojave Chapter's focus tree."
-  RULE_MAP_SETUP_TNK_STATUS_OLD_WORLD_BLUES: "Old World Blues"
+  RULE_MAP_SETUP_TNK_STATUS_OLD_WORLD_BLUES: "@TNK Old World Blues"
   RULE_MAP_SETUP_TNK_STATUS_OLD_WORLD_BLUES_DESC: "The Think Tank appears on game start."
 
   RULE_AI_BEHAVIOR_NEW:0 "@NEW New Reno"
@@ -341,6 +347,12 @@
   RULE_CAPS_SYSTEM_TOGGLE_DISABLED:0 "Disable the Caps System"
   RULE_CAPS_SYSTEM_TOGGLE_DISABLED_DESC:0 "The Caps system will be completely disabled."
 
+  RULE_ALLOW_TECH_ADVANCEMENTS: "Allow Tech Advancement"
+  RULE_OPTION_TECH_STANDARD: "Standard Technology Rules"
+  RULE_OPTION_TECH_STANDARD_DESC: "The standard game rule, meaning your tribals cannot build advanced power armor after 6 years."
+  RULE_OPTION_TECH_ALLOW: "Allow Technological Advancement"
+  RULE_OPTION_TECH_ALLOW_DESC: "Designed to let players decide that yes, the White Legs are capable of building ZAX Computers with enough strength of will. To be fair, it worked for the Chosen One . . ."
+
   RULE_FOLLOWERS_SYSTEM_TOGGLE:0 "Followers System Toggle"
   RULE_FOLLOWERS_SYSTEM_TOGGLE_ENABLED:0 "Enable the Followers System"
   RULE_FOLLOWERS_SYSTEM_TOGGLE_ENABLED_DESC:0 "The Followers system will be enabled in all it's glory."
@@ -359,3 +371,9 @@
   RULE_ALLOW_DISMANTLE_FACTION_NOSTARTER_DESC:0 "Disable the factions that are already existing on startup of a game from dismantling themselves."
   RULE_ALLOW_DISMANTLE_FACTION_BLOCKED_DESC:0 "Dismantling of factions is disabled for everyone."
   RULE_DISMANTLE_FACTION_NOSTARTER_TT:0 "Game rule: §RFactions made on game start can not be dismantled.§!"
+ 
+  RULE_MISC_OWB_WILD_WASTELAND: "Wild Wasteland"
+  RULE_MISC_OWB_WILD_WASTELAND_DISABLED: "Disabled"
+  RULE_MISC_OWB_WILD_WASTELAND_DISABLED_DESC: "The Wild Wasteland game rule is used to toggle funny but strange and mostly benign circumstances across the Wasteland. By default it is off."
+  RULE_MISC_OWB_WILD_WASTELAND_ENABLED: "Enabled"
+  RULE_MISC_OWB_WILD_WASTELAND_ENABLED_DESC: "The Wild Wasteland game rule is used to toggle funny but strange and mostly benign circumstances across the Wasteland. By default it is off."

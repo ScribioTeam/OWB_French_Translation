@@ -26,8 +26,8 @@
   caesar_not_leader_tt:0 "§YCaesar§! is not the current country leader of §Y[CES.GetNameDef]§!"
   lucius_leader_tt:0 "§YLucius§! is the current country leader of §Y[CES.GetNameDef]§!"
   lucius_not_leader_tt:0 "§YLucius§! is not the current country leader of §Y[CES.GetNameDef]§!"
-  lanius_leader_tt:0 "§YLanius§! is the current country leader of §Y[CES.GetNameDef]§!"
-  lanius_not_leader_tt:0 "§YLanius§! is not the current country leader of §Y[CES.GetNameDef]§!"
+  lanius_leader_tt:0 "§YLanius§! is the current country leader of §Y[LAC.GetNameDef]§!"
+  lanius_not_leader_tt:0 "§YLanius§! is not the current country leader of §Y[LAC.GetNameDef]§!"
   vulpes_leader_tt:0 "§YVulpes§! is the current country leader of §Y[CES.GetNameDef]§!"
   vulpes_not_leader_tt:0 "§YVulpes§! is not the current country leader of §Y[CES.GetNameDef]§!"
 

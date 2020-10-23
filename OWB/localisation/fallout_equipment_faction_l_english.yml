@@ -22,9 +22,9 @@
   ARM_ballistic_equipment_2_desc:0 "Few adversaries would consider a hunting rifle to be dangerous, yet they are gravely mistaken. It's threat comes from the fact it is a rechambered bolt-action, made to fire a shortened anti-material round able to pierce straight through most obstacles, and even light armor. What it gains in recoil, it makes up for in sheer firepower."
 
   # ARR (Arroyo)
-#  ARR_ballistic_equipment_2: ""
-#  ARR_ballistic_equipment_2_short: ""
-#  ARR_ballistic_equipment_2_desc: ""
+#  ARR_ballistic_equipment_2: "Marksman Rifle"
+#  ARR_ballistic_equipment_2_short: "Marksman Rifle"
+#  ARR_ballistic_equipment_2_desc: "Arroyo's proximity to the NCR gave them more than enough opportunities to acquire their standard Service Rifle, and tweak it to their heart's desire. This modified version is expressly made for long-range squad support, with an elongated barrel, addition of a scope, and conversion to a DMR configuration able to fire high-velocity cartridges."
 
   # ASS (Assassin City)
   ASS_ballistic_equipment_2:0 "Blackjack Assault Shotgun"
@@ -297,6 +297,9 @@
   DSL_explosive_demolitions_equipment_3:0 "Red Victory Grenade Rifle"
   DSL_explosive_demolitions_equipment_3_short:0 "Grenade Rifle"
   DSL_explosive_demolitions_equipment_3_desc:0 "A prototype converted to mass production, this captured american weapon has been modified for chinese use by lightening the wooden assembly with the use of alloy, and making it able to fire devastating 40mm dual-purpose grenades. Originally intended to fight american power armors in the frozen north, it is still equally suited to devastating strikes on soft target, or focused fire to crack open armor."
+  DSL_power_armor_equipment_tbh:0 "Chinese Power Armor"
+  DSL_power_armor_equipment_tbh_short:0 "Chinese PA"
+  DSL_power_armor_equipment_tbh_desc:0 "China's attempt to replicate technological advancements made by the United States of America in the field of powered infantry armor, and remain competitive against the opposing suits even in the Post-War."
 
   # EHT (The Eighties)
   EHT_ballistic_equipment_1: "Sawn off shotgun"
@@ -334,6 +337,11 @@
   GDH_ballistic_equipment_2: "Custom 10mm SMG"
   GDH_ballistic_equipment_2_short: "10mm SMG"
   GDH_ballistic_equipment_2_desc: "An update on the decade-old 10mm submachine-gun design used the wasteland over, this beauty features a collapsible stock for control during full-auto fire, and a lengthened barrel for better accuracy as well as muzzle velocity. Get a deal on this baby today, and we'll throw two crates of premium 10mm military-grade cartridges! You don't want to miss a deal like this for a weapon like that, believe me."
+
+  #GRA (Grabbers)
+  GRA_power_armor_equipment_2:0 "Horse PA"
+  GRA_power_armor_equipment_2_short:0 "Horse PA"
+  GRA_power_armor_equipment_2_desc:0 "Stop Horsing Around. Neigh."
 
   # HEA (Heavens Gate)
   HEA_melee_equipment_1:0 "Crusader Cudgel"
@@ -381,27 +389,30 @@
   HRO_ballistic_equipment_3_desc: "A highly advanced European weapon imported to the United States to arm special operation units, the P90 has been discovered in army facilities, and studied to be manufactured en-mass. Extremely compact, designed for penetration against armoured targets, and able to hold a staggering fifty 5.7mm cartridge, the high rate of fire combined with anti-armor capabilities make it the ultimate close range weapon."
 
   # HXL (Hexie Lu)
-  HXK_melee_equipment_3: "Chinese Officer Sword"
-  HXK_melee_equipment_3_short: "Officer Sword"
-  HXK_melee_equipment_3_desc: "A hand crafted sword, based on designs from the homeland"
-  HXK_ballistic_equipment_1: "Shanxi Type 17"
-  HXK_ballistic_equipment_1_short: "Type 17 Pistol"
-  HXK_ballistic_equipment_1_desc: "The Shanxi Type 17 was a mass-produced sidearm before the Great War. Originally produced in 1929 by the Taiyuan Arsenal for the army of Yan Xishan, this pistol is now a relic of the Sino-American War."
-  HXK_ballistic_equipment_2: "Handmade Assault Rifle"
-  HXK_ballistic_equipment_2_short: "Handmade Assault Rifle"
-  HXK_ballistic_equipment_2_desc: "A simple design derived on the Type 93. It's a cheap imitation, while inferior, its largely simpler to produce and maintain. This older design is preferred by some of the older families among those of the HXK, often preferred due to familiarity and sentimental reasons over actual fire power."
-  HXK_ballistic_equipment_3: "Type 93 Chinese Assault Rifle"
-  HXK_ballistic_equipment_3_short: "Chinese Assault Rifle"
-  HXK_ballistic_equipment_3_desc: "The Type 93 Chinese assault rifle was designed and manufactured by a Chinese industrial conglomerate for the People's Liberation Army during the Resource Wars, for the purpose of equipping the Chinese infiltrators and American fifth-columnists. To this end, it was chambered for the abundant 5.56mm round and utilizes a 24-round magazine."
-  HXK_spec_ops_equipment_4: "Hei Gui Stealth Armour"
-  HXK_spec_ops_equipment_4_short: "Stealth Armour"
-  HXK_spec_ops_equipment_4_desc: "Chinese stealth armour was used during the Chinese invasion of Alaska and was the Chinese solution to invasion by U.S. forces in power armour. Available to elite Chinese Crimson Dragoon troops as well as the counter-insurgency/terror units before and during the Great War, the technology continues to be used by the HXK to keep watch over their enemies."
-  HXK_spec_ops_equipment_5: "Fùchóu Jīngshén Reinforced Stealth Armor"
-  HXK_spec_ops_equipment_5_short: "Reinforced Stealth Armor"
-  HXK_spec_ops_equipment_5_desc: "A natural evolution over its lightly armoured counterpart, the Fùchóu Jīngshén armor integrates key changes, with the goal of improving survivability in the field, such as a composite armor chest plate, and lightweight alloy helmet. To compensate, an additional power source was integrated in the form of a hard plate worn in the back, increasing the stealth field's effective time, as well as its stability in combat situations."
-  HXK_explosive_demolitions_equipment_3:0 "Red Victory Grenade Rifle"
-  HXK_explosive_demolitions_equipment_3_short:0 "Grenade Rifle"
-  HXK_explosive_demolitions_equipment_3_desc:0 "A prototype converted to mass production, this captured american weapon has been modified for chinese use by lightening the wooden assembly with the use of alloy, and making it able to fire devastating 40mm dual-purpose grenades. Originally intended to fight american power armors in the frozen north, it is still equally suited to devastating strikes on soft target, or focused fire to crack open armor."
+  HXL_melee_equipment_3: "Chinese Officer Sword"
+  HXL_melee_equipment_3_short: "Officer Sword"
+  HXL_melee_equipment_3_desc: "A hand crafted sword, based on designs from the homeland"
+  HXL_ballistic_equipment_1: "Shanxi Type 17"
+  HXL_ballistic_equipment_1_short: "Type 17 Pistol"
+  HXL_ballistic_equipment_1_desc: "The Shanxi Type 17 was a mass-produced sidearm before the Great War. Originally produced in 1929 by the Taiyuan Arsenal for the army of Yan Xishan, this pistol is now a relic of the Sino-American War."
+  HXL_ballistic_equipment_2: "Handmade Assault Rifle"
+  HXL_ballistic_equipment_2_short: "Handmade Assault Rifle"
+  HXL_ballistic_equipment_2_desc: "A simple design derived on the Type 93. It's a cheap imitation, while inferior, its largely simpler to produce and maintain. This older design is preferred by some of the older families among those of the HXL, often preferred due to familiarity and sentimental reasons over actual fire power."
+  HXL_ballistic_equipment_3: "Type 93 Chinese Assault Rifle"
+  HXL_ballistic_equipment_3_short: "Chinese Assault Rifle"
+  HXL_ballistic_equipment_3_desc: "The Type 93 Chinese assault rifle was designed and manufactured by a Chinese industrial conglomerate for the People's Liberation Army during the Resource Wars, for the purpose of equipping the Chinese infiltrators and American fifth-columnists. To this end, it was chambered for the abundant 5.56mm round and utilizes a 24-round magazine."
+  HXL_spec_ops_equipment_4: "Hei Gui Stealth Armour"
+  HXL_spec_ops_equipment_4_short: "Stealth Armour"
+  HXL_spec_ops_equipment_4_desc: "Chinese stealth armour was used during the Chinese invasion of Alaska and was the Chinese solution to invasion by U.S. forces in power armour. Available to elite Chinese Crimson Dragoon troops as well as the counter-insurgency/terror units before and during the Great War, the technology continues to be used by the HXL to keep watch over their enemies."
+  HXL_spec_ops_equipment_5: "Fùchóu Jīngshén Reinforced Stealth Armor"
+  HXL_spec_ops_equipment_5_short: "Reinforced Stealth Armor"
+  HXL_spec_ops_equipment_5_desc: "A natural evolution over its lightly armoured counterpart, the Fùchóu Jīngshén armor integrates key changes, with the goal of improving survivability in the field, such as a composite armor chest plate, and lightweight alloy helmet. To compensate, an additional power source was integrated in the form of a hard plate worn in the back, increasing the stealth field's effective time, as well as its stability in combat situations."
+  HXL_explosive_demolitions_equipment_3:0 "Red Victory Grenade Rifle"
+  HXL_explosive_demolitions_equipment_3_short:0 "Grenade Rifle"
+  HXL_explosive_demolitions_equipment_3_desc:0 "A prototype converted to mass production, this captured american weapon has been modified for chinese use by lightening the wooden assembly with the use of alloy, and making it able to fire devastating 40mm dual-purpose grenades. Originally intended to fight american power armors in the frozen north, it is still equally suited to devastating strikes on soft target, or focused fire to crack open armor."
+  HXL_power_armor_equipment_tbh:0 "Chinese Power Armor"
+  HXL_power_armor_equipment_tbh_short:0 "Chinese PA"
+  HXL_power_armor_equipment_tbh_desc:0 "China's attempt to replicate technological advancements made by the United States of America in the field of powered infantry armor, and remain competitive against the opposing suits even in the Post-War."
 
   # IMO (Iron Mongers)
   IMO_heavy_infantry_tech_1:0 "Mantis Gearjocks"
@@ -535,6 +546,11 @@
   MXC_spec_ops_equipment_5_short: "Composite Recon Armour"
   MXC_spec_ops_equipment_5_desc: "By using advanced materials and construction techniques, we can produce recon armour that is both lighter and more durable than previous models."
 
+  # NAV (Navajo)
+  NAV_energy_equipment_2:0 "Wattz 2000 Laser Carbine"
+  NAV_energy_equipment_2_desc:0 "The Wattz 2000 is the choice of laser marksmen everywhere."
+  NAV_energy_equipment_2_short:0 "Wattz 2000"
+
   # NCN (New Canaan
   NCN_ballistic_equipment_1: ".45 Automatic Pistol"
   NCN_ballistic_equipment_1_short: ".45 Auto Pistol"
@@ -612,6 +628,9 @@
   SHI_explosive_demolitions_equipment_3:0 "Red Victory Grenade Rifle"
   SHI_explosive_demolitions_equipment_3_short:0 "Grenade Rifle"
   SHI_explosive_demolitions_equipment_3_desc:0 "A prototype converted to mass production, this captured american weapon has been modified for chinese use by lightening the wooden assembly with the use of alloy, and making it able to fire devastating 40mm dual-purpose grenades. Originally intended to fight american power armors in the frozen north, it is still equally suited to devastating strikes on soft target, or focused fire to crack open armor."
+  SHI_power_armor_equipment_tbh:0 "Chinese Power Armor"
+  SHI_power_armor_equipment_tbh_short:0 "Chinese PA"
+  SHI_power_armor_equipment_tbh_desc:0 "China's attempt to replicate technological advancements made by the United States of America in the field of powered infantry armor, and remain competitive against the opposing suits even in the Post-War."
 
   # SIN (Sinaloa Cartel)
   SIN_ballistic_equipment_1: "M&A 9mm Custom Pistol"
@@ -634,6 +653,11 @@
   SKY_ballistic_fireteam_equipment_2: "ABR6-E4 SAW"
   SKY_ballistic_fireteam_equipment_2_short: "ABR6"
   SKY_ballistic_fireteam_equipment_2_desc: "The latest variant of a venerable series of infantry LMG, this lighter SAW variant modernizes it's age-old design by lightening the overall weapon while offering a conversion to the more tactically flexible 5.56 cartridge. Designed for utmost reliability in the field, and improved ability for continuous fire with it's redesigned quick-change barrel assembly, the ABR6-E4 still finds many use throughout the wasteland as more and more of them are discovered in abandoned airbases."
+
+  # SUN (Sun dogs)
+  SUN_power_armor_equipment_2:0 "Horse PA"
+  SUN_power_armor_equipment_2_short:0 "Horse PA"
+  SUN_power_armor_equipment_2_desc:0 "Stop Horsing Around. Neigh."
 
   # TAA (Texas Arms Assosiation)
   TAA_ballistic_equipment_1:0 "Silenced Sidearm"
@@ -690,6 +714,23 @@
   TPM_ballistic_equipment_2: "Single Action Revolver"
   TPM_ballistic_equipment_2_short: "Peacemaker"
   TPM_ballistic_equipment_2_desc: "The modern variant of a revolver so beloved it's production was restarted thrice, this single-action six-shot revolver is revered by it's users for it's compact wrist-breaking firepower, quick-loading cylinder removal system, and being cheap enough to simply carry many of them into battle. Loaded in .45 colt, preferred use still is and always will be to shoot one from each hand."
+  
+  # TTM (Twin Mothers)
+  TTM_infantry_equipment_1: "Wooden Recurve Bow"
+  TTM_infantry_equipment_1_short: "Recurve Bow"
+  TTM_infantry_equipment_1_desc: "A simple wooden recurve bow, this weapon's deadliness mostly comes from the Twin Mothers tribe's accuracy with them. Able to snipe at target far beyond what regular bowmen would be able to, they can easily pull enemy troops into deadly ambushes and skirmishes."
+  TTM_ballistic_equipment_1: "Advanced Recurve Bow"
+  TTM_ballistic_equipment_1_short: "Commando Bow"
+  TTM_ballistic_equipment_1_desc: "A shorter composite recurve bow allows Twin Mothers soldiers to move more swiftly, and benefit from better manoeuvrability because of the weapon's smaller profile. All that while still benefiting from powerful draw capabilities able to launch an arrow right through most armor."
+  TTM_ballistic_equipment_2: "Compound Bow"
+  TTM_ballistic_equipment_2_short: "Compound Bow"
+  TTM_ballistic_equipment_2_desc: "Simple systems of pulleys added to a composite short bow result in this deadly weapon able to not only store twice to thrice the kinetic energy, but also integrate a simple pull trigger system to 'pre-load' arrows, allowing accurate aiming and shooting while saving the stamina of the bowman. "
+  TTM_ballistic_equipment_3: "Explosive Bow"
+  TTM_ballistic_equipment_3_short: "Explosive Bow"
+  TTM_ballistic_equipment_3_desc: "More advanced pulley systems result in higher velocity and thus accuracy, while improving the arrow design lessens the chance of a deflection upon armor. The main improvement in this design comes from replacing the arrowhead with an explosive. Having no need for propellant, the overall content of the bursting charge far surpasses the ones of even infantry grenades."
+  TTM_ballistic_equipment_4: "Piercing Warhead Bow"
+  TTM_ballistic_equipment_4_short: "Piercing Bow"
+  TTM_ballistic_equipment_4_desc: "The addition of a reinforced base, as well as a simple copper liner, allows the explosive warhead to concentrate it's blast on a single point. The combination of its silent operation, high velocity and piercing capabilities makes it far above even firearms in ambush combat, able to blow fist-sized holes through even power armor, not even mentioning the effect against soft target."
 
   # TUB (Tubeheads)
   TUB_ballistic_equipment_1: "12.7mm Pistol"
