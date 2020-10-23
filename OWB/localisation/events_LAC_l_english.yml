@@ -1,7 +1,4 @@
 ﻿l_english:
-  nf_lac.1.t: "Drastic Measures"
-  nf_lac.1.d: "Caesar has vanished into thin air, and many presume him dead. In his place, a so-called Kaiser has come, bearing the mark of Mars... or so they say! But Lanius knows the truth, as does his cohort. The Kaiser is full of shit! Vulpes is a god-damn bastard! Fuck this new government, none of them have any right to rule from the seat of Flagstaff!\n\nWith his strength mustered in the east, Lanius and his garrisons have risen up against the supposed Kaiser's draconian rule, seeking to create a true successor state. Although we've pledged to leave the \"Kaiser\" alone, in truth Lanius is merely mustering his strength.\n\nLet us hope his provisions and eastward invading armies will be enough to prop up this new fledgling nation..."
-  nf_lac.1.a: "Curse that §R\"Kaiser!\"§!"
 
   nf_lac.2.t: "Loyal Reinforcements"
   nf_lac.2.d: "Lanius's rallying cry has not gone unanswered! From across the pretender's lands, loyal soldiers have come flooding in to support our righteous cause, fed-up with Caesar's old lackies and their devotion to the interloper. Many among their ranks are seasoned veterans, and they bring with them hordes of legionaries willing to fight for what's right.\n\nBut that's not all they bring with them, with the advancing armies comes news of dastardly schemes being laid out by the new leader of Flagstaff; plans for supposed progress and stability. We see through his lies! This dimensional demon hiding within the skin of man seeks to rid the earth of the righteous embrace of Mars, and we shall have no part in it!\n\nRather, we will die fighting against it!"
@@ -20,3 +17,90 @@
   nf_lac.5.d: "§bThere's a man in front of you. He's telling you about a book, but you feel like you know him. \"I'm a priest of Mars\" he tells you, his body shuddering beneath a deep red robe. \"We've long advocated for the adoption of The Pen. The time is right, so why not pick It up, and write your name in the annals of history?\"\n\nYou look down at the book he's put on the table. It doesn't look like a history book, but you've never read a book, so who are you to judge? You feel something alien in your hand. It's The Pen. You look at it curiously, then look at the man. \"It can be difficult to Write, can't it? Do you know how to spell your name?" You nod. You've known your name since you were born, obviously.\n\nHe opens the book for you, how nice of him. He guides you to the right page, right where you need to write your name. Your men look at you curiously, expectantly, hungrily. They want you to do this, to do something. It's been difficult since the Kaiser arrived, things feel off somehow. The air tastes more alive, you think.\n\nThe book is looking up at you in the room. You don't look like the Son of Mars, but it doesn't know about religion, so what would it know? All it knows is that you need to write in it NOW.\n\nDo you remember what to write?§!"
   nf_lac.5.a: "§R...§!"
   nf_lac.5.b: "§R...§!"
+
+
+  nf_lanius.50.t: "Slaves from Lanius"
+  nf_lanius.50.d: "As a show of his loyalty to [CES.GetLeader], Lanius has sent a new batch of slaves from his conquest.  We can certainly find a use for these profligates."
+  nf_lanius.50.a: "Thank you, my servant."
+
+
+   nf_lanius.1.t: "The Beast of the East"
+   nf_lanius.1.d: "Lanius was the greatest warrior of the Hidebarks, one of the greatest foes the Legion face.  Or was he born a slave, whose natural talents let him become a legionary at the age of 12? Is it true that he slaughtered all the males of his tribe? Or were they assimilated into the Legion? Only Caesar and Lanius know for sure, and they aren't talking. What is undeniable is that Lanius is among the greatest leaders of the Legion. Some call him a savage brute, but there may be more to the man behind the mask than they know..."
+   nf_lanius.1.a: "He is a natural leader of men."
+   nf_lanius.1.b: "He moves like the wind."
+   nf_lanius.1.c: "Some are born lucky. Lanius was lucky to be born."
+   nf_lanius.1.e: "Some wonder whether he is smarter than Caesar himself...."
+
+   nf_lanius.2.t: "Swift, Honest, Purchased With Blood"
+   nf_lanius.2.d: "The Legion's resources are vast, but not infinite.  Lanius had to choose who to bring with him to the east. Some said the strongest, skilled with firearms.  Some said a horde of fanatics, ready to kill and be killed.  And some said the swiftest. But the decision was Lanius' alone."
+   nf_lanius.2.a: "A well equipped expedition."
+   nf_lanius.2.b: "The survivors will gain skill."
+   nf_lanius.2.c: "The chariots thunder across the plains."
+
+   nf_lanius.2.t: "Swift, Honest, Purchased With Blood"
+   nf_lanius.2.d: "The Legion's resources are vast, but not infinite.  Lanius had to choose who to bring with him to the east. Some said the strongest, skilled with firearms.  Some said a horde of fanatics, ready to kill and be killed.  And some said the swiftest. But the decision was Lanius' alone."
+   nf_lanius.2.a: "A well equipped expedition."
+   nf_lanius.2.b: "The survivors will gain skill."
+   nf_lanius.2.c: "The chariots thunder across the plains."
+
+   nf_lanius.3.t: "Forging A Vast, Razor-Sharp Scythe. "
+   nf_lanius.3.d: "When Lanius occupied Bernalillo, he had to decide what to do with its inahbitants. The town was home to a dissolute band of slavers, fat on profit. The profligates fell quickly before the swords and guns of the Legion, but Lanius had to decide the fate of the survivors."
+   nf_lanius.3.a: "The Legion can always use more slaves."
+   nf_lanius.3.b: "Confiscate their wealth."
+   nf_lanius.3.c: "They canp prove their worth on the battlefield!"
+
+
+   nf_lanius.4.t: "Woe to the Vanquished!"
+   nf_lanius.4.d: "The Lambda Tribe of New Mexico were enslaved without mercy, much like the Hidebarks were. To show his victory, Lanius named their chief village the Staging Grounds.  As for the tribe itself?"
+   nf_lanius.4.a: "Behold, more slaves!"
+   nf_lanius.4.b: "They joined the Legion's ranks."
+   nf_lanius.4.c: "They were taught the virtue of industria."
+
+
+
+   nf_lanius.6.t: "Turning The Page"
+   nf_lanius.6.d: "The monasteries of Santa Fe have fallen; the bones of Leibowitz are ash. And yet... there is a lot of learning in this place, hallowed tomes which are worth studying. The monks have hoarded not just the words of their dead god, but books on crafting, healing, and more. And even their scrivenings, of a carpenter and another Caesar, may be worth studying. "
+   nf_lanius.6.a: "How can one be a fisher of men?"
+   nf_lanius.6.b: "Let the monks serve the Legion."
+
+
+   nf_lanius.7.t: "Raiders of the Lost Vault"
+   nf_lanius.7.d: "Plainsrunners grew fat upon the loot of the Executives, but Lanius' conquest left him with a choice. He could take their slave population for his own, and direct them to farm the banks of the Pecos for the Legion. Or he could preserve the Executives in a position of honour, that they might use their arts for the Legion."
+   nf_lanius.7.a: "We have no need for metal men."
+   nf_lanius.7.b: "We can find more slaves elsewhere."
+
+
+
+   nf_lanius.8.t: "Magics"
+   nf_lanius.8.d: "Roswell's cultists did not know why their tools and spells worked, but they knew how to use them. While they were profligates, perhaps there was something of value in their temples?"
+   nf_lanius.8.a: "Strip the place for parts."
+   nf_lanius.8.b: "We can make new weapons of war."
+
+
+   nf_lanius.9.t: "The Fruits of Victory"
+   nf_lanius.9.d: "The Mescalero survived the Great War on the heart of the Mescal plant, and quenched their thirst on the sweet fruit of the yucca tree under the burning sun. They prospered despite the Great War and its aftermath, forging a home in the Wasteland. \n\nNow the survivors tended their orchards under the eyes of the Legion, another in the line of their would-be conquerors. But Lanius would learn much from his foes, and even the Mescalero's former leader Lozen would admit he was not without  wisdom. For the Beast from the East believed imitation was the sincerest form of flattery."
+   nf_lanius.9.a: "The Apache's nomadic ways will serve us well."
+   nf_lanius.9.b: "We can learn much from their warriors."
+
+
+   nf_lanius.10.t: "The Land of Heart's Desire"
+   nf_lanius.10.d: "Before the War, some called New Mexico the Land of Enchantment. But Lanius thought of it by an older name. Lanius learned to fight and conquer in Arizona; but it was nin New Mexico he learned to rule. \n\nIt was not enough to crush an enemy in battle. Lanius learned what came after. Butchering a town would leave no one to feed the Legion; and slaves could not glory in his conquests. To that end, Lanius took the collar from Colorados' neck, and let the Executives' craftsmen forge new guns for the Cohort. And over time, the thoughts behind his mask began to change."
+   nf_lanius.10.a: "Building, like conquest, has a pleasure of its own."
+   nf_lanius.10.b: "But that cannot happen if they still resist."
+
+   nf_lanius.11.t: "All Exist to Test the Strength of the Legion"
+   nf_lanius.11.d: "For generations the tribe of the Painted Rock had painted history upon it, telling of their glories and triumphs. Lanius looked at it, the tales of hopes and fears, terrors and triumphs, without comment. After a moment, he looked at the man who knelt before him.  'Which of that blood, Dyed Blood, is your own? And which was from the Legion?' The man remained silent. 'Do not despair at your defeat, for you will be purified into something greater. Your men fought well and honourably, and shall find a new life! Your warriors have earned a place in my army; you shall serve us as part of something greater. And like me, you will look back, years from now, and wonder at how much of your life you wasted.' \n\nAs they watched, Legionaires poured red paint upon the rock. the history of a people vanished beneath the tide of red."
+   nf_lanius.11.a: "Arise, sons of Mars!"
+
+
+   nf_lanius.12.t: "Counting Down"
+   nf_lanius.12.d: "'So this is the home of the Brotherhood?' asked Lanius. 'A hole in the ground, where they can hide from an honorable combat?' Lanius walked forward. 'Paladin Andrea! I know you can hear me, and I know you think you can outlast us. And perhaps, in another time, you might be right.' Lanius' mask remained motionless as he continued. 'We have found the tubes that bring air into your bunker. Too small for any of us, perhaps. But even as we speak, a gas is seeping into your bunker. Can your sons and daughters survive that? Or will you end your days with the corpses of your children, waiting for your suits to grow cold and take you too. Make your choice.'"
+   nf_lanius.12.a: "Tick. Tock. Tick. Tock."
+
+   nf_lanius.13.t: "Equal Rites"
+   nf_lanius.13.d: "Great Caesar has never allowed women to serve as warriors, restricting their roles to healers, midwives, and scribes. But in his conquest of the East, Lanius has conquered many warrior women: Lozen of the Mescalero; Morrison of the Summer; and Brixley of the Brotherhood. They have fought at least as well as the tribes of Arizona, and there is no shame in falling to the Legion. Perhaps, wonders Lanius, he can use women for other roles? But as scouts? Spies, who do not pass word of Lanius' doings to Vulpes? As honoured scribes, who fight with words instead of weapons?"
+   nf_lanius.13.a: "Caesar would never condone this!"
+   nf_lanius.13.b: "Lanius shall have his Ministras."
+   #### Ideas
+
+   lac_engineers: "Fiat Voluntas Tua"

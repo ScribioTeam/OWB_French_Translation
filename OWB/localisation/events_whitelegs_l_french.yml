@@ -104,7 +104,7 @@
 
   ########################
  nf_whitelegs.21.t:0 "Payer nos dettes"
- nf_whitelegs.21.d:0 "Nous nous sommes emparés de New Canaan et, comme promis, nous donnerons aux 80 une part du butin. Certains demanderaient à [WHT.GetLeaderName] de revenir sur sa parole, mais les Jambes Blanches sont un peuple d'honneur."
+ nf_whitelegs.21.d:0 "Nous nous sommes emparés de New Canaan et, comme promis, nous donnerons aux 80 une part du butin. Certains demanderaient à [WHT.GetLeader] de revenir sur sa parole, mais les Jambes Blanches sont un peuple d'honneur."
  nf_whitelegs.21.a:0 "Mal est l'homme qui brise la foi !"
   ########################
  nf_whitelegs.22.t:0 "Le Mur de Jéricho"
@@ -135,8 +135,25 @@
  nf_whitelegs.28.t:0 "Le code de [WHT.GetLeader]"
  nf_whitelegs.28.d:2 "[WHT.GetLeader] a grandi dans une tente, mais il ne souhaitait pas que ses enfants le fassent. À cette fin, après la conquête de New-Canaan, il publia un ensemble de lois inspirées des enseignements cananéens, des recommandations de la Légion et de la sagesse tribale.  Le Code du Sel devait jouer un rôle essentiel dans l'avenir de la tribu, et voici quelques-unes de ses lois. \n\n2. En matière d'héritage, les filles et les fils doivent recevoir des parts égales.\n\n6. Les dirigeants d'une religion, les prédicateurs, les moines, les médecins et ceux qui brûlent les corps des morts doivent être exonérés d'impôts.\n\n15. Aucun sujet de la tribu ne peut prendre une Jambes Blanches comme serviteur ou esclave. Tout homme, sauf dans de rares cas, doit s'engager dans l'armée.  Les femmes ne peuvent se voir refuser l'entrée dans l'armée.\n\n 20. Les enfants nés d'esclaves sont légitimes comme les enfants d'épouses.\n\n 32. Il est interdit de se baigner ou de laver des vêtements à l'eau courante pendant le tonnerre."
  nf_whitelegs.28.a:0 "La tribu s'en souviendra."
+
   #######################
- nf_whitelegs.29.t:0 "La Lumière du Seigneur"
- nf_whitelegs.29.d:0 "Les [WHT.GetName] sont appelés païens par certains, mais ils suivent les leçons du Christ à leur manière. Ils suivent l'Evangile pour un monde plus froid et plus dur. Dans les contes des jambes Blanches, les disciples du Christ sont comme la bande d'un chef, pas des pêcheurs d'hommes. Jean-Baptiste est élevé comme un compagnon guerrier du Christ, et s'engage à rester fidèle au Seigneur. Pour les Jambes blanches, Jésus a fait des disciples une force puissante de nombreux peuples, une armée sainte. Et lorsque Jésus meurt sur la croix, il descend en enfer pour combattre les forces des ténèbres. \n\nUne foi dure, mais pas, peut-être, mauvaise pour les Terres Désolées. Et lorsque [WHT.GetLeader] écoute l'histoire de Samson dans le Temple, il peut peut-être voir les similitudes avec les enseignements des Cananéens. \n\n"
- nf_whitelegs.29.a:0 "Amen."
- nf_whitelegs.29.a_tt:0 "\nVotre Seigneur, le Christ Sauveur, de la ville de Nazareth, \nCelui que les légions de Rome ont torturé et cloué sur la croix,\nLui sans péché, ils ont creusé la tombe. Lui-même n'est pas là,\nMais il est apparu, et cet endroit est vide.\nPour le bien de l'humanité, et de nombreux boulons,\nA été déverrouillé sur les portes de l'enfer, et le chemin du ciel \nLe monde a été façonné."
+ nf_whitelegs.29.t:9 "Aide de la Légion"
+ nf_whitelegs.29.d:9 "La Légion a envoyé une délégation commerciale et des conseillers. Cela nous apportera une aide précieuse, mais pourrait leur permettre d'avoir davantage leur mot à dire dans nos affaires. Allons-nous surpasser le Taureau, ou allons-nous suivre notre propre chemin cette fois-ci ?"
+ nf_whitelegs.29.a:9 "Écoutons."
+ nf_whitelegs.29.b:9 "Nous marchons sur nos propres jambes."
+
+  #######################
+ nf_whitelegs.30.t:9 "[WHT.GetLeader] écoute"
+ nf_whitelegs.30.d:9 "Salt Upon Wounds a eu la gentillesse d'écouter nos enseignements et d'accepter notre offre de commerce.  C'est bien pour lui... mais c'est mieux pour nous."
+ nf_whitelegs.30.a:9 "Un nouveau champ de bataille."
+
+  #######################
+ nf_whitelegs.31.t:9 "[WHT.GetLeader] a rejeté notre aide"
+ nf_whitelegs.31.d:9 "Salt Upon Wounds était prêt à écouter notre offre, mais il a refusé notre aide avec tact. Il est cependant disposé à nous écouter à nouveau à l'avenir."
+ nf_whitelegs.31.a:9 "Il est peut-être plus intelligent que nous le pensions."
+
+  #######################
+ nf_whitelegs.32.t:9 "La lumière du Seigneur"
+ nf_whitelegs.32.d:9 "Les [WHT.GetName] sont appelés païens par certains, mais ils suivent les leçons du Christ à leur manière. Ils suivent l'Evangile pour un monde plus froid et plus dur. Dans les contes des Jambes Blanches, les disciples du Christ sont comme la bande d'un chef, pas des pêcheurs d'hommes. Jean-Baptiste est élevé comme un compagnon guerrier du Christ, et s'engage à rester fidèle au Seigneur. Pour les Jambes blanches, Jésus a fait des disciples une force puissante de nombreux peuples, une armée sainte. Et lorsque Jésus meurt sur la croix, il descend en enfer pour combattre les forces des ténèbres.\n\nUne foi dure, mais pas, peut-être, mauvaise pour les Terres Désolées. Et lorsque [WHT.GetLeader] écoute le récit de Samson dans le Temple, peut-être voit-il des similitudes avec les enseignements des Cananéens.\n\n"
+ nf_whitelegs.32.a:9 "Amen."
+ nf_whitelegs.32.a_tt:9 "\nTon Seigneur, le Christ Sauveur, de la ville de Nazareth,\nlui que les légions de Rome ont torturé et cloué sur la croix,\nlui sans péché, ils l'ont mis au tombeau. Il n'est pas là,\nmais il est ressuscité, et cet endroit est vide.\nCar le bienfait de l'humanité, et bien des verrous,\nont été déverrouillés sur les portes de l'enfer, et le chemin au ciel\ndu monde a été tracé."

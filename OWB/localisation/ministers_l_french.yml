@@ -1,13 +1,15 @@
 ﻿l_french:
- selene_advisor:0 "Mère Sélène brisée"
- selene_advisor_desc:0 "Sélène possède un esprit brillant: nous en ferons une esclave et nous utiliserons cet esprit brillant."
+ two_sun_advisor_cultural:9 "Les Prêtres de Two Sun"
+ two_sun_advisor_cultural_desc:9 "Les Femmes de Two Sun, font ronronner le moteur sacré. Peut-être pouvons-nous les écouter."
  mother_shaman:0 "Mère Chaman"
  war_shaman:0 "Chaman de guerre"
  caesars_hound:0 "Chien de César"
  war_dog:0 "Chien de guerre"
+ phoenix_ties:9 "Marchants de Phoenix"
+ lilly_blair:9 "Lilly Blair"
+ lilly_blair_desc:9 "Lilly était la reine des caravanes, conduisant des convois jusqu'à Chicago ou les cours des locuteurs de l'Aztlán. Jamais fan des hommes doux, elle est tombée amoureuse de Lucius. "
 
- selene_command:0 "Mère Sélène vengeuse"
- selene_command_desc:0 "Sélène possède des pouvoirs de guérison presque mystiques; nous pouvons l'utiliser pour la guerre."
+ two_sun_command:9 "Les Prêtres de Two Sun"
 
  bares_his_teeth_advisor:0 "Dévoile-Ses-Dents"
  bares_his_teeth_advisor_desc:0 "Bien que nous ayons rompu sa volonté de combattre, il a toujours des compétences d'utilisation; la Tribu des Pendus était des récolteurs notoires, après tout."
@@ -25,8 +27,15 @@
  speed_demon:0 "Démon de la vitesse"
  pit_lord:0 "Seigneur de la fosse"
 
+ ces_rancher_advisor:9 "L'association des éleveurs"
+
  earnhardt_advisor:0 "Tabellarius Earnhardt "
  earnhardt_advisor_desc:0 "Earnhardt aime faire la course et est un leader naturel des hommes; laissez-le distribuer des ressources et construire nos routes."
+ dale_barton:9 "Dale Barton"
+ dale_barton_desc:9 "Un des commerçants les plus prospères de l'Arizona, il reconnaît les avantages de l'ordre apporté par [CES.GetLeader]."
+ guillermo_rossi:9 "Guillermo Rossi"
+ guillermo_rossi_desc:9 "Paré de bijoux élaborés en turquoise et en argent, les gros doigts de Guillermo se retrouvent dans toutes les tartes du Sud-Ouest. Mais il jouera le jeu avec la Légion. S'il sait ce qui est bon pour lui. Mais ne demandez pas qui travaille dans les mines."
+ mining_magnate:9 "Magnat des Mines"
 
  earnhardt_command:0 "Pit Lord Earnhardt "
  earnhardt_command_desc:0 "Earnhardt est un mécanicien doué; laissez-le contrôler les équipages de la fosse et il va affiner nos chariots pour la vitesse."
@@ -47,10 +56,12 @@
  lucius_advisor_desc:0 "Lucius, comme tout bon commandant de la légion, connaît bien la valeur de l'ingénierie et de la discipline; cela nous permettra de nous mobiliser et de nous rassembler plus facilement."
  lucius_command_desc:0 "Nos prétoriens utilisent des poings balistiques; ils ne craignent pas la bagarre. Lucius, leur préfet, sait comment envoyer des troupes dans cette mêlée, brisant les lignes ennemies."
  malpais_legatus_chief:0 "Le Légat Malpais"
+ CES_river_pirate:9 "Gaius Duilius"
 
  lanius_legatus_chief:0 "Légat Lanius"
  malpais_legatus_chief_desc:0 "Joshua Graham est le plus grand tacticien et ami que César a; à tel point que certains murmurent que César le craint."
  lanius_legatus_chief_desc:0 "Champion de sa tribu, et tueur de celle-ci, César lui donna un nouveau visage et en fit le champion de la légion: les légionnaires préféreraient faire face à la mort à la colère de Lanius."
+ navajo_minister:9 "Hashkeh Naabaah"
 
  monster_of_the_east_chief:0 "Monstre de l'Est"
  alice_mclafferty_desc:0 "Alice sait faire des affaires et le fait bien; elle peut satisfaire la demande populaire de consommation, à condition de recevoir des contrats gouvernementaux lucratifs."
@@ -604,12 +615,22 @@
  maximilian:0 "Maximilien"
  maximilian_desc:0 "Maximilien est d'abord un politicien avant tout ; si vous deviez dire qu'il excellait à quoi que ce soit, ce serait exciter les gens à ses côtés. Malheureusement, il a tendance à faire des promesses coûteuses pour obtenir un tel soutien."
  bumbling_politician_trait:0 "Politicien Maladroit"
+ maximilian_good:9 "Maximilian"
+ maximilian_good_desc:9 "Maximilien est avant tout un homme politique ; si l'on devait dire qu'il excelle dans quelque chose, ce serait d'amener le peuple à se ranger de son côté. Heureusement, son frère aîné a clarifié les limites du soutien populaire."
+ bumbling_politician_trait:0 "Politicien Maladroit"
+ good_politician_trait:9 "Vétéran de la Politique"
  zapata:0 "Zapata"
  zapata_desc:0 "Zapata est un révolutionnaire dans l'âme, sa première préoccupation étant que le travailleur soit bien nourri et qu'il ait des usines gouvernementales utiles à exploiter au profit de l'État et de son peuple. Malheureusement, cela ne laisse pas autant de corps aptes pour les militaires."
+ zapata_good:9 "Zapata"
+ zapata_good_desc:9 "Zapata a été persuadé qu'un exécutif fort est le mieux placé pour mettre en œuvre la réforme agraire et améliorer le sort de la population."
  revolutionary_farmer_trait:0 "Fermier Révolutionnaire"
- moctezuma:0 "Moctezuma"
- moctezuma_desc:0 "Moctezuma est un guerrier sanguinaire assoiffé de sang, d'héritage mexicain ancien, et qui a pratiquement envie de se battre avec les ennemis de Tlaloc. Malheureusement, sa propension au sacrifice rituel est à la fois mauvaise pour la santé des gens et pour leur opinion du gouvernement."
+ good_farmer_trait:9 "Réforme agraire"
+ moctezuma:9 "Montezuma"
+ moctezuma_desc:9 "Moctezuma est un guerrier sanguinaire assoiffé de sang, d'héritage mexicain ancien, et qui a pratiquement envie de se battre avec les ennemis de Tlaloc. Malheureusement, sa propension au sacrifice rituel est à la fois mauvaise pour la santé des gens et pour leur opinion du gouvernement."
+ moctezuma_good:9 "Montezuma"
+ moctezuma_good_desc:9 "Montezuma a été reprogrammé pour mieux représenter les compétences qui ont réellement permis à la Triple Alliance de conquérir le Mexique. Vous souhaitez discuter de philosophie ? Ou comment soudoyer les dirigeants d'une ville pour qu'ils se rendent sans effusion de sang ?"
  ancient_warmonger_trait:0 "Ancien Belliciste"
+ ancient_skills_trait:9 "Traditions réussies"
 
  tla_defensive_subroutine:0 "Sous-routine défensive"
  tla_aggressive_subroutine:0 "Sous-routine offensive"
@@ -638,6 +659,21 @@
  vlt_mutant_chief_bugs:0 "Bugs"
  vlt_mutant_chief_slime:0 "Slime"
 
+  #LNS
+ LNS_paladin_hancock:9 "Paladin Hancock"
+ LNS_paladin_hancock_desc:9 "Le Paladin Hancock est une personnalité de haut rang dans les forces armées de la Confrérie texane, et dirige le détachement de conseil militaire de la Confrérie auprès de notre nation. Défenseur des armures assistées et des tactiques défensives, Hancock a été considéré comme l'homme idéal pour nous aider à protéger l'I-20."
+ LNS_scribe_duran:9 "Scribe Duran"
+ LNS_scribe_duran_desc:9 "Scribe senior de la Confrérie et commandant en second du Paladin Hancock, le scribe Duran a une connaissance impressionnante des tactiques et technologies militaires complexes. Grâce aux conseils patients et approfondis de Duran, nous avons réussi à élargir considérablement nos connaissances techniques."
+ LNS_cyamus_asina:9 "Cyamus Asina"
+ LNS_cyamus_asina_desc:9 "Figure de proue de l'expédition de fouille de la Légion qui a atteint le Texas il y a dix ans, Asina a décidé de rester à Lone Star et dans les environs après le retour du gros de l'expédition. Son expertise militaire est vaste, et apporterait une grande réforme à nos armées."
+ LNS_daisy_roth:9 "Daisy Roth"
+ LNS_daisy_roth_desc:9 "Enfant des bidonvilles, Daisy Roth a grandi en devant se débrouiller seule dès qu'elle a pu trouver un emploi. Heureusement, un pionnier de l'aide aux enfants des bidonvilles a choisi Daisy Roth parmi les milliers d'enfants des vastes bidonvilles, lui donnant une éducation de base et de l'argent pour subvenir à ses besoins. Il était évident pour ses professeurs qu'elle était une étincelle, et elle a été nominée pour une formation universitaire pour son excellence en matière d'éducation. Elle y a fait des recherches sur les méthodes et les théories économiques de l'Ancien Monde, les appliquant au Nouveau Monde pour en tirer des techniques révolutionnaires."
+
+  #TBH
+ TBH_river_young:9 "River Young"
+ TBH_river_young_desc:9 "River Young dirige le détachement de conseil économique de Lone Star dans notre capitale, nous faisant profiter, elle et son personnel, de sa connaissance approfondie des affaires économiques. Au cours des dix dernières années, elle nous a aidés à reconstruire les districts industriels de Dallas, et son esprit efficace et méticuleux est prêt à nous aider à planifier la réhabilitation de nouvelles villes."
+ TBH_ariel_horne:9 "Ariel Horne"
+ TBH_ariel_horne_desc:9 "Ariel Horne est une figure contiguë de notre gouvernement. Bien qu'elle ait beaucoup de choses à dire sur la façon dont nous utilisons et allouons nos ressources limitées, son penchant pour l'excès lui a valu de se faire des ennemis dans les hautes sphères de la société."
  scout_ambrosone:0 "Scout Ambrosone"
 
   # JCT

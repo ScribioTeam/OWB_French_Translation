@@ -7,7 +7,10 @@
  stableOS:0 "OS stable"
  stableOS_desc:0 ""
 
- vegasprime2:0 "Directive principale"
+ vegasprime1:9 "Développement Accéléré"
+ vegasprime1_desc:9 " "
+
+ vegasprime2:9 "Directive principale"
  vegasprime2_desc:0 " "
 
  handh:0 "Installations de production de robots"
@@ -195,3 +198,6 @@
 
  robotics_genius:0 "Génie Robotique"
  robotics_genius_desc:0 "Robert House est un prodige en matière de robotique : il a fondé RobCo Industries bien avant la chute des bombes."
+
+ veg_comfy:9 "§pComfy§!"
+ veg_comfy_desc:9 "Jane sait vraiment comment faire fondre le stress de diriger Vegas pour House."

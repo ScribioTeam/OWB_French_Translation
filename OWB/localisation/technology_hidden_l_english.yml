@@ -12,10 +12,12 @@
   HEADER_RANGER_BUFFS: "Desert Ranger Buffs"
   HEADER_NCR_BUFFS: "NCR Buffs"
   HEADER_VAULT_CITY_BUFFS: "Vault City Buffs"
-  HEADER_ITZA_BUFFS: "Chichen Itza Buffs"
-  HEADER_ARMY_OF_MEXICO_BUFFS: "Army of Mexico Buffs"
+  HEADER_MEXICO_BUFFS: "Mexico Buffs"
+  HEADER_TBH_BUFFS: "Texan Brotherhood Buffs"
+
   HEADER_RENO_BUFFS: "New Reno Buffs"
   HEADER_OREGON_BUFFS: "Oregon Buffs"
+  HEADER_COLORADO_BUFFS: "Colorado Buffs"
   HEADER_SETTLER_BUFFS: "Settler Buffs"
   HEADER_RAIDER_BUFFS: "Raider Buffs"
   HEADER_LEGION_BUFFS: "Legion Buffs"
@@ -45,7 +47,17 @@
   super_mutant_civilization_desc: ""
 
 
-
+  # Units
+  police_infantry_tech:0 "Lawkeeper Infantry"
+  police_infantry_tech_desc:0 ""
+  sentinel_unit_tech:0 "Sentinel Combat System"
+  sentinel_unit_tech_desc:0 ""
+  dog_infantry_tech:0 "Warhound Platoon"
+  super_mutant_aux_infantry_tech:0 "Super Mutant Auxilaries"
+  ghoul_paratrooper_tech:0 "Ghoul Paratroopers"
+  super_mutant_nightkin_tech:0 "Nightkin"
+  plant_support_tech:0 "Monstrous Plants"
+  plant_support_tech_desc:0 ""
 
 
 
@@ -127,13 +139,6 @@
   jungle_tribal_integration_tech: "Jungle Tribal integration"
   jungle_tribal_integration_tech_desc: ""
 
-  #Units
-  dog_infantry_tech:0 "Warhound Platoon"
-  super_mutant_aux_infantry_tech:0 "Super Mutant Auxilaries"
-
-  ghoul_paratrooper_tech:0 "Ghoul Paratroopers"
-  super_mutant_nightkin_tech:0 "Nightkin"
-
   ghoul_civilization:0 "Ghoul Civilization"
 
   #NCR
@@ -187,6 +192,12 @@
 
   legion_vexillarius_tech: "Vexillarius"
   legion_vexillarius_tech_desc: ""
+  legion_training_tech: "Legion Training"
+  legion_frumentarii_officers: "Frumentarii Officers"
+  legion_frumentarii_commandoes_tech: "Frumentarii Commandos"
+  ces_aurelius_mercenaries: "Mercenary Advisors"
+  CES_horns_moroni_tech: "Horns of Moroni"
+  armored_chariots: "Armoured Chariots"
 
  #Reno
   reno_mastersnewarmy: "Master's New Army"
@@ -206,6 +217,22 @@
   raider_reckless_aggression: "Reckless Aggression"
   raider_reckless_aggression_desc: ""
 
+ #Raider
+  tbh_lawkeepers_tech_1:0 "Deputy Training"
+  tbh_lawkeepers_tech_1_desc:0 ""
+  tbh_lawkeepers_tech_2:0 "Sherriff Training"
+  tbh_lawkeepers_tech_2_desc:0 ""
+  tbh_lawkeepers_tech_3:0 "Marshall Training"
+  tbh_lawkeepers_tech_3_desc:0 ""
+
+ #Colorado
+  ttm_healthy_warriors: "Healthy Warriors"
+  ttm_healthy_warriors_desc: ""
+  ttm_call_of_the_wild: "Call of the Wild"
+  ttm_call_of_the_wild_desc: ""
+  ttm_jurassic_strength: "Jurassic Strength"
+  ttm_jurassic_strength_desc: ""
+
   #Block Tech Tech
   blocked_tech:0 "Not Researchable"
 
@@ -218,3 +245,6 @@
   arcjetsystems_unlock_tech:0 "Arc Jet Systems Schematics"
   westtek_unlock_tech:0 "West-Tek Schematics"
   robco_unlock_tech:0 "Robco Industries"
+
+  mininuke_unlock_tech:0 "Mini-nuke"
+  artillery_ammo_unlock_tech:0 "Artillery Ammunition"

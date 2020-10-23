@@ -1,0 +1,15 @@
+﻿l_french:
+ fp_support_dynamic:9 "Le Soutien de Notre Peuple"
+ fp_clan_support_mod:9 "Soutien des Clans"
+ fp_city_support_mod:9 "Soutien aux Citadins"
+
+
+ fp_clan_support_change_tt:9 "Augmenter le Soutien des Clans §G[?fp_support_var_temp]§!"
+ fp_city_support_change_tt:9 "Augmenter le Soutien des Citadins de §G[?fp_support_var_temp]§!"
+
+ fp_enough_clan_support_tt:9 "A plus de §G[?support_check_temp]§! §YSoutien des Clans§!"
+ fp_enough_city_support_tt:9 "A plus de §G[?support_check_temp]§! §YSoutien aux Citadins§!"
+
+ fp_conscript_increase_tt:9 "Le Soutien de Notre Peuple - Effectif mensuel : §G+[?fp_increase_temp]%§!"
+ fp_infrastructure_increase_tt:9 "Le Soutien de Notre Peuple - §YInfrastructure§! Vitesse de construction : §G+[?fp_increase_temp]%§!"
+ fp_industry_increase_tt:9 "Le Soutien de Notre Peuple - §YIndustrie§! Vitesse de Construction: §G+[?fp_increase_temp]%§!"

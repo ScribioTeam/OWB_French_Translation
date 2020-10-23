@@ -1,4 +1,6 @@
 ﻿l_english:
+  moj_distrusted_elder: "Distrusted Elder"
+  moj_obsessed_elder: "Obsessed Elder"
   jolly: "Jolly"
   jolly_desc: "§GHo§! §Rho§! §Gho!§! §RSenator§! §GClaus§! §Ris§! §Gloved§! §Rand§! §Gcherished§! §Rby§! §Gall§! §Rthe§! §Gelves§! §Rof§! §Ghis§! §Rworkshop.§! §GHis§! §Rkindness,§! §Gfestive§! §Rcheer,§! §Gand§! §Rhappiness§! §Gknows§! §Rno§! §Gbounds!§!"
   naughty_and_nice: "Naughty and Nice"
@@ -12,6 +14,8 @@
   well_liked_leader: "Well Liked Leader"
   expert_negotiator: "Expert Negotiator"
   cruel_tyrant: "Cruel Tyrant"
+  because_aliens: ""Why? Because Aliens!""
+  elected_tribe_president:0 "Elected President of the Tribal Council"
   loyalty: "Loyalty"
   loyalty_desc: "This general maintains fierce loyalty from their men, allowing them to maintain discipline and dig fortifications quicker and more efficiently."
   slavemaster: "Slave master"
@@ -28,6 +32,7 @@
   regis_trait: "Sneering Imperialist"
   majorie_trait: "Marjorie"
   timelord: "Timelord"
+  spiritual: "Spiritual"
   military_background: "Military Background"
   conqueror_of_tribes: "Conqueror of Tribes"
   owb_army_chief_offensive_1: "Army Offence\n(Specialist)"
@@ -56,9 +61,48 @@
   mad_ai:0 "Insane AI"
   ineffective:0 "Ineffective"
   god_from_the_machine: "God From The Machine"
+  han_true_alpha: "The True Alpha"
   dimensional_traveller: "Dimensional Traveller"
   scarred_for_life: "Scarred for Life"
   avatar_of_mars: "Avatar of Mars"
+  han_true_alpha: "The True Alpha"
+  dsp_master_of_his_steed:0 "Master of His Stead"
+  head_of_tribal_council:0 "Chair of the Chiefs Executive Council"
+  he_of_no_moiety:0 "He Of No Moiety"
+  prespers_protege: "Presper's Protege"
+  experiment_0011:0 "§OExperiment #0011§!"
+  immortal_engineering:0 "§RImmortal Engineering§!"
+  immortal_engineering_tt:0 "§OThe First Chorister§! and her §OChained Choir§! are kept alive by the horrendous pre-war machinery they're plugged into in the isolated, underground wing of the §YWatonga Correctional Facility§!. So long as §RThe Chapel§! remains in safe hands, the §OChained Choir§! is §Rimmortal§!."
+  born_of_the_blood:0 "§RBorn in the Red§!"
+  symbol_of_unity:0 "Symbol of Unity"
+  the_137th_archbishop:0 "The 137th Archbishop"
+  survivalist:0 "Survivalist"
+  grand_captain:0 "Grand Captain of the Rapids"
+
+
+  ##Organization Traits
+    ### Gun Runners
+      org_1_opinion_1:0 "Conscript"
+      org_1_opinion_2:0 "Sergeant"
+      org_1_opinion_3:0 "Partner"
+    ### Chop Shop
+      org_2_opinion_1:0 "Fuel Boy"
+      org_2_opinion_2:0 "Eagle"
+      org_2_opinion_3:0 "Kahuna"
+
+    ### Van Graffs
+      org_3_opinion_1:0 "Family Friend"
+      org_3_opinion_2:0 "Caporegime"
+      org_3_opinion_3:0 "The Boss"
+    ### Butcher Pete
+      org_4_opinion_1:0 "Toothpick"
+      org_4_opinion_2:0 "Fillet Knife"
+      org_4_opinion_3:0 "The Cleaver"
+    ### Mavens
+      org_5_opinion_1:0 "Whisper"
+      org_5_opinion_2:0 "Shadow"
+      org_5_opinion_3:0 "Nightmare"
+
   # ITZ
   critically_ill:0 "Critically Ill"
   critically_ill_desc:0 "The Kalomte has been shot and critically injured while inspecting his troops on the Steel Coast, and now lies deep in a coma in his palace. With no clear successor, the government is in chaos and the country is falling apart."
@@ -93,7 +137,6 @@
   experimental_subroutine_trait:0 "Research Focus"
   # UTO
   crazy_crazy_crazy:0 "Crazy, Crazy, Crazy"
-
   #VLT
   model_citizen:0 "Model Citizen"
   masterful_engineer:0 "Masterful Engineer"
@@ -105,8 +148,31 @@
   vault_tec_medical_training:0 "Vault-tec Medical Training"
   vault_tec_security_trainer:0 "Vault-tec Security Trainer"
   vault_tec_defence:0 "Vault Defender"
-  
+  # LNS
+  power_armour_proponent:0 "Power Armour Proponent"
+  patient_teacher:0 "Patient Teacher"
+  legion_tactician:0 "Legion Tactician"
+  # TBH
+  urban_planner:0 "Urban Planner"
+  waste_not:0 "Waste Not, Want Not"
+
   #MLP
   bad_influence:0 "Bad Influence"
-  
-  
+
+  #CMC
+  casino_heiress: "Casino Heiress"
+  caged_songbird: "Caged Songbird"
+  crazy_songbird: "Crazy Songbird"
+  cmc_friends_in_low_places: "Friends in Low Places"
+  cmc_ear_to_the_ground: "Ear to the Ground"
+  cmc_police_chief: "Police Chief"
+
+	# ASS
+	roller_derby_queen:0 "Roller Derby Queen"
+	roller_derby_queen_desc:0 "Well she might be nasty she might be fat\nBut I never met a person who would tell her that..."
+
+  # Lanius
+  lanius_ruthless: "Upon the Cross"
+  lanius_builder_trait: "For the Glory of the Legion"
+  LAC_master_of_the_rock: "Master of the Rock"
+  lanius_women: "Ministras"

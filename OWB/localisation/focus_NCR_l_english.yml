@@ -257,6 +257,7 @@
 
   ncr_boneyard: "The Boneyard"
   ncr_boneyard_desc: "The city of Los Angeles must have been the largest in the world before the War. The Boneyard stretched forever, the skeletons of buildings lying under the hot sun. Not even the wind entered this dead city. Or so it was for a time, yet now LA grows, people and ghouls return to it and with each passing year, it becomes a little less empty and a little more alive."
+    ncr_gain_boneyard_income: "§YBoneyard§! gains §G+10%§! Development and Trade income"
 
   ncr_oldcity: "Scouring the Old City"
   ncr_oldcity_desc: "The Boneyard was once the greatest cities in all of old America, vast in population and size, and filled to the brim with technology and wonders now lost to time. Yet in the ruins, one can still find wonderful things... what has been uncovered recently?"
@@ -281,6 +282,7 @@
 
   ncr_dayglowroads: "Roads to Dayglow"
   ncr_dayglowroads_desc: "Once, the lands between the Boneyard and Dayglow were a maze of roads and highways, an intricate system that allowed for near ideal trade conditions and travel. Now? They are ruins, filled with uncountable wrecks of vehicles, with almost all old world routes choked to the point of uselessness. The clearance of even one of these lands would do wonders for our infrastructure."
+  ncr_gain_dayglow_income: "§YDayglow§! gains §G+20%§! Development and Trade income"
 
   ncr_mint: "The Republic Reserve"
   ncr_mint_desc: "The stockpile of all gold and wealth in the NCR is located in the Boneyard, and the current Treasurer of the Republic and head of the Republic Reserve is John Michael Henderton; whose signature can be found on the front face of all NCR notes."
@@ -395,3 +397,39 @@
 
   ncr_rapid: "Rapid Advance Doctrine"
   ncr_rapid_desc: "The Motorized corps of the NCR is in many ways, a separate entity to the army itself. It shares few commanders and has incompatible tactics and strategies when in battle. The improved integration of these forces and a greater unity in tactics could allow the NCR to make better use of this valuable strategic advantage."
+
+  ncr_reorganizetheexpeditionaries: "Reorganize the Expeditionary Forces"
+  ncr_reorganizetheexpeditionaries_desc: "With our recent expansion into the Mojave, the NCR's expeditionary branch of the army is war weary, under supplied, and regarded as an unpopular posting within the Military. Signing off new funds for equipment, recruiting, and morale would do well to boost their status."
+
+  ncr_rapidannexation: "Rapid Annexation"
+  ncr_rapidannexation_desc: "Across the Colorado River lies Caesar's Legion, a rapidly expanding nation with a penchant for absorbing and annexing independent tribes. On our side of the Colorado lies the Rapids, a sternly independent tribe that runs from Los Algodones all the way up to Tumblehome. Were the legion to cross in the south and attack them, our Heartlands would be exposed, thus we must take matters into our own hands and annex the Rapids. "
+
+  ncr_rapidsettlement: "Rapid Settlement"
+  ncr_rapidsettlement_desc: "Now that the Rapids has been pacified, we should invest settlers and farmers into the area to strengthen our hold on the territory. It will be costly in both manpower and industry, but in the end we should have a firm grasp on the area."
+
+  ncr_expandthefrontier: "Expand the Frontier"
+  ncr_expandthefrontier_desc: "There are a slew of poorly defended states on our North and North-western borders, if we acted fast we could seize them from their unsuspecting owners without rising a full on war with them."
+
+  ncr_settlethenorth: "Settle the North"
+  ncr_settlethenorth_desc: "With a solid foothold in the northern frontier, we can go about settling our new territories."
+
+  ncr_settlethewest: "Settle the West"
+  ncr_settlethewest_desc: "With a solid foothold in the western frontier, we can go about settling our new territories."
+
+  ncr_purchasescrapheapandkettle: "Negotiate for Scrapheap and Teakettle"
+  ncr_purchasescrapheapandkettle_desc: "The Ranger state is one constantly mired in warfare with surrounding gangs and tribes, with little to produce and much of their budget going towards the military, they may be willing to sell a few of their territories for caps..."
+
+  ncr_opentheeasternroute: "Open up the Eastern Route"
+  ncr_opentheeasternroute_desc: "The route through Mountain Springs and Mountain Springs could make for a major trading and supply route, but at the current moment the settlers inhabiting the Divide have block all of our attempts to move materials into the Mojave. This cannot stand."
+
+  ncr_developtheeasternroute: "Develop the Eastern Route"
+  ncr_developtheeasternroute_desc: "Now that we've pacified Mountain Springs and have access to the trade route, we can go about laying down infrastructure and digging wells. This will both endear the local population to us, and make transportation of goods easier."
+
+  ncr_fortifytheeasternroute: "Fortify the Eastern Route"
+  ncr_fortifytheeasternroute_desc: "The now thriving Eastern route into the Mojave will almost certainly make for a tempting target for parties that wish to undermine our place in the Mojave, we should seek to fortify our side of the route."
+
+  ncr_fundcrimsoncaravan: "Fund the Mojave Crimson Caravan"
+  ncr_fundcrimsoncaravan_desc: "With an increase in supply and easier access to the Mojave, various firms have shown interest in opening offices in the frontier. The Crimson Caravan is one of them, with a bit of funding we could prop up their efforts."
+
+  ncr_manifestdestiny: "Manifest Destiny Realized"
+  ncr_manifestdestiny_desc: "The Old World idea of Manifest Destiny, that our nation is so great in it's ideals and practice that surely it should spread as far as the continent will let it, is an idea we can capitalize on by hoisting our recent frontier successes into the spotlight."

@@ -2,10 +2,19 @@
  #-------------------------------------
  # Generic BOS
  #-------------------------------------
-
+ moj_army_of_the_mojave_tt:9 "\n\n"
+ moj_the_cipher_expedition_tt:9 "§gNous envoyons une expédition aux§! §YCiphers de l'Ouest§!§g, un groupe mythique d'adorateurs de la technologie au Colorado. Il leur faudra un certain temps pour s'y rendre - mais au cours de leur voyage, ils acquerront une bonne dose d'expérience.§!"
+ moj_ally_tabitha_tt:9 "§YVeronica§! fait la promesse à §YTabitha§! de §Y[UTO.GetNameWithFlag]§! que nous les aiderons à réparer leur équipement de transmission radio s'ils nous aident dans notre lutte contre le §Y[MOT.GetName]§!.\n"
+ moj_ally_bright_tt:9 "§YVeronica§! contacte §YJason Bright§!, le dirigeant d'une secte vivant près du §Ysite d'essai REPCONN§!. Elle promet que nous l'aiderons à armer ses fusées afin qu'elle puisse atteindre §MThe Great Beyond§! en échange de son aide contre la RNc d'abord.\n\n"
+ moj_ally_sunset_saloon_tt:9 "§YVeronica§! attire l'attention de ceux qui cherchent §MSunset Sarsaparilla Star Bottlecaps§! en leur disant que la raison pour laquelle la RNC est arrivée dans la région est de trouver le légendaire trésor que §YFestus§! a promis à ceux qui rassemblent les capsules.\n\n"
+ moj_activate_a_turbine:9 "§gUne turbine supplémentaire à l'intérieur du§! §OBarrage Hoover§! §ga été mise§! §Yen service§!§g, augmentant la puissance de sortie§!"
+ every_arizonan_state:9 "Chaque État §Yd'Arizona§!"
+ every_californian_state:9 "Chaque État §YCalifornien§!"
+ MOJ_spears_from_the_sun_tt:9 "§YElijah§! réussit à mettre toute la puissance de l'installation §YHELIOS ONE§! sous son contrôle.\nPour le reste de la campagne, cela permet l'utilisation de la puissante capacité de combat §Y"FEU D'ARCHIMEDE II"§!.\n"
  MOJ_our_founding:0 "Notre fondation"
  MOJ_our_founding_desc:0 "Alors que le grand sage Maxson était le fondateur de la Confrérie dans son ensemble, chaque chapitre a eu ses propres fondateurs, ceux qui ont fait connaître les dangers de la technologie plus loin dans les Terres Désolées. Qui étaient nos fondateurs ?"
 
+ moj_needs_to_be_secured:9 "§RCette région individuelle doit être sécurisée avant que nous puissions nous concentrer sur ce point.§!"
  MOJ_our_interim:0 "Notre objectif"
  MOJ_our_interim_desc:0 "Chaque chapitre de la Confrérie a ses propres priorités. Certains se concentrent sur la collecte des armes puissantes du Vieux Monde, tandis que d'autres donnent la priorité aux machines et outils industriels. Sur quoi nous sommes-nous concentrés ?"
 
@@ -78,7 +87,7 @@
  MOJ_new_initiates:0 "Nouveaux initiés"
  MOJ_new_initiates_desc:0 "Nous sommes plus qu'une organisation militaire, la Confrérie est une grande famille. Nos chevaliers, paladins et scribes sont tous libres de poursuivre des relations, de se marier et d'avoir des enfants. C'est ainsi que la Confrérie survit. Lorsque ces enfants atteignent l'âge adulte, ils deviennent des initiés et commencent leur formation dans leur discipline respective."
 
- MOJ_t45d_production:0 "Production de la T-45d"
+ MOJ_t45d_production:45 "Production de la T-45d"
  MOJ_t45d_production_desc:0 "T-45d a été le premier modèle d'armure assistée produit par les États-Unis, et ça se voit. Un cadre simple, des servomoteurs peu reluisants, des points faibles exposés et un design de casque moins séduisant. Néanmoins, toute armure assistée est mieux que rien, et sa simplicité la rend plus rapide à réparer et à produire."
 
  MOJ_t51b_production:0 "Production de la T-51b"
@@ -162,7 +171,7 @@
  MOJ_what_remains_desc:0 "La mort incarnée : c'est la vraie forme de la Sierra Madre. Dans un lieu rempli de mort et de désespoir, il ne reste que peu de choses, mais ces quelques lies sont comme la lumière liquide des étoiles. Des hommes invincibles qui traquent le cœur du casino et des distributeurs automatiques capables de faire quelque chose à partir de presque rien : ce sont les cadeaux que nous ont laissés les fantômes de la Sierra Madre."
 
  MOJ_a_forgotten_weapon:0 "Une arme oubliée"
- MOJ_a_forgotten_weapon_desc:0 "Les promesses d'Elijah se sont réalisées. Même après que son génie ait ramené HELIOS One à un quart de sa production totale, nous étions sceptiques à l'égard de ses affirmations. Aujourd'hui, cependant, nous avons eu profondément tort dans notre estimation de sa promesse. Une lumière blanche qui divise le ciel d'un cri, ne laissant que des restes carbonisés dans son sillage : c'est l'arme qu'Elijah nous a délivrée."
+ MOJ_a_forgotten_weapon_desc:9 "Les promesses d'Elijah se sont réalisées. Même après que son génie ait ramené HELIOS One à un quart de sa production totale, nous étions sceptiques à l'égard de ses affirmations. Aujourd'hui, cependant, nous avons eu profondément tort dans notre estimation de sa promesse. Une lumière blanche qui divise le ciel d'un cri, ne laissant que des restes carbonisés dans son sillage : c'est l'arme qu'Elijah nous a délivrée."
 
  MOJ_hardin:0 "Hardin"
  MOJ_hardin_desc:0 "Hardin est sorti vainqueur du débat, bien qu'il ait utilisé une arme au lieu de mots. Debout au-dessus des cendres encore chaudes d'Elijah dans l'obscurité de cet abri, McNamara s'est simplement tenu à l'écart et a laissé Hardin faire son chemin. Pour le meilleur ou pour le pire, ce loyaliste de la côte ouest dirige maintenant le Chapitre de Mojave."
@@ -173,8 +182,14 @@
  MOJ_know_our_name:0 "Connaissez notre nom"
  MOJ_know_our_name_desc:0 "Pendant trop longtemps, la Confrérie a été considérée comme faible par la population de Mojave. Ils ne parlent plus de nous dans des tons feutrés, ils parlent plutôt ouvertement de la façon dont ils sont libres de notre influence. Ils nous appellent \"boîtes de conserve\" et plaisantent sur notre doctrine de récupération de la technologie. Plus maintenant ! Bientôt, le jour du jugement viendra pour les Mojave, et ils connaîtront notre nom."
 
- MOJ_technology_raids:0 "Pillage technologique"
- MOJ_technology_raids_desc:0 "La technologie ne peut plus rester entre les mains des habitants de Terres Désolées. Tout ce qui pourrait être une menace devrait être considéré comme une menace. Il ne suffit pas de suivre les observations de la technologie dans les Terres Désolées, mais il est temps de la rechercher de manière proactive. Enfoncez toutes les portes, ouvrez tous les placards. Nous n'arrêterons pas de chercher jusqu'à ce que la maison soit vide, ou jusqu'à ce que les occupants soient morts : ou les deux."
+ moj_rend_the_mojave_dry:9 "Rendre le Mojave sec"
+ moj_rend_the_mojave_dry_desc:9 "La technologie ne peut plus rester entre les mains des habitants des Terres Désolées. Tout ce qui pourrait être une menace doit être considéré comme une menace. Il ne suffit pas de suivre les observations de technologie des Terres Désolées, il est temps de les rechercher de manière proactive. Défoncez toutes les portes, ouvrez tous les placards. Nous n'arrêterons pas de chercher tant que la maison ne sera pas vide, ou tant que les occupants ne seront pas morts : ou les deux."
+
+ moj_follow_the_navarro_survivors:9 "A la poursuite de la \"Brigade du Diable\""
+ moj_follow_the_navarro_survivors_desc:9 "A la poursuite de la \"Brigade du Diable\""
+ moj_follow_the_navarro_survivors_tt:9 "§gNous commençons à fournir un petit groupe de paladins pour commencer à fouiller le Mt Charleston dans l'espoir de trouver le bunker de la \"Brigade du Diable\", une cellule des restes de Navarro. Cette opération sera particulièrement coûteuse - nous devrons leur fournir des munitions et des appareils pour la durée de leur mission.§!"
+ MOJ_the_mojave_drive_inn:9 "§MReportage de science-fiction de minuit!§!"
+ MOJ_the_mojave_drive_inn_desc:9 "§MReportage de science-fiction de minuit!§!"
 
  MOJ_closedown_van_graffs:0 "Punir les Van Graffs"
  MOJ_closedown_van_graffs_desc:0 "La famille Van Graff est bien connue dans toute la Californie, leur nom est souvent murmuré dans les bars et les ruelles. Leur influence sur Redding et la Californie du Nord est immense, mais elle diminue au fur et à mesure que l'on s'éloigne. Il est temps de donner une leçon sévère aux Van Graff : vendre de la technologie d'avant-guerre sur le territoire de la Confrérie raccourcit considérablement votre durée de vie."
@@ -192,7 +207,7 @@
  MOJ_aggressive_policy_desc:0 "Tirer d'abord et poser des questions plus tard : c'est ce que Hardin a gravé dans l'esprit de ses soldats. Le Chapitre de Mojave est accroché à une corde, entouré d'ennemis, il ne peut tout simplement plus se permettre d'avoir pitié. Dans la quête de Hardin pour brûler le Mojave avec des brûlures au laser, la bonté et la miséricorde sont des reliques du passé. Tout ce qui compte, c'est de savoir si vous pouvez tirer droit et à quel point votre bilan mortel quotidien est élevé."
 
  MOJ_mcnamara:0 "McNamara"
- MOJ_mcnamara_desc:0 "Avec le contrôle arraché à Elijah, McNamara avait une route difficile devant lui. N'ayant pas le soutien de l'Ouest, et la RNC et la Légion se dirigeant toutes deux vers un itinéraire d'impact centré sur le Mojave, la Confrérie Mojave avait besoin de s'ouvrir au monde en général."
+ MOJ_mcnamara_desc:0 "Avec le contrôle arraché à Elijah, McNamara avait une route difficile devant lui. N'ayant pas le soutien de l'Ouest, et la RNC et la Légion se dirigeant toutes deux vers un itinéraire d'impact centré sur le Mojave, la Confrérie du Mojave avait besoin de s'ouvrir au monde en général."
 
  MOJ_progressive_thought:0 "Pensée progressiste"
  MOJ_progressive_thought_desc:0 "Ouvrir nos portes au Mojave, c'est aussi ouvrir nos portes aux soucis des rebuts. Non seulement cela, mais l'émergence d'une armure assistée hautement militarisée et puissante portant des guerriers rend les habitants de la région nerveux et méfiant à notre égard. Une solution possible serait d'armer et d'entraîner les forces locales de maintien de la paix et de milice sur les terres sous notre protection, en les faisant entrer dans le troupeau."

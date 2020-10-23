@@ -1,0 +1,102 @@
+﻿l_english:
+ nf_tbh.1.t:0 "Rhombus Chase"
+ nf_tbh.1.desc:0 "Rhombus chased Attis to prevent another master"
+ nf_tbh.1.a:0 "He flocked a bunch of paladins around himself"
+ nf_tbh.1.b:0 "He took a balanced retinue"
+ nf_tbh.1.c:0 "He took the families of his soldiers with him"
+ nf_tbh.1.d:0 "He traveled with but a few veterans"
+
+ nf_tbh.2.t:0 "Rhombus detachment meets remnants of the Texas national guard"
+ nf_tbh.2.desc:0 "National guard desc"
+ nf_tbh.2.a:0 "Absorbs them as a part of the military."
+ nf_tbh.2.b:0 "Turns them into civilians that live under TBH oversight."
+ nf_tbh.2.c:0 "Turns them into knights responsible for maintenance."
+ nf_tbh.2.d:0 "Rejected them, casting them out into the world."
+
+ nf_tbh.3.t:0 "Meets Chuck Norris and his rangers"
+ nf_tbh.3.d:0 "The rangers are awesome"
+ nf_tbh.3.a:0 "They join TBH"
+
+ nf_tbh.4.t:0 "Rhombus own fate"
+ nf_tbh.4.d:0 "Did he survive?"
+ nf_tbh.4.a:0 "He survived"
+ nf_tbh.4.b:0 "He died"
+
+ nf_tbh.5.t:0 "Make contact with tubeheads"
+ nf_tbh.5.d:0 "The terms of the treaty, access to industry, and electronic equipment, for protection. Everybody get's a TV. Tubeheads become the defacto TBH broadcaster service."
+ nf_tbh.5.a:0 "Send the offer"
+
+ nf_tbh.51.t:0 "Event that tubeheads get."
+ nf_tbh.51.d:0 "Terms of the treaty"
+ nf_tbh.51.a:0 "Accept, ai will do this always"
+ nf_tbh.51.b:0 "Deny, wargoal awaits"
+
+ nf_tbh.52.t:0 "Tubeheads accepted our offer"
+ nf_tbh.52.d:0 "Welcome to the entertainment show"
+ nf_tbh.52.a:0 "Texas broadcaster number one"
+
+ nf_tbh.53.t:0 "Tubeheads denies, they surely are a threat for peace and freedom"
+ nf_tbh.53.d:0 "Smack em"
+ nf_tbh.53.a:0 "Harshly"
+
+ nf_tbh.7.t:0 "Tubehead makes the choice if they wanna negociate only fires it Tubehead is puppet of TBH"
+ nf_tbh.7.d:0 "Tubeheads get's the choice to work as mediator, setting up tournaments in the Dallas stadium where roller derby becomes a public program."
+ nf_tbh.7.a:0 "Let's mage a deal"
+ nf_tbh.7.b:0 "Just kill ASS"
+
+ nf_tbh.71.t:0 "Assasin city get'S the offer"
+ nf_tbh.71.d:0 "Terms of it"
+ nf_tbh.71.a:0 "Accept"
+ nf_tbh.71.b:0 "Deny, and war with TBH"
+
+ nf_tbh.72.t:0 "Event TBH get's"
+ nf_tbh.72.d:0 "Yep"
+ nf_tbh.72.a:0 "ASS accepted"
+
+ nf_tbh.73.t:0 "EVENT TBH get'S"
+ nf_tbh.73.d:0 "Yep"
+ nf_tbh.73.a:0 "Ass denied, prepare for war."
+
+ nf_tbh.8.t:0 "Question of carthage"
+ nf_tbh.8.d:0 "Send demand to cease raiding and join Texas, or be smacked"
+ nf_tbh.8.a:0 "Send it naos"
+
+ nf_tbh.81.t:0 "Event Carthage get'S"
+ nf_tbh.81.d:0 "Terms of Treaty"
+ nf_tbh.81.a:0 "Accept"
+ nf_tbh.81.b:0 "Deny"
+
+ nf_tbh.82.t:0 "Carthage acepted."
+ nf_tbh.82.d:0 "Event TBH get's"
+ nf_tbh.82.a:0 "Yay"
+
+ nf_tbh.83.t:0 "Carthage refused"
+ nf_tbh.83.d:0 "Event TBH get'S"
+ nf_tbh.83.a:0 "DESTROY them"
+
+ nf_tbh.9.t:0 "Approach the patrolmen"
+ nf_tbh.9.d:0 "From lawmen to lawmen"
+ nf_tbh.9.a:0 "Send the demand to TPM"
+
+ nf_tbh.91.t:0 "Event TPM get's"
+ nf_tbh.91.d:0 "Terms of treaty"
+ nf_tbh.91.a:0 "Accept"
+ nf_tbh.91.b:0 "Deny"
+
+ nf_tbh.92.t:0 "TBH response event accepted"
+ nf_tbh.92.d:0 "Hooray"
+ nf_tbh.92.a:0 "REPLACE_ME"
+
+ nf_tbh.93.t:0 "TBH response event denied"
+ nf_tbh.93.d:0 "Mess em up boys"
+ nf_tbh.93.a:0 "Texas is freedom land"
+
+ nf_tbh.25.t:0 "The terrible ACH cutoff. Political differences, friendly but painful seperation as a lot of the higher officers leave."
+ nf_tbh.25.d:0 "Terrible tragedy"
+ nf_tbh.25.a:0 "Wanna play as TBH?"
+ nf_tbh.25.b:0 "Wanna play as ACH?"
+
+ nf_tbh.26.t:0 "ACH sends demand for Richmond territories. They give us shit for it"
+ nf_tbh.26.d:0 "Ach big bully."
+ nf_tbh.26.a:0 "Say yeah"
+ nf_tbh.26.b:0 "Say nope (Bad idea)"

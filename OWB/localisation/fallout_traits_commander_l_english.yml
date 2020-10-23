@@ -176,7 +176,25 @@
   fast_shot_trait_desc:0 ""
   finesse_trait:0 "Finesse"
   finesse_trait_desc:0 ""
+  reckless_trait:0 "Reckless"
 
   #Unique Traits
   conqueror:0 "Conqueror"
   conqueror_desc:0 ""
+
+
+#####
+use_jet: "Take some Jet"
+ABILITY_USE_JET: "Take Some Jet"
+ABILITY_USE_JET_DESC: "By putting tons of brahmin shit in the vats, we found out that the fumes give more than enough of a kick. Eureka. Literally. 'Course, we had to test to get the mix right."
+ABILITY_USE_MENTAT: "Use Mentats"
+ABILITY_USE_MENTAT_DESC: "This party drug was once favored for the boost it gave to creativity—tune in, turn on, drop out. Mentats are just the ticket when you need to figure out something particularly perplexing or impress someone with your wits and charm. Mentats also sharpen your Perception, which greatly enhances long-range sniping attacks."
+ABILITY_USE_BUFFOUT: "Use Buffout"
+ABILITY_USE_BUFFOUT_DESC: "Highly advanced steroids. While in effect, they increase strength and reflexes. Very addictive."
+ABILITY_USE_PSYCHO: "Use Psycho"
+ABILITY_USE_PSYCHO_DESC: "Originally developed by the United States military to increase soldiers' combat effectiveness, Psycho grants the user increased Damage output and Damage Resistance for a limited period of time. \n\n This will use §l1 chem§!."
+addicted: "Addicted"
+ABILITY_USE_FATMAN: "Use a Fatman"
+ABILILTY_USE_FATMAN_DESC: "The Fat Man is perhaps the most devastating infantry weapon ever unleashed upon the modern battlefield - a hand-held catapult that launches portable nuclear bombs. Just don't drop it."
+USE_ARTILLERY: "Deploy the Cannons"
+USE_ARTILLERY_DESC: "Prewar howitzers are difficult to transport, but when deployed, they can turn the tide of any battle. Of course, once we deploy them it will be hard to retreat."

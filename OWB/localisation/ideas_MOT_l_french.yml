@@ -1,0 +1,17 @@
+﻿l_french:
+  # Ideas
+ ncr_veg_treaty_of_new_vegas:9 "Le Traité de New Vegas"
+ ncr_veg_treaty_of_new_vegas_desc:9 "Signé en 2274 par §Y[NCR.GetNameWithFlag]§! et §Y[VEG.GetNameWithFlag]§! après les négociations qui ont suivi la découverte par la République du barrage §OHoover§!, pour la plupart intact, le traité marque le premier des nombreux compromis réticents que la République a été contrainte de faire avec M. House pour tenter de se préparer au Taureau. Alors que la RNC a obtenu le contrôle du barrage grâce au traité, ainsi que l'accès militaire à New Vegas et aux alentours, elle doit envoyer 5% de l'énergie du barrage dans le Strip , et ne doit en aucun cas empêcher l'accès du Strip par les citoyens de la RNC ou les troupes hors service."
+ mot_idea_support_from_shady_sands:9 "Soutien de Sables Ombragés"
+ mot_idea_support_from_shady_sands_desc:9 "Notre campagne dépend d'un flux constant de troupes, d'équipements et de dollars du gouvernement à Sables Ombragés. Sables Ombragés ne va pas abandonner la campagne de sitôt, mais si nous ne pouvons pas obtenir de résultats avec les ressources qu'ils ont mises en place dans la région, ils pourraient être moins enclins à envoyer de nouveaux renforts."
+ mot_idea_pacification_not_emancipation:9 "Pacification, Pas d'Émancipation"
+ mot_idea_pacification_not_emancipation_desc:9 "La Campagne du Mojave est souvent surnommée \"§GLa Pacification du Mojave§!\", et ce n'est pas pour rien qu'elle a reçu ce surnom. Notre campagne est principalement motivée par des raisons militaires : notre mission est de débarrasser le Mojave des pilleurs, tribus et autres menaces qui s'opposent à la République. Bien sûr, si nous pouvons aider les locaux, ce serait bien, mais dans cette dure Terre Désolée, nous devons avant tout veiller à la République."
+ mot_idea_pacification_not_emancipation_2:9 "Pacification, Pas d'Émancipation"
+ mot_idea_pacification_not_emancipation_2_desc:9 "La Campagne du Mojave est souvent surnommée \"§GLa Pacification du Mojave§!\", et ce n'est pas pour rien qu'elle a reçu ce surnom. Notre campagne est principalement motivée par des raisons militaires : notre mission est de débarrasser le Mojave des pilleurs, tribus et autres menaces qui s'opposent à la République. Bien sûr, si nous pouvons aider les locaux, ce serait bien, mais dans cette dure Terre Désolée, nous devons avant tout veiller à la République."
+ mot_idea_plan_the_offensive:9 "Planifier l'Opération"
+ mot_idea_plan_the_offensive_desc:9 "Il est temps de relier les différents angles d'attaque et de formuler un plan concret. Sables Ombragés attend des résultats !"
+ mot_khan_raiders:9 "Raids des Grands Khans"
+ mot_khan_raiders_desc:9 "Les Grands Khans, basés juste à notre portée après New Vegas, envahissent nos terres avec leurs bandes de guerre. Ils s'affrontent fréquemment avec nos soldats et font des raids sur nos usines. Il faut faire quelque chose à leur sujet, le plus tôt sera le mieux."
+
+  # Tooltips
+ ncr_veg_treaty_of_new_vegas_tt:9 "Pendant que le §GTraité de New Vegas§! est en vigueur, la RNC et son Expédition du Mojave ont conclu un pacte de non-agression entre eux et New Vegas. En échange de la garantie d'indépendance et de souveraineté sur le Strip, New Vegas doit accorder à l'Expédition du Mojave un accès militaire dans et autour de la ville, à l'exception du Strip lui-même. §RWe cannot cancel any of the Treaty's stipulations individually.§!"

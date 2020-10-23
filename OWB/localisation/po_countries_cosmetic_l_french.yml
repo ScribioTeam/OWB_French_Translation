@@ -486,8 +486,8 @@
 
  NAV_CES_autonomy_tributary:0 "Tributarius de Navajo"
  NAV_CES_autonomy_tributary_DEF:0 "Le Tributarius de Navajo"
- NAV_CES_autonomy_client_tribe:0 "Légion de Navajo"
- NAV_CES_autonomy_client_tribe_DEF:0 "La Légion de Navajo"
+ NAV_CES_autonomy_client_tribe:9 "Navajo"
+ NAV_CES_autonomy_client_tribe_DEF:9 "Navajo"
 
  TON_CES_autonomy_tributary:0 "Tributarius Tohono"
  TON_CES_autonomy_tributary_DEF:0 "Le Tributarius Tohono"
@@ -807,19 +807,12 @@
  MRA_VEG_autonomy_family:0 "Novac City"
  MRA_VEG_autonomy_family_DEF:0 "Novac City"
 
- ASH_VEG_autonomy_periphery:0 "Ashton"
- ASH_VEG_autonomy_periphery_DEF:0 "Ashton"
- ASH_VEG_autonomy_district:0 "Ashton"
- ASH_VEG_autonomy_district_DEF:0 "Ashton"
- ASH_VEG_autonomy_family:0 "Ashton"
- ASH_VEG_autonomy_family_DEF:0 "Ashton"
-
- HOP_VEG_autonomy_periphery:0 "Hopeville"
- HOP_VEG_autonomy_periphery_DEF:0 "Hopeville"
- HOP_VEG_autonomy_district:0 "Hopeville"
- HOP_VEG_autonomy_district_DEF:0 "Hopeville"
- HOP_VEG_autonomy_family:0 "Hopeville"
- HOP_VEG_autonomy_family_DEF:0 "Hopeville"
+ MOS_VEG_autonomy_periphery:9 "Mountain Springs"
+ MOS_VEG_autonomy_periphery_DEF:9 "Mountain Springs"
+ MOS_VEG_autonomy_district:9 "Mountain Springs"
+ MOS_VEG_autonomy_district_DEF:9 "Mountain Springs"
+ MOS_VEG_autonomy_family:9 "Mountain Springs"
+ MOS_VEG_autonomy_family_DEF:9 "Mountain Springs"
 
   ### western brotherhood
   # ISN_WBH_autonomy_brotherhood_slave:0 "Issaquah Thralls"

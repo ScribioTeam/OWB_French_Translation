@@ -1,0 +1,98 @@
+﻿l_french:
+ #Decisions
+
+
+ nf_navajo.1.t:9 "Les Jumeaux-Héros"
+ nf_navajo.1.d:9 "Les Jumeaux-Héros, nés de l'eau et du tueur de monstres, ils sont nés pour débarrasser la terre des monstres qui ont tué le Peuple. Tous les Navajos connaissent l'histoire des deux.  Ils ont reçu le pouvoir des éléments sacrés du quatrième monde : la turquoise, l'obsidienne, la coquille blanche, l'ormeau, le sel et le vent ; et ils les ont utilisés pour les dieux étrangers et sauver le monde. Mais si certains honorent le Tueur de monstres pour ses grandes actions, d'autres se souviennent que Né de l'eau a soigné les bâtons de prière et a veillé avec fermeté.  Qui [NAV.GetLeader] honore-t-il le plus ?"
+ nf_navajo.1.a:9 "Le Tueur de Monstres"
+ nf_navajo.1.b:9 "Né de l'Eau"
+
+
+#####
+ nf_navajo.2.t:9 "Les Richesses du Peuple"
+ nf_navajo.2.d:9 "Avant la Grande Guerre, les entreprises américaines ont fait pression sur les Navajos pour qu'ils ouvrent leurs terres à l'exploitation.  La réserve Navajo contenait des stocks d'uranium, de charbon, de gaz naturel et de pétrole. Mais les Navajo ont vu l'écriture sur le mur et ont cherché à développer leur propre parc éolien commercial."
+ nf_navajo.2.a:9 "Au moins, les mines ont été utiles après la guerre."
+ nf_navajo.2.b:9 "Les parcs éoliens ont constitué la base de la reprise."
+
+#####
+ nf_navajo.3.t:9 "L'Ami de Rome"
+ nf_navajo.3.d:9 "César a d'abord cherché à conquérir les Navajos comme il avait Flagstaff, Phoenix et Two Sun.  Deux années de guerre sanglante l'ont convaincu que cela ne réussirait pas. Les skinwalkers navajos ont frappé les camps sous le couvert de la nuit, provoquant le chaos et ralentissant la légion. Mais la Légion s'est retrouvée au sol, aussi implacable que le soleil de l'Arizona. \n\n Après deux ans de guerre, [NAV.GetLeader], chef des scouts Navajo, s'est faufilé dans la tente de César, seul et sans arme. Personne ne sait de quoi lui et César ont parlé cette nuit-là, mais quand le soleil s'est levé, César a accepté de visiter [NAV.Capital.GetName]. \n\nCertains ont critiqué [NAV.GetLeader] pour sa paix avec la Légion, et sa promesse de servir dans les guerres de la Légion.  Mais le Conseil Navajo a vu les avantages que le traité apporterait. La Légion a promis de protéger le peuple contre les pilleurs et de lui ouvrir les marchés de la Légion. Et surtout, César a promis aux Navajos l'accès aux réserves d'eau du Colorado. En échange d'un hommage à César, les terres des Navajos deviendraient un jardin."
+ nf_navajo.3.a:9 "César a tenu sa promesse."
+ nf_navajo.3.b:9 "On dit que les Skinwalkers ont même effrayé Lucius."
+#####################
+ nf_navajo.4.t:9 "Les Goules"
+ nf_navajo.4.d:30 "Los Alamos aurait dû être détruit pendant la Grande Guerre, mais une population de goules y a survécu depuis la Grande Guerre. Elles contrôlent le paysage environnant à l'aide du Nellie nucléaire, un dispositif d'artillerie qui peut tirer jusqu'à 50 kilomètres de distance, et exigent... des ressources humaines des humains environnants en échange de leur protection.  Ils sont également des partenaires commerciaux du Peuple, offrant des armes et des armures en échange de bijoux, de vêtements et de matières premières qu'ils ne trouvent pas. [NAV.GetLeader] a généralement toléré ce commerce, car il réduit la dépendance à l'égard de la Légion. Mais il y a ceux qui préconisent d'essayer de forger des liens plus étroits, et ceux qui se demandent pourquoi le Peuple soutient un commerce d'esclaves au départ."
+ nf_navajo.4.a:9 "Honnêtement, nous avons fait face à pire dans notre histoire."
+#################
+ nf_navajo.5.t:9 "L'Autre Réserve"
+ nf_navajo.5.d:9 "Nous faisons du commerce avec les Navajos depuis des décennies, en vendant des armes et des armures en échange d'esclaves et d'autres fournitures. Mais peut-être que les choses sont en train de changer ! Nous devrons garder un œil sur [NAV.GetLeader]."
+ nf_navajo.5.b:9 "D'accord."
+ #################
+ nf_navajo.6.t:9 "Un Autre Expédition des Navajo"
+ nf_navajo.6.d:9 "Les Navajos nous ont envoyé une autre cargaison d'esclaves. Hourra !"
+ nf_navajo.6.a:9 "D'accord."
+
+ #################
+ nf_navajo.7.t:9 "Les Élus"
+ nf_navajo.7.d:9 "Il semble que les goules utilisaient les esclaves pour bien plus que l'exploitation minière et l'industrie.  Notre éclaireur a trouvé un bunker souterrain, et des cris d'un laboratoire où les goules essaient de fabriquer des goules "naturelles". Nous avons vendu des humains comme bétail pour créer une race maîtresse de goules !"
+ nf_navajo.7.a:9 "La science folle du gouvernement américain d'avant-guerre ? Je suis choqué."
+
+  #################
+ nf_navajo.8.t:9 "Un Nouveau Clan ?"
+ nf_navajo.8.d:9 "L'assujettissement des Ciphers a laissé les Navajo avec une décision. Ils pourraient simplement écraser la résistance et soumettre la tribu, la plaçant ainsi sous la domination de la ville Navajo. Mais certains au sein du Conseil Tribal appellent à la compassion, et soulignent que Water's Edge, Red Running into Water, et d'autres clans ont été adoptés dans la tribu.  Les Ciphers ont une religion sacrée, et les murs des pueblos sont ornés de nombres et de formules sacrés.  Ils chantent les chants du ciel, tout comme nous.  Nous ferions bien de les accueillir dans notre tribu."
+ nf_navajo.8.a:9 "Nous ne ferons pas route avec des sauvages."
+ nf_navajo.8.b:9 "Chantons ensemble les chants des étoiles."
+
+ #################
+ nf_navajo.9.t:9 "Les Tambours de Guerre"
+ nf_navajo.9.d:9 "Il semble que les Navajo soient mécontents de notre juste règle et qu'ils préparent une révolte ! Nous devrons nous occuper d'eux nous-mêmes."
+ nf_navajo.9.a:9 "Ne connaissent-ils pas le sort des Pieds-Noirs ?"
+
+ nf_navajo.10.t:9 "Un Peu d'Aide pour nos Amis"
+ nf_navajo.10.d:164 "[164.GetName] contient une importante population Navajo qui, selon [Nav.GetLeader], devrait être sous la domination de la tribu. En l'honneur de leur soutien au Mojave, peut-être devrions-nous accéder à leur demande."
+ nf_navajo.10.a:9 "Nous n'avons pas vraiment besoin de ce désert."
+ nf_navajo.10.b:9 "La bannière de la Légion ne bat pas en retraite."
+
+#####
+ nf_navajo.11.t:9 "Le Retour de Red Mesa"
+ nf_navajo.11.d:9 "Red Mesa faisait historiquement partie de la nation Navajo. En échange du soutien de [NAV.GetLeader], nous lui rendrons."
+ nf_navajo.11.a:9 "Bien sûr, on peut trouver beaucoup de meilleurs territoires"
+ nf_navajo.11.b:9 "Soyez reconnaissants pour ce que vous avez. "
+
+ #####
+ nf_navajo.12.t:9 "Le Colorado Sauvage"
+ nf_navajo.12.d:9 "Red Mesa faisait historiquement partie de la nation Navajo. En échange du soutien de [NAV.GetLeader], nous lui rendrons."
+ nf_navajo.12.a:9 "Bien sûr, on peut trouver beaucoup de meilleurs territoires"
+ NAV_good_friends_tt:9 "\nLes Navajo apprécieront cela!"
+ nf_navajo.12.b:9 "Soyez reconnaissants pour ce que vous avez."
+ NAV_plotting_tt:9 "§RLes Navajo sauront qu'on ne peut pas nous faire confiance.§!"
+
+
+ #####
+ nf_navajo.13.t:9 "Fidelis"
+ nf_navajo.13.d:9 "NAV.GetLeader] nous a servi fidèlement, et nous l'avons récompensé également.  Alors que le centre d'intérêt de la Légion se déplace vers l'ouest, peut-être est-il temps pour nous de reconnaître qu'ils nous serviront mieux en tant qu'ami qu'en tant que sujet ? En retour, les Navajos seront fermement attachés à notre bannière."
+ nf_navajo.13.a:9 "[CES.GetLeader] est un seigneur généreux."
+ nf_navajo.13.b:9 "Soyez reconnaissants pour ce que vous avez. "
+
+
+ ### Ideas
+
+ ### Ideas
+
+ navajoilandgas:9 "Compagnie de Charbon et de Gaz Navajo"
+ navajo_wind_farm:9 "Les Parcs Éoliens Navajo"
+ three_sisters:9 "Les Trois Sœurs"
+ medicine_men:9 "Hommes de Médecine"
+ NAV_insurgencies_idea:9 "Cette Terre est notre Terre"
+ yak_refugees:9 "Réfugiés Yakama"
+ NAV_cipher_clan:9 "Le Clan Cipher"
+ NAV_medicine_man:9 "Hommes de Médecine"
+ NAV_skinwalkers_idea:9 "Les Skinwalkers"
+ NAV_textile_industry:9 "Textiles Navajo"
+ NAV_wanamingo:9 "Wanamingo"
+ CES_nav_loyalty:9 "Fidélité des Navajos"
+
+
+
+ ## Flags
+ NAV_ghouls_up_to_something:9 "Les Goules sont Allées Trop Loin"

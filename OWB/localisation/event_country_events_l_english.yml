@@ -27,3 +27,7 @@
   government_events.6.d: "Jet, Buffout, Psycho, Mentats, and even good old fashion marijuana are making a killing. Literally, for some people. But for every person whose life is ruined by narcotics, there's a person who sold them the drugs that did them in. We're able to profit from this lucrative trade and can use the profits to fund our armies."
   government_events.6.a: "Pass me a hit."
   add_caps_500_tt: "Adds 500 "
+
+  government_events.7.t: "Freed slaves from [FROM.FROM.GetName]"
+  government_events.7.d: "After the successful annexation of [FROM.FROM.GetName] we found where their slaves were being held. As we do not endorse or practice slavery we offered them freedom. A good amount of the healthy ones were willing to join our military forces for freeing them."
+  government_events.7.a: "Free manpower fuck ya."

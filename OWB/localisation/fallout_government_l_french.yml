@@ -68,6 +68,12 @@
  BDT_intellectuals_party_long:0 "Les Acolytes de Crimson"
  BDT_ruler_party:0 "Arène de Cranium"
 
+  #TCA
+ TCA_people_party:9 "Gardiens du Blanc"
+ TCA_elites_party:9 "Conseil de l'unité"
+ TCA_ruler_party:9 "Les agents de l'Immortel"
+ TCA_intellectuals_party:9 "Exilés de la Confrérie"
+
   #### Laws #####
 
   # Military Law Categories
@@ -194,6 +200,16 @@
  RRG_ruler_party:0 "El Movimiento"
  RRG_ruler_party_long:0 "Los Movimiento de Regeneración Arquitectos"
 
+  # ASS
+ ASS_people_party:9 "La connexion cubaine"
+ ASS_people_party_long:9 "La connexion cubaine"
+ ASS_elites_party:9 "Vengeance de Ruby"
+ ASS_elites_party_long:9 "Vengeance de Ruby"
+ ASS_intellectuals_party:9 "Kennedys morts"
+ ASS_intellectuals_party_long:9 "Kennedys morts"
+ ASS_ruler_party:9 "Conspiration"
+ ASS_ruler_party_long:9 "Conspiration"
+
  press_laws:0 "Lois sur la presse"
  political_effort_press:0 "Liberté d'Expression"
  political_effort_press_desc:0 "Vous ne pouvez pas arrêter la presse. O, ils essaient, ils essaient. Mais un peuple libre se battra pour rester libre."
@@ -225,6 +241,7 @@
  EFFECT_CHANGE_LAW_press_laws:0 "Changer la loi sur la presse en \"$NAME|Y$\" qui accorde ($DESC$)."
  EFFECT_CHANGE_LAW_slavery_laws:0 "Changer la loi sur l'esclavage en \"$NAME|Y$\" qui accorde ($DESC$)."
  EFFECT_CHANGE_LAW_drug_laws:0 "Changer la loi sur les drogues en \"$NAME|Y$\" qui accorde ($DESC$)."
+ EFFECT_CHANGE_LAW_currency_laws:9 "Remplacer la loi sur les devises par \"$NAME|Y$\" qui accorde ($DESC$)."
  EFFECT_CHANGE_LAW_vehicle_restoration_advisor:0 "Changer la loi sur la restauration des véhicules pour \"$NAME|Y$\" qui accorde ($DESC$)."
  EFFECT_CHANGE_LAW_navy_restoration_advisor:0 "Changer la loi sur la restauration de la marine en \"$NAME|Y$\" qui accorde ($DESC$)."
  EFFECT_CHANGE_LAW_aircraft_restoration_advisor:0 "Changer la loi sur la restauration des avions en \"$NAME|Y$\" qui accorde ($DESC$)."
@@ -239,3 +256,13 @@
  has_unique_drug_laws:0 "Dispose d'une législation unique sur les drogues"
  has_unique_undesirable_laws:0 "Dispose d'une législation unique sur les indésirables"
  has_unique_mutant_recruitment_laws:0 "Dispose d'une législation unique sur le recrutement Mutant"
+
+  # CHC
+ CHC_people_party:9 "Le Congrès Choral"
+ CHC_people_party_long:9 "Le Congrès Choral"
+ CHC_elites_party:9 "Restes de SuperMax"
+ CHC_elites_party_long:9 "Restes de SuperMax"
+ CHC_intellectuals_party:9 "Le chœur enchaîné"
+ CHC_intellectuals_party_long:9 "Le chœur enchaîné"
+ CHC_ruler_party:9 "L'homme de main"
+ CHC_ruler_party_long:9 "L'homme de main"

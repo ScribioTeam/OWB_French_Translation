@@ -228,3 +228,5 @@
  ACHIEVEMENT_50_DESC:0 "En tant que nation Vault-Tec, fouiller dans chaque abri"
  ACHIEVEMENT_51:0 "Hiver nucléaire"
  ACHIEVEMENT_51_DESC:2278 "Avec n'importe quelle nation, avant §Y2278§! être en guerre avec chaque (autre) grande nation et rester en vie et non capitulé jusqu'à §Y2285§!."
+ ACHIEVEMENT_52:9 "La Mauvaise Vipère"
+ ACHIEVEMENT_52_DESC:9 "En tant que §Y[DES.GetNameWithFlag]§!, détenir tous les états cœur de §Y[CES.GetNameWithFlag]§!."

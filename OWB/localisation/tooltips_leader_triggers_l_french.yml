@@ -50,8 +50,8 @@
  ragnar_leader_tt:0 "§YRagnar§! est l'actuel dirigeant de la §Y[BRK.GetNameDef]§!"
  ragnar_not_leader_tt:0 "§YRagnar§! n'est pas l'actuel dirigeant de la §Y[BRK.GetNameDef]§!"
 
- house_leader_tt:0 "§YMr House§! est l'actuel dirigeant de §Y[VEG.GetNameDef]§!"
- house_not_leader_tt:0 "§YMr House§! n'est pas l'actuel dirigeant de §Y[VEG.GetNameDef]§!"
+ house_leader_tt:9 "§YMr House§! est l'actuel dirigeant de §Y[VEG.GetNameDef]§!"
+ house_not_leader_tt:9 "§YMr House§! n'est pas l'actuel dirigeant de §Y[VEG.GetNameDef]§!"
  benny_leader_tt:0 "§YBenny§! est l'actuel dirigeant de §Y[VEG.GetNameDef]§!"
  benny_not_leader_tt:0 "§YBenny§! n'est pas l'actuel dirigeant de §Y[VEG.GetNameDef]§!"
  king_leader_tt:0 "§YThe King§! est l'actuel dirigeant de §Y[VEG.GetNameDef]§!"

@@ -1,4 +1,6 @@
 ﻿l_french:
+ moj_distrusted_elder:9 "Aîné de confiance"
+ moj_obsessed_elder:9 "Aîné obsédé"
  jolly: "Joyeux"
  jolly_desc: "§GHo§! §Rho§! §Gho!§! §RSénateur§! §GNoël§! §Rest§! §Gadoré§! §Ret§! §Gchéri§! §Rpar§! §Gtous§! §Rles§! §Gelfes§! §Rde§! §Gson§! §Ratelier.§! §GSa§! §Rgentillesse,§! §Gfestive§! §Rjoyeuse,§! §Get§! §Rheureuse§! §Gest§! §Rsans§! §Glimites!§!"
  naughty_and_nice: "Méchant et Gentil"
@@ -12,6 +14,8 @@
  well_liked_leader: "Leader bien aimé"
  expert_negotiator: "Negociateur Expert"
  cruel_tyrant: "Tyran Cruel"
+ because_aliens:9 "\"Pourquoi ? Parce que des extraterrestres !\""
+ elected_tribe_president:9 "Elu Président du Conseil Tribal"
  loyalty: "loyauté"
  loyalty_desc: "Ce général à l'entiére loyauté de ses hommes, lui permettant de maintenir la discipline et de construire de meilleurs fortifications plus rapidement."
  slavemaster: "Esclavagiste"
@@ -28,6 +32,7 @@
  regis_trait:0 "Impérialiste ricaneur"
  majorie_trait: "Majorie"
  timelord:0 "Seigneurs du temps"
+ spiritual:9 "Spirituel"
  military_background: "Situation militaire"
  conqueror_of_tribes: "Conquérant des tribus"
  owb_army_chief_offensive_1:0 "Attaque de l'armée \n (spécialiste)"
@@ -56,9 +61,48 @@
  mad_ai:0 "IA folle"
  ineffective:0 "Inefficace"
  god_from_the_machine:0 "Dieu de la Machine"
+ han_true_alpha:9 "The True Alpha"
  dimensional_traveller:0 "Voyageur dimensionnel"
  scarred_for_life:0 "Effrayé de la vie"
  avatar_of_mars:0 "Avatar de Mars"
+ han_true_alpha:9 "Le véritable Alpha"
+ dsp_master_of_his_steed:9 "Maître de son stead"
+ head_of_tribal_council:9 "Président du Conseil exécutif des chefs"
+ he_of_no_moiety:9 "He Of No Moiety"
+ prespers_protege:9 "Protégé de Presper"
+ experiment_0011:9 "§OExpérience #0011§!"
+ immortal_engineering:9 "§RIngénieur Immortel§!"
+ immortal_engineering_tt:9 "§OLe Premier Choriste§! et sa §OChorale enchaînée§! sont maintenus en vie par l'horrible machinerie d'avant-guerre qu'ils sont branchés dans l'aile souterraine isolée du Centre correctionnel §YWatonga§!. Tant que §RLa Chapelle§! reste en de bonnes mains, la §OChorale enchaînée§! est §Rimmortelle§!."
+ born_of_the_blood:9 "§RNé dans le rouge§!"
+ symbol_of_unity:9 "Symbole d'unité"
+ the_137th_archbishop:9 "Le 137ème archevêque"
+ survivalist:9 "Survivaliste"
+ grand_captain:9 "Grand Capitaine des Rapides"
+
+
+  ##Organization Traits
+    ### Gun Runners
+ org_1_opinion_1:9 "Conscrit"
+ org_1_opinion_2:9 "Sergent"
+ org_1_opinion_3:9 "Partenaire"
+    ### Chop Shop
+ org_2_opinion_1:9 "Fuel Boy"
+ org_2_opinion_2:9 "Aigle"
+ org_2_opinion_3:9 "Kahuna"
+
+    ### Van Graffs
+ org_3_opinion_1:9 "Ami de Famille"
+ org_3_opinion_2:9 "Caporegime"
+ org_3_opinion_3:9 "Le Boss"
+    ### Butcher Pete
+ org_4_opinion_1:9 "Cure-dents"
+ org_4_opinion_2:9 "Couteau à filet"
+ org_4_opinion_3:9 "Le Couperet"
+    ### Mavens
+ org_5_opinion_1:9 "Chuchoter"
+ org_5_opinion_2:9 "Ombre"
+ org_5_opinion_3:9 "Cauchemare"
+
   # ITZ
  critically_ill:0 "Gravement malade"
  critically_ill_desc:0 "Le Kalomte a été blessé par balle et gravement blessé alors qu'il inspectait ses troupes sur la côte d'acier. Il est maintenant plongé dans le coma dans son palais. Sans successeur clair, le gouvernement est dans le chaos et le pays en train de s'effondrer."
@@ -93,7 +137,6 @@
  experimental_subroutine_trait:0 "Focus de recherche"
   # UTO
  crazy_crazy_crazy:0 "Fou fou fou"
-
   #VLT
  model_citizen:0 "Citoyen modèle"
  masterful_engineer:0 "Ingénieur de génie"
@@ -105,8 +148,31 @@
  vault_tec_medical_training:0 "Formation médicale Vault-tec"
  vault_tec_security_trainer:0 "Formateur en sécurité Vault-tec"
  vault_tec_defence:0 "Défenseur d'Abris"
-  
+  # LNS
+ power_armour_proponent:9 "Promoteur de l'armure assistée"
+ patient_teacher:9 "Enseignant patient"
+ legion_tactician:9 "Tacticien de la Légion"
+  # TBH
+ urban_planner:9 "Urbaniste"
+ waste_not:9 "Ne pas gaspiller, parce que ne pas"
+
   #MLP
  bad_influence:0 "Mauvaise influence"
-  
-  
+
+  #CMC
+ casino_heiress:9 "Héritière du Casino"
+ caged_songbird:9 "Oiseau chanteur en cage"
+ crazy_songbird:9 "Oiseau chanteur fou"
+ cmc_friends_in_low_places:9 "Amis dans les bas-fonds"
+ cmc_ear_to_the_ground:9 "L'oreille au sol"
+ cmc_police_chief:9 "Chef de la police"
+
+	# ASS
+ roller_derby_queen:9 "Reine du Roller Derby"
+ roller_derby_queen_desc:9 "Eh bien, elle est peut-être méchante, elle est peut-être grosse\nMais je n'ai jamais rencontré une personne qui lui aurait dit ça..."
+
+  # Lanius
+ lanius_ruthless:9 "Sur la croix"
+ lanius_builder_trait:9 "Pour la Gloire de la Légion"
+ LAC_master_of_the_rock:9 "Maître du Rocher"
+ lanius_women:9 "Ministras"

@@ -1,7 +1,4 @@
 ﻿l_french:
- nf_lac.1.t:0 "Mesures drastiques"
- nf_lac.1.d:0 "César a disparu dans les airs, et beaucoup le présument mort. À sa place, un soi-disant Kaiser est venu, portant la marque de Mars... ou du moins c'est ce qu'on dit ! Mais Lanius connaît la vérité, tout comme sa cohorte. Le Kaiser est un tas de merde ! Vulpes est un putain de bâtard ! J'emmerde ce nouveau gouvernement, aucun d'entre eux n'a le droit de gouverner depuis le siège de Flagstaff !\n\nAvec ses forces rassemblées à l'est, Lanius et ses garnisons se sont élevés contre le prétendu pouvoir draconien du Kaiser, cherchant à créer un véritable état successeur. Bien que nous ayons promis de laisser le \"Kaiser\" tranquille, en réalité Lanius ne fait que rassembler ses forces. Espérons que ses provisions et ses armées d'invasion à l'est suffiront à soutenir cette nouvelle nation naissante..."
- nf_lac.1.a:0 "Maudit soit ce §R\"Kaiser\" !§!"
 
  nf_lac.2.t:0 "Renforcements loyaux"
  nf_lac.2.d:0 "Le cri de ralliement de Lanius n'est pas resté sans réponse ! De l'autre côté des terres du prétendant, de loyaux soldats sont venus en masse pour soutenir notre juste cause, las des vieux laquais de César et de leur dévouement envers l'intrus.\n\nMais ce n'est pas tout ce qu'ils apportent avec eux, avec l'avancée des armées vient la nouvelle des plans sordides mis en place par le nouveau chef de Flagstaff ; des plans pour un progrès et une stabilité supposés. Nous voyons à travers ses mensonges ! Ce démon dimensionnel qui se cache dans la peau de l'homme cherche à débarrasser la terre de l'étreinte vertueuse de Mars, et nous n'y participerons pas !"
@@ -20,3 +17,90 @@
  nf_lac.5.d:0 "§bIl y a un homme en face de vous. Il vous parle d'un livre, mais vous avez l'impression de le connaître. \"Je suis un prêtre de Mars\" vous dit-il, son corps frémissant sous une robe rouge profond. \"Nous avons longtemps plaidé pour l'adoption de la Plume. Le moment est venu, alors pourquoi ne pas la prendre et écrire votre nom dans les annales de l'histoire ?\"\n\nVous regardez le livre qu'il a mis sur la table. Il ne ressemble pas à un livre d'histoire, mais vous n'avez jamais lu de livre, alors qui êtes-vous pour juger ? Vous sentez quelque chose d'étranger dans votre main. C'est la plume. Vous la regardez curieusement, puis vous regardez l'homme. \"Il peut être difficile d'écrire, n'est-ce pas ? Savez-vous comment épeler votre nom ?\" Vous hochez la tête. Vous connaissez votre nom depuis ta naissance, évidemment.\n\nIl ouvre le livre pour vous, comme c'est gentil de sa part. Il vous guide vers la bonne page, là où vous devez écrire votre nom. Vos hommes vous regardent avec curiosité, avec impatience, avec avidité. Ils veulent que vous fassiez ça, que vous fassiez quelque chose. C'est difficile depuis l'arrivée du Kaiser, les choses se passent mal. L'air a un goût plus vivant, vous pensez.\n\nLe livre vous regarde dans la pièce. Vous ne ressemblez pas au Fils de Mars, mais il ne connaît pas la religion, alors qu'est-ce qu'il connaîtrait ? Tout ce qu'il sait, c'est que vous devez écrire dedans MAINTENANT.\n\nVous vous souvenez de ce qu'il faut écrire ?"
  nf_lac.5.a:0 "§R...§!"
  nf_lac.5.b:0 "§R...§!"
+
+
+ nf_lanius.50.t:9 "Esclaves de Lanius"
+ nf_lanius.50.d:9 "En témoignage de sa loyauté envers [CES.GetLeader], Lanius a envoyé un nouveau lot d'esclaves de sa conquête. Nous pouvons certainement trouver une utilité à ces prodigues."
+ nf_lanius.50.a:9 "Merci, mon serviteur."
+
+
+ nf_lanius.1.t:9 "La Bête de l'Est"
+ nf_lanius.1.d:12 "Lanius était le plus grand guerrier des Hidebarks, l'un des plus grands ennemis de la Légion. Ou est-il né esclave, dont les talents naturels lui ont permis de devenir légionnaire à l'âge de 12 ans ? Est-il vrai qu'il a massacré tous les hommes de sa tribu ? Ou bien ont-ils été assimilés à la Légion ? Seuls César et Lanius en sont sûrs, et ils ne parlent pas. Ce qui est indéniable, c'est que Lanius fait partie des plus grands chefs de la Légion. Certains le qualifient de brute sauvage, mais l'homme derrière le masque peut être plus que ce qu'ils savent..."
+ nf_lanius.1.a:9 "Il est un leader naturel des hommes."
+ nf_lanius.1.b:9 "Il se déplace comme le vent."
+ nf_lanius.1.c:9 "Certains sont nés chanceux. Lanius a eu la chance de naître."
+ nf_lanius.1.e:9 "Certains se demandent s'il est plus intelligent que César lui-même...."
+
+ nf_lanius.2.t:9 "Swift, Honest, Purchased With Blood"
+ nf_lanius.2.d:9 "The Legion's resources are vast, but not infinite.  Lanius had to choose who to bring with him to the east. Some said the strongest, skilled with firearms.  Some said a horde of fanatics, ready to kill and be killed.  And some said the swiftest. But the decision was Lanius' alone."
+ nf_lanius.2.a:9 "A well equipped expedition."
+ nf_lanius.2.b:9 "The survivors will gain skill."
+ nf_lanius.2.c:9 "The chariots thunder across the plains."
+
+ nf_lanius.2.t:9 "Rapide, honnête, acheté avec du sang"
+ nf_lanius.2.d:9 "Les ressources de la Légion sont vastes, mais pas infinies.  Lanius a dû choisir qui amener avec lui à l'est. Certains ont dit le plus fort, habile avec les armes à feu. D'autres ont dit une horde de fanatiques, prêts à tuer et à être tués. Et d'autres ont dit les plus rapides. Mais la décision n'appartenait qu'à Lanius."
+ nf_lanius.2.a:9 "Une expédition bien équipée."
+ nf_lanius.2.b:9 "Les survivants vont acquérir des compétences."
+ nf_lanius.2.c:9 "Les chars traversent les plaines en tonitruant."
+
+ nf_lanius.3.t:9 "Forger une vaste faux, tranchante comme un rasoir. "
+ nf_lanius.3.d:9 "Lorsque Lanius a occupé Bernalillo, il a dû décider quoi faire de ses habitants. La ville abritait une bande d'esclavagistes dissolus, obnubilés par le profit. Les débauchés tombèrent rapidement devant les épées et les fusils de la Légion, mais Lanius devait décider du sort des survivants."
+ nf_lanius.3.a:9 "La Légion peut toujours utiliser plus d'esclaves."
+ nf_lanius.3.b:9 "Confisquer leurs richesses."
+ nf_lanius.3.c:9 "Ils peuvent prouver leur valeur sur le champ de bataille !"
+
+
+ nf_lanius.4.t:9 "Malheur aux vaincus !"
+ nf_lanius.4.d:9 "La tribu Lambda du Nouveau-Mexique a été réduite en esclavage sans pitié, tout comme les Hidebarks l'ont été. Pour montrer sa victoire, Lanius a nommé leur chef de village les Staging Grounds.  Quant à la tribu elle-même ?"
+ nf_lanius.4.a:9 "Voici d'autres esclaves !"
+ nf_lanius.4.b:9 "Ils ont rejoint les rangs de la Légion."
+ nf_lanius.4.c:9 "On leur a enseigné la vertu de l'industria."
+
+
+
+ nf_lanius.6.t:9 "Tourner la page"
+ nf_lanius.6.d:9 "Les monastères de Santa Fe sont tombés, les ossements de Leibowitz sont en cendres. Et pourtant... il y a beaucoup à apprendre dans ce lieu, des tomes sacrés qui méritent d'être étudiés. Les moines ont amassé non seulement les paroles de leur dieu mort, mais aussi des livres sur l'artisanat, la guérison, etc. Et même leurs sculptures, celles d'un charpentier et d'un autre César, méritent d'être étudiées. "
+ nf_lanius.6.a:9 "Comment peut-on être un pêcheur d'hommes ?"
+ nf_lanius.6.b:9 "Laissez les moines servir la Légion."
+
+
+ nf_lanius.7.t:9 "Pillards de l'abri perdu"
+ nf_lanius.7.d:9 "Les coureurs des plaines se sont engraissés sur le butin des cadres, mais la conquête de Lanius lui a laissé le choix. Il pouvait prendre leur population d'esclaves pour la sienne, et leur ordonner de cultiver les rives du Pecos pour la Légion. Ou bien il pouvait maintenir les cadres en position d'honneur, afin qu'ils puissent utiliser leurs arts pour la Légion."
+ nf_lanius.7.a:9 "Nous n'avons pas besoin d'hommes de métal."
+ nf_lanius.7.b:9 "On peut trouver plus d'esclaves ailleurs."
+
+
+
+ nf_lanius.8.t:9 "Magie"
+ nf_lanius.8.d:9 "Les adeptes de Roswell ne savaient pas pourquoi leurs outils et leurs sorts fonctionnaient, mais ils savaient comment les utiliser. Même s'ils étaient des prodigues, peut-être y avait-il quelque chose de valeur dans leurs temples ?"
+ nf_lanius.8.a:9 "Décaper l'endroit pour les pièces."
+ nf_lanius.8.b:9 "Nous pouvons fabriquer de nouvelles armes de guerre."
+
+
+ nf_lanius.9.t:9 "Les fruits de la victoire"
+ nf_lanius.9.d:9 "Les Mescalero ont survécu à la Grande Guerre grâce au cœur de la plante Mescal, et ont étanché leur soif sur le fruit sucré du yucca sous le soleil brûlant. Ils ont prospéré malgré la Grande Guerre et ses conséquences, en se forgeant une maison dans les Terres Désolées.\n\nA présent, les survivants s'occupent de leurs vergers sous les yeux de la Légion, une autre dans la lignée de leurs futurs conquérants. Mais Lanius allait apprendre beaucoup de ses ennemis, et même l'ancien chef du Mescalero, Lozen, admettrait qu'il n'était pas sans sagesse. Car la Bête de l'Est croyait que l'imitation était la forme la plus sincère de flatterie."
+ nf_lanius.9.a:9 "Les manières nomades des Apaches nous serviront bien."
+ nf_lanius.9.b:9 "Nous pouvons apprendre beaucoup de leurs guerriers."
+
+
+ nf_lanius.10.t:9 "Le pays du désir du coeur"
+ nf_lanius.10.d:9 "Avant la guerre, certains appelaient le Nouveau-Mexique le pays des enchantements. Mais Lanius y a pensé sous un nom plus ancien. Lanius a appris à se battre et à conquérir en Arizona ; mais c'est au Nouveau-Mexique qu'il a appris à gouverner.\n\nIl ne suffit pas d'écraser un ennemi au combat. Lanius a appris ce qui est arrivé après. Boucher une ville ne laissait personne pour nourrir la Légion ; et les esclaves ne pouvaient pas se glorifier de ses conquêtes. C'est pourquoi Lanius prit le collier du Colorado, et laissa les artisans des cadres forger de nouveaux canons pour la Cohorte. Et avec le temps, les pensées derrière son masque ont commencé à changer."
+ nf_lanius.10.a:9 "La construction, comme la conquête, a un plaisir qui lui est propre."
+ nf_lanius.10.b:9 "Mais cela ne peut pas arriver s'ils résistent encore."
+
+ nf_lanius.11.t:9 "Tous existent pour tester la force de la Légion"
+ nf_lanius.11.d:9 "Pendant des générations, la tribu du Rocher Peint a peint l'histoire sur ce rocher, racontant ses gloires et ses triomphes. Lanius l'a regardée, les récits d'espoirs et de craintes, de terreurs et de triomphes, sans commentaire. Au bout d'un moment, il regarda l'homme qui s'agenouillait devant lui. Lequel de ces sangs, le Sang teint, est le vôtre ? Et lequel était celui de la Légion ? L'homme resta silencieux. \"Ne désespère pas de ta défaite, car tu seras purifié en quelque chose de plus grand. Tes hommes ont combattu avec honneur et trouveront une nouvelle vie ! Vos guerriers ont gagné une place dans mon armée, vous nous servirez comme une partie de quelque chose de plus grand. Et comme moi, vous regarderez en arrière, dans des années, et vous vous demanderez quelle part de votre vie vous avez gaspillée.\"\n\nPendant qu'ils regardaient, les légionnaires ont versé de la peinture rouge sur le rocher. L'histoire d'un peuple a disparu sous la marée rouge."
+ nf_lanius.11.a:9 "Levez-vous, fils de Mars !"
+
+
+ nf_lanius.12.t:9 "Compte à rebours"
+ nf_lanius.12.d:9 "\"C'est donc ici que se trouve la maison de la Confrérie ?\", a demandé Lanius. \"Un trou dans le sol, où ils peuvent se cacher d'un combat honorable ?\" Lanius s'avança. \"Paladin Andrea ! Je sais que tu m'entends et que tu penses pouvoir nous survivre. Et peut-être que dans un autre temps, tu auras raison.\" Le masque de Lanius restait immobile pendant qu'il continuait. \"Nous avons trouvé les tubes qui amènent l'air dans votre bunker. Trop petits pour aucun d'entre nous, peut-être. Mais au moment même où nous parlons, un gaz s'infiltre dans votre bunker. Vos fils et vos filles peuvent-ils survivre à cela ? Ou allez-vous finir vos jours avec les cadavres de vos enfants, en attendant que vos costumes refroidissent et vous emmènent eux aussi. Faites votre choix.\""
+ nf_lanius.12.a:9 "Tic. Tac. Tic. Tac."
+
+ nf_lanius.13.t:9 "Rites égaux"
+ nf_lanius.13.d:9 "Le grand César n'a jamais permis aux femmes de servir comme guerrières, limitant leur rôle aux guérisseurs, sages-femmes et scribes. Mais dans sa conquête de l'Est, Lanius a conquis de nombreuses femmes guerrières : Lozen du Mescalero, Morrison de l'Été et Brixley de la Confrérie. Elles ont combattu au moins aussi bien que les tribus de l'Arizona, et il n'y a aucune honte à tomber dans la Légion. Peut-être, se demande Lanius, peut-il utiliser les femmes pour d'autres rôles ? Mais en tant qu'éclaireuses ? Les espions, qui ne font pas passer le mot des agissements de Lanius aux Vulpes ? En tant que scribes honorés, qui se battent avec des mots plutôt qu'avec des armes ?"
+ nf_lanius.13.a:9 "César ne cautionnerait jamais cela !"
+ nf_lanius.13.b:9 "Lanius aura ses Ministras."
+   #### Ideas
+
+ lac_engineers:9 "Fiat Voluntas Tua"

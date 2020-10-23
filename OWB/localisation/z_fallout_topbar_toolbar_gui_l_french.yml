@@ -2,25 +2,36 @@
   # GUI:
  FALLOUT_TOOLBAR_DROP_DOWN_BUTTON_TT:0 "§YNouveaux onglets§!\nCliquez pour afficher ou masquer le menu déroulant des autres onglets."
  FALLOUT_TOOLBAR_DROP_DOWN_BUTTON_TT_DELAYED:0 "[This.GetToolbarDropDownButtonTooltipDelayed]"
-  
+
  FALLOUT_TOOLBAR_TAB_BUTTON_TT:0 "[This.GetToolbarTabButtonTooltip]"
 
   # Scripted Localisation:
  string_fallout_toolbar_drop_down_button_tt_invalid:0 "§RNous n'avons pas d'autres onglets disponibles.§!"
-  
+ string_fallout_toolbar_drop_down_button_help:9 "[GetMiscButtonTTHint]"
+
  string_fallout_tab_button_tt_1:0 "§Y[This.GetCoringTabTitle]§! \n[This.GetCoringTabDesc]"
  string_fallout_coring_tab_title:0 "États non coeur"
  string_fallout_coring_tab_desc:0 "Voir les états qui ne sont pas vos états coeur et les rendre coeur, si possible."
  string_fallout_tlaloc_coring_tab_title:0 "Restaurer le réseau électrique"
  string_fallout_tlaloc_coring_tab_desc:0 "Voir les états qui ne sont pas connectés à Chico-Net et les connecter, si possible."
-  
+
  string_fallout_tab_button_tt_2:0 "§YEconomie§! \n- Trouvez des détails sur la situation économique de votre pays et dépensez vos trésors."
-  
+
  string_fallout_tab_button_tt_3:0 "§YGestionnaire de sujets§! \nVoir les détails sur tous vos sujets, y compris leur pouvoir politique actuel, leur main-d'œuvre et la situation de la loi sur la conscription."
-  
+
  string_fallout_tab_button_tt_4:0 "§Y[This.GetSenateTabTitle]§! \n[This.GetSenateTabDesc]"
  string_fallout_default_senate_tab_title:0 "Parlement"
  string_fallout_default_senate_tab_desc:0 "Voir votre parlement et les interactions possibles avec lui."
  string_fallout_rrg_senate_tab_title:0 "Sénat [RRG.GetAdjective]"
  string_fallout_rrg_senate_tab_desc:0 "Voir le Sénat [RRG.GetAdjective] et donc les opinions de tous les sénateurs et députés des candidats aux élections ou les lois."
-  
+
+ string_fallout_tab_button_tt_5:9 "§YTrade Node Map§! \nExplore the economic links of the wasteland."
+
+ string_fallout_tab_button_tt_6:9 "§YOrganization Marketplace§! \nVisit the local bazaar to purchase weapons, equipment, and more!"
+ popup_hover_over_tooltip:9 "[GetPopupTooltip]"
+ node_level_up_popup_tooltip:9 "[GetNodeLevelUpPopUp]"
+ node_level_up_popup_tooltip_tt:9 "§Y[?target_state_var.GetName]§! can level up to level [?new_level|+0]"
+ node_disabled_popup_tooltip:9 "[GetNodeDisabledPopUp]"
+ node_disabled_popup_tooltip_tt:9 "§Y[?target_state_var.GetName]§! is §RDisabled§!\nNode will provide no income while disabled"
+ node_trade_income_tt:9 "[GetNodeNewRoutePopup]"
+ node_recieve_route_popup_tt:9 "Route established from §Y[?recieving_state.GetName]§! for [?trade_recieved_from|+=] [GetCapType]"

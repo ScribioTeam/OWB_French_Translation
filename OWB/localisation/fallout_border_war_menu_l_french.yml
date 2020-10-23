@@ -10,21 +10,21 @@
  FALLOUT_BORDER_WAR_MENU_INFO_NO_OWN_STATES_SHOWN:0 "§RVous n'avez actuellement aucun État à partir duquel vous pouvez déclencher un conflit frontalier.§!"
  FALLOUT_BORDER_WAR_MENU_INFO_NO_ENEMY_STATES_YET_SHOWN:0 "§YSélectionnez d'abord l'un de vos États pour afficher les États voisins disponibles ici.§!"
  FALLOUT_BORDER_WAR_MENU_INFO_NO_LEADERS_SHOWN:0 "§RVous n'avez actuellement aucun chef disponible que vous pourriez utiliser pour déclencher un conflit frontalier.§!"
-  
+
  START_BORDER_WAR_TT:0 "[This.GetBorderWarStartButtonTooltip]"
-  
+
  FALLOUT_BORDER_WAR_MENU_SELECT_STATE_BUTTON_TT:0 "[This.GetBorderWarSelectStateButtonTooltip]"
  FALLOUT_BORDER_WAR_MENU_UNSELECT_STATE_BUTTON_TT:0 "§GCliquez§! pour désélectionner cet état.\n§GClic droit§! pour centrer la carte sur §Y[This.GetName]§!"
  FALLOUT_BORDER_WAR_MENU_SELECT_STATE_BUTTON_TT_DELAYED:0 "[This.GetBorderWarSelectStateButtonTooltipDelayed]"
-  
+
  FALLOUT_BORDER_WAR_MENU_SELECT_LEADER_BUTTON_TT:0 "[This.GetBorderWarSelectLeaderButtonTooltip]"
  FALLOUT_BORDER_WAR_MENU_UNSELECT_LEADER_BUTTON_TT:0 "§GCliquez§! pour désélectionner ce chef."
  FALLOUT_BORDER_WAR_MENU_SELECT_LEADER_BUTTON_TT_DELAYED:0 "Ici, vous choisissez le chef qui commandera les unités dans le conflit frontalier.\nSi vous sélectionnez ce chef, il sera détaché de son armée actuelle, si elle lui est assignée, et sera affecté à l'armée qui combattra dans le conflit frontalier."
-  
+
   # Scripted Localisation:
  string_border_war_start_tt:0 "§GCliquez§! pour commencer un conflit frontalier avec §Y[This.GetBorderWarEnemyCountry]§! dans §Y[?selected_own_state_for_border_war.GetName]§! et §Y[?selected_enemy_state_for_border_war.GetName]§!."
  string_border_war_start_tt_disabled:0 "§RVous devez sélectionner un État, un État ennemi et un chef pour pouvoir déclencher le conflit frontalier !§!"
-  
+
  string_border_war_select_state_tt_disabled_already_border_war:0 "§RCet État est déjà impliqué dans un conflit frontalier.§!"
  string_border_war_select_state_tt_disabled_not_owned_or_controlled:0 "§RCet État n'est plus sous le contrôle des propriétaires ou le propriétaire a changé.§!"
  string_border_war_select_state_tt_disabled_no_matching_neighbor_state:0 "§RCet État n'a pas d'État voisin correspondant dans lequel un conflit frontalier pourrait être déclenché.§!"
@@ -32,13 +32,18 @@
  string_border_war_select_state_tt_disabled_war_with_owner:0 "§RNous sommes déjà en guerre avec le propriétaire de cet État, ce qui rend impossible le déclenchement d'un conflit frontalier dans cet État.§!"
  string_border_war_select_state_tt_disabled_impassable_states:0 "§RLe terrain entre  §Y[?Root.selected_own_state_for_border_war.GetName]§! et §Y[This.GetName]§! est infranchissable.§W"
  string_border_war_select_state_tt:0 "§GCliquez§! pour sélectionner cet état. \n§GClic droit§! pour centrer la carte sur §Y[This.GetName]§!."
-  
+
  string_border_war_select_state_tt_delayed_own_state:0 "Vous sélectionnez ici votre propre État à partir duquel vous souhaitez que le conflit frontalier commence. \nEn sélectionnant cet État, tous les États voisins valides s'afficheront sur la droite."
  string_border_war_select_state_tt_delayed_enemy_state:0 "Ici, vous sélectionnez l'État ennemi.\nEn sélectionnant cet État, vous en ferez l'État ennemi du conflit frontalier que vous êtes sur le point de déclencher."
-  
- string_border_war_select_leader_tt_disabled_in_border_war:0 "§R[This.GetBorderWarMenuLeaderName] est déjà impliqué dans un conflit frontalier.§!"
- string_border_war_select_leader_tt_disabled_in_combat:0 "§R[This.GetBorderWarMenuLeaderName] est actuellement impliqué dans une guerre.§!"
- string_border_war_select_leader_tt_disabled_sick:0 "§R[This.GetBorderWarMenuLeaderName] est malade.§!"
- string_border_war_select_leader_tt_disabled_wounded:0 "§R[This.GetBorderWarMenuLeaderName] est blessé.§!"
- string_border_war_select_leader_tt:0 "§GCliquez§! pour sélectionner §Y[This.GetBorderWarMenuLeaderName]§! en tant que chef dans le conflit frontalier."
-  
+
+ string_border_war_select_leader_tt_disabled_in_border_war:9 "§R[This.GetName] est déjà impliqué dans un conflit frontalier.§!"
+ string_border_war_select_leader_tt_disabled_in_combat:9 "§R[This.GetName] est déjà impliqué dans un combat.§!"
+ string_border_war_select_leader_tt_disabled_sick:9 "§R[This.GetName] est malade.§!"
+ string_border_war_select_leader_tt_disabled_wounded:9 "§R[This.GetName] est blessé.§!"
+ string_border_war_select_leader_tt:9 "§GCliquer§! pour choisir §Y[This.GetName]§! comme chef du conflit frontalier."
+
+  # Scripted Effects:
+ FALLOUT_BORDER_WAR_MENU_LIMIT_NEIGHBOR_STATES_TO_THIS_TT:9 "Cibles potentielles de conflit frontalier\n"
+ FALLOUT_BORDER_WAR_MENU_MAIN_TT:9 "Commencer à planifier un conflit frontalier"
+ FALLOUT_BORDER_WAR_MENU_ALL_GENERALS:9 "Tous les généraux disponibles pour le conflit frontalier"
+ FALLOUT_BORDER_WAR_MENU_ALL_OWNED_POSSIBLE:9 "Tous les États possédés avec des divisions disponibles pour le conflit frontalier"

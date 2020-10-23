@@ -1,0 +1,36 @@
+﻿l_french:
+  # Moj Conflict / Op Sun
+ MOT_MOJ_operation_sunburst:9 "The Mojave Conflict"
+ MOT_MOJ_operation_sunburst_desc:9 "Before the Mojave Expedition of the [NCR.GetNameWithFlag] came to the Mojave, the Brotherhood in the region were able to operate across the region with total freedom. This allowed them to salvage all kinds of technology from the Mojave and the traders that traversed it, bringing it back to their base of operations in HELIOS One. When the NCR moved in, however, clashes were inevitable. The Brotherhood lacked the manpower to cement their control over anywhere except HELIOS One and the adjacent Hidden Valley complex. Now, political pressure is mounting on General Lee Oliver to launch one last campaign against the Brotherhood, wiping them from the Mojave for good. \n\nThe victor of this struggle will be likely decided based on §Opreparation§! for the clash, rather than pure strength along. The more prepared you are, the stronger your forces will fight, and the weaker your opponent's."
+ operation_sunburst_countdown:9 "Operation: Sunburst"
+ operation_sunburst_countdown_desc:9 "Under intense pressure from his superiors back home, a conflict between the Mojave Expedition and the Mojave Brotherhood is inevitable. Soon, an assault on HELIOS One will be launched."
+  # WiNaIP
+ MOT_independent_war:9 "War is Not an Independent Phenomenon"
+ MOT_independent_war_desc:9 "The battles we fight here in the Mojave reverberate around the NCR. The government in Shady Sands has invested countless dollars in our military might, and have led the population to believe our Mojave Campaign will be cheap, quick, and painless. We know the campaign is anything but these things. We must not let this on, however: we don't get anywhere near enough support from the NCR proper as it is, and you can imagine the uproar if we begin suffering significant casualties. \n\nThe §Ogovernment§! in Shady Sand is currently [ROOT.mot_gov_opinion] our requests for aid. \nThe §Opeople§! of the NCR are currently [ROOT.mot_people_opinion] our campaign."
+  # Mojave Defence Committee
+ MOT_defence_committee:9 "The Mojave Defence Committee"
+ MOT_defence_committee_desc:9 "Whilst General Oliver is without doubt an intelligent military mind, the Mojave Campaign is a delicate operation requiring input from, and the coordination of, multiple senior military figures. Whilst the debate and plethora of options the Defence Committee pioneers are highly valuable to the Campaign, there is some worry the Committee is becoming increasingly fraught with division. Particularly prominent is the bickering over strategy between §OGeneral Oliver§! and §ORanger Chief Hanlon§!, both of whom present often contrasting plans to the Committee. \n\n§OGeneral Oliver§! currently has §O[ROOT.mot_oliver_hanlon_ballance]§! §OChief Hanlon§!."
+  # Tooltips
+ moj_supplies_reduction:9 "Our §Osupply§! is §Rreduced§! by §O[?mot_supply_change]§!.\n"
+ moj_supplies_increase:9 "Our §Osupply§! is §Gincreased§! by §O[?mot_supply_change]§!.\n"
+ state_control_0_to_1:9 "Our §Ycontrol§! over this state §Gincreases§! from §OMinimal§! to §OLoose§!, reducing the damage §Rhostile raids§! and §Rlocal wildlife attack§! in the state do to our §Osupplies§! by §G20%§!.\n"
+ state_control_1_to_2:9 "Our §Ycontrol§! over this state §Gincreases§! from §OLoose§! to §OResonable§!, reducing the toll §Rhostile raids§! and §Rlocal wildlife attack§! in the state have on our §Omanpower§! by §G30%§!.\n"
+ state_control_2_to_3:9 "Our §Ycontrol§! over this state §Gincreases§! from §OResonable§! to §OSignificant§!, reducing the toll §Rhostile raids§! and §Rlocal wildlife attack§! in the state have on our §Omanpower§! by a further §G10%§! and reducing supply damage by a further §G15%§!.\n"
+ state_control_3_to_4:9 "Our §Ycontrol§! over this state §Gincreases§! from §OResonable§! to §OSignificant§!, reducing the toll §Rhostile raids§! and §Rlocal wildlife attack§! in the state have on our §Omanpower§! by a further §G15%§! and reducing supply damage by a further §G15%§!.\n"
+ state_control_1_to_0:9 "Our §Ycontrol§! over this state §Rdecreases§! from §OLoose§! to §OMinimal§!, increasing the damage §Rhostile raids§! and §Rlocal wildlife attack§! in the state do to our §Osupplies§! by §R20%§!.\n"
+ state_control_2_to_1:9 "Our §Ycontrol§! over this state §Rdecreases§! from §OResonable§! to §OLoose§!, increasing the toll §Rhostile raids§! and §Rlocal wildlife attack§! in the state have on our §Omanpower§! by §R30%§!.\n"
+ state_control_3_to_2:9 "Our §Ycontrol§! over this state §Rdecreases§! from §OResonable§! to §OSignificant§!, increasing the toll §Rhostile raids§! and §Rlocal wildlife attack§! in the state have on our §Omanpower§! by a further §R10%§! and reducing supply damage by a further §R15%§!.\n"
+ state_control_4_to_3:9 "Our §Ycontrol§! over this state §Rdecreases§! from §OResonable§! to §OSignificant§!, increasing the toll §Rhostile raids§! and §Rlocal wildlife attack§! in the state have on our §Omanpower§! by a further §R15%§! and reducing supply damage by a further §R15%§!.\n"
+  # Scripted Loc
+ mot_gov_open:9 "§Gopen§! to"
+ mot_gov_recep:9 "§Greceptive§! of"
+ mot_gov_lw:9 "§Yluke-warm§! about"
+ mot_gov_wary:9 "§Ywary§! of"
+ mot_gov_unin:9 "§Runinterested§! in"
+ mot_pop_ferv:9 "§Gfervently supporting§!"
+ mot_pop_sup:9 "§Gsupportive§! of"
+ mot_pop_doubt:9 "§Yholding some doubts§! about"
+ mot_pop_cont:9 "§Yconcerned§! about"
+ mot_pop_prot:9 "§Rprotesting against§!"
+ mot_gov_op_sig_up:9 "§OGovernment§! opinion of our war improves §Gsignificantly§!.\n"
+ mot_people_op_sig_up:9 "The §OPeoples'§! enthusiasm for our campaign improves §Gsignificantly§!\n"

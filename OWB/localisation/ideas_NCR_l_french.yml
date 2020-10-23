@@ -1,6 +1,7 @@
 ﻿l_french:
  ranger_unification_treaty: "Traité d'unification des Rangers"
  ranger_unification_treaty_desc: "Le traité d'unification des Rangers était un accord bilatéral signé entre la République de Nouvelle Californie et les Rangers du Désert du Nevada en 2271. L'influence des Rangers dans l'armée de la RNC allait influencer leur doctrine militaire pour les années à venir."
+ starting_caps_idea:9 "Bureaucratie décentralisée"
  ranger_unification_treaty_2: "Traité d'unification des Rangers"
  ranger_unification_treaty_2_desc: "Le traité d'unification des Rangers était un accord bilatéral signé entre la République de Nouvelle Californie et les Rangers du Désert du Nevada en 2271. L'influence des Rangers dans l'armée de la RNC allait influencer leur doctrine militaire pour les années à venir."
  ncr_bureacracy:0 "Gouvernement du Vieux Monde"
@@ -10,6 +11,10 @@
  ncrjustice:0 "Cour Suprême"
  ncrmotroops:0 "Propagande militaire"
  ncrcentral:0 "État centralisé"
+ ncr_manifestdestiny:9 "Destinée Manifeste"
+ ncr_rapidsettlement:9 "Colonisation des Rapids"
+ ncr_crimson_caps:9 "Crimson Caravan Subventionné"
+ ncr_reorganizedexpeditionary:9 "Corps Expéditionnaire Réorganisé"
 
  hooverdamvictor:0 "Victoire du Barrage Hoover"
  hooverdamvictor_desc:0 "Ce pays a été victorieux au barrage Hoover, leur donnant le contrôle du désert de Mojave et beaucoup de prestige."
@@ -70,9 +75,6 @@
 
  mechcore:0 "Noyau mécanisé"
  mechcore_desc:0 ""
-
- shockcomp:0 "Sociétés de choc"
- shockcomp_desc:0 ""
 
  rapidadvance:0 "Avance rapide"
  rapidadvance_desc:0 ""
@@ -229,4 +231,4 @@
 
  mr_fantastic:0 "Mr. Fantastic"
  mr_fantastic_desc:0 "Ayant obtenu un diplôme théorique en physique, il y a peu de personnes dans les Terres Désolées plus qualifiées pour la gestion d'Helios One que M. Fantastic."
- mr_fantastic_tt:0 "Temps de la recherche en physique théorique : §G+10%§!"
+ mr_fantastic_tt:9 "Vitesse de Recherche en Physique Théorique : §G+10%§!"

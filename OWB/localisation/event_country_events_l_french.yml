@@ -1,6 +1,6 @@
 ﻿l_french:
  government_events.1.t:0 "Corruption en [Root.Capital.GetName]"
- government_events.1.d:0 "Un scandale a secoué [Root.Getname] alors que la presse a révélé que certains dirigeants [Root.GetAdjective] recevaient des pots-de-vin en échange de faveurs du gouvernement. Des éleveurs de brahmanes, des trafiquants d'armes et d'autres ont abusé de notre nation pour leur propre profit personnel. De nombreux critiques se demandent si [Root.GetName] vaut la peine de mourir pour que ses dirigeants tolèrent ce genre d'inconduite."
+ government_events.1.d:0 "Un scandale a secoué [Root.Getname] alors que la presse a révélé que certains dirigeants [Root.GetAdjective] recevaient des pots-de-vin en échange de faveurs du gouvernement. Des éleveurs de Brahmines, des trafiquants d'armes et d'autres ont abusé de notre nation pour leur propre profit personnel. De nombreux critiques se demandent si [Root.GetName] vaut la peine de mourir pour que ses dirigeants tolèrent ce genre d'inconduite."
  government_events.1.a:0 "C'est ainsi que nous l'avons toujours fait !"
  government_events.1.b:0 "Nous allons éradiquer cette injustice !"
 
@@ -27,3 +27,7 @@
  government_events.6.d:0 "Jet, Buffout, Psycho, Mentats et même la bonne vieille marijuana font des ravages. Littéralement, pour certaines personnes. Mais pour chaque personne dont la vie est ruinée par les narcotiques, il y a une personne qui leur a vendu la drogue qui les a tués. Nous pouvons profiter de ce commerce lucratif et utiliser les bénéfices pour financer nos armées."
  government_events.6.a:0 "Passez-moi un coup."
  add_caps_500_tt:500 "Ajoute 500 "
+
+ government_events.7.t:0 "Les esclaves libérés de [FROM.FROM.GetName]"
+ government_events.7.d:0 "Après l'annexion réussie de [FROM.FROM.GetName], nous avons trouvé où leurs esclaves étaient détenus. Comme nous n'approuvons ni ne pratiquons l'esclavage, nous leur avons offert la liberté. Une bonne partie de ceux qui étaient en bonne santé étaient prêts à rejoindre nos forces militaires pour les libérer."
+ government_events.7.a:0 "De la main d'œuvre gratuite !"

@@ -85,6 +85,7 @@
 
  vault_festus_1:0 "Conférences Goules"
  vault_festus_1_desc:0 "Vault City est nôtre, après toutes ces années de bigoterie, mais maintenant les chefs révolutionnaires s'effondrent dans leurs querelles ! Festus a été élu pour diriger la ville comme elle l'était avant, par un conseil. Mais cette fois ? Il faut être une goule pour recevoir un siège."
+ vault_festus_1_tt:9 "Notez que vous ne pourrez pas débloquer §YAvancement Par l'Isolement.§!"
 
  vault_festus_3:0 "Restaurer entièrement la Centrale Nucléaire Poséidon"
  vault_festus_3_desc:0 "Depuis des décennies, Vault City avait la technologie et le savoir-faire pour réparer la Centrale Nucléaire qui est notre foyer, mais ils refusaient ! Eh bien maintenant qu'ils ont ce qu'ils veulent, et nous allons stabiliser le réacteur pour de bon."
@@ -119,7 +120,7 @@
  vault_80s_def:0 "Défendre la frontière"
  vault_80s_def_desc:80 "Le choix d'un blocus des I-80 mènera inévitablement à la guerre, et c'en est une pour laquelle nous devons être prêts."
 
- vault_80s_blockade:0 "Confiner les I-80"
+ vault_80s_blockade:80 "Confiner les I-80"
  vault_80s_blockade_desc:80 "Jamais plus ! Notre rencontre avec Thunderbird a été un désastre, au point que nous choisissions de fermer la route. Nous ne laisserons plus les 80 harceler nos marchands et piller nos routes commerciales."
 
  vault_80s_violence:0 "Violence préventive"
@@ -246,16 +247,19 @@
  vault_cyc_tech:0 "Les effets de cette priorité sont définis par vos choix de priorités historiques"
 
  vault_new_reno: "Les lumières se sont éteintes à Reno"
- vault_new_reno_desc: "New Reno was always a hive of scum and villainy, but Thradd's coup is a step too far. We have to stop his army before he comes for us!"
+ vault_new_reno_desc:0 "New Reno a toujours été une ruche de racailles et de méchancetés, mais le coup d'État de Thradd va trop loin. Nous devons arrêter son armée avant qu'il ne vienne nous chercher !"
+
+ vault_advancement_through_isolation:9 "Avancement Par l'Isolement"
+ vault_advancement_through_isolation_desc:9 "Si nous devions nous ranger du côté d'une autre faction, cela signifierait laisser nos ennemis avoir accès à notre technologie la plus puissante ! Nous devons garder ces secrets à cœur et utiliser cette technologie pour protéger notre indépendance vis-à-vis des étrangers."
 
  vault_enemies_of_enemies: "Ennemis communs"
- vault_enemies_of_enemies_desc: "The threat from the East is a problem for all of the civilized world. Even if New California's run by ignorant fools, they are a far better neighbour than the raiders of Utah or the Legion. Perhaps we should work together to defend the torch of civilization."
+ vault_enemies_of_enemies_desc:0 "La menace de l'Est est un problème pour l'ensemble du monde civilisé. Même si la Nouvelle-Californie est dirigée par des imbéciles ignorants, elle est un bien meilleur voisin que les pilleurs de l'Utah ou de la Légion. Peut-être devrions-nous travailler ensemble pour défendre le flambeau de la civilisation."
 
  vault_brotherhood_pact_of_steel: "Le Pacte d'Acier"
- vault_brotherhood_pact_of_steel_desc: "New California wants to rule the entire west coast. Shady Sands covets our technology and, if we stand on our own, we will surely fall. But the Desert Rangers and the Brotherhood of Steel will work together for peace, order, and progress."
+ vault_brotherhood_pact_of_steel_desc:0 "La Nouvelle-Californie veut régner sur toute la côte ouest. Sables Ombragés convoite notre technologie et, si nous nous débrouillons seuls, nous allons sûrement tomber. Mais les Rangers du Désert et la Confrérie de l'acier travailleront ensemble pour la paix, l'ordre et le progrès."
 
  vault_new_reno_brain: "Plus de terres pour le Cerveau"
- vault_new_reno_brain_desc: "Vault City was a good start, but New Reno is far more populous. So much more raw material to work with!"
+ vault_new_reno_brain_desc:0 "Vault City était un bon début, mais New Reno est beaucoup plus peuplée. Il y a tellement plus de matière première à travailler !"
 
  vault_something_greater: "Quelque chose de plus grand"
- vault_something_greater_desc: "Recently, a new faction has emerged. The "Nevada Pact". All of the other groups have their own downsides, their own ambitions or wants that we would be surrendering Vault City to if we were to join them. The only way to preserve our independence is to join the Nevada Pact!"
+ vault_something_greater_desc:0 "Récemment, une nouvelle faction est apparue. Le \"Pacte du Nevada\". Tous les autres groupes ont leurs propres inconvénients, leurs propres ambitions ou souhaits auxquels nous devrions nous soumettre si nous nous joignions à eux. La seule façon de préserver notre indépendance est de rejoindre le pacte du Nevada !"

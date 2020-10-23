@@ -1,0 +1,13 @@
+﻿l_french:
+ # decisions
+
+
+ LAC_glory_category:9 "La Bête à l'Est"
+ LAC_glory_category_desc:9 "Certains craignent Lanius, mais d'autres savent que sa venue les sauvera et libérera leur peuple d'une manière qu'ils ne peuvent voir.  Ses victoires sont rapides et honnêtes, acquises par le sang. Chaque victoire apporte à Lanius la Gloire, qui ralliera les guerriers à sa cause, lui obtiendra l'aide de Flagstaff, ou fera en sorte que les marchands du Texas lui envoient un tribut.  \n\nSa gloire actuelle est de [?LAC_glory]"
+ LAC_summon_a_warband:9 "Appelez les tribus !"
+ LAC_summon_a_warband_desc:9 "Nous pouvons organiser un grand festin où les Tubeheads vanteront les mérites de Lanius jusqu'aux cieux ! Après un tel événement, les guerriers afflueront dans la Cohorte, gonflant nos rangs. Bien sûr, organiser trop de festins fera perdre leur éclat à nos récits..."
+ LAC_summon_a_warband_trigger_tooltip:9 "Nous devons avoir plus que §Y0 de Gloire§!!"
+ LAC_summon_a_warband_effect_tooltip:9 "Cette fête coûtera §Y1 de Gloire§!"
+ LAC_slaves_to_flagstaff:9 "Envoyer des Esclaves à Flagstaff"
+ LAC_slaves_to_flagstaff_desc:9 "Lanius peut envoyer des esclaves à [Ces.GetLeader] en signe de fidélité."
+ LAC_glory_1:9 "Nous allons gagner §Y1 de Gloire§!"

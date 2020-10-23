@@ -116,11 +116,11 @@
  nf_ncr.4.c:0 "Lancez l'intervention militaire"
 
  nf_ncr.5.t:0 "Les Barons fuient!"
- nf_ncr.5.d:0 "Devant les nombreuses arrestations et condamnations expresses prononcées, la grande majoritée des Barons déloyaux ont décidé de s'enfuire vers les communautés voisines avec leurs richesses. Leurs terres confiquées nous reviennent à présent."
+ nf_ncr.5.d:9 "Devant les nombreuses arrestations et condamnations expresses prononcées, la grande majoritée des Barons déloyaux ont décidé de s'enfuire vers les communautés voisines avec leurs richesses. Leurs terres confiquées nous reviennent à présent."
  nf_ncr.5.a:0 "Plus de terres pour nous!"
 
  nf_ncr.6.t:0 "Wendell Peterson et la guerre"
- nf_ncr.6.d:0 "Wendell Peterson notre Président, pense que le future de la RNC se trouve à l'Est, dans des territoires pour le moment occupés par des pilleurs, des tribus, et la Légion. Afin d'étendre la République dans cette direction, le Président Peterson a passé une bonne partie de la 1ére année de son mandat à chercher à obtenir le soutient du Congrés pour mener des opérations militaires dans le Mojave. Et ce afin de controler une plus grande partie du Nevada du Sud et de la Californie. Toutefois, des négociations sont obligatoires afin d'obtenir la majorité nécessaire au Sénat pour lancer une intervention extérieure. Chaque parti politique convoite le poste de Chef de l'armée pour un de ses sympathisants. Et cette concession semble être la seule voie dont Peterson dispose pour obtenir le soutient du Congré."
+ nf_ncr.6.d:9 "Wendell Peterson croit, par-dessus tout, que l'avenir de la RNC se trouve dans la frontière, que les pillards, les tribus et les paladins soient damnés. C'est pourquoi il a passé une grande partie de sa première année de mandat à susciter le soutien à l'ambitieuse Frontier Expedition, qui vise à placer autant de Californie que possible sous le contrôle de la RNC. Mais pour réaliser un tel rêve, il va devoir traiter avec différents partis politiques. Chacun défend son propre programme, et chacun veut mettre sa propre figure de proue au poste le plus ambitieux de l'armée de la RNC. Mais c'est seulement avec ce soutien que Peterson pourra obtenir les votes du Congrès dont il a besoin pour lancer l'expédition."
  nf_ncr.6.a:0 "Le général Drummund, héro de Navvaro, le choix des militaristes"
  nf_ncr.6.b:0 "Big Jim Marshal, héro du Nevada, le choix des Barons"
  nf_ncr.6.c:0 "Mossman, le ranger sans ambition, le choix de Dayglow"
@@ -166,7 +166,7 @@
  nf_ncr.13.g:0 "Est ce la fin de la République ?"
 
  nf_ncr.16.t:0 "La 1ére coupe"
- nf_ncr.16.d:0 "La 1ére saison officielle du championnat de baseball de la RNC a finalement commencée! Des milliers de spectateurs sont venus au stade, et des milliers d'autres écoutes à leurs radios. Toutes les équipes ont leurs fans, mais seul 3 semblent réellement en état de gagner la 1ére coupe de l'histoire de la République. "Les Vieux Batteurs", une équipe uniquement composée de goules qui inclut certains athlétes d'avant guerre; "Le 118éme Régiment", une sélection des meilleurs vétérans de la campagne du Mojave; et "Les Atomes", une surprenante équipe supportée financiérement par Hayes et son parti politique. Qui ira donc remporter cette coupe ?"
+ nf_ncr.16.d:118 "La 1ére saison officielle du championnat de baseball de la RNC a finalement commencée! Des milliers de spectateurs sont venus au stade, et des milliers d'autres écoutes à leurs radios. Toutes les équipes ont leurs fans, mais seul 3 semblent réellement en état de gagner la 1ére coupe de l'histoire de la République. "Les Vieux Batteurs", une équipe uniquement composée de goules qui inclut certains athlétes d'avant guerre; "Le 118éme Régiment", une sélection des meilleurs vétérans de la campagne du Mojave; et "Les Atomes", une surprenante équipe supportée financiérement par Hayes et son parti politique. Qui ira donc remporter cette coupe ?"
  nf_ncr.16.a:0 "Les Vieux Batteurs, de vieilles goules jouant à l'ancienne."
  nf_ncr.16.b:0 "Le 118éme Régiment, de nouveaux héros pour le peuple de la République."
  nf_ncr.16.c:0 "Les Atomes, et leur mécéne Hayes."
@@ -252,128 +252,6 @@
  repair_helios_vegas_tt: "Cette option enverra de l'électricité dans tout le Mojave, donnant ainsi à la RNC un bonus de relation avec toutes les nations encores vivantes du Mojave, s'il en reste."
  NCR_coup_tt: "§R La confrérie pourrait reprendre HELIOS One §!"
 
- nf_ncr.30.t:0 "Les territoires occupés demandent l'indépendance"
- nf_ncr.30.d:0 "Il n'y a pas si longtemps, notre base d'opérations avancée au sein de la Légion a reçu un télégramme demandant qu'un diplomate soit envoyé à Red Sun City. Quand ce diplomate est arrivé, il a été amené dans une salle de conférence impromptue, où des délégués de nombreuses communautés l'ont attendu. Il a passé des heures avec ces gens avant de revenir vers nous, et son rapport le dit très clairemen t: ils veulent la liberté.\n\nBeaucoup de ces nations naissantes ont été reconnues par la RNC. Les agences de propagande embauchées par notre gouvernement ont, à un moment ou à un autre, diffusé au moins une affiche sur la ville de Phoenix ou écrit un article sur le peuple Jicarilla. Bien que laisser le territoire inoccupé puisse causer des problèmes, \"revenir sur notre parole\" pourrait en causer encore plus. Que devrions-nous faire ?"
- nf_ncr.30.a:0 "Nous allons rappeler nos troupes maintenant que la Légion est partie"
- nf_ncr.30.b:0 "Si on les laisse partir, ils vont simplement réformer la Légion. Nous devons rester"
-
- nf_ncr.31.t:0 "La République Phoenix se proclame contre sur nous !"
- nf_ncr.31.d:0 "Il semble que notre refus de mettre fin à notre occupation n’a pas été favorable à tous. Peu après l'annonce, la République de Phoenix a commencé à se préparer à la guerre. Elle a envoyé des messagers à deux de ses voisins juste avant le début du conflit et, ensemble, ils ont combiné leurs forces pour cibler Hoover Dam. D'une manière ou d'une autre, peut-être en offrant une reconnaissance de dette favorable à Yuma, ils ont réussi à se procurer un obusier pour le siège.\n\nBien que peu de dégâts aient été causés au barrage lui-même, ils ont tué de nombreux soldats et se sont retirés avec leur artillerie à remorque. Nous pouvons nous attendre à ce qu'ils continuent à harceler nos forces à l'avenir. Préparer une contre-attaque prendra du temps, mais leurs jours sont comptés."
- nf_ncr.31.a:0 "Ils ne peuvent pas être pire que la Légion"
- nf_ncr.31.b:0 "Je suis le Phoenix !"
- NCR_revolt_play_hangdogs_later:0 "Si vous le souhaitez, vous pouvez jouer les Hangdogs plus tard."
- NCR_revolt_PHR_tagswitch:0 "Votre tag sera changé pour vous permettre de jouer en tant que République de Phoenix"
-
- #32 is ignored as it is a hidden event to set things up.
-
- nf_ncr.33.t:0 "Arizona du Nord avec les rebelles"
- nf_ncr.33.d:0 "Peu après que les nouvelles de la rébellion armée de la République Phoenix eurent commencé à se répandre, de nombreuses forces ont commencé à affluer vers leur bannière. Deux tribus, dont l'une est dirigée par un ancien commandant de la Légion et un ennemi de la RNC, et un groupe de grands éleveurs opérant dans le nord du Mexique et autrefois soumis à la Légion.\n\nBien que cela ne soit pas particulièrement dangereux, ajouter du carburant au feu n'est jamais une bonne chose et nos ennemis ayant plus de soldats à leur disposition sont la dernière chose dont nous avons besoin. Notre armée commence à réagir à la menace, mais les forces de la République ont commencé à prioriser la capture de lieux clés. Ce sera pire que la guerre des Barons à tous égards."
- nf_ncr.33.a:0 "Plus de rebelles ? Nous allons envoyer plus de fournitures"
-
- nf_ncr.34.t:0 "Les forces d'opposition se gonflent"
- nf_ncr.34.d:0 "Les combats se poursuivent dans le nord de l’Arizona alors que nos forces affrontent les rebelles dans de petites escarmouches le long de la ligne de contact. Plus loin en Arizona, le long de la frontière du Nouveau-Mexique, deux autres tribus se sont levées pour nous défier. Bien qu’elles ne soient pas particulièrement menaçantes en elles-mêmes, aux côtés des forces de la \"Fédération Phoenix\", en pleine expansion, elles deviennent une source de préoccupation.\n\nComme si la situation actuelle n'était pas suffisamment grave, un ennemi plus dangereux est apparu. Two Sun, l'une des nations les plus puissantes du nord du Mexique et un ancien territoire de la Légion, nous a déclaré la guerre. L'armée et l'expertise de Two Sun vont grandement aider la rébellion, et le fait que nous nous battions avec une nation autrefois opposée à la Légion ne semble pas bon pour le public."
- nf_ncr.34.a:0 "Cela pourrait s'avérer problématique"
-
- nf_ncr.35.t:0 "Les sympathisants se lèvent au Nouveau-Mexique"
- nf_ncr.35.d:0 "Un courrier est arrivé ce matin à un avant-poste de la RNC près de la République du Soleil Rouge avec un colis adressé au commandant de la garnison. Peu de temps après son départ, le colis a explosé et dans la confusion alors que nos hommes tentaient d’aider les blessés, l’armée de mercenaires de la République du Soleil Rouge fondirent sur la garnison.\n\nLes histoires comme celles-ci deviennent de plus en plus courantes à mesure que les tactiques sournoises du trader le plus influent de la Légion sont ajoutées à la boîte à outils de la rébellion. Avec non seulement la République du Soleil Rouge, mais aussi les nombreuses nations mexicaines qui rejoignent la fédération de Phoenix, notre occupation de la zone ne peut plus être maintenue. Nous ne pouvons plus la contrôler."
- nf_ncr.35.a:0 "Cela devient incontrôlable"
-
- nf_ncr.36.t:0 "Le Nouveau-Mexique a été pris par les rebelles"
- nf_ncr.36.d:0 "Avec notre occupation dévolue à une lutte sans merci pour survivre à une rébellion massive, beaucoup de nos forces ont perdu des hommes, du matériel et du moral en essayant de se rendre sur le territoire ami et de se regrouper. Aujourd'hui, cela est devenu encore plus difficile, car tout le Nouveau-Mexique est tombé aux mains des forces rebelles, beaucoup de nos troupes étant capturées et tuées par les nouveaux citoyens de la Fédération Phoenix.\n\nLa Fédération des Summers, réputée pour sa capitale et ses environs, étant une tanière et une anarchie, a mis des primes sur les dirigeants de la RNC à la fois dans le haut et le sous-commandement. Leurs voisins, Black Sun, ont participé avec enthousiasme au massacre de nos troupes. Toutes les troupes laissées au sud de notre dernier territoire occupé sont mortes."
- nf_ncr.36.a:0 "Quand cela se finira-t-il ?"
-
- nf_ncr.37.t:0 "La Fédération de Phoenix succède à la Légion"
- nf_ncr.37.d:0 "Peu de rapports nous parviennent de nos quelques troupes restantes bloquées dans le nord de l’ancien territoire de la Légion, mais de ce que nous avons entendu et de tout ce que nous n’avons pas entendu, nous devrions assumer le pire. Jicarilla, Twin Mothers et Hangdogs, récemment conquis, ont tous rejoint la Fédération Phoenix. À ce stade, nous ne pouvons compter que sur nos troupes plus près de chez nous, car toutes les forces capturées à l’intérieur des territoires en rébellion seront à court de ravitaillement.\n\nComme nous commençons à réévaluer notre situation pour la sixième fois cette semaine, nous commençons naturellement à nous demander pourquoi nous sommes dans cette horrible situation. En refusant de laisser ces nations se libérer, nous les avons forcées par inadvertance et avons créé un super État. Même si nous gagnons cette guerre, les ramifications se feront sentir pendant des décennies."
- nf_ncr.37.a:0 "Merde"
- nf_ncr.37.b:0 "Donnez-moi à manger aux chiens..."
- NCR_revolt_HAN_tagswitch:0 "Votre tag sera changé pour vous permettre de jouer les Hangdogs"
-
- nf_ncr.38.t:0 "Aide de la Légion de Fer"
- nf_ncr.38.d:0 "En entendant parler de nos difficultés face à la RNC, la Légion de Fer nous a offert d’énormes quantités d’équipement industriel en échange de la remise de tout butin que nous gagnons. Un accord honnête."
- nf_ncr.38.a:0 "Agréable"
-
- nf_ncr.39.t:0 "Développements Patriotiques"
- nf_ncr.39.d:0 "De nombreux fabricants d'armes à feu et fixateurs ont mis en place des sites de fabrication plus formels, à notre demande. Espérons que cela aidera l'effort de guerre."
- nf_ncr.39.a:0 "Nous devons gagner !"
-
- nf_ncr.40.t:0 "La fédération se dissout"
- nf_ncr.40.d:0 "La lutte contre la RNC est terminée et nous avons gagné. Cependant, cela signifie qu'il n'y a plus de grande raison pour la Fédération de Phoenix d'exister - sans aucun doute, la plupart des nations de pillards qui composent la Fédération lorgnent désormais la terre de chacun, désireux d'élargir leur richesse et leur influence. Il semble que seule la petite cité de Flagstaff soit prête à rester avec nous. Ainsi soit-il."
- nf_ncr.40.a:0 "Brouillage"
-  # NCR Demands Mojave Lands
- nf_ncr.41.t:0 "L'Ours grogne"
- nf_ncr.41.d:0 "Il semble qu'après notre victoire héroïque contre [SCO.GetNameDef], nous n'étions pas les seuls à vouloir entrer dans le Mojave. [NCR.GetNameDef] a également revendiqué ces territoires et nous avons reçu aujourd'hui un ultimatum de leurs émissaires : Cédez tous les anciens territoires de [SCO.GetAdjective] et recevez une compensation limitée, sinon ils les prendront de force."
- nf_ncr.41.a:0 "Notre main est forcée"
- nf_ncr.41.b:0 "Laissez-les essayer prendre ces territoires !"
- ncr_tribe_rebellion_news.1.t:0 "La RNC abandonne le territoire de la Légion occupée"
- ncr_tribe_rebellion_news.1.d:0 "Mesdames et messieurs, vous m'écoutez, M. New Vegas, et vous êtes extraordinairement joli en ce moment. J'ai des nouvelles pour vous. Après une série de négociations tendues, la RNC a finalement accepté de retirer ses troupes des territoires autrefois occupés par la Légion. Nombreux sont ceux qui annoncent le retour de la démocratie dans la région, car les responsables de la RNC remettront les installations clés aux gouvernements locaux avant leur départ. C'est tout pour le moment, les gens. Plus de classiques à venir pour vous, alors restez à l'écoute."
- ncr_tribe_rebellion_news.1.a:0 "C'était la bonne chose à faire"
- ncr_tribe_rebellion_news.1.b:0 "Intéressant"
-
- ncr_tribe_rebellion_news.2.t:0 "La RNC refuse de renoncer aux gains de la Légion"
- ncr_tribe_rebellion_news.2.d:0 "Bienvenue dans le programme. C'est M. New Vegas, et j'espère que je ne viens pas trop fort. Plus de nouvelles pour vous. La RNC a été vivement critiquée aujourd'hui après avoir mis fin prématurément aux négociations avec les représentants des nations naissantes occupant les anciens territoires de la Légion, invoquant l'inéligibilité des nations rassemblées à se gouverner. Radio New Vegas a communiqué avec l'ambassade de la RNC à New Vegas, mais elle a refusé de commenter l'affaire. Pour le meilleur ou pour le pire, il semble que la zone des trois États restera sous le contrôle de la RNC. C'est la nouvelle. Mesdames et Messieurs, cette chanson suivante sort de moi pour vous."
- ncr_tribe_rebellion_news.2.a:0 "Si nous quittons la région, nous descendrons dans le chaos"
- ncr_tribe_rebellion_news.2.b:0 "La démocratie en action"
-
- ncr_tribe_rebellion_news.3.t:0 "La République de Phoenix déclare une guerre pour l'indépendance"
- ncr_tribe_rebellion_news.3.d:0 "Mesdames et Messieurs, bienvenue dans notre programme. C'est M. New Vegas, et chacun d'entre vous est merveilleux à votre façon. Il est temps de vous donner des nouvelles. L'auto-proclamé \"République du Phoenix\" a déclaré la guerre à la RNC, menant une petite faction de l'indépendance avec les Twisted Hairs et l'ancienne capitale de la Légion de Flagstaff en tant que pays membres. Phoenix, anciennement la capitale industrielle de la Légion, a connu une longue histoire de montée en puissance contre le Taureau. Nous vous tiendrons au courant. Les titres d’aujourd’hui vous ont été présentés par Primm. Primm : l'autre New Vegas."
- ncr_tribe_rebellion_news.3.a:0 "Profitez de votre liberté pendant que vous le pouvez"
- ncr_tribe_rebellion_news.3.b:0 "Est-ce qu'ils pensent sérieusement qu'ils vont gagner ?"
- ncr_tribe_rebellion_news.3.c:0 "Nous allons gagner !"
-
- ncr_tribe_rebellion_news.4.t:0 "Plus de territoires se dressent avec la République de Phoenix"
- ncr_tribe_rebellion_news.4.d:0 "Hé, hé, c'est M. New Vegas qui vous fait savoir que j'ai une nouvelle compilation de Noël à venir bientôt; Le pays des merveilles de l'hiver nucléaire. Cherchez-le sur holobande. Si vous aimez les nouvelles, alors vous allez adorer notre prochain segment. La situation continue de se dégrader pour la RNC, où les territoires situés au nord de l’ancienne capitale de la Légion ont fait l’objet d’une rébellion ouverte, rejoignant la République de Phoenix. L'un de ces territoires, dirigé par la tribu des Blackfoot, est dirigé par un ancien commandant de la Légion de première ligne. Je suppose que les vieilles habitudes ont la vie dure. C'est tout pour le moment, mais nous vous tiendrons au courant. Ces titres vous ont été présentées par l'Abri 21. Abri 21: tout va mieux ... quand vous en faites l'expérience dans un abri."
- ncr_tribe_rebellion_news.4.a:0 "Les tribus et les éleveurs se joignent à la mêlée"
- ncr_tribe_rebellion_news.4.b:0 "Plus de cadavres pour la pile"
- ncr_tribe_rebellion_news.4.c:0 "Nous devenons plus forts !"
-
- ncr_tribe_rebellion_news.5.t:0 "La rébellion continue de se propager"
- ncr_tribe_rebellion_news.5.d:0 "C'est M. New Vegas, attiser les flammes de votre passion. Vous savez, je pense que toutes les nouvelles, bonnes ou mauvaises, nous rapprochent. N'est-ce pas ? Des nouvelles plus troublantes venant d’ailleurs du Colorado aujourd'hui. La nation autrefois occupée de Two Sun s’associe aux rebelles, aux côtés de nombreux groupes plus petits. Two Sun, connue pour être une plaque tournante de l’activité de Desert Ranger avant leur voyage au Nevada, a été l’une des plus récentes conquêtes de la Légion. L'annexion de Two Sun par la RNC est une surprise, étant donné leur condamnation de l'expansion de la Légion dans la région pendant leur campagne. L'ambassade de la RNC a refusé de commenter. C'était la nouvelle. Et maintenant, je voudrais jouer une de mes chansons préférées pour vous."
- ncr_tribe_rebellion_news.5.a:0 "Cette rébellion grandit trop vite"
- ncr_tribe_rebellion_news.5.b:0 "Cela pourrait devenir intéressant"
- ncr_tribe_rebellion_news.5.c:0 "Nous devenons plus forts !"
-
- ncr_tribe_rebellion_news.6.t:0 "Pics de troubles à mesure que l'occupation s'effondre"
- ncr_tribe_rebellion_news.6.d:0 "Voici Radio New Vegas et je suis votre hôte, M. New Vegas. Et si vous vous demandez si vous êtes au bon endroit, vous l'êtes. J'ai des nouvelles pour vous. L'occupation de la région des trois États par la RNC s'est effondrée aujourd'hui alors que le centre de commerce le plus puissant du Legion, la République du Soleil Rouge, a déclaré son soutien à la rébellion. Aux côtés de nombreux nouveaux arrivants, la République a lancé un assaut sur de nombreuses garnisons de la RNC dans la région, faisant de nombreuses victimes. Slim, le président de la République et ancien maire de Red Sun City, était tristement célèbre au sein de la Légion pour s'être opposé avec succès à leurs tentatives d'asservir une partie de la population de la ville. C'est la nouvelle. C'est M. New Vegas, remplaçant M. New Vegas. Je vais jouer une chanson pour vous en ce moment, et c'est à propos de cette personne spéciale que vous ne trouvez qu'une fois dans une Blue Moon."
- ncr_tribe_rebellion_news.6.a:0 "Nous ne pouvons pas tenir nos positions avancées beaucoup plus longtemps"
- ncr_tribe_rebellion_news.6.b:0 "Comment la RNC répondra-t-elle ?"
- ncr_tribe_rebellion_news.6.c:0 "Nous devenons plus forts !"
-
- ncr_tribe_rebellion_news.7.t:0 "Les pillards rejoignent la guerre pour l'indépendance"
- ncr_tribe_rebellion_news.7.d:0 "Vous écoutez Radio New Vegas, votre petit juke-box dans les Terres Désolées de Mojave. Je suis M. New Vegas et je suis ici pour vous. Plus de nouvelles pour vous. Avec l'ajout de la Fédération des Summers et de Black Sun à leurs rangs, la faction de l'indépendance occupe la quasi-totalité des anciens territoires de la Légion. Bien connu pour être la \"ville frontalière\" de la Légion, Fort Summers est célèbre pour sa forte présence d'indésirables. Selon nos sources, la Fédération a offert des primes sur les éminents responsables de la RNC, payés en capsules ou en chems. En conséquence, les candidatures de volontaires écrites dans le sang ont quadruplé du jour au lendemain. Ce programme vous a été présenté par Gomorrah. Gomorrah : Ce sera notre secret."
- ncr_tribe_rebellion_news.7.a:0 "C'est la dernière chose dont nous avons besoin"
- ncr_tribe_rebellion_news.7.b:0 "Une milice de pillards ?"
- ncr_tribe_rebellion_news.7.c:0 "Nous les tolérerons."
-
- ncr_tribe_rebellion_news.8.t:0 "La Fédération de Phoenix étend ses ailes"
- ncr_tribe_rebellion_news.8.d:0 "Vous savez, j'ai essayé de mesurer mon charisme sur un testeur Vigor Vit-o-matic une fois. La machine a pris feu. Oups, mieux vaut mettre mon newsman fedora, ici. Ce matin, le dernier des territoires occupés restants s'est élevé contre la RNC. Les Hangdogs, la conquête la plus difficile de l'histoire de la Légion, est l'une des nations à rejoindre la rébellion. Craignant pour leurs chiens méchants et leurs tactiques de groupe avancées, les Hangdogs ont massacré le peu qui restait de la RNC sur leur territoire. Avec l’absorption de la totalité de la zone des trois États, la République du Phoenix est devenue une superpuissance en une semaine, ce qui a pris des décennies pour la RNC. La considération promotionnelle pour ce programme de nouvelles a été payée par Ultra-Luxe. Ultra-Luxe : vivre la vie dans le luxe."
- ncr_tribe_rebellion_news.8.a:0 "Nous avons donné naissance à une toute nouvelle Légion ..."
- ncr_tribe_rebellion_news.8.b:0 "Un nouveau pouvoir surgit des cendres de la Légion"
- ncr_tribe_rebellion_news.8.c:0 "Nous allons gagner !"
-
- ncr_tribe_rebellion_news.9.t:0 "La guerre RNC-Légion"
- ncr_tribe_rebellion_news.9.d:0 "Les gars, c’est M. New Vegas, et j’ai le sentiment que vous écoutez tous. Oups, mieux vaut mettre mon newsman fedora, ici. Après des années de tension entre l'Ours et le Taureau, tout a atteint son paroxysme aujourd'hui, alors que des coups étaient faits entre les deux superpuissances. Avec une déclaration officielle de guerre proclamée par les deux parties, on ne sait pas exactement quel sera le résultat. Si vous voyez quelqu'un dans les patins de football, dirigez-vous bien. Vous savez, ils disent qu'aucune nouvelle n'est une bonne nouvelle. Mais je pense que mon programme serait terriblement ennuyeux si c'était le cas. J'ai une chanson pour vous en ce moment qui parle d'un homme qui a froid à l'extérieur, mais au fond vous savez que c'est un homme bien et il s'appelle Johnny Guitar"
- ncr_tribe_rebellion_news.9.a:0 "La démocratie est de notre côté !"
- ncr_tribe_rebellion_news.9.b:0 "Mars est de notre côté !"
- ncr_tribe_rebellion_news.9.c:0 "Ce sera bon"
-
- ncr_tribe_rebellion_news.10.t:0 "La chute du barrage"
- ncr_tribe_rebellion_news.10.d:0 "Après leur première offensive ratée, les États révoltés de la fédération de Phoenix ont lancé un deuxième assaut sur le barrage. Malheureusement, nous n'avons pas réussi à repousser cette attaque, entraînant la chute du barrage au profit des rebelles. En outre, le barrage a subi d'importants dégâts lors des combats, principalement en raison de la négligence de la part des rebelles et de leur obusier.\n\nEn dépit du fait que le barrage est loin du gros de la population, les gens l'ont considéré comme un très mauvais signe et leur soutien pour écraser la rébellion a diminué ..."
-
- ncr_tribe_rebellion_news.11.t:0 "Perte du Mojave"
- ncr_tribe_rebellion_news.11.d:0 "Saisis par le chaos de nos forces armées après le soulèvement, les rebelles ont saisi le Mojave de notre droit de propriété. Les rebelles semblent être enhardis par ce mouvement et se déplacent rapidement vers le sud pour menacer nos garnisons sur le Long 15. Encore une fois, la population a pris ce développement comme un signe que nous devrions faire la paix rapidement avec les révoltés, de peur que nos villages et nos villes tombent dans leurs mains."
-
- ncr_tribe_rebellion_news.12.t:0 "Chute du Long 15"
- ncr_tribe_rebellion_news.12.d:0 "De terribles nouvelles ont atteint Sables Ombragés aujourd'hui - le Long 15 est de nouveau tombé entre les mains de pillards. Cette fois-ci, les pillards qui s’appellent eux-mêmes \"combattants de la liberté\" ont envahi les anciennes terres de la Légion et ont dévasté nos garnisons le long de la route. Maintenant, le soulèvement se rapproche encore plus de chez nous et la lassitude de la guerre s'est installée au sein de la population - quelques personnes ont commencé à discuter à haute voix de la signature d'un accord de paix avec les États révoltés, malgré notre communiqué officiel affirmant qu'en quittant la zone la Légion serait sans doute reformée."
-
- ncr_tribe_rebellion_news.13.t:0 "Le Colorado est traversé"
- ncr_tribe_rebellion_news.13.d:0 "La première fois que ce titre a atterri sur notre bureau, c'était une excellente nouvelle. Des divisions de gardes courageux avaient traversé le Colorado à plusieurs endroits stratégiques et brisé les légionnaires qui avaient défendu la banque. En effet, il s’agit de l’une des offensives les plus décisives de la guerre contre la Légion : un grand nombre de légionnaires ont été capturés ou ont déserté les armées de la Légion. Cependant, cette fois-ci, le titre est sombre. Les milices rebelles, profitant de la nature soudaine de leur révolte, ont pris d'assaut le Colorado et menacent maintenant nos territoires du sud.\n\nLes généraux ne sont pas les seuls concernés par les nouvelles. Les habitants du Boneyard sont de plus en plus préoccupés par la perspective d’un effondrement total du front sud et par la capture du Boneyard par des pillards parmi les rebelles."
-
- ncr_tribe_rebellion_news.14.t:0 "La chute du Boneyard"
- ncr_tribe_rebellion_news.14.d:0 "Il n'y a pas d'autre moyen de le dire - le Boneyard est tombé. Un assaut massif des forces de la fédération de Phoenix a écrasé la défense désespérée des Rangers de Boneyard, et avec leur annihilation, nous avons perdu l'une des régions les plus peuplées et industrialisées que nous possédons. Maintenant, la population entière craint le même sort - le sentiment anti-guerre a monté en flèche et la République du Phénix semble prête pour une nouvelle offensive. Nous ne pouvons pas laisser cela arriver."
-
- ncr_tribe_rebellion_news.15.t:0 "La chute de Sables Ombragés"
- ncr_tribe_rebellion_news.15.d:0 "La fusillade a fait rage dans la nuit. Les unités de la RNC se sont battues rue après rue pour défendre leur capitale, reculant courageusement et réformant leurs lignes défensives encore et encore. Aux premières heures du matin, la ville était entourée par les forces de la fédération Phoenix et nos lignes de communication ont été coupées. Le dernier message que nous avons reçu venait du caporal Sterling, un tireur d’élite du 1er Recon, qui a rapporté que les forces de Phoenix les avaient immobilisées sur la place de la ville mais qu’elles résisteraient jusqu'à la fin. En effet, à la lumière du soleil matinal, il semble qu’ils aient fait exactement cela - des bérets rouges se trouvaient à côté de cadavres sans vie sur la place.\n\nLa lutte contre les incendies se poursuit dans toute la ville, mais la majeure partie de la ville est occupée par la fédération Phoenix. Notre capitale étant désormais entre les mains de l'ennemi, les habitants de la République exigent une paix immédiate. Nous n'avons certainement pas beaucoup d'autres options."
-
  ncr_tribe_rebellion_news_dynamic_loc:0 "[ROOT.RevoltMessage]"
  ncr_revolts_severity_1:0 "Commander une contre-attaque"
  ncr_revolts_severity_2:0 "Un inconvénient mineur"
@@ -381,3 +259,28 @@
  ncr_revolts_severity_4:0 "Les gens perdent confiance ..."
  ncr_revolts_severity_5:0 "Peut-être aurions-nous dû nous retirer pendant que nous avions la chance"
  ncr_revolts_severity_6:0 "Nous devons chercher la paix maintenant"
+
+  #NCR Develops the Frontier
+ ncr_frontier.1.t:9 "Nous avons gagné notre combat pour la province frontalière."
+ ncr_frontier.1.d:9 "Les forces ennemies ont été repoussées, et nous pouvons maintenant prendre le contrôle."
+ ncr_frontier.1.a:9 "L'annexer immédiatement."
+
+ ncr_frontier.2.t:9 "Nous avons gagné notre combat pour la province frontalière."
+ ncr_frontier.2.d:9 "Les forces ennemies ont été repoussées, et nous pouvons maintenant prendre le contrôle."
+ ncr_frontier.2.a:9 "L'annexer immédiatement."
+
+ ncr_frontier.3.t:9 "Nous avons gagné notre combat pour la province frontalière."
+ ncr_frontier.3.d:9 "Les forces ennemies ont été repoussées, et nous pouvons maintenant prendre le contrôle."
+ ncr_frontier.3.a:9 "L'annexer immédiatement."
+
+ ncr_frontier.4.t:9 "Nous avons gagné notre combat pour la province frontalière."
+ ncr_frontier.4.d:9 "Les forces ennemies ont été repoussées, et nous pouvons maintenant prendre le contrôle."
+ ncr_frontier.4.a:9 "L'annexer immédiatement."
+
+ ncr_frontier.5.t:9 "Nous avons gagné notre combat pour la province frontalière."
+ ncr_frontier.5.d:9 "Les forces ennemies ont été repoussées, et nous pouvons maintenant prendre le contrôle."
+ ncr_frontier.5.a:9 "L'annexer immédiatement."
+
+ ncr_frontier.6.t:9 "Nous avons gagné notre combat pour la province frontalière."
+ ncr_frontier.6.d:9 "Les forces ennemies ont été repoussées, et nous pouvons maintenant prendre le contrôle."
+ ncr_frontier.6.a:9 "L'annexer immédiatement."

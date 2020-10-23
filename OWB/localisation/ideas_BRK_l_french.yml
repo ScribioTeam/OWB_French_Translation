@@ -25,7 +25,10 @@
  brk_startup_slaves_desc:0 ""
 
  brk_tech_adaptation:0 "Adaptation Technologique"
- brk_tech_adaptation_desc:0 ""
+ brk_tech_adaptation_desc:9 "Les ajustements demandent beaucoup d'efforts, mais si nous y parvenons, nous nous en porterons beaucoup mieux."
+
+ brk_tech_adaptation_rewards:9 "Adaptation technologique terminée"
+ brk_tech_adaptation_rewards_desc:9 "Nos efforts ont porté leurs fruits, maintenant nous pouvons faire des raids avec notre cerveau et nos muscles."
 
  brk_ruler:0 "Graven le Cruel"
  brk_ruler_desc:0 ""

@@ -1,0 +1,27 @@
+﻿l_french:
+
+  # Categories
+ tbh_simulator_decisions:9 "Combat Simulators"
+ tbh_simulator_decisions_desc:9 ""
+ tbh_diplomacy_decisions:9 "Texas Economic Union, internal affairs."
+ tbh_diplomacy_decisions_desc:9 ""
+
+
+
+  # decisions
+ tbh_simulator_training_decision:9 "Simulator Training"
+ tbh_simulator_training_decision_desc:9 ""
+ tbh_simulator_training_decision_ground:9 "Simulator Unit Tactics"
+ tbh_simulator_training_decision_ground_desc:9 ""
+ tbh_simulator_training_decision_naval:9 "Simulator Naval Combat"
+ tbh_simulator_training_decision_naval_desc:9 ""
+ tbh_simulator_training_decision_air:9 "Simulator Dogfighting"
+ tbh_simulator_training_decision_air_desc:9 ""
+ tbh_send_lns_aid:9 "Aid Lonestar"
+ tbh_send_lns_aid_desc:9 ""
+ tbh_send_uoa_aid:9 "Aid Unity of Austin"
+ tbh_send_uoa_aid_desc:9 ""
+
+
+  # Opinion
+ aided_by_ally:9 "Recieved Texas Brotherhood Aid."

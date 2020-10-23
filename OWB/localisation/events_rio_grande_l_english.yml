@@ -29,16 +29,16 @@
   nf_rrg.6.a:0 "Vamemos!"
  ############################
   nf_rrg.7.t:0 "The Rise of the Texas Arms Association"
-  nf_rrg.7.d:0 "The Rio unites, and divides, the Republic, and that became even more obvious in the years following the Legion's defeat. The weaponsmiths of Texas grew rich selling guns to the Republic, and used that money and power to buy friends in Gloria. Guerra, outraged by their influence, pushed for laws to cut down on their lobbying and tax their profits, which only worsened tensions.\n\nBy 2275, Guerra has put severa pro-TAA senators on trial, with more to follow, and Texan senators are booed in the streets of Gloria. The The Texan elite responded closed ranks to protect their rights, and as tensions rose, their thoughts turned to the routes that connected Texas to the Republic's heartland."
+  nf_rrg.7.d:0 "The Rio unites, and divides, the Republic, and that became even more obvious in the years following the Legion's defeat. TheThe weaponsmiths of Texas grew rich selling guns to the Republic, and used that money and power to buy friends in Gloria. Guerra, outraged by their influence, pushed for laws to cut down on their lobbying and tax their profits, which only worsened tensions.\n\nBy 2275, Guerra has put severa pro-TAA senators on trial, with more to follow, and Texan senators are booed in the streets of Gloria. The The Texan elite responded closed ranks to protect their rights, and as tensions rose, their thoughts turned to the routes that connected Texas to the Republic's heartland."
   nf_rrg.7.a:0 "How can you build bridges to an enemy?"
  ############################
   nf_rrg.8.t:0 "The Day of the Dead"
   nf_rrg.8.d:0 "[GetDateText] is remembered in the Republic's history as the Day of the Dead, the day Gloria burned, the day it smelled of ash and burning fat. The TAA set off a series of bombs at key locations across the Republic; in the Capitol Building, in Congress, in munitions depots, and at bridges connecting Texas and Mexico. Even as Guerra tried to organize relief efforts, he learned that the TAA declared independence in a gunsmith's estate.\n\nThe secession of the TAA was a near-fatal blow to Rio. With its capital ablaze and its munitions industry across the river in a hostile country, the nation's army was on the verge of collapse even as Paullus was raiding its borders. To solve the crisis, Rio's leaders would have to handle both the TAA and the Legion remnants on their borders."
   nf_rrg.8.a:0 "Dios Mio!"
  ############################
-  nf_rrg.9.t:0 "The Rio Brotherhood"
-  nf_rrg.9.d:0 "The Texas Brotherhood was always a might peculiar to the other chapters. Cut off from the Brotherhood's heartland, inspired by the open recruiting of the Midwest Brotherhood, it was far more willing to interact with Wastelanders.\n\nRosado's proposal to give them control over the Texan military-industrial complex was welcomed, and Paladin Miller was sent south with a detachment of men. As the TAA was about to find out, whatever happens, they have got, laser guns, and they have not."
-  nf_rrg.9.a:0 "Y'all didn't think this one through"
+  nf_rrg.9.t:0 "The Texas Development Zone"
+  nf_rrg.9.d:0 "The defeat of the TAA gave Rosado the opportunity to put words into action. The swaggering gun merchants who bullied the people of Crystal City were a thing of the past. In their place strode Rio engineers, Brotherhood scribes, and even a few supermutant scholars from Austin. The smiths of Laredo were free to work on their own, and Rosado promised a home to all free thinkers across the Wastes. Followers, atheist Caananites, and even a few securitrons from Robot City were found in Laredo's streets. Almost overnight, a town build on New World Hopes began to flourish. Some thought the city would soon surpass even Vault City in technological splendour. And to Rosado, this was just the start."
+  nf_rrg.9.a:0 "The end of the beginning."
  ############################
   nf_rrg.10.t:0 "Guerra Bans Campaign Donations"
   nf_rrg.10.d:0 "One way the TAA is able to influence Rio's politics is through liberal donations to senators who support its policy of selling weapons to all comers. Guerra wants to pass legislation restricting arms sales, but before he does that, he'll have to cut off their influence. As a first step, Guerra decided to issue a presidential decree banning donations to a Congressman's campaign unless you are from their district. This means Rio can no longer bribe Congressmen from other states. The TAA claims that this is unconstitutional, but to many it seems one of the only ways to break their influence."
@@ -102,18 +102,18 @@
   nf_rrg.24.a:0 "Don't worry, we'll deal with him!"
 ############################
   nf_rrg.25.t:0 "The Mad General"
-  nf_rrg.25.d:0 "To unite Mexico, Mora knew he would need land and resources beyond the resources Rio possessed. One potential ally was Santa Anna, the AI on Rio's borders. Relations between the Rio and Santa Anna had been cold but correct for decades, with as Santa Anna saw himself as the true leader of Mexico, but willing to recognize Rio's leader as a \"governor\". Mora's decision to call himself the President of Mexico was a dangerous one. On the one hand, Santa Anna might be willing to work together to unite the divided land... or he might view Rio as another rebel to be put down.\n\nMora sent a delegation to Reynosa, and offered to make Santa Anna the General of Mexico. As their delegates reached the border, they were greeted by a robot, its screen flickering with an image of Santa Anna."
-  nf_rrg.25.a:0 "Santa Anna will work with the Republic"
-  nf_rrg.25.a.tt:0 "Santa Anna work with the Republic to save Mexico!\n"
-  nf_rrg.25.b:0 "I was a president as well as general!"
-  nf_rrg.25.b.tt:0 "Santa Anna will spurn Mora's efforts!\n"
+  nf_rrg.25.d:0 "All of the members of the diplomatic caravn were extremely nervous, and that was putting it mildly. On the western border of Rio, trying to broker a deal with the 'mad general' in exchange for assistance? President Mora ordered of them to try, but how do you do such a thing with an insane AI? He said that no matter the method, be it subterfuge or otherwise, it had to be attempted. \n\nThe last that was seen of Santa Anna was his quite... intense reaction to Tlaloc's deactivation, and so the lone securitron in front of them bearing his image did nothing to alleviate their fears. It was... eerily calm, as if actually considering their offer. \n\n"And so, after all this, you still come to me for assistance. The 'mad generalissimo', the one your people call 'a plague upon Mexico'?" The ambassador tugged at his collar, drenched with sweat from the harsh sun. \n\n"Baseless accusations, I assure you Mr.Anna. Pr- I mean, governor Mora has realized that you are indeed the rightful ruler of Mexico, and merely wishes to remain in control of the Rio Grande in exchange for your help, to care for it's people and legacy." \n\nHe considered their words, it was a clear attempt from an illegitimate government to sweet talk it's way into a strong position, both diplomatically and strategically. But he also knew that no matter what he wanted, if Mora made the effort to talk to him then he was sincere about his offer."
+  nf_rrg.25.a:0 "Peace, as well as prosperity, is in the interest of all Mexicans"
+  nf_rrg.25.a.tt:0 "Santa Anna follows in his father's footsteps, and brokers a deal with the Rio Grande\n"
+  nf_rrg.25.b:0 "There is no 'Rio Grande', only Mexico and it's people shall stand!"
+  nf_rrg.25.b.tt:0 "Santa Anna will spurn Mora's efforts, as well as his father's teachings!\n"
 ############################
   nf_rrg.26.t:0 "The General of Mexico"
-  nf_rrg.26.d:0 "Santa Anna occupied a complicated place in Mexico's history. At one point or another a traitor, a hero, a liberal, or a conservative; he was, at the end, a Mexican. His AI successor was no different, and Mora was able to negotiate with him for hours. Did not Santa Anna lead an army into Texas to save it for Mexico? Did he not fight time and time against foreign invaders? Will, asked Mora, Santa Anna join him to fight Mexico's oppressors once again?\n\nAfter a long discussion, Santa Anna gave a one word answer. Si."
+  nf_rrg.26.d:0 "Santa Anna occupied a complicated place in Mexico's history. At one point or another a traitor, a hero, a liberal, or a conservative; he was, at the end, a Mexican. His AI successor was no different, and Mora was able to negotiate with him for hours. Did Santa Anna not lead an army into Texas to save it for Mexico? Did he not fight time and time against foreign invaders? Will, asked Mora, he join him to fight Mexico's oppressors once again?\n\nAfter a long discussion, Santa Anna gave a one word answer. Si."
   nf_rrg.26.a:0 "Sobre Podemos!"
 ############################
   nf_rrg.27.t:0 "The Despot of Mexico"
-  nf_rrg.27.d:0 "Mora's attempts to persuade Santa Anna were to join the Mexico were doomed to failure. The historic Santa Anna launched more than five coups against the lawful government, and switched between support for democracy, monarchy, and dictatorship depending on his interests. The idea that Mora could persuade him was absurd; all Mora could do is prepare Rio for the robots that were pouring north.\n\nFortunately, Santa Anna was modelled on the man who lost power more than five times..."
+  nf_rrg.27.d:0 "Mora's attempts to persuade Santa Anna were to join the Mexico were doomed to failure. The historic Santa Anna launched more than five coups against the lawful government, and switched between support for democracy, monarchy, and dictatorship depending on his interests. The idea that Mora could persuade him was absurd; all he could do is prepare Rio for the robots that were pouring north.\n\nFortunately, Santa Anna was modelled on the man who lost power more than five times..."
   nf_rrg.27.a:0 "Thank God the AI wasn't based on Cardenas"
 ############################
   nf_rrg.28.t:0 "Dear Adelita"
@@ -261,7 +261,7 @@
   nf_rrg.80_tt:0 "§RPresident Guerra has vowed to destroy the Legion—at any cost.§! \n" # Effect tooltip for flag set by  nf_rrg.80
 ############################
   nf_rrg.81.t:0 "The Trading Guilds"
-  nf_rrg.81.d:0 "Tlaloc provided a loose security for much of Mexico, but with his failure Mexico has increasingly fallen into chaos, and maaany are looking for another protector.  Guerra has offered Mexico's leading merchants Rio's support, and will act as Mexico's shield against any foreign invasions.  In return, they fund Rio's efforts to guard Mexico."
+  nf_rrg.81.d:0 "Tlaloc provided a loose security for much of Mexico, but with his failure Mexico has increasingly fallen into chaos, and many are looking for another protector.  Guerra has offered Mexico's leading merchants Rio's support, and will act as Mexico's shield against any foreign invasions.  In return, they fund Rio's efforts to guard Mexico."
   nf_rrg.81.a:0 "We shall build a wall and make the Legion pay for it. "
 ############################
   nf_rrg.82.t:0 "The Shield of Mexico"
@@ -328,3 +328,36 @@
   startup.5.t:0 "Politics in [RRG.GetName]"
   startup.5.d:0 "Politics in the Republic of the Rio Grande are complicated to the average Wastelander. The Republic of the Rio Grande consists of numerous states each of which has its own senators and deputies, all of whom play a part in the Republic's traditions. In order to become the president, Mora, Rosado, and Guerra, will have to woo the support of a majority of the Republic's senators through a series of decisions in the states of the Republic. At the moment, support in the Republic's senate is divided between the candidates, who need to lobby state by state to gain support."
   startup.5.a:0 "Can you open some sort of handy guide to the Republic's Congress?"
+############################
+  nf_rrg.153.t:0 "Rio Invites Us Back"
+  nf_rrg.153.d:0 "President Rosado has kindly asked Rio to join the Continuing Experiment, and rejoin the Republic.  If we don't, she'll probably shoot us with laser guns, so what do we do?"
+  nf_rrg.153.a:0 "Those infantry battalions make a compelling argument!"
+  nf_rrg.153.b:0 "Let's show that despot how true Mexicans fight for freedom."
+  ############################
+  nf_rrg.154.t: "Pecos Said No!"
+  nf_rrg.154.d: "The plutocrats of Pecos have refused our generous offer! There can only be blood."
+  nf_rrg.154.a: "This means war."
+  ############################
+  nf_rrg.155.t: "Rosado's Wisdom"
+  nf_rrg.155.d:0 "There are some in the Wasteland who don't trust the super mutants of Austin, but Rosado is an exception. Her support for equal rights for all Wastelanders has included a request for commercial ties to Austin and an invitation for a supermutants to settle in [TAA.GetName]. This may be the beginning of a fruitful relationship and a welcome change from Guerra's hostility to supermutants."
+  nf_rrg.155.a: "To new friends!"
+
+  ############################
+  nf_rrg.156.t: "An End to Bigotry"
+  nf_rrg.156.d:0 "Traditionalists like Guerra were always skeptical of supermutants, but Rosado was well aware that such bigotry was illogical. [UOA.GetLeader] was one of the smartest people in Texas, and he and Rosado had corresponded at length before she became president. With luck, Rosado's support for supermutants in [TAA.GetName] could be the springboard for further integration into Rio's society."
+  nf_rrg.156.a: "To strength in unity."
+
+  ############################
+  nf_rrg.157.t: "Welcome the Refugees"
+  nf_rrg.157.d:0 "Unity of Austin was a noble dream, but it doesn't need to die just because its leader did. Rosado has offered amnesty to Unity's supporters, and many are flocking to the Texas Development Zone. The dream of human-supermutant cooperation will flourish under Rosado. What is the point of freedom if not to share it with the world?"
+  nf_rrg.157.a: "Todos en esto juntos!"
+
+  ############################
+  nf_rrg.158.t: "Rosado stands with the [Root.GetName]"
+  nf_rrg.158.d:0 "Rosado has chosen to stand with us against the bleeding hearts of the Texas Brotherhood. We are fortunate that she understands the Brotherhood is not a government and supports our goals."
+  nf_rrg.158.a: "I knew she was smart for a reason."
+
+  ############################
+  nf_rrg.159.t: "Rosado stands with the [Root.GetName]"
+  nf_rrg.159.d:0 "Rosado has chosen to stand with us against the Alamo hardliners.  She understands that while technology has its purpose, it has no value without people to use it."
+  nf_rrg.159.a: "I knew she was smart for a reason."

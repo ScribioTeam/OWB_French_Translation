@@ -1,0 +1,188 @@
+﻿l_french:
+
+
+ ###Organization effects tooltips
+ organization_add_tt:9 "Establish [GetOrganizationNameTT] in [This.GetName]\n"
+ organization_add_already_present_tt:9 "[GetOrganizationNameTT] already present in [This.GetName]\n"
+ organization_add_influence_tt:9 "Change [GetOrganizationName] opinion by [?org_influence_amount|+0]\n"
+ ### Flash Sale GUI
+ caps_market_tt:0 "Marché des capsules"
+ market_title_tt:0 "Marché noir"
+ back_button_tt:0 "Retour à l'écran précédent."
+ gun_runner_open_tt:0 "Marché noir des Gun Runner"
+ chem_runner_open_tt:0 "Marché noir des chems"
+ slave_runner_open_tt:0 "Marché noir des esclaves"
+ cap_market_name_tt:0 "[GetOrganizationName]"
+ cap_opinion_tt:0 "Opinion de l'Organisation - [GetMarketOpinion]"
+ market_opinion_tt:9 "[?selected_org_amount|=+0]"
+ cap_inventory_tt:0 "Inventaire actuel - [GetMarketInventory]"
+ market_gui_purchase_tt:9 "[!purchase_button_click_enabled]\n[!purchase_button_click]"
+
+  ###Trade Ledger GUI
+ cap_stock_tt:9 "Montant - [GetMarketAmount]"
+ cap_minimum_opinion:9 "Minimum Opinion: [GetMinimumOpinion]"
+ opinion_amount_tt:9 "[?minimum_opinion_temp_var|0Y]"
+ minimum_opinion_purchase_tt:9 "Requires [GetMinimumOpinion] Opinion to Purchase"
+ item_cost_tt:9 "Buy For: [CalculateBuyPrice]"
+ item_sell_cost_tt:9 "Sell For: [CalculateSellPrice]"
+ sell_price_amount:9 "§R[?temp_sell_price|0]k§!"
+ sell_percentage_amount:9 "Organization Opinion Deal: [?temp_org_bonus|=+0%] to sell price\n   Supply Modifier: [?inventory_reduction|R%0]"
+ buy_price_amount:9 "§G[?temp_buy_price|0]k§!"
+ buy_percentage_amount:9 "Organization Opinion Discount: [?temp_discount|%0G] to buy price"
+ ledger_item_name:9 "[GetMarketInventory]"
+ trade_ledger_item_buy_tt:9 "§GClick§! to purchase\n[!item_cost_click_enabled]\nCurrent Opinion: [GetSelectedOrgOpinion]\nTransaction Amount: §Y500§! §L[GetMarketInventory]§!  \n   [CalculateDiscountPercentage]  \n[!item_cost_click]"
+ trade_ledger_item_sell_tt:9 "§GClick§! to sell\n[!item_sell_cost_click_enabled]\nCurrent Opinion: [GetSelectedOrgOpinion]\nTransaction Amount: §Y500§! §L[GetMarketInventory]§!  \n   [CalculateSellPercentage]  \n[!item_sell_cost_click]"
+ organization_ledger_opinion_tt:9 "Current Opinion: [GetOrgOpinion]"
+ org_opinion_string:9 "[?current_org_opinion_temp|+0]"
+ recent_transaction_cooldown:9 "No recent transactions with [GetOrganizationName]"
+  ### Organization Decisions Loc
+ has_organization_visible_tt:9 "Have [GetOrganizationName] present in an owned node"
+ has_organization_influence_tt:9 "Have [?influence_to_have|Y0] opinion with [GetOrganizationName]"
+ has_spendable_influence_tt:9 "Have [?influence_to_spend|0Y] spendable opinion with [GetOrganizationName]\n  Current spendable opinion: [?current_spendable_influence|Y0]"
+
+ gun_runner_boost_production:9 "§YGun Runners§!: Production Boost"
+ gun_runner_add_operative:9 "§YGun Runners§!: Recruit Elite Smuggler"
+ gun_runner_entice:9 "Entice §GGun Runners§! Expansion"
+
+ motorized_runner_hola_girls:9 "§YChop Shop§!: Hola Girls"
+ motorized_runner_anti_muffler:9 "§YChop Shop§!: Anti-Muffling Muffler Production"
+ motorized_runner_fuzzy_dice:9 "§YChop Shop§!: Fuzzy Dice"
+ motorized_runner_door_shotguns:9 "§YChop Shop§!: Door Mounted Shotguns"
+ motorized_runner_entice:9 "Entice §GChop Shop§! Expansion"
+
+
+ energy_runner_electric_research:9 "§YVan Graffs'§!: Trade Knowledge"
+ energy_runner_greedy_kingpins:9 "§YVan Graffs'§!: Kingpin Greed"
+ energy_runner_family_vaults:9 "§YVan Graffs'§!: Family Vaults"
+ energy_runner_entice:9 "Entice §GVan Graffs'§! Expansion"
+
+ melee_runner_hunt_mirelurks:9 "§YButcher Pete's§!: How to Hunt Mirelurks"
+ melee_runner_whetstones:9 "§YButcher Pete's§!: Whetstones"
+ melee_runner_faee_cocktail:9 "§YButcher Pete's§!: Faee's Cocktail"
+ melee_runner_half_bar:9 "§YButcher Pete's§!: Half a Chocolate Bar Rations"
+ melee_runner_entice:9 "Entice §GButcher Pete's§! Expansion"
+
+ advanced_runner_entice:9 "Entice §GVancouver Mavens§! Expansion"
+ black_market_category:9 "Organization Relations"
+
+
+
+
+  #### Events
+    ### Generic
+ caps_organization_events.1.t:9 "[GetOrganizationName] Requests Loan"
+ caps_organization_events.1.d:9 "[GetOrganizationName] has reached out to us in a time of need. Sales have been slow, business is lacking. They'd like to request some sort of loan to help keep their production lines available. It may be an enticing option incase we are ever in need of their wares."
+ caps_organization_events.1.a:9 "A loan"
+ caps_organization_events.1.b:9 "We can't spare much now"
+ caps_organization_events.1.c:9 "A gift"
+
+ caps_organization_events.11.t:9 "[GetOrganizationName] Loan Repayment"
+ caps_organization_events.11.d:9 "[GetOrganizationName]'s loan has been paid in full. They thank us greatly for keeping their [THIS.GetName] branches above water."
+ caps_organization_events.11.a:9 "An ally when we need one"
+
+ caps_organization_events.12.t:9 "[GetOrganizationName] Loan Default"
+ caps_organization_events.12.d:9 "[GetOrganizationName] can not afford to pay their loan to us. They seem to be stable for now, but it is unlikely we will see our caps again."
+ caps_organization_events.12.a:9 "Forgiveness for an ally"
+ caps_organization_events.12.b:9 "We are patient"
+
+ caps_organization_events.13.t:9 "[GetOrganizationName] Requests Lowered Tariffs"
+ caps_organization_events.13.d:9 "The [GetOrganizationName] have requested we lower the tariffs imposed on trade throughout our nation. Our taxes damage their bottom line, and they seem to be willing to negotiate some .... alternate agreements with us later for this favor now."
+ caps_organization_events.13.a:9 "A great bargaining chip"
+ caps_organization_events.13.b:9 "We can't afford this"
+ organizations_lowered_trade_tariffs:9 "Tariff Relief"
+
+ caps_organization_events.14.t:9 "Organizations Request Increase Production Capacity"
+ caps_organization_events.14.d:9 "The various economical partners established in our trade hubs have submitted a request to increase our military production capabilities. If we are to fulfil those increased quotas, our economists estimates [?bolster_production_event_target|0+] military factories will be required. If these demands are fulfilled, they promise us increased trading traffic, as well as some... 'under the table' rewards for being so kind."
+ caps_organization_events.14.a:9 "An achievable goal"
+ caps_organization_events.14.b:9 "Unreasonable demand"
+ bolster_production_event_mission:9 "Request: Build More Military Factories"
+ bolster_production_event_mission_goal_tt:9 "Build [?bolster_production_event_target|0+] military factories\n   Current factories: [?num_of_military_factories|0R]"
+ bolster_production_event_org_tt:9 "Change all orgnization opinion by: [?org_influence_amount|+=0]"
+
+ caps_organization_events.2.t:9 "Exploration for Technology"
+ caps_organization_events.2.d:9 "The heads of [GetOrganizationName] have asked us to sponsor a scavenging party into a ruined research facility nearby. They think there is a large trove of Old World equipment that could allow them to develop new processes and maintain an edge on the market. In return for sponsorship, they will share the knowledge gained with us. Though there is a chance our party is deterred, or worse, by facility defenses, our current equipment should be up to the challenge."
+ caps_organization_events.2.a:9 "Find a leader for the party"
+ caps_organization_events.2.b:9 "We have no men to spare"
+
+ caps_organization_events.21.t:9 "Treasure Trove"
+ caps_organization_events.21.d:9 "Our men have found not only a few pieces of Old World technology, but a fully working prototype. [GetOrganizationName] is extremely pleased with our success, offering a favor for anything in their capability in the future."
+ caps_organization_events.21.a:9 "Skill and training pay off"
+ caps_organization_events.22.t:9 "Pandora's Box"
+ caps_organization_events.22.d:9 "When our men descended into the depths of the research facility scouted by [GetOrganizationName], most of them never returned. A member of the party reports being ambushed by sentry bots soon after setting foot in the inner laboratory. Thankfully, a few brave soldiers made it home."
+ caps_organization_events.22.a:9 "Thankfully..."
+    #### Advanced Runners
+ caps_organization_events.151.t:9 "The Mavens"
+ caps_organization_events.151.d:9 "We've encountered a most curious group subverting our scavenging operations near certain Old-World facilities, seemingly appearing out of thing air. Multiple parties have reported being smoked out, tied up, and blinded by a 'radiant blue light.' Though they didn't harm our scavengers, it seems like our presence is not welcome near these areas. We've not yet been able to make contact with them, until now. A representative returned with one of our scouting groups. Fully covered in a form fitting suit of advanced polymers, they delivered a simple message. 'We are the Koover Mavens, and we have a proposition for you. Help us extract §cOld World Relics§! from the ruins in your territory. We will reward you for your compliance.' Before we could respond, they seemingly evaporated into the wind, leaving only a note with a location."
+ caps_organization_events.151.a:9 "Mysterious. But intriguing."
+ caps_organization_events.151.b:9 "Sabotaging us then demanding compliance!?"
+ organization_5_setup_idea:9 "Maven Allies"
+
+ caps_organization_events.152.t:9 "Operating Parameters"
+ caps_organization_events.152.d:9 "It has been a few weeks since our last interaction with the Mavens. Our scout delivered a message into a postal box located in a large field as marked on the note left with us after meeting their 'representative.' Since then, we have recieved no contact. Today, however, a new representative has arrived. One that claims to be more permenant. They tell us that soon, the Mavens will need our assistance, and with assistance comes reward. Before these details are revealed, they've asked us to create an agency to support their efforts throughout the region. We believe this agency could give us an upper hand against our enemies as well."
+ caps_organization_events.152.a:9 "A common goal"
+ caps_organization_events.152.b:9 "We have little to spare for cryptic messages."
+ maven_create_spy_agency:9 "Establish Agency for Operational Support"
+
+    ### Mercenary
+ gun_runner_spawn_unit:9 "Ask For Guard Detachment"
+ caps_organization_events.301.t:9 "Gun Runner Detachment Recalled"
+ caps_organization_events.301.d:9 "The Gun Runners have recalled the detachment of facility guards they sent to aid us in our war."
+ caps_organization_events.301.a:9 "Safe journies home"
+  ###GUN RUNNER DATA
+ gun_runner_name_tt:0 "Gun Runner"
+ gun_runner_market_tt:0 "[GetGunRunnerInventory]"
+ gun_runner_market_icon:0 "[GetGunRunnerMarketIcon]"
+ gun_runner_equip_1:9 "Pipe Weapons"
+ gun_runner_equip_2:9 "Basic Ballistic Weaponry"
+ gun_runner_equip_3:9 "Common Ballistic Weaponry"
+ gun_runner_equip_4:9 "Advanced Ballistic Weaponry"
+ gun_runner_equip_5:9 "Support Equipment"
+ gun_runner_equip_6:9 "M SAW"
+ gun_runner_equip_7:9 "LMG"
+ gun_runner_amount_tt:0 "[?global.gun_runner_inventory]"
+ organization_floor_modifier_1:9 "Gun Runner Opinion"
+  ###Motorized Runner Data
+ buy_infantry_equipment:9 "Infantry Equipment Order"
+ motorized_runner_name_tt:9 "Chop Shop"
+ motorized_runner_market_tt:9 "[GetMotorizedRunnerInventory]"
+ motorized_runner_market_icon:9 "[GetMotorizedRunnerMarketIcon]"
+ motorized_runner_amount_tt:9 "[?global.motorized_runner_inventory]"
+ organization_floor_modifier_2:9 "Chop Shop Opinion"
+  ###SLAVE RUNNER DATA
+  ###Chem Decisions
+ chem_jet:0 "Acheter du Jet"
+ chem_buffout:0 "Acheter du Buffout"
+ chem_psycho:0 "Acheter du Psycho"
+  ###Energy Weapon Market
+ energy_runner_market_tt:9 "[GetEnergyRunnerInventory]"
+ energy_runner_market_icon:9 "[GetEnergyRunnerMarketIcon]"
+ energy_runner_amount_tt:9 "[?global.energy_runner_inventory]"
+ energy_runner_name_tt:9 "Van Graffs'"
+ energy_runner_equip_1:9 "Laser Musket"
+ energy_runner_equip_2:9 "Laser Rifles"
+ energy_runner_equip_3:9 "Advanced Laser Rifles"
+ energy_runner_equip_4:9 "H-RCW"
+ energy_runner_equip_5:9 "Laser Gattling Gun"
+ energy_runner_equip_6:9 "Support Equipment"
+ organization_floor_modifier_3:9 "Van Graffs' Opinion"
+  ###Melee Runner market
+ melee_runner_name_tt:9 "Butcher Pete's"
+ melee_runner_market_tt:9 "[GetMeleeRunnerInventory]"
+ melee_runner_market_icon:9 "[GetMeleeRunnerMarketIcon]"
+ melee_runner_amount_tt:9 "[?global.melee_runner_inventory]"
+ melee_runner_equip_1:9 "Basic Melee Weaponry"
+ melee_runner_equip_2:9 "Slashing Melee Weaponry"
+ melee_runner_equip_3:9 "Heavy Melee Weaponry"
+ melee_runner_equip_4:9 "Powered Melee Weaponry"
+ melee_runner_equip_5:9 "Dynamite"
+ melee_runner_equip_6:9 "Flamer"
+ melee_runner_equip_7:9 "Frag Grenade"
+ melee_runner_equip_8:9 "Incinerator"
+ melee_runner_equip_9:9 "Grenade Rifle"
+ organization_floor_modifier_4:9 "Butcher Pete's Opinion"
+  ####Advanced Runner Market
+ advanced_runner_name_tt:9 "Vancouver Mavens"
+ advanced_runner_market_tt:9 "[GetAdvancedRunnerInventory]"
+ advanced_runner_market_icon:9 "[GetAdvancedRunnerMarketIcon]"
+ advanced_runner_amount_tt:9 "[?global.advanced_runner_inventory]"
+ organization_floor_modifier_5:9 "Vancouver Mavens Opinion"

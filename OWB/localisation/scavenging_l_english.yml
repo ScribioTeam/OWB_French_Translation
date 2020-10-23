@@ -78,7 +78,7 @@
   scavenge.10.a: "Well that was pointless."
 
   scavenge.11.t: "Power Armour Scavengers Attacked!"
-  scavenge.11.d: "I don't understand how, [Root.GetLeaderName], but our scavengers were attacked. A band of raiders in power armour launched a coordinated strike upon our scavengers and created an epic battle that left dozens dead. The ensuing battle wiped out a nearby village, and many of the raiders died, but we had to retreat."
+  scavenge.11.d: "I don't understand how, [Root.GetLeader], but our scavengers were attacked. A band of raiders in power armour launched a coordinated strike upon our scavengers and created an epic battle that left dozens dead. The ensuing battle wiped out a nearby village, and many of the raiders died, but we had to retreat."
   scavenge.11.a: "How can raiders field power armour?"
 
   scavenge.12.t: "Contact Lost!"

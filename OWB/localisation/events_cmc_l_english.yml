@@ -1,0 +1,18 @@
+﻿l_english:
+
+  nf_event_cmc.1.t: "A Night to Remember" # Good
+  nf_event_cmc.1.d: "A police force that they couldn't control or bribe apparently was the last straw. It wasn't long after my official inauguration of the new police chief that things came to a head. Several members of the criminal underground stormed many of the high profile casinos, trying to take out, or take hostage, leading members of the casino families, to gain control of those establishments. But we were prepared.\n\nI was prepared.\n\nThey were greeted by a hail of bullets, a good amount from my own pistol, killing many and making the rest flee outside, waiting for something.\nTo my shock I recognized a few faces among the dead. People i thought of as friends. Family. The corruption must have run deeper than i thought.\n\nThe initial wave of attack beaten back I was about to retreat to one of the offices in the Red River Casino that was made into an impromptu war room. Aspen joined me half way there. I didn't see her in the defence, so I was pretty sure i knew what was going to happen. I was not surprised, just saddened when she pointed a gun at my head.\nWhat came as a surprise, at least to her, was the knife sticking out of her throat a blink of an eye later. How to lead a casino was not the only thing my parents taught me. Our family was the first out of the bunkers. We didn't survive by pure chance against raiders and hostile creatures. That too is part of my legacy.\nHer involvement explains how the various gangs could operate under our noses for so long without us ever catching them. A person that can walk in and out of any casino whenever she wants without questions is a great asset if you want to gain information or access to certain areas.\n\nAfter one last look at her body, I carried on. The night was still young and they were still waiting outside. We radioed the police for assistance. This would be a trial by fire for them too."
+  nf_event_cmc.1.a: "Dawn will arrive"
+  cmc_aspen_killed_tt: "§YAspen§! has been killed!"
+  nf_event_cmc.2.t: "A Night to Remember" # Bad
+  cmc_liam_killed_tt: "§YLiam§! has been killed!"
+  nf_event_cmc.3.t: "A Night to Remember" # Dummy
+
+  # Gambling
+  nf_event_cmc.100.t: "Heir to two Empires"
+  nf_event_cmc.100.d: "After being mostly absent from the public eye for a a few months at this point, [CMC.GetLeader] has appeared on the stage again. Quite literally in this case, as [TUB.GetLeader] has seen it fit to produce a special broadcast this night. The reason for this was clear as only a few minutes into the show after a short musical number by one of [TUB.GetLeader]s live bands, both of them walked in front of the camera, presenting their new born child to a cheering audience. The proud parents talked briefly about future plans concerning both nations before they retreated backstage again, wishing viewers and home audience alike a pleasant evening and giving the stage to an ensemble of various live acts."
+  nf_event_cmc.100.a: "I guess congratulations are in order."
+  
+  nf_event_cmc.101.t: "Jackpot!"
+  nf_event_cmc.101.d: "Awesome....no, wait! That's a bad thing if you own a casino.\n\nSomeone made bank and went home with a massive pile of caps. He didn't even have the courtesy to tip the dealer or spend it at the in house bar. \nI guess that means your pockets will be a little less full in the near future."
+  nf_event_cmc.101.a: "Time to fasten our belts"

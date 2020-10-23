@@ -68,6 +68,12 @@
   BDT_intellectuals_party_long:0 "The Crimson Acolytes"
   BDT_ruler_party:0 "Cranium's' Arena"
 
+  #TCA
+  TCA_people_party:0 "Wardens of the White"
+  TCA_elites_party:0 "Unity Council"
+  TCA_ruler_party:0 "The Immortal's Agents"
+  TCA_intellectuals_party:0 "Brotherhood Exiles"
+
   #### Laws #####
 
   # Military Law Categories
@@ -194,6 +200,16 @@
   RRG_ruler_party:0 "El Movimiento"
   RRG_ruler_party_long:0 "Los Movimiento de Regeneración Arquitectos"
 
+  # ASS
+  ASS_people_party:0 "The Cuban Connection"
+  ASS_people_party_long:0 "The Cuban Connection"
+  ASS_elites_party:0 "Ruby's Revenge"
+  ASS_elites_party_long:0 "Ruby's Revenge"
+  ASS_intellectuals_party:0 "Dead Kennedys"
+  ASS_intellectuals_party_long:0 "Dead Kennedys"
+  ASS_ruler_party:0 "Conspiracy"
+  ASS_ruler_party_long:0 "Conspiracy"
+
   press_laws: "Press Laws"
   political_effort_press: "Freedom of Speech"
   political_effort_press_desc: "You can't stop the press. O, they try, they try. But a free people will fight to stay free."
@@ -225,6 +241,7 @@
   EFFECT_CHANGE_LAW_press_laws:0 "Change Press Law to '$NAME|Y$' which grants ($DESC$)."
   EFFECT_CHANGE_LAW_slavery_laws:0 "Change Slavery Law to '$NAME|Y$' which grants ($DESC$)."
   EFFECT_CHANGE_LAW_drug_laws:0 "Change Drug Law to '$NAME|Y$' which grants ($DESC$)."
+  EFFECT_CHANGE_LAW_currency_laws:0 "Change Currency Law to '$NAME|Y$' which grants ($DESC$)."
   EFFECT_CHANGE_LAW_vehicle_restoration_advisor:0 "Change Vehicle Restoration Law to '$NAME|Y$' which grants ($DESC$)."
   EFFECT_CHANGE_LAW_navy_restoration_advisor:0 "Change Navy Restoration Law to '$NAME|Y$' which grants ($DESC$)."
   EFFECT_CHANGE_LAW_aircraft_restoration_advisor:0 "Change Aircraft Restoration Law to '$NAME|Y$' which grants ($DESC$)."
@@ -239,3 +256,13 @@
   has_unique_drug_laws:0 "Has Unique Drug Laws"
   has_unique_undesirable_laws:0 "Has Unique Undesirable Laws"
   has_unique_mutant_recruitment_laws:0 "Has Unique Mutant Recruitment Laws"
+
+  # CHC
+  CHC_people_party:0 "The Choral Congress"
+  CHC_people_party_long:0 "The Choral Congress"
+  CHC_elites_party:0 "SuperMax Remnants"
+  CHC_elites_party_long:0 "SuperMax Remnants"
+  CHC_intellectuals_party:0 "The Chained Choir"
+  CHC_intellectuals_party_long:0 "The Chained Choir"
+  CHC_ruler_party:0 "The Bruiser"
+  CHC_ruler_party_long:0 "The Bruiser"

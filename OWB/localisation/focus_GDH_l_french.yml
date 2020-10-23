@@ -1,0 +1,256 @@
+﻿l_french:
+ gdh_people_of_the_sun:9 "Enfant du Soleil"
+ gdh_people_of_the_sun_desc:9 "Il n'a pas toujours été un général, croyez-le ou non. Mais même enfant, il savait qu'il était béni par le soleil. "
+
+ gdh_generalissimo:9 "Le Danger venant de la Mer"
+ gdh_generalissimo_desc:9 "El Generalissimo n'était qu'un simple soldat de fortune. Jamais en quête de grandeur, il a été poussé par la grandeur lorsque les monstres sont venus des profondeurs."
+
+ gdh_open_for_business:9 "Ouvert aux Affaires"
+ gdh_open_for_business_desc:9 "Puerto Libertad n'est pas la seule ville de la Costa Del Sol à avoir été attaquée par les Cangrejos. El Generalissimo a utilisé son succès pour établir une opportunité de franchise pour les soldats le long de la côte. Avec le temps, il a commencé à vendre aussi des armes, car il est toujours préférable de se diversifier."
+
+ gdh_domestic:9 "Affaires Intérieures"
+ gdh_domestic_desc:9 ""
+
+ gdh_bandit_contracts:9 "Contracts de Baja"
+ gdh_bandit_contracts_desc:9 "Les peuples épris de liberté de Baja sont impatients d'acheter nos armes pour résister à l'agression de la RNC.  Et la défense de la RNC contre leur agression."
+
+ gdh_panchos_pride:9 "Fierté de Pancho"
+ gdh_panchos_pride_desc:9 "Pancho Villa, leader de [BVC.GetName], a demandé notre aide pour construire un grand mur pour protéger ses terres contre la RNC.  Nous sommes heureux de l'aider !"
+
+ gdh_guns_for_guarez:9 "Des Armes pour Guarez"
+ gdh_guns_for_guarez_desc:9 "[BLP.GetLeader] est impatient d'acheter des armes à utiliser contre les conscrits de Shady Sands. Pourquoi refuser un client fidèle en période de besoin ?"
+
+ gdh_stand_with_the_baja:9 "Se tenir avec Baja"
+ gdh_stand_with_the_baja_desc:9 "La RCN pourrait appeler les habitants de Baja des raiders, mais il utilise ce terme pour tous ceux qui détiennent des terres ou des ressources qu'ils convoitent. Les habitants de Baja sont mexicains et de bons clients !"
+
+ gdh_receive_exiles:9 "Accueillir les Exilés de Baja"
+ gdh_receive_exiles_desc:9 "Les Exilés de Baja étaient prêts à apporter avec eux une partie de leur matériel et de leurs ressources lorsqu'ils ont fui. Bien que nous soyons tristes, nous les accueillons à bras ouverts !"
+
+ gdh_return_to_baja:9 "Revenir à Baja"
+ gdh_return_to_baja_desc:9 ""
+
+ gdh_three_headaches:9 "Les Trois Migraines"
+ gdh_three_headaches_desc:9 "Ce n'est que dans une fête élaborée, alimentée à la mescaline, que l'on peut prétendre que trois mecs en spandex sont les héros du Mexique. Il est temps de leur rappeler que El Generalissimo est el futuro !"
+
+ gdh_propaganda:9 "Propagande Anti-Luchadores"
+ gdh_propaganda_desc:9 "Avez-vous entendu dire que leurs combats sont des mises en scène ? Je parie qu'El Diablo Azul ne couche même pas avec les sœurs de Mil Masacara ! Parce que El Generalissimo, lui, c'est, heyo !"
+
+ gdh_military_buildup:9 "Renforcement Militaire"
+ gdh_military_buildup_desc:9 "[FFI.GetLeader] pense que nous sommes une tache sur l'honneur du Mexique et n'a pas caché son intention de venir au nord. Honnêtement, ne pas se préparer à une guerre majeure serait vraiment stupide."
+
+ gdh_fortifications:9 "Fortifications des Frontières"
+ gdh_fortifications_desc:9 "Les luchadores sans licence sont une menace pour vous et votre famille ! Mais pas une fois ces fortifications terminées. "
+
+ gdh_fortress_sol:9 "Forteresse Del Sol"
+ gdh_fortress_sol_desc:9 "Personne ne va interrompre notre fête."
+
+ gdh_preemptive_strike:9 "Frappe Préventive"
+ gdh_preemptive_strike_desc:9 "Nous pouvons lire un arbre de priorités ainsi que la personne suivante, et il est assez clair que les Luchadores Libres visent [GDH.GetLeader]. Alors, battons-les à plate couture."
+
+ gdh_cartel_arms:9 "Cartel d'Armes"
+ gdh_cartel_arms_desc:9 "Pour le meilleur ou pour le pire, certains de nos meilleurs clients sont les cartels.  Pour l'instant."
+ gdh_cartel_arms_tt:9 "§Y[SIN.GetNamewithFlag]§! et §Y[BLO.GetNameWithFlag]§! auront accès à notre marché."
+
+ gdh_bullets_for_beltran:9 "Balles pour Beltran"
+ gdh_bullets_for_beltran_desc:9 "L'un des avantages de la vente de munitions est que, pour une raison quelconque, les cartels en ont toujours besoin de plus. Le commerce n'est-il pas grandiose ?"
+
+ gdh_sinaloa_trade:9 "Commerce de la Sinaloa"
+ gdh_sinaloa_trade_desc:9 "[SIN.GetLeader] est l'un de nos meilleurs clients ! Nous pouvons en profiter pour exploiter d'autres opportunités."
+
+ gdh_cartel_refugees:9 "Recrues du Cartel"
+ gdh_cartel_refugees_desc:9 "Au lieu de travailler pour un cartel vicieux, considérez que la vie gagne l'ejercito d'El Generalissimo ! Nous offrons même une pension !"
+
+ gdh_ghoul_revenge:9 "Impossible de Maîtriser une Goule"
+ gdh_ghoul_revenge_desc:9 "Malgré les efforts de [FFI.GetNameWithFlag], les dirigeants de [SIN.GetName] et [BLO.GetName] se sont échappés. Et maintenant, ils sont prêts à rentrer chez eux, avec notre aide. Cela facilitera aussi la gestion de ces nouveaux territoires, bien sûr. Bienvenue à la Gente De Sol !"
+
+ gdh_fun_sun:9 "Du Plaisir au Soleil !"
+ gdh_fun_sun_desc:9 "Avec la destruction des Luchadores Libres, tous reconnaissent notre contrôle sur la côte nord-ouest du Mexique. El Generalissimo es supremo !"
+
+ gdh_cartels_oopsies:9 "Donc, à propos de ces Cartels"
+ gdh_cartels_oopsies_desc:9 "Avec la destruction de [FFI.GetName], une pensée se produit. Ne serait-il pas plus rentable d'annexer directement le territoire des cartels, plutôt que de leur vendre des armes ? Pourquoi emprunter à la banque quand on peut la voler. \nDe plus, qui souhaite élever ses enfants dans un pays où la drogue est omniprésente ?"
+
+ gdh_take_tohono:9 "Prendre Tohono"
+ gdh_take_tohono_desc:9 ""
+
+ gdh_zapata_sucks:9 "Pas de Robots, pas de Maîtres"
+ gdh_zapata_sucks_desc:9 "Attendez, qui était Zapata ? Pourquoi un robot essaie-t-il de libérer le prolétariat ? Qu'est-ce que le prolétariat ? En tout cas, disons non à ces absurdités."
+
+ gdh_costa_friend:9 "Contrats Costa"
+ gdh_costa_friend_desc:9 "[CAF.GetLeader] est un homme selon notre désir. Prenons un verre et discutons d'un accord commercial !"
+ gdh_costa_friend_tt:9 "Cela peut permettre à [CAF.GetNamewithFlag] d'accéder à votre magasin."
+
+ gdh_place_in_sun:9 "Notre Place au Soleil"
+ gdh_place_in_sun_desc:9 "Nous ne sommes plus le peuple du soleil. C'est la côte du soleil, une terre heureuse et prospère sous son chef suprême. Vous voulez boire un verre ?"
+
+ gdh_building_villa:9 "Construire la Villa"
+ gdh_building_villa_desc:9 "El Generalissimo a tant sacrifié pour son peuple. Ne mérite-t-il pas un peu de place pour s'amuser ?"
+
+ gdh_adoring_public:9 "Un Public qui Adore"
+ gdh_adoring_public_desc:9 "El Generalissimo a de nombreux admirateurs parmi les habitants de la Costa Del Sol. Ils l'aideront volontiers à construire sa villa... pour un prix."
+ gdh_adoring_public_tt:9 "Le public aime son généralissime, et se sacrifierait volontiers pour son projet. Tant qu'ils peuvent utiliser la piscine."
+
+ gdh_work_for_all:9 "Du travail pour Tous"
+ gdh_work_for_all_desc:9 ""
+
+ gdh_symbol_of_protection:9 "Symbole de Protection"
+ gdh_symbol_of_protection_desc:9 "[GDH.Getleader] a de nombreux défauts, mais il assure la sécurité de ses employés. La Villa est un monument, pas seulement pour lui."
+
+ gdh_food_for_most:9 "De la Nourriture pour Tous"
+ gdh_food_for_most_desc:9 ""
+
+ gdh_peace_of_tyranny:9 "La Paix de la Tyrannie"
+ gdh_peace_of_tyranny_desc:9 ""
+
+ gdh_gulf_economy:9 "Économie du Golfe"
+ gdh_gulf_economy_desc:9 ""
+
+ gdh_vault_secrets:9 "Secrets de l'Abri"
+ gdh_vault_secrets_desc:9 "Il y avait très peu d'abris construits au Mexique avant la guerre, mais Vault-Tec faisait quelque chose en dessous de Puerto Libertad. Voyons voir ce qu'il en est."
+
+ gdh_guns:9 "Armes"
+ gdh_guns_desc:9 ""
+
+ gdh_reverse_engineering:9 "Ingénierie Inverse"
+ gdh_reverse_engineering_desc:9 ""
+
+ gdh_more_guns:9 "Plus d'Armes"
+ gdh_more_guns_desc:9 "Combien d'armes les Nord-américains avaient-ils ? Quelle triste culture. Au moins, on peut les donner à nos conscrits."
+
+ gdh_industrial_applications:9 "Applications Industrielles"
+ gdh_industrial_applications_desc:9 "Une partie de la technologie de l'abri a un avantage industriel. Ce n'est pas un GECK, mais cette centrale à fusion est mieux que rien."
+
+ gdh_private_collection:9 "Collection Privée"
+ gdh_private_collection_desc:9 "Ce sont les meilleures armes des Terre Désolées ! Nous pouvons peut-être en distribuer à nos gars."
+
+ gdh_one_step_further:9 "Une Étape de Plus"
+ gdh_one_step_further_desc:9 "L'Abri nous a beaucoup appris, mais il crée plusieurs opportunités potentielles.  "
+
+ gdh_bodyguards:9 "Gardes du Corps Personnels"
+ gdh_bodyguards_desc:9 "El Generalissimo est un bon ami de ses soldats, c'est pourquoi il a fait face à si peu de tentatives de coup d'état. "
+ gdh_bodyguards_tt:9 "\nDébloque une décision d'aller boire avec les gardes du corps d'El Generalissimo pour déstresser."
+
+ gdh_recruitment_benefits:9 "Avantages du Recrutement"
+ gdh_recruitment_benefits_desc:9 "Servir [GDH.GetLeader] ! C'est une vie d'aventure, où vous voyagerez dans des endroits intéressants, rencontrerez des gens intéressants, et les tuerez de peur que leur notion de droits inaliénables ne détruise le règne de notre tyran bien-aimé. Et ai-je mentionné la ration d'alcool ?"
+
+ gdh_population_conscription:9 "Organiser une Conférence des Femmes"
+ gdh_population_conscription_desc:9 "Ce n'est pas parce qu'El Generalissimo aime une belle femme qu'il est sexiste. Certains de ses meilleurs sbires sont des femmes ! La Villa peut être utilisée pour accueillir des conférences visant à promouvoir le rôle des femmes dans les Terre Désolées. Cela encouragera encore plus de femmes à rejoindre son armée."
+
+ gdh_personal_training:9 "Formation Personnelle"
+ gdh_personal_training_desc:9 "El Generalissimo s'est contenté de rester assis trop longtemps, mais il est temps de se remettre en forme. La villa va avoir une salle de gym crossfit haut de gamme !"
+ gdh_personal_training_tt:9 "El Generalissimo sera moins stressé."
+
+ gdh_conflict_resolution:9 "Résolution des Conflits"
+ gdh_conflict_resolution_desc:9 "Nous pouvons organiser une série de séminaires sur la résolution des conflits à la villa. Nous pouvons appliquer ces leçons à notre occupation des Terre Désolée !"
+
+ gdh_naval_sovereignty:9 "Un Bel Endroit pour Amarrer le Yacht"
+ gdh_naval_sovereignty_desc:9 "Beaucoup de gens aiment encore pêcher dans la mer de Cortez, et El Generalissimo ne fait pas exception. On peut supposer que les chantiers navals pourraient aussi accueillir des navires de guerre."
+
+ gdh_villa_finished:9 "La Villa est Achevée !"
+ gdh_villa_finished_desc:9 "Après beaucoup de travail, nous avons pu terminer la villa. Voyons maintenant ce que tout le monde en pense !"
+
+ gdh_genial_general:9 "Le Génial Général"
+ gdh_genial_general_desc:9 "La vie est belle, non ? Prenez un verre."
+ gdh_genial_general_tt:9 "Débloque les décisions pour profiter de la vie."
+
+ gdh_popular_populism:9 "Populisme Populaire"
+ gdh_popular_populism_desc:9 "La promesse de paix, de terre et de pain d'El Generalissimo a gagné le coeur de beaucoup de gens. C'est juste qu'ils ne peuvent avoir aucune de ces choses en ce moment."
+
+ gdh_man_of_the_people:9 "Je Tuerais Pour une Invitation"
+ gdh_man_of_the_people_desc:9 "Bien que certains aient décrit la villa comme un "tribunal mortellement décadent", ce n'est qu'une calomnie. La plupart des gens de [GDH.GetName] tueraient pour une invitation, et nos citoyens se battent encore plus pour avoir une chance d'assister à une fête. Avez-vous essayé le toboggan aquatique ?"
+
+ gdh_smile_like_you_mean_it:9 "La Quinceañera"
+ gdh_smile_like_you_mean_it_desc:9 "Il est temps de célébrer la villa avec une Quinceañera pour sa chère hija. Tout le monde sera invité !"
+
+ gdh_technological_tyrant:9 "Tyran Technologique"
+ gdh_technological_tyrant_desc:9 "Il semble que Los Norteamericanos avaient quelques idées sur la façon de gouverner leurs compatriotes. Nous pouvons évidemment faire de même..."
+ gdh_technological_tyrant_tt:9 "Débloque les décisions d'utiliser la technologie d'avant-guerre pour mieux régner sur les Terres Désolées."
+
+ gdh_robots_dont_need_paychecks:9 "Les Robots n'ont pas Besoin de Salaires"
+ gdh_robots_dont_need_paychecks_desc:9 "Nous pourrions économiser une grande partie de notre budget si nous remplacions nos soldats conscrits par des robots !"
+
+ gdh_intellectual_pursuits:9 "Poursuites Intellectuelles"
+ gdh_intellectual_pursuits_desc:9 "Il y a beaucoup de choses intéressantes à lire au bord de la piscine dans ces vieux livres."
+
+ gdh_hidden_levels:9 "L'Abri Caché"
+ gdh_hidden_levels_desc:9 "Il semble qu'il y avait d'autres armes dans le bunker de l'Abri. Ces reliques de l'oppression américaine seront conservées en fiducie pour le peuple de Gente, à moins qu'il n'y ait quelqu'un que nous n'aimons pas."
+ gdh_hidden_levels_tt:9 "[GDH.GetLeader] gagne §RDix mini-nukes§!!"
+
+ gdh_militant_master:9 "Le Maître Militant"
+ gdh_militant_master_desc:9 "El Generalissimo a l'impression d'avoir un second souffle maintenant que la villa est terminée. Peut-être ne s'agit-il pas seulement d'une villa. Peut-être s'agit-il d'un §RHaut commandement militaire§!"
+ gdh_militant_master_tt:9 "Débloque de nouveaux hobbies dans la villa."
+
+ gdh_gunboat_diplomacy:9 "Diplomatie des Armes et des Bateaux"
+ gdh_gunboat_diplomacy_desc:9 ""
+
+ gdh_true_general:9 "Un Vrai Général"
+ gdh_true_general_desc:9 "El Generalissimo n'est pas seulement un titre. Il reflète ses prouesses et son héroïsme. Et il inspire le reste de son armée !"
+
+ gdh_military_arms_complex:9 "Complexe Militaire d'Armes"
+ gdh_military_arms_complex_desc:9 ""
+
+ gdh_eagle_economy:9 "L'Economie de l'Aigle"
+ gdh_eagle_economy_desc:9 "[RRG.GetName] est considéré comme l'un des succès des Terres Dévastées, le joyau du Mexique, et une économie émergente et en pleine croissance. Le présent d'un leadership vigoureux et d'une classe moyenne montante signifie qu'il est prêt pour des guerres étrangères sanglantes, ce qui signifie un marché prêt pour nous. D'autant plus que la Texas Arms Association sont de tels connards."
+ gdh_eagle_economy_tt:9 "\n§YDante Guerra§! sera disposé à travailler avec vous, mais §YPresidente Mora§! ne le fera probablement pas... \n\nMais si §Y[RRG.GetLeader]§! accepte, ils auront accès à votre marché."
+
+ gdh_army_contracts:9 "Contrats de l'Armée"
+ gdh_army_contracts_desc:9 "[RRG.GetLeader] pourrait utiliser d'autres armes étant donné les problèmes avec la [TTA.GetNameWithFlag].  Bonne nouvelle pour nous ! Mauvaise nouvelle pour [CES.GetNameWithFlag]."
+
+ gdh_mexicali:9 "Port de Commerce de Mexicali"
+ gdh_mexicali_desc:9 "Mexicali est notre fenêtre sur le Pacifique ; et nous pouvons l'utiliser pour promouvoir les liens avec [RRG.GetNameWithFlag] également."
+
+ gdh_ncr_trade:9 "Le Marché Californien"
+ gdh_ncr_trade_desc:9 "[RNC.GetNameWithFlag] pourrait aussi utiliser des armes. Bien qu'ils soient un peu éloignés, nous pouvons peut-être leur envoyer un message."
+ gdh_ncr_trade_tt:9 "§YNous offrirons à la RNC la possibilité d'acheter des armes à des prix raisonnables!§!"
+
+ gdh_baja_arms:9 "Armes de Baja"
+ gdh_baja_arms_desc:9 ""
+
+ gdh_baja_purchase:9 "L'achat de Baja"
+ gdh_baja_purchase_desc:9 ""
+
+ gdh_ranger_mission:9 "Les Brutes de Rio"
+ gdh_ranger_mission_desc:9 "L'armée de la République du Rio Grande a une chose ou deux à nous apprendre. Pourquoi ne pas apprendre de nos nouveaux clients ?"
+
+ gdh_liberalisation:9 "\"Libéralisation"\"
+ gdh_liberalisation_desc:9 "Inspiré par l'exemple de [RRG.GetNamewithFlag], [GDH.GEtLeader] a décidé d'organiser une élection. Comme il est approprié que tous les partis l'aient nommé !"
+
+ gdh_rio_treaty:9 "Route de Gloria"
+ gdh_rio_treaty_desc:9 "[GDH.GetName] ne peut plus faire cavalier seul. Il est peut-être temps de travailler avec Rio et d'envisager des alternatives pour promouvoir l'unité économique au sein du Mexique."
+
+ gdh_bull_market:9 "Marché du Taureau"
+ gdh_bull_market_desc:9 "Le plus grand marché pour les armes à feu est sans aucun doute [CES.GetNameWithFlag].  Je suis sûr que nous pouvons parvenir à un accord mutuel, amigo. Je veux dire amicus."
+ gdh_bull_market_tt:9 "Si la Légion accepte, ils auront accès à votre magasin !"
+
+ gdh_hachita_trade:9 "Route Commerciale de Hachita"
+ gdh_hachita_trade_desc:9 "Hachita serait un excellent tremplin pour notre commerce de Toscane. La capacité de la Légion à imposer l'ordre, ainsi que notre approvisionnement en armes, est un avantage pour nous deux !"
+
+ gdh_legion_tribute:9 "Tributs des Légionnaires"
+ gdh_legion_tribute_desc:9 "La Légion pourrait appeler cela un tribut, mais nous ne pouvons pas nous empêcher de remarquer qu'en échange de notre équipement militaire, ils nous couvrent de "charité" sous la forme de deniers d'argent."
+
+ gdh_accept_frumentarii:9 "Accepter les Frumentarii"
+ gdh_accept_frumentarii_desc:9 ""
+
+ gdh_render_to_caeser:9 "Rendre à César"
+ gdh_render_to_caeser_desc:9 ""
+
+ gdh_roman_pact:9 "Les Socii de la Légion"
+ gdh_roman_pact_desc:9 "Nous proposerons un traité de paix éternelle à [CES.GetNamewithFlag]. Et cela favorisera le développement économique de notre capitale."
+
+ gdh_ultima_purchase:9 "L'Achat d'Ultimo"
+ gdh_ultima_purchase_desc:9 ""
+
+ gdh_nogales_badlands:9 "Les Badlands de Nogales"
+ gdh_nogales_badlands_desc:9 ""
+
+ gdh_rio_trade:9 "Commerce de Rio"
+ gdh_rio_trade_desc:9 ""
+
+ gdh_ncr_renegotiation:9 "Renégociations"
+ gdh_ncr_renegotiation_desc:9 "Il semble que la RNC pourrait avoir besoin d'un peu d'aide maintenant qu'elle est en guerre. La guerre ne change jamais, mais nos prix, si !"
+
+ gdh_principle:9 "Principe"
+ gdh_principle_desc:9 "Un pays gouverné par la Légion ne sera pas un endroit pour ma fille, et leurs opinions sur la tequila ? Vive le Mexique !"
+
+ gdh_profit:9 "Profit"
+ gdh_profit_desc:9 "Alors que nous nous préparons à rejoindre la marche sur Gloria, j'espère que [RRG.GetLeader] se souvient que ce n'est pas personnel.  Juste des affaires."
+

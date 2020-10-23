@@ -39,9 +39,9 @@
  heavy_infantry_tech_1:0 "Troupes d'exécution"
  heavy_infantry_tech_1_desc:0 ""
  heavy_infantry_tech_2:0 "Placage supplémentaire"
- heavy_infantry_tech_2_desc:0 "Avec l'arrivée d'armes plus lourdes entre les mains des insurgés, nous devons veiller à équiper correctement toute troupe d'exécution que nous déployons dans les points chauds. Un renforcement supplémentaire de la partie frontale du casque, ainsi que de la poitrine, devrait améliorer considérablement leur protection contre la plupart des tirs d'armes légères. De plus, une meilleure mobilité des articulations et un blindage complet des membres seront fournis. Bien que cela les ralentira encore plus, très peu de personnes refuseraient la possibilité de résister à une cartouche de fusil sur le crâne."
+ heavy_infantry_tech_2_desc:9 "With the advent of heavier weaponry in the hands of insurgent, we must take care to properly outfit enforcer troop we deploy in hotspots. Reinforcement on the frontal section of the helmet, as well as the chestpiece, should improve their protection against most small arms fire. In addition, better joint mobility and limb armor will be provided. While it will slow them down further, few people would turn down the opportunity to resist a rifle cartridge to the skull."
  heavy_infantry_tech_3:0 "Entraînement CqC"
- heavy_infantry_tech_3_desc:0 "Des équipements encombrants et des armes de suppression lourdes signifient que certaines tactiques sont impossibles à appliquer pour nos troupes d'exécutions. Le développement d'une doctrine opérationnelle spécialisée augmentera considérablement leur efficacité sur de multiples terrains, tout en leur permettant de mieux faire leur travail. Cette doctrine consiste à utiliser leur blindage en remplacement de la mobilité tactique, en laissant les coups ennemis rebondir sans danger sur l'épais rembourrage tout en exploitant l'ouverture donnée par l'adversaire lorsqu'il recule en titubant."
+ heavy_infantry_tech_3_desc:9 "Bulky equipment and heavy-hitting weapons means that certain tactics are impossible to apply for our enforcers. The development of a specialized operational doctrine will vastly increase their effectiveness in multiple terrain. This new doctrine consist of using their armor as a replacement for tactical mobility, letting enemy blows harmlessly rebound off of the thick padding while exploiting the opening given by the adversary as it staggers back."
 
  #----------------------------
  # Ranged Weaponry
@@ -110,6 +110,9 @@
  power_armour_raider:0 "Armure Assistée de Pillard"
  power_armour_raider_desc:0 ""
 
+ texas_brotherhood_pa_tech:9 "Vault-Tec Power Armour"
+ texas_brotherhood_pa_tech_desc:9 "A vault-tec attempt at creating functional power armour."
+
  spec_ops_equipment_tech_1:0 "Forces spéciales 1"
  spec_ops_equipment_tech_1_desc:0 ""
  spec_ops_equipment_tech_2:0 "Forces spéciales 2"
@@ -160,6 +163,19 @@
  molerat_upgrade_tech_2_desc:0 "Il est toujours difficile de fournir aux sapeurs de combat des armes à double usage, mais nos ingénieurs ont réussi à fabriquer une nouvelle grenade, composée d'un élément central de dynamitage puissant avec un revêtement en cuivre, et entourée d'une charge de fragmentation avec des roulements à billes intégrés. Cela la rend non seulement utile à des fins de démolition, mais aussi efficace comme arme offensive contre les armures et le personnel."
  molerat_upgrade_tech_3:0 "Fusil de combat léger"
  molerat_upgrade_tech_3_desc:0 "Les mutants peuvent résister à un recul plus important que les humains normaux, c'est pourquoi nous avons décidé de prendre certains de nos prototypes de fusils de combat et de les réaménager pour obtenir une cartouche raccourcie de 15 mm, ainsi que de supprimer tout poids inutile et de raccourcir leurs canons pour les rendre semblables à des carabines. Avec une telle puissance de feu de leur côté, qui peut être utilisée pour n'importe quelle opération de creusement, nos troupes ne manqueront pas de rien."
+
+	#--------
+	# Skates
+	#--------
+ 	skate_infantry:9 "Skate Infantry"
+ 	skater_tech:9 "Roller Skates"
+ 	rocket_skater_tech:9 "Rocket Skates"
+ 	skate_equipment:9 "Skate Equipment"
+ 	skate_equipment_desc:9 "While not considered a traditional means of moving troops around the battlefield, it's difficult to argue with the sheer terror caused by nimble troopers plowing into enemy lines at high speed. Reduced precision and accuracy is an unfortunate downside, however."
+ 	skate_equipment_1:9 "Roller Skates"
+ 	skate_equipment_1_desc:9 "While not considered a traditional means of moving troops around the battlefield, it's difficult to argue with the sheer terror caused by nimble troopers plowing into enemy lines at high speed. Reduced precision and accuracy is an unfortunate downside, however."
+ 	skate_equipment_2:9 "Rocket Skates"
+ 	skate_equipment_2_desc:9 "While conventional skates can significantly improve the speed of a typical soldier, rocket skates allow them to translate even more momentum directly into brutal frontal charges. Unsurprisingly, however, they are significantly more difficult to manufacture and maintain - and make tasks requiring precision aim or stationary defense much harder."
 
  #----------------------------
  # Nation Specific Localisation

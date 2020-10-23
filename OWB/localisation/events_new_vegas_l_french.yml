@@ -277,4 +277,28 @@
  nf_vegas.62.t:0 "La capture du faux Khan"
  nf_vegas.62.d:0 "Suite à notre occupation de New Vegas, nous avons rapidement éliminé le prétendant Khan hébergé par le régime de New Vegas. Nous veillerons à ce qu'ils soient rapidement ... réintégrés ... dans les Khans."
  nf_vegas.62.a:0 "Notre autorité est indiscutable"
+
+ nf_vegas.63.t:9 "Des bagarres dans les égouts ?"
+ nf_vegas.63.t_desc:9 "Récemment, House a appris qu'il existe un ring de combat illégal situé près du Strip, connu sous le nom de \"The Thorn\". Alors que normalement cela ne serait pas à noter, ces derniers temps, \"The Thorn\" a détourné une bonne partie du tourisme du Strip. Nous devrons faire quelque chose à ce sujet si nous voulons maintenir notre marge bénéficiaire à un niveau élevé."
+ nf_vegas.63.a:9 "Mettons-les à l'écart, ils sont une menace pour nous."
+ nf_vegas.63.b:9 "Apportez ce divertissement à l'intérieur du strip."
+ 
+ benny_try_to_join_legion_tt:9 "§RC'est une très mauvaise idée.§!"
+ nf_vegas.64.t:9 "Une offre pathétique de Vegas."
+ nf_vegas.64.d:9 "Benny, le nouveau dirigeant de Vegas après qu'il ait tué House de manière détournée, est récemment venu nous voir avec une offre de soumission. Quelqu'un de si faible, pathétique et vil ne pourrait jamais servir dans la Légion - ainsi, nous avons le choix.\nComment voulons-nous refuser son offre ?"
+ nf_vegas.64.a:9 "Asservir le messager qu'il a envoyé."
+ nf_vegas.64.b:9 "Répandez la panique sur le Strip en disant que Benny a essayé cela."
+ 
+ nf_vegas.65.t:9 "Notre messager a été asservi !"
+ nf_vegas.65.d:9 "Le messager que nous avons envoyé à la Légion a été asservi ! C'est un message assez clair pour montrer qu'ils ne souhaitent pas que nous travaillions ensemble."
+ nf_vegas.65.a:9 "Oh non !"
+  
+ nf_vegas.66.t:9 "Ils ont refusé ! Panique dans les rues !"
+ nf_vegas.66.d:9 "Il semble que la Légion n'ait pas seulement refusé, mais que d'une manière ou d'une autre, on a appris que nous avions essayé de nous allier avec les \"Esclavagistes\" ! La panique règne dans les rues de Vegas !"
+ nf_vegas.66.a:9 "Oh non !"
+
+ nf_vegas.67.t:9 "Ouvrir le Strip ?"
+ nf_vegas.67.t_desc:9 "Pendant trop longtemps, House a maintenu le Strip séparé du reste de Vegas - si longtemps en fait que les différences culturelles entre le Strip et le Freeside sont une grande source d'inquiétude quand il s'agit d'une ouverture théorique des portes. Comment devrions-nous procéder ?"
+ nf_vegas.67.a:9 "Faisons cela sur quelques années."
+ nf_vegas.67.b:9 "Nous devons le faire maintenant ! Ouvrez les portes !"
  #placeholder localisation ends

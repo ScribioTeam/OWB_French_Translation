@@ -1,13 +1,26 @@
 ﻿l_english:
  #	Categories
-  category_tanks:0 "Tanks"
-  category_behemoth:0 "Super Mutant Behemoth"
-  category_super_mutants:0 "Super Mutant"
-  category_vehicles:0 "Vehicles"
-  category_motorized:0 "Motorized"
-  category_power_armor:0 "Power Armour"
-  category_melee:0 "Melee"
+
+  category_army:0 "Army"
+  category_front_line:0 "Frontline Platoons"
+  category_demolitions:0 "Demolitions"
+  category_fireteams:0 "Fireteams"
   category_robots:0 "Robots"
+  category_super_mutants:0 "Super Mutants"
+  category_mutants:0 "Mutants"
+  category_special_forces:0 "Special Forces"
+  category_light_special_forces:0 "Light Special Forces"
+  category_power_armour:0 "Heavy Special Forces"
+  category_infantry:0 "Infantry"
+  category_militia:0 "Locals"
+  category_leg_infantry:0 "Walking Infantry"
+  category_weapon_infantry:0 "Weapon Infantry"
+  category_vehicles:0 "Vehicles"
+  category_support:0 "Support Units"
+  category_combat_support:0 "Fighting Support Units"
+  category_non_combat_support:0 "Non Combat Support Units"
+
+
   category_air_unit:0 "All Aircraft"
   category_fighter:0 "Fighter"
   category_light_air:0 "Light Aircraft"
@@ -17,15 +30,11 @@
   category_bomber:0 "Bombers"
   category_strat_bomber:0 "Strategic Bombers"
   category_blimp:0 "Airships"
-  category_demolitions:0 "Demolitions"
-  category_fireteam:0 "Fireteams"
-  category_special_forces:0 "Specialists"
-  category_special_units:0 "Special units"
-  category_support_robots:0 "Support Robots"
-  category_combat_robots:0 "Combat Robots"
   category_screen_ship:0 "Screen Ships"
   category_capital_ship:0 "Capital Ships"
   category_carrier_ship:0 "Carrier Ships"
+
+  category_all_infantry:0 "All Infantry & Motorized"
 
  # Groups (Division designer categories)
   group_robot_group_title:0 "Robot Platoons"
@@ -54,6 +63,10 @@
   militia_short:0 "Militia"
   militia_desc:0 ""
 
+  police_infantry:0 "Lawkeeper Platoon"
+  police_infantry_short:0 "Lawkeepers"
+  police_infantry_desc:0 ""
+
   fireteam_infantry:0 "Fireteam Platoon"
   fireteam_infantry_short:0 "Fireteam"
   fireteam_infantry_desc:0 ""
@@ -69,6 +82,10 @@
   super_mutant_nightkin_infantry:0 "Nightkin Infantry"
   super_mutant_nightkin_infantry_short:0 "Nightkin"
   super_mutant_nightkin_infantry_desc:0 "The nightkin were an elite warrior caste in the Master's super mutant army and the apex of his creation of super mutants."
+
+  behemoth: "Behemoth"
+  behemoth_short: "Behemoth"
+  behemoth_desc: ""
 
   power_armour: "Power Armour Platoon"
   power_armour_short: "Power Armour"
@@ -102,6 +119,11 @@
   mirelurk_infantry_short:0 "Lurkers"
   mirelurk_infantry_desc:0 "Tamed Mirelurks, ready to fight and die for their queen."
 
+  cybernetic_support: "Cybernetic Implants"
+  cybernetic_support_desc: "With the right kind of technology we can surpass human limits! Our soldiers will be harder, better, faster and stronger then our simple organic foes!"
+
+  plant_support: "Monstrous Plants"
+  plant_support_desc: "Home grown bio-warriors will give our troops a huge advantage, assuming that we can fight in lands fertile enough to plant them."
 
  # Motorized/Mechanized
 
@@ -143,9 +165,15 @@
   combat_robot_short: "Combat Robots"
   combat_robot_desc: "Heavily armoured and armed robots put into service as a combat unit."
 
-  behemoth: "Behemoth"
-  behemoth_short: "Behemoth"
-  behemoth_desc: ""
+  security_robot: "Security Robot Platoon"
+  security_robot_short: "Security Robots"
+  security_robot_desc: "Intermediate robots perfectly suited to pacify unruly populations."
+
+  super_heavy_robot: "Super-Heavy Robot Platoon"
+  super_heavy_robot_short: "Super-Heavy Robots"
+  super_heavy_robot_desc: "Robots that defy any convention of reasoning or logic, made for one purpose only, destruction."
+
+
 
  # Support
 
@@ -193,6 +221,14 @@
   medical_chem_company_short: "Chems"
   medical_chem_company_desc: "Good men are difficult to come by, especially after the world ended. Adding specialists to our units, carrying medical equipment and practising basic medical skills can at least reduce some of the losses sustained on the battlefield."
 
+  spec_ops_cavalry: "Horsemen"
+  spec_ops_cavalry_short: "Riders"
+  spec_ops_cavalry_desc: "Who knew horses were still a thing in this wasteland?"
+
+  chariot_unit:0 "Legion Chariots"
+  chariot_unit_short:0 "Chariots"
+  chariot_unit_desc:0 "Legion goes BRRRRRRRRRR"
+
   # Support
   light_ship_unit:0 "Light Ship"
   light_ship_unit_short:0 "LS"
@@ -209,6 +245,15 @@
   super_heavy_ship_unit:0 "Superheavy Ship"
   super_heavy_ship_unit_short:0 "SHS"
   super_heavy_ship_unit_desc:0 ""
+
+  # Sentinels
+  sentinel_unit:0 "Sentinel Automated Power Armour Unit"
+  sentinel_unit_short:0 "Sentinels"
+  sentinel_unit_desc:0 "Humans need not apply."
+
+  cybernetic_warform:0 "Cybernetic Warform"
+  cybernetic_warform_short:0 "Warform"
+  cybernetic_warform_desc:0 "What have we done?"
 
   # Modifiers
   modifier_army_sub_unit_power_armour_attack_factor:0 "Power Armour Attack"

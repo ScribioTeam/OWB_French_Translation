@@ -1,0 +1,49 @@
+﻿l_french:
+ SLAVE_MAIN:9 "[?slave_number_display|2] k"
+ SLAVE_TOOLTIP:9 "You Have [?slave_number_display|2] k slaves \n"
+ SLAVE_TOOLTIP_delayed:9 "Put slaves to use through the slaver decisions!"
+
+  ###Effect tooltips
+ slaver_decision_slaves_tt:9 "Adds [?temp_state_k_pop|=+]k Slaves"
+ slave_decision_trigger_tt:9 "Have [?slave_temp_trigger|2]k slaves"
+ slaver_decisions_slave_spend_tt:9 "\nDeploy [?slave_temp_cost] k slaves to [temp_slave_scope.GetName]\n60% of slaves will return"
+ slaver_decision_unlocks_tt:9 "Unlocks level [?temp_level_selector|0+] slavery decisions.\nBrutality: [?temp_brutality|0-%]"
+ slaver_gain_slave_tt:9 "Gain [?slaves_to_add|2+] k slaves\n"
+ slaver_remove_slave_tt:9 "Remove [?slaves_to_add|2-] k slaves\n"
+
+  ###Trigger
+ slave_law_trigger_tt:9 "Current Slave Law Accepted"
+
+  ###Decision Meta Effects
+ slave_decision_level:9 "\nSlave Decision Level: [?temp_decision_level|0+]"
+ slave_decision_brutality_tt:9 "[?slave_brutality|%-] return due to Brutality"
+
+
+  ###Decision Names
+ slaver_enslave_population:9 "Enslave Conquered Outsiders"
+ slaver_enslave_population_tt:9 "Your Slave Level must be greater than 2."
+ slaves_normal_category:9 "Where There's a Whip, There's a Way"
+ slaves_normal_category_desc:9 "Gotta be careful, using a slave as a bodyguard. Most aren't exactly motivated to keep you alive, you know what I mean? Your current slavery level is: [?modifier@slavery_use_modifier]"
+ slaver_add_bunker:9 "Construct Bunkers"
+ slaver_add_bunker_tt:9 "Your Slave Level must be at least 1."
+ slaver_buy_servant_decision:9 "Buy servants"
+ slaver_workshop_slaves:9 "Send Slaves to the Workshops"
+ slave_trade_mission_tt:9 "If they accept our offer, we will gain 300 slaves."
+ slaver_add_infrastructure:9 "Use Slaves to Build Roads"
+ slaver_add_infrastructure_tt:9 "Your Slave Level must be greater than 0."
+ slaver_slave_raid:9 "Launch a Slave Raid"
+ slaver_build_factory:9 "Use the slaves to build a factory"
+ slaver_build_factory_tt:9 "Your Slave Level must be greater than 2"
+ slaver_buy_servant_decision_desc:9 "I'd watch that kind of talk if I were you. It is NOT slavery. We take care of these refugees, and they have a good life... better than they would get in the wastes."
+ slaver_slave_open_market:9 "Go to the Slave Market"
+ slaver_slave_close_market:9 "Leave the Slave Market"
+ CES_slave_decision:9 "Enslave More Subjects"
+ CES_slaver_build_factory:9 "Slaves to the Cause"
+ CES_promote_latifundia:9 "Promote Latifundia"
+ latifundia:9 "Latifundia Established"
+
+
+
+  ###Dynamic Modifiers
+ slaves_state_build_speed:9 "Slave Labour"
+ slavery_use_modifier:9 "Slave Exploitation Level"

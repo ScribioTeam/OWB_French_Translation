@@ -29,8 +29,8 @@
  veg_broken:0 "Acier cassé"
  veg_broken_desc:0 "Le Chapitre du Mojave de la Confrérie de l'Acier a été une douleur dans mon dos depuis que je connais leur existence. Voler des pièces technologiques importantes, éliminer mes créations et voler les gens de New Vegas. Je vais les éteindre."
 
- veg_reborn:0 "La Vallée cachée renaît"
- veg_reborn_desc:0 "Les stocks de la Confrérie Mojave sont impressionnants! De vastes quantités de munitions, de technologies de pointe et d’autres choses de ce type se trouvent juste sous le sol. Les dégager est un petit investissement, mais sûrement digne."
+ veg_reborn:9 "Renaissance d'HELIOS"
+ veg_reborn_desc:0 "Les stocks de la Confrérie du Mojave sont impressionnants! De vastes quantités de munitions, de technologies de pointe et d’autres choses de ce type se trouvent juste sous le sol. Les dégager est un petit investissement, mais sûrement digne."
 
  veg_securenorth:0 "Sécuriser le Nord"
  veg_securenorth_desc:0 "Les Grands Khans sont en gros des échecs, ayant été retirés de leur pays d'origine à de nombreuses reprises. En effet, ils perdent une guerre contre leur propre extinction, et je pense qu’il est temps de les presser un peu."
@@ -132,7 +132,7 @@
  veg_warforvegas_desc:0 "Attendre plus longtemps met les gens de New Vegas en danger! Nous devons nous lever maintenant et jeter House de sa tour. Ce ne sera pas une bataille facile, mais c'est une bataille que nous pouvons et devons gagner pour notre avenir!"
 
  veg_mojave:0 "Alliance Mojave"
- veg_mojave_desc:0 "La Confrérie de l’Acier, au sud, a été un fardeau pour la population de New Vegas plus longtemps que quiconque ne peut s'en souvenir, mais elle est aussi la force militaire la plus puissante localisée dans les Mojaves. Une alliance pourrait s'avérer bénéfique."
+ veg_mojave_desc:9 "Nous sommes une nation de Rois, un rempart contre les tyrans et les monstres. Nous nous opposerons à tout homme qui pense pouvoir posséder le monde !"
 
  veg_dambusters:0 "Inviter les Dam Busters"
  veg_dambusters_desc:0 "Les Dam Busters sont un petit groupe de technophiles avancés vivant dans l'abri du barrage Hoover. Leur emplacement stratégique les met en danger, mais encore une fois ? Une alliance avec eux pourrait nous placer dans une position de grand pouvoir politique."
@@ -342,7 +342,7 @@
  veg_sewage_desc:0 "Les eaux usées sont l’une des denrées perdues du vieux monde que seuls quelques endroits peuvent vraiment comprendre ou apprécier, mais bientôt tout le monde à New Vegas connaîtra la joie que de telles installations peuvent apporter."
 
  veg_fourthfam:0 "La quatrième famille"
- veg_fourthfam_desc:0 "La Confrérie Mojave n'a jamais été en bons termes avec les gens de New Vegas, mais une alliance est une alliance, et on ne peut nier que le travail du Roi avec eux a apporté de nombreuses révélations à la population de Vegas."
+ veg_fourthfam_desc:0 "La Confrérie du Mojave n'a jamais été en bons termes avec les gens de New Vegas, mais une alliance est une alliance, et on ne peut nier que le travail du Roi avec eux a apporté de nombreuses révélations à la population de Vegas."
 
  veg_elijah:0 "Restauration du Lucky 38"
  veg_elijah_desc:0 "Le Lucky 38 a subi beaucoup de dégâts pendant la guerre, imposant à la plupart de ses systèmes la limite de leurs efforts pour protéger Las Vegas de l’oubli nucléaire. À ce jour, de nombreux systèmes d'éclairage et d'alimentation n'ont pas fonctionné correctement, mais les nouveaux efforts d'Elijah les ont ramenés en ligne."
@@ -354,10 +354,10 @@
  veg_bossecurity_desc:0 "Au fil des décennies, la section Mojave de la Confrérie de l’Acier a volé des dizaines et des dizaines de Securitrons trouvés dans les Terres Désolées, les déconstruisant et les réparant pour un usage personnel. En signe de bonne foi ? Un autre échange de tels robots doit avoir lieu."
 
  veg_hopeville:0 "Récupérer l'Ancien"
- veg_hopeville_desc:0 "M. House est conscient de l'existence d'un vaste réseau militaire situé entre le canton de Hopeville et que, de manière générale, la région a été utilisée et occupée par des forces diverses au cours des dernières décennies. Le réclamer pour lui-même renforcera son contrôle sur les entrées de New Vegas."
+ veg_hopeville_desc:9 "M. House est conscient de l'existence d'un vaste réseau militaire situé entre le canton de Mountain Springs, et que la région a généralement été utilisée et occupée par des forces diverses au cours des dernières décennies. Le fait de le revendiquer pour lui-même renforcera son contrôle sur les entrées de New Vegas."
 
  veg_ashton:0 "Frappez le nouveau"
- veg_ashton_desc:0 "Ashton défie M. House, ses habitants hébergent des réfugiés de la récente conquête de hopeville et la majorité d'entre eux résistent aux pourparlers de paix proposés. Une autre leçon de force sera nécessaire pour ouvrir cette route commerciale une fois pour toutes."
+ veg_ashton_desc:9 "Mountain Springs défie M. House, ses habitants hébergent des réfugiés de la récente conquête de Mountain Springs, et la majorité d'entre eux résistent à l'offre de pourparlers de paix. Une autre leçon de force sera nécessaire pour ouvrir cette route commerciale une fois pour toutes."
 
  veg_newvegastreaty:0 "Traité de New Vegas"
  veg_newvegastreaty_desc:0 "La Nouvelle-Californie continue à étendre ses frontières rapidement et New Vegas semble être la prochaine cible. Pour empêcher l’extinction de la lumière la plus brillante de la civilisation, je leur offrirai un accord qu’ils ne peuvent pas refuser: l’aéroport de McCarran leur appartient, tout comme une coupure de courant du barrage, et New Vegas est laissé seul."
@@ -367,3 +367,26 @@
 
  veg_ncrstatehood:0 "État de la RNC"
  veg_ncrstatehood_desc:0 "L'état au sein de la RNC peut sembler peu attrayant, mais la nature corrompue de son fonctionnement interne laisse beaucoup de place à l'autonomie. J'ai passé ma vie sous le pouce des autocars et des imbéciles, je peux le faire encore si cela mène à mon succès."
+
+ veg_janes_comfort:9 "Confort de Jane"
+ veg_janes_comfort_desc:9 "Parfois, un homme a juste besoin d'un peu de §pconfort§! dans sa vie."
+
+ veg_secure_the_southern_mojave:9 "Sécuriser le Mojave du Sud"
+ veg_secure_the_southern_mojave_desc:9 "Notre traité avec la RNC a finalement fait son temps. Il est temps que nous leur montrions à quoi ils ont affaire."
+
+ veg_control_of_the_dam:9 "Contrôle du barrage"
+ veg_control_of_the_dam_desc:9 "En contrôlant le Barrage, je contrôle le lac Mead.\nEn contrôlant le lac Mead, je contrôle le Mojave.\nEn contrôlant le Mojave, je contrôle mon destin."
+
+ veg_outer_strip_politics:9 "Politique du Strip"
+ veg_outer_strip_politics_desc:9 "Malheureusement, je ne peux pas concentrer toute mon attention sur le Strip. Il y a des nuisances occasionnelles en dehors de mon domaine que je dois parfois gérer."
+
+ veg_rallying_support_against_the_strip:9 "Rassembler les soutiens contre le Strip"
+ veg_rallying_support_against_the_strip_desc:9 "Pendant trop longtemps, le Freeside a été sous la coupe du Strip. Nous devons trouver des alliés si nous voulons faire tomber un roi et en ériger un autre."
+
+ veg_the_needy_over_the_rich:9 "Les nécessiteux plutôt que les riches"
+ veg_the_needy_over_the_rich_desc:9 "Nous devons veiller à ce que les plus faibles et les plus pathétiques d'entre nous soient pris en charge, plutôt que les plus aisés."
+
+ veg_inspire_the_hopeless:9 "Inspirez les désespérés !"
+ veg_inspire_the_hopeless_desc:9 "\"Si nous pouvons battre un tyran, pourquoi pas vous ?\""
+ veg_freeside_for_freeside:9 "Freeside pour Freeside"
+ veg_freeside_for_freeside_desc:9 "Nous aurions pu nous débarrasser d'un tyran - mais si nous ne nous occupons pas du dernier, alors quels sont les rois que nous sommes ? Nous devons tenir tête à la RNC - leur montrer qu'ils ne peuvent pas nous marcher dessus !"

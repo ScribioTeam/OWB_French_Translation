@@ -1,0 +1,17 @@
+﻿l_english:
+
+  # Lock for cute Hoover Dam gui
+  dam_turbine_active_image: "GFX_dam_turbine_active"
+  dam_turbine_repair_image: "GFX_dam_turbine_repair"
+  dam_turbine_broken_image: "GFX_dam_turbine_broken"
+  hoover_dam_category_target: "Hoover Dam Power Plant"
+  dam_decision_category: "Powering the Hoover Dam"
+  activate_next_turbine: "Power on Next Turbine"
+  turbine_operation_tt: "[GetDamOperationText]"
+  current_dam_energy: "[GetDamCurrentEnergy]"
+  dam_current_energy_tt: "[?temp_dam_energy|=0]"
+  dam_active_tt: "ACTIVE"
+  dam_disabled_tt: "DISABLED"
+  dam_repairing_tt: "REPAIRING"
+
+spellcheck_ignore: "all"

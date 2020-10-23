@@ -54,6 +54,10 @@
   apc_equipment_short:0 "APC"
   apc_equipment_desc:0 ""
 
+  chariot_equipment:0 "Motor Chariots"
+  chariot_equipment_short:0 "Chariots"
+  chariot_equipment_desc:0 ""
+
   behemoth_equipment:0 "Behemoth"
   behemoth_equipment_short:0 "Behemoth"
   behemoth_equipment_desc:0 ""
@@ -78,61 +82,69 @@
   cargo_plane_equipment_short:0 "Cargo Plane"
   cargo_plane_equipment_desc:0 ""
 
+  air_chaff_equipment:0 "Aerial Obstacles"
+  air_chaff_equipment_short:0 "Air blockers"
+  air_chaff_equipment_desc:0 ""
+
+  air_payload_equipment:0 "Payload Gliders"
+  air_payload_equipment_short:0 "Bomb Gliders"
+  air_payload_equipment_desc:0 ""
+
  # Ballistic Equipment
   ballistic_equipment_1:0 "Basic Weaponry"
   ballistic_equipment_1_short:0 "Basic Weaponry"
-  ballistic_equipment_1_desc:0 "Rearming our troops is capital to improving the effectiveness of our assaults. To this end, we developped a new infantry kit composed of a 5.56mm bolt action rifle, suited for medium-range engagements, tin-can grenades for hard firepower, scrap metal helmets, and a shiv as well as a .22LR pipe pistol in case of emergency."
+  ballistic_equipment_1_desc:0 "Rearming our troops with better infantry equipment is capital to our military efforts. To this end, a new infantry kit composed of a 5.56mm bolt action rifle, suited for medium-range engagements, is supplemented by tin-can grenades for explosive firepower. Scrap metal helmets provides protection, while a shiv as well as a .22LR pipe pistol help in case of emergency."
 
   ballistic_equipment_2:0 "Common Weaponry"
   ballistic_equipment_2_short:0 "Common Weaponry"
-  ballistic_equipment_2_desc:0 "Once upgraded with semi-automatic battle rifles, our troops can become a proper fighting force. Dynamite, combat helmets, flak jackets, daggers and emergency 9mm side arms all let our soldiers deal much better with a variety of combat situations."
+  ballistic_equipment_2_desc:0 "Now upgraded with semi-automatic, 7.62mm battle rifles, our troops can become a proper fighting force. With more stable dynamite sticks provided to clear building, combat helmets and flak jackets for protection, and a daggers as well as a 9mm side arms for personal defense, this let our soldiers deal with a wide variety of combat situations."
 
   ballistic_equipment_3:0 "Advanced Weaponry"
   ballistic_equipment_3_short:0 "Adv. Weaponry"
-  ballistic_equipment_3_desc:0 "Select-fire assault rifles increases the volume of fire our troops can put downrange, allowing suppression tactics and concentrated barrage on enemy positions. Offensive grenades along with burst-fire side arms let them clear buildings easier, while bulletproof vests and combat knives will protect them."
+  ballistic_equipment_3_desc:0 "New select-fire assault rifles increases the volume of projectiles our troops can put downrange, allowing suppression tactics and concentrated barrage on enemy positions. Offensive grenades along with burst-fire side arms let our troops clear buildings easier, while bulletproof vests and combat knives will protect them against common small arms."
 
   ballistic_equipment_4:0 "Elite Weaponry"
   ballistic_equipment_4_short:0 "Elite Weaponry"
-  ballistic_equipment_4_desc:0 "Custom-made ammunition coupled with precision parts in our new assault rifle allows our troops unprecedented level of firepower. Along with recoil compensators for our side arms, combat knives switched for modified rippers, high-yield grenades, and full bulletproof armour, this makes it the most advanced personal equipment in the wasteland."
+  ballistic_equipment_4_desc:0 "Custom-made ammunition coupled with precision parts in our new assault rifle model allows our troops unprecedented level of firepower. Along with recoil compensators for our side arms, combat knives switched for modified rippers, high-yield grenades, and full bulletproof armour, this makes it the most advanced personal equipment in the wasteland."
 
   # Heavy infantry armour
   heavy_infantry_equipment_1:0 "Crowd Control Gear"
   heavy_infantry_equipment_1_short:0 "Crowd Gear"
-  heavy_infantry_equipment_1_desc:0 "While not nearly as sophisticated as special forces equipment, or as advanced as power armour, these pieces of metal and padding one can strap to their body, still do aid in some situations. Especially useful in its intended role to suppress resistance. This equipment severely limits mobility."
+  heavy_infantry_equipment_1_desc:0 "While not nearly as sophisticated as special forces equipment, or as advanced as power armour, these pieces of metal and padding strapped to one's body do still help in some situations. Especially useful in its intended role to suppress resistance, it, however, severely limits mobility."
 
  # Energy Equipment
   energy_equipment_1:0 "Basic Laser Weaponry"
   energy_equipment_1_short:0 "Basic Laser Weaponry"
-  energy_equipment_1_desc:0 "Laser weaponry is an interesting alternative to ballistic firearms. With better capabilities against hard targets but higher cost, they can be very useful to our army. A basic kit composed of a hand-cranked energy musket, laser revolver pistol, microfusion waste grenades, brass knuckles, high-visibility welding helmets, and heat management equipment is our first foray into this new possibility."
+  energy_equipment_1_desc:0 "Laser weaponry is an increasingly viable alternative to ballistic firearms. With better capabilities against hard targets but higher cost, they can be very useful to our army. A basic kit composed of a hand-cranked energy musket and laser revolver pistol for soft targets, microfusion waste grenades to clear enemy positions, brass knuckles for melee combat and a welding helmets for protection will equip our troops."
 
   energy_equipment_2:0 "Common Energy Weaponry"
   energy_equipment_2_short:0 "Common Energy Weaponry"
-  energy_equipment_2_desc:0 "Gaining more insight into pre-war weaponry design, we can compose a new energy kit with better specs. Semi-automatic laser rifles, AEP7 side arms, improvised MFC grenades as well as basic metal armour let us deal with threats more easily at range, while a contact discharger is reserved for CQC."
+  energy_equipment_2_desc:0 "Gaining more insight into pre-war weaponry design, we can compose a new energy kit with better specifications. Semi-automatic laser rifles, AEP7 side arms, improvised MFC grenades as well as basic metal armour let us deal with threats more easily at range, while a contact discharger is reserved for CQC."
 
   energy_equipment_3:0 "Advanced Energy Weaponry"
   energy_equipment_3_short:0 "Adv. Energy Weaponry"
-  energy_equipment_3_desc:0 "Our research capabilities allows us to improve even the pre-war tech our kit is based off of. Overcharged, specially-manufactured MFC grenades increases our explosive power, fully-automatic laser rifles improves our soft attack, and composite alloy armour will reduce the number of casualties our troops suffer."
+  energy_equipment_3_desc:0 "Our research capabilities allows us to improve even the pre-war tech our kit is based off of. Overcharged, specially-manufactured MFC grenades increases our explosive capabilities, fully-automatic laser rifle variants improves our firepower, and composite alloy armour will considerably reduce the number of casualties our troops suffer."
 
   energy_equipment_4:0 "Pulse Energy Weaponry"
   energy_equipment_4_short:0 "Pulse Energy Weaponry"
-  energy_equipment_4_desc:0 "With improved efficiency over pre-war prototypes, coming from stacked microfusion breeder cell firing chambers, those pulse weapons give us a significant advantage over the military of any other nation. Plasma grenades and wired alloy armour, along with proton combat knives, makes it the most advanced infantry kit of the entire wasteland, if not America!"
+  energy_equipment_4_desc:0 "With improved efficiency over pre-war prototypes, coming from stacked microfusion breeder cell firing chambers, those pulse weapons give us a significant advantage over the military of any other nation. Complimented by plasma grenades and electrically-charged armour, along with proton combat knives, this makes it the most advanced infantry kit in the entirety of the wasteland."
 
  # Melee Equipment
   melee_equipment_1:0 "Basic Melee Weaponry"
   melee_equipment_1_short:0 "Basic Melee Weaponry"
-  melee_equipment_1_desc:0 "Simple blunt weaponry along with better physical training is a cheaper solution to firearm manufacturing, while also improving our capabilities to simply overwhelm enemy lines. Even though we cannot defend positions as effectively, and we lack the ability to damage hard targets, this will let us bash most tribal nations to a pulp."
+  melee_equipment_1_desc:0 "Simple blunt weaponry, along with better physical training, is a cheap alternative to firearm manufacturing, while also improving our capabilities to simply overwhelm enemy lines. Even though we cannot defend positions as effectively, and we lack the ability to damage hard targets, this will let us bash most tribes to a pulp."
 
   melee_equipment_2:0 "Slashing Melee Weaponry"
   melee_equipment_2_short:0 "Slashing Melee Weaponry"
-  melee_equipment_2_desc:0 "Replacing our crude blunt weapons by weighted machetes, as well as a scrap metal breastplates, let our troops close the distance to the enemy much easier along with overtaking enemy positions in close quarter combat. Improvement to physical drills are made again to let them move without even feeling the weight of their armour."
+  melee_equipment_2_desc:0 "Replacing our crude blunt weapons by weighted machetes, and manufacturing thick scrap metal breastplates, let our troops close the distance to the enemy much easier along with overtaking enemy positions in close quarter combat. Improvement to physical drills are also made again to let them move without even feeling the weight of their armour."
 
   melee_equipment_3:0 "Heavy Melee Weaponry"
   melee_equipment_3_short:0 "Heavy Melee Weaponry"
-  melee_equipment_3_desc:0 "Sledgehammers provide our troops with both increased capabilities against armoured enemy personnel, along with breaching possibilities on occupied buildings. This is further supplemented by the addition of ballistic fists to our arsenal, giving us some measure of ranged firepower in the form of a 20 gauge, double-barrelled, wrist-mounted shotgun."
+  melee_equipment_3_desc:0 "Sledgehammers provide our troops with both increased capabilities against armoured enemy personnel, along with breaching possibilities on enemy positions. This is further supplemented by defensive grenades, and the addition of ballistic fists to our arsenal, giving us some measure of ranged firepower in the form of a 20 gauge, double-barrelled, wrist-mounted shotgun."
 
   melee_equipment_4:0 "Powered Weaponry"
   melee_equipment_4_short:0 "Powered Weaponry"
-  melee_equipment_4_desc:0 "Lighter and stronger weaponry, such as power fists, increases the speed of our troops during combat and lessen the fatigue felt during intense close quarter combat, while full, reinforced metal armour will protect them in battle. Giving our troops access to defensive grenades, and improving our ballistic fists with 12 gauge slugs as well as recoil mechanism, let us attack from further afar, even staying in cover during dangerous engagements."
+  melee_equipment_4_desc:0 "Lighter weaponry such as power fists increases the speed of our troops during combat, and lessen the fatigue felt during intense close quarter combat, while reinforced metal armour protects them in battle. Improving our ballistic fists with 12 gauge slugs as well as recoil management mechanism, let our soldiers attack from further afar, even staying in cover during dangerous engagements."
  # spec ops Armour
 
   spec_ops_equipment:0 "Special Forces Equipment"
@@ -158,6 +170,15 @@
   spec_ops_equipment_5:0 "Advanced Special Forces Kit"
   spec_ops_equipment_5_short:0 "Advanced Kit"
   spec_ops_equipment_5_desc:0 "Replicated pre-war special forces gear, mixed in with advanced equipment, custom built weapons and modifications for our men. An arsenal of advanced and survival oriented equipment, alongside developments in weight distribution frames, combine to create the best gear our men could ask for."
+
+  # Horses, Cavalry
+  horse_equipment:0 "Horses"
+  horse_equipment_short:0 "Horses"
+  horse_equipment_desc:0 "Four legged creatures of legend."
+
+  horse_equipment_1:0 "Horses"
+  horse_equipment_1_short:0 "Horses"
+  horse_equipment_1_desc:0 "Four legged creatures of legend."
 
  # Power Armour
   power_armor_equipment_1:0 "Stripped Power Armour"
@@ -196,6 +217,10 @@
   enclave_power_armour_equipment_2_short:0 "APA MKII"
   enclave_power_armour_equipment_2_desc:0 "Developed decades after its predecessor, Advanced Power Armour MKII improves on the daunting military prowess of the armour before it. Numerous minor improvements, along with stronger ceramics and a complete composite build, allowed this design to achieve better results despite its lighter build."
 
+  power_armor_equipment_tbh:0 "Vault-Tec Power Armour"
+  power_armor_equipment_tbh_short:0 "Vault-Tec PA"
+  power_armor_equipment_tbh_desc:0 "A Vault-Tec prototype. Made to emulate the succes West-Tek had with it's armour designs."
+
  # Unique Infantry guns
   gauss_equipment_1:0 "Improvised Mass Driver"
   gauss_equipment_1_short:0 "Mass Driver"
@@ -222,7 +247,7 @@
   ballistic_fireteam_equipment_2_desc:0 "Reliable, easy to produce, and more effective against soft target than laser weaponry, this light machine gun has numerous improved features over it's predecessor. Upgrades include a quick change barrel, metal belt, better extraction mechanism, as well as improved cyclic rate owing to it's roller-locked design."
   ballistic_fireteam_equipment_3:0 "Heavy Machine Gun"
   ballistic_fireteam_equipment_3_short:0 "HMG"
-  ballistic_fireteam_equipment_3_desc:0 "A heavy machine gun using large calibre ammunition, this weapon is designed to be fired from a bipod, while the lightweight construction also allows it be handled from the hip in case of an enemy advance. A muzzle booster device, open bolt for better airflow and less moving parts, as well as provision for improved continuous belt feeding, makes it very effective against soft target."
+  ballistic_fireteam_equipment_3_desc:0 "A heavy machine gun using large calibre ammunition, this weapon is designed to be fired from a bipod, while the lightweight construction also allows it be handled from the hip in case of an enemy advance. A muzzle booster device, open bolt for better airflow, less moving parts, as well as provision for improved continuous belt feeding all makes it very effective against soft target."
   ballistic_fireteam_equipment_4:0 "Minigun"
   ballistic_fireteam_equipment_4_short:0 "Minigun"
   ballistic_fireteam_equipment_4_desc:0 "Rotary weapons allow an unprecedented rate of fire, while backpack feeds, HUD-assisted aim and ported barrels improves their accuracy. Too heavy to be handled by common soldiers, our machine gun teams undergo advanced training destined to let them be able to operate exo-skeletons enhancing their strength, allowing them to carry this huge weapon and it's ammunition while firing them from the hip."
@@ -287,7 +312,7 @@
 
   support_robot_scrap_equipment:0 "Scrap-bot"
   support_robot_scrap_equipment_short:0 "Scrapbot"
-  support_robot_scrap_equipment_desc:0 "The equivalent of industrial machinery given a tracked propulsion system, two sub-calibre machine guns, and a metal shell covering sensitive parts, those \"scrap bots\" will still provide a tactical advantage in the form of an expendable shock trooper, or armoured shields that our troops can take cover behind during assaults."
+  support_robot_scrap_equipment_desc:0 "The equivalent of industrial machinery given a tracked propulsion system, two submachine guns, and a metal shell covering sensitive parts, those \"scrap bots\" will still provide a tactical advantage in the form of an expendable shock trooper, or armoured shields that our troops can take cover behind during assaults."
 
   support_robot_handy_equipment:0 "Mister Handy"
   support_robot_handy_equipment_short:0 "Mr Handy"
@@ -331,7 +356,7 @@
 
   combat_robot_securitron_equipment_2:0 "RobCo Securitron Mk II"
   combat_robot_securitron_equipment_2_short:0 "Securitron Mk II"
-  combat_robot_securitron_equipment_2_desc:0 "An OS update enables an on-board auto-repair system for diagnostics, and battlefield maintenance, of damaged components while also allowing access to hidden weaponry. Those Securitron Mark 2 have now the processing power to track and target enemy threats with an automatic grenade launcher and salvo rocket launcher, transforming patrol units into hardened frontline combattants."
+  combat_robot_securitron_equipment_2_desc:0 "An OS update enables an on-board auto-repair system for diagnostics, and battlefield maintenance, of damaged components while also allowing access to hidden weaponry. Those Securitron Mark 2 have now the processing power to track and target enemy threats with an automatic grenade launcher and salvo rocket launcher, transforming patrol units into hardened frontline combatants."
 
   combat_robot_robobrain_equipment:0 "RobCo Robobrain"
   combat_robot_robobrain_equipment_short:0 "Robobrain"
@@ -387,15 +412,18 @@
  # Tank
   tank_equipment:0 "Tank Equipment"
   tank_equipment_desc:0 ""
-  tank_equipment_1:0 "Scrap Tank"
-  tank_equipment_1_short:0 "Scrap Tank"
-  tank_equipment_1_desc:0 "A tracked chassis rebuilt from plans for industrial construction vehicles, armoured with slabs of concrete as well as spaced steel armour, provides protection against even simple rocket launchers. Armoured ball mounts let our vehicles be armed with a choice of small arms, ranging from heavy machine guns to anti-tank rifles. The forward bulldozer blade also let our crew demolish fortified positions and ram enemy AFVs."
+  tank_equipment_1:0 "Improvised Tank"
+  tank_equipment_1_short:0 "Improvised Tank"
+  tank_equipment_1_desc:0 "A tracked chassis rebuilt from plans for industrial construction vehicles, armoured with slabs of concrete as well as spaced steel armour, provides protection against even simple weapons. Armoured ball mounts let our vehicles be armed with a choice of small arms, ranging from heavy machine guns to anti-tank rifles. The forward bulldozer blade also let our crew demolish fortified positions and ram enemy AFVs."
   tank_equipment_2:0 "Wasteland Tank"
   tank_equipment_2_short:0 "Wasteland Tank"
-  tank_equipment_2_desc:0 "Cutting out the improvised superstructure and beginning again from the hull base lets us design a much more efficient AFV. Secured ammo storage, a hull mounted and coaxial machine gun, as well as an actual powered turret with an infantry support gun, improves their efficiency against soft and hard target alike, while the lighter armouring made of face-hardened steel plates let the same engine achieve higher speeds."
-  tank_equipment_3:0 "Great War Tank"
-  tank_equipment_3_short:0 "Great War Tank"
-  tank_equipment_3_desc:0 "While the design process of the tank itself is very straightforward, the manufacturing is not. Pre-war technology requires advanced production capabilities, or very creative thinking. Replacing the depleted uranium plating by an alloy front plate, unifying the four-tracked system into a two-tracked one, and replacing extensive internal electronics by simpler substitutes allows us to build a fearsome product of the past."
+  tank_equipment_2_desc:0 "Improving upon it's industrial heritage, the entire top part of the improvised tank has been cut out, and the armor now reinforced by solid, monocoque armor plating presenting few flaws for enemy AT fire to pierce. Removing the frontal bulldozer blade also lightened the tank, increasing it's mobility, while allowing our engineers to be able to fit a 75mm howitzer in the hull. This let our crew engage fortified positions with devastating high-explosive projectiles, while still benefiting from thick frontal armor."
+  tank_equipment_3:0 "Battle Tank"
+  tank_equipment_3_short:0 "Battle Tank"
+  tank_equipment_3_desc:0 "Cutting out the improvised superstructure and beginning again from the hull base lets us design a much more efficient AFV. Secured ammo storage, a hull mounted and coaxial machine gun, as well as an actual powered turret with an infantry support gun, improves their efficiency against soft and hard target alike, while the lighter armouring made of face-hardened steel plates let the same engine achieve higher speeds."
+  tank_equipment_4:0 "Great War Tank"
+  tank_equipment_4_short:0 "Great War Tank"
+  tank_equipment_4_desc:0 "While the design process of the tank itself is very straightforward, the manufacturing is not. Pre-war technology requires advanced production capabilities, or very creative thinking. Replacing the depleted uranium plating by an alloy front plate, unifying the four-tracked system into a two-tracked one, and replacing extensive internal electronics by simpler substitutes allows us to build a fearsome product of the past."
 
  # Truck
   truck_equipment_1:0 "Scrap Guntruck"
@@ -418,6 +446,12 @@
   apc_equipment_3:0 "Great War APC"
   apc_equipment_3_short:0 "Great War APC"
   apc_equipment_3_desc:0 "Pre-war APCs are the top of the line in matter of what we can manufacture currently. Composite armour plating with spall liners, as well as Kevlar protection for crew and mounted infantry alike, will save the lives of many foot soldier. The short infantry support gun, capable of firing both high explosive and anti-tank shells, will also blast apart any fortified position, vehicle, or enemy that our boys on the ground may encounter."
+
+
+ # Chariots
+  chariot_equipment_1:0 "Motor Chariots"
+  chariot_equipment_1_short:0 "Chariots"
+  chariot_equipment_1_desc:0 ""
 
  # Behemoth/monsters
   behemoth_equipment_1:0 "Super Mutant Behemoth"
@@ -545,11 +579,11 @@
 
   hev_cas_equipment_2:0 "Ground Pounder"
   hev_cas_equipment_2_short:0 "Ground Pounder"
-  hev_cas_equipment_2_desc:0 "Heavy CAS plane can provide better ground support, at the cost of agility and range from the increased tonnage. Replacing our medium machine guns by two heavier variants, modified from an automatic developpment of our anti-tank rifle design, will considerably increase our piercing capabilities against hard target, and firepower against soft ones."
+  hev_cas_equipment_2_desc:0 "Heavy CAS plane can provide better ground support, at the cost of agility and range from the increased tonnage. Replacing our medium machine guns by two heavier variants, modified from an automatic development of our anti-tank rifle design, will considerably increase our piercing capabilities against hard target, and firepower against soft ones."
 
   hev_cas_equipment_3:0 "Interdiction Jet Striker"
   hev_cas_equipment_3_short:0 "Interdiction Jet Striker"
-  hev_cas_equipment_3_desc:0 "While a six-barrelled autocannon is already a good weapon for ground attack runs, we can still add more. Strengthening two of the wing pylons will let us arm our jet attackers with 37mm automatic gunpods for even greater increased armour-piercing capabilities."
+  hev_cas_equipment_3_desc:0 "While a six-barrelled autocannon is already a good weapon for ground attack runs, we can still add more. Strengthening two of the wing pylons will let us arm our jet attackers with 37mm automatic gunpods for even greater armour-piercing capabilities."
 
   hev_cas_equipment_4:0 "Armoured Annihilator"
   hev_cas_equipment_4_short:0 "Armoured Annihilator"
@@ -655,11 +689,11 @@
 
   blimp_equipment_3:0 "Flying Fortress"
   blimp_equipment_3_short:0 "Flying Fortress"
-  blimp_equipment_3_desc:0 "At the price of almost ten advanced fighters, it would at first seem like a bad investment. But no one has experienced true joy until they've seen the rotary autocannons shred air planes to pieces while breech-loaded mortar turrets annihilate ground target. Anti-air guns useless against the composite armour, soldiers running for their lives at the mere sight, battalions turning back and crying to whatever god they worship to save them. Some may say it's a waste of budget, but for the few daring enough, it is a dream come true."
+  blimp_equipment_3_desc:0 "At the price of ten advanced fighters, it would at first seem like a bad investment. But no one has experienced true joy until they've seen the rotary autocannons shred planes to pieces while mortar turrets annihilate ground target. Anti-air guns useless against the armour, soldiers running for their lives at the mere sight, battalions fleeing and crying to whatever god they worship to save them. Some may say it's a waste of budget, but for the few daring enough, it is a dream come true."
 
   blimp_equipment_4:0 "Superfortress"
   blimp_equipment_4_short:0 "Superfortress"
-  blimp_equipment_4_desc:0 "Carte Blanche was given to our engineers in terms of budget to improve our blimps, and while embezzlement rumours have been going around, they are indeed just that. Rumours. With all the autocannons increased in calibre and given gun-laying radars, along with mortar upgraded to low-velocity howitzers, few can stand against our might. With the armour of a tank for the gondola alone, capable of stopping direct missile hits, and a reinforced nano-Kevlar balloon with internal bulkheads and emergency air pumps, nothing can stand in our way now."
+  blimp_equipment_4_desc:0 "Carte Blanche was given to our engineers in terms of budget to improve our blimps, and while embezzlement rumours have been going around, they are indeed just that. Rumours. With all the autocannons increased in calibre and given gun-laying radars, along with mortar upgraded to low-velocity howitzers, few can stand against our might. With the armour of a tank and a reinforced nano-Kevlar balloon with internal bulkheads and emergency air pumps, nothing can stand in it's way."
 
   cheap_blimp_equipment:0 "Light Zeppelin"
   cheap_blimp_equipment_short:0 "Light Zeppelin"
@@ -737,3 +771,52 @@
   vb_transport_plane_equipment:0 "VB-02 Transport"
   vb_transport_plane_equipment_short:0 "VB-02 Transport"
   vb_transport_plane_equipment_desc:0 ""
+
+  payload_glider_equipment_1:0 "Payload Gliders"
+  payload_glider_equipment_1_short:0 "Bomb Gliders"
+  payload_glider_equipment_1_desc:0 ""
+
+  air_chaff_equipment_1:0 "Air obstructions"
+  air_chaff_equipment_1_short:0 "Air obstructions"
+  air_chaff_equipment_1_desc:0 ""
+
+ # Special Equipments
+  mininuke_equipment:0 "Mini-Nuke"
+  mininuke_equipment_short:0 "Mini-Nuke"
+  mininuke_equipment_desc:0 ""
+  mininuke_equipment_1:0 "Mini-Nuke"
+  mininuke_equipment_1_short:0 "Mini-Nuke"
+  mininuke_equipment_1_desc:0 "The mini nuke consists of four principal components. The detonator shell on the bottom contains a conventional sub-charge that detonates when struck by the M42's striking pin, catapulting it out of the launcher. Four stabilizer fins attached to it ensure a stable trajectory and prevent tumbling in flight, increasing accuracy (a necessary feature, as the projectile is not spin-stabilized). The hemisphere core is screwed onto the top, containing the nuclear core. Finally, the weapon is fitted with a beryllium contact fuse that starts the nuclear reaction on impact."
+
+ # Artillery Shells
+  artillery_ammo_equipment:0 "Artillery Shell Batch"
+  artillery_ammo_equipment_short:0 "Shell Batch"
+  artillery_ammo_equipment_desc:0 ""
+  artillery_ammo_equipment_1:0 "155mm Artillery Shell Batch"
+  artillery_ammo_equipment_1_short:0 "Shell Batch"
+  artillery_ammo_equipment_1_desc:0 "Ammunition for the really big guns. Hell yeah."
+
+ # Implant Equipment
+  implant_equipment:0 "Cybermetic Implants"
+  implant_equipment_short:0 "Implants"
+  implant_equipment_desc:0 "Archetype description"
+  implant_equipment_1:0 "Mark II Implant Kit"
+  implant_equipment_1_short:0 "Implants II"
+  implant_equipment_1_desc:0 "New generations of nanobots, equipped with advanced EMS devices, have been developped to tackle the problem of ever-increasing military gear weight. The electrical pulses can be directed to load-bearing muscles to increase their density, as well as help promote rapid recovery of musculoskeletal traumas. This will increase our soldier's strength and resilience to any type of damage, be it from a fall or a blunt strike."
+  implant_equipment_2:0 "Mark III Implant Kit"
+  implant_equipment_2_short:0 "Implants III"
+  implant_equipment_2_desc:0 "The production of bionic contact lenses is a further step into integrating bulky equipment directly into our soldier's body. In this case, a helmet's aim display, thermal, as well as infrared imaging have been merged into the membrane linked directly to the optical nerve, providing instictive aiming assistance as well as target detection. This allows us to considerably strengthen and lighten our current helmet design as well."
+  implant_equipment_3:0 "Mark IV Implant Kit"
+  implant_equipment_3_short:0 "Implants IV"
+  implant_equipment_3_desc:0 "Providing our nanobots with the ability to create sub-dermal armor can significantly increase our soldier's resistance to battle damage. Implanted in the reticular dermis layer to replace the protein fiber entirely with a kevlar matrix makes the skin resistant to handgun projectiles, slashing weaponry, fire and blunt trauma. The implementation below the mechano and thermoreceptor layer also insures no diminution in sensation, making it practically seamless."
+  implant_equipment_4:0 "Mark V Implant Kit"
+  implant_equipment_4_short:0 "Implants V"
+  implant_equipment_4_desc:0 "Better integration of the nanoscopic diagnostic system into a centralized management module let us significantly increase the efficiency of our soldiers. Those upgrades, linked to a new stomach implants, provides more power to existing mechanical components as the body's transformation of nutrient into electrochemical energy is hijacked and linked to their cybernetics. The slight increase in hunger as a side effect is more than worth it for the soldier of tomorrow."
+
+ # Sentinel command equipment
+  sentinel_command_slave_equipment:0 ""
+  sentinel_command_slave_equipment_desc:0 ""
+
+  sentinel_command_slave_equipment_1:0 "Sentinel Command Slave"
+  sentinel_command_slave_equipment_1_short:0 "Command Module"
+  sentinel_command_slave_equipment_1_desc:0 "Necessary equipment to slave multiple suits to the commands of a singular leader. Allowing for great autonomy and far more efficient manpower usage. A marvel of US engineering, if only it had been there sooner."

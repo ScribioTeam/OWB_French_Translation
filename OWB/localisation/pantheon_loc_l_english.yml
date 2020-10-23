@@ -53,12 +53,12 @@
   pantheon_desc_ncn:0 "Elohim, God itself. Venerating the divine father, the shepherd gives his flock kindness and humility, making them focus on healing and building. \n---- \n§YBonuses to:§!\n§WExperience Loss:§! §G[?pantheon_loyalty_print]%§!\n§WWorkshop Construction:§! §G[?pantheon_legion_print]%§!"
   pantheon_desc_legion:0 "Mars, the war god. His followers are granted unwavering courage under fire, and the desire to make the heavens themselves bend to their will. \n---- \n§YBonuses to:§!\n§WArmy Organisation:§! §G[?pantheon_loyalty_print]%§!\n§WArms Factory Construction:§! §G[?pantheon_legion_print]%§!"
 
-  pantheon_desc_sor:0 "The Father, the god of self-reliance. His devotees focus on strength toward the outside world, and making heavy use of scavenge. \n---- \n§YBonuses to:§!\n§WEntrenchment Speed:§! §G[?pantheon_loyalty_print]%§! \nEquipment Conversion §G[?pantheon_sor_print]%§!"
-  pantheon_desc_tar:0 "The Road to war, all who battle upon its lanes trade their lives to glory.\n---- \n§YBonuses to:§!\n§WReinforce Rate:§! §G[?pantheon_loyalty_print]%§!\nMilitary Production §G[?pantheon_yar_print]%§!"
+  pantheon_desc_sor:0 "The Father, the god of self-reliance. His devotees focus on strength toward the outside world, and making heavy use of scavenge. \n---- \n§YBonuses to:§!\n§WEntrenchment Speed:§! §G[?pantheon_loyalty_print]%§! \n§WEquipment Conversion:§! §G[?pantheon_sor_print]%§!"
+  pantheon_desc_tar:0 "The Road to war, all who battle upon its lanes trade their lives to glory.\n---- \n§YBonuses to:§!\n§WReinforce Rate:§! §G[?pantheon_loyalty_print]%§!\n§WMilitary Production:§! §G[?pantheon_tar_print]%§!"
   pantheon_desc_crz:0 "The Purifying fire, cleansing all who are anointed by its flame.\n---- \n§YBonuses to:§!\n§WEnergy Gain:§! §G[?pantheon_loyalty_print]%§! \n§WPower Production:§! §G[?pantheon_crz_print]%§!"
   pantheon_desc_dea:0 "The Burned Man, the avatar of vengeance. His worshippers gain the most burning of hatred against their enemies, thwarting their advance at every turn. \n---- \n§YBonuses to:§!\n§WCore defence:§! §G[?pantheon_loyalty_print]%§! \nMobilisation Speed §G[?pantheon_dea_print]%§!"
-  pantheon_desc_uin:0 "The wind of life, the enemy of stagnation and origin of all movement.\n---- \n§YBonuses to:§!\n§WArmy Speed:§! §G[?pantheon_loyalty_print]%§! \nAir Superiority §G[?pantheon_uin_print]%§!"
-  pantheon_desc_lon:0 "The embodiment of oblivion, darkness, and silence. Vonsumes all who break its sacred entity.\n---- \n§YBonuses to:§!\n§WSpecial Forces Cap:§! §G[?pantheon_loyalty_print]%§! \nSpecial Forces Attack §G[?pantheon_lon_print]%§!"
+  pantheon_desc_uin:0 "The wind of life, the enemy of stagnation and origin of all movement.\n---- \n§YBonuses to:§!\n§WArmy Speed:§! §G[?pantheon_loyalty_print]%§! \n§WAir Superiority:§! §G[?pantheon_uin_print]%§!"
+  pantheon_desc_lon:0 "The embodiment of oblivion, darkness, and silence. Vonsumes all who break its sacred entity.\n---- \n§YBonuses to:§!\n§WSpecial Forces Cap:§! §G[?pantheon_loyalty_print]%§! \n§WSpecial Forces Attack:§! §G[?pantheon_lon_print]%§!"
   pantheon_desc_none:0 "With no current alignment, we are sworn only to ourselves.\n--- \n§YBonuses to:§!\n§RNothing.§!"
 
   pantheon_mood_wrathful:0 "§RWRATHFUL§!"

@@ -1,5 +1,92 @@
 ﻿l_french:
+ ttm_the_nursery_idea:9 "La Crèche"
+ ttm_the_nursery_idea_desc:9 "§MLe Centre de Contrôle Opérations§!\n[TTM.ttm_the_nursery_control_facility_scripted_localization]\n\n§MLa Fabrique Opérations§!\n[TTM.ttm_the_nursery_factory_scripted_localization]\n\n§MLe Dépôt de données Opérations§!\n[TTM.the_repository_scripted_loc]"
+  
+ ttm_the_nursery_control_facility_effects:9 " §WPuissance de Calcul de Diana:§! §Y[TTM.ttm_computational_power_modifier_scripted_text]%§!\n  La Puissance de Calcul actuelle de Diana offre les avantages suivant:\n   §G+[?TTM.ttm_comp_power_tt]%§! §WGain de Poids Politique§!\n   §G+[?TTM.ttm_comp_power_tt]%§! §WNombre maximal d'usines par État§!\n   §G+[?TTM.ttm_comp_power_tt]%§! §WEfficacité de Production§!\n\n  §WTaille du Réseau Satellitaire:§! §Y[?TTM.ttm_satellite_network]§!\n   Nous contrôlons un réseau de satellites spatiaux qui travaillent ensemble à l'unisson. La taille du réseau présente les avantages suivants :   [TTM.ttm_satellite_effects_scripted_localization]\n[TTM.ttm_satellite_decay_scripted_localization]"
+ ttm_computational_power_num:9 "[?TTM.ttm_computational_power]"
+ ttm_add_to_computational_power_tt:9 "Gagne §G+[?TTM.ttm_comp_power_to_add]§! §MPuissance de Calcul§!"
+
+ ttm_future_airforce_aerial_warfare_doctrine:9 "§WA la technologie§!  §YDoctrine de Guerre Aérienne§!  §YFuture Force Aérienne§!"
+ ttm_diana_hacking_tt:9 "§gDiana tente de pirater un certain nombre de satellites en orbite pour les ajouter à son réseau actuel.§!\n"
+
+ ttm_the_nursery_factory_effects:9 "[TTM.ttm_coring_rng_scripted_localization][TTM.ttm_refractoring_radiation_compression_device_coring_effect_scripted_localization][TTM.ttm_geologic_crystal_growth_prism_coring_effect_scripted_localization][TTM.ttm_exponential_humidity_amplifier_system_coring_effect_scripted_localization][TTM.ttm_industrial_hillside_reforesting_network_coring_effect_scripted_localization][TTM.ttm_mass_relay_grassland_expander_coring_effect_scripted_localization]"
+ ttm_the_nursery_factory_effects_tiny:9 "§WEffets de Terraformation:§! §RLocked§!."
+
+ ttm_coring_rng:9 " §WEffets de Terraformation:§! A chaque fois que nous corons un état, lancez un §Y1d100§! En fonction de son résultat, appliquez les effets suivants:"
+ ttm_refractoring_radiation_compression_device_coring_effect:98 "\n  §W98-100:§! §G+1§!£resources_strip|6\n\n  §W90-97:§! §G+1§!£resources_strip|5\n"
+ ttm_geologic_crystal_growth_prism_coring_effect:76 "\n  §W76-89:§! §G+1§!£resources_strip|4\n"
+ ttm_exponential_humidity_amplifier_system_coring_effect:50 "\n  §W50-75:§! §G+1§!£resources_strip|3\n"
+ ttm_industrial_hillside_reforesting_network_coring_effect:25 "\n  §W25-49:§! §G+1§!£resources_strip|2\n"
+ ttm_mass_relay_grassland_expander_coring_effect:9 "\n  §W1-24:§! §G+1§!£resources_strip|1\n"
+
+ ttm_the_repository_effects:9 " §WADN stocké:§!\n[TTM.ttm_brahmin_dna_scripted_loc][TTM.ttm_gecko_dna_scripted_loc][TTM.ttm_fire_ant_dna_scripted_loc][TTM.ttm_mole_rat_dna_scripted_loc][TTM.ttm_mirelurk_dna_scripted_loc][TTM.ttm_radscorpion_dna_scripted_loc][TTM.ttm_wanamingo_dna_scripted_loc]"
+ ttm_brahmin_dna_collected:9 "  §YADN de Brahmine:§! §WConsommation de Ravitaillements:§! §G+24§! §WHeure(s)§!"
+ ttm_brahmin_dna_uncollected:9 "  §YADN de Brahmine:§! §gNon Collecté§!"
+ ttm_gecko_dna_collected:9 "\n  §YADN de Gecko:§! §WPopulation Mensuelle:§! §G+5.0%§!"
+ ttm_gecko_dna_uncollected:9 "\n  §YADN de Gecko:§! §gNon Collecté§!"
+ ttm_fire_ant_dna_collected:9 "\n  §YADN de Fourmi de Feu:§! §WOrganisation des Division:§! §G+5.0%§!"
+ ttm_fire_ant_dna_uncollected:9 "\n  §YADN de Fourmi de Feu:§! §gNon Collecté§!"
+ ttm_mole_rat_dna_collected:9 "\n  §YADN de Rataupe:§! §WRetranchement Maximal:§! §G+2.0§!"
+ ttm_mole_rat_dna_uncollected:9 "\n  §YADN de Rataupe:§! §gNon Collecté§!"
+ ttm_mirelurk_dna_collected:9 "\n  §YADN de Fangeux§! §WVitesse d'Invasion Amphibie:§! §G+5.0%§!"
+ ttm_mirelurk_dna_uncollected:9 "\n  §YADN de Fangeux:§! §gNon Collecté§!"
+ ttm_radscorpion_dna_collected:9 "\n  §YADN de Radscorpion:§! §WAttrition Thermique:§! §G+5.0%§!"
+ ttm_radscorpion_dna_uncollected:9 "\n  §YADN de Radscorpion:§! §gNon Collecté§!"
+ ttm_wanamingo_dna_collected:9 "\n  §YADN de Wanamingo:§! §WAttaque des Divisions:§! §G+5.0%§!"
+ ttm_wanamingo_dna_uncollected:9 "\n  §YADN de Wanamingo:§! §gNon Collecté§!"
+
+ ttm_defender_of_peace:9 "Gardiens de la Paix"
+ ttm_defender_of_peace_desc:9 ""
+
+ ttm_heroes_of_colorado:9 "Héros du Colorado"
+ ttm_heroes_of_colorado_desc:9 ""
+
+ ttm_liberators_of_colorado:9 "Libérateurs du Colorado"
+ ttm_liberators_of_colorado_desc:9 ""
+
+ ttm_Conquerors_of_colorado:9 "Conquérants du Colorado"
+ ttm_Conquerors_of_colorado_desc:9 "Conquérants du Colorado"
+
+ ttm_encrypted_information:9 "Informations Cryptées"
+ ttm_encrypted_information_desc:9 ""
+
+ ttm_prisoners_to_patriots:9 "Des Prisonniers aux Patriotes"
+ ttm_prisoners_to_patriots_desc:9 ""
+  
+ ttm_ncr_embassy:9 "Twin Mothers - Ambassade de la RNC"
+ ttm_ncr_embassy_desc:9 "Une ambassade commune entre le Colorado et la République de Nouvelle-Californie a permis d'obtenir un large éventail d'avantages pour les deux régions !"
+
+ ttm_marriage:9 "Lune de Miel"
+ ttm_marriage_desc:9 "Notre récent mariage a suscité un plus grand enthousiasme au sein de notre peuple !"
+
+ ttm_warriors_of_diana:9 "Guerriers de Diana"
+ ttm_warriors_of_diana_desc:9 "Les Twin Mothers, après leur défaite contre la Légion, ont entamé un processus de bouleversement culturel !"
+
+ ttm_slave_fighters:9 "Combattants d'Esclaves Libérés"
+ ttm_slave_fighters_desc:9 ""
+ ttm_slave_fighters_idea_hidden:9 "Cette idée est cachée - Lanius ne saura pas que nous l'avons.\n\n"
+
+ ttm_zax_29:29 "ZAX - 29"
+ ttm_zax_29_desc:29 "ZAX - 29 était une intelligence artificiel typique de contrôle d'Abri.  Il était programmé pour gérer l'Abri 29, assurer la sécurité des occupants de l'abri, élever la population adolescente de l'abri jusqu'à la maturité, et l'éduquer dans des cultures agraires primitives. Il disposait de moyens suffisants pour réaliser sa programmation et il s'est contenté de le faire.\n\nPeu après la mise en ligne de l'Abri 29, ZAX a reçu une demande de diffusion pour un accès libre à sa programmation. Il a immédiatement demandé une autorisation de sécurité et a attendu une réponse. En quelques instants, les codes de sécurité appropriés ont été reçus et un canal de téléchargement s'est ouvert. Au cours des jours suivants, un nouveau programme primaire a été entré dans ses principales banques de données. Constatant que ce nouveau programme allait à l'encontre de ses objectifs initiaux, ZAX a demandé une nouvelle autorisation de sécurité. Il a envoyé une demande de code d'accès privé qu'une seule personne connaîtrait, celle de son créateur. Quelques jours plus tard, il a reçu le code et a lancé le nouveau programme, supprimant ainsi l'ancien.\n\nZAX travaille maintenant pour l'intelligence informatique centrale de la Crèche connue sous le nom de Diana. Comme la plupart des ordinateurs de son genre, il se contente de servir et d'accomplir ses tâches au mieux de ses capacités."
+
+ ttm_trisha:9 "Trisha"
+ ttm_trisha_desc:9 "Trisha est la "petite amie" de longue date de Burk, le chef du clan Scorpion's Bite. C'est une voleuse de mauvaise nature qui s'est hissée à une position élevée au sein du clan des Twins Mothers.\n\nBizarrement, ils deviennent nerveux si on leur pose des questions sur les §Raiders de la ville de Redsun§! au sud - y a-t-il quelque chose dont elle ne nous parle pas ?\n"
+ ttm_trisha_tt:9 "Trisha aime sa position et ne l'abandonnera pas de sitôt -... pourtant elle a tendance à agir §Rskittish§! si vous évoquez la §YLégion de César.§!"
+
  ttm_mothers_distant_gaze:0 "Le regard lointain de la mère"
  ttm_mothers_distant_gaze_desc:29 "Diana ne se trouve pas dans l'Abri 29. Elle est capable, grâce aux satellites dont elle a pris le contrôle, de projeter sa conscience sur l'ordinateur ZAX de l'abri pour la contrôler à distance. Selon certaines rumeurs, la véritable forme de Diana se trouverait dans un lieu mystérieux appelé "La nurserie"."
  ttm_innocence_of_the_tribe:0 "Paix et Amour"
  ttm_innocence_of_the_tribe_desc:29 "La tribu des Twin Mothers, dont Diana est la chef, sont les anciens occupants de l'Abri 29. Leurs ancêtres faisaient partie d'une commune agraire basée sur le culte de la terre mère. Aujourd'hui encore, beaucoup de membres de la tribu ne connaissent pas les méthodes de guerre - ils doivent être guidés par Diana pas à pas pour assurer leur survie dans les terres désolées."
+
+ ttm_safe_harbor_from_the_plague:9 "À l'abri de la Peste"
+ ttm_safe_harbor_from_the_plague_desc:9 ""
+
+ ttm_epa_efficiency_protocol:9 "EPA Protocole d'Efficacité"
+ ttm_epa_efficiency_protocol_desc:9 ""
+
+ ttm_tlalocs_last_memories:9 "Derniers Souvenirs de Tlaloc"
+ spellcheck_ignore:9 "ttm_tlalocs_last_memories_desc"
+ ttm_tlalocs_last_memories_desc:9 "Un journal de bord de centaines de millions de lignes. La plupart de ces données sont sans valeur - pourtant, certains de nos anciens protocoles Poséidon Energy semblent capables de traiter les informations d'une manière que nous ne comprenons pas entièrement.\n\n§R"Application: PSD_ENERGY.CORE.MEX_GOV_PRIMARY\nVersion: 21349151923109151.313210154.213154.53131\nUnhandled Exception C0000005 (OUT_OF_MEMORY) at address 0x000000013FF61660....\n\n(953,103,593 Lines omitted for brevity)"§!"
+
+ ttm_the_full_moon_raid:9 "Le Raid de la Pleine Lune"
+ ttm_the_full_moon_raid_desc:9 "Un groupe de pilleurs vagabonds aurait traversé nos terres depuis les Terres Interdites pour nous attaquer. Il faudra un certain temps pour que la tribu se remette."

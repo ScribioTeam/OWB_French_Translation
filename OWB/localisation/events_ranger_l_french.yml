@@ -56,6 +56,6 @@
  protect_nevada:0 "Protéger le Nevada"
   #########################
  nf_ranger.11.t:0 "La Défense du Nevada"
- nf_ranger.11.d:0 "Tout le Nevada se souvient de la guerre routière du Nevada, où les Eighties ont tracé un chemin de carnage sur leur route vers l'est. Mais aujourd'hui, des héros se dressent contre eux. Les Rangers du Nevada ont accepté de protéger les habitants du nord du Nevada, quels que soient leurs nombreux défauts. Si [EHT.GetLeadername] veut aller vers l'ouest, il devra passer par eux."
+ nf_ranger.11.d:9 "Tout le Nevada se souvient de la guerre routière du Nevada, où les Eighties ont tracé un chemin de carnage sur leur route vers l'est. Mais aujourd'hui, des héros se dressent contre eux. Les Rangers du Nevada ont accepté de protéger les habitants du nord du Nevada, quels que soient leurs nombreux défauts. Si [EHT.GetLeader] veut aller vers l'ouest, il devra passer par eux."
  nf_ranger.11.a:0 "Nous protégerons ceux qui ne peuvent pas se protéger eux-mêmes."
  nf_ranger.11.b:0 "Bonne chance !"

@@ -101,7 +101,7 @@
   ship_heavy_weapon_module_4_desc:0 "A huge directed energy weapon taking it's energy from microfusion shells, it can blast an enemy ship with the same heat a thermonuclear explosion would release at it's shock-wave stage."
 
   ship_super_heavy_weapon_module_1:0 "Naval Trebuchet"
-  ship_super_heavy_weapon_module_1_desc:0 "A counterweight trebuchet using a heavy load to swing a catapult arm, this particular weapon has been armed with an even heavier aerodynamic explosive shell.."
+  ship_super_heavy_weapon_module_1_desc:0 "A counterweight trebuchet using a heavy load to swing a catapult arm, this particular weapon has been armed with an even heavier aerodynamic explosive shell."
   ship_super_heavy_weapon_module_2:0 "90mm Deck Cannon"
   ship_super_heavy_weapon_module_2_desc:0 "Heavy hardened shells filled to the brim with explosives and lobbed from a 90mm main gun is the heaviest ballistic weaponry we can currently field, though i doubt more is needed."
   ship_super_heavy_weapon_module_3:0 "90mm Twin Cannon"
@@ -316,7 +316,7 @@
 
  # Naval Tech Names
   naval_module_tech:0 "Naval-Specific Manufacturing"
-  naval_module_tech_desc:0 "Nautical operations require a wide range of modification compared to terrestrial ones. Wood must be treated against humidity, and any metal must have a special coating applied to reduce rust appearance during patrols. Our engineering team will focus their activity on creating these measures and applying them, allowing us to begin proper naval operations."
+  naval_module_tech_desc:0 "Nautical operations require a wide range of modification compared to terrestrial ones. Wood must be treated against humidity, and any metal must have a special coating applied to reduce rust appearance during patrols. Our engineering team will focus their activity on creating these measures and applying them, allowing us to begin forming a proper navy."
   naval_weapons_module_tech:0 "Weapon Mount Production"
   naval_weapons_module_tech_desc:0 "While looking at our options to arm our crafts, a simple yet problematic situation came to our mind. To withstand recoil and assure accuracy, our weapon mount must be made sturdy, stiff and with no part leeway. As such, precision manufacturing must be applied to a small extent, along with research into simple hydraulics. This will assure proper firing platform for all armament we will create."
 
@@ -384,14 +384,14 @@
   naval_fire_protection_tech_1:0 "Fire Extinguisher"
   naval_fire_protection_tech_1_desc:0 "Providing multiple fire extinguishers in ready racks at critical locations throughout the ship will let any of our crew lend a hand in containing on-board fires. Those fire extinguisher consist of simple converted flamethrower units, projecting a foam compound onto the open flame, displacing oxygen and extinguishing most fires instantly."
   naval_fire_protection_tech_2:0 "Asbestos Lining"
-  naval_fire_protection_tech_2_desc:0 "Apply an asbestos fireproof lining to important sub-sections such as the living quarters, bridges, and engineering deck, should reduce the risk of a spreading fire on the vessel. Asbestos being a miracle material completely resistant to fire, we can also use it as a coating agent for the rest of the ship as additional fireproofing measures."
+  naval_fire_protection_tech_2_desc:0 "Applying an asbestos fireproof lining to important sub-sections such as the living quarters, bridges, and engineering deck, should reduce the risk of a spreading fire on the vessel. Asbestos being a miracle material completely resistant to fire, we can also use it as a coating agent for the rest of the ship as additional fireproofing measures."
   naval_fire_protection_tech_3:0 "Automated Fire Prevention System"
   naval_fire_protection_tech_3_desc:0 "Heat sensors and oxygen level readers are installed in most sub-sections, particularly in the engine compartment and magazine. All connected to multiple tanks containing powder-based agent, they automatically detect any fire, gauge it's severity, and disperse the compounds in the right quantity to extinguish the flames."
 
   naval_special_module_tech_1:0 "Mine Laying Equipment"
   naval_special_module_tech_1_desc:0 "As naval warfare becomes more and more of a concern, we have to manage our naval protection. While we may think of active measures such as ship patrols, the sheer size that needs to be patrolled has to be managed more efficiently. Naval mines filled with explosives and triggered by passing ships will help us protect our shore, and expertise with them will also let us develop minesweeping equipment."
-  naval_special_module_tech_2:0 "Mine Tech 2"
-  naval_special_module_tech_2_desc:0 "Unlocks MINES all mine."
+  naval_special_module_tech_2:0 "Naval Mine Manufacturing"
+  naval_special_module_tech_2_desc:0 "Naval mines are a very cheap alternative to patrol elements, allowing us to defend our shores against enemy ships with minimal efforts. Designing mines with a focus toward crew safety when laying, as well as reliability once in the water, will increase their service life, and decrease the rift they drift into... inconvenient areas."
   naval_special_module_tech_3:0 "Mine Tech 3"
   naval_special_module_tech_3_desc:0 "No effect"
 
@@ -476,21 +476,21 @@
   naval_heavy_weapon_tech_1:0 "Depth Fuze"
   naval_heavy_weapon_tech_1_desc:0 "To increase damage, and prevent over-penetration, our shells are now equipped with a special depth fuze mechanism. Such a device uses a simple timing system, put in action by the impact of the round on the enemy hull. A good timing allows the shell to explode right in the middle of a vessel, provoking catastrophic damage."
   naval_heavy_weapon_tech_2:0 "Shrapnel Shell"
-  naval_heavy_weapon_tech_2_desc:0 "Using a thin steel casing containing hundreds upon hundreds of ball bearing, we can transform our heavy weapons into huge shotguns, sweeping the sea with deadly projectiles. Against light targets, it provokes huge damage, with hundreds of hull breaches from one side of the hull to the other. Against heavy assets, it kills any personnel on deck, destroys external equipment and damages most mounted weaponry."
+  naval_heavy_weapon_tech_2_desc:0 "Using a thin steel casing containing hundreds upon hundreds of ball bearing, we can transform our heavy weapons into naval shotguns, sweeping the sea with deadly projectiles. Against light targets, it provokes huge damage, with hundreds of hull breaches from one side of the hull to the other. Against heavy assets, it kills any personnel on deck, destroys external equipment and damages most mounted weaponry."
   naval_heavy_weapon_tech_3:0 "Superheated Projectile"
   naval_heavy_weapon_tech_3_desc:0 "With a chrome barrel lining and a microfusion energy device, our shells can be superheated to the edge of their melting point, imparting considerable thermal energy onto them. On impact, such ammunition will explode and fragment, using the enemy hull as additional spall to shred the interior with, which can easily travel through bulkhead and walls alike."
 
   naval_super_heavy_weapon_module_tech_1:0 "Trebuchet"
   naval_super_heavy_weapon_module_tech_1_desc:0 "Launching a 90 kg dynamite-filled projectile at a distance of up to 300 m hardly leaves a need for better firepower. Still, we shouldn't stop here, and our engineers wouldn't let us do that anyway."
   naval_super_heavy_weapon_module_tech_2:0 "90mm Deck Cannon"
-  naval_super_heavy_weapon_module_tech_2_desc:0 "Slow to swivel and hard to load, don't expect it to take out light targets easily. Though the crew displays an almost indecent excitation when ordered to fire this huge beast of a gun."
+  naval_super_heavy_weapon_module_tech_2_desc:0 "Slow to swivel and hard to load, don't expect it to take out light targets easily. Though, the crew displays an almost indecent excitation when ordered to fire this huge beast of a gun."
   naval_super_heavy_weapon_module_tech_3:0 "90mm Twin Cannon"
   naval_super_heavy_weapon_module_tech_3_desc:0 "No expense was spared to arm our heaviest crafts, and it shows. Twin cannon design, supercharged semi-fixed ammunition, powered shell rammer and a thick splinter shield lets us destroy anything short of a pre-war dreadnought."
   naval_super_heavy_weapon_module_tech_4:0 "Railgun"
-  naval_super_heavy_weapon_module_tech_4_desc:0 "It might shut down the entire ship when it fires, but this weapon is the pinnacle of what we could ever field. Depleted uranium alloy projectiles accelerated to unimaginable speeds will take out anything, including a pre-war dreadnought."
+  naval_super_heavy_weapon_module_tech_4_desc:0 "It might shut down the entire ship when it fires, but this weapon is the pinnacle of what we could ever field. Tungsten-steel alloy projectiles accelerated to unimaginable speeds will take out anything, including a pre-war dreadnought."
 
   naval_super_heavy_weapon_tech_1:0 "Double-Action Shell Design"
-  naval_super_heavy_weapon_tech_1_desc:0 "Designing our shells around a hard core, and a second, soft outer projectiles, let them be effective both at piercing heavy armour and wrecking lighter vessels. When striking light armour, the outer shell provokes huge hull breaches, flattening on impact and using sheer kinetic energy. On heavy armour, it peels away, and the core goes right through it."
+  naval_super_heavy_weapon_tech_1_desc:0 "Designing our shells around a hard core, and a secondary, soft outer projectiles, let them be effective both at piercing heavy armour and wrecking lighter vessels. When striking light armour, the outer shell provokes huge hull breaches, flattening on impact and using sheer kinetic energy. On heavy armour, it peels away, letting the core penetrate it for devastating damage."
   naval_super_heavy_weapon_tech_2:0 "Improved Screw Mechanism"
   naval_super_heavy_weapon_tech_2_desc:0 "Smoothing the action of our screw breechblock and providing our crew with powered shell rammers will both make their job easier, and increase the number of projectiles we can put downrange. The electrical shell rammer feeds ammunition directly from a ready rack, reloaded via connection to the internal magazine of the ship."
   naval_super_heavy_weapon_tech_3:0 "Experimental Velocity Booster"

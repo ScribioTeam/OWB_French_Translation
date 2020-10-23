@@ -18,9 +18,9 @@
 
   # scaving missions
  scavenging_mission_foot:0 "Envoyer des prospecteurs non motorisés"
- scavenging_mission_foot_desc:0 "Nous pouvons envoyer des prospects pour fouiller les ruines. Malheureusement, comme nous n'avons pas de véhicules pour les aider, ils seront limités à ce qu'ils peuvent porter, eux et leur brahmane."
+ scavenging_mission_foot_desc:0 "Nous pouvons envoyer des prospects pour fouiller les ruines. Malheureusement, comme nous n'avons pas de véhicules pour les aider, ils seront limités à ce qu'ils peuvent porter, eux et leur Brahmine."
  scavenging_mission_vehicle:0 "Faire de la récupération avec des véhicules"
- scavenging_mission_vehicle_desc:0 "Certains de nos récupérateurs ont demandé que nous leur donnions certains de nos précieux véhicules pour les aider dans leur travail. Ils peuvent désormais transporter plus qu'un brahmane tout en allant plus loin et plus vite."
+ scavenging_mission_vehicle_desc:0 "Certains de nos récupérateurs ont demandé que nous leur donnions certains de nos précieux véhicules pour les aider dans leur travail. Ils peuvent désormais transporter plus qu'un Brahmine tout en allant plus loin et plus vite."
  scavenging_mission_pa:0 "Fournir des armures assistées aux récupérateurs"
  scavenging_mission_pa_desc:0 "Pour des raisons compréhensibles, nos récupérateurs aimeraient avoir une armure. Peut-être que si nous leur en donnons, ils mourront moins."
 
@@ -78,7 +78,7 @@
  scavenge.10.a:0 "Eh bien, c'était inutile."
 
  scavenge.11.t:0 "Les récupérateurs en armure assistée sont attaqués !"
- scavenge.11.d:0 "Je ne comprends pas comment, [Root.GetLeaderName], mais nos récupérateurs ont été attaqués. Une bande de pillards en armure assistée a lancé une attaque coordonnée sur nos récupérateurs et a créé une bataille épique qui a fait des dizaines de morts. La bataille qui s'ensuivit anéantit un village voisin, et beaucoup de pillards moururent, mais nous avons dû battre en retraite."
+ scavenge.11.d:0 "Je ne comprends pas comment, [Root.GetLeader], mais nos récupérateurs ont été attaqués. Une bande de pillards en armure assistée a lancé une attaque coordonnée sur nos récupérateurs et a créé une bataille épique qui a fait des dizaines de morts. La bataille qui s'ensuivit anéantit un village voisin, et beaucoup de pillards moururent, mais nous avons dû battre en retraite."
  scavenge.11.a:0 "Comment les pillards peuvent-ils utiliser des armures assistées ?"
 
  scavenge.12.t:0 "Contact Perdu !"

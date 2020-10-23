@@ -100,8 +100,9 @@
   utah_schism:0 "§RReligious Schism!§!"
   utah_schism_mended:0 "§GReligious Harmony§!"
 
-  tar_plague:0 "The Sickness-of-Soot"
-  tar_plague_desc:0 "A disgusting sickness has spread through our lands, boils and patches of soot-toned plague growing across some of our finest warriors. Our medicine men think they can cure this and heal their ailment - but it will take time."
+  sickness_of_soot_modifier:0 "The Sickness-of-Soot"
+  sickness_of_soot:0 "The Sickness-of-Soot"
+  sickness_of_soot_desc:0 "A disgusting sickness has spread through our lands, boils and patches of soot-toned plague growing across some of our finest warriors. Our medicine men think they can cure this and heal their ailment - but it will take time. Further medical research or assistance may speed our recovery.\n\nRecruitable Population Factor: [?soot_conscription_malus|§R%2]\nDivision Attack on core territory: [?soot_attack_malus|§R%1]\nDivision Defense on core territory [?soot_defence_malus|§R%1]\n\nCurrent Recovery Rate: [?soot_recovery_rate|§G%]\nEstimated Remaining Weeks: [?soot_remaining_weeks|§R0]"
 
   pantheon_sunstroke:0 "Sunstroke"
   pantheon_false_science:0 "False Science"
@@ -127,6 +128,10 @@
   pantheon_land_modifier:0 "Blessing Of Terra"
   pantheon_mountain_modifier:0 "Blessing Of Mesa"
   pantheon_sor_modifier:0 "Blessing Of The Father"
+  pantheon_tar_modifier:0 "Blessing Of The War-Road"
+  pantheon_crz_modifier:0 "Blessing Of The Phoenix"
+  pantheon_uin_modifier:0 "Blessing Of Zephyr"
+  pantheon_lon_modifier:0 "Blessing Of The Quiet"
 
   pantheon_sun_sunspots:0 "Sunspots"
   pantheon_moon_nightmissions:0 "Night Missions"

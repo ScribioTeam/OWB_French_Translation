@@ -6,7 +6,7 @@
  robco:0 "RobCo"
  robco_desc:0 "RobCo Industries, fondée par Robert House, était le principal producteur de robotique dans l'Amérique d'avant-guerre."
  westtek:0 "West-Tek"
-  westtek_desc: ""
+ westtek_desc:0 ""
  van_graffs:0 "Van Graffs"
  van_graffs_desc:0 "Les Van Graff sont un syndicat du crime qui fait du commerce d'armes, en particulier des armes plus perfectionnées et des technologies d'avant-guerre."
  poseidon:0 "Poseidon Energy"
@@ -23,6 +23,7 @@
  happy_trails_caravan_company_desc:0 "La Happy Trails Caravan Company relie la Nouvelle-Californie et l'Utah."
  legion_railway:0 "Les Gangs de Travailleurs de la Légion"
  legion_railway_desc:0 "Contrairement à la RNC, la Légion sait comment maintenir les esclaves qui construisent les chemins de fer en activité."
+ navajo_silversmith_companies:9 "The Navajo Silversmiths"
  lady_lasers:0 "Lady Lasers"
  lady_lasers_desc:0 "Dirigé par une goule américaine faisait partie de l'occupation initiale, le Lady Lasers fournit des équipements de pointe aux armées mexicaines, et est l'un des principaux rivaux de la Texas Arms Association."
  brotherhood_schematics:0 "Knightly Armaments"
@@ -40,7 +41,8 @@
  canoeoe:0 "Canoeoe"
   canoeoe_desc: ""
  billsbattleships:0 "Bill's Battleships"
-  billsbattleships_desc: ""
+ billsbattleships_desc:9 "Ce sont des navires, vraiment."
+ ces_mojave_tribute:9 "The Spolia Opima"
 
  pile_of_guns:0 "Muzzles Pile Of Guns"
  pile_of_guns_desc:0 "Vous voulez des armes ? Nous avons des armes. Chaque arme coûte la même chose. Creusez dans le tas !"
@@ -117,7 +119,7 @@
  # Music
  music_settings_ideas:0 "Paramètres de la musique"
  music_event_idea:0 "Modifier les paramètres de la musique"
- music_event_idea_2:0 "Paramètres musicaux supplémentaires"
+ music_event_idea_2:9 "Changer les paramètres additionnels de musique"
  settings:0 "Paramètres"
 
  #--------
@@ -130,14 +132,15 @@
  # Misc?
  #--------
  research_bonus:0 "Effort de Recherche"
-  research_bonus_desc: ""
- iron_wall:0 "Mur de Fer"
- iron_wall_desc:0 ""
- powered_assault:0 "Assaut Motorisé"
- powered_assault_desc:0 ""
- hidden_strikes:0 "Grèves Cachées"
- hidden_strikes_desc:0 ""
- lethal_blows:0 "Coups Fatals"
- lethal_blows_desc:0 ""
+ research_bonus_desc:0 ""
  neutrality_owb:0 "Neutralité"
  neutrality_owb_desc:0 ""
+
+ car_fighter_equipment:9 "Chasseur de porte-avions"
+ hev_fighter_equipment:0 "Chasseur lourd"
+ long_fighter_equipment:9 "Chasseur à longue distance"
+ hev_strategic_bomber_equipment:9 "Bombardier lourd"
+ long_strategic_bomber_equipment:9 "Bombardier à longue portée"
+ hev_cas_equipment:9 "Avion lourd d'appui aérien rapproché"
+ car_cas_equipment:9 "Avion d'appui aérien rapproché de la marine"
+ long_cas_equipment:9 "Avion d'appui aérien rapproché à longue portée"

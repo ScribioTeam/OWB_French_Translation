@@ -51,3 +51,8 @@
 
  is_chiconet_nation_tt: "Est une nation §YChicoNet§!"
  is_not_chiconet_nation_tt: "§RN'est pas§! une nation §YChicoNet§!"
+
+ is_ncr_nation_tt:9 "Is an §YNCR§! nation"
+ is_not_ncr_nation_tt:9 "Is §Rnot§! an §YNCR§! nation"
+
+ is_neutral_country_tt:9 "§Y[THIS.GetName]§! is mutually neutral with §Y[PREV.GetName]§!"

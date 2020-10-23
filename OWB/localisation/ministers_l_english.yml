@@ -1,13 +1,15 @@
 ﻿l_english:
-  selene_advisor: "Broken Mother Selene"
-  selene_advisor_desc: "Selene possesses a brilliant mind: we shall make of her a slave, and put that brilliant mind to use."
+  two_sun_advisor_cultural: "The Priests of Two Sun"
+  two_sun_advisor_cultural_desc: "The Women of Two Sun, keep the sacred engine purring. Perhaps we can listen to them."
   mother_shaman: "Mother Shaman"
   war_shaman: "War Shaman"
   caesars_hound: "Caesar's Hound"
   war_dog: "Dog of War"
+  phoenix_ties: "Phoenix Merchants"
+  lilly_blair: "Lilly Blair"
+  lilly_blair_desc: "Lilly was the Caravan Queen, shepherding convoys as far afield as Chicago or the courts of the Aztlán speakers. Never a fan of soft men, she's fallen for Lucius. "
 
-  selene_command: "Vengeful Mother Selene"
-  selene_command_desc: "Selene possesses almost mystical powers of healing; we can use this for war."
+  two_sun_command: "The Priests of Two Sun"
 
   bares_his_teeth_advisor: "Hides-His-Teeth"
   bares_his_teeth_advisor_desc: "Though we have broken his will to fight, he still has skills of use; the Hangdogs were notorious scavengers, after all."
@@ -25,8 +27,15 @@
   speed_demon: "Speed Demon"
   pit_lord: "Lord of the Pit"
 
+  ces_rancher_advisor: "The Ranchers' Association"
+
   earnhardt_advisor: "Tabellarius Earnhardt"
   earnhardt_advisor_desc: "Earnhardt loves to race and is a natural leader of men; let him courier resources and build our roads."
+  dale_barton: "Dale Barton"
+  dale_barton_desc: "One of Arizona's more prosperous traders, he recognizes the benefits of the order [CES.GetLeader] brings."
+  guillermo_rossi: "Guillermo Rossi"
+  guillermo_rossi_desc: "Decked in elaborate turquoise and silver jewellery, Guillermo's fat fingers are in every pie in the Southwest. But he'll play along with the Legion. If he knows what's good for him. Just don't ask who works in the mines."
+  mining_magnate: "Mining Magnate"
 
   earnhardt_command: "Pit Lord Earnhardt"
   earnhardt_command_desc: "Earnhardt is a gifted mechanic; let him control the pit crews and he will fine tune our chariots for speed."
@@ -47,10 +56,12 @@
   lucius_advisor_desc: "Lucius, like any good commander of the legion, knows well the value of engineering and discipline; this will allow us to mobilise and rally easier."
   lucius_command_desc: "Our praetorians wield ballistic fists; they do not shy from the fray. Lucius, their prefect, knows how best to send troops into that fray, breaking enemy lines."
   malpais_legatus_chief: "The Malpais Legate"
+  CES_river_pirate: "Gaius Duilius"
 
   lanius_legatus_chief: "Legate Lanius"
   malpais_legatus_chief_desc: "Joshua Graham is the greatest tactician and friend Caesar has; so much so that some whisper that Caesar fears him."
   lanius_legatus_chief_desc: "Champion of his tribe, and slayer of it, Caesar gave him a new face, and made him the champion of the legion: legionnaires would rather face death, than Lanius' wroth."
+  navajo_minister: "Hashkeh Naabaah"
 
   monster_of_the_east_chief: "Monster of the East"
   alice_mclafferty_desc: "Alice knows how to do business and do it well; she can satisfy the popular demand for consumerism, so long as she is given lucrative government contracts."
@@ -604,12 +615,22 @@
   maximilian: "Maximilian"
   maximilian_desc: "Maximilian is first a foremost a politician; if you were to say he excelled at anything, it'd be rousing the people to his side. Unfortunately, he tends to make costly promises to achieve such support."
   bumbling_politician_trait: "Bumbling Politician"
+  maximilian_good: "Maximilian"
+  maximilian_good_desc: "Maximilian is first a foremost a politician; if you were to say he excelled at anything, it'd be rousing the people to his side. Fortunately his older brother has clarified the limits of popular support."
+  bumbling_politician_trait: "Bumbling Politician"
+  good_politician_trait: "Veteran Politician"
   zapata: "Zapata"
   zapata_desc: "Zapata is a revolutionary at heart, his first concerns being that the labourer is well fed, and has useful government factories to toil away in for the benefit of both the state and her people. Unfortunately, this doesn't leave nearly so many able bodies for the military."
+  zapata_good: "Zapata"
+  zapata_good_desc: "Zapata has been persuaded that a strong executive is best placed to implement land reform and improve the plight of the people."
   revolutionary_farmer_trait: "Revolutionary Farmer"
-  moctezuma: "Moctezuma"
-  moctezuma_desc: "Moctezuma is a bloodthirsty warrior brimming with ancient Mexican heritage, and practically itching for a fight with Tlaloc's enemies. Unfortunately, his propensity for ritual sacrifice is both bad for people's health, and their opinion of the government."
+  good_farmer_trait: "Land Reform"
+  moctezuma: "Montezuma"
+  moctezuma_desc: "Montezuma is a bloodthirsty warrior brimming with ancient Mexican heritage, and practically itching for a fight with Tlaloc's enemies. Unfortunately, his propensity for ritual sacrifice is both bad for people's health, and their opinion of the government."
+  moctezuma_good: "Montezuma"
+  moctezuma_good_desc: "Montezuma has been reprogrammed to better represent the skills that actually let the Triple Alliance conquer Mexico. Would you like to discuss philosophy? Or how to bribe a town's leaders to surrender without bloodshed?"
   ancient_warmonger_trait: "Ancient Warmonger"
+  ancient_skills_trait: "Successful Traditions"
 
   tla_defensive_subroutine:0 "Defensive Subroutine"
   tla_aggressive_subroutine:0 "Aggressive Subroutine"
@@ -638,9 +659,24 @@
   vlt_mutant_chief_bugs:0 "Bugs"
   vlt_mutant_chief_slime:0 "Slime"
 
-  scout_ambrosone: "Scout Ambrosone"
+  #LNS
+  LNS_paladin_hancock:0 "Paladin Hancock"
+  LNS_paladin_hancock_desc:0 "Paladin Hancock is a senior figure in the Texan Brotherhood's armed forces, and leads the Brotherhood's military advisory detachment to our nation. An advocate of power armour and defensive tactics, Hancock was deemed the perfect man to help us protect the I-20."
+  LNS_scribe_duran:0 "Scribe Duran"
+  LNS_scribe_duran_desc:0 "A senior scribe in the Brotherhood and Paladin Hancock's second in command, Scribe Duran has an impressive knowledge of complicated military tactics and technology. With Duran's patient and thorough advice, we have successfully expanded our technical knowlegde significantly."
+  LNS_cyamus_asina:0 "Cyamus Asina"
+  LNS_cyamus_asina_desc:0 "A senior figure in the Legion scavenging expedition that reached Texas a decade ago, Asina decided to remain in and around Lone Star after the bulk of the expedition returned home. His military expertise is vast, and would bring great reform to our armies."
+  LNS_daisy_roth:0 "Daisy Roth"
+  LNS_daisy_roth_desc:0 "A child of the slums, Daisy Roth grew up having to fend for herself from as soon as she could get a job. Thankfully, a pioneering inititive to help children of the slums lead brigher lives picked her from amongst the thousands of children in the vast slums, giving her a basic education and money to provide for herself. It was evident to her teachers that she was a bright spark, and was nominated for a university education for her educational excellence. Here, she researched Old World economic methods and theories, applying them to the New World to come up with revolutionary new techniques."
+
+  #TBH
+  TBH_river_young:0 "River Young"
+  TBH_river_young_desc:0 "River Young leads the Lone Star economic advisory detatchemnt to our capital, providing us with her and her staff's extensive knowledge of economic affairs. Over the past decade, she has helped us rebuild the industrial districts of Dallas, and her efficient and merticulous mind is ready to help plan the reclamation of more cities."
+  TBH_ariel_horne:0 "Ariel Horne"
+  TBH_ariel_horne_desc:0 "Ariel Horne is a contiversial figure in our government. Whilst she has many things to say about how we use and allocate our finite resources, her lothing of excess has made her enemies amongst the upper echelons of society."
+  scout_ambrosone:0 "Scout Ambrosone"
 
   # JCT
-  doctor_henry: "Doctor Henry"
-  doctor_henry_desc: "One of the best doctors in the Wasteland, Doctor Henry has expressed a strong interest in helping to address the nightkin schizophrenia problem."
-  doctor_henry_trait: "Expert Physician"
+  doctor_henry:0 "Doctor Henry"
+  doctor_henry_desc:0 "One of the best doctors in the Wasteland, Doctor Henry has expressed a strong interest in helping to address the nightkin schizophrenia problem."
+  doctor_henry_trait:0 "Expert Physician"

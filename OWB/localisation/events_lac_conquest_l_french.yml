@@ -1,0 +1,26 @@
+﻿l_french:
+
+    ###############################
+    ##### LAC Custom Tooltips #####
+    ###############################
+
+ tt_lac_decimation_1:9 "§gWe will restrict our pillaging, minimising destruction.§!"
+ tt_lac_decimation_2:9 "Our troops may plunder as they please, creating widespread damage."
+ tt_lac_decimation_3:9 "§RLegionnaires will be given specific targets and quotas for pillaging, scorching the earth for riches.§!"
+
+ tt_lac_choose_crucify:9 "Opting to §Rcrucify§! enemy commanders brings Glory and §Ghightens§! morale for a time."
+ tt_lac_crucify_1:9 "§gThe plebs will tolerate this amount of crucifixions.§!"
+ tt_lac_crucify_2:9 "Many of the plebs will cause trouble over so many crucifixions."
+ tt_lac_crucify_3:9 "§RWe will anger the plebs greatly, but our hegemony will become undisputed where the crosses stand.§!"
+
+
+ tt_lac_choose_recruit:9 "Opting to §Grecruit§! enemy commanders increases our might and magnanimity, but §Rlowers§! morale for a time."
+ tt_lac_recruit_1:9 "§gA former enemy commander will serve Lanius and provide his expertise, but our military will make noise.§!"
+ tt_lac_recruit_2:9 "Our new commander will bring troops to assimilate into our ranks, but our military will need time to adjust."
+ tt_lac_recruit_3:9 "§RA new cohort and commander will be enlisted, utilising their old tactics, which will greatly upset our Legionnaires.§!"
+
+ tt_lac_choose_tribute:9 "Giving Tribute to Caesar brings Glory but little else."
+ tt_lac_ces_tribute:9 "Lanius has fulfilled his obligations, and so must we."
+
+ tt_lac_choose_demand:9 "Demanding a Triumph from Caesar, in return for our Tribute, provides Glory and riches galore."
+ tt_lac_ces_triumph:9 "Lanius demands are reasonable, but troubling: his Triumph will be scheduled, §Rbut we should keep an eye on him.§!"

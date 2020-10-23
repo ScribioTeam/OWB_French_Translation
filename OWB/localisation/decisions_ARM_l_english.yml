@@ -11,3 +11,9 @@
   arm_border_wars: "Pressure Our Foes"
   arm_border_war_rio: "Pressure Armageddon Estacion"
   arm_border_war_rio_desc: "Rio should really turn the station over. Look, they can barely defend themselves against a wandering horde of assaultrons."
+
+
+  ### The Great Game  ###
+  ARM_taa_food: "The Great Game"
+  ARM_taa_food_desc: "The TAA's secession from the Republic of the Rio Grande was supposed to give them freedom, but to some of its neighbours, this just represents a new prey. Time will tell whether [TAA.GetLeader] can save his young nation. \n\nCurrently, the state of infuence by TAA's neighbors is: \n§M[RRG.GetNameWithFlag]§!: \n§M[ARM.GetNameWithFlag]§!: \n§M[ACH.GetNameWithFlag]§!: "
+

@@ -2,10 +2,19 @@
  #-------------------------------------
  # Generic BOS
  #-------------------------------------
-
+  moj_army_of_the_mojave_tt: "\n\n"
+  moj_the_cipher_expedition_tt: "§gWe send an expedition out to the§! §YCiphers of the West§!§g, a mythical group of tech worshippers in Colorado. It will take them some time to get there - but during their travels they will gain quite a bit of experience.§!"
+  moj_ally_tabitha_tt: "§YVeronica§! makes promises to §YTabitha§! in §Y[UTO.GetNameWithFlag]§! that we will help them repair their radio transmission equipment if they help us in our battle against the §Y[MOT.GetName]§!.\n\n"
+  moj_ally_bright_tt: "§YVeronica§! contacts §YJason Bright§!, the leader of a cult living near the §YREPCONN Test Site§!. She promises that we will help arm their rockets so they can reach §MThe Great Beyond§! in exchange for them helping us against the NCR first.\n\n"
+  moj_ally_sunset_saloon_tt: "§YVeronica§! gets the attention of those seeking §MSunset Sarsaparilla Star Bottlecaps§!, telling them that the reason the NCR has arrived in the region is to find the fabled treasure §YFestus§! has promised to those who gather the caps.\n\n"
+  moj_activate_a_turbine: "§gAn additional turbine inside the§! §OHoover Dam§! §gis brought§! §Yonline§!§g, increasing power output.§!"
+  every_arizonan_state: "Every §YArizoan§! State"
+  every_californian_state: "Every §YCalifornian§! State"
+  MOJ_spears_from_the_sun_tt: "§YElijah§! manages to bring the full power of the §YHELIOS ONE§! facility under his control.\nFor the rest of the campaign enables the use of the powerful combat ability §Y"Fire ARCHIMEDES II"§!.\n\n"
   MOJ_our_founding: "Our Founding"
   MOJ_our_founding_desc: "While High Elder Maxson was the founder of the Brotherhood as a whole, each chapter has had its own founders, those that spread the word of the dangers of technology farther into the Wasteland. Who were our founders?"
 
+  moj_needs_to_be_secured: "§RThis individual region needs to be secured before we can take this focus.§!"
   MOJ_our_interim: "Our Interim"
   MOJ_our_interim_desc: "Each chapter of the Brotherhood has its own priorities. Some focus on collecting the powerful weapons of the Old World, while some prioritise the industrial machinery and tools. What did we focus on?"
 
@@ -162,7 +171,7 @@
   MOJ_what_remains_desc: "Death incarnate: that is the Sierra Madre's true form. In a place filled with nothing but death and despair, little remains, but those few dregs are like liquid starlight. Unkillable men who stalk the heart of the casino and vending machines capable of making something from almost nothing: these are the gifts left to us by the ghosts of the Sierra Madre."
 
   MOJ_a_forgotten_weapon: "A Forgotten Weapon"
-  MOJ_a_forgotten_weapon_desc: "Elijah's promises have come true. Even after his genius brought Helios One back to a quarter of its total output, we were skeptical of his claims. Today, however, we were proven deeply wrong in our estimation of his promise. White light that splits the sky with a scream, leaving nothing but charred remains in its wake: this is the weapon Elijah has delivered to us."
+  MOJ_a_forgotten_weapon_desc: "Elijah's promises have come true. Even after his genius brought Helios One back to a quarter of its total output, we were sceptical of his claims. Today, however, we were proven deeply wrong in our estimation of his promise. White light that splits the sky with a scream, leaving nothing but charred remains in its wake: this is the weapon Elijah has delivered to us."
 
   MOJ_hardin: "Hardin"
   MOJ_hardin_desc: "Hardin has emerged the victor of the debate, although he wielded a weapon instead of words. Standing tall over Elijah's still warm ashes in the gloom of that bunker, McNamara simply stood aside and let Hardin have his way. For better or worse, this West Coast loyalist now leads the Mojave Chapter."
@@ -173,8 +182,14 @@
   MOJ_know_our_name: "Know Our Name"
   MOJ_know_our_name_desc: "For too long the Brotherhood has been considered weak by the population of the Mojave. They do not talk of us in hushed tones anymore, rather, they speak openly about how free of our influence they are. They call us \"tin cans\" and joke about our doctrine of tech reclamation. No longer! Soon, the day of reckoning will come for the Mojave, and they will know our name."
 
-  MOJ_technology_raids: "Technology Raids"
-  MOJ_technology_raids_desc: "Technology cannot remain in the hands of wastelanders any longer. Everything that could be a threat should be considered a threat. It's not enough to follow up sightings of technology in the wasteland, rather it's time to proactively search for it. Kick down every door, pull open every closet. We won't stop looking until the house is empty, or until the occupants are dead: or both."
+  moj_rend_the_mojave_dry: "Rend the Mojave Dry"
+  moj_rend_the_mojave_dry_desc: "Technology cannot remain in the hands of wastelanders any longer. Everything that could be a threat should be considered a threat. It's not enough to follow up sightings of technology in the wasteland, rather it's time to proactively search for it. Kick down every door, pull open every closet. We won't stop looking until the house is empty, or until the occupants are dead: or both."
+
+  moj_follow_the_navarro_survivors: "Chasing "Devil's Brigade""
+  moj_follow_the_navarro_survivors_desc: "Chasing "Devil's Brigade""
+  moj_follow_the_navarro_survivors_tt: "§gWe begin supplying a small group of paladins to begin searching Mt. Charleston in the hopes of finding the bunker of "Devil's Brigade", a Navarro Remnants cell. This operation will be particularly expensive - needing us to supply them with ammunition and munitions for the duration of their mission.§!"
+  MOJ_the_mojave_drive_inn: "§MMidnight Science Fiction Feature!§!"
+  MOJ_the_mojave_drive_inn_desc: "§MMidnight Science Fiction Feature!§!"
 
   MOJ_closedown_van_graffs: "Close Down Van Graffs"
   MOJ_closedown_van_graffs_desc: "The Van Graff family is well known throughout California, their name is often whispered in seedy bars and back alleys. Their influence throughout Redding and North California is immense, but it wanes the farther away you go. It's time to teach the Van Graffs a stern lesson: selling pre-war tech in Brotherhood territory drastically shortens your lifespan."

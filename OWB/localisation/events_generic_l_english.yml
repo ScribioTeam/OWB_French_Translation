@@ -10,3 +10,10 @@
   helper_events.1.title:0 "[FROM.GetName] Demands Territory!"
   helper_events.1.desc:0 "The [FROM.GetName] has the audacity to demand of us territory! How should we proceed? Should we crush their miserable ambitions at once, or delay them by giving in for enough time to annihilate them utterly?. §RWe need to take a decision at once, before they take our silence for a sign of disrespect and decide to retaliate on their term. We cannot allow them to seize the initiative!§"
   helper_events.1.a:0 "We will deal with this."
+
+
+
+  generic.26.t:0 "[From.GetName] is Addicted"
+  generic.26.d:0 "[From.GetRank] [From.GetName] has been taking chems to win the war for us, but it's starting to tell.  Now [From.GetName] is out of it, having paranoid fantasies and pretending suffering terribly. This is all quite sad, but even worse it will affect their ability to lead our military.  Perhaps this goes to show that [From.GetRank] [From.GetName] should have trusted the fighting spirit of our people. \n\nJust kidding, we'll give them some Fixer and let them deal with the complicated psychological trauma later."
+  generic.26.a:0 "Maybe some jet will help?"
+  generic.26.a_tt: "\n§OTo be fair, some winners do do drugs.§!"

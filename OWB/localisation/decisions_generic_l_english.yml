@@ -55,3 +55,7 @@
   army_xp_more_than_10_blocked: "£army_experience  §R10§!"
   army_xp_more_than_10_tooltip: "It costs £army_experience §R10§! to select this."
   fates_of_nations_category: "The Fates of Nations"
+
+  command_power_more_than_25: "£command_power  §H25§!"
+  command_power_more_than_25_blocked: "£command_power  §R25§!"
+  command_power_more_than_25_tooltip: "It costs £command_power §R25§! to select this."

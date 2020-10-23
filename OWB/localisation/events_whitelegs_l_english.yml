@@ -104,7 +104,7 @@
 
   ########################
   nf_whitelegs.21.t: "Pay our Debts"
-  nf_whitelegs.21.d: "We have seized New Canaan, and as promised, we will give the Eighties a share of the plunder. Some would ask [WHT.GetLeaderName] to go back on his word, but the White Legs are a people of honour."
+  nf_whitelegs.21.d: "We have seized New Canaan, and as promised, we will give the Eighties a share of the plunder. Some would ask [WHT.GetLeader] to go back on his word, but the White Legs are a people of honour."
   nf_whitelegs.21.a: "Ill is the man who breaks faith!"
   ########################
   nf_whitelegs.22.t: "The Wall of Jericho"
@@ -135,8 +135,25 @@
   nf_whitelegs.28.t: "The Code of [WHT.GetLeader]"
   nf_whitelegs.28.d: "[WHT.GetLeader] grew up in a tent, but he had no desire for his children to. To that end, after the conquest of New Canaan, he issued a set of laws inspired by Canaanite teachings, Legion recommendations, and tribal wisdom.  The Code of Salt was to play a pivotal role in the tribe's future, and these are some of his laws. \n\n2. In matters of inheritance, daughters and sons must receive equal shares. \n\n6. Leaders of a religion, preachers, monks, physicians, and those who burn the bodies of the dead are to be freed from taxes.\n\n15. No subject of the tribe may take a White Legs for servant or slave. Every man, except in rare cases, must join the army.  Women may not be denied entrance into the army. \n\n 20. Children born of slaves are legitimate as the children of wives. \n\n 32. It is forbidden to bathe or wash garments in running water during thunder."
   nf_whitelegs.28.a: "The tribe will remember this."
+
   #######################
-  nf_whitelegs.29.t: "The Light of the Lord"
-  nf_whitelegs.29.d: "The [WHT.GetName] are called pagans by some, but they hold to the lessons of Christ in their own way. They follow the Gospel for a colder, harsher world. In the tales of the White legs the disciplies of Christ are like the band of a chieftain, not fishers of men. John the Baptist is brought up as a warrior-companion of Christ, and pledges to stand fast together with the Lord. For the White Legs, Jesus turned the disciples into a powerful force of many peoples, a holy army. And when Jesus dies upon the Cross, he descended into Hell to do battle with the forces of darkness. \n\nA harsh faith, but not, perhaps, a bad one for the Wastes. And when [WHT.GetLeader] listens to the tale of Samson in the Temple, perhaps he can see the similarities to the teachings of the Canaanites. \n\n"
-  nf_whitelegs.29.a: "Amen."
-  nf_whitelegs.29.a_tt: "\nYour Lord, Saviour Christ, from the city of Nazareth, \nHim whom the Legions of Rome did torture and nail to the cross,\nHim sinless they laid the grave. He himself is not there,\nBut he has arisen, and this place is empty.\nFor the boon of mankind, and many a bolt,\nWas unlatched on hell's doors, and the way to Heaven \nFrom the world was fashioned."
+  nf_whitelegs.29.t: "Aid from the Legion"
+  nf_whitelegs.29.d: "The Legion has sent a trade delegation and advisors. This will provide valuable assistance to us, but it may give them a stronger say in our affairs. Will we sup with the Bull, or shall we walk our own path this time?"
+  nf_whitelegs.29.a: "Let us listen."
+  nf_whitelegs.29.b: "We walk on our own legs."
+
+  #######################
+  nf_whitelegs.30.t: "[WHT.GetLeader] Listens"
+  nf_whitelegs.30.d: "Salt Upon Wounds was kind enough to listen to our teachings and accept our offer of trade.  Good for him . . . but better for us."
+  nf_whitelegs.30.a: "A new field for combat."
+
+  #######################
+  nf_whitelegs.31.t: "[WHT.GetLeader] Rejected Our Aid"
+  nf_whitelegs.31.d: "Salt Upon Wounds was willing to listen to our offer, but he tactfully declined our assistance. He is willing to listen again in the future, however."
+  nf_whitelegs.31.a: "Perhaps he is smarter than we thought."
+
+  #######################
+  nf_whitelegs.32.t: "The Light of the Lord"
+  nf_whitelegs.32.d: "The [WHT.GetName] are called pagans by some, but they hold to the lessons of Christ in their own way. They follow the Gospel for a colder, harsher world. In the tales of the White legs the disciplies of Christ are like the band of a chieftain, not fishers of men. John the Baptist is brought up as a warrior-companion of Christ, and pledges to stand fast together with the Lord. For the White Legs, Jesus turned the disciples into a powerful force of many peoples, a holy army. And when Jesus dies upon the Cross, he descended into Hell to do battle with the forces of darkness. \n\nA harsh faith, but not, perhaps, a bad one for the Wastes. And when [WHT.GetLeader] listens to the tale of Samson in the Temple, perhaps he can see the similarities to the teachings of the Canaanites. \n\n"
+  nf_whitelegs.32.a: "Amen."
+  nf_whitelegs.32.a_tt: "\nYour Lord, Saviour Christ, from the city of Nazareth, \nHim whom the Legions of Rome did torture and nail to the cross,\nHim sinless they laid the grave. He himself is not there,\nBut he has arisen, and this place is empty.\nFor the boon of mankind, and many a bolt,\nWas unlatched on hell's doors, and the way to Heaven \nFrom the world was fashioned."

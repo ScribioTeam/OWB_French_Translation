@@ -98,7 +98,7 @@
   EHT_focus_eastport_promotion: "The Plunder of Eastport"
   EHT_focus_eastport_promotion_desc: "Eastport's wealth will serve us well. "
   EHT_preparing_the_war_trails: "Pave the War Trails"
-  eht_war_trails_tt: "Either §Y[NCN.GetName]§! or §Y[WHT.GetName]§!:\n    §Y*§! Are at §Rwar§! with us after we tried to be friendly\n    §Y*§! Don't exist\n    §Y*§! Are a puppet to somebody.§!§!"
+  eht_war_trails_tt: "Either §Y[NCN.GetName]§! or §Y[WHT.GetName]§!:\n    §Y*§! Are at §Rwar§! with us after we tried to be friendly\n    §Y*§! Don't exist\n    §Y*§! Are a puppet to somebody.§!§! \nOr you allied with the §YLegion!§!"
   EHT_preparing_the_war_trails_desc: "We do not need an ally to conquer Utah. We will do it ourselves."
   EHT_start_your_engines: "Start Your Engines"
   EHT_start_your_engines_desc: "It's time to mobilize for war. Good luck, Utah. You'll need it."
@@ -178,3 +178,12 @@
   EHT_home_again_desc: "It's time to repay the NCR for all it's done to us. We will use their Hall of Congress as a garage and drive over Tandi's grave! To war!"
   EHT_faith_i80: "Faith in the Great Eighty"
   EHT_faith_i80_desc: "To go home another way would be cowardly. Worse, it would be dishonourable."
+
+  EHT_ally_caesar: "The Legion's Outriders"
+  EHT_ally_caesar_desc: "Perhaps the Eighties failed because they stood alone. If we are going to carve an empire, we will need allies.  Strong allies, who can rip out the NCR's heart and show it to us."
+  EHT_ally_caesar_tt: "We will become an ally of §Y[CES.GetNameWithFlag]§!, but be warned! This will ultimately turn us into their subject in exchange for technological and military support. We'll still get to declare wars though, so don't worry."
+
+EHT_cult_of_nas: "Hear the Words of Nas"
+EHT_cult_of_nas_desc: "Two Sun's Cult of Nas is similar to our own beliefs. Although we do not worship the highway as such, and they are somewhat soft, they understand the Great Journey. Perhaps we can ride the Highway together? And most compelling, their priests have brought gifts."
+EHT_reclaim_sac_city: "Ask for Sac City"
+EHT_reclaim_sac_city_desc: "Now that Caesar has conquered our homeland, perhaps he will return it in exchange for our aid in the war that gave him California?"

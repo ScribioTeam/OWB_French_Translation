@@ -1,0 +1,15 @@
+﻿l_english:
+ fp_support_dynamic: "The Support of Our People"
+ fp_clan_support_mod: "Clans Support"
+ fp_city_support_mod: "City Dweller Support"
+
+
+ fp_clan_support_change_tt: "Increase Clans Support by §G[?fp_support_var_temp]§!"
+ fp_city_support_change_tt: "Increase City Dweller Support by §G[?fp_support_var_temp]§!"
+
+ fp_enough_clan_support_tt: "Has more than §G[?support_check_temp]§! §YClans Support§!"
+ fp_enough_city_support_tt: "Has more than §G[?support_check_temp]§! §YCity Dweller Support§!"
+
+ fp_conscript_increase_tt: "The Support of Our People - Monthly Manpower: §G+[?fp_increase_temp]%§!"
+ fp_infrastructure_increase_tt: "The Support of Our People - §YInfrastructure§! Construction Speed: §G+[?fp_increase_temp]%§!"
+ fp_industry_increase_tt: "The Support of Our People - §YIndustry§! Construction Speed: §G+[?fp_increase_temp]%§!"
