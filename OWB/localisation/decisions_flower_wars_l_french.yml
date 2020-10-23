@@ -1,12 +1,106 @@
 ﻿l_french:
+  #General
  flower_war_peacetime_countdown:0 "Cessez-le-feu à la frontière"
  flower_war_peacetime_countdown_desc:0 "Après la dernière série d'affrontements frontaliers à grande échelle, [ROOT.flw_enemy] et nous-mêmes nous sommes quelque peu retirés des régions frontalières contestées, pour éviter de provoquer une guerre à grande échelle et pour nous assurer de remporter la victoire la prochaine fois. Les combats reprendront bientôt, il n'y a pas de doute !"
  flower_war_gotime_countdown:0 "Tensions à la frontière!"
  flower_war_gotime_countdown_desc:0 "Des escarmouches mineures à la frontière ont récemment commencé à dégénérer en combats à petite échelle. Une guerre frontalière semble devoir éclater à la frontière avec [ROOT.flw_enemy] à tout moment !"
 
+  #Aztlan
+ intel_reform1:9 "Begin Reforms"
+ intel_reform1_desc:9 "Our operatives are quite poorly trained, making their discovery and capture almost inevitable. We'll need to review our infiltration procedures going forward."
+ intel_reform2:9 "Anti-partisan Training"
+ intel_reform2_desc:9 "As the most formidable army in Mesoamerica, we're no strangers to administrating conquered land. Nevertheless, our heavy-handed tactics do not always produce the best outcomes. It may be best for us to reflect on how to best use our agents to shore up our empire."
+ intel_reform3:9 "Finalize Operative Education"
+ intel_reform3_desc:9 "We're close to having a robust training program for our operatives. Teaching additional methods to blending in with the local populace should certainly help."
+ intel_reform4:9 "Retrofit the Agency"
+ intel_reform4_desc:9 "Our agency itself contains serious problems. Workers there undergo little security checks, and protocol for handlers is nearly non-existent. Greater standardization should lead to better results."
+ intel_reform5:9 "Finalize the Reforms"
+ intel_reform5_desc:9 "The major intelligence problems facing our nation have been dealt with. All that's left now is to continue to improve our efficiency and practices."
+
+ wider_training:9 "Scout a Larger Operative Pool"
+ wider_training_desc:9 "We tend to only make our agent selections from a small group of candidates. Expanding our search process could help turn up more promising recruits. \n \n §RThis is an additional reform, meaning that once this level of primary reform is taken it will no longer be available!§!"
+ 1_ATE_tt:9 "Gain §G+1 recruitment option§! when recruiting a new operative. \n"
+
+ new_scouting_techniques:9 "Introduce New Recon Techniques"
+ new_scouting_techniques_desc:9 "Our operatives use outdated methods when scouting enemy formations and terrain. These often leads to subpar intelligence, and even sometimes being spotted by the enemy! \n \n§RThis is an additional reform, meaning that once this level of primary reform is taken it will no longer be available!§!"
+ 2_ATE_tt:9 "Gain §G+10% intel§! from operatives in the field. \n"
+
+ refocus_army_training:9 "Refocus Recruitment Efforts"
+ refocus_army_training_desc:9 "Currently, our recruitment efforts focus primarily on attracting young warriors into the army. By temporarily shifting our new recruits towards cryptological training we could make serious strides in that field. \n \n§RThis is an additional reform, meaning that once this level of primary reform is taken it will no longer be available!§!"
+ 3_ATE_tt:9 "Gain §G+5% decryption power§!."
+
+ use_air_power:9 "Utilize Our Airforce"
+ use_air_power_desc:9 "We've managed to build a competent air force. With proper planning and foresight we can make use of our planes in our operations as emergency supply drops or evacuations. \n \n§RThis is an additional reform, meaning that once this level of primary reform is taken it will no longer be available!§!"
+ 4_ATE_tt:9 "Gain §G-5% risk on all operations§!. \n"
+
+ smaller_than_ITZ:9 "Reach Parity Through Other Means"
+ smaller_than_ITZ_desc:9 "The size of our army is unfortunately not at parity with the Itza's. Although we could focus on training more troops, some advisors argue that we'd do best training anti-Itzan resistance forces in their own territory.\n \n§RThis is an additional reform, meaning that once this level of primary reform is taken it will no longer be available!§!"
+ 5_ATE_tt:9 "Gain §G+15% effectiveness to boost resistance operations§!."
+
+ help_border_war:9 "Deploy Agents on the Border"
+ help_border_war_desc:9 "A border war has broken out! We must act quickly and use this opportunity for our agents to get a better sense of our enemy's capabilities and equipment.\n \n§RThis is an additional reform, meaning that once this level of primary reform is taken it will no longer be available!§!"
+ 6_ATE_tt:9 "Gain §G+10% intel§! from operatives in the field. \n"
+
+ learn_from_foreign:9 "Study Foreign Wars"
+ learn_from_foreign_desc:9 "A world exists outside the Flower Wars. By sending agents abroad to study the intelligence operations and capacity of foreign powers we could strengthen our own capabilities. \n \n§RThis is an additional reform, meaning that once this level of primary reform is taken it will no longer be available!§!"
+ 7_ATE_tt:9 "Unlocks a §Gnew§! army chief. \n"
+
+ use_naval_power:9 "Use Our Naval Power"
+ use_naval_power_desc:9 "The new ships we've built could help us prepare for and execute our operations. Using rivers as a means of transportation might be an ingenious way to lower our costs. \n \n§RThis is an additional reform, meaning that once this level of primary reform is taken it will no longer be available!§!"
+ 8_ATE_tt:9 "Operations cost §G15%§! less. \n"
+
+ recruit_from_top:9 "Recruit from the Upper Echelons"
+ recruit_from_top_desc:9 "The children of our elite families have received extensive education. It might be best to encourage them to use that education in service of La Fuerza Especial. \n \n§RThis is an additional reform, meaning that once this level of primary reform is taken it will no longer be available!§!"
+ 9_ATE_tt:9 "Gain §G+1 recruitment option§! when recruiting a new operative."
+
+ improve_security_protocol:9 "Improve our Agency's Security Protocols"
+ improve_security_protocol_desc:9 "Our offensive capabilities have grown, but there's room for improvement in terms of protecting our own secrets. With some additional funding we could drastically improve our agency's security. \n \n§RThis is an additional reform, meaning that once this level of primary reform is taken it will no longer be available!§!"
+ 10_ATE_tt:9 "Gain §G+1 intelligence defence§! for La Fuerza Especial. \n"
+
+ big_expand_capabilities:9 "Massively Expand Our Capabilities"
+ big_expand_capabilities_desc:9 "Every new agent brings a host of new possibilities for La Fuerza. Sadly, each new agent requires a massive investment of time and resources. \n \n§RThis is an additional reform, meaning that once this level of primary reform is taken it will no longer be available!§!"
+ 11_ATE_tt:9 "Gain §G+1 operative slot§! permanently. \n"
+
+ raid_tlaloc:9 "Prepare to Raid Tlaloc's Laboratories"
+ raid_tlaloc_desc:9 "Years ago, Tlaloc halted our army's advance using nuclear weapons. What we cannot take by force, we will use our agents to garner instead. We'll covertly prepare to raid Tlaloc's laboratories, siphoning every advantage we can find. \n\n§YWe'll be forced to make a series of choices once the raid begins—choices that will either spell disaster or victory for our agents§!. \n \n§RThis is an additional reform, meaning that once this level of primary reform is taken it will no longer be available!§!"
+ 12_ATE_tt:9 "Unlocks the operation §YRaid Tlaloc's Laboratories§!."
+
+  #Tierra
+ tdt_cointel:9 "Create a Security State"
+ tdt_cointel_desc:9 "Our enemies are all around us, meaning their operatives are no doubt within us. We should launch a propaganda offensive to try and increase the vigilance of both our citizens and security forces."
+ tdt_defensives:9 "Create a Fortified State"
+ tdt_defensives_desc:9 "Our enemies are all around us, meaning we should prepare for an inevitable invasion. We must give our soldiers every advantage possible!"
+ tdt_build_intel:9 "Expand the State's Intelligence"
+ tdt_build_intel_desc:9 "A good conquerer knows all about the conquered. It's time we learn about the nations we're soon to rule."
+ tdt_expansions:9 "Militarize the State"
+ tdt_expansions_desc:9 "We must focus on expanding our war industry in order to match our enemy's manufacturing power."
+
+  #Petro
+ pet_investigate_ate:9 "Investigate Strange Events"
+ pet_investigate_ate_desc:9 "There's reason to believe the operatives of supposedly neutral nations have recently engaged in operations against us. A thorough investigation should sort this out."
+ pet_investigate_itz:9 "Investigate Strange Events"
+ pet_investigate_itz_desc:9 "There's reason to believe the operatives of supposedly neutral nations have recently engaged in operations against us. A thorough investigation should sort this out."
+ pet_intervene_ate:9 "Intervene Against the Aztlan"
+ pet_intervene_ate_desc:9 "The Flower Wars have escalated to a larger military conflict, meaning now is the time to strike. We can take swift revenge against those who've wronged us before."
+ pet_intervene_itz:9 "Intervene Against the Itza"
+ pet_intervene_itz_desc:9 "The Flower Wars have escalated to a larger military conflict, meaning now is the time to strike. We can take swift revenge against those who've wronged us before."
+ pet_cointel:9 "Expand Counterintelligence Operations"
+ pet_cointel_desc:9 "Outside forces have infiltrated our nation, necessitating a renewed effort to safeguard ourselves from them."
+
   # Categories
  flower_wars:0 "Les Guerres des Fleurs"
  flower_wars_desc:0 "Pendant de nombreuses décennies, des affrontements aux frontières ont fait rage entre nous et [ROOT.flw_enemy]. Les affrontements se déroulent autour de trois États principaux : Mexico, He'la 'Uuchben Ts'oon et La Tumba Compartida. La possession de ces états nous donne d'importants bonus de stabilité et donne également à notre ennemi d'importantes faiblesses. La frontière est contestée tous les trois ou quatre mois, avec un basculement initial entre nous et [ROOT.flw_enemy]. Si nous ne parvenons pas à déclencher une guerre des frontières, comme le demande notre dur ligne, nous ferons face à de lourdes conséquences ..."
+
+ refine_operations_cat:9 "Reform La Fuerza Especial"
+ refine_operations_cat_desc:9 "Our warriors' proud legacy is sometimes overshadowed by our operatives' colossal mistakes. Winning the Flower Wars will take more than a strong army, necessitating major reforms."
+
+ tdt_defend_home_cat:9 "Defend Our Home"
+ tdt_defend_home_cat_desc:9 "Malign forces surround us, forcing a realignment of our political and military priorities. We must defend our home!"
+ tdt_expand_home_cat:9 "Expand Our Home"
+ tdt_expand_home_cat_desc:9 "It's time to expand anew, conquering and raiding whatever provides the most appealing target."
+
+ pet_investigate_cat:9 "Respond to Foreign Operations"
+ pet_investigate_cat_desc:9 "There have been suspicious activities in our country as of late. We should investigate in order to get to the bottom of them."
 
   # Tooltips
  has_flw_initiative:0 "Nous avons l'initiative dans les Guerres des Fleurs"

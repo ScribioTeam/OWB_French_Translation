@@ -39,7 +39,7 @@
  nf_gente.8.a:9 "Salud!"
    #############################################
  nf_gente.9.t:9 "A Trade Caravan from [GDH.Capital.GetName]"
- nf_gente.9.d:9 "[GDH.GetLeader] has sent another convoy to us, furthering the cause of Mexican solidarity. [GDH.GetLeader] is a a son of a bitch, perhaps they are our son of a bitch."
+ nf_gente.9.d:9 "[GDH.GetLeader] has sent another convoy to us, furthering the cause of Mexican solidarity. [GDH.GetLeader] is a son of a bitch, he's our son of a bitch."
  nf_gente.9.a:9 "Mexico: Mas fuertes juntos!"
   #############################################
  nf_gente.10.t:9 "[GDH.Capital.GetName] aligned with [RRG.Capital.GetName]"
@@ -128,7 +128,7 @@
  nf_gente.33.a_tt:9 "\nThis unlocks a timed mission to finish the villa. Completing additional focuses will unlock ways to delay or speed up construction at a cost in stress. "
  GDH_villa_construction_begun:9 "Villa Construction Begun"
  ##############################################
- nf_gente.34.t:9 "A Visit from El Generalissimo"
+ nf_gente.34.t:9 "A Visit From El Generalissimo"
  nf_gente.34.d:9 "[CES.GetLeader], [GDH.GetLeader] has proposed an arms deal. This could be very useful to us, and there's honestly no downside to this arrangement. They hope that this will later turn into an alliance against the Luchadores who threaten [GDH.GetLeader], and we could use this as a springboard to invade Mexico..."
  nf_gente.34.a:9 "Ave!"
  nf_gente.34_tt:9 "\nYou may now buy guns from [GDH.GetLeader]! in the decision tab!\n"
@@ -142,7 +142,7 @@
  nf_gente.36.d:9 "Although [CES.GetLeader]'s delegates refused our shots of tequila, they have agreed to buy firearms from us. Soon slaves, silver, and cotton will flow to our villa. And we can use the Legion's aid to restore order to much of Mexico."
  nf_gente.36.a:9 "This calls for another party!"
   ##############################################
- nf_gente.37.t:9 "A Visit from El Generalissimo"
+ nf_gente.37.t:9 "A Visit From El Generalissimo"
  nf_gente.37.d:9 "[RRG.GetLeader], [GDH.GetLeader] has proposed an arms deal. This could be very useful to us, and there's honestly no downside to this arrangement. They hope that this will later turn into an alliance against the Luchadores who threaten [RRG.GetLeader], and we could use their guns against our enemies..."
  nf_gente.37.a:9 "Muchas Gracias!"
  nf_gente.37.b:9 "No, we plan to conquer [GDH.GetName]"
@@ -151,7 +151,24 @@
  nf_gente.38.d:9 "The leader of the Republic of the Rio Grande has accepted our offer.  Is this not wonderful?"
  nf_gente.38.a:9 "This calls for another party!"
    ##############################################
-
+ nf_gente.39.t:9 "Panic Attack!"
+ nf_gente.39.d:9 "The stress of looking this good has gotten to El Generalissimo! He will need to take some time off to recover, and in his absence chaos will reign! Perhaps he was too hard working? "
+ nf_gente.39.a:9 "I blame the Crossfit"
+ nf_gente.39.a_tt:9 "At least I won't be stressed anymore."
+   ##############################################
+ nf_gente.40.t:9 "[GDH.GetLeader] wishes to purchase Baja."
+ nf_gente.40.d:9 "Great [CES.GetLeader], [GDH.GetLeader] wishes to buy the Baja peninsula from us. Truth be told, we do not need the territory, and we are already overstretched with our victories elsewhere. However, this will cement his control over what he is now calling the Sea of Vialla"
+ nf_gente.40.a:9 "We will gladly sell more desert!"
+ nf_gente.40.b:9 "The Legion's flag never retreats!"
+  #############################################
+ nf_gente.41.t:9 "El Mar De Vialla"
+ nf_gente.41.d:9 "At long last, El Generalissimo finally has a beach front property worth the name. How wonderful! And of course the people of Baja greatly prefer El Generalissimo's rule over the Legion."
+ nf_gente.41.a:9 "Sounds like it's time for another party!"
+   ##############################################
+ nf_gente.42.t:9 "Caesar Said No!"
+ nf_gente.42.d:9 "For some reason, Caesar does not wish to sell us a significant piece of territory that restricts our access to the Pacific for a low, low price. But we can always consider alternatives."
+ nf_gente.42.a:9 "Punta."
+   ##############################################
   ### Ideas
  gdh_ruthless:9 "A Fiery Temper"
  gdh_stoic:9 "An Even Keel"

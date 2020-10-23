@@ -1,4 +1,5 @@
 ﻿l_french:
  CMC_payout_category:9 "Casino Payout"
- CMC_payout_category_desc:9 "Investing in Casinos and the surrounding attractions will increase our income drastically. But be careful, gambling is not just unreliable for the gambler.\n\nNumber of fully running Casinos: §G[?cmc_casinos_open]/4§!\n\nNumber of open Roadside Attractions: §G[?cmc_roadsides_open]/4§!"
+ CMC_payout_category_desc:9 "Investing in Casinos and the surrounding attractions will increase our income drastically. But be careful, gambling is not just unreliable for the gambler.\n\nNumber of fully running Casinos: §G[?cmc_casinos_open]§!\n\nNumber of open Roadside Attractions: §G[?cmc_roadsides_open]§!\n\nYou will receive the payout once every quarter and the next one is expected to be [CMC_casino_payout_math] barring unforseen circumstances.\n\n§gCasinos give more income than attractions, but attractions reduce the chance of bad events.§!"
  cmc_quarterly_payout:9 "Quarterly Casino Income"
+ CMC_casino_payout_decision_tt:9 "§G[?payout_total_loc]k§! [GetCapType]"

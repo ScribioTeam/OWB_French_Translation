@@ -5,32 +5,10 @@
  cultofmars:0 "Culte de Mars"
  cultofmars_desc:0 "La Légion croit que César est le Fils de Mars, un dieu de la guerre qui a apporté un feu purificateur sur la terre afin que son fils puisse tout conquérir. Ils sont farouchement dévoués à César."
 
- legion_nf_shottol_god_of_dogs:0 "Shottol, Dieu des chiens"
- legion_nf_shottol_god_of_dogs_desc:0 ""
-
- legion_nf_goddess_diana:0 "Déesse Diana"
- legion_nf_goddess_diana_desc:0 ""
-
- legion_nf_caesar_the_godslayer:0 "César le tueur de Dieu"
- legion_nf_caesar_the_godslayer_desc:0 ""
-
- legion_nf_cult_of_nas:0 "Culte de Nas"
- legion_nf_cult_of_nas_desc:0 ""
-
- legion_nf_cult_of_nas_minor:0 "Culte de Nas"
- legion_nf_cult_of_nas_minor_desc:0 ""
-
- legion_nf_wyatt_the_demon:0 "Wyatt le démon"
- legion_nf_wyatt_the_demon_desc:0 ""
-
- legion_nf_legion_outlaws:0 "Légion de hors-la-loi"
- legion_nf_legion_outlaws_desc:0 ""
-
- legion_nf_the_twin_temples:0 "Temples jumeaux"
- legion_nf_the_twin_temples_desc:0 ""
-
- legion_nf_nas_scriptures:0 "Les Écritures de Nas"
- legion_nf_nas_scriptures_desc:0 ""
+ cultofmars1:9 "Whiffs of Heresy"
+ cultofmars2:9 "The God's Brother Vulcan"
+ cultofmars3:9 "The Older Brother"
+ cultofmars4:9 "The Cult of Vulcan"
 
  legion_nf_enslaved_dogs:0 "Chiens asservis"
  legion_nf_enslaved_dogs_desc:0 ""
@@ -73,9 +51,6 @@
 
  legion_nf_gladiator:0 "Gladiateurs"
  legion_nf_gladiator_desc:0 ""
-
- legion_nf_deconstructing_perfection:0 "Déconstruire la perfection"
- legion_nf_deconstructing_perfection_desc:0 ""
 
  legion_nf_burned_man_rumours:0 "Rumeurs d'homme brûlé"
  legion_nf_burned_man_rumours_desc:0 ""
@@ -137,8 +112,6 @@
  legion_nf_hoover_dam:0 "Hoover Dam"
  legion_nf_hoover_dam_desc:0 ""
 
- legion_nf_rubicon_crossed:0 "Traversée du Rubicon"
- legion_nf_rubicon_crossed_desc:0 ""
 
  legion_nf_weapon_maintenance:0 "Maintenance d'armes"
  legion_nf_weapon_maintenance_desc:0 ""
@@ -225,7 +198,7 @@
  frumentarii_advisors:9 "Amis Frumentarii"
  WHT_compassion:9 "Dura Lex Sed Lex"
  WHT_oppression:9 "Impitoyabilité"
-
+ library:9 "The Great Library"
  ces_legionary_glory:9 "Gloire des Légionnaires"
  ces_primus_glory_idea:9 "Gloire à Primus"
  ces_centurion_glory_idea:9 "Idée de Gloire du Centurion"
@@ -237,6 +210,7 @@
  infiltrate_ncr:9 "Infiltrer la RNC"
  infiltrate_ncr_resistance:9 "Infiltrer la RNC"
  CES_armories_gente_idea:9 "Les Armureries de Gente sont Ouvertes !"
+ ces_canis_latrans_idea:9 "The Dogs"
  CES_urban_legionaries_idea:9 "Légionnaires urbains"
  ces_frumentarii_drilmasters_idea:9 "Les Drillmasters"
  ces_frumentarii_infiltrator_idea:9 "Les Scouts"
@@ -255,5 +229,10 @@
  CES_vulcan_chariots_idea:9 "Ma Voie ou la Haute Voie"
  CES_vulcan_chariots_idea_2:9 "Le Marteau et l'Enclume"
  CES_vulcan_chariots_idea_3:9 "Le Culte de Nas se Propage"
-
+ ces_infinite_armies:9 "The Unending Legions"
+ ces_ever_evolving_idea:9 "Ever Evolving"
+ ces_new_generation_idea:9 "The New Generation"
+ ces_auxiliary_supremacy_idea:9 "The Auxiliaries Supreme"
+ CES_legionary_support_idea:9 "The Cleansing Flame"
+ CES_fire_fuel_idea:9 "The Fires of Tartarus"
 

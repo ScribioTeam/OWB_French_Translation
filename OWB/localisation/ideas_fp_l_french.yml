@@ -1,5 +1,12 @@
 ﻿l_french:
+
+ gpf_three_nations_trade:9 "Three Nations Trade Center"
+ gpf_three_nations_trade_tt:9 "All three nations have invested heavily into a shared trade center in First People's Junction and all will earn their share of the profits from it."
+ gpf_acclimatization:9 "Acclimatization to the Surface"
+ gpf_defensive_accord:9 "Safety"
+ gpf_freedom_accord:9 "Freedom"
  fp_support_dynamic:9 "Le Soutien de Notre Peuple"
+ fp_support_dynamic_tt:9 "§gThis national spirit will gain bonuses based on the support of the clans and city dwellers.§!"
  fp_clan_support_mod:9 "Soutien des Clans"
  fp_city_support_mod:9 "Soutien aux Citadins"
 
@@ -13,3 +20,44 @@
  fp_conscript_increase_tt:9 "Le Soutien de Notre Peuple - Effectif mensuel : §G+[?fp_increase_temp]%§!"
  fp_infrastructure_increase_tt:9 "Le Soutien de Notre Peuple - §YInfrastructure§! Vitesse de construction : §G+[?fp_increase_temp]%§!"
  fp_industry_increase_tt:9 "Le Soutien de Notre Peuple - §YIndustrie§! Vitesse de Construction: §G+[?fp_increase_temp]%§!"
+
+
+ gpf_trained_hunters:9 "Trained Hunter"
+
+ gpf_pit_preparations:9 "Preparations for the PIT"
+ gpf_new_students:9 "Eager New Students"
+ gpf_trade_pact_1:9 "Trade Pact"
+ gpf_trade_pact_2:9 "Free Trade"
+ gpf_protected_caravans:9 "Protected Caravans"
+ gpf_protected_caravans_desc:9 "Regular patrols will make it easier for new caracan companies and businesses to settle down in our lands."
+ gpf_infrastrucutre_projects:9 "Infrastructure Projects"
+ gpf_train_network:9 "Train Network"
+
+ gpf_horse_breeding_large:9 "Horse Breeding Program"
+ gpf_horse_breeding_medium:9 "Horse Breeding Program"
+ gpf_horse_breeding_small:9 "Horse Breeding Program"
+ gpf_horse_breeding_specialized:9 "Horse Breeding Program"
+
+ gpf_horse_breeding_large_result:9 "Large Scale Horse Breeding"
+ gpf_horse_breeding_medium_result:9 "Medium Scale Horse Breeding"
+ gpf_horse_breeding_small_result:9 "Small Scale Horse Breeding"
+ gpf_horse_breeding_specialized_result:9 "Specialized Horse Breeding"
+
+ gpf_caravan_crimson:9 "Crimson Caravan"
+ gpf_caravan_crimson_tt:9 "§LAll the way from the west coast comes a well established caravan company that excels at producing and shipping agricultural and industrial goods§!"
+ gpf_caravan_diamond_shipping:9 "Diamond Shipping Company"
+ gpf_caravan_diamond_shipping_tt:9 "§LA company that sells all manner of goods all along the Mississippi with a small fleet of refurbished ships.§!"
+ gpf_caravan_ozark_logging:9 "Ozark Logging"
+ gpf_caravan_ozark_logging_tt:9 "§LWhile their big seller is still the quality wood they get from what remains of the nearby national park, they branched out into other goods as well, like the unique plants with special properties that grow deep in the wilderness.§!"
+
+ gpf_standhope_advisor:9 "Standhope Shadow Mountain"
+
+ gpf_lushanya_advisor:9 "Lushanya Harjo"
+ lushanya_advisor_trait:9 "Casino Heiress"
+ gpf_trade_genius:9 "Trade Genius"
+
+ gpf_nashoba_advisor:9 "Nashoba Solomon"
+ gpf_nashoba_trait:9 "Storyteller"
+
+
+

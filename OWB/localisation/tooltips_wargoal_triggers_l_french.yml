@@ -5,3 +5,4 @@
  all_core_land_owned_by_mormons_tt:9 "All core land of §Y[This.GetNameDef]§! is owned by §Y[Prev.GetNameDef]§! or another country under §YMormon§! influence.\n"
  sphere_controls_all_core_land_of_prev_tt: "Tout état coeur de §Y[Prev.GetNameDef]§! est contrôlé par §Y[This.GetNameDef]§!, ses sujets, ou ses alliés.\n"
  all_core_land_controlled_by_prev_sphere_tt: "Tout état coeur de §Y[This.GetNameDef]§! est contrôlé par §Y[Prev.GetNameDef]§!, ses sujets, ou ses alliés.\n"
+ country_owns_all_core_land_of_prev_tt:9 "All core land of §Y[Prev.GetNameDef]§! is owned by §Y[This.GetNameDef]§!.\n"

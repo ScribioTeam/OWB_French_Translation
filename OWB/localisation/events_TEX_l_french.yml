@@ -5,20 +5,116 @@
  nf_texas.2.t:9 "War is the Continuation of Politics"
  nf_texas.2.d:9 ""
  nf_texas.2.a:9 "To live in peace we must be ready for war."
- nf_texas.3.t:9 "The Questions of the Nation"
- nf_texas.3.d:9 ""
- nf_texas.3.a:9 ""
- nf_texas.4.t:9 "Do Right and Risk the Consequences"
- nf_texas.4.d:9 ""
- nf_texas.4.a:9 "It is our duty to make these decisions."
+
+ nf_texas.3.t:9 "A Questions of State"
+ nf_texas.3.d:9 "Choose who Texas will elect, yes it's that simple to win elections sometimes."
+ nf_texas.3.a:9 "Cho Bang shall lead us"
+ nf_texas.3.b:9 "Rusk for Texas"
+ nf_texas.4.t:9 "Texan Aerial Supremacy"
+ nf_texas.4.d:9 "The Texan Commemorative Airforce was a large organisation before the war, strangely enough determined to safeguard the history of aviation. Let us revive this tradition in full, with a few more specialized applications too."
+ nf_texas.4.a:9 "The sky is ours"
  nf_texas.5.t:9 "The Question of the Flag"
- nf_texas.5.d:9 ""
- nf_texas.5.a:9 "Keep our current flag, the Burnet Star!"
- nf_texas.5.b:9 "Use the flag of Lone Star, as we are the Lone Star in the wastes."
- nf_texas.5.c:9 "Reintroduce the flag of the old State of Texas."
+ nf_texas.5.d:9 "While some question spending time debating a flag as hordes of robots menace Texas across the Rio Grande, the Provisional Congress wants to debate the issue. Texas has had many flags; the flag of Spain, France, Mexico, the two flags of the Republic, the American flag, the Confederate flag, the American flag again, the flag of the city of Lone Star, and the flag of Attis' super mutant army that scoured the Wastes until the Brotherhood of Steel showed up. We must decide which of the reasonable choices we will use for the Restored Republic."
+ nf_texas.5.a:9 "Let's use the first flag nobody remembers."
+ nf_texas.5.b:9 "The Lone Star of the Wastes!"
+ nf_texas.5.c:9 "Let's use the Texan flag we can still find in the ruins of Dallas."
+ nf_texas.5.e:9 "This flag looks Texan, right?"
  nf_texas.6.t:9 "The Question of the Capital"
- nf_texas.6.d:9 ""
+ nf_texas.6.d:9 "Yet another choice to be made, a priviledge most would think. Where shall we settle our seat of power? From where shall we govern Texas? Which city shall become a beacon of spreading freedom and wealth."
  nf_texas.6.a:9 "Dallas, the largest old-world city in Texas."
  nf_texas.6.b:9 "Houston, the costal metropolis."
  nf_texas.6.c:9 "Lone Star, the new-world boomtown."
  nf_texas.6.e:9 "Austin, a symbol of Mutant-Human unity."
+
+ nf_texas.8.t:9 "Freedom of Religion, or Freedom From Religion"
+ nf_texas.8.d:9 "Although nobody really thinks that atheists should be barred from office, there are those who think Texas should use the constitution to promote a moral world view.  After all, do you want someone like Mayor Jasmine to take power?"
+ nf_texas.8.a:9 "We're a godly folk, I reckon."
+ nf_texas.8.b:9 "Better an honest whore than a crooked priest."
+
+
+
+ nf_texas.9.t:9 "Equality Under the Law"
+ nf_texas.9.d:9 "The Texas Constitution used to state that equality could not be denied on the basis of sex, race, color, creed, or national origin. Many in Texas think this is sufficient and guarantees the super mutants equality. but Keats wants the provision to explicitly state that FEV-status is a protected class. While this will appease Shale, it will anger many who have lost loved ones to Shale or the Iron Mongers."
+ nf_texas.9.a:9 "Keats carries the convention!"
+ nf_texas.9.b:9 "There is no reason for special treatment."
+
+
+
+ nf_texas.10.t:9 "In the Long Run..."
+ nf_texas.10.d:9 "One of the biggest debates is the shape of the new Republic. There are those who see Texas as a stronger defense pact to keep the Legion and Santa Anna at bay. They prefer to limit the power of the state government and mandate it an only spend what it collects each year.  This would make the state government more dependent on what the towns of Texas support. But Cho Bang has advocated a centralized Department of Finance that can run deficits and sell bonds to fund growth. As Cho Bang put it, 'in the long run, this may, perhaps, cause problems. But in the long run, we're all dead. And if we cannot afford to fight Santa Anna and Lanius, that will be a problem in the very short run.''"
+ nf_texas.10.a:9 "Limit national spending."
+ nf_texas.10.b:9 "Buy Texan Victory Bonds!"
+
+ nf_texas.11.t:9 "Justice of the Piece"
+ nf_texas.11.d:9 "Although the Brotherhood and Cho Bang are allies, they have very different takes on the law.  The Texan Brotherhood has never bothered to formalize its legal code, preferring a rough and ready frontier justice. In contrast, Lone Star has excelled with things like 'contracts' and 'judges'. Cho Bang believes that the Republic of Texas needs a formal judicial system to promote economic development, while the Brotherhood thinks justice should be kept at the local level. Keats, for his part, is also skeptical letting towns directly appoint their judges will protect super mutant minorities."
+ nf_texas.11.a:9 "Armed posses served us well so far!"
+ nf_texas.11.b:9 "Cho and Keats carry the day. Judges shall be appointed by Congress."
+
+ nf_texas.111.t:9 "Homesteads Demand Right to Bear Arms"
+ nf_texas.111.d:9 "Homesteads have been face threats from the border. Horned kangaroos from the Chihuahuan Desert have been destroying all of the tomatillos. They want to be sure their arsenals of rad-throwers will be safe once the republic is fully formed."
+ nf_texas.111.a:9 "Yes will will fit it into the constitution"
+ nf_texas.111.b:9 "This is too dangerous for us to allow"
+ constitution_mission_1:9 "Request: Right to Bear Arms"
+
+ nf_texas.112.t:9 "Refugees"
+ nf_texas.112.d:9 "Lanius' conquest over our neighbours has displaced many of those living in the area. They have recently settled in large tent cities just inside of our borders. They seek protection, and the freedoms we offer. As their numbers grow, they ask for a guarantee in our constitution. To support these refugees, we will need to set aside some funds, and news of our support will surely spread."
+ nf_texas.112.a:9 "We welcome them with open arms"
+ nf_texas.112.b:9 "We can not support them here"
+ constitution_mission_2:9 "Request: Freedom of Movement"
+
+ nf_texas.113.t:9 "Mutants Demand Rights"
+ nf_texas.113.d:9 "Our partnership with Keats included an inherent understanding that mutant would be considered equals with humans. Keats is currently pushing this at our constitutional convention, but other have been pushing back against this idea; the scourge of Attis' Army still fresh in the minds of some."
+ nf_texas.113.a:9 "A difficult position"
+ constitution_mission_3:9 "Request: Mutant Rights"
+ constitution_mission_4:9 "Request: Deny Mutant Rights"
+
+ nf_texas.114.t:9 "A Strong Legislature"
+ nf_texas.114.d:9 "The Legislature of the Houston Rockets has long been a strong governing body of the small nation in the ruins of Houston. They believe in their system, and wish for us to adopt it. The backbone of democracy is the people, they argue, and representatives from them steers a nation down the path best for the people as a whole."
+ nf_texas.114.a:9 "A reasonable request"
+ nf_texas.114.b:9 "The masses can not lead effectively"
+ constitution_mission_5:9 "Request: Mutant Rights"
+
+ nf_texas.51.t:9 "Our Constitution"
+ nf_texas.51.d:9 "With the formation of the republic, the next important step for us is to frame our nation much like in stories of years past. Battling will be fierce, and provisions will be demanded, required, or hated by our constituents and community. \n\n §oThe Texas Constitution is comprised of Articles and subsections. Each of the five articles is unlocked through the focus tree, with subsections being unlocked through the focus tree and events. Each subsection can be added once to the constitution, and imparts unique effects. The constitution has no effect until signed, but, once signed, is no longer editable. Choose wisely when to sign the document.§!"
+ nf_texas.51.a:9 "Convention time!"
+
+ nf_texas.12.t:9 "Everything's Dumber in Texas"
+ nf_texas.12.d:9 "[TEX.GetLeader] has demanded the territory of the TAA from the sovereign Republic of Rio. Texas, which has existed for... months? I guess? threatens war if we do not give over territory that has been part of Rio for decades. How shall we respond?"
+ nf_texas.12.a:9 "We didn't survive the Great War to take this crap."
+ nf_texas.12.b:9 "Offer an autonomous territory in exchange for an alliance!"
+
+ nf_texas.13.t:9 "[RRG.GetName] said no!"
+ nf_texas.13.d:9 "The varmints in [RRG.Capital.GetName] refuse to hand over their land north of the Rio Grande. It looks like we will, yet again, have to drive the Mexicans out of Texas."
+ nf_texas.13.a:9 "It'll be over by Christmas."
+
+ nf_texas.14.t:9 "An Alliance of Equals?"
+ nf_texas.14.d:9 "The varmints in [RRG.Capital.GetName] refuse to hand over their land north of the Rio Grande. It looks like we will, yet again, have to drive the Mexicans out of Texas."
+ nf_texas.14.a:9 "It'll be over by Christmas."
+
+ nf_texas.15.t:9 "The Yellow Glow of Texas"
+ nf_texas.15.d:9 "Texas has demanded lands from [RRG.GetName] based upon the borders of the prewar state. Not being idiots, it is pretty clear that Texas will demand, yet again, land from American Indians in the name of freedom unless we stand up to them. A victory over Rio would let Texas turn their undivided attention against us, so perhaps we should stand with Rio?"
+ nf_texas.15.a:9 "They're almost as bad as the Chicago Enclave."
+ nf_texas.15.b:9 "If we don't move maybe they won't see us."
+
+ nf_texas.16.t:9 "Aid from Oklahoma"
+ nf_texas.16.d:9 "It seems that we aren't the only ones to worry about Texas conquering our country. Oklahoma stands with us."
+ nf_texas.16.a:9 "Stronger Together!"
+
+
+ nf_texas.17.t:9 "Oklahoma Guarantees Rio"
+ nf_texas.17.d:9 "It looks like our demand to seize TAA has inspired concern among the tribes of Oklahoma. Apparently liberating historic Texas territory upsets other people who also live on historic Texas territory. Ah well, we'll finish the Red River rivalry once and for all."
+ nf_texas.17.a:9 "This map ain't big enough for the both of us."
+
+
+ nf_texas.18.t:9 "Texas Rejects Our Offer!"
+ nf_texas.18.d:9 "It seems that Texas has rejected our alliance. Instead of standing for liberty for the Wasteland, they're just one more in a long line of conquerors. Texas has no claim on the hearts and minds of the TAA, and its people are now and forever part of the Republic of the Rio Grande.  We still stand up for democracy against who all threaten it."
+ nf_texas.18.a:9 "La soberanía dimana inmediatamente del pueblo!"
+
+
+ nf_texas.19.t:9 "The Last, Best Hope for Peace"
+ nf_texas.19.d:9 "They say war never changes, but if war doesn't change, men must change, and so must their symbols. [TEX.GetLeader] has agreed to our proposal. Instead of annexing TAA, the land, the border between America and Mexico, shall join a new alliance. Texas has rejected a mad bid at conquest, and recognizes how much we share. Together, the republics of Texas and the Rio Grande will stand up for truth, justice, and the North American way against all who threaten us. The sister republics shall be a torch for the Wasteland; and perhaps, one day, they will illuminate the continent."
+ nf_texas.19.a:9 "Las republicas hermanas!"
+
+ nf_texas.500.t:9 "The Blooming Yellow Rose"
+ nf_texas.500.d:9 "Stations from Lone Star to Dallas have been abuzz with the Proclamation of the 23rd Century. The Texan Economic Union, formerly a confederation of allies with the Texan Brotherhood and Lone Star as its central members, has unified into a single, centralized state. Such growth always has its pains, but the news has been recieved well from citizens across the Union. Nearly everyone seems to believe that a brighter rose will soon bloom.\n\nThe drafting of a §Gnew Constitution§! is already underway, with the powers at be promising to abide by the will of the people in laying the foundations of their new home."
+ nf_texas.500.a:9 "Have you heard the news?"

@@ -67,13 +67,13 @@
 
 
   #Placeholder Localisation Begins
- nf_legion.11.t:0 "Bilan du barrage Hoover"
- nf_legion.11.d:0 "C'est fini que s'est-il réellement passé ?"
- nf_legion.11.a:0 "Vous avez perdu, perdant !"
- nf_legion.11.b:0 "Vous avez gagné ! Bon travail"
+ nf_legion.11.t:9 "Testing our Mettle"
+ nf_legion.11.d:9 "The battle for Hoover Dam is over, our might has been tested and our armies have thrown every last soldier that they had available into the breach. Even now, its surface burn, the heavy smell of death, gunpowder and flames enough to make even a veteran retch. Corpses litter the old war relic, the testimony of a horrible grinder upon which both The Bull and the Bear clashed on this day, but who won this decisive engagement? Did The Bull's endless legion and cunning manage to win the day? Or did the Bear's defences and thunderous volleys shattered their will?"
+ nf_legion.11.a:9 "The Bear won... for now"
+ nf_legion.11.b:9 "The Bull is victorious! All Hail Caesar!"
 
  nf_legion.12.t:0 "César nous envoie une "requête""
- nf_legion.12.d:0 "Un messager de César est arrivé et apporte une lettre d'invitation à la Légion. Ils souhaitent nous permettre d’écraser ceux qui ont osé nous menacer et nous ont maltraité.\n\nQue devons-nous faire mon Khan ?"
+ nf_legion.12.d:9 "Un messager de César est arrivé et apporte une lettre d'invitation à la Légion. Ils souhaitent nous permettre d’écraser ceux qui ont osé nous menacer et nous ont maltraité.\n\nQue devons-nous faire mon Khan ?"
  nf_legion.12.a:0 "Accepter son invitation"
  nf_legion.12.b:0 "Décliner. Nous n'avons pas besoin de son aide"
 
@@ -150,9 +150,9 @@
  nf_legion.29.t:9 "Renovatio !"
  nf_legion.29.d:9 "Phoenix étant rompu à notre règne, le temps est venu de décider du sort de la Ville. Lucius a proposé d'étendre le marché et d'en faire une plaque tournante du sud du Texas. Vulpes, au contraire, nous exhorte à étendre les casernes d'esclaves en dehors de la ville, et à loger dans des casernes les profligues que nous conquérons en dehors de la ville pour y fabriquer des armes. "
  nf_legion.29.a:9 "Que la paix soit avec vous."
- nf_legion.lucius_glory:9 "\nLucius gains §Mglory!§!\n"
+ nf_legion.lucius_glory:9 "\nLucius gagne en §Mgloire !§!\n"
  nf_legion.29.b:9 "La peur les maintiendra dans le rang."
- nf_legion.malpais_glory:9 "\nMalpais gains §Mglory!§!\n"
+ nf_legion.malpais_glory:9 "\nMalpais gagne en §Mgloire !§!\n"
 
     ###### Navajo Scheme
  nf_legion.30.t:9 "Traiter avec les Na-Dené"
@@ -169,7 +169,7 @@
  nf_legion.31.d:9 "Si Flagstaff a été la première véritable ville conquise par César, nul ne peut nier qu'elle est très éloignée du cœur de son Empire, reposant en dehors des routes commerciales traditionnelles et étant enfermée dans un territoire accidenté et largement non viable. Avec le développement récent et la croissance de Phoenix qui y a déplacé la plus grande partie de la puissance économique et militaire de la Légion, César débat... doit-il déplacer la capitale ? Cela servirait aussi à rappeler fermement à la population de la ville que la Légion est là pour rester. Alors qu'Aurelius souhaite déplacer la capitale pour soutenir le développement de la région et pousser vers le sud, Lucius soutient que Flagstaff est le cœur et l'âme de la Légion."
  nf_legion.31.a:9 "Phoenix est notre nouvelle maison."
  nf_legion.31.b:9 "Si nous déplaçons la capitale, ce sera vers l'ouest."
- nf_legion.aurelius_glory:9 "\nAurelius gains §Mglory!§!\n"
+ nf_legion.aurelius_glory:9 "\nAurelius gagne de la §Mgloire !§!\n"
 
   ###### Two Sun
  nf_legion.32.t:9 "Besoin d'un miracle"
@@ -331,7 +331,7 @@
  nf_legion.82.b:9 "Les Frumentarii dirigent la Légion."
  nf_legion.82.c:9 "Lucius reste fidèle à César."
  nf_legion.82.e:9 "Le légat Malpais sait comment crucifier."
-
+ CES_civil_war:9 "The Civil War!"
   ### White legs Upgrade
  nf_legion.83.t:9 "Les leçons d'Ulysse"
  nf_legion.83.d:9 "Ulysse nous a appris à utiliser les tambours d'orage, les \"compagnies de mitrailleuses\" et les \"mortiers\". Il est clair que César doit être un puissant sorcier pour avoir de tels sorts à sa disposition, et en rejoignant la Légion, nous apprendrons de tels tours de magie par nous-mêmes. Avec ces outils, nous écraserons les Cananéens et balaierons l'Utah ! Et peut-être qu'avec le temps, nous apprendrons quelques sorts de notre cru, à garder en réserve si jamais le collier de la Légion devenait trop serré."
@@ -392,6 +392,10 @@
  nf_legion.92.b:9 "Le Culte de Vulcain avait raison !"
   ############### bhd.1
 
+   ### Res Publica
+ nf_legion.93.t:9 "The Public Affair"
+ nf_legion.93.d:9 "As if to a virtuous, brave, and magnanimous man there could be a juster reason for seeking the government than this—to avoid being subjected to worthless men, and to prevent the Commonwealth from being torn to pieces by them; when, even if they were then desirous to save her, they would not have the power."
+ nf_legion.93.a:9 "The Legion shall finish the synthesis."
   ### Navajo
  nf_legion.94.t:9 "César est mort !"
  nf_legion.94.d:9 "Le conquérant d'un nombre variable de tribus est mort ! Les Terres Désolées retiennent leur souffle, et pour [NAV.GetLeader], le moment est peut-être venu de se préparer à frapper."
@@ -440,6 +444,7 @@
  nf_legion.104.d:9 "Avec la défaite au barrage Hoover, quelqu'un devait prendre le blâme. Et ce ne serait certainement pas César. "
  nf_legion.104.a:9 "Malpais, c'est de ta faute."
  nf_legion.104.b:9 "Je ne peux pas punir mon frère d'armes."
+ nf_legion.104.b_tt:9 "\nYou will take stress from this."
   #### the Mojave Campaign
  nf_legion.105.t:9 "la campagne Mojave"
  nf_legion.105.d:9 "Vaincre la Légion au barrage n'était que la première étape.  Malgré la défaite, nous sommes confrontés à une guérilla sans fin et à des raids sur le puissant Colorado. Mais au moins, cela coûte autant à la Légion qu'à nous."
@@ -465,6 +470,54 @@
  nf_legion.108.b:9 "Be Merciful, O Lord, unto thy people Israel."
 
 
+  ###  Gente Stuff
+ nf_legion.109.t:9 "Economic Expansion"
+ nf_legion.109.d:9 "The Legion of Arizona wishes to buy firearms from us, muttering that they trust us more than the Van Graffs. We should commence to sell guns to them immediately!"
+ nf_legion.109.a:9 "Amigos nuevos!"
+
+
+
+  ###  Dam
+ nf_legion.110.t:9 "The Decimation"
+ nf_legion.110.d:9 "It is clear that Malpais did not fail at the Dam. No, his soldiers failed. To that end, Malpais has decreed their decimation, as God smote those who failed him.  \n\nBut Great Caesar has decreed they shall be spared! Instead, the soldiers will serve in glory battalions that fight in the first wave against the NCR in our next fight!"
+ nf_legion.110.a:9 "Hail Caesar!"
+ CES_stress_decrease_2:9 "\nThat was suspiciously nice of Caesar. He must be trying to help Malpais Legate out, even if it causes stress."
+
+
+ nf_legion.111.t:9 "A New Legate?"
+ nf_legion.111.d:9 "With Malpais' failure, we must determine if the Legion needs a new Legate. Aurelius, Vulpes, and Lucius would all be worthy of the role. But perhaps we should rely solely upon Lanius."
+ nf_legion.111.a:9 "Legate Lucius has a nice ring."
+ nf_legion.111.b:9 "To Vulpes, our loyal friend."
+ nf_legion.111.c:9 "Aurelius knows best."
+ nf_legion.111.e:9 "The Butcher will carve the NCR."
+
+
+ nf_legion.112.t:9 "Why Won't You Die!"
+ nf_legion.112.d:9 "Somehow Joshua Graham survived, literally, being tossed into the Grand Canyon while on fire. We will never admit this, but this is one reason to encourage the Utah tribals to go after New Canaan. Christ, what an asshole."
+ nf_legion.112.a:9 "I hate that guy."
+
+ nf_legion.113.t:9 "The Palace"
+ nf_legion.113.d:9 "Aurelius has recognized that the greatest way to control New California is to move the Legion's capital there.  Accordingly, he has decreed a great palace shall be built in Dayglow, in honour of the Legion. Perhaps he shall even invite el Generalissimo to visit."
+ nf_legion.113.a:9 "This is a palace for the people I hold in their stead."
+
+
+ nf_legion.114.t:9 "The Library"
+ nf_legion.114.d:9 "Caesar always wanted to bring the torch of civilization to the Wastes. What better way to do that than to commission a great Library in Shady Sands, a university to spread the Legion's word across the Wasteland. The Followers may mock, but they will in time appreciate all that Caesar has done for the world."
+ nf_legion.114.a:9 "I have lit a fire, and I shall guard it while it burns."
+
+
+ nf_legion.115.t:9 "Magistrianoi"
+ nf_legion.115.d:9 "It is said by some tribals that the gods whisper into Vulpes' ear. That may be true, but he has no need of them; he has the Magistrianoi.  Secret police among the Legion, they root out dissent before it sprouts. Under Vulpes the Magistrianoi will spread across New California, and ensure that all understand their place under his watchful eyes. Or upon one of the many crosses, sprouting like trees in a forest."
+ nf_legion.115.a:9 "There are wolves among sheep."
+
+
+ nf_legion.116.t:9 "The Senate Building"
+ nf_legion.116.d:9 "Caesar dreamed of the synthesis, and of a better day. But Lucius built that day. To listen to the people of New California, he commissioned a new senate building, greater than the old hill. A new building, for a dream. One greater than the tribes of the east, or the merchant houses of the west. A place for the people of the Wastes to advice, and opine, to their dictator. \n\nBut eventually, by the time Lucius died, it was the Senate that would dictate."
+ nf_legion.116.a:9 "SPQNC"
+
+ nf_legion.117.t:9 "The Fabricator"
+ nf_legion.117.d:9 "Some in the Legion questioned Lucius for the Cult of Vulcan, and some thought he went mad. But as those who complained vanished, and as Lucius' wisdom prevailed, they learned to keep their thoughts to themselves. \n\nWith the conquest of New California, Lucius decreed he would build a workshop to study the secrets of the old world. Vulcan would be glorified with a Legion that fought with the weapons of the god. And woe to anyone who stood in their path."
+ nf_legion.117.a:9 "If Caesar could see us now."
   ############### bhd.1
  bhd.1.t:9 "The Bridge Across the Divide"
  bhd.1.d:9 "the Legion's expansion has continued, and we much of Utah and Colorado, and cities of our own.  But nothing compares to Vegas. We will cross the Colorado, and pour forth into Vegas. We will have our Rome. To Victory!"
@@ -474,6 +527,18 @@
  nf_legion.14.a:0 "Des imbéciles"
   #Placeholder Localisation Ends
 
+ nf_legion.118.t:9 "The Raiders!"
+ nf_legion.118.d:9 "Somehow, raiders have come across the Colorado River and destroyed our supply convoys. We've lost a great deal of infantry equipment, a disastrous outcome!"
+ nf_legion.118.a:9 "This is terrible!"
+
+ nf_legion.119.t:9 "The Raiders!"
+ nf_legion.119.d:9 "Somehow, raiders have come across the Colorado River and destroyed our supply convoys. We've lost a great deal of infantry equipment, a disastrous outcome!"
+ nf_legion.119.a:9 "This is terrible!"
+
+
+ nf_legion.120.t:9 "The Fiends' Resurgence"
+ nf_legion.120.d:9 "It looks like those weirdos across the Colorado River have slipped weapons to the Fiends, who are harassing our convoys. Again. I am so, so, sick of patrolling the Mojave."
+ nf_legion.120.a:9 "It almost makes me wish for nuclear winter."
 
   ###
  CES_healthy:9 "Caesar is healed!"

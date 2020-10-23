@@ -1,0 +1,16 @@
+﻿l_french:
+
+ nf_event_chr.1.t:9 "How far can we go?"
+ nf_event_chr.1.d:9 "Not all research is as clean as the sterile laboratories suggest. Some experiments require certain... practices that would be frowned upon by the general populace. We can limit ourself to follow a strict ethical and moral compass. Or we can take that compass and treat it as a mere rough guideline that can be followed at will. But sometimes the most interesting discoveries are found of the beaten path.\nWe have to ask ourself: 'How far can we go? How much restraint should we show in our research?'"
+ nf_event_chr.1.a:9 "Science knows no restraints"
+ nf_event_chr.1.b:9 "Maybe that compass thing is a good idea"
+
+
+ nf_event_chr.101.t:9 "A Deadly Mist"
+ nf_event_chr.101.d:9 "In a surprising turn of events, the [CHR.GetAdjectiveCap] troops were retreating rather quickly from the battlefield this morning. We were about to celebrate our success, when sickly green billowing clouds started to spread across the battlefield. We did not know what to expect until our first soldier just fell over and died, coughing up blood. From there, it all went downhill fast. People were dropping left and right with various signs of illness. We called for a quick retreat, but the losses were horrific, in multiple ways."
+ nf_event_chr.101.a:9 "Why are my eyes melting?"
+
+ nf_event_chr.102.t:9 "Strange Occurrences"
+ nf_event_chr.102.d:9 "Our troops have reported flashing lights among our enemies and following that some of their brothers in arms have just laid down their weapons and surrendered. Some have even wandered willingly into the enemy lines, surprisingly making it without being shot. A lot of our soldiers are afraid of fighting under these strange circumstances and our advance have slowed down significantly due to this."
+ nf_event_chr.102.a:9 "It's just some flash lights...probably"
+ nf_event_chr.102_tt:9 "The [CHR.GetName] will get a §G10%§! defence bonus against us for a short while."

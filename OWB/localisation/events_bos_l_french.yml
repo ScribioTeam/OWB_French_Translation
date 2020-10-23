@@ -89,19 +89,21 @@
  nf_brotherhood.20.d:0 "En hommage à notre accord, les Desert Rangers ont envoyé un important détachement de leurs soldats pour nous soutenir."
  nf_brotherhood.20.a:0 "Bienvenue dans la Confrérie de l'Acier"
 
+  #Demand the Bay
  nf_brotherhood.22.t:0 "Demandons la Baie"
- nf_brotherhood.22.d:0 "Avec la récente conquête et occupation de San-Francisco, nous sommes encore plus près de la sécurisation complète de la baie. Maintenant que notre emprise sur la région est incontestée, nous devrions demander à la RNC de nous remettre Point-Green. Bien que ce ne soit pas particulièrement important sur le plan stratégique, le site dispose d'une bonne infrastructure qui nous permettrait d'étendre nos opérations dans la baie - et cela constituerait également une zone tampon cruciale menant au pont du Golden Gate."
+ nf_brotherhood.22.d:9 "Our hold of the greater Bay Area area is undisputed we should make a demand of the NCR to hand over this area to us. Although not particularly important strategically, the location has good infrastructure that would allow us to expand our operations in the bay - and it would also provide a crucial buffer leading up to the Golden Gate Bridge."
  nf_brotherhood.22.a:0 "Envoyez la demande immédiatement."
 
  nf_brotherhood.23.t:0 "L'ultimatum de la Confrérie."
- nf_brotherhood.23.d:0 "Après que les nouvelles inquiétantes de la Confrérie annexant les Shi eurent atteint les Sables ombragés, elles furent presque immédiatement suivies d'une demande de la Confrérie. En cherchant à sécuriser définitivement la baie une fois pour toutes, la Confrérie demandent que nous leur cédions le contrôle de Point-Green. Point-Green, même s'il n'est pas rural en aucune façon, n'est pas non plus une partie importante de la RNC dans son ensemble. La Confrérie nous a assuré que la cession de la zone constituerait un pas important dans la bonne direction pour une coopération future."
+ nf_brotherhood.23.d:9 "We have received a demand from the Brotherhood themselves. Looking to finally secure their grasp on the Bay Area once and for all, the Brotherhood are demanding that we hand over Santa Rosa, San-Rafael and Point-Green to them. The fact that they are sending this demand while our rangers are busy will cause the public to panic if we refuse openly - after all, the last time this happened the Brotherhood was able to sack our gold reserves."
  nf_brotherhood.23.a:0 "Point-Green ? Il peuvent l'avoir."
  nf_brotherhood.23.b:0 "Qu'ils aillent en enfer!"
 
  nf_brotherhood.24.t:0 "La RNC refuse !"
- nf_brotherhood.24.d:0 "Quelques jours après l'envoi de notre demande à la RNC, nous avons reçu un message en retour. Dont le contenu n'est pas acceptable. La RNC a décrié notre demande et insiste pour que Point-Green leur appartienne et qu'elle reste la leur. Il semble que tout espoir de sécuriser la baie sans provoquer la guerre ait été anéanti."
+ nf_brotherhood.24.d:9 "Only a couple of days after sending our demand to the NCR, we were sent a message in return; the contents of which are not agreeable. The NCR has decried our demand and insists that the Bay Area is theirs, and shall remain theirs. It appears that any hope of securing the bay without provoking war have been dashed."
  nf_brotherhood.24.a:0 "Qu'il en soit ainsi."
 
+  #Nobody ever put in loc for this one lol
  nf_brotherhood.26.t:0 "La victoire ou la mort !"
  nf_brotherhood.26.d:0 ""
  nf_brotherhood.26.a:0 ""

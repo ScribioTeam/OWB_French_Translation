@@ -15,10 +15,18 @@
  nf_mojave_brotherhood.3.a:9 "Je ne laisserai personne me prendre ce qui m'est dû."
  nf_mojave_brotherhood.3.b:9 "La Confrérie ne sera pas bafouée."
 
+ nf_mojave_brotherhood.4.t:9 "Trials and Tribulations"
+ nf_mojave_brotherhood.4.d:9 "Our conflict with the Mojave Territories is innevitable. Soon enough, political pressure from the NCR Congress will place overwhelming force on General Oliver to launch his assault on HELIOS One. The only way we can even hope to fend off their onslaught is through preparation: a unique dynamic modifier representing the struggle for inititive between the Brotherhood and NCR. When Operation: Sunburst occurs, the current balance of preparation will be set in stone, so we must make sure to be well prepared before the war ever comes!"
+ nf_mojave_brotherhood.4.a:9 "We must be nothing if not prepared."
+ nf_mojave_brotherhood.4.b:9 "Through Power Armour alone will we win victory!"
+ nf_mojave_brotherhood.4.c:9 "We need more men to counter the NCR's numbers!"
+
+  # .5 doesn't need loc
+
  nf_mojave_brotherhood.6.t:9 "Victoire dans l'opération Sunburst"
  nf_mojave_brotherhood.6.d:15 "Aujourd'hui est un jour glorieux pour la Confrérie de l'acier, l'aîné Elijah révélant ses prouesses tactiques dans sa défense étonnante du chapitre du Mojave contre la tyrannique République de Nouvelle Californie. Nous avons réussi à pousser les soldats de la république vers l'avant-poste du Mojave - bien que la question du temps reste posée, nous devrions poursuivre l'avance sur le Long 15 vers la Californie. Si nous devions essayer d'affirmer notre domination sur cette terre, il est probable que nous devrions faire face à une réponse plus coordonnée à notre tour."
  nf_mojave_brotherhood.6.a:9 "C'est notre terre !"
- nf_mojave_brotherhood.6.b:9 "Laissons-les s'accrocher à l'avant-poste de Mojave pour l'instant."
+ nf_mojave_brotherhood.6.b:9 "Lets not push this too far."
 
  nf_mojave_brotherhood.7.t:9 "La folie d'Oliver"
  nf_mojave_brotherhood.7.d:15 "Oliver a perdu le Mojave pour la République de Nouvelle Californie, confronté à une défaite dévastatrice aux mains de la Confrérie de l'acier ; Oliver a été contraint de redescendre le Long 15 vers Sables Ombragés. Heureusement, il semble qu'on ne lui demandera pas de servir de sitôt - la Confrérie ne semblant pas trop désireuse de le poursuivre jusqu'en Californie."
@@ -27,57 +35,57 @@
  nf_mojave_brotherhood.8.t:9 "La folie d'Oliver"
  nf_mojave_brotherhood.8.d:15 "Oliver a perdu le Mojave pour la République de Nouvelle Californie, confronté à une défaite dévastatrice aux mains de la Confrérie de l'acier ; Oliver a été contraint de redescendre le Long 15 vers Sables Ombragés. Il semble inquiétant que la Confrérie le poursuive - nous devrons rassembler une armée si nous voulons empêcher ce chapitre de la Confrérie de lancer des raids directement sur la Californie !"
  nf_mojave_brotherhood.8.a:9 "Nous allons leur montrer !"
- 
+
  nf_mojave_brotherhood.9.t:9 "Ciphers de l'Ouest"
  nf_mojave_brotherhood.9.d:9 "Notre expédition est enfin arrivée et nous a contactés ! Là, ils ont pu nous indiquer sur qui les Ciphers étaient en réalité. Ils nous ont expliqué l'origine des groupes - comment dans les semaines qui ont suivi la Grande Guerre, un groupe de scientifiques et de soldats a quitté le laboratoire atomique de Los Alamos, au Nouveau Mexique, et a erré vers le nord avec une bande d'autres survivants, à la recherche d'un lieu relativement sûr. Ils ont supposé qu'ils étaient les seuls \"civilisés\" restants, puisque tous les autres qu'ils ont rencontrés les ont attaqués, essayant de leur prendre leur nourriture, leur eau et leurs vêtements. Lorsqu'ils ont découvert l'un des anciens pueblos de Mesa Verde, ils ont décidé d'y établir leur campement.\nLe groupe n'emportait avec lui qu'une quantité limitée de technologie. Les soldats avaient des pistolets et des fusils, et les scientifiques avaient un ordinateur à peine fonctionnel, assez de pièces pour construire plusieurs dessalinisateurs et une éolienne rudimentaire pour les alimenter, plusieurs boîtes recouvertes de plomb contenant de l'uranium enrichi, et une petite réserve de médicaments. Le reste du groupe disposait d'une variété d'équipements divers qui contribuaient pour la plupart à l'usage du groupe.\nUne décennie plus tard, l'ordinateur commença à tomber en panne. Craignant que la technologie de l'Ancien Monde ne soit perdue à jamais, les scientifiques ont commencé à peindre et à graver des schémas électroniques dans les parois de la fosse. En même temps, ils ont insisté pour que la science soit mise en valeur lors de l'éducation des enfants du village afin que leurs descendants comprennent comment utiliser les schémas.\nComme ils ont été imprégnés de sciences dès leur plus jeune âge, les villageois ont tendance à utiliser beaucoup de termes scientifiques pour s'exprimer. Cette façon de parler, parfois confuse et cryptique, leur a valu d'être surnommés \"Ciphers\" par des habitants instruits des Terres Désolées qui pensaient qu'ils parlaient peut-être avec une sorte de code. Les Ciphers ont simplement haussé les épaules et accepté le nom.\nAu fil des ans, les Ciphers ont oublié leurs racines scientifiques et disciplinées et se sont davantage préoccupés de la survie quotidienne que de théories scientifiques dénuées de sens. En ce qui concerne les appareils électroniques et les armes, les Ciphers en savent plus sur leur fonctionnement que sur leur raison d'être : Les symboles disent : \"Mettez ceci et cela ensemble, et ensuite cela se produit.\" Les symboles disent : \"Mettez ceci et cela ensemble, et puis ceci se produit.\" Pourquoi ? Qui le sait ? Tant que les chiffres sont exacts, qui s'en soucie ?\nAvec les informations obtenues sur l'histoire et la relation entre nous et ce groupe, l'équipe de la Confrérie que nous avons envoyée a envoyé une dépêche pour la récupération des vertibird."
  nf_mojave_brotherhood.9.a:9 "Ils nous ressemblent à bien des égards."
- 
+
  nf_mojave_brotherhood.10.t:9 "L'expédition se retrouve les mains vides"
  nf_mojave_brotherhood.10.d:9 "Il semble que l'expédition que nous avons envoyée n'ait pas réussi à trouver les mythiques Ciphers de l'Ouest. Néanmoins, ils ont pu acquérir une certaine expérience au cours de leurs voyages."
  nf_mojave_brotherhood.10.a:9 "Envoyer une dépêche pour récupération."
- 
+
  nf_mojave_brotherhood.11.t:9 "Escarmouche à la frontière du barrage"
  nf_mojave_brotherhood.11.d:9 "Il semble qu'après notre récente victoire à Hélios, nos paladins aient fait un peu trop de zèle.\nAlors qu'Elijah se rendait au barrage (auquel la RNC lui a refusé l'accès si bêtement), ils ont appris qu'il y avait une escarmouche entre la Confrérie et la horde d'esclaves de l'Est connue sous le nom de \"Légion de César\". Nos paladins semblaient n'avoir aucune expérience de la lutte contre des ennemis aussi étranges - leur stratégie mélangeant de façon terrifiante des éléments de tactiques tribales, d'habitants des terres désolées et d'anciennes tactiques.\nIl semble que nous ayons un certain entraînement à suivre si nous voulons résister à une telle menace."
  nf_mojave_brotherhood.11.tt:9 "Nous pouvons améliorer nos tactiques contre la Légion grâce à l'entraînement, fait à partir d'une décision débloquée par la priorité §Y\"Se préparer contre la Légion\"§!"
  nf_mojave_brotherhood.11.a:9 "Il semble que nous ayons un certain entrainement à faire !"
- 
+
  nf_mojave_brotherhood.12.t:9 "Découverte du bunker de la Brigade du Diable !"
  nf_mojave_brotherhood.12.d:9 "Après une longue et coûteuse recherche, notre équipe d'éclaireurs a finalement pu discerner l'emplacement du bunker Remnants. Avec un peu de travail, nous avons pu pénétrer à l'intérieur et découvrir ce qu'il y avait.\nC'est une cache plus petite que ce que l'on pensait possible à l'origine - seulement cinq combinaisons, quelques armes, pas mal de circuits pour l'installation elle-même et un Vertibird. La qualité et la construction de l'équipement sont toutefois étonnantes, à tel point que nous pouvons utiliser ces combinaisons pour poursuivre le développement de notre propre armure assistée !"
  nf_mojave_brotherhood.12.a:9 "Étrange que nous n'ayons rencontré aucun survivant, peut-être sont-ils tous morts ?"
  nf_mojave_brotherhood.12.tt:9 "\n§gCe n'est pas grand chose, mais nous avons aussi trouvé le vieux matériel qui appartenait à ces personnels de l'Enclave.§!"
- 
+
  nf_mojave_brotherhood.13.t:9 "Le théâtre de science-fiction de minuit !"
  nf_mojave_brotherhood.13.d:9 "Le Mojave abrite les plus grands que l'ancien monde avait à offrir, ou du moins - c'est ce que pensait Elijah.\nRécemment, un groupe de Paladins de la Confrérie poursuivant un groupe de Chacals près de Nipton a complètement disparu sans laisser de trace. Lorsque nous avons lancé une mission de récupération pour récupérer leur équipement, nous n'aurions jamais cru ce que nous avons trouvé ensuite !"
  nf_mojave_brotherhood.13.a:9 "Suspense !"
- 
+
  nf_mojave_brotherhood.14.t:9 "Le théâtre de science-fiction de minuit !"
  nf_mojave_brotherhood.14.d:9 "C'est près du Mojave Drive Inn que nous l'avons trouvé.\nNous avons trouvé un satellite écrasé, mais il ne semblait pas être de la même marque que les autres débris spatiaux abandonnés que nous avons trouvés. Il était traversé par un œil bleu cryptique - presque comme s'il s'agissait d'un flux en direct. Il n'a fallu que quelques instants d'étude à Elijah - et le fait de voir quelques paladins supplémentaires s'éloigner en clignotant dans des éclairs de lumière bleue - pour qu'il se rende compte que cette machine était une balise capable de transporter. Elijah allait réunir une équipe de paladins pour se diriger vers le satellite et se rendre là où il les emmenait."
  nf_mojave_brotherhood.14.a:9 "Surprise !"
- 
+
  nf_mojave_brotherhood.15.t:9 "Le théâtre de science-fiction de minuit !"
  nf_mojave_brotherhood.15.d:9 "Quand Elijah franchissait la barrière avec les Paladins, il était étonné de ce qu'il trouvait de l'autre côté.\nUn paradis du progrès technologique - un Eden du progrès. Rien qu'en regardant par la fenêtre de l'endroit où nous avons été amenés, nous pouvons voir tellement de choses ! Émetteurs sonores, alliages de l'ère spatiale, hybridation de l'ADN, recherche sur les particules des champs de force, progrès de l'Auto-Doc en chirurgie crânienne, cardiaque et traumatologique... les espoirs et les rêves d'un siècle sont devenus réalité dans les forges électroniques de la GRANDE MONTAGNE.\n\nLa Confrérie a trouvé son ultime trésor, il ne leur reste plus qu'à l'ouvrir et à voir ce qu'il contient."
  nf_mojave_brotherhood.15.a:9 "Science !"
- 
+
  nf_mojave_brotherhood.16.t:22 "Sécurisation de X-22"
  nf_mojave_brotherhood.16.d:22 "Station de recherche disparue depuis longtemps, X-22 se consacrait à la recherche sur la vie végétale et ses applications militaires. C'est ici que le transporteur de spores, Beauveria Mordicana, a été créé, puis transféré dans l'Abri 22. L'équipe qui a assuré le contrôle de cette installation a fini par subir des dommages après avoir affronté un ennemi particulièrement dangereux, connu sous le nom de \"Patient Zéro\" dans les registres du terminal.\nDans le X-22, il y a quelques races de plantes particulièrement utiles qui, si elles sont utilisées de la bonne manière, peuvent vraiment nous aider dans notre mission."
  nf_mojave_brotherhood.16.a:9 "Peut-on mettre un collier d'esclave sur une plante ?"
- 
+
  nf_mojave_brotherhood.17.t:9 "Sécuriser le village de Higgs"
  nf_mojave_brotherhood.17.d:9 "Au cœur de Big Mountain, nous avons trouvé une installation étrange - un village artificiel de banlieue couvert - qui semble avoir été conçue pour les cadres qui dirigeaient Big Mountain. Bien que cet endroit ait subi quelques dommages au fil des ans, il est toujours remarquablement intact, tout bien considéré - nous pouvons étudier le câblage et les circuits à l'intérieur des murs de la maison pour comprendre comment construire des bâtiments d'avant-guerre."
  nf_mojave_brotherhood.17.a:9 "Juste quelques bâtiments de l'ancien monde ? Décevant."
- 
+
  nf_mojave_brotherhood.18.t:13 "Sécurisation de X-13"
  nf_mojave_brotherhood.18.d:13 "L'installation du X-13 était étrange - apparemment construite autour de l'essai d'un prototype alternatif à la combinaison furtive chinoise. Les scouts de la Confrérie ont dû relever une série de défis de plus en plus difficiles, organisés par une sorte d'intelligence artificielle, avant de pouvoir sécuriser l'installation.\nNous pouvons utiliser les données informatiques ici afin de poursuivre nos propres recherches !"
  nf_mojave_brotherhood.18.a:9 "Au moins, les données seront utilisées."
- 
+
  nf_mojave_brotherhood.19.t:9 "Sécurisation de Y-0"
  nf_mojave_brotherhood.19.d:9 "Cette installation est remarquable non pas pour ce qu'elle a, mais pour ce qu'elle \"avait\".\nL'installation Y-0 est complètement détruite, mais les rares dossiers de terminal indiquent que ce qui a été fait ici est peut-être le plus important de tous. L'installation ici faisait des recherches sur §Rl'assemblage moléculaire§! - l'acte de transformer n'importe quoi en n'importe quoi, la pierre de l'alchimiste de la science de l'ancien monde.\nIl semble que les scientifiques de Big Mountain ici aient été capables d'accomplir cela - mais pas ici. Ils ont mentionné que cette recherche avait été faite pour un certain \"Fredrick Sinclair\", dans un endroit connu sous le nom de §RSierra Madre§!."
  nf_mojave_brotherhood.19.a:9 "§RLa Sierra Madre...§!"
- 
+
  nf_mojave_brotherhood.20.t:9 "Sécurisation de X-8"
  nf_mojave_brotherhood.20.d:9 "...Nous ne savons même pas pourquoi cette installation a été réalisée. Il semble qu'il s'agisse d'une école géante créée dans le cadre d'une sorte d'expérience sur l'ego ? Après que nos paladins aient traversé les couloirs, ils ont pu trouver une chose remarquable : un petit cyber-chien du nom de Roxie.\nVeronica a pris un goût particulier à son égard."
  nf_mojave_brotherhood.20.a:9 "Je suis heureux qu'elle soit heureuse."
-  
+
  nf_mojave_brotherhood.21.t:9 "Sécurisation de X-7"
  nf_mojave_brotherhood.21.d:9 "L'installation X-7 n'est en fait qu'un gigantesque canon d'artillerie -... dont l'utilité n'est en fait pas très grande, car il est complètement isolé de toute menace réelle. Néanmoins, nous pouvons prendre les munitions ici et les convertir en quelque chose que nos troupes peuvent utiliser."
  nf_mojave_brotherhood.21.a:9 "Au moins, nous n'avons pas à le gaspiller."
@@ -89,11 +97,11 @@
  nf_mojave_brotherhood.23.t:17 "Sécurisation de X-17"
  nf_mojave_brotherhood.23.d:17 "L'installation X-17 se distingue par une étrange technologie en son sein - le \"Trauma Harness\". Ces harnais sont essentiellement un mélange d'armure assistée et de robots, capables de conduire et de faire marcher les soldats indéfiniment, même des siècles après leur mort. Si nous installions cette technologie dans nos armures, nos soldats seraient pratiquement inoffensifs !"
  nf_mojave_brotherhood.23.a:9 "La technologie du vieux monde est mise à profit..."
-  
+
  nf_mojave_brotherhood.24.t:9 "Sécurisation du petit Yangtsé"
  nf_mojave_brotherhood.24.d:9 "Il semble que nous ayons enfin trouvé l'origine des \"colliers d'esclaves\" que nous avons trouvés dans les Terres Désolées. Ici, à Big Mountain, nous avons trouvé un ancien camp de prisonniers chinois peuplé de prisonniers goules portant encore des colliers au cou. Cette technologie a toujours été utile à la Confrérie pour éliminer les mauvaises recrues potentielles. Maintenant que nous en avons un bon stock, nous pouvons continuer à mettre des colliers aux déloyaux pendant des années."
  nf_mojave_brotherhood.24.a:9 "La conformité est appréciée."
-  
+
  nf_mojave_brotherhood.25.t:9 "Sécurisation de LA ZONE INTERDITE"
  nf_mojave_brotherhood.25.d:9 "La \"ZONE INTERDITE\", comme elle a été appelée à maintes reprises par les Robo-scorpions qui sillonnent le pays, a finalement été sécurisée par nos forces, au grand dam de celui qui semble diriger ces Robo-scorpions - ce \"Docteur Mobius\". Lorsque nous sommes finalement allés sécuriser cette installation, nous nous attendions à trouver le cerveau qui la dirigeait - mais nous ne l'avons pas fait ? Qui que soit ce \"Docteur Mobius\", il semble avoir disparu, étant parti au Dôme pour rencontrer les autres dirigeants de cet endroit."
  nf_mojave_brotherhood.25.a:9 "Nous le retrouverons là-bas lorsque nous prendrons le Dôme."
@@ -101,10 +109,11 @@
  nf_mojave_brotherhood.26.t:9 "Sécuriser Big Mountain"
  nf_mojave_brotherhood.26.d:9 "Nous avons pris le reste de Big Mountain - il ne nous reste plus qu'à rencontrer les dirigeants de cet endroit.\nNos paladins se sont approchés du Dôme au centre de Big Mountain, prêts à affronter les dirigeants de cet endroit.\n\nIls n'étaient pas là. Quand les paladins ont enquêté sur ce qui s'était passé, ils ont découvert quelque chose de grave...."
  nf_mojave_brotherhood.26.a:9 "Oh non ..."
-  
+
  nf_mojave_brotherhood.27.t:9 "Le Dôme s'est fissuré"
  nf_mojave_brotherhood.27.d:9 "Il semble que le Think Tank en ait eu assez que nous nous mêlions de leurs expériences. Ils ont étudié la technologie que nous avons utilisée pour nous rendre à Big Mountain et en revenir, et l'ont mise au point par rétro-engineering ! Des rumeurs ont commencé à se répandre dans le sud du Mojave. On parle de hordes de robots scorpions, de lobotomites sans cervelle et de \"sphères flottantes\", qui vacillent comme un arc-en-ciel de torches dans le désert, comme des volutes de l'Ancien Monde."
  nf_mojave_brotherhood.27.a:9 "Nous devons les arrêter !"
+ nf_mojave_brotherhood.27.b:9 "§PIts time We show this geezer what for!§!"
 
  nf_mojave_brotherhood.28.t:9 "Rumeurs de l'Ancien Monde"
  nf_mojave_brotherhood.28.d:9 "La Sierra Madre a été conçue et construite par un seul homme, Frederick Sinclair, sa dernière aventure quelques années avant la Grande Guerre. La Sierra Madre a été conçue comme un lieu où les invités pouvaient inverser leur destin et \"recommencer\".\n\nPendant sa construction jusqu'à la fin, elle est restée une zone de reclus. Toutes les commodités étaient fournies aux habitants par des distributeurs automatiques uniques capables d'utiliser une science avancée pour assembler des matériaux sur place et permettaient aux habitants de vivre en autarcie, même coupés du monde extérieur. Le but de toute l'entreprise n'était pas seulement de créer un grand casino, mais aussi de créer un abri parfait contre l'holocauste nucléaire. Chaque élément des fonctions de la Sierra Madre est de protéger ses habitants.\n\nLe casino de la Sierra Madre est plus qu'un simple casino - c'est le témoignage matériel de l'incapacité d'un homme à lâcher prise. Voyant la Grande Guerre approcher, Frederick Sinclair, souhaitait sauver Vera Keyes, une actrice célèbre et son amour, de la destruction imminente. C'est dans ce but que la villa Sierra Madre et son casino en pierre de taille ont été construits. Mais ce n'était pas suffisant pour Sinclair : dans le sous-sol du casino, un abripresque impénétrable a également été construit, pour s'assurer que lui et son amour puissent surmonter l'apocalypse, ensemble.\n\nC'est cet abri qu'Elijah cherche, là - Elijah espère trouver les secrets de la Sierra Madre. La technologie des hologrammes, les distributeurs automatiques, le mystérieux nuage rouge qui le recouvre encore aujourd'hui. Elijah a été captivé par l'Ancien Monde, et il ne va pas lâcher prise."
@@ -149,10 +158,23 @@
  nf_mojave_brotherhood.39.t:9 "Une voix qui prend forme"
  nf_mojave_brotherhood.39.d:9 "La nuit du largage des bombes, la nuit de la grande ouverture, le casino a fermé ses portes et ses systèmes de sécurité se sont activés. Les hologrammes, à cause d'une erreur critique, ont commencé à massacrer les invités suite à une programmation défectueuse, et Vera a été piégée dans sa chambre, avec une seule issue. Elle griffonna ses derniers mots, \"LAISSEZ-MOI PARTIR\", sur le mur, et prit une overdose du cocktail chimique qui l'avait à la fois sauvée et déjà fait tant souffrir.\n\nUn dysfonctionnement de la diffusion d'urgence, causé par le fait que la diffusion du gala était acheminée via le système d'annonce d'urgence pour économiser de l'argent, fit que la publicité pour l'ouverture du casino fut envoyée sur les ondes, plutôt que la diffusion de secours prévue. Pendant plus de deux siècles, la voix de Vera a servi d'appât, non pas pour le sauvetage que Sinclair avait espéré, mais pour les chasseurs de trésors potentiels, les attirant vers leur mort, les incitant à venir dans la Sierra Madre - un endroit où ils pourraient recommencer.\n\nLes restes terrestres de Vera se trouvent dans une chaise de sa suite, toujours dans sa robe de gala. Ses derniers moments ont été enregistrés par l'équipement de sécurité, ce qui fait que les hologrammes qui patrouillent dans la zone, ainsi que l'hologramme dans la fontaine de la Villa, prennent forme après elle tout en jouant ce qui semble être ses derniers mots, consistant en une demande à Sinclair de la laisser partir.\n\nL'hologramme dans la chambre de Vera Keyes est remarquable pour le fait qu'il a enregistré ses derniers mots - stockant des parties de son esprit en lui-même comme une impression d'elle, un souvenir.\nC'est Elijah qui a réalisé qu'elle pouvait être utilisée pour ouvrir l'abri, pirater les émetteurs holo et asservir la mémoire numérique, forçant les derniers mots de Vera à l'accompagner au fond de la Sierra Madre pour ouvrir l'abri qui devait la protéger."
  nf_mojave_brotherhood.39.a:9 "J'aurai ce qui m'est dû."
-  
+
  nf_mojave_brotherhood.40.t:9 "Recommencer"
  nf_mojave_brotherhood.40.d:9 "Nous avons fait descendre la Voix de Vera Keyes brisée dans les niveaux inférieurs de l'installation, pour finalement arriver à ce que nous attendions - l'abri.\nElle nous ouvrirait la porte en utilisant les derniers mots de Vera, comme on nous l'avait demandé.\nL'abri lui-même était petit, seulement quelques petites pièces, bien garni de nourriture, de fournitures médicales et des dernières richesses de Sinclair. Il y avait des lingots d'or ici - la valeur de l'or d'une petite nation - certainement plus que ceux de la RNC après que leurs réserves d'or aient été détruites par la Confrérie il y a des années.\n\nAvec la technologie des hologrammes et le spectre numérique de Vera, la technologie des distributeurs automatiques, l'holorifle, le nuage et maintenant cette réserve d'or, le [MOJ.GetName] est sur le point de devenir quelque chose de grand."
  nf_mojave_brotherhood.40.a:9 "Après tout ce temps. La Sierra Madre... à moi."
+
+ nf_mojave_brotherhood.41.t:9 "Data From REPCONN"
+ nf_mojave_brotherhood.41.d:9 "As our operatives explored REPCONN Headquarters they were careful to extract any information they could from the building's terminals. Most of it was junk, but not all. Some of the company's records revealed a decrepit vertibird testing ground far to the north, in [329.GetName]. This expedition would require serious time and resources, but think of the potential!"
+ nf_mojave_brotherhood.41.a:9 "We must pursue this lead!"
+
+ nf_mojave_brotherhood.42.t:9 "A Traveler From Yuma"
+ nf_mojave_brotherhood.42.d:9 "Yesterday, a traveler hailing from the south contacted us. He was moving through the area, and claims that his home city of Yuma sits atop a massive treasure trove of pre-War technology. Apparently, the American army used natural caves under the city as storage for various discarded experiments and projects. As proof, he showed us one of his packs, filled to the brim with all sorts of advanced ammunition and gadgets. We can dispatch our operatives to travel down to the city, explore the caves, and return with whatever they find. However, this would be a costly operation when we’re already strapped for resources. It will most likely ferment instability, and lead to even worse effects if the operation turns up blank."
+ nf_mojave_brotherhood.42.a:9 "We must send a team to investigate!"
+
+ nf_mojave_brotherhood.43.t:9 "Fallout From the Yuma Operation"
+ nf_mojave_brotherhood.43.d:9 "Nearly every Paladin in the Mojave Chapter advised against our expedition to Yuma. They said it would be too costly, too risky, and take focus away from where it mattered: our military strength. Now, with the expedition returning with little to show for itself, it seems they may have been right. A group of Paladins confronted Elijah again today, urging him to re-evaluate his priorities. Either way, this decision will determine how the Mojave Chapter achieves its goals."
+ nf_mojave_brotherhood.43.a:9 "Fine! Have it your way!"
+ nf_mojave_brotherhood.43.b:9 "No, we must stay our course!"
 
  nf_mojave.1.t:0 "Commandement du Chapitre"
  nf_mojave.1.d:0 "La question de qui devrait en définitive diriger la Confrérie du Mojave s'est déjà beaucoup posée. Le Chef des Paladins McNamara a ses doutes à propos de la recherche de technologies d'Elijah, pensant que le contrôle d'Helios One fera d'eux une cible opportune pour les grandes puissances de la désolation. Une réunion d'urgence est décrétée, menée par McNamara et Elijah. La discussion dégénère rapidement en un fouillis d'arguments plus ou moins valides et de menaces, culminant avec la menace du Paladin Hardin et de quelques autres, épées à l'air, de tuer l'Ancien Elijah. Voulant éviter un bain de sang, McNamara s'est lancé dans un discours fort à propos des liens fraternels et de la loyauté."

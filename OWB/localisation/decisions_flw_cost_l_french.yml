@@ -1,0 +1,20 @@
+﻿l_french:
+ navy_xp_more_than_5:9 "£navy_experience §H5§!"
+ navy_xp_more_than_5_blocked:9 "£navy_experience §R5§!"
+ navy_xp_more_than_5_tooltip:9 "It costs 5£navy_experience  to select this."
+  
+ air_xp_more_than_10:9 "£air_experience §H10§!"
+ air_xp_more_than_10_blocked:9 "£air_experience §R10§!"
+ air_xp_more_than_10_tooltip:9 "It costs 10£air_experience  to select this."
+  
+ cmd_pwr_more_than_30:9 "§H30§!£command_power"
+ cmd_pwr_more_than_30_blocked:9 "§R30§!£command_power"
+ cmd_pwr_more_than_30_tooltip:9 "It costs 30£command_power  to select this."
+  
+ caps_more_than_75:9 "§H75§! caps"
+ caps_more_than_75_blocked:9 "§R75§! caps"
+ caps_more_than_75_tooltip:9 "It costs 75 caps to select this."
+  
+ cmd_pwr_more_than_80:9 "§H80§!£command_power"
+ cmd_pwr_more_than_80_blocked:9 "§R80§!£command_power"
+ cmd_pwr_more_than_80_tooltip:9 "It costs 80£command_power  to select this."

@@ -146,6 +146,19 @@
  officer_law_veterans_desc:0 "Parmi ceux d'entre nous qui sont aptes à diriger, aucun ne l'est plus que nos troupes de vétérans. Ils ont sans aucun doute vécu l'enfer et en sont revenus, et ont acquis une compréhension globale de la tactique et du leadership à partir de la base. Ils retourneront sur le champ de bataille non pas en tant que soldats, mais en tant que leaders, en utilisant ce qu'ils ont appris pour aider à guider la bataille."
  officer_law_military_academy:0 "Officiers de l'Académie militaire"
  officer_law_military_academy_desc:0 "Si nous souhaitons renforcer davantage notre structure de commandement, nous devons investir considérablement dans notre compréhension de la tactique, et nous devons nous assurer de former nos officiers à ce qu'ils doivent savoir de la même manière que nous formerions nos soldats. Le résultat final sera sans aucun doute une machine de combat bien huilée, supervisée par des hommes rusés et érudits ayant l'aptitude à diriger."
+  
+  ## Mutant Officer Training Laws
+
+ officer_law_mutant_instinct:9 "Mutant Instinct"
+ officer_law_mutant_instinct_desc:9 "The end product of FEV mutation, super mutants are brutally efficient. Over 800 pounds of muscle, enhanced cell regeneration, and immune to most if not all human diseases, even the dumbest mutant is a force to be reckoned with. Due to their comparatively small numbers in relation to the human population, many mutants have experienced some form of social isolation which leads to a basic form of self sufficiency. "
+ officer_law_mutant_dumdum:9 "\"Dum-Dums\""
+ officer_law_mutant_dumdum_desc:9 "Second generation mutants are some of the most common mutants of the wasteland. While their mental capacities are handicapped in compared to first generation, they are no strangers to combat. Able to work together and use their raw strength and endurance to their advantage, any super mutant is capable of working in a squad to destroy their enemies."
+ officer_law_mutant_second:9 "Second Generation Training"
+ officer_law_mutant_second_desc:9 "Even with the mental deficiencies of the second generation of mutants, we can expect more from our soldiers than just mere savagery. Drills, target practice, unit cohesion. This is something that cannot be left behind as a remnant of the humans."
+ officer_law_mutant_first:9 "First Generation Training"
+ officer_law_mutant_first_desc:9 "The constraints of our lesser brethren cannot stop us from reaching our true potential. Mixed fire teams, suppressive barrages, excessive scouting, terror raids. Their idiotic minds may not be able to understand everything, but it can get the job done. "
+ officer_law_mutant_master:9 "Children Of The Master"
+ officer_law_mutant_master_desc:9 "Before the cursed Vault Dweller killed the Master, mutants were destined to take over the Wasteland. Our strength, our will, our brutal cunning. All of these give us the right to shape the Wasteland in our image, no matter what the inferior races think. There will be nothing but the finest leading our armies in our new world."
 
   ## Military Training Law
 
@@ -228,6 +241,7 @@
  cultural_advisor_cost_factor:0 "Coût du conseiller culturel"
  production_policies:0 "Politiques de production"
  construction_firm:0 "Grandes entreprises"
+ construction_firm_cost_factor:9 "Major Businesses Cost"
  engineering_firm:0 "Modèles d'avant-guerre"
  industrial_advisor:0 "Conseiller économique"
  arms_supplier:0 "Entreprises d'armement"

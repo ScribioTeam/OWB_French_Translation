@@ -375,7 +375,7 @@
  ncr_draft_desc:0 "Le Big Jim Draft est quelque chose que peu de gens s'attendaient à voir, car beaucoup à la RNC estiment que la conscription est l’un des principaux problèmes liés à la qualité des forces militaires de la RNC. Pourtant, la Doctrine de Jim souligne l’importance du nombre élevé de l'infanterie de qualité, la nécessité de recruter davantage d'hommes et de femmes, de gré ou de force, est une nécessité."
 
  ncr_olivers_pet_project: "Projet d'Oliver"
- ncr_olivers_pet_project_desc: "Oliver a toujours pensé que les troupes lourdes de la RNC pourraient jouer un rôle central dans les combats en Arizona. Si nous devions conquérir un avant-poste de la Confrérie, nous pourrions commencer à déconstruire de vieux ensembles d'armures électriques et comprendre comment ils fonctionnent !"
+ ncr_olivers_pet_project_desc:9 "Oliver always figured that NCR Heavy Troopers could play a pivotal role in the fighting in Arizona. If we were to conquer a Brotherhood outpost we could begin deconstructing old sets of power armour to figure out how they work!"
 
  ncr_rangergenmossman:0 "Armée de Mossman"
  ncr_rangergenmossman_desc:0 "Le général Mossman a quelque chose de louche pour le soldat moyen de la RNC, et les considère comme un outil maladroit et direct, mieux adapté pour anéantir un ennemi que de réaliser quoi que ce soit en particulier. À cette fin, il croit à l'expansion et à l'importance accrue des Rangers et consacre une grande partie de son financement à leur amélioration."
@@ -404,17 +404,20 @@
  ncr_rapidannexation:9 "Annexion des Rapids"
  ncr_rapidannexation_desc:9 "De l'autre côté du fleuve Colorado se trouve la Légion de César, une nation en pleine expansion qui a tendance à absorber et à annexer des tribus indépendantes. De notre côté du Colorado se trouvent les Rapids, une tribu très indépendante qui s'étend de Los Algodones jusqu'à Tumblehome. Si la légion devait traverser dans le sud et les attaquer, notre partie seraient exposée, nous devons donc prendre les choses en main et annexer les Rapids."
 
- ncr_rapidsettlement:9 "Colonisation des Rapids"
+ ncr_rapidsettlement:9 "Rapid Settlement"
  ncr_rapidsettlement_desc:9 "Maintenant que les Rapids ont été pacifiés, nous devrions investir des colons et des agriculteurs dans la région pour renforcer notre emprise sur le territoire. Cela coûtera cher en main-d'œuvre et en industrie, mais en fin de compte, nous devrions avoir une bonne emprise sur la région."
 
  ncr_expandthefrontier:9 "Élargir la frontière"
- ncr_expandthefrontier_desc:9 "Il y a une foule d'États mal défendus à nos frontières du Nord et du Nord-Ouest. Si nous agissions rapidement, nous pourrions les saisir à leurs propriétaires sans méfiance et sans leur faire la guerre."
+ ncr_expandthefrontier_desc:9 "The Umbra tribe have been raiding our caravans travelling along the northern banks of California for some time. We should put them in their place and penalize them for harming NCR citizens."
 
  ncr_settlethenorth:9 "Coloniser le Nord"
- ncr_settlethenorth_desc:9 "Avec un solide ancrage dans la frontière nord, nous pouvons aller de l'avant dans la colonisation de nos nouveaux territoires."
+ ncr_settlethenorth_desc:9 "There are a slew of poorly defended cities on our North and North-western borders, if we acted fast we could seize them from their unsuspecting owners without rising a full on war with them."
 
- ncr_settlethewest:9 "Coloniser l'Ouest"
- ncr_settlethewest_desc:9 "Avec un solide ancrage dans la frontière ouest, nous pouvons aller de l'avant dans la colonisation de nos nouveaux territoires."
+ ncr_baja_victory:9 "The Spoils of Baja"
+ ncr_baja_victory_desc:9 "With the Baja campaign turning out to be a grand victory for the Republic our citizens can rest easy that they will not be attacked in the night by roaming bandits."
+
+ ncr_settlethewest:9 "Treaty with San Francisco"
+ ncr_settlethewest_desc:9 "The Shi have been a stalwart ally of the NCR for some time now - helping the Republic in its early years fight off old world raiders and criminals. Perhaps its time we solidify our cultural exchange program into a treaty?"
 
  ncr_purchasescrapheapandkettle:9 "Négocier pour Scrapheap et Teakettle"
  ncr_purchasescrapheapandkettle_desc:9 "L'État des Rangers est constamment embourbé dans la guerre avec les gangs et les tribus environnantes, avec peu à produire et une grande partie de leur budget allant à l'armée, ils peuvent être prêts à vendre quelques uns de leurs territoires pour des capsules..."
@@ -431,5 +434,5 @@
  ncr_fundcrimsoncaravan:9 "Fonder la Mojave Crimson Caravan"
  ncr_fundcrimsoncaravan_desc:9 "Avec une augmentation de l'offre et un accès plus facile au Mojave, diverses entreprises ont manifesté leur intérêt pour l'ouverture de bureaux à la frontière. La Crimson Caravan est l'une d'entre elles. Avec un peu de financement, nous pourrions soutenir leurs efforts."
 
- ncr_manifestdestiny:9 "Destinée Manifeste Réalisée"
+ ncr_manifestdestiny:9 "Destinée Manifeste"
  ncr_manifestdestiny_desc:9 "L'idée de la Destinée Manifeste du Vieux Monde, selon laquelle notre nation est si grande dans ses idéaux et ses pratiques qu'elle devrait sûrement s'étendre aussi loin que le continent le permettra, est une idée dont nous pouvons tirer profit en mettant en avant nos récents succès frontaliers."

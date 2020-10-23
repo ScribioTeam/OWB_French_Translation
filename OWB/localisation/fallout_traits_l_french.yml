@@ -1,6 +1,9 @@
 ﻿l_french:
+ greenway_ingenuity:9 "Greenway's Ingenuity"
+ arm_man_of_destiny:9 ""The Man of Destiny""
  moj_distrusted_elder:9 "Aîné de confiance"
  moj_obsessed_elder:9 "Aîné obsédé"
+ mos_no_need_for_bombs:9 "§RNo need for bombs, when hate will do.§!"
  jolly: "Joyeux"
  jolly_desc: "§GHo§! §Rho§! §Gho!§! §RSénateur§! §GNoël§! §Rest§! §Gadoré§! §Ret§! §Gchéri§! §Rpar§! §Gtous§! §Rles§! §Gelfes§! §Rde§! §Gson§! §Ratelier.§! §GSa§! §Rgentillesse,§! §Gfestive§! §Rjoyeuse,§! §Get§! §Rheureuse§! §Gest§! §Rsans§! §Glimites!§!"
  naughty_and_nice: "Méchant et Gentil"
@@ -65,7 +68,7 @@
  dimensional_traveller:0 "Voyageur dimensionnel"
  scarred_for_life:0 "Effrayé de la vie"
  avatar_of_mars:0 "Avatar de Mars"
- han_true_alpha:9 "Le véritable Alpha"
+ han_true_alpha:9 "The True Alpha"
  dsp_master_of_his_steed:9 "Maître de son stead"
  head_of_tribal_council:9 "Président du Conseil exécutif des chefs"
  he_of_no_moiety:9 "He Of No Moiety"
@@ -78,6 +81,10 @@
  the_137th_archbishop:9 "Le 137ème archevêque"
  survivalist:9 "Survivaliste"
  grand_captain:9 "Grand Capitaine des Rapides"
+ logistics_tsar:9 "Logistical Genius"
+ bane_of_the_ncr:9 "Bane of the NCR"
+ local_patriot:9 "Local Patriot"
+ pirate_queen:9 "Pirate Queen"
 
 
   ##Organization Traits
@@ -162,17 +169,43 @@
   #CMC
  casino_heiress:9 "Héritière du Casino"
  caged_songbird:9 "Oiseau chanteur en cage"
+ caged_songbird_lar:9 "Caged Songbird"
  crazy_songbird:9 "Oiseau chanteur fou"
- cmc_friends_in_low_places:9 "Amis dans les bas-fonds"
+ cmc_friends_in_low_places:9 "Squandered Legacy"
+ cmc_queen_of_the_red_river:9 "Queen of the Red River"
  cmc_ear_to_the_ground:9 "L'oreille au sol"
+ cmc_chief_of_surveillance:9 "Chief of Surveillance"
  cmc_police_chief:9 "Chef de la police"
+ cmc_entertainer:9 "Entertainer"
+
+  #GPF
+ gpf_raider_tactics:9 "Raider Tactics"
+ gpf_wasteland_survivor:9 "Wasteland Survivor"
+ gpf_pathfinder:9 "Pathfinder"
+ gpf_scarcity_magician:9 "Scarcity Magician"
+ gpf_recruiter:9 "Convincing Recruiter"
+ gpf_enterprising_weaponsmith:9 "Artisan Weaponsmith"
+ gpf_business_magnate:9 "Business Magnate"
+ gpf_road_warrior:9 "Road Warrior"
+
+  #CHO
+ librarian_trait:9 "Librarian"
+ medicine_man:9 "Medicine Man"
 
 	# ASS
- roller_derby_queen:9 "Reine du Roller Derby"
- roller_derby_queen_desc:9 "Eh bien, elle est peut-être méchante, elle est peut-être grosse\nMais je n'ai jamais rencontré une personne qui lui aurait dit ça..."
+ 	roller_derby_queen:9 "Roller Derby Queen"
+ 	roller_derby_queen_desc:9 "Well she might be nasty she might be fat\nBut I never met a person who would tell her that..."
 
   # Lanius
  lanius_ruthless:9 "Sur la croix"
  lanius_builder_trait:9 "Pour la Gloire de la Légion"
  LAC_master_of_the_rock:9 "Maître du Rocher"
  lanius_women:9 "Ministras"
+ lanius_monster_east:9 "The Monster of the East"
+ lanius_frumentarii:9 "Frumentarii Followers"
+ propaganda_team:9 "Sponsored Bards"
+
+### ACH
+ cos_member:9 "Circle of Steel Agent"
+ mistress_of_subterfuge:9 "Mistress of Subterfuge"
+ elder_emergency_authority_trait:9 "Elder Emergency Authority"

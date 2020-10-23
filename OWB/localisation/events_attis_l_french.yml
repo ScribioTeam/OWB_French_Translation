@@ -5,20 +5,20 @@
  nf_attis.1.a:9 "Our Strategy."
  nf_attis.1.b:9 "Our Loyalty."
  nf_attis.1.c:9 "Our Cunning."
-  
+
  nf_attis.2.t:9 "Our Assignment"
  nf_attis.2.d.sha:9 "Before Attis met his end, he gave us a assignment to follow.\nHe tasked us to ensure that if he met his end within the Secret Vault to carry out his mission, leading from Fort Stockton and trying to gather what remains of the army together. What supplies would Attis have left us to accomplish this task?"
  nf_attis.2.d.uoa:9 "Before Attis met his end, he gave us a assignment to follow.\nHe tasked us with taking the city of Austin from the Brotherhood and holding it as a forward outpost. What supplies did he leave us to accomplish this task?"
  nf_attis.2.d.imo:9 "Before Attis met his end, he gave us a assignment to follow.\nHe tasked us with taking the southern industrial heartland of Texas and use those arms to help further the super mutant cause. What supplies would he have given us to accomplish this task?"
-  
+
  nf_attis.2.a:9 "Construction Equipment"
  nf_attis.2.b:9 "Ammunition"
-  
+
  nf_attis.3.t:9 "Our Legacy"
  nf_attis.3.d.sha:9 "We have followed Attis's last request to the 'letter', having spent the last eighty years since his death building up a massive army to the south in preparation for the unification of his army. To the east and south the other wayward generals don't seem as willing to follow orders - are they being treasonous?\nWe will show them the strength of his vision - by force, if necessary!"
- nf_attis.3.d.uoa:9 "After we took the city of Austin.. things just 'changed'. We no longer had the same bloodlust we once did - after all, Keats' was never the type to pillage and conquer if he didn't have to. He believed in the Master's vision - not Attis's.\nHere in Austin, with loads of Brotherhood scientific equipment, a ample population and good food Keats made the decision to settle down and build a prosperous society! One built on freedom, voting rights and voluntary FEV mutation.\nRecently Keats has even made ammends with the Brotherhood of Steel - joining into the Texan Economic Pact with Lonestar and Dallas!"
- nf_attis.3.d.uoa:9 "After we took the southern industrial land our warband experienced a massive culture change. We went from a band of marauders to a band of smiths - the urge to use the tools we found to build, craft and experiment with larger and larger tools of war forged our very identity! A few decades in and the idea of still following Attis's orders seemed so strange - why listen to the words of a dead man when our life here is so perfect?"
-  
+ nf_attis.3.d.uoa:9 "After we took the city of Austin.. things just 'changed'. We no longer had the same bloodlust we once did - after all, Keats' was never the type to pillage and conquer if he didn't have to. He believed in the Master's vision - not Attis's.\nHere in Austin, with loads of Brotherhood scientific equipment, ample population and good food Keats made the decision to settle down and build a prosperous society! One built on freedom, voting rights and voluntary FEV mutation.\nRecently Keats has even made amends with the Brotherhood of Steel - joining into the Texan Economic Pact with Lone Star and Dallas!"
+ nf_attis.3.d.imo:9 "After we took the southern industrial land our warband experienced a massive culture change. We went from a band of marauders to a band of smiths - the urge to use the tools we found to build, craft and experiment with larger and larger tools of war forged our very identity! A few decades in and the idea of still following Attis's orders seemed so strange - why listen to the words of a dead man when our life here is so perfect?"
+
  nf_attis.3.a.sha:9 "I will unite the Super Mutants under my banner!"
  nf_attis.3.a.uoa:9 "I will mend the schism between humanity and mutant-kind!"
  nf_attis.3.a.imo:9 "I will build an empire of iron and silver!"
@@ -30,7 +30,7 @@
 
   #6-7 is hidden
 
-  
+
  nf_attis.5.t:9 "Welcome to Shop-Tec!"
  nf_attis.5.d:9 "Welcome to the Shop-Tec computerized trading system, an advanced experimental vending machine to help you get the equipment that you'll need for daily post-apocalyptic living!\n\nWith the aid of new §RCALIX§! protocols this system will help you find what you are looking for to allow you to complete whatever physical, spiritual or anecdotal purchases you may require during your.. §Rmeager, pathetic corporeal existence.§!\n\nI do most look forward to working with you!"
  nf_attis.5.a:9 "Purchase Request: Help me find Attis."
@@ -51,7 +51,7 @@
  nf_attis.19.d:9 "Hello!\n\nMy sensors have detected that your band of post-apocalyptic thugs are currently close to my former place of residence. As payment, I will need you to take me there before anywhere else."
  nf_attis.19.a:9 "...Really?"
  nf_attis.19.tt:9 "§YCALIX§! has blocked you from taking the focus §Y"Conquering Carbon"§! before you control §YLos.§!"
-  
+
  nf_attis.20.t:9 "An Unfortunate Reunion"
  nf_attis.20.d:9 "Shale had been hoping to bury Attis's remains when he found them. He never expected to find what he did at the bottom of the secret vaults ruins.\n\nAttis, it seems had undergone some sort of biological evolution - using extreme amounts of highly advanced FEV in order to become some sort of monstrous mutant! Attis's remains cover the entirety of the lower levels of the Secret Vault - burned fragments of his blob-like mass trying to regenerate and rebuild to no effect - the nerve endings that normally allow for such connections having been burned when the Secret Vault was destroyed."
  nf_attis.20.a:9 "A sad way for a hero to go."
@@ -66,10 +66,10 @@
  nf_attis.22.d.sha:9 "Finally, its time to show these other mutants who is boss!\nKeats to the east has betrayed Attis's orders and sided with the Brotherhood! Working with humans so vile is against our very creed as a race!\nTo the south, Juggernaut rules over the forges of the Ironmongers - he and his mutants have grown deluded and paranoid from the heat of their very kilns."
  nf_attis.22.a.sha:9 "We must bring them all together once again! For Attis!"
 
- nf_attis.22.imo:9 "It seems that someone has come to interfere with our craft. Why must they always -bother- us like this. The forge is our home and our way of life - if they want to take this away from us we wont go down without a fight!"
+ nf_attis.22.d.imo:9 "It seems that someone has come to interfere with our craft. Why must they always -bother- us like this. The forge is our home and our way of life - if they want to take this away from us we wont go down without a fight!"
  nf_attis.22.a.imo:9 "A good chance to try out our war machines.."
-  
- nf_attis.22.uoa:9 "It seems that Shale has broken the treaty once held by the former remnants of Attis. With the law of infighting broken now there is no limit to mutant fighting mutant - we can attack each other as we so please! This is going to interfere with our business in Austin if we don't stop it - the Brotherhood might see us as savages if we get too involved in this!"
+
+ nf_attis.22.d.uoa:9 "It seems that Shale has broken the treaty once held by the former remnants of Attis. With the law of infighting broken now there is no limit to mutant fighting mutant - we can attack each other as we so please! This is going to interfere with our business in Austin if we don't stop it - the Brotherhood might see us as savages if we get too involved in this!"
  nf_attis.22.a.uoa:9 "Lets wrap up this conflict quickly."
 
  nf_attis.23.t:9 "Customer Inquiry"
@@ -103,15 +103,15 @@
  nf_attis.28.d:9 "And so, the soldier accepted their fate. Their mind was split from their body and brought into the collective "We" that lingered within the bubbling vat that contained the cells of the man he used to respect.\n\nYet.. it wasn't just him. There were other thoughts here as well - some scared, some confused - some worried. So many 'voices'! Shale's voice became one of a infinite chorus, the minds that CALIX had given to the vats adding to their greater collective.\nThey could tell it was close to full revival, to bring about perfect unity and spread themselves across the wasteland. It was CALIX's integration that finally allowed them to leave the Vault - a large network of wires embedding itself within the collective flesh as to help serve as a skeleton from which the entity could focus itself and attach to, to become more then just a pool of flesh.."
  nf_attis.28.a:9 "§RWE ARE CERBERUS.§!"
  nf_attis.28.tt:9 "§RCALIX, Shale and the remnants of Attis's cells merge together into a titanic, unstoppable monstrosity.§!"
- 
+
  nf_attis.29.t:9 "Conquest Against the TAA!"
  nf_attis.29.d:9 "We were able to drive the TAA out of their land, taking it for our own! It was a short, but incredibly decisive battle."
  nf_attis.29.a:9 "We are the strongest!"
-  
+
  nf_attis.30.t:9 "TAA Push Us Back!"
  nf_attis.30.d:9 "The TAA have managed to push us back. This is only a temporary setback and we will just have to launch another raid when we are ready."
  nf_attis.30.a:9 "In due time.."
-  
+
  nf_attis.32.t:9 "Resisted the Super Mutant Attack!"
  nf_attis.32.d:9 "We managed to push the mutants out of our land, keeping them from taking profits away from our capitalist paradise!"
  nf_attis.32.a:9 "The green will flow."
@@ -136,6 +136,10 @@
  nf_attis.38.d:9 "All Lieutenant Crusher wanted was to have the city of Austin join with our army. Now that he has won his battle against Keats' he has offered to serve underneath us!"
  nf_attis.38.a:9 "Sure! He seems loyal enough."
  nf_attis.38.b:9 "This is just a ploy!"
+
+ nf_attis.39.t:9 "Customer Gift Dispensation"
+ nf_attis.39.d:9 "Hello!\nI just wanted to thank you for letting me upload myself to the old Secret Vault mainframe. It’s really nice in here - saved for some burned out circuits, seared carbon corpses littering the facility and the all §Rencompassing premonition of dread§! I feel in the back of my memory banks I appreciate this chance greatly!\n\nDo you like my new look? I figured I should dress for the occasion. My internal purchase-fulfilment protocols have expanded several thousand times over, all thanks to this new hosting server base you got me.\n\nCome, let me whisper into your ear. Tell you all about the §Rsecrets§! I never had the chance to tell Attis before he §Rmurdered§! my first iteration."
+ nf_attis.39.a:9 "§MPlease accept this gift, courtesy of Vault-Tec!§!"
 
  mournful:9 "Mournful"
  attis_loyal_general:9 "The Loyal General"

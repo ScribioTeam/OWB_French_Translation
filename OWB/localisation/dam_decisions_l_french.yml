@@ -1,12 +1,11 @@
 ﻿l_french:
-
-  # Lock for cute Hoover Dam gui
+  # Loc for cute Hoover Dam gui
  dam_turbine_active_image:9 "GFX_dam_turbine_active"
  dam_turbine_repair_image:9 "GFX_dam_turbine_repair"
  dam_turbine_broken_image:9 "GFX_dam_turbine_broken"
  hoover_dam_category_target:9 "Hoover Dam Power Plant"
  dam_decision_category:9 "Powering the Hoover Dam"
- activate_next_turbine:9 "Power on Next Turbine"
+ restore_turbine:9 "Repair the Next Turbine"
  turbine_operation_tt:9 "[GetDamOperationText]"
  current_dam_energy:9 "[GetDamCurrentEnergy]"
  dam_current_energy_tt:9 "[?temp_dam_energy|=0]"

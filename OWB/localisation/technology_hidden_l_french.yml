@@ -193,11 +193,14 @@
  legion_vexillarius_tech:0 "Vexillarius"
  legion_vexillarius_tech_desc:0 ""
  legion_training_tech:9 "Legion Training"
- legion_frumentarii_officers:9 "Frumentarii Officers"
+ legion_frumentarii_officers_tech:9 "Frumentarii Officers"
  legion_frumentarii_commandoes_tech:9 "Frumentarii Commandos"
- ces_aurelius_mercenaries:9 "Mercenary Advisors"
+ ces_aurelius_mercenaries_tech:9 "Mercenary Advisors"
  CES_horns_moroni_tech:9 "Horns of Moroni"
  armored_chariots:9 "Armoured Chariots"
+ CES_mercenary_training_tech:9 "Mercenary Training Tech"
+
+
 
  #Reno
  reno_mastersnewarmy:0 "Nouvelle armée du Maître"
@@ -220,7 +223,7 @@
  #Raider
  tbh_lawkeepers_tech_1:9 "Deputy Training"
  tbh_lawkeepers_tech_1_desc:9 ""
- tbh_lawkeepers_tech_2:9 "Sherriff Training"
+ tbh_lawkeepers_tech_2:9 "Sheriff Training"
  tbh_lawkeepers_tech_2_desc:9 ""
  tbh_lawkeepers_tech_3:9 "Marshall Training"
  tbh_lawkeepers_tech_3_desc:9 ""

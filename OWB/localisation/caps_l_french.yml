@@ -3,7 +3,7 @@
   #Caps Main
  CAPS_TOOLTIP:9 "You Have [?caps_number_display|+] [GetCapType] \n\nYou Gain [PrecalculateCapsNet] [GetCapType] per quarter. \n  \n"
  CAPS_TOOLTIP_delayed:0 "[GetLongCapTT]"
- CAPS_TOOLTIP_delayed_real:9 "[GetCapType] \nGross Income: [GetCapTxt] [PrecalculateCapsIncome] per quarter \n   -Modified by [?modifier@caps_income_modifier|+=%]  [GetCapType] \nExpenses: [PrecalculateCapsExpenes] per quarter \n   -Modified by [?modifier@caps_expense_modifier|-=%] \n Net Quarterly Profit: [PrecalculateCapsNet]\n   -Flat Income: [?modifier@caps_flat_income_modifier|+=0]"
+ CAPS_TOOLTIP_delayed_real:9 "[GetCapType] \nGross Income: [GetCapTxt] [PrecalculateCapsIncome] per quarter \n   -Modified by [?modifier@caps_income_modifier|+=%]  [GetCapType] \nExpenses: [PrecalculateCapsExpenes] per quarter \n   -Modified by [?modifier@caps_expense_modifier|-=%] (Max §G-90%§!)\n Net Quarterly Profit: [PrecalculateCapsNet]\n   -Flat Income: [?modifier@caps_flat_income_modifier|+=0]"
   ##CAPS_MAIN: "[?caps_number_display|2]k"
  CAPS_MAIN_0dp:9 "[?caps_number_display|0]k"
  caps_income_calc_tt:9 "[GetCapTxt] [?income_display_temp|=+]k"
@@ -15,9 +15,20 @@
  caps_opinion_tt:0 "L'opinion donne [?opinion_var_temp|%+] de remise.\n"
  caps_decision_balance_tt:0 "Montant actuellement en banque. \nDépenser pour les décisions et l'entretien des unités."
  caps_decision_income_tt:9 "Income of [GetCapType].\n   Modified by [?modifier@caps_income_modifier|+%]\n   Flat income: [?modifier@caps_flat_income_modifier|+=]"
- caps_decision_expense_tt:9 "Les dépenses trimestrielles sont faites pour l'entretien militaire. \nChaque bataillon est plus cher que le précédent.\n   Modifié par [?caps_expense_modifier|-%]"
- caps_decision_net_tt:9 "Net Quarterly [GetCapType] Profit\n\n   Income modified by [?modifier@caps_income_modifier|+%]\n   Expenses modified by [?modifier@caps_expense_modifier|-%]\n   Flat income: [?modifier@caps_flat_income_modifier|+=]"
+ caps_decision_expense_tt:9 "Quarterly expenses are made of military upkeep. \nEvery battalion is more expensive than the last.\n   Modified by [?modifier@caps_expense_modifier|-%] (Max §G-90%§!)"
+ caps_decision_net_tt:9 "Net Quarterly [GetCapType] Profit\n\n   Income modified by [?modifier@caps_income_modifier|+%]\n   Expenses modified by [?modifier@caps_expense_modifier|-%] (Max §G-90%§!)\n   Flat income: [?modifier@caps_flat_income_modifier|+=]"
  recuit_pop_calc_tt:9 "Cost of manpower in training queue: [?temp_expense_calc|1+=] [GetCapType]"
+
+ caps_army_wages_lockout_tt:9 "Has not recently modified wages"
+ caps_lockout_set_tt:9 "§RDis-allow§! wage changes for 140 days"
+ army_wages_laws:9 "Army Wages"
+ mothballed_divisions:9 "Mothballed Divisions"
+ national_guard:9 "National Guard"
+ standard_military:9 "Standard Wages"
+ family_stipend:9 "Family Stipends"
+ lifetime_pension:9 "Lifetime Pensions"
+ mutant_wages_law:9 "Mutant Dipping Pools"
+ brotherhood_wages_law:9 "Centralized Stockpiles"
   ### MODIFIER LOCALIZATION
  caps_income_modifier:9 "Caps Income"
  caps_expense_modifier:9 "Caps Expenses"
@@ -37,6 +48,7 @@
   ###Debug Ideas
  caps_base_income_5:9 "Base Caps Income"
  caps_economy_modifier_1:9 "Debug Caps Income Modifier"
+ caps_ncr_start_modifier:9 "Low Substituent State Control"
 
   ###Caps TT for designer
  caps_recruit_tt:9 "Coût de la main-d'œuvre dans la file d'attente des formations.\n   Modifié par [?caps_expense_modifier|-%]"
@@ -47,6 +59,7 @@
  add_caps_tt:9 "[GetAddCapTT]"
  add_caps_positive_tt:9 "Gain [GetCapTxt] [?caps_to_add|+=]k [GetCapType].\n"
  add_caps_negative_tt:9 "Lose [GetCapTxt] [?caps_to_add|+=]k [GetCapType].\n"
+ create_new_node_effect_tt:9 "becomes and economic node.\n"
   ###Focus Code
  continuous_increase_caps_income:9 "Boost Currency"
  continuous_caps_trigger_tt:0 "A un revenu net positif"
@@ -79,10 +92,16 @@
  caps_war_bonds:9 "Sell War Bonds"
  caps_warbonds_available_tt:9 "§GIncome§! nearly is, or is below §RExpenses§!"
  caps_war_bonds_idea:9 "War Bonds Reparations"
+ cap_invest_in_small_business:9 "Invest in Small Business"
+ caps_bribes:9 "Political Bribes"
+ organization_request_mission:9 "Business Favor"
 
+ caps_send_caravan:9 "Send Caravan To §Y[From.GetName]§!"
+ caps_send_caravan_effect_tt:9 "\nSend caravan carrying [?caravan_trade_value_sent_temp|1G]k [ROOT.GetCapType] worth of goods to §Y[From.GetName]§!.\nRecieve [?caravan_trade_value_recieved_temp|1G]k [ROOT.GetCapType] per quarter for 275 days."
+ caps_send_caravan_cancel_tt:9 "Destroy Caravan Route"
   ### Unlock effects
- caps_unlock_industry_decisions:9 "Unlocks Decision: §YPurchase Better Drills§!"
- caps_unlock_mining_decisions:9 "Unlocks Decision: §YTax Breaks for Factories§!"
+ caps_unlock_mining_decisions:9 "Unlocks Decision: §YPurchase Better Drills§!"
+ caps_unlock_industry_decisions:9 "Unlocks Decision: §YTax Breaks for Factories§!"
  caps_unlock_dockyard_decisions:9 "Unlocks Decision: §YExpand Slipways§!"
  caps_unlock_farming_decisions:9 "Unlocks Decision: §YGrain Solicitations§!"
  caps_unlock_academy_decisions:9 "Unlocks Decision: §YInvest into Military Academy§!"
@@ -100,6 +119,7 @@
  capdisplayusd:0 "GFX_bottle_cap_display_usd"
  capdisplaypeso:0 "GFX_bottle_cap_display_peso"
  capdisplaygeneric:0 "GFX_bottle_cap_display"
+ capdisplaytexdollar:9 "GFX_tex_dollar_display"
  currency_laws:0 "Loi sur la monnaie"
  ncrdollar:0 "Dollars de la RNC"
  cesdenarius:0 "Denarius de la Légion"
@@ -125,12 +145,13 @@
 
   ##Flavor
  currency_get_icon_tt:0 "[GetCapCurrencyInfo]"
- currencyncrdollar_info:23 "La RNC a introduit sa propre monnaie au tournant du 23e siècle et s'est d'abord appuyée sur des pièces frappées en or. En 2241, l'économie de la RNC dominait la côte ouest et les pièces sont devenues une monnaie universelle, utilisée par les trois grandes puissances : RNC, Vault City et New Reno. À cette époque, les capsules de bouteilles étaient devenues sans valeur dans ces régions."
- currencycesdenarius_info:0 "Le Denarius (argent), qui porte l'image d'un César plus jeune à l'avers et de César, Joshua Graham et Calhoun au revers. Les inscriptions sont en latin, \"Caesaer Dictator\" signifiant \"Dictateur César\" ou \"Souverain absolu César\" au recto et \"Magnum Chasma\" signifiant \"Grand Abyssin\" ou \"Grande Fissure\" au verso, faisant référence au Grand Canyon. Le symbolisme est simple - le denier commémore le voyage du jeune César vers le Canyon et ses premières victoires en tant que dictateur des tribus."
+ currencyncrdollar_info:9 "Modifiers:\n   Stability: §G10%§!\n   Passive Caps: §G+3§!\n\nThe NCR introduced its own money around the turn of the 23rd century and initially it relied on coins minted from gold. By 2241, the economy of NCR dominated the West Coast and coins became universal currency, used by the three big powers: NCR, Vault City and New Reno. During this time bottle caps had become worthless in these regions."
+ currencycesdenarius_info:9 "Modifiers:\n   Stability: §G5%§!\n   Passive Caps: §G+7§!\n   Country Expenses: §G-15%§!\n\nThe Denarius (silver), which bears an image of a younger Caesar on the obverse and Caesar, Joshua Graham and Calhoun on the reverse. The inscriptions are in Latin, \"Caesar Dictator\" meaning \"Dictator Caesar\" or \"Absolute Ruler Caesar\" on the front and \"Magnum Chasma\" meaning \"Great Abyss\" or \"Great Fissure\" on the back, referring to the Grand Canyon. The symbolism is simple - the denarius commemorates young Caesar's journey to the Canyon and his first victories as a dictator of the tribes."
  currencyusd_info:0 "Pas de données"
  currencycad_info:0 "Pas de données"
  currencypeso_info:0 "Pas de données"
- currencygenericcap_info:9 "En Nouvelle-Californie, la relative rareté des capsules de bouteilles en a fait une monnaie d'échange parfaite que les marchands de Hub ont adoptée au 22ème siècle, ce qui a conduit au surnom de \"Hubbucks\" et \"Hubscript\". Soutenus par la valeur de l'eau, les commerçants du Hub ont soutenu les capsules de bouteilles parce que la technologie pour les fabriquer et peindre leurs surfaces avait été en grande partie perdue pendant la Grande Guerre, ce qui a limité les efforts de contrefaçon. Deuxièmement, il existe un nombre limité de bouchons de bouteille, qui préservent dans une certaine mesure leur valeur contre l'inflation. Pour des raisons similaires, les commerçants de la côte Est reconnaissent également les capsules de bouteilles comme une monnaie. Leur première utilisation enregistrée par des survivants remonte à 2106 dans les Appalaches."
+ currencytexdollar_info:9 "No Data"
+ currencygenericcap_info:9 "Modifiers:\n   Passive Caps: §G+5§!\n\nIn New California, the relative scarcity of bottle caps made them a perfect currency for Hub merchants to adopt in the 22nd century, leading to the nickname \"Hub bucks\" and \"Hub script.\" Backed by the value of water, the Hub merchants supported bottle caps because the technology to manufacture them and paint their surfaces had been mostly lost in the Great War, which limited any counterfeiting efforts. Secondly, there are a limited number of bottle caps, which preserve their value against inflation to some degree. For similar reasons the East Coast merchants also recognize bottle caps as a currency. Their earliest recorded use by survivors originates in Appalachia as of 2106."
 
  capdisplayncrtxt:0 "£currency_NCR_text_icon"
  capdisplaylegiontxt:0 "£currency_legion_text_icon"
@@ -138,16 +159,16 @@
  capdisplaypesotxt:0 "£currency_peso_text_icon"
  capdisplayusdtxt:0 "£currency_USD_text_icon"
  capdisplaycadtxt:0 "£currency_CAD_text_icon"
- capdisplaytexdollartxt:9 "£currency_texdollar_text_icon"
+ capdisplaytexdollartxt:9 "£currency_tex_text_icon"
 
   ### TUTORIAL EVENT LOC ###
- tutorial_caps.1.t:0 "L'économie des capsules de bouteille"
- tutorial_caps.1.d:0 "Avec la mise à jour 2.1, \"Trouble in Paradise\", l'expérience de base de Old World Blues a été mise à jour pour inclure le système économique des \"Capsules\". A partir de la version 2.1, le système est encore à l'état embryonnaire, mais nous espérons qu'il deviendra un système bien ancré qui ajoute une nouvelle méthode d'interaction à l'expérience Hearts of Iron.\n\nCette série d'événements vous fera découvrir un tutoriel de base sur le système."
- tutorial_caps.1.a:0 "Je suis déjà un expert en économie !"
+ tutorial_caps.1.t:9 "Caps and the §c3.0 Update§!"
+ tutorial_caps.1.d:9 "The 3.0 update, 'Monster of the East' again breaths a new life into the caps system. Caps has moved from a steady trickle all game, to a representation of large areas of commerce, trade, and occasional conflict. Track the move of caps across the map, purchase equipment from brokers throughout the wastes, and uplift the local economy! \n\nThis set of events will bring you through a basic tutorial of the system. This tutorial is §RHIGHLY§! recommended for a first playthough in version §o3.0§!, along with enabling help tooltips at the end of this tutorial, or in the pipboy under 'Mechanics > Caps'"
+ tutorial_caps.1.a:9 "I have already played 3.0"
  tutorial_caps.1.b:0 "Tutoriel"
 
  tutorial_caps.3.t:9 "The Bank and the Bill"
- tutorial_caps.3.d:9 "The caps system can been viewed at a glance on the §oTop Bar§!, this will show your current coffer of caps! When hovered, it will give a more detailed breakdown of your §oIncomes§! and §oexpenses§!, plus the modifiers applied to both.\nThe primary expense in the caps system is military upkeep. Troops cost money, and the more you have, the more each consecutive battalion costs! \nThe 'Recruit and Deploy' menu shows an estimate of the cost of the troops in your training que. Some specialty units, such as spec ops and power armour, cost more per battalion than infantry. \nYour troops currently cost: [?caps_military_upkeep|-] [GetCapType].\nIn times of strife, peace, or capitalistic inspiration, some countries can adjust their §oArmy Wages§! increasing or decreasing their army costs and strengths. Your country [GetArmyWagesTutorialText] modify their army's wage"
+ tutorial_caps.3.d:9 "The caps system can been viewed at a glance on the §oTop Bar§!, this will show your current coffer of caps! When hovered, it will give a more detailed breakdown of your §oIncomes§! and §oexpenses§!, plus the modifiers applied to both.\nThe primary expense in the caps system is military upkeep. Troops cost money, and the more you have, the more each consecutive battalion costs! \nThe 'Recruit and Deploy' menu shows an estimate of the cost of the troops in your training que. Some specialty units, such as spec ops and power armour, cost more per battalion than infantry. \nYour troops currently cost: §R[PrecalculateCapsExpenes]§! [GetCapType].\nIn times of strife, peace, or capitalistic inspiration, some countries can adjust their §oArmy Wages§! increasing or decreasing their army costs and strengths. Army wages can be set as an economic law; these laws have a 140 day timeout between swaps."
  tutorial_caps.2.a:0 "Continuer"
  tutorial_caps.2.b:0 "Quitter"
  tutorial_caps_2_can:9 "§ocan§!"
@@ -159,7 +180,7 @@
  tutorial_caps.3.b:0 "Quitter"
 
  tutorial_caps.4.t:9 "America Universalis"
- tutorial_caps.4.d:9 "§oEconomic Nodes§! are the corner stone of the 3.0 update to caps! The §oState Node View§! can be seen by selecting a state that is part of a node. You currently control [?state_controlled_nodes^num|0]. \n\nNodes are a collection of §oMember States§! and a §oCentral State§!. Each node has a level, between 1-10, with levels 9 and 10 being rewarded through focuses and decisions. Levels 1-8 can be achieved through improving a node's §oDevelopment§!. Every factory, dockyard, and infrastructure adds to the development in a node. Generally, the more member states in a node, the harder to improve it is, but the higher level it can reach. \n\nNodes grant the largest percentage of a country's income when controlled (Your node income: [?caps_income|0] [GetCapTxt]). Each node's income is comprised of two parts: §oDevelopment Income§! and §oTrade Income§!. Development income is directly dependant on node level. Trade income is generated through §oTrade Routes§!. Each source of income has a respective modifier at both a state and country level. During conflict, nodes can become §oDisabled§!; disabled nodes do not provide income."
+ tutorial_caps.4.d:9 "§oEconomic Nodes§! are the corner stone of the 3.0 update to caps! The §oState Node View§! can be seen by selecting a state that is part of a node. You currently control [?state_controlled_nodes^num|0]. \n\nNodes are a collection of §oMember States§! and a §oCentral State§!. Each node has a level, between 1-10. Levels 1-8 can be achieved through improving a node's §oDevelopment§!, while level 9 and 10 require §oEconomic Development§! normally rewarded through decisions and focuses. Every factory, dockyard, and infrastructure in a node adds to its development. Generally, the more member states in a node, the harder to improve it is, but the higher level it can reach. \n\nNodes grant the largest percentage of a country's income when controlled (Your node income: [?caps_income|0] [GetCapTxt]). Each node's income is comprised of two parts: §oDevelopment Income§! and §oTrade Income§!. Development income is directly dependant on node level. Trade income is generated through §oTrade Routes§!. Each source of income has a respective modifier at both a state and country level. During conflict, nodes can become §oDisabled§!; disabled nodes do not provide income."
  tutorial_caps.4.a:9 "Continue"
  tutorial_caps.4.b:0 "Quitter"
 
@@ -169,12 +190,12 @@
  tutorial_caps.6.b:9 "Exit"
 
  tutorial_caps.7.t:9 "Not Quite Nicolas Cage"
- tutorial_caps.7.d:9 "To better track the flow of caps around the wastes, each bottlecap has a small map inscribed on the back. We aren't sure where these came from, but you can access it from the topbar's §oMisc§! button, right next to logisitcs.\n\nThe §oTrade Node Map§! displays a lot of information! Let's break it down from left to right.\nOnthe the far left is the §oTrade Ledger§! This are contains a sum of development income, trade income, and total income from all controlled nodes. Directly underneath is a list of currently owned nodes. The last button in this pannel will show all current routes both TO and FROM controoled nodes.\n\n The center contains a drag-able map of all trade nodes. Left clicking to select will highlight trade links in green, and trade routes in orange. These colors match throughout the gui.\n\nOn the far right is the currently selected node. This displays the node's income at a glance. By selecting a linked node through this pannel, an overview of the linked node is displayed along with an alternate was to send trade routes."
+ tutorial_caps.7.d:9 "To better track the flow of caps around the wastes each bottlecap has a small map inscribed on the back. We aren't sure where these came from, but you can access it from the topbar's §oMisc§! button, right next to logisitcs.\n\nThe §oTrade Node Map§! displays a lot of information! Let's break it down from left to right.\nOn the the far left is the §oTrade Ledger§!. This contains a sum of development income, trade income, and total income from all controlled nodes. Directly underneath is a list of currently owned nodes. The last button in this panel will show all current routes both TO and FROM controlled nodes.\n\n The center contains a drag-able map of all trade nodes. Left clicking to select will highlight trade links in green, and trade routes in orange. These colors match throughout the gui.\n\nOn the far right is the currently selected node. This displays the node's income at a glance. By selecting a linked node through this pannel, an overview of the linked node is displayed along with any alternate ways to send trade routes."
  tutorial_caps.7.a:9 "Continue"
  tutorial_caps.7.b:9 "Exit"
 
  tutorial_caps.8.t:9 "Honest Business"
- tutorial_caps.8.d:9 "There are a variety of §oOrganizations§! across the wastes that facilitate the transfer of good. These organizations now set up shop in trade nodes. When a trade route is sent from a node with an organization established, that organization may decide to make the jump to expand their operations.\n\nThe market has recieved a total overhaul! It can now be acessed via the topbar misc menu. A country's tech levl no longer determines the available goods, and transactions are now instant. When interacting with organizations, their §oOpinion§! of a country rises. High opinion gives both better buy and sell prices.\n\nOpinion can also be leveraged for favors from an organization. Most contracts and orders require a minimum opinion to use, and some also require some 'spendable' opinion. Spendable opinion is accrued by interacting with an organization directly, while general opinion can be increased by favorable actions, such as giving a government position to organization leaders.\n\nDifferent groups have different specialties! It may be wise to entice them all to set up a front in your nation."
+ tutorial_caps.8.d:9 "There are a variety of §oOrganizations§! across the wastes that facilitate the transfer of goods. These organizations now set up shop in trade nodes. When a trade route is sent from a node with an organization established, that organization may decide to make the jump to expand their operations.\n\nThe market has recieved a total overhaul! It can now be acessed via the topbar misc menu. A country's tech levl no longer determines the available goods, and transactions are now instant. When interacting with organizations, their §oOpinion§! of a country rises. High opinion gives both better buy and sell prices.\n\nOpinion can also be leveraged for favors from an organization. Most contracts and orders require a minimum opinion to use, and some also require some 'spendable' opinion. Spendable opinion is accrued by interacting with an organization directly, while general opinion can be increased by favorable actions, such as giving a government position to organization leaders.\n\nDifferent groups have different specialties! It may be wise to entice them all to set up a front in your nation."
  tutorial_caps.8.a:9 "Continue"
 
  tutorial_caps.9.t:9 "Helping Hands"
@@ -311,6 +332,11 @@
  caps_flavor_events.17.d:9 "Recently, we've heard of a man who goes by the simple moniker 'T.' Though we swear we've heard of him before, he insists we've never met, and we cannot remember it either. \n\nRegardless, the ghoul brings a secret with him. The best god-damned burger recipe we've ever tasted! And he wants to share! Our best chuck catchers have adopted the famous recipe all throughout the country. \n\nRecently, groups have been making pilgrimages from even distant lands of foreign and exotic gods, just to have a taste."
  caps_flavor_events.17.a:9 "I hear he writes as well."
  caps_swiss_tomatos_idea:9 "Swiss Sauce"
+
+ caps_flavor_events.18.t:9 "Ruined Factories"
+ caps_flavor_events.18.d:9 "While our scouts were out salvaging the ruins of §Y[215.GetName]§!, we stumbled on something quite peculiar. Many people of the Old World knew this place for a singular reason. A reason now known to us. \nExcavations took us a few days, but we've finally uncovered it. One of the few batches of §cMozzarella Cheese§! left untouched by the war. Not only have we unearthed an uncontaminated cheese, but we also found the secret Roswellian recipe!\nWith our new found cheese industry, not only will our armies have stronger bones, but stronger hearts as well."
+ caps_flavor_events.18.a:9 "Pizza is back on the menu!"
+ caps_mozzerella_idea:9 "Roswell Cheese Production"
 ###GAMERULE DATA
  RULE_CAPS_DEBUG_TOGGLE:0 "Générateur de données du système Capsules"
  RULE_CAPS_DEBUG_TOGGLE_ENABLED:0 "Activer l'enregistreur de données"

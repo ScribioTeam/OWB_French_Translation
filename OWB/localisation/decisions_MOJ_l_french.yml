@@ -18,4 +18,7 @@
  moj_securitron_vault:9 "L'Abri Securitron"
  moj_securitron_vault_desc:9 "La Confrérie doit utiliser tous les outils à sa disposition au nom de la protection de l'humanité contre ce qui a failli la tuer. Si nous ne nourrissons pas les mêmes rêves d'une utopie robotique que House a fait autrefois, Elijah est toujours l'homme intéressé par le potentiel de la technologie du vieux monde. Il y a peu de mal à activer l'armée Securitron et à l'utiliser dans l'intérêt de la Confrérie, n'est-ce pas ?"
  moj_securitron_army_tt:359 "L'armée Securitron surgit des profondeurs du sous-sol [359.GetName], prête à nous servir et à vaincre nos ennemis."
+ MOJ_tech_investigation:9 "Elijah's Great Search"
+ MOJ_tech_investigation_desc:9 "When Elijah sleeps his dreams are filled with only the grandeurs of discovery and breakthrough. He instructs his operatives carefully, imploring them to leave no stone unturned. His dreams, however, might lead the Mojave Brotherhood to their own undoing.\n\nHis expeditions begin with recent scout reports from [380.GetName]."
+ moj_end_repconn_tt:9 "Unlocks an §Goperation§! in [329.GetName] against [329.Owner.GetName] to investigate a reported vertibird graveyard!"
  
