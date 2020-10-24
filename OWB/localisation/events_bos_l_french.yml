@@ -91,16 +91,16 @@
 
   #Demand the Bay
  nf_brotherhood.22.t:0 "Demandons la Baie"
- nf_brotherhood.22.d:9 "Our hold of the greater Bay Area area is undisputed we should make a demand of the NCR to hand over this area to us. Although not particularly important strategically, the location has good infrastructure that would allow us to expand our operations in the bay - and it would also provide a crucial buffer leading up to the Golden Gate Bridge."
+ nf_brotherhood.22.d:9 "Notre emprise sur la zone de la grande baie est incontestée ; nous devrions demander à la RNC de nous céder cette zone. Bien qu'il ne soit pas particulièrement important d'un point de vue stratégique, l'emplacement dispose d'une bonne infrastructure qui nous permettrait d'étendre nos opérations dans la baie - et il constituerait également une zone tampon cruciale menant au Golden Gate Bridge."
  nf_brotherhood.22.a:0 "Envoyez la demande immédiatement."
 
  nf_brotherhood.23.t:0 "L'ultimatum de la Confrérie."
- nf_brotherhood.23.d:9 "We have received a demand from the Brotherhood themselves. Looking to finally secure their grasp on the Bay Area once and for all, the Brotherhood are demanding that we hand over Santa Rosa, San-Rafael and Point-Green to them. The fact that they are sending this demand while our rangers are busy will cause the public to panic if we refuse openly - after all, the last time this happened the Brotherhood was able to sack our gold reserves."
+ nf_brotherhood.23.d:9 "Nous avons reçu une demande de la Confrérie elle-même. Afin de s'assurer qu'ils puissent enfin s'emparer de la Baie une fois pour toutes, la Confrérie demande que nous leur remettions Santa Rosa, San-Rafael et Point-Green. Le fait qu'ils envoient cette demande alors que nos rangers sont occupés va provoquer la panique du public si nous refusons ouvertement - après tout, la dernière fois que cela s'est produit, la Confrérie a pu mettre à sac nos réserves d'or."
  nf_brotherhood.23.a:0 "Point-Green ? Il peuvent l'avoir."
  nf_brotherhood.23.b:0 "Qu'ils aillent en enfer!"
 
  nf_brotherhood.24.t:0 "La RNC refuse !"
- nf_brotherhood.24.d:9 "Only a couple of days after sending our demand to the NCR, we were sent a message in return; the contents of which are not agreeable. The NCR has decried our demand and insists that the Bay Area is theirs, and shall remain theirs. It appears that any hope of securing the bay without provoking war have been dashed."
+ nf_brotherhood.24.d:9 "Quelques jours seulement après avoir envoyé notre demande à la RNC, nous avons reçu un message en retour dont le contenu n'est pas acceptable. La RNC a dénoncé notre demande et insiste sur le fait que la Bay Area est à eux et le restera. Il semble que tout espoir de sécuriser la baie sans provoquer la guerre ait été anéanti."
  nf_brotherhood.24.a:0 "Qu'il en soit ainsi."
 
   #Nobody ever put in loc for this one lol
