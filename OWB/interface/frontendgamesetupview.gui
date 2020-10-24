@@ -10,7 +10,7 @@ guiTypes = {
 	containerWindowType = {
 		name = "bookmark_entry"
 		position = { x = 0 y = 0 }
-		size = { width = 218 height = 168 }
+		size = { width = 218 height = 160 }
 		clipping = no
 		# fade_time = 500
 		# fade_type = linear
@@ -525,23 +525,23 @@ guiTypes = {
 
 		containerWindowType = {
 			name ="bookmarks"
-			position = { x = 0 y = 144 }
-			size = { width = -218 height = 336 }
+			position = { x = 0 y = 0 }
+			size = { width = -218 height = 480 }
 
 			gridboxType = {
 				name ="bookmarks_grid"
 				position = { x = 0 y = 0 }
 				size = { width = 100%% height = 100%% }
-				slotsize = { width = 218 height = 168 }
+				slotsize = { width = 218 height = 160 }
 				add_horizontal = no
-				# max_slots_vertical = 1
-				format = "UPPER_LEFT"
+				max_slots_vertical = 3
+				format = "UPPER_RIGHT"
 			}
 
-			### Bookmark titles are manually added here
+			### Bookmark titles are manually added here.
 			instantTextBoxType = {
 				name = "bookmark_01_name"
-				position = { x = 50 y = 135 }
+				position = { x = 50 y = 127 }
 				font = "fallout_decayed_20"
 				borderSize = { x = 0 y = 0 }
 				text = "WC_NAME"
@@ -552,10 +552,21 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "bookmark_02_name"
-				position = { x = 50 y = 303 }
+				position = { x = 50 y = 287 }
 				font = "fallout_decayed_20"
 				borderSize = { x = 0 y = 0 }
 				text = "MEX_NAME"
+				maxWidth = 150
+				maxHeight = 21
+				format = left
+			}
+
+			instantTextBoxType = {
+				name = "bookmark_03_name"
+				position = { x = 50 y = 447 }
+				font = "fallout_decayed_20"
+				borderSize = { x = 0 y = 0 }
+				text = "TEX_NAME"
 				maxWidth = 150
 				maxHeight = 21
 				format = left

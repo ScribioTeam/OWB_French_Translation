@@ -2,6 +2,41 @@
 oob = "TRL_2275"
 
 set_technology = {
+	infantry_tech_level_tribal = 1
+	#infantry_tech_level_settler = 1
+	#infantry_tech_level_scientific = 1
+	support_tech_level_tribal = 1
+	#support_tech_level_settler = 1
+	#support_tech_level_scientific = 1
+	special_forces_tech_level_tribal = 1
+	#special_forces_tech_level_settler = 1
+	#special_forces_tech_level_scientific = 1
+	#power_armour_tech_level_settler = 1
+	#power_armour_tech_level_scientific = 1
+	#vehicles_tech_level_tribal = 1
+	#vehicles_tech_level_settler = 1
+	#vehicles_tech_level_scientific = 1
+	#robotics_tech_level_tribal = 1
+	#robotics_tech_level_settler = 1
+	#robotics_tech_level_scientific = 1
+	#air_tech_level_tribal = 1
+	#air_tech_level_settler = 1
+	#air_tech_level_scientific = 1
+	naval_tech_level_tribal = 1
+	#naval_tech_level_settler = 1
+	#naval_tech_level_scientific = 1
+	tools_tech_level_tribal = 1
+	#tools_tech_level_settler = 1
+	#tools_tech_level_scientific = 1
+	habitation_tech_level_tribal = 1
+	#habitation_tech_level_settler = 1
+	#habitation_tech_level_scientific = 1
+	exploitation_tech_level_tribal = 1
+	#exploitation_tech_level_settler = 1
+	#exploitation_tech_level_scientific = 1
+	electronics_tech_level_tribal = 1
+	#electronics_tech_level_settler = 1
+	#electronics_tech_level_scientific = 1
 	tribal_civilization = 1
 	tool_engineering = 1
 	standard_weaponry_tech = 1
@@ -41,7 +76,7 @@ if = {
 set_stability = 0.12
 set_war_support = 0.65
 set_research_slots = 3
-
+set_country_flag = army_wages_disabled
 set_politics = {
 	ruling_party = ruler
 	elections_allowed = no
@@ -88,6 +123,7 @@ add_ideas = {
 	trl_cave_trolls
 	slavers_idea_2
 	trl_warband_without_a_home
+	officer_law_mutant_instinct
 }
 
 add_opinion_modifier = { target = BOS modifier = mutantshatebos }

@@ -1,20 +1,44 @@
 ﻿capital = 520
 oob = "CES_2275"
+set_naval_oob = "CES_2275_naval"
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_intelligence_agency = {
+		name = "Frumentarii"
+		icon = "GFX_intelligence_agency_logo_leg"
+	}
+}
+
 
 set_technology = {
+	infantry_tech_level_tribal = 1
+	special_forces_tech_level_tribal = 1
+	support_tech_level_tribal = 1
+	vehicles_tech_level_tribal = 1
+	vehicles_tech_level_settler = 1
+	air_tech_level_tribal = 1
+	naval_tech_level_tribal = 1
+	tools_tech_level_tribal = 1
+	tools_tech_level_settler = 1
+	habitation_tech_level_tribal = 1
+	exploitation_tech_level_tribal = 1
+	electronics_tech_level_tribal = 1
+	infantry_tech_level_settler = 1
+	special_forces_tech_level_settler = 1
+	support_tech_level_settler = 1
+	recon_company_tech_1 = 1
 	terror_tactics = 1
 	standard_weaponry_tech = 1
 	melee_weaponry_tech_1 = 1
-	#slashing_weaponry = 1
-	#legion_motor_chariots = 1
-	tribal_civilization = 1
-	settled_civilization = 1
 	support_weaponry = 1
 	med_company_tech_1 = 1
-	bike_tech_1 = 1
 	demolitions_weaponry_tech = 1
 	special_forces_doctrine = 1
 	spec_ops_equipment_tech_1 = 1
+	tribal_tech_visibility_tech = 1
+
 }
 
 if = {
@@ -57,15 +81,15 @@ set_convoys = 220
 set_research_slots = 4
 
 set_politics = {
-	ruling_party = elites
+	ruling_party = ruler
 	elections_allowed = no
 }
 
 set_popularities = {
 	people = 0
-	elites = 50
+	elites = 30
 	intellectuals = 0
-	ruler = 50
+	ruler = 70
 }
 
 set_country_flag = slavery_allowed
@@ -80,7 +104,11 @@ add_ideas = {
 	slavers_idea_2
 	tribal_recruitment
 	undesirables_law_petty
+	legionary_state
+	legion_training
+	lac_loot_from_theeast_1
 }
+
 
 set_rule = {
 	can_send_volunteers = no
@@ -91,7 +119,7 @@ create_country_leader = {
 	desc = "Caesar_DESC"
 	picture = "portrait_caesar.dds"
 	expire = "3000.1.1"
-	ideology = militarist_oligarchy
+	ideology = military_government
 	id = 10001
 	traits = {
 		cruel_tyrant
@@ -104,16 +132,23 @@ add_to_tech_sharing_group = legion_research_pact
 
 set_variable = { never_return_stolen_territory = 1 }
 
-create_field_marshal = {
-	name = "Vulpes Inculta"
-	picture = "portrait_inculta.dds"
-	skill = 4
-	id = 10002
-	attack_skill = 3
-	defense_skill = 3
-	planning_skill = 6
-	logistics_skill = 5
-	traits = { perceptive_trait intelligent_trait tough_leader_trait }
+if = {
+	limit = {
+		NOT = {
+			has_dlc = "La Resistance"
+		}
+	}
+	create_field_marshal = {
+		name = "Vulpes Inculta"
+		picture = "portrait_inculta.dds"
+		skill = 4
+		id = 10002
+		attack_skill = 2
+		defense_skill = 2
+		planning_skill = 3
+		logistics_skill = 3
+		traits = { perceptive_trait intelligent_trait tough_leader_trait }
+	}
 }
 
 create_field_marshal = {
@@ -121,11 +156,22 @@ create_field_marshal = {
 	picture = "portrait_lucius.dds"
 	skill = 4
 	id = 10004
-	attack_skill = 5
-	defense_skill = 4
-	planning_skill = 3
-	logistics_skill = 5
+	attack_skill = 3
+	defense_skill = 2
+	planning_skill = 2
+	logistics_skill = 3
 	traits = { strong_trait enduring_trait }
+}
+create_corps_commander = {
+	name = "Aurelius"
+	picture = "portrait_phoenix.dds"
+	skill = 4
+	id = 10007
+	attack_skill = 3
+	defense_skill = 2
+	planning_skill = 2
+	logistics_skill = 3
+	traits = { strong_trait intelligent_trait }
 }
 
 create_equipment_variant = {
@@ -141,6 +187,21 @@ create_equipment_variant = {
 		fixed_ship_battery_slot_1 = ship_light_mounted_gun_module
 		fixed_ship_detection_slot = ship_detection_module_1
 		fixed_ship_detection_slot_1 = empty
+	}
+}
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Vulpes Inculta"
+		picture = "portrait_inculta.dds"
+		skill = 4
+		traits = { operative_gecko operative_smooth_talker operative_ninja operative_frumentarius operative_vulpes }
+		bypass_recruitment = no
+		available_to_spy_master = no
+		nationalities = { CES }
 	}
 }
 
@@ -165,7 +226,50 @@ create_equipment_variant = {
 }
 
 create_or_join_caesars_legion = yes
-declare_war_on = {
-	target = TWI
-	type = annex_everything
+LAC = {
+	create_or_join_caesars_legion = yes
 }
+add_to_tech_sharing_group = legion_research_pact
+
+create_dynamic_country = {
+	original_tag = CES
+	set_country_flag = CES_malpais_legion_flag
+	set_politics = {
+		ruling_party = ruler
+	}
+	set_cosmetic_tag = CES_malpais_legion
+	set_research_slots = 4
+	reserve_dynamic_country = yes
+}
+create_dynamic_country = {
+	original_tag = CES
+	set_country_flag = CES_lucius_legion_flag
+	set_politics = {
+		ruling_party = ruler
+	}
+	set_cosmetic_tag = CES_lucius_legion
+	set_research_slots = 4
+	reserve_dynamic_country = yes
+}
+create_dynamic_country = {
+	original_tag = CES
+	set_country_flag = CES_aurelian_legion_flag
+	set_politics = {
+		ruling_party = ruler
+	}
+	set_cosmetic_tag = CES_aurelian_legion
+	set_research_slots = 4
+	reserve_dynamic_country = yes
+}
+
+create_dynamic_country = {
+	original_tag = CES
+	set_country_flag = CES_vulpes_flag
+	set_politics = {
+		ruling_party = ruler
+	}
+	set_cosmetic_tag = CES_vulpes_legion
+	set_research_slots = 4
+	reserve_dynamic_country = yes
+}
+set_variable = { CES_stress_visual = 1 }
