@@ -7,7 +7,7 @@
 ## Présentation
 
 ### Motivation
-**[Old World Blues](https://steamcommunity.com/workshop/filedetails/?id=1303741106)** a été créé par une équipe de bénévoles non francophone et fait partie des meilleurs mods pour Hearts of Iron IV.
+**[Old World Blues](https://steamcommunity.com/sharedfiles/filedetails/?id=2265420196)** a été créé par une équipe de bénévoles non francophone et fait partie des meilleurs mods pour Hearts of Iron IV.
 
 Ce dépôt a pour but de proposer une traduction française de ce mod.
 
