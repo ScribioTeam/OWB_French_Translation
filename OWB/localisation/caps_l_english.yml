@@ -60,6 +60,7 @@
   add_caps_positive_tt: "Gain [GetCapTxt] [?caps_to_add|+=]k [GetCapType].\n"
   add_caps_negative_tt: "Lose [GetCapTxt] [?caps_to_add|+=]k [GetCapType].\n"
   create_new_node_effect_tt:0 "becomes and economic node.\n"
+  army_wages_disabled: "Non-Standard Army Wages"
   ###Focus Code
   continuous_increase_caps_income: "Boost Currency"
   continuous_caps_trigger_tt: "Has positive net income"
@@ -111,6 +112,7 @@
   caps_node_category: "Economic Center Decisions"
   caps_development_decisions: "Invest Stimulus in §Y[From.GetName]§!"
   caps_development_node_tt: "Economic Stimulus Available for Current Node Level"
+  enable_country_debugger: "enabled_debugger_[FROM.GetName]"
 
   caps_get_cap_type: "[GetCapType]"
   capdisplayncr: "GFX_bottle_cap_display_ncr"

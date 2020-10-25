@@ -99,7 +99,7 @@
   nf_mojave_brotherhood.23.a: "Old world technology being put to use.."
 
   nf_mojave_brotherhood.24.t: "Securing Little Yangtze"
-  nf_mojave_brotherhood.24.d: "It seems we have finally found the origin of the "Slave Collars" we have found across the wastes. Here in Big Mountain we have found a ancient Chinese prisoner camp populated by ghoul prisoners still wearing collars on their necks. This technology has always been useful to the brotherhood in weeding out potentially bad recruits. Now that we have a good stockpile of these we can keep on keep on collaring the disloyal for years to come."
+  nf_mojave_brotherhood.24.d: "It seems we have finally found the origin of the "Slave Collars" we have found across the wastes. Here in Big Mountain we have found an ancient Chinese prisoner camp populated by ghoul prisoners still wearing collars on their necks. This technology has always been useful to the brotherhood in weeding out potentially bad recruits. Now that we have a good stockpile of these we can keep on keep on collaring the disloyal for years to come."
   nf_mojave_brotherhood.24.a: "Compliance is appreciated."
 
   nf_mojave_brotherhood.25.t: "Securing THE FORBIDDEN ZONE"
@@ -175,6 +175,21 @@
   nf_mojave_brotherhood.43.d: "Nearly every Paladin in the Mojave Chapter advised against our expedition to Yuma. They said it would be too costly, too risky, and take focus away from where it mattered: our military strength. Now, with the expedition returning with little to show for itself, it seems they may have been right. A group of Paladins confronted Elijah again today, urging him to re-evaluate his priorities. Either way, this decision will determine how the Mojave Chapter achieves its goals."
   nf_mojave_brotherhood.43.a: "Fine! Have it your way!"
   nf_mojave_brotherhood.43.b: "No, we must stay our course!"
+
+  nf_mojave_brotherhood.44.t: "The Mojave Brotherhood offers a white peace?"
+  nf_mojave_brotherhood.44.d: "The Mojave Brotherhood have made their position clear - both through words and weapons. They now urge us to halt our conquest of the Hoover Dam. This would only be temporary, of course - no agreements can contain us for long."
+  nf_mojave_brotherhood.44.a.a: "Accept it - we can attack them when we regroup"
+  nf_mojave_brotherhood.44.d.d: "Decline, continue the war!"
+
+  nf_mojave_brotherhood.45.t.d: "Caesar Refuses!"
+  nf_mojave_brotherhood.45.d.d: "It seems the Legion wants to carry this war out to the very end."
+  nf_mojave_brotherhood.45.o.d: "Very well, we will play this game a while longer."
+
+  nf_mojave_brotherhood.45.t.a: "Caesar Accepts!"
+  nf_mojave_brotherhood.45.d.a: "The Legion has agreed to pull off of our borders and end the war. It seems our Chapter has been spared the cost of war."
+  nf_mojave_brotherhood.45.o.a: "Peace is a valued treasure in the wasteland."
+
+
 
   nf_mojave.1.t: "Chapter Leadership"
   nf_mojave.1.d: "The question of who should ultimately lead the Mojave Brotherhood is one that has come up many a time before. Head Paladin McNamara has his doubts about Elijah's search for technology, worried that controlling Helios One will make them an opportune target for the great powers of the wasteland. An emergency meeting is called, with McNamara and Elijah leading the discussion. The meeting quickly descends into heated arguments and threats, culminating in Paladin Hardin and a few of his men drawing their weapons and threatening to kill Elder Elijah. Wanting to avoid unnecessary bloodshed, McNamara launches into an emboldened speech about brotherhood and loyalty."
