@@ -25,20 +25,20 @@ guiTypes = {
 			name = "icon"
 			spriteType = "GFX_bookmark_selection_entry_west_coast"
 			position = { x = 0 y = 0 }
-			allwaystransparent = yes
+			alwaystransparent = yes
 		}
 
-		# instantTextBoxType = {
-		# 	name = "date"
-		# 	position = { x = 22 y = 147 }
-		# 	font = "hoi_20b"
-		# 	borderSize = { x = 0 y = 0 }
-		# 	text = "FE_BOOKMARK_DATE"
-		# 	maxWidth = 185
-		# 	maxHeight = 20
-		# 	fixedsize = yes
-		# 	format = centre
-		# }
+		instantTextBoxType = {
+			name = "date"
+			position = { x = 100000 y = 100000 }
+			font = "hoi_20b"
+			borderSize = { x = 0 y = 0 }
+			text = "FE_BOOKMARK_DATE"
+			maxWidth = 185
+			maxHeight = 20
+			fixedsize = yes
+			format = centre
+		}
 	}
 
 	containerWindowType = {
@@ -140,7 +140,7 @@ guiTypes = {
 			quadTextureSprite ="GFX_shield_medium"
 			position = { x = 33 y = 186 }
 			Orientation = "UPPER_LEFT"
-			allwaystransparent = yes
+			alwaystransparent = yes
 		}
 
 		buttonType = {
@@ -172,7 +172,7 @@ guiTypes = {
 			quadTextureSprite ="GFX_shield_medium"
 			position = { x = 26 y = 22 }
 			Orientation = "UPPER_LEFT"
-			allwaystransparent = yes
+			alwaystransparent = yes
 		}
 
 		buttonType = {
@@ -192,7 +192,7 @@ guiTypes = {
 			quadTextureSprite ="GFX_flag_small2"
 			position = { x = 8 y = 7 }
 			Orientation = "UPPER_LEFT"
-			allwaystransparent = yes
+			alwaystransparent = yes
 		}
 
 		buttonType = {
@@ -526,7 +526,7 @@ guiTypes = {
 		containerWindowType = {
 			name ="bookmarks"
 			position = { x = 0 y = 0 }
-			size = { width = -218 height = 480 }
+			size = { width = 218 height = 480 }
 
 			gridboxType = {
 				name ="bookmarks_grid"
@@ -1687,7 +1687,7 @@ guiTypes = {
 		}
 
 		instantTextBoxType ={
-			position = { x = 18 y = 53 }
+			position = { x = 11 y = 53 }
 			name = "civilian_text"
 			font = "hoi_20b"
 			borderSize = { x = 0 y = 0 }
@@ -1699,7 +1699,7 @@ guiTypes = {
 		}
 
 		instantTextBoxType ={
-			position = { x = 133 y = 53 }
+			position = { x = 126 y = 53 }
 			name = "beginner_text"
 			font = "hoi_20b"
 			borderSize = { x = 0 y = 0 }
@@ -1711,7 +1711,7 @@ guiTypes = {
 		}
 
 		instantTextBoxType ={
-			position = { x = 250 y = 53 }
+			position = { x = 243 y = 53 }
 			name = "normal_text"
 			font = "hoi_20b"
 			borderSize = { x = 0 y = 0 }
@@ -1723,7 +1723,7 @@ guiTypes = {
 		}
 
 		instantTextBoxType ={
-			position = { x = 368 y = 53 }
+			position = { x = 360 y = 53 }
 			name = "hard_text"
 			font = "hoi_20b"
 			borderSize = { x = 0 y = 0 }
@@ -1735,7 +1735,7 @@ guiTypes = {
 		}
 
 		instantTextBoxType ={
-			position = { x = 480 y = 53 }
+			position = { x = 473 y = 53 }
 			name = "very_hard_text"
 			font = "hoi_20b"
 			borderSize = { x = 0 y = 0 }
@@ -2055,9 +2055,10 @@ guiTypes = {
 				shortcut = "o"
 			}
 
+			#Look into adding this back if PDX includes baseline achivement support for mods: Zusk
 			iconType = {
 				name = "enabled_achievement_icons"
-				position = { x = -382 y = -115 }
+				position = { x = -10000 y = -10000 }
 				quadTextureSprite ="GFX_enabled_achievement_icons"
 				Orientation = "LOWER_RIGHT"
 			}
@@ -2091,7 +2092,7 @@ guiTypes = {
 				position = { x = -112 y = -85 }
 				quadTextureSprite ="GFX_generic_checkbox2"
 				Orientation = "LOWER_RIGHT"
-				allwaystransparent = yes
+				alwaystransparent = yes
 			}
 
 		}
