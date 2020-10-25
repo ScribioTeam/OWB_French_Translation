@@ -176,6 +176,21 @@
  nf_mojave_brotherhood.43.a:9 "Fine! Have it your way!"
  nf_mojave_brotherhood.43.b:9 "No, we must stay our course!"
 
+ nf_mojave_brotherhood.44.t:9 "The Mojave Brotherhood offers a white peace?"
+ nf_mojave_brotherhood.44.d:9 "The Mojave Brotherhood have made their position clear - both through words and weapons. They now urge us to halt our conquest of the Hoover Dam. This would only be temporary, of course - no agreements can contain us for long."
+ nf_mojave_brotherhood.44.a.a:9 "Accept it - we can attack them when we regroup"
+ nf_mojave_brotherhood.44.d.d:9 "Decline, continue the war!"
+
+ nf_mojave_brotherhood.45.t.d:9 "Caesar Refuses!"
+ nf_mojave_brotherhood.45.d.d:9 "It seems the Legion wants to carry this war out to the very end."
+ nf_mojave_brotherhood.45.o.d:9 "Very well, we will play this game a while longer."
+
+ nf_mojave_brotherhood.45.t.a:9 "Caesar Accepts!"
+ nf_mojave_brotherhood.45.d.a:9 "The Legion has agreed to pull off of our borders and end the war. It seems our Chapter has been spared the cost of war."
+ nf_mojave_brotherhood.45.o.a:9 "Peace is a valued treasure in the wasteland."
+
+
+
  nf_mojave.1.t:0 "Commandement du Chapitre"
  nf_mojave.1.d:0 "La question de qui devrait en définitive diriger la Confrérie du Mojave s'est déjà beaucoup posée. Le Chef des Paladins McNamara a ses doutes à propos de la recherche de technologies d'Elijah, pensant que le contrôle d'Helios One fera d'eux une cible opportune pour les grandes puissances de la désolation. Une réunion d'urgence est décrétée, menée par McNamara et Elijah. La discussion dégénère rapidement en un fouillis d'arguments plus ou moins valides et de menaces, culminant avec la menace du Paladin Hardin et de quelques autres, épées à l'air, de tuer l'Ancien Elijah. Voulant éviter un bain de sang, McNamara s'est lancé dans un discours fort à propos des liens fraternels et de la loyauté."
  nf_mojave.1.a:0 "Elijah reste en poste."

@@ -476,6 +476,10 @@
  molerat_equipment_1_short:0 "Moles"
  molerat_equipment_1_desc:0 "Les molérats, bien qu'ils ne soient pas l'animal le plus conventionnel à utiliser au combat, peuvent néanmoins faire ce qui doit être fait pour gagner le combat."
 
+ gehenna_molech_equipment:9 "Gehennas"
+ gehenna_molech_equipment_short:9 "Gehenna"
+ gehenna_molech_equipment_desc:9 "Firey monsters of DOOM"
+
  mirelurk_equipment:0 "Mirelurks"
  mirelurk_equipment_desc:0 "Mirelurks apprivoisés"
  molerat_equipment:0 "Mutants Molerat"
@@ -788,8 +792,8 @@
  payload_glider_equipment_1_short:9 "Planeurs à bombe"
  payload_glider_equipment_1_desc:9 ""
 
- air_chaff_equipment_1:9 "Barrage Ballons"
- air_chaff_equipment_1_short:9 "Barrage Ballons"
+ air_chaff_equipment_1:9 "Barrage Balloons"
+ air_chaff_equipment_1_short:9 "Barrage Balloons"
  air_chaff_equipment_1_desc:9 ""
 
  # Special Equipments

@@ -60,6 +60,7 @@
  add_caps_positive_tt:9 "Gain de [GetCapTxt] [?caps_to_add|+=]k [GetCapType].\n"
  add_caps_negative_tt:9 "Perte de [GetCapTxt] [?caps_to_add|+=]k [GetCapType].\n"
  create_new_node_effect_tt:9 "devient et nœud économique.\n"
+ army_wages_disabled:9 "Non-Standard Army Wages"
   ###Focus Code
  continuous_increase_caps_income:9 "Augmenter la monnaie"
  continuous_caps_trigger_tt:0 "A un revenu net positif"
@@ -111,6 +112,7 @@
  caps_node_category:9 "Décisions du centre économique"
  caps_development_decisions:9 "Investir dans §Y[From.GetName]§!"
  caps_development_node_tt:9 "Stimulation économique disponible pour le niveau actuel des nœuds"
+ enable_country_debugger:9 "enabled_debugger_[FROM.GetName]"
 
  caps_get_cap_type:0 "[GetCapType]"
  capdisplayncr:0 "GFX_bottle_cap_display_ncr"

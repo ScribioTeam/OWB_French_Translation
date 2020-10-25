@@ -193,12 +193,19 @@
  legion_vexillarius_tech:0 "Vexillarius"
  legion_vexillarius_tech_desc:0 ""
  legion_training_tech:9 "Legion Training"
+ legion_training_tech_desc:9 ""
  legion_frumentarii_officers_tech:9 "Frumentarii Officers"
+ legion_frumentarii_officers_tech_desc:9 ""
  legion_frumentarii_commandoes_tech:9 "Frumentarii Commandos"
+ legion_frumentarii_commandoes_tech_desc:9 ""
  ces_aurelius_mercenaries_tech:9 "Mercenary Advisors"
+ ces_aurelius_mercenaries_tech_desc:9 ""
  CES_horns_moroni_tech:9 "Horns of Moroni"
- armored_chariots:9 "Armoured Chariots"
+ CES_horns_moroni_tech_desc:9 ""
+ armored_chariots_tech:9 "Armoured Chariots"
+ armored_chariots_tech_desc:9 ""
  CES_mercenary_training_tech:9 "Mercenary Training Tech"
+ CES_mercenary_training_tech_desc:9 ""
 
 
 
