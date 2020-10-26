@@ -1,16 +1,16 @@
 ﻿l_french:
 
- nf_event_chr.1.t:9 "How far can we go?"
- nf_event_chr.1.d:9 "Not all research is as clean as the sterile laboratories suggest. Some experiments require certain... practices that would be frowned upon by the general populace. We can limit ourself to follow a strict ethical and moral compass. Or we can take that compass and treat it as a mere rough guideline that can be followed at will. But sometimes the most interesting discoveries are found of the beaten path.\nWe have to ask ourself: 'How far can we go? How much restraint should we show in our research?'"
- nf_event_chr.1.a:9 "Science knows no restraints"
- nf_event_chr.1.b:9 "Maybe that compass thing is a good idea"
+ nf_event_chr.1.t:9 "Jusqu'où pouvons-nous aller ?"
+ nf_event_chr.1.d:9 "Toutes les recherches ne sont pas aussi propres que le suggèrent les laboratoires stériles. Certaines expériences nécessitent certaines... pratiques qui seraient mal vues par la population en général. Nous pouvons nous limiter à suivre une boussole éthique et morale stricte. Ou nous pouvons prendre cette boussole et la traiter comme une simple ligne directrice approximative qui peut être suivie à volonté. Mais parfois, les découvertes les plus intéressantes se trouvent sur les sentiers battus.\nNous devons nous demander : \"Jusqu'où pouvons-nous aller ? Jusqu'où pouvons-nous aller ?\""
+ nf_event_chr.1.a:9 "La Science ne connaît pas de limites"
+ nf_event_chr.1.b:9 "Cette histoire de boussole est peut-être une bonne idée"
 
 
- nf_event_chr.101.t:9 "A Deadly Mist"
- nf_event_chr.101.d:9 "In a surprising turn of events, the [CHR.GetAdjectiveCap] troops were retreating rather quickly from the battlefield this morning. We were about to celebrate our success, when sickly green billowing clouds started to spread across the battlefield. We did not know what to expect until our first soldier just fell over and died, coughing up blood. From there, it all went downhill fast. People were dropping left and right with various signs of illness. We called for a quick retreat, but the losses were horrific, in multiple ways."
- nf_event_chr.101.a:9 "Why are my eyes melting?"
+ nf_event_chr.101.t:9 "Une Brume Mortelle"
+ nf_event_chr.101.d:9 "Dans une surprenante tournure des événements, les troupes [CHR.GetAdjectiveCap] se sont retirées assez rapidement du champ de bataille ce matin. Nous étions sur le point de célébrer notre succès, lorsque des nuages verts et maladifs ont commencé à se répandre sur le champ de bataille. Nous ne savions pas à quoi nous attendre jusqu'à ce que notre premier soldat tombe et meure, crachant du sang. A partir de là, tout s'est mis à dégringoler rapidement. Les gens tombaient à gauche et à droite avec différents signes de maladie. Nous avons appelé à une retraite rapide, mais les pertes ont été horribles, de multiples façons."
+ nf_event_chr.101.a:9 "Pourquoi mes yeux fondent-ils ?"
 
- nf_event_chr.102.t:9 "Strange Occurrences"
- nf_event_chr.102.d:9 "Our troops have reported flashing lights among our enemies and following that some of their brothers in arms have just laid down their weapons and surrendered. Some have even wandered willingly into the enemy lines, surprisingly making it without being shot. A lot of our soldiers are afraid of fighting under these strange circumstances and our advance have slowed down significantly due to this."
- nf_event_chr.102.a:9 "It's just some flash lights...probably"
- nf_event_chr.102_tt:9 "The [CHR.GetName] will get a §G10%§! defence bonus against us for a short while."
+ nf_event_chr.102.t:9 "Étranges Événements"
+ nf_event_chr.102.d:9 "Nos troupes ont signalé des feux clignotants chez nos ennemis et suite à cela, certains de leurs frères d'armes viennent de déposer leurs armes et de se rendre. Certains ont même erré de leur plein gré dans les lignes ennemies, se rendant étonnamment sans être abattus. Beaucoup de nos soldats ont peur de se battre dans ces circonstances étranges et notre avance s'en est trouvée considérablement ralentie."
+ nf_event_chr.102.a:9 "C'est juste des flashes... probablement"
+ nf_event_chr.102_tt:10 "[CHR.GetName] va recevoir une prime de défense de §G10%§! contre nous pendant un court moment."
