@@ -4,6 +4,7 @@
  KHA_drug_trade_category:0 "Les Rois du Trafic de Drogue"
  KHA_slaver_category:0 "Décisions d'esclaves"
  KHA_diplomatic_options:0 "Diplomatie"
+ KHA_drug_runner_category:9 "Send the Drug Runners"
 
  #decisions
  KHA_drug_run_to_fiends_renewal:0 "Course aux Monstres de la Drogue"
@@ -12,3 +13,5 @@
  KHA_drugged_up_desc:0 "Distribuez des produits chimiques supplémentaires en prévision du pire, c'est difficile d'arrêter quelqu'un dans une rage provoquée par la drogue."
  KHA_sorrows_war_help:0 "Aide de Guerre des Douleurs"
  KHA_sorrows_war_help_desc:0 "Peut-être que nous avons mordu plus que nous pourrions mâcher dans notre guerre avec les Douleurs. Je suis sûr que nous pourrions soudoyer certains gangs locaux, notamment les Jambes Blanches, bien que cela nous rende plus faibles en ayant besoin d'aide."
+ KHA_drug_trade:9 "Send the Drug Runners to [From.GetName]"
+ KHA_drug_trade_desc:9 "We could make a pretty cap from selling all our excess chems to [From.GetName]!"

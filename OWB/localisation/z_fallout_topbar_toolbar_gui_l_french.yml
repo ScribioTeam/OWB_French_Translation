@@ -40,3 +40,5 @@
  node_new_node_popup_tt:9 "[GetNodeNewNodePopup]"
  node_new_node_popup_tooltip_tt:9 "§Y[?new_node_state.GetName]§! est devenu un centre de commerce dans les Terres Désolées et constitue la principale plaque tournante pour §Y[THIS.GetName]§!!"
  node_new_node_popup_tooltip_tt_short:9 "§Y[?new_node_state.GetName]§! est devenu un centre de commerce dans les Terres Désolées !"
+ node_new_org_popup_tt:9 "[GetNodeNewOrgPopup]"
+ node_new_org_popup_tooltip_tt:9 "§Y[?org_state.GetName]§! has become home to the §G[GetOrganizationName]§!\nWe can now trade for goods, and build business relations with them!"

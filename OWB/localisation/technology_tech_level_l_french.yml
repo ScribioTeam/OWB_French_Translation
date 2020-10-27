@@ -16,6 +16,8 @@
  HEADER_HABITATION_LEVEL:9 "Construction"
  HEADER_EXPLOITATION_LEVEL:9 "Exploitation"
  HEADER_ELECTRONICS_LEVEL:9 "Électronique"
+ fallout_tech_level_folder:9 "Dossiers de niveau technologique"
+ fallout_tech_level_folder_desc:9 "This tab shows accessible tech levels, meaning in what category does your nation have access to what level of technology."
 
   #----------------------------
   # Techs

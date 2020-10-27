@@ -3,6 +3,7 @@
  spellcheck_ignore:9 "node_disabled_icon"
  spellcheck_ignore:9 "node_trade_notification_icon"
  spellcheck_ignore:9 "node_new_node_notification_icon"
+ spellcheck_ignore:9 "node_organization_gain_icon"
  node_disabled_tt:9 "Le Noeud de Commerce est §Rdésactivé§!."
  node_disabled_timed_tt:9 "Le Noeud de Commerce est §Rdésactivé§! pendant [?OWNER.duration_node_disabled|§Y§0] jours."
   # EFFECTS
@@ -94,7 +95,7 @@
  string_trade_node_get_route_two:9 "\nPremière route pour : §Y[?temp_trade_node_1.GetName]§! \nSeconde route pour : §Y[?temp_trade_node_2.GetName]§!"
  string_trade_node_get_route_three:9 "\nPremière route pour : §Y[?temp_trade_node_1.GetName]§! \nDeuxième route pour : §Y[?temp_trade_node_2.GetName]§! \nTroisième route pour : §Y[?temp_trade_node_3.GetName]§!"
 
- TRADE_ROUTE_BUTTON_MAX_TOOLTIP:9 "Route de §Y[THIS.GetName]§! non utilisée"
+ TRADE_ROUTE_BUTTON_MAX_TOOLTIP:9 "Route from §Y[?node_map_selector.GetName]§! not in use"
  AVAILABLE_COUNTRY_TRADE_SLOTS:9 "Route from node not in use"
  TRADE_ROUTE_BUTTON_MAX_COUNTRY_TOOLTIP:9 "Doit avoir moins de routes dans le pays que la limite de [GetTradeCountryLimitCalculation]"
  AVAILABLE_COUNTRY_TRADE_SLOTS:9 "\nLimite actuelle de route du pays : [?temp_num_nodes|0+]\n Routes actuelles : [?ROOT.current_trade_routes|0+]"
@@ -114,22 +115,22 @@
  map_selected_state_trade_tt:9 "[GetNodeTade]"
  map_selected_state_owner_tt:9 "§Y[?node_map_selector.GetName]§! est le noeud capital de [GetNodeOwnerName]"
  map_trade_target_name_tt:9 "§Y[?trade_route_selector_target.GetName]§!"
- map_trade_target_value_tt:9 "[GetTradeTargetValue]"
- map_trade_target_trade_tt:9 "[GetTradeTargetTade]"
+ map_trade_target_recieved_tt:9 "[GetTradeTargetRecieved]"
+ map_trade_target_sent_tt:9 "[GetTradeTargetSent]"
  map_trade_target_owner_tt:9 "§Y[?trade_route_selector_target.GetName]§! est le noeud capital de [GetTradeTargetOwnerName]"
  TRADE_NODE_MAP_SELECT_TRADE_ROUTE_TT:9 "Sélectionner [This.GetName] comme destination commerciale"
  TRADE_NODE_MAP_SELECT_NODE_TT:9 "Voir l'Économie de [This.GetName]"
  TRADE_NODE_MAP_SELECTED_NODE_VALUE:9 "La valeur actuelle de §Y[?node_map_selector.GetName]§! est [GetNodeValue] [GetCapCurrencyType]"
- TRADE_NODE_MAP_TARGET_NODE_VALUE:9 "La valeur actuelle de §Y[?trade_route_selector_target.GetName]§! est [GetTradeTargetValue] [GetCapCurrencyType]"
+ TRADE_NODE_MAP_TARGET_RECIEVED:9 "We will receive [GetTradeTargetRecieved] [GetCapType] from a trade route to §Y[?trade_route_selector_target.GetName]§!"
  TRADE_NODE_MAP_SELECTED_NODE_TRADE:9 "Les tarifs commerciaux actuels de §Y[?node_map_selector.GetName]§! sont [GetNodeTade] [GetCapCurrencyType]"
- TRADE_NODE_MAP_TARGET_NODE_TRADE:9 "Les tarifs commerciaux actuels de §Y[?trade_route_selector_target.GetName]§! sont [GetTradeTargetTade] [GetCapCurrencyType]"
+ TRADE_NODE_MAP_TARGET_SENT:9 "We will send [GetTradeTargetSent] [GetCapType] to §Y[?trade_route_selector_target.GetName]§! with a trade route"
  TRADE_NODE_MAP_TOTAL_TRADE:9 "Nous faisons actuellement [?trade_trade_total|+=1] [GetCapType] des routes commerciales."
  TRADE_NODE_MAP_TOTAL_VALUE:9 "Nous faisons actuellement [?trade_value_total|+=1] [GetCapType] des noeuds économiques."
  TRADE_NODE_MAP_TOTAL_BASE:9 "Nous faisons actuellement [?trade_base_total|+=1] [GetCapType] du développement de l'État à proximité des nœuds."
  TRADE_NODE_MAP_BASE_MODIFIER:9 "Modificateur actuel des revenus de développement du nœud économique."
  TRADE_NODE_MAP_TRADE_MODIFIER:9 "Modificateur actuel des revenus commerciaux du nœud économique."
  TRADE_NODE_MAP_CONNECTION_SELECTABLE:9 "§G[This.GetName]§!"
- TRADE_NODE_MAP_CONNECTION_ACTIVE:9 "§Y[This.GetName]§!"
+ TRADE_NODE_MAP_CONNECTION_ACTIVE:9 "§Y[This.GetName]§! [?route_value|1+=]"
  TRADE_NODE_MAP_CONNECTION_LIST_NAME:9 "[GetTradeConnectionListColor]"
   #### Use custom effect tooltip to get around scripted loc limitation
  TRADE_NODE_MAP_CONNECTION_LIST_TT:9 "[!entry_button_click]"
@@ -146,7 +147,7 @@
   ### Route ledger
  TRADE_NODE_MAP_COUNTRY_ROUTE_LIST:9 "§Y[THIS.GetName]§! à §Y[GetTradeRouteCountryListName]§!"
  TRADE_NODE_MAP_COUNTRY_ROUTE_LIST_target:9 "[?temp_route_target.GetName]"
- TRADE_NODE_MAP_COUNTRY_ROUTE_ENTRY_TT:9 "Cliquer pour centrer la vue sur §Y[This.GetName]§!\nClic droit sur :\n[!entry_button_right_click_enabled]   [!entry_button_right_click]"
+ TRADE_NODE_MAP_COUNTRY_ROUTE_ENTRY_TT:9 "Click to centre view on §Y[This.GetName]§!\nRight click:\n[!entry_button_right_click_enabled]   [!entry_button_right_click]\n\nWe gain [GetCapsGainedForUsFromRoute] [GetCapType] from this route."
  TRADE_NODE_MAP_COUNTRY_ROUTE_POTENTIAL_TT:9 "[!potential_entry_button_click_enabled]"
 
  node_events.1.t:9 "Résurgence économique"
@@ -164,6 +165,7 @@
  node_trade_notification_icon:9 "GFX_trade_economic_trade_icon"
 
  node_new_node_notification_icon:9 "GFX_trade_economic_value_icon"
+ node_organization_gain_icon:9 "GFX_organization_notification"
 
 
   ### Node tutorial Hints
@@ -192,7 +194,7 @@
  TRADE_NODE_TRADE_ROUTE_BUTTON_TRIGGER:9 "[GetTradeNodeRouteButtonTTHint]"
  TRADE_NODE_TRADE_ROUTE_BUTTON_HINT_TT:9 "§gLes routes commerciales envoient une partie de la valeur totale du nœud à la cible, et reçoivent en retour une partie plus petite de la valeur du nœud cible.§!"
 
- TRADE_NODE_PROMOTE_BUTTON_TRIGGER:9 "[GetTradeNodePromoteTTHint]"
+ TRADE_NODE_PROMOTE_BUTTON_TRIGGER:9 "[!promote_node_button_click_enabled][GetTradeNodePromoteTTHint]"
  TRADE_NODE_PROMOTE_BUTTON_HINT_TT:9 "§gLa promotion d'un nœud augmente le niveau et la valeur de développement.§!"
 
  TRADE_NODE_ORGANIZATION_LIST_ENTRY_TRIGGER:9 "[GetTradeNodeOrganizationTTHint]"

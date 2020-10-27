@@ -74,6 +74,13 @@
   robot_pacification_bot_tech_desc:0 "Grand robot quadrupède rappelant les grands animaux d'autrefois, cette machine de guerre était à l'origine dotée d'une protection en forme de réservoir et de quatre canons de pacification. Les quatre canons ont été remplacés par deux autocanons laser rotatifs, et l'attention s'est portée sur des systèmes de mobilité améliorés et une meilleure liaison tactique avec d'autres unités robotiques, ce qui en fait des postes de commandement mobiles."
   robot_behemoth_robot_tech:0 "Bot Béhémoth"
   robot_behemoth_robot_tech_desc:0 "Une bête gargantuesque d'une machine, appeler ce robot un char d'assaut serait rendre un mauvais service à la masse d'armes et d'armures qu'il transporte. Armé à l'origine de quatre mitrailleuses de calibre.50 à tir rapide, elles ont été remplacées par un quadruple canon automatique de 20 mm. Combiné à une armure assez épaisse pour arrêter les projectiles à plasma ou même l'artillerie navale, il n'y a rien d'autre à faire que de haleter avant d'être réduit en pièces."
+ securitron_grenade_software_tech:9 "Rapid-Fire G-28 Grenade Launching System"
+ securitron_grenade_software_tech_desc:9 "§CUnlocks Securitron's Primary Weapon:§!G-28 Rapid-Fire Grenade Launching System  for close range engagements."
+ securitron_missile_software_tech:9 "M-235 Shoulder-Mounted Missile Launchers"
+ securitron_missile_software_tech_desc:9 "§CUnlocks Securitron's Primary Weapon:§!M-235 Shoulder-Mounted Missile Launchers for long range and surface-to-air engagements."
+ securitron_self_repair_tech:9 "On-Board Self-Repair System"
+ securitron_self_repair_tech_desc:9 "§CUnlocks Securitron's Self-Repair System:§!Enables the Securitron to repair any damage sustained during combat."
+ platinum_os_tech:9 "Mark 2 Operating System"
     ### Headers
   HEADER_LIGHT_ROBOT:0 "Robots légers"
   HEADER_ROBOT_SUBTECH:0 "Améliorations du robot"
