@@ -714,7 +714,7 @@
   LNS_sufficient: "Lloyd Tower"
   LNS_clouds: "Thomas Lankford"
   LNS_painter: "Arnold Gore"
-  LNS_10_core_reduction_advisor_tt: "Gain a §G10%§  reduction in coring costs."
+  LNS_10_core_reduction_advisor_tt: "Gain a §G10%§! reduction in coring costs."
   lns_senior_trait: "Senior Patrolman"
   lns_heritage_trait: "Air Force Heritage"
   lns_respond_trait: "Rapid Responder"
@@ -730,7 +730,7 @@
   lns_cloud_trait: "Head In The Clouds"
   lns_painter_trait: "Paint It Red"
 
-  #TBH
+  # TBH
   TBH_ewan_wan:0 "Ewan Wan"
   TBH_ewan_wan_desc:0 ""
   TBH_hayden_sky:0 "Hayden Sky"
@@ -776,6 +776,13 @@
   cos_agent:0 "Circle of Steel Agent"
   ghoul_ranger:0 "Ghoul Ranger"
 
+  # ACH
+  ACH_knight_hallows:0 "Knight Hallows"
+  ACH_knight_hallows_desc:0 ""
+  ACH_scribe_charlie:0 "Scribe Charlie"
+  ACH_scribe_charlie_desc:0 ""
+  ACH_paladin_cade:0 "Paladin Cade"
+  ACH_paladin_cade_desc:0 ""
 
   # JCT
   doctor_henry:0 "Doctor Henry"

@@ -366,9 +366,11 @@
   combat_robot_assaultron_equipment_short:0 "Assaultron"
   combat_robot_assaultron_equipment_desc:0 "A medium robot designed for frontline combat and CQC operations, its agility and advanced internal processor let it swiftly move through the battlefield while scanning and dispatching threats with it's focused laser beam and close-quarter claws."
 
-  security_robot_securitron_equipment_1:0 "RobCo Securitron Mk I"
-  security_robot_securitron_equipment_1_short:0 "Securitron Mk I"
+  security_robot_securitron_equipment_1:0 "RobCo PDQ-88b Securitron"
+  security_robot_securitron_equipment_1_short:0 "PDQ-88b Securitron"
   security_robot_securitron_equipment_1_desc:0 "A private security robot manufactured for police duty in difficult areas of operation, the monowheel propulsion system and fully welded titanium alloy shell provides both good mobility, and armour against typical small arms found on patrols. Meanwhile, an arm mounted 9mm submachine gun and X-25 gatling laser pistol allows them to handle any close-combat scenario."
+  security_robot_equipment:0 "Security Robots"
+  security_robot_equipment_desc:0 "The PDQ-88b Securitron (also named the RobCo Security Model 2060-B) is a private security robot created and mass-produced by the H&H Tools Factory after Mr. House purchased a majority of their stock, with the help of RobCo Industries."
 
   combat_robot_robobrain_equipment:0 "RobCo Robobrain"
   combat_robot_robobrain_equipment_short:0 "Robobrain"

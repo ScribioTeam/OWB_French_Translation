@@ -40,3 +40,5 @@
   node_new_node_popup_tt: "[GetNodeNewNodePopup]"
   node_new_node_popup_tooltip_tt: "§Y[?new_node_state.GetName]§! has become a center for commerce in the wasteland and is the primary hub for §Y[THIS.GetName]§!!"
   node_new_node_popup_tooltip_tt_short: "§Y[?new_node_state.GetName]§! has become a center for commerce in the wasteland!"
+  node_new_org_popup_tt: "[GetNodeNewOrgPopup]"
+  node_new_org_popup_tooltip_tt: "§Y[?org_state.GetName]§! has become home to the §G[GetOrganizationName]§!\nWe can now trade for goods, and build business relations with them!"

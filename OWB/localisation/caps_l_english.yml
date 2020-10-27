@@ -78,7 +78,7 @@
   caps_military_wages_increase_tt: "Increase Army wages. \nRight Click to centre"
   caps_military_wages_decrease_tt: "Decrease Army wages. \nRight Click to centre"
   caps_tax_subject_tt: "Tax [?temp_income|=+]k [GetCapTxt]  from §Y[FROM.GetName]§!\nTaxable income based on autonomy\n"
-  caps_gift_subject_tt: "Grant economic support of §R15§! caps per quarter to §Y[FROM.GetName]§"
+  caps_gift_subject_tt: "Grant economic support of §R15§! caps per quarter to §Y[FROM.GetName]§!"
   caps_tax_vassal_countries: "Tax Puppet: §Y[FROM.GetName]§!"
   caps_support_vassal_countries: "Subsidize Puppet: §Y[FROM.GetName]§!"
   caps_puppet_tax_dyanmic_modifier: "Subject Economic Modifier"

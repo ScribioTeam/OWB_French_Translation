@@ -194,84 +194,84 @@
 
     TAA_poor_education_6:0 "The TAA's First University"
     TAA_poor_education_6_desc:0 "While primary and secondary education are the building blocks of a productive worker, the real good stuff comes in with specialized education, that's where TAAU comes in to play, a well built and modern solution to an age old problem."
-    
+
     TAA_our_potential_realized:0 "Our Potential, Realized"
-    TAA_our_potential_realized:0 "We've come an incredibly long way since we broke off from that corruptible republic, and now it's high time we made a real name for ourselves out in the wastes, carved out a piece of the world we can call our own."
+    TAA_our_potential_realized_desc:0 "We've come an incredibly long way since we broke off from that corruptible republic, and now it's high time we made a real name for ourselves out in the wastes, carved out a piece of the world we can call our own."
     
     TAA_prepare_the_armouries:0 "Prepare the Armories"
     TAA_prepare_the_armouries_desc:0 "Preparations for the coming war have begun; summer homes rebuilt into arms factories, coffee shops turned into bunkers, even a few company offices have had sniper nests posted on their roofs."
-    
+
     TAA_rally_the_militia:0 "Rally the People"
     TAA_rally_the_militia_desc:0 "People have become fed up with the looming threat of an invasion across the rio, and in their desperation find themselves far more willing to fight this hated enemy."
-    
+
     TAA_fight_for_freedom:0 "Fight for Freedom!"
     TAA_fight_for_freedom_desc:0 "The time has come to finally march back over that dreaded waterway to engage in a fight for our freedom, not just the freedom to be, but the freedom to be without living under the everlasting threat of the noose."
-    
+
     TAA_secure_the_capital:0 "Secure the Capital"
     TAA_secure_the_capital_desc:0 "The war is over, and for better or worse we've finally vanquished the state that once inhabited these lands. Preparations have been made to privatize all previous institutions and begin the long path to rebuilding this twice-scarred country. I think somebody even opened a donut shop in the parliament building."
-    
+
     TAA_irrigate_the_farms:0 "Irrigate the Fields"
     TAA_irrigate_the_farms_desc:0 "The farms in the northwestern part of the former RRG have seen better days; stress put upon them by both the war and poor conditions have left the harvest less than desirable. We can mitigate some of these issues by installing and funding new irrigation channels."
-    
+
     TAA_extend_the_railroad_east:0 "Extend the Railroad East"
     TAA_extend_the_railroad_east_desc:0 "The first part of integrating any territory into your society is making it manageable. In lieu of more advanced systems of transport and communication, extending our rail-lines to integrate with the old Rio tracks ought to help make these areas administrable."
-    
+
     TAA_dig_new_wells:0 "As Well As We Can"
-    TAA_dig_new_wells_desC:0 "The water reserves in the Northwest are basically untapped; formidable aquifers are just begging to be cracked in to, and with only a bit of capital we can start extracting that sweet, clear gold."
+    TAA_dig_new_wells_desc:0 "The water reserves in the Northwest are basically untapped; formidable aquifers are just begging to be cracked in to, and with only a bit of capital we can start extracting that sweet, clear gold."
     
     TAA_erect_new_farms:0 "Erect New Farmsteads"
     TAA_erect_new_farms_desc:0 "Agriculture is the lifeblood of any resilient civilization and like real blood, it's very profitable. It would be no trouble at all to source a little venture capital to start building new homesteads, farmer's barracks, and barns."
-    
+
     TAA_settle_new_farmers:0 "Settle Native Texans"
     TAA_settle_new_farmers_desc:0 "With zoning complete, farmsteads built, and fields irrigated, it finally becomes time to settle a new generation of Texan farmers on Rio soil. This influx mixed with the growing infrastructure should bring the Northwest under our grasp."
-    
+
     TAA_todd_eats_a_cheeseburger:0 "Todd Eats a Cheeseburger"
     TAA_todd_eats_a_cheeseburger_desc:0 "Oh, it looks like Todd missed lunch today."
-    
+
     TAA_import_digging_equipment:0 "Import Digging Equipment"
     TAA_import_digging_equipment_desc:0 "The current state of the mining industry in the Rio is lacking, big time; the biggest shortcoming is a complete lack of advanced mining equipment and portable generators to maintain large scale digging operations. While we won't be cracking the planet anytime soon, a little excavation gear goes a long way."
-    
+
     TAA_local_arms_manufacturing:0 "Local Arms Manufacturing"
     TAA_local_arms_manufacturing_desc:0 "The bigger the distance between the workshop and the mine, the smaller the profit. By opening up a few manufactories in the same states as mining takes places, the whole process can take place over a strip of land only a few kilometers long."
-    
+
     TAA_extend_the_railroad_south:0 "Extend the Railroad South"
     TAA_extend_the_railroad_south_desc:0 "The first part of integrating any territory into your society is making it manageable. In lieu of more advanced systems of transport and communication, extending our rail-lines to integrate with the old Rio tracks ought to help make these areas administrable."
-    
+
     TAA_increase_mining_quotas:0 "Increase Mining Quotas"
     TAA_increase_mining_quotas_desc:0 "The ineffective Rio government has tied up most of the mining industry in a variety of bleeding heart, "good-for-workers" type regulatory nonsense. Now that we're in charge, we can do away with all these little inefficiencies."
-    
+
     TAA_found_mining_colonies:0 "Found Mining Colonies"
     TAA_found_mining_colonies_desc:0 "Now that we've moved in equipment and cut down the red tape, the biggest shortage of the territories is manpower. In much the same fashion as the olden days, we're going to found a few more mining settlements who's population's job is to extract old electronics and metals."
-    
+
     TAA_initiate_shipbuilding:0 "Formally Christen the Navy"
     TAA_initiate_shipbuilding_desc:0 "Though we may very well have had some shipbuilding capacity in the past, we've never had the capacity to build and maintain our own formal navy. With our newfound control of both sides of the rio grande, now is the perfect time to set off to a fleet that can protect shipping in the gulf."
-    
+
     TAA_construct_new_wharfs:0 "Construct New Shipyards"
     TAA_construct_new_wharfs_desc:0 "While we have the will and desire to form a navy, we lack the complex facilities needed to actually put functional ships in the ocean. To remedy our naval shortcomings, we've drawn up plans for a series of modern shipbuilding facilities."
-    
+
     TAA_fund_fishing_villages:0 "Construct New Villages"
     TAA_fund_fishing_villages_desc:0 "The Rio is one of the safest bodies of water in Texas to fish from in terms of how irradiated the fish are; by settling scores of Texans down in freshly constructed fishing villages, we can start a sustainable increase of our grip on the territory."
-    
+
     TAA_install_watermills:0 "Raise Electricity From the River"
     TAA_install_watermills_desc:0 "Running water is a veritable hotbed of potential electricity, and while we can't construct something as complex as a hydroelectric dam, we —can— assemble a series of watermills on the river's coast."
 
     TAA_free_as_a_bluejay:0 "Free as a Bluejay"
     TAA_free_as_a_bluejay_desc:0 "With the fall of the Republic comes an airspace so wide and open that it would be a crime against the sky if we didn't fill it with eager young pilots."
-    
+
     TAA_establish_air_bases:0 "Establish Bases of Operations"
     TAA_establish_air_bases_desc:0 "A plane is in it's best element when it's cruising through the sky, dropping ordinance or supplies on target, but it can't stay up there forever. It is integral to our airforce that we provide them with a host of well-furnished and capable airbases."
-    
+
     TAA_research_new_craft:0 "Research Better Designs"
     TAA_research_new_craft_desc:0 "Quantity can only take us so far when it comes to the war in the skies, while biplanes may be serviceable for bullying tribals, they'll find themselves entirely useless when pitted up against jets; in light of this specific focus will be put on new and innovative aircraft designs."
-    
+
     TAA_protect_the_skies:0 "Ground to Air Defense"
     TAA_protect_the_skies_desc:0 "While we build up out fledgling air force, we will quickly be overrun by enemies who have a much more extensive fleet of planes; as a stop-gap to curb enemy air superiority, fortified anti-air positions will be build around the whole of our territory."
-    
+
     TAA_big_and_bright:0 "Big and Bright"
     TAA_big_and_bright_desc:0 "We may not have been born deep in the heart of Texas, but we are one of the brightest stars in the night sky. Having come a long way from being a few gun barons squatting across the river from our previous overlords, we've built something of a world for ourselves. A land that stretches from bank to shining bank; the name "Texas Arms Association" doesn't really cut the bill anymore, so Todd has deemed it necessary to rename our organization the "South Texan League""
-    
+
     #ideas
-    
+
     taa_ideas_poor_healthcare:0 "Failing Healthcare"
     taa_ideas_poor_healthcare_1:0 "Recovering Healthcare"
     taa_ideas_poor_healthcare_2:0 "Marginal Healthcare"
@@ -299,13 +299,13 @@
     taa_ideas_milita_strength:0 "Thriving Militia"
     taa_ideas_contractual_society:0 "The Contractual Society"
     taa_ideas_todd_charisma:0 "Howitzer's Charisma"
-    taa_idea_yellow_rose_of_texas:0 "§YThe Yellow Rose of Texas§"
+    taa_idea_yellow_rose_of_texas:0 "§YThe Yellow Rose of Texas§!"
     taa_idea_rio_revenge:0 "Revenge of the Rio"
     taa_idea_irrigated_farms:0 "Irrigated Farmlands"
     taa_idea_blue_jay:0 "Free as a Blue Jay"
     taa_idea_digging_equipment:0 "Digging Equipment"
-    
-    
+
+
  #lord forgive me for what i am about to do in this event block
     nf_taa.1.t: "Freedom Isn't Free"
     nf_taa.1.desc: "For the majority of the last 200 years, the TAA families have worked under the tight supervision of the Republic of the Rio Grande. It was a less than favorable relationship, high taxes, strict regulation, and hard limits on who we could actually sell and produce our weapons for. Though now we stand in a place of nominal independence, a position we were only barely able to secure with our..."
@@ -354,81 +354,80 @@
     nf_taa.11.t: "Addressing the Infrastructure Crisis"
     nf_taa.11.desc: ""Listen, if I see you litter on company roads one more goddamn time, I'm going to lay a minefield outside your summer home while you're still inside it."  was the first thing you heard when you stepped into Mr. Howitzer's office; you were the latest in a long line of secretaries to serve under him, and he seemed to be having a heated conversation with somebody on the radio. A few more choice insults were traded before a consensus had been come to; Howitzer hung up the mouthpiece and turned to you, bearing a wide grin on his face "Good to finally meet you champ, not much time for pleasantries though; we're struck with what rival papers are calling "Infrastructural Insanity". Go get on the horn and start calling up some of the other families, about time we formulated a plan to fix this." He hands you a little scrap of paper with a few frequencies jotted down on it, turning back to his own radio."
     nf_taa.11.a: ""I'll get right on that, sir.""
-    
+
     nf_taa.12.t: "Paving New Roads"
     nf_taa.12.desc: "Your boss had called you into his office again this morning to discuss the last few weeks of playing politics, mostly shoring up support from magnates and families around the country. The process consisted of calling in favors, making veiled threats, and signing lucrative deals to anybody willing to shell out investment money for new railways, sidewalks, and roads. Todd was preoccupied with a signing when you walked in, turning up to address you as soon as he heard you close the door. "Alright son, sterling work on those calls. We've got a long road ahead of us, but it looks like we just might have a rail line opening up soon. I need you to take a couple trips now; shake hands, make sure I'm not getting ripped off, and deliver a few packages. Think you can do all that?" His praise felt nice; and though he was asking a lot out of a new hire, you felt some kind of compulsion to keep living up to his expectations. It wasn't fear, but it wasn't exactly the joy of the purpose, either."
     nf_taa.12.a: "I'll get right on it, Mr. Howitzer"
-    
+
     nf_taa.16.t: "Installing Toll Booths"
     nf_taa.16.desc: "It had been another busy few weeks getting rolled about the country in a corporate car; you had spent most of it having lunch with investors, delivering bribes, and inspecting construction crews to make sure there wasn't any "funny business" afoot. By the time you had actually gotten back to the office there was a stack of papers piled up on your desk with Todd standing next to it. He bore a big grin on his face, setting his hand on your shoulder and motioning towards the papers expectantly. Something about his touch sent a tingle down your spine, a hint of something you weren't entirely comfortable with. There wasn't much time to think about it though, as he filled your ears with his booming voice "Spectacular work, champ! You can expect a little "bump" in your next check. For the time being though, I need you to start sorting through these "Fee-ability Reports"; they're all prospective locations for toll booths and rest stops, places where we'll charge to use the roads and footpaths owned by the company. I want you to root out anywhere that's next to bandit dens, monster pits, radioactive craters, and anywhere even —remotely— near my summer homes. Few days from now we'll have a full office for this kind of thing, but for now it's on you.  Think you can handle it?""
     nf_taa.16.a: ""Of course I can, Mr. Howitzer!""
-    
+
     nf_taa.15.t: "The Unveiling of the First Highway"
     nf_taa.15.desc: "With the trains running, the travelers charged, and the cities connected, it was time to unveil the grand jewel: The Gregg Howitzer Memorial Highway, named after Todd's late father. This particular strip of pavement was a state of the art 4-laned roadway that ran the entire length of the country and was dotted with all manner of roadsigns, tollbooths, and rest stops. The whole opening ceremony went off without a hitch, and in no time you were back at the office celebrating over a few drinks. As the evening faded into dusk, it occurred to you that you saw him differently than you had when you first walked into his office. Between the great joy his admiration brought you, and the countless number of times you had gotten lost in his bravado, his looks, his results; it occurred to you that you may very well have become infatuated with your boss. This presented a few dozen issues —the first of which being if he even swung that way—  which bounced around your head like caps in a bucket. It was only then you were struck with a moment of clarity that cut through the panic; if you didn't say something now, you may never have a better chance at courting him. Your palms begin to sweat, your face heats up and your heart thumps like mad as you make your final decision...."
     nf_taa.15.a: ""Todd....I think I love you.""
     nf_taa.15.b: "This just isn't worth it."
-    
+
     nf_taa.17.t: "Addressing the Eduction Crisis"
     nf_taa.17.desc: ""Listen, if you call in that Shake and Bake on a company kindergarten, I'll buy out your favorite coffee place just to burn it to the ground." was the first thing you heard when you stepped into Mr. Howitzer's office; you were the latest in a long line of secretaries to serve under him, and he seemed to be having a heated conversation with somebody on the radio. A few more choice insults were traded before a consensus had been come to; Howitzer hung up the mouthpiece and turned to you, bearing a wide grin on his face "Good to finally meet you champ, not much time for pleasantries though; we're struck with what rival papers are calling a "Schoolastic Shitshow." Go get on the horn and start calling up some of the other families, about time we formulated a plan to fix this." He hands you a little scrap of paper with a few frequencies jotted down on it, turning back to his own radio."
     nf_taa.17.a: ""I'll get right on that, sir.""
-    
+
     nf_taa.18.t: "Building New Schools"
     nf_taa.18.desc: "Your boss had called you into his office again this morning to discuss the last few weeks of playing politics, mostly shoring up support from magnates and families around the country. The process consisted of calling in favors, making veiled threats, and signing lucrative deals to anybody willing to shell out investment money for both general and techincal schools. Todd was preoccupied with a signing when you walked in, turning up to address you as soon as he heard you close the door. "Alright son, sterling work on those calls. We've got a long road ahead of us, but it looks like we just might have a few educational workshops being thrown up soon. I need you to take a couple trips now; shake hands, make sure I'm not getting ripped off, and deliver a few packages. Think you can do all that?" His praise felt nice; and though he was asking a lot out of a new hire, you felt some kind of compulsion to keep living up to his expectations. It wasn't fear, but it wasn't exactly the joy of the purpose, either."
     nf_taa.18.a: "I'll get right on it, Mr. Howitzer"
-    
+
     nf_taa.22.t: "Sourcing Teachers"
     nf_taa.22.desc: "It had been another busy few weeks getting rolled about the country in a corporate car; you had spent most of it having lunch with investors, delivering bribes, and inspecting properties to make sure there wasn't any "funny business" afoot. By the time you had actually gotten back to the office there was a stack of papers piled up on your desk with Todd standing next to it. He bore a big grin on his face, setting his hand on your shoulder and motioning towards the papers expectantly. Something about his touch sent a tingle down your spine, a hint of something you weren't entirely comfortable with. There wasn't much time to think about it though, as he filled your ears with his booming voice "Spectacular work, champ! You can expect a little "bump" in your next check. For the time being though, I need you to start sorting through these resumes; they're all prospective faculty, people who we'll pay to train so long as they teach in company facilities. I want you to root out any psychos, morons, corporate spies, blind people, chem addicts, kidnappers, child nappers, people who nap at work, and anybody who's —ever— worked in government. Few days from now we'll have a full office for this kind of thing, but for now it's on you.  Think you can handle it?""
     nf_taa.22.a: ""Of course I can, Mr. Howitzer!""
-    
+
     nf_taa.13.t: "The Opening of the First University"
     nf_taa.13.desc: "With capable teachers taught and new facilities built, it was time to unveil the grand jewel: The Gregg Howitzer University of Excellence, named after Todd's late father. The building was a state of the art technical campus that could house and educate hundreds of students at a time, and was staffed with the best educators TAA could keep on payroll. The whole ceremony went off without a hitch, and in no time you were back at the office celebrating over a few drinks. As the evening faded into dusk, it occurred to you that you saw him differently than you had when you first walked into his office. Between the great joy his admiration brought you, and the countless number of times you had gotten lost in his bravado, his looks, his results; it occurred to you that you may very well have become infatuated with your boss. This presented a few dozen issues —the first of which being if he even swung that way—  which bounced around your head like caps in a bucket. It was only then you were struck with a moment of clarity that cut through the panic; if you didn't say something now, you may never have a better chance at courting him. Your palms begin to sweat, your face heats up and your heart thumps like mad as you make your final decision...."
     nf_taa.13.a: ""Todd....I think I love you.""
     nf_taa.13.b: "This just isn't worth it."
-    
+
     nf_taa.72.t: "The TAA Petitions Us for Aid."
     nf_taa.72.desc: "On the border of the Rio Grande lies the capitalistic nation of the Texas Arms Association, while not usually of any political note, their recent rebellion against the RRG has left the future of the territory in question. As a response to increasing skirmishes across the border, the TAA has petitioned us for help against their more organized attacker."
     nf_taa.72.a: "Of course we'll help!"
     nf_taa.72.b: "We can't spare the equipment."
-    
+
     nf_taa.71.t: "Shooting in TAA Warehouse Causes Unrest"
     nf_taa.71.desc: "Guerra's crackdown on the TAA's trade only made the TAA more desperate. Who were they supposed to trade with? The robots that ruled the south? The Super mutants that skulked in the ruins of Texas' great cities? The feared and powerful Chicago Enclave? No, the trade would, and had, to continue.\n\n The flashpoint of the issue came during one raid on a TAA warehouse along the Rio in response to rumors of another shipment to Flagstaff. When the baron demanded to see a warrant and drew a pistol, the officer shot her in the hand. For the past six hours since the happening, there have been calls all across the territories calling for the end of rule from Gloria. In these last few days the barons have become sickened by the increasing restrictions on the market, and desire their Independence more every day that goes by."
     nf_taa.71.a: "This is getting out of hand!"
-    
+
     nf_taa.73.t: "Freedom Isn't Free"
     nf_taa.73.desc: "On the morning of [GetDateText], calls flooded Todd's office from officials and associates in Rio describing what seemed to be near apocalyptic conditions thrashing the capital. There was a general air of confusion on what exactly what happened. Legionary Raids? A Sunset Invasion? Nuclear attack? It all became clear when reports started piling in; this was a coordinated attack from multiple barons across the Estate's territories. The same barons that had been causing such a huge fuss over the RRG's new regulations have decided that they'd be better off free than paying taxes, and that they wanted the Howitzers to call the shots. \n\n Now, one of the most important rules of business is such: If the waters are calm, don't rock the boat. So naturally, the notion of bombing their neighbors just to get around a few regulations they could bribe their way out anyway of seemed like something of a poor reaction. It didn't much matter now, if the RRG was allowed to come back across the river it'd dismantle the whole system from top to bottom, so Todd now longer had a choice in the matter; the Militias were raised, barricades built, and plans were drawn for the coming war."
     nf_taa.73.a: "Life calls the tune, we dance."
-    
+
     nf_taa.74.t: "The RRG Bans Political Donations!"
     nf_taa.74.desc: "One way the TAA is able to influence Rio's politics is through liberal donations to senators who support its policy of selling weapons to all comers. Guerra wants to pass legislation restricting arms sales, but before he does that, he'll have to cut off their influence. As a first step, Guerra decided to issue a presidential decree banning donations to a Congressman's campaign unless you are from their district. This means Rio can no longer bribe Congressmen from other states."
     nf_taa.74.a: "This is Unconstitutional!"
-    
+
     nf_taa.75.t: "Guerra Bans Trade with the Legion"
     nf_taa.75.desc: "The Legion's rapid expansion disrupted the TAA's traditional markets, literally razing some clients but creating a huge market in Flagstaff. Despite efforts to ban the trade, many of the TAA's weapons fell off a brahmin and ended up in Legion hands, much to the ire of Guerra. \n\nGuerra chose to dust off an old Rio law that imposed a death penalty on anyone who sold weapons to raiders and decreed that the Legion was nothing more than a band of raiders, cutting off one of our biggest, most profitable clients! Guerra treated any of our criticisms like treason, claiming on one hand that they were an existential threat, and on the other nothing more than a band of raiders! In a raid on a TAA trading post in western Texas, Guerra confiscated munitions bound for Flagstaff and arrested several Texans for high crimes against the Republic."
     nf_taa.75.a: "That Old Tyrant!"
-    
+
     nf_taa.76.t: "Initial Hiccups"
     nf_taa.76.desc: "The sudden departure from the status quo left us with quite a number of administrative hiccups; as it turns out having a violent and sudden departure from "The Way Things Were" tends to throw a heaping helping of chaos into everyday operation. The sheer rush of revolution having finally died down, people are now realizing that just across the river sits the old, stately beast. It's maw hung open, just waiting to tear us to shreds. It has people worried, even a little demoralized."
     nf_taa.76.a: "We should use our time wisely."
-    
+
     nf_taa.77.t: "Mexico's Tensest Dinner Party"
     nf_taa.77.desc: "Todd Howitzer, one of the TAA's moderates, was among those who recognized that the secession was perhaps a might hasty. Todd's attempts to keep the barons aligned were meeting trouble in face of competing self interest, and Todd recognized that, without a professional army, the TAA could end up overrun from the inside, or out.Guerra, in turn, was willing to recognize the TAA's autonomy in exchange for a continued flow of arms, and the promise of a new market in the American southwest. Because Guerra, you see, knew some folks under the Legion yoke who might want guns too..."
     nf_taa.77.a: "It's an interesting offer, to say the least."
-    
+
     nf_taa.78.t: "To Future Ventures?"
     nf_taa.78.desc: "A proposal stamped in official RRG lettering found it's way onto Todd's desk earlier this morning, it was Guerra offering the reinstating of government rule over the TAA for slightly more amicable terms and full pardons. Guerra's proposal was simple: Instead of selling to the Legion, the TAA could sell to the many resistance groups in Legion territory, promoting Guerra's foreign policy and their business as the same time. Further, Guerra pointed out, if the rumours to the south were true, there might be more opportunities down Mexico Way in the near future... opportunities which would require access to Rio's territory. It was an alright deal, not as good as before, but better than dying. The truth is, it was more of a choice between freedom, or safety than it was between clientèle."
     nf_taa.78.a: "We're not giving up our freedom!"
     nf_taa.78.b: "It's about time we gave up the goat."
-    
+
     nf_taa.79.t: "Radio Propaganda"
     nf_taa.79.desc: ""How are you, TAA Tim? It seems to me that most of you are poorly informed about the goings on of the rebellion, to say nothing about a correct explanation of your independence over there. Nothing is more confused than to be ordered into a revolution to die or to be maimed for life without the faintest idea of what's going on..." Was the opening line of a serious of broadcasts the RRG was transmitting over radios in the TAA; it was a blatant propaganda campaign intended to rile up the general citizenry in pushing for re annexation and it seemed to be, at the very least, riling people up."
     nf_taa.79.a: "Somebody turn that racket off!"
-    
+
     nf_taa.742.t: "Mora Begins Raising Militias"
     nf_taa.742.desc: "Reports have come across the border from the RRG that have troubling indications: Mora is raising up volunteers into militia groups primed for an offensive campaign. There is little doubt he has plans to attack us."
     nf_taa.742.a: "We will be ready!"
-    
+
     nf_taa.636865657365627572676572.t: "Time for a Cheeseburger"
     nf_taa.636865657365627572676572.desc: "It was approaching three in the afternoon when the realization had struck Todd he hasn't eaten anything all day. It was far too early to go out for dinner, but much too late to go somewhere that serves breakfast; with considerations in mind he took a short walk down the road to a local Brahmin burger joint. The food was maybe a little pricey but well prepared, if not a little overcooked; it left Todd slightly tired, but well fed."
     nf_taa.636865657365627572676572.a: "Huh, not bad."
  #anything else
-

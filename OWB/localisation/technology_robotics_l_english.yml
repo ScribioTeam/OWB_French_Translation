@@ -74,6 +74,13 @@
   robot_pacification_bot_tech_desc:0 "A large quadrupedal robot reminescent of large animals of old, this war machine originally boasted tank-like protection and four pacification cannons. Further thinkinering done by the Calculator has replaced the four cannons by two rotary laser autocannons, and attention was given to enhanced mobility systems and better tactical link with other robotical units, making them mobile command posts."
   robot_behemoth_robot_tech:0 "Behemoth Bot"
   robot_behemoth_robot_tech_desc:0 "A gargantuan beast of a machine, calling this robot a walking tank would be a disservice to the sheer bulk in weaponry and armour it carries. Originally armed with four fast-firing .50 cal machineguns, those were replaced for a quadruple 20mm autocannon arrangement. Combined with armour thick enough to stop plasma projectiles or even naval artillery, there is nothing our enemy can do but gasp before being shred to pieces."
+  securitron_grenade_software_tech:0 "Rapid-Fire G-28 Grenade Launching System"
+  securitron_grenade_software_tech_desc:0 "§CUnlocks Securitron's Primary Weapon:§!G-28 Rapid-Fire Grenade Launching System  for close range engagements."
+  securitron_missile_software_tech:0 "M-235 Shoulder-Mounted Missile Launchers"
+  securitron_missile_software_tech_desc:0 "§CUnlocks Securitron's Primary Weapon:§!M-235 Shoulder-Mounted Missile Launchers for long range and surface-to-air engagements."
+  securitron_self_repair_tech:0 "On-Board Self-Repair System"
+  securitron_self_repair_tech_desc:0 "§CUnlocks Securitron's Self-Repair System:§!Enables the Securitron to repair any damage sustained during combat."
+  platinum_os_tech:0 "Mark 2 Operating System"
     ### Headers
   HEADER_LIGHT_ROBOT:0 "Light Robots"
   HEADER_ROBOT_SUBTECH:0 "Robot Improvements"

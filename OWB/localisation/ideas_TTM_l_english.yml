@@ -1,7 +1,7 @@
 ﻿l_english:
   ttm_the_nursery_idea: "The Nursery"
   ttm_the_nursery_idea_desc: "§MThe Control Facility Operations§!\n[TTM.ttm_the_nursery_control_facility_scripted_localization]\n\n§MThe Factory Operations§!\n[TTM.ttm_the_nursery_factory_scripted_localization]\n\n§MThe Repository Operations§!\n[TTM.the_repository_scripted_loc]"
-  
+
   ttm_the_nursery_control_facility_effects: " §WDiana's Computational Strength:§! §Y[TTM.ttm_computational_power_modifier_scripted_text]%§!\n  Diana's current Computational Power gives the following benefits:\n   §G+[?TTM.ttm_comp_power_tt]%§! §WPolitical Power Growth§!\n   §G+[?TTM.ttm_comp_power_tt]%§! §WMax Factories In States§!\n   §G+[?TTM.ttm_comp_power_tt]%§! §WProduction Efficiency§!\n\n  §WSatellite Network Size:§! §Y[?TTM.ttm_satellite_network]§!\n   We control a network of space satellites working together in unison. The networks size gives the following benefits:   [TTM.ttm_satellite_effects_scripted_localization]\n[TTM.ttm_satellite_decay_scripted_localization]"
   ttm_computational_power_num: "[?TTM.ttm_computational_power]"
   ttm_add_to_computational_power_tt: "Gain §G+[?TTM.ttm_comp_power_to_add]§! §MComputational Power§!\n"
@@ -44,15 +44,15 @@
   ttm_liberators_of_colorado: "Liberators of Colorado"
   ttm_liberators_of_colorado_desc: ""
 
-  ttm_Conquerors_of_colorado: "Conquerors of Colorado"
-  ttm_Conquerors_of_colorado_desc: "Conquerors of Colorado"
+  ttm_conquerors_of_colorado: "Conquerors of Colorado"
+  ttm_conquerors_of_colorado_desc: "Conquerors of Colorado"
 
   ttm_encrypted_information: "Encrypted Information"
   ttm_encrypted_information_desc: ""
 
   ttm_prisoners_to_patriots: "Prisoners to Patriots"
   ttm_prisoners_to_patriots_desc: ""
-  
+
   ttm_ncr_embassy: "Twin Mothers - NCR Embassy"
   ttm_ncr_embassy_desc: "A joint embassy between Colorado and the New California republic has led to a wide range of benefits for both regions!"
 

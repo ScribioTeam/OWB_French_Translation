@@ -1,0 +1,12 @@
+﻿l_english:
+ #-------------------------------------
+ # CHR Decisions
+ #-------------------------------------
+  mininuke_arming_decision:0 "Arm a Mini-nuke"
+  mininuke_arming_decision_desc:0 "Gives a charge for the mini-nuke commander ability, requires to have a mini-nuke in storage. Mini-nukes can be build via the production interface."
+  mininuke_arming_3_decision:0 "Arm three Mini-nukes"
+  mininuke_arming_3_decision_desc:0 "Gives three charges for the mini-nuke commander ability, requires to have three mini-nukes in storage. Mini-nukes can be build via the production interface."
+  artillery_arming_decision:0 "Ready Artillery Barrage"
+  artillery_arming_decision_desc:0 "Gives a charge for the artillery commander ability, requires to have a shell-batch in storage. Shell-batches can be build via the production interface."
+  artillery_arming_3_decision:0 "Ready three Artillery Barrages"
+  artillery_arming_3_decision_desc:0 "Gives three charges for the artillery commander ability, requires to have three shell-batches in storage. Shell-batches can be build via the production interface."
