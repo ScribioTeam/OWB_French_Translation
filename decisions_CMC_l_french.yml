@@ -1,5 +1,0 @@
-﻿l_french:
- CMC_payout_category:9 "Paiement du Casino"
- CMC_payout_category_desc:9 "Investir dans les casinos et les attractions environnantes augmentera considérablement nos revenus. Mais attention, le jeu n'est pas seulement peu fiable pour le joueur.\n\nNombre de Casinos en activité : §G[?cmc_casinos_open]§!\n\nNombre d'Attractions Routières ouvertes : §G[?cmc_roadsides_open]§!\n\nVous recevrez le paiement une fois par trimestre et le prochain devrait être [CMC_casino_payout_math], sauf circonstances imprévues. Les casinos rapportent plus que les attractions, mais les attractions réduisent les risques de mauvais événements.!"
- cmc_quarterly_payout:9 "Revenu Trimestriel des Casinos"
- CMC_casino_payout_decision_tt:9 "§G[?payout_total_loc]k§! [GetCapType]"
