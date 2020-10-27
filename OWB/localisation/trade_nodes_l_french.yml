@@ -168,44 +168,44 @@
 
   ### Node tutorial Hints
  TRADE_NODE_NAME_TRIGGER:9 "[GetTradeNodeNameTTHint]"
- TRADE_NODE_NAME_HINT_TT:9 "§gTrade nodes are a collection of states which have above average commerce for the wasteland. Each node has a centre state which collects [GetCapCurrencyType]s and is the origin of trade routes. Member states contribute development to the node, increasing its level.§!"
+ TRADE_NODE_NAME_HINT_TT:9 "§gLes nœuds de commerce sont un ensemble d'États qui ont un commerce supérieur à la moyenne pour les terres Désolées. Chaque nœud possède un État central qui collecte les [GetCapCurrencyType] et est à l'origine des routes commerciales. Les États membres contribuent au développement du nœud, en augmentant son niveau.§!"
 
  TRADE_NODE_PROGRESS_TRIGGER:9 "[GetTradeNodeProgressTTHint]"
- TRADE_NODE_PROGRESS_HINT_TT:9 "§gProgress and level are measured by state development in an Economic Node. State development is a weighted average of factories, dockyards, infrastructure, and river access between a centre state, and its member states.§!"
+ TRADE_NODE_PROGRESS_HINT_TT:9 "§gLes progrès et le niveau sont mesurés par le développement de l'État dans un nœud économique. Le développement de l'État est une moyenne pondérée des usines, des chantiers navals, des infrastructures et des accès fluviaux entre un État central et ses États membres.§!"
 
  TRADE_NODE_LEVEL_TRIGGER:9 "[GetTradeNodeLevelTTHint]"
- TRADE_NODE_LEVEL_HINT_TT:9 "§gLevel 8 can be reached naturally, beyond level 8 requires Economic Development.§!"
+ TRADE_NODE_LEVEL_HINT_TT:9 "§gLe niveau 8 peut être atteint naturellement, au-delà du niveau 8, il faut du développement économique.§!"
 
  TRADE_NODE_ECONOMIC_DEVELOPMENT_TRIGGER:9 "[GetTradeNodeEconomicDevelopmentTTHint]"
- TRADE_NODE_ECONOMIC_DEVELOPMENT_HINT_TT:9 "§gEconomic Development increases level by one per point. Economic development can be granted through focuses, events, decisions, and more! Each point allows development past level 8 to a maximum of level 10§!"
+ TRADE_NODE_ECONOMIC_DEVELOPMENT_HINT_TT:9 "§gLe développement économique augmente le niveau d'un par point. Le développement économique peut être accordé par le biais de priorités, d'événements, de décisions, et plus encore ! Chaque point permet un développement au-delà du niveau 8 jusqu'à un maximum de 10§!"
 
  TRADE_NODE_BASE_VALUE_TRIGGER:9 "[GetTradeNodeBaseValueTTHint]"
- TRADE_NODE_BASE_VALUE_HINT_TT:9 "§gNode level creates development value.§!"
+ TRADE_NODE_BASE_VALUE_HINT_TT:9 "§gLe niveau des nœuds crée une valeur de développement.§!"
 
  TRADE_NODE_TRADE_VALUE_TRIGGER:9 "[GetTradeNodeTradeValueTTHint]"
- TRADE_NODE_TRADE_VALUE_HINT_TT:9 "§gAmount of trade flowing into a node.§!"
+ TRADE_NODE_TRADE_VALUE_HINT_TT:9 "§gQuantité de commerce entrant dans un nœud.§!"
 
- TRADE_NODE_TOTAL_VALUE_HINT_TT:9 "\n\n§gTotal node value is combined development and trade value, with modifiers. Total value is shared along trade routes.§!"
+ TRADE_NODE_TOTAL_VALUE_HINT_TT:9 "\n\n§gLa valeur totale des nœuds est la valeur combinée du développement et du commerce, avec des modificateurs. La valeur totale est partagée le long des routes commerciales.§!"
 
- TRADE_NODE_MEMBER_STATES_LIST_ENTRY_HINT_TT:9 "\n\n §gMember states make up the body of a node. Routes do not go directly to or from member states, but they contribute development to node progress and level. A member state can only be a member of one node at a time.§!"
+ TRADE_NODE_MEMBER_STATES_LIST_ENTRY_HINT_TT:9 "\n\n §gLes États membres constituent le corps d'un nœud. Les routes ne vont pas directement vers ou depuis les États membres, mais elles contribuent au développement du progrès et du niveau des nœuds. Un État membre ne peut être membre que d'un seul nœud à la fois.§!"
 
  TRADE_NODE_TRADE_ROUTE_BUTTON_TRIGGER:9 "[GetTradeNodeRouteButtonTTHint]"
- TRADE_NODE_TRADE_ROUTE_BUTTON_HINT_TT:9 "§gTrade routes send a portion of total node value to the target, and receive a smaller portion of the target node's value back.§!"
+ TRADE_NODE_TRADE_ROUTE_BUTTON_HINT_TT:9 "§gLes routes commerciales envoient une partie de la valeur totale du nœud à la cible, et reçoivent en retour une partie plus petite de la valeur du nœud cible.§!"
 
  TRADE_NODE_PROMOTE_BUTTON_TRIGGER:9 "[GetTradeNodePromoteTTHint]"
- TRADE_NODE_PROMOTE_BUTTON_HINT_TT:9 "§gPromoting a node increases level and development value.§!"
+ TRADE_NODE_PROMOTE_BUTTON_HINT_TT:9 "§gLa promotion d'un nœud augmente le niveau et la valeur de développement.§!"
 
  TRADE_NODE_ORGANIZATION_LIST_ENTRY_TRIGGER:9 "[GetTradeNodeOrganizationTTHint]"
- TRADE_NODE_ORGANIZATION_LIST_ENTRY_HINT_TT:9 "§gOrganizations create shops and establishments in nodes. Having an organization in a node unlocks the ability to access their shop, as well as favours, for a country. Organizations spread between nodes through trade routes.§!"
+ TRADE_NODE_ORGANIZATION_LIST_ENTRY_HINT_TT:9 "§gLes organisations créent des magasins et des établissements dans les nœuds. Le fait d'avoir une organisation dans un nœud déverrouille la possibilité d'accéder à sa boutique, ainsi qu'à des faveurs, pour un pays. Les organisations se répartissent entre les nœuds par le biais des routes commerciales.§!"
 
  NODE_MAP_LEDGER_TRIGGER:9 "[GetNodeMapLedgerTTHint]"
- NODE_MAP_LEDGER_HINT_TT:9 "§gThe '§!§MLedger§!§g' within the trade node map displays incomes from all nodes under your country's control. It also displays a list of currently controlled trade nodes§!"
+ NODE_MAP_LEDGER_HINT_TT:9 "§gLe \"§!§MRegistre§!§g\" dans la carte des nœuds de commerce affiche les revenus de tous les nœuds sous le contrôle de votre pays. Il affiche également une liste des nœuds de commerce actuellement contrôlés§!"
 
  NODE_MAP_LEDGER_ROUTES_TRIGGER:9 "[GetNodeMapLedgerRoutesTTHint]"
- NODE_MAP_LEDGER_ROUTES_HINT_TT:9 "§gAllows management of all incoming and outgoing trade routes from nodes. Editing a trade route has a 120 day cooldown§!"
+ NODE_MAP_LEDGER_ROUTES_HINT_TT:120 "§gPermet la gestion de toutes les routes commerciales entrantes et sortantes à partir des nœuds. La modification d'une route commerciale a un délai de récupération de 120 jours§!"
 
  NODE_MAP_MARKER_TRIGGER:9 "[GetNodeMapMarkerTTHint]"
- NODE_MAP_MARKER_HINT_TT:9 "§gClick to select this node. Selecting a node highlights '§!§MTrade Links§!§g' on map. Selection also opens a panel to control country to send, remove, and manage income and outgoing trade routes.§! \n§!§GGreen§!§g highlight denotes a trade link. \n§!§OOrange§!§g highlight denotes an active trade route.§!"
+ NODE_MAP_MARKER_HINT_TT:9 "§gCliquez pour sélectionner ce nœud. La sélection d'un nœud met en évidence les \"§!§MLiens Commerciaux§!§g\" sur la carte. La sélection ouvre également un panel permettant de contrôler le pays pour envoyer, retirer et gérer les revenus et les routes commerciales sortantes.§!\n§!§gLa mise en évidence§! §GVerte§!§g dénote un lien commercial.\n§!§gLa mise en évidence§! §OOrange§!§g dénote une route commerciale active.§!"
 
  NODE_MAP_TRADE_CONNECTION_TRIGGER:9 "[GetNodeMapConnectionTTHint]"
- NODE_MAP_TRADE_CONNECTION_HINT_TT:9 "§gClick to view a connected node able to receive a trade route from the currently selected node. \n§!§GGreen§!§g highlight denotes a trade link. \n§!§OOrange§!§g highlight denotes an active trade route.§!"
+ NODE_MAP_TRADE_CONNECTION_HINT_TT:9 "§gCliquez pour visualiser un nœud connecté capable de recevoir une route commerciale à partir du nœud actuellement sélectionné.\n§!§gLa mise en évidence§! §GVerte§!§g dénote un lien commercial.\n§!§gLa mise en évidence§! §OOrange§!§g dénote une route commerciale active.§!"
