@@ -121,7 +121,7 @@ guiTypes = {
 			}
 			instantTextBoxType = {
 				name ="header"
-				position = { x= 0 y = 5 }
+				position = { x= 100 y = 5 }
 				font = "hoi_30header"
 				text = "TRADE_MAP_HEADER_TT"
 				maxWidth = 1080
@@ -161,7 +161,7 @@ guiTypes = {
 		}
 		containerWindowType = {
 			name = "filter_container"
-			position = { x = 150 y = 20 }
+			position = { x = 140 y = 20 }
 			size = { width = 300 height = 100 }
 			clipping = no
 			containerWindowType = {
@@ -620,7 +620,7 @@ guiTypes = {
 				spriteType = "GFX_sort_button_140x29"
 				frame = 1
 				buttonFont = "hoi_16mbs"
-				buttonText = "Envoyer Route Commerciale"
+				buttonText = "Envoyer Route"
 				pdx_tooltip = "TRADE_NODE_TRADE_ROUTE_BUTTON_TT"
 			}
 			buttonType = {

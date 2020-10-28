@@ -109,7 +109,7 @@
  TRADE_NODE_TRADE_ROUTE_IS_DESTROYED:9 "La route commerciale à partir de ce nœud de commerce est abandonnée.\n"
 
 ### Global Node Map GUI
- TRADE_MAP_HEADER_TT:9 "Carte des Noeuds de Commerces"
+ TRADE_MAP_HEADER_TT:9 "Carte des Noeuds de Commerce"
  map_selected_state_name_tt:9 "§Y[?node_map_selector.GetName]§!"
  map_selected_state_value_tt:9 "[GetNodeValue]"
  map_selected_state_trade_tt:9 "[GetNodeTade]"
