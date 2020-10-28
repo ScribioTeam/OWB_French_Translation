@@ -114,7 +114,7 @@ guiTypes = {
 			position = { x = 70 y = 5 }
 			font = "hoi_18mbs"
 			##text = "[GetNextCost]"
-			text = "Balance:"
+			text = "Trésorerie :"
 			format = left
 		}
 		instantTextBoxType = {
@@ -132,7 +132,7 @@ guiTypes = {
 			position = { x = 70 y = 35 }
 			font = "hoi_18mbs"
 			##text = "[GetNextCost]"
-			text = "Gross Income:"
+			text = "Revenu Brut :"
 			format = left
 		}
 		instantTextBoxType = {
@@ -150,7 +150,7 @@ guiTypes = {
 			position = { x = 70 y = 65 }
 			font = "hoi_18mbs"
 			##text = "[GetNextCost]"
-			text = "Quarterly Expenses:"
+			text = "Dépenses Trimestrielles :"
 			format = left
 		}
 		instantTextBoxType = {
@@ -168,7 +168,7 @@ guiTypes = {
 			position = { x = 70 y = 95 }
 			font = "hoi_18mbs"
 			##text = "[GetNextCost]"
-			text = "Quarterly Profit:"
+			text = "Résultat Trimestriel :"
 			format = left
 		}
 		instantTextBoxType = {
@@ -195,7 +195,7 @@ guiTypes = {
 			position = { x = 0 y = 0 }
 			spriteType = "GFX_pipboy_plus_screen_button_small"
 			clicksound = click_close
-			buttonText = "Replay Tutorial"
+			buttonText = "Rejouer le Tutoriel"
 			buttonFont = "pipboy_16"
 			format = center
 		}
@@ -204,7 +204,7 @@ guiTypes = {
 			position = { x = 400 y = 0 }
 			spriteType = "GFX_pipboy_plus_screen_button_small"
 			clicksound = click_close
-			buttonText = "Toggle Hint Tags"
+			buttonText = "Afficher/Masquer les info-bulles"
 			buttonFont = "pipboy_16"
 			format = center
 			pdx_tooltip = "caps_enable_help_hints_tt"
