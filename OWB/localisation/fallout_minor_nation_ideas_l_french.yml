@@ -4,7 +4,7 @@
   ##########################
 
  research_bonus:0 "Effort de Recherche"
-  research_bonus_desc: ""
+ research_bonus_desc:0 ""
  neutrality_owb:0 "Neutralité"
  neutrality_owb_desc:0 ""
 
@@ -16,245 +16,245 @@
  zetan_desc:0 "Des entités très avancées, de l'autre monde, avec des capacités qui pourraient aussi bien être magiques pour les occupants des Terres Désolées."
 
   #STR
- str_watchers_of_the_stars:9 "Watchers of the Stars"
- str_watchers_of_the_stars_desc:9 "The Star Watchers have been watching the stars for three hundred years.\nBorn from a local community of star gazers the star watchers have always known that something out there was looking back at them. They revel in a culture speaking of travellers, mysteries and riddles hidden within the night's sky."
+ str_watchers_of_the_stars:9 "Observateurs des Étoiles"
+ str_watchers_of_the_stars_desc:9 "Les Observateurs d'Étoiles observent les étoiles depuis trois cents ans.\nNés d'une communauté locale d'observateurs d'étoiles, les observateurs d'étoiles ont toujours su que quelque chose les regardait en retour. Ils se délectent d'une culture qui parle de voyageurs, de mystères et d'énigmes cachés dans le ciel de la nuit."
   #EDN
- the_corpse:9 "The Corpse"
- the_corpse_desc:9 "Many years ago Reese, a Cipher warlord managed to steal a G.E.C.K. from a place known as "The Nursery". He used it across the wasteland, transforming a long stretch of land from central Colorado to the Gulf of Mexico into dense mutated jungles. If it wasn't for Scarlet stopping him he might have been able to transform all of the wasteland into his hellish tropical paradise.\nIn recent years, while the majority of the mutation around the bombed out shell of Corpus Christi - where the final battle between Scarlet and Reese took place - has been cleaned out there is still the matter of the G.E.C.K. itself.\nWe were never able to destroy it, thus - Scarlet brought it to a secluded place known as Eden and with a small contingent of Brotherhood scouts have gone into isolation as they seek to prevent the G.E.C.K.'s influence from corrupting anything else."
+ the_corpse:9 "Le Cadavre"
+ the_corpse_desc:9 "Il y a plusieurs années, Reese, un chef de guerre Cipher a réussi à voler un G.E.C.K. dans un endroit connu sous le nom de \"La Crèche\". Il l'a utilisé à travers les Terres Désolées, transformant une longue étendue de terre du centre du Colorado au Golfe du Mexique en de denses jungles mutantes. Si Scarlet ne l'avait pas arrêté, il aurait peut-être pu transformer toute la terre désolée en son paradis tropical infernal.\nCes dernières années, alors que la majeure partie de la mutation autour de l'obus bombardé de Corpus Christi - où a eu lieu la bataille finale entre Scarlet et Reese - a été nettoyée, il reste la question du G.E.C.K. lui-même.\nNous n'avons jamais pu le détruire, ainsi - Scarlet l'a amené dans un endroit isolé connu sous le nom d'Eden et avec un petit contingent de scouts de la Confrérie, ils se sont isolés pour empêcher l'influence du G.E.C.K. de corrompre quoi que ce soit d'autre."
 
   #DSP
- highwaymen_of_louisiana:9 "Highwaymen of Louisiana"
- highwaymen_of_louisiana_desc:9 "Based in the Shreveport, a city perched on the intersection of the north-south I-49 and the west-east I-20, the Desperados run an efficient highway robbing machine. Riding sleek, tuned-up motorbikes, the Desperados are feared by tradesmen and travellers from Dallas to New Orleans. Never shy of a stick-up, the Desperados strike fast and have no time for resistors."
+ highwaymen_of_louisiana:9 "Routiers de Louisiane"
+ highwaymen_of_louisiana_desc:9 "Basés à Shreveport, une ville perchée à l'intersection de l'I-49 nord-sud et de l'I-20 ouest-est, les Desperados disposent d'une machine à voler efficace sur les autoroutes. Chevauchant des motos élégantes et bien réglées, les Desperados sont craints par les commerçants et les voyageurs de Dallas à la Nouvelle-Orléans. Jamais à court de résistance, les Desperados frappent vite et n'ont pas le temps de résister."
 
   #GAM
- chains_across_the_rivers:9 "Chains Across the River"
- chains_across_the_rivers_desc:9 "By draping submerged iron chains across the various rivers that weave through the marshes of Louisiana, we can entangle traders that attempt to explore routes west of the Mississippi. By raiding the stranded vessels, we can gain a huge variety of materials that would otherwise be much more scarce."
+ chains_across_the_rivers:9 "Chaînes de l'Autre Côté de la Rivière"
+ chains_across_the_rivers_desc:9 "En faisant passer des chaînes de fer submergées par les diverses rivières qui traversent les marais de Louisiane, nous pouvons enchevêtrer les commerçants qui tentent d'explorer les routes à l'ouest du Mississippi. En pillant les navires échoués, nous pouvons obtenir une grande variété de matériaux qui seraient autrement beaucoup plus rares."
 
   #SYN
- syilx_council_of_eight:9 "The Council of Eight"
- syilx_council_of_eight_desc:9 "The Syilx Nation is governed by the Chiefs Executive Council, composed of the seven Nation Chiefs and the Coleville Confederated Tribes' Chairman of the Nation. The Council holds regular meetings to decide on areas of concern and and works to protect the Nation's people, land, and resources."
- syilx_captikwl:9 "captíkwł"
- syilx_captikwl_desc:9 "captíkwł are teachings about Sylix principles, customs, values, laws and structures that inform the responsibilities and rights of the Sylix to their land. They serve as both natural laws and part of a cultural renewal and revitalization process. The laws teach the Syilx people how to survive in their lands, and are passed on to each young person in the Nation."
+ syilx_council_of_eight:9 "Le Conseil des Huit"
+ syilx_council_of_eight_desc:9 "La Nation Syilx est gouvernée par le Conseil exécutif des chefs, composé des sept chefs de la nation et du président de la nation des tribus confédérées de Coleville. Le Conseil se réunit régulièrement pour décider des sujets de préoccupation et s'efforce de protéger la population, les terres et les ressources de la nation."
+ syilx_captikwl:9 "Captíkwł"
+ syilx_captikwl_desc:9 "captíkwł sont des enseignements sur les principes, les coutumes, les valeurs, les lois et les structures de Sylix qui informent sur les responsabilités et les droits des Sylix sur leur terre. Ils servent à la fois de lois naturelles et font partie d'un processus de renouvellement et de revitalisation culturelle. Les lois enseignent au peuple Syilx comment survivre sur leurs terres et sont transmises à chaque jeune de la nation."
 
   #HAI
- haida_raven_and_eagle:9 "The Raven and the Eagle"
- haida_raven_and_eagle_desc:9 "Haida social life is broadly split by two moieties: the Raven and the Eagle. A family's moiety dictates which side of a village they live on, the history they are taught, and where they fish. Despite the differences between the two groups, both would be united within families, providing a strong sense of unity between the two."
+ haida_raven_and_eagle:9 "Le Corbeau et l'Aigle"
+ haida_raven_and_eagle_desc:9 "La vie sociale des Haïdas est largement divisée en deux parties : le Corbeau et l'Aigle. La moitié d'une famille détermine le côté du village où elle vit, l'histoire qu'on lui enseigne et où elle pêche. Malgré les différences entre les deux groupes, ils sont tous deux unis au sein d'une même famille, ce qui leur donne un fort sentiment d'unité."
 
   #SLE
  bomb_station_02:9 "B.O.M.B. Station 002"
- bomb_station_02_desc:9 "The Sleeper's are based out of B.O.M.B. Station 002, a crashed space station housed at the center of the Grand Canyon. While most of the facility is completely derelict there are still many mysteries hidden within its steel chasis."
+ bomb_station_02_desc:9 "Les Sleepers sont basés sur la station 002 de B.O.M.B., une station spatiale qui s'est écrasée au centre du Grand Canyon. Bien que la plus grande partie de l'installation soit complètement à l'abandon, de nombreux mystères sont encore cachés dans son chasis d'acier."
 
   #MES
- wickiup_nomads:9 "Wicki up Nomads"
- wickiup_nomads_desc:9 "For much of their history, the Mescalero were nomadic hunters and warriors, building temporary dwellings (called 'Wicki up') as they moved through the plains of the Southwest. Despite the turn towards more permanent settlements in the late 20th century, stories and traditions from more nomadic times are still important cornerstones in Mescalero culture."
- guerilla_legacy:9 "Guerrilla Legacy"
- guerilla_legacy_desc:9 "When the White Men first came to America, the Mescalero resisted their perpetual expansion into traditional Mescalero territory. Often leading raids on Spanish, Mexican and American settlements, the Mescalero were renown guerilla fighters: a legacy that lives on to this day."
+ wickiup_nomads:9 "Wicki Nomade"
+ wickiup_nomads_desc:9 "Pendant une grande partie de leur histoire, les Mescaleros ont été des chasseurs et des guerriers nomades, construisant des habitations temporaires (appelées \"Wicki up\") lorsqu'ils se déplaçaient dans les plaines du sud-ouest. Malgré l'évolution vers des établissements plus permanents à la fin du XXe siècle, les histoires et les traditions des périodes plus nomades sont toujours des pierres angulaires importantes de la culture des Mescaleros."
+ guerilla_legacy:9 "Héritage de la Guérilla"
+ guerilla_legacy_desc:9 "Lorsque les hommes blancs sont arrivés en Amérique, les Mescaleros ont résisté à leur perpétuelle expansion dans le territoire traditionnel des Mescaleros. Souvent à la tête de raids sur les colonies espagnoles, mexicaines et américaines, les Mescaleros étaient des guérilleros réputés : un héritage qui perdure encore aujourd'hui."
 
   #TLP
- always_ready_always_there:9 "Always Ready, Always There"
- always_ready_always_there_desc:9 "Always Ready, Always There: the slogan of the National Guard the majority of the ghouls who make up the Last Patrol once claimed allegiance too. National Guard ranks, structure and decals are everywhere in the Last Patrol, which continues to drill and practice as they once did before the Great War. As a result, the Last Patrol is in a near-total state of readiness against any threat, whom they will repel with all the force in their bodies."
- army_with_a_state:9 "An Army with a State"
- army_with_a_state_desc:9 "When the bombs fell on Oklahoma, the majority of the National Guard was based in their military base to the West of Tulsa engaged in a massed training exercise. Being a major population centre, Tulsa hit by a nuclear strike, leaving the poor Oklahoma National Guard in something of a horrendous position: too far from the blast to have been killed, but far too close to get out unscathed. Instead most of them withered in the combat armour they were wearing, being transformed by the radiation over many weeks into intelligent ghouls. While they would recover some for of cohesion far too late to help in the immediate aftermath of the blast, the ghouls were filled with a new purpose: defending that which they held. Convinced almost all they encountered were enemies, the Last Patrol became incredibly defensive of their little slice of Oklahoma."
+ always_ready_always_there:9 "Toujours Prêt, Toujours Là"
+ always_ready_always_there_desc:9 "Toujours Prêt, Toujours Là : le slogan de la Garde Nationale la majorité des goules qui composent la Dernière Patrouille ont aussi revendiqué une fois l'allégeance. Les grades, la structure et les décalcomanies de la Garde Nationale sont partout dans la Dernière Patrouille, qui continue à s'entraîner et à s'entraîner comme elle le faisait avant la Grande Guerre. En conséquence, la Dernière Patrouille est dans un état de préparation quasi-total contre toute menace, qu'ils repousseront avec toute la force de leur corps."
+ army_with_a_state:9 "Une Armée avec un Etat"
+ army_with_a_state_desc:9 "Lorsque les bombes sont tombées sur l'Oklahoma, la majorité de la Garde nationale était basée sur sa base militaire à l'ouest de Tulsa, engagée dans un exercice d'entraînement de masse. Tulsa étant un centre de population important, elle a été frappée par une frappe nucléaire, laissant la pauvre Garde nationale de l'Oklahoma dans une position épouvantable : trop loin de l'explosion pour avoir été tuée, mais bien trop près pour en sortir indemne. Au lieu de cela, la plupart d'entre eux se sont flétris dans les armures de combat qu'ils portaient, étant transformés par les radiations pendant de nombreuses semaines en goules intelligentes. Bien qu'elles aient récupéré un peu de cohésion bien trop tard pour aider au lendemain de l'explosion, les goules ont été remplies d'un nouveau but : défendre ce qu'elles détenaient. Convaincus que presque tous les Hommes qu'ils rencontraient étaient des ennemis, la dernière patrouille est devenue incroyablement défensive de sa petite partie de l'Oklahoma."
 
   #CHC
- the_chained_choir:9 "A Powerful Chorus"
- the_chained_choir_desc:9 "Since the Great War, The Chained Choir have writhed against the machinery that holds them in place: machinery that was disrupted, but far from destroyed, by the bombs that fell around them. Over the centuries since, they've tried in vain to break free from the horrendous pre-War experiments that hold them in place. Try as they might, they cannot break the bonds. Instead, they can only influence the world around them through their song. Singing from The Chapel, the Chained Choir weaves reality to their will, singing in unison intertwine their individual psychic energies."
- the_possessed_protect:9 "The Possessed Protect"
- the_possessed_protect_desc:9 "One of the songs sung by the Choir is that of seduction. Through their song, the Choir can enter the minds of those close to The Chapel: forcing them to do their bidding. Try as they might, these creatures have been unable to break into The Chapel to free the Choir. Nevertheless, the Possessed prove useful to the Choir, allowing them to more directly influence the land around The Chapel. Fiercely obedient to their Choir, the Possessed will protect The Chapel to the last."
- the_possessed_protect_tt:9 "\n§OThe Possessed§! possess only rudimentary intelligence and, when controlled by the Choir in large quantities, have the technological know-how of a tribal. As a result, our military technologies are §Rlocked§! at §Otribal§! tiers."
+ the_chained_choir:9 "Un Chœur Puissant"
+ the_chained_choir_desc:9 "Depuis la Grande Guerre, Le Chœur Enchaîné s'est heurté à la machinerie qui les maintient en place : une machinerie qui a été perturbée, mais loin d'être détruite, par les bombes qui sont tombées autour d'eux. Au cours des siècles qui ont suivi, ils ont essayé en vain de se libérer des horribles expériences d'avant-guerre qui les maintiennent en place. Malgré tous leurs efforts, ils ne peuvent pas rompre les liens. Au contraire, ils ne peuvent influencer le monde qui les entoure que par leur chant. Chantant depuis la Chapelle, Le Chœur Enchaîné tisse la réalité à leur volonté, les chants à l'unisson entremêlent leurs énergies psychiques individuelles."
+ the_possessed_protect:9 "Les Possédés Protègent"
+ the_possessed_protect_desc:9 "L'une des chansons chantées par la Chorale est celle de la séduction. Par son chant, la Chorale peut entrer dans l'esprit des proches de La Chapelle : les forcer à faire leur part. Malgré tous leurs efforts, ces créatures n'ont pas réussi à pénétrer dans la Chapelle pour libérer le Chœur. Néanmoins, les Possédés s'avèrent utiles au Chœur, leur permettant d'influencer plus directement les terres autour de la Chapelle. Férocement obéissants à leur chœur, les Possédés protégeront la Chapelle jusqu'au bout."
+ the_possessed_protect_tt:9 "\n§GLes Possédés§! ne possèdent qu'une intelligence rudimentaire et, lorsqu'ils sont contrôlés en grande quantité par le Chœur, possèdent le savoir-faire technologique d'une tribu. En conséquence, nos technologies militaires sont §Rbloqués§! à des niveaux §Otribaux§!"
 
   #PAR
- warriors_of_the_rock:9 "Warriors of the Rock"
- warriors_of_the_rock_desc:9 "As the young of Painted Rock begin puberty, all must face the Trials of the Rock, embarking on a week-long spiritual journey testing their physical ability and mental resolve. Those that survive will grow to be might warriors indeed. The rest? The Rock takes its sacrifice."
- ancestral_mesa_paintings:9 "Ancestral Paintings on the Mesa"
- ancestral_mesa_paintings_desc:9 "For generations our tribe has been drawing on the cliff faces of the Painted Rock mesa, recording in detail the tradition and history of the tribe in visual form. Through this knowledge, we can learn on our past mistakes and become stronger warriors."
+ warriors_of_the_rock:9 "Guerriers du Rocher"
+ warriors_of_the_rock_desc:9 "Alors que les jeunes de Painted Rock commencent leur puberté, tous doivent faire face aux épreuves du Rock, s'engageant dans un voyage spirituel d'une semaine mettant à l'épreuve leurs capacités physiques et leur détermination mentale. Ceux qui survivront deviendront de véritables guerriers. Le reste ? Le Rocher fait son sacrifice."
+ ancestral_mesa_paintings:9 "Peintures Ancestrales sur le Mesa"
+ ancestral_mesa_paintings_desc:9 "Depuis des générations, notre tribu dessine sur les parois des falaises du mesa Painted Rock, enregistrant en détail la tradition et l'histoire de la tribu sous forme visuelle. Grâce à ces connaissances, nous pouvons tirer les leçons de nos erreurs passées et devenir des guerriers plus forts."
 
   #GRH
- grh_eyes_south:9 "Eyes to the South"
- grh_eyes_south_desc:9 "We are continually preoccupied with the constant raider attacks on our South-Western border, leaving us with little time to care about the goings-on in Mexico."
- grh_guardian_of_north_america:9 "Guardian of North America"
- grh_guardian_of_north_america_desc:9 "Situated right on the border between Central and North America, Honduras was mostly spared from the horrors of direct nuclear attack that North America faced. As a result the Honduran government had time, if only a little, to prepare for the coming nuclear winter. Binding the military, civil service and emergency services tightly together, Honduras turned into something of a People's Militia. They suffered under the harsh years of radiation storms and nuclear snow, but less so than many others did across the globe. This was fortunate indeed, because less than half a century after the Great War the Hondurans would find themselves under attack from Central America. It appears other Central and Southern American nations were not so fortunate in their preparations, and had fallen into raider-driven anarchy. Periodically, these groups try and launch massed invasions of Honduras with the intent of pushing on to remnants of Mexico and America. Honduras has made it her duty to ensure they do not make it."
+ grh_eyes_south:9 "Yeux vers le Sud"
+ grh_eyes_south_desc:9 "Nous sommes continuellement préoccupés par les attaques constantes des raiders à notre frontière sud-ouest, ce qui nous laisse peu de temps pour nous occuper de ce qui se passe au Mexique."
+ grh_guardian_of_north_america:9 "Gardiens de l'Amérique du Nord"
+ grh_guardian_of_north_america_desc:9 "Situé à la frontière entre l'Amérique centrale et l'Amérique du Nord, le Honduras a été pour l'essentiel épargné par les horreurs des attaques nucléaires directes auxquelles l'Amérique du Nord était confrontée. En conséquence, le gouvernement hondurien a eu le temps, ne serait-ce qu'un peu, de se préparer à l'hiver nucléaire à venir. En liant étroitement l'armée, le service civil et les services d'urgence, le Honduras s'est transformé en une sorte de milice populaire. Ils ont souffert des dures années de tempêtes de radiation et de neige nucléaire, mais moins que beaucoup d'autres dans le monde. C'est une chance, car moins d'un demi-siècle après la Grande Guerre, les Honduriens se sont retrouvés sous les attaques de l'Amérique centrale. Il semble que les autres nations d'Amérique centrale et du Sud n'aient pas eu autant de chance dans leurs préparatifs, et soient tombées dans l'anarchie provoquée par les raiders. Périodiquement, ces groupes tentent de lancer des invasions massives du Honduras avec l'intention de s'attaquer aux restes du Mexique et de l'Amérique. Le Honduras s'est fait un devoir de veiller à ce qu'ils n'y parviennent pas."
 
   #LUB
- lub_ghoul_human_tensions:9 "Human-Ghoul Tensions"
- lub_ghoul_human_tensions_desc:9 "Lubbock is split in half. In the centre of town humans dominate, and around the airport the Ghouls' have their central clusters. Tension bubbles away under the surface due to the division, but much work has been done by Mayor Irving Watts to heal the long-held suspicion both sides held for each other. Without him, and the help provided by Lonestar, civil war may have gripped Lubbock long ago."
+ lub_ghoul_human_tensions:9 "Tensions Homme-Goule"
+ lub_ghoul_human_tensions_desc:9 "Lubbock est coupé en deux. Au centre de la ville, les humains dominent, et autour de l'aéroport, les \"Goules\" ont leurs groupes centraux. La tension s'évacue sous la surface à cause de la division, mais le maire Irving Watts a fait beaucoup de travail pour guérir la suspicion de longue date que les deux parties avaient l'une pour l'autre. Sans lui, et sans l'aide de Lonestar, la guerre civile aurait pu s'emparer de Lubbock il y a longtemps."
 
   #ASF
- asf_the_memorabilia:9 "The \"Memorabilia\""
- asf_the_memorabilia_desc:9 "The greatest mission of the Santa Fe Archdiocese is to preserve the \"Memorabilia\" of the Old World, writings that have survived the Great War and the Chaos that followed it. Through hiding, smuggling, memorizing and copying Old World writings, they have made great strides to the day."
- asf_legacy_of_saint_leibowitz:9 "The Legacy of Saint Leibowitz"
- asf_legacy_of_saint_leibowitz_desc:9 "Saint Leibowitz was an electrical engineer before the Great War. When the bombs fell he fled the military base he worked in, seeking refuge from the nuclear fire in one of the Churches of the Archdiocese of Santa Fe. There he became a monk in the order, becoming one of the Archdiocese's best agents. Betrayed by his close friend, Leibowitz became a Martyr. Years later, he was canonized by the 102nd Archbishop in recognition for his work protecting valuable remnants of the Old World. The monks continue to guard his relics, but would rather lose their lives than see them lost."
+ asf_the_memorabilia:9 "Les \"Memorabilias\""
+ asf_the_memorabilia_desc:9 "La plus grande mission de l'Archidiocèse de Santa Fe est de préserver les \"Memorabilias\" de l'Ancien Monde, les écrits qui ont survécu à la Grande Guerre et au chaos qui l'a suivie. En cachant, en faisant de la contrebande, en mémorisant et en copiant les écrits de l'Ancien Monde, ils ont fait de grands progrès jusqu'à aujourd'hui."
+ asf_legacy_of_saint_leibowitz:9 "L'Héritage de Saint Leibowitz"
+ asf_legacy_of_saint_leibowitz_desc:9 "Saint Leibowitz était ingénieur électricien avant la Grande Guerre. Lorsque les bombes sont tombées, il a fui la base militaire dans laquelle il travaillait, cherchant refuge contre le feu nucléaire dans l'une des églises de l'Archidiocèse de Santa Fe. Là, il est devenu moine dans l'ordre, devenant l'un des meilleurs agents de l'Archidiocèse. Trahi par son ami proche, Leibowitz est devenu un martyr. Des années plus tard, il fut canonisé par le 102e archevêque en reconnaissance de son travail de protection des précieux vestiges de l'Ancien Monde. Les moines continuent à garder ses reliques, mais préfèrent perdre la vie que de les voir disparaître."
 
 
   #EDA
- EDA_ufo_defense:9 "Defense Against the Zetans!"
- EDA_ufo_defense_desc:9 "[EDA.GetName] claims they protect the Earth against demons from the stars, who gaze upon the earth with cold, covetous eyes. Since nobody else has seen these creatures, their subjects tend to be skeptical. In quiet."
- EDA_secrets:9 "Classified Information"
- EDA_secrets_desc:9 "[EDA.GetLeader] claims to have information that the world was not meant to know. Although few believe they have an 'extreme wormhole,' it is undeniable that they know more than most Wastelanders."
+ EDA_ufo_defense:9 "Défense contre les Zétans !"
+ EDA_ufo_defense_desc:9 "[EDA.GetName] affirme qu'ils protègent la Terre contre les démons des étoiles, qui regardent la Terre avec des yeux froids et cupides. Comme personne d'autre n'a vu ces créatures, leurs sujets ont tendance à être sceptiques. Dans le calme."
+ EDA_secrets:9 "Informations Classifiées"
+ EDA_secrets_desc:9 "[EDA.GetLeader] prétend avoir des informations que le monde n'est pas censé connaître. Bien que peu de gens croient qu'ils ont un \"trou de ver extrême\", il est indéniable qu'ils en savent plus que la plupart des habitants des Terres Désolées."
 
   #WHI
- whi_burden_of_a_nation:9 "Burden of a Nation"
- whi_burden_of_a_nation_desc:9 "After the massacre of the Elders of the Whistler at the hands of the Kamlo Survivalists, it fell upon the young to continue the memories of their tribe. Lacking the years of experience necessary to properly assume this duty, the burdens of ruling weigh heavily on the young administration. Often sacrifices need to be made in order to ensure Whistler's heritage is continued."
- whi_bitter_resistance:9 "Bitter Resistance"
- whi_bitter_resistance_desc:9 "We know those from Kamlo will come once more for our women and children, determined to strip us of our wealth and family. We must be prepared for that day, and make we are ready to crush them before they can repeat the horrors of our last conflict."
+ whi_burden_of_a_nation:9 "Le Fardeau d'une Nation"
+ whi_burden_of_a_nation_desc:9 "Après le massacre des Aînés des Siffleurs par des Survivalistes de Kamlo, il incombait aux jeunes de perpétuer les souvenirs de leur tribu. Faute de disposer des années d'expérience nécessaires pour assumer correctement ce devoir, les charges de la gouvernance pèsent lourdement sur la jeune administration. Il faut souvent faire des sacrifices pour assurer la pérennité de l'héritage des Siffleurs."
+ whi_bitter_resistance:9 "Résistance Amère"
+ whi_bitter_resistance_desc:9 "Nous savons que ceux de Kamlo viendront une fois de plus pour nos femmes et nos enfants, déterminés à nous dépouiller de notre richesse et de notre famille. Nous devons nous préparer à ce jour, et faire en sorte d'être prêts à les écraser avant qu'ils ne puissent répéter les horreurs de notre dernier conflit."
 
   #KAM
- kam_sourge_of_the_whiteout:9 "Scourge of the Whiteout"
- kam_sourge_of_the_whiteout_desc:9 "The Kamlo Survivalists know only the ways of surviving in the wasteland: terror and extortion. By ruling with an iron fist over the few settlements in the Great White Wastes of Canada, they eke out a living. But some of them wonder if there is more to life in the fat, warm lands to the south. And they will go and find it."
+ kam_sourge_of_the_whiteout:9 "Le Fléau du Voile Blanc"
+ kam_sourge_of_the_whiteout_desc:9 "Les Survivalistes de Kamlo ne connaissent que ces moyens de survivre dans les Terres Désolées : la terreur et l'extorsion. En régnant d'une main de fer sur les quelques colonies des Terres Dévastées du Canada, ils gagnent leur vie. Mais certains d'entre eux se demandent s'il y a plus à vivre dans les terres chaudes et grasses du sud. Et ils iront le trouver."
 
   #DRE
- dre_mining_economy:9 "Mining Economy"
- dre_mining_economy_desc:9 "A union of varying mining settlements across what was once British Columbia, the Dredgers make a living from the resources buried deep beneath their settlements. Making use of robots to both mine the resources vital to their trade, to defend their lands, the Dredgers have become a refuge for settlers and robots alike fleeing the terrors of the Kamlo Survivalists and Broken Coast."
+ dre_mining_economy:9 "Économie Minière"
+ dre_mining_economy_desc:9 "Les Dredgers, une union de diverses colonies minières à travers ce qui était autrefois la Colombie-Britannique, vivent des ressources enfouies profondément sous leurs colonies. Utilisant des robots pour exploiter les ressources vitales pour leur commerce et pour défendre leurs terres, les Dredgers sont devenus un refuge pour les colons et les robots qui fuient les terreurs des survivants de Kamlo et de Broken Coast."
 
   #VIC
- vic_strait_of_georgia_defence_fleet:9 "Strait of Georgia Defence Fleet"
- vic_strait_of_georgia_defence_fleet_desc:9 "The main defence between New Victoria and her enemies is the Strait of Georgia, flanking New Victoria to the North and East. By maintaining a fast and nimble fleet, we can defend our shores against the raiders and tribals that infest Canada until we can find our strength to return."
- vic_cascadian_heriatge:9 "Cascadian Heritage"
- vic_cascadian_heriatge_desc:9 "Ruled by a monarchy that descends from Old World Canadian Politicians, New Victoria can claim descent from both Canada and Cascadia due to the monarchys' old ties."
- can_form_cascadia_tt:9 "Can form §RCascadia§!, should we own all §Ocores§! of the §OBroken Coast§!."
+ vic_strait_of_georgia_defence_fleet:9 "Flotte de Défense du Détroit de Géorgie"
+ vic_strait_of_georgia_defence_fleet_desc:9 "La principale défense entre la Nouvelle Victoria et ses ennemis est le détroit de Géorgie, qui longe la Nouvelle Victoria au nord et à l'est. En maintenant une flotte rapide et agile, nous pouvons défendre nos côtes contre les pilleurs et les tribus qui infestent le Canada jusqu'à ce que nous trouvions la force de revenir."
+ vic_cascadian_heriatge:9 "Héritage Cascadien"
+ vic_cascadian_heriatge_desc:9 "Dirigée par une monarchie qui descend des politiciens canadiens de l'Ancien Monde, la Nouvelle Victoria peut prétendre descendre à la fois du Canada et de la Cascadie en raison des liens anciens entre les deux monarchies."
+ can_form_cascadia_tt:9 "Peut former §RCascadia§!, si nous possédons tous les §Ocores§! de la §OCôte Brisée§!"
 
   #RAP
- rap_riding_the_white_water:9 "Riding the White Water"
- rap_riding_the_white_water_desc:9 "Born and raised on the white water of the Southern Colorado, everyone in the tribe knows how to handle a boat. As a result, the tribe is incredibly skilled on the water."
- rap_fiercely_independent:9 "Fierce Independence"
- rap_fiercely_independent_desc:9 "The Rapids base their tribal beliefs around the water that flows down the Colorado. Removing them from their homeland will be no easy feat."
+ rap_riding_the_white_water:9 "Surfer sur l'Eau Vive"
+ rap_riding_the_white_water_desc:9 "Né et élevé sur les eaux vives du Colorado du sud, tout le monde dans la tribu sait comment manier un bateau. Par conséquent, la tribu est incroyablement habile sur l'eau."
+ rap_fiercely_independent:9 "Indépendance Féroce"
+ rap_fiercely_independent_desc:9 "Les Rapids fondent leurs croyances tribales sur l'eau qui coule dans le Colorado. Les éloigner de leur terre natale ne sera pas chose facile."
 
   #TWO
- two_worship_of_nas:9 "Worship of Nas"
- two_worship_of_nas_desc:9 "The deities of Nas, residing in the Great Raceways, gave the people of Two Sun the great gift of the Motor may decades ago. The gods of Nas have over the years taught those of Two Sun their secrets, granting them an intimate understanding of the miracle of the combustion engine."
- two_masters_of_the_motor:9 "Masters of the Motor"
- two_masters_of_the_motor_desc:9 "One of the greatest gifts the deities of Nas bestowed on the people of Two Sun was that of the Motor. With it the Two Sun could build vehicles worthy of driving the Great Raceways, and rule the Southern Arizona wastes in the process."
+ two_worship_of_nas:9 "Culte de Nas"
+ two_worship_of_nas_desc:9 "Les divinités de Nas, résidant dans les Grands Chemins de Fer, ont fait au peuple des Two Suns le grand cadeau du Moteur il y a plusieurs décennies. Les dieux de Nas ont, au fil des ans, enseigné leurs secrets à ceux de Deux-Soleils, leur permettant ainsi de comprendre le miracle du moteur à combustion."
+ two_masters_of_the_motor:9 "Maîtres de l'Automobile"
+ two_masters_of_the_motor_desc:9 "L'un des plus grands cadeaux que les divinités de Nas ont offert au peuple des Two Suns était celui du Moteur. Grâce à lui, les Two Suns pouvaient construire des véhicules dignes de rouler sur les Grands Chemins de Fer, et ainsi régner sur les Terres Dévastées du sud de l'Arizona."
 
   #PER
- per_thrill_of_the_hunt:9 "Thrill of the Hunt"
- per_thrill_of_the_hunt_desc:9 "Stalking the many horrendously mutated animals that reside in the Southern Texan marshes, the Pursuant have made their name for being skilled hunters who enjoy the thrill of the chase."
- per_stalking_man:9 "Stalking Man"
- per_stalking_man_desc:9 "Horrendous mutated animals aren't the only thing the Pursuant stalks: humans are also very much on the hit-list. No human is safe in the southern marshes."
+ per_thrill_of_the_hunt:9 "Plaisir de la Chasse"
+ per_thrill_of_the_hunt_desc:9 "En traquant les nombreux animaux horriblement mutés qui vivent dans les marais du sud du Texan, les Pursuants se sont fait un nom comme étant des chasseurs habiles qui aiment le frisson de la chasse."
+ per_stalking_man:9 "L'Homme qui Traque"
+ per_stalking_man_desc:9 "Les horribles animaux mutés ne sont pas la seule chose que les tiges Pursuant traquent : les humains sont également très présents sur la liste des victimes. Aucun humain n'est à l'abri dans les marais du sud."
 
   #TFR
- tvr_protected_by_the_rio_lerma:9 "Protected by the Rio Lerma"
- tvr_protected_by_the_rio_lerma_desc:9 "Our mighty trade empire stands on the opposite bank of the Rio Lerma to the Aztlan. So long as we can defend the river, this affords us considerable security."
- tvr_the_merchant_class:9 "The Merchant Class"
- tvr_the_merchant_class_desc:9 "The vast majority of our ruling class comes from merchants who left the Aztlan Empire after their defeat at the hands of Tlaloc. As a result, we are remarkably efficient at all matters pertaining to trade."
+ tvr_protected_by_the_rio_lerma:9 "Protégé par le Rio Lerma"
+ tvr_protected_by_the_rio_lerma_desc:9 "Notre puissant empire commercial se trouve sur la rive opposée du Rio Lerma à l'Aztlan. Tant que nous pouvons défendre le fleuve, cela nous procure une sécurité considérable."
+ tvr_the_merchant_class:9 "La Classe Marchande"
+ tvr_the_merchant_class_desc:9 "La grande majorité de notre classe dirigeante vient de marchands qui ont quitté l'Empire Aztlan après leur défaite aux mains de Tlaloc. Par conséquent, nous sommes remarquablement efficaces pour tout ce qui concerne le commerce."
 
   # UIN
- uin_ute_heritage:9 "Ute Heritage"
- uin_ute_heritage_desc:9 "The town of Eagle Rock is primarily composed of wastelanders and refugees from the disgraced tribes of the Daughters of Hecate. There is, however a signifiant population here that originated from the Uintah Reservation, one of the ancient homes of the Ute people."
- uin_eagle_rock_airfield:9 "Eagle Rock Airfield"
- uin_eagle_rock_airfield_desc:9 "When settlers began arriving to the abandoned town of Eagle Rock they discovered a airfield there. For many tribals they saw great potential in being able to soar above the skies and see what lies beyond the clouds. To the tribals of Eagle Rock the sky is a safe haven - the great Zephyr protecting you from harm, worries or troubles while in their embrace."
+ uin_ute_heritage:9 "Patrimoine Ute"
+ uin_ute_heritage_desc:9 "La ville d'Eagle Rock est principalement composée de Terres Désolées et de réfugiés des tribus disgraciées des Filles d'Hécate. Il y a cependant une population importante ici qui provient de la réserve de l'Uintah, l'une des anciennes maisons du peuple Ute."
+ uin_eagle_rock_airfield:9 "Aérodrome d'Eagle Rock"
+ uin_eagle_rock_airfield_desc:9 "Lorsque les colons ont commencé à arriver dans la ville abandonnée d'Eagle Rock, ils y ont découvert un aérodrome. Pour de nombreuses tribus, ils ont vu un grand potentiel dans le fait de pouvoir s'élever au-dessus des cieux et de voir ce qui se trouve au-delà des nuages. Pour les tribus d'Eagle Rock, le ciel est un havre de paix - le grand Zéphyr vous protégeant du mal, des soucis ou des ennuis lorsqu'il vous étreint."
   #YAK
- yak_the_forest_of_the_elders:9 "The Forest of the Elders"
- yak_the_forest_of_the_elders_desc:9 "Much of the Yakama Nation's traditional land is covered in vast timber forests. Many trees in the forest were planted by Elders of the tribe, and each generation of the Nation maintains the forest for future generations."
- yak_living_from_the_land:9 "Living from the Land"
- yak_living_from_the_land_desc:9 "The Yakama are skilled at living from the land they reside in, being used to moving around their lands depending on the season of the year and location of food. These traditions make the Nation's warriors skilled at making use of what they have."
+ yak_the_forest_of_the_elders:9 "La Forêt des Anciens"
+ yak_the_forest_of_the_elders_desc:9 "La plupart des terres traditionnelles de la nation Yakama sont couvertes de vastes forêts de bois. De nombreux arbres de la forêt ont été plantés par les anciens de la tribu, et chaque génération de la nation entretient la forêt pour les générations futures."
+ yak_living_from_the_land:9 "Vivre de la Terre"
+ yak_living_from_the_land_desc:9 "Les Yakama sont habiles à vivre de la terre où ils résident, étant habitués à se déplacer sur leurs terres en fonction de la saison de l'année et du lieu où se trouve la nourriture. Ces traditions font que les guerriers de la nation sont capables d'utiliser ce qu'ils ont."
 
   #TCA
- tca_a_temporary_mandate:9 "A Temporary Mandate"
- tca_a_temporary_mandate_desc:9 "The so-called \"Unity Council\", headed by Abel and supported by both the Brotherhood Exiles and the Wardens of the North, has never pretended to be a permanant solution to the North-West's problems. Formed for the sole purpose of ensuring survival until such a time as the rogue Washington Chapter is defeated and Capitol Hill is reclaimed, the Council has little if any political influence. Instead, it serves a symbol of the resistance, and binds people to the Cause."
- tca_a_temporary_mandate_tt:9 "\nUpon the defeat of the §YWashington Brotherhood§! and our reclemation of §YCapitol Hill§!, we will gain access to §Oformable nation decisions§!."
- tca_brotherhood_exiles:9 "Brotherhood Exiles"
- tca_brotherhood_exiles_desc:9 "Few survived the Immortal's bloody purge of the Washington Brotherhood's leadership in Seattle. Those who managed to avoid a laser bolt to the head fled south, to the remnants of Portland, to attempt to make sense of the fate that had befalen their beloved Chapter. In the ruins of Fort Willamette the group elected Abel their new Elder, and began eeking out an existance in what remained of the city. Many of the self-styled \"Exiles\" quietly harbour the hope that they will one day recapture Capitol Hill, and restore faith in the Brotherhood's name."
- tca_wardens_of_the_white:9 "Wardens of the White"
- tca_wardens_of_the_white_desc:9 "The \"Wardens of the White\" are a paramiliaty militia who do their best to keep the ruins of Portland safe from raiders and cannibals. Once they were able to protect most of the city, but their numbers have dwindles from constant skirmishes with the Washington Brotherhood and the Rib Breakers. Initially the Wardens clashed with the Brotherhood Exiles in Fort Willamette, but the two groups quickly realised they shared many common foes: especially after the Warden's loss of Downtown Portland to Port Maw slavers mere moths prior. The Wardens excell in winter and urban warfare, which compliments the Brotherhood's Power Armour doctrine nicely."
- tca_brotherhood_reforged:9 "A Brotherhood Reforged"
- tca_brotherhood_reforged_desc:9 "Following the successful reconquest of Capitol Hill from the tyrant that was the Immortal, the Northwestern Brotherhood has set itself on a more moderate course of unity and prosperity. It will take time for the Brotherhood to regain the trust of the people of Washington again, but the new Chapter is certainly a damned sight better than the Immortal."
- tca_protectors_of_the_north:9 "Protectors of the North"
- tca_protectors_of_the_north_desc:9 "Once the last line of defence the settlers of Portland had against cannibals and slavers, the Wardens of the White have found a new home amongst the desolate ruins of Seattle. Bolstered by a swell of recruitment from across what once was Washington, the Wardens are a fearsome force once more."
+ tca_a_temporary_mandate:9 "Un Mandat Temporaire"
+ tca_a_temporary_mandate_desc:9 "Le soi-disant \"Conseil de l'Unité\", dirigé par Abel et soutenu par les exilés de la Confrérie et les Gardiens du Nord, n'a jamais prétendu être une solution permanente aux problèmes du Nord-Ouest. Formé dans le seul but d'assurer la survie jusqu'à la défaite du chapitre de Washington et la reconquête du Capitole, le Conseil n'a que peu ou pas d'influence politique. Au contraire, il sert de symbole de la résistance et lie les gens à la Cause."
+ tca_a_temporary_mandate_tt:9 "\nAprès la défaite de la §YConfrérie de Washington§! et notre réclusion de §YCapitol Hill§!, nous aurons accès aux décisions pour former une nouvelle nation."
+ tca_brotherhood_exiles:9 "Exilés de la Confrérie"
+ tca_brotherhood_exiles_desc:9 "Peu ont survécu à la purge sanglante de l'Immortel contre les dirigeants de la Confrérie de Washington à Seattle. Ceux qui ont réussi à éviter un coup de laser à la tête ont fui vers le sud, vers les restes de Portland, pour tenter de donner un sens au destin qui avait frappé leur cher chapitre. Dans les ruines du Fort Willamette, le groupe a élu Abel comme nouveau dirigeant et a commencé à chercher une existence dans ce qui restait de la ville. Beaucoup de ceux qui se disent \"exilés\" nourrissent l'espoir de reprendre un jour la colline du Capitole et de restaurer la foi dans le nom de la Confrérie."
+ tca_wardens_of_the_white:9 "Gardiens du blanc"
+ tca_wardens_of_the_white_desc:9 "Les \"Gardiens du Blanc\" sont une milice paramilitaire qui fait de son mieux pour protéger les ruines de Portland contre les pilleurs et les cannibales. Ils ont jadis pu protéger la plus grande partie de la ville, mais leur nombre a diminué à cause des escarmouches constantes avec la Confrérie de Washington et les Rib Breakers. Au début, les Gardiens ont affronté les Exilés de la Confrérie à Fort Willamette, mais les deux groupes ont rapidement réalisé qu'ils avaient beaucoup d'ennemis communs : surtout après la perte par les Gardiens du centre-ville de Portland au profit des esclavagistes de Port Maw, de simples papillons de nuit auparavant. Les Wardens excellent dans les combats d'hiver et les combats urbains, ce qui est un beau compliment pour la doctrine de l'Armure Assistée de la Confrérie."
+ tca_brotherhood_reforged:9 "Une Confrérie Réformée"
+ tca_brotherhood_reforged_desc:9 "Après la reconquête réussie du Capitole par le tyran qu'était l'Immortel, la Confrérie du Nord-Ouest s'est engagée dans une voie plus modérée d'unité et de prospérité. Il faudra du temps à la Confrérie pour regagner la confiance des habitants de Washington, mais le nouveau chapitre est certainement meilleur que l'Immortel."
+ tca_protectors_of_the_north:9 "Protecteurs du Nord"
+ tca_protectors_of_the_north_desc:9 "Les Gardiens du Blanc, qui constituaient la dernière ligne de défense des colons de Portland contre les cannibales et les négriers, ont trouvé un nouveau foyer parmi les ruines désolées de Seattle. Soutenus par une vague de recrutement en provenance de ce qui était autrefois Washington, les Wardens constituent à nouveau une force redoutable."
 
   #TOC
- toc_legacy_of_vault_100:9 "Legacy of Vault 100"
- toc_legacy_of_vault_100_desc:9 "Vault 100, built under pre-war Spokane, was one of the largest Vaults ever constructed by Vault-Tec. Designed to house over 1200 occupants, the Vault was purposefully built large to facilitate the twisted experiment run within its walls. Under the careful observation of the Overseer, radiation was purposefully let into the living quaters of a portion of the Vault's occupants. For the first decade the effects were unnoticable, but over time a significant minority of the Vault Dwellers slowly mutated into intelliigent ghouls. Those Dwellers who remained 'pure' grew horrified of their irradiated kin, and before long civil war broke out in the Vault. The ghouls gained the upper hand when they seized control of the Overseer's armoury, forcing the human faction to make their escape to the surface and flee east. Now, we remain in control of Spokane, but the ancestors of the humans who were hellbent on erradicating us seem to still want revenge."
- toc_the_last_homely_house:9 "The Last Homely House"
- toc_the_last_homely_house_desc:9 "The ruins of Spokane, and the home we have made for ourselves out of them, are widely aknowledged to be the last bastion of \"civilisation\" before the cold, dark plains of what once was Canada. As such, we're often the last nation prospectors, scrappers and budding adventurers stop off in before venturing out to the frozen north. Many of these travellers decide they'd actually quite like to stay in our land, rather than risk almost certain death for almost no benefit."
- toc_memories_of_a_future_past:9 "Memories of a Future Past"
- toc_memories_of_a_future_past_desc:9 "After the American invasion and annexation of Canada in 2072, Spokane blossomed into a central infrastructure and supply hub to facilitate the transport and upkeep of American troops in the North-West. As such, it attracted a number of intelligent minds to assist in the smooth opperation of logistics, construction and distribution. Many of these personelle were assigned positions in Vault 100 by the US Government, who deemed their skills vital to the rebuilding of America after a nuclear conflict. While many of these great minds were lost to civil war or the fleeting human lifespan, some live on as ghouls: remnants of a bygone era. Of those who survive, a sizable portion remember their past, and are determined to bring greatness back to Spokane."
- toc_memories_of_a_future_past_tt:9 "\nReconquering §YCoeur d'Alene§! and securing §YSpokane§! by defeating the §!Rotpurgers§! will grant us access to the decision to §OForm the Old Spokane State§!.\n"
+ toc_legacy_of_vault_100:9 "Héritage de l'Abri 100"
+ toc_legacy_of_vault_100_desc:9 "L'Abri 100, construit sous le Spokane d'avant-guerre, était l'un des plus grands abris  jamais construits par Vault-Tec. Conçue pour abriter plus de 1200 occupants, l'abri a été délibérément construite en grand pour faciliter l'expérience tordue menée dans ses murs. Sous l'observation attentive du Superviseur, des radiations ont été délibérément introduites dans les quartiers d'une partie des occupants de l'Abri. Pendant la première décennie, les effets étaient insignifiants, mais au fil du temps, une minorité importante des habitants de l'Abri s'est lentement transformée en goules intelligentes. Les habitants qui sont restés \"purs\" ont été horrifiés par leur famille irradiée, et avant qu'une longue guerre civile n'éclate dans l'Abri. Les goules prirent le dessus lorsqu'elles prirent le contrôle de l'armurerie du Superviseur, forçant la faction humaine à s'échapper à la surface et à fuir vers l'est. Aujourd'hui, nous gardons le contrôle de Spokane, mais les ancêtres des humains qui étaient déterminés à nous éradiquer semblent toujours vouloir se venger."
+ toc_the_last_homely_house:9 "La Dernière Maison Familiale"
+ toc_the_last_homely_house_desc:9 "Les ruines de Spokane, et la maison que nous nous sommes faite avec, sont largement reconnues comme étant le dernier bastion de la \"civilisation\" avant les plaines froides et sombres de ce qui était autrefois le Canada. À ce titre, nous sommes souvent les derniers prospecteurs, ferrailleurs et aventuriers en herbe de la nation à faire escale avant de s'aventurer dans le Nord glacé. Beaucoup de ces voyageurs décident qu'ils aimeraient bien rester sur nos terres, plutôt que de risquer une mort presque certaine sans aucun avantage."
+ toc_memories_of_a_future_past:9 "Souvenirs d'un Futur Passé"
+ toc_memories_of_a_future_past_desc:9 "Après l'invasion américaine et l'annexion du Canada en 2072, Spokane s'est transformé en une infrastructure centrale et un centre d'approvisionnement pour faciliter le transport et le maintien des troupes américaines dans le Nord-Ouest. En tant que tel, il a attiré un certain nombre d'esprits intelligents pour aider au bon fonctionnement de la logistique, de la construction et de la distribution. Nombre de ces personnes se sont vu attribuer des postes à l'Abri 100 par le gouvernement américain, qui a jugé leurs compétences vitales pour la reconstruction de l'Amérique après un conflit nucléaire. Alors que beaucoup de ces grands esprits ont été perdus dans la guerre civile ou dans la fugacité de la vie humaine, certains vivent encore comme des goules : des vestiges d'une époque révolue. Parmi ceux qui survivent, une grande partie se souvient de leur passé et est déterminée à ramener la grandeur à Spokane."
+ toc_memories_of_a_future_past_tt:9 "\nReconquérir §YCoeur d'Alene§! et de sécuriser §YSpokane§! en battant les §!Rotpurgers§! nous donnera accès à la décision de §OFormer l'Ancien État Spokane§!.\n"
 
   #ROT
- rot_legacy_of_vault_100:9 "Legacy of Vault 100"
- rot_legacy_of_vault_100_desc:9 "Vault 100, built under pre-war Spokane, was one of the largest Vaults ever constructed by Vault-Tec. Designed to house over 1200 occupants, the Vault was purposefully built large to facilitate the twisted experiment run within its walls. Under the careful observation of the Overseer, radiation was purposefully let into the living quaters of a portion of the Vault's occupants. For the first decade the effects were unnoticable, but over time a significant minority of the Vault Dwellers slowly mutated into intelliigent ghouls. Those Dwellers who remained 'pure' grew horrified of their irradiated kin, and before long civil war broke out in the Vault. The ghouls gained the upper hand when they seized control of the Overseer's armoury, forcing the human faction to make their escape to the surface. The humans fled east, where they vowed to have their revenge."
- rot_legacy_of_vault_100_tt:9 "\nReconquering §YSpokane§! and erradicating the §YOld Country§! will grant us access to the decision to §OForm the Grand Inquisition§!.\n"
- rot_eternal_quest:9 "The Eternal Quest of the Pure"
- rot_eternal_quest_desc:9 "Ever since out exile from Vault 100, our rightful home, we have been plotting our vengence. Armed with flamers, our prefered Ghoul-exterminating weapon, and three generations of training and planning, we are finally ready to reclaim our home. We will make Spokane §Rburn bright§! in the night, if that's what it takes to kill the ghouls once and for all."
- rot_eternal_quest_tt:9 "Our §Rhatred§! of those twisted by radiation means we §Rcannot§! choose to recruit any form of §Omutants§!.\n"
+ rot_legacy_of_vault_100:9 "L'Héritage d'Abri 100"
+ rot_legacy_of_vault_100_desc:9 "L'Abri 100, construit sous le Spokane d'avant-guerre, était l'un des plus grands abris jamais construits par Vault-Tec. Conçue pour abriter plus de 1200 occupants, l'abri a été délibérément construite en grand pour faciliter l'expérience tordue menée dans ses murs. Sous l'observation attentive du Superviseur, des radiations ont été délibérément introduites dans les quartiers d'une partie des occupants de l'Abri. Pendant la première décennie, les effets étaient insignifiants, mais au fil du temps, une minorité importante des habitants de l'Abri s'est lentement transformée en goules intelligentes. Les habitants qui sont restés \"purs\" ont été horrifiés par leur famille irradiée, et avant qu'une longue guerre civile n'éclate dans l'Abri. Les goules prirent le dessus lorsqu'elles prirent le contrôle de l'armurerie du Superviseur, forçant la faction humaine à s'échapper à la surface. Les humains ont fui vers l'est, où ils ont juré de se venger."
+ rot_legacy_of_vault_100_tt:9 "\nReconquérir §YSpokane§! et éradiquer le §YVieux Pays§! nous donnera accès à la décision de §OFormer la Grande Inquisition§!.\n"
+ rot_eternal_quest:9 "La Quête Éternelle des Purs"
+ rot_eternal_quest_desc:9 "Depuis notre exil de l'Abri 100, notre maison légitime, nous complotons notre vengence. Armés de lance-flammes, notre arme préférée d'extermination des goules, et après trois générations d'entraînement et de planification, nous sommes enfin prêts à reprendre notre maison. Nous allons faire briller Spokane §RBRULER§! dans la nuit, si c'est ce qu'il faut pour tuer les goules une fois pour toutes."
+ rot_eternal_quest_tt:9 "Notre §RHAINE§! de ceux qui sont tordus par les radiations signifie que nous §Rpouvons pas§! recruter toute forme de §Omutants§!.\n"
 
   #FIE
- fie_drug_monopoly:9 "Mojave Drug Monopoly"
- fie_drug_monopoly_desc:9 "The Fiends have a near total monopoly on the flow of chems throughout the Mojave, assisted by their suppliers from the Great Khans and New Reno. The chem trade is incredibly lucrative, especially when the locals of the Mojave live such a depressing life."
- fie_strength_in_numbers:9 "Strength in Numbers"
- fie_strength_in_numbers_desc:9 "What the Fiends may lack in brains or technological edge, they more than make up for in numbers. Strangely enough, there's no shortage of down-on-their-luck chem addicts in the waste that is the Mojave."
+ fie_drug_monopoly:9 "Monopole de la Drogue du Mojave"
+ fie_drug_monopoly_desc:9 "Les Fiends ont un monopole quasi total sur le flux de drogues dans tout le Mojave, aidés par leurs fournisseurs des Grands Khans et de New Reno. Le commerce des drogues est incroyablement lucratif, surtout lorsque les habitants du Mojave mènent une vie aussi déprimante."
+ fie_strength_in_numbers:9 "L'Union fait la Force"
+ fie_strength_in_numbers_desc:9 "Ce qui manque peut-être aux Fiends en termes de cerveau ou d'avance technologique, ils le compensent largement par leur nombre. Curieusement, ce ne sont pas les chimiodépendants qui manquent dans les dépotoirs du Mojave."
 
   #COW
- cow_remnants_of_rangers:9 "Remnants of the Arizona Rangers"
- cow_remnants_of_rangers_desc:9 "The Arizona Rangers, pledged to protecting the vulnerable from those who sought to subjugate them, have been fighting a decade-long conflict with Caesar's Legion and his brainwashed soldiers. While the Rangers were well trained and armed to the teeth, in the face of the Legion's overwhelming numbers they have been slowly forced to abandon more and more territory. After their defeat by the Malpais Legate in 2271, most of what remained of the Arizona Rangers fled over the Colorado to  join the New California Republic. A small splinter chose instead to flee south to the last group of free settlements in Arizona: afectionately dubbed 'Cowboy Country'. While far too few Rangers remain for the group to claim leadership over the area, their military training and spec-ops expertise has a significant impact on the Cowboy Country."
- cow_bastion_of_liberty:9 "Arizona's Last Bastion of Liberty"
- cow_bastion_of_liberty_desc:9 "The Legion has overrun Arizona, and threatens the life and liberty of everyone it claims overlordship over. While many refugees managed to flee from the Legion's armies, many more became slaves to Caesar's men. We must not let this happen to the men and women of the Cowboy Country: no matter the cost."
+ cow_remnants_of_rangers:9 "Restes des Arizona Rangers"
+ cow_remnants_of_rangers_desc:9 "Les Arizona Rangers, qui se sont engagés à protéger les personnes vulnérables contre ceux qui cherchent à les soumettre, se battent depuis dix ans contre la Légion de César et ses soldats au cerveau lavé. Alors que les Rangers étaient bien entraînés et armés jusqu'aux dents, face au nombre écrasant de la Légion, ils ont été lentement contraints d'abandonner de plus en plus de territoire. Après leur défaite face au Légat Malpais en 2271, la plupart de ce qui restait des Rangers d'Arizona s'est enfui par le Colorado pour rejoindre la Nouvelle République de Californie. Un petit groupe choisit plutôt de fuir vers le sud pour rejoindre le dernier groupe de colonies libres en Arizona, surnommé \"Cowboy Country\". Bien qu'il reste bien trop peu de Rangers pour que le groupe puisse revendiquer le leadership sur la région, leur formation militaire et leur expertise en matière de spec-ops ont un impact significatif sur le Cowboy Country."
+ cow_bastion_of_liberty:9 "Dernier Bastion de la Liberté en Arizona"
+ cow_bastion_of_liberty_desc:9 "La Légion a envahi l'Arizona, et menace la vie et la liberté de tous ceux dont elle revendique la suprématie. Alors que de nombreux réfugiés ont réussi à fuir les armées de la Légion, beaucoup d'autres sont devenus les esclaves des hommes de César. Nous ne devons pas laisser cela arriver aux hommes et aux femmes du Pays des Cowboys : quel qu'en soit le prix."
 
   #KLA
- KLA_gecko_abundance:9 "Gecko Abundance"
- KLA_gecko_abundance_desc:9 "Klamath earns enough money from trapping and skinning the near infinite supply of geckos to ensure the settlement survives and thrives. Some poor fools still fall victim to them, however."
- KLA_professional_trappers:9 "Professional Trappers"
- KLA_professional_trappers_desc:9 "While Klamath's residents are best equipped for trapping geckos, if push came to shove they could conceivably use their skills for other means. If the trap can kill a gecko, you don't want to imagine what it can do to some poor raider's leg..."
+ KLA_gecko_abundance:9 "Abondance de Gecko"
+ KLA_gecko_abundance_desc:9 "Klamath gagne suffisamment d'argent en piégeant et en écorchant la réserve quasi infinie de geckos pour assurer la survie et la prospérité de la colonie. Cependant, certains pauvres fous en sont encore victimes."
+ KLA_professional_trappers:9 "Trappeurs Professionnels"
+ KLA_professional_trappers_desc:9 "Si les habitants de Klamath sont les mieux équipés pour piéger les geckos, il est concevable qu'ils puissent utiliser leurs compétences pour d'autres fins. Si le piège peut tuer un gecko, vous ne voulez pas imaginer ce qu'il peut faire à la jambe d'un pauvre pillard..."
 
   #PMR
- PMR_slaves_and_drugs:9 "Slaves and Drugs"
- PMR_slaves_and_drugs_desc:9 "Port Maw's economy is driven almost completetly by the sale of slaves and drugs. While the trade may neither be moral nor terribly profitable, Port Maw's unqiue status as one of the few non-cannibal settlements in Oregan means they get a suprising amount of customers. After all, it's better to be hooked on Psyco than in a cannibal's stew."
- PMR_wannabe_criminal_empire:9 "Wannabe Criminal Empire"
- PMR_wannabe_criminal_empire_desc:9 "The gangs of Port Maw have their eyes set on a high prize: to be the hub of a vast criminal empire trading in slaves, smuggled goods and caps. Sadly they face a fair bit of competition, with drugs pouring out of The Den and New Reno, while slaves are readily traded along the northen coastlines. Regardless, the promise of future glory encourages swathes of desperate young people with no other life prospects to join the gangs. Poor buggers."
+ PMR_slaves_and_drugs:9 "Esclaves et Drogues"
+ PMR_slaves_and_drugs_desc:9 "L'économie de Port Maw est presque entièrement alimentée par la vente d'esclaves et de drogue. Bien que ce commerce ne soit ni moral ni terriblement rentable, le statut unique de Port Maw en tant que l'un des rares établissements non cannibales d'Oregon signifie qu'ils obtiennent une quantité surprenante de clients. Après tout, il vaut mieux être accro au Psycho qu'à un ragoût de cannibale."
+ PMR_wannabe_criminal_empire:9 "L'Empire Criminel Wannabe"
+ PMR_wannabe_criminal_empire_desc:9 "Les gangs de Port Maw ont les yeux rivés sur un objectif ambitieux : être la plaque tournante d'un vaste empire criminel faisant le commerce d'esclaves, de marchandises de contrebande et de capsules. Malheureusement, ils doivent faire face à une forte concurrence, la drogue s'écoulant de The Den et de New Reno, tandis que les esclaves sont facilement commercialisés le long des côtes du nord. Quoi qu'il en soit, la promesse d'une gloire future encourage des pans entiers de jeunes désespérés n'ayant aucune autre perspective de vie à rejoindre les gangs. \nPauvres bougres."
 
   #BEl
  bel_bellingham_for_battle:0 "Bataille pour Bellingham"
  bel_bellingham_for_battle_desc:9 "La ville de Bellingham, en raison de sa proximité avec le pipeline transalaskien, a été un lieu clé pendant le conflit américano-canadien. Beaucoup de Goules qui vivent aujourd'hui dans la ville se souviennent de ces batailles, et s'y sont même battus.\n\nElles n'ont pas de repos."
- bel_spirit_of_liberty:9 "Liberty's Lingering Spirit"
- bel_spirit_of_liberty_desc:9 "American propaganda was strong in the years before the Great War, leaving deep impressions on those who called America their home. Indeed, American propaganda was so strong that it still has a lasting effect on the ghouls of Bellingham some 200 years later. The emphasis on liberty, and American world dominance, have become key to Bellingham's fiercely independent culture."
+ bel_spirit_of_liberty:9 "L'Esprit de la Liberté"
+ bel_spirit_of_liberty_desc:9 "La propagande américaine était forte dans les années précédant la Grande Guerre, laissant une profonde impression sur ceux qui considéraient l'Amérique comme leur patrie. En effet, la propagande américaine était si forte qu'elle a encore un effet durable sur les goules de Bellingham quelque 200 ans plus tard. L'accent mis sur la liberté et la domination américaine dans le monde sont devenus la clé de la culture farouchement indépendante de Bellingham."
 
   #BLP / BVC
- baja_banditos:9 "Baja Banditos"
- baja_banditos_desc:9 "The two great criminal gangs of the Baja, the Paz Bandits and the Valle Bandits, are masters of their trade. Combining the experitse of the two gangs, and their skilled leaders, the \"Baja Banditos\" run an enourmous smuggling operation. Specialising in delivering guns and drugs from the Mexican cartels and warlords to the raider gangs of the NCR, the Banditos have made serious caps – and serious enemies..."
- blp_procurement_specialists:9 "Procurement Specialists"
- blp_procurement_specialists_desc:9 "As part of their partnership with the Valle Bandits, the Paz Bandits more or less completely handle the aquisition of illicit goods. The Paz Bandits have contacts that can get you slaves, drugs, guns or even addictive coffee. If you can name it, the Paz Bandits can find it for you: for the right price..."
- bvc_expert_smugglers:9 "Expert Smugglers"
- bvc_expert_smugglers_desc:9 "Nobody knows how to bribe an NCR trooper or avoid a Ranger patrol like the Valle Bandits do. From decades of smuggling experience, the Valle Bandits have had the NCR running rings around itself to try and clamp down on their illicit deliveries to Dayglow, the Boneyard and the Hub."
+ baja_banditos:9 "Banditos de Baja"
+ baja_banditos_desc:9 "Les deux grands gangs criminels de Baja, les Bandits du Paz et les Bandits de la Valle, sont maîtres de leur métier. Combinant l'expérience des deux gangs, et leurs chefs compétents, les \"Banditos de Baja\" mènent une énorme opération de contrebande. Spécialisés dans la livraison d'armes et de drogues des cartels et des chefs de guerre mexicains aux bandes de voleurs de la RNC, les Banditos se sont fait de sérieuses capsules - et de sérieux ennemis..."
+ blp_procurement_specialists:9 "Spécialistes des Marchés"
+ blp_procurement_specialists_desc:9 "Dans le cadre de leur partenariat avec les bandits de Valle, les bandits du Paz s'occupent plus ou moins complètement de l'acquisition de biens illicites. Les bandits du Paz ont des contacts qui peuvent vous procurer des esclaves, de la drogue, des armes à feu ou même du café qui crée une dépendance. Si vous pouvez le nommer, les bandits du Paz peuvent le trouver pour vous : pour le bon prix..."
+ bvc_expert_smugglers:9 "Contrebandiers Experts"
+ bvc_expert_smugglers_desc:9 "Personne ne sait comment soudoyer un soldat de la RNC ou éviter une patrouille de Rangers comme le font les bandits de Valle. Après des décennies d'expérience de la contrebande, les Valle Bandits ont fait tourner la RNC en rond pour tenter de mettre un terme à leurs livraisons illicites à Dayglow, au Boneyard et au Hub."
 
   #OLY
- oly_park_legacy:9 "Legacy of the National Park"
- oly_park_legacy_desc:9 "While the days of park rangers and guided tours are long gone, the cultural importance of orienteering and understanding nature remained empressed on the Olympus Tribe over the centuries since the Great War. Their knowledge of industry or construction may be basic to say the least, but nobody can out-maneuver the warriors of the Olympus Tribe."
- oly_nomadic_traditions:9 "Nomadic Traditions"
- oly_nomadic_traditions_desc:9 "After the bombs fell, many in Western Washington fled to the Olympus National Park to escape the nuclear hellfire that engulfed major cities. However, there was nowhere near enough houses to accomodate the influx of people, and instead everyone had to become used to a more nomadic lifestyle. As knowlegde of their past withered away between successive generations of apocalypse survivors, the importance of constantly moving and adapting remained core to the tribe."
+ oly_park_legacy:9 "Héritage du Parc National"
+ oly_park_legacy_desc:9 "Si l'époque des gardes forestiers et des visites guidées est révolue depuis longtemps, l'importance culturelle de la course d'orientation et de la compréhension de la nature est restée gravée dans l'esprit de la tribu de l'Olympe au cours des siècles qui ont suivi la Grande Guerre. Leur connaissance de l'industrie ou de la construction est peut-être pour le moins élémentaire, mais personne ne peut surpasser les guerriers de la tribu de l'Olympe."
+ oly_nomadic_traditions:9 "Traditions Nomades"
+ oly_nomadic_traditions_desc:9 "Après la chute des bombes, de nombreux habitants de l'ouest de Washington ont fui vers le parc national Olympus pour échapper au feu de l'enfer nucléaire qui a englouti les grandes villes. Cependant, il n'y avait pas assez de maisons pour accueillir l'afflux de population, et tout le monde a dû s'habituer à un mode de vie plus nomade. Alors que la connaissance de leur passé s'étiole entre les générations successives de survivants de l'apocalypse, l'importance de se déplacer et de s'adapter constamment reste au cœur de la tribu."
 
   #VIP
- vip_legacy_of_great_snake:9 "Legacy of the Great Snake"
- vip_legacy_of_great_snake_desc:9 "Decades before the Vipers were forced to flee California by the Brotherhood of Steel, the Vipers worshiped their Great Snake god. Their entire lives and cultures revolved around the Great Snake, and its poision: sacrifices were made to it, its poison was ritually cosumed and weapons were made smothered in its venom. While the \"Pit\", where the Great Snake resided, was destroyed by the Brotherhood when they finally drove the Vipers from California, fragments of the Vipers' old religion remains. One of the most important lessons that has survived the hard years the Vipers have wandered in the wasteland is regaarding survival of the fittest. Sure, some half-decent cannon fodder may die before their time, but this way the Vipers are strong."
- vip_a_broken_tribe:9 "A Shattered Tribe"
- vip_a_broken_tribe_desc:9 "When a band of Vipers set upon a patrolling group of the Brotherhood of Steel in 2155, they had no idea who they were making enemies with. In the resulting fight the leader of the small Brotherhood patrol group, a certain Maxson II, was struck and fatally injured by a poisoned arrow. Unfortunately for the Vipers, Maxson II was none other than the Brotherhood's High Elder: his death stirred the Brothehood up into a genocidal fury. By 2261, after 6 years of being hounded relentlessly by the Brotherhood, the Vipers finally shattered. Bands fled across America, with some settling in the Mojave, some in Nevada and some as far afield as the Hounds of Hectare. The Vipers are a mere shadow of their former selves."
+ vip_legacy_of_great_snake:9 "Héritage du Grand Serpent"
+ vip_legacy_of_great_snake_desc:9 "Des décennies avant que les Vipères ne soient forcées de fuir la Californie par la Confrérie de l'Acier, les Vipères vénéraient leur dieu Serpent géant. Toute leur vie et leur culture tournaient autour du Grand Serpent et de sa poésie : on lui faisait des sacrifices, son poison était rituellement parfumé et des armes étaient fabriquées, étouffées dans son venin. Si le \"Pit\", où résidait le Grand Serpent, a été détruit par la Confrérie lorsqu'elle a finalement chassé les Vipères de Californie, il reste des fragments de l'ancienne religion des Vipères. L'une des leçons les plus importantes qui ont survécu aux dures années où les Vipères ont erré dans les Terres Désolées est la survie des plus forts. Bien sûr, certains canons à demi-décents peuvent mourir avant leur heure, mais de cette façon, les Vipères sont fortes."
+ vip_a_broken_tribe:9 "Une Tribu Brisée"
+ vip_a_broken_tribe_desc:9 "Lorsqu'une bande de Vipers s'est attaquée à un groupe de patrouilleurs de la Confrérie de l'Acier en 2155, ils n'avaient aucune idée de qui ils se faisaient des ennemis. Dans le combat qui s'ensuivit, le chef du petit groupe de patrouille de la Confrérie, un certain Maxson II, fut frappé et mortellement blessé par une flèche empoisonnée. Malheureusement pour les Vipères, Maxson II n'était autre que le Haut Aîné de la Confrérie : sa mort a plongé la Confrérie dans une fureur génocidaire. En 2261, après 6 ans de harcèlement acharné par la Confrérie, les Vipères se sont finalement brisées. Les bandes s'enfuirent à travers l'Amérique, certaines s'installant dans le Mojave, d'autres dans le Nevada et d'autres encore jusqu'aux Hounds of Hectare. Les Vipers ne sont plus que l'ombre de ce qu'ils étaient."
 
   #PEC
- pec_animal_husbandry:9 "Animal Husbandry"
- pec_animal_husbandry_desc:9 "As far as post-apocalyptic farmsteads go, the Pecos Colony has some of the best. Blessed by their proximity to the Rio Grande river and the large cattle herds that grazed the area before the Great War, Pecos has survived and thrived through a heavy focus on cattle rearing. Their wealth of knowledge when it comes to post-apocalyptic animals makes them skilled hunters and influential brahmin herders: the Colony hosts almost as many Brahmin as it does people."
- pec_rancher_culture:9 "Rancher Culture"
- pec_rancher_culture_desc:9 "The men and women of Pecos are used to being on the move, herding their Brahmin across the Texan wastes. The few settlements in the Colony that do exist are mainly used for traiding, while the people are highly agile. If one settlement falls to raiders, the entire community can easily relocate with most of their worldly posessions."
+ pec_animal_husbandry:9 "Élevage d'Animaux"
+ pec_animal_husbandry_desc:9 "En ce qui concerne les fermes post-apocalyptiques, la colonie de Pecos compte parmi les meilleures. Bénéficiant de la proximité du fleuve Rio Grande et des grands troupeaux de bétail qui paissaient dans la région avant la Grande Guerre, la colonie de Pecos a survécu et prospéré grâce à l'importance accordée à l'élevage du bétail. Leur richesse de connaissances en matière d'animaux post-apocalyptiques en fait des chasseurs habiles et des éleveurs brahmanes influents : la colonie accueille presque autant de brahmanes que d'habitants."
+ pec_rancher_culture:9 "Culture Paysanne"
+ pec_rancher_culture_desc:9 "Les hommes et les femmes de Pecos ont l'habitude de se déplacer, de conduire leur brahmine à travers les Terres Dévastées du Texas. Les quelques installations qui existent dans la Colonie sont principalement utilisées pour le traiding, tandis que les gens sont très agiles. Si une colonie tombe aux mains des pilleurs, la communauté entière peut facilement se déplacer avec la plupart de ses possessions terrestres."
 
   #UMB
- umb_spiritual_guidance:9 "Guidance from the Spirits"
- umb_spiritual_guidance_desc:9 "Extreme believers in the idea that people remain spirits after death, the Umbran tribe reveres a wide variety of spirits and attributes many personality characteristics to their influence. These spirits guide the Umbran tribe, offering them advice and insights into the future. While how true these spirits' words are is somewhat debatable, the fundamental religious belief in their existance helps the Umbran tribe stay motivated like few others."
- umb_arroyo_trade:9 "Trade with Arroyo"
- umb_arroyo_trade_desc:9 "What started as a simple companionship between Sulik, an Umbran tribesman, and the Chosen One swiftly blossomed into a strong friendship between the two peoples. Arroyo and Umbra enjoy strong trade ties, with Umbra learning about \"civilised\" technology from Arroyo and Arroyo reaping the benefits of Umbra's strong hunter-gatherer skillset."
+ umb_spiritual_guidance:9 "L'Orientation des Esprits"
+ umb_spiritual_guidance_desc:9 "Extrêmement attachée à l'idée que les gens restent des esprits après la mort, la tribu des Ombres vénère une grande variété d'esprits et attribue à leur influence de nombreuses caractéristiques de la personnalité. Ces esprits guident la tribu Umbran, lui offrant des conseils et des perspectives d'avenir. Bien que la véracité des paroles de ces esprits soit quelque peu discutable, la croyance religieuse fondamentale en leur existence aide la tribu Umbran à rester motivée comme peu d'autres."
+ umb_arroyo_trade:9 "Commerce avec Arroyo"
+ umb_arroyo_trade_desc:9 "Ce qui a commencé comme une simple camaraderie entre Sulik, un membre de la tribu des Ombres, et l'Elu s'est rapidement transformé en une solide amitié entre les deux peuples. Arroyo et Umbra entretiennent des liens commerciaux étroits, Umbra apprenant la technologie \"civilisée\" auprès d'Arroyo et Arroyo profitant des solides compétences de chasseurs-cueilleurs d'Umbra."
 
   #TON
- ton_expert_cultivators:9 "Expert Cultivators"
- ton_expert_cultivators_desc:9 "The Tohono O'odham Nation has a proud history of studying and mastering their environment. From building complex irrigation systems to creating new methods of planting and harvesting, the O'odham are amongst the finest agricultural minds in the entire American wasteland. Their bountiful crop harvests ensure significant population growth, and are always developing new techniques to improve their farms."
- ton_seven_stars:9 "Eleven Stars"
- ton_seven_stars_desc:9 "The Great Seal of the Tohono O'odham Nation bears upon it eleven stars: one representing each of the eleven districts that compose the Nation. While the eleven joined together in harmony long before the Great War, after the bombs fell the Nation found a new sense of unity sparked by the necessity to survive the nuclear hell they would soon encounter. All eleven nations remain represented on the Legislative Council, and work together to ensure the saftey and prosperity of the Nation."
+ ton_expert_cultivators:9 "Cultivateurs Experts"
+ ton_expert_cultivators_desc:9 "La nation Tohono O'odham est fière de son histoire d'étude et de maîtrise de son environnement. De la construction de systèmes d'irrigation complexes à la création de nouvelles méthodes de plantation et de récolte, les O'odham comptent parmi les meilleurs esprits agricoles de toutes les Terres Désolées américaines . Leurs récoltes abondantes assurent une croissance démographique importante, et ils développent sans cesse de nouvelles techniques pour améliorer leurs exploitations."
+ ton_seven_stars:9 "Onze Étoiles"
+ ton_seven_stars_desc:9 "Le Grand Sceau de la Nation Tohono O'odham porte onze étoiles : une représentant chacun des onze districts qui composent la Nation. Alors que les onze s'unissaient en harmonie bien avant la Grande Guerre, après la chute des bombes, la Nation a trouvé un nouveau sens de l'unité suscité par la nécessité de survivre à l'enfer nucléaire qu'elle allait bientôt rencontrer. Les onze nations restent représentées au Conseil législatif et travaillent ensemble pour assurer la sécurité et la prospérité de la nation."
 
   #SHO
- sho_outcasts_once_again:9 "Outcasts Once More"
- sho_outcasts_once_again_desc:9 "For centuries after the arrival of European colonists in America, the Shoshone made their home in the rough terrain of the west. Of the many Shoshone groups, a significant number settled in Utah and southern Idaho, and achieved federal recognition in the late 1900s. Like many other Native American Nations and Tribes, the Shoshone fared resonably well in the post-apocalytic wasteland: their ancestoral teaching proved useful in an era of hunting and gathering, and the reservations the USA threw many native groups in were remarkably undamaged by nuclear hellfire. However, trouble began for the Shoshone in the decades after the nuclear ash began to settle. Utah and Idaho became stricken by religious wars: a huge variety of neo-christian groups, all with their own twisted interpretation of the bible, decided Utah should be theirs. Between the zealouts in Heavens Gate, the \"pious\" in High Chapel and the schism between Murtagah and the Lord's Annointed, the Shoshone found themselves being persecuted from all sides. Eventually the Shosone were forced to flee west, away from their ancestral land, where they remain plotting their next move."
- sho_snake_river_teachings:9 "Snake River's Teachings"
- sho_snake_river_teachings_desc:9 "The Snake River, running along the Shoshone's northern flank and stretching acorss Utah and Idaho, has provided the Shoshone with a reliable source of food and water for centuries. While they may have been expelled from their homeland, the Shoshone's continued access to the Snake River means they are far from clueless about how to survive."
+ sho_outcasts_once_again:9 "Une Fois de Plus"
+ sho_outcasts_once_again_desc:9 "Pendant des siècles après l'arrivée des colons européens en Amérique, les Shoshone ont élu domicile dans les terres accidentées de l'ouest. Parmi les nombreux groupes Shoshone, un nombre important s'est installé dans l'Utah et le sud de l'Idaho, et a obtenu la reconnaissance fédérale à la fin des années 1900. Comme beaucoup d'autres nations et tribus amérindiennes, les Shoshones ont connu un succès retentissant dans les Terres Désolées post-apocalyptiques : leur enseignement ancestral s'est révélé utile à l'époque de la chasse et de la cueillette, et les réserves dans lesquelles les Etats-Unis ont accueilli de nombreux groupes indigènes ont été remarquablement préservées de l'enfer nucléaire. Cependant, les Shoshone ont commencé à avoir des problèmes dans les décennies qui ont suivi le début de la sédimentation des cendres nucléaires. L'Utah et l'Idaho ont été frappés par des guerres de religion : une grande variété de groupes néo-chrétiens, tous avec leur propre interprétation tordue de la bible, ont décidé que l'Utah devait leur appartenir. Entre les zélotes de Heavens Gate, les \"pieux\" de High Chapel et le schisme entre Murtagah et le Lord's Annointed, les Shoshone se sont retrouvés persécutés de tous côtés. Finalement, les Shosone ont été forcés de fuir vers l'ouest, loin de leur terre ancestrale, où ils continuent à préparer leur prochain coup."
+ sho_snake_river_teachings:9 "Enseignements de Snake River"
+ sho_snake_river_teachings_desc:9 "La Rivière aux Serpents, qui longe le flanc nord des Shoshones et s'étend sur l'Utah et l'Idaho, a fourni aux Shoshones une source fiable de nourriture et d'eau pendant des siècles. Bien qu'ils aient été expulsés de leur pays, l'accès continu des Shoshones à la rivière Snake signifie qu'ils sont loin de ne pas savoir comment survivre."
 
   #MOS
- mos_storms_of_the_divide:9 "Storms of the Divide"
- mos_storms_of_the_divide_desc:9 "The "Divide" is the name of the settlements located near the old world ruins of Ashton and Hopeville. These ruins have been preserved due to the fact that strange storms constantly blanket the valley, keeping the scars of the old world laid bare and open."
+ mos_storms_of_the_divide:9 "Tempêtes du Divide"
+ mos_storms_of_the_divide_desc:9 "Le \"Divide\" est le nom des colonies situées près des ruines de l'Ancien Monde d'Ashton et de Hopeville. Ces ruines ont été préservées parce que d'étranges tempêtes couvrent constamment la vallée, laissant les cicatrices de l'ancien monde à nu et à découvert."
 
- mos_old_world_heritage:9 "Old World Heritage"
- mos_old_world_heritage_desc:9 "The Divide is so pristine that those living there can still find symbols and heraldry that the old world left behind."
+ mos_old_world_heritage:9 "Héritage du Vieux Monde"
+ mos_old_world_heritage_desc:9 "Le Divide est si vierge que ceux qui y vivent peuvent encore y trouver des symboles et de l'héraldique que l'ancien monde a laissés derrière lui."
