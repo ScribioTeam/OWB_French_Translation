@@ -1,0 +1,26 @@
+l_french:
+
+    ###############################
+    ##### LAC Custom Tooltips #####
+    ###############################
+
+ tt_lac_decimation_1:9 "§gNous limiterons nos pillages, en minimisant la destruction.§!"
+ tt_lac_decimation_2:9 "Nos troupes peuvent piller à leur guise, créant ainsi toutefois des dégâts importants."
+ tt_lac_decimation_3:9 "§RLes Légionnaires se verront assigner des objectifs et des quotas spécifiques pour le pillage et l'exploitation optimale des richesses de la terre.§!"
+
+ tt_lac_choose_crucify:9 "Opter pour la §Rcrucifixion§! des commandants ennemis apportera Gloire et §Grenforcera§! le moral pour un temps."
+ tt_lac_crucify_1:9 "§gLa plèbe tolérera cette quantité de crucifixions.§!"
+ tt_lac_crucify_2:9 "Beaucoup de plébéiens nous causeront des ennuis pour tant de crucifixions."
+ tt_lac_crucify_3:9 "§RNous mettrons la plèbe en colère, mais notre hégémonie sera incontestée là où se tiennent les croix.§!"
+
+
+ tt_lac_choose_recruit:9 "Opter pour §Grecruter§! les commandants ennemis augmentent notre puissance et notre magnanimité, mais cela §Rbaissera§! le moral des troupes pour un temps."
+ tt_lac_recruit_1:9 "§gUn commandant ennemi formé servira Lanius et lui fournira son expertise, mais nos hommes feront du bruit.§!"
+ tt_lac_recruit_2:9 "Notre nouveau commandant apportera des troupes à s'assimiler à nos rangs, mais nos hommes auront besoin de temps pour s'adapter."
+ tt_lac_recruit_3:9 "§RUne nouvelle cohorte et son commandant seront enrôlés, en utilisant leurs vieilles tactiques, ce qui toutefois bouleversera grandement nos Légionnaires.§!"
+
+ tt_lac_choose_tribute:9 "Rendre Hommage à César nous apporte de la Gloire mais aussi peu de choses à côté."
+ tt_lac_ces_tribute:9 "Lanius s'est acquitté de ses obligations, à nous de le faire."
+
+ tt_lac_choose_demand:9 "Demander un Triomphe à César, en échange de notre Hommage, qui a permis Gloire et richesses à profusion."
+ tt_lac_ces_triumph:9 "Les exigences de Lanius sont raisonnables, mais troublantes: son Triomphe sera organisé, §Rmais nous devrions garder un oeil sur lui.§!"
