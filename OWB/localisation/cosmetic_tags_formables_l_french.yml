@@ -1,5 +1,17 @@
 ﻿l_french:
- # Deseret
+ state_oklahoma_elites_ADJ:9 "Oklahoma"
+ state_oklahoma_elites_DEF:9 "Oklahoma"
+ state_oklahoma_elites:9 "Oklahoma"
+ state_oklahoma_intellectuals_ADJ:9 "Oklahoma"
+ state_oklahoma_intellectuals_DEF:9 "Oklahoma"
+ state_oklahoma_intellectuals:9 "Oklahoma"
+ state_oklahoma_people_ADJ:9 "Oklahoma"
+ state_oklahoma_people_DEF:9 "Oklahoma"
+ state_oklahoma_people:9 "Oklahoma"
+ state_oklahoma_ruler_ADJ:9 "Oklahoma"
+ state_oklahoma_ruler_DEF:9 "Oklahoma"
+ state_oklahoma_ruler:9 "Oklahoma"
+
  MOJ_cosmetic_elites_ADJ:0 "Confrérie d'Helios"
  MOJ_cosmetic_elites_DEF:0 "la Confrérie d'Helios"
  MOJ_cosmetic_elites:0 "Confrérie d'Helios"
@@ -18,7 +30,7 @@
  GDH_costa_people_DEF:0 "Costa Del Sol"
  GDH_costa_elites:0 "Costa Del Sol"
  GDH_costa_elites_ADJ:0 "Costa Del Sol"
- GDH_costa_elites_DEF:0 "l'État du Deseret"
+ GDH_costa_elites_DEF:9 "Costa Del Sol"
  GDH_costa_ruler:0 "Costa Del Sol"
  GDH_costa_ruler_ADJ:0 "Costa Del Sol"
  GDH_costa_ruler_DEF:0 "Costa Del Sol"

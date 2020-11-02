@@ -32,8 +32,8 @@
  nf_mot.8.b:9 "We simply don't have the manpower to spare."
  nf_mot.9.t:9 "A Coming Storm"
  nf_mot.9.d:9 "A great conflict is coming. From the Mojave Defence Committee to the lowest NCR troopers, everybody knows that a mighty foe lies across the Colorado. Our camps across the Colorado have already clashed with this foe multiple times, and it is only a matter of time before they are assaulted in force. Their objective will be, without doubt, the Hoover Dam: what better way to please a warlord than capturing one of the greatest man-made structures in America for him? We've long known that conflict will come to the Hoover Dam, but not the direction it would come from. Now, we can start making a concrete plan for the defence of the Dam from the Legion's hoards, and the Mojave Defence Committee is brimming with ideas on how to fight them off effectively. \n\nThe two strongest voices, General Oliver and Chief Hanlon, have rallied supporters around their two contrasting ideas. General Oliver advocates for the total defence of the Hoover Dam, fortifying it significantly and funneling the Legion's overwhelming numbers into a narrow area. Chief Hanlon, meanwhile, belives the Dam to be poorly defencible at best: instead, he believes the real fight will be over Boulder City, where the Legion could be tricked into an explosive trap. Both ideas have their strengths and weaknesses, but only one can be approved by the Committee..."
- nf_mot.9.a:9 "The Dam must hold!"
- nf_mot.9.b:9 "Prepare to hold Boulder City..."
+ nf_mot.9.a:9 "The Dam Must Hold!"
+ nf_mot.9.b:9 "Fortify Boulder City"
  nf_mot.10.t:9 "Dust and Debris"
  nf_mot.10.d:9 "Explosions. Earth-shattering explosions. We could feel them from the Hoover Dam, and doubtless even from Shady Sands. Before our very eyes we watched the Divide's very ground twist and deform, rendering the entire valley completely impassable by human life. The cause of the explosions is unknown, but the strong radiation leaking out of the valley implies it must have been none other than nuclear missiles deep under the ground. Hundreds of lives, from caravan guards to NCR troopers, are surely lost in the tragedy. To make matters worse, one of only two supply routes into the Mojave is now completely unusable."
  nf_mot.10.a:9 "The Long-15 is our only hope now..."
@@ -104,6 +104,12 @@
  nf_mot.25.b:9 "Give the Chief a bullet."
  nf_mot.25.b_tt:9 "Although demoralizing to the rangers, it gives more power to Oliver."
 
+ nf_mot.26.t:9 "What in the God Damn?"
+ nf_mot.26.d:9 "The Head of the Chairman has risen up against [VEG.GetLeader] with the support of [MOT.GetLeader]. How dare he! After we gave him that spiffy suit!"
+ nf_mot.26.a:9 "Baby, getting outplayed and getting cheated ain't the same thing."
+
+
+
   ## news events ##
  nf_mot_news.1.t:9 "Operation: Sunburst"
  nf_mot_news.1.d:9 "Early this morning, the Mojave Expedition of the New California Republic launched an offensive against the Mojave Chapter of the Brotherhood of Steel. Codenamed 'Operation: Sunburst', the offensive comes after months of preparation work by both sides. Despite enjoying numerical superiority, the Mojave Expedition is outmatched in training and technology by the Brotherhood, meaning the fight may be closer than either side would like. Whatever the outcome, the future of the Mojave will be sculpted by the result."
@@ -128,4 +134,4 @@
  mot_han_small_gain_tt:9 "§OChief Hanlon§! gains a §Ysmall§! amount of support in the §OMojave Defence Committee§!\n"
  mot_han_large_gain_tt:9 "§OChief Hanlon§! gains a §Ylarge§! amount of support in the §OMojave Defence Committee§!\n"
  mot_oli_hoover_plan_tt:9 "\n§OGeneral Oliver§!'s plan for the defence of §YHoover Dam§! is approved, strengthening our units' §Gdefence§! in a border war for §YHoover Dam§!. §OChief Hanlon§! will take some precautions anyway..."
- mot_oli_hoover_plan_tt:9 "\n§OChief Hanlon§!'s plan for the defence of §YBoulder City§! is approved, significantly strengthening our units' §Gdefence§! in a border war for §YBoulder City§!."
+ mot_han_hoover_plan_tt:9 "\n§OChief Hanlon§!'s plan for the defence of §YBoulder City§! is approved, significantly strengthening our units' §Gdefence§! in a border war for §YBoulder City§!."

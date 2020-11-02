@@ -195,7 +195,7 @@
  TAA_poor_education_6:9 "La Première Université de la TAA"
  TAA_poor_education_6_desc:9 "Alors que l'éducation primaire et secondaire sont les éléments constitutifs d'un travailleur productif, les vraies bonnes choses viennent avec l'éducation spécialisée, c'est là que TAAU entre en jeu, une solution bien construite et moderne à un problème vieux comme le monde."
 
- TAA_our_potential_realized_desc:9 "Our Potential, Realized"
+ TAA_our_potential_realized:9 "Our Potential, Realized"
  TAA_our_potential_realized_desc:9 "Nous avons parcouru un chemin incroyablement long depuis que nous avons rompu avec cette république corruptible, et il est maintenant grand temps de nous faire un vrai nom dans les Terres Dévastées, de nous tailler une part du monde que nous pouvons appeler la nôtre."
     
  TAA_prepare_the_armouries:9 "Préparer les Armureries"
@@ -203,7 +203,10 @@
 
  TAA_rally_the_militia:9 "Rassembler le Peuple"
  TAA_rally_the_militia_desc:9 "Les gens en ont assez de la menace imminente d'une invasion de l'autre côté du Rio, et dans leur désespoir, ils sont bien plus disposés à combattre cet ennemi détesté."
-
+    
+ TAA_rally_the_militia_2:9 "Dislodge the Iron Giant"
+ TAA_rally_the_militia_2_desc:9 "A far greater threat has set foot on the soil of what was once the Republic of the Rio Grande, a dastardly, vengeful, AI with a nearly unstoppable robot army at his disposal. Santa Anna will stop at nothing to subjugate Texas, and we may very well have to be the ones that stop him."
+    
  TAA_fight_for_freedom:9 "Luttez pour la Liberté !"
  TAA_fight_for_freedom_desc:9 "Le temps est venu de revenir enfin sur cette voie d'eau redoutée pour s'engager dans un combat pour notre liberté, pas seulement la liberté d'être, mais la liberté d'être sans vivre sous la menace éternelle du noeud coulant."
 
@@ -301,12 +304,16 @@
  taa_ideas_todd_charisma:9 "Le Charisme de Howitzer"
  taa_idea_yellow_rose_of_texas:9 "§YLa Rose Jaune du Texas§!"
  taa_idea_rio_revenge:9 "La Revanche de Rio"
+ taa_idea_sant_revenge:9 "Remember the Alamo!"
  taa_idea_irrigated_farms:9 "Terres Agricoles Irriguées"
  taa_idea_blue_jay:9 "Libre comme un Geai Bleu"
  taa_idea_digging_equipment:9 "Matériel d'Excavation"
 
-
- #lord forgive me for what i am about to do in this event block
+    #tooltip
+ taa_spawn_militia:9 "This will spawn a group of Militia!"
+    
+    
+    #lord forgive me for what i am about to do in this event block
  nf_taa.1.t:9 "La Liberté n'est Pas Gratuite"
  nf_taa.1.desc:200 "Pendant la majeure partie des 200 dernières années, les familles de la TAA ont travaillé sous l'étroite surveillance de la République du Rio Grande. C'était une relation moins que favorable, des taxes élevées, une réglementation stricte et des limites strictes sur les personnes pour lesquelles nous pouvions réellement vendre et produire nos armes. Bien que nous soyons maintenant dans un lieu d'indépendance nominale, une position que nous avons à peine pu assurer avec notre..."
  nf_taa.1.a:9 "Miliciens Compétents."
@@ -426,6 +433,10 @@
  nf_taa.742.t:9 "Mora Commence à Lever des Milices"
  nf_taa.742.desc:9 "Des rapports du RRG ont traversé la frontière avec des indications troublantes : Mora est en train d'élever des volontaires dans des milices prêtes pour une campagne offensive. Il ne fait guère de doute qu'il a des plans pour nous attaquer."
  nf_taa.742.a:9 "Nous serons prêts !"
+    
+ nf_taa.132.t:9 "The TBH declines our offer."
+ nf_taa.132.desc:9 "The response from the burgeoning TEU was swift and disappointing, it seems they have no intention of letting us bask in their little patch of the sun. This could either mean they just don't fancy us, or they're preparing to attack."
+ nf_taa.132.a:9 "Disappointing."
 
  nf_taa.636865657365627572676572.t:9 "Il est temps d'un Cheeseburger"
  nf_taa.636865657365627572676572.desc:9 "Il était presque trois heures de l'après-midi quand Todd s'est rendu compte qu'il n'avait rien mangé de la journée. Il était bien trop tôt pour sortir dîner, mais bien trop tard pour aller dans un endroit où l'on sert le petit-déjeuner ; en tenant compte de ces considérations, il a fait une petite promenade sur la route qui mène à un restaurant local de hamburgers brahmaniques. La nourriture était peut-être un peu chère, mais bien préparée, voire un peu trop cuite ; Todd était légèrement fatigué, mais bien nourri."

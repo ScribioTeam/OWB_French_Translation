@@ -369,6 +369,8 @@
  security_robot_securitron_equipment_1:9 "RobCo Securitron Mk I"
  security_robot_securitron_equipment_1_short:9 "Securitron Mk I"
  security_robot_securitron_equipment_1_desc:9 "A private security robot manufactured for police duty in difficult areas of operation, the monowheel propulsion system and fully welded titanium alloy shell provides both good mobility, and armour against typical small arms found on patrols. Meanwhile, an arm mounted 9mm submachine gun and X-25 gatling laser pistol allows them to handle any close-combat scenario."
+ security_robot_equipment:9 "Security Robots"
+ security_robot_equipment_desc:9 "The PDQ-88b Securitron (also named the RobCo Security Model 2060-B) is a private security robot created and mass-produced by the H&H Tools Factory after Mr. House purchased a majority of their stock, with the help of RobCo Industries."
 
   combat_robot_robobrain_equipment:0 "Robco Robobrain"
   combat_robot_robobrain_equipment_short:0 "Robobrain"
