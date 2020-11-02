@@ -1,5 +1,17 @@
 ﻿l_english:
- # Deseret
+  state_oklahoma_elites_ADJ: "Oklahoma"
+  state_oklahoma_elites_DEF: "Oklahoma"
+  state_oklahoma_elites: "Oklahoma"
+  state_oklahoma_intellectuals_ADJ: "Oklahoma"
+  state_oklahoma_intellectuals_DEF: "Oklahoma"
+  state_oklahoma_intellectuals: "Oklahoma"
+  state_oklahoma_people_ADJ: "Oklahoma"
+  state_oklahoma_people_DEF: "Oklahoma"
+  state_oklahoma_people: "Oklahoma"
+  state_oklahoma_ruler_ADJ: "Oklahoma"
+  state_oklahoma_ruler_DEF: "Oklahoma"
+  state_oklahoma_ruler: "Oklahoma"
+
   MOJ_cosmetic_elites_ADJ: "Helios Brotherhood"
   MOJ_cosmetic_elites_DEF: "the Helios Brotherhood"
   MOJ_cosmetic_elites: "Helios Brotherhood"
@@ -18,7 +30,7 @@
   GDH_costa_people_DEF: "Costa Del Sol"
   GDH_costa_elites: "Costa Del Sol"
   GDH_costa_elites_ADJ: "Costa Del Sol"
-  GDH_costa_elites_DEF: "The State of Deseret"
+  GDH_costa_elites_DEF: "Costa Del Sol"
   GDH_costa_ruler: "Costa Del Sol"
   GDH_costa_ruler_ADJ: "Costa Del Sol"
   GDH_costa_ruler_DEF: "Costa Del Sol"

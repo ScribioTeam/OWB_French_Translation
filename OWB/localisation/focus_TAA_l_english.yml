@@ -202,8 +202,11 @@
     TAA_prepare_the_armouries_desc:0 "Preparations for the coming war have begun; summer homes rebuilt into arms factories, coffee shops turned into bunkers, even a few company offices have had sniper nests posted on their roofs."
 
     TAA_rally_the_militia:0 "Rally the People"
-    TAA_rally_the_militia_desc:0 "People have become fed up with the looming threat of an invasion across the rio, and in their desperation find themselves far more willing to fight this hated enemy."
-
+    TAA_rally_the_militia_desc:0 "People have become fed up with the looming threat of an invasion across the Rio, and in their desperation find themselves far more willing to fight this hated enemy."
+    
+    TAA_rally_the_militia_2:0 "Dislodge the Iron Giant"
+    TAA_rally_the_militia_2_desc:0 "A far greater threat has set foot on the soil of what was once the Republic of the Rio Grande, a dastardly, vengeful, AI with a nearly unstoppable robot army at his disposal. Santa Anna will stop at nothing to subjugate Texas, and we may very well have to be the ones that stop him."
+    
     TAA_fight_for_freedom:0 "Fight for Freedom!"
     TAA_fight_for_freedom_desc:0 "The time has come to finally march back over that dreaded waterway to engage in a fight for our freedom, not just the freedom to be, but the freedom to be without living under the everlasting threat of the noose."
 
@@ -301,12 +304,16 @@
     taa_ideas_todd_charisma:0 "Howitzer's Charisma"
     taa_idea_yellow_rose_of_texas:0 "§YThe Yellow Rose of Texas§!"
     taa_idea_rio_revenge:0 "Revenge of the Rio"
+    taa_idea_sant_revenge:0 "Remember the Alamo!"
     taa_idea_irrigated_farms:0 "Irrigated Farmlands"
     taa_idea_blue_jay:0 "Free as a Blue Jay"
     taa_idea_digging_equipment:0 "Digging Equipment"
 
-
- #lord forgive me for what i am about to do in this event block
+    #tooltip
+    taa_spawn_militia:0 "This will spawn a group of Militia!"
+    
+    
+    #lord forgive me for what i am about to do in this event block
     nf_taa.1.t: "Freedom Isn't Free"
     nf_taa.1.desc: "For the majority of the last 200 years, the TAA families have worked under the tight supervision of the Republic of the Rio Grande. It was a less than favorable relationship, high taxes, strict regulation, and hard limits on who we could actually sell and produce our weapons for. Though now we stand in a place of nominal independence, a position we were only barely able to secure with our..."
     nf_taa.1.a: "Capable Militia Fighters."
@@ -426,6 +433,10 @@
     nf_taa.742.t: "Mora Begins Raising Militias"
     nf_taa.742.desc: "Reports have come across the border from the RRG that have troubling indications: Mora is raising up volunteers into militia groups primed for an offensive campaign. There is little doubt he has plans to attack us."
     nf_taa.742.a: "We will be ready!"
+    
+    nf_taa.132.t: "The TBH declines our offer."
+    nf_taa.132.desc: "The response from the burgeoning TEU was swift and disappointing, it seems they have no intention of letting us bask in their little patch of the sun. This could either mean they just don't fancy us, or they're preparing to attack."
+    nf_taa.132.a: "Disappointing."
 
     nf_taa.636865657365627572676572.t: "Time for a Cheeseburger"
     nf_taa.636865657365627572676572.desc: "It was approaching three in the afternoon when the realization had struck Todd he hasn't eaten anything all day. It was far too early to go out for dinner, but much too late to go somewhere that serves breakfast; with considerations in mind he took a short walk down the road to a local Brahmin burger joint. The food was maybe a little pricey but well prepared, if not a little overcooked; it left Todd slightly tired, but well fed."
