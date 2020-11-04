@@ -15,18 +15,18 @@
  nf_mojave_brotherhood.3.a:9 "Je ne laisserai personne me prendre ce qui m'est dû."
  nf_mojave_brotherhood.3.b:9 "La Confrérie ne sera pas bafouée."
 
- nf_mojave_brotherhood.4.t:9 "Trials and Tribulations"
- nf_mojave_brotherhood.4.d:9 "Our conflict with the Mojave Territories is innevitable. Soon enough, political pressure from the NCR Congress will place overwhelming force on General Oliver to launch his assault on HELIOS One. The only way we can even hope to fend off their onslaught is through preparation: a unique dynamic modifier representing the struggle for inititive between the Brotherhood and NCR. When Operation: Sunburst occurs, the current balance of preparation will be set in stone, so we must make sure to be well prepared before the war ever comes!"
- nf_mojave_brotherhood.4.a:9 "We must be nothing if not prepared."
- nf_mojave_brotherhood.4.b:9 "Through Power Armour alone will we win victory!"
- nf_mojave_brotherhood.4.c:9 "We need more men to counter the NCR's numbers!"
+ nf_mojave_brotherhood.4.t:9 "Procès et tribulations"
+ nf_mojave_brotherhood.4.d:9 "Notre conflit avec les territoires Mojave est inéluctable. Bientôt, la pression politique du Congrès de la RNC obligera le général Oliver à lancer son assaut sur HELIOS One. La seule façon dont nous pouvons même espérer repousser leur assaut est la préparation : un modificateur dynamique unique représentant la lutte pour l'initiative entre la Confrérie et la RNC. Lors de l'opération : Sunburst aura lieu, l'équilibre actuel de la préparation sera gravé dans la pierre, nous devons donc nous assurer d'être bien préparés avant que la guerre n'arrive !"
+ nf_mojave_brotherhood.4.a:9 "Nous ne devons rien être si nous ne sommes pas préparés."
+ nf_mojave_brotherhood.4.b:9 "Seule une armure assistée nous permettra de remporter la victoire !"
+ nf_mojave_brotherhood.4.c:9 "Nous avons besoin de plus d'hommes pour contrer les chiffres de la RNC !"
 
   # .5 doesn't need loc
 
  nf_mojave_brotherhood.6.t:9 "Victoire dans l'opération Sunburst"
  nf_mojave_brotherhood.6.d:15 "Aujourd'hui est un jour glorieux pour la Confrérie de l'acier, l'aîné Elijah révélant ses prouesses tactiques dans sa défense étonnante du chapitre du Mojave contre la tyrannique République de Nouvelle Californie. Nous avons réussi à pousser les soldats de la république vers l'avant-poste du Mojave - bien que la question du temps reste posée, nous devrions poursuivre l'avance sur le Long 15 vers la Californie. Si nous devions essayer d'affirmer notre domination sur cette terre, il est probable que nous devrions faire face à une réponse plus coordonnée à notre tour."
  nf_mojave_brotherhood.6.a:9 "C'est notre terre !"
- nf_mojave_brotherhood.6.b:9 "Lets not push this too far."
+ nf_mojave_brotherhood.6.b:9 "Ne poussons pas trop loin."
 
  nf_mojave_brotherhood.7.t:9 "La folie d'Oliver"
  nf_mojave_brotherhood.7.d:15 "Oliver a perdu le Mojave pour la République de Nouvelle Californie, confronté à une défaite dévastatrice aux mains de la Confrérie de l'acier ; Oliver a été contraint de redescendre le Long 15 vers Sables Ombragés. Heureusement, il semble qu'on ne lui demandera pas de servir de sitôt - la Confrérie ne semblant pas trop désireuse de le poursuivre jusqu'en Californie."
@@ -113,7 +113,7 @@
  nf_mojave_brotherhood.27.t:9 "Le Dôme s'est fissuré"
  nf_mojave_brotherhood.27.d:9 "Il semble que le Think Tank en ait eu assez que nous nous mêlions de leurs expériences. Ils ont étudié la technologie que nous avons utilisée pour nous rendre à Big Mountain et en revenir, et l'ont mise au point par rétro-engineering ! Des rumeurs ont commencé à se répandre dans le sud du Mojave. On parle de hordes de robots scorpions, de lobotomites sans cervelle et de \"sphères flottantes\", qui vacillent comme un arc-en-ciel de torches dans le désert, comme des volutes de l'Ancien Monde."
  nf_mojave_brotherhood.27.a:9 "Nous devons les arrêter !"
- nf_mojave_brotherhood.27.b:9 "§PIts time We show this geezer what for!§!"
+ nf_mojave_brotherhood.27.b:9 "§PIl est temps de lui montrer à quoi ça sert !§!"
 
  nf_mojave_brotherhood.28.t:9 "Rumeurs de l'Ancien Monde"
  nf_mojave_brotherhood.28.d:9 "La Sierra Madre a été conçue et construite par un seul homme, Frederick Sinclair, sa dernière aventure quelques années avant la Grande Guerre. La Sierra Madre a été conçue comme un lieu où les invités pouvaient inverser leur destin et \"recommencer\".\n\nPendant sa construction jusqu'à la fin, elle est restée une zone de reclus. Toutes les commodités étaient fournies aux habitants par des distributeurs automatiques uniques capables d'utiliser une science avancée pour assembler des matériaux sur place et permettaient aux habitants de vivre en autarcie, même coupés du monde extérieur. Le but de toute l'entreprise n'était pas seulement de créer un grand casino, mais aussi de créer un abri parfait contre l'holocauste nucléaire. Chaque élément des fonctions de la Sierra Madre est de protéger ses habitants.\n\nLe casino de la Sierra Madre est plus qu'un simple casino - c'est le témoignage matériel de l'incapacité d'un homme à lâcher prise. Voyant la Grande Guerre approcher, Frederick Sinclair, souhaitait sauver Vera Keyes, une actrice célèbre et son amour, de la destruction imminente. C'est dans ce but que la villa Sierra Madre et son casino en pierre de taille ont été construits. Mais ce n'était pas suffisant pour Sinclair : dans le sous-sol du casino, un abripresque impénétrable a également été construit, pour s'assurer que lui et son amour puissent surmonter l'apocalypse, ensemble.\n\nC'est cet abri qu'Elijah cherche, là - Elijah espère trouver les secrets de la Sierra Madre. La technologie des hologrammes, les distributeurs automatiques, le mystérieux nuage rouge qui le recouvre encore aujourd'hui. Elijah a été captivé par l'Ancien Monde, et il ne va pas lâcher prise."
@@ -163,31 +163,31 @@
  nf_mojave_brotherhood.40.d:9 "Nous avons fait descendre la Voix de Vera Keyes brisée dans les niveaux inférieurs de l'installation, pour finalement arriver à ce que nous attendions - l'abri.\nElle nous ouvrirait la porte en utilisant les derniers mots de Vera, comme on nous l'avait demandé.\nL'abri lui-même était petit, seulement quelques petites pièces, bien garni de nourriture, de fournitures médicales et des dernières richesses de Sinclair. Il y avait des lingots d'or ici - la valeur de l'or d'une petite nation - certainement plus que ceux de la RNC après que leurs réserves d'or aient été détruites par la Confrérie il y a des années.\n\nAvec la technologie des hologrammes et le spectre numérique de Vera, la technologie des distributeurs automatiques, l'holorifle, le nuage et maintenant cette réserve d'or, le [MOJ.GetName] est sur le point de devenir quelque chose de grand."
  nf_mojave_brotherhood.40.a:9 "Après tout ce temps. La Sierra Madre... à moi."
 
- nf_mojave_brotherhood.41.t:9 "Data From REPCONN"
- nf_mojave_brotherhood.41.d:9 "As our operatives explored REPCONN Headquarters they were careful to extract any information they could from the building's terminals. Most of it was junk, but not all. Some of the company's records revealed a decrepit vertibird testing ground far to the north, in [329.GetName]. This expedition would require serious time and resources, but think of the potential!"
- nf_mojave_brotherhood.41.a:9 "We must pursue this lead!"
+ nf_mojave_brotherhood.41.t:9 "Données de REPCONN"
+ nf_mojave_brotherhood.41.d:329 "En explorant le quartier général de REPCONN, nos agents ont pris soin d'extraire toutes les informations possibles des terminaux du bâtiment. La plupart étaient des déchets, mais pas tous. Certains dossiers de la compagnie ont révélé un terrain d'essai de vertibird décrépit, loin au nord, dans [329.GetName]. Cette expédition nécessiterait beaucoup de temps et de ressources, mais pensez au potentiel !"
+ nf_mojave_brotherhood.41.a:9 "Nous devons poursuivre dans cette voie !"
 
- nf_mojave_brotherhood.42.t:9 "A Traveler From Yuma"
- nf_mojave_brotherhood.42.d:9 "Yesterday, a traveler hailing from the south contacted us. He was moving through the area, and claims that his home city of Yuma sits atop a massive treasure trove of pre-War technology. Apparently, the American army used natural caves under the city as storage for various discarded experiments and projects. As proof, he showed us one of his packs, filled to the brim with all sorts of advanced ammunition and gadgets. We can dispatch our operatives to travel down to the city, explore the caves, and return with whatever they find. However, this would be a costly operation when we’re already strapped for resources. It will most likely ferment instability, and lead to even worse effects if the operation turns up blank."
- nf_mojave_brotherhood.42.a:9 "We must send a team to investigate!"
+ nf_mojave_brotherhood.42.t:9 "Un voyageur de Yuma"
+ nf_mojave_brotherhood.42.d:9 "Hier, un voyageur venu du sud nous a contactés. Il se déplaçait dans la région, et affirme que sa ville natale de Yuma se trouve au sommet d'un immense trésor de technologie d'avant-guerre. Apparemment, l'armée américaine a utilisé des grottes naturelles sous la ville comme lieu de stockage pour divers projets et expériences abandonnés. Pour preuve, il nous a montré un de ses paquets, rempli à ras bord de toutes sortes de munitions et de gadgets avancés. Nous pouvons envoyer nos agents en ville, explorer les grottes et revenir avec ce qu'ils trouvent. Cependant, ce serait une opération coûteuse alors que nous sommes déjà à court de ressources. Il est fort probable qu'il y aura une fermentation de l'instabilité et que les effets seront encore pires si l'opération fait choux blanc."
+ nf_mojave_brotherhood.42.a:9 "Nous devons envoyer une équipe pour enquêter !"
 
- nf_mojave_brotherhood.43.t:9 "Fallout From the Yuma Operation"
- nf_mojave_brotherhood.43.d:9 "Nearly every Paladin in the Mojave Chapter advised against our expedition to Yuma. They said it would be too costly, too risky, and take focus away from where it mattered: our military strength. Now, with the expedition returning with little to show for itself, it seems they may have been right. A group of Paladins confronted Elijah again today, urging him to re-evaluate his priorities. Either way, this decision will determine how the Mojave Chapter achieves its goals."
- nf_mojave_brotherhood.43.a:9 "Fine! Have it your way!"
- nf_mojave_brotherhood.43.b:9 "No, we must stay our course!"
+ nf_mojave_brotherhood.43.t:9 "Retombées de l'opération Yuma"
+ nf_mojave_brotherhood.43.d:9 "Presque tous les paladins du chapitre de Mojave ont déconseillé notre expédition à Yuma. Ils ont dit que ce serait trop coûteux, trop risqué, et que cela nous empêcherait de nous concentrer sur l'essentiel : notre force militaire. Maintenant, avec l'expédition qui revient avec peu de choses à montrer, il semble qu'ils avaient peut-être raison. Un groupe de Paladins a de nouveau confronté Elijah aujourd'hui, l'exhortant à réévaluer ses priorités. Quoi qu'il en soit, cette décision déterminera la façon dont le chapitre de Mojave atteindra ses objectifs."
+ nf_mojave_brotherhood.43.a:9 "Très bien ! Faites comme vous voulez !"
+ nf_mojave_brotherhood.43.b:9 "Non, nous devons maintenir notre cap !"
 
- nf_mojave_brotherhood.44.t:9 "The Mojave Brotherhood offers a white peace?"
- nf_mojave_brotherhood.44.d:9 "The Mojave Brotherhood have made their position clear - both through words and weapons. They now urge us to halt our conquest of the Hoover Dam. This would only be temporary, of course - no agreements can contain us for long."
- nf_mojave_brotherhood.44.a.a:9 "Accept it - we can attack them when we regroup"
- nf_mojave_brotherhood.44.d.d:9 "Decline, continue the war!"
+ nf_mojave_brotherhood.44.t:9 "La Confrérie de Mojave offre une paix blanche ?"
+ nf_mojave_brotherhood.44.d:9 "La Confrérie de Mojave a clairement fait connaître sa position - à la fois par la parole et par les armes. Ils nous exhortent maintenant à mettre un terme à notre conquête du barrage Hoover. Ce ne serait que temporaire, bien sûr - aucun accord ne peut nous contenir longtemps."
+ nf_mojave_brotherhood.44.a.a:9 "Acceptez-la - nous pouvons les attaquer lorsque nous nous regroupons"
+ nf_mojave_brotherhood.44.d.d:9 "Déclinez, continuez la guerre !"
 
- nf_mojave_brotherhood.45.t.d:9 "Caesar Refuses!"
- nf_mojave_brotherhood.45.d.d:9 "It seems the Legion wants to carry this war out to the very end."
- nf_mojave_brotherhood.45.o.d:9 "Very well, we will play this game a while longer."
+ nf_mojave_brotherhood.45.t.d:9 "César refuse !"
+ nf_mojave_brotherhood.45.d.d:9 "Il semble que la Légion veuille mener cette guerre jusqu'au bout."
+ nf_mojave_brotherhood.45.o.d:9 "Très bien, nous allons jouer à ce jeu encore un peu plus longtemps."
 
- nf_mojave_brotherhood.45.t.a:9 "Caesar Accepts!"
- nf_mojave_brotherhood.45.d.a:9 "The Legion has agreed to pull off of our borders and end the war. It seems our Chapter has been spared the cost of war."
- nf_mojave_brotherhood.45.o.a:9 "Peace is a valued treasure in the wasteland."
+ nf_mojave_brotherhood.45.t.a:9 "César accepte !"
+ nf_mojave_brotherhood.45.d.a:9 "La Légion a accepté de se retirer de nos frontières et de mettre fin à la guerre. Il semble que notre chapitre ait été épargné par le coût de la guerre."
+ nf_mojave_brotherhood.45.o.a:9 "La paix est un trésor précieux dans les Terres Désolées."
 
 
 

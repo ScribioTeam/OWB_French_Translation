@@ -73,9 +73,9 @@
  nf_rrg.17.d:0 "La proposition de Guerra était simple. Au lieu de vendre à la Légion, la TAA pourrait vendre aux nombreux groupes de résistance sur le territoire de la Légion, faisant la promotion de la politique étrangère de Guerra et de leurs affaires en même temps. De plus, Guerra a fait remarquer que si les rumeurs au sud étaient vraies, il pourrait y avoir plus de possibilités à Mexico Way dans un proche avenir... des possibilités qui exigeraient l'accès au territoire de Rio."
  nf_rrg.17.a:0 "Aux nouveaux clients !"
 ############################
- nf_rrg.843.t:9 "TAA Declines Our Offer."
- nf_rrg.843.d:9 "The reply from Howitzer's clan was swift and curt. They had no intention of taking us up on our deal, and were going to maintain the current state of being entirely out of our reach. This settles it, there is no more room for negotiation, only war."
- nf_rrg.843.a:9 "They offer us no choice."
+ nf_rrg.843.t:9 "La TAA décline notre offre."
+ nf_rrg.843.d:9 "La réponse du clan d'Howitzer fut rapide et brusque. Ils n'avaient pas l'intention de nous prendre au mot et allaient maintenir l'état actuel d'être totalement hors de notre portée. C'est réglé, il n'y a plus de place pour la négociation, seulement pour la guerre."
+ nf_rrg.843.a:9 "Ils ne nous offrent pas le choix."
 ############################
  nf_rrg.18.t:0 "L'Alliance de Rio"
  nf_rrg.18.d:0 "Avec la défaite de la TAA, Rosado a honoré son accord et a reconnu le contrôle de la Confrérie sur leur centre-ville. Certains s'interrogeaient sur l'influence de la confrérie dans la région, mais Rosado a fait remarquer que Rio était maintenant la seule faction mexicaine à avoir accès à des armures assistées."
@@ -254,7 +254,7 @@
  nf_rrg.56.a:0 "Ecelente."
   ############################
  nf_rrg.80.t:0 "La condamnation de Guerra"
- nf_rrg.80.d:9 "\"I implore you, the people of the Republic, to welcome the formation of a Government representing the resolve of the downtrodden, the oppressed, and the enslaved. We are neither Mexicans nor Texans; we are the last, best hope for the Wasteland. We will work with all who stand for freedom and truth. Although I have the weak and feeble body of an old man, I have the stomach of a Rio soldier! And I think foul scorny that any Legate of Caesar, or any robot, would treat upon our rights. Viva libertad!\""
+ nf_rrg.80.d:9 "\"Je vous implore, peuple de la République, de saluer la formation d'un gouvernement représentant la détermination des opprimés et des esclaves. Nous ne sommes ni Mexicains ni Texans ; nous sommes le dernier et le meilleur espoir pour les Terres Désolées. Nous travaillerons avec tous ceux qui défendent la liberté et la vérité. Bien que j'aie le corps faible et maigre d'un vieil homme, j'ai l'estomac d'un soldat de Rio ! Et je pense que tout légat de César, ou tout robot, traiterait avec mépris nos droits. Viva libertad !\""
  nf_rrg.80.a:0 "Un brindis por nuestro nuevo presidente !"
  nf_rrg.80.b:0 "Comme c'est amusant."
  nf_rrg.80.c:0 "La démocratie trouve un moyen."
@@ -262,7 +262,7 @@
  nf_rrg.80.f:0 "¡Romper las cadenas!"
  nf_rrg.80.g:0 "Un toro muerto es bueno para todos."
  nf_rrg.80.h:0 "Bonne chance avec ça, Presidente."
- nf_rrg.80.h:9 "Howdy, Partner!"
+ nf_rrg.80.h:9 "Howdy, Partenaire !"
 
 ############################
  nf_rrg.81.t:0 "Les Guildes de Commerce"
@@ -302,8 +302,8 @@
  nf_rrg.86.a_tt:0 "Déverrouille la capacité d'armer la résistance à la Légion."
 ############################
  nf_rrg.87.t:0 "Le Barillet du Canon"
- nf_rrg.87.d:9 "Despite our best efforts, it appears that the people of Mexico will not render unto Caesar what is Caesar's. On the contrary, agents from Gloria are funneling arms and ammo to resistance forces.  We'll have to deal with this when we finish off Vegas."
- nf_rrg.87.a:9 "That rain god won't protect you forever, Gloria..."
+ nf_rrg.87.d:9 "Malgré tous nos efforts, il semble que le peuple mexicain ne rendra pas à César ce qui appartient à César. Au contraire, les agents de Gloria acheminent des armes et des munitions aux forces de résistance.  Nous devrons nous occuper de cela quand nous aurons fini à Vegas."
+ nf_rrg.87.a:9 "Ce dieu de la pluie ne te protégera pas éternellement, Gloria..."
 ############################
  nf_rrg.88.t:0 "Le Destin de César"
  nf_rrg.88.d:0 "Guerra se dirigea vers le palais de César, le bâtiment qui dominait Flagstaff. Accompagné de soldats venus de tout le Mexique, il sourit en s'approchant de César, et relâcha son pistolet. Guerra leva le pistolet au visage de César, et l'abaissa. \"Non. On ne fera pas ça.\""
@@ -311,10 +311,10 @@
  nf_rrg.88.a_tt:0 "\n§gA la République, un gouvernement de lois et non d'hommes§!\n"
  nf_rrg.88.b:0 "§RSuspendez-le au mât à l'extérieur§!"
 ############################
- nf_rrg.89.t:9 "Begin Again"
- nf_rrg.89.d:9 "Rio, the bastard child of an American occupation, has always stood uneasily between Mexico and the American states to its north. Unlike New California, or the Texas Brotherhood, they have continuity to the old United States of Mexico and America. It is a source of pride. And, perhaps, shame. \n\nToo many in Rio cling to that past. Mora would have conquered all of Mexico to dream of a great power to crush the Wasteland. Rosado dreams of American secrets, forgetting that those secrets are why we live in what we, literally, call the Wasteland. It is time for men to change, and their symbols. Let the casualties of the Legion War not die in vain; let the Wasteland have a new birth of freedom,  that el gobernio del pueblo, por el pueblo, y para el pueblo no desaparezca de la faz de la tierra."
+ nf_rrg.89.t:9 "Recommencer"
+ nf_rrg.89.d:9 "Rio, l'enfant bâtard d'une occupation américaine, a toujours été mal à l'aise entre le Mexique et les États américains situés au nord. Contrairement à la Nouvelle Californie ou à la Confrérie du Texas, ils ont une continuité avec les anciens États-Unis du Mexique et de l'Amérique. C'est une source de fierté. Et, peut-être, de honte.\n\nTrop de gens à Rio s'accrochent à ce passé. Mora aurait conquis tout le Mexique pour rêver d'une grande puissance qui écraserait les Terres Désolées. Rosado rêve de secrets américains, oubliant que ces secrets sont la raison pour laquelle nous vivons dans ce que nous appelons littéralement les Terres Désolées. Il est temps que les hommes changent, ainsi que leurs symboles. Que les victimes de la guerre de la Légion ne meurent pas en vain ; que les habitants des Terres Désolées connaissent une nouvelle naissance de la liberté, que el gobernio del pueblo, por el pueblo, y para el pueblo no desaparezca de la faz de la tierra."
  nf_rrg.89.a:9 "Con las voces de Unión!"
- nf_rrg.89.a_tt:9 "§Y50% coring cost reduction§! for the lands of Arizona."
+ nf_rrg.89.a_tt:50 "§YRéduction de 50% du coût pour rendre cœur§! les terres d'Arizona."
 ############################
  nf_rrg.150.t:0 "Le Scientifique"
  nf_rrg.150.d:0 "A notre grande surprise, l'un des chercheurs de Tlaloc a survécu depuis la Grande Guerre en fabriquant de nouvelles variétés de café pour Costa Café. Il était incroyablement agacé lorsque nous lui avons demandé comment son diplôme en informatique pouvait aider à l'élevage de souches de café, mais il nous a donné son code d'accès si nous avions promis de partir. \n\nSang."
@@ -369,22 +369,22 @@
  nf_rrg.159.a:9 "Je savais qu'elle était intelligente pour une raison."
 
   ############################
- nf_rrg.161.t:9 "Guerra's proposal"
- nf_rrg.161.d:9 "Presidente Guerra of the Republic of the Rio Grande has offered to exchange military advisors. We will learn infantry combat techniques, and they will learn how to handle power armour."
- nf_rrg.161.a:9 "It's easy once you get the hang of it."
- nf_rrg.161.b:9 "I don't trust anyone who likes the Alamo Chapter."
+ nf_rrg.161.t:9 "Proposition de Guerra"
+ nf_rrg.161.d:9 "Le Presidente Guerra de la République du Rio Grande a proposé d'échanger des conseillers militaires. Nous apprendrons les techniques de combat de l'infanterie, et ils apprendront à manier les armures assistées."
+ nf_rrg.161.a:9 "C'est facile une fois que vous avez pris le coup de main."
+ nf_rrg.161.b:9 "Je ne fais pas confiance à ceux qui aiment le chapitre d'Alamo."
 
     ############################
- nf_rrg.162.t:9 "Buckle Up!"
- nf_rrg.162.d:9 "Over some objections, Rusk has sent advisors to teach us how to use power armour.  This will come in handy when the robot hordes come to enslave us. A silly idea, really."
+ nf_rrg.162.t:9 "Bouclez vos ceintures !"
+ nf_rrg.162.d:9 "Malgré quelques objections, Rusk a envoyé des conseillers pour nous apprendre à utiliser les armures assistées.  Cela sera utile lorsque les hordes de robots viendront nous asservir. C'est une idée stupide, vraiment."
  nf_rrg.162.a:9 "Muchos Gracias"
 
 
    ############################
- nf_rrg.163.t:9 "Texas Spurned Us!"
- nf_rrg.163.d:9 "For some reason, the Texas Brotherhood does not want to strengthen our armed forces, presumably on... I don't know. It's honestly so stupid that I only assume this was a mistake which we won't speak of again."
- nf_rrg.163.a:9 "If Santa Anna wins, I'm blaming them."
+ nf_rrg.163.t:9 "Le Texas nous a rejeté !"
+ nf_rrg.163.d:9 "Pour une raison quelconque, la Confrérie du Texas ne veut pas renforcer nos forces armées, vraisemblablement à cause de ... Je ne sais pas. C'est honnêtement si stupide que je suppose seulement que c'était une erreur dont nous ne parlerons plus."
+ nf_rrg.163.a:9 "Si Santa Anna gagne, je les blâme."
    ############################
- nf_rrg.164.t:9 "The Rio Trade"
- nf_rrg.164.d:9 "Rio has approached us with a trade agreement which will bring prosperity to both our states. Thank god they didn't elect Mora, right?"
- nf_rrg.164.a:9 "Hah, he would probably have tried to conquer us after Mexico!"
+ nf_rrg.164.t:9 "Le commerce de Rio"
+ nf_rrg.164.d:9 "Rio nous a approchés avec un accord commercial qui apportera la prospérité à nos deux États. Dieu merci, ils n'ont pas élu Mora, n'est-ce pas ?"
+ nf_rrg.164.a:9 "Hah, il aurait probablement essayé de nous conquérir après le Mexique !"
