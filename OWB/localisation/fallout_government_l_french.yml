@@ -149,16 +149,16 @@
   
   ## Mutant Officer Training Laws
 
- officer_law_mutant_instinct:9 "Mutant Instinct"
- officer_law_mutant_instinct_desc:9 "The end product of FEV mutation, super mutants are brutally efficient. Over 800 pounds of muscle, enhanced cell regeneration, and immune to most if not all human diseases, even the dumbest mutant is a force to be reckoned with. Due to their comparatively small numbers in relation to the human population, many mutants have experienced some form of social isolation which leads to a basic form of self sufficiency. "
+ officer_law_mutant_instinct:9 "Instinct mutant"
+ officer_law_mutant_instinct_desc:800 "Produit final de la mutation FEV, les super-mutants sont brutalement efficaces. Plus de 800 livres de muscles, une régénération cellulaire accrue et une immunité contre la plupart des maladies humaines, voire toutes, même le plus stupide des mutants est une force avec laquelle il faut compter. En raison de leur nombre relativement faible par rapport à la population humaine, de nombreux mutants ont connu une certaine forme d'isolement social qui les a conduits à une forme d'autosuffisance de base. "
  officer_law_mutant_dumdum:9 "\"Dum-Dums\""
- officer_law_mutant_dumdum_desc:9 "Second generation mutants are some of the most common mutants of the wasteland. While their mental capacities are handicapped in compared to first generation, they are no strangers to combat. Able to work together and use their raw strength and endurance to their advantage, any super mutant is capable of working in a squad to destroy their enemies."
- officer_law_mutant_second:9 "Second Generation Training"
- officer_law_mutant_second_desc:9 "Even with the mental deficiencies of the second generation of mutants, we can expect more from our soldiers than just mere savagery. Drills, target practice, unit cohesion. This is something that cannot be left behind as a remnant of the humans."
- officer_law_mutant_first:9 "First Generation Training"
- officer_law_mutant_first_desc:9 "The constraints of our lesser brethren cannot stop us from reaching our true potential. Mixed fire teams, suppressive barrages, excessive scouting, terror raids. Their idiotic minds may not be able to understand everything, but it can get the job done. "
- officer_law_mutant_master:9 "Children Of The Master"
- officer_law_mutant_master_desc:9 "Before the cursed Vault Dweller killed the Master, mutants were destined to take over the Wasteland. Our strength, our will, our brutal cunning. All of these give us the right to shape the Wasteland in our image, no matter what the inferior races think. There will be nothing but the finest leading our armies in our new world."
+ officer_law_mutant_dumdum_desc:9 "Les mutants de la deuxième génération sont parmi les plus courants dans le Terres Désolées. Bien que leurs capacités mentales soient handicapées par rapport à la première génération, ils ne sont pas étrangers au combat. Capables de travailler ensemble et d'utiliser leur force brute et leur endurance à leur avantage, tout super mutant est capable de travailler en équipe pour détruire ses ennemis."
+ officer_law_mutant_second:9 "Entraînement de la deuxième génération"
+ officer_law_mutant_second_desc:9 "Même avec les déficiences mentales de la deuxième génération de mutants, nous pouvons attendre de nos soldats plus qu'une simple sauvagerie. Exercices, entraînement sur cible, cohésion de l'unité. C'est quelque chose qui ne peut pas être laissé derrière nous comme un reste des humains."
+ officer_law_mutant_first:9 "Entraînement de la première génération"
+ officer_law_mutant_first_desc:9 "Les contraintes de nos petits frères ne peuvent pas nous empêcher d'atteindre notre véritable potentiel. Equipes de feu mixtes, barrages de suppression, éclaireurs excessifs, raids de terreur. Leurs esprits idiots ne sont peut-être pas capables de tout comprendre, mais ils peuvent faire le travail. "
+ officer_law_mutant_master:9 "Enfants du Maître"
+ officer_law_mutant_master_desc:9 "Avant que le Vault Dweller maudit ne tue le Maître, les mutants étaient destinés à prendre le contrôle des Terres Désolées. Notre force, notre volonté, notre ruse brutale. Tout cela nous donne le droit de façonner les Terres Désolées à notre image, peu importe ce que pensent les races inférieures. Il n'y aura que les meilleurs à la tête de nos armées dans notre nouveau monde."
 
   ## Military Training Law
 
@@ -241,7 +241,7 @@
  cultural_advisor_cost_factor:0 "Coût du conseiller culturel"
  production_policies:0 "Politiques de production"
  construction_firm:0 "Grandes entreprises"
- construction_firm_cost_factor:9 "Major Businesses Cost"
+ construction_firm_cost_factor:9 "Coût des grandes entreprises"
  engineering_firm:0 "Modèles d'avant-guerre"
  industrial_advisor:0 "Conseiller économique"
  arms_supplier:0 "Entreprises d'armement"

@@ -63,9 +63,9 @@
  RULE_AI_BEHAVIOR_KHA_REGIS_DESC:0 "Les Grands Khans vont prendre une nouvelle direction sous Régis, ce qui permettra de resserrer les liens avec la RNC."
 
 
- RULE_AI_BEHAVIOR_LAC:9 "@LAC Lanius' Cohort"
- RULE_AI_BEHAVIOR_LAC_DEFAULT:9 "Default"
- RULE_AI_BEHAVIOR_LAC_DEFAULT_DESC:9 "Lanius will strike north into Colorado before seeing his eyes upon Texas."
+ RULE_AI_BEHAVIOR_LAC:9 "@LAC Cohorte de Lanius"
+ RULE_AI_BEHAVIOR_LAC_DEFAULT:9 "Défaut"
+ RULE_AI_BEHAVIOR_LAC_DEFAULT_DESC:9 "Lanius va frapper au nord dans le Colorado avant de river ses yeux sur le Texas."
 
 
  RULE_AI_BEHAVIOR_MOJ:0 "@MOJ Chapitre du Mojave"
@@ -79,7 +79,7 @@
  RULE_AI_BEHAVIOR_MOJ_VERONICAS_AID_DESC:9 "Le chapitre de Mojave préparera l'opération Sunburst en ralliant plusieurs groupes mineurs du Mojave contre la RNC."
 
  RULE_MAP_SETUP_TNK_STATUS:9 "@TNK Think Tank"
- RULE_MAP_SETUP_TNK_STATUS_DEFAULT:9 "Défaut"
+ RULE_MAP_SETUP_TNK_STATUS_DEFAULT:9 "@MOJ Défaut"
  RULE_MAP_SETUP_TNK_STATUS_DEFAULT_DESC:9 "Le Think Tank ne peut apparaître qu'à la suite de l'arbre des priorités du @MOJ Chapitre du Mojave."
  RULE_MAP_SETUP_TNK_STATUS_OLD_WORLD_BLUES:9 "@TNK Old World Blues"
  RULE_MAP_SETUP_TNK_STATUS_OLD_WORLD_BLUES_DESC:9 "Le Think Tank apparaît au début du jeu."
@@ -347,11 +347,11 @@
  RULE_CAPS_SYSTEM_TOGGLE_DISABLED:0 "Désactiver le système de Capsules"
  RULE_CAPS_SYSTEM_TOGGLE_DISABLED_DESC:0 "Le système de Capsules sera complètement désactivé."
 
- RULE_ALLOW_TECH_ADVANCEMENTS:9 "Allow Tech Advancement"
- RULE_OPTION_TECH_STANDARD:9 "Standard Technology Rules"
- RULE_OPTION_TECH_STANDARD_DESC:9 "The standard game rule, meaning your tribals cannot build advanced power armor after 6 years."
- RULE_OPTION_TECH_ALLOW:9 "Allow Technological Advancement"
- RULE_OPTION_TECH_ALLOW_DESC:9 "Designed to let players decide that yes, the White Legs are capable of building ZAX Computers with enough strength of will. To be fair, it worked for the Chosen One . . ."
+ RULE_ALLOW_TECH_ADVANCEMENTS:9 "Permettre le progrès technologique"
+ RULE_OPTION_TECH_STANDARD:9 "Règles technologiques standard"
+ RULE_OPTION_TECH_STANDARD_DESC:9 "La règle du jeu standard, qui signifie que vos tribus ne peuvent pas construire d'armure assistée après 6 ans."
+ RULE_OPTION_TECH_ALLOW:9 "Permettre le progrès technologique"
+ RULE_OPTION_TECH_ALLOW_DESC:9 "Conçus pour laisser les joueurs décider que oui, les Jambes Blanches sont capables de construire des ordinateurs ZAX avec suffisamment de force de volonté. Pour être juste, cela a fonctionné pour l'Élu..."
 
  RULE_FOLLOWERS_SYSTEM_TOGGLE:0 "Basculement du système de Fidèles"
  RULE_FOLLOWERS_SYSTEM_TOGGLE_ENABLED:0 "Activer le système de Fidèles"
@@ -372,8 +372,8 @@
  RULE_ALLOW_DISMANTLE_FACTION_BLOCKED_DESC:0 "Le démantèlement des factions est désactivé pour tout le monde."
  RULE_DISMANTLE_FACTION_NOSTARTER_TT:0 "Règle du jeu : §RLes fractions faites au début du jeu ne peuvent pas être démantelées.§!"
  
- RULE_MISC_OWB_WILD_WASTELAND:9 "Wild Wasteland"
- RULE_MISC_OWB_WILD_WASTELAND_DISABLED:9 "Disabled"
- RULE_MISC_OWB_WILD_WASTELAND_DISABLED_DESC:9 "The Wild Wasteland game rule is used to toggle funny but strange and mostly benign circumstances across the Wasteland. By default it is off."
- RULE_MISC_OWB_WILD_WASTELAND_ENABLED:9 "Enabled"
- RULE_MISC_OWB_WILD_WASTELAND_ENABLED_DESC:9 "The Wild Wasteland game rule is used to toggle funny but strange and mostly benign circumstances across the Wasteland. By default it is off."
+ RULE_MISC_OWB_WILD_WASTELAND:9 "Terres Désolées Sauvages"
+ RULE_MISC_OWB_WILD_WASTELAND_DISABLED:9 "Désactivé"
+ RULE_MISC_OWB_WILD_WASTELAND_DISABLED_DESC:9 "La règle du jeu Terres Désolées Sauvages est utilisée pour faire basculer des circonstances drôles mais étranges et surtout bénignes à travers les Terres Désolées. Par défaut, elle est désactivée."
+ RULE_MISC_OWB_WILD_WASTELAND_ENABLED:9 "Activé"
+ RULE_MISC_OWB_WILD_WASTELAND_ENABLED_DESC:9 "La règle du jeu Terres Désolées Sauvages est utilisée pour faire basculer des circonstances drôles mais étranges et surtout bénignes à travers les Terres Désolées. Par défaut, elle est désactivée."

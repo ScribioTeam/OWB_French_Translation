@@ -52,7 +52,7 @@
  twin_mothers_company:0 "Les Twin Mothers"
  bloomfield_space_center:0 "Centre Spatial de Bloomfield"
  mojave_express_company:0 "Le Mojave Express"
- boulder_dome:0 "Boulder Dome"
+ boulder_dome:0 "Dôme de Boulder"
  boulder_dome_desc:9 "Un site d'avant-guerre interdit, maintenant disponible pour notre accès !"
  general_atomics:0 "General Atomics"
  stent_security_solutions:0 "Stent Security Solutions"
@@ -78,29 +78,29 @@
 
 
  oh_no_arms:9 "Oh No! Arms Company"
- oh_no_arms_desc:9 "The quality of Oh No! brand weapons and ammunition has always been questionable. But sometimes cheap and explosion prone is the only option you got."
+ oh_no_arms_desc:9 "La qualité des armes et des munitions de la marque Oh No ! a toujours été douteuse. Mais parfois, les armes bon marché et susceptibles d'exploser sont la seule option que vous avez."
  oh_no_explosives:9 "Oh No! Explosives Company"
- oh_no_explosives_desc:9 "When it became widely known that their weapons had the unfortunate side effect of randomly exploding, Oh No! responded with branching out to producing explosives."
+ oh_no_explosives_desc:9 "Lorsqu'il est devenu notoire que leurs armes avaient le malheureux effet secondaire d'exploser au hasard, Oh No ! a réagi en se lançant dans la production d'explosifs."
  tulchinsky_engineering:9 "Tulchinsky Engineering"
- tulchinsky_engineering_desc:9 "The founder claims descent from Ukrainian immigrants, which would be fascinating if we knew what Ukraine was. Nevertheless, they will gladly install electrical systems for reasonable prices with only marginally higher than average rates of failure!"
+ tulchinsky_engineering_desc:9 "Le fondateur prétend descendre d'immigrants ukrainiens, ce qui serait fascinant si nous savions ce qu'est l'Ukraine. Néanmoins, ils installeront volontiers des systèmes électriques à des prix raisonnables, avec un taux de panne à peine plus élevé que la moyenne !"
  junkwalls_and_more:9 "Junkwalls and More"
- junkwalls_and_more_desc:9 "Raiders bothering you? We got walls made from old cars, corrugated scrap metal and rubble to keep them out!"
+ junkwalls_and_more_desc:9 "Les pillards vous dérangent ? Nous avons des murs faits de vieilles voitures, de ferraille ondulée et de gravats pour les empêcher d'entrer !"
 
  # New Reno Companies
  new_reno_arms_company:9 "New Reno Arms"
- new_reno_arms_company_desc:9 "New: the special 'family' discount"
+ new_reno_arms_company_desc:9 "New : le rabais spécial \"famille\""
  renescos_pharmacy_company:9 "Renesco's Pharmacy"
- renescos_pharmacy_company_desc:9 "Buy something or get the hell out."
+ renescos_pharmacy_company_desc:9 "Achetez quelque chose ou dégagez."
  cats_paw_company:9 "Cat's Paw"
  jungle_gym_company:9 "Jungle Gym"
- jungle_gym_company_desc:9 "In remembrance of Mike the Masticator"
+ jungle_gym_company_desc:9 "En souvenir de Mike le Masticator"
  chop_shop_company:9 "Chop Shop"
- chop_shop_company_desc:9 "Stealing your car and selling it back to you in parts since 2241."
+ chop_shop_company_desc:2241 "Voler votre voiture et vous la revendre en pièces détachées depuis 2241."
 
  # VLT Companies
  happy_harry:9 "Happy Harry's"
- servant_allocation_center:9 "Servant Allocation Center"
- parlor_room:9 "Parlour Room"
+ servant_allocation_center:9 "Centre d'affectation des fonctionnaires"
+ parlor_room:9 "Salle de séjour"
 
  # SHI
  red_888:9 "Red 888 Guns"
@@ -120,9 +120,9 @@
 
  # Traits
  power_armor_manufacturer:0 "Fabricant d'Armures Assistée"
- bos_power_armor_manufacturer:9 "Brotherhood Power Armor Manufacturer"
+ bos_power_armor_manufacturer:9 "Fabricant d'armures assistées de la Confrérie"
  robot_manufacturer:0 "Fabricant de Robots"
-  robot_manufacturer_desc:0 ""
+ robot_manufacturer_desc:0 ""
  timstanks_manufacturer:0 "Fabricant de Chars"
   timstanks_manufacturer_desc:0 ""
  angory_manufacturer:0 "Fabricant de Chars"
