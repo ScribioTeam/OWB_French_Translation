@@ -206,8 +206,8 @@
  gdh_baja_arms_desc:9 ""
 
  gdh_baja_purchase:9 "L'achat de Baja"
- gdh_baja_purchase_desc:9 "The Legion is overstretched, and really doesn't want or need Baja. In contrast, our acquisition would give us control over the Sea of Cortez! Soon to be the Sea of Vialla!"
- 	ces_owns_baja_states_tt:9 "[CES.GetName] or a subject owns the Baja Penninsula."
+ gdh_baja_purchase_desc:9 "La Légion est débordée, et ne veut pas ou n'a pas besoin de Baja. En revanche, notre acquisition nous donnerait le contrôle de la mer de Cortez ! Bientôt la mer de Vialla !"
+ ces_owns_baja_states_tt:9 "[CES.GetName] ou un sujet possède la péninsule de Baja."
 
 
  gdh_ranger_mission:9 "Les Brutes de Rio"
@@ -233,16 +233,16 @@
  gdh_accept_frumentarii_desc:9 ""
 
  gdh_render_to_caeser:9 "Rendre à César"
- gdh_render_to_caeser_desc:9 "We have done so much for Caesar, surely he won't mind if we learn some of his tricks for his own use."
+ gdh_render_to_caeser_desc:9 "Nous avons tant fait pour César, cela ne le dérangera sûrement pas que nous apprenions certains de ses tours pour son propre usage."
 
  gdh_roman_pact:9 "Les Socii de la Légion"
  gdh_roman_pact_desc:9 "Nous proposerons un traité de paix éternelle à [CES.GetNamewithFlag]. Et cela favorisera le développement économique de notre capitale."
 
  gdh_ultima_purchase:9 "L'Achat d'Ultimo"
- gdh_ultima_purchase_desc:9 "We really ned this more than Caesar. He can always get a window on the Pacific in California, after all."
+ gdh_ultima_purchase_desc:9 "Nous avons vraiment besoin de cela plus que César. Il peut toujours avoir une fenêtre sur le Pacifique en Californie, après tout."
 
  gdh_nogales_badlands:9 "Les Badlands de Nogales"
- gdh_nogales_badlands_desc:9 "Some say the Nogales are badlands, but those are mostly Norteamericanos who live in Arizona. Who are they to judge? But as long as Caesar thinks such foolishness, let's take it off his hands."
+ gdh_nogales_badlands_desc:9 "Certains disent que les Nogales sont des badlands, mais ce sont surtout des Norteamericanos qui vivent en Arizona. Qui sont-ils pour juger ? Mais tant que César pensera à une telle bêtise, laissons-lui le champ libre."
 
 
  gdh_ncr_renegotiation:9 "Renégociations"
