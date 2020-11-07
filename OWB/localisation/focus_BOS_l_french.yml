@@ -165,10 +165,10 @@
  bos_shichapter_desc:0 "Les Shi pourraient facilement être conquis par nos forces, mais beaucoup de membres de la Confrérie craignent qu'un tel choix ne mène à la destruction massive de leurs archives technologiques secrètes. Au lieu de cela, une méthode alternative a été proposée ... pourquoi ne pas simplement réouvrir le Chapitre de la Confrérie de San Francisco pour tenir la ville ?"
 
  bos_demand:0 "Demande la baie"
- bos_demand_desc:9 "The NCR's recent war has put them into a precarious position. We could make use of this moment and attempt to demand the NCR owned section of the Bay Area."
+ bos_demand_desc:9 "La récente guerre de la RNC les a mis dans une position précaire. Nous pourrions profiter de ce moment pour tenter de réclamer Bay Area appartenant à la RNC."
 
  bos_emperor:0 "Audience avec l'empereur"
- bos_emperor_desc:9 "The Emperor of the Shi has deemed us worth of a formal meeting, following the founding of our chapter. He is a marvellous man - at least, according to his advisor."
+ bos_emperor_desc:9 "L'empereur des Shi nous a jugé digne d'une réunion formelle, suite à la fondation de notre chapitre. C'est un homme merveilleux - du moins, selon son conseiller."
 
  bos_shisecrets:0 "Secrets Volés"
  bos_shisecrets_desc:0 "L'infanterie au sol des Shi amène avec elle des armes de Gauss avancées, qui ne peuvent être produites nulle part ailleurs dans les friches. En contrôlant leurs domaines de fabrication, nous pouvons prendre de telles armes auprès de leurs producteurs."
@@ -381,19 +381,19 @@
  bos_forbiddenweapons_desc:0 "La production d'armes à plasma, caractéristique de longue date des factions les plus avancées dans les friches, était autrefois considérée comme impossible. Grâce aux informations volées dans l'Enclave, nous pensons que nos installations peuvent être mises à niveau pour les produire en masse !"
 
   #Sunburst
- bos_elijahs_victory_at_sunburst:9 "Elijah's Victory at Sunburst!"
- bos_elijahs_victory_at_sunburst_desc:9 "None of the elders truly believed that Elijah would win out there in the east. However, it seems word has gotten back that he has done the impossible! Lets send him a small supply of Power Armour to help him keep control of the Mojave."
+ bos_elijahs_victory_at_sunburst:9 "Victoire d'Elijah à Sunburst !"
+ bos_elijahs_victory_at_sunburst_desc:9 "Aucun des Aînés ne croyait vraiment qu'Elijah gagnerait à l'Est. Cependant, il semble que l'on ait appris qu'il a fait l'impossible ! Envoyons lui une petite réserve d'armure assistées pour l'aider à garder le contrôle du Mojave."
   
   #Arthurian Brotherhood
  spellcheck_ignore:9 "bos_knights_of_the_round_table_desc, bos_the_holy_hand_grenade_desc, bos_holy_hand_grenade_tt_3"
- bos_the_arthurian_brotherhood:9 "The Arthurian Brotherhood"
- bos_the_arthurian_brotherhood_desc:9 "The Arthurian Squadron, while unorthodox embodied the spirit of the Brotherhood better then any other. Lets honour their legacy and reform Lost Hills to match their image!"
- bos_arthurian_brotherhood_tt:9 "We embrace the identity of the Arthurian Squadron's legacy.\nMari Törni will now be known as 'Catherine Törni', to honour their legacy."
- bos_knights_of_the_round_table:9 "Knights of the Round Table"
- bos_knights_of_the_round_table_desc:9 "We're Knights of the Round Table.\nWe dance whene'er we're able.\nWe do routines and chorus scenes\nWith footwork impeccable!"
- bos_the_holy_hand_grenade:9 "The Holy Hand Grenade"
- bos_the_holy_hand_grenade_desc:9 "Four shalt thou not count, neither count thou two, excepting that thou then proceed to three. Five is right out. Once the number three, being the third number, be reached, then lobbest thou thy Holy Hand Grenade of Antioch towards thy foe, who, being naughty in My sight, shall snuff it."
- bos_holy_hand_grenade_tt_1:9 "The vile, nefarious republic has met their end."
- bos_holy_hand_grenade_tt_2:9 "We have struck down, or brought the Dragon of the Orient under our banner."
- bos_holy_hand_grenade_tt_3:9 "The year is at least Anno Domini 2280."
+ bos_the_arthurian_brotherhood:9 "La Confrérie d'Arthur"
+ bos_the_arthurian_brotherhood_desc:9 "L'escadron d'Arthur, bien que peu orthodoxe, incarnait mieux que tout autre l'esprit de la Confrérie. Rendons hommage à leur héritage et réformons Lost Hills à leur image !"
+ bos_arthurian_brotherhood_tt:9 "Nous embrassons l'identité de l'héritage de l'escadron d'Arthur.\nMari Törni sera désormais connue sous le nom de \"Catherine Törni\", pour honorer son héritage."
+ bos_knights_of_the_round_table:9 "Chevaliers de la Table Ronde"
+ bos_knights_of_the_round_table_desc:9 "Nous sommes les Chevaliers de la Table Ronde.\nNous dansons quand nous en sommes capables.\nNous faisons des routines et des scènes de chœur\nAvec un jeu de jambes impeccable !"
+ bos_the_holy_hand_grenade:9 "La Sainte Grenade à Main"
+ bos_the_holy_hand_grenade_desc:9 "Tu ne compteras pas quatre, ni deux, sauf si tu passes ensuite à trois. Cinq, c'est parfait. Une fois que le nombre trois, qui est le troisième nombre, est atteint, alors lance ta Sainte Grenade d'Antioche vers ton ennemi, qui, étant méchant à Mes yeux, l'étouffera."
+ bos_holy_hand_grenade_tt_1:9 "La république vile et malfaisante a atteint sa fin."
+ bos_holy_hand_grenade_tt_2:9 "Nous avons terrassé, ou amené le Dragon d'Orient sous notre bannière."
+ bos_holy_hand_grenade_tt_3:2280 "L'année est au moins Anno Domini 2280."
   
