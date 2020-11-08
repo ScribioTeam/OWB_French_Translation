@@ -22,6 +22,7 @@
  CES_friends_of_the_legion:9 "Les Amicii de la Légion"
  CES_friends_of_the_legion_desc:9 "[CES.GetLeader] ne conquiert pas tous les peuples qu'il vainc. Certains colons bénéficient de l'autonomie tant que les villes versent des impôts à la Légion. D'autres, comme la [RES.GetName], font du commerce avec la Légion. Il y a une raison pour laquelle préfèrent vivre sous le Taureau plutôt que de vivre seuls.\n\n[CES_navajo_loyalty_scripted_loc] \n"
  navajo_auxiliary:9 "Les Guerriers Navajo"
+ NAV_heal_caeasr:0 "Soigner César"
  navajo_code_talkers:9 "Les Parleurs de Code"
  navajo_silversmiths:9 "Bienvenue aux Orfèvres"
  reservation_slave_trade:9 "Commerce avec la [RES.GetName]"
