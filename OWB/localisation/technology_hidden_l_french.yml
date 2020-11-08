@@ -12,12 +12,12 @@
  HEADER_RANGER_BUFFS:0 "Bonus Ranger du désert"
  HEADER_NCR_BUFFS:0 "Bonus RNC"
  HEADER_VAULT_CITY_BUFFS:0 "Bonus Vault City"
- HEADER_MEXICO_BUFFS:9 "Mexico Buffs"
- HEADER_TBH_BUFFS:9 "Texan Brotherhood Buffs"
+ HEADER_MEXICO_BUFFS:9 "Bonus du Mexique"
+ HEADER_TBH_BUFFS:9 "Bonus de la Confrérie Texane"
 
  HEADER_RENO_BUFFS:0 "Bonus New Reno"
  HEADER_OREGON_BUFFS:0 "Bonus de l'Oregon"
- HEADER_COLORADO_BUFFS:9 "Colorado Buffs"
+ HEADER_COLORADO_BUFFS:9 "Bonus du Colorado"
  HEADER_SETTLER_BUFFS:0 "Bonus Colon"
  HEADER_RAIDER_BUFFS:0 "Bonus Pillard"
  HEADER_LEGION_BUFFS:0 "Bonus Légion"
@@ -48,22 +48,22 @@
 
 
   # Units
- police_infantry_tech:9 "Lawkeeper Infantry"
+ police_infantry_tech:9 "Infanterie Police"
  police_infantry_tech_desc:9 ""
- sentinel_unit_tech:9 "Sentinel Combat System"
+ sentinel_unit_tech:9 "Système de combat sentinelle"
  sentinel_unit_tech_desc:9 ""
-  dog_infantry_tech:0 "Warhound Platoon"
-  super_mutant_aux_infantry_tech:0 "Super Mutant Auxilaries"
+ dog_infantry_tech:0 "Peloton de chiens de guerre"
+ super_mutant_aux_infantry_tech:0 "Auxiliaires super-mutants"
  ghoul_paratrooper_tech:0 "Parachutistes goules"
  super_mutant_nightkin_tech:0 "Nightkin"
- plant_support_tech:9 "Monstrous Plants"
+ plant_support_tech:9 "Plantes Monstrueuses"
  plant_support_tech_desc:9 ""
 
 
 
  #Tribal
   pathfinders:0 "Éclaireurs"
-  pathfinders_desc: ""
+ pathfinders_desc:0 ""
 
   clanfightingstyles:0 "Style de combat de clan"
   clanfightingstyles_desc: ""
@@ -192,19 +192,19 @@
 
  legion_vexillarius_tech:0 "Vexillarius"
  legion_vexillarius_tech_desc:0 ""
- legion_training_tech:9 "Legion Training"
+ legion_training_tech:9 "Entraînement de la Légion"
  legion_training_tech_desc:9 ""
- legion_frumentarii_officers_tech:9 "Frumentarii Officers"
+ legion_frumentarii_officers_tech:9 "Officiers Frumentarii"
  legion_frumentarii_officers_tech_desc:9 ""
- legion_frumentarii_commandoes_tech:9 "Frumentarii Commandos"
+ legion_frumentarii_commandoes_tech:9 "Commandos Frumentarii"
  legion_frumentarii_commandoes_tech_desc:9 ""
- ces_aurelius_mercenaries_tech:9 "Mercenary Advisors"
+ ces_aurelius_mercenaries_tech:9 "Conseillers Mercenaires"
  ces_aurelius_mercenaries_tech_desc:9 ""
- CES_horns_moroni_tech:9 "Horns of Moroni"
+ CES_horns_moroni_tech:9 "Cornes de Moroni"
  CES_horns_moroni_tech_desc:9 ""
- armored_chariots_tech:9 "Armoured Chariots"
+ armored_chariots_tech:9 "Chariots Blindés"
  armored_chariots_tech_desc:9 ""
- CES_mercenary_training_tech:9 "Mercenary Training Tech"
+ CES_mercenary_training_tech:9 "Technologie d'entraînement de mercenaires"
  CES_mercenary_training_tech_desc:9 ""
 
 
@@ -228,19 +228,19 @@
  raider_reckless_aggression_desc:0 ""
 
  #Raider
- tbh_lawkeepers_tech_1:9 "Deputy Training"
+ tbh_lawkeepers_tech_1:9 "Entraînement des Adjoints"
  tbh_lawkeepers_tech_1_desc:9 ""
- tbh_lawkeepers_tech_2:9 "Sheriff Training"
+ tbh_lawkeepers_tech_2:9 "Entraînement du Sheriff"
  tbh_lawkeepers_tech_2_desc:9 ""
- tbh_lawkeepers_tech_3:9 "Marshall Training"
+ tbh_lawkeepers_tech_3:9 "Entraînement du Marshal"
  tbh_lawkeepers_tech_3_desc:9 ""
 
  #Colorado
- ttm_healthy_warriors:9 "Healthy Warriors"
+ ttm_healthy_warriors:9 "Guerriers en bonne santé"
  ttm_healthy_warriors_desc:9 ""
- ttm_call_of_the_wild:9 "Call of the Wild"
+ ttm_call_of_the_wild:9 "Appel de la Nature"
  ttm_call_of_the_wild_desc:9 ""
- ttm_jurassic_strength:9 "Jurassic Strength"
+ ttm_jurassic_strength:9 "Force Jurassique"
  ttm_jurassic_strength_desc:9 ""
 
   #Block Tech Tech
@@ -256,5 +256,5 @@
  westtek_unlock_tech:0 "Schémas West-Tek"
  robco_unlock_tech:0 "Industries Robco"
 
- mininuke_unlock_tech:9 "Mini-nuke"
- artillery_ammo_unlock_tech:9 "Artillery Ammunition"
+ mininuke_unlock_tech:9 "Mini-bombe Nucléaire"
+ artillery_ammo_unlock_tech:9 "Munitions d'Artillerie"

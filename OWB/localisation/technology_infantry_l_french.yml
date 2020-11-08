@@ -39,9 +39,9 @@
  heavy_infantry_tech_1:0 "Troupes d'exécution"
  heavy_infantry_tech_1_desc:0 ""
  heavy_infantry_tech_2:0 "Placage supplémentaire"
- heavy_infantry_tech_2_desc:9 "Reinforcing the natural weak spots discovered in our Enforcer's armor with additional armor plating, as well as providing them with purpose-built military helmets instead of their scavenged equipment, should make them much more resistant to small-arms fire. While it will slow them down further, few of them would turn down the opportunity to resist a rifle cartridge to the skull."
+ heavy_infantry_tech_2_desc:9 "Renforcer les points faibles naturels découverts dans les armures de nos Enforcer par un blindage supplémentaire, ainsi que leur fournir des casques militaires spécialement conçus à la place de leur équipement de récupération, devrait les rendre beaucoup plus résistants aux tirs d'armes légères. Bien que cela les ralentira encore plus, peu d'entre eux refuseraient la possibilité de résister à une cartouche de fusil sur le crâne."
  heavy_infantry_tech_3:0 "Entraînement CqC"
- heavy_infantry_tech_3_desc:9 "Now that we have acquired experience in the use of our Enforcers, we can begin developping a uniform, specialized operational doctrine which would vastly increase their effectiveness in close-quarter combat. Better hand-to-hand training alongside squad suppression techniques go a long way in making them more effective on the field."
+ heavy_infantry_tech_3_desc:9 "Maintenant que nous avons acquis de l'expérience dans l'utilisation de nos Enforcers, nous pouvons commencer à développer une doctrine opérationnelle uniforme et spécialisée qui augmenterait considérablement leur efficacité dans le combat rapproché. Un meilleur entraînement au corps-à-corps ainsi que des techniques de suppression des escouades contribuent largement à les rendre plus efficaces sur le terrain."
 
  #----------------------------
  # Ranged Weaponry
@@ -110,8 +110,8 @@
  power_armour_raider:0 "Armure Assistée de Pillard"
  power_armour_raider_desc:0 ""
 
- texas_brotherhood_pa_tech:9 "Vault-Tec Power Armour"
- texas_brotherhood_pa_tech_desc:9 "A vault-tec attempt at creating functional power armour."
+ texas_brotherhood_pa_tech:9 "Armure Assistée Vault-Tec"
+ texas_brotherhood_pa_tech_desc:9 "Une tentative de vault-tec de création d'une armure assistée fonctionnelle."
 
  spec_ops_equipment_tech_1:0 "Forces spéciales 1"
  spec_ops_equipment_tech_1_desc:0 ""
@@ -167,15 +167,15 @@
 	#--------
 	# Skates
 	#--------
- 	skate_infantry:9 "Skate Infantry"
- 	skater_tech:9 "Roller Skates"
- 	rocket_skater_tech:9 "Rocket Skates"
- 	skate_equipment:9 "Skate Equipment"
- 	skate_equipment_desc:9 "While not considered a traditional means of moving troops around the battlefield, it's difficult to argue with the sheer terror caused by nimble troopers plowing into enemy lines at high speed. Reduced precision and accuracy is an unfortunate downside, however."
- 	skate_equipment_1:9 "Roller Skates"
- 	skate_equipment_1_desc:9 "While not considered a traditional means of moving troops around the battlefield, it's difficult to argue with the sheer terror caused by nimble troopers plowing into enemy lines at high speed. Reduced precision and accuracy is an unfortunate downside, however."
- 	skate_equipment_2:9 "Rocket Skates"
- 	skate_equipment_2_desc:9 "While conventional skates can significantly improve the speed of a typical soldier, rocket skates allow them to translate even more momentum directly into brutal frontal charges. Unsurprisingly, however, they are significantly more difficult to manufacture and maintain - and make tasks requiring precision aim or stationary defense much harder."
+ skate_infantry:9 "Infanterie de patins"
+ skater_tech:9 "Patins à roulettes"
+ rocket_skater_tech:9 "Patins fusées"
+ skate_equipment:9 "Équipement de patinage"
+ skate_equipment_desc:9 "Bien qu'il ne soit pas considéré comme un moyen traditionnel de déplacer les troupes sur le champ de bataille, il est difficile de contester la terreur pure et simple causée par des soldats agiles qui enfoncent les lignes ennemies à grande vitesse. La précision et l'exactitude réduites sont cependant un inconvénient regrettable."
+ skate_equipment_1:9 "Patins à roulettes"
+ skate_equipment_1_desc:9 "Bien qu'il ne soit pas considéré comme un moyen traditionnel de déplacer les troupes sur le champ de bataille, il est difficile de contester la terreur pure et simple causée par des soldats agiles qui enfoncent les lignes ennemies à grande vitesse. La précision et l'exactitude réduites sont cependant un inconvénient regrettable."
+ skate_equipment_2:9 "Patins fusées"
+ skate_equipment_2_desc:9 "Alors que les patins conventionnels peuvent améliorer considérablement la vitesse d'un soldat type, les patins fusées leur permettent de traduire encore plus d'élan directement en charges frontales brutales. Il n'est pas surprenant, cependant, qu'ils soient beaucoup plus difficiles à fabriquer et à entretenir, et qu'ils rendent beaucoup plus difficiles les tâches nécessitant une visée de précision ou une défense stationnaire."
 
  #----------------------------
  # Nation Specific Localisation
