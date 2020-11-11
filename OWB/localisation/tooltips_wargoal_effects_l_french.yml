@@ -2,5 +2,5 @@
  core_owned_states_of_prev_tt:0 "§GRevendique§! tous les États possédés également par §Y[Prev.GetNameDef]§!.\n"
  core_all_core_states_of_prev_tt:0 "§GRend coeur§! tous les états coeur de §Y[Prev.GetNameDef]§!.\n"
  claim_core_states_of_prev_tt:0 "Accorde des §Grevendication§! §Y[This.GetNameDef]§! sur les territoires coeur de §Y[Prev.GetNameDef]§!.\n"
- grant_claims_and_wargoal_for_core_states_of_prev_tt:9 "Grants §Y[This.GetNameDef]§! §Gclaims§! on and a §G[Root.GetWargoalFlavorLoc]§! for §Y[Prev.GetNameDef]'s§! core territories.\n"
+ grant_claims_and_wargoal_for_core_states_of_prev_tt:9 "Accorde à §Y[This.GetNameDef]§! des §Grevendications§! et un §G[Root.GetWargoalFlavorLoc]§! pour les territoires cœur de §Y[Prev.GetNameDef]§!.\n"
  grant_claims_and_territory_dispute_decisions_for_core_states_of_prev_tt:0 "Accord des §Grevendications§! §Y[This.GetNameDef]§! et déverrouille les §Gdécisions de conflit territorial§! pour les anciens territoires coeur de §Y[Prev.GetNameDef]§!.\n"

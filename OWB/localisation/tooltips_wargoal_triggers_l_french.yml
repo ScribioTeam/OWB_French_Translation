@@ -1,8 +1,8 @@
 ﻿l_french:
  sphere_owns_all_core_land_of_prev_tt:0 "Tout état coeur de §Y[Prev.GetNameDef]§! est détenu par §Y[This.GetNameDef]§!, ses sujets, ou ses alliés.\n"
  all_core_land_owned_by_prev_sphere_tt:0 "Tout état coeur de §Y[This.GetNameDef]§! est détenu par §Y[Prev.GetNameDef]§!, ses sujets, ou ses alliés.\n"
- mormons_own_all_core_land_of_prev_tt:9 "All core land of §Y[Prev.GetNameDef]§! is owned by §Y[This.GetNameDef]§! or another country under §YMormon§! influence.\n"
- all_core_land_owned_by_mormons_tt:9 "All core land of §Y[This.GetNameDef]§! is owned by §Y[Prev.GetNameDef]§! or another country under §YMormon§! influence.\n"
+ mormons_own_all_core_land_of_prev_tt:9 "Tous les territoires cœurs de §Y[Prev.GetNameDef]§! sont détenus par §Y[This.GetNameDef]§! ou un autre pays sous influence §YMormone§!.\n"
+ all_core_land_owned_by_mormons_tt:9 "Tous les territoires cœurs de §Y[This.GetNameDef]§! sont détenus par §Y[Prev.GetNameDef]§! ou un autre pays sous influence §YMormone§!.\n"
  sphere_controls_all_core_land_of_prev_tt: "Tout état coeur de §Y[Prev.GetNameDef]§! est contrôlé par §Y[This.GetNameDef]§!, ses sujets, ou ses alliés.\n"
  all_core_land_controlled_by_prev_sphere_tt: "Tout état coeur de §Y[This.GetNameDef]§! est contrôlé par §Y[Prev.GetNameDef]§!, ses sujets, ou ses alliés.\n"
- country_owns_all_core_land_of_prev_tt:9 "All core land of §Y[Prev.GetNameDef]§! is owned by §Y[This.GetNameDef]§!.\n"
+ country_owns_all_core_land_of_prev_tt:9 "Tous les territoires cœurs de §Y[Prev.GetNameDef]§! sont détenus par §Y[This.GetNameDef]§!.\n"
