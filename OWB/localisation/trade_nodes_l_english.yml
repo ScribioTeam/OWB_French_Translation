@@ -111,6 +111,11 @@ l_english:
 
 ### Global Node Map GUI
   TRADE_MAP_HEADER_TT: "Trade Node Map"
+  TRADE_MAP_LEDER_HEADER: "Trade Ledger"
+  TRADE_MAP_CONTROLLED_NODES_HEADER: "Controlled Nodes"
+  TRADE_MAP_ROUTES_HEADER: "Country Trade Routes"
+  TRADE_MAP_FILTER_ROUTES_TEXT: "Filter Organizations:"
+  TRADE_CONNECTION_HEADER: "Trade Connections"
   map_selected_state_name_tt: "§Y[?node_map_selector.GetName]§!"
   map_selected_state_value_tt: "[GetNodeValue]"
   map_selected_state_trade_tt: "[GetNodeTade]"
@@ -144,6 +149,8 @@ l_english:
   TRADE_NODE_MAP_OWNED_LIST_NAME_DISABLED: "§g[This.GetName]§!"
   TRADE_NODE_MAP_OWNED_LIST_NAME_AVAILABLE: "§G[This.GetName]§!"
   TRADENODE_REMOVE_ROUTE_BUTTON_TT: "[!remove_trade_route_button_click_enabled]"
+  TRADE_NODE_MAP_SEND_BUTTON: "Send Trade Route"
+  TRADE_NODE_MAP_RECALL_BUTTON: "Recall Trade Route"
 
   ### Route ledger
   TRADE_NODE_MAP_COUNTRY_ROUTE_LIST: "§Y[THIS.GetName]§! to §Y[GetTradeRouteCountryListName]§!"

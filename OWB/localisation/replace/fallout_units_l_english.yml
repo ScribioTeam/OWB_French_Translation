@@ -259,14 +259,3 @@
   cybernetic_warform:0 "Cybernetic Warform"
   cybernetic_warform_short:0 "Warform"
   cybernetic_warform_desc:0 "What have we done?"
-
-  # Modifiers
-  modifier_army_sub_unit_power_armour_attack_factor:0 "Power Armour Attack"
-  modifier_army_sub_unit_power_armour_defence_factor:0 "Power Armour Defence"
-  modifier_army_sub_unit_power_armour_speed_factor:0 "Power Armour Speed"
-  modifier_army_sub_unit_tank_attack_factor:0 "Tank Attack"
-  modifier_army_sub_unit_tank_defence_factor:0 "Tank Defence"
-  modifier_army_sub_unit_dog_company_attack_factor: "Dog Attack Factor"
-  modifier_army_sub_unit_dog_company_speed_factor: "Dog Speed Factor"
-  modifier_army_sub_unit_dog_company_defence_factor: "Dog Defense Factor"
-  modifier_army_sub_unit_motorized_speed_factor: "Motorized Unit Speed Factor"
