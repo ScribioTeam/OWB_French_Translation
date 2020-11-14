@@ -132,7 +132,7 @@ guiTypes = {
 			position = { x = 70 y = 35 }
 			font = "hoi_18mbs"
 			##text = "[GetNextCost]"
-			text = "Revenu Brut :"
+			text = gross_income_header
 			format = left
 		}
 		instantTextBoxType = {
@@ -150,7 +150,7 @@ guiTypes = {
 			position = { x = 70 y = 65 }
 			font = "hoi_18mbs"
 			##text = "[GetNextCost]"
-			text = "Dépenses Trimestrielles :"
+			text = quaterly_expenses_header
 			format = left
 		}
 		instantTextBoxType = {
@@ -168,7 +168,7 @@ guiTypes = {
 			position = { x = 70 y = 95 }
 			font = "hoi_18mbs"
 			##text = "[GetNextCost]"
-			text = "Résultat Trimestriel :"
+			text = quarterly_profit_header
 			format = left
 		}
 		instantTextBoxType = {
@@ -195,7 +195,7 @@ guiTypes = {
 			position = { x = 0 y = 0 }
 			spriteType = "GFX_pipboy_plus_screen_button_small"
 			clicksound = click_close
-			buttonText = "Rejouer le Tutoriel"
+			buttonText = replay_button_text
 			buttonFont = "pipboy_16"
 			format = center
 		}
@@ -204,7 +204,7 @@ guiTypes = {
 			position = { x = 400 y = 0 }
 			spriteType = "GFX_pipboy_plus_screen_button_small"
 			clicksound = click_close
-			buttonText = "Afficher/Masquer les info-bulles"
+			buttonText = toggle_hint_text
 			buttonFont = "pipboy_16"
 			format = center
 			pdx_tooltip = "caps_enable_help_hints_tt"

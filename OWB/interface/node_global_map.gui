@@ -174,7 +174,7 @@ guiTypes = {
 				name ="filter_text"
 				position = { x = 0 y = 0 }
 				font = "hoi_18mbs"
-				text = "Filtre d'Organisation :"
+				text = TRADE_MAP_FILTER_ROUTES_TEXT
 
 				alwaystransparent = no
 			}
@@ -620,7 +620,7 @@ guiTypes = {
 				spriteType = "GFX_sort_button_140x29"
 				frame = 1
 				buttonFont = "hoi_16mbs"
-				buttonText = "Envoyer Route"
+				buttonText = TRADE_NODE_MAP_SEND_BUTTON
 				pdx_tooltip = "TRADE_NODE_TRADE_ROUTE_BUTTON_TT"
 			}
 			buttonType = {
@@ -629,7 +629,7 @@ guiTypes = {
 				spriteType = "GFX_sort_button_140x29"
 				frame = 1
 				buttonFont = "hoi_16mbs"
-				buttonText = "Rappeller Route Commerciale"
+				buttonText = TRADE_NODE_MAP_RECALL_BUTTON
 				pdx_tooltip = "TRADENODE_REMOVE_ROUTE_BUTTON_TT"
 			}
 		}
@@ -658,7 +658,7 @@ guiTypes = {
 				name ="header"
 				position = { x= 0 y = 0 }
 				font = "hoi_30header"
-				text = "Registre de Commerce"
+				text = TRADE_MAP_LEDER_HEADER
 				maxWidth = 220
 				maxHeight = 30
 				format = centre
@@ -779,7 +779,7 @@ guiTypes = {
 				name ="header"
 				position = { x= 0 y = 2 }
 				font = "hoi_24header"
-				text = "Connexions Commerciales"
+				text = TRADE_CONNECTION_HEADER
 				format = center
 				maxWidth = 230
 				maxHeight = 30
@@ -846,7 +846,7 @@ guiTypes = {
 				name ="header"
 				position = { x= 0 y = 2 }
 				font = "hoi_24header"
-				text = "Nœuds Contrôlés"
+				text = TRADE_MAP_CONTROLLED_NODES_HEADER
 				maxWidth = 230
 				maxHeight = 30
 				format = centre
@@ -883,7 +883,7 @@ guiTypes = {
 			size = { x = 226 y = 30 }
 			spriteType = "GFX_tiled_header_1"
 			buttonFont = "hoi_18mbs"
-			buttonText = "Routes Commerciales du Pays"
+			buttonText = TRADE_MAP_ROUTES_HEADER
 			#pdx_tooltip = TRADE_NODE_MAP_OWNED_LIST_TT
 			pdx_tooltip_delayed = NODE_MAP_LEDGER_ROUTES_TRIGGER
 		}
