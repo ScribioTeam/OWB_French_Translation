@@ -29,4 +29,3 @@
 
  PIPBOY_SLAVERY_TITLE_MECHANICS:0 "Esclavage"
  PIPBOY_PLUS_MECHANIC_SLAVERY:2 "Que vous l'aimiez ou non (surtout si vous êtes un esclave), §Rl'esclavage§! est une caractéristique des Terres Désolées. \n\nL'esclavage est une nouvelle fonctionnalité de la version 2.1, et est basé sur votre loi sur l'esclavage. L'esclavage va de la servitude contractuelle de [VLT.GetNamewithFlag] aux bandes de chaînes de [CES.GetNamewithFlag]. Selon la loi sur l'esclavage que vous adopterez, vous gagnerez un certain nombre d'esclaves par mois au prix de coups portés à la stabilité. D'autres esclaves peuvent être gagnés grâce à la §Rconquête§! \n\nUne fois par mois, le jeu calculera le nombre d'esclaves que possède votre empire. En fonction du nombre d'esclaves, vous obtiendrez de plus en plus d'avantages en termes d'efficacité de production, de vitesse de construction et de recherche grâce à l'idée §YProduction d'esclaves§ ! Le nombre d'esclaves sera plafonné à 1000."
-
