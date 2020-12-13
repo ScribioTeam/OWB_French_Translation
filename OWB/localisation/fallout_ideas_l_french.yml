@@ -159,27 +159,6 @@
  weapon_manufacturer_pre_war:0 "Fabricant d'Armes (avant-guerre)"
  energy_weapon_manufacturer_pre_war:0 "Fabricant d'Armes à Énergie (avant-guerre)"
 
-
- # Music
- music_settings_ideas:0 "Paramètres de la musique"
- music_event_idea:0 "Modifier les paramètres de la musique"
- music_event_idea_2:9 "Changer les paramètres additionnels de musique"
- settings:0 "Paramètres"
-
- #--------
- # Zetan
- #--------
- zetan:0 "Zétans !"
- zetan_desc:0 "Des entités très avancées, de l'autre monde, avec des capacités qui pourraient aussi bien être magiques pour les occupants des Terres Désolées."
-
- #--------
- # Misc?
- #--------
- research_bonus:0 "Effort de Recherche"
- research_bonus_desc:0 ""
- neutrality_owb:0 "Neutralité"
- neutrality_owb_desc:0 ""
-
  car_fighter_equipment:9 "Chasseur de porte-avions"
  hev_fighter_equipment:0 "Chasseur lourd"
  long_fighter_equipment:9 "Chasseur à longue distance"

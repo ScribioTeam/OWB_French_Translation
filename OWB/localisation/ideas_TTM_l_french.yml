@@ -6,9 +6,6 @@
  ttm_computational_power_num:9 "[?TTM.ttm_computational_power]"
  ttm_add_to_computational_power_tt:9 "Gagne §G+[?TTM.ttm_comp_power_to_add]§! §MPuissance de Calcul§!"
 
- ttm_future_airforce_aerial_warfare_doctrine:9 "§WA la technologie§!  §YDoctrine de Guerre Aérienne§!  §YFuture Force Aérienne§!"
- ttm_diana_hacking_tt:9 "§gDiana tente de pirater un certain nombre de satellites en orbite pour les ajouter à son réseau actuel.§!\n"
-
  ttm_the_nursery_factory_effects:9 "[TTM.ttm_coring_rng_scripted_localization][TTM.ttm_refractoring_radiation_compression_device_coring_effect_scripted_localization][TTM.ttm_geologic_crystal_growth_prism_coring_effect_scripted_localization][TTM.ttm_exponential_humidity_amplifier_system_coring_effect_scripted_localization][TTM.ttm_industrial_hillside_reforesting_network_coring_effect_scripted_localization][TTM.ttm_mass_relay_grassland_expander_coring_effect_scripted_localization]"
  ttm_the_nursery_factory_effects_tiny:9 "§WEffets de Terraformation:§! §RLocked§!."
 
@@ -78,8 +75,8 @@
  ttm_innocence_of_the_tribe:0 "Paix et Amour"
  ttm_innocence_of_the_tribe_desc:29 "La tribu des Twin Mothers, dont Diana est la chef, sont les anciens occupants de l'Abri 29. Leurs ancêtres faisaient partie d'une commune agraire basée sur le culte de la terre mère. Aujourd'hui encore, beaucoup de membres de la tribu ne connaissent pas les méthodes de guerre - ils doivent être guidés par Diana pas à pas pour assurer leur survie dans les terres désolées."
 
- ttm_safe_harbor_from_the_plague:9 "À l'abri de la Peste"
- ttm_safe_harbor_from_the_plague_desc:9 ""
+ ttm_safe_harbor_from_the_plague_idea:9 "A l'abri de la Peste"
+ ttm_safe_harbor_from_the_plague_idea_desc:9 ""
 
  ttm_epa_efficiency_protocol:9 "EPA Protocole d'Efficacité"
  ttm_epa_efficiency_protocol_desc:9 ""

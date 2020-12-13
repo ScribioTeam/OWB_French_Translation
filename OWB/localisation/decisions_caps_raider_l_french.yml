@@ -23,7 +23,7 @@
  caps_raider_reverse_raid:9 "Retribution for Raid"
  raider_backed_down_mission_complete_tt:9 "Raiders back down"
  raider_backed_down_sucess_tt:9 "Raiders from [?current_raider_reverse_target.GetName] may no longer raid [This.GetName]"
- caps_raider_reverse_raid_target:9 "Retribution for Raid"
+ caps_raider_reverse_raid_target_mission:9 "Retribution for Raid"
  raider_backed_down_mission_complete_tt_target:9 "Back down to demands"
  caps_raider_reverse_raid_target:9 "Back down to demands"
  raider_backed_down_raider_complete_tt:9 "We may no longer raid [FROM.GetName]"

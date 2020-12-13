@@ -28,7 +28,7 @@
  reservation_slave_trade:9 "Commerce avec la [RES.GetName]"
  navajo_silversmiths_tt:9 "Bienvenue §Y[NAV.GetName]§! orfèvres à [Root.Capital.GetName], déverouillage d'une nouvelle entreprise.\n"
  twosun_missile:9 "Les Laboratoires de Missiles"
- twosun_missile:9 "Two Sun abritait un laboratoire américain de missiles avant la Grande Guerre. Il y a beaucoup à apprendre de ces vieux livres."
+ twosun_missile_desc:9 "Two Sun abritait un laboratoire américain de missiles avant la Grande Guerre. Il y a beaucoup à apprendre de ces vieux livres."
  demand_motor_vehicles_two:9 "Les Chars des [TWO.GetName]"
  CES_WHT_friends:9 "Envoyer une expédition à [WHT.GetLeader]"
  CES_WHT_friends_desc:9 "Les [WHT.GetName] peuvent être un précieux substitut pour la Légion dans l'Utah. Avec un peu d'aide. Cependant, ils se réservent le droit de refuser notre aide car les sauvages peuvent toujours être inconstants."

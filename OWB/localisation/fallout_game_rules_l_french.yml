@@ -365,13 +365,19 @@
  RULE_SCAVENGING_DISABLED:0 "Désactiver le système de récupération"
  RULE_SCAVENGING_DISABLED_DESC:0 ""
 
+ RULE_ACE_PILOT_EVENTS:9 "Ace Pilot Event Toggle"
+ RULE_ACE_PILOT_EVENTS_ENABLED:9 "Enable Ace Pilot Events"
+ RULE_ACE_PILOT_EVENTS_ENABLED_DESC:9 "This will show events for when ace pilots are promoted and killed."
+ RULE_ACE_PILOT_EVENTS_DISABLED:9 "Disable Ace Pilot Events"
+ RULE_ACE_PILOT_EVENTS_DISABLED_DESC:9 "This will hide events for when ace pilots are promoted and killed."
+
  RULE_ALLOW_DISMANTLE_FACTION:0 "Démanteler une faction"
  RULE_ALLOW_DISMANTLE_FACTION_ALLOWED_DESC:0 "Permettre le démantèlement normal des factions à tout moment."
  RULE_ALLOW_DISMANTLE_FACTION_NOSTARTER:0 "Pas de démantèlement des factions de départ"
  RULE_ALLOW_DISMANTLE_FACTION_NOSTARTER_DESC:0 "Désactiver les factions qui existent déjà au démarrage d'un jeu pour qu'elles ne se démantèlent pas."
  RULE_ALLOW_DISMANTLE_FACTION_BLOCKED_DESC:0 "Le démantèlement des factions est désactivé pour tout le monde."
  RULE_DISMANTLE_FACTION_NOSTARTER_TT:0 "Règle du jeu : §RLes fractions faites au début du jeu ne peuvent pas être démantelées.§!"
- 
+
  RULE_MISC_OWB_WILD_WASTELAND:9 "Terres Désolées Sauvages"
  RULE_MISC_OWB_WILD_WASTELAND_DISABLED:9 "Désactivé"
  RULE_MISC_OWB_WILD_WASTELAND_DISABLED_DESC:9 "La règle du jeu Terres Désolées Sauvages est utilisée pour faire basculer des circonstances drôles mais étranges et surtout bénignes à travers les Terres Désolées. Par défaut, elle est désactivée."

@@ -196,7 +196,7 @@
  CHC_ballistic_equipment_1:9 "9mm Submachine Gun"
  CHC_ballistic_equipment_1_short:9 "9mm SMG"
  CHC_ballistic_equipment_1_desc:9 "The 9mm submachine gun is a classic that hardly needs an introduction. Improving upon the basic package, a telescopic assembly reduces it's size further, while higher quality cartridges crafted with increased powder load allows enhanced muzzle velocity and effect on soft target. Spray and Pray has never been this much fun."
-  
+
   # CLK (Clockwatchers / TimeKeepers)
   CLK_infantry_equipment_1:0 "Pipe Revolver"
   CLK_infantry_equipment_1_short:0 "Revolver"
@@ -274,7 +274,7 @@
   DIS_melee_equipment_2: "Conch Knife"
   DIS_melee_equipment_2_short: "Conch Knife"
   DIS_melee_equipment_2_desc: "One of the effects from the Great War was actually a warming of the seas. Two hundred years of no sea travel, warmer oceans and idle mutation has allowed the Anacapa Coral Reef System to spread across most of the western United States seaboard. Off the coast of Oregon tribals pick up bits of coral washed onto the sea for building construction, rituals and even armor and weapons!\nConch Knives are a part of this culture. Two pieces of shell grafted together with the conch shell in question being sharpened to a razor point these weapons made for effective slicing and dicing of any tribal, sacrifice or mutant."
-  
+
   #DSL (Doushou Lu)
  DSL_melee_equipment_3:9 "Chinese Officer Sword"
  DSL_melee_equipment_3_short:9 "Officer Sword"
@@ -743,7 +743,7 @@
  TPM_ballistic_equipment_2:9 "Single Action Revolver"
  TPM_ballistic_equipment_2_short:9 "Peacemaker"
  TPM_ballistic_equipment_2_desc:9 "The modern variant of a revolver so beloved it's production was restarted thrice, this single-action six-shot revolver is revered by it's users for it's compact wrist-breaking firepower, quick-loading cylinder removal system, and being cheap enough to simply carry many of them into battle. Loaded in .45 colt, preferred use still is and always will be to shoot one from each hand."
-  
+
   # TTM (Twin Mothers)
  TTM_infantry_equipment_1:9 "Wooden Recurve Bow"
  TTM_infantry_equipment_1_short:9 "Recurve Bow"
@@ -788,8 +788,8 @@
   VEG_energy_equipment_3_short: "Laser RCW"
   VEG_energy_equipment_3_desc: "The Laser Rapid Capacitor Weapon uses a drum containing six capacitors centered around an electron charge pack. The drum spins as the weapon fires, producing a continuous laser beam while simultaneously using the electron charge pack to recharge previously discharged capacitors. The design allows the Laser RCW to achieve rates of fire unavailable to single capacitor designs."
  VEG_robot_humanoid_tech:9 "Prime Protoype Mk. 37"
- IMO_heavy_infantry_tech_1_short:9 "Prime Protoype"
- IMO_heavy_infantry_tech_1_desc:9 "Robert House always hated working on the Liberty Prime project. The American overseers who hired him always continuing to have larger and larger demands for the size of the frame (Mostly so that it would serve as a better tool for propaganda purposes.).\nHouse always figured that a more efficient design would be one that was around nine feet tall - tall enough to see most of the battlefield, yet small enough where the power constaints of the larger variants were no longer of concern."
+ VEG_robot_humanoid_tech_short:9 "Prime Protoype"
+ VEG_robot_humanoid_tech_desc:9 "Robert House always hated working on the Liberty Prime project. The American overseers who hired him always continuing to have larger and larger demands for the size of the frame (Mostly so that it would serve as a better tool for propaganda purposes.).\nHouse always figured that a more efficient design would be one that was around nine feet tall - tall enough to see most of the battlefield, yet small enough where the power constaints of the larger variants were no longer of concern."
  VEG_support_robot_humanoid_equipment:9 "Prime Protoype Mk. 37"
  VEG_support_robot_humanoid_equipment_short:9 "Prime Protoype"
  VEG_support_robot_humanoid_equipment_desc:9 "Robert House always hated working on the Liberty Prime project. The American overseers who hired him always continuing to have larger and larger demands for the size of the frame (Mostly so that it would serve as a better tool for propaganda purposes.).\nHouse always figured that a more efficient design would be one that was around nine feet tall - tall enough to see most of the battlefield, yet small enough where the power constaints of the larger variants were no longer of concern."

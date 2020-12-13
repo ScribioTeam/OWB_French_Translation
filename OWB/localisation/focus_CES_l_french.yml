@@ -280,7 +280,7 @@
  ces_enslave_tribals_desc:0 "Les gens de Two Sun sont relativement à l'abri de la conscription légionnaire, pourtant les tribaux qui étaient sous leur protection sont les nôtres maintenant. Les Tombwalkers, les Sun Hunters et les Roadrunners seront absorbés dans la légion et formeront le cœur d'une nouvelle cohorte."
 
  ces_honestas_industria_prudentia:0 "Honestas, Industria, Prudentia"
- ces_honestas_industria_prudentia_desc:9 "Honnêteté, industrie, prudence; les trois vertus enseignées à tous les esclaves de la Légion. Que ces trois mots définissent ceux qui travaillent pour le plus grand bien, et qu'ils trouvent une orgueilleuse fierté dans leur devoir."  
+ ces_honestas_industria_prudentia_desc:9 "Honnêteté, industrie, prudence; les trois vertus enseignées à tous les esclaves de la Légion. Que ces trois mots définissent ceux qui travaillent pour le plus grand bien, et qu'ils trouvent une orgueilleuse fierté dans leur devoir."
 
  ces_warcamp_slaves:0 "Esclaves des Camps de guerre"
  ces_warcamp_slaves_desc:0 "Il a été décrété que ceux qui sont capables marcheront avec la légion. Ils devront réparer et créer de nouvelles armes, de l'armure et de l'équipement pour la Légion pendant son voyage. Chaque camp doit avoir une foule d'esclaves, qui existent à cette seule fin."
@@ -390,8 +390,6 @@
  ces_warriors_of_mars_desc:0 "Ceux qui portent l'armure Segmentata Power sont les plus grands de nos guerriers. Le cœur d'une nouvelle armée, capable de se battre avec n'importe quel ennemi que les Terres Désolées pourraient fournir."
 
  ces_aurelius:9 "Le Phénix Romain"
-
- ces_railroads:9 "Tous les Chemins Mènent à Rome"
 
  ces_equites:9 "Les Equites"
  ces_equites_desc:9 "Il est temps de lier l'élite des colons à la Légion. Accordons-leur des honneurs dans la Légion. Ils se sentiront ainsi attachés à notre pouvoir... et ils auront quelque chose à perdre si nous tombons."
@@ -664,8 +662,6 @@
  ces_northern_bastion_tt:100 "Perte de 100 esclaves"
  ces_northern_bastion:9 "Le Bastion Nord"
  ces_southern_bastion:9 "Le Bastion Sud"
- ces_honestas_industria_prudentia:0 "Honestas, Industria, Prudentia"
- ces_honestas_industria_prudentia_desc:9 "Honnêteté, industrie, prudence; les trois vertus enseignées à tous les esclaves de la Légion. Que ces trois mots définissent ceux qui travaillent pour le plus grand bien, et qu'ils trouvent une orgueilleuse fierté dans leur devoir."
  ces_eastern_bastion:9 "Le Bastion Est"
  ces_honesta_industria_prudentia_tt:9 "Débloquera des décisions qui augmenteront aussi votre nombre d'esclaves et leur fournira... d'autres utilisations."
  ces_dam_start:9 "Le Rubicon"

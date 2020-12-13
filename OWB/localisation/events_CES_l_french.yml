@@ -159,9 +159,7 @@
  nf_legion.30.d:9 "Les méthodes de [NAV.GetName] se heurtent à une grande partie des enseignements de la Légion. Les skinwalkers navajos se heurtent aux Frumentarii, car leur dépendance aux pip boys, aux stimpaks et aux équipements furtifs contraste fortement avec le mépris de la Légion pour les machines et la médecine. De plus, les Navajos interdisent la traite des esclaves et servent de tampon entre la Légion et les tribus du nord. [CES.GetLeader] a élaboré un nouveau plan pour apaiser les eaux troubles des Navajos en envoyant un émissaire.\n\nLe prétorien Lucius a proposé d'aller au nord avec des cadeaux de coton mexicain et d'argent du Nouveau Mexique, en promettant à César de continuer à respecter les Navajos. Le légat de Malpais ferait simplement marcher une cohorte vers le nord jusqu'à [NAV.Capital.GetName]."
  nf_legion.30.de:9 "Les méthodes de [NAV.GetName] se heurtent à une grande partie des enseignements de la Légion. Les skinwalkers navajos se heurtent aux Frumentarii, car leur dépendance aux pip boys, aux stimpaks et aux équipements furtifs contraste fortement avec le mépris de la Légion pour les machines et la médecine. De plus, les Navajos interdisent la traite des esclaves et servent de tampon entre la Légion et les tribus du nord. [CES.GetLeader] a élaboré un nouveau plan pour apaiser les eaux troubles des Navajos en envoyant un émissaire.\n\nLe prétorien Lucius a proposé d'aller au nord avec des cadeaux de coton mexicain et d'argent du Nouveau Mexique, en promettant à César de continuer à respecter les Navajos."
  nf_legion.30.a:9 "Que la paix soit avec vous."
- nf_legion.lucius_glory:9 "\nLucius gagne en §Mgloire !§!\n"
  nf_legion.30.b:9 "La peur les maintiendra dans le rang."
- nf_legion.malpais_glory:9 "\nMalpais gagne en §Mgloire !§!\n"
 
 
   ###### Southern Capital
@@ -177,7 +175,6 @@
  nf_legion.32.a:9 "Vulpes explique les bienfaits d'une révélation divine."
  nf_legion.32.a_tt:9 "Dans un rêve prophétique, le grand prêtre de Cannonball a appris que leur dieu souhaite que la moitié de leur tribut aille à la Légion."
  nf_legion.32.b:9 "Et faisant un fouet de cordes, il les chassa tous du temple."
- nf_legion.aurelius_glory:9 "\nAurelius gagne de la §Mgloire !§!\n"
  nf_legion.vulpes_glory:9 "\nVulpes gagne de la §Mgloire !§!\n"
 
 
@@ -518,14 +515,6 @@
  nf_legion.117.t:9 "Le Fabricant"
  nf_legion.117.d:9 "Certains membres de la Légion ont interrogé Lucius pour le Culte de Vulcain, et d'autres ont pensé qu'il était devenu fou. Mais à mesure que ceux qui se plaignaient disparaissaient et que la sagesse de Lucius prévalait, ils apprenaient à garder leurs pensées pour eux.\n\nAvec la conquête de la Nouvelle Californie, Lucius décréta qu'il construirait un atelier pour étudier les secrets de l'ancien monde. Vulcain serait glorifié par une Légion qui combattrait avec les armes du dieu. Et malheur à tous ceux qui se sont mis sur leur chemin."
  nf_legion.117.a:9 "Si César pouvait nous voir maintenant."
-  ############### bhd.1
- bhd.1.t:9 "Le Pont sur la Division"
- bhd.1.d:9 "L'expansion de la Légion s'est poursuivie, et nous avons une grande partie de l'Utah et du Colorado, et des villes de notre côté. Mais rien n'est comparable à Vegas. Nous allons traverser le Colorado et nous déverser dans Vegas. Nous aurons notre Rome. À la victoire !"
- bhd.1.a:9 "Merci Mars, Ulysse a trouvé ça !"
-  ###
- nf_legion.14.d:9 "Les Khans ont refusé votre généreuse invitation à la Légion ! Ils vont payer pour cette transgression !"
- nf_legion.14.a:0 "Des imbéciles"
-  #Placeholder Localisation Ends
 
  nf_legion.118.t:9 "Les Pillards !"
  nf_legion.118.d:9 "D'une manière ou d'une autre, des pillards ont traversé le fleuve Colorado et ont détruit nos convois de ravitaillement. Nous avons perdu beaucoup de matériel d'infanterie, un résultat désastreux !"
