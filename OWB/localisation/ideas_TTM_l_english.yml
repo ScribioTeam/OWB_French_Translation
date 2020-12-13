@@ -6,9 +6,6 @@
   ttm_computational_power_num: "[?TTM.ttm_computational_power]"
   ttm_add_to_computational_power_tt: "Gain §G+[?TTM.ttm_comp_power_to_add]§! §MComputational Power§!\n"
 
-  ttm_future_airforce_aerial_warfare_doctrine: "§WHas the §YAerial Warfare Doctrine§! technology§! §YFuture Airforce§!"
-  ttm_diana_hacking_tt: "§gDiana attempts to hack into a number of satellites in orbit to add them to her current network.§!\n"
-
   ttm_the_nursery_factory_effects: "[TTM.ttm_coring_rng_scripted_localization][TTM.ttm_refractoring_radiation_compression_device_coring_effect_scripted_localization][TTM.ttm_geologic_crystal_growth_prism_coring_effect_scripted_localization][TTM.ttm_exponential_humidity_amplifier_system_coring_effect_scripted_localization][TTM.ttm_industrial_hillside_reforesting_network_coring_effect_scripted_localization][TTM.ttm_mass_relay_grassland_expander_coring_effect_scripted_localization]"
   ttm_the_nursery_factory_effects_tiny: " §WTerraforming Effects:§W §RLocked.§!"
 
@@ -78,8 +75,8 @@
   ttm_innocence_of_the_tribe: "Peace And Love"
   ttm_innocence_of_the_tribe_desc: "The Twin Mothers tribe of which Diana rules are the former occupants of Vault 29. Their ancestors were a part of a agrarian commune based on the worship of the mother earth. Even to this day many in the tribe are unfamiliar with the ways of war - having to be guided by Diana step by step to ensure their survival in the wastes."
 
-  ttm_safe_harbor_from_the_plague: "Safe Harbour from the Plague"
-  ttm_safe_harbor_from_the_plague_desc: ""
+  ttm_safe_harbor_from_the_plague_idea: "Safe Harbour from the Plague"
+  ttm_safe_harbor_from_the_plague_idea_desc: ""
 
   ttm_epa_efficiency_protocol: "EPA Efficiency Protocol"
   ttm_epa_efficiency_protocol_desc: ""

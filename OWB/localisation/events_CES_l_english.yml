@@ -159,9 +159,7 @@
   nf_legion.30.d: "The ways of [NAV.GetName] clash with much of the Legion's teachings. The Navajo Skinwalkers clash with the Frumentarii, as their reliance on pip boys, stimpaks, and stealth equipment are a stark contrast to the Legion's disdain of machines and medicine. Moreover, the Navajo ban slave trading and act as a buffer between the Legion and the tribes to the north. [CES.GetLeader] has come up with a new plan to soothe the troubled waters of the Navajo by sending an emissary. \n\nPraetorian Lucius has offered to go north with gifts of Mexican cotton and New Mexican silver, offering to promise Caesar will continue to respect the Navajo.  Malpais Legate would simply march a cohort north to [NAV.Capital.GetName]."
   nf_legion.30.de: "The ways of [NAV.GetName] clash with much of the Legion's teachings. The Navajo Skinwalkers clash with the Frumentarii, as their reliance on pip boys, stimpaks, and stealth equipment are a stark contrast to the Legion's disdain of machines and medicine. Moreover, the Navajo ban slave trading and act as a buffer between the Legion and the tribes to the north. [CES.GetLeader] has come up with a new plan to soothe the troubled waters of the Navajo by sending an emissary. \n\nPraetorian Lucius has offered to go north with gifts of Mexican cotton and New Mexican silver, offering to promise Caesar will continue to respect the Navajo."
   nf_legion.30.a: "Peace be with you."
-  nf_legion.lucius_glory: "\nLucius gains §Mglory!§!\n"
   nf_legion.30.b: "Fear will keep them in line."
-  nf_legion.malpais_glory: "\nMalpais gains §Mglory!§!\n"
 
 
   ###### Southern Capital
@@ -177,7 +175,6 @@
   nf_legion.32.a: "Vulpes explains the benefits of a divine revelation."
   nf_legion.32.a_tt: "In a prophetic dream, the high priest of Cannonball learned their god wishes for half of their tribute to go to the Legion."
   nf_legion.32.b: "And making a whip of cords, he drove them all out of the temple."
-  nf_legion.aurelius_glory: "\nAurelius gains §Mglory!§!\n"
   nf_legion.vulpes_glory: "\nVulpes gains §Mglory!§!\n"
 
 
@@ -518,14 +515,6 @@
   nf_legion.117.t: "The Fabricator"
   nf_legion.117.d: "Some in the Legion questioned Lucius for the Cult of Vulcan, and some thought he went mad. But as those who complained vanished, and as Lucius' wisdom prevailed, they learned to keep their thoughts to themselves. \n\nWith the conquest of New California, Lucius decreed he would build a workshop to study the secrets of the old world. Vulcan would be glorified with a Legion that fought with the weapons of the god. And woe to anyone who stood in their path."
   nf_legion.117.a: "If Caesar could see us now."
-  ############### bhd.1
-  bhd.1.t: "The Bridge Across the Divide"
-  bhd.1.d: "the Legion's expansion has continued, and we much of Utah and Colorado, and cities of our own.  But nothing compares to Vegas. We will cross the Colorado, and pour forth into Vegas. We will have our Rome. To Victory!"
-  bhd.1.a: "Thank Mars Ulysses found this!"
-  ###
-  nf_legion.14.d: "The Khans have refused your generous invitation to the Legion! They will pay for this transgression!"
-  nf_legion.14.a: "Fools"
-  #Placeholder Localisation Ends
 
   nf_legion.118.t: "The Raiders!"
   nf_legion.118.d: "Somehow, raiders have come across the Colorado River and destroyed our supply convoys. We've lost a great deal of infantry equipment, a disastrous outcome!"

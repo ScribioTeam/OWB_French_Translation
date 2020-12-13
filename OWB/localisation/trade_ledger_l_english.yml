@@ -13,9 +13,4 @@
   #TRADE_LEDGER_CONSCRIPTION_LAW_TT: "§YConscription Law§! \nThe current conscription law is §Y[This.GetConscriptionLawName]§! which conscripts §Y[This.GetConscriptionLawPercentage]§! of the core population."
   #legion_vassal: "Tribal Subject"
 
-  # Scripted Localisation:
-  string_green: "§G"
-  string_yellow: "§Y"
-  string_red: "§R"
-
   #tring_puppet_ledger_conscription_factor: "\n\nEffective Total Manpower modified to §Y[?conscription_factor_temp|0%]§!."

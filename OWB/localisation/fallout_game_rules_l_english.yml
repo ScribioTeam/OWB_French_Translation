@@ -365,13 +365,19 @@
   RULE_SCAVENGING_DISABLED:0 "Disable the Scavenging System"
   RULE_SCAVENGING_DISABLED_DESC:0 ""
 
+  RULE_ACE_PILOT_EVENTS:0 "Ace Pilot Event Toggle"
+  RULE_ACE_PILOT_EVENTS_ENABLED:0 "Enable Ace Pilot Events"
+  RULE_ACE_PILOT_EVENTS_ENABLED_DESC:0 "This will show events for when ace pilots are promoted and killed."
+  RULE_ACE_PILOT_EVENTS_DISABLED:0 "Disable Ace Pilot Events"
+  RULE_ACE_PILOT_EVENTS_DISABLED_DESC:0 "This will hide events for when ace pilots are promoted and killed."
+
   RULE_ALLOW_DISMANTLE_FACTION:0 "Dismantle Faction"
   RULE_ALLOW_DISMANTLE_FACTION_ALLOWED_DESC:0 "Allow normal dismantling of factions at any time."
   RULE_ALLOW_DISMANTLE_FACTION_NOSTARTER:0 "No Dismantling Starting Factions"
   RULE_ALLOW_DISMANTLE_FACTION_NOSTARTER_DESC:0 "Disable the factions that are already existing on startup of a game from dismantling themselves."
   RULE_ALLOW_DISMANTLE_FACTION_BLOCKED_DESC:0 "Dismantling of factions is disabled for everyone."
   RULE_DISMANTLE_FACTION_NOSTARTER_TT:0 "Game rule: §RFactions made on game start can not be dismantled.§!"
- 
+
   RULE_MISC_OWB_WILD_WASTELAND: "Wild Wasteland"
   RULE_MISC_OWB_WILD_WASTELAND_DISABLED: "Disabled"
   RULE_MISC_OWB_WILD_WASTELAND_DISABLED_DESC: "The Wild Wasteland game rule is used to toggle funny but strange and mostly benign circumstances across the Wasteland. By default it is off."

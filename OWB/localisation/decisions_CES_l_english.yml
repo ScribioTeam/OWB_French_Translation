@@ -28,7 +28,7 @@
   reservation_slave_trade: "Trade with [RES.GetName]"
   navajo_silversmiths_tt: "Welcome §Y[NAV.GetName]§! silversmiths to [Root.Capital.GetName], unlocking a new business.\n"
   twosun_missile: "The Missile Labs"
-  twosun_missile: "Two Sun was home to an American missile lab before the Great War. And there's a lot you can learn from those old books."
+  twosun_missile_desc: "Two Sun was home to an American missile lab before the Great War. And there's a lot you can learn from those old books."
   demand_motor_vehicles_two: "The Chariots of [TWO.GetName]"
   CES_WHT_friends: "Send an Expedition to [WHT.GetLeader]"
   CES_WHT_friends_desc: "[WHT.GetName] can be a valuable proxy for the Legion in Utah. With some assistance. However, they reserve the right to refuse our aid as savages can always be fickle."

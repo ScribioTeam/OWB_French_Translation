@@ -50,7 +50,7 @@
   nf_gente.11.d: "We have received an unusual offer from Mexico. It appears that [GDH.GetLeader] is willing to sell guns to us. Although this is not really our area of focus, we could use every gun we can get given the threats that we face. And hey, do you really trust the Gun Runners? I sure don't."
   nf_gente.11.a: "Pleasure doing business!"
   nf_gente.11.a_tt: "\nWe gain access to El Generalissimo's market!"
-  nf_gente.11.a: "Sorry, we hate adequate armaments."
+  nf_gente.11.b: "Sorry, we hate adequate armaments."
   #############################################
   nf_gente.12.t: "Sweet Home California"
   nf_gente.12.d: "[NCR.Capital.GetName] has agreed to buy guns from us and will access our market.  Good news, no?"

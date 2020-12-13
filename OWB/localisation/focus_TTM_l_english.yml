@@ -71,8 +71,6 @@
   ttm_simian_preservation_desc: "The hideous fauna created by Reese's creation kit threatens even the simian preservation section of The Nursery to an extent we cannot tolerate. Our robotic divisions will relentlessly hunt down and incinerate any traces that those biological abominations ever existed, then resettle said simian into their habitats for study once again."
   ttm_strength_of_the_wild: "Strength of the Wild"
   ttm_strength_of_the_wild_desc: "Our continuous analysis of pre-war DNA sequences and its possible applications in genetical manipulations have led us to an extremely interesting breakthrough. It seems like the sequence of the common wasteland dog is close enough to the pre-war tiger to allow splicing! If done, this would make them considerably more effective in combat."
-  ttm_new_world_fauna: "New World Fauna"
-  ttm_new_world_fauna_desc: "Adapting to the new world and potential wasteland was always the prime directive of The Nursery since its idea was first dreamt up. We will move old-world fauna into more appropriate and contained areas, then direct our focus toward studying the wildlife the corrupted G.E.C.K. has created."
   ttm_dionaea_muscipula: "Dionaea Muscipula"
   ttm_dionaea_muscipula_desc: "Dionaea Muscipula, most commonly known as the Venus fly-trap or the 'spore plant', is the result of Reese's insanity, and have mutated into an hyper-aggressive as well as gigantic state. Their genetical sequence is interesting, as it shows heightened levels of poison and radiation resistance. This could certainly be useful for our agricultural research."
   ttm_victims_of_the_geck: "Victims of the G.E.C.K."
@@ -220,6 +218,7 @@
   ttm_our_old_home_desc: "On this faithful day, Lanius received a single word from a robot sent as diplomat to his cohort. 'Leave'. Diana did not yet fall far enough to mindlessly wage war, if there was even the slightest chance to preserve the sanctity of human life for another sunset. On this faithful day, Colorado held its breath, awaiting his answer."
   ttm_our_old_home_subject_tt: "§Y[LAC.GetName]§!: Has a subject that owns §YTwin Mothers§!"
   ttm_our_old_home_tt: "Does not have a treaty with any member of §YCaesar's Legion§!."
+  ttm_our_old_home_effect_tt: "§gWe demand all Colorado territory from Lanius and threaten them with war if they don't accept. They will most definitely not accept this offer - if they refuse? We can still attack them.§!"
 
   ttm_realm_of_oppurtunity: "Realm of Opportunity"
   ttm_realm_of_oppurtunity_desc: "Immediately to our west lies the Navajo, led by a puppet government hand-picked by Caesar himself, and the Ciphers, an organized gang of raiders masquerading as a tribe. With the squalid conditions that the people of both nations have to deal with, it is our duty to bring Diana's light to their lands and free them from the shackles of fear and persecution."
@@ -229,10 +228,6 @@
   ttm_navajo_injustice_desc: "We have nothing against the lovely Navajo people or their way of life, but in order to let them truly prosper as tribals, we must liberate them from the Navajo collaborationist government who have so carelessly signed away their people to Caesar in exchange for 'security';. We will let the wastes know that Caesar cannot subjugate innocent men and women as he pleases."
   ttm_an_embassy_with_the_western_republic: "An Embassy with the Western Republic"
   ttm_an_embassy_with_the_western_republic_desc: "The NCR could be a powerful ally in our quest to heal the wastes, shall they prove themselves to be calm and collected. We should take steps to establish diplomatic channels between our nations so that we may both benefit, and possibly gain another precious friend in this lawless world."
-
-  ttm_our_old_home: "Our Old Home"
-  ttm_our_old_home_desc: "On this faithful day, Lanius received a single word from a robot sent as diplomat to his cohort. 'Leave'. Diana did not yet fall far enough to mindlessly wage war, if there was even the slightest chance to preserve the sanctity of human life for another sunset. On this faithful day, Colorado held its breath, awaiting his answer."
-  ttm_our_old_home_effect_tt: "§gWe demand all Colorado territory from Lanius and threaten them with war if they don't accept. They will most definitely not accept this offer - if they refuse? We can still attack them.§!"
 
   ttm_sanctuary_in_paradise: "Sanctuary in Paradise"
   ttm_sanctuary_in_paradise_desc: "All of The Nursery is hushed, as if frozen in time, the tranquil paradise marred by the tenseness of the air itself. The Factory is silent, the trains lie still, even the forest seeming to have ceased to live. Deep within the Control Tower, a spark becomes a blaze, then a raging star, brighter than the sun. Diana has awoken."
