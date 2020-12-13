@@ -365,11 +365,11 @@
  RULE_SCAVENGING_DISABLED:0 "Désactiver le système de récupération"
  RULE_SCAVENGING_DISABLED_DESC:0 ""
 
- RULE_ACE_PILOT_EVENTS:9 "Ace Pilot Event Toggle"
- RULE_ACE_PILOT_EVENTS_ENABLED:9 "Enable Ace Pilot Events"
- RULE_ACE_PILOT_EVENTS_ENABLED_DESC:9 "This will show events for when ace pilots are promoted and killed."
- RULE_ACE_PILOT_EVENTS_DISABLED:9 "Disable Ace Pilot Events"
- RULE_ACE_PILOT_EVENTS_DISABLED_DESC:9 "This will hide events for when ace pilots are promoted and killed."
+ RULE_ACE_PILOT_EVENTS:9 "Basculement des événements d'As"
+ RULE_ACE_PILOT_EVENTS_ENABLED:9 "Activer les événements d'As"
+ RULE_ACE_PILOT_EVENTS_ENABLED_DESC:9 "Cela montrera les événements pour lesquels des pilotes d'élite (ou as) sont promus et tués."
+ RULE_ACE_PILOT_EVENTS_DISABLED:9 "Désactiver les événements d'As"
+ RULE_ACE_PILOT_EVENTS_DISABLED_DESC:9 "Cela cachera les événements pour lesquels des pilotes d'élite (ou as) sont promus et tués."
 
  RULE_ALLOW_DISMANTLE_FACTION:0 "Démanteler une faction"
  RULE_ALLOW_DISMANTLE_FACTION_ALLOWED_DESC:0 "Permettre le démantèlement normal des factions à tout moment."
