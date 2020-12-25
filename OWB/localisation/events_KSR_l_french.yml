@@ -8,7 +8,7 @@
  nf_kaiser.2.a:0 "Je savais que je ferais toujours un beau ranger."
  nf_kaiser.2.b:0 "Nous ne sommes pas des rangers !"
  nf_kaiser.3.t:0 "La question des Twisted Hairs."
- nf_kaiser.3.d:9 "Il semble que nous ayons l'une des dernières guerres de César à notre actif. Certains de nos hommes s'attendent à ce que nous poursuivions cette guerre - mais en réalité, nous n'avons aucun désir de voir César poursuivre son chemin de guerre vers l'ouest. Nous pourrions toujours essayer d'amender les problèmes de nos groupes et former un pacte militaire si nécessaire."
+ nf_kaiser.3.d:0 "Il semble que nous ayons l'une des dernières guerres de César à notre actif. Certains de nos hommes s'attendent à ce que nous poursuivions cette guerre - mais en réalité, nous n'avons aucun désir de voir César poursuivre son chemin de guerre vers l'ouest. Nous pourrions toujours essayer d'amender les problèmes de nos groupes et former un pacte militaire si nécessaire."
  nf_kaiser.3.a:0 "Terminer cette guerre est pour le mieux."
  nf_kaiser.3.b:0 "Peut-être qu'une alliance est la meilleure solution ?"
  nf_kaiser.4.t:0 "Terrible Mardi !"
@@ -24,20 +24,20 @@
 
   ###################################
  nf_kaiser.7.t:0 "Ramper à travers les retombées"
- nf_kaiser.7.d:9 "Non, Puissant, euh, Kaiser, je ne me souviens pas avoir appris l'invasion allemande de l'Amérique. Je sais que l'Europe était déchirée par d'interminables petites guerres avant la Grande Guerre, donc cette partie semble plausible. La Grande Guerre s'est terminée en 2077, lorsque l'Amérique a combattu les Chinois pour le dernier pétrole du monde. Étaient-ils syndicalistes ? Je ne sais pas, pouvez-vous m'expliquer ce qu'est le syndicalisme ?\n\nAprès la chute des bombes, l'Arizona et le Nouveau-Mexique étaient une Terre Désolée sans loi. Jusqu'à ce que vous veniez, apportant la lumière de la civilisation. Vous avez utilisé les secrets de l'Ancien Monde."
+ nf_kaiser.7.d:0 "Non, Puissant, euh, Kaiser, je ne me souviens pas avoir appris l'invasion allemande de l'Amérique. Je sais que l'Europe était déchirée par d'interminables petites guerres avant la Grande Guerre, donc cette partie semble plausible. La Grande Guerre s'est terminée en 2077, lorsque l'Amérique a combattu les Chinois pour le dernier pétrole du monde. Étaient-ils syndicalistes ? Je ne sais pas, pouvez-vous m'expliquer ce qu'est le syndicalisme ?\n\nAprès la chute des bombes, l'Arizona et le Nouveau-Mexique étaient une Terre Désolée sans loi. Jusqu'à ce que vous veniez, apportant la lumière de la civilisation. Vous avez utilisé les secrets de l'Ancien Monde."
  nf_kaiser.7.a:0 "Les Lasers ? Des Robots ? Wunderbar !"
  national_spirit_we_love_lasers:0 "Un Meilleur Occident"
  nf_kaiser.7.b:0 "L'armure assistée nous permettra de créer une nouvelle chevalerie !"
  national_spirit_teutonic_knights:0 "Les Chevaliers Neutoniques"
   ###################################
  nf_kaiser.8.t:0 "Que voulez-vous dire, il y a eu une troisième Weltkrieg ?"
- nf_kaiser.8.d:9 "L'Allemagne a remporté la première Weltkrieg grâce à notre PUISSANCE INDOMINATIVE. La deuxième Weltkrieg a été un peu plus difficile. C'était une véritable guerre mondiale, avec les forces allemandes combattant dans les jungles du Vietnam, les savanes d'Afrique, les steppes de Russie, et je ne peux que supposer les villes du Nouveau Monde. Je ne me souviens pas de beaucoup de détails quand je suis parti. En fait, je ne suis pas sûr que nous ayons vraiment commencé la deuxième Weltkrieg. Ou qui nous avons combattu... Et maintenant vous me dites qu'il y a eu une autre Grande Guerre ? Cela veut-il dire que l'hégémonie allemande n'a pas duré pendant mille ans ?"
+ nf_kaiser.8.d:0 "L'Allemagne a remporté la première Weltkrieg grâce à notre PUISSANCE INDOMINATIVE. La deuxième Weltkrieg a été un peu plus difficile. C'était une véritable guerre mondiale, avec les forces allemandes combattant dans les jungles du Vietnam, les savanes d'Afrique, les steppes de Russie, et je ne peux que supposer les villes du Nouveau Monde. Je ne me souviens pas de beaucoup de détails quand je suis parti. En fait, je ne suis pas sûr que nous ayons vraiment commencé la deuxième Weltkrieg. Ou qui nous avons combattu... Et maintenant vous me dites qu'il y a eu une autre Grande Guerre ? Cela veut-il dire que l'hégémonie allemande n'a pas duré pendant mille ans ?"
  nf_kaiser.8.a:0 "Nous avons gagné grâce à notre puissance industrielle !"
  national_spirit_engineering:0 "L'acier Prussien"
  nf_kaiser.8.b:0 "Nous avons gagné grâce à notre ingénierie allemande !"
  national_spirit_research:0 "L'héritage d'Einstein !"
   ###################################
  nf_kaiser.9.t:0 "Sois sérieux, Mec"
- nf_kaiser.9.d:9 "\"Écoutez\", a déclaré le Kaiser, \"si l'Amérique était intervenue dans la Weltkrieg et avait vaincu l'Allemagne, je l'aurais su. Et l'idée que la Russie serait le cœur d'une imitation syndicaliste ? C'est tout simplement stupide\". \n\nLe Légat Malpais fronce les sourcils. \"D'accord, mais vous me parlez aussi d'un monde où l'Amérique est tombée dans le communisme et où un sénateur de la Nouvelle-Angleterre forme un empire sanglant.\"\n\n\"Vous ne connaissez pas les syndicalistes\", a déclaré Wilhelm. \"Crois-moi, c'est tout à fait possible.\"\n\n\"Je suis presque sûr que l'Amérique n'était pas communiste avant la Grande Guerre. Alors appelez-moi sceptique, puissant Kaiser. Ensuite, vous me parlerez des licornes qui forment une alliance pour rétablir l'harmonie dans les Terres Désolées, ou d'une invasion martienne !\""
+ nf_kaiser.9.d:0 "\"Écoutez\", a déclaré le Kaiser, \"si l'Amérique était intervenue dans la Weltkrieg et avait vaincu l'Allemagne, je l'aurais su. Et l'idée que la Russie serait le cœur d'une imitation syndicaliste ? C'est tout simplement stupide\". \n\nLe Légat Malpais fronce les sourcils. \"D'accord, mais vous me parlez aussi d'un monde où l'Amérique est tombée dans le communisme et où un sénateur de la Nouvelle-Angleterre forme un empire sanglant.\"\n\n\"Vous ne connaissez pas les syndicalistes\", a déclaré Wilhelm. \"Crois-moi, c'est tout à fait possible.\"\n\n\"Je suis presque sûr que l'Amérique n'était pas communiste avant la Grande Guerre. Alors appelez-moi sceptique, puissant Kaiser. Ensuite, vous me parlerez des licornes qui forment une alliance pour rétablir l'harmonie dans les Terres Désolées, ou d'une invasion martienne !\""
  nf_kaiser.9.a:0 "Les syndicalistes ont eu quelques bonnes idées."
  nf_kaiser.9.b:0 "En fait, nous avons beaucoup appris de leurs rayons mortels."

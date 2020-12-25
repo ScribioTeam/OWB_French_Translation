@@ -1,7 +1,7 @@
 ﻿l_french:
   # GUI:
- TRADE_LEDGER_TITLE:9 "Marché des Organisations"
- TRADE_LEDGER_TEST_TEXT:9 "test"
+ TRADE_LEDGER_TITLE:0 "Marché des Organisations"
+ TRADE_LEDGER_TEST_TEXT:0 "test"
   #TRADE_LEDGER_ENTRY_FLAG_TT: "§GClick§! to centre the map on their capital state (§Y[This.Capital.GetName]§!)."
   #TRADE_LEDGER_PP_TT: "§YPolitical Power§! \nPower Change: [?political_power_daily|2+] per day. \nBase value: §Y2.00§!"
   #TRADE_LEDGER_STABILITY_TT: "§YStability§! \nCurrent Stability: [This.GetPuppetLedgerStabilityColor][?stability|2%]§!"

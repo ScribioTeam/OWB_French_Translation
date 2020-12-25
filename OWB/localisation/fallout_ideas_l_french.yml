@@ -23,7 +23,7 @@
  happy_trails_caravan_company_desc:0 "La Happy Trails Caravan Company relie la Nouvelle-Californie et l'Utah."
  legion_railway:0 "Les Gangs de Travailleurs de la Légion"
  legion_railway_desc:0 "Contrairement à la RNC, la Légion sait comment maintenir les esclaves qui construisent les chemins de fer en activité."
- navajo_silversmith_companies:9 "The Navajo Silversmiths"
+ navajo_silversmith_companies:0 "The Navajo Silversmiths"
  lady_lasers:0 "Lady Lasers"
  lady_lasers_desc:0 "Dirigé par une goule américaine faisait partie de l'occupation initiale, le Lady Lasers fournit des équipements de pointe aux armées mexicaines, et est l'un des principaux rivaux de la Texas Arms Association."
  brotherhood_schematics:0 "Knightly Armaments"
@@ -41,7 +41,7 @@
  canoeoe:0 "Canoeoe"
   canoeoe_desc: ""
  billsbattleships:0 "Bill's Battleships"
- billsbattleships_desc:9 "Ce sont des navires, vraiment."
+ billsbattleships_desc:0 "Ce sont des navires, vraiment."
  lady_lasers_manufacturer:0 "Des Secrets de Femme"
  hub_water_merchants:0 "Négociants d'Eau du Hub"
  hub_water_merchants_desc:0 "Les négociants en eau du Hub peuvent vous apporter un verre d'eau fraîche et claire. Pour un prix."
@@ -53,11 +53,11 @@
  bloomfield_space_center:0 "Centre Spatial de Bloomfield"
  mojave_express_company:0 "Le Mojave Express"
  boulder_dome:0 "Dôme de Boulder"
- boulder_dome_desc:9 "Un site d'avant-guerre interdit, maintenant disponible pour notre accès !"
+ boulder_dome_desc:0 "Un site d'avant-guerre interdit, maintenant disponible pour notre accès !"
  general_atomics:0 "General Atomics"
  stent_security_solutions:0 "Stent Security Solutions"
  wattz_company:0 "Wattz Electronics"
- ces_mojave_tribute:9 "The Spolia Opima"
+ ces_mojave_tribute:0 "The Spolia Opima"
 
  pile_of_guns:0 "Muzzles Pile Of Guns"
  pile_of_guns_desc:0 "Vous voulez des armes ? Nous avons des armes. Chaque arme coûte la même chose. Creusez dans le tas !"
@@ -77,50 +77,50 @@
  lock_and_load_company:0 "Lock and Load"
 
 
- oh_no_arms:9 "Oh No! Arms Company"
- oh_no_arms_desc:9 "La qualité des armes et des munitions de la marque Oh No ! a toujours été douteuse. Mais parfois, les armes bon marché et susceptibles d'exploser sont la seule option que vous avez."
- oh_no_explosives:9 "Oh No! Explosives Company"
- oh_no_explosives_desc:9 "Lorsqu'il est devenu notoire que leurs armes avaient le malheureux effet secondaire d'exploser au hasard, Oh No ! a réagi en se lançant dans la production d'explosifs."
- tulchinsky_engineering:9 "Tulchinsky Engineering"
- tulchinsky_engineering_desc:9 "Le fondateur prétend descendre d'immigrants ukrainiens, ce qui serait fascinant si nous savions ce qu'est l'Ukraine. Néanmoins, ils installeront volontiers des systèmes électriques à des prix raisonnables, avec un taux de panne à peine plus élevé que la moyenne !"
- junkwalls_and_more:9 "Junkwalls and More"
- junkwalls_and_more_desc:9 "Les pillards vous dérangent ? Nous avons des murs faits de vieilles voitures, de ferraille ondulée et de gravats pour les empêcher d'entrer !"
+ oh_no_arms:0 "Oh No! Arms Company"
+ oh_no_arms_desc:0 "La qualité des armes et des munitions de la marque Oh No ! a toujours été douteuse. Mais parfois, les armes bon marché et susceptibles d'exploser sont la seule option que vous avez."
+ oh_no_explosives:0 "Oh No! Explosives Company"
+ oh_no_explosives_desc:0 "Lorsqu'il est devenu notoire que leurs armes avaient le malheureux effet secondaire d'exploser au hasard, Oh No ! a réagi en se lançant dans la production d'explosifs."
+ tulchinsky_engineering:0 "Tulchinsky Engineering"
+ tulchinsky_engineering_desc:0 "Le fondateur prétend descendre d'immigrants ukrainiens, ce qui serait fascinant si nous savions ce qu'est l'Ukraine. Néanmoins, ils installeront volontiers des systèmes électriques à des prix raisonnables, avec un taux de panne à peine plus élevé que la moyenne !"
+ junkwalls_and_more:0 "Junkwalls and More"
+ junkwalls_and_more_desc:0 "Les pillards vous dérangent ? Nous avons des murs faits de vieilles voitures, de ferraille ondulée et de gravats pour les empêcher d'entrer !"
 
  # New Reno Companies
- new_reno_arms_company:9 "New Reno Arms"
- new_reno_arms_company_desc:9 "New : le rabais spécial \"famille\""
- renescos_pharmacy_company:9 "Renesco's Pharmacy"
- renescos_pharmacy_company_desc:9 "Achetez quelque chose ou dégagez."
- cats_paw_company:9 "Cat's Paw"
- jungle_gym_company:9 "Jungle Gym"
- jungle_gym_company_desc:9 "En souvenir de Mike le Masticator"
- chop_shop_company:9 "Chop Shop"
+ new_reno_arms_company:0 "New Reno Arms"
+ new_reno_arms_company_desc:0 "New : le rabais spécial \"famille\""
+ renescos_pharmacy_company:0 "Renesco's Pharmacy"
+ renescos_pharmacy_company_desc:0 "Achetez quelque chose ou dégagez."
+ cats_paw_company:0 "Cat's Paw"
+ jungle_gym_company:0 "Jungle Gym"
+ jungle_gym_company_desc:0 "En souvenir de Mike le Masticator"
+ chop_shop_company:0 "Chop Shop"
  chop_shop_company_desc:2241 "Voler votre voiture et vous la revendre en pièces détachées depuis 2241."
 
  # VLT Companies
- happy_harry:9 "Happy Harry's"
- servant_allocation_center:9 "Centre d'affectation des fonctionnaires"
- parlor_room:9 "Salle de séjour"
+ happy_harry:0 "Happy Harry's"
+ servant_allocation_center:0 "Centre d'affectation des fonctionnaires"
+ parlor_room:0 "Salle de séjour"
 
  # SHI
- red_888:9 "Red 888 Guns"
+ red_888:0 "Red 888 Guns"
 
  # VEG
- silver_rush:9 "Silver Rush"
- new_vegas_clinic:9 "New Vegas Clinic"
+ silver_rush:0 "Silver Rush"
+ new_vegas_clinic:0 "New Vegas Clinic"
 
  # Oregon Shared
- coral_shapers:9 "Coral Shapers"
+ coral_shapers:0 "Coral Shapers"
 
  # Brotherhood Shared
- knighlty_armaments:9 "Knightly Armaments"
+ knighlty_armaments:0 "Knightly Armaments"
 
  # Reservation
- sub_level_2:9 "Sub-Level 2"
+ sub_level_2:0 "Sub-Level 2"
 
  # Traits
  power_armor_manufacturer:0 "Fabricant d'Armures Assistée"
- bos_power_armor_manufacturer:9 "Fabricant d'armures assistées de la Confrérie"
+ bos_power_armor_manufacturer:0 "Fabricant d'armures assistées de la Confrérie"
  robot_manufacturer:0 "Fabricant de Robots"
  robot_manufacturer_desc:0 ""
  timstanks_manufacturer:0 "Fabricant de Chars"
@@ -159,11 +159,11 @@
  weapon_manufacturer_pre_war:0 "Fabricant d'Armes (avant-guerre)"
  energy_weapon_manufacturer_pre_war:0 "Fabricant d'Armes à Énergie (avant-guerre)"
 
- car_fighter_equipment:9 "Chasseur de porte-avions"
+ car_fighter_equipment:0 "Chasseur de porte-avions"
  hev_fighter_equipment:0 "Chasseur lourd"
- long_fighter_equipment:9 "Chasseur à longue distance"
- hev_strategic_bomber_equipment:9 "Heavy Bomber"
- long_strategic_bomber_equipment:9 "Bombardier à longue portée"
- hev_cas_equipment:9 "Heavy Close Air Support Plane"
- car_cas_equipment:9 "Naval Close Air Support Plane"
- long_cas_equipment:9 "Long-Range Close Air Support Plane"
+ long_fighter_equipment:0 "Chasseur à longue distance"
+ hev_strategic_bomber_equipment:0 "Heavy Bomber"
+ long_strategic_bomber_equipment:0 "Bombardier à longue portée"
+ hev_cas_equipment:0 "Heavy Close Air Support Plane"
+ car_cas_equipment:0 "Naval Close Air Support Plane"
+ long_cas_equipment:0 "Long-Range Close Air Support Plane"

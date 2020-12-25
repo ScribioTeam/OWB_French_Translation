@@ -1,7 +1,7 @@
 ﻿l_french:
  ranger_unification_treaty: "Traité d'unification des Rangers"
  ranger_unification_treaty_desc: "Le traité d'unification des Rangers était un accord bilatéral signé entre la République de Nouvelle Californie et les Rangers du Désert du Nevada en 2271. L'influence des Rangers dans l'armée de la RNC allait influencer leur doctrine militaire pour les années à venir."
- starting_caps_idea:9 "Bureaucratie décentralisée"
+ starting_caps_idea:0 "Bureaucratie décentralisée"
  ranger_unification_treaty_2: "Traité d'unification des Rangers"
  ranger_unification_treaty_2_desc: "Le traité d'unification des Rangers était un accord bilatéral signé entre la République de Nouvelle Californie et les Rangers du Désert du Nevada en 2271. L'influence des Rangers dans l'armée de la RNC allait influencer leur doctrine militaire pour les années à venir."
  ncr_bureacracy:0 "Gouvernement du Vieux Monde"
@@ -11,10 +11,10 @@
  ncrjustice:0 "Cour Suprême"
  ncrmotroops:0 "Propagande militaire"
  ncrcentral:0 "État centralisé"
- ncr_manifestdestiny_idea:9 "Destinée Manifeste"
- ncr_rapidsettlement_idea:9 "Colonisation des Rapids"
- ncr_crimson_caps:9 "Crimson Caravan Subventionné"
- ncr_reorganizedexpeditionary:9 "Corps Expéditionnaire Réorganisé"
+ ncr_manifestdestiny_idea:0 "Destinée Manifeste"
+ ncr_rapidsettlement_idea:0 "Colonisation des Rapids"
+ ncr_crimson_caps:0 "Crimson Caravan Subventionné"
+ ncr_reorganizedexpeditionary:0 "Corps Expéditionnaire Réorganisé"
 
  hooverdamvictor:0 "Victoire du Barrage Hoover"
  hooverdamvictor_desc:0 "Ce pays a été victorieux au barrage Hoover, leur donnant le contrôle du désert de Mojave et beaucoup de prestige."
@@ -208,11 +208,11 @@
  gunrunnerexpanded:0 "Expansion de Gun Runner"
  gunrunnerexpanded_desc:0 ""
 
- ncr_upgrade_economy_law:9 "§ONous améliorons notre loi sur l'économie !§!"
+ ncr_upgrade_economy_law:0 "§ONous améliorons notre loi sur l'économie !§!"
 
- ncr_brahmin_economy:9 "Économie Modeste"
- ncr_caravan_protection:9 "Économie en pleine croissance"
- ncr_militarized_economy:9 "Économie Solide"
+ ncr_brahmin_economy:0 "Économie Modeste"
+ ncr_caravan_protection:0 "Économie en pleine croissance"
+ ncr_militarized_economy:0 "Économie Solide"
 
  ncr_revolt_exhaustion_1:0 "Légère épuisement de la guerre"
  ncr_revolt_exhaustion_1_desc:0 ""
@@ -237,4 +237,4 @@
 
  mr_fantastic:0 "Mr. Fantastic"
  mr_fantastic_desc:0 "Ayant obtenu un diplôme théorique en physique, il y a peu de personnes dans les Terres Désolées plus qualifiées pour la gestion d'Helios One que M. Fantastic."
- mr_fantastic_tt:9 "Vitesse de Recherche en Physique Théorique : §G+10%§!"
+ mr_fantastic_tt:0 "Vitesse de Recherche en Physique Théorique : §G+10%§!"

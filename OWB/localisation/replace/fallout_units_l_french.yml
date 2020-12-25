@@ -1,25 +1,25 @@
 ﻿l_french:
  #	Categories
 
- category_army:9 "Armée"
- category_front_line:9 "Pelotons de première ligne"
+ category_army:0 "Armée"
+ category_front_line:0 "Pelotons de première ligne"
  category_demolitions:0 "Démolitions"
- category_fireteams:9 "Équipes de feu"
+ category_fireteams:0 "Équipes de feu"
  category_robots:0 "Robots"
- category_super_mutants:9 "Super mutant"
- category_mutants:9 "Mutants"
- category_special_forces:9 "Spécialistes"
- category_light_special_forces:9 "Forces spéciales légères"
- category_power_armour:9 "Forces spéciales lourdes"
- category_infantry:9 "Infanterie"
- category_militia:9 "Locaux"
- category_leg_infantry:9 "Infanterie de marche"
- category_weapon_infantry:9 "Infanterie armée"
+ category_super_mutants:0 "Super mutant"
+ category_mutants:0 "Mutants"
+ category_special_forces:0 "Spécialistes"
+ category_light_special_forces:0 "Forces spéciales légères"
+ category_power_armour:0 "Forces spéciales lourdes"
+ category_infantry:0 "Infanterie"
+ category_militia:0 "Locaux"
+ category_leg_infantry:0 "Infanterie de marche"
+ category_weapon_infantry:0 "Infanterie armée"
  category_vehicles:0 "Véhicules"
- category_support:9 "Unités de soutien"
- category_combat_support:9 "Unité d'appui feu"
- category_non_combat_support:9 "Unités de soutien non combattant"
- category_behemoth:9 "Behemoths"
+ category_support:0 "Unités de soutien"
+ category_combat_support:0 "Unité d'appui feu"
+ category_non_combat_support:0 "Unités de soutien non combattant"
+ category_behemoth:0 "Behemoths"
 
 
  category_air_unit:0 "Tous les avions"
@@ -35,7 +35,7 @@
  category_capital_ship:0 "Navires Capitaux"
  category_carrier_ship:0 "Porte-avions"
 
- category_all_infantry:9 "Tout infanterie et motorisé"
+ category_all_infantry:0 "Tout infanterie et motorisé"
 
  # Groups (Division designer categories)
  group_robot_group_title:0 "Pelotons de Robots"
@@ -64,9 +64,9 @@
  militia_short:0 "Milice"
  militia_desc:0 ""
 
- police_infantry:9 "Peloton d'observateurs"
- police_infantry_short:9 "Observateurs"
- police_infantry_desc:9 ""
+ police_infantry:0 "Peloton d'observateurs"
+ police_infantry_short:0 "Observateurs"
+ police_infantry_desc:0 ""
 
  fireteam_infantry:0 "Peloton de feu"
  fireteam_infantry_short:0 "Equipe de feu"
@@ -120,11 +120,11 @@
  mirelurk_infantry_short:0 "Lurkers"
  mirelurk_infantry_desc:0 "Des Mirelurks apprivoisés, prêts à se battre et à mourir pour leur reine."
 
- cybernetic_support:9 "Implants cybernétiques"
- cybernetic_support_desc:9 "Avec le bon type de technologie, nous pouvons dépasser les limites humaines ! Nos soldats seront plus durs, meilleurs, plus rapides et plus forts que nos simples ennemis organiques !"
+ cybernetic_support:0 "Implants cybernétiques"
+ cybernetic_support_desc:0 "Avec le bon type de technologie, nous pouvons dépasser les limites humaines ! Nos soldats seront plus durs, meilleurs, plus rapides et plus forts que nos simples ennemis organiques !"
 
- plant_support:9 "Plantes monstrueuses"
- plant_support_desc:9 "Les bio-guerriers cultivés chez nous donneront à nos troupes un énorme avantage, à condition que nous puissions combattre sur des terres suffisamment fertiles pour les planter."
+ plant_support:0 "Plantes monstrueuses"
+ plant_support_desc:0 "Les bio-guerriers cultivés chez nous donneront à nos troupes un énorme avantage, à condition que nous puissions combattre sur des terres suffisamment fertiles pour les planter."
 
  # Motorized/Mechanized
 
@@ -166,13 +166,13 @@
  combat_robot_short:0 "Robots de combat"
  combat_robot_desc:0 "Robots lourdement blindés et armés mis en service comme unité de combat."
 
- security_robot:9 "Peloton de robots de sécurité"
- security_robot_short:9 "Robots de sécurité"
- security_robot_desc:9 "Des robots intermédiaires parfaitement adaptés pour pacifier les populations indisciplinées."
+ security_robot:0 "Peloton de robots de sécurité"
+ security_robot_short:0 "Robots de sécurité"
+ security_robot_desc:0 "Des robots intermédiaires parfaitement adaptés pour pacifier les populations indisciplinées."
 
- super_heavy_robot:9 "Peloton de robots super lourds"
- super_heavy_robot_short:9 "Robots super lourds"
- super_heavy_robot_desc:9 "Des robots qui défient toute convention de raisonnement ou de logique, faits dans un seul but, la destruction."
+ super_heavy_robot:0 "Peloton de robots super lourds"
+ super_heavy_robot_short:0 "Robots super lourds"
+ super_heavy_robot_desc:0 "Des robots qui défient toute convention de raisonnement ou de logique, faits dans un seul but, la destruction."
 
 
 
@@ -222,17 +222,17 @@
  medical_chem_company_short:0 "Compagnie Médicale"
  medical_chem_company_desc:0 "Les bons hommes sont difficiles à trouver, surtout après la fin du monde. L'ajout de compagnie spécialisées transportant des équipements médicaux et pratiquant des compétences médicales de base peut au moins réduire certaines des pertes subies sur le champ de bataille."
 
- spec_ops_cavalry:9 "Cavaliers"
- spec_ops_cavalry_short:9 "Cavaliers"
- spec_ops_cavalry_desc:9 "Qui savait que les chevaux existaient encore dans les Terres Désolées ?"
+ spec_ops_cavalry:0 "Cavaliers"
+ spec_ops_cavalry_short:0 "Cavaliers"
+ spec_ops_cavalry_desc:0 "Qui savait que les chevaux existaient encore dans les Terres Désolées ?"
 
- chariot_unit:9 "Chariots de la Légion"
- chariot_unit_short:9 "Chariots"
- chariot_unit_desc:9 "Légion en avant BRRRRRRRRRR"
+ chariot_unit:0 "Chariots de la Légion"
+ chariot_unit_short:0 "Chariots"
+ chariot_unit_desc:0 "Légion en avant BRRRRRRRRRR"
 
- forward_firebase_support:9 "Base de tir avancée"
- forward_firebase_support_short:9 "Base de tir"
- forward_firebase_support_desc:9 "Base de tir avancée, qu'est-ce que cela devrait être d'autre ?"
+ forward_firebase_support:0 "Base de tir avancée"
+ forward_firebase_support_short:0 "Base de tir"
+ forward_firebase_support_desc:0 "Base de tir avancée, qu'est-ce que cela devrait être d'autre ?"
   # Support
  light_ship_unit:0 "Navire léger"
  light_ship_unit_short:0 "Navire léger"
@@ -251,14 +251,14 @@
  super_heavy_ship_unit_desc:0 ""
 
   # Sentinels
- sentinel_unit:9 "Unité d'armure assistée Sentinel"
- sentinel_unit_short:9 "Sentinels"
- sentinel_unit_desc:9 "Les humains n'ont pas besoin de faire une demande."
+ sentinel_unit:0 "Unité d'armure assistée Sentinel"
+ sentinel_unit_short:0 "Sentinels"
+ sentinel_unit_desc:0 "Les humains n'ont pas besoin de faire une demande."
 
- alamo_defenders:9 "Volontaires d'Alamo"
- alamo_defenders_short:9 "Voluntaires"
- alamo_defenders_desc:9 "Colonel Travis, Davy Crockett, et cent quatre-vingts autres Capitaines Dickinson, Jim Bowie Présents et comptabilisés."
+ alamo_defenders:0 "Volontaires d'Alamo"
+ alamo_defenders_short:0 "Voluntaires"
+ alamo_defenders_desc:0 "Colonel Travis, Davy Crockett, et cent quatre-vingts autres Capitaines Dickinson, Jim Bowie Présents et comptabilisés."
 
- cybernetic_warform:9 "Guerre cybernétique"
- cybernetic_warform_short:9 "Guerre"
- cybernetic_warform_desc:9 "Qu'avons-nous fait ?"
+ cybernetic_warform:0 "Guerre cybernétique"
+ cybernetic_warform_short:0 "Guerre"
+ cybernetic_warform_desc:0 "Qu'avons-nous fait ?"

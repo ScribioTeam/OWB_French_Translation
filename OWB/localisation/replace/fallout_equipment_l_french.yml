@@ -42,13 +42,13 @@
  fireteam_equipment_short:0 "Armes à feu"
  fireteam_equipment_desc:0 ""
 
- radio_equipment:9 "Radios Portables"
- radio_equipment_short:9 "Radio Portable"
- radio_equipment_desc:9 ""
+ radio_equipment:0 "Radios Portables"
+ radio_equipment_short:0 "Radio Portable"
+ radio_equipment_desc:0 ""
 
- forward_firebase_equipment:9 "Fortifications Mobiles"
- forward_firebase_equipment_short:9 "Fortifications"
- forward_firebase_equipment:9 ""
+ forward_firebase_equipment:0 "Fortifications Mobiles"
+ forward_firebase_equipment_short:0 "Fortifications"
+ forward_firebase_equipment:0 ""
 
  demolitions_equipment:0 "Équipement de démolition"
  demolitions_equipment_short:0 "Équipement de démolition"
@@ -62,9 +62,9 @@
  apc_equipment_short:0 "Équipement APC"
  apc_equipment_desc:0 ""
 
- chariot_equipment:9 "Chariots à moteur"
- chariot_equipment_short:9 "Chariots"
- chariot_equipment_desc:9 ""
+ chariot_equipment:0 "Chariots à moteur"
+ chariot_equipment_short:0 "Chariots"
+ chariot_equipment_desc:0 ""
 
  behemoth_equipment:0 "Équipement Behemoth"
  behemoth_equipment_short:0 "Équipement Behemoth"
@@ -90,87 +90,87 @@
  cargo_plane_equipment_short:0 "Avion cargo"
  cargo_plane_equipment_desc:0 ""
 
- air_chaff_equipment:9 "Obstacles aériens"
- air_chaff_equipment_short:9 "Bloqueurs d'air"
- air_chaff_equipment_desc:9 ""
+ air_chaff_equipment:0 "Obstacles aériens"
+ air_chaff_equipment_short:0 "Bloqueurs d'air"
+ air_chaff_equipment_desc:0 ""
 
- air_payload_equipment:9 "Planeurs à charge utile"
- air_payload_equipment_short:9 "Planeurs à bombe"
- air_payload_equipment_desc:9 ""
+ air_payload_equipment:0 "Planeurs à charge utile"
+ air_payload_equipment_short:0 "Planeurs à bombe"
+ air_payload_equipment_desc:0 ""
 
- spotter_plane_equipment:9 "Avion de Reconnaissance"
- spotter_plane_equipment_short:9 ""
- spotter_plane_equipment_desc:9 ""
+ spotter_plane_equipment:0 "Avion de Reconnaissance"
+ spotter_plane_equipment_short:0 ""
+ spotter_plane_equipment_desc:0 ""
 
- spotter_plane_equipment_1:9 "Planeur de Reconnaissance"
- spotter_plane_equipment_1_short:9 "Planeur Reco."
- spotter_plane_equipment_1_desc:9 ""
+ spotter_plane_equipment_1:0 "Planeur de Reconnaissance"
+ spotter_plane_equipment_1_short:0 "Planeur Reco."
+ spotter_plane_equipment_1_desc:0 ""
 
- spotter_plane_equipment_2:9 "Avion de Reconnaissance"
- spotter_plane_equipment_2_short:9 "Avion Reco."
- spotter_plane_equipment_2_desc:9 ""
+ spotter_plane_equipment_2:0 "Avion de Reconnaissance"
+ spotter_plane_equipment_2_short:0 "Avion Reco."
+ spotter_plane_equipment_2_desc:0 ""
 
- spotter_plane_equipment_3:9 "Avion de Reconnaissance Avancé"
+ spotter_plane_equipment_3:0 "Avion de Reconnaissance Avancé"
 
  # Ballistic Equipment
  ballistic_equipment_1:0 "Armes ballistiques de base"
  ballistic_equipment_1_short:0 "Armes ballistiques de base"
- ballistic_equipment_1_desc:9 "Un nouveau kit d'infanterie destiné à standardiser nos troupes, il est composé d'un fusil à verrou 5.56 adapté aux engagements moyens, d'un casque en ferraille pour se protéger des projectiles et des éclats d'obus, ainsi que d'un couteau et d'un pistolet .22LR pour la défense au corps à corps. Les grenades en boîte de conserve scellent l'accord en matière de puissance de feu.\n\n"
+ ballistic_equipment_1_desc:0 "Un nouveau kit d'infanterie destiné à standardiser nos troupes, il est composé d'un fusil à verrou 5.56 adapté aux engagements moyens, d'un casque en ferraille pour se protéger des projectiles et des éclats d'obus, ainsi que d'un couteau et d'un pistolet .22LR pour la défense au corps à corps. Les grenades en boîte de conserve scellent l'accord en matière de puissance de feu.\n\n"
 
  ballistic_equipment_2:0 "Armes ballistiques communes"
  ballistic_equipment_2_short:0 "Armes ballistiques communes"
- ballistic_equipment_2_desc:9 "Maintenant équipées de fusils de combat semi-automatiques de 7,62 mm, nos troupes peuvent devenir une véritable force de combat. Avec des bâtons de dynamite plus stables fournis pour dégager les bâtiments, des casques de combat et des gilets pare-balles pour la protection, et une dague ainsi qu'un bras latéral de 9 mm pour la défense personnelle, cela permet à nos soldats de faire face à une grande variété de situations de combat."
+ ballistic_equipment_2_desc:0 "Maintenant équipées de fusils de combat semi-automatiques de 7,62 mm, nos troupes peuvent devenir une véritable force de combat. Avec des bâtons de dynamite plus stables fournis pour dégager les bâtiments, des casques de combat et des gilets pare-balles pour la protection, et une dague ainsi qu'un bras latéral de 9 mm pour la défense personnelle, cela permet à nos soldats de faire face à une grande variété de situations de combat."
 
  ballistic_equipment_3:0 "Armes à feu avancées"
  ballistic_equipment_3_short:0 "Armes ballistiques avancées"
- ballistic_equipment_3_desc:9 "Les nouveaux fusils d'assaut à tir sélectif augmentent le volume des projectiles que nos troupes peuvent mettre à portée, permettant des tactiques de tir de suppression et un barrage concentré sur les positions ennemies. Les grenades, les couteaux de combat et les armes de poing à tir rasant permettront à nos troupes de dégager plus facilement les bâtiments, tandis que les gilets pare-balles les protégeront contre les armes légères courantes."
+ ballistic_equipment_3_desc:0 "Les nouveaux fusils d'assaut à tir sélectif augmentent le volume des projectiles que nos troupes peuvent mettre à portée, permettant des tactiques de tir de suppression et un barrage concentré sur les positions ennemies. Les grenades, les couteaux de combat et les armes de poing à tir rasant permettront à nos troupes de dégager plus facilement les bâtiments, tandis que les gilets pare-balles les protégeront contre les armes légères courantes."
 
  ballistic_equipment_4:0 "Arme d'élite"
  ballistic_equipment_4_short:0 "Arme d'élite"
- ballistic_equipment_4_desc:9 "Des munitions sur mesure associées à des pièces de précision dans notre nouveau modèle de fusil d'assaut permettent à nos troupes d'atteindre un niveau de puissance de feu sans précédent. En plus des compensateurs de recul pour nos armes de poing, des couteaux de combat échangés contre des rippers, des grenades à haut rendement et des blindages pare-balles complets, cela en fait l'équipement personnel le plus avancé des Terres Désolées."
+ ballistic_equipment_4_desc:0 "Des munitions sur mesure associées à des pièces de précision dans notre nouveau modèle de fusil d'assaut permettent à nos troupes d'atteindre un niveau de puissance de feu sans précédent. En plus des compensateurs de recul pour nos armes de poing, des couteaux de combat échangés contre des rippers, des grenades à haut rendement et des blindages pare-balles complets, cela en fait l'équipement personnel le plus avancé des Terres Désolées."
 
   # Heavy infantry armour
  heavy_infantry_equipment_1:0 "Équipement de contrôle des foules"
  heavy_infantry_equipment_1_short:0 "Equipement pour la foule"
- heavy_infantry_equipment_1_desc:9 "Bien qu'ils ne soient pas aussi sophistiqués que les équipements des forces spéciales, ni aussi avancés que les armures assistées, ces pièces de métal et ces rembourrages attachés au corps sont toujours utiles dans certaines situations. Particulièrement utiles dans le rôle qu'ils sont censés jouer pour supprimer la résistance."
+ heavy_infantry_equipment_1_desc:0 "Bien qu'ils ne soient pas aussi sophistiqués que les équipements des forces spéciales, ni aussi avancés que les armures assistées, ces pièces de métal et ces rembourrages attachés au corps sont toujours utiles dans certaines situations. Particulièrement utiles dans le rôle qu'ils sont censés jouer pour supprimer la résistance."
 
- heavy_infantry_equipment_2:9 "Équipement anti-émeute"
- heavy_infantry_equipment_2_short:9 "Anti-émeute"
- heavy_infantry_equipment_2_desc:9 "Bien qu'ils ne soient pas aussi sophistiqués que les équipements des forces spéciales, ni aussi avancés que les armures assistées, ces équipements anti-émeutes en métal d'avant-guerre permettent à nos troupes de faire face efficacement aux insurrections hostiles."
+ heavy_infantry_equipment_2:0 "Équipement anti-émeute"
+ heavy_infantry_equipment_2_short:0 "Anti-émeute"
+ heavy_infantry_equipment_2_desc:0 "Bien qu'ils ne soient pas aussi sophistiqués que les équipements des forces spéciales, ni aussi avancés que les armures assistées, ces équipements anti-émeutes en métal d'avant-guerre permettent à nos troupes de faire face efficacement aux insurrections hostiles."
 
  # Energy Equipment
  energy_equipment_1:0 "Fusils énergétiques"
  energy_equipment_1_short:0 "Fusils énergétiques"
- energy_equipment_1_desc:9 "L'armement laser est une alternative de plus en plus viable aux armes à feu, avec de meilleures capacités contre les cibles difficiles. Un kit de base composé d'un mousquet à énergie à manivelle et d'un revolver laser fournit une puissance de feu contre des cibles molles, tandis que des grenades à déchets à microfusion, un joint en laiton et un casque de soudure sont utilisés dans les CQC.\n\n"
+ energy_equipment_1_desc:0 "L'armement laser est une alternative de plus en plus viable aux armes à feu, avec de meilleures capacités contre les cibles difficiles. Un kit de base composé d'un mousquet à énergie à manivelle et d'un revolver laser fournit une puissance de feu contre des cibles molles, tandis que des grenades à déchets à microfusion, un joint en laiton et un casque de soudure sont utilisés dans les CQC.\n\n"
 
  energy_equipment_2:0 "Armes énergétiques Communes"
  energy_equipment_2_short:0 "Armes énergétiques Communes"
- energy_equipment_2_desc:9 "En acquérant une meilleure connaissance de la conception des armes d'avant-guerre, nous pouvons composer un nouveau kit d'infanterie avec de meilleures spécifications. Des fusils laser semi-automatiques, des armes latérales AEP7, des grenades MFC improvisées ainsi que des blindages métalliques de base nous permettent de faire face aux menaces plus facilement à distance, tandis qu'un déchargeur de contact est réservé au combat rapproché."
+ energy_equipment_2_desc:0 "En acquérant une meilleure connaissance de la conception des armes d'avant-guerre, nous pouvons composer un nouveau kit d'infanterie avec de meilleures spécifications. Des fusils laser semi-automatiques, des armes latérales AEP7, des grenades MFC improvisées ainsi que des blindages métalliques de base nous permettent de faire face aux menaces plus facilement à distance, tandis qu'un déchargeur de contact est réservé au combat rapproché."
 
  energy_equipment_3:0 "Armes énergétiques avancées"
  energy_equipment_3_short:0 "Armes énergétiques avancées"
- energy_equipment_3_desc:9 "Nos capacités de recherche nous ont permis d'améliorer même la technologie d'avant-guerre sur laquelle repose notre kit. Des grenades MFC surchargées et spécialement fabriquées augmentent nos capacités explosives, des variantes de fusils laser entièrement automatiques améliorent notre puissance de feu, et un blindage en alliage composite réduira considérablement le nombre de victimes de nos troupes."
+ energy_equipment_3_desc:0 "Nos capacités de recherche nous ont permis d'améliorer même la technologie d'avant-guerre sur laquelle repose notre kit. Des grenades MFC surchargées et spécialement fabriquées augmentent nos capacités explosives, des variantes de fusils laser entièrement automatiques améliorent notre puissance de feu, et un blindage en alliage composite réduira considérablement le nombre de victimes de nos troupes."
 
  energy_equipment_4:0 "Armes à énergie pulsée"
  energy_equipment_4_short:0 "Armes à énergie pulsée"
- energy_equipment_4_desc:9 "Avec une efficacité améliorée par rapport aux prototypes d'avant-guerre, provenant de chambres de tir de cellules de reproduction, ces armes à impulsion nous donnent un avantage significatif sur les militaires de toute autre nation. Complétées par des grenades à plasma et un blindage chargé électriquement, ainsi que des couteaux de combat à proton, cela en fait l'équipement d'infanterie le plus avancé de toute les Terres Désolées."
+ energy_equipment_4_desc:0 "Avec une efficacité améliorée par rapport aux prototypes d'avant-guerre, provenant de chambres de tir de cellules de reproduction, ces armes à impulsion nous donnent un avantage significatif sur les militaires de toute autre nation. Complétées par des grenades à plasma et un blindage chargé électriquement, ainsi que des couteaux de combat à proton, cela en fait l'équipement d'infanterie le plus avancé de toute les Terres Désolées."
 
  # Melee Equipment
  melee_equipment_1:0 "Armes de mêlée de base"
  melee_equipment_1_short:0 "Armes de mêlée de base"
- melee_equipment_1_desc:9 "De simples armes contondantes, associées à un meilleur entraînement physique, constituent une alternative bon marché à la fabrication d'armes à feu, tout en améliorant nos capacités à simplement écraser les lignes ennemies. Même si nous ne pouvons pas défendre nos positions aussi efficacement et que nous n'avons pas la capacité d'endommager des cibles difficiles, cela nous permettra de réduire la plupart des tribus en bouillie."
+ melee_equipment_1_desc:0 "De simples armes contondantes, associées à un meilleur entraînement physique, constituent une alternative bon marché à la fabrication d'armes à feu, tout en améliorant nos capacités à simplement écraser les lignes ennemies. Même si nous ne pouvons pas défendre nos positions aussi efficacement et que nous n'avons pas la capacité d'endommager des cibles difficiles, cela nous permettra de réduire la plupart des tribus en bouillie."
 
  melee_equipment_2:0 "Armes de mêlée"
  melee_equipment_2_short:0 "Armes de mêlée"
- melee_equipment_2_desc:9 "Le remplacement de nos armes contondantes rudimentaires par des machettes lestées ainsi que la fabrication d'épaisses cuirasses en ferraille permettront à nos troupes de se rapprocher beaucoup plus facilement pour écraser les positions ennemies en combat rapproché. L'amélioration et la rationalisation des exercices physiques sont également réalisées pour permettre à nos troupes de se déplacer sans même sentir le poids de leur armure.\n\n"
+ melee_equipment_2_desc:0 "Le remplacement de nos armes contondantes rudimentaires par des machettes lestées ainsi que la fabrication d'épaisses cuirasses en ferraille permettront à nos troupes de se rapprocher beaucoup plus facilement pour écraser les positions ennemies en combat rapproché. L'amélioration et la rationalisation des exercices physiques sont également réalisées pour permettre à nos troupes de se déplacer sans même sentir le poids de leur armure.\n\n"
 
  melee_equipment_3:0 "Armes assistées"
  melee_equipment_3_short:0 "Armes assistées"
- melee_equipment_3_desc:9 "Les marteaux de forgeron fournissent à nos troupes des capacités accrues contre le personnel armuré ennemi, ainsi que des possibilités de percée sur les positions ennemies. Des grenades et des poings balistiques viennent compléter notre arsenal, nous donnant une certaine mesure de puissance de feu à distance sous la forme d'un fusil de chasse de calibre 20 monté au poignet."
+ melee_equipment_3_desc:0 "Les marteaux de forgeron fournissent à nos troupes des capacités accrues contre le personnel armuré ennemi, ainsi que des possibilités de percée sur les positions ennemies. Des grenades et des poings balistiques viennent compléter notre arsenal, nous donnant une certaine mesure de puissance de feu à distance sous la forme d'un fusil de chasse de calibre 20 monté au poignet."
 
  melee_equipment_4:0 "Armes à moteur"
  melee_equipment_4_short:0 "Armes à moteur"
- melee_equipment_4_desc:9 "Des armes plus légères, comme les poings de puissance, réduisent la fatigue ressentie lors des combats rapprochés intenses, tandis que l'armure métallique renforcée offre une meilleure protection. L'amélioration de nos poings balistiques avec des balles de calibre 12 et des doubles canons permet à nos soldats d'attaquer de plus loin, même en restant à couvert lors d'engagements dangereux.\n\n"
+ melee_equipment_4_desc:0 "Des armes plus légères, comme les poings de puissance, réduisent la fatigue ressentie lors des combats rapprochés intenses, tandis que l'armure métallique renforcée offre une meilleure protection. L'amélioration de nos poings balistiques avec des balles de calibre 12 et des doubles canons permet à nos soldats d'attaquer de plus loin, même en restant à couvert lors d'engagements dangereux.\n\n"
  # spec ops Armour
 
  spec_ops_equipment:0 "Équipment des Forces Spéciales"
@@ -198,23 +198,23 @@
  spec_ops_equipment_5_desc:0 "Reproduction de l'équipement des forces spéciales d'avant-guerre, associé à des équipements de pointe, des armes personnalisées et des modifications pour nos hommes Un arsenal d’équipements de pointe et axés sur la survie, ainsi que des développements dans les cadres de répartition du poids, se combinent pour créer le meilleur équipement que nos hommes puissent demander."
 
   # Horses, Cavalry
- horse_equipment:9 "Chevaux"
- horse_equipment_short:9 "Chevaux"
- horse_equipment_desc:9 "Créatures de légende à quatre pattes."
+ horse_equipment:0 "Chevaux"
+ horse_equipment_short:0 "Chevaux"
+ horse_equipment_desc:0 "Créatures de légende à quatre pattes."
 
- horse_equipment_1:9 "Chevaux"
- horse_equipment_1_short:9 "Chevaux"
- horse_equipment_1_desc:9 "Créatures de légende à quatre pattes."
+ horse_equipment_1:0 "Chevaux"
+ horse_equipment_1_short:0 "Chevaux"
+ horse_equipment_1_desc:0 "Créatures de légende à quatre pattes."
 
  # Power Armour
 
- power_armor_equipment_0:9 "Armure assistée de patate"
- power_armor_equipment_0_short:9 "AA Patate"
- power_armor_equipment_0_desc:9 "Combinaison de patates qui protègent."
+ power_armor_equipment_0:0 "Armure assistée de patate"
+ power_armor_equipment_0_short:0 "AA Patate"
+ power_armor_equipment_0_desc:0 "Combinaison de patates qui protègent."
 
  power_armor_equipment_1:0 "Armure Assistée récupérée"
  power_armor_equipment_1_short:0 "Armure Assistée récupérée"
- power_armor_equipment_1_desc:9 "Cette armure a été bricolée à partir de pièces détachées et de morceaux brisés."
+ power_armor_equipment_1_desc:0 "Cette armure a été bricolée à partir de pièces détachées et de morceaux brisés."
 
  power_armor_equipment_2:45 "Armure assistée T-45d"
  power_armor_equipment_2_short:0 "T-45d AP"
@@ -248,13 +248,13 @@
  enclave_power_armour_equipment_2_short:0 "X-01 MKII Armure Assistée"
  enclave_power_armour_equipment_2_desc:0 "Développé des décennies après son prédécesseur, l'armure assistée avancée MKII améliore les impressionnantes prouesses militaires de l’armure. De nombreuses améliorations mineures, ainsi que des céramiques plus résistantes et une construction en composite complète, ont permis à cette conception d'obtenir de meilleurs résultats malgré sa construction plus légère."
 
- power_armor_equipment_tbh:9 "Armure Assistée Vault-Tec"
- power_armor_equipment_tbh_short:9 "AA Vault-Tec"
- power_armor_equipment_tbh_desc:9 "Un prototype de Vault-Tec. Il a été conçu pour imiter le succès de West-Tek avec ses armures."
+ power_armor_equipment_tbh:0 "Armure Assistée Vault-Tec"
+ power_armor_equipment_tbh_short:0 "AA Vault-Tec"
+ power_armor_equipment_tbh_desc:0 "Un prototype de Vault-Tec. Il a été conçu pour imiter le succès de West-Tek avec ses armures."
 
- power_armor_equipment_midwest:9 "Armure technologiquement avancée"
- power_armor_equipment_midwest_short:9 "ATA 1b"
- power_armor_equipment_midwest_desc:9 ""
+ power_armor_equipment_midwest:0 "Armure technologiquement avancée"
+ power_armor_equipment_midwest_short:0 "ATA 1b"
+ power_armor_equipment_midwest_desc:0 ""
 
  # Unique Infantry guns
  gauss_equipment_1:0 "Armes à énergie de Gauss"
@@ -276,25 +276,25 @@
  # Fireteam weapons
   fireteam_equipment_1:0 "Arme automatique de l'escouade de fortune"
  fireteam_equipment_1_short:0 "M SAW"
- fireteam_equipment_1_desc:9 "Une mitrailleuse de fortune faite de composants de ferraille et alimentée par une simple bande de munitions en tissu peut fournir à nos troupes un appui-feu automatique dont elles ont grand besoin. Cependant, cette arme est plus lourde que nécessaire, ne peut pas changer de canon en cas de surchauffe et a une faible cadence de tir. C'est pourquoi nos équipes MG ont demandé que l'on poursuive le développement de cette arme."
+ fireteam_equipment_1_desc:0 "Une mitrailleuse de fortune faite de composants de ferraille et alimentée par une simple bande de munitions en tissu peut fournir à nos troupes un appui-feu automatique dont elles ont grand besoin. Cependant, cette arme est plus lourde que nécessaire, ne peut pas changer de canon en cas de surchauffe et a une faible cadence de tir. C'est pourquoi nos équipes MG ont demandé que l'on poursuive le développement de cette arme."
   ballistic_fireteam_equipment_2:0 "Mitrailleuse légère"
   ballistic_fireteam_equipment_2_short:0 "GGL"
- ballistic_fireteam_equipment_2_desc:9 "Fiable, facile à produire et plus efficace contre les cibles souples que les armes laser, cette mitrailleuse légère possède de nombreuses caractéristiques améliorées par rapport à son prédécesseur. Les améliorations comprennent un baril à changement rapide, une courroie métallique, un meilleur mécanisme d'extraction, ainsi qu'une meilleure cadence cyclique grâce à sa conception à blocage à rouleaux."
+ ballistic_fireteam_equipment_2_desc:0 "Fiable, facile à produire et plus efficace contre les cibles souples que les armes laser, cette mitrailleuse légère possède de nombreuses caractéristiques améliorées par rapport à son prédécesseur. Les améliorations comprennent un baril à changement rapide, une courroie métallique, un meilleur mécanisme d'extraction, ainsi qu'une meilleure cadence cyclique grâce à sa conception à blocage à rouleaux."
   ballistic_fireteam_equipment_3:0 "Mitrailleuse lourde"
  ballistic_fireteam_equipment_3_short:0 "HMG"
- ballistic_fireteam_equipment_3_desc:9 "De conception lourde, cette arme est conçue pour être tirée à partir d'un bipied, tandis que sa construction légère permet également de la manipuler à partir de la hanche en cas d'avancée ennemie. Un dispositif de surpression de la bouche, un verrou ouvert, ainsi que la possibilité d'une alimentation continue améliorée la rendent très efficace contre les cibles molles."
+ ballistic_fireteam_equipment_3_desc:0 "De conception lourde, cette arme est conçue pour être tirée à partir d'un bipied, tandis que sa construction légère permet également de la manipuler à partir de la hanche en cas d'avancée ennemie. Un dispositif de surpression de la bouche, un verrou ouvert, ainsi que la possibilité d'une alimentation continue améliorée la rendent très efficace contre les cibles molles."
  ballistic_fireteam_equipment_4:0 "Minigun"
  ballistic_fireteam_equipment_4_short:0 "Minigun"
- ballistic_fireteam_equipment_4_desc:9 "Les armes rotatives permettent une cadence de tir sans précédent, tandis que l'alimentation du sac à dos, la visée assistée par le HUD et les canons à pores améliorent leur précision. Trop lourdes pour être manipulées par des soldats ordinaires, nos équipes de mitrailleurs sont équipées d'exosquelettes qui renforcent leur force, leur permettant de porter cette arme énorme et ses munitions tout en leur tirant dessus par la hanche."
+ ballistic_fireteam_equipment_4_desc:0 "Les armes rotatives permettent une cadence de tir sans précédent, tandis que l'alimentation du sac à dos, la visée assistée par le HUD et les canons à pores améliorent leur précision. Trop lourdes pour être manipulées par des soldats ordinaires, nos équipes de mitrailleurs sont équipées d'exosquelettes qui renforcent leur force, leur permettant de porter cette arme énorme et ses munitions tout en leur tirant dessus par la hanche."
   energy_fireteam_equipment_2:0 "Armes à condensateurs rapides lourds"
  energy_fireteam_equipment_2_short:0 "H-RCW"
- energy_fireteam_equipment_2_desc:9 "Les H-RCW bénéficient de bonnes performances contre les cibles difficiles, grâce à des boulons de tir suffisamment puissants pour faire sauter les blindages métalliques. L'entraînement à la spécificité des lasers, comme le maniement correct des armes surchauffées et le rechargement des cellules d'énergie, permet à nos soldats d'être efficaces contre les cibles tant légères que lourdes.\n\n"
+ energy_fireteam_equipment_2_desc:0 "Les H-RCW bénéficient de bonnes performances contre les cibles difficiles, grâce à des boulons de tir suffisamment puissants pour faire sauter les blindages métalliques. L'entraînement à la spécificité des lasers, comme le maniement correct des armes surchauffées et le rechargement des cellules d'énergie, permet à nos soldats d'être efficaces contre les cibles tant légères que lourdes.\n\n"
  energy_fireteam_equipment_3:0 "Gatling Laser"
  energy_fireteam_equipment_3_short:0 "Gatling Laser"
- energy_fireteam_equipment_3_desc:9 "La conception de la lentille rotative avec chaque baril alimenté par une cellule de microfusion empilée permet une meilleure cadence de tir, ainsi qu'un refroidissement interne et une précision améliorés. Bien que l'absence d'un système d'alimentation balistique traditionnel le rende suffisamment léger pour être manipulé par des soldats normaux, nous commençons à atteindre la limite de ce qui peut être raisonnablement porté à la hanche."
+ energy_fireteam_equipment_3_desc:0 "La conception de la lentille rotative avec chaque baril alimenté par une cellule de microfusion empilée permet une meilleure cadence de tir, ainsi qu'un refroidissement interne et une précision améliorés. Bien que l'absence d'un système d'alimentation balistique traditionnel le rende suffisamment léger pour être manipulé par des soldats normaux, nous commençons à atteindre la limite de ce qui peut être raisonnablement porté à la hanche."
   energy_fireteam_equipment_4:0 "Canon Tesla"
   energy_fireteam_equipment_4_short:0 "Canon Tesla"
- energy_fireteam_equipment_4_desc:9 "À l'origine, c'était une arme antichar, mais ce dispositif tesla a été modifié pour ressembler davantage à un canon d'automobile que son frère plus lourd, grâce à l'installation d'un réseau de focalisation plus petit et de paquets d'électrons à décharge rapide. Bien que la cadence de tir soit assez faible, les capacités d'impact et de perforation de chaque tir sont suffisantes pour perforer n'importe quel gilet pare-balles."
+ energy_fireteam_equipment_4_desc:0 "À l'origine, c'était une arme antichar, mais ce dispositif tesla a été modifié pour ressembler davantage à un canon d'automobile que son frère plus lourd, grâce à l'installation d'un réseau de focalisation plus petit et de paquets d'électrons à décharge rapide. Bien que la cadence de tir soit assez faible, les capacités d'impact et de perforation de chaque tir sont suffisantes pour perforer n'importe quel gilet pare-balles."
 
  # Demolitions Equipment
   demolitions_equipment_1:0 "Dynamite"
@@ -302,7 +302,7 @@
   demolitions_equipment_1_desc:0 "2,4,6-trinitrotoluène, argile et stabilisants emballés dans un tube en carton avec fusible. Un outil simple mais efficace pour l'exploitation minière, l'exploitation des carrières et, de toute évidence, l'envoi des gens au royaume."
   flamer_demolitions_equipment_2:0 "Lance-flammes"
   flamer_demolitions_equipment_2_short:0 "Flamme"
- flamer_demolitions_equipment_2_desc:9 "Le flambeur utilise un système de projection de gaz pour expulser un liquide inflammable qui est ensuite enflammé par une petite flamme à l'extrémité du museau. Il suffit de dire qu'il ne faut pas jouer avec un jet de liquide brûlant."
+ flamer_demolitions_equipment_2_desc:0 "Le flambeur utilise un système de projection de gaz pour expulser un liquide inflammable qui est ensuite enflammé par une petite flamme à l'extrémité du museau. Il suffit de dire qu'il ne faut pas jouer avec un jet de liquide brûlant."
   flamer_demolitions_equipment_3:0 "Incinérateur"
   flamer_demolitions_equipment_3_short:0 "Incinérateur"
   flamer_demolitions_equipment_3_desc:0 "L'incinérateur est encore plus incendiaire que son prédécesseur. Au lieu d'envoyer une vapeur à basse pression constante, la vapeur s'accumule pour brûler une goutte de liquide directement sur la cible visée. Souvent, ils restent allumés très longtemps."
@@ -311,7 +311,7 @@
   flamer_demolitions_equipment_4_desc:0 "L'incinérateur lourd fait ce que l'incinérateur fait, mais en plus lourd. Plus encombrante et légèrement plus difficile à manier, cette arme permet des pressions opérationnelles beaucoup plus élevées, d'où une plus grande portée et une dévastation accrue."
   explosive_demolitions_equipment_2:0 "Grenade à fragmentation"
   explosive_demolitions_equipment_2_short:0 "Grenade à Frag"
- explosive_demolitions_equipment_2_desc:9 "Un mélange de grenades offensives et défensives, ainsi que des charges de démolition, permet à notre sapeur d'être plus efficace dans son rôle de démolition. Les explosifs fragmentaires et les explosions par choc nécessitent une meilleure protection, c'est pourquoi nos ingénieurs sont équipés d'une armure lourde, tout en recevant un entraînement physique pour améliorer leur portée de projection.\n\n"
+ explosive_demolitions_equipment_2_desc:0 "Un mélange de grenades offensives et défensives, ainsi que des charges de démolition, permet à notre sapeur d'être plus efficace dans son rôle de démolition. Les explosifs fragmentaires et les explosions par choc nécessitent une meilleure protection, c'est pourquoi nos ingénieurs sont équipés d'une armure lourde, tout en recevant un entraînement physique pour améliorer leur portée de projection.\n\n"
   explosive_demolitions_equipment_3:0 "Fusil à grenades"
   explosive_demolitions_equipment_3_short:0 "Fusil à grenades"
   explosive_demolitions_equipment_3_desc:0 "Une douille d'obus fixe contenant un propergol et une charge explosive avec fusée à impact permet à nos sapeurs de tirer des grenades avec une portée considérablement accrue. Cela leur permet également d'utiliser des techniques de tir indirect, de faire pleuvoir des explosifs sur des positions fortifiées ou d'utiliser de la chevrotine de gros calibre pour balayer une zone entière avec des roulements en acier."
@@ -347,31 +347,31 @@
 
  support_robot_scrap_equipment:0 "Scrap-bot"
  support_robot_scrap_equipment_short:0 "Scrapbot"
- support_robot_scrap_equipment_desc:9 "L'équivalent de la machinerie industrielle avec un système de propulsion à chenilles, deux mitrailleuses de sous-calibre et un obus métallique couvrant des pièces sensibles, ces \\"robots de ferraille\" fourniront toujours un avantage tactique sous la forme d'un soldat de choc jetable ou de boucliers blindés que nos troupes pourront utiliser pour se protéger lors des attaques."
+ support_robot_scrap_equipment_desc:0 "L'équivalent de la machinerie industrielle avec un système de propulsion à chenilles, deux mitrailleuses de sous-calibre et un obus métallique couvrant des pièces sensibles, ces \\"robots de ferraille\" fourniront toujours un avantage tactique sous la forme d'un soldat de choc jetable ou de boucliers blindés que nos troupes pourront utiliser pour se protéger lors des attaques."
 
   support_robot_handy_equipment:0 "Monsieur Handy"
   support_robot_handy_equipment_short:0 "M. Handy"
- support_robot_handy_equipment_desc:9 "Bien que ces femmes de ménage d'avant-guerre se trouvent dans de nombreux endroits des Terres Désolées, elles peuvent avoir une puissance de feu un peu plus importante que celle requise pour la plupart des fêtes d'anniversaire des enfants. Avec un blindage boulonné qui complète l'obus de qualité civile, ainsi que le remplacement de son lance-flammes par un pistolet laser, elle devient une unité de combat efficace."
+ support_robot_handy_equipment_desc:0 "Bien que ces femmes de ménage d'avant-guerre se trouvent dans de nombreux endroits des Terres Désolées, elles peuvent avoir une puissance de feu un peu plus importante que celle requise pour la plupart des fêtes d'anniversaire des enfants. Avec un blindage boulonné qui complète l'obus de qualité civile, ainsi que le remplacement de son lance-flammes par un pistolet laser, elle devient une unité de combat efficace."
 
   support_robot_gutsy_equipment:0 "Monsieur Gutsy"
   support_robot_gutsy_equipment_short:0 "M. Gutsy"
- support_robot_gutsy_equipment_desc:9 "Une variante d'avant-guerre du Mr Handy, fabriquée expressément pour le combat, peut améliorer nos divisions robotisées tout en réduisant les coûts en prenant comme base son frère de ménage. Et même si nous ne pouvons pas fabriquer les spécifications d'origine, nous pouvons toujours parvenir à leur fournir un placage en acier trempé ainsi que des armes laser automatiques."
+ support_robot_gutsy_equipment_desc:0 "Une variante d'avant-guerre du Mr Handy, fabriquée expressément pour le combat, peut améliorer nos divisions robotisées tout en réduisant les coûts en prenant comme base son frère de ménage. Et même si nous ne pouvons pas fabriquer les spécifications d'origine, nous pouvons toujours parvenir à leur fournir un placage en acier trempé ainsi que des armes laser automatiques."
 
   support_robot_eyebot_equipment:0 "Duraframe Eyebot"
   support_robot_eyebot_equipment_short:0 "Eyebot"
- support_robot_eyebot_equipment_desc:9 "Conçu à l'origine comme un émetteur de médias mobiles, les oculaires étaient souvent rééquipés d'armes pour servir de poste d'écoute, d'unités d'éclaireurs et de forces de l'ordre. La coquille en forme de duraframe, ainsi qu'un point de montage nous permettant de les armer avec des mitrailleuses laser découpées, en font le robot léger le plus avancé que nous puissions mettre en service."
+ support_robot_eyebot_equipment_desc:0 "Conçu à l'origine comme un émetteur de médias mobiles, les oculaires étaient souvent rééquipés d'armes pour servir de poste d'écoute, d'unités d'éclaireurs et de forces de l'ordre. La coquille en forme de duraframe, ainsi qu'un point de montage nous permettant de les armer avec des mitrailleuses laser découpées, en font le robot léger le plus avancé que nous puissions mettre en service."
 
   support_robot_protectron_equipment_1:0 "Protection commerciale"
   support_robot_protectron_equipment_1_short:0 "Protectron Mk I"
- support_robot_protectron_equipment_1_desc:9 "Souvent appelés \"poubelles sur pattes\" pour leur apparence encombrante et leur conception lourde, les Protectrons civils peuvent encore faire des boucliers utiles pour nos troupes principales. Remplacer les frêles obus par des blindages en acier robuste, ainsi que les réarmer avec des pistolets mitrailleurs laser, permet de maximiser leur potentiel dans ce rôle."
+ support_robot_protectron_equipment_1_desc:0 "Souvent appelés \"poubelles sur pattes\" pour leur apparence encombrante et leur conception lourde, les Protectrons civils peuvent encore faire des boucliers utiles pour nos troupes principales. Remplacer les frêles obus par des blindages en acier robuste, ainsi que les réarmer avec des pistolets mitrailleurs laser, permet de maximiser leur potentiel dans ce rôle."
 
  support_robot_protectron_equipment_2:0 "Protectron de Police"
  support_robot_protectron_equipment_2_short:0 "Protectron Mk II"
- support_robot_protectron_equipment_2_desc:9 "Les Protectrons Mark 2 sont une gamme de robots perfectionnés fabriqués par RobCo pour des missions de police légères. Bien que \"avancé\" soit un terme relatif lorsqu'il s'agit de Protectrons, l'ajout de mitrailleuses à énergie remplaçant leurs vieux pistolets laser encombrants en fait des adversaires redoutables. La touche finale est une série de blindages boulonnés qui viennent compléter la coquille pare-balles."
+ support_robot_protectron_equipment_2_desc:0 "Les Protectrons Mark 2 sont une gamme de robots perfectionnés fabriqués par RobCo pour des missions de police légères. Bien que \"avancé\" soit un terme relatif lorsqu'il s'agit de Protectrons, l'ajout de mitrailleuses à énergie remplaçant leurs vieux pistolets laser encombrants en fait des adversaires redoutables. La touche finale est une série de blindages boulonnés qui viennent compléter la coquille pare-balles."
 
   combat_robot_lifter_equipment:0 "Benne de levage lourd"
   combat_robot_lifter_equipment_short:0 "Chariot élévateur de charges lourdes"
- combat_robot_lifter_equipment_desc:9 "Destiné à des tâches logistiques, ce robot peut être transformé en un redoutable combattant de première ligne. Nos ingénieurs travaillent déjà sur une multitude de réaménagements, comme le boulonnage de plaques supplémentaires pour compléter la coque industrielle déjà épaisse, et le remplacement des griffes de levage par des supports d'armes protégés. Cela nous permet d'armer ces robots avec un mélange de lanceurs d'engins légers et de mitrailleuses laser de grande longueur."
+ combat_robot_lifter_equipment_desc:0 "Destiné à des tâches logistiques, ce robot peut être transformé en un redoutable combattant de première ligne. Nos ingénieurs travaillent déjà sur une multitude de réaménagements, comme le boulonnage de plaques supplémentaires pour compléter la coque industrielle déjà épaisse, et le remplacement des griffes de levage par des supports d'armes protégés. Cela nous permet d'armer ces robots avec un mélange de lanceurs d'engins légers et de mitrailleuses laser de grande longueur."
 
  combat_robot_sentry_equipment_1:0 "Sentry Bot Mk I"
  combat_robot_sentry_equipment_1_short:0 "Sentry Bot Mk I"
@@ -379,37 +379,37 @@
 
  combat_robot_sentry_equipment_2:0 "Sentry Bot Mk II"
  combat_robot_sentry_equipment_2_short:0 "Sentry Bot Mk II"
- combat_robot_sentry_equipment_2_desc:9 "Les leçons tirées du combat peuvent être appliquées au Sentrybot Mark 2, une merveille de la robotique d'avant-monde adaptée à toute tâche de première ligne. Proposant un choix d'armes multiples, cette version est équipée de deux canons laser à chaîne de grande puissance, privilégiant l'anéantissement des cibles molles alors que l'alimentation du noyau nucléaire leur permet encore de faire fondre un blindage léger en quelques secondes."
+ combat_robot_sentry_equipment_2_desc:0 "Les leçons tirées du combat peuvent être appliquées au Sentrybot Mark 2, une merveille de la robotique d'avant-monde adaptée à toute tâche de première ligne. Proposant un choix d'armes multiples, cette version est équipée de deux canons laser à chaîne de grande puissance, privilégiant l'anéantissement des cibles molles alors que l'alimentation du noyau nucléaire leur permet encore de faire fondre un blindage léger en quelques secondes."
 
   combat_robot_assaultron_equipment:0 "Robco Assaultron"
   combat_robot_assaultron_equipment_short:0 "Assaultrontron"
- combat_robot_assaultron_equipment_desc:9 "Robot moyen conçu pour le combat de première ligne et les opérations CQC, son agilité et son processeur interne avancé lui permettent de se déplacer rapidement sur le champ de bataille tout en balayant et répartissant les menaces avec son faisceau laser focalisé et ses griffes à proximité."
+ combat_robot_assaultron_equipment_desc:0 "Robot moyen conçu pour le combat de première ligne et les opérations CQC, son agilité et son processeur interne avancé lui permettent de se déplacer rapidement sur le champ de bataille tout en balayant et répartissant les menaces avec son faisceau laser focalisé et ses griffes à proximité."
 
- security_robot_securitron_equipment_1:9 "RobCo PDQ-88b Securitron"
- security_robot_securitron_equipment_1_short:9 "PDQ-88b Securitron"
- security_robot_securitron_equipment_1_desc:9 "Ce robot de sécurité privé, fabriqué pour la police dans des zones d'opérations difficiles, est doté d'un système de propulsion à roue unique et d'une coque en alliage de titane entièrement soudée, ce qui lui confère une bonne mobilité et un blindage contre les armes légères typiques trouvées lors des patrouilles. En outre, une mitraillette de 9 mm montée sur le bras et un pistolet laser X-25 gatling leur permettent de gérer n'importe quel scénario de combat rapproché."
- security_robot_equipment:9 "Robots de Sécurité"
- security_robot_equipment_desc:9 "Le PDQ-88b Securitron (également appelé le RobCo Security Model 2060-B) est un robot de sécurité privé créé et produit en masse par la H&H Tools Factory après que M. House ait acheté la majorité de leur stock, avec l'aide de RobCo Industries."
+ security_robot_securitron_equipment_1:0 "RobCo PDQ-88b Securitron"
+ security_robot_securitron_equipment_1_short:0 "PDQ-88b Securitron"
+ security_robot_securitron_equipment_1_desc:0 "Ce robot de sécurité privé, fabriqué pour la police dans des zones d'opérations difficiles, est doté d'un système de propulsion à roue unique et d'une coque en alliage de titane entièrement soudée, ce qui lui confère une bonne mobilité et un blindage contre les armes légères typiques trouvées lors des patrouilles. En outre, une mitraillette de 9 mm montée sur le bras et un pistolet laser X-25 gatling leur permettent de gérer n'importe quel scénario de combat rapproché."
+ security_robot_equipment:0 "Robots de Sécurité"
+ security_robot_equipment_desc:0 "Le PDQ-88b Securitron (également appelé le RobCo Security Model 2060-B) est un robot de sécurité privé créé et produit en masse par la H&H Tools Factory après que M. House ait acheté la majorité de leur stock, avec l'aide de RobCo Industries."
 
   combat_robot_robobrain_equipment:0 "Robco Robobrain"
   combat_robot_robobrain_equipment_short:0 "Robobrain"
- combat_robot_robobrain_equipment_desc:9 "Un châssis à chenilles sur un cadre soudé en deux parties utilisant des plaques composites durcies ainsi que des canons laser intégrés constituent la base de la conception de notre Robobrain. La touche finale est un dôme de verre pare-balles, utilisant le cerveau de soldats particulièrement volontaires désireux de devenir des machines de mort comme le processeur le plus efficace au monde, donnant une réactivité inégalée sur le terrain."
+ combat_robot_robobrain_equipment_desc:0 "Un châssis à chenilles sur un cadre soudé en deux parties utilisant des plaques composites durcies ainsi que des canons laser intégrés constituent la base de la conception de notre Robobrain. La touche finale est un dôme de verre pare-balles, utilisant le cerveau de soldats particulièrement volontaires désireux de devenir des machines de mort comme le processeur le plus efficace au monde, donnant une réactivité inégalée sur le terrain."
 
  support_robot_scurry_equipment:0 "Scurry Salvager Bot"
- support_robot_scurry_equipment_short:9 "Scurry Bot"
- support_robot_scurry_equipment_desc:9 "Petits robots conçus pour les embuscades souterraines, ces araignées mécaniques sont équipées de pattes d'arachnides acérées et de capteurs sismiques pour détecter les cibles de surface lorsqu'elles rôdent. L'horrible façon dont leurs griffes de récupération peuvent les faire s'enfoncer dans l'infanterie et les véhicules ne laisse guère de doute quant à leur efficacité."
+ support_robot_scurry_equipment_short:0 "Scurry Bot"
+ support_robot_scurry_equipment_desc:0 "Petits robots conçus pour les embuscades souterraines, ces araignées mécaniques sont équipées de pattes d'arachnides acérées et de capteurs sismiques pour détecter les cibles de surface lorsqu'elles rôdent. L'horrible façon dont leurs griffes de récupération peuvent les faire s'enfoncer dans l'infanterie et les véhicules ne laisse guère de doute quant à leur efficacité."
 
   support_robot_humanoid_equipment:0 "C-22 Plate-forme de combat humanoïde"
- support_robot_humanoid_equipment_short:9 "C-22"
- support_robot_humanoid_equipment_desc:9 "Robots bipèdes conçus avant la grande guerre pour pacifier le désert nucléaire d'après, ces unités disposent d'un réseau de capteurs sophistiqués et d'un épais blindage composite, ainsi que d'un blindage EMP. Armés de miniguns à laser, de pistolets à gaine et de fusils à plasma, ils sont une force avec laquelle il faut compter."
+ support_robot_humanoid_equipment_short:0 "C-22"
+ support_robot_humanoid_equipment_desc:0 "Robots bipèdes conçus avant la grande guerre pour pacifier le désert nucléaire d'après, ces unités disposent d'un réseau de capteurs sophistiqués et d'un épais blindage composite, ainsi que d'un blindage EMP. Armés de miniguns à laser, de pistolets à gaine et de fusils à plasma, ils sont une force avec laquelle il faut compter."
 
   combat_robot_pacification_equipment:0 "Robot de pacification"
   combat_robot_pacification_equipment_short:0 ""
- combat_robot_pacification_equipment_desc:9 "Grand robot quadrupède, cette machine de guerre était à l'origine dotée d'une protection en forme de réservoir et de quatre canons de pacification. Une réflexion plus poussée menée par la Calculatrice a permis de remplacer les quatre canons par deux autocanons rotatifs à laser, et l'attention s'est portée sur l'amélioration des systèmes de mobilité ainsi que sur une meilleure liaison tactique avec d'autres unités robotisées, faisant d'elles des postes de commandement mobiles."
+ combat_robot_pacification_equipment_desc:0 "Grand robot quadrupède, cette machine de guerre était à l'origine dotée d'une protection en forme de réservoir et de quatre canons de pacification. Une réflexion plus poussée menée par la Calculatrice a permis de remplacer les quatre canons par deux autocanons rotatifs à laser, et l'attention s'est portée sur l'amélioration des systèmes de mobilité ainsi que sur une meilleure liaison tactique avec d'autres unités robotisées, faisant d'elles des postes de commandement mobiles."
 
   combat_robot_behemoth_equipment:0 "Robot Behemoth"
  combat_robot_behemoth_equipment_short:0 ""
- combat_robot_behemoth_equipment_desc:9 "Bête de machine gargantuesque, qualifier ce robot de char ambulant serait rendre un mauvais service à la masse d'armes et de blindages qu'il transporte. Armé à l'origine de quatre mitrailleuses à tir rapide de calibre 50, celles-ci ont été remplacées par un quadruple canon automatique de 20 mm. Combiné à un blindage suffisamment épais pour arrêter les projectiles à plasma, notre ennemi ne peut rien faire d'autre que de haleter avant d'être mis en pièces."
+ combat_robot_behemoth_equipment_desc:0 "Bête de machine gargantuesque, qualifier ce robot de char ambulant serait rendre un mauvais service à la masse d'armes et de blindages qu'il transporte. Armé à l'origine de quatre mitrailleuses à tir rapide de calibre 50, celles-ci ont été remplacées par un quadruple canon automatique de 20 mm. Combiné à un blindage suffisamment épais pour arrêter les projectiles à plasma, notre ennemi ne peut rien faire d'autre que de haleter avant d'être mis en pièces."
 
  # Artillery
  artillery_equipment_1:0 "Équipement d'artillerie"
@@ -445,46 +445,46 @@
  # Tank
  tank_equipment:0 "Équipement de char"
  tank_equipment_desc:0 ""
- tank_equipment_1:9 "Débris de char"
- tank_equipment_1_short:9 "Débris de char"
- tank_equipment_1_desc:9 "Un châssis à chenilles reconstruit à partir de véhicules de construction industrielle, blindé de plaques de béton ainsi que d'un blindage en acier espacé, assure une protection contre la plupart des armes simples. Les supports de boulets blindés permettent d'armer nos véhicules avec un choix d'armes légères allant des mitrailleuses aux fusils antichars, tandis que la lame de bulldozer permet à notre équipage de démolir les positions fortifiées ou d'éperonner les véhicules blindés ennemis."
+ tank_equipment_1:0 "Débris de char"
+ tank_equipment_1_short:0 "Débris de char"
+ tank_equipment_1_desc:0 "Un châssis à chenilles reconstruit à partir de véhicules de construction industrielle, blindé de plaques de béton ainsi que d'un blindage en acier espacé, assure une protection contre la plupart des armes simples. Les supports de boulets blindés permettent d'armer nos véhicules avec un choix d'armes légères allant des mitrailleuses aux fusils antichars, tandis que la lame de bulldozer permet à notre équipage de démolir les positions fortifiées ou d'éperonner les véhicules blindés ennemis."
  tank_equipment_2:0 "Char des Terres désolées"
  tank_equipment_2_short:0 "Char des Terres désolées"
- tank_equipment_2_desc:9 "En améliorant son patrimoine industriel, la partie supérieure a été entièrement découpée, et l'armure renforcée par un solide placage monocoque présentant peu de défauts pour que le feu ennemi puisse la percer. La suppression de la lame de bulldozer frontale a également permis d'accroître la mobilité, tout en permettant à nos ingénieurs d'installer un obusier de 75 mm dans la coque. Cela a permis à notre équipage d'engager des positions fortifiées avec des projectiles hautement explosifs dévastateurs."
- tank_equipment_3:9 "Char de la Grande Guerre"
- tank_equipment_3_short:9 "Char de la Grande Guerre"
- tank_equipment_3_desc:9 "En repartant de la base de la coque, nous pouvons concevoir un VAB plus efficace, équipé d'un stockage de munitions sécurisé, d'une mitrailleuse coaxiale et d'une tourelle motorisée sur laquelle est monté un canon de soutien d'infanterie de gros calibre. Cela améliore son efficacité contre les cibles douces et dures, tandis que le blindage plus léger en plaques d'acier trempées en surface lui permet d'atteindre des vitesses plus élevées."
- tank_equipment_4:9 "Char de la Grande Guerre"
- tank_equipment_4_short:9 "Char de la Grande Guerre"
- tank_equipment_4_desc:9 "La technologie des chars d'avant-guerre exige des capacités de production extrêmement avancées, ou une pensée très créative. Remplacer le placage d'uranium appauvri par une plaque frontale en alliage, unifier le système à quatre pistes en un système à deux pistes, et remplacer l'électronique interne étendue par des substituts plus simples nous permet de construire un redoutable produit du passé."
+ tank_equipment_2_desc:0 "En améliorant son patrimoine industriel, la partie supérieure a été entièrement découpée, et l'armure renforcée par un solide placage monocoque présentant peu de défauts pour que le feu ennemi puisse la percer. La suppression de la lame de bulldozer frontale a également permis d'accroître la mobilité, tout en permettant à nos ingénieurs d'installer un obusier de 75 mm dans la coque. Cela a permis à notre équipage d'engager des positions fortifiées avec des projectiles hautement explosifs dévastateurs."
+ tank_equipment_3:0 "Char de la Grande Guerre"
+ tank_equipment_3_short:0 "Char de la Grande Guerre"
+ tank_equipment_3_desc:0 "En repartant de la base de la coque, nous pouvons concevoir un VAB plus efficace, équipé d'un stockage de munitions sécurisé, d'une mitrailleuse coaxiale et d'une tourelle motorisée sur laquelle est monté un canon de soutien d'infanterie de gros calibre. Cela améliore son efficacité contre les cibles douces et dures, tandis que le blindage plus léger en plaques d'acier trempées en surface lui permet d'atteindre des vitesses plus élevées."
+ tank_equipment_4:0 "Char de la Grande Guerre"
+ tank_equipment_4_short:0 "Char de la Grande Guerre"
+ tank_equipment_4_desc:0 "La technologie des chars d'avant-guerre exige des capacités de production extrêmement avancées, ou une pensée très créative. Remplacer le placage d'uranium appauvri par une plaque frontale en alliage, unifier le système à quatre pistes en un système à deux pistes, et remplacer l'électronique interne étendue par des substituts plus simples nous permet de construire un redoutable produit du passé."
 
  # Truck
  truck_equipment_1:0 "Débris de camions armés"
  truck_equipment_1_short:0 "Débris de camions armés"
- truck_equipment_1_desc:9 "Ces camions, qui ont été bricolés à partir de la récupération, ne sont pas très beaux à voir. Mais alors que la ferraille peut à peine résister aux armes légères et que le moteur a du mal à suivre le poids accru, ils offrent une protection décente à notre infanterie qui ne serait jamais prise à se plaindre de ne pas être abattue. Un fusil automatique monté fournit également un certain appui."
+ truck_equipment_1_desc:0 "Ces camions, qui ont été bricolés à partir de la récupération, ne sont pas très beaux à voir. Mais alors que la ferraille peut à peine résister aux armes légères et que le moteur a du mal à suivre le poids accru, ils offrent une protection décente à notre infanterie qui ne serait jamais prise à se plaindre de ne pas être abattue. Un fusil automatique monté fournit également un certain appui."
 
  truck_equipment_2:0 "Camion armé récupéré"
  truck_equipment_2_short:0 "Camion armé récupéré"
- truck_equipment_2_desc:9 "Ces camions sont un mélange de blindage rouillé provenant de véhicules délabrés et de moteurs essayant de fonctionner ensemble grâce à une transmission conçue à la hâte. Dotés de meilleures défenses que les modèles précédents, ils sont également armés d'une mitrailleuse correctement montée et équipée d'un bouclier. Des dispositions sont également prises pour que l'infanterie puisse stocker une plus grande puissance de feu à l'intérieur."
+ truck_equipment_2_desc:0 "Ces camions sont un mélange de blindage rouillé provenant de véhicules délabrés et de moteurs essayant de fonctionner ensemble grâce à une transmission conçue à la hâte. Dotés de meilleures défenses que les modèles précédents, ils sont également armés d'une mitrailleuse correctement montée et équipée d'un bouclier. Des dispositions sont également prises pour que l'infanterie puisse stocker une plus grande puissance de feu à l'intérieur."
 
  # APC
  apc_equipment_1:0 "APC récupéré"
  apc_equipment_1_short:0 "APC récupéré"
- apc_equipment_1_desc:9 "Les camions lourds blindés récupérés constituent une base plus adaptée à nos divisions mécanisées. Un épais blindage en acier, soutenu par de meilleures suspensions et des moteurs à couple élevé, peut désormais résister aux tirs de fusils, voire aux attaques au laser. Une mitrailleuse lourde montée à l'avant apporte une puissance de feu appropriée pour les combats en première ligne ou les opérations à armes combinées."
+ apc_equipment_1_desc:0 "Les camions lourds blindés récupérés constituent une base plus adaptée à nos divisions mécanisées. Un épais blindage en acier, soutenu par de meilleures suspensions et des moteurs à couple élevé, peut désormais résister aux tirs de fusils, voire aux attaques au laser. Une mitrailleuse lourde montée à l'avant apporte une puissance de feu appropriée pour les combats en première ligne ou les opérations à armes combinées."
 
  apc_equipment_2:0 "APC des Terres désolées"
  apc_equipment_2_short:0 "APS des Terres désolées"
- apc_equipment_2_desc:9 "Un châssis à chenilles pour naviguer dans les terres incendiées, couplé à un double moteur et à un placage d'alliage, est le résultat des efforts de nos ingénieurs pour améliorer les VAB de nos divisions mécanisées. Un système de rampe permet de débarquer sous protection blindée, tandis qu'un système de communication externe pour le soutien de l'infanterie et un autocanon monté améliorent considérablement nos capacités offensives."
+ apc_equipment_2_desc:0 "Un châssis à chenilles pour naviguer dans les terres incendiées, couplé à un double moteur et à un placage d'alliage, est le résultat des efforts de nos ingénieurs pour améliorer les VAB de nos divisions mécanisées. Un système de rampe permet de débarquer sous protection blindée, tandis qu'un système de communication externe pour le soutien de l'infanterie et un autocanon monté améliorent considérablement nos capacités offensives."
 
  apc_equipment_3:0 "APC de la Grande Guerre"
  apc_equipment_3_short:0 "APC de la Grande Guerre"
- apc_equipment_3_desc:9 "Les véhicules de transport de troupes d'avant-guerre sont le nec plus ultra de ce que nous pouvons fabriquer actuellement. Les blindages composites avec des revêtements anti-éclats sauveront la vie de nombreux fantassins, tandis que leur canon court de soutien d'infanterie, capable de tirer des obus explosifs et antichars, fera exploser toute position fortifiée, tout véhicule ou tout ennemi que nos gars sur le terrain pourraient rencontrer."
+ apc_equipment_3_desc:0 "Les véhicules de transport de troupes d'avant-guerre sont le nec plus ultra de ce que nous pouvons fabriquer actuellement. Les blindages composites avec des revêtements anti-éclats sauveront la vie de nombreux fantassins, tandis que leur canon court de soutien d'infanterie, capable de tirer des obus explosifs et antichars, fera exploser toute position fortifiée, tout véhicule ou tout ennemi que nos gars sur le terrain pourraient rencontrer."
 
 
  # Chariots
- chariot_equipment_1:9 "Chariots à moteur"
- chariot_equipment_1_short:9 "Chariots"
- chariot_equipment_1_desc:9 ""
+ chariot_equipment_1:0 "Chariots à moteur"
+ chariot_equipment_1_short:0 "Chariots"
+ chariot_equipment_1_desc:0 ""
 
  # Behemoth/monsters
  behemoth_equipment_1:0 "Super Mutant Béhémoth"
@@ -497,9 +497,9 @@
  molerat_equipment_1_short:0 "Moles"
  molerat_equipment_1_desc:0 "Les molérats, bien qu'ils ne soient pas l'animal le plus conventionnel à utiliser au combat, peuvent néanmoins faire ce qui doit être fait pour gagner le combat."
 
- gehenna_molech_equipment:9 "Gehennas"
- gehenna_molech_equipment_short:9 "Gehenna"
- gehenna_molech_equipment_desc:9 "Monstres de feu de DOOM"
+ gehenna_molech_equipment:0 "Gehennas"
+ gehenna_molech_equipment_short:0 "Gehenna"
+ gehenna_molech_equipment_desc:0 "Monstres de feu de DOOM"
 
  mirelurk_equipment:0 "Mirelurks"
  mirelurk_equipment_desc:0 "Mirelurks apprivoisés"
@@ -520,7 +520,7 @@
 
  fighter_equipment_1:0 "Chasseur de ferraille"
  fighter_equipment_1_short:0 "Chasseur de ferraille"
- fighter_equipment_1_desc:9 "Nos ingénieurs ont, après de multiples essais stressants, inventé un parapente capable de frapper du ciel. Armés de deux mitrailleuses, d'un complément de grenades pour les frappes au sol et de beaucoup de prières, nos pilotes peuvent maintenant appuyer les troupes de première ligne. Un système de catapultage mobile, installé sur la plate-forme d'un camion pour les procédures de lancement, leur donne également une autonomie considérablement accrue, puisque les camions ont plus d'autonomie que nos planeurs."
+ fighter_equipment_1_desc:0 "Nos ingénieurs ont, après de multiples essais stressants, inventé un parapente capable de frapper du ciel. Armés de deux mitrailleuses, d'un complément de grenades pour les frappes au sol et de beaucoup de prières, nos pilotes peuvent maintenant appuyer les troupes de première ligne. Un système de catapultage mobile, installé sur la plate-forme d'un camion pour les procédures de lancement, leur donne également une autonomie considérablement accrue, puisque les camions ont plus d'autonomie que nos planeurs."
 
   fighter_equipment_2:0 "Chasseur biplan"
   fighter_equipment_2_short:0 "Chasseur biplan"
@@ -528,7 +528,7 @@
 
  fighter_equipment_3:0 "Chasseur nucléaire récupéré"
  fighter_equipment_3_short:0 "Chasseur nucléaire récupéré"
- fighter_equipment_3_desc:9 "Comme la vitesse et la faible traînée deviennent primordiales, une conception monoplan est maintenant préférable. L'augmentation de la capacité de poids permet l'installation d'une troisième mitrailleuse de calibre supérieur, refroidie par air, pour le passage des armes à feu, ainsi que de jambes de force externes pouvant supporter deux bombes explosives de 50 kg de haut. Les unités powerpack empilées permettent une vitesse de pointe plus élevée, ce qui nous donne la possibilité d'augmenter la portée de frappe et les techniques d'interception contre les vaisseaux ennemis."
+ fighter_equipment_3_desc:0 "Comme la vitesse et la faible traînée deviennent primordiales, une conception monoplan est maintenant préférable. L'augmentation de la capacité de poids permet l'installation d'une troisième mitrailleuse de calibre supérieur, refroidie par air, pour le passage des armes à feu, ainsi que de jambes de force externes pouvant supporter deux bombes explosives de 50 kg de haut. Les unités powerpack empilées permettent une vitesse de pointe plus élevée, ce qui nous donne la possibilité d'augmenter la portée de frappe et les techniques d'interception contre les vaisseaux ennemis."
 
   fighter_equipment_4:0 "Avion de chasse"
   fighter_equipment_4_short:0 "Avion de chasse"
@@ -616,11 +616,11 @@
 
   hev_cas_equipment_2:0 "Poussoir de mise à la terre"
   hev_cas_equipment_2_short:0 "Poussoir de mise à la terre"
- hev_cas_equipment_2_desc:9 "Les avions lourds CAS peuvent fournir un meilleur soutien au sol, au détriment de l'agilité et de l'augmentation du tonnage. Le remplacement de nos mitrailleuses moyennes par deux variantes plus lourdes, modifiées à partir d'un développement automatique de notre conception de fusil antichar, augmentera considérablement nos capacités de perçage contre la cible dure et notre puissance de feu contre les cibles molles."
+ hev_cas_equipment_2_desc:0 "Les avions lourds CAS peuvent fournir un meilleur soutien au sol, au détriment de l'agilité et de l'augmentation du tonnage. Le remplacement de nos mitrailleuses moyennes par deux variantes plus lourdes, modifiées à partir d'un développement automatique de notre conception de fusil antichar, augmentera considérablement nos capacités de perçage contre la cible dure et notre puissance de feu contre les cibles molles."
 
   hev_cas_equipment_3:0 "Interdiction Jet Striker"
   hev_cas_equipment_3_short:0 "Interdiction Jet Striker"
- hev_cas_equipment_3_desc:9 "While a six-barrelled autocannon is already a good weapon for ground attack runs, we can still add more. Strengthening two of the wing pylons will let us arm our jet attackers with 37mm automatic gunpods for even greater armour-piercing capabilities."
+ hev_cas_equipment_3_desc:0 "While a six-barrelled autocannon is already a good weapon for ground attack runs, we can still add more. Strengthening two of the wing pylons will let us arm our jet attackers with 37mm automatic gunpods for even greater armour-piercing capabilities."
 
   hev_cas_equipment_4:0 "Annihilateur blindé"
   hev_cas_equipment_4_short:0 "Annihilateur blindé"
@@ -726,11 +726,11 @@
 
   blimp_equipment_3:0 "Forteresse volante"
   blimp_equipment_3_short:0 "Forteresse volante"
- blimp_equipment_3_desc:9 "At the price of ten advanced fighters, it would at first seem like a bad investment. But no one has experienced true joy until they've seen the rotary autocannons shred planes to pieces while mortar turrets annihilate ground target. Anti-air guns useless against the armour, soldiers running for their lives at the mere sight, battalions fleeing and crying to whatever god they worship to save them. Some may say it's a waste of budget, but for the few daring enough, it is a dream come true."
+ blimp_equipment_3_desc:0 "At the price of ten advanced fighters, it would at first seem like a bad investment. But no one has experienced true joy until they've seen the rotary autocannons shred planes to pieces while mortar turrets annihilate ground target. Anti-air guns useless against the armour, soldiers running for their lives at the mere sight, battalions fleeing and crying to whatever god they worship to save them. Some may say it's a waste of budget, but for the few daring enough, it is a dream come true."
 
   blimp_equipment_4:0 "Superforteresse"
   blimp_equipment_4_short:0 "Superforteresse"
- blimp_equipment_4_desc:9 "Carte Blanche was given to our engineers in terms of budget to improve our blimps, and while embezzlement rumours have been going around, they are indeed just that. Rumours. With all the autocannons increased in calibre and given gun-laying radars, along with mortar upgraded to low-velocity howitzers, few can stand against our might. With the armour of a tank and a reinforced nano-Kevlar balloon with internal bulkheads and emergency air pumps, nothing can stand in it's way."
+ blimp_equipment_4_desc:0 "Carte Blanche was given to our engineers in terms of budget to improve our blimps, and while embezzlement rumours have been going around, they are indeed just that. Rumours. With all the autocannons increased in calibre and given gun-laying radars, along with mortar upgraded to low-velocity howitzers, few can stand against our might. With the armour of a tank and a reinforced nano-Kevlar balloon with internal bulkheads and emergency air pumps, nothing can stand in it's way."
 
   cheap_blimp_equipment:0 "Zeppelin léger"
   cheap_blimp_equipment_short:0 "Zeppelin léger"
@@ -809,60 +809,60 @@
  vb_transport_plane_equipment_short:0 "Transport VB-02"
  vb_transport_plane_equipment_desc:0 ""
 
- payload_glider_equipment_1:9 "Planeurs à charge utile"
- payload_glider_equipment_1_short:9 "Planeurs à bombe"
- payload_glider_equipment_1_desc:9 ""
+ payload_glider_equipment_1:0 "Planeurs à charge utile"
+ payload_glider_equipment_1_short:0 "Planeurs à bombe"
+ payload_glider_equipment_1_desc:0 ""
 
- air_chaff_equipment_1:9 "Ballons de barrage"
- air_chaff_equipment_1_short:9 "Ballons de barrage"
- air_chaff_equipment_1_desc:9 ""
+ air_chaff_equipment_1:0 "Ballons de barrage"
+ air_chaff_equipment_1_short:0 "Ballons de barrage"
+ air_chaff_equipment_1_desc:0 ""
 
  # Special Equipments
- mininuke_equipment:9 "Mini Bombe Nucléaire"
- mininuke_equipment_short:9 "Mini Bombe Nucléaire"
- mininuke_equipment_desc:9 ""
- mininuke_equipment_1:9 "Mini Bombe Nucléaire"
- mininuke_equipment_1_short:9 "Mini Bombe Nucléaire"
- mininuke_equipment_1_desc:9 "La mini bombe nucléaire se compose de quatre éléments principaux. L'enveloppe du détonateur, au fond, contient une sous-charge classique qui explose lorsqu'elle est frappée par le percuteur du M42, le catapultant hors du lanceur. Quatre ailettes stabilisatrices qui y sont fixées assurent une trajectoire stable et empêchent le culbutage en vol, ce qui augmente la précision (une caractéristique nécessaire, car le projectile n'est pas stabilisé en rotation). Le noyau de l'hémisphère est vissé sur le dessus, contenant le noyau nucléaire. Enfin, l'arme est équipée d'une fusée de contact en béryllium qui déclenche la réaction nucléaire à l'impact."
+ mininuke_equipment:0 "Mini Bombe Nucléaire"
+ mininuke_equipment_short:0 "Mini Bombe Nucléaire"
+ mininuke_equipment_desc:0 ""
+ mininuke_equipment_1:0 "Mini Bombe Nucléaire"
+ mininuke_equipment_1_short:0 "Mini Bombe Nucléaire"
+ mininuke_equipment_1_desc:0 "La mini bombe nucléaire se compose de quatre éléments principaux. L'enveloppe du détonateur, au fond, contient une sous-charge classique qui explose lorsqu'elle est frappée par le percuteur du M42, le catapultant hors du lanceur. Quatre ailettes stabilisatrices qui y sont fixées assurent une trajectoire stable et empêchent le culbutage en vol, ce qui augmente la précision (une caractéristique nécessaire, car le projectile n'est pas stabilisé en rotation). Le noyau de l'hémisphère est vissé sur le dessus, contenant le noyau nucléaire. Enfin, l'arme est équipée d'une fusée de contact en béryllium qui déclenche la réaction nucléaire à l'impact."
 
  # Artillery Shells
- artillery_ammo_equipment:9 "Lot d'obus d'artillerie"
- artillery_ammo_equipment_short:9 "Lot d'obus"
- artillery_ammo_equipment_desc:9 ""
- artillery_ammo_equipment_1:9 "Lot d'obus d'artillerie de 155 mm"
- artillery_ammo_equipment_1_short:9 "Lot d'obus"
- artillery_ammo_equipment_1_desc:9 "Des munitions pour les très gros canons. Bien sûr que oui."
+ artillery_ammo_equipment:0 "Lot d'obus d'artillerie"
+ artillery_ammo_equipment_short:0 "Lot d'obus"
+ artillery_ammo_equipment_desc:0 ""
+ artillery_ammo_equipment_1:0 "Lot d'obus d'artillerie de 155 mm"
+ artillery_ammo_equipment_1_short:0 "Lot d'obus"
+ artillery_ammo_equipment_1_desc:0 "Des munitions pour les très gros canons. Bien sûr que oui."
 
  # Implant Equipment
- implant_equipment:9 "Implants cybernétiques"
- implant_equipment_short:9 "Implants"
- implant_equipment_desc:9 "Description de l'archétype"
- implant_equipment_1:9 "Kit d'implants Mark II"
- implant_equipment_1_short:9 "Implants II"
- implant_equipment_1_desc:9 "De nouvelles générations de nanorobots, équipées de dispositifs EMS avancés, ont été développées pour faire face au problème du poids toujours croissant des équipements militaires. Les impulsions électriques peuvent être dirigées vers les muscles porteurs pour augmenter leur densité, ainsi que pour favoriser une récupération rapide des traumatismes musculo-squelettiques. Cela augmentera la force et la résilience de nos soldats face à tout type de dommage, qu'il s'agisse d'une chute ou d'un coup brutal."
- implant_equipment_2:9 "Kit d'implants Mark III"
- implant_equipment_2_short:9 "Implants III"
- implant_equipment_2_desc:9 "La production de lentilles de contact bioniques est une étape supplémentaire dans l'intégration d'équipements encombrants directement dans le corps de notre soldat. Dans ce cas, l'affichage de la visée d'un casque, l'imagerie thermique et infrarouge ont été fusionnés dans la membrane directement reliée au nerf optique, fournissant ainsi une aide à la visée insensible ainsi qu'une détection de la cible. Cela nous permet également de renforcer et d'alléger considérablement la conception actuelle de notre casque."
- implant_equipment_3:9 "Kit d'implants Mark IV"
- implant_equipment_3_short:9 "Implants IV"
- implant_equipment_3_desc:9 "En donnant à nos nanorobots la capacité de créer une armure sous-cutanée, nous pouvons augmenter considérablement la résistance de nos soldats aux dommages causés par le combat. Implanté dans la couche réticulaire du derme pour remplacer entièrement la fibre protéique par une matrice en kevlar, il rend la peau résistante aux projectiles des armes de poing, aux coupures d'armes, au feu et aux traumatismes contondants. L'implantation sous la couche de mécano et de thermorécepteur assure également l'absence de diminution des sensations, ce qui la rend pratiquement sans couture."
- implant_equipment_4:9 "Kit d'implants Mark V"
- implant_equipment_4_short:9 "Implants V"
- implant_equipment_4_desc:9 "Une meilleure intégration du système de diagnostic nanoscopique dans un module de gestion centralisé nous permet d'augmenter considérablement l'efficacité de nos soldats. Ces améliorations, liées à un nouvel implant gastrique, fournissent plus de puissance aux composants mécaniques existants, car la transformation des nutriments du corps en énergie électrochimique est détournée et liée à leur cybernétique. La légère augmentation de la faim comme effet secondaire en vaut plus que la peine pour le soldat de demain."
+ implant_equipment:0 "Implants cybernétiques"
+ implant_equipment_short:0 "Implants"
+ implant_equipment_desc:0 "Description de l'archétype"
+ implant_equipment_1:0 "Kit d'implants Mark II"
+ implant_equipment_1_short:0 "Implants II"
+ implant_equipment_1_desc:0 "De nouvelles générations de nanorobots, équipées de dispositifs EMS avancés, ont été développées pour faire face au problème du poids toujours croissant des équipements militaires. Les impulsions électriques peuvent être dirigées vers les muscles porteurs pour augmenter leur densité, ainsi que pour favoriser une récupération rapide des traumatismes musculo-squelettiques. Cela augmentera la force et la résilience de nos soldats face à tout type de dommage, qu'il s'agisse d'une chute ou d'un coup brutal."
+ implant_equipment_2:0 "Kit d'implants Mark III"
+ implant_equipment_2_short:0 "Implants III"
+ implant_equipment_2_desc:0 "La production de lentilles de contact bioniques est une étape supplémentaire dans l'intégration d'équipements encombrants directement dans le corps de notre soldat. Dans ce cas, l'affichage de la visée d'un casque, l'imagerie thermique et infrarouge ont été fusionnés dans la membrane directement reliée au nerf optique, fournissant ainsi une aide à la visée insensible ainsi qu'une détection de la cible. Cela nous permet également de renforcer et d'alléger considérablement la conception actuelle de notre casque."
+ implant_equipment_3:0 "Kit d'implants Mark IV"
+ implant_equipment_3_short:0 "Implants IV"
+ implant_equipment_3_desc:0 "En donnant à nos nanorobots la capacité de créer une armure sous-cutanée, nous pouvons augmenter considérablement la résistance de nos soldats aux dommages causés par le combat. Implanté dans la couche réticulaire du derme pour remplacer entièrement la fibre protéique par une matrice en kevlar, il rend la peau résistante aux projectiles des armes de poing, aux coupures d'armes, au feu et aux traumatismes contondants. L'implantation sous la couche de mécano et de thermorécepteur assure également l'absence de diminution des sensations, ce qui la rend pratiquement sans couture."
+ implant_equipment_4:0 "Kit d'implants Mark V"
+ implant_equipment_4_short:0 "Implants V"
+ implant_equipment_4_desc:0 "Une meilleure intégration du système de diagnostic nanoscopique dans un module de gestion centralisé nous permet d'augmenter considérablement l'efficacité de nos soldats. Ces améliorations, liées à un nouvel implant gastrique, fournissent plus de puissance aux composants mécaniques existants, car la transformation des nutriments du corps en énergie électrochimique est détournée et liée à leur cybernétique. La légère augmentation de la faim comme effet secondaire en vaut plus que la peine pour le soldat de demain."
 
  # Sentinel command equipment
- sentinel_command_slave_equipment:9 ""
- sentinel_command_slave_equipment_desc:9 ""
+ sentinel_command_slave_equipment:0 ""
+ sentinel_command_slave_equipment_desc:0 ""
 
- sentinel_command_slave_equipment_1:9 "Esclave du Commandement Sentinel"
- sentinel_command_slave_equipment_1_short:9 "Module de commande"
- sentinel_command_slave_equipment_1_desc:9 "L'équipement nécessaire pour asservir de multiples combinaisons aux ordres d'un seul chef. Permettant une grande autonomie et une utilisation beaucoup plus efficace de la main d'œuvre. Une merveille de l'ingénierie américaine, si seulement elle avait été là plus tôt."
+ sentinel_command_slave_equipment_1:0 "Esclave du Commandement Sentinel"
+ sentinel_command_slave_equipment_1_short:0 "Module de commande"
+ sentinel_command_slave_equipment_1_desc:0 "L'équipement nécessaire pour asservir de multiples combinaisons aux ordres d'un seul chef. Permettant une grande autonomie et une utilisation beaucoup plus efficace de la main d'œuvre. Une merveille de l'ingénierie américaine, si seulement elle avait été là plus tôt."
 
 
- radio_equipment_1:9 "Radio Portable"
- radio_equipment_1_short:9 "Radio portative"
- radio_equipment_1_desc:9 "Un récepteur et un émetteur d'ondes radio plutôt rudimentaires, mais les implications tactiques sont immenses."
+ radio_equipment_1:0 "Radio Portable"
+ radio_equipment_1_short:0 "Radio portative"
+ radio_equipment_1_desc:0 "Un récepteur et un émetteur d'ondes radio plutôt rudimentaires, mais les implications tactiques sont immenses."
 
- forward_firebase_equipment_1:9 "Fortifications Mobiles"
- forward_firebase_equipment_1_short:9 "Fortifications"
- forward_firebase_equipment_1_desc:9 "Des barricades qui peuvent être transportées avec une relative facilité, en conjonction avec des armes lourdes, un moyen de défense très efficace."
+ forward_firebase_equipment_1:0 "Fortifications Mobiles"
+ forward_firebase_equipment_1_short:0 "Fortifications"
+ forward_firebase_equipment_1_desc:0 "Des barricades qui peuvent être transportées avec une relative facilité, en conjonction avec des armes lourdes, un moyen de défense très efficace."

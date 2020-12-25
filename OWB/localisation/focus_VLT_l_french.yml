@@ -85,7 +85,7 @@
 
  vault_festus_1:0 "Conférences Goules"
  vault_festus_1_desc:0 "Vault City est nôtre, après toutes ces années de bigoterie, mais maintenant les chefs révolutionnaires s'effondrent dans leurs querelles ! Festus a été élu pour diriger la ville comme elle l'était avant, par un conseil. Mais cette fois ? Il faut être une goule pour recevoir un siège."
- vault_festus_1_tt:9 "Notez que vous ne pourrez pas débloquer §YAvancement Par l'Isolement.§!"
+ vault_festus_1_tt:0 "Notez que vous ne pourrez pas débloquer §YAvancement Par l'Isolement.§!"
 
  vault_festus_3:0 "Restaurer entièrement la Centrale Nucléaire Poséidon"
  vault_festus_3_desc:0 "Depuis des décennies, Vault City avait la technologie et le savoir-faire pour réparer la Centrale Nucléaire qui est notre foyer, mais ils refusaient ! Eh bien maintenant qu'ils ont ce qu'ils veulent, et nous allons stabiliser le réacteur pour de bon."
@@ -231,7 +231,7 @@
  vault_shoshone:0 "Expulser les Shoshones"
  vault_shoshone_desc:0 ""
 
- vault_sho_core:9 "Revendiquer Hot Springs"
+ vault_sho_core:0 "Revendiquer Hot Springs"
  vault_sho_core_desc:0 ""
 
  vault_sho_bonus:0 "Rénovation de la base aérienne"
@@ -249,8 +249,8 @@
  vault_new_reno: "Les lumières se sont éteintes à Reno"
  vault_new_reno_desc:0 "New Reno a toujours été une ruche de racailles et de méchancetés, mais le coup d'État de Thradd va trop loin. Nous devons arrêter son armée avant qu'il ne vienne nous chercher !"
 
- vault_advancement_through_isolation:9 "Avancement Par l'Isolement"
- vault_advancement_through_isolation_desc:9 "Si nous devions nous ranger du côté d'une autre faction, cela signifierait laisser nos ennemis avoir accès à notre technologie la plus puissante ! Nous devons garder ces secrets à cœur et utiliser cette technologie pour protéger notre indépendance vis-à-vis des étrangers."
+ vault_advancement_through_isolation:0 "Avancement Par l'Isolement"
+ vault_advancement_through_isolation_desc:0 "Si nous devions nous ranger du côté d'une autre faction, cela signifierait laisser nos ennemis avoir accès à notre technologie la plus puissante ! Nous devons garder ces secrets à cœur et utiliser cette technologie pour protéger notre indépendance vis-à-vis des étrangers."
 
  vault_enemies_of_enemies: "Ennemis communs"
  vault_enemies_of_enemies_desc:0 "La menace de l'Est est un problème pour l'ensemble du monde civilisé. Même si la Nouvelle-Californie est dirigée par des imbéciles ignorants, elle est un bien meilleur voisin que les pilleurs de l'Utah ou de la Légion. Peut-être devrions-nous travailler ensemble pour défendre le flambeau de la civilisation."

@@ -486,8 +486,8 @@
 
  NAV_CES_autonomy_tributary:0 "Tributarius de Navajo"
  NAV_CES_autonomy_tributary_DEF:0 "Le Tributarius de Navajo"
- NAV_CES_autonomy_client_tribe:9 "Navajo"
- NAV_CES_autonomy_client_tribe_DEF:9 "Navajo"
+ NAV_CES_autonomy_client_tribe:0 "Navajo"
+ NAV_CES_autonomy_client_tribe_DEF:0 "Navajo"
 
  TON_CES_autonomy_tributary:0 "Tributarius Tohono"
  TON_CES_autonomy_tributary_DEF:0 "Le Tributarius Tohono"
@@ -569,12 +569,12 @@
  LON_NCN_autonomy_brother_in_the_faith:0 "Lonetree"
  LON_NCN_autonomy_brother_in_the_faith_DEF:0 "Lonetree"
 
- UIN_NCN_autonomy_child_in_the_faith:9 "Eagle Rock Disciples"
- UIN_NCN_autonomy_child_in_the_faith_DEF:9 "The Eagle Rock Disciples"
- UIN_NCN_autonomy_convert:9 "Eagle Rock Apostles"
- UIN_NCN_autonomy_convert_DEF:9 "The Eagle Rock Apostles"
- UIN_NCN_autonomy_brother_in_the_faith:9 "Eagle Rock"
- UIN_NCN_autonomy_brother_in_the_faith_DEF:9 "Eagle Rock"
+ UIN_NCN_autonomy_child_in_the_faith:0 "Eagle Rock Disciples"
+ UIN_NCN_autonomy_child_in_the_faith_DEF:0 "The Eagle Rock Disciples"
+ UIN_NCN_autonomy_convert:0 "Eagle Rock Apostles"
+ UIN_NCN_autonomy_convert_DEF:0 "The Eagle Rock Apostles"
+ UIN_NCN_autonomy_brother_in_the_faith:0 "Eagle Rock"
+ UIN_NCN_autonomy_brother_in_the_faith_DEF:0 "Eagle Rock"
 
  CRZ_NCN_autonomy_child_in_the_faith:0 "Disciples des Cornes Folles"
  CRZ_NCN_autonomy_child_in_the_faith_DEF:0 "Les Disciples des Cornes Folles"
@@ -807,12 +807,12 @@
  MRA_VEG_autonomy_family:0 "Novac City"
  MRA_VEG_autonomy_family_DEF:0 "Novac City"
 
- MOS_VEG_autonomy_periphery:9 "Mountain Springs"
- MOS_VEG_autonomy_periphery_DEF:9 "Mountain Springs"
- MOS_VEG_autonomy_district:9 "Mountain Springs"
- MOS_VEG_autonomy_district_DEF:9 "Mountain Springs"
- MOS_VEG_autonomy_family:9 "Mountain Springs"
- MOS_VEG_autonomy_family_DEF:9 "Mountain Springs"
+ MOS_VEG_autonomy_periphery:0 "Mountain Springs"
+ MOS_VEG_autonomy_periphery_DEF:0 "Mountain Springs"
+ MOS_VEG_autonomy_district:0 "Mountain Springs"
+ MOS_VEG_autonomy_district_DEF:0 "Mountain Springs"
+ MOS_VEG_autonomy_family:0 "Mountain Springs"
+ MOS_VEG_autonomy_family_DEF:0 "Mountain Springs"
 
   ### western brotherhood
   # ISN_WBH_autonomy_brotherhood_slave:0 "Issaquah Thralls"

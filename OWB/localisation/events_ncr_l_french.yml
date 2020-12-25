@@ -116,11 +116,11 @@
  nf_ncr.4.c:0 "Lancez l'intervention militaire"
 
  nf_ncr.5.t:0 "Les Barons fuient!"
- nf_ncr.5.d:9 "Devant les nombreuses arrestations et condamnations expresses prononcées, la grande majoritée des Barons déloyaux ont décidé de s'enfuire vers les communautés voisines avec leurs richesses. Leurs terres confiquées nous reviennent à présent."
+ nf_ncr.5.d:0 "Devant les nombreuses arrestations et condamnations expresses prononcées, la grande majoritée des Barons déloyaux ont décidé de s'enfuire vers les communautés voisines avec leurs richesses. Leurs terres confiquées nous reviennent à présent."
  nf_ncr.5.a:0 "Plus de terres pour nous!"
 
  nf_ncr.6.t:0 "Wendell Peterson et la guerre"
- nf_ncr.6.d:9 "Wendell Peterson croit, par-dessus tout, que l'avenir de la RNC se trouve dans la frontière, que les pillards, les tribus et les paladins soient damnés. C'est pourquoi il a passé une grande partie de sa première année de mandat à susciter le soutien à l'ambitieuse Frontier Expedition, qui vise à placer autant de Californie que possible sous le contrôle de la RNC. Mais pour réaliser un tel rêve, il va devoir traiter avec différents partis politiques. Chacun défend son propre programme, et chacun veut mettre sa propre figure de proue au poste le plus ambitieux de l'armée de la RNC. Mais c'est seulement avec ce soutien que Peterson pourra obtenir les votes du Congrès dont il a besoin pour lancer l'expédition."
+ nf_ncr.6.d:0 "Wendell Peterson croit, par-dessus tout, que l'avenir de la RNC se trouve dans la frontière, que les pillards, les tribus et les paladins soient damnés. C'est pourquoi il a passé une grande partie de sa première année de mandat à susciter le soutien à l'ambitieuse Frontier Expedition, qui vise à placer autant de Californie que possible sous le contrôle de la RNC. Mais pour réaliser un tel rêve, il va devoir traiter avec différents partis politiques. Chacun défend son propre programme, et chacun veut mettre sa propre figure de proue au poste le plus ambitieux de l'armée de la RNC. Mais c'est seulement avec ce soutien que Peterson pourra obtenir les votes du Congrès dont il a besoin pour lancer l'expédition."
  nf_ncr.6.a:0 "Le général Drummund, héro de Navvaro, le choix des militaristes"
  nf_ncr.6.b:0 "Big Jim Marshal, héro du Nevada, le choix des Barons"
  nf_ncr.6.c:0 "Mossman, le ranger sans ambition, le choix de Dayglow"
@@ -261,26 +261,26 @@
  ncr_revolts_severity_6:0 "Nous devons chercher la paix maintenant"
 
   #NCR Develops the Frontier
- ncr_frontier.1.t:9 "Nous avons gagné notre combat pour la province frontalière."
- ncr_frontier.1.d:9 "Les forces ennemies ont été repoussées, et nous pouvons maintenant prendre le contrôle."
- ncr_frontier.1.a:9 "L'annexer immédiatement."
+ ncr_frontier.1.t:0 "Nous avons gagné notre combat pour la province frontalière."
+ ncr_frontier.1.d:0 "Les forces ennemies ont été repoussées, et nous pouvons maintenant prendre le contrôle."
+ ncr_frontier.1.a:0 "L'annexer immédiatement."
 
- ncr_frontier.2.t:9 "Nous avons gagné notre combat pour la province frontalière."
- ncr_frontier.2.d:9 "Les forces ennemies ont été repoussées, et nous pouvons maintenant prendre le contrôle."
- ncr_frontier.2.a:9 "L'annexer immédiatement."
+ ncr_frontier.2.t:0 "Nous avons gagné notre combat pour la province frontalière."
+ ncr_frontier.2.d:0 "Les forces ennemies ont été repoussées, et nous pouvons maintenant prendre le contrôle."
+ ncr_frontier.2.a:0 "L'annexer immédiatement."
 
- ncr_frontier.3.t:9 "Nous avons gagné notre combat pour la province frontalière."
- ncr_frontier.3.d:9 "Les forces ennemies ont été repoussées, et nous pouvons maintenant prendre le contrôle."
- ncr_frontier.3.a:9 "L'annexer immédiatement."
+ ncr_frontier.3.t:0 "Nous avons gagné notre combat pour la province frontalière."
+ ncr_frontier.3.d:0 "Les forces ennemies ont été repoussées, et nous pouvons maintenant prendre le contrôle."
+ ncr_frontier.3.a:0 "L'annexer immédiatement."
 
- ncr_frontier.4.t:9 "Nous avons gagné notre combat pour la province frontalière."
- ncr_frontier.4.d:9 "Les forces ennemies ont été repoussées, et nous pouvons maintenant prendre le contrôle."
- ncr_frontier.4.a:9 "L'annexer immédiatement."
+ ncr_frontier.4.t:0 "Nous avons gagné notre combat pour la province frontalière."
+ ncr_frontier.4.d:0 "Les forces ennemies ont été repoussées, et nous pouvons maintenant prendre le contrôle."
+ ncr_frontier.4.a:0 "L'annexer immédiatement."
 
- ncr_frontier.5.t:9 "Nous avons gagné notre combat pour la province frontalière."
- ncr_frontier.5.d:9 "Les forces ennemies ont été repoussées, et nous pouvons maintenant prendre le contrôle."
- ncr_frontier.5.a:9 "L'annexer immédiatement."
+ ncr_frontier.5.t:0 "Nous avons gagné notre combat pour la province frontalière."
+ ncr_frontier.5.d:0 "Les forces ennemies ont été repoussées, et nous pouvons maintenant prendre le contrôle."
+ ncr_frontier.5.a:0 "L'annexer immédiatement."
 
- ncr_frontier.6.t:9 "Nous avons gagné notre combat pour la province frontalière."
- ncr_frontier.6.d:9 "Les forces ennemies ont été repoussées, et nous pouvons maintenant prendre le contrôle."
- ncr_frontier.6.a:9 "L'annexer immédiatement."
+ ncr_frontier.6.t:0 "Nous avons gagné notre combat pour la province frontalière."
+ ncr_frontier.6.d:0 "Les forces ennemies ont été repoussées, et nous pouvons maintenant prendre le contrôle."
+ ncr_frontier.6.a:0 "L'annexer immédiatement."

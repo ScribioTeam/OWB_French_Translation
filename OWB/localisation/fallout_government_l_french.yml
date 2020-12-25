@@ -69,10 +69,10 @@
  BDT_ruler_party:0 "Arène de Cranium"
 
   #TCA
- TCA_people_party:9 "Gardiens du Blanc"
- TCA_elites_party:9 "Conseil de l'unité"
- TCA_ruler_party:9 "Les agents de l'Immortel"
- TCA_intellectuals_party:9 "Exilés de la Confrérie"
+ TCA_people_party:0 "Gardiens du Blanc"
+ TCA_elites_party:0 "Conseil de l'unité"
+ TCA_ruler_party:0 "Les agents de l'Immortel"
+ TCA_intellectuals_party:0 "Exilés de la Confrérie"
 
   #### Laws #####
 
@@ -149,16 +149,16 @@
   
   ## Mutant Officer Training Laws
 
- officer_law_mutant_instinct:9 "Instinct mutant"
+ officer_law_mutant_instinct:0 "Instinct mutant"
  officer_law_mutant_instinct_desc:800 "Produit final de la mutation FEV, les super-mutants sont brutalement efficaces. Plus de 800 livres de muscles, une régénération cellulaire accrue et une immunité contre la plupart des maladies humaines, voire toutes, même le plus stupide des mutants est une force avec laquelle il faut compter. En raison de leur nombre relativement faible par rapport à la population humaine, de nombreux mutants ont connu une certaine forme d'isolement social qui les a conduits à une forme d'autosuffisance de base. "
- officer_law_mutant_dumdum:9 "\"Dum-Dums\""
- officer_law_mutant_dumdum_desc:9 "Les mutants de la deuxième génération sont parmi les plus courants dans le Terres Désolées. Bien que leurs capacités mentales soient handicapées par rapport à la première génération, ils ne sont pas étrangers au combat. Capables de travailler ensemble et d'utiliser leur force brute et leur endurance à leur avantage, tout super mutant est capable de travailler en équipe pour détruire ses ennemis."
- officer_law_mutant_second:9 "Entraînement de la deuxième génération"
- officer_law_mutant_second_desc:9 "Même avec les déficiences mentales de la deuxième génération de mutants, nous pouvons attendre de nos soldats plus qu'une simple sauvagerie. Exercices, entraînement sur cible, cohésion de l'unité. C'est quelque chose qui ne peut pas être laissé derrière nous comme un reste des humains."
- officer_law_mutant_first:9 "Entraînement de la première génération"
- officer_law_mutant_first_desc:9 "Les contraintes de nos petits frères ne peuvent pas nous empêcher d'atteindre notre véritable potentiel. Equipes de feu mixtes, barrages de suppression, éclaireurs excessifs, raids de terreur. Leurs esprits idiots ne sont peut-être pas capables de tout comprendre, mais ils peuvent faire le travail. "
- officer_law_mutant_master:9 "Enfants du Maître"
- officer_law_mutant_master_desc:9 "Avant que le Vault Dweller maudit ne tue le Maître, les mutants étaient destinés à prendre le contrôle des Terres Désolées. Notre force, notre volonté, notre ruse brutale. Tout cela nous donne le droit de façonner les Terres Désolées à notre image, peu importe ce que pensent les races inférieures. Il n'y aura que les meilleurs à la tête de nos armées dans notre nouveau monde."
+ officer_law_mutant_dumdum:0 "\"Dum-Dums\""
+ officer_law_mutant_dumdum_desc:0 "Les mutants de la deuxième génération sont parmi les plus courants dans le Terres Désolées. Bien que leurs capacités mentales soient handicapées par rapport à la première génération, ils ne sont pas étrangers au combat. Capables de travailler ensemble et d'utiliser leur force brute et leur endurance à leur avantage, tout super mutant est capable de travailler en équipe pour détruire ses ennemis."
+ officer_law_mutant_second:0 "Entraînement de la deuxième génération"
+ officer_law_mutant_second_desc:0 "Même avec les déficiences mentales de la deuxième génération de mutants, nous pouvons attendre de nos soldats plus qu'une simple sauvagerie. Exercices, entraînement sur cible, cohésion de l'unité. C'est quelque chose qui ne peut pas être laissé derrière nous comme un reste des humains."
+ officer_law_mutant_first:0 "Entraînement de la première génération"
+ officer_law_mutant_first_desc:0 "Les contraintes de nos petits frères ne peuvent pas nous empêcher d'atteindre notre véritable potentiel. Equipes de feu mixtes, barrages de suppression, éclaireurs excessifs, raids de terreur. Leurs esprits idiots ne sont peut-être pas capables de tout comprendre, mais ils peuvent faire le travail. "
+ officer_law_mutant_master:0 "Enfants du Maître"
+ officer_law_mutant_master_desc:0 "Avant que le Vault Dweller maudit ne tue le Maître, les mutants étaient destinés à prendre le contrôle des Terres Désolées. Notre force, notre volonté, notre ruse brutale. Tout cela nous donne le droit de façonner les Terres Désolées à notre image, peu importe ce que pensent les races inférieures. Il n'y aura que les meilleurs à la tête de nos armées dans notre nouveau monde."
 
   ## Military Training Law
 
@@ -214,14 +214,14 @@
  RRG_ruler_party_long:0 "Los Movimiento de Regeneración Arquitectos"
 
   # ASS
- ASS_people_party:9 "La connexion cubaine"
- ASS_people_party_long:9 "La connexion cubaine"
- ASS_elites_party:9 "Vengeance de Ruby"
- ASS_elites_party_long:9 "Vengeance de Ruby"
- ASS_intellectuals_party:9 "Kennedys morts"
- ASS_intellectuals_party_long:9 "Kennedys morts"
- ASS_ruler_party:9 "Conspiration"
- ASS_ruler_party_long:9 "Conspiration"
+ ASS_people_party:0 "La connexion cubaine"
+ ASS_people_party_long:0 "La connexion cubaine"
+ ASS_elites_party:0 "Vengeance de Ruby"
+ ASS_elites_party_long:0 "Vengeance de Ruby"
+ ASS_intellectuals_party:0 "Kennedys morts"
+ ASS_intellectuals_party_long:0 "Kennedys morts"
+ ASS_ruler_party:0 "Conspiration"
+ ASS_ruler_party_long:0 "Conspiration"
 
  press_laws:0 "Lois sur la presse"
  political_effort_press:0 "Liberté d'Expression"
@@ -241,7 +241,7 @@
  cultural_advisor_cost_factor:0 "Coût du conseiller culturel"
  production_policies:0 "Politiques de production"
  construction_firm:0 "Grandes entreprises"
- construction_firm_cost_factor:9 "Coût des grandes entreprises"
+ construction_firm_cost_factor:0 "Coût des grandes entreprises"
  engineering_firm:0 "Modèles d'avant-guerre"
  industrial_advisor:0 "Conseiller économique"
  arms_supplier:0 "Entreprises d'armement"
@@ -255,7 +255,7 @@
  EFFECT_CHANGE_LAW_press_laws:0 "Changer la loi sur la presse en \"$NAME|Y$\" qui accorde ($DESC$)."
  EFFECT_CHANGE_LAW_slavery_laws:0 "Changer la loi sur l'esclavage en \"$NAME|Y$\" qui accorde ($DESC$)."
  EFFECT_CHANGE_LAW_drug_laws:0 "Changer la loi sur les drogues en \"$NAME|Y$\" qui accorde ($DESC$)."
- EFFECT_CHANGE_LAW_currency_laws:9 "Remplacer la loi sur les devises par \"$NAME|Y$\" qui accorde ($DESC$)."
+ EFFECT_CHANGE_LAW_currency_laws:0 "Remplacer la loi sur les devises par \"$NAME|Y$\" qui accorde ($DESC$)."
  EFFECT_CHANGE_LAW_vehicle_restoration_advisor:0 "Changer la loi sur la restauration des véhicules pour \"$NAME|Y$\" qui accorde ($DESC$)."
  EFFECT_CHANGE_LAW_navy_restoration_advisor:0 "Changer la loi sur la restauration de la marine en \"$NAME|Y$\" qui accorde ($DESC$)."
  EFFECT_CHANGE_LAW_aircraft_restoration_advisor:0 "Changer la loi sur la restauration des avions en \"$NAME|Y$\" qui accorde ($DESC$)."
@@ -272,11 +272,11 @@
  has_unique_mutant_recruitment_laws:0 "Dispose d'une législation unique sur le recrutement Mutant"
 
   # CHC
- CHC_people_party:9 "Le Congrès Choral"
- CHC_people_party_long:9 "Le Congrès Choral"
- CHC_elites_party:9 "Restes de SuperMax"
- CHC_elites_party_long:9 "Restes de SuperMax"
- CHC_intellectuals_party:9 "Le chœur enchaîné"
- CHC_intellectuals_party_long:9 "Le chœur enchaîné"
- CHC_ruler_party:9 "L'homme de main"
- CHC_ruler_party_long:9 "L'homme de main"
+ CHC_people_party:0 "Le Congrès Choral"
+ CHC_people_party_long:0 "Le Congrès Choral"
+ CHC_elites_party:0 "Restes de SuperMax"
+ CHC_elites_party_long:0 "Restes de SuperMax"
+ CHC_intellectuals_party:0 "Le chœur enchaîné"
+ CHC_intellectuals_party_long:0 "Le chœur enchaîné"
+ CHC_ruler_party:0 "L'homme de main"
+ CHC_ruler_party_long:0 "L'homme de main"

@@ -29,16 +29,16 @@
  nf_rrg.6.a:0 "Vamemos !"
  ############################
  nf_rrg.7.t:0 "L'essor de la Texas Arms Association"
- nf_rrg.7.d:9 "Le Rio unit et divise la République, et cela est devenu encore plus évident dans les années qui ont suivi la défaite de la Légion. Les armuriers du Texas se sont enrichis en vendant des armes à la République et ont utilisé cet argent et ce pouvoir pour acheter des amis à Gloria. Guerra, outré par leur influence, a fait pression pour que les lois réduisent leur lobbying et taxent leurs profits, ce qui n'a fait qu'aggraver les tensions.\n\nEn 2275, Guerra a mis plusieurs sénateurs pro-TAA en procès, avec d'autres à suivre, et les sénateurs texans sont hué dans les rues de Gloria. L'élite texane a réagi en resserrant les rangs pour protéger ses droits et, au fur et à mesure que les tensions augmentaient, ses pensées se tournèrent vers les routes qui reliaient le Texas au cœur de la République."
+ nf_rrg.7.d:0 "Le Rio unit et divise la République, et cela est devenu encore plus évident dans les années qui ont suivi la défaite de la Légion. Les armuriers du Texas se sont enrichis en vendant des armes à la République et ont utilisé cet argent et ce pouvoir pour acheter des amis à Gloria. Guerra, outré par leur influence, a fait pression pour que les lois réduisent leur lobbying et taxent leurs profits, ce qui n'a fait qu'aggraver les tensions.\n\nEn 2275, Guerra a mis plusieurs sénateurs pro-TAA en procès, avec d'autres à suivre, et les sénateurs texans sont hué dans les rues de Gloria. L'élite texane a réagi en resserrant les rangs pour protéger ses droits et, au fur et à mesure que les tensions augmentaient, ses pensées se tournèrent vers les routes qui reliaient le Texas au cœur de la République."
  nf_rrg.7.a:0 "Comment pouvez-vous construire des ponts avec un ennemi ?"
  ############################
  nf_rrg.8.t:0 "Le Jour des Morts"
  nf_rrg.8.d:0 "[GetDateText] est cité dans l'histoire de la République comme le Jour des Morts, du jour où Gloria a brûlé, du jour où elle sentait la cendre et la graisse brûlée. La TAA a déclenché une série de bombes à des endroits clés de la République : au Capitole, au Congrès, dans des dépôts de munitions et sur des ponts reliant le Texas et le Mexique. Alors même que Guerra tentait d'organiser des opérations de secours, il a appris que la TAA avait déclaré l'indépendance pour un état armurier.\n\nLa sécession du TAA a porté un coup presque fatal à Rio. Avec sa capitale en flammes et son industrie des munitions de l'autre côté du fleuve dans un pays hostile, l'armée nationale était au bord de l'effondrement alors même que Paullus attaquait ses frontières. Pour résoudre la crise, les dirigeants de Rio devraient gérer à la fois le TAA et les restes de la Légion à leurs frontières."
  nf_rrg.8.a:0 "Dios Mio !"
  ############################
- nf_rrg.9.t:9 "La zone de développement du Texas"
- nf_rrg.9.d:9 "La défaite de la TAA a donné à Rosado l'occasion de passer des paroles aux actes. Les marchands d'armes fanfarons qui intimidaient les habitants de Crystal City appartiennent désormais au passé. A leur place, se promenent des ingénieurs de Rio, des scribes de la Confrérie, et même quelques universitaires supermutants d'Austin. Les forgerons de Laredo étaient libres de travailler seuls, et Rosado promettait un foyer à tous les libres penseurs de l'autre côté des Terres Désolées. Des partisans, des Caananites athées et même quelques sécuritrons de Robot City ont été trouvés dans les rues de Laredo. Presque du jour au lendemain, une ville bâtie sur les espoirs du Nouveau Monde commença à s'épanouir. Certains pensaient que la ville allait bientôt dépasser même Vault City en termes de splendeur technologique. Et pour Rosado, ce n'était que le début."
- nf_rrg.9.a:9 "La fin du commencement."
+ nf_rrg.9.t:0 "La zone de développement du Texas"
+ nf_rrg.9.d:0 "La défaite de la TAA a donné à Rosado l'occasion de passer des paroles aux actes. Les marchands d'armes fanfarons qui intimidaient les habitants de Crystal City appartiennent désormais au passé. A leur place, se promenent des ingénieurs de Rio, des scribes de la Confrérie, et même quelques universitaires supermutants d'Austin. Les forgerons de Laredo étaient libres de travailler seuls, et Rosado promettait un foyer à tous les libres penseurs de l'autre côté des Terres Désolées. Des partisans, des Caananites athées et même quelques sécuritrons de Robot City ont été trouvés dans les rues de Laredo. Presque du jour au lendemain, une ville bâtie sur les espoirs du Nouveau Monde commença à s'épanouir. Certains pensaient que la ville allait bientôt dépasser même Vault City en termes de splendeur technologique. Et pour Rosado, ce n'était que le début."
+ nf_rrg.9.a:0 "La fin du commencement."
  ############################
  nf_rrg.10.t:0 "Guerra interdit les dons dans le cadre de sa campagne"
  nf_rrg.10.d:0 "Une façon pour la TAA d'influencer la politique de Rio est de faire des dons libéraux aux sénateurs qui soutiennent sa politique de vente d'armes à tous ceux qui viennent. Guerra veut adopter une loi limitant les ventes d'armes, mais avant de le faire, il devra couper leur influence. Dans un premier temps, Guerra a décidé de publier un décret présidentiel interdisant les dons à la campagne d'un membre du Congrès si vous n'êtes pas de son district. Cela signifie que Rio ne peut plus soudoyer les membres du Congrès d'autres États. La TAA prétend que c'est inconstitutionnel, mais pour beaucoup, c'est l'un des seuls moyens de briser leur influence."
@@ -73,9 +73,9 @@
  nf_rrg.17.d:0 "La proposition de Guerra était simple. Au lieu de vendre à la Légion, la TAA pourrait vendre aux nombreux groupes de résistance sur le territoire de la Légion, faisant la promotion de la politique étrangère de Guerra et de leurs affaires en même temps. De plus, Guerra a fait remarquer que si les rumeurs au sud étaient vraies, il pourrait y avoir plus de possibilités à Mexico Way dans un proche avenir... des possibilités qui exigeraient l'accès au territoire de Rio."
  nf_rrg.17.a:0 "Aux nouveaux clients !"
 ############################
- nf_rrg.843.t:9 "La TAA décline notre offre."
- nf_rrg.843.d:9 "La réponse du clan d'Howitzer fut rapide et brusque. Ils n'avaient pas l'intention de nous prendre au mot et allaient maintenir l'état actuel d'être totalement hors de notre portée. C'est réglé, il n'y a plus de place pour la négociation, seulement pour la guerre."
- nf_rrg.843.a:9 "Ils ne nous offrent pas le choix."
+ nf_rrg.843.t:0 "La TAA décline notre offre."
+ nf_rrg.843.d:0 "La réponse du clan d'Howitzer fut rapide et brusque. Ils n'avaient pas l'intention de nous prendre au mot et allaient maintenir l'état actuel d'être totalement hors de notre portée. C'est réglé, il n'y a plus de place pour la négociation, seulement pour la guerre."
+ nf_rrg.843.a:0 "Ils ne nous offrent pas le choix."
 ############################
  nf_rrg.18.t:0 "L'Alliance de Rio"
  nf_rrg.18.d:0 "Avec la défaite de la TAA, Rosado a honoré son accord et a reconnu le contrôle de la Confrérie sur leur centre-ville. Certains s'interrogeaient sur l'influence de la confrérie dans la région, mais Rosado a fait remarquer que Rio était maintenant la seule faction mexicaine à avoir accès à des armures assistées."
@@ -106,18 +106,18 @@
  nf_rrg.24.a:0 "Ne t'inquiète pas, on va s'occuper de lui !"
 ############################
  nf_rrg.25.t:0 "Le général fou"
- nf_rrg.25.d:9 "Tous les membres de la caravane diplomatique étaient extrêmement nerveux, et c'est peu dire. À la frontière ouest de Rio, essayer de négocier un accord avec le \"général fou\" en échange d'une assistance ? Le président Mora leur a ordonné d'essayer, mais comment faire une telle chose avec une IA folle ? Il a dit que quelle que soit la méthode, qu'il s'agisse d'un subterfuge ou autre, il fallait essayer.\n\nLa dernière fois qu'on a vu Santa Anna, c'était sa réaction assez... intense à la désactivation de Tlaloc, et donc le seul sécuritron devant eux portant son image n'a rien fait pour apaiser leurs craintes. C'était... étrangement calme, comme s'il envisageait réellement son offre.\n\nEt donc, après tout ça, vous venez toujours me demander de l'aide. Le \"généralissime fou\", celui que votre peuple appelle \"un fléau pour le Mexique\" ? L'ambassadeur se tira le col, trempé de la sueur du soleil.\n\n\"Des accusations sans fondement, je vous assure, M. Anna. Le gouverneur Mora a réalisé que vous êtes le dirigeant légitime du Mexique, et souhaite simplement garder le contrôle du Rio Grande en échange de votre aide, pour prendre soin de son peuple et de son héritage.\"\n\nIl a considéré ses paroles, c'était une tentative claire de la part d'un gouvernement illégitime de se mettre en position de force, à la fois diplomatiquement et stratégiquement. Mais il savait aussi que peu importe ce qu'il voulait, si Mora faisait l'effort de lui parler, alors il était sincère dans son offre."
- nf_rrg.25.a:9 "La paix, tout comme la prospérité, est dans l'intérêt de tous les Mexicains"
- nf_rrg.25.a.tt:9 "Santa Anna suit les traces de son père et négocie un accord avec le Rio Grande\n"
- nf_rrg.25.b:9 "Il n'y a pas de \"Rio Grande\", il n'y a que le Mexique et ses habitants qui doivent se lever !"
- nf_rrg.25.b.tt:9 "Santa Anna va repousser les efforts de Mora, ainsi que les enseignements de son père !\n"
+ nf_rrg.25.d:0 "Tous les membres de la caravane diplomatique étaient extrêmement nerveux, et c'est peu dire. À la frontière ouest de Rio, essayer de négocier un accord avec le \"général fou\" en échange d'une assistance ? Le président Mora leur a ordonné d'essayer, mais comment faire une telle chose avec une IA folle ? Il a dit que quelle que soit la méthode, qu'il s'agisse d'un subterfuge ou autre, il fallait essayer.\n\nLa dernière fois qu'on a vu Santa Anna, c'était sa réaction assez... intense à la désactivation de Tlaloc, et donc le seul sécuritron devant eux portant son image n'a rien fait pour apaiser leurs craintes. C'était... étrangement calme, comme s'il envisageait réellement son offre.\n\nEt donc, après tout ça, vous venez toujours me demander de l'aide. Le \"généralissime fou\", celui que votre peuple appelle \"un fléau pour le Mexique\" ? L'ambassadeur se tira le col, trempé de la sueur du soleil.\n\n\"Des accusations sans fondement, je vous assure, M. Anna. Le gouverneur Mora a réalisé que vous êtes le dirigeant légitime du Mexique, et souhaite simplement garder le contrôle du Rio Grande en échange de votre aide, pour prendre soin de son peuple et de son héritage.\"\n\nIl a considéré ses paroles, c'était une tentative claire de la part d'un gouvernement illégitime de se mettre en position de force, à la fois diplomatiquement et stratégiquement. Mais il savait aussi que peu importe ce qu'il voulait, si Mora faisait l'effort de lui parler, alors il était sincère dans son offre."
+ nf_rrg.25.a:0 "La paix, tout comme la prospérité, est dans l'intérêt de tous les Mexicains"
+ nf_rrg.25.a.tt:0 "Santa Anna suit les traces de son père et négocie un accord avec le Rio Grande\n"
+ nf_rrg.25.b:0 "Il n'y a pas de \"Rio Grande\", il n'y a que le Mexique et ses habitants qui doivent se lever !"
+ nf_rrg.25.b.tt:0 "Santa Anna va repousser les efforts de Mora, ainsi que les enseignements de son père !\n"
 ############################
  nf_rrg.26.t:0 "Le Général du Mexique"
- nf_rrg.26.d:9 "Santa Anna a occupé une place compliquée dans l'histoire du Mexique. A un moment ou à un autre, il a été un traître, un héros, un libéral ou un conservateur ; il a été, à la fin, un Mexicain. Son successeur à l'IA n'était pas différent, et Mora a pu négocier avec lui pendant des heures. Santa Anna n'a-t-il pas conduit une armée au Texas pour la sauver au profit du Mexique ? N'a-t-il pas lutté à maintes reprises contre des envahisseurs étrangers ? Va t-il, demanda Mora, le rejoindre pour combattre à nouveau les oppresseurs du Mexique ?\n\nAprès une longue discussion, Santa Anna donna une réponse en un mot. Si."
+ nf_rrg.26.d:0 "Santa Anna a occupé une place compliquée dans l'histoire du Mexique. A un moment ou à un autre, il a été un traître, un héros, un libéral ou un conservateur ; il a été, à la fin, un Mexicain. Son successeur à l'IA n'était pas différent, et Mora a pu négocier avec lui pendant des heures. Santa Anna n'a-t-il pas conduit une armée au Texas pour la sauver au profit du Mexique ? N'a-t-il pas lutté à maintes reprises contre des envahisseurs étrangers ? Va t-il, demanda Mora, le rejoindre pour combattre à nouveau les oppresseurs du Mexique ?\n\nAprès une longue discussion, Santa Anna donna une réponse en un mot. Si."
  nf_rrg.26.a:0 "Sobre Podemos !"
 ############################
  nf_rrg.27.t:0 "Le Despote du Mexique"
- nf_rrg.27.d:9 "Les tentatives de Mora pour persuader Santa Anna de rejoindre le Mexique étaient vouées à l'échec. L'historique Santa Anna a lancé plus de cinq coups d'État contre le gouvernement légal, et est passé du soutien à la démocratie, à la monarchie et à la dictature en fonction de ses intérêts. L'idée que Mora puisse le convaincre était absurde ; tout ce que Mora pouvait faire, c'était de préparer Rio pour les robots qui affluaient vers le nord.\n\nHeureusement, Santa Anna a été modelée sur l'homme qui a perdu le pouvoir plus de cinq fois...."
+ nf_rrg.27.d:0 "Les tentatives de Mora pour persuader Santa Anna de rejoindre le Mexique étaient vouées à l'échec. L'historique Santa Anna a lancé plus de cinq coups d'État contre le gouvernement légal, et est passé du soutien à la démocratie, à la monarchie et à la dictature en fonction de ses intérêts. L'idée que Mora puisse le convaincre était absurde ; tout ce que Mora pouvait faire, c'était de préparer Rio pour les robots qui affluaient vers le nord.\n\nHeureusement, Santa Anna a été modelée sur l'homme qui a perdu le pouvoir plus de cinq fois...."
  nf_rrg.27.a:0 "Dieu merci, l'IA n'était pas basée sur Cardenas."
 ############################
  nf_rrg.28.t:0 "Chère Adelita"
@@ -254,7 +254,7 @@
  nf_rrg.56.a:0 "Ecelente."
   ############################
  nf_rrg.80.t:0 "La condamnation de Guerra"
- nf_rrg.80.d:9 "\"Je vous implore, peuple de la République, de saluer la formation d'un gouvernement représentant la détermination des opprimés et des esclaves. Nous ne sommes ni Mexicains ni Texans ; nous sommes le dernier et le meilleur espoir pour les Terres Désolées. Nous travaillerons avec tous ceux qui défendent la liberté et la vérité. Bien que j'aie le corps faible et maigre d'un vieil homme, j'ai l'estomac d'un soldat de Rio ! Et je pense que tout légat de César, ou tout robot, traiterait avec mépris nos droits. Viva libertad !\""
+ nf_rrg.80.d:0 "\"Je vous implore, peuple de la République, de saluer la formation d'un gouvernement représentant la détermination des opprimés et des esclaves. Nous ne sommes ni Mexicains ni Texans ; nous sommes le dernier et le meilleur espoir pour les Terres Désolées. Nous travaillerons avec tous ceux qui défendent la liberté et la vérité. Bien que j'aie le corps faible et maigre d'un vieil homme, j'ai l'estomac d'un soldat de Rio ! Et je pense que tout légat de César, ou tout robot, traiterait avec mépris nos droits. Viva libertad !\""
  nf_rrg.80.a:0 "Un brindis por nuestro nuevo presidente !"
  nf_rrg.80.b:0 "Comme c'est amusant."
  nf_rrg.80.c:0 "La démocratie trouve un moyen."
@@ -266,7 +266,7 @@
 
 ############################
  nf_rrg.81.t:0 "Les Guildes de Commerce"
- nf_rrg.81.d:9 "Tlaloc a fourni une sécurité lâche pour une grande partie du Mexique, mais avec son échec le Mexique est tombé de plus en plus dans le chaos, et beaucoup sont à la recherche d'un autre protecteur. Guerra a offert le soutien de Rio aux principaux marchands mexicains et agira comme bouclier du Mexique contre toute invasion étrangère. En retour, ils financent les efforts de Rio pour protéger le Mexique."
+ nf_rrg.81.d:0 "Tlaloc a fourni une sécurité lâche pour une grande partie du Mexique, mais avec son échec le Mexique est tombé de plus en plus dans le chaos, et beaucoup sont à la recherche d'un autre protecteur. Guerra a offert le soutien de Rio aux principaux marchands mexicains et agira comme bouclier du Mexique contre toute invasion étrangère. En retour, ils financent les efforts de Rio pour protéger le Mexique."
  nf_rrg.81.a:0 "Nous allons construire un mur et le faire payer par la Légion."
 ############################
  nf_rrg.82.t:0 "Le Bouclier du Mexique"
@@ -296,14 +296,14 @@
  nf_rrg.85.d:0 "Le président Guerra est passé à la radio cet après-midi pour menacer de guerre les Luchadores, une bande de pillards et de sectaires de l'ouest du Mexique, à moins qu'ils ne changent leurs habitudes. Comme il est peu probable qu'ils écoutent nos sages dirigeants, beaucoup s'attendent à ce que la guerre ne soit qu'une question de temps...."
  nf_rrg.85.a:0 "Le spandex n'arrêtera pas les balles."
 ############################
- nf_rrg.86.t:9 ""
+ nf_rrg.86.t:0 ""
  nf_rrg.86.d:0 "Phoenix, Two Sun et d'autres villes ne sont pas heureuses sous le joug de la Légion. Des milliers de personnes ont perdu des êtres chers aux mains de la Légion, mais la plupart des Terres Désolées n'ont pas voulu ou pu résister à la Légion. Cela change aujourd'hui. Guerra a l'intention de financer la résistance à la Légion sur l'ensemble de ses territoires, et ne cessera pas jusqu'à ce qu'il venge sa femme."
  nf_rrg.86.a:0 "J'en ai rien à foutre, fils de pute."
  nf_rrg.86.a_tt:0 "Déverrouille la capacité d'armer la résistance à la Légion."
 ############################
  nf_rrg.87.t:0 "Le Barillet du Canon"
- nf_rrg.87.d:9 "Malgré tous nos efforts, il semble que le peuple mexicain ne rendra pas à César ce qui appartient à César. Au contraire, les agents de Gloria acheminent des armes et des munitions aux forces de résistance.  Nous devrons nous occuper de cela quand nous aurons fini à Vegas."
- nf_rrg.87.a:9 "Ce dieu de la pluie ne te protégera pas éternellement, Gloria..."
+ nf_rrg.87.d:0 "Malgré tous nos efforts, il semble que le peuple mexicain ne rendra pas à César ce qui appartient à César. Au contraire, les agents de Gloria acheminent des armes et des munitions aux forces de résistance.  Nous devrons nous occuper de cela quand nous aurons fini à Vegas."
+ nf_rrg.87.a:0 "Ce dieu de la pluie ne te protégera pas éternellement, Gloria..."
 ############################
  nf_rrg.88.t:0 "Le Destin de César"
  nf_rrg.88.d:0 "Guerra se dirigea vers le palais de César, le bâtiment qui dominait Flagstaff. Accompagné de soldats venus de tout le Mexique, il sourit en s'approchant de César, et relâcha son pistolet. Guerra leva le pistolet au visage de César, et l'abaissa. \"Non. On ne fera pas ça.\""
@@ -311,9 +311,9 @@
  nf_rrg.88.a_tt:0 "\n§gA la République, un gouvernement de lois et non d'hommes§!\n"
  nf_rrg.88.b:0 "§RSuspendez-le au mât à l'extérieur§!"
 ############################
- nf_rrg.89.t:9 "Recommencer"
- nf_rrg.89.d:9 "Rio, l'enfant bâtard d'une occupation américaine, a toujours été mal à l'aise entre le Mexique et les États américains situés au nord. Contrairement à la Nouvelle Californie ou à la Confrérie du Texas, ils ont une continuité avec les anciens États-Unis du Mexique et de l'Amérique. C'est une source de fierté. Et, peut-être, de honte.\n\nTrop de gens à Rio s'accrochent à ce passé. Mora aurait conquis tout le Mexique pour rêver d'une grande puissance qui écraserait les Terres Désolées. Rosado rêve de secrets américains, oubliant que ces secrets sont la raison pour laquelle nous vivons dans ce que nous appelons littéralement les Terres Désolées. Il est temps que les hommes changent, ainsi que leurs symboles. Que les victimes de la guerre de la Légion ne meurent pas en vain ; que les habitants des Terres Désolées connaissent une nouvelle naissance de la liberté, que el gobernio del pueblo, por el pueblo, y para el pueblo no desaparezca de la faz de la tierra."
- nf_rrg.89.a:9 "Con las voces de Unión!"
+ nf_rrg.89.t:0 "Recommencer"
+ nf_rrg.89.d:0 "Rio, l'enfant bâtard d'une occupation américaine, a toujours été mal à l'aise entre le Mexique et les États américains situés au nord. Contrairement à la Nouvelle Californie ou à la Confrérie du Texas, ils ont une continuité avec les anciens États-Unis du Mexique et de l'Amérique. C'est une source de fierté. Et, peut-être, de honte.\n\nTrop de gens à Rio s'accrochent à ce passé. Mora aurait conquis tout le Mexique pour rêver d'une grande puissance qui écraserait les Terres Désolées. Rosado rêve de secrets américains, oubliant que ces secrets sont la raison pour laquelle nous vivons dans ce que nous appelons littéralement les Terres Désolées. Il est temps que les hommes changent, ainsi que leurs symboles. Que les victimes de la guerre de la Légion ne meurent pas en vain ; que les habitants des Terres Désolées connaissent une nouvelle naissance de la liberté, que el gobernio del pueblo, por el pueblo, y para el pueblo no desaparezca de la faz de la tierra."
+ nf_rrg.89.a:0 "Con las voces de Unión!"
  nf_rrg.89.a_tt:50 "§YRéduction de 50% du coût pour rendre cœur§! les terres d'Arizona."
 ############################
  nf_rrg.150.t:0 "Le Scientifique"
@@ -335,56 +335,56 @@
  startup.5.d:0 "La politique de la République du Rio Grande est compliquée pour le citoyen moyen des Terres Désolées. La République du Rio Grande est composée de nombreux États dont chacun a ses propres sénateurs et députés, qui jouent tous un rôle dans les traditions de la République. Pour devenir président, Mora, Rosado et Guerra devront obtenir le soutien de la majorité des sénateurs de la République à travers une série de décisions dans les États de la République. Actuellement, le soutien au Sénat de la République est partagé entre les candidats, qui doivent faire pression État par État pour obtenir leur soutien."
  startup.5.a:0 "Pouvez-vous ouvrir une sorte de guide pratique du Congrès de la République ?"
 ############################
- nf_rrg.153.t:9 "Rio nous invite à revenir"
- nf_rrg.153.d:9 "La présidente Rosado a gentiment demandé à Rio de se joindre à l'expérience continue et de rejoindre la République. Si nous ne le faisons pas, elle nous tirera probablement dessus avec des pistolets laser, alors que faisons-nous ?"
- nf_rrg.153.a:9 "Ces bataillons d'infanterie présentent un argument convaincant !"
- nf_rrg.153.b:9 "Montrons à ce despote comment les vrais Mexicains se battent pour la liberté."
+ nf_rrg.153.t:0 "Rio nous invite à revenir"
+ nf_rrg.153.d:0 "La présidente Rosado a gentiment demandé à Rio de se joindre à l'expérience continue et de rejoindre la République. Si nous ne le faisons pas, elle nous tirera probablement dessus avec des pistolets laser, alors que faisons-nous ?"
+ nf_rrg.153.a:0 "Ces bataillons d'infanterie présentent un argument convaincant !"
+ nf_rrg.153.b:0 "Montrons à ce despote comment les vrais Mexicains se battent pour la liberté."
   ############################
- nf_rrg.154.t:9 "Les Pecos disent non !"
- nf_rrg.154.d:9 "Les ploutocrates de Pecos ont refusé notre offre généreuse ! Il ne peut y avoir que du sang."
- nf_rrg.154.a:9 "Cela signifie la guerre."
+ nf_rrg.154.t:0 "Les Pecos disent non !"
+ nf_rrg.154.d:0 "Les ploutocrates de Pecos ont refusé notre offre généreuse ! Il ne peut y avoir que du sang."
+ nf_rrg.154.a:0 "Cela signifie la guerre."
   ############################
- nf_rrg.155.t:9 "Sagesse de Rosado"
- nf_rrg.155.d:9 "Il y en a dans les Terres Désolées qui ne font pas confiance aux super mutants d'Austin, mais Rosado est une exception. Son soutien en faveur de l'égalité des droits pour tous les habitants des Terres Désolées comprend une demande de liens commerciaux avec Austin et une invitation pour qu'un supermutant s'installe à [TAA.GetName]. Cela pourrait être le début d'une relation fructueuse et un changement bienvenu de l'hostilité de Guerra envers les supermutants."
- nf_rrg.155.a:9 "Aux nouveaux amis !"
+ nf_rrg.155.t:0 "Sagesse de Rosado"
+ nf_rrg.155.d:0 "Il y en a dans les Terres Désolées qui ne font pas confiance aux super mutants d'Austin, mais Rosado est une exception. Son soutien en faveur de l'égalité des droits pour tous les habitants des Terres Désolées comprend une demande de liens commerciaux avec Austin et une invitation pour qu'un supermutant s'installe à [TAA.GetName]. Cela pourrait être le début d'une relation fructueuse et un changement bienvenu de l'hostilité de Guerra envers les supermutants."
+ nf_rrg.155.a:0 "Aux nouveaux amis !"
 
   ############################
- nf_rrg.156.t:9 "La fin du sectarisme"
- nf_rrg.156.d:9 "Les traditionalistes comme Guerra ont toujours été sceptiques à l'égard des supermutants, mais Rosado était bien consciente qu'un tel sectarisme était illogique. [UOA.GetLeader] était l'une des personnes les plus intelligentes du Texas, et Rosado et lui avaient longuement correspondu avant qu'elle ne devienne présidente. Avec un peu de chance, le soutien de Rosado aux supermutants de [TAA.GetName] pourrait être le tremplin d'une plus grande intégration dans la société de Rio."
- nf_rrg.156.a:9 "A la force dans l'unité."
+ nf_rrg.156.t:0 "La fin du sectarisme"
+ nf_rrg.156.d:0 "Les traditionalistes comme Guerra ont toujours été sceptiques à l'égard des supermutants, mais Rosado était bien consciente qu'un tel sectarisme était illogique. [UOA.GetLeader] était l'une des personnes les plus intelligentes du Texas, et Rosado et lui avaient longuement correspondu avant qu'elle ne devienne présidente. Avec un peu de chance, le soutien de Rosado aux supermutants de [TAA.GetName] pourrait être le tremplin d'une plus grande intégration dans la société de Rio."
+ nf_rrg.156.a:0 "A la force dans l'unité."
 
   ############################
- nf_rrg.157.t:9 "Bienvenue aux réfugiés"
- nf_rrg.157.d:9 "L'unité d'Austin était un rêve noble, mais il n'a pas besoin de mourir juste parce que son chef l'a fait. Rosado a offert l'amnistie aux partisans de Unity, et beaucoup d'entre eux affluent dans la zone de développement du Texas. Le rêve d'une coopération entre l'homme et la nature va s'épanouir sous Rosado. Quel est l'intérêt de la liberté si ce n'est de la partager avec le monde ?"
- nf_rrg.157.a:9 "Todos en esto juntos!"
+ nf_rrg.157.t:0 "Bienvenue aux réfugiés"
+ nf_rrg.157.d:0 "L'unité d'Austin était un rêve noble, mais il n'a pas besoin de mourir juste parce que son chef l'a fait. Rosado a offert l'amnistie aux partisans de Unity, et beaucoup d'entre eux affluent dans la zone de développement du Texas. Le rêve d'une coopération entre l'homme et la nature va s'épanouir sous Rosado. Quel est l'intérêt de la liberté si ce n'est de la partager avec le monde ?"
+ nf_rrg.157.a:0 "Todos en esto juntos!"
 
   ############################
- nf_rrg.158.t:9 "Rosado se tient aux côtés de [Root.GetName]."
- nf_rrg.158.d:9 "Rosado a choisi de se tenir avec nous contre les cœurs saignants de la Confrérie du Texas. Nous avons de la chance qu'elle comprenne que la Confrérie n'est pas un gouvernement et qu'elle soutienne nos objectifs."
- nf_rrg.158.a:9 "Je savais qu'elle était intelligente pour une raison."
+ nf_rrg.158.t:0 "Rosado se tient aux côtés de [Root.GetName]."
+ nf_rrg.158.d:0 "Rosado a choisi de se tenir avec nous contre les cœurs saignants de la Confrérie du Texas. Nous avons de la chance qu'elle comprenne que la Confrérie n'est pas un gouvernement et qu'elle soutienne nos objectifs."
+ nf_rrg.158.a:0 "Je savais qu'elle était intelligente pour une raison."
 
   ############################
- nf_rrg.159.t:9 "Rosado se tient aux côtés de [Root.GetName]."
- nf_rrg.159.d:9 "Rosado a choisi de se tenir avec nous contre les partisans de la ligne dure d'Alamo.  Elle comprend que si la technologie a son utilité, elle n'a aucune valeur sans les gens qui l'utilisent."
- nf_rrg.159.a:9 "Je savais qu'elle était intelligente pour une raison."
+ nf_rrg.159.t:0 "Rosado se tient aux côtés de [Root.GetName]."
+ nf_rrg.159.d:0 "Rosado a choisi de se tenir avec nous contre les partisans de la ligne dure d'Alamo.  Elle comprend que si la technologie a son utilité, elle n'a aucune valeur sans les gens qui l'utilisent."
+ nf_rrg.159.a:0 "Je savais qu'elle était intelligente pour une raison."
 
   ############################
- nf_rrg.161.t:9 "Proposition de Guerra"
- nf_rrg.161.d:9 "Le Presidente Guerra de la République du Rio Grande a proposé d'échanger des conseillers militaires. Nous apprendrons les techniques de combat de l'infanterie, et ils apprendront à manier les armures assistées."
- nf_rrg.161.a:9 "C'est facile une fois que vous avez pris le coup de main."
- nf_rrg.161.b:9 "Je ne fais pas confiance à ceux qui aiment le chapitre d'Alamo."
+ nf_rrg.161.t:0 "Proposition de Guerra"
+ nf_rrg.161.d:0 "Le Presidente Guerra de la République du Rio Grande a proposé d'échanger des conseillers militaires. Nous apprendrons les techniques de combat de l'infanterie, et ils apprendront à manier les armures assistées."
+ nf_rrg.161.a:0 "C'est facile une fois que vous avez pris le coup de main."
+ nf_rrg.161.b:0 "Je ne fais pas confiance à ceux qui aiment le chapitre d'Alamo."
 
     ############################
- nf_rrg.162.t:9 "Bouclez vos ceintures !"
- nf_rrg.162.d:9 "Malgré quelques objections, Rusk a envoyé des conseillers pour nous apprendre à utiliser les armures assistées.  Cela sera utile lorsque les hordes de robots viendront nous asservir. C'est une idée stupide, vraiment."
- nf_rrg.162.a:9 "Muchos Gracias"
+ nf_rrg.162.t:0 "Bouclez vos ceintures !"
+ nf_rrg.162.d:0 "Malgré quelques objections, Rusk a envoyé des conseillers pour nous apprendre à utiliser les armures assistées.  Cela sera utile lorsque les hordes de robots viendront nous asservir. C'est une idée stupide, vraiment."
+ nf_rrg.162.a:0 "Muchos Gracias"
 
 
    ############################
- nf_rrg.163.t:9 "Le Texas nous a rejeté !"
- nf_rrg.163.d:9 "Pour une raison quelconque, la Confrérie du Texas ne veut pas renforcer nos forces armées, vraisemblablement à cause de ... Je ne sais pas. C'est honnêtement si stupide que je suppose seulement que c'était une erreur dont nous ne parlerons plus."
- nf_rrg.163.a:9 "Si Santa Anna gagne, je les blâme."
+ nf_rrg.163.t:0 "Le Texas nous a rejeté !"
+ nf_rrg.163.d:0 "Pour une raison quelconque, la Confrérie du Texas ne veut pas renforcer nos forces armées, vraisemblablement à cause de ... Je ne sais pas. C'est honnêtement si stupide que je suppose seulement que c'était une erreur dont nous ne parlerons plus."
+ nf_rrg.163.a:0 "Si Santa Anna gagne, je les blâme."
    ############################
- nf_rrg.164.t:9 "Le commerce de Rio"
- nf_rrg.164.d:9 "Rio nous a approchés avec un accord commercial qui apportera la prospérité à nos deux États. Dieu merci, ils n'ont pas élu Mora, n'est-ce pas ?"
- nf_rrg.164.a:9 "Hah, il aurait probablement essayé de nous conquérir après le Mexique !"
+ nf_rrg.164.t:0 "Le commerce de Rio"
+ nf_rrg.164.d:0 "Rio nous a approchés avec un accord commercial qui apportera la prospérité à nos deux États. Dieu merci, ils n'ont pas élu Mora, n'est-ce pas ?"
+ nf_rrg.164.a:0 "Hah, il aurait probablement essayé de nous conquérir après le Mexique !"

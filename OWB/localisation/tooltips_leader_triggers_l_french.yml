@@ -26,8 +26,8 @@
  caesar_not_leader_tt:0 "§YCésar§! n'est pas l'actuel dirigeant de la §Y[CES.GetNameDef]§!"
  lucius_leader_tt:0 "§YLucius§! est l'actuel dirigeant de la §Y[CES.GetNameDef]§!"
  lucius_not_leader_tt:0 "§YLucius§! n'est pas l'actuel dirigeant de la §Y[CES.GetNameDef]§!"
- lanius_leader_tt:9 "§YLanius§! est l'actuel dirigeant de la §Y[LAC.GetNameDef]§!"
- lanius_not_leader_tt:9 "§YLanius§! n'est pas l'actuel dirigeant de la §Y[LAC.GetNameDef]§!"
+ lanius_leader_tt:0 "§YLanius§! est l'actuel dirigeant de la §Y[LAC.GetNameDef]§!"
+ lanius_not_leader_tt:0 "§YLanius§! n'est pas l'actuel dirigeant de la §Y[LAC.GetNameDef]§!"
  vulpes_leader_tt:0 "§YVulpes§! est l'actuel dirigeant de la §Y[CES.GetNameDef]§!"
  vulpes_not_leader_tt:0 "§YVulpes§! n'est pas l'actuel dirigeant de la §Y[CES.GetNameDef]§!"
 
@@ -50,8 +50,8 @@
  ragnar_leader_tt:0 "§YRagnar§! est l'actuel dirigeant de la §Y[BRK.GetNameDef]§!"
  ragnar_not_leader_tt:0 "§YRagnar§! n'est pas l'actuel dirigeant de la §Y[BRK.GetNameDef]§!"
 
- house_leader_tt:9 "§YRobert House§! est l'actuel dirigeant de §Y[VEG.GetNameDef]§!"
- house_not_leader_tt:9 "§YRobert House§! n'est pas l'actuel dirigeant de §Y[VEG.GetNameDef]§!"
+ house_leader_tt:0 "§YRobert House§! est l'actuel dirigeant de §Y[VEG.GetNameDef]§!"
+ house_not_leader_tt:0 "§YRobert House§! n'est pas l'actuel dirigeant de §Y[VEG.GetNameDef]§!"
  benny_leader_tt:0 "§YBenny§! est l'actuel dirigeant de §Y[VEG.GetNameDef]§!"
  benny_not_leader_tt:0 "§YBenny§! n'est pas l'actuel dirigeant de §Y[VEG.GetNameDef]§!"
  king_leader_tt:0 "§YThe King§! est l'actuel dirigeant de §Y[VEG.GetNameDef]§!"

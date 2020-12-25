@@ -25,7 +25,7 @@
  is_not_psyker_nation_tt:0 "§RN'est pas§! une nation §Ypsyker§!"
 
  is_tribal_nation_tt:0 "Est une nation §Ytribale§!"
- is_not_tribal_nation_tt:9 "§RN'est pas§! une nation §Ytribale§!"
+ is_not_tribal_nation_tt:0 "§RN'est pas§! une nation §Ytribale§!"
 
  is_mexican_tt: "Est une nation §YMexicaine§!"
  is_not_mexican_tt: "§RN'est pas§! une nation §YMexicaine§!"
@@ -52,7 +52,7 @@
  is_chiconet_nation_tt: "Est une nation §YChicoNet§!"
  is_not_chiconet_nation_tt: "§RN'est pas§! une nation §YChicoNet§!"
 
- is_ncr_nation_tt:9 "Est une nation de la §YRNC§!"
- is_not_ncr_nation_tt:9 "§RN'est pas§! une nation de la §YRNC§!"
+ is_ncr_nation_tt:0 "Est une nation de la §YRNC§!"
+ is_not_ncr_nation_tt:0 "§RN'est pas§! une nation de la §YRNC§!"
 
- is_neutral_country_tt:9 "§Y[THIS.GetName]§! et §Y[PREV.GetName]§! sont mutuellement neutres"
+ is_neutral_country_tt:0 "§Y[THIS.GetName]§! et §Y[PREV.GetName]§! sont mutuellement neutres"

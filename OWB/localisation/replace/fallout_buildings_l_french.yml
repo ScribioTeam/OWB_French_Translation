@@ -32,11 +32,11 @@
 #  fuel_generator_amount:0 "$VALUE|Y0=$"
 #  fuel_generator_resource:0 "£resources_strip|$FRAME$"
 
- circuitry_generator:9 "Laboratoire de Fabrication"
- circuitry_generator_plural:9 "Laboratoires de Fabrication"
- circuitry_generator_desc:9 "Ce bâtiment fournit à l'État"
- circuitry_generator_amount:9 "$VALUE|Y0=$"
- circuitry_generator_resource:9 "£resources_strip|$FRAME$"
+ circuitry_generator:0 "Laboratoire de Fabrication"
+ circuitry_generator_plural:0 "Laboratoires de Fabrication"
+ circuitry_generator_desc:0 "Ce bâtiment fournit à l'État"
+ circuitry_generator_amount:0 "$VALUE|Y0=$"
+ circuitry_generator_resource:0 "£resources_strip|$FRAME$"
 
 #  advanced_technology_generator: "Research Facility"
 #  advanced_technology_generator_plural: "Research Facilities"

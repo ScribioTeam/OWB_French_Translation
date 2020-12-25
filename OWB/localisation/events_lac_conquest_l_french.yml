@@ -4,23 +4,23 @@
     ##### LAC Custom Tooltips #####
     ###############################
 
- tt_lac_decimation_1:9 "§gNous limiterons nos pillages, en minimisant les destructions.§!"
- tt_lac_decimation_2:9 "Nos troupes peuvent piller à leur guise, créant ainsi des dégâts importants."
- tt_lac_decimation_3:9 "§RLes Légionnaires se verront attribuer des objectifs et des quotas spécifiques pour le pillage, c'est-à-dire pour brûler la terre pour s'enrichir.§!"
+ tt_lac_decimation_1:0 "§gNous limiterons nos pillages, en minimisant les destructions.§!"
+ tt_lac_decimation_2:0 "Nos troupes peuvent piller à leur guise, créant ainsi des dégâts importants."
+ tt_lac_decimation_3:0 "§RLes Légionnaires se verront attribuer des objectifs et des quotas spécifiques pour le pillage, c'est-à-dire pour brûler la terre pour s'enrichir.§!"
 
- tt_lac_choose_crucify:9 "Opter pour §Rcrucifier§! les commandants ennemis apporte la Gloire et §Grenforce§! le moral pour un temps."
- tt_lac_crucify_1:9 "§gLa plèbe tolérera cette quantité de crucifixions.§!"
- tt_lac_crucify_2:9 "Beaucoup de plébéiens vont causer des ennuis à cause de tant de crucifixions."
- tt_lac_crucify_3:9 "§RNous mettrons la plèbe en colère, mais notre hégémonie sera incontestée là où se trouvent les croix.§!"
+ tt_lac_choose_crucify:0 "Opter pour §Rcrucifier§! les commandants ennemis apporte la Gloire et §Grenforce§! le moral pour un temps."
+ tt_lac_crucify_1:0 "§gLa plèbe tolérera cette quantité de crucifixions.§!"
+ tt_lac_crucify_2:0 "Beaucoup de plébéiens vont causer des ennuis à cause de tant de crucifixions."
+ tt_lac_crucify_3:0 "§RNous mettrons la plèbe en colère, mais notre hégémonie sera incontestée là où se trouvent les croix.§!"
 
 
- tt_lac_choose_recruit:9 "Opter pour §Grecruter§! les commandants ennemis augmentent notre puissance et notre magnanimité, mais §Rréduit§! le moral pour un temps."
- tt_lac_recruit_1:9 "§gUn ancien commandant ennemi servira Lanius et apportera son expertise, mais nos militaires feront du bruit.§!"
- tt_lac_recruit_2:9 "Notre nouveau commandant amènera des troupes à s'assimiler dans nos rangs, mais nos militaires auront besoin de temps pour s'adapter."
- tt_lac_recruit_3:9 "§RUne nouvelle cohorte et un nouveau commandant seront enrôlés, utilisant leurs anciennes tactiques, ce qui bouleversera grandement nos Légionnaires..§!"
+ tt_lac_choose_recruit:0 "Opter pour §Grecruter§! les commandants ennemis augmentent notre puissance et notre magnanimité, mais §Rréduit§! le moral pour un temps."
+ tt_lac_recruit_1:0 "§gUn ancien commandant ennemi servira Lanius et apportera son expertise, mais nos militaires feront du bruit.§!"
+ tt_lac_recruit_2:0 "Notre nouveau commandant amènera des troupes à s'assimiler dans nos rangs, mais nos militaires auront besoin de temps pour s'adapter."
+ tt_lac_recruit_3:0 "§RUne nouvelle cohorte et un nouveau commandant seront enrôlés, utilisant leurs anciennes tactiques, ce qui bouleversera grandement nos Légionnaires..§!"
 
- tt_lac_choose_tribute:9 "Donner un Tribut à César apporte la Gloire, mais peu d'autres choses."
- tt_lac_ces_tribute:9 "Lanius a rempli ses obligations, et nous devons en faire autant."
+ tt_lac_choose_tribute:0 "Donner un Tribut à César apporte la Gloire, mais peu d'autres choses."
+ tt_lac_ces_tribute:0 "Lanius a rempli ses obligations, et nous devons en faire autant."
 
- tt_lac_choose_demand:9 "Exiger un Triomphe de César, en échange de notre Tribut, procure Gloire et richesse à profusion."
- tt_lac_ces_triumph:9 "Les exigences de Lanius sont raisonnables, mais troublantes : son Triomphe sera programmé, §Rmais nous devrions garder un oeil sur lui.§!"
+ tt_lac_choose_demand:0 "Exiger un Triomphe de César, en échange de notre Tribut, procure Gloire et richesse à profusion."
+ tt_lac_ces_triumph:0 "Les exigences de Lanius sont raisonnables, mais troublantes : son Triomphe sera programmé, §Rmais nous devrions garder un oeil sur lui.§!"

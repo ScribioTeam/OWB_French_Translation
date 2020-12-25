@@ -309,9 +309,9 @@
  KHA_focus_new_lands:0 "Nouveaux territoires"
  KHA_focus_new_lands_desc:0 "Notre nombre augmente de jour en jour, mais notre territoire ne le fait pas. Nous avons besoin de nouvelles ressources, de nouvelles colonies et de nouveaux esclaves - nous devons donc les prendre !"
 
- KHA_focus_a_new_home:9 "Une Nouvelle Frontière"
- KHA_focus_a_new_home_desc:9 "Quelque part, il y a un foyer pour les Khans.\nNous devons juste le trouver."
- KHA_focus_a_new_home_tt:9 "§RAidez les Khans à voyager dans un nouvel endroit lors d'une prochaine mise à jour.§!"
+ KHA_focus_a_new_home:0 "Une Nouvelle Frontière"
+ KHA_focus_a_new_home_desc:0 "Quelque part, il y a un foyer pour les Khans.\nNous devons juste le trouver."
+ KHA_focus_a_new_home_tt:0 "§RAidez les Khans à voyager dans un nouvel endroit lors d'une prochaine mise à jour.§!"
 
  KHA_focus_expand_northwards:0 "Pousser pour la zone 51"
  KHA_focus_expand_northwards_desc:0 "Les Sky Reavers, au nord, occupent actuellement la zone 51, une installation militaire d'avant-guerre très prisée qui semble être restée jusqu'à présent à l'abri des bandes de pilleurs en maraude. De grandes récompenses doivent certainement se trouver dans la base, sans parler de la multitude de colonies qu'une occupation des terres des Sky Reavers nous apporterait."
@@ -386,5 +386,5 @@
  KHA_focus_khan_culture_8:0 "Stratégies défensives"
  KHA_focus_khan_culture_8_desc:0 "Nous devrions élargir nos capacités de défense au-delà de Red Rock Canyon et défendre tout ce que nous considérons comme étant à nous."
 
- KHA_establish_the_drug_runners:9 "Mettre en place les Drug Runners"
- KHA_establish_the_drug_runners_desc:9 "Nous pouvons certes produire plus de drogues que nous n'en vendons actuellement. Pour développer notre activité, nous aurions besoin de passeurs de drogue dévoués pour faire rentrer la pâte."
+ KHA_establish_the_drug_runners:0 "Mettre en place les Drug Runners"
+ KHA_establish_the_drug_runners_desc:0 "Nous pouvons certes produire plus de drogues que nous n'en vendons actuellement. Pour développer notre activité, nous aurions besoin de passeurs de drogue dévoués pour faire rentrer la pâte."

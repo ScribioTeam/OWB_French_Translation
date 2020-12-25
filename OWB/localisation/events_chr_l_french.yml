@@ -1,16 +1,16 @@
 ﻿l_french:
 
- nf_event_chr.1.t:9 "Jusqu'où pouvons-nous aller ?"
- nf_event_chr.1.d:9 "Toutes les recherches ne sont pas aussi propres que le suggèrent les laboratoires stériles. Certaines expériences nécessitent certaines... pratiques qui seraient mal vues par la population en général. Nous pouvons nous limiter à suivre une boussole éthique et morale stricte. Ou nous pouvons prendre cette boussole et la traiter comme une simple ligne directrice approximative qui peut être suivie à volonté. Mais parfois, les découvertes les plus intéressantes se trouvent sur les sentiers battus.\nNous devons nous demander : \"Jusqu'où pouvons-nous aller ? Jusqu'où pouvons-nous aller ?\""
- nf_event_chr.1.a:9 "La Science ne connaît pas de limites"
- nf_event_chr.1.b:9 "Cette histoire de boussole est peut-être une bonne idée"
+ nf_event_chr.1.t:0 "Jusqu'où pouvons-nous aller ?"
+ nf_event_chr.1.d:0 "Toutes les recherches ne sont pas aussi propres que le suggèrent les laboratoires stériles. Certaines expériences nécessitent certaines... pratiques qui seraient mal vues par la population en général. Nous pouvons nous limiter à suivre une boussole éthique et morale stricte. Ou nous pouvons prendre cette boussole et la traiter comme une simple ligne directrice approximative qui peut être suivie à volonté. Mais parfois, les découvertes les plus intéressantes se trouvent sur les sentiers battus.\nNous devons nous demander : \"Jusqu'où pouvons-nous aller ? Jusqu'où pouvons-nous aller ?\""
+ nf_event_chr.1.a:0 "La Science ne connaît pas de limites"
+ nf_event_chr.1.b:0 "Cette histoire de boussole est peut-être une bonne idée"
 
 
- nf_event_chr.101.t:9 "Une Brume Mortelle"
- nf_event_chr.101.d:9 "Dans une surprenante tournure des événements, les troupes [CHR.GetAdjectiveCap] se sont retirées assez rapidement du champ de bataille ce matin. Nous étions sur le point de célébrer notre succès, lorsque des nuages verts et maladifs ont commencé à se répandre sur le champ de bataille. Nous ne savions pas à quoi nous attendre jusqu'à ce que notre premier soldat tombe et meure, crachant du sang. A partir de là, tout s'est mis à dégringoler rapidement. Les gens tombaient à gauche et à droite avec différents signes de maladie. Nous avons appelé à une retraite rapide, mais les pertes ont été horribles, de multiples façons."
- nf_event_chr.101.a:9 "Pourquoi mes yeux fondent-ils ?"
+ nf_event_chr.101.t:0 "Une Brume Mortelle"
+ nf_event_chr.101.d:0 "Dans une surprenante tournure des événements, les troupes [CHR.GetAdjectiveCap] se sont retirées assez rapidement du champ de bataille ce matin. Nous étions sur le point de célébrer notre succès, lorsque des nuages verts et maladifs ont commencé à se répandre sur le champ de bataille. Nous ne savions pas à quoi nous attendre jusqu'à ce que notre premier soldat tombe et meure, crachant du sang. A partir de là, tout s'est mis à dégringoler rapidement. Les gens tombaient à gauche et à droite avec différents signes de maladie. Nous avons appelé à une retraite rapide, mais les pertes ont été horribles, de multiples façons."
+ nf_event_chr.101.a:0 "Pourquoi mes yeux fondent-ils ?"
 
- nf_event_chr.102.t:9 "Étranges Événements"
- nf_event_chr.102.d:9 "Nos troupes ont signalé des feux clignotants chez nos ennemis et suite à cela, certains de leurs frères d'armes viennent de déposer leurs armes et de se rendre. Certains ont même erré de leur plein gré dans les lignes ennemies, se rendant étonnamment sans être abattus. Beaucoup de nos soldats ont peur de se battre dans ces circonstances étranges et notre avance s'en est trouvée considérablement ralentie."
- nf_event_chr.102.a:9 "C'est juste des flashes... probablement"
+ nf_event_chr.102.t:0 "Étranges Événements"
+ nf_event_chr.102.d:0 "Nos troupes ont signalé des feux clignotants chez nos ennemis et suite à cela, certains de leurs frères d'armes viennent de déposer leurs armes et de se rendre. Certains ont même erré de leur plein gré dans les lignes ennemies, se rendant étonnamment sans être abattus. Beaucoup de nos soldats ont peur de se battre dans ces circonstances étranges et notre avance s'en est trouvée considérablement ralentie."
+ nf_event_chr.102.a:0 "C'est juste des flashes... probablement"
  nf_event_chr.102_tt:10 "[CHR.GetName] va recevoir une prime de défense de §G10%§! contre nous pendant un court moment."

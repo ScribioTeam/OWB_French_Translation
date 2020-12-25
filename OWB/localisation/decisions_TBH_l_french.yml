@@ -1,28 +1,28 @@
 ﻿l_french:
 
   # Categories
- tbh_simulator_decisions:9 "Combat Simulators"
- tbh_simulator_decisions_desc:9 ""
- tbh_diplomacy_decisions:9 "Texas Economic Union, internal affairs."
- tbh_diplomacy_decisions_desc:9 ""
+ tbh_simulator_decisions:0 "Combat Simulators"
+ tbh_simulator_decisions_desc:0 ""
+ tbh_diplomacy_decisions:0 "Texas Economic Union, internal affairs."
+ tbh_diplomacy_decisions_desc:0 ""
 
 
 
   # decisions
- tbh_simulator_training_decision:9 "Simulator Training"
- tbh_simulator_training_decision_desc:9 "Simulator training allows us to experiment with doctrines and a host of other things in real time. Changing combat situations on the fly. Our soldiers will be the best in the world."
- tbh_simulator_training_decision_ground:9 "Simulator Unit Tactics"
- tbh_simulator_training_decision_ground_desc:9 "Simulator training allows us to experiment with doctrines and a host of other things in real time. Changing combat situations on the fly. Our soldiers will be the best in the world."
- tbh_simulator_training_decision_naval:9 "Simulator Naval Combat"
- tbh_simulator_training_decision_naval_desc:9 "Simulator training allows us to experiment with doctrines and a host of other things in real time. Changing combat situations on the fly. Our soldiers will be the best in the world."
- tbh_simulator_training_decision_air:9 "Simulator Dogfighting"
- tbh_simulator_training_decision_air_desc:9 "Simulator training allows us to experiment with doctrines and a host of other things in real time. Changing combat situations on the fly. Our soldiers will be the best in the world."
- tbh_send_lns_aid:9 "Aid Lonestar"
- tbh_send_lns_aid_desc:9 "While we are busy with our own internal turmoils, and Lonestar wishes to sort this alone, we can still start recruiting volunteers to help them. Volunteers are plenty after all."
- LNS_fallen:9 "Lonestar fell to raiders far too quickly for our aid to reach them. This is what the ancients would call bad."
- tbh_send_uoa_aid:9 "Aid Unity of Austin"
- tbh_send_uoa_aid_desc:9 "We can not help mutants directly, not all of us are that far yet in their perception of equality. But those that are, are ready to take up arms. Just a few more years and finally everyone will be equal. Equal in Texas."
+ tbh_simulator_training_decision:0 "Simulator Training"
+ tbh_simulator_training_decision_desc:0 "Simulator training allows us to experiment with doctrines and a host of other things in real time. Changing combat situations on the fly. Our soldiers will be the best in the world."
+ tbh_simulator_training_decision_ground:0 "Simulator Unit Tactics"
+ tbh_simulator_training_decision_ground_desc:0 "Simulator training allows us to experiment with doctrines and a host of other things in real time. Changing combat situations on the fly. Our soldiers will be the best in the world."
+ tbh_simulator_training_decision_naval:0 "Simulator Naval Combat"
+ tbh_simulator_training_decision_naval_desc:0 "Simulator training allows us to experiment with doctrines and a host of other things in real time. Changing combat situations on the fly. Our soldiers will be the best in the world."
+ tbh_simulator_training_decision_air:0 "Simulator Dogfighting"
+ tbh_simulator_training_decision_air_desc:0 "Simulator training allows us to experiment with doctrines and a host of other things in real time. Changing combat situations on the fly. Our soldiers will be the best in the world."
+ tbh_send_lns_aid:0 "Aid Lonestar"
+ tbh_send_lns_aid_desc:0 "While we are busy with our own internal turmoils, and Lonestar wishes to sort this alone, we can still start recruiting volunteers to help them. Volunteers are plenty after all."
+ LNS_fallen:0 "Lonestar fell to raiders far too quickly for our aid to reach them. This is what the ancients would call bad."
+ tbh_send_uoa_aid:0 "Aid Unity of Austin"
+ tbh_send_uoa_aid_desc:0 "We can not help mutants directly, not all of us are that far yet in their perception of equality. But those that are, are ready to take up arms. Just a few more years and finally everyone will be equal. Equal in Texas."
 
 
   # Opinion
- aided_by_ally:9 "Recieved Texas Brotherhood Aid."
+ aided_by_ally:0 "Recieved Texas Brotherhood Aid."

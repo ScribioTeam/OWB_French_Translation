@@ -175,8 +175,8 @@
 
  KHA_idea_founders_of_the_chem_trade:0 "Fondateurs du commerce des Chems"
 
- KHA_drug_runners:9 "Les Drug Runners"
- KHA_drug_runners_desc:9 "§YDébloque les décisions spéciales qui permettent aux Grands Khans de passer de la drogue en contrebande dans les pays voisins.§!"
+ KHA_drug_runners:0 "Les Drug Runners"
+ KHA_drug_runners_desc:0 "§YDébloque les décisions spéciales qui permettent aux Grands Khans de passer de la drogue en contrebande dans les pays voisins.§!"
 
  # Advisors
  chance_advisor:0 "Chance"
@@ -196,13 +196,13 @@
  diane_advisor:0 "Diane"
  diane_advisor_desc:0 "Diane est un revendeur de drogue et membre des Grands Khans. Vous pouvez souvent le trouver avec Jack, même si cela semble être principalement Jack qui le suit partout plutôt qu'une amitié réciproque."
  anders_advisor:0 "Anders"
- anders_advisor_desc:9 "Anders est et a toujours été un Khan, se faisant connaître comme le plus fidèle coureur de drogue de Diane. Ensemble, le trio - Diane, Jack et Anders - contrôle la grande majorité du trafic de drogue des Grands Khans."
- anders_advisor_lar:9 "Anders"
- anders_advisor_lar_desc:9 "Anders est et a toujours été un Khan, se faisant un nom comme le plus fidèle trafiquant de drogue de Diane. Ensemble, le trio Diane, Jack et Anders contrôle la grande majorité du trafic de drogue des Grands Khans."
+ anders_advisor_desc:0 "Anders est et a toujours été un Khan, se faisant connaître comme le plus fidèle coureur de drogue de Diane. Ensemble, le trio - Diane, Jack et Anders - contrôle la grande majorité du trafic de drogue des Grands Khans."
+ anders_advisor_lar:0 "Anders"
+ anders_advisor_lar_desc:0 "Anders est et a toujours été un Khan, se faisant un nom comme le plus fidèle trafiquant de drogue de Diane. Ensemble, le trio Diane, Jack et Anders contrôle la grande majorité du trafic de drogue des Grands Khans."
  jerry_the_punk_advisor:0 "Jerry le Punk"
  jerry_the_punk_advisor_desc:0 "Quand Jerry était enfant, les Disciples de l'Apocalypse sont venus à Red Rock Canyon avec des livres d'avant-guerre. Jerry passait des heures à lire ces livres, en particulier les recueils de poésie, et occupe de ce fait le rôle du poète du Grand Khan : il écrit des épopées sur les victoires des Khans."
  emma_winslow_advisor:0 "Emma Winslow"
  emma_winslow_advisor_desc:0 "Emma a été l'une des premières Disciples de l'Apocalypse à établir un contact avec les Grands Khans et a consacré son temps à aider le clan, même en commençant à embrasser sa culture. En l'invitant à la Long House, nous pourrons peut-être convaincre son peuple que nous ne sommes pas si mauvais."
  dalia_advisor:0 "Dalia"
  dalia_advisor_desc:0 "Dalia est plus qu’un joli visage, et sa manière de combiner les mots avec une vive conscience politique font d'elle une excellente oratrice pour motiver."
- anders_lar_trait:9 "Anders"
+ anders_lar_trait:0 "Anders"

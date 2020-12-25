@@ -375,7 +375,7 @@
  ncr_draft_desc:0 "Le Big Jim Draft est quelque chose que peu de gens s'attendaient à voir, car beaucoup à la RNC estiment que la conscription est l’un des principaux problèmes liés à la qualité des forces militaires de la RNC. Pourtant, la Doctrine de Jim souligne l’importance du nombre élevé de l'infanterie de qualité, la nécessité de recruter davantage d'hommes et de femmes, de gré ou de force, est une nécessité."
 
  ncr_olivers_pet_project: "Projet d'Oliver"
- ncr_olivers_pet_project_desc:9 "Oliver a toujours pensé que les troupes lourdes de la RNC pourraient jouer un rôle central dans les combats en Arizona. Si nous devions conquérir un avant-poste de la Confrérie, nous pourrions commencer à déconstruire de vieux ensembles d'armures assistées pour comprendre comment elles fonctionnent !"
+ ncr_olivers_pet_project_desc:0 "Oliver a toujours pensé que les troupes lourdes de la RNC pourraient jouer un rôle central dans les combats en Arizona. Si nous devions conquérir un avant-poste de la Confrérie, nous pourrions commencer à déconstruire de vieux ensembles d'armures assistées pour comprendre comment elles fonctionnent !"
 
  ncr_rangergenmossman:0 "Armée de Mossman"
  ncr_rangergenmossman_desc:0 "Le général Mossman a quelque chose de louche pour le soldat moyen de la RNC, et les considère comme un outil maladroit et direct, mieux adapté pour anéantir un ennemi que de réaliser quoi que ce soit en particulier. À cette fin, il croit à l'expansion et à l'importance accrue des Rangers et consacre une grande partie de son financement à leur amélioration."
@@ -398,49 +398,49 @@
  ncr_rapid:0 "Doctrine de mouvement rapide"
  ncr_rapid_desc:0 "Le noyau motorisé de la RNC est, à bien des égards, une entité distincte de l’armée elle-même. Il partage peu de commandants et a des tactiques et des stratégies incompatibles au combat. L'intégration améliorée de ces forces et une plus grande unité tactique pourraient permettre à la RNC de mieux utiliser cet avantage stratégique précieux."
 
- ncr_rapid2:9 "Les Vrais Rapids"
- ncr_rapid2_desc:9 "Ne vous laissez pas tromper par les tribus, nous nous dirigerons directement vers le territoire ennemi."
+ ncr_rapid2:0 "Les Vrais Rapids"
+ ncr_rapid2_desc:0 "Ne vous laissez pas tromper par les tribus, nous nous dirigerons directement vers le territoire ennemi."
 
- ncr_reorganizetheexpeditionaries:9 "Réorganiser les forces expéditionnaires"
- ncr_reorganizetheexpeditionaries_desc:9 "Avec notre récente expansion dans le Mojave, la branche expéditionnaire de l'armée de la RNC est lasse de la guerre, sous-approvisionnée et considérée comme une affectation impopulaire au sein de l'armée. La signature de nouveaux fonds pour l'équipement, le recrutement et le moral des troupes améliorerait son statut."
+ ncr_reorganizetheexpeditionaries:0 "Réorganiser les forces expéditionnaires"
+ ncr_reorganizetheexpeditionaries_desc:0 "Avec notre récente expansion dans le Mojave, la branche expéditionnaire de l'armée de la RNC est lasse de la guerre, sous-approvisionnée et considérée comme une affectation impopulaire au sein de l'armée. La signature de nouveaux fonds pour l'équipement, le recrutement et le moral des troupes améliorerait son statut."
 
- ncr_rapidannexation:9 "Annexion des Rapids"
- ncr_rapidannexation_desc:9 "De l'autre côté du fleuve Colorado se trouve la Légion de César, une nation en pleine expansion qui a tendance à absorber et à annexer des tribus indépendantes. De notre côté du Colorado se trouvent les Rapids, une tribu très indépendante qui s'étend de Los Algodones jusqu'à Tumblehome. Si la légion devait traverser dans le sud et les attaquer, notre partie seraient exposée, nous devons donc prendre les choses en main et annexer les Rapids."
+ ncr_rapidannexation:0 "Annexion des Rapids"
+ ncr_rapidannexation_desc:0 "De l'autre côté du fleuve Colorado se trouve la Légion de César, une nation en pleine expansion qui a tendance à absorber et à annexer des tribus indépendantes. De notre côté du Colorado se trouvent les Rapids, une tribu très indépendante qui s'étend de Los Algodones jusqu'à Tumblehome. Si la légion devait traverser dans le sud et les attaquer, notre partie seraient exposée, nous devons donc prendre les choses en main et annexer les Rapids."
 
- ncr_rapidsettlement:9 "Colonisation des Rapids"
- ncr_rapidsettlement_desc:9 "Maintenant que les Rapids ont été pacifiés, nous devrions investir des colons et des agriculteurs dans la région pour renforcer notre emprise sur le territoire. Cela coûtera cher en main-d'œuvre et en industrie, mais en fin de compte, nous devrions avoir une bonne emprise sur la région."
+ ncr_rapidsettlement:0 "Colonisation des Rapids"
+ ncr_rapidsettlement_desc:0 "Maintenant que les Rapids ont été pacifiés, nous devrions investir des colons et des agriculteurs dans la région pour renforcer notre emprise sur le territoire. Cela coûtera cher en main-d'œuvre et en industrie, mais en fin de compte, nous devrions avoir une bonne emprise sur la région."
 
- ncr_expandthefrontier:9 "Élargir la frontière"
- ncr_expandthefrontier_desc:9 "Depuis quelque temps, la tribu Umbra fait des raids sur nos caravanes qui circulent sur les rives nord de la Californie. Nous devrions les remettre à leur place et les pénaliser pour avoir porté préjudice aux citoyens de la RNC."
+ ncr_expandthefrontier:0 "Élargir la frontière"
+ ncr_expandthefrontier_desc:0 "Depuis quelque temps, la tribu Umbra fait des raids sur nos caravanes qui circulent sur les rives nord de la Californie. Nous devrions les remettre à leur place et les pénaliser pour avoir porté préjudice aux citoyens de la RNC."
 
- ncr_settlethenorth:9 "Coloniser le Nord"
- ncr_settlethenorth_desc:9 "Il y a une foule de villes mal défendues à nos frontières du nord et du nord-ouest. Si nous agissions rapidement, nous pourrions les saisir à leurs propriétaires sans méfiance et sans leur faire la guerre."
+ ncr_settlethenorth:0 "Coloniser le Nord"
+ ncr_settlethenorth_desc:0 "Il y a une foule de villes mal défendues à nos frontières du nord et du nord-ouest. Si nous agissions rapidement, nous pourrions les saisir à leurs propriétaires sans méfiance et sans leur faire la guerre."
 
- ncr_baja_victory:9 "Le Butin de Baja"
- ncr_baja_victory_desc:9 "La campagne de Baja s'étant révélée être une grande victoire pour la République, nos citoyens peuvent être assurés qu'ils ne seront pas attaqués dans la nuit par des bandits itinérants."
+ ncr_baja_victory:0 "Le Butin de Baja"
+ ncr_baja_victory_desc:0 "La campagne de Baja s'étant révélée être une grande victoire pour la République, nos citoyens peuvent être assurés qu'ils ne seront pas attaqués dans la nuit par des bandits itinérants."
 
- ncr_settlethewest:9 "Traité avec San Francisco"
- ncr_settlethewest_desc:9 "Les Shi sont un allié de poids de la RNC depuis un certain temps déjà. Ils ont aidé la République dans ses premières années à combattre les pilleurs et les criminels du vieux monde. Peut-être serait-il temps de transformer notre programme d'échanges culturels en un traité ?"
+ ncr_settlethewest:0 "Traité avec San Francisco"
+ ncr_settlethewest_desc:0 "Les Shi sont un allié de poids de la RNC depuis un certain temps déjà. Ils ont aidé la République dans ses premières années à combattre les pilleurs et les criminels du vieux monde. Peut-être serait-il temps de transformer notre programme d'échanges culturels en un traité ?"
 
- ncr_purchasescrapheapandkettle:9 "Négocier pour Scrapheap et Teakettle"
- ncr_purchasescrapheapandkettle_desc:9 "L'État des Rangers est constamment embourbé dans la guerre avec les gangs et les tribus environnantes, avec peu à produire et une grande partie de leur budget allant à l'armée, ils peuvent être prêts à vendre quelques uns de leurs territoires pour des capsules..."
+ ncr_purchasescrapheapandkettle:0 "Négocier pour Scrapheap et Teakettle"
+ ncr_purchasescrapheapandkettle_desc:0 "L'État des Rangers est constamment embourbé dans la guerre avec les gangs et les tribus environnantes, avec peu à produire et une grande partie de leur budget allant à l'armée, ils peuvent être prêts à vendre quelques uns de leurs territoires pour des capsules..."
 
- ncr_opentheeasternroute:9 "Ouvrir la route de l'Est"
- ncr_opentheeasternroute_desc:9 "La route qui passe par Mountain Springs et Mountain Springs pourrait être une importante voie de commerce et d'approvisionnement, mais pour l'instant, les colons qui habitent la Divide ont bloqué toutes nos tentatives de transport de matériaux dans le Mojave. Cela ne peut pas durer."
+ ncr_opentheeasternroute:0 "Ouvrir la route de l'Est"
+ ncr_opentheeasternroute_desc:0 "La route qui passe par Mountain Springs et Mountain Springs pourrait être une importante voie de commerce et d'approvisionnement, mais pour l'instant, les colons qui habitent la Divide ont bloqué toutes nos tentatives de transport de matériaux dans le Mojave. Cela ne peut pas durer."
 
- ncr_developtheeasternroute:9 "Développer la route de l'Est"
- ncr_developtheeasternroute_desc:9 "Maintenant que nous avons pacifié Mountain Springs et que nous avons accès à la route commerciale, nous pouvons commencer à mettre en place des infrastructures et à creuser des puits. Cela nous permettra d'attirer l'attention de la population locale et de faciliter le transport des marchandises."
+ ncr_developtheeasternroute:0 "Développer la route de l'Est"
+ ncr_developtheeasternroute_desc:0 "Maintenant que nous avons pacifié Mountain Springs et que nous avons accès à la route commerciale, nous pouvons commencer à mettre en place des infrastructures et à creuser des puits. Cela nous permettra d'attirer l'attention de la population locale et de faciliter le transport des marchandises."
 
- ncr_fortifytheeasternroute:9 "Fortifier la route de l'Est"
- ncr_fortifytheeasternroute_desc:9 "La route de l'Est vers le Mojave, désormais florissante, sera presque certainement une cible tentante pour les parties qui souhaitent saper notre place dans le Mojave, nous devrions chercher à fortifier notre côté de la route."
+ ncr_fortifytheeasternroute:0 "Fortifier la route de l'Est"
+ ncr_fortifytheeasternroute_desc:0 "La route de l'Est vers le Mojave, désormais florissante, sera presque certainement une cible tentante pour les parties qui souhaitent saper notre place dans le Mojave, nous devrions chercher à fortifier notre côté de la route."
 
- ncr_fundcrimsoncaravan:9 "Fonder la Mojave Crimson Caravan"
- ncr_fundcrimsoncaravan_desc:9 "Avec une augmentation de l'offre et un accès plus facile au Mojave, diverses entreprises ont manifesté leur intérêt pour l'ouverture de bureaux à la frontière. La Crimson Caravan est l'une d'entre elles. Avec un peu de financement, nous pourrions soutenir leurs efforts."
+ ncr_fundcrimsoncaravan:0 "Fonder la Mojave Crimson Caravan"
+ ncr_fundcrimsoncaravan_desc:0 "Avec une augmentation de l'offre et un accès plus facile au Mojave, diverses entreprises ont manifesté leur intérêt pour l'ouverture de bureaux à la frontière. La Crimson Caravan est l'une d'entre elles. Avec un peu de financement, nous pourrions soutenir leurs efforts."
 
- ncr_manifestdestiny:9 "Destinée Manifeste"
- ncr_manifestdestiny_desc:9 "L'idée de la Destinée Manifeste du Vieux Monde, selon laquelle notre nation est si grande dans ses idéaux et ses pratiques qu'elle devrait sûrement s'étendre aussi loin que le continent le permettra, est une idée dont nous pouvons tirer profit en mettant en avant nos récents succès frontaliers."
+ ncr_manifestdestiny:0 "Destinée Manifeste"
+ ncr_manifestdestiny_desc:0 "L'idée de la Destinée Manifeste du Vieux Monde, selon laquelle notre nation est si grande dans ses idéaux et ses pratiques qu'elle devrait sûrement s'étendre aussi loin que le continent le permettra, est une idée dont nous pouvons tirer profit en mettant en avant nos récents succès frontaliers."
 
- ncr_return_to_mojave:9 "Mémoires du Mojave"
- ncr_return_to_mojave_desc:9 "Le corps expéditionnaire du Mojave a été chassé du Mojave, mais nous n'abandonnerons pas. Avec la destruction de la Confrérie de l'Acier, il est temps de montrer à ceux qui nous ont fait du tort que vous ne marchez pas sur l'Ours !"
- ncr_fight_caesar:9 "L'Ouest Ne Tombera Jamais"
- ncr_fight_caesar_desc:9 "Nous ne sommes pas impressionnés par les tyrans qui règnent à l'est du Colorado. Ils complotent pour s'emparer des terres de la RNC. Mais nous sommes le flambeau du Pacifique ; regardez-nous brûler."
+ ncr_return_to_mojave:0 "Mémoires du Mojave"
+ ncr_return_to_mojave_desc:0 "Le corps expéditionnaire du Mojave a été chassé du Mojave, mais nous n'abandonnerons pas. Avec la destruction de la Confrérie de l'Acier, il est temps de montrer à ceux qui nous ont fait du tort que vous ne marchez pas sur l'Ours !"
+ ncr_fight_caesar:0 "L'Ouest Ne Tombera Jamais"
+ ncr_fight_caesar_desc:0 "Nous ne sommes pas impressionnés par les tyrans qui règnent à l'est du Colorado. Ils complotent pour s'emparer des terres de la RNC. Mais nous sommes le flambeau du Pacifique ; regardez-nous brûler."

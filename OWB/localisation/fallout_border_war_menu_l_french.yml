@@ -36,14 +36,14 @@
  string_border_war_select_state_tt_delayed_own_state:0 "Vous sélectionnez ici votre propre État à partir duquel vous souhaitez que le conflit frontalier commence. \nEn sélectionnant cet État, tous les États voisins valides s'afficheront sur la droite."
  string_border_war_select_state_tt_delayed_enemy_state:0 "Ici, vous sélectionnez l'État ennemi.\nEn sélectionnant cet État, vous en ferez l'État ennemi du conflit frontalier que vous êtes sur le point de déclencher."
 
- string_border_war_select_leader_tt_disabled_in_border_war:9 "§R[This.GetName] est déjà impliqué dans un conflit frontalier.§!"
- string_border_war_select_leader_tt_disabled_in_combat:9 "§R[This.GetName] est déjà impliqué dans un combat.§!"
- string_border_war_select_leader_tt_disabled_sick:9 "§R[This.GetName] est malade.§!"
- string_border_war_select_leader_tt_disabled_wounded:9 "§R[This.GetName] est blessé.§!"
- string_border_war_select_leader_tt:9 "§GCliquer§! pour choisir §Y[This.GetName]§! comme chef du conflit frontalier."
+ string_border_war_select_leader_tt_disabled_in_border_war:0 "§R[This.GetName] est déjà impliqué dans un conflit frontalier.§!"
+ string_border_war_select_leader_tt_disabled_in_combat:0 "§R[This.GetName] est déjà impliqué dans un combat.§!"
+ string_border_war_select_leader_tt_disabled_sick:0 "§R[This.GetName] est malade.§!"
+ string_border_war_select_leader_tt_disabled_wounded:0 "§R[This.GetName] est blessé.§!"
+ string_border_war_select_leader_tt:0 "§GCliquer§! pour choisir §Y[This.GetName]§! comme chef du conflit frontalier."
 
   # Scripted Effects:
- FALLOUT_BORDER_WAR_MENU_LIMIT_NEIGHBOR_STATES_TO_THIS_TT:9 "Cibles potentielles de conflit frontalier\n"
- FALLOUT_BORDER_WAR_MENU_MAIN_TT:9 "Commencer à planifier un conflit frontalier"
- FALLOUT_BORDER_WAR_MENU_ALL_GENERALS:9 "Tous les généraux disponibles pour le conflit frontalier"
- FALLOUT_BORDER_WAR_MENU_ALL_OWNED_POSSIBLE:9 "Tous les États possédés avec des divisions disponibles pour le conflit frontalier"
+ FALLOUT_BORDER_WAR_MENU_LIMIT_NEIGHBOR_STATES_TO_THIS_TT:0 "Cibles potentielles de conflit frontalier\n"
+ FALLOUT_BORDER_WAR_MENU_MAIN_TT:0 "Commencer à planifier un conflit frontalier"
+ FALLOUT_BORDER_WAR_MENU_ALL_GENERALS:0 "Tous les généraux disponibles pour le conflit frontalier"
+ FALLOUT_BORDER_WAR_MENU_ALL_OWNED_POSSIBLE:0 "Tous les États possédés avec des divisions disponibles pour le conflit frontalier"

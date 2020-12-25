@@ -12,12 +12,12 @@
  HEADER_RANGER_BUFFS:0 "Bonus Ranger du désert"
  HEADER_NCR_BUFFS:0 "Bonus RNC"
  HEADER_VAULT_CITY_BUFFS:0 "Bonus Vault City"
- HEADER_MEXICO_BUFFS:9 "Bonus du Mexique"
- HEADER_TBH_BUFFS:9 "Bonus de la Confrérie Texane"
+ HEADER_MEXICO_BUFFS:0 "Bonus du Mexique"
+ HEADER_TBH_BUFFS:0 "Bonus de la Confrérie Texane"
 
  HEADER_RENO_BUFFS:0 "Bonus New Reno"
  HEADER_OREGON_BUFFS:0 "Bonus de l'Oregon"
- HEADER_COLORADO_BUFFS:9 "Bonus du Colorado"
+ HEADER_COLORADO_BUFFS:0 "Bonus du Colorado"
  HEADER_SETTLER_BUFFS:0 "Bonus Colon"
  HEADER_RAIDER_BUFFS:0 "Bonus Pillard"
  HEADER_LEGION_BUFFS:0 "Bonus Légion"
@@ -25,7 +25,7 @@
  HEADER_TECH_LEVEL:0 "Technologie"
  HEADER_UNIT:0 "Unités"
  HEADER_UNLOCK:0 "Schémas"
- HEADER_DOCTRINE_TECHS:9 "Doctrine"
+ HEADER_DOCTRINE_TECHS:0 "Doctrine"
 
 
  #Unlocks
@@ -34,11 +34,11 @@
  enclave_pa_unlock_tech:0 "Schémas d'Armure Assistée Avancée"
  high_fighter_unlock_tech:0 "Schémas Xian"
  vertibird_unlock_tech:0 "Schémas Vertibird"
- grunt_level_radio_unlock_tech:9 "Radios Portables"
- forward_fire_base_unlock_tech:9 "Fortifications Mobiles"
+ grunt_level_radio_unlock_tech:0 "Radios Portables"
+ forward_fire_base_unlock_tech:0 "Fortifications Mobiles"
 
- scav_unlock_weapon_tt:9 "Débloque la technologie d'armement correspondante pour la recherche."
- scav_unlock_business_tt:9 "Débloque l'entreprise d'avant-guerre correspondante."
+ scav_unlock_weapon_tt:0 "Débloque la technologie d'armement correspondante pour la recherche."
+ scav_unlock_business_tt:0 "Débloque l'entreprise d'avant-guerre correspondante."
 
  #----------------------------
  # Civilizations
@@ -54,16 +54,16 @@
 
 
   # Units
- police_infantry_tech:9 "Infanterie Police"
- police_infantry_tech_desc:9 ""
- sentinel_unit_tech:9 "Système de combat sentinelle"
- sentinel_unit_tech_desc:9 ""
+ police_infantry_tech:0 "Infanterie Police"
+ police_infantry_tech_desc:0 ""
+ sentinel_unit_tech:0 "Système de combat sentinelle"
+ sentinel_unit_tech_desc:0 ""
  dog_infantry_tech:0 "Peloton de chiens de guerre"
  super_mutant_aux_infantry_tech:0 "Auxiliaires super-mutants"
  ghoul_paratrooper_tech:0 "Parachutistes goules"
  super_mutant_nightkin_tech:0 "Nightkin"
- plant_support_tech:9 "Plantes Monstrueuses"
- plant_support_tech_desc:9 ""
+ plant_support_tech:0 "Plantes Monstrueuses"
+ plant_support_tech_desc:0 ""
 
 
 
@@ -198,20 +198,20 @@
 
  legion_vexillarius_tech:0 "Vexillarius"
  legion_vexillarius_tech_desc:0 ""
- legion_training_tech:9 "Entraînement de la Légion"
- legion_training_tech_desc:9 ""
- legion_frumentarii_officers_tech:9 "Officiers Frumentarii"
- legion_frumentarii_officers_tech_desc:9 ""
- legion_frumentarii_commandoes_tech:9 "Commandos Frumentarii"
- legion_frumentarii_commandoes_tech_desc:9 ""
- ces_aurelius_mercenaries_tech:9 "Conseillers Mercenaires"
- ces_aurelius_mercenaries_tech_desc:9 ""
- CES_horns_moroni_tech:9 "Cornes de Moroni"
- CES_horns_moroni_tech_desc:9 ""
- armored_chariots_tech:9 "Chariots Blindés"
- armored_chariots_tech_desc:9 ""
- CES_mercenary_training_tech:9 "Technologie d'entraînement de mercenaires"
- CES_mercenary_training_tech_desc:9 ""
+ legion_training_tech:0 "Entraînement de la Légion"
+ legion_training_tech_desc:0 ""
+ legion_frumentarii_officers_tech:0 "Officiers Frumentarii"
+ legion_frumentarii_officers_tech_desc:0 ""
+ legion_frumentarii_commandoes_tech:0 "Commandos Frumentarii"
+ legion_frumentarii_commandoes_tech_desc:0 ""
+ ces_aurelius_mercenaries_tech:0 "Conseillers Mercenaires"
+ ces_aurelius_mercenaries_tech_desc:0 ""
+ CES_horns_moroni_tech:0 "Cornes de Moroni"
+ CES_horns_moroni_tech_desc:0 ""
+ armored_chariots_tech:0 "Chariots Blindés"
+ armored_chariots_tech_desc:0 ""
+ CES_mercenary_training_tech:0 "Technologie d'entraînement de mercenaires"
+ CES_mercenary_training_tech_desc:0 ""
 
 
 
@@ -234,20 +234,20 @@
  raider_reckless_aggression_desc:0 ""
 
  #Raider
- tbh_lawkeepers_tech_1:9 "Entraînement des Adjoints"
- tbh_lawkeepers_tech_1_desc:9 ""
- tbh_lawkeepers_tech_2:9 "Entraînement du Sheriff"
- tbh_lawkeepers_tech_2_desc:9 ""
- tbh_lawkeepers_tech_3:9 "Entraînement du Marshal"
- tbh_lawkeepers_tech_3_desc:9 ""
+ tbh_lawkeepers_tech_1:0 "Entraînement des Adjoints"
+ tbh_lawkeepers_tech_1_desc:0 ""
+ tbh_lawkeepers_tech_2:0 "Entraînement du Sheriff"
+ tbh_lawkeepers_tech_2_desc:0 ""
+ tbh_lawkeepers_tech_3:0 "Entraînement du Marshal"
+ tbh_lawkeepers_tech_3_desc:0 ""
 
  #Colorado
- ttm_healthy_warriors:9 "Guerriers en bonne santé"
- ttm_healthy_warriors_desc:9 ""
- ttm_call_of_the_wild:9 "Appel de la Nature"
- ttm_call_of_the_wild_desc:9 ""
- ttm_jurassic_strength:9 "Force Jurassique"
- ttm_jurassic_strength_desc:9 ""
+ ttm_healthy_warriors:0 "Guerriers en bonne santé"
+ ttm_healthy_warriors_desc:0 ""
+ ttm_call_of_the_wild:0 "Appel de la Nature"
+ ttm_call_of_the_wild_desc:0 ""
+ ttm_jurassic_strength:0 "Force Jurassique"
+ ttm_jurassic_strength_desc:0 ""
 
   #Block Tech Tech
  blocked_tech:0 "Non Recherchable"
@@ -262,5 +262,5 @@
  westtek_unlock_tech:0 "Schémas West-Tek"
  robco_unlock_tech:0 "Industries Robco"
 
- mininuke_unlock_tech:9 "Mini-bombe Nucléaire"
- artillery_ammo_unlock_tech:9 "Munitions d'Artillerie"
+ mininuke_unlock_tech:0 "Mini-bombe Nucléaire"
+ artillery_ammo_unlock_tech:0 "Munitions d'Artillerie"
