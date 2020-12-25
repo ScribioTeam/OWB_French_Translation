@@ -42,6 +42,14 @@
  fireteam_equipment_short:0 "Armes à feu"
  fireteam_equipment_desc:0 ""
 
+ radio_equipment:9 "Radios Portables"
+ radio_equipment_short:9 "Radio Portable"
+ radio_equipment_desc:9 ""
+
+ forward_firebase_equipment:9 "Fortifications Mobiles"
+ forward_firebase_equipment_short:9 "Fortifications"
+ forward_firebase_equipment:9 ""
+
  demolitions_equipment:0 "Équipement de démolition"
  demolitions_equipment_short:0 "Équipement de démolition"
  demolitions_equipment_desc:0 ""
@@ -124,7 +132,11 @@
   # Heavy infantry armour
  heavy_infantry_equipment_1:0 "Équipement de contrôle des foules"
  heavy_infantry_equipment_1_short:0 "Equipement pour la foule"
- heavy_infantry_equipment_1_desc:9 "Bien qu'ils ne soient pas aussi sophistiqués que les équipements des forces spéciales, ni aussi avancés que les armures assistées, ces pièces de métal et ces rembourrages attachés au corps sont toujours utiles dans certaines situations. Particulièrement utiles dans leur rôle de suppression de la résistance, ils limitent cependant fortement la mobilité."
+ heavy_infantry_equipment_1_desc:9 "Bien qu'ils ne soient pas aussi sophistiqués que les équipements des forces spéciales, ni aussi avancés que les armures assistées, ces pièces de métal et ces rembourrages attachés au corps sont toujours utiles dans certaines situations. Particulièrement utiles dans le rôle qu'ils sont censés jouer pour supprimer la résistance."
+
+ heavy_infantry_equipment_2:9 "Équipement anti-émeute"
+ heavy_infantry_equipment_2_short:9 "Anti-émeute"
+ heavy_infantry_equipment_2_desc:9 "Bien qu'ils ne soient pas aussi sophistiqués que les équipements des forces spéciales, ni aussi avancés que les armures assistées, ces équipements anti-émeutes en métal d'avant-guerre permettent à nos troupes de faire face efficacement aux insurrections hostiles."
 
  # Energy Equipment
  energy_equipment_1:0 "Fusils énergétiques"
@@ -195,9 +207,14 @@
  horse_equipment_1_desc:9 "Créatures de légende à quatre pattes."
 
  # Power Armour
+
+ power_armor_equipment_0:9 "Armure assistée de patate"
+ power_armor_equipment_0_short:9 "AA Patate"
+ power_armor_equipment_0_desc:9 "Combinaison de patates qui protègent."
+
  power_armor_equipment_1:0 "Armure Assistée récupérée"
  power_armor_equipment_1_short:0 "Armure Assistée récupérée"
- power_armor_equipment_1_desc:0 "Cette armure a été bricolée à partir de pièces détachées et de morceaux brisés."
+ power_armor_equipment_1_desc:9 "Cette armure a été bricolée à partir de pièces détachées et de morceaux brisés."
 
  power_armor_equipment_2:45 "Armure assistée T-45d"
  power_armor_equipment_2_short:0 "T-45d AP"
@@ -840,3 +857,12 @@
  sentinel_command_slave_equipment_1:9 "Esclave du Commandement Sentinel"
  sentinel_command_slave_equipment_1_short:9 "Module de commande"
  sentinel_command_slave_equipment_1_desc:9 "L'équipement nécessaire pour asservir de multiples combinaisons aux ordres d'un seul chef. Permettant une grande autonomie et une utilisation beaucoup plus efficace de la main d'œuvre. Une merveille de l'ingénierie américaine, si seulement elle avait été là plus tôt."
+
+
+ radio_equipment_1:9 "Radio Portable"
+ radio_equipment_1_short:9 "Radio portative"
+ radio_equipment_1_desc:9 "Un récepteur et un émetteur d'ondes radio plutôt rudimentaires, mais les implications tactiques sont immenses."
+
+ forward_firebase_equipment_1:9 "Fortifications Mobiles"
+ forward_firebase_equipment_1_short:9 "Fortifications"
+ forward_firebase_equipment_1_desc:9 "Des barricades qui peuvent être transportées avec une relative facilité, en conjonction avec des armes lourdes, un moyen de défense très efficace."

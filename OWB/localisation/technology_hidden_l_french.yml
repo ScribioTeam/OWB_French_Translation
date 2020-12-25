@@ -25,6 +25,7 @@
  HEADER_TECH_LEVEL:0 "Technologie"
  HEADER_UNIT:0 "Unités"
  HEADER_UNLOCK:0 "Schémas"
+ HEADER_DOCTRINE_TECHS:9 "Doctrine"
 
 
  #Unlocks
@@ -33,6 +34,8 @@
  enclave_pa_unlock_tech:0 "Schémas d'Armure Assistée Avancée"
  high_fighter_unlock_tech:0 "Schémas Xian"
  vertibird_unlock_tech:0 "Schémas Vertibird"
+ grunt_level_radio_unlock_tech:9 "Radios Portables"
+ forward_fire_base_unlock_tech:9 "Fortifications Mobiles"
 
  scav_unlock_weapon_tt:9 "Débloque la technologie d'armement correspondante pour la recherche."
  scav_unlock_business_tt:9 "Débloque l'entreprise d'avant-guerre correspondante."

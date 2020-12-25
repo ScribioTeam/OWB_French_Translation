@@ -121,7 +121,7 @@
  brigades_of_steel_desc:9 "L'Armure Assistée est plus qu'une simple pièce d'équipement, c'est un symbole. Pour nos hommes sur le terrain, servir aux côtés de ceux qui sont en Armure Assistée est une source de grand confort. Ils savent que ces hommes et ces femmes vont se battre contre vents et marées pour s'assurer que leurs homologues de l'infanterie peuvent battre en retraite en toute sécurité."
 
  #----------------------------
- # Localisation Tech Doctrine Grand Army
+ # Localisation Tech Doctrine Grand Army/ Conventional Army
  #----------------------------
  grand_army:0 "Guerre conventionelle"
  grand_army_desc:0 "Nous nous battons pour ne pas décimer une population ou pour attaquer notre ennemi parce qu'il est différent de nous - nous nous battons pour survivre. La guerre n'est pas un mode de vie, c'est une conséquence de la vie, et nous visons à rendre le conflit aussi bref que possible."
@@ -155,6 +155,19 @@
  mass_conscription_desc:9 "Les campagnes peuvent durer des semaines ou des années, et au fil du temps, les pertes commencent à s'accumuler. L'établissement d'une projet civile nous donnerait un bassin de recrutement beaucoup plus vaste avec lequel travailler, mais cela se ferait au détriment de l'efficacité de l'unité."
  ranger_infiltration:0 "Tactiques d'infiltration"
  ranger_infiltration_desc:9 "L'infiltration des zones contrôlées par l'ennemi nous permettra de recueillir des informations sur les positions ennemies et les lignes de ravitaillement. Nous pouvons utiliser ces informations, ainsi que la présence d'alliés en territoire ennemi, pour attaquer avec plus d'effet."
+
+ forward_firebase_unlock_tech_tt:9 "§GCe changement doctrinal nous permettra de construire des fortifications mobiles. Les bases de feu avancées sont une unité de soutien unique, qui offre de grands avantages défensifs au prix de la mobilité, mais nous devrons les construire.§!"
+
+ doctrine_radio_equipment_unlock_tech_tt:9 "§GToutes nos unités d'infanterie et de forces spéciales auront désormais besoin d'équipements radio pour mieux se coordonner entre elles, ce qui augmentera leur capacité de combat, mais nécessitera des investissements supplémentaires dans les usines.§!"
+
+ grunt_level_radio_integration_doctrine_tech:9 "Intégration radio au niveau du soldat"
+ grunt_level_radio_integration_doctrine_tech_desc:9 "Si chaque soldat dispose d'une radio, l'information peut circuler beaucoup plus rapidement et efficacement là où elle est nécessaire. Une structure centralisée de coordination est toujours nécessaire, mais l'augmentation de l'efficacité au combat vaut largement le besoin supplémentaire de matériel supplémentaire."
+ hail_of_lead_doctrine_tech:9 "Puissance de feu suppressive"
+ hail_of_lead_doctrine_tech_desc:9 "Si l'ennemi est constamment sous le feu, et que nos équipes de feu coordonnent leurs barrages pour permettre un flux continu. Alors personne n'oserait jamais lui sortir la tête."
+ forward_fire_base_doctrine_tech:9 "Base de tir avancée"
+ forward_fire_base_doctrine_tech_desc:9 "Des bases avancées qui permettent à nos soldats d'avoir des positions renforcées pour tirer. Chaque unité à qui nous donnons accès à ces fortifications supplémentaires aura une bien meilleure chance de survivre aux tirs, mais aussi de les riposter. Le fait d'emporter votre couverture, lorsqu'il n'y a personne de compétent dans les environs, est d'une aide considérable."
+ rapid_weapon_redeployment_doctrine_tech:9 "Redéploiement rapide"
+ rapid_weapon_redeployment_doctrine_tech_desc:9 "Les bases avancées sont difficiles à délocaliser, mais avec une réflexion suffisante sur les défis logistiques qu'elles posent ? Nous pourrions même les faire bouger au même rythme que le reste de notre armée."
 
  #----------------------------
  # Localisation Tech Doctrine Terror Tactics

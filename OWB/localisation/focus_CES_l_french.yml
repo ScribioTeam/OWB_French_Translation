@@ -1,7 +1,7 @@
 ﻿l_french:
- #-------------------------------------
- # Caesar's Legion
- #-------------------------------------
+  #-------------------------------------
+  # Caesar's Legion
+  #-------------------------------------
  FOCUS_FILTER_GLORY_VULPES:9 "Chemin de Vulpes"
  FOCUS_FILTER_GLORY_MALPAIS:9 "Chemin de Malpais"
  FOCUS_FILTER_GLORY_AURELIUS:9 "Chemin de Aurelius"
@@ -23,7 +23,7 @@
  ces_caesar_son_of_mars:0 "César, fils de Mars"
  ces_caesar_son_of_mars_desc:0 "La volonté de César est la loi. Il est un dieu parmi les hommes, le fils du dieu de la guerre, Mars. Tous dans sa légion vivent pour le servir, comme une lame sert son maître. Il est l'enseignant et le maître des tribus sous son aile - et dans sa conquête, leur a enseigné de nombreuses leçons."
 
- # Alea Iacta Est sub-tree
+  # Alea Iacta Est sub-tree
  ces_alea_iacta_est:0 "Le sort en est jeté"
  ces_alea_iacta_est_desc:0 "Le sort en est jeté, les dés sont jetés, les mots prononcés par l'homonyme de César alors qu'il se tenait contre Rome. Ce sont les mots qui ont commencé l'empire immortel, les mots qui annonceront encore le grand empire de César."
 
@@ -74,11 +74,11 @@
 
  ces_demon_servants_desc:0 "Les soi-disant «Servants de Wyatt» sont un groupe d'élite parmi la tribu de pays de Cochise - quelques-uns des meilleurs éclaireurs et guerriers que la Légion ait rencontrés. Avec l'intégration de Wyatt dans notre panthéon, ils rejoindront notre légion."
 
- # Conqueror of the 86 Sub-tree
+  # Conqueror of the 86 Sub-tree
  ces_conqueror_of_the_86:86 "Les conquérants du 86"
  ces_conqueror_of_the_86_desc:86 "Avec la conquête de ces tribus finales, la Légion est maintenant composée de 86. Un titre impressionnant, l'exploit de conquérir et d'assimiler 86 tribus est sans précédent dans les Terres Désolées."
 
- # Brotherhood sub-tree
+  # Brotherhood sub-tree
  ces_the_brotherhood_of_steel:0 "La Condrérie de l'Acier"
  ces_the_brotherhood_of_steel_desc:0 "La Confrérie de l'acier, en arrière, est une tribut insensé. Ils sont les pires de l'humanité, accapareurs - charognards habillé de harnais de chevalerie. Ils n'offre aucun avenir, ils sont une impasse."
 
@@ -103,7 +103,7 @@
  ces_honour_the_steelbreakers:0 "Honorer les Steelbreakers"
  ces_honour_the_steelbreakers_desc:0 "La légion légendaire qui a réussi à briser le bunker de la Confrérie et à les vaiRNCe au combat est devenue légendaire en tant que 'Steelbreakers'."
 
- # Tribal sub-tree
+  # Tribal sub-tree
  ces_new_judea:87 "La tribu du 87ème"
  ces_new_judea_desc:0 "Le Rome d'autrefois a conquis la province de Judée - maintenant Israël, où est né le christianisme. Les Mormons, construisant un nouveau Canaan en Utah, semblent inviter une Nouvelle Judée sur eux-mêmes."
 
@@ -145,7 +145,7 @@
  ces_upgrade_port:9 "Le Port Ultime"
  ces_upgrade_port_desc:9 "Nous pouvons utiliser Ultima comme un tremplin vers le Pacifique. Peut-être qu'il servira de base pour faire des raids en Nouvelle-Californie."
 
- # Mexico sub-tree
+  # Mexico sub-tree
  ces_mexico_expansion:0 "Expension Mexicaine"
  ces_mexico_expansion_desc:0 "Le sud du territoire de Ceasar est la terre du Mexique. C'est un point primordiale d'expansion, avec de nombreuses tribus et nations faibles.Si l'armée de la Légion se trouvait au Mexique, leur conquête serait facile."
 
@@ -794,7 +794,7 @@
 
 
 
-##### Legion Tree
+  ##### Legion Tree
 
 
 
@@ -915,10 +915,11 @@
  ces_vegas_sucks_desc:9 "Nous avons nos propres villes, bien sûr, mais rien qui se compare à New Vegas."
  ces_triumph:9 "Ave César !"
  ces_triumph_desc:9 "Avec notre conquête de la Nouvelle Californie et de New Vegas, nous sommes les maîtres des Terres Désolées. Commandons une grande œuvre afin que tous la connaissent."
-#### Flags
+  #### Flags
  CES_won_hoover_dam_first:9 "A gagné la première bataille du barrage Hoover"
  subordinate_must_border_us_or_a_country_we_are_at_war_with:9 "§RIls doivent avoir une frontière avec nous ou avec un pays avec lequel nous sommes en guerre.§!"
  subordinates_cant_call_in_legion_proper_tt:9 "§REn tant qu'allié subordonné, nous ne pouvons pas appeler la Légion proprement dite dans l'une de nos guerres.§!"
  subordinates_must_neighbor_eachother_tt:9 "§RLes subordonnés doivent être voisins pour s'appeler les uns les autres.§!"
  we_must_border_them_or_a_country_they_are_at_war_with:9 "§RNous devons être voisin d'eux ou d'un pays avec lequel ils sont en guerre.§!"
  legion_proper_too_busy_to_help_subordinate_tt:9 "§RIls sont trop occupés pour nous aider, un simple subordonné.§!"
+ west_legion_east_legion_cant_call:9 "§RLes légions de l'Ouest et de l'Est ne s'entraident pas.§!"
