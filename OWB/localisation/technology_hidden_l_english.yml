@@ -25,6 +25,7 @@
   HEADER_TECH_LEVEL: "Technology"
   HEADER_UNIT: "Units"
   HEADER_UNLOCK: "Schematics"
+  HEADER_DOCTRINE_TECHS: "Doctrine"
 
 
  #Unlocks
@@ -33,6 +34,8 @@
   enclave_pa_unlock_tech: "Advanced Power Armour Schematics"
   high_fighter_unlock_tech: "Xian Schematics"
   vertibird_unlock_tech: "Vertibird Schematics"
+  grunt_level_radio_unlock_tech: "Portable Radios"
+  forward_fire_base_unlock_tech: "Mobile Fortifications"
 
   scav_unlock_weapon_tt: "Unlocks the corresponding weapon technology for research."
   scav_unlock_business_tt: "Unlocks the corresponding pre-war business."

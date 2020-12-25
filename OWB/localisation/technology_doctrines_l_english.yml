@@ -121,7 +121,7 @@
   brigades_of_steel_desc:0 "Power armour is more than just a piece of equipment—it is a symbol. To our men in the field, serving alongside those in powered armour is a source of great comfort. They know that these men and women will stand and fight in the face of overwhelming odds to ensure their infantry counterparts can retreat safely."
 
  #----------------------------
- # Localisation Tech Doctrine Grand Army
+ # Localisation Tech Doctrine Grand Army/ Conventional Army
  #----------------------------
   grand_army:0 "Conventional Warfare"
   grand_army_desc:0 "We're fighting not to decimate a population, or to strike at our enemy for being different than us—we're fighting to survive. Warfare isn't a way of life, it's a consequence of life, and we aim to make conflict as brief as possible.\n\n"
@@ -155,6 +155,19 @@
   mass_conscription_desc:0 "Campaigns can last anywhere from weeks to years, and over time losses begin to pile up. Establishing a civilian draft would give us a much larger recruitment pool to work with—but it would come at the cost of lowered unit effectiveness."
   ranger_infiltration:0 "Infiltration Tactics"
   ranger_infiltration_desc:0 "Infiltration of enemy controlled areas will allow us to gather reconnaissance, such as information on enemy positions, and supply lines. We can use this information, as well as the presence of allies in enemy territory, to attack with my greater effect."
+
+  forward_firebase_unlock_tech_tt:0 "§GThis doctrinal shift will allow us to build mobile fortifications. Forward firebases are a unique support unit, which gives great defensive benefits at the cost of mobility, we will have to construct them though.§!"
+
+  doctrine_radio_equipment_unlock_tech_tt:0 "§GAll of our infantry and special forces units will now require radio equipment to coordinate better with each other, increasing their combat ability, but requiring further factory investment.§!"
+
+  grunt_level_radio_integration_doctrine_tech:0 "Soldier Level Radio Integration"
+  grunt_level_radio_integration_doctrine_tech_desc:0 "If each and every soldier has a radio, then information can flow far more quickly and effectively to where it is needed. A centralized structure to coordinate is still necessary, but the increase in combat efficiency is more than worth the added need for additional gear."
+  hail_of_lead_doctrine_tech:0 "Suppressive Firepower"
+  hail_of_lead_doctrine_tech_desc:0 "If the enemy is constantly under fire, and our fireteams coordinate their barrages to allow for a continuous stream. Then nobody would ever dare poke his head out."
+  forward_fire_base_doctrine_tech:0 "Forward Fire-Base"
+  forward_fire_base_doctrine_tech_desc:0 "Forward Bases that allow our soldiers to have reinforced positions to fire from. Every unit we give access to these additional fortifications will have a far better chance of not just surviving incoming fire, but also returning it. Taking your cover with you, when there is no suitable one around, helps drastically."
+  rapid_weapon_redeployment_doctrine_tech:0 "Rapid Redeployment"
+  rapid_weapon_redeployment_doctrine_tech_desc:0 "Forward Bases are hard to relocate, but with enough thought put into the logistical challenges of it? We might even be able to have them move at the same pace as the rest of our army."
 
  #----------------------------
  # Localisation Tech Doctrine Terror Tactics

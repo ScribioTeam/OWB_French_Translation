@@ -230,6 +230,9 @@
   chariot_unit_short:0 "Chariots"
   chariot_unit_desc:0 "Legion goes BRRRRRRRRRR"
 
+  forward_firebase_support:0 "Forward Firebase"
+  forward_firebase_support_short:0 "Firebase"
+  forward_firebase_support_desc:0 "Forward Firebase what else should it be?"
   # Support
   light_ship_unit:0 "Light Ship"
   light_ship_unit_short:0 "LS"

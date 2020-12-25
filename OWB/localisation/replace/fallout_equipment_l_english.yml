@@ -42,6 +42,14 @@
   fireteam_equipment_short:0 "Fireteam Weaponry"
   fireteam_equipment_desc:0 ""
 
+  radio_equipment:0 "Portable Radios"
+  radio_equipment_short:0 "Portable Radio"
+  radio_equipment_desc:0 ""
+
+  forward_firebase_equipment:0 "Mobile Fortifications"
+  forward_firebase_equipment_short:0 "Fortifications"
+  forward_firebase_equipment:0 ""
+
   demolitions_equipment:0 "Demolition Equipment"
   demolitions_equipment_short:0 "Demolition Equipment"
   demolitions_equipment_desc:0 ""
@@ -124,7 +132,11 @@
   # Heavy infantry armour
   heavy_infantry_equipment_1:0 "Crowd Control Gear"
   heavy_infantry_equipment_1_short:0 "Crowd Gear"
-  heavy_infantry_equipment_1_desc:0 "While not nearly as sophisticated as special forces equipment, or as advanced as power armour, these pieces of metal and padding strapped to one's body do still help in some situations. Especially useful in its intended role to suppress resistance, it however severely limits mobility."
+  heavy_infantry_equipment_1_desc:0 "While not nearly as sophisticated as special forces equipment, or as advanced as power armour, these pieces of metal and padding strapped to one's body do still help in some situations. Especially useful in its intended role to suppress resistance."
+
+  heavy_infantry_equipment_2:0 "Riot Control Gear"
+  heavy_infantry_equipment_2_short:0 "Riot Gear"
+  heavy_infantry_equipment_2_desc:0 "While not nearly as sophisticated as special forces equipment, or as advanced as power armour, these pieces of metal pre war riot equipment allow our troops to effectively deal with hostile insurgencies."
 
  # Energy Equipment
   energy_equipment_1:0 "Basic Laser Weaponry"
@@ -195,9 +207,14 @@
   horse_equipment_1_desc:0 "Four legged creatures of legend."
 
  # Power Armour
+
+  power_armor_equipment_0:0 "Potatoe Power Armour"
+  power_armor_equipment_0_short:0 "Potatoe-PA"
+  power_armor_equipment_0_desc:0 "Suits of Potatoes that protect."
+
   power_armor_equipment_1:0 "Stripped Power Armour"
   power_armor_equipment_1_short:0 "Stripped-PA"
-  power_armor_equipment_1_desc:0 "Suits of Power Armour stripped of their servos, sometimes even just affixed to regular uniforms as a bulky rudimentary augmentation. Not very efficient for anything but the lightest of combat and training exercises. "
+  power_armor_equipment_1_desc:0 "Suits of Power Armour stripped of their servos, sometimes even just affixed to regular uniforms as a bulky rudimentary augmentation. Not very efficient for anything but the lightest of combat and training exercises."
 
   power_armor_equipment_2:0 "Scavenged Power Armour"
   power_armor_equipment_2_short:0 "Scavenged-PA"
@@ -840,3 +857,12 @@
   sentinel_command_slave_equipment_1:0 "Sentinel Command Slave"
   sentinel_command_slave_equipment_1_short:0 "Command Module"
   sentinel_command_slave_equipment_1_desc:0 "Necessary equipment to slave multiple suits to the commands of a singular leader. Allowing for great autonomy and far more efficient manpower usage. A marvel of US engineering, if only it had been there sooner."
+
+
+  radio_equipment_1:0 "Portable Radio"
+  radio_equipment_1_short:0 "Handheld Radio"
+  radio_equipment_1_desc:0 "A rather crude receiver and sender for radio waves, but the tactical implications are immense."
+
+  forward_firebase_equipment_1:0 "Mobile Fortifications"
+  forward_firebase_equipment_1_short:0 "Fortifications"
+  forward_firebase_equipment_1_desc:0 "Barricades that can be transported with relative ease, in conjunction with heavy weapons, a very effective means of defense."
