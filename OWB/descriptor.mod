@@ -6,7 +6,7 @@ dependencies={
 tags={
 	"Translation"
 }
-picture="thumb.png"
+picture="thumbnail.png"
 supported_version="1.10.*"
 version="3.0.1"
 path="D:/Documents/Paradox Interactive/Hearts of Iron IV/mod/OWBFrenchTranslation"
