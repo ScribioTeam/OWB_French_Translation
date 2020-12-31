@@ -217,18 +217,28 @@ guiTypes = {
 		}
 
 		instantTextBoxType = {
-
 			name ="version_label"
 			position = { x = 35 y = 356 }
 			textureFile = ""
 			font = "hoi_18b"
-			borderSize = {x = 0 y = 0 }
+			borderSize = { x = 0 y = 0 }
 			text = "ALPHA"
 			format = centre
 			maxWidth = 250
 			maxHeight = 20
 		}
 
+		instantTextBoxType = {
+			name ="mod_version_label"
+			position = { x = 35 y = 340 }
+			textureFile = ""
+			font = "hoi_18b"
+			borderSize = { x = 0 y = 0 }
+			text = "mod_version_label_tt"
+			format = centre
+			maxWidth = 250
+			maxHeight = 20
+		}
 
 		ButtonType = {
 			name = "settings_button"
@@ -239,7 +249,6 @@ guiTypes = {
 			clicksound = click_default
 			oversound = ui_menu_over
 		}
-
 
 		ButtonType = {
 			name = "credits_button"
@@ -259,7 +268,6 @@ guiTypes = {
 			buttonFont = "hoi_24header"
 		}
 
-
 		ButtonType = {
 			name = "exit_button"
 			position = { x = 16 y = 260 }
@@ -272,10 +280,9 @@ guiTypes = {
 		}
 
 
-		## facebook etc.
 		ButtonType = {
 			name = "forum_button"
-			position = { x = 39 y = 309 }
+			position = { x=79 y=295}
 			quadTextureSprite ="forum"
 			clicksound = click_default
 			pdx_tooltip = "MENU_FORUM"
@@ -283,7 +290,7 @@ guiTypes = {
 		}
 		ButtonType = {
 			name = "facebook_button"
-			position = { x = 79 y = 309 }
+			position = { x=119 y=295 }
 			quadTextureSprite ="facebook"
 			clicksound = click_default
 			pdx_tooltip = "MENU_DISCORD"
@@ -291,31 +298,15 @@ guiTypes = {
 		}
 		ButtonType = {
 			name = "twitter_button"
-			position = { x = 119 y = 309 }
+			position = { x=159 y=295 }
 			quadTextureSprite ="twitter"
 			#clicksound = click_default
 			pdx_tooltip = "MENU_TWITTER"
 			web_link = "https://twitter.com/owbmod"
 		}
 		ButtonType = {
-			name = "discord_scribio_button"
-			position = { x = 159 y = 309 }
-			quadTextureSprite ="facebook"
-			clicksound = click_default
-			pdx_tooltip = "MENU_DISCORD_SCRIBIO"
-			web_link = "https://discord.gg/dsNEEEU"
-		}
-		ButtonType = {
-			name = "twitter_scribio_button"
-			position = { x = 199 y = 309 }
-			quadTextureSprite ="twitter_scribio"
-			#clicksound = click_default
-			pdx_tooltip = "MENU_TWITTER_SCRIBIO"
-			web_link = "https://twitter.com/scribio_fr"
-		}
-		ButtonType = {
 			name = "privacy_policy_button"
-			position = { x = 239 y = 309 }
+			position = { x=199 y=295 }
 			quadTextureSprite ="privacy"
 			#clicksound = click_default
 			pdx_tooltip = "MENU_PRIVACY_POLICY"
