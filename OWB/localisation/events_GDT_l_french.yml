@@ -36,7 +36,9 @@
   #############################################
  nf_gente.8.t:0 "La Piscine"
  nf_gente.8.d:0 "En sirotant une margarita sur son patio, El Generalissimo ne pouvait s'empêcher de se rendre compte à quel point la vie avait été belle. Il s'était fait des amis, avait beaucoup gagné, en avait perdu, avait regagné la plupart de ce qu'il avait perdu, avait joué à New Vegas, avait visité les ruines de Mexico, et avait vu ce qu'il était encore convaincu d'être un cheval. Et qui savait ce que l'avenir lui réservait ?"
- nf_gente.8.a:0 "Salud!"
+ nf_gente.8.a:9 "Des bateaux de luxe !"
+ nf_gente.8.b:9 "On peut utiliser les avions pour faire du parasailing !"
+ nf_gente.8.c:9 "El Generalissimo pourrait utiliser une voiture toute neuve..."
    #############################################
  nf_gente.9.t:0 "Une Caravane Commerciale de [GDH.Capital.GetName]"
  nf_gente.9.d:0 "[GDH.GetLeader] nous a envoyé un autre convoi, faisant ainsi avancer la cause de la solidarité mexicaine. [GDH.GetLeader] est un fils de pute, c'est notre fils de pute."
@@ -48,7 +50,7 @@
   #############################################
  nf_gente.11.t:0 "Une Offre que Nous Pourrions Refuser, Mais Pourquoi ?"
  nf_gente.11.d:0 "Nous avons reçu une offre inhabituelle du Mexique. Il semble que [GDH.GetLeader] soit prêt à nous vendre des armes. Bien que ce ne soit pas vraiment notre domaine de prédilection, nous pourrions utiliser toutes les armes que nous pouvons obtenir étant donné les menaces auxquelles nous sommes confrontés. Et hé, faites-vous vraiment confiance aux Gun Runners ? Je ne leur fais pas confiance."
- nf_gente.11.a:0 "Pleasure doing business!"
+ nf_gente.11.a:0 "C'est un plaisir de faire des affaires !"
  nf_gente.11.a_tt:0 "\nNous accédons au marché d'El Generalissimo !"
  nf_gente.11.b:0 "Désolé, nous détestons les armements adéquats."
   #############################################
@@ -169,6 +171,10 @@
  nf_gente.42.d:0 "Pour une raison quelconque, César ne souhaite pas nous vendre à bas prix un morceau de territoire important qui restreint notre accès au Pacifique. Mais nous pouvons toujours envisager des alternatives."
  nf_gente.42.a:0 "Punta."
    ##############################################
+ nf_gente.43.t:9 "Cadeaux des Geralissimos"
+ nf_gente.43.d:9 "[GDH>GetLeader] nous fournit des armes en échange de l'argent que nous avons emprunté à notre peuple sous la menace des armes. Hourra !"
+ nf_gente.43.a:9 "Bien."
+   ##############################################
   ### Ideas
  gdh_ruthless:0 "Un Tempérament de Feu"
  gdh_stoic:0 "Une Quille Équitable"
@@ -214,6 +220,7 @@
  gdh_sell_equipment14:0 "Production d'Armes"
  gdh_sell_equipment15:0 "Production d'Armes"
  gdh_sell_equipment16:0 "Production d'Armes"
+ gdh_standing_army:9 "Armée permanente"
   #### Decisions
  GDH_villa_construction:0 "La villa du Généralissimo"
  GDH_villa_construction_desc:0 "El Généralissimo a décidé de construire une maison pour les âges pour sa femme et ses maîtresses. Mais tout se passera-t-il comme prévu ? \n\n Actuellement, El Generalissimo est [generalissimostatus]."

@@ -97,7 +97,7 @@ l_french:
  string_trade_node_get_route_three:0 "\nPremière route pour : §Y[?temp_trade_node_1.GetName]§! \nDeuxième route pour : §Y[?temp_trade_node_2.GetName]§! \nTroisième route pour : §Y[?temp_trade_node_3.GetName]§!"
 
  TRADE_ROUTE_BUTTON_MAX_TOOLTIP:0 "Route de §Y[?node_map_selector.GetName]§! non utilisée"
- AVAILABLE_COUNTRY_TRADE_SLOTS:0 "Route from node not in use"
+ AVAILABLE_COUNTRY_TRADE_SLOTS:0 "Itinéraire à partir d'un nœud non utilisé"
  TRADE_ROUTE_BUTTON_MAX_COUNTRY_TOOLTIP:0 "Doit avoir moins de routes dans le pays que la limite de [GetTradeCountryLimitCalculation]"
  AVAILABLE_COUNTRY_TRADE_SLOTS:0 "\nLimite actuelle de route du pays : [?temp_num_nodes|0+]\n Routes actuelles : [?ROOT.current_trade_routes|0+]"
  SEND_TRADE_NODE_BUTTON_TRIGGER_TT:0 "Pas de route actuellement entre [?node_map_selector.GetName] et [?trade_route_selector_target.GetName]"
