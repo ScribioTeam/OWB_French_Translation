@@ -8,7 +8,7 @@
   bhd.2.d:0 "For some time, we have had knowledge of some great power in the harsh wastelands East of the Colorado River. From traders arriving from Utah and Arizona, we even gleamed the area appears to be dominated by some batshit, neo-Roman cultists who swear loyalty to their 'Caesar' and crucify those that oppose them. However, we have for a while thought little of them: they appear to have few major cities to their name, and mostly disregard modern technology in favour of more primitive melee equipment. Just another raider band, it seemed. \n\nIt appears recent events have forced us to reconsider that evaluation, however. Over the last few months, we've been spotting more and more scouts glad in similar armour appearing and disappearing. Last week, a division made camp within view of our patrols. Today, a company arrived, with more seemingly on their way. Why are they here? Well, there's only one thing worth taking in the area: the Hoover Dam.We must prepare our defences. Urgently."
   bhd.2.a:0 "Alert all our units. Prepare to defend the Dam."
   bhd.4.t:0 "The Battle for the Hoover Dam"
-  bhd.4.d:0 "The Hoover Dam, stretching across the mighty Colorado, has become the battleground between two vast forces today. On orders directly from Caesar, the Malpais Legate himself is leading a massive force of Legionnaires and tribal auxiliaries in an attempt to seize the so-called 'Old World Wall' from the hands of the New California Republic, who have held it since the 2274 Treaty of New Vegas. The Legion, aided by its superior numbers and fierce obedience to orders, seems to have the upper hand in the clash, but will need to carry any momentum it gainst from breaking through at the Dam to secure it from counter attack. \n\nIf they should succeed, the Mojave and the lights of Vegas will lay open for Caesar to grab. Should they fail, the Malpais Legate may find himself in a difficult spot, and the NCR will retain their hold on the Mojave for a little while longer."
+  bhd.4.d:0 "The Hoover Dam, stretching across the mighty Colorado, has become the battleground between two vast forces today. On orders directly from Caesar, the Malpais Legate himself is leading a massive force of Legionnaires and tribal auxiliaries in an attempt to seize the so-called 'Old World Wall' from the hands of the New California Republic, who have held it since the 2274 Treaty of New Vegas. The Legion, aided by its superior numbers and fierce obedience to orders, seems to have the upper hand in the clash, but will need to carry any momentum it gains from breaking through at the Dam to secure it from counter attack. \n\nIf they should succeed, the Mojave and the lights of Vegas will lay open for Caesar to grab. Should they fail, the Malpais Legate may find himself in a difficult spot, and the NCR will retain their hold on the Mojave for a little while longer."
   bhd.4.a:0 "The savages will be repelled. For the Republic!"
   bhd.4.b:0 "Nobody will stop Caesar's march to his New Rome."
   bhd.4.c:0 "The battle will shape the Mojave, no matter the outcome."
@@ -92,6 +92,10 @@
   sbhd_attack_countdown:0 "The Second Attack Cometh..."
   sbhd_ncr_mob:0 "The NCR Mobilises!"
 
+  ### Failure
+  bhd.153.t:0 "Divided They Fall"
+  bhd.153.d:0 "The Mojave Brotherhood and Mojave Territories continue to bleed each other dry, something that is only possible because both sides are led by fools. We would be foolish not to attack them both now, until the only sound left is the laughter of the gods."
+  bhd.153.a:0 "They die too easily."
 
   ### Flags
   fbhd_mot_hold_dam: "§MThe Legion Did Not Even Breach the Dam§!"

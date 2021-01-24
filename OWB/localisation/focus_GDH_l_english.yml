@@ -13,6 +13,7 @@
 
   gdh_bandit_contracts:0 "Baja Contracts"
   gdh_bandit_contracts_desc:0 "The freedom loving peoples of Baja are eager to buy our weapons to resist NCR aggression.  And NCR defense against their aggression."
+  gdh_guns_for_hire: "Guns for Hire"
 
   gdh_panchos_pride:0 "Pancho's Pride"
   gdh_panchos_pride_desc:0 "Pancho Villa, leader of [BVC.GetName], has asked for our assistance building a great wall to protect his land against the NCR.  We are glad to assist!"
@@ -99,7 +100,7 @@
   gdh_food_for_most_desc:0 ""
 
   gdh_peace_of_tyranny:0 "The Peace of Tyranny"
-  gdh_peace_of_tyranny_desc:0 ""
+  gdh_peace_of_tyranny_desc:0 "Whatever you think of El Generalissimo's vices, none can deny he's a firm, just ruler. He is so popular that even the opposition votes for him! Those that survive, anyway."
 
   gdh_gulf_economy:0 "Gulf Economy"
   gdh_gulf_economy_desc:0 ""
@@ -125,15 +126,15 @@
   gdh_one_step_further:0 "One Step Further"
   gdh_one_step_further_desc:0 "The Vault has taught us much, but it creates several potential opportunities.  "
 
-  gdh_bodyguards:0 "Personal Bodyguards"
-  gdh_bodyguards_desc:0 "El Generalissimo is a good friend to his soldiers, which is why he's faced so few coup attempts. "
+  gdh_bodyguards:0 "Some Time on the Yacht"
+  gdh_bodyguards_desc:0 "El Generalissimo is a good friend to his soldiers, which is why he's faced so few coup attempts. Nothing will destress him like some time in the Sea of Cortez to unwind."
   gdh_bodyguards_tt: "\nUnlocks a decision to go drinking with El Generalissimo's bodyguards to de-stress."
 
-  gdh_recruitment_benefits:0 "Recruitment Benefits"
-  gdh_recruitment_benefits_desc:0 "Serve [GDH.GetLeader]! It's a life of adventure, where you will journey to interesting places, meet interesting people, and kill them lest their notion of inalienable rights destroy the reign of our beloved tyrant. And did I mention the booze ration?"
+  gdh_recruitment_benefits:0 "Gone Fission"
+  gdh_recruitment_benefits_desc:0 "Sometimes you need to kick back on your yacht, crack a cold one open, and fire depth charges at some mirelurks. [GDH.GetLeader] can learn a thing or two while doing so."
 
-  gdh_population_conscription:0 "Host A Women's Conference"
-  gdh_population_conscription_desc:0 "Just because El Generalissimo loves a beautiful woman doesn't mean he's sexist. Why, some of his best henchpersons are women! The Villa can be used to host conferences to promote the role of women in the Wasteland. This will encourage even more women to join his army."
+  gdh_population_conscription:0 "Host a Women's Conference on the Yacht"
+  gdh_population_conscription_desc:0 "Just because El Generalissimo loves a beautiful woman doesn't mean he's sexist. Why, some of his best henchpersons are women! There's no harm in hosting a women's conference on the yacht, and perhaps his little Mijita  will learn a thing or two."
 
   gdh_personal_training:0 "Personal Training"
   gdh_personal_training_desc:0 "El Generalissimo has been content to sit around for too long, but it's time to get back into shape. The villa's going to have a top of the line crossfit gym!"

@@ -36,7 +36,9 @@
   #############################################
   nf_gente.8.t: "The Pool!"
   nf_gente.8.d: "As El Generalissimo sipped a margarita on his patio, he could not help reflect how good life had been. He had made friends, won much, lost some, won most of what he lost back, gambled in New Vegas, toured the ruins of Mexico City, and seen what he was still convinced was a horse. And who knew what the future would hold?"
-  nf_gente.8.a: "Salud!"
+  nf_gente.8.a: "Some fancy ships!"
+  nf_gente.8.b: "We can use the planes to go parasailing!"
+  nf_gente.8.c: "El Generalissimo could use a brand new car..."
    #############################################
   nf_gente.9.t: "A Trade Caravan from [GDH.Capital.GetName]"
   nf_gente.9.d: "[GDH.GetLeader] has sent another convoy to us, furthering the cause of Mexican solidarity. [GDH.GetLeader] is a son of a bitch, he's our son of a bitch."
@@ -169,6 +171,10 @@
   nf_gente.42.d: "For some reason, Caesar does not wish to sell us a significant piece of territory that restricts our access to the Pacific for a low, low price. But we can always consider alternatives."
   nf_gente.42.a: "Punta."
    ##############################################
+  nf_gente.43.t: "Generalissimos Bearing Gifts"
+  nf_gente.43.d: "[GDH>GetLeader] is providing us guns in exchange for money we borrowed from our people at gunpoint. Hurray!"
+  nf_gente.43.a: "Nice."
+   ##############################################
   ### Ideas
   gdh_ruthless: "A Fiery Temper"
   gdh_stoic: "An Even Keel"
@@ -214,6 +220,7 @@
   gdh_sell_equipment14: "Arms Production"
   gdh_sell_equipment15: "Arms Production"
   gdh_sell_equipment16: "Arms Production"
+  gdh_standing_army: "Standing Army"
   #### Decisions
   GDH_villa_construction: "El Generalissimo's Villa"
   GDH_villa_construction_desc: "El Generalissimo has decided to build a home for the ages for his wife and mistresses. But will it all go according to plan? \n\n Currently, El Generalissimo is [generalissimostatus]."
