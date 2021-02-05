@@ -1,59 +1,59 @@
-﻿l_french:
- ttm_prepare_the_nursery_for_habitation:0 "Prepare the Nursery for Habitation"
- ttm_prepare_the_nursery_for_habitation_desc:0 "Normally, we only had a few select souls live within the Nursery: The honoured of the tribe. Now? We need to prepare the Nursery for wider occupancy! We will need to establish space for living quarters, temples and nurseries!"
+l_french:
+ ttm_prepare_the_nursery_for_habitation:0 "Préparer la Pépinière pour l’Habitation"
+ ttm_prepare_the_nursery_for_habitation_desc:0 "Normalement, nous n'avions que quelques âmes choisies qui vivaient dans la Pépinière: les honorés de la tribu. Maintenant? Nous devons préparer la Pépinière à une plus grande occupation! Nous devrons créer des espaces pour les habitations, les temples et les chambres d'enfant!"
 
- ttm_a_railroad_to_paradise:0 "A Railroad to Paradise"
- ttm_a_railroad_to_paradise_desc:0 "We need to start moving slaves out of Lanius's lands - they are being treated far too unfairly!"
- ttm_ncr_embassy_decision:0 "Establish NCR Embassy"
- ttm_ncr_embassy_decision_desc:0 "We have heard many stories of the "NCR" from our time interacting with the Legion. Perhaps its a good idea to send a expedition out west and see what they are all about?"
- ncr_benefits_tt:0 "§gThe Twin Mothers and NCR begin a series of beneficial trades, exchanging volunteers, resources and knowledge for the betterment of each other.§!"
- every_ncr_member_tt:0 "We, as well as every member of the §YNCR§!"
+ ttm_a_railroad_to_paradise:0 "Un Chemin de Fer vers Paradise"
+ ttm_a_railroad_to_paradise_desc:0 "Nous devons commencer à déplacer les esclaves hors des terres de Lanius. - ils sont traités beaucoup trop injustement!"
+ ttm_ncr_embassy_decision:0 "Créer une Ambassade de la RNC"
+ ttm_ncr_embassy_decision_desc:0 "Nous avons entendu de nombreuses histoires sur la "RNC" lors de notre époque en interaction avec la Légion. Peut-être serait-il bon d’envoyer une expédition dans l’Ouest pour voir de quoi il s’agit?"
+ ncr_benefits_tt:0 "§gLes Twin Mothers et la RNC commencent une série de métiers bénéfiques, en échangeant des bénévoles, des ressources et des connaissances pour le bien de chacun.§!"
+ every_ncr_member_tt:0 "Nous, ainsi que tous les membres de la §YRNC§!"
 
- ttm_betray_lanius:0 "Betray Lanius"
- ttm_betray_lanius_desc:0 "Ultimately, Lanius is a bully.\nAll evil men, cruel hearted monsters and sadists need to get what is coming to them. Lanius will fall and be forgotten as another stepping stone to progress the Wasteland had to take."
+ ttm_betray_lanius:0 "Trahir Lanius"
+ ttm_betray_lanius_desc:0 "En fin de compte, Lanius est une brute.\nATous hommes mauvais, les monstres au cœur cruel et les sadiques ont besoin d'obtenir ce qui leur arrive. Lanius tombera et sera oublié comme un autre tremplin que les Terres Désolées ont dû prendre pour progresser."
 
- ttm_simulation_training:0 "Simulation Training"
+ ttm_simulation_training:0 "Formation par Simulation"
  ttm_simulation_training_desc:0 ""
 
- ttm_satellite_effects_loc:0 "\n    §G+[?TTM.ttm_satellite_network_tt]%§! §WDecryption Factor§!\n    §G+[?TTM.ttm_satellite_network_tt]%§! §WAir Interception Attack Factor§!\n    §G+[?TTM.ttm_satellite_network_tt]%§! §WAir Range Factor§!\n    §G[?TTM.ttm_satellite_network_tt_inverse]%§! §WAir Accidents Factor§!\n    §G[?TTM.ttm_satellite_network_tt_inverse]%§! §WAir Weather Penalty Factor§!\n    §G[?TTM.ttm_satellite_network_tt_inverse]%§! §WAir Night Penalty Factor§!"
+ttm_satellite_effects_loc:0 "\n    §G+[?TTM.ttm_satellite_network_tt]%§! §WFacteur de Décryptage§!\n    §G+[?TTM.ttm_satellite_network_tt]%§! §WFacteur d'Attaque d'Interception Aérienne§!\n    §G+[?TTM.ttm_satellite_network_tt]%§! §WFacteur de Portée Aérienne§!\n    §G[?TTM.ttm_satellite_network_tt_inverse]%§! §WFacteur d'Accidents Aériens§!\n    §G[?TTM.ttm_satellite_network_tt_inverse]%§! §WFacteur de Pénalité pour les Conditions Atmosphériques§!\n    §G[?TTM.ttm_satellite_network_tt_inverse]%§! §WFacteur de Pénalité Aérienne de Nuit§!"
 
- ttm_road_building:0 "Road Building"
- ttm_road_building_desc:0 "Continuing our roads project will bring our people together."
+ ttm_road_building:0 "Construction de Routes"
+ ttm_road_building_desc:0 "Poursuivre notre projet de routes permettra de rassembler nos gens."
 
- development_project_la_garita_caldera:0 "The Garita Caldera"
- development_project_la_garita_caldera_desc:0 "The Garita Caldera's steam can be a valuable tool, if we have the courage to use it."
+ development_project_la_garita_caldera:0 "La Garita Caldera"
+ development_project_la_garita_caldera_desc:0 "La vapeur de la Garita Caldera peut être un outil précieux, si nous avons le courage de l’utiliser."
 
- development_project_la_garita_caldera_wtt:0 "The Garita Caldera"
- development_project_la_garita_caldera_wtt_desc:0 "The Garita Caldera's steam can be a valuable tool, if we have the courage to use it."
+ development_project_la_garita_caldera_wtt:0 "La Garita Caldera"
+ development_project_la_garita_caldera_wtt_desc:0 "La vapeur de la Garita Caldera peut être un outil précieux, si nous avons le courage de l’utiliser."
 
- ttm_syndicate_councils:0 "Syndicate Councils"
- ttm_syndicate_councils_desc:0 "By establishing local rulership communities we can better control our vast nation."
+ ttm_syndicate_councils:0 "Conseils de Syndicats"
+ ttm_syndicate_councils_desc:0 "En établissant des communautés de gouvernement local, nous pouvons mieux contrôler notre vaste nation."
 
- ttm_automated_hospitals:0 "Automated Hospitals"
- ttm_automated_hospitals_desc:0 "We need to get medical aid out to those who need it."
+ ttm_automated_hospitals:0 "Hopitaux Automatisés"
+ ttm_automated_hospitals_desc:0 "Nous devons apporter de l'aide médicale à ceux qui en ont besoin."
 
- ttm_guns_for_caps_decision:0 "Guns for Caps"
- ttm_guns_for_caps_decision_desc:0 "Now that we control this territory it doesn't have to be as armed as it is now. By demilitarizing the local populace we can ensure this areas safety."
+ ttm_guns_for_caps_decision:0 "Des Armes pour des Capsules"
+ ttm_guns_for_caps_decision_desc:0 "Maintenant que nous contrôlons ce territoire, il n’a pas besoin d’être aussi armé qu’aujourd’hui. En démilitarisant la population locale, nous pouvons assurer la sécurité de ces zones."
 
- ttm_moonlight_schools_decision:0 "Moonlight Schools"
- ttm_moonlight_schools_decision_desc:0 "We need to better educate our people! By going out and building schools we can ensure that our people are well educated."
+ ttm_moonlight_schools_decision:0 "Écoles au Clair de Lune"
+ ttm_moonlight_schools_decision_desc:0 "Nous devons mieux éduquer notre peuple! En sortant et en construisant des écoles, nous pouvons faire en sorte que notre peuple soit bien instruit."
 
- ttm_satellite_hacking:0 "Space Survey"
- ttm_deep_space_satellite_hacking:0 "Deep Space Survey"
- ttm_satellite_hacking_desc:0 "§WCurrent Satellite Network Size:§! §Y[?TTM.ttm_satellite_network]\n  Current Benefits:§![TTM.ttm_satellite_effects_scripted_localization]\n\n  §YMission Report From Last Survery:§! [TTM.ttm_satellite_mission_report_scripted_localization]"
- ttm_deep_space_satellite_hacking_desc:0 "§WCurrent Satellite Network Size:§! §Y[?TTM.ttm_satellite_network]\n  Current Benefits:§![TTM.ttm_satellite_effects_scripted_localization]\n\n  §YMission Report From Last Survery:§! [TTM.ttm_satellite_mission_report_scripted_localization]"
+ ttm_satellite_hacking:0 "Enquête Spatiale"
+ ttm_deep_space_satellite_hacking:0 "Enquête de l’Espace Profond"
+ ttm_satellite_hacking_desc:0 "§WTaille Actuelle du Réseau de Satellites:§! §Y[?TTM.ttm_satellite_network]\n  Avantages Actuels:§![TTM.ttm_satellite_effects_scripted_localization]\n\n  §YRapport de Mission de la Dernière Enquête:§! [TTM.ttm_satellite_mission_report_scripted_localization]"
+ ttm_deep_space_satellite_hacking_desc:0 "§WTaille Actuelle du Réseau de Satellites:§! §Y[?TTM.ttm_satellite_network]\n  Avantages Actuels:§![TTM.ttm_satellite_effects_scripted_localization]\n\n  §YRapport de Mission de la Dernière Enquête:§! [TTM.ttm_satellite_mission_report_scripted_localization]"
 
- ttm_no_increase_in_network_tt:0 "finding only derelict and ruinous satellites of §gno use.§!"
- ttm_increase_sattelite_network_tt:0 "increasing our §YSatellite Network§!'s size by §G+[?TTM.ttm_satellites_to_add_temp]§!\n"
- ttm_reduce_satellite_network_tt:0 "reducing our §YSatellite Network§!'s size by §R-[?TTM.ttm_satellites_to_add_temp]§!\n"
+ ttm_no_increase_in_network_tt:0 "ne trouver que les satellites abandonnés et ruineux qui§gne servent à rien.§!"
+ ttm_increase_sattelite_network_tt:0 "augmenter la taille de notre §YRéseau Satellitaire§!de §G+[?TTM.ttm_satellites_to_add_temp]§!\n"
+ ttm_reduce_satellite_network_tt:0 "réduire la taille de notre §YRéseau Satellitaire§!de §R-[?TTM.ttm_satellites_to_add_temp]§!\n"
 
- ttm_mission_report_no_change:0 "§gWe found no orbital satellites of value§!"
- ttm_mission_report:0 "§WOur satellite network changed by§! §G+[?TTM.ttm_last_satellites_to_add]§!"
+ ttm_mission_report_no_change:0 "§gNous n’avons trouvé aucun satellite orbital de valeur§!"
+ ttm_mission_report:0 "§WNotre réseau satellite a changé par§! §G+[?TTM.ttm_last_satellites_to_add]§!"
 
- ttm_satellite_decay_tt:0 "\n  §WOrbit Decay Rate:§! §R[?TTM.ttm_satellite_network_decay_rate]%§!\n   Every year, our satellite network will suffer decay due to solar radiation, orbit decay and debris collisions.\n   The rate of decay increases as our network grows larger."
+ ttm_satellite_decay_tt:0 "\n  §WTaux de Décomposition de l'Orbite:§! §R[?TTM.ttm_satellite_network_decay_rate]%§!\n   Chaque année, notre réseau satellitaire va subir une dégradation due au rayonnement solaire, à la désintégration de l’orbite et aux collisions avec des débris.\n   Le taux de décomposition augmente à mesure que notre réseau s’agrandit."
 
  ttm_future_airforce_aerial_warfare_doctrine:0 "§WA la technologie§!  §YDoctrine de Guerre Aérienne§!  §YFuture Force Aérienne§!"
- ttm_diana_hacking_tt:0 "§gDiana attempts to gain control of a number of satellites to add to her current satellite network network through methods such as enigma cipher cracking, pre-war military operational guide analysis and advanced trigonometry.§!\n"
+ ttm_diana_hacking_tt:0 "§gDiana tente de prendre le contrôle d’un certain nombre de satellites afin de les ajouter à son réseau actuel de satellites grâce à des méthodes telles que la déchiffrement des énigmes, l’analyse des guides opérationnels militaires d’avant-guerre et la trigonométrie avancée.§!\n"
 
- ttm_peace_treaty_with_lanius:0 "Peace Treaty With Lanius"
- ttm_peace_treaty_with_lanius_desc:0 "If we can push back against the Legion, maybe we can get them to agree to a peace deal?"
+ ttm_peace_treaty_with_lanius:0 "Traité de Paix Avec Lanius"
+ ttm_peace_treaty_with_lanius_desc:0 "Si on peut repousser la Légion, peut-être qu’ils accepteront un accord de paix?"
