@@ -16,13 +16,7 @@ Ce dépôt a pour but de proposer une traduction française de ce mod.
 
 Si vous ne comptez pas améliorer par vous même la traduction, [installez la traduction améliorée en vous abonnant au workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1493571954).
 
-Si vous comptez modifier la traduction
-- [créez un fork de ce projet](https://help.github.com/articles/fork-a-repo/)
-- Clonez le projet
-- SOLUTION 1. Pour Windows : double-cliquez sur create_symbolic_link.bat. Pour Linux ou Mac, exécutez create_symbolic_link.sh (n'oubliez pas de faire chmod +x pour le rendre exécutable).
-- SOLUTION 2. A chaque fois que vous voulez tester le projet, utilisez l'exporter
-
-Ainsi votre dépôt local peut être lu par le jeu et vous pouvez tester en direct les modifications du jeu.
+Si vous comptez modifier la traduction, suivez ![cette documentation](docs/SETUP.md).
 
 
 ## Contribuer à la traduction française

@@ -59,4 +59,16 @@ You will see the mod in the HoI4 launcher with an hardrive image or icon (instea
 
 You can now make changes in the cloned mod (the directory which was the local path in the cloning windows, by default Documents/GitHub/OWB_French_Translation).
 
-> TODO complete this section
+When your changes work you must commit them. The numbers refers to the following image.
+
+1. Check the files to add;
+2. Click on each file and click on lines to do not include (the included lines are in blue). The lines in red are deleted and the lines in green added;
+3. Describe in 50 characters the changes;
+4. Describe with more details the changes;
+5. Click on the commit button.
+
+![Commit in GitHub Desktop](images/setup_9.jpg)
+
+Finally you need to click on the button with an upper arrow to push it on internet.
+
+Nota: You should also click on this button when there is an bottom arrow to get the contributions from other people.
