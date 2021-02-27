@@ -30,8 +30,8 @@
   technocracy_desc:0 "This faction is ruled through an inner circle of experts in various intellectual fields who make decisions and elect a council leader to guide them."
 
 #Ruler
-  theocracy:0 "Theocracy"
-  theocracy_desc:0 "This faction is ruled by a messianic figure, who is the head of the nation's religious and political life."
+  _theocracy:0 "Theocracy"
+  _theocracy_desc:0 "This faction is ruled by a messianic figure, who is the head of the nation's religious and political life."
   oligarchy:0 "Oligarchy"
   oligarchy_desc:0 "This faction is ruled by it's richest who buy their power through wealth."
   warlordship:0 "Warlordship"

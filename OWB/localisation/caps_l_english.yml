@@ -267,7 +267,7 @@
     caps_flavor_events.3.a: "Where are 'RAID'ers when you need them"
 
     caps_flavor_events.4.t: "Caravan Ambush"
-    caps_flavor_events.4.d: "A trade caravan delievering goods between settlements near [event_target.raided_state.GetName]has been brutally ambushed. Not only did the brigands hold up the brahmin, they slaughtered everyone as well. \n\nGuards are apprehensive to accompany more caravans, and merchants do not want to lose more goods. A pursuit may steady their minds, but the blood has already dried."
+    caps_flavor_events.4.d: "A trade caravan delievering goods between settlements near [event_target.raided_state.GetName] has been brutally ambushed. Not only did the brigands hold up the brahmin, they slaughtered everyone as well. \n\nGuards are apprehensive to accompany more caravans, and merchants do not want to lose more goods. A pursuit may steady their minds, but the blood has already dried."
     caps_flavor_events.4.a: "Nothing can be done now"
     caps_flavor_events.4.b: "We can at least try"
 
