@@ -142,3 +142,7 @@
  nf_brotherhood.39.t:0 "Rejeté par [From.GetNameDef]"
  nf_brotherhood.39.d:0 "Après un délai inattendu, les émissaires de [From.GetNameDef] sont revenus avec une réponse de [From.GetLeader]. La réponse est non. Si nous devons soumettre le [From.GetNameDef], nous devons le faire de force."
  nf_brotherhood.39.a:0 "Ainsi soit-il."
+
+ nf_brotherhood.40.title:0 "Combinaisons d'Armure Assistée de la Confrérie"
+ nf_brotherhood.40.desc:0 "Après que la nouvelle de notre victoire dans le Mojave ait atteint la [BOS.GetName], ils nous ont envoyé du ravitaillement ! Ces fournitures comprenaient plus de combinaisons d'armures assistées T-51b pour nous aider à contrôler le Mojave et à faire avancer la doctrine de la Confrérie."
+ nf_brotherhood.40.a:0 "Ad Victoriam !"

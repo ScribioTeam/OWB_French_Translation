@@ -1,10 +1,10 @@
 ﻿l_french:
-    # Generic Trigger Tooltips - all come in pairs, one for the trigger and one for an effect #
- is_advanced_in_any_cat_tt:0 "We are §Oscientific§! in any of our tech levels"
- is_advanced_in_any_cat_avail:0 "§gThis choice is available because we are §Oscientific§! in any of our tech levels:§!\n\n"
- has_cruel_tyrant_tt:0 "Our country leader is a §OCruel Tyrant§!"
- has_cruel_tyrant_avail:0 "§gThis choise is available because our country leader is a §OCruel Tyrant§!:§!\n\n"
- has_expert_negotiator_tt:0 "Our country leader is an §OExpert Negotiator§!"
- has_expert_negotiator_avail:0 "§gThis choise is available because our country leader is an §OExpert Negotiator§!:§!\n\n"
- has_backstabber_tt:0 "Our country leader is a §OBackstabber§!"
- has_backstabber_avail:0 "§gThis choise is available because our country leader is an §OBackstabber§!:§!\n\n"
+  # Generic Trigger Tooltips - all come in pairs, one for the trigger and one for an effect #
+ is_advanced_in_any_cat_tt:0 "Nous sommes §Oscientifiques§! dans n'importe lequel de nos niveaux technologiques"
+ is_advanced_in_any_cat_avail:0 "§gCe choix est possible parce que nous sommes §Oscientifiques§! dans n'importe lequel de nos niveaux technologiques :§!\n\n"
+ has_cruel_tyrant_tt:0 "Le dirigeant de notre pays est un §OTyran Cruel§!"
+ has_cruel_tyrant_avail:9 "§gCe choix est possible parce que le dirigeant de notre pays est un §OTyran Cruel§! :§!\n\n"
+ has_expert_negotiator_tt:0 "Le dirigeant de notre pays est un §ONégotiateur Expert§!"
+ has_expert_negotiator_avail:9 "§gCe choix est possible parce que le dirigeant de notre pays est un §ONégotiateur Expert§!:§!\n\n"
+ has_backstabber_tt:0 "Le dirigeant de notre pays est un §OBackstabber§!"
+ has_backstabber_avail:9 "§gCe choix est possible parce que le dirigeant de notre pays est un §OBackstabber§!:§!\n\n"
