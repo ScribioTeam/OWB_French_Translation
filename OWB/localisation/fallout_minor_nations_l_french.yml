@@ -1,26 +1,30 @@
 ﻿l_french:
-  ##########################
-  ##### SHARED GENERIC IDEAS
-  ##########################
+  ## Generic
 
+  # Categories
+ national_achievements:9 "National Achievements"
+ national_achievements_desc:9 "Every nation in this world wants to make a name for itself and build a legacy for decades to come. Only few will survive long enough to make it so."
+
+  # Ideas
  research_bonus:0 "Effort de Recherche"
  research_bonus_desc:0 ""
  neutrality_owb:0 "Neutralité"
  neutrality_owb_desc:0 ""
-
  sun_victors_against_pallus:9 "Victors Against Paullus"
  sun_victors_against_pallus_desc:9 "Paullus was seen as unstoppable before he tried to run his cohorts into Sun Dogs territory. The Centurion's chariots passed through a narrow mountain passage - feeling themselves invincible after their previous victories.\nA short, if decisive battle would follow - Gold-hound proving to Paullus that Colorado was out of his reach. Even today the legacy of Paullus's failed invasion still lingers in the minds of the Sun Dogs - the tribe having reversed engineered the Legionary chariots - making them their own!"
 
   #########
   ##### UFO
   #########
-
+  ## Nation-Specific
+  #UFO
  zetan:0 "Zétans !"
  zetan_desc:0 "Des entités très avancées, de l'autre monde, avec des capacités qui pourraient aussi bien être magiques pour les occupants des Terres Désolées."
 
   #STR
  str_watchers_of_the_stars:0 "Observateurs des Étoiles"
  str_watchers_of_the_stars_desc:0 "Les Observateurs d'Étoiles observent les étoiles depuis trois cents ans.\nNés d'une communauté locale d'observateurs d'étoiles, les observateurs d'étoiles ont toujours su que quelque chose les regardait en retour. Ils se délectent d'une culture qui parle de voyageurs, de mystères et d'énigmes cachés dans le ciel de la nuit."
+
   #EDN
  the_corpse:0 "Le Cadavre"
  the_corpse_desc:0 "Il y a plusieurs années, Reese, un chef de guerre Cipher a réussi à voler un G.E.C.K. dans un endroit connu sous le nom de \"La Crèche\". Il l'a utilisé à travers les Terres Désolées, transformant une longue étendue de terre du centre du Colorado au Golfe du Mexique en de denses jungles mutantes. Si Scarlet ne l'avait pas arrêté, il aurait peut-être pu transformer toute la terre désolée en son paradis tropical infernal.\nCes dernières années, alors que la majeure partie de la mutation autour de l'obus bombardé de Corpus Christi - où a eu lieu la bataille finale entre Scarlet et Reese - a été nettoyée, il reste la question du G.E.C.K. lui-même.\nNous n'avons jamais pu le détruire, ainsi - Scarlet l'a amené dans un endroit isolé connu sous le nom d'Eden et avec un petit contingent de scouts de la Confrérie, ils se sont isolés pour empêcher l'influence du G.E.C.K. de corrompre quoi que ce soit d'autre."
@@ -40,8 +44,10 @@
  syilx_captikwl_desc:0 "captíkwł sont des enseignements sur les principes, les coutumes, les valeurs, les lois et les structures de Sylix qui informent sur les responsabilités et les droits des Sylix sur leur terre. Ils servent à la fois de lois naturelles et font partie d'un processus de renouvellement et de revitalisation culturelle. Les lois enseignent au peuple Syilx comment survivre sur leurs terres et sont transmises à chaque jeune de la nation."
 
   #HAI
- haida_raven_and_eagle:0 "Le Corbeau et l'Aigle"
- haida_raven_and_eagle_desc:0 "La vie sociale des Haïdas est largement divisée en deux parties : le Corbeau et l'Aigle. La moitié d'une famille détermine le côté du village où elle vit, l'histoire qu'on lui enseigne et où elle pêche. Malgré les différences entre les deux groupes, ils sont tous deux unis au sein d'une même famille, ce qui leur donne un fort sentiment d'unité."
+ hai_raven_and_eagle:9 "The Raven and the Eagle"
+ hai_raven_and_eagle_desc:9 "Haida social life is broadly split by two moieties: the Raven and the Eagle. A family's moiety dictates which side of a village they live on, the history they are taught, and where they fish. Despite the differences between the two groups, both would be united within families, providing a strong sense of unity between the two."
+ hai_whaling_chiefs:9 "Whaling Chiefs"
+ hai_whaling_chiefs_desc:9 "Hunting for whales has long been part of Hiada's economy for millennia, ever since their distant relatives first reached the Pacific Northwest. Whaling Chiefs ('haw’iih') hold economic and social power within the Nation, and successful chiefs command great reverence for their successes on hunting expeditions. According to ancient traditions, these Whaling Chiefs can even connect to Whales in the spirit world, allowing them to be located and hunted."
 
   #SLE
  bomb_station_02:0 "B.O.M.B. Station 002"
@@ -50,8 +56,8 @@
   #MES
  wickiup_nomads:0 "Wicki Nomade"
  wickiup_nomads_desc:0 "Pendant une grande partie de leur histoire, les Mescaleros ont été des chasseurs et des guerriers nomades, construisant des habitations temporaires (appelées \"Wicki up\") lorsqu'ils se déplaçaient dans les plaines du sud-ouest. Malgré l'évolution vers des établissements plus permanents à la fin du XXe siècle, les histoires et les traditions des périodes plus nomades sont toujours des pierres angulaires importantes de la culture des Mescaleros."
- guerilla_legacy:9 "Thunder Rides a Black Horse"
- guerilla_legacy_desc:9 "On 27 May 1873, by executive order of President Ulisses S. Grant, the tribe of Apache Mescalero was officially established. Unlike the Navajo, the Apache Mescalero were few and the new government had to invite several more small Apache bands, such as the Apache Lipan, to assist in handling the new territory. The Mescalero Tribe was finally able to negotiate with the Four States Commonwealth for greater legal administration privelages after landmark cases like McDirt vs Tulsa, causing the tribe to enjoy a golden age up to the start of the Great War.\n\nAs a result of its non-vital importance, the nation miraculously was spared devastation following the onset of the Great War, yet still suffered from raids, famines and mutant attacks.\nIn response, the tribal council worked to combine the powers of the executive, judicial or legislative branches of the nations government into a single position, allowing the Mescalero to more rapidly able to respond to the growing threats they face from the wasteland. The strength of the President would echo that of the Lipan chiefs of old in the new world that the war wrought."
+ guerilla_legacy:0 "Héritage de la Guérilla"
+ guerilla_legacy_desc:0 "Lorsque les hommes blancs sont arrivés en Amérique, les Mescaleros ont résisté à leur perpétuelle expansion dans le territoire traditionnel des Mescaleros. Souvent à la tête de raids sur les colonies espagnoles, mexicaines et américaines, les Mescaleros étaient des guérilleros réputés : un héritage qui perdure encore aujourd'hui."
 
   #TLP
  always_ready_always_there:0 "Toujours Prêt, Toujours Là"
@@ -90,10 +96,10 @@
 
 
   #EDA
- EDA_ufo_defense:9 "\"PROJECT MOGUL\" Legacy"
- EDA_ufo_defense_desc:9 "The "Blue Rose Society" was the formal, non-confidential name for a series of military bases related to the extant PROJECT MOGUL, a hundred-year research project that sought to study the methods by which new sciences can be used in novel ways to defeat enemies of America. Roswell, New Mexico served as the homes of some of MOGUL's earliest experiments.\n\nAfter the Great War, the Society has grown greatly to attempt to fill the space left by proper American governance through establishing a local government of regional committees led by a central representing board in Roswell. However, some propose that the Society's higher ups still carry on the scientific tradition of their forebears in the shadows. "
- EDA_secrets:9 "Non-Disclosure Agreements"
- EDA_secrets_desc:9 "Any wasteland settlers wishing to move to, trade in or find safety within Blue Rose Society lands has to sign a "Non-Disclosure Agreement", a binding agreement between recipent and the Society's Board of Directors. People who have broken this agreement tend to not stay around for long."
+ EDA_ufo_defense:9 "Défense contre les Zétans !"
+ EDA_ufo_defense_desc:9 "[EDA.GetName] claims they protect the America from any communists in the US of A.  Granted the nation's fallen on hard times, but they will glaldy fight against any Chinese agents on continental soil."
+ EDA_secrets:0 "Informations Classifiées"
+ EDA_secrets_desc:0 "[EDA.GetLeader] prétend avoir des informations que le monde n'est pas censé connaître. Bien que peu de gens croient qu'ils ont un \"trou de ver extrême\", il est indéniable qu'ils en savent plus que la plupart des habitants des Terres Désolées."
 
   #WHI
  whi_burden_of_a_nation:0 "Le Fardeau d'une Nation"
@@ -189,7 +195,10 @@
 
   #COW
  cow_remnants_of_rangers:0 "Restes des Arizona Rangers"
- cow_remnants_of_rangers_desc:0 "Les Arizona Rangers, qui se sont engagés à protéger les personnes vulnérables contre ceux qui cherchent à les soumettre, se battent depuis dix ans contre la Légion de César et ses soldats au cerveau lavé. Alors que les Rangers étaient bien entraînés et armés jusqu'aux dents, face au nombre écrasant de la Légion, ils ont été lentement contraints d'abandonner de plus en plus de territoire. Après leur défaite face au Légat Malpais en 2271, la plupart de ce qui restait des Rangers d'Arizona s'est enfui par le Colorado pour rejoindre la Nouvelle République de Californie. Un petit groupe choisit plutôt de fuir vers le sud pour rejoindre le dernier groupe de colonies libres en Arizona, surnommé \"Cowboy Country\". Bien qu'il reste bien trop peu de Rangers pour que le groupe puisse revendiquer le leadership sur la région, leur formation militaire et leur expertise en matière de spec-ops ont un impact significatif sur le Cowboy Country."
+ cow_remnants_of_rangers_desc:9 "Les Arizona Rangers, qui se sont engagés à protéger les personnes vulnérables contre ceux qui cherchent à les soumettre, se battent depuis dix ans contre la Légion de César et ses soldats au cerveau lavé. Alors que les Rangers étaient bien entraînés et armés jusqu'aux dents, face au nombre écrasant de la Légion, ils ont été lentement contraints d'abandonner de plus en plus de territoire. Après leur défaite face au Légat Malpais en 2271, la plupart de ce qui restait des Rangers d'Arizona s'est enfui par le Colorado pour rejoindre la Nouvelle République de Californie. Un petit groupe choisit plutôt de fuir vers le sud pour rejoindre le dernier groupe de colonies libres en Arizona, surnommé \"Cowboy Country\". Bien qu'il reste bien trop peu de Rangers pour que le groupe puisse revendiquer le leadership sur la région, leur formation militaire et leur expertise en matière de spec-ops ont un impact significatif sur le Cowboy Country."
+ cow_reformed_corps:9 "The Reformed Ranger Corps"
+ cow_reformed_corps_desc:9 "The Arizona Rangers, pledged to protecting the vulnerable from those who sought to subjugate them, have been fighting a decade-long conflict with Caesar's Legion and his brainwashed soldiers. While the Rangers were well trained and armed to the teeth, in the face of the Legion's overwhelming numbers they have been slowly forced to abandon more and more territory. After their defeat by the Malpais Legate in 2271, most of what remained of the Arizona Rangers fled over the Colorado to join the New California Republic. A small splinter chose instead to flee south to the last group of free settlements in Arizona: affectionately dubbed \"Cowboy Country\", but we couldn't hide from the Legion forever. Now they've come for us once more, but we've managed to push them back and reclaim the Arizona Ranger name once more."
+ form_arizona_rangers_tt:9 "We gain §Yclaims§! on every state in §OArizona§!.\n\n"
  cow_bastion_of_liberty:0 "Dernier Bastion de la Liberté en Arizona"
  cow_bastion_of_liberty_desc:0 "La Légion a envahi l'Arizona, et menace la vie et la liberté de tous ceux dont elle revendique la suprématie. Alors que de nombreux réfugiés ont réussi à fuir les armées de la Légion, beaucoup d'autres sont devenus les esclaves des hommes de César. Nous ne devons pas laisser cela arriver aux hommes et aux femmes du Pays des Cowboys : quel qu'en soit le prix."
 
@@ -252,12 +261,15 @@
   #SHO
  sho_outcasts_once_again:0 "Une Fois de Plus"
  sho_outcasts_once_again_desc:0 "Pendant des siècles après l'arrivée des colons européens en Amérique, les Shoshone ont élu domicile dans les terres accidentées de l'ouest. Parmi les nombreux groupes Shoshone, un nombre important s'est installé dans l'Utah et le sud de l'Idaho, et a obtenu la reconnaissance fédérale à la fin des années 1900. Comme beaucoup d'autres nations et tribus amérindiennes, les Shoshones ont connu un succès retentissant dans les Terres Désolées post-apocalyptiques : leur enseignement ancestral s'est révélé utile à l'époque de la chasse et de la cueillette, et les réserves dans lesquelles les Etats-Unis ont accueilli de nombreux groupes indigènes ont été remarquablement préservées de l'enfer nucléaire. Cependant, les Shoshone ont commencé à avoir des problèmes dans les décennies qui ont suivi le début de la sédimentation des cendres nucléaires. L'Utah et l'Idaho ont été frappés par des guerres de religion : une grande variété de groupes néo-chrétiens, tous avec leur propre interprétation tordue de la bible, ont décidé que l'Utah devait leur appartenir. Entre les zélotes de Heavens Gate, les \"pieux\" de High Chapel et le schisme entre Murtagah et le Lord's Annointed, les Shoshone se sont retrouvés persécutés de tous côtés. Finalement, les Shosone ont été forcés de fuir vers l'ouest, loin de leur terre ancestrale, où ils continuent à préparer leur prochain coup."
+ sho_return_home:9 "Return to the Bear River Memorial"
+ sho_return_home_desc:9 "Long before the Great War, our people faced persecution and discrimination at the hands of the United States Government. No greater example can be found than the 1863 Bear River Massacre, during which hundreds of Shoshone men, women and children were gunned down by US Army forces. We must return to the Memorial once more and protect it forever, so that we always remember what we stand to lose."
+ sho_back_home:9 "Bear River Avenged"
+ sho_back_home_desc:9 "With the recapture of the Bear River Memorial, a monument to the greatest massacre our tribe ever experienced at the hands of the US Government, we're finally wandering no more. At last we are home."
  sho_snake_river_teachings:0 "Enseignements de Snake River"
  sho_snake_river_teachings_desc:0 "La Rivière aux Serpents, qui longe le flanc nord des Shoshones et s'étend sur l'Utah et l'Idaho, a fourni aux Shoshones une source fiable de nourriture et d'eau pendant des siècles. Bien qu'ils aient été expulsés de leur pays, l'accès continu des Shoshones à la rivière Snake signifie qu'ils sont loin de ne pas savoir comment survivre."
 
   #MOS
  mos_storms_of_the_divide:0 "Tempêtes du Divide"
  mos_storms_of_the_divide_desc:0 "Le \"Divide\" est le nom des colonies situées près des ruines de l'Ancien Monde d'Ashton et de Hopeville. Ces ruines ont été préservées parce que d'étranges tempêtes couvrent constamment la vallée, laissant les cicatrices de l'ancien monde à nu et à découvert."
-
  mos_old_world_heritage:0 "Héritage du Vieux Monde"
  mos_old_world_heritage_desc:0 "Le Divide est si vierge que ceux qui y vivent peuvent encore y trouver des symboles et de l'héraldique que l'ancien monde a laissés derrière lui."

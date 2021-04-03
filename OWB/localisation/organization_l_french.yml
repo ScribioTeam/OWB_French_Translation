@@ -96,7 +96,7 @@
  caps_organization_events.14.a:0 "An achievable goal"
  caps_organization_events.14.b:0 "Unreasonable demand"
  bolster_production_event_mission:0 "Request: Build More Military Factories"
- bolster_production_event_mission_goal_tt:0 "Build [?bolster_production_event_target|0+] military factories\n   Current factories: [?num_of_military_factories|0R]"
+ bolster_production_event_mission_goal_tt:9 "Have [?bolster_production_event_target|0+] total military factories\n   Current factories: [?num_of_military_factories|0R]"
  bolster_production_event_org_tt:0 "Change all orgnization opinion by: [?org_influence_amount|+=0]"
 
  caps_organization_events.2.t:0 "Exploration for Technology"

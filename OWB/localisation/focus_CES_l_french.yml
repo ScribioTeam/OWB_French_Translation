@@ -1,7 +1,7 @@
 ﻿l_french:
-  #-------------------------------------
-  # Caesar's Legion
-  #-------------------------------------
+ #-------------------------------------
+ # Caesar's Legion
+ #-------------------------------------
  FOCUS_FILTER_GLORY_VULPES:0 "Chemin de Vulpes"
  FOCUS_FILTER_GLORY_MALPAIS:0 "Chemin de Malpais"
  FOCUS_FILTER_GLORY_AURELIUS:0 "Chemin de Aurelius"
@@ -23,7 +23,7 @@
  ces_caesar_son_of_mars:0 "César, fils de Mars"
  ces_caesar_son_of_mars_desc:0 "La volonté de César est la loi. Il est un dieu parmi les hommes, le fils du dieu de la guerre, Mars. Tous dans sa légion vivent pour le servir, comme une lame sert son maître. Il est l'enseignant et le maître des tribus sous son aile - et dans sa conquête, leur a enseigné de nombreuses leçons."
 
-  # Alea Iacta Est sub-tree
+ # Alea Iacta Est sub-tree
  ces_alea_iacta_est:0 "Le sort en est jeté"
  ces_alea_iacta_est_desc:0 "Le sort en est jeté, les dés sont jetés, les mots prononcés par l'homonyme de César alors qu'il se tenait contre Rome. Ce sont les mots qui ont commencé l'empire immortel, les mots qui annonceront encore le grand empire de César."
 
@@ -74,11 +74,11 @@
 
  ces_demon_servants_desc:0 "Les soi-disant «Servants de Wyatt» sont un groupe d'élite parmi la tribu de pays de Cochise - quelques-uns des meilleurs éclaireurs et guerriers que la Légion ait rencontrés. Avec l'intégration de Wyatt dans notre panthéon, ils rejoindront notre légion."
 
-  # Conqueror of the 86 Sub-tree
+ # Conqueror of the 86 Sub-tree
  ces_conqueror_of_the_86:86 "Les conquérants du 86"
  ces_conqueror_of_the_86_desc:86 "Avec la conquête de ces tribus finales, la Légion est maintenant composée de 86. Un titre impressionnant, l'exploit de conquérir et d'assimiler 86 tribus est sans précédent dans les Terres Désolées."
 
-  # Brotherhood sub-tree
+ # Brotherhood sub-tree
  ces_the_brotherhood_of_steel:0 "La Condrérie de l'Acier"
  ces_the_brotherhood_of_steel_desc:0 "La Confrérie de l'acier, en arrière, est une tribut insensé. Ils sont les pires de l'humanité, accapareurs - charognards habillé de harnais de chevalerie. Ils n'offre aucun avenir, ils sont une impasse."
 
@@ -103,7 +103,7 @@
  ces_honour_the_steelbreakers:0 "Honorer les Steelbreakers"
  ces_honour_the_steelbreakers_desc:0 "La légion légendaire qui a réussi à briser le bunker de la Confrérie et à les vaiRNCe au combat est devenue légendaire en tant que 'Steelbreakers'."
 
-  # Tribal sub-tree
+ # Tribal sub-tree
  ces_new_judea:87 "La tribu du 87ème"
  ces_new_judea_desc:0 "Le Rome d'autrefois a conquis la province de Judée - maintenant Israël, où est né le christianisme. Les Mormons, construisant un nouveau Canaan en Utah, semblent inviter une Nouvelle Judée sur eux-mêmes."
 
@@ -145,7 +145,7 @@
  ces_upgrade_port:0 "Le Port Ultime"
  ces_upgrade_port_desc:0 "Nous pouvons utiliser Ultima comme un tremplin vers le Pacifique. Peut-être qu'il servira de base pour faire des raids en Nouvelle-Californie."
 
-  # Mexico sub-tree
+ # Mexico sub-tree
  ces_mexico_expansion:0 "Expension Mexicaine"
  ces_mexico_expansion_desc:0 "Le sud du territoire de Ceasar est la terre du Mexique. C'est un point primordiale d'expansion, avec de nombreuses tribus et nations faibles.Si l'armée de la Légion se trouvait au Mexique, leur conquête serait facile."
 
@@ -193,7 +193,7 @@
  ces_mccarran_airstrip_desc:0 "À l'extérieur de Freeside se trouve la piste d'atterrissage McCarran, saisi par la République de Nouvelle Californie après que Vegas a été conquise. Avec un peu de travail, cela pourrait être la base d'une force aérienne légionnaire."
 
  ces_nova_roma:0 "Nova Roma"
- ces_nova_roma_desc:0 "New Vegas, maintenant entièrement sous contrôle de la Légion, et réadapté pour abriter notre siège du gouvernement, est prêt à être occupé. Déjà, beaucoup viennent des les régions éloignées pour s'installer ici, comme César qui déplace sa cour de Flagstaff."
+ ces_nova_roma_desc:9 "New Vegas, now fully under Legion control, and repurposed to house our seat of government, is ready to be occupied. Already, many flock to the outlying areas to settle, as Caesar moves his court here from Flagstaff."
 
  ces_peace:0 "Pax Per Bellum"
  ces_peace_desc:0 "Pax Per Bellum. 'La paix à travers la guerre' - un dicton romain ancien utilisé pour justifier leurs conquêtes du monde connu. La paix ne peut être atteinte qu'en dominant tous les peuples, en vivant sous une même bannière."
@@ -794,7 +794,7 @@
 
 
 
-  ##### Legion Tree
+##### Legion Tree
 
 
 
@@ -888,12 +888,14 @@
  ces_into_utah_tt:0 "Nous allons lancer une guerre frontalière pour nous emparer de Dead Horse Point."
  ces_the_frontier:0 "La Frontière"
  ces_the_frontier_desc:0 "Si nous voulons soumettre l'Utah, nous aurons besoin d'un point de lancement. Transformons Dead Horse Point en un avant-poste de la Légion. Et découvrons ce qu'étaient les chevaux !"
- ces_burn_witch:0 "Tuer la Sorcière"
- ces_burn_witch_desc:0 "[ORO.GetLeader] se berce d'illusions sur la menace que représente la Légion. Peut-être devrions-nous leur rappeler pourquoi c'est une mauvaise idée de s'attaquer à un empire massif couvrant plusieurs états d'avant-guerre ?"
+ ces_burn_witch:9 "Wake Up, Utah!"
+ ces_burn_witch_desc:9 "Southern Utah is full of primtiive tribes, but rich in resources and potential slaves. They will serve in the New Order."
  ces_utah_conquer:0 "À la Conquête de l'Utah"
  ces_utah_conquer_desc:0 "Nous avons longtemps eu une influence dans l'Utah, en faisant des raids, de l'esclavage et du commerce. En effet, si l'on se base sur des discussions informelles avec des membres de la Légion, on pourrait penser que nous avons en fait gouverné une grande partie de l'Utah ! En pratique, notre hégémonie a été nominale. Commençons à corriger cela."
  ces_assimilate_resistance:0 "Assimiler Toute Résistance"
  ces_assimilate_resistance_desc:0 "Certaines tribus de l'Utah, comme beaucoup d'autres des Terres Désolées, rejettent d'abord la règle de la Légion. Mais ils peuvent servir dans la Légion, ou comme une pierre à aiguiser nos épées. D'une manière ou d'une autre, nous gouvernerons l'Utah."
+ ces_im_super_cool:9 "The Master of the World"
+ ces_im_super_cool_desc:9 "With the fall of New California, the Wasteland cannot stand against Caesar. Now is the time to make the Wasteland follow the bull!"
  assimilate_resistance_tt:25 "\nLes coûts pour rendre cœur l'Utah seront réduits de 25 %."
  ces_down_mexico_way:0 "Pour Tuer les Titans"
  ces_down_mexico_way_desc:0 "Lorsque Mars est devenu roi des dieux, il a renversé son père et une race de monstres mourants appelés Titans. Profitons de cet exemple."
@@ -915,8 +917,53 @@
  ces_vegas_sucks_desc:0 "Nous avons nos propres villes, bien sûr, mais rien qui se compare à New Vegas."
  ces_triumph:0 "Ave César !"
  ces_triumph_desc:0 "Avec notre conquête de la Nouvelle-Californie, nous sommes les maîtres des Terres Décolées. Commandons une grande œuvre afin que tous la connaissent."
- ces_nova_roma:0 "Nova Roma"
- ces_nova_roma_desc:0 "En prenant New Vegas, nous avons le choix d'y déplacer notre capitale. Cette Nova Roma serait la plus grande ville de toutes les Terres Désolées ! Un siège digne d'un vrai César."
+
+ ces_drusus_leads:9 "The King of Hades"
+ ces_drusus_leads_desc:9 "Caius Drusus schemed his way to run the East after Lanius' defeat. Yet the rest of the Legion shall learn, once again, why they should not trust a man hidden beneath a mask."
+ ces_reservation_annexation:9 "No Need for Reservations"
+ ces_reservation_annexation_desc:9 "There is no need for our Brothers and Sisters to Hide now that a ghoul runs the Legion. Welcome to the New Wasteland Order!"
+ ces_reservation_frank:9 "Hire Frank"
+ ces_reservation_frank_desc:9 "Hank runs the Reservation's trading post, one of the best places to buy guns in Arizona. He was always willing to work with smooth skins as long as they treat ghouls fairly, so why would he not work for us?"
+ ces_reservation_frank_tt:9 "Unlocks a unique advisor who boosts firearm production."
+ ces_reservation_slaves:9 "Slaves for the Workshops"
+ ces_reservation_slaves_desc:9 "With access to the depots of the Legion, nothing will limit the Reservation's arms production. They are already among the most skilled gunsmiths in the east; now they shall be the most prolific."
+ ces_reservation_annexation2:9 "Born Again Ghouls"
+ ces_reservation_annexation2_desc:9 "With ample research materials, the Reservation can, at long last, create new ghouls with an acceptable failure rate. Caius Drusus is truly the King of Hades!"
+ ces_acceptable_failure:9 "The Acceptable Failures"
+ ces_acceptable_failure_desc:9 "Not every ghoul can be saved. But there are uses for them even in Hades."
+ ces_reservation_assembly:9 "Assembly Lines"
+ ces_reservation_assembly_desc:9 "One way the Reservation could leverage its slaves was by teaching each slave to do a part of a task, and passing the project to a slave who could do the next part of the task. We can apply this principle to the Legion as a whole."
+ ces_reservation_planes:9 "Ascalaphii"
+ ces_reservation_planes_desc:9 "The Reservation has decaying aircraft hangers from the days when it prepared nuclear weapons for deployment to the BOMB satellite systems. With proper application, they can be used to take the Legion aloft. None will escape [CES.GetLeader]'s vision."
+
+ CES_lanius_rules:9 "The Monster of the East"
+ CES_lanius_rules_desc:9 "Lucius, Aurelius, Vulpes . . . none of them can rise to lead the Legion. It was I who crushed the Executives; It was I who burned the dogs of Denver. It will be I who crosses the Dam and watches the Old World die."
+ CES_irn_friends:9 "The Iron Price"
+ CES_irn_friends_desc:9 "With control of the East and the West, the Iron Alliance can use the finest power armour in the Wasteland. Who cares what the Brotherhood thinks; their suits will soon find a better use."
+ CES_loot_east:9 "The Riches of the East"
+ CES_loot_east_desc:9 "Lanius, Master of the East, amassed untold riches from the conquest of Colorado. Now he can use those riches for war."
+ CES_second_capital:9 "The Eastern Capital"
+ CES_second_capital_desc:9 "Dog City has become a boom town since Lanius conquered it and united the East. Vegas may have its glories, but the East is a rich, untamed frontier. We will use Dog City as a spring to further conquests."
+ ces_hastatii:9 "The Hastatii"
+ ces_hastatii_desc:9 "The Hastatii are the core of the Eastern Legion, brave warriors who work together to overcome all odds. Let the lessons from the East take us to new heights!"
+ ces_testudo:9 "The Tortoise . . ."
+ ces_testudo_desc:9 "The Testudo is a new theory of Lanius, where Legion troops stand close together and provide covering fire. These tactics act almost like a shell around Legionaries, giving rise to the term 'tortoise tactics'."
+ CES_weapons_of_east:9 "Weapons of the East"
+ CES_weapons_of_east_desc:9 "Lanius carried much plunder from the East.  Including a great deal of guns."
+ CES_speculatores:9 "The Speculatores"
+ CES_speculatores_desc:9 "We have little need for Vulpes and his ways. The Frumentarii who served us so well in the East are loyal to us alone, and serve us with honour. Let these new agents, the Speculatores, serve us instead."
+ ces_hare:9 "And the Hare"
+ ces_hare_desc:9 "To conquer the vast spaces of the East, Lanius needed to move swiftly and lightly. Those ideas can be used in California as well."
+ ces_vegas_falls_lanius:9 "Caesar's Will"
+ ces_vegas_falls_lanius_desc:9 "Caesar's will is the will of the Legion. And the west... all beneath the flag of the Great Bear exist to test the strength of the Legion. Let us start with Vegas, the city he never managed to conquer."
+ ces_ncr_falls_lanius:9 "The Western Sea"
+ ces_ncr_falls_lanius_desc:9 "Shady Sands, and all who lie beneath the flag of the Bear, fight with words.  Let us hope their skill with weapons proves greater."
+ ces_lanius_texas:9 "The Wiser Decision"
+ ces_lanius_texas_desc:9 "Long ago, when taking Denver, I had to face such a challenge. Many died, over many years to claim the city as ours. It was the lines of food and water that nearly broke the Legion's strength... and the lack of tribals near that cursed city.  What I felt in that struggle, I felt as I saw the map of the West. The West is a trap. The bear has already been caught in it, and it is dying. Our future lies to the east. \n\nThe Republic shall keep their Old World gate this day, I shall return East. When I return, I shall have all the armies of the Legion with me."
+ ces_lanius_texas_master:9 "To the Rising Sun"
+ ces_lanius_texas_master_desc:9 "Graham's overconfidence forever branded him with fire, I will not follow his trail of fire into the depths of the Grand Canyon. The Republic shall keep their Old World gate this day, I shall return East. When I return, I shall have all the armies of the Legion with me."
+ lanius_strong_scary:9 "The Monster of the World"
+ lanius_strong_scary_desc:9 "Nineteen tribes could not beat him.  All the lights of Vegas could not. Neither Brotherhoods nor Republics, goddesses or wolves, stood against him. What hope has anyone against Lanius, the Master of the World?"
   #### Flags
  CES_won_hoover_dam_first:0 "A gagné la première bataille du barrage Hoover"
  subordinate_must_border_us_or_a_country_we_are_at_war_with:0 "§RIls doivent avoir une frontière avec nous ou avec un pays avec lequel nous sommes en guerre.§!"

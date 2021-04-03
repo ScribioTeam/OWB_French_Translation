@@ -22,9 +22,9 @@
   ARM_ballistic_equipment_2_desc:0 "Few adversaries would consider a hunting rifle to be dangerous, yet they are gravely mistaken. It's threat comes from the fact it is a rechambered bolt-action, made to fire a shortened anti-material round able to pierce straight through most obstacles, and even light armor. What it gains in recoil, it makes up for in sheer firepower."
 
   # ARR (Arroyo)
-#  ARR_ballistic_equipment_2: "Marksman Rifle"
-#  ARR_ballistic_equipment_2_short: "Marksman Rifle"
-#  ARR_ballistic_equipment_2_desc: "Arroyo's proximity to the NCR gave them more than enough opportunities to acquire their standard Service Rifle, and tweak it to their heart's desire. This modified version is expressly made for long-range squad support, with an elongated barrel, addition of a scope, and conversion to a DMR configuration able to fire high-velocity cartridges."
+#  ARR_ballistic_equipment_2:0 "Marksman Rifle"
+#  ARR_ballistic_equipment_2_short:0 "Marksman Rifle"
+#  ARR_ballistic_equipment_2_desc:0 "Arroyo's proximity to the NCR gave them more than enough opportunities to acquire their standard Service Rifle, and tweak it to their heart's desire. This modified version is expressly made for long-range squad support, with an elongated barrel, addition of a scope, and conversion to a DMR configuration able to fire high-velocity cartridges."
 
   # ASS (Assassin City)
  ASS_ballistic_equipment_2:0 "Blackjack Assault Shotgun"
@@ -190,9 +190,9 @@
  CES_heavy_infantry_equipment_1_desc:0 "The total pacification collar (commonly referred to as a slave collar) is a pre-War prisoner control device developed at Big MT Research and Development Center, and adapted by slavers after the war for the purpose of capturing and forcing slaves into submission."
 
   # CHC (Chained Choir)
-#  CHC_melee_equipment_1: "Prison Shiv"
-#  CHC_melee_equipment_1_short: "Shiv"
-#  CHC_melee_equipment_1_desc: "More commonly seen in the hands of prisoners trying to silence snitches than as mass produced weapon of war, the prison shiv is a simple improvised blade made primarily for piercing and stabbing than slashing at foes. It's deadly nature comes from the vicious tactics used alongside it, with wearers used to go for the jugular or arteries than fight fair."
+#  CHC_melee_equipment_1:0 "Prison Shiv"
+#  CHC_melee_equipment_1_short:0 "Shiv"
+#  CHC_melee_equipment_1_desc:0 "More commonly seen in the hands of prisoners trying to silence snitches than as mass produced weapon of war, the prison shiv is a simple improvised blade made primarily for piercing and stabbing than slashing at foes. It's deadly nature comes from the vicious tactics used alongside it, with wearers used to go for the jugular or arteries than fight fair."
  CHC_ballistic_equipment_1:0 "9mm Submachine Gun"
  CHC_ballistic_equipment_1_short:0 "9mm SMG"
  CHC_ballistic_equipment_1_desc:0 "The 9mm submachine gun is a classic that hardly needs an introduction. Improving upon the basic package, a telescopic assembly reduces it's size further, while higher quality cartridges crafted with increased powder load allows enhanced muzzle velocity and effect on soft target. Spray and Pray has never been this much fun."
@@ -747,6 +747,20 @@
   TAA_ballistic_equipment_4_short:0 "Assault Rifle"
   TAA_ballistic_equipment_4_desc:0 "The last word in term of infantry-bound small arms, as well as the final improvement on the service rifle, this assault weapon boasts a shortened ergonomic stock with a dampening pad, and a treated pistol grip, for comfortable firing as well as manageable recoil. Alongside it, an extended magazine with stronger spring improves the reliability of the feeding mechanism, and a simple one point five magnification sight increases accuracy at both short and medium range."
 
+  # TEX (Texas republic)
+ TEX_ballistic_equipment_1:9 "Caravan Shotgun"
+ TEX_ballistic_equipment_1_short:9 "Double-Barrel"
+ TEX_ballistic_equipment_1_desc:9 "A 12 gauge classic, the Caravan Shotgun sports an over-under design allowing for better sight plane, recoil control, as well as intuitive reloading, which quickly made it a Texan Brotherhood favourite. With the ammunition changed for quadruple 0 buckshot fired from a magnum shell, able to take a man's head clean off in a single shot, firepower certainly isn't an issue even with these old weapons."
+ TEX_ballistic_equipment_2:9 "Brush Gun"
+ TEX_ballistic_equipment_2_short:9 "Brush Gun"
+ TEX_ballistic_equipment_2_desc:9 "High calibre cowboy weaponry may not look like much, but in the hands of a veteran Desert Ranger it will destroy any foe in its path."
+ TEX_ballistic_equipment_3:9 "Tactical Lever Action Rifle"
+ TEX_ballistic_equipment_3_short:9 ".45 Lever Rifle"
+ TEX_ballistic_equipment_3_desc:9 "Bringing a touch of old-world western action to post-war firefights, the updated 1886 Winchester is a classic appreciated by just about any sheriff worth his salt. With a high rate of fire for a manually-cycled weapon, high accuracy, and a scope for long-range engagement, it's suited for just about any situation encountered in the wasteland. Chambered for the powerful .45-90 Express, the cartridge is made to take down large predators such as mutated bears, deathclaws, or dumbarses in power armor."
+ TEX_energy_equipment_1:9 "Laser Pistol"
+ TEX_energy_equipment_1_short:9 "Laser Pistol"
+ TEX_energy_equipment_1_desc:9 "The AER9 was actually not the top laser rifle in service at the time of the Great War. The model line went up to the state-of-the-art AER12, which saw service in a handful of speciality units. The reason that the AER9 is much more commonly found is that it was much sturdier and more reliable than the models that followed."
+
   # TBH (Texas Brotherhood of Steel)
  TBH_ballistic_equipment_1:0 "Caravan Shotgun"
  TBH_ballistic_equipment_1_short:0 "Double-Barrel"
@@ -859,12 +873,12 @@
   WBH_melee_equipment_4: "Paladin Toaster"
   WBH_melee_equipment_4_short: "Paladin Toaster"
   WBH_melee_equipment_4_desc: ""
-#  WBH_spec_ops_equipment_4: "Recon Armour"
-#  WBH_spec_ops_equipment_4_short: "Recon Armour"
-#  WBH_spec_ops_equipment_4_desc: "Originally designed to serve as the under-armour for T-45d power armour, recon armour is a vacuum-sealed asbestos jumpsuit that covers the entire body. While useful in its intended role, recon armour is renowned for being an effective armour for operations that require more mobility than traditional power armour can provide."
-#  WBH_spec_ops_equipment_5: "Composite Recon Armour"
-#  WBH_spec_ops_equipment_5_short: "Composite Recon Armour"
-#  WBH_spec_ops_equipment_5_desc: "By using advanced materials and construction techniques, we can produce recon armour that is both lighter and more durable than previous models."
+#  WBH_spec_ops_equipment_4:0 "Recon Armour"
+#  WBH_spec_ops_equipment_4_short:0 "Recon Armour"
+#  WBH_spec_ops_equipment_4_desc:0 "Originally designed to serve as the under-armour for T-45d power armour, recon armour is a vacuum-sealed asbestos jumpsuit that covers the entire body. While useful in its intended role, recon armour is renowned for being an effective armour for operations that require more mobility than traditional power armour can provide."
+#  WBH_spec_ops_equipment_5:0 "Composite Recon Armour"
+#  WBH_spec_ops_equipment_5_short:0 "Composite Recon Armour"
+#  WBH_spec_ops_equipment_5_desc:0 "By using advanced materials and construction techniques, we can produce recon armour that is both lighter and more durable than previous models."
 
   # WHT (White Legs)
   WHT_melee_equipment_1: "Machete"

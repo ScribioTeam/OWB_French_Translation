@@ -42,13 +42,17 @@
  fireteam_equipment_short:0 "Armes à feu"
  fireteam_equipment_desc:0 ""
 
+ anti_air_equipment:9 "Anti-Air Weaponry"
+ anti_air_equipment_short:9 "AA Gear"
+ anti_air_equipment_desc:9 ""
+
  radio_equipment:0 "Radios Portables"
  radio_equipment_short:0 "Radio Portable"
  radio_equipment_desc:0 ""
 
- forward_firebase_equipment:0 "Fortifications Mobiles"
+ forward_firebase_equipment:9 "Mobile Fortifications"
  forward_firebase_equipment_short:0 "Fortifications"
- forward_firebase_equipment:0 ""
+ forward_firebase_equipment_desc:9 ""
 
  demolitions_equipment:0 "Équipement de démolition"
  demolitions_equipment_short:0 "Équipement de démolition"
@@ -298,6 +302,14 @@
   energy_fireteam_equipment_4_short:0 "Canon Tesla"
  energy_fireteam_equipment_4_desc:0 "À l'origine, c'était une arme antichar, mais ce dispositif tesla a été modifié pour ressembler davantage à un canon d'automobile que son frère plus lourd, grâce à l'installation d'un réseau de focalisation plus petit et de paquets d'électrons à décharge rapide. Bien que la cadence de tir soit assez faible, les capacités d'impact et de perforation de chaque tir sont suffisantes pour perforer n'importe quel gilet pare-balles."
 
+ # Anti air AA equipment
+ anti_air_equipment_1:9 "Unguided Volley Launcher System"
+ anti_air_equipment_1_short:9 "UV-LS AA"
+ anti_air_equipment_1_desc:9 ""
+ anti_air_equipment_2:9 "Proximity Fuse Munitions Rocket System"
+ anti_air_equipment_2_short:9 "PF-MRS AA"
+ anti_air_equipment_2_desc:9 ""
+
  # Demolitions Equipment
   demolitions_equipment_1:0 "Dynamite"
   demolitions_equipment_1_short:0 "Dynamite"
@@ -522,7 +534,7 @@
 
  fighter_equipment_1:0 "Chasseur de ferraille"
  fighter_equipment_1_short:0 "Chasseur de ferraille"
- fighter_equipment_1_desc:0 "Nos ingénieurs ont, après de multiples essais stressants, inventé un parapente capable de frapper du ciel. Armés de deux mitrailleuses, d'un complément de grenades pour les frappes au sol et de beaucoup de prières, nos pilotes peuvent maintenant appuyer les troupes de première ligne. Un système de catapultage mobile, installé sur la plate-forme d'un camion pour les procédures de lancement, leur donne également une autonomie considérablement accrue, puisque les camions ont plus d'autonomie que nos planeurs."
+  #fighter_equipment_1_desc:0 "Our engineers have, after multiple stressful tests, invented a glider able to strike from the sky. Armed with two submachine guns, a complement of grenades for ground strikes, and a lot of prayers, our pilots can now support frontline troops. A mobile catapult system, installed on a truck bed for launching procedures, also gives them a considerably increased range, as the trucks have more autonomy than our gliders."
 
   fighter_equipment_2:0 "Chasseur biplan"
   fighter_equipment_2_short:0 "Chasseur biplan"
@@ -530,7 +542,7 @@
 
  fighter_equipment_3:0 "Chasseur nucléaire récupéré"
  fighter_equipment_3_short:0 "Chasseur nucléaire récupéré"
- fighter_equipment_3_desc:0 "Comme la vitesse et la faible traînée deviennent primordiales, une conception monoplan est maintenant préférable. L'augmentation de la capacité de poids permet l'installation d'une troisième mitrailleuse de calibre supérieur, refroidie par air, pour le passage des armes à feu, ainsi que de jambes de force externes pouvant supporter deux bombes explosives de 50 kg de haut. Les unités powerpack empilées permettent une vitesse de pointe plus élevée, ce qui nous donne la possibilité d'augmenter la portée de frappe et les techniques d'interception contre les vaisseaux ennemis."
+  #fighter_equipment_3_desc:0 "As speed and low drag become primordial, a monoplane design is now preferable. Increased weight capacity allows the installation of a third, air-cooled, higher calibre machine gun for gun runs, as well as external struts able to support two 100lb high explosive bombs. Stacked powerpack units allow higher top speed, giving us the possibility for increased strike range, and interception techniques against enemy crafts."
 
   fighter_equipment_4:0 "Avion de chasse"
   fighter_equipment_4_short:0 "Avion de chasse"

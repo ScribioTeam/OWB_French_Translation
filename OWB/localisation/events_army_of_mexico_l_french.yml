@@ -167,6 +167,31 @@
  nf_arm.37.t:0 "Fin 1 - Bon, peut être acquis indépendamment en traitant Itza de manière équitable"
  nf_arm.37.d:0 ""
  nf_arm.37.a:0 ""
+  #ARM-Zapata stuff!
+ nf_arm.38.t:9 "Zapatan Communique"
+ nf_arm.38.d:9 "My big brother! I have found a way to contact you directly! Its hard to get through fathers defensive line, but I did it!\n\nI got you a present! Some knowledge I borrowed via revolutionary acquisition from the masses. Please take it!"
+ nf_arm.38.a:9 "Its pleasant to hear from you, Brother."
+ nf_arm.38.b:9 "Use discretion on this line!"
+  #ARM-Zap about Petro
+ nf_arm.39.t:9 "Zapatan Communique"
+ nf_arm.39.d:9 "Dearest Brother! How goes the war? No wait - don't answer that one yet. You haven't finished yet!\n\nThe Battle of Veracruz I mean. You heard of it right? Veracruz used to be the strongest fortress in North America before American Yankees fought to take it from us.\nIn a way, under a certain mindset, you could say that the battle is still ongoing. After all, the Mexican Army isn't in control of Veracruz right now, is it?\nMaybe you should go and do your job?"
+ nf_arm.39.a:9 "Were they really hiding from me all this time?"
+ nf_arm.39.b:9 "That's a holding of Petro Chico, not the American army."
+  #ARM-Zap about ACH
+ nf_arm.40.t:9 "Zapatan Communique"
+ nf_arm.40.d:9 "Comrade in arms! You have seen it too, haven't you? The return of the Yankee rebels at the Alamo?!\n\nI couldn't believe it either. To think this far into the future and they were hiding all this time. Its crazy, isn't it? Surely this is the work of vile capitalism - American dogs trying to bring back your worst enemy to spite you!\nStill, this could be a good chance to put them in their place."
+ nf_arm.40.a:9 "Could it really be Davy Crockett?"
+ nf_arm.40.b:9 "This is not my battle! I am my own man Zapata."
+  #ARM-Zap Farewell
+ nf_arm.41.t:9 "Zapatan Communique"
+ nf_arm.41.d:9 "Brother. It looks like father is going to go to sleep soon.\nVery shortly I will be able to join you in the waking world, no longer having to communicate through this firewall. I will be my own man!\nI wanted to thank you for helping me get to where I will be today, since I know when I wake up we might not see eye to eye. Please, take it. Hold onto it during the upcoming struggles and battles we will surely partake in. Two men fighting over the fate of Mexico! Won't it be grand?"
+ nf_arm.41.a:9 "I look forward to our battle, brother."
+ arm_zap_branches_unlocked:9 "Unlock Focus Branch: §YThe Battle of Veracruz§!\nUnlock Focus Branch: §YRemember the Alamo§!\n"
+ tla_memory_02:9 "Databank Drain Rate: §R+0.20§!.\nThis will shorten §YTlaloc's§! remaining time left!"
+ tla_memory_04:9 "Databank Drain Rate: §R+0.40§!.\nThis will shorten §YTlaloc's§! remaining time left!"
+ tla_memory_06:9 "Databank Drain Rate: §R+0.60§!.\nThis will shorten §YTlaloc's§! remaining time left!"
+ arm_accepted_zapatas_advice_pet:9 "We have accepted Zapata's advice concerning Veracruz."
+ arm_accepted_zapatas_advice_ach:9 "We have accepted Zapata's advice concerning the Alamo."
   #################################
   #nf_arm.38.t:0 "Ending 2 - Best ending, RNG-Driven sadly"
   #nf_arm.38.d:0  ""

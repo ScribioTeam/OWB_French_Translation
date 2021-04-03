@@ -328,6 +328,8 @@
  nf_legion.82.b:0 "Les Frumentarii dirigent la Légion."
  nf_legion.82.c:0 "Lucius reste fidèle à César."
  nf_legion.82.e:0 "Le légat Malpais sait comment crucifier."
+ nf_legion.82.f:9 "§RThe Greatest of the Commanders for the Greatest War.§!"
+ nf_legion.82.g:9 "§GThe Ghoul Legate steps out of the shadows...§!"
  CES_civil_war:0 "La Guerre Civile !"
   ### White legs Upgrade
  nf_legion.83.t:0 "Les leçons d'Ulysse"
@@ -399,9 +401,11 @@
  nf_legion.94.a:0 "Vous devez vivre pour que lorsque vous mourrez, le monde pleure et vous vous réjouissez. L'a-t-il fait ?"
   ### Ceasar LIves
  nf_legion.95.t:0 "Un homme instruit"
- nf_legion.95.d:0 "L'un des esclaves de New Vegas est un homme de culture qui sera désormais le médecin de César.  Mieux encore, il sera désormais le sparring-partner intellectuel de [CES.GetName] !"
+ nf_legion.95.d:9 "A Courier from New Vegas has offered a slave to serve as Caesar's physician. Even better, he will now serve as [CES.GetName]'s intellectual sparring partner! As the first step, they will look at Caesar's 'illness'."
  nf_legion.95.a:0 "Un jour, Gannon reconnaîtra notre sagesse."
  nf_legion.95.a_tt:0 "\n§gCésar est guéri !§!"
+ nf_legion.95.b:9 "The knife slipped and Caesar is greatly stressed."
+ nf_legion.95.b_tt:9 "\n§RWhy did we hire a Courier anyway!!§!"
 
 
    ### Picking Up the Pieces
@@ -533,5 +537,38 @@
  nf_legion.121.a:0 "New Vegas deviendra la Nouvelle Rome !"
  nf_legion.121.b:0 "Flagstaff restera notre capitale."
 
+ nf_legion.122.t:9 "Instructions for [RES.GetLeader]"
+ nf_legion.122.d:9 "Now that a Ghoul rules the Legion, the Reservation no longer serves a purpose.  [Root.GetLeader] has several ways to approach his old master. He can demand annexation, taking the resources of the Reservation for the Legion of Hades. Or he can rekindle the old alliance, taking the Reservation's know how for the Legion. Why, with the service of the entire Legion, there should be ample raw materials for experiments."
+ nf_legion.122.a:9 "Now I am the master."
+ nf_legion.122.b:9 "Let us promote closer ties."
+
+ nf_legion.123.t:9 "The Coins for Hades"
+ nf_legion.123.d:9 "Caius Drusus has succeeded beyond his wildest dreams when he left the Reservation. No longer is he a servant of Caesar; he rules over Arizona and New Mexico. Now our former soldier comes with a request; that we turn our security over to them. In exchange, the slave trade will boom greater than ever before . . . and, perhaps, we can finish the Great Work, and save ghoulkind."
+ nf_legion.123.a:9 "We shall sacrifice our freedom for the Great Work."
+ nf_legion.123.b:9 "Who is he, to boss us around?"
+
+
+ nf_legion.124.t:9 "[RES.GetLeader] Cooperates"
+ nf_legion.124.d:9 "Caius Drusus will work with the leader of the Reservation for ghoulkind, and, perhaps, for the smooth skins.  As a show of their support, [RES.GetLeader] offers access to the nuclear weapons which power their most powerful defences.  Can anyone in the Wasteland resist us now?"
+ nf_legion.124.a:9 "And this will make more ghouls!"
+
+ nf_legion.125.t:9 "[RES.GetLeader] Spurns Our Offer"
+ nf_legion.125.d:9 "The people of the Reservation chafe under their despotic leader. We must save them and make sure the ghouls are safe!"
+ nf_legion.125.a:9 "We tried our best."
+
+
   ###
  CES_healthy:0 "César est guéri !"
+
+  #### Kick Out Folks
+ nf_lanius_integration.2.t:9 "The Cazador of the East"
+ nf_lanius_integration.2.d:9 "Lanius has failed. The man who called himself the Monster of the East failed to take Dog City, causing many to wonder if the Legion's days of expansion are behind hit.  Honestly, how could they lose to [HAN.GetLeader]?  Caesar would crucify Lanius if he returned to Flagstaff, but that coward never did dare to show his face..."
+ nf_lanius_integration.2.a:9 "Ugh, time to focus on Vegas"
+
+  #### Kick Out Folks
+ nf_lanius_integration.3.t:9 "The Second Paullus"
+ nf_lanius_integration.3.d:9 "In a shocking turn of events, the feared and fabled Legate Lanius and the Legion forces directly under his command have been defeated. This marks a significant defeat for Caesar, as his Legion’s easternmost border, supervised by none other than his most esteemed subordinate, has been compromised by those the Legion has sought to bring under his banner. It remains to be seen how this defeat will affect the Legion’s military standing."
+ nf_lanius_integration.3.a:9 "I can't believe the tribals lost to heavy weaponry!"
+
+ nf_lanius_integration.4.t:9 "The Conquest of the East"
+ nf_lanius_integration.4.d:9 "The Hang Dogs could not stop him. Diana could not stop him. The Brotherhood could not stop him. From Dog City pour slaves, food, and metals into the Legion's maw. An engine of war the Wastes have not seen since the Bombs fell has reached its natural limit and prepares to march West. And at the bridge between Eat and West, the fate of the Wasteland will be decided. Good luck to Shady Sands; against our warriors, they will need all of it."

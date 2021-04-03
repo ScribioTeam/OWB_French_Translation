@@ -20,6 +20,7 @@
  category_combat_support:0 "Unité d'appui feu"
  category_non_combat_support:0 "Unités de soutien non combattant"
  category_behemoth:0 "Behemoths"
+ category_infantry:9 "Infanterie"
 
 
  category_air_unit:0 "Tous les avions"
@@ -76,6 +77,10 @@
  demolitions_infantry_short:0 "Démolitions"
  demolitions_infantry_desc:0 ""
 
+ gary_unit:9 "Gary Horde"
+ gary_unit_short:9 "GARY"
+ gary_unit_desc:9 ""
+
  ghoul_paratrooper:0 "Infanterie de goule aéroportée"
  ghoul_paratrooper_short:0 "Aéroporté"
  ghoul_paratrooper_desc:0 ""
@@ -83,6 +88,10 @@
  super_mutant_nightkin_infantry:0 "Infanterie de veilleuse"
  super_mutant_nightkin_infantry_short:0 "Veilleuse"
  super_mutant_nightkin_infantry_desc:0 "Les veilleuses étaient une caste de guerriers d'élite appartenant à l'armée des super mutants du Maître et le point culminant de sa création de super mutants."
+
+ forward_firebase_support:0 "Base de tir avancée"
+ forward_firebase_support_short:0 "Base de tir"
+ forward_firebase_support_desc:9 "Reinforced, semi-mobile positions that will make it a lot easier to hold the line."
 
  behemoth:0 "Monstre"
  behemoth_short:0 "Monstre"
@@ -185,6 +194,10 @@
  fireteam_support:0 "Équipe de feu Support"
  fireteam_support_short:0 "Équipe de feu"
  fireteam_support_desc:0 ""
+
+ anti_air_support:9 "Anti Air Support"
+ anti_air_support_short:9 "Anti-Air"
+ anti_air_support_desc:9 ""
 
  demolitions_support:0 "Soutien de démolitions"
  demolitions_support_short:0 "Démolitions"

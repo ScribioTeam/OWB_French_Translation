@@ -383,9 +383,9 @@
   #Sunburst
  bos_elijahs_victory_at_sunburst:0 "Victoire d'Elijah à Sunburst !"
  bos_elijahs_victory_at_sunburst_desc:0 "Aucun des Aînés ne croyait vraiment qu'Elijah gagnerait à l'Est. Cependant, il semble que l'on ait appris qu'il a fait l'impossible ! Envoyons lui une petite réserve d'armure assistées pour l'aider à garder le contrôle du Mojave."
-  
+
   #Arthurian Brotherhood
- spellcheck_ignore:0 "bos_knights_of_the_round_table_desc, bos_the_holy_hand_grenade_desc, bos_holy_hand_grenade_tt_3"
+ spellcheck_ignore:9 "bos_knights_of_the_round_table_desc, bos_the_holy_hand_grenade_desc, bos_holy_hand_grenade_tt_3"
  bos_the_arthurian_brotherhood:0 "La Confrérie d'Arthur"
  bos_the_arthurian_brotherhood_desc:0 "L'escadron d'Arthur, bien que peu orthodoxe, incarnait mieux que tout autre l'esprit de la Confrérie. Rendons hommage à leur héritage et réformons Lost Hills à leur image !"
  bos_arthurian_brotherhood_tt:0 "Nous embrassons l'identité de l'héritage de l'escadron d'Arthur.\nMari Törni sera désormais connue sous le nom de \"Catherine Törni\", pour honorer son héritage."
@@ -396,4 +396,3 @@
  bos_holy_hand_grenade_tt_1:0 "La république vile et malfaisante a atteint sa fin."
  bos_holy_hand_grenade_tt_2:0 "Nous avons terrassé, ou amené le Dragon d'Orient sous notre bannière."
  bos_holy_hand_grenade_tt_3:2280 "L'année est au moins Anno Domini 2280."
-  

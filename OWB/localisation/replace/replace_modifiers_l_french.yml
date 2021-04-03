@@ -25,6 +25,9 @@
  modifier_experience_gain_super_heavy_carrier_ship_unit_training_factor:0 "Expérience d'entraînement de porte-avions lourds"
  modifier_experience_gain_super_heavy_carrier_ship_unit_combat_factor:0 "Expérience de combat de porte-avions lourds"
 
+ MODIFIER_ANNEX_COST_FACTOR:9 "Annexation Cost During Peace Conferences"
+ MODIFIER_TAKE_STATES_COST_FACTOR:9 "State Cost During Peace Conferences"
+ 
  temporary_state_resource_energy:0 "Énergie"
  temporary_state_resource_metal:0 "Métal"
  temporary_state_resource_composites:0 "Matériaux Composites"

@@ -1,5 +1,6 @@
 ﻿l_french:
   # GUI:
+ spellcheck_ignore:9 "puppet_taxation_popup_icon"
  FALLOUT_TOOLBAR_DROP_DOWN_BUTTON_TT:0 "§YNouveaux onglets§!\nCliquez pour afficher ou masquer le menu déroulant des autres onglets."
  FALLOUT_TOOLBAR_DROP_DOWN_BUTTON_TT_DELAYED:0 "[This.GetToolbarDropDownButtonTooltipDelayed]"
 
@@ -40,5 +41,10 @@
  node_new_node_popup_tt:0 "[GetNodeNewNodePopup]"
  node_new_node_popup_tooltip_tt:0 "§Y[?new_node_state.GetName]§! est devenu un centre de commerce dans les Terres Désolées et constitue la principale plaque tournante pour §Y[THIS.GetName]§!!"
  node_new_node_popup_tooltip_tt_short:0 "§Y[?new_node_state.GetName]§! est devenu un centre de commerce dans les Terres Désolées !"
+ puppet_taxation_popup_tooltip:9 "[GetPuppetTaxPopup]"
+ puppet_taxation_popup_tooltip_tt:9 "Taxes can be levied on §Y[?puppet.GetName]§!.\n    §gTaxes can be raised, lowered, and updated in the puppet ledger under the 'Misc' tab on the top bar."
  node_new_org_popup_tt:0 "[GetNodeNewOrgPopup]"
+ puppet_taxation_popup_icon:9 "GFX_puppet_tax_icon"
  node_new_org_popup_tooltip_tt:0 "§Y[?org_state.GetName]§! est devenu le foyer de §G[GetOrganizationName]§!\nNous pouvons désormais échanger des marchandises et établir des relations commerciales avec eux !"
+ exodus_popup_icon:9 "GFX_puppet_tax_icon"
+ exodus_popup_tooltip:9 "§YRefugees!§!\n§gIn the last 60 days, [?exodus_pop_left|0+] refugees have fled before our conquering armies.§!\n§g[?exodus_pop_gained|0+] refugees have come to settle in our states.§!"

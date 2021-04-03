@@ -26,8 +26,8 @@
  metal_generator_amount:0 "$VALUE|Y0=$"
  metal_generator_resource:0 "£resources_strip|$FRAME$"
 
-#  fuel_generator: "Fuel Processing Plant"
-#  fuel_generator_plural: "Fuel Processing Plants"
+#  fuel_generator:0 "Fuel Processing Plant"
+#  fuel_generator_plural:0 "Fuel Processing Plants"
 #  fuel_generator_desc:0 "This building provides the state with"
 #  fuel_generator_amount:0 "$VALUE|Y0=$"
 #  fuel_generator_resource:0 "£resources_strip|$FRAME$"
@@ -38,8 +38,8 @@
  circuitry_generator_amount:0 "$VALUE|Y0=$"
  circuitry_generator_resource:0 "£resources_strip|$FRAME$"
 
-#  advanced_technology_generator: "Research Facility"
-#  advanced_technology_generator_plural: "Research Facilities"
+#  advanced_technology_generator:0 "Research Facility"
+#  advanced_technology_generator_plural:0 "Research Facilities"
 #  advanced_technology_generator_desc:0 "This building provides the state with"
 #  advanced_technology_generator_amount:0 "$VALUE|Y0=$"
 #  advanced_technology_generator_resource:0 "£resources_strip|$FRAME$"

@@ -1,5 +1,5 @@
 ﻿l_french:
- virus:9 "Virus"
+ suf_trait:9 "The \"Booming Brigadier General\""
  greenway_ingenuity:0 "Ingéniosité de Greenway"
  arm_man_of_destiny:0 "\"L'Homme de Destinée\""
  moj_distrusted_elder:0 "Aîné de confiance"
@@ -81,6 +81,7 @@
  bane_of_the_ncr:0 "Fléau de la RNC"
  local_patriot:0 "Patriote Local"
  pirate_queen:0 "Reine Pirate"
+ lac_no_mercy:9 "No Mercy"
 
 
   ##Organization Traits
@@ -199,8 +200,13 @@
  LAC_master_of_the_rock:0 "Maître du Rocher"
  lanius_women:0 "Ministras"
  lanius_monster_east:0 "Le Monstre de l'Est"
+ lanius_monster_east1:9 "The Monster Comes West"
  lanius_frumentarii:0 "Adeptes des Frumentarii"
  propaganda_team:0 "Bardes sponsorisées"
+ lanius_monster_world:9 "The Monster of the World"
+
+##3 CES
+ frank_ghoul_trait:9 "Reservations About the System"
 
 ### ACH
  cos_member:0 "Agent du Cercle de l'Acier"

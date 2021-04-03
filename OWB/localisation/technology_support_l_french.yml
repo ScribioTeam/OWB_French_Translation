@@ -71,6 +71,15 @@
   anti_tank_tech_2:0 "Ciblage des points vitaux"
   anti_tank_tech_2_desc:0 "L'amélioration de l'ordonnance de perçage de blindage et des dispositifs de visée, ainsi qu'une meilleure vitesse initiale, permet à notre équipe antichars de viser avec précision les points faibles ennemis. Une formation supplémentaire en reconnaissance et en identification avec les connaissances techniques de base de l'équipement ennemi leur permet d'identifier ces points faibles en quelques secondes."
 
+ aa_fireteam_equipment_tech:9 "AA Equipment T1"
+ aa_fireteam_equipment_tech_desc:9 ""
+ aa_fireteam_tech:9 "Proximity Munitions"
+ aa_fireteam_tech_desc:9 ""
+ aa_fireteam_equipment_tech_2:9 "AA Equipment T2"
+ aa_fireteam_equipment_tech_2_desc:9 ""
+ aa_fireteam_tech_2:9 "Guided Munitions"
+ aa_fireteam_tech_2_desc:9 ""
+
   maintenance_company_tech_1:0 "Sociétés de maintenance"
   maintenance_company_tech_1_desc:0 "Une équipe d'ingénieurs dévoués qui se rend sur le terrain avec nos divisions peut aider à entretenir notre équipement beaucoup mieux que ne le feraient les simples soldats. Le fait de leur fournir davantage de fournitures et de pièces de rechange devrait réduire la pression sur nos usines de fabrication, car moins d'équipement doit être entièrement remplacé."
   maintenance_company_tech_2:0 "Efficacité de l'entretien II"

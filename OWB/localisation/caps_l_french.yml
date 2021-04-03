@@ -1,9 +1,9 @@
 ﻿l_french:
 
   #Caps Main
- CAPS_TOOLTIP:0 "Vous avez [?caps_number_display|+] [GetCapType] \n\nVous gagnez [PrecalculateCapsNet] [GetCapType] par trimestre.\n\n"
+ CAPS_TOOLTIP:9 "Vous avez [?caps_number_display|+] [GetCapType] \n\nVous gagnez [PrecalculateCapsNet] [GetCapType] par trimestre.\n\n"
  CAPS_TOOLTIP_delayed:0 "[GetLongCapTT]"
- CAPS_TOOLTIP_delayed_real:0 "[GetCapType] \nRevenu Brut : [GetCapTxt] [PrecalculateCapsIncome] par trimestre \n   - Modifié par [?modifier@caps_income_modifier|+=%]  [GetCapType] \nDépenses : [PrecalculateCapsExpenes] par trimestre \n   - Modifié par [?modifier@caps_expense_modifier|-=%] (Max §G-90%§!)\n Profit trimestriel net : [PrecalculateCapsNet]\n   - Revenu fixe : [?modifier@caps_flat_income_modifier|+=0]"
+ CAPS_TOOLTIP_delayed_real:9 "[GetCapType] \nGross Income: [PrecalculateCapsIncome] per quarter [GetPuppetIncome]\n   -Modified by [?modifier@caps_income_modifier|+=%]  [GetCapType] \nExpenses: [PrecalculateCapsExpenes] per quarter \n   -Modified by [?modifier@caps_expense_modifier|-=%] (Max §G-90%§!)\n Net Quarterly Profit: [PrecalculateCapsNet]\n   -Flat Income: [?modifier@caps_flat_income_modifier|+=0]"
   ##CAPS_MAIN: "[?caps_number_display|2]k"
  CAPS_MAIN_0dp:0 "[?caps_number_display|0]k"
  gross_income_header:0 "Revenu Brut :"
@@ -12,6 +12,7 @@
  replay_button_text:0 "Rejouer Tutoriel"
  toggle_hint_text:0 "Afficher/Masquer les info-bulles"
  caps_income_calc_tt:0 "[GetCapTxt] [?income_display_temp|=+]k"
+ caps_puppet_income_calc_tt:9 "\n    [GetCapTxt] [?income_from_puppets|=+]k taxes from puppet nations"
  caps_expense_calc_tt:0 "[GetCapTxt] [?temp_expense_calc|=+]k"
  caps_net_calc_tt:0 "[GetCapTxt] [?temp_net_calc|=+]k"
  caps_trigger_negative:0 "Vous avez besoin de [GetCapTxt] [?caps_trigger_calc|+]k de plus [GetCapType] ."
@@ -19,9 +20,9 @@
  caps_trigger_tt:0 "[GetCapCostTrigger]"
  caps_opinion_tt:0 "L'opinion donne [?opinion_var_temp|%+] de remise.\n"
  caps_decision_balance_tt:0 "Montant actuellement en banque. \nDépenser pour les décisions et l'entretien des unités."
- caps_decision_income_tt:0 "Revenu de [GetCapType].\n   Modifié par [?modifier@caps_income_modifier|+%]\n   Revenu fixe : [?modifier@caps_flat_income_modifier|+=]"
+ caps_decision_income_tt:9 "Income of [GetCapType].[GetPuppetIncome]\n   Modified by [?modifier@caps_income_modifier|+%]\n   Flat income: [?modifier@caps_flat_income_modifier|+=]"
  caps_decision_expense_tt:0 "Les dépenses trimestrielles sont consacrées à l'entretien militaire.\nChaque bataillon est plus cher que le précédent.\n   Modifié par [?modifier@caps_expense_modifier|-%] (Max §G-90%§!)"
- caps_decision_net_tt:90 "Profit trimestriel net [GetCapType]\n\n   Revenu modifié par [?modifier@caps_income_modifier|+%]\n   Dépenses modifiées par [?modifier@caps_expense_modifier|-%] (Max §G-90%§!)\n   Revenu fixe : [?modifier@caps_flat_income_modifier|+=]"
+ caps_decision_net_tt:9 "Net Quarterly [GetCapType] Profit\n[GetPuppetIncome]\n   Income modified by [?modifier@caps_income_modifier|+%]\n   Expenses modified by [?modifier@caps_expense_modifier|-%] (Max §G-90%§!)\n   Flat income: [?modifier@caps_flat_income_modifier|+=]"
  recuit_pop_calc_tt:0 "Coût de la main-d'œuvre dans la file d'attente d'entraînement : [?temp_expense_calc|1+=] [GetCapType]"
 
  caps_army_wages_lockout_tt:0 "N'a pas récemment modifié les salaires"
@@ -40,12 +41,13 @@
  caps_node_base_modifier:0 "£caps_base_modifier_texticon Revenus du développement"
  caps_node_trade_modifier:0 "£caps_trade_modifier_texticon Revenu du Commerce"
  caps_flat_income_modifier:0 "Revenu de capsules passifs"
- caps_country_trade_modifier:0 "Revenus commerciaux du Pays"
+ caps_country_trade_modifier:9 "Trade Tariffs"
  caps_country_base_modifier:0 "Revenu du Nœud de base du pays"
  caps_tax_puppet_tt:0 "Récemment taxé par le Maître"
  caps_gift_puppet_tt:0 "Récemment soutenu économiquement par le Maître"
  caps_payment_dynamic_modifier:0 "Modificateur des salaires de l'armée"
  caps_raider_sure_defense_dynamic_modifier:0 "Défenses d'État sûres"
+ caps_trade_expedition_dynamic_modifier:9 "Trade Expedition Income"
 
   ### IDEAS
  caps_bos_idea:0 "Dépôts d'approvisionnement du gouvernement"
@@ -56,7 +58,7 @@
  caps_ncr_start_modifier:0 "Faible contrôle de l'État de substitution"
 
   ###Caps TT for designer
- caps_recruit_tt:0 "Coût de la main-d'œuvre dans la file d'attente des formations.\n   Modifié par [?caps_expense_modifier|-%]"
+ caps_recruit_tt:9 "Cost of manpower in training queue.\n   Modified by [?modifier@caps_expense_modifier|-%]\n\n   §gRobot Modifier:§! [?-0.40|-=%]\n   §gMilitia Modifier:§! [?-0.25|-=%]"
   ###General Caps TT
  transaction_caps_tt:0 "[GetTransactionCapTT]"
  transaction_caps_positive_tt:0 "Recevoir un paiement de [GetCapTxt] [?caps_to_add|+=]k [GetCapType].\n"
@@ -139,9 +141,9 @@
  caps_economic_bankrupcy:0 "Faillite !"
  caps_economic_bankrupcy_desc:0 "Nous n'avons pas d'argent et nous allons mourir. Aidez-nous."
 
- currencyncrdollar:0 "Dollar de la RNC"
+ currencyncrdollar:9 "Dollar de la RNC"
  currencycesdenarius:0 "Denarius de la Légion"
- currencygenericcap:0 "Capsules de bouteille"
+ currencygenericcap:9 "Capsules de bouteille"
  currencycad:0 "Dollar Canadien"
  currencyusd:0 "U.S. Dollar"
  currencypeso:0 "Peso Mexicain"
@@ -169,30 +171,30 @@
  capdisplaytexdollartxt:0 "£currency_tex_text_icon"
 
   ### TUTORIAL EVENT LOC ###
- tutorial_caps.1.t:0 "Capsules et la §cmise à jour 3.0§!"
- tutorial_caps.1.d:0 "La mise à jour 3.0, \"Monstre de l'Est\", donne une nouvelle vie au système de capsules. Le système de capsules est passé d'un système de jeu en continu à une représentation de vastes zones de commerce, d'échanges et de conflits occasionnels. Suivez le déplacement des capsules sur la carte, achetez du matériel à des courtiers dans les zones de Terres Désolées et stimulez l'économie locale ! \n\nCette série d'événements vous fera découvrir un tutoriel de base sur le système. Ce tutoriel est §RFORTEMENT§! recommandé pour une première utilisation dans la version §o3.0§! ainsi que pour l'activation des bulles d'aide à la fin de ce tutoriel, ou dans le pipboy dans \"Mécanique > Capsules\"."
- tutorial_caps.1.a:0 "J'ai déjà joué à la 3.0"
+ tutorial_caps.1.t:9 "§c3.2 Update§! Caps Update"
+ tutorial_caps.1.d:9 "Caps has again expanded in the 3.2 update! With a focus on QoL and optimization, the state node view and global node map has been overhauled to assist you in picking the most lucrative trade routes. In addition, trade income has shifted slight, with more trade flowing around the wastes, white less of it is collected in a node. This tutorial is §RHIGHLY§! recommended for a first playthough in version §o3.2§!, along with enabling help tooltips at the end of this tutorial, or in the pipboy under 'Mechanics > Caps'"
+ tutorial_caps.1.a:9 "J'ai déjà joué à la 3.0"
  tutorial_caps.1.b:0 "Tutoriel"
 
  tutorial_caps.3.t:0 "La banque et la loi"
- tutorial_caps.3.d:0 "Le système de capsules peut être consulté d'un seul coup d'œil sur le §oMenu du Haut§!, qui vous indiquera votre coffre de capsules actuelles ! Une fois survolé, il donnera une ventilation plus détaillée de vos §oRevenus§! et §oDépenses§!, plus les modificateurs appliqués aux deux.\nLa principale dépense dans le système de capsules est l'entretien militaire. Les troupes coûtent de l'argent, et plus vous en avez, plus chaque bataillon consécutif coûte cher !\nLe menu \"Recruter et déployer\" montre une estimation du coût des troupes de que vous entraînez. Certaines unités spécialisées, telles que les opérations spéciales et les armures assistées, coûtent plus cher par bataillon que l'infanterie.\nVos troupes coûtent actuellement : §R[PrecalculateCapsExpenes]§! [GetCapType]\nEn temps de conflit, de paix ou d'inspiration capitaliste, certains pays peuvent ajuster leurs §oSalaires de l'armée§! en augmentant ou en diminuant les coûts et les effectifs de leur armée. Les salaires de l'armée peuvent être fixés par une loi économique ; ces lois prévoient un délai de 140 jours entre les échanges."
+ tutorial_caps.3.d:9 "The caps system can been viewed at a glance on the §oTop Bar§!, this will show your current coffer of caps! When hovered, it will give a more detailed breakdown of your §oIncomes§! and §oexpenses§!, plus the modifiers applied to both.\nThe primary expense in the caps system is military upkeep. Troops cost money, and the more you have, the more each consecutive battalion costs! \nThe 'Recruit and Deploy' menu shows an estimate of the cost of the troops in your training que. Some rudimentary units, such as militia, robots and lawkeepers, cost less per battalion than infantry. These modified costs can be viewed in the Recruit and Deploy menu. \nYour troops currently cost: §R[PrecalculateCapsExpenes]§! [GetCapType].\nIn times of strife, peace, or capitalistic inspiration, some countries can adjust their §oArmy Wages§! increasing or decreasing their army costs and strengths. Army wages can be set as an economic law; these laws have a 140 day timeout between swaps."
  tutorial_caps.2.a:0 "Continuer"
  tutorial_caps.2.b:0 "Quitter"
  tutorial_caps_2_can:0 "§opeut§!"
  tutorial_caps_2_cannot:0 "§Rne peut pas§!"
 
  tutorial_caps.2.t:0 "L'Agitation"
- tutorial_caps.2.d:0 "Le §oRevenu§! est la somme de deux nombres. Pour les pays mineurs, la majorité de leurs capsules provient du §oRevenu Fixe§!. Le revenu fixe est accordé par le biais de lois sur l'économie, de récompenses de priorités et de décisions. Actuellement, vous obtenez [?modifier@caps_flat_income_modifier|=+1] capsules par le revenu fixe. La deuxième source de revenu est constituée par les §oNoeuds Économiques§! dont il sera question plus loin dans ce tutoriel.\n\nTous les 92 jours (trimestre), les dépenses sont soustraites du revenu, et les caisses se remplissent (ou se vident !). Lorsque les capsules nets (revenus + dépenses) sont négatifs, et que la banque est vide, votre pays peut connaître de grandes instabilités."
+ tutorial_caps.2.d:9 "§oIncome§! is primarily two sources. For minor countries, a majority of their caps comes from §oFlat Income§!. Flat income is granted through economy laws, focus rewards, and decisions. You currently earn [?modifier@caps_flat_income_modifier|=+1] caps from flat income. The second source of income is through §oEconomic Nodes§!, covered later in this tutorial.\n\nEvery 92 days (quarterly), expenses are subtracted from income, and the coffers fill (or empty!). When net caps (income + expenses) are negative, and the bank is empty, your country may suffer from economic instablity."
  tutorial_caps.3.a:0 "A la nouveauté !"
  tutorial_caps.3.b:0 "Quitter"
 
  tutorial_caps.4.t:0 "America Universalis"
- tutorial_caps.4.d:0 "Les §oNoeuds Économiques§! sont la pierre angulaire de la mise à jour 3.0 des Capsules ! La §oVue du Noeud d'État§! peut être vue en sélectionnant un état qui fait partie d'un nœud. Vous contrôlez actuellement [?state_controlled_nodes^num|0].\n\nLes nœuds sont un ensemble d'§oÉtats membres§! et un §oÉtat central§!. Chaque nœud a un niveau, entre 1 et 10. Les niveaux 1-8 peuvent être atteints en améliorant le §oDéveloppement§! d'un nœud, tandis que les niveaux 9 et 10 exigent un §oDéveloppement Économique§! normalement récompensé par des décisions et des priorités. Chaque usine, chantier naval et infrastructure d'un nœud contribue à son développement. En général, plus il y a d'États membres dans un nœud, plus il est difficile de l'améliorer, mais plus il peut atteindre un niveau élevé.\n\nLes nœuds accordent le plus grand pourcentage du revenu d'un pays lorsqu'ils sont contrôlés (Votre revenu de nœud : [?caps_income|0] [GetCapTxt]). Le revenu de chaque nœud est composé de deux parties : §oRevenus de Développement§! et §oRevenus du Commerce§!. Le revenu de développement dépend directement du niveau du nœud. Les revenus du commerce sont générés par les §oRoutes Commerciales§!. Chaque source de revenu a un modificateur respectif au niveau de l'État et du pays. Pendant un conflit, les nœuds peuvent devenir §oDésactivé§! ; les nœuds désactivé ne fournissent pas de revenus."
+ tutorial_caps.4.d:9 "§oEconomic Nodes§! are the cornerstone of income for large nations. The §oState Node View§! can be seen by selecting a state that is part of a node. You currently control [?state_controlled_nodes^num|0G]. \n\nNodes are a collection of §oMember States§! and a §oCentral State§!. Each node has a level, between 1-10. Levels 1-8 can be achieved through improving a node's §oDevelopment§!, while level 9 and 10 require §oEconomic Development§! normally rewarded through decisions and focuses. Every factory, dockyard, and infrastructure in a node adds to its development. Improving the central node state is slightly more potent than improving the members. Generally, the more member states in a node, the harder to improve it is, but the higher level it can reach. \n\nNodes grant the largest percentage of a country's income when controlled (Your node income: [?caps_income|0] [GetCapTxt]). Each node's income is comprised of two parts: §oDevelopment Income§! and §oTrade Income§!. Development income is directly dependant on node level and, by extention development in a node. Trade income is generated through §oTrade Routes§!. Your country only collects a portion of the trade flowing through a node ([modifier@caps_country_trade_modifier|%=]). Each source of income has a respective modifier at both a state and country level. During conflict, nodes can become §oDisabled§!; disabled nodes do not provide income."
  tutorial_caps.4.a:0 "Continuer"
  tutorial_caps.4.b:0 "Quitter"
 
  tutorial_caps.6.t:0 "Des caravanes pas des minivans"
- tutorial_caps.6.d:0 "En tant que pays doté d'un ou plusieurs nœuds, il est indispensable de tirer parti de votre nouvelle puissance économique ! Chaque nœud commercial peut être la source d'une \"route commerciale\" vers un autre nœud. Les routes commerciales suivent des §oLiens§! prédéfinis à travers les terres désolées, en passant par des zones au terrain favorable et en évitant les dangers. Des liens peuvent également être créés à partir de priorités, de décisions et d'événements. Une route commerciale peut être lancée à partir de la vue du nœud d'état, mais elle doit répondre à quelques conditions :\n\n   - Pas de route commerciale actuelle depuis le nœud §oSource§!\n   - Sous la §oLimite de Routes Commerciales du Pays§!\n   - 40 Pouvoir Politique\n   - Une route commerciale sur la même liaison n'a pas été modifiée récemment.\n\nUne fois envoyé, une route commerciale envoie une partie des revenus de développement d'un nœud au nœud récepteur avec un bonus pour chaque route commerciale de revenue. Une plus petite partie de la valeur de développement du nœud récepteur est envoyée en sens inverse au nœud source. Une fois envoyées, les routes commerciales durent indéfiniment, mais ne peuvent être modifiées pendant au moins 120 jours. Les routes commerciales sont également perturbées par les conflits. Les pays peuvent maintenir un nombre maximum de routes sortantes à peu près 2 fois leur nombre de nœuds"
+ tutorial_caps.6.d:9 "As a country with node(s), leveraging your new economic power is a must! Each trade node can be the source of §oTrade Routes§! to another node. The amount of routes is determined by node level, focus rewards, decisions, and events. Trade routes follow pre-defined §oLinks§! across the wasteland through areas with favorable terrain and avoiding dangers. Links can also be created from focuses, decisions, and events. A route can be started through the state node view, but have a few requirements:\n\n   -No current route from the §oSource§! node\n   -Under the §oCountry Trade Route Cap§!\n   -40 Political Power\n   -A route along the same link was not recently changed.\n\nOnce sent, a trade route sends a portion of a node's development income to the recieving node with a bonus for each income route. A smaller portion of the recieving node's development value is sent backwards to the source node. Once sent, trade routes last indefinitely, but can not be changed for a minimum of 120 days. Trade routes are also disrupted by conflict. A country can send as many trade routes as its nodes can support."
  tutorial_caps.6.a:0 "Continuer"
  tutorial_caps.6.b:0 "Quitter"
 

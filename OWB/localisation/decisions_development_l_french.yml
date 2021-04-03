@@ -116,6 +116,14 @@
   development_project_CFB_equimalt_desc: ""
   development_project_vandenberg_afb: "Restaurer Vandenberg AFB"
   development_project_vandenberg_afb_desc: ""
+ development_project_hoover_western_boatlift:9 "Repair the Western Boatlift at the Hoover Dam"
+ development_project_hoover_western_boatlift_desc:9 "While the Hoover Dam was for many years after its construction an impassible barrier across the Colorado River, shortly before the Great War the Americans embarked on an ambitioius engineering project to tackle this. Under the direction of the US Corps of Engineers, civilian contractors constructed two \"boatlifts\" (glorified locks): one on either side of the Dam. While theoretically designed to improve trade up and down the river, the locks never opened to civilian traffic before the Great War began. The are, however, far from broken: a few months of work could restore them to functioning."
+ hoover_western_boatlift_built_trig_tt:9 "The §OWestern Boatlift§! has §RNOT§! yet been restored to working order via §Ydecision§!."
+ hoover_western_boatlift_built_tt:9 "The §OWestern Boatlift§! will be restored to working order, allowing §Gfriendly§! vessels to circumnavigate the §YHoover Dam§!."
+ development_project_hoover_eastern_boatlift:9 "Repair the Western Boatlift at the Hoover Dam"
+ development_project_hoover_eastern_boatlift_desc:9 "While the Hoover Dam was for many years after its construction an impassible barrier across the Colorado River, shortly before the Great War the Americans embarked on an ambitioius engineering project to tackle this. Under the direction of the US Corps of Engineers, civilian contractors constructed two \"boatlifts\" (glorified locks): one on either side of the Dam. While theoretically designed to improve trade up and down the river, the locks never opened to civilian traffic before the Great War began. The are, however, far from broken: a few months of work could restore them to functioning."
+ hoover_eastern_boatlift_built_trig_tt:9 "The §OEastern Boatlift§! has §RNOT§! yet been restored to working order via §Ydecision§!."
+ hoover_eastern_boatlift_built_tt:9 "The §OEastern Boatlift§! will be restored to working order, allowing §Gfriendly§! vessels to circumnavigate the §YHoover Dam§!."
 
 
  # WTT decisions
@@ -191,3 +199,7 @@
   development_project_CFB_equimalt_wtt_desc: ""
   development_project_vandenberg_afb_wtt: "Restaurer Vandenberg AFB"
   development_project_vandenberg_afb_wtt_desc: ""
+ development_project_hoover_western_boatlift_wtt:9 "Repair the Western Boatlift at the Hoover Dam"
+ development_project_hoover_western_boatlift_wtt_desc:9 "While the Hoover Dam was for many years after its construction an impassible barrier across the Colorado River, shortly before the Great War the Americans embarked on an ambitioius engineering project to tackle this. Under the direction of the US Corps of Engineers, civilian contractors constructed two \"boatlifts\" (glorified locks): one on either side of the Dam. While theoretically designed to improve trade up and down the river, the locks never opened to civilian traffic before the Great War began. The are, however, far from broken: a few months of work could restore them to functioning."
+ development_project_hoover_eastern_boatlift_wtt:9 "Repair the Western Boatlift at the Hoover Dam"
+ development_project_hoover_eastern_boatlift_wtt_desc:9 "While the Hoover Dam was for many years after its construction an impassible barrier across the Colorado River, shortly before the Great War the Americans embarked on an ambitioius engineering project to tackle this. Under the direction of the US Corps of Engineers, civilian contractors constructed two \"boatlifts\" (glorified locks): one on either side of the Dam. While theoretically designed to improve trade up and down the river, the locks never opened to civilian traffic before the Great War began. The are, however, far from broken: a few months of work could restore them to functioning."

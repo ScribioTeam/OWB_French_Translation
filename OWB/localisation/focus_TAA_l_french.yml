@@ -70,7 +70,7 @@
  TAA_innovative_equipment_desc:0 "Parfois, mieux est vraiment mieux. Nous pourrions remplir nos entrepôts de pistolets artisanaux en quelques semaines, mais rien ne garantit qu'ils ne nous laisseront pas tomber si quelqu'un de l'État vient frapper à notre porte. C'est pourquoi la capacité à développer et à produire des armes modernes est la pierre angulaire de la défense de notre nation."
 
  TAA_see_that_mountain:0 "Voyez-Vous Cette Montagne ?"
- TAA_see_that_mountain_desc:0 "Les Terres Désolées ne sont pas vraiment agréables à chausser et elles ont toujours quelque chose pour fatiguer le plus grand nombre. Qu'il s'agisse de terrains rocheux, de déserts, de tempêtes de neige ou même de boue radioactive ! Mais quand les temps sont durs, n'oubliez jamais les paroles de notre chef impeccable : \"Vous voyez cette montagne ? Vous pouvez l'escalader."\"
+ TAA_see_that_mountain_desc:9 "Les Terres Désolées ne sont pas vraiment agréables à chausser et elles ont toujours quelque chose pour fatiguer le plus grand nombre. Qu'il s'agisse de terrains rocheux, de déserts, de tempêtes de neige ou même de boue radioactive ! Mais quand les temps sont durs, n'oubliez jamais les paroles de notre chef impeccable : \"Vous voyez cette montagne ? Vous pouvez l'escalader."\"
 
  TAA_stand_your_ground:0 "Tenez Bon"
  TAA_stand_your_ground_desc:0 "Il n'y a rien d'autre au monde qui puisse nous protéger que nous. Il est grand temps que nous le réalisions, car un jour, un méchant fils de pute va rouler sur cette rivière, et nous devrons nous dresser contre lui."
@@ -197,16 +197,16 @@
 
  TAA_our_potential_realized:0 "Our Potential, Realized"
  TAA_our_potential_realized_desc:0 "Nous avons parcouru un chemin incroyablement long depuis que nous avons rompu avec cette république corruptible, et il est maintenant grand temps de nous faire un vrai nom dans les Terres Dévastées, de nous tailler une part du monde que nous pouvons appeler la nôtre."
-    
+
  TAA_prepare_the_armouries:0 "Préparer les Armureries"
  TAA_prepare_the_armouries_desc:0 "Les préparatifs pour la guerre à venir ont commencé ; les maisons d'été ont été reconstruites en usines d'armement, les cafés transformés en bunkers, même quelques bureaux d'entreprises ont eu des nids de snipers postés sur leurs toits."
 
  TAA_rally_the_militia:0 "Rassembler le Peuple"
  TAA_rally_the_militia_desc:0 "Les gens en ont assez de la menace imminente d'une invasion de l'autre côté du Rio, et dans leur désespoir, ils sont bien plus disposés à combattre cet ennemi détesté."
-    
+
  TAA_rally_the_militia_2:0 "Dislodge the Iron Giant"
  TAA_rally_the_militia_2_desc:0 "A far greater threat has set foot on the soil of what was once the Republic of the Rio Grande, a dastardly, vengeful, AI with a nearly unstoppable robot army at his disposal. Santa Anna will stop at nothing to subjugate Texas, and we may very well have to be the ones that stop him."
-    
+
  TAA_fight_for_freedom:0 "Luttez pour la Liberté !"
  TAA_fight_for_freedom_desc:0 "Le temps est venu de revenir enfin sur cette voie d'eau redoutée pour s'engager dans un combat pour notre liberté, pas seulement la liberté d'être, mais la liberté d'être sans vivre sous la menace éternelle du noeud coulant."
 
@@ -221,7 +221,7 @@
 
  TAA_dig_new_wells:0 "Aussi Bien Que Possible"
  TAA_dig_new_wells_desc:0 "The water reserves in the Northwest are basically untapped; formidable aquifers are just begging to be cracked in to, and with only a bit of capital we can start extracting that sweet, clear gold."
-    
+
  TAA_erect_new_farms:0 "Construire de Nouvelles Fermes"
  TAA_erect_new_farms_desc:0 "L'agriculture est l'élément vital de toute civilisation résistante et, comme le vrai sang, elle est très rentable. Il ne serait pas du tout difficile de trouver un peu de capital-risque pour commencer à construire de nouvelles fermes, des casernes et des granges."
 
@@ -230,6 +230,15 @@
 
  TAA_todd_eats_a_cheeseburger:0 "Todd Mange un Cheeseburger"
  TAA_todd_eats_a_cheeseburger_desc:0 "Oh, il semble que Todd ait manqué le déjeuner aujourd'hui."
+
+ TAA_rosados_gun:9 "The Guns of the South"
+ TAA_rosados_gun_desc:9 "The Texas Development Zone, free of the old cartels, has turned out some of the best weapons of the Wasteland. If only Rosado didn't smile every time we fired them at targets."
+ TAA_miller_eats_salad:9 "Miller Orders a Salad"
+ TAA_miller_eats_salad_desc:9 "Technically, if we talk about work we can expense the margaritas."
+ TAA_rosado_school:9 "La Universidad de Texas"
+ TAA_rosado_school_desc:9 "Miller and Rosado have a dream - that one day everyone can have a free, quality education. Let the University open for all the people of Texas, and let Rosado's vision serve as a model for all the Wasteland."
+ TAA_vehicles_woo:9 "The Automotive Industry"
+ TAA_vehicles_woo_desc:9 "The Texan Development Zone's first automotive factory has opened! And more importantly, it can also make tanks!"
 
  TAA_import_digging_equipment:0 "Importation de Matériel d'Excavation"
  TAA_import_digging_equipment_desc:0 "L'état actuel de l'industrie minière dans le Rio fait cruellement défaut ; le plus grand défaut est l'absence totale d'équipements miniers avancés et de générateurs portables pour maintenir les opérations de creusement à grande échelle. Bien que nous ne soyons pas près de fissurer la planète, un peu de matériel d'excavation fait beaucoup de chemin."
@@ -311,8 +320,8 @@
 
     #tooltip
  taa_spawn_militia:0 "This will spawn a group of Militia!"
-    
-    
+
+
     #lord forgive me for what i am about to do in this event block
  nf_taa.1.t:0 "La Liberté n'est Pas Gratuite"
  nf_taa.1.desc:200 "Pendant la majeure partie des 200 dernières années, les familles de la TAA ont travaillé sous l'étroite surveillance de la République du Rio Grande. C'était une relation moins que favorable, des taxes élevées, une réglementation stricte et des limites strictes sur les personnes pour lesquelles nous pouvions réellement vendre et produire nos armes. Bien que nous soyons maintenant dans un lieu d'indépendance nominale, une position que nous avons à peine pu assurer avec notre..."
@@ -433,7 +442,7 @@
  nf_taa.742.t:0 "Mora Commence à Lever des Milices"
  nf_taa.742.desc:0 "Des rapports du RRG ont traversé la frontière avec des indications troublantes : Mora est en train d'élever des volontaires dans des milices prêtes pour une campagne offensive. Il ne fait guère de doute qu'il a des plans pour nous attaquer."
  nf_taa.742.a:0 "Nous serons prêts !"
-    
+
  nf_taa.132.t:0 "The TBH declines our offer."
  nf_taa.132.desc:0 "The response from the burgeoning TEU was swift and disappointing, it seems they have no intention of letting us bask in their little patch of the sun. This could either mean they just don't fancy us, or they're preparing to attack."
  nf_taa.132.a:0 "Disappointing."
@@ -441,4 +450,9 @@
  nf_taa.636865657365627572676572.t:0 "Il est temps d'un Cheeseburger"
  nf_taa.636865657365627572676572.desc:0 "Il était presque trois heures de l'après-midi quand Todd s'est rendu compte qu'il n'avait rien mangé de la journée. Il était bien trop tôt pour sortir dîner, mais bien trop tard pour aller dans un endroit où l'on sert le petit-déjeuner ; en tenant compte de ces considérations, il a fait une petite promenade sur la route qui mène à un restaurant local de hamburgers brahmaniques. La nourriture était peut-être un peu chère, mais bien préparée, voire un peu trop cuite ; Todd était légèrement fatigué, mais bien nourri."
  nf_taa.636865657365627572676572.a:0 "Huh, pas mal."
+
+
+ nf_taa.14.t:9 "Chicken Caesar is a Poor Joke"
+ nf_taa.14.d:9 "It was approaching three in the afternoon when the realization had struck Miller he missed lunch today.  It was far too early to go to dinner, too late for breakfast.  With that in mind he went to the cafeteria that served moderately overpriced organic food to the noveau riche. As he ate into the brahmin avocado salad, he reflected that Rosado had really brought the nation a long way."
+ nf_taa.14.a:9 "Huh, not bad."
  #anything else

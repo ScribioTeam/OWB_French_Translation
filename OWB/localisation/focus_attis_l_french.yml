@@ -145,8 +145,10 @@
  shale_an_unfortunate_reunion:0 "Une Réunion Malheureuse"
  shale_an_unfortunate_reunion_desc:0 "Il s'avère que cette installation de haut niveau n'est pas tout ce qu'il y a dans l'Abri - en regardant plus profondément, on peut voir qu'il y a clairement une sorte d'installation plus profonde au fond ! Peut-être y trouverons-nous ce qui est vraiment arrivé à Attis - peut-être même ses restes ?"
 
- shale_defending_against_the_monster:0 "Se Défendre Contre le Monstre"
- shale_defending_against_the_monster_desc:0 "Nous avons entendu dire qu'un monstre se dirigeait par ici - nous ne pouvons pas le laisser s'immiscer dans nos glorieuses conquêtes ! Engageons quelqu'un pour nous aider à le maîtriser."
+ shale_defending_against_the_monster:9 "Se Défendre Contre le Monstre"
+ shale_defending_against_the_monster_desc:9 "We have heard word that a tyrant is heading this way - we can't let her interfer in our glorious conquests! We will have to delay our conflict against the rest of the army until we have this sorted!"
+
+ sha_make_three_way_war_harder_to_do:9 "§RTaking this focus will make "The Three Way War for Unity" impossible to complete until the west has been dealt with.§!"
 
  shale_planning_against_the_paladins:0 "Planifier Contre les Paladins"
  shale_planning_against_the_paladins_desc:0 "En fin de compte, nos conquêtes devront inclure les terres de l'Est - les terres des \"Paladins\". Examinons les moyens de remporter cette future guerre avec succès."
@@ -189,6 +191,21 @@
 
  shale_the_road_of_conquest:0 "La Route de la Conquête"
  shale_the_road_of_conquest_desc:0 "Il est temps de nous mesurer à ce que le Texas a de mieux à offrir. C'est là que nous nous montrons les véritables héritiers de l'héritage d'Attis - ou que nous mourons en essayant."
+
+ shale_cerberus_unity_unleashed:9 "§!§!§RTrue Unity§!"
+ shale_cerberus_unity_unleashed_desc:9 ""
+
+ shale_cerberus_mexico:9 "§!§!§RLand of Titans§!"
+ shale_cerberus_mexico_desc:9 ""
+
+ shale_cerberus_west:9 "§!§!§RMar's Domain§!"
+ shale_cerberus_west_desc:9 ""
+
+ shale_cerberus_the_masters_legacy:9 "§!§!§RThe Master's Legacy§!"
+ shale_cerberus_the_masters_legacy_desc:9 ""
+
+ shale_cerberus_the_final_flame:9 "§!§!§RThe Final Flame§!"
+ shale_cerberus_the_final_flame_desc:9 ""
 
  imo_the_steelworks:0 "L'Aciérie"
  imo_the_steelworks_desc:0 "Lorsque la bande de guerre de Juggernaught a reçu l'ordre d'Attis de s'emparer du cœur industriel du Texas, il a pris cet ordre avec diligence. Il s'agissait simplement de repousser ceux qui vivaient là - de simples pilleurs et de petites créatures... Ce que ces Super-Mutants n'auraient pas pu prévoir, c'est à quel point ils \"aimaient\" l'endroit qu'ils avaient pris. Tant de métal, tant d'outils et tant de plaisir ! Les Ironmongers ont fait de l'usine sidérurgique leur maison, leur identité."
@@ -243,6 +260,12 @@
 
  imo_slimmed_chasis:0 "Chasis Amincies"
  imo_slimmed_chasis_desc:0 "Mais quelques plaques suffisent aussi. Il ne faut pas aller trop lentement."
+
+ imo_ach_tbh_puppet:9 "A Fun Challenge"
+ imo_ach_tbh_puppet_desc:9 "Metal-men think they are strong! We will show them!"
+
+ imo_ach_no_shale:9 "Now's Our Chance!"
+ imo_ach_no_shale_desc:9 "With Shale gone we don't have to fear an attack from the north - let's go east and try our toys on someone new!"
 
  imo_unification_wars:0 "Guerres d'Unification"
  imo_unification_wars_desc:0 "Au nord, les autres restes de l'armée Attis nous ont pour la plupart laissés tranquilles... mais ce ne sera pas toujours le cas. Ils finiront par essayer de nous rappeler, de nous enlever cette identité que nous nous sommes faite. Nous ne renoncerons jamais à la forge - même si cela signifie que nous devons unifier l'armée nous-mêmes pour y parvenir !"
@@ -316,7 +339,9 @@
  uoa_texan_integration_act:0 "La Loi sur l'Intégration Texane"
  uoa_texan_integration_act_desc:0 "Maintenant que nous avons unifié les restes de l'armée d'Attis, nous pouvons envisager d'intégrer Austin au Texas proprement dit. Depuis le Texas, nous pouvons mieux diffuser nos idéaux d'amitié mutante et humaine et assurer la survie et la protection d'Austin."
 
-
+ uoa_failure_of_the_union:9 "The \"Failure of the Union\" Speech"
+ uoa_failure_of_the_union_desc:9 "Great people of Austin! Tell me today - why has the Texan Economic Union failed us so? We should be equal members, yet still we are treated as second class citizens by the people of Texas! Its time we break off, form our own state seperate from Texas!"
+ some_stuff_for_leaving_fucking_texas_or_something:9 "By having our scientists leave the Texan Economic Union we can better put them towards things that matter!\n"
 #Tooltips
  attis_army_no_justify_tt:0 "§RPays avec l'esprit national§! §Y\"Restes de l'Armée d'Attis\"§! §Rne peuvent pas se justifier les uns les autres manuellement et doivent utiliser les objectifs de guerre donnés par les centres d'intérêt nationaux.§!"
  attis_army_no_justify_idea_tt:0 "\nLes pays qui ont cette idée ne peuvent pas se justifier manuellement et doivent utiliser les objectifs de guerre donnés par les centres d'intérêt nationaux."
@@ -324,7 +349,8 @@
  imo_raid_armageddon_station_desc:0 "Maintenant que nous contrôlons la station d'Armageddon, nous pouvons la faire exploser ! Utilisons la ferraille et les métaux pour améliorer encore nos chariots de combat !"
  has_at_least_1_unit_leader_tt:0 "A au moins §Y1§! chef d'unité."
  attis_unlock_border_war:0 "Débloque §YGuerre frontalière§! décisions de prendre l'État."
- every_mexican_state:0 "Chaque État mexicain :"
+ every_mexican_state:9 "Chaque État mexicain :"
+ every_new_mexican_state:9 "Every §YNew Mexican§! State"
  uoa_cant_join_tt:0 "§RNous ne pouvons raisonnablement demander à nos soldats de se battre aux côtés des Super-Mutants. Keats va devoir gagner par lui-même.§!"
  uoa_cant_call_tt:0 "§RLa stigmatisation culturelle de la Confrérie à l'égard des Super-Mutants les empêche de se joindre à nous dans ce conflit !§!"
  shale_reunite_the_army_tt:0 "Nous rompons la trêve que nous avons formée avec les autres restes de §Yl'Armée d'Attis§! et recommencer les hostilités ! sa volonté de déclencher immédiatement une guerre à trois entre nous, §Yles Ironmongers§! et §Yl'Unité d'Austin§!\n\n"

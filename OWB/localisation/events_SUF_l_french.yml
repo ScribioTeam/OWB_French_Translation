@@ -1,0 +1,30 @@
+﻿l_french:
+################################## EVENTS ##############################################
+ nf_suf.1.t:9 "The \"Big Boom\""
+ nf_suf.1.desc:9 "Fireworks splintered in the air and wreckage was blasted away! The\"Big Boom\" was the name most people called it, a celebration held once each year - on the same day of the same month at the hour.\n\nIt was a celebration to commemorate the formation of the Summers Federation, a union of three wayward little city states.\n\nBackwoods, the first of these towns, was a waste dump situated at the top of a rocky massif. It was at the time of founding just a home of squatters and survivors looking for a place to hide from raiders - the tall rock useful to notice warbands on the horizon.\n\nWhat would the people of the Backwoods bring to the Summers Federation?"
+ nf_suf.1.option.a:9 "Stories of a forgotten hero."
+ nf_suf.1.option.b:9 "Stories of a fallen frontier."
+
+ nf_suf.2.t:9 "Family Squabbles"
+ nf_suf.2.desc:9 "The second of the cities was the town of Chewelah, a little prosperous city founded by the legendary Troy Chewelah - a former vaulter! Unfortunately, Troy’s hopes for the strength of an ideal democratic society didn’t last long against the savagery that the wasteland demanded. Chewelah found itself gripped with war and tribalism, families staging decades long blood feuds against one another. It was only with the integration of the town into the federation that outside arbitration was able to put the conflicts of the town to an end.\n\nWhich of the families would the Federation say was in the right?"
+ nf_suf.2.option.a:9 "The Troys’."
+ nf_suf.2.option.b:9 "The Garrets’."
+
+ nf_suf.3.t:9 "Our Biggest Loss Yet"
+ nf_suf.3.desc:9 "The last of the cities to join the Summers Federation was the richest and most plentiful. Plainsrunner - a former supply depot that trailers used to send supplies deeper down the I-10 - formed into a rich community off of the salvage in the town, sending shipments across the wasteland. It was only during a raider attack by the famed \"Raider Matron\" that the town agreed to join the federation in order to receive protection.\n\nHowever, Plainsrunner would not remain in the hands of the Federation for long. A few decades later a new band of raiders known as \"The Executives\" fought a war to take Plainsrunner from the Summers Federation, eventually swiping the city from the Federations hold.\n\nWhich supplies would the Federation try to save before the city was taken?"
+ nf_suf.3.option.a:9 "Tools!"
+ nf_suf.3.option.b:9 "Guns!"
+
+ nf_suf.4.t:9 "Traders from the Summers Federation Arrive"
+ nf_suf.4.desc:9 "Recently some traders from down south in New Mexico have arrived, claiming to be from the \"Summers Federation\" - they offer us technology and base materials in exchange for survival knowledge and schematics. The deals they offer us tend to be in our favour - mostly since they do not seem to understand the importance and potential of the tech they have.\n\nStill, if we do not wish to deal with them it simply is a matter of keeping them from entering our bunker."
+ nf_suf.4.option.a:9 "Will be interesting to see how this goes.."
+ nf_suf.4.tt:9 "The Summers Federation will continue to trade with us until we stop them."
+
+ nf_suf.5.t:9 "The Summers-Maxson Technology Lease?"
+ nf_suf.5.desc:9 "The Summers Federation is offering us a deal!\n\nIf we accept resource rights from them they will gain a technology benefit! This will improve our industry for a few years while the state resources are transferred to us. Do we accept?"
+ nf_suf.5.option.a:9 "Its hard to turn down a deal this good!"
+ nf_suf.5.option.b:9 "They must be joking"
+
+ nf_suf.6.t:9 "Maxson Turns Us Away!"
+ nf_suf.6.desc:9 "It seems our relation with them has soured! We can no longer do business with them!"
+ nf_suf.6.option.a:9 "Oh no!"

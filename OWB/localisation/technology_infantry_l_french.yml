@@ -34,7 +34,7 @@
  unit_training_tech_8_desc:0 "Les modules d’entraînement d’avant-guerre, chargés de toutes les améliorations apportées précédemment à nos exercices militaires, permettent à nos troupes de devenir des soldats expérimentés beaucoup plus rapidement, avec moins de ressources destinées aux camps d’entraînement."
 
  #----------------------------
- # Ranged Weaponry
+ # Heavy Inf Gear
  #----------------------------
  heavy_infantry_tech_1:0 "Troupes d'exécution"
  heavy_infantry_tech_1_desc:0 ""
@@ -60,8 +60,12 @@
  ballistic_weaponry_tech_2:0 "Armes balistiques communes"
  ballistic_weaponry_tech_3:0 "Armes balistiques améliorées"
  ballistic_weaponry_tech_4:0 "Armes balistiques avancées"
+ energy_weapon_emitter_tech:9 "Focusing Arrays"
+ energy_weapon_emitter_tech_desc:9 ""
  warrior_equipment:0 "Équipement du guerrier"
  warrior_equipment_desc:0 "Fournir des choses comme des sacs, des sacs de couchage, des trousses médicales et des outils d'entretien améliore le moral et l'efficacité au combat."
+ warrior_melee_tech:9 "Simplified Designs"
+ warrior_melee_tech_desc:9 ""
  overcharged_ammunition:0 "Munitions surchargées"
  overcharged_ammunition_desc:0 "En demandant à nos fabricants de surcharger nos MFC, ECP et EC avant de les expédier à nos troupes, nous pouvons nous assurer que nos armes à énergie sont plus puissantes sans qu'il soit nécessaire de modifier directement l'arme."
  custom_built_capacitors:0 "Condensateurs sur mesure"

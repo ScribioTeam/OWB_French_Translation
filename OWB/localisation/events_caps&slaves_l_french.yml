@@ -4,35 +4,35 @@
  nf_caps_slaves.1.a:0 "Acheter l'Addictol"
  nf_caps_slaves.1.b:500 "500 capsules ? Pas question !"
  nf_caps_slaves.1.c:0 "§MUtiliser nos connaissances en matière de guérison pour aider§!"
-  
+
  nf_caps_slaves.2.t:0 "Crise d'addiction au Jet"
  nf_caps_slaves.2.d:500 "Après notre récent déploiement de jet pour les troupes de première ligne, notre personnel de commandement a remarqué que la détermination physique des troupes a considérablement diminué. Nos principaux experts médicaux ont examiné les troupes touchées et il semble que beaucoup d'entre elles soient devenues dépendantes de ce produit chimique, le jet. Nos physiciens nous suggèrent d'acheter de grandes quantités d'addictol pour combattre les effets de la dépendance, ils en estiment le coût à 500 capsules."
  nf_caps_slaves.2.a:0 "Acheter l'addictol"
  nf_caps_slaves.2.b:0 "Laissez-les souffrir"
  nf_caps_slaves.2.c:0 "§MUtiliser nos connaissances en matière de guérison pour aiderp§!"
-  
+
  nf_caps_slaves.3.t:0 "Rage psychotique"
  nf_caps_slaves.3.d:0 "Des nouvelles urgentes en provenance de la ligne de front suggèrent que le recours au psycho a provoqué chez certaines troupes une rage psychotique irrépressible. Ces hommes incontrôlables ont causé des dégâts massifs et tué plusieurs troupes amies. Notre état-major n'a pas eu d'autre choix que de... mettre fin au problème."
  nf_caps_slaves.3.a:0 "C'est une mauvaise nouvelle"
  nf_caps_slaves.3.b:0 "Qui s'en soucie ?"
-  
+
  nf_caps_slaves.4.t:0 "Pillage d'une caravane commerciale"
  nf_caps_slaves.4.d:0 "Nos bandes de pilleurs ont réussi à piller une autre caravane commerciale transportant des matériaux précieux pour le commerce."
  nf_caps_slaves.4.a:0 "Plus pour nos coffres"
-  
+
  nf_caps_slaves.5.t:0 "Caravane commerciale pillée !"
  nf_caps_slaves.5.d:0 "Des nouvelles urgentes de notre guilde de commerçants suggèrent que l'une des caravanes transportant des matériaux précieux pour le commerce a récemment été prise en embuscade par des pilleurs sauvages. Quelqu'un doit payer pour cela, si nous ne leur donnons pas une leçon, ils attaqueront sûrement nos caravanes à nouveau."
  nf_caps_slaves.5.a:0 "C'est une mauvaise nouvelle"
-  
+
  nf_caps_slaves.20.t:0 "Le Bone Yard Capturé"
  nf_caps_slaves.20.d:500 "Après notre récent déploiement de buffout pour les troupes de première ligne, notre personnel de commandement a remarqué que la motivation et la détermination physique des troupes diminuent considérablement. Nos principaux experts médicaux ont examiné les troupes touchées et il semble que beaucoup d'entre elles soient devenues dépendantes aux stéroïdes. Nos physiciens nous suggèrent d'acheter de grandes quantités d'addictol pour combattre les effets de la dépendance, ils estiment le coût à 500 capsules."
  nf_caps_slaves.20.a:0 "Acheter l'Addictol"
-  
+
  nf_caps_slaves.22.t:0 "Red Sun Capturé"
  nf_caps_slaves.22.d:0 "Des nouvelles urgentes en provenance de la ligne de front suggèrent que le recours au psycho a provoqué chez certaines troupes une rage psychotique irrépressible. Ces hommes incontrôlables ont causé des dégâts massifs et tué plusieurs troupes amies. Notre état-major n'a pas eu d'autre choix que de... mettre fin au problème."
  nf_caps_slaves.22.a:0 "C'est une mauvaise nouvelle"
-  
-  
-  
+
+
+
  caps_event_tt_medical_tech_chem_addiction:50 "§Y50%§! la crise d'addiction est résolue"
  caps_event_tt_bad:0 "§RVous êtes une mauvaise personne§!"
