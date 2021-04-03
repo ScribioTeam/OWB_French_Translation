@@ -1,4 +1,5 @@
 ﻿l_english:
-  allowed_to_join_factions_tt: "Is allowed to join factions"
-  not_allowed_to_join_factions_tt: "Is §Rnot§! allowed to join factions"
-  is_faction_of_one_tt: "Is the only member of a faction"
+  has_more_then_x_cored_states: "Has more then [?cored_states_trigger|§*§0§Y] cored states.\n"
+  allowed_to_join_factions_tt:0 "Is allowed to join factions"
+  not_allowed_to_join_factions_tt:0 "Is §Rnot§! allowed to join factions"
+  is_faction_of_one_tt:0 "Is the only member of a faction"

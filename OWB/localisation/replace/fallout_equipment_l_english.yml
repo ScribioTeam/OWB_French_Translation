@@ -42,13 +42,17 @@
   fireteam_equipment_short:0 "Fireteam Weaponry"
   fireteam_equipment_desc:0 ""
 
+  anti_air_equipment:0 "Anti-Air Weaponry"
+  anti_air_equipment_short:0 "AA Gear"
+  anti_air_equipment_desc:0 ""
+
   radio_equipment:0 "Portable Radios"
   radio_equipment_short:0 "Portable Radio"
   radio_equipment_desc:0 ""
 
   forward_firebase_equipment:0 "Mobile Fortifications"
   forward_firebase_equipment_short:0 "Fortifications"
-  forward_firebase_equipment:0 ""
+  forward_firebase_equipment_desc:0 ""
 
   demolitions_equipment:0 "Demolition Equipment"
   demolitions_equipment_short:0 "Demolition Equipment"
@@ -298,6 +302,14 @@
   energy_fireteam_equipment_4_short:0 "Tesla Cannon"
   energy_fireteam_equipment_4_desc:0 "Originally an anti-tank weapon, this tesla device is modified to be more akin to an autocannon than its heavier sibling by the installation of smaller focusing array, and quick-discharge electron packs. While the rate of fire is quite low, the sheer impact and piercing capabilities of each shot is enough to puncture any body armour."
 
+ # Anti air AA equipment
+  anti_air_equipment_1:0 "Unguided Volley Launcher System"
+  anti_air_equipment_1_short:0 "UV-LS AA"
+  anti_air_equipment_1_desc:0 ""
+  anti_air_equipment_2:0 "Proximity Fuse Munitions Rocket System"
+  anti_air_equipment_2_short:0 "PF-MRS AA"
+  anti_air_equipment_2_desc:0 ""
+
  # Demolitions Equipment
   demolitions_equipment_1:0 "Dynamite"
   demolitions_equipment_1_short:0 "Dynamite"
@@ -522,7 +534,7 @@
 
   fighter_equipment_1:0 "Glider"
   fighter_equipment_1_short:0 "Glider"
-  fighter_equipment_1_desc:0 "Our engineers have, after multiple stressful tests, invented a glider able to strike from the sky. Armed with two submachine guns, a complement of grenades for ground strikes, and a lot of prayers, our pilots can now support frontline troops. A mobile catapult system, installed on a truck bed for launching procedures, also gives them a considerably increased range, as the trucks have more autonomy than our gliders."
+  #fighter_equipment_1_desc:0 "Our engineers have, after multiple stressful tests, invented a glider able to strike from the sky. Armed with two submachine guns, a complement of grenades for ground strikes, and a lot of prayers, our pilots can now support frontline troops. A mobile catapult system, installed on a truck bed for launching procedures, also gives them a considerably increased range, as the trucks have more autonomy than our gliders."
 
   fighter_equipment_2:0 "Biplane Fighter"
   fighter_equipment_2_short:0 "Biplane Fighter"
@@ -530,7 +542,7 @@
 
   fighter_equipment_3:0 "Monoplane Fighter"
   fighter_equipment_3_short:0 "Monoplane Fighter"
-  fighter_equipment_3_desc:0 "As speed and low drag become primordial, a monoplane design is now preferable. Increased weight capacity allows the installation of a third, air-cooled, higher calibre machine gun for gun runs, as well as external struts able to support two 100lb high explosive bombs. Stacked powerpack units allow higher top speed, giving us the possibility for increased strike range, and interception techniques against enemy crafts."
+  #fighter_equipment_3_desc:0 "As speed and low drag become primordial, a monoplane design is now preferable. Increased weight capacity allows the installation of a third, air-cooled, higher calibre machine gun for gun runs, as well as external struts able to support two 100lb high explosive bombs. Stacked powerpack units allow higher top speed, giving us the possibility for increased strike range, and interception techniques against enemy crafts."
 
   fighter_equipment_4:0 "Jetfighter"
   fighter_equipment_4_short:0 "Jetfighter"

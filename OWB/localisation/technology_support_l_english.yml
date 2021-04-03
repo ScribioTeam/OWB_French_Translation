@@ -71,6 +71,15 @@
   anti_tank_tech_2:0 "Vital Point Targeting"
   anti_tank_tech_2_desc:0 "Improved armor piercing ordinance and aiming devices, as well as better muzzle velocity, allows our anti-tank team to aim precisely at enemy weakspots. Additional training in recon and identification with basic technical know-how of enemy equipment let them identify such weak spots in seconds."
 
+  aa_fireteam_equipment_tech:0 "AA Equipment T1"
+  aa_fireteam_equipment_tech_desc:0 ""
+  aa_fireteam_tech:0 "Proximity Munitions"
+  aa_fireteam_tech_desc:0 ""
+  aa_fireteam_equipment_tech_2:0 "AA Equipment T2"
+  aa_fireteam_equipment_tech_2_desc:0 ""
+  aa_fireteam_tech_2:0 "Guided Munitions"
+  aa_fireteam_tech_2_desc:0 ""
+
   maintenance_company_tech_1:0 "Maintenance Companies"
   maintenance_company_tech_1_desc:0 "Dedicated engineering team hitting the field along with our divisions can help maintain our equipment much better than common soldiers would. Providing them with more supplies and spare parts should lessen the strain on our manufacturing plants, as less equipment needs to be fully replaced."
   maintenance_company_tech_2:0 "Maintenance Efficiency II"

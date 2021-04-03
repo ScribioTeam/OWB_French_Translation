@@ -1,9 +1,9 @@
 ﻿l_english:
   #General
-  flower_war_peacetime_countdown: "Ceasefire on the Border"
-  flower_war_peacetime_countdown_desc: "After the most recent series of large-scale border clashes, [ROOT.flw_enemy] and ourselves have both withdrawn from contested border regions somewhat, to avoid provoking a full-scale war, and to ensure we will come out victorious next time. The fighting will resume soon enough, there is no doubt!"
-  flower_war_gotime_countdown: "Tensions on the Border!"
-  flower_war_gotime_countdown_desc: "Minor skirmishes on the border have recently begun escalating into small-scale combat. A border war seems bound to break out on the border with [ROOT.flw_enemy] at any moment!"
+  flower_war_peacetime_countdown:0 "Ceasefire on the Border"
+  flower_war_peacetime_countdown_desc:0 "After the most recent series of large-scale border clashes, [ROOT.flw_enemy] and ourselves have both withdrawn from contested border regions somewhat, to avoid provoking a full-scale war, and to ensure we will come out victorious next time. The fighting will resume soon enough, there is no doubt!"
+  flower_war_gotime_countdown:0 "Tensions on the Border!"
+  flower_war_gotime_countdown_desc:0 "Minor skirmishes on the border have recently begun escalating into small-scale combat. A border war seems bound to break out on the border with [ROOT.flw_enemy] at any moment!"
 
   #Aztlan
   intel_reform1:0 "Begin Reforms"
@@ -88,25 +88,25 @@
   pet_cointel_desc:0 "Outside forces have infiltrated our nation, necessitating a renewed effort to safeguard ourselves from them."
 
   # Categories
-  flower_wars: "The Flower Wars"
-  flower_wars_desc: "For many decades, border clashes have raged between ourselves and [ROOT.flw_enemy]. The clashes revolve around three main states: Mexico City, He'la' Uuchben Ts'oon, and La Tumba Compartida. Owning these states gives us important stability bonuses, and also gives our enemy important debuffs. The border is contested every three or four months, with inititive flipping backwards and forward between ourselves and [ROOT.flw_enemy]. If we fail to ignite a border war, as our hard-liners demand, we will face harsh consequences..."
+  flower_wars:0 "The Flower Wars"
+  flower_wars_desc:0 "For many decades, border clashes have raged between ourselves and [ROOT.flw_enemy]. The clashes revolve around three main states: Mexico City, He'la' Uuchben Ts'oon, and La Tumba Compartida. Owning these states gives us important stability bonuses, and also gives our enemy important debuffs. The border is contested every three or four months, with inititive flipping backwards and forward between ourselves and [ROOT.flw_enemy]. If we fail to ignite a border war, as our hard-liners demand, we will face harsh consequences..."
 
   refine_operations_cat:0 "Reform La Fuerza Especial"
   refine_operations_cat_desc:0 "Our warriors' proud legacy is sometimes overshadowed by our operatives' colossal mistakes. Winning the Flower Wars will take more than a strong army, necessitating major reforms."
 
-  tdt_defend_home_cat: "Defend Our Home"
-  tdt_defend_home_cat_desc: "Malign forces surround us, forcing a realignment of our political and military priorities. We must defend our home!"
-  tdt_expand_home_cat: "Expand Our Home"
-  tdt_expand_home_cat_desc: "It's time to expand anew, conquering and raiding whatever provides the most appealing target."
+  tdt_defend_home_cat:0 "Defend Our Home"
+  tdt_defend_home_cat_desc:0 "Malign forces surround us, forcing a realignment of our political and military priorities. We must defend our home!"
+  tdt_expand_home_cat:0 "Expand Our Home"
+  tdt_expand_home_cat_desc:0 "It's time to expand anew, conquering and raiding whatever provides the most appealing target."
 
-  pet_investigate_cat: "Respond to Foreign Operations"
-  pet_investigate_cat_desc: "There have been suspicious activities in our country as of late. We should investigate in order to get to the bottom of them."
+  pet_investigate_cat:0 "Respond to Foreign Operations"
+  pet_investigate_cat_desc:0 "There have been suspicious activities in our country as of late. We should investigate in order to get to the bottom of them."
 
   # Tooltips
-  has_flw_initiative: "We have the initiative in the Flower Wars"
-  flw_cancelled: "The §YFlower War§! has been ceased due to war, diplomacy or other events"
-  flw_following_happen: "§RThe following will occur when this mission completes:§! \n"
+  has_flw_initiative:0 "We have the initiative in the Flower Wars"
+  flw_cancelled:0 "The §YFlower War§! has been ceased due to war, diplomacy or other events"
+  flw_following_happen:0 "§RThe following will occur when this mission completes:§! \n"
 
   # Scripted loc keys
-  flw_ate_name: "[ATE.GetNameDef]"
-  flw_itz_name: "[ITZ.GetNameDef]"
+  flw_ate_name:0 "[ATE.GetNameDef]"
+  flw_itz_name:0 "[ITZ.GetNameDef]"

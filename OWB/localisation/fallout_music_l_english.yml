@@ -8,16 +8,16 @@
   #############################################################
   # Stations
   #############################################################
-  ambient_TITLE: "Old World Blues OST"
-  fallout_1_ost_TITLE: "Fallout 1 OST"
-  fallout_2_ost_TITLE: "Fallout 2 OST"
-  fallout_3_ost_TITLE: "Fallout 3 OST"
-  fallout_nv_ost_TITLE: "Fallout New Vegas OST"
-  fallout_4_ost_TITLE: "Fallout 4 OST"
-  fallout_3_radio_TITLE: "Fallout 3 Radio"
-  fallout_nv_radio_TITLE: "Fallout New Vegas Radio"
-  fallout_4_radio_TITLE: "Fallout 4 Radio"
-  enclave_radio_TITLE: "Enclave Radio"
+  ambient_TITLE:0 "Old World Blues OST"
+  fallout_1_ost_TITLE:0 "Fallout 1 OST"
+  fallout_2_ost_TITLE:0 "Fallout 2 OST"
+  fallout_3_ost_TITLE:0 "Fallout 3 OST"
+  fallout_nv_ost_TITLE:0 "Fallout New Vegas OST"
+  fallout_4_ost_TITLE:0 "Fallout 4 OST"
+  fallout_3_radio_TITLE:0 "Fallout 3 Radio"
+  fallout_nv_radio_TITLE:0 "Fallout New Vegas Radio"
+  fallout_4_radio_TITLE:0 "Fallout 4 Radio"
+  enclave_radio_TITLE:0 "Enclave Radio"
   #######################
   #     FALLOUT  1      #
   #######################
@@ -132,12 +132,14 @@
   owb_dev_team_battle_for_mexico:0 "OWB Dev Team - Battle for Mexico"
   owb_dev_team_huangdi_the_emperor:0 "OWB Dev Team - Huangdi (The Emperor)"
 
+  owb_dev_team_yellow_rose_of_texas:0 "Yellow Rose of Texas"
+
   # Original
   brotherhoodwar:0 "Ambush"
 
   # Music Decisions
-  music_settings_category: "Change Music Settings"
-  music_settings_category_desc: "Modify the way the radio automatically plays songs, such as disabling ambient music or only playing songs from one Fallout Game."
+  music_settings_category:0 "Change Music Settings"
+  music_settings_category_desc:0 "Modify the way the radio automatically plays songs, such as disabling ambient music or only playing songs from one Fallout Game."
   music_settings_decision_1:0 "Music Settings"
   music_settings_decision_2:0 "Change Music Settings"
   music_event_idea_2:0 "Change Extra Music Settings"

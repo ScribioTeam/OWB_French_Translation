@@ -1,112 +1,112 @@
 ﻿l_english:
  # ideas
-  brk_startup_natives: "Native Settler Heritage"
-  brk_startup_natives_desc: ""
+  brk_startup_natives:0 "Native Settler Heritage"
+  brk_startup_natives_desc:0 ""
 
-  brk_startup_marines: "Marine Corps Heritage"
-  brk_startup_marines_desc: ""
+  brk_startup_marines:0 "Marine Corps Heritage"
+  brk_startup_marines_desc:0 ""
 
-  brk_startup_sailors: "Sailor Heritage"
-  brk_startup_sailors_desc: ""
+  brk_startup_sailors:0 "Sailor Heritage"
+  brk_startup_sailors_desc:0 ""
 
-  brk_startup_fled: "Flexible"
-  brk_startup_fled_desc: ""
+  brk_startup_fled:0 "Flexible"
+  brk_startup_fled_desc:0 ""
 
-  brk_startup_sheltered: "Sheltered"
-  brk_startup_sheltered_desc: ""
+  brk_startup_sheltered:0 "Sheltered"
+  brk_startup_sheltered_desc:0 ""
 
-  brk_startup_weathered: "Weathered"
-  brk_startup_weathered_desc: ""
+  brk_startup_weathered:0 "Weathered"
+  brk_startup_weathered_desc:0 ""
 
-  brk_startup_riches: "Prospect of Wealth"
-  brk_startup_riches_desc: ""
+  brk_startup_riches:0 "Prospect of Wealth"
+  brk_startup_riches_desc:0 ""
 
-  brk_startup_slaves: "Prospect of Slaves"
-  brk_startup_slaves_desc: ""
+  brk_startup_slaves:0 "Prospect of Slaves"
+  brk_startup_slaves_desc:0 ""
 
-  brk_tech_adaptation: "Technological Adaptation"
-  brk_tech_adaptation_desc: "Adjustments take a lot of effort, but if we manage, we will be much better off for it."
+  brk_tech_adaptation:0 "Technological Adaptation"
+  brk_tech_adaptation_desc:0 "Adjustments take a lot of effort, but if we manage, we will be much better off for it."
 
-  brk_tech_adaptation_rewards: "Technological Adaptation Complete"
-  brk_tech_adaptation_rewards_desc: "Our efforts paid off, now we can raid with brain and brawn."
+  brk_tech_adaptation_rewards:0 "Technological Adaptation Complete"
+  brk_tech_adaptation_rewards_desc:0 "Our efforts paid off, now we can raid with brain and brawn."
 
-  brk_ruler: "Graven the Cruel"
-  brk_ruler_desc: ""
+  brk_ruler:0 "Graven the Cruel"
+  brk_ruler_desc:0 ""
 
-  brk_ruler_1: "Undisputed Authority"
-  brk_ruler_1_desc: ""
+  brk_ruler_1:0 "Undisputed Authority"
+  brk_ruler_1_desc:0 ""
 
-  brk_ruler_2: "Enslaved Opposition"
-  brk_ruler_2_desc: ""
+  brk_ruler_2:0 "Enslaved Opposition"
+  brk_ruler_2_desc:0 ""
 
-  brk_ruler_3_conquest: "Trophy Wife"
-  brk_ruler_3_conquest_desc: ""
+  brk_ruler_3_conquest:0 "Trophy Wife"
+  brk_ruler_3_conquest_desc:0 ""
 
-  brk_ruler_3_strength: "Martial Wife"
-  brk_ruler_3_strength_desc: ""
+  brk_ruler_3_strength:0 "Martial Wife"
+  brk_ruler_3_strength_desc:0 ""
 
-  brk_elites: "Ragnar"
-  brk_elites_desc: ""
+  brk_elites:0 "Ragnar"
+  brk_elites_desc:0 ""
 
-  brk_elites_1: "The Duel"
-  brk_elites_1_desc: ""
+  brk_elites_1:0 "The Duel"
+  brk_elites_1_desc:0 ""
 
-  brk_elites_2: "Warrior Council"
-  brk_elites_2_desc: ""
+  brk_elites_2:0 "Warrior Council"
+  brk_elites_2_desc:0 ""
 
-  brk_elites_2_offense: "Offence Council"
-  brk_elites_2_offense_desc: ""
+  brk_elites_2_offense:0 "Offence Council"
+  brk_elites_2_offense_desc:0 ""
 
-  brk_elites_2_defense: "Defence Council"
-  brk_elites_2_defense_desc: ""
+  brk_elites_2_defense:0 "Defence Council"
+  brk_elites_2_defense_desc:0 ""
 
-  brk_salvage_parties: "Salvage Parties"
-  brk_salvage_parties_desc: ""
+  brk_salvage_parties:0 "Salvage Parties"
+  brk_salvage_parties_desc:0 ""
 
-  brk_slave: "Slaves"
-  brk_slave_desc: ""
+  brk_slave:0 "Slaves"
+  brk_slave_desc:0 ""
 
-  brk_slave_1: "Working Slaves"
-  brk_slave_1_desc: ""
+  brk_slave_1:0 "Working Slaves"
+  brk_slave_1_desc:0 ""
 
-  brk_slave_2: "Slave Selection"
-  brk_slave_2_desc: ""
+  brk_slave_2:0 "Slave Selection"
+  brk_slave_2_desc:0 ""
 
-  brk_slave_3: "Slave Work Schedules"
-  brk_slave_3_desc: ""
+  brk_slave_3:0 "Slave Work Schedules"
+  brk_slave_3_desc:0 ""
 
-  brk_spikes: "Spikes"
-  brk_spikes_desc: ""
+  brk_spikes:0 "Spikes"
+  brk_spikes_desc:0 ""
 
-  brk_spikes_1: "Additional spikes"
-  brk_spikes_1_desc: ""
+  brk_spikes_1:0 "Additional spikes"
+  brk_spikes_1_desc:0 ""
 
-  brk_plates: "Plating"
-  brk_plates_desc: ""
+  brk_plates:0 "Plating"
+  brk_plates_desc:0 ""
 
-  brk_plates_1: "Even more Plating"
-  brk_plates_1_desc: ""
+  brk_plates_1:0 "Even more Plating"
+  brk_plates_1_desc:0 ""
 
-  brk_manu_drive: "Slave Masters"
-  brk_manu_drive_desc: ""
+  brk_manu_drive:0 "Slave Masters"
+  brk_manu_drive_desc:0 ""
 
-  brk_manu_drive_1: "Slave Masters"
-  brk_manu_drive_1_desc: ""
+  brk_manu_drive_1:0 "Slave Masters"
+  brk_manu_drive_1_desc:0 ""
 
-  brk_manu_drive_2: "Slave Masters"
-  brk_manu_drive_2_desc: ""
+  brk_manu_drive_2:0 "Slave Masters"
+  brk_manu_drive_2_desc:0 ""
 
-  brk_naval_range: "Masters of the Sea"
-  brk_naval_range_desc: ""
+  brk_naval_range:0 "Masters of the Sea"
+  brk_naval_range_desc:0 ""
 
-  brk_terrorized: "Raider Terror"
-  brk_terrorized_desc: ""
+  brk_terrorized:0 "Raider Terror"
+  brk_terrorized_desc:0 ""
 
-  brk_coastal_terror: "Coastal Terror"
-  brk_coastal_terror_desc: "Our ships can reach anywhere! Experienced sailors are common in the coast, which comes in handy when a lot of loot is waiting to be taken from distant lands, or ships carrying goods need to be pursued and plundered."
+  brk_coastal_terror:0 "Coastal Terror"
+  brk_coastal_terror_desc:0 "Our ships can reach anywhere! Experienced sailors are common in the coast, which comes in handy when a lot of loot is waiting to be taken from distant lands, or ships carrying goods need to be pursued and plundered."
 
-  brk_raider_society: "Society of Raiders"
-  brk_raider_society_desc: "Loot is a strong drive for the inhabitants of the Broken Coast, many of the hardened raiders from all over come together to seek their fortunes in combat. These raiders are born and raised in the frigid mountains, and bathed in the icy wind of the sea making them extremely resistant to the cold. That being said, all that time spent focused on raiding makes innovation... a bit of a lower priority."
+  brk_raider_society:0 "Society of Raiders"
+  brk_raider_society_desc:0 "Loot is a strong drive for the inhabitants of the Broken Coast, many of the hardened raiders from all over come together to seek their fortunes in combat. These raiders are born and raised in the frigid mountains, and bathed in the icy wind of the sea making them extremely resistant to the cold. That being said, all that time spent focused on raiding makes innovation... a bit of a lower priority."
 
-  brk_vic_patriotic_defence: "Patriotic Defence"
-  brk_vic_patriotic_defence_desc: "Raiders threaten our country. The situation has escalated past coastal raids and past port raids. The raiders now occupy parts of our island with the sole purpose of making us their slaves. We can't allow this to happen - we must fight back."
+  brk_vic_patriotic_defence:0 "Patriotic Defence"
+  brk_vic_patriotic_defence_desc:0 "Raiders threaten our country. The situation has escalated past coastal raids and past port raids. The raiders now occupy parts of our island with the sole purpose of making us their slaves. We can't allow this to happen - we must fight back."

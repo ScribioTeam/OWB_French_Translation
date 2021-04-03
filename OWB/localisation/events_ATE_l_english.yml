@@ -39,7 +39,7 @@
   nf_ate.8.t:0 "The Coffee Baron"
   nf_ate.8.d:0 "Lurking behind ever wicked deal, every corrupt official, is [CAF.GetLeader]. He wheels and deals, and has extended loans with such favorable terms that many still wonder why his fingers are in every enchilada. To this day, some still are not sure how a man who started selling coffee after a nuclear war became the one to place his grip on Mexico's economy."
   nf_ate.8.a:0 "It mostly comes from controlling trade routes."
-  nf_ate.8.a_tt: "\nThe coffee just tastes good.\n"
+  nf_ate.8.a_tt:0 "\nThe coffee just tastes good.\n"
 
   nf_ate.9.t:0 "The Frogs"
   nf_ate.9.d:0 "While the Wastes fear the awesome majesty of the jaguar knights, and the endless waves of Aztlan conscripts, the Aztlan navy is known by its rivals as \"The Frogs.\"  \n\nThe navy is home to the misfits of Aztlan society, including descendnets of Norteamericanos who tried to steal a GECK after the war, second daughters and third sons, and merchants who think they bleed just as well as any pompous noble. Nobody takes it that seriously, but Admiral Kinkaid has plans to show the world that even a frog can kill, with the right poison."
@@ -62,7 +62,7 @@
   nf_ate.14.t:0 "A Franchise Opportunity"
   nf_ate.14.d:0 "Cuauhtli has offered to significantly reduce our taxes in exchange for an alliance against the Speaker. And, should his empire expand across the rest of Mexico, he may offer us marketing opportunities as well..."
   nf_ate.14.a:0 "To aggressive revenue enhancement schemes!"
-  nf_ate.14.a_tt: "\nWhen the Jaguar rises, we will join him against the Speaker.\n"
+  nf_ate.14.a_tt:0 "\nWhen the Jaguar rises, we will join him against the Speaker.\n"
   nf_ate.14.b:0 "Sorry, our holding company wouldn't like that."
   nf_ate.14.b_tt:0 "\nWhen the Jaguar rises, we will take that excuse to exit."
 
@@ -90,7 +90,7 @@
   nf_ate.20.d:0 "The Baron's treachery lies before all Mexico to see, which would be fine if his allies had not already been executed.  Now he faces the undivided attention of an empire which is wondering why [FROM.GetLeader] should let [CAF.GetLeader] live."
   nf_ate.20.a:0 "Forgive the Baron in exchange restricting his influence in the Empire."
   nf_ate.20.b:0 "Time to revise the Treaty of Oaxaca."
-  nf_ate.20.b.tt: "\n If [CAF.LeaderName] says no, we will go to war!"
+  nf_ate.20.b.tt:0 "\n If [CAF.LeaderName] says no, we will go to war!"
   nf_ate.20.c:0 "Why do we need a Baron if we have a Speaker?"
 
   nf_ate.21.t:0 "The Speaker's Demand"
@@ -190,7 +190,7 @@
   nf_ate.40.t:0 "Reviving the Mexican Constitution"
   nf_ate.40.d:0 "The Speaker lacks the powers of prophecy or the support of the imperial cults. But the Empire's real strength comes from its farmers and craftsmen, not crazy women who helpfully point out things like \"the AI that's breaking down will probably die soon.\"  To win their support, Kinkaid will guarantee the rights their ancestors held dear. \n\nThe Mexican constitution has been a dead letter outside of [RRG.GetName] since before the Great War, but people still remember when the government worked for them. The Speaker has announced that Aztlan will adopt the constitution and affirm all of its citizens are free and equal."
   nf_ate.40.a:0 "These rights cannot be denied and they cannot be suspended...."
-  nf_ate.40.a_tt: "\nCoring costs on Mexican states are reduced by §M25%§!"
+  nf_ate.40.a_tt:0 "\nCoring costs on Mexican states are reduced by §M25%§!"
 
   nf_ate.41.t:0 "Are You Smarter Than a Supermutant?"
   nf_ate.41.d:0 "Oh, so sorry Senora Seven Flowers, but \"Navarro, I guess?\" is not the capital of the New California Republic. Seneca, what's your guess? That's right, it's Shady Sands! Well, don't worry, Senora, you'll still be going home with a year's supply of Costa Cafeinada coffee. Costa Cafeinada: So addictive you probably shouldn't check what's in it! \n\nAnd that's all for tonight folks. Tune in next week for another episode of \"Are you smarter than a supermutant!\""
@@ -200,7 +200,7 @@
   nf_ate.42.d:0 "Although the Jaguar Cult has been broken, something could be salvaged from it. We could make an example of them for the rest of the empire, or perhaps we could grant the survivors a diminished role in our army."
   nf_ate.42.a:0 "The only thing these scum are good for are penal battalions."
   nf_ate.42.b:0 "You have a chance to redeem yourselves. Do not waste it."
-  nf_ate.42.b_tt: "\n§gAvailable because you spared the Rafael.§!"
+  nf_ate.42.b_tt:0 "\n§gAvailable because you spared the Rafael.§!"
 
   nf_ate.43.t:0 "The Gathering at Xochicalo"
   nf_ate.43.d:0 "The Speaker has gathered the leaders of the Empire together for a conference.  But each of them has its own dreams and hopes.  Yesenia dreams of uniting the empire under her rule.  Ocelotl thinks more power should be granted the the wealthy and powerful in the Empire, and that if they are rewarded, they will support his dream of conquest and a lower marginal tax rate. And Cuauhtli and his jaguar knights dream of an empire where any can rise to the top, including our backwards tribals. \n\n And of course there's Kinkaid, the poor descendant of the Cucarachas."

@@ -20,6 +20,7 @@
   category_combat_support:0 "Fighting Support Units"
   category_non_combat_support:0 "Non Combat Support Units"
   category_behemoth:0 "Behemoths"
+  category_infantry:0 "Regulars"
 
 
   category_air_unit:0 "All Aircraft"
@@ -76,6 +77,10 @@
   demolitions_infantry_short:0 "Demolitions"
   demolitions_infantry_desc:0 ""
 
+  gary_unit:0 "Gary Horde"
+  gary_unit_short:0 "GARY"
+  gary_unit_desc:0 ""
+
   ghoul_paratrooper:0 "Airborne Ghoul Infantry"
   ghoul_paratrooper_short:0 "Airborne"
   ghoul_paratrooper_desc:0 ""
@@ -84,13 +89,17 @@
   super_mutant_nightkin_infantry_short:0 "Nightkin"
   super_mutant_nightkin_infantry_desc:0 "The nightkin were an elite warrior caste in the Master's super mutant army and the apex of his creation of super mutants."
 
-  behemoth: "Behemoth"
-  behemoth_short: "Behemoth"
-  behemoth_desc: ""
+  forward_firebase_support:0 "Forward Firebase"
+  forward_firebase_support_short:0 "Firebase"
+  forward_firebase_support_desc:0 "Reinforced, semi-mobile positions that will make it a lot easier to hold the line."
 
-  power_armour: "Power Armour Platoon"
-  power_armour_short: "Power Armour"
-  power_armour_desc: "A unit of infantry equipped with power armour. Their armour can provide an enormous advantage in combat by adding more resilience to soft attacks. The cost of producing such armour increases the cost of infantry units but can provide much better use of manpower resources."
+  behemoth:0 "Behemoth"
+  behemoth_short:0 "Behemoth"
+  behemoth_desc:0 ""
+
+  power_armour:0 "Power Armour Platoon"
+  power_armour_short:0 "Power Armour"
+  power_armour_desc:0 "A unit of infantry equipped with power armour. Their armour can provide an enormous advantage in combat by adding more resilience to soft attacks. The cost of producing such armour increases the cost of infantry units but can provide much better use of manpower resources."
 
   power_armour_fireteam_infantry:0 "Powered Fireteam Platoon"
   power_armour_fireteam_infantry_short:0 "PA Fireteam"
@@ -100,17 +109,17 @@
   power_armour_demolitions_infantry_short:0 "PA Demolitions"
   power_armour_demolitions_infantry_desc:0 ""
 
-  ghoul_infantry: "Ghoul Infantry Platoon"
-  ghoul_infantry_short: "Ghoul Infantry"
-  ghoul_infantry_desc: "A group of intelligent ghoul soldiers, much more resistant to the harsh reality of the wasteland than normal humans due to their prolonged exposure to radiation."
+  ghoul_infantry:0 "Ghoul Infantry Platoon"
+  ghoul_infantry_short:0 "Ghoul Infantry"
+  ghoul_infantry_desc:0 "A group of intelligent ghoul soldiers, much more resistant to the harsh reality of the wasteland than normal humans due to their prolonged exposure to radiation."
 
-  super_mutant_infantry: "Super Mutant Infantry Platoon"
-  super_mutant_infantry_short: "Super Mutants"
-  super_mutant_infantry_desc: "Super mutants, while usually not as smart as their human counterparts, are much stronger and resilient due to their larger, more powerful frame. In contrast to normal infantry however an access to FEV is needed to produce these hulking soldiers."
+  super_mutant_infantry:0 "Super Mutant Infantry Platoon"
+  super_mutant_infantry_short:0 "Super Mutants"
+  super_mutant_infantry_desc:0 "Super mutants, while usually not as smart as their human counterparts, are much stronger and resilient due to their larger, more powerful frame. In contrast to normal infantry however an access to FEV is needed to produce these hulking soldiers."
 
-  super_mutant_aux_infantry: "Super Mutant Auxiliary Platoon"
-  super_mutant_aux_infantry_short: "Super Mutants"
-  super_mutant_aux_infantry_desc: "Super mutants, while usually not as smart as their human counterparts, are much stronger and resilient due to their larger, more powerful frame. In contrast to normal infantry however an access to FEV is needed to produce these hulking soldiers."
+  super_mutant_aux_infantry:0 "Super Mutant Auxiliary Platoon"
+  super_mutant_aux_infantry_short:0 "Super Mutants"
+  super_mutant_aux_infantry_desc:0 "Super mutants, while usually not as smart as their human counterparts, are much stronger and resilient due to their larger, more powerful frame. In contrast to normal infantry however an access to FEV is needed to produce these hulking soldiers."
 
 
   molerat_infantry:0 "Molerat Cohort"
@@ -120,22 +129,22 @@
   mirelurk_infantry_short:0 "Lurkers"
   mirelurk_infantry_desc:0 "Tamed Mirelurks, ready to fight and die for their queen."
 
-  cybernetic_support: "Cybernetic Implants"
-  cybernetic_support_desc: "With the right kind of technology we can surpass human limits! Our soldiers will be harder, better, faster and stronger then our simple organic foes!"
+  cybernetic_support:0 "Cybernetic Implants"
+  cybernetic_support_desc:0 "With the right kind of technology we can surpass human limits! Our soldiers will be harder, better, faster and stronger then our simple organic foes!"
 
-  plant_support: "Monstrous Plants"
-  plant_support_desc: "Home grown bio-warriors will give our troops a huge advantage, assuming that we can fight in lands fertile enough to plant them."
+  plant_support:0 "Monstrous Plants"
+  plant_support_desc:0 "Home grown bio-warriors will give our troops a huge advantage, assuming that we can fight in lands fertile enough to plant them."
 
  # Motorized/Mechanized
 
-  apc: "APC Platoon"
-  apc_short: "APCs"
-  apc_desc: "Medium armoured fighting vehicles capable of deflecting most small arms fire while simultaneously capable of returning fire itself."
+  apc:0 "APC Platoon"
+  apc_short:0 "APCs"
+  apc_desc:0 "Medium armoured fighting vehicles capable of deflecting most small arms fire while simultaneously capable of returning fire itself."
 
  # tanks
-  tank: "Tank Platoon"
-  tank_short: "Tanks"
-  tank_desc: "Heavily armed and armoured tanks will plough through any soft targets foolish enough to stand in their way."
+  tank:0 "Tank Platoon"
+  tank_short:0 "Tanks"
+  tank_desc:0 "Heavily armed and armoured tanks will plough through any soft targets foolish enough to stand in their way."
 
  # Planes
   fighter:0 "Fighter Plane"
@@ -158,33 +167,37 @@
   strat_bomber_desc:0 ""
 
  # Robots
-  support_robot: "Support Robot Platoon"
-  support_robot_short: "Support Robots"
-  support_robot_desc: "Lightly armoured and armed robots put into service as a combat unit. With a focus on supporting roles."
+  support_robot:0 "Support Robot Platoon"
+  support_robot_short:0 "Support Robots"
+  support_robot_desc:0 "Lightly armoured and armed robots put into service as a combat unit. With a focus on supporting roles."
 
-  combat_robot: "Combat Robot Platoon"
-  combat_robot_short: "Combat Robots"
-  combat_robot_desc: "Heavily armoured and armed robots put into service as a combat unit."
+  combat_robot:0 "Combat Robot Platoon"
+  combat_robot_short:0 "Combat Robots"
+  combat_robot_desc:0 "Heavily armoured and armed robots put into service as a combat unit."
 
-  security_robot: "Security Robot Platoon"
-  security_robot_short: "Security Robots"
-  security_robot_desc: "Intermediate robots perfectly suited to pacify unruly populations."
+  security_robot:0 "Security Robot Platoon"
+  security_robot_short:0 "Security Robots"
+  security_robot_desc:0 "Intermediate robots perfectly suited to pacify unruly populations."
 
-  super_heavy_robot: "Super-Heavy Robot Platoon"
-  super_heavy_robot_short: "Super-Heavy Robots"
-  super_heavy_robot_desc: "Robots that defy any convention of reasoning or logic, made for one purpose only, destruction."
+  super_heavy_robot:0 "Super-Heavy Robot Platoon"
+  super_heavy_robot_short:0 "Super-Heavy Robots"
+  super_heavy_robot_desc:0 "Robots that defy any convention of reasoning or logic, made for one purpose only, destruction."
 
 
 
  # Support
 
-  power_armour_support: "Power Armour Support"
-  power_armour_support_short: "Power Armour Support"
-  power_armour_support_desc: "A unit of infantry equipped with power armour. Their armour can provide an enormous advantage in combat by adding more resilience to soft attacks. The cost of producing such armour increases the cost of infantry units but can provide much better use of manpower resources"
+  power_armour_support:0 "Power Armour Support"
+  power_armour_support_short:0 "Power Armour Support"
+  power_armour_support_desc:0 "A unit of infantry equipped with power armour. Their armour can provide an enormous advantage in combat by adding more resilience to soft attacks. The cost of producing such armour increases the cost of infantry units but can provide much better use of manpower resources"
 
   fireteam_support:0 "Fireteam Support"
   fireteam_support_short:0 "Fireteam"
   fireteam_support_desc:0 ""
+
+  anti_air_support:0 "Anti Air Support"
+  anti_air_support_short:0 "Anti-Air"
+  anti_air_support_desc:0 ""
 
   demolitions_support:0 "Demolitions Support"
   demolitions_support_short:0 "Demolitions"
@@ -198,33 +211,33 @@
   power_armour_demolitions_support_short:0 "PA Demolitions"
   power_armour_demolitions_support_desc:0 ""
 
-  recon_company: "Recon Support"
-  recon_company_short: "Recon"
-  recon_company_desc: "In the vast wasteland without old world technologies like GPS and access to mapping technology having a traditional group of infantry to perform recon can allow a unit to better choose tactics in battle."
+  recon_company:0 "Recon Support"
+  recon_company_short:0 "Recon"
+  recon_company_desc:0 "In the vast wasteland without old world technologies like GPS and access to mapping technology having a traditional group of infantry to perform recon can allow a unit to better choose tactics in battle."
 
-  maintenance_company: "Maintenance Support"
-  maintenance_company_short: "Maintenance"
-  maintenance_company_desc: "Vehicles and robots are difficult to produce, instead of having to throw away those who break down in the wasteland some can be saved using specially trained units with some basic repair skills to restore them into working order."
+  maintenance_company:0 "Maintenance Support"
+  maintenance_company_short:0 "Maintenance"
+  maintenance_company_desc:0 "Vehicles and robots are difficult to produce, instead of having to throw away those who break down in the wasteland some can be saved using specially trained units with some basic repair skills to restore them into working order."
 
-  logistics_company: "Logistics Support"
-  logistics_company_short: "Logistics"
-  logistics_company_desc: "In the wasteland supplies are even more difficult to carry to the front lines than before the war due to only the skeletons of infrastructure remaining. Adding logistics companies will certainly assist in allowing a larger army to be fielded and properly supplied."
+  logistics_company:0 "Logistics Support"
+  logistics_company_short:0 "Logistics"
+  logistics_company_desc:0 "In the wasteland supplies are even more difficult to carry to the front lines than before the war due to only the skeletons of infrastructure remaining. Adding logistics companies will certainly assist in allowing a larger army to be fielded and properly supplied."
 
-  dog_company: "Dog Support"
-  dog_company_short: "Dogs"
-  dog_company_desc: "Dogs trained to kill, providing advantages especially in forested areas and extra support elsewhere in combat."
+  dog_company:0 "Dog Support"
+  dog_company_short:0 "Dogs"
+  dog_company_desc:0 "Dogs trained to kill, providing advantages especially in forested areas and extra support elsewhere in combat."
 
-  anti_tank_company: "Anti-tank Support"
-  anti_tank_company_short: "Anti-tank"
-  anti_tank_company_desc: "A variety of anti tank weapons assembled into a unit to provide hit and run support on armoured targets can give infantry and other soft units a chance to resist vehicles and robots without having to produce them."
+  anti_tank_company:0 "Anti-tank Support"
+  anti_tank_company_short:0 "Anti-tank"
+  anti_tank_company_desc:0 "A variety of anti tank weapons assembled into a unit to provide hit and run support on armoured targets can give infantry and other soft units a chance to resist vehicles and robots without having to produce them."
 
-  medical_chem_company: "Medical Chem Support"
-  medical_chem_company_short: "Chems"
-  medical_chem_company_desc: "Good men are difficult to come by, especially after the world ended. Adding specialists to our units, carrying medical equipment and practising basic medical skills can at least reduce some of the losses sustained on the battlefield."
+  medical_chem_company:0 "Medical Chem Support"
+  medical_chem_company_short:0 "Chems"
+  medical_chem_company_desc:0 "Good men are difficult to come by, especially after the world ended. Adding specialists to our units, carrying medical equipment and practising basic medical skills can at least reduce some of the losses sustained on the battlefield."
 
-  spec_ops_cavalry: "Horsemen"
-  spec_ops_cavalry_short: "Riders"
-  spec_ops_cavalry_desc: "Who knew horses were still a thing in this wasteland?"
+  spec_ops_cavalry:0 "Horsemen"
+  spec_ops_cavalry_short:0 "Riders"
+  spec_ops_cavalry_desc:0 "Who knew horses were still a thing in this wasteland?"
 
   chariot_unit:0 "Legion Chariots"
   chariot_unit_short:0 "Chariots"

@@ -12,6 +12,20 @@
 ####### GENERATED CODE WARNING #######
 ######################################
 l_english:
+  ASK_TO_JOIN_NOVA_LEGION_TITLE:0 "Ask to join the Nova Legion"
+  ASK_TO_JOIN_NOVA_LEGION_ACTION_DESC:0 "Ask to join the Nova Legion."
+  ASK_TO_JOIN_NOVA_LEGION_SEND_DESC:0 "Ask to join the Nova Legion."
+  ASK_TO_JOIN_NOVA_LEGION_ACCEPT:0 "Request Accepted!"
+  ASK_TO_JOIN_NOVA_LEGION_REJECT:0 "Request Rejected!"
+  ASK_TO_JOIN_NOVA_LEGION_ACCEPT_DESC:0 "Your request to join the Nova Legion has been accepted!"
+  ASK_TO_JOIN_NOVA_LEGION_REJECT_DESC:0 "Your request to join the Nova Legion has been rejected!"
+  INVITE_TO_JOIN_NOVA_LEGION_TITLE:0 "Invite to the Nova Legion"
+  INVITE_TO_JOIN_NOVA_LEGION_ACTION_DESC:0 "Invite to the Nova Legion\n\nRequires prospect to border a member of the Nova Legion and have mutually positive relations with their leader."
+  INVITE_TO_JOIN_NOVA_LEGION_SEND_DESC:0 "Invitation to the Nova Legion."
+  INVITE_TO_JOIN_NOVA_LEGION_ACCEPT:0 "Invitation Accepted!"
+  INVITE_TO_JOIN_NOVA_LEGION_REJECT:0 "Invitation Rejected!"
+  INVITE_TO_JOIN_NOVA_LEGION_ACCEPT_DESC:0 "Your invitation to the Nova Legion has been accepted!"
+  INVITE_TO_JOIN_NOVA_LEGION_REJECT_DESC:0 "Your invitation to the Nova Legion has been rejected!"
   ASK_TO_JOIN_BIG_MT_TITLE:0 "Ask to join the Big MT"
   ASK_TO_JOIN_BIG_MT_ACTION_DESC:0 "Ask to join the Big MT."
   ASK_TO_JOIN_BIG_MT_SEND_DESC:0 "Ask to join the Big MT."

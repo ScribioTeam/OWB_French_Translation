@@ -8,7 +8,7 @@
   utah_pantheon_timeout:0 "The Worship of [This.GetPantheonSelectedGodName]"
   utah_pantheon_timeout_desc:0 "We are in the midst of observing worship to §Y[This.GetPantheonSelectedGodName]§!, and must wait before choosing a new deity."
 
-  CAN_SELECT_OTHER_GOD_IN_PANTHEON_AGAIN_TT: "§Y[This.GetName]§! is able to select another god in §YThe Pantheon§!.\n"
+  CAN_SELECT_OTHER_GOD_IN_PANTHEON_AGAIN_TT:0 "§Y[This.GetName]§! is able to select another god in §YThe Pantheon§!.\n"
 
   utah_pantheon_sun_unique:0 "Blinding Radiance"
   utah_pantheon_sun_ritual:0 "Praising the Sun"

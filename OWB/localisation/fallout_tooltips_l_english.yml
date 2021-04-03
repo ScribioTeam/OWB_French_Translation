@@ -60,8 +60,8 @@
   stole_cores:0 "Rightful territorial gains stolen"
 
  #idea tooltips
-  killed_off: "Hasn't been Killed"
-  enclave_return: "Dornan has Returned"
+  killed_off:0 "Hasn't been Killed"
+  enclave_return:0 "Dornan has Returned"
  #event OOB tooltips
   vallebandits_tt:0 "Three Militia forces rally for us!"
   pazbandits_tt:0 "Three Militia forces rally for us!"
@@ -70,6 +70,6 @@
   riseofclaus:0 "§RThe Senator will evolve to his most powerful form yet and gain cores on his new domain.§!"
   thelist1:0 "§GSenator Claus will check his list twice, and get a wargoal on all the naughty nations of the wasteland.§!"
   thelist2:0 "§RYou're ALL on the list.§!"
-  claim_the_north_tt: "Grants §Y[This.GetNameDef]§! §Gclaims§! and §Gwargoals§! for the core territories of every country §Ynorth§! of §YWashington§!!"
-  own_the_north_tt: "All land §Ynorth§! of §YWashington§! is owned by §Y[This.GetNameDef]§!, their subjects, or their allies.\n"
-  slavery_now_allowed_tt: "Additional §Rslavery laws§! are now available for [This.GetNameDef]."
+  claim_the_north_tt:0 "Grants §Y[This.GetNameDef]§! §Gclaims§! and §Gwargoals§! for the core territories of every country §Ynorth§! of §YWashington§!!"
+  own_the_north_tt:0 "All land §Ynorth§! of §YWashington§! is owned by §Y[This.GetNameDef]§!, their subjects, or their allies.\n"
+  slavery_now_allowed_tt:0 "Additional §Rslavery laws§! are now available for [This.GetNameDef]."

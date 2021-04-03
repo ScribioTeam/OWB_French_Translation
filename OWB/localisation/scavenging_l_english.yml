@@ -1,16 +1,16 @@
 ﻿l_english:
  ### Decisions ###
   # category
-  scavenging_decisions: "Procurement of things"
+  scavenging_decisions:0 "Procurement of Things"
   scavenging_decisions_desc: "Producing our equipment is all well and good, but the wasteland is also a treasure trove of ancient secrets waiting to be discovered. This Knowledge is often hidden, guarded, and perilous to recover. We can send out search parties to find things in the wastes (risking their lives in the process) at the expense of some political power. Hopefully our men will return with something we can use."
 
   # Scavenging Startup Non WTT
-  begin_scavenging_program: "Begin a Scavenging Program"
-  begin_scavenging_program_desc: "Whilst scavenging for resources has been done in the past, we should begin a comprehensive scavenging program of dedicated procurement specialists. We can send them out to look for anything worthwhile. If they return something we might need is a matter of fate."
+  begin_scavenging_program:0 "Begin a Scavenging Program"
+  begin_scavenging_program_desc:0 "Whilst scavenging for resources has been done in the past, we should begin a comprehensive scavenging program of dedicated procurement specialists. We can send them out to look for anything worthwhile. If they return something we might need is a matter of fate."
 
   # Scavenging Starup WTT
-  begin_scavenging_program_wtt: "Begin a Scavenging Program"
-  begin_scavenging_program_wtt_desc: "Whilst scavenging for resources has been done in the past, we should begin a comprehensive scavenging program of dedicated procurement specialists. We can send them out to look for anything worthwhile. If they return something we might need is a matter of fate."
+  begin_scavenging_program_wtt:0 "Begin a Scavenging Program"
+  begin_scavenging_program_wtt_desc:0 "Whilst scavenging for resources has been done in the past, we should begin a comprehensive scavenging program of dedicated procurement specialists. We can send them out to look for anything worthwhile. If they return something we might need is a matter of fate."
 
   # Demolish Scavenging program
   dismantle_scavenging_program:0 "Dismantle Scavenging program"
@@ -34,78 +34,78 @@
 
  # Events #
   # foot scavers
-  scavenge.1.t: "The scavengers found something!"
-  scavenge.1.d: "In the ruins of an ancient factory, our scavengers found pre-war goods. Time will tell whether it was worth the blood and sweat we paid for it."
-  scavenge.1.a: "Better in our hands than our enemies."
+  scavenge.1.t:0 "The scavengers found something!"
+  scavenge.1.d:0 "In the ruins of an ancient factory, our scavengers found pre-war goods. Time will tell whether it was worth the blood and sweat we paid for it."
+  scavenge.1.a:0 "Better in our hands than our enemies."
 
-  scavenge.2.t: "The Old World Blues"
-  scavenge.2.d: "Our scavengers have failed to find something, spending weeks in the Wastes in pursuit of old dreams. The scavengers are so obsessed with the past they can't see the present, much less the future, for what it is. And so they wasted their times on a fools errand, for what?"
-  scavenge.2.a: "Finding nothing, they stare into the what-was, guttering and spent."
+  scavenge.2.t:0 "The Old World Blues"
+  scavenge.2.d:0 "Our scavengers have failed to find something, spending weeks in the Wastes in pursuit of old dreams. The scavengers are so obsessed with the past they can't see the present, much less the future, for what it is. And so they wasted their times on a fools errand, for what?"
+  scavenge.2.a:0 "Finding nothing, they stare into the what-was, guttering and spent."
 
-  scavenge.3.t: "Deathclaws Ate Our Team!"
-  scavenge.3.d: "[ROOT.GetLeader], terrible news. A pack of deathclaws set upon our scavenging expedition, stripping their flesh like gecko on a stick. The few bloody survivors have sworn never to visit that site again. "
-  scavenge.3.a: "This is a terrible day for our men and nation."
-  scav_deathclaw_tt: "§gSome of our team managed to make it back to our lands, bringing with them horrifying tales...§!\n"
+  scavenge.3.t:0 "Deathclaws Ate Our Team!"
+  scavenge.3.d:0 "[ROOT.GetLeader], terrible news. A pack of deathclaws set upon our scavenging expedition, stripping their flesh like gecko on a stick. The few bloody survivors have sworn never to visit that site again. "
+  scavenge.3.a:0 "This is a terrible day for our men and nation."
+  scav_deathclaw_tt:0 "§gSome of our team managed to make it back to our lands, bringing with them horrifying tales...§!\n"
 
-  scavenge.4.t: "Contact Lost!"
-  scavenge.4.d: "[Root.GetLeader], some of our scavengers went missing. We can't raise them and we only have a message with their last known location. It is your call whether we try to rescue them."
-  scavenge.4.a: "When the leader fails, others pay the price."
+  scavenge.4.t:0 "Contact Lost!"
+  scavenge.4.d:0 "[Root.GetLeader], some of our scavengers went missing. We can't raise them and we only have a message with their last known location. It is your call whether we try to rescue them."
+  scavenge.4.a:0 "When the leader fails, others pay the price."
 
   # Mot scavers
-  scavenge.5.t: "The Scavengers Triumph!"
-  scavenge.5.d: "In the ruins of an ancient factory, our scavengers found pre-war goods. A caravan of trucks is bringing the expedition's plunder back to [Root.Capital.GetName]. This is a great triumph for us!"
-  scavenge.5.a: "A mighty step into the future."
+  scavenge.5.t:0 "The Scavengers Triumph!"
+  scavenge.5.d:0 "In the ruins of an ancient factory, our scavengers found pre-war goods. A caravan of trucks is bringing the expedition's plunder back to [Root.Capital.GetName]. This is a great triumph for us!"
+  scavenge.5.a:0 "A mighty step into the future."
 
-  scavenge.6.t: "Our Scavengers Found Nothing!"
-  scavenge.6.d: "Despite the flat tires, the blood loss, and the fuel spent, we found nothing in our scavenging expedition. But perhaps [Root.GetLeader], the real loot was the friendships we formed?"
-  scavenge.6.a: "Get out of my office."
+  scavenge.6.t:0 "Our Scavengers Found Nothing!"
+  scavenge.6.d:0 "Despite the flat tires, the blood loss, and the fuel spent, we found nothing in our scavenging expedition. But perhaps [Root.GetLeader], the real loot was the friendships we formed?"
+  scavenge.6.a:0 "Get out of my office."
 
-  scavenge.7.t: "Deathclaws Ate Some of Our Team!"
-  scavenge.7.d: "It appears that a Deathclaw ate one of our motorcycles and the people on it. The survivors fled as quickly as possible, but more of them were left behind when the trucks drove off.  This is pretty embarrassing."
-  scavenge.7.a: "Maybe we should have given them guns instead."
+  scavenge.7.t:0 "Deathclaws Ate Some of Our Team!"
+  scavenge.7.d:0 "It appears that a Deathclaw ate one of our motorcycles and the people on it. The survivors fled as quickly as possible, but more of them were left behind when the trucks drove off.  This is pretty embarrassing."
+  scavenge.7.a:0 "Maybe we should have given them guns instead."
 
-  scavenge.8.t: "Contact Lost!"
-  scavenge.8.d: "[Root.GetLeader], some of our scavengers went missing. We can't raise them and we only have a message with their last known location. It is your call whether we try to rescue them."
-  scavenge.8.a: "When the leader fails, others pay the price."
+  scavenge.8.t:0 "Contact Lost!"
+  scavenge.8.d:0 "[Root.GetLeader], some of our scavengers went missing. We can't raise them and we only have a message with their last known location. It is your call whether we try to rescue them."
+  scavenge.8.a:0 "When the leader fails, others pay the price."
 
   # Power armour scavers
-  scavenge.9.t: "Our Scavengers Return in Triumph!"
-  scavenge.9.d: "Neither raider nor deathclaw nor super-mutants will stop our scavengers. They have returned to [Root.Capital.GetName], their power armor caked in blood and grime. Let this example show the potential for our future."
-  scavenge.9.a: "Time for some new world hopes."
+  scavenge.9.t:0 "Our Scavengers Return in Triumph!"
+  scavenge.9.d:0 "Neither raider nor deathclaw nor super-mutants will stop our scavengers. They have returned to [Root.Capital.GetName], their power armor caked in blood and grime. Let this example show the potential for our future."
+  scavenge.9.a:0 "Time for some new world hopes."
 
-  scavenge.10.t: "Scavengers Return Empty Handed"
-  scavenge.10.d: "Apparently providing a power armour escort to our scavengers kept them safe, but it made them no more successful. Oh well, it's not like we needed that armour for our military. Did we?"
-  scavenge.10.a: "Well that was pointless."
+  scavenge.10.t:0 "Scavengers Return Empty Handed"
+  scavenge.10.d:0 "Apparently providing a power armour escort to our scavengers kept them safe, but it made them no more successful. Oh well, it's not like we needed that armour for our military. Did we?"
+  scavenge.10.a:0 "Well that was pointless."
 
-  scavenge.11.t: "Power Armour Scavengers Attacked!"
-  scavenge.11.d: "I don't understand how, [Root.GetLeader], but our scavengers were attacked. A band of raiders in power armour launched a coordinated strike upon our scavengers and created an epic battle that left dozens dead. The ensuing battle wiped out a nearby village, and many of the raiders died, but we had to retreat."
-  scavenge.11.a: "How can raiders field power armour?"
+  scavenge.11.t:0 "Power Armour Scavengers Attacked!"
+  scavenge.11.d:0 "I don't understand how, [Root.GetLeader], but our scavengers were attacked. A band of raiders in power armour launched a coordinated strike upon our scavengers and created an epic battle that left dozens dead. The ensuing battle wiped out a nearby village, and many of the raiders died, but we had to retreat."
+  scavenge.11.a:0 "How can raiders field power armour?"
 
-  scavenge.12.t: "Contact Lost!"
-  scavenge.12.d: "[Root.GetLeader], some of our scavengers went missing. We can't raise them and we only have a message with their last known location. It is your call whether we try to rescue them."
-  scavenge.12.a: "When the leader fails, others pay the price."
+  scavenge.12.t:0 "Contact Lost!"
+  scavenge.12.d:0 "[Root.GetLeader], some of our scavengers went missing. We can't raise them and we only have a message with their last known location. It is your call whether we try to rescue them."
+  scavenge.12.a:0 "When the leader fails, others pay the price."
 
   # Lost scavers rescued
-  scavenge.13.t: "We Found the Expedition!"
-  scavenge.13.d: "It's a miracle! The courier we dispatched found the scavengers, bloodied but alive.  It seems like they may have even found some lot to justify the expedition."
-  scavenge.13.a: "Thank goodness."
+  scavenge.13.t:0 "We Found the Expedition!"
+  scavenge.13.d:0 "It's a miracle! The courier we dispatched found the scavengers, bloodied but alive.  It seems like they may have even found some lot to justify the expedition."
+  scavenge.13.a:0 "Thank goodness."
 
   # Lost scavers ignored
-  scavenge.14.t: "Dust In the Wind"
-  scavenge.14.d: "We didn't care enough to look for our scavengers, and it seems they are gone for good.  Hopefully their friends and loved ones will forgive us for letting them die. But they won't be the last people to die in the Wasteland."
-  scavenge.14.a: "So it goes."
+  scavenge.14.t:0 "Dust In the Wind"
+  scavenge.14.d:0 "We didn't care enough to look for our scavengers, and it seems they are gone for good.  Hopefully their friends and loved ones will forgive us for letting them die. But they won't be the last people to die in the Wasteland."
+  scavenge.14.a:0 "So it goes."
 
   # Scavenging project initiated
-  scavenge.15.t: "The Reclamation Authority"
-  scavenge.15.d: "[Root.GetLeader] has decided to construct a Reclamation Authority, devoted to promoting scavenging in the Wasteland. This will give our nation expertise in scouring the Wastes."
-  scavenge.15.a: "The Old World's secrets will be ours!"
+  scavenge.15.t:0 "The Reclamation Authority"
+  scavenge.15.d:0 "[Root.GetLeader] has decided to construct a Reclamation Authority, devoted to promoting scavenging in the Wasteland. This will give our nation expertise in scouring the Wastes."
+  scavenge.15.a:0 "The Old World's secrets will be ours!"
 
   # Scaving dismantled
-  scavenge.16.t: "End Scavenging"
-  scavenge.16.d: "Scavenging is a fool's errand. Let us look forward, not backwards."
-  scavenge.16.a: "There were better plans."
+  scavenge.16.t:0 "End Scavenging"
+  scavenge.16.d:0 "Scavenging is a fool's errand. Let us look forward, not backwards."
+  scavenge.16.a:0 "There were better plans."
 
  # Ideas #
 
   # Flags #
-  scavenging_underway: "Scavenging Underway"
+  scavenging_underway:0 "Scavenging Underway"

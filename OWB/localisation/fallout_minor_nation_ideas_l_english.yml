@@ -8,6 +8,9 @@
   neutrality_owb:0 "Neutrality"
   neutrality_owb_desc:0 ""
 
+  sun_victors_against_pallus: "Victors Against Paullus"
+  sun_victors_against_pallus_desc: "Paullus was seen as unstoppable before he tried to run his cohorts into Sun Dogs territory. The Centurion's chariots passed through a narrow mountain passage - feeling themselves invincible after their previous victories.\nA short, if decisive battle would follow - Gold-hound proving to Paullus that Colorado was out of his reach. Even today the legacy of Paullus's failed invasion still lingers in the minds of the Sun Dogs - the tribe having reversed engineered the Legionary chariots - making them their own!"
+
   #########
   ##### UFO
   #########
@@ -16,11 +19,11 @@
   zetan_desc:0 "Highly advanced, otherworldly entities with abilities which might as well be magic to the occupants of the wasteland."
 
   #STR
-  str_watchers_of_the_stars: "Watchers of the Stars"
-  str_watchers_of_the_stars_desc: "The Star Watchers have been watching the stars for three hundred years.\nBorn from a local community of star gazers the star watchers have always known that something out there was looking back at them. They revel in a culture speaking of travellers, mysteries and riddles hidden within the night's sky."
+  str_watchers_of_the_stars:0 "Watchers of the Stars"
+  str_watchers_of_the_stars_desc:0 "The Star Watchers have been watching the stars for three hundred years.\nBorn from a local community of star gazers the star watchers have always known that something out there was looking back at them. They revel in a culture speaking of travellers, mysteries and riddles hidden within the night's sky."
   #EDN
-  the_corpse: "The Corpse"
-  the_corpse_desc: "Many years ago Reese, a Cipher warlord managed to steal a G.E.C.K. from a place known as "The Nursery". He used it across the wasteland, transforming a long stretch of land from central Colorado to the Gulf of Mexico into dense mutated jungles. If it wasn't for Scarlet stopping him he might have been able to transform all of the wasteland into his hellish tropical paradise.\nIn recent years, while the majority of the mutation around the bombed out shell of Corpus Christi - where the final battle between Scarlet and Reese took place - has been cleaned out there is still the matter of the G.E.C.K. itself.\nWe were never able to destroy it, thus - Scarlet brought it to a secluded place known as Eden and with a small contingent of Brotherhood scouts have gone into isolation as they seek to prevent the G.E.C.K.'s influence from corrupting anything else."
+  the_corpse:0 "The Corpse"
+  the_corpse_desc:0 "Many years ago Reese, a Cipher warlord managed to steal a G.E.C.K. from a place known as "The Nursery". He used it across the wasteland, transforming a long stretch of land from central Colorado to the Gulf of Mexico into dense mutated jungles. If it wasn't for Scarlet stopping him he might have been able to transform all of the wasteland into his hellish tropical paradise.\nIn recent years, while the majority of the mutation around the bombed out shell of Corpus Christi - where the final battle between Scarlet and Reese took place - has been cleaned out there is still the matter of the G.E.C.K. itself.\nWe were never able to destroy it, thus - Scarlet brought it to a secluded place known as Eden and with a small contingent of Brotherhood scouts have gone into isolation as they seek to prevent the G.E.C.K.'s influence from corrupting anything else."
 
   #DSP
   highwaymen_of_louisiana:0 "Highwaymen of Louisiana"
@@ -47,8 +50,8 @@
   #MES
   wickiup_nomads:0 "Wicki up Nomads"
   wickiup_nomads_desc:0 "For much of their history, the Mescalero were nomadic hunters and warriors, building temporary dwellings (called 'Wicki up') as they moved through the plains of the Southwest. Despite the turn towards more permanent settlements in the late 20th century, stories and traditions from more nomadic times are still important cornerstones in Mescalero culture."
-  guerilla_legacy:0 "Guerrilla Legacy"
-  guerilla_legacy_desc:0 "When the White Men first came to America, the Mescalero resisted their perpetual expansion into traditional Mescalero territory. Often leading raids on Spanish, Mexican and American settlements, the Mescalero were renown guerilla fighters: a legacy that lives on to this day."
+  guerilla_legacy:0 "Thunder Rides a Black Horse"
+  guerilla_legacy_desc:0 "On 27 May 1873, by executive order of President Ulisses S. Grant, the tribe of Apache Mescalero was officially established. Unlike the Navajo, the Apache Mescalero were few and the new government had to invite several more small Apache bands, such as the Apache Lipan, to assist in handling the new territory. The Mescalero Tribe was finally able to negotiate with the Four States Commonwealth for greater legal administration privelages after landmark cases like McDirt vs Tulsa, causing the tribe to enjoy a golden age up to the start of the Great War.\n\nAs a result of its non-vital importance, the nation miraculously was spared devastation following the onset of the Great War, yet still suffered from raids, famines and mutant attacks.\nIn response, the tribal council worked to combine the powers of the executive, judicial or legislative branches of the nations government into a single position, allowing the Mescalero to more rapidly able to respond to the growing threats they face from the wasteland. The strength of the President would echo that of the Lipan chiefs of old in the new world that the war wrought."
 
   #TLP
   always_ready_always_there:0 "Always Ready, Always There"
@@ -87,10 +90,10 @@
 
 
   #EDA
-  EDA_ufo_defense:0 "Defense Against the Zetans!"
-  EDA_ufo_defense_desc:0 "[EDA.GetName] claims they protect the Earth against demons from the stars, who gaze upon the earth with cold, covetous eyes. Since nobody else has seen these creatures, their subjects tend to be skeptical. In quiet."
-  EDA_secrets: "Classified Information"
-  EDA_secrets_desc: "[EDA.GetLeader] claims to have information that the world was not meant to know. Although few believe they have an 'extreme wormhole,' it is undeniable that they know more than most Wastelanders."
+  EDA_ufo_defense:0 "\"PROJECT MOGUL\" Legacy"
+  EDA_ufo_defense_desc:0 "The "Blue Rose Society" was the formal, non-confidential name for a series of military bases related to the extant PROJECT MOGUL, a hundred-year research project that sought to study the methods by which new sciences can be used in novel ways to defeat enemies of America. Roswell, New Mexico served as the homes of some of MOGUL's earliest experiments.\n\nAfter the Great War, the Society has grown greatly to attempt to fill the space left by proper American governance through establishing a local government of regional committees led by a central representing board in Roswell. However, some propose that the Society's higher ups still carry on the scientific tradition of their forebears in the shadows. "
+  EDA_secrets:0 "Non-Disclosure Agreements"
+  EDA_secrets_desc:0 "Any wasteland settlers wishing to move to, trade in or find safety within Blue Rose Society lands has to sign a "Non-Disclosure Agreement", a binding agreement between recipent and the Society's Board of Directors. People who have broken this agreement tend to not stay around for long."
 
   #WHI
   whi_burden_of_a_nation:0 "Burden of a Nation"
@@ -138,10 +141,10 @@
   tvr_the_merchant_class_desc:0 "The vast majority of our ruling class comes from merchants who left the Aztlan Empire after their defeat at the hands of Tlaloc. As a result, we are remarkably efficient at all matters pertaining to trade."
 
   # UIN
-  uin_ute_heritage: "Ute Heritage"
-  uin_ute_heritage_desc: "The town of Eagle Rock is primarily composed of wastelanders and refugees from the disgraced tribes of the Daughters of Hecate. There is, however a signifiant population here that originated from the Uintah Reservation, one of the ancient homes of the Ute people."
-  uin_eagle_rock_airfield: "Eagle Rock Airfield"
-  uin_eagle_rock_airfield_desc: "When settlers began arriving to the abandoned town of Eagle Rock they discovered a airfield there. For many tribals they saw great potential in being able to soar above the skies and see what lies beyond the clouds. To the tribals of Eagle Rock the sky is a safe haven - the great Zephyr protecting you from harm, worries or troubles while in their embrace."
+  uin_ute_heritage:0 "Ute Heritage"
+  uin_ute_heritage_desc:0 "The town of Eagle Rock is primarily composed of wastelanders and refugees from the disgraced tribes of the Daughters of Hecate. There is, however a signifiant population here that originated from the Uintah Reservation, one of the ancient homes of the Ute people."
+  uin_eagle_rock_airfield:0 "Eagle Rock Airfield"
+  uin_eagle_rock_airfield_desc:0 "When settlers began arriving to the abandoned town of Eagle Rock they discovered a airfield there. For many tribals they saw great potential in being able to soar above the skies and see what lies beyond the clouds. To the tribals of Eagle Rock the sky is a safe haven - the great Zephyr protecting you from harm, worries or troubles while in their embrace."
   #YAK
   yak_the_forest_of_the_elders:0 "The Forest of the Elders"
   yak_the_forest_of_the_elders_desc:0 "Much of the Yakama Nation's traditional land is covered in vast timber forests. Many trees in the forest were planted by Elders of the tribe, and each generation of the Nation maintains the forest for future generations."
@@ -203,8 +206,8 @@
   PMR_wannabe_criminal_empire_desc:0 "The gangs of Port Maw have their eyes set on a high prize: to be the hub of a vast criminal empire trading in slaves, smuggled goods and caps. Sadly they face a fair bit of competition, with drugs pouring out of The Den and New Reno, while slaves are readily traded along the northen coastlines. Regardless, the promise of future glory encourages swathes of desperate young people with no other life prospects to join the gangs. Poor buggers."
 
   #BEl
-  bel_bellingham_for_battle: "Bellingham for Battle"
-  bel_bellingham_for_battle_desc: "The city of Bellingham, due to its proximity to the Trans-Alaskan Pipeline, was a key location during the American-Canadian conflict. Many of the Ghouls living in the city today remember those battles, fought in them even.\n\nThey won't go quietly."#
+  bel_bellingham_for_battle:0 "Bellingham for Battle"
+  bel_bellingham_for_battle_desc:0 "The city of Bellingham, due to its proximity to the Trans-Alaskan Pipeline, was a key location during the American-Canadian conflict. Many of the Ghouls living in the city today remember those battles, fought in them even.\n\nThey won't go quietly."#
   bel_spirit_of_liberty:0 "Liberty's Lingering Spirit"
   bel_spirit_of_liberty_desc:0 "American propaganda was strong in the years before the Great War, leaving deep impressions on those who called America their home. Indeed, American propaganda was so strong that it still has a lasting effect on the ghouls of Bellingham some 200 years later. The emphasis on liberty, and American world dominance, have become key to Bellingham's fiercely independent culture."
 

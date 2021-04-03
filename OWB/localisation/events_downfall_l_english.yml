@@ -15,13 +15,13 @@
   ### Main Capitals
   ## New Canaan (ids 1 to 9)
   # 1: Generic
-  downfall.1.t: "The Fall of New Canaan"
-  downfall.1.d: "After two days of intense fighting, New Canaan has fallen to [Root.GetNameDef].  Mormon troops bravely defended the settlement until the early hours of the morning, falling back to hastily constructed defensive lines on no less than seven occasions. Whilst an order to withdraw was given late last night following a successful enemy encirclement action, the Mormon defenders of the city refused to acknowledge the order and instead took up highly defensible positions in the centre of the settlement. It was only thanks to heavy ordinance that their last stand was ultimately put down. \n\nIn the morning light, it was clear the settlement had been devastated. [Root.GetNameDefCap] spared no quarter in quashing resistance to their rule, and many building lie in smouldering ruins - including the Church of Jesus Christ of Latter-Day Saints, the Mormon's main place of worship."
-  downfall.1.a: "We must avenge the dead!"
-  downfall.1.b: "They died martyrs. That is all anyone can ask for."
-  downfall.1.c: "The city of refuge is in our hands at last!"
-  downfall.1.e: "New Canaan must be on its last legs now."
-  downfall.1.f: "How long can a nation stand without its namesake city?"
+  downfall.1.t:0 "The Fall of New Canaan"
+  downfall.1.d:0 "After two days of intense fighting, New Canaan has fallen to [Root.GetNameDef].  Mormon troops bravely defended the settlement until the early hours of the morning, falling back to hastily constructed defensive lines on no less than seven occasions. Whilst an order to withdraw was given late last night following a successful enemy encirclement action, the Mormon defenders of the city refused to acknowledge the order and instead took up highly defensible positions in the centre of the settlement. It was only thanks to heavy ordinance that their last stand was ultimately put down. \n\nIn the morning light, it was clear the settlement had been devastated. [Root.GetNameDefCap] spared no quarter in quashing resistance to their rule, and many building lie in smouldering ruins - including the Church of Jesus Christ of Latter-Day Saints, the Mormon's main place of worship."
+  downfall.1.a:0 "We must avenge the dead!"
+  downfall.1.b:0 "They died martyrs. That is all anyone can ask for."
+  downfall.1.c:0 "The city of refuge is in our hands at last!"
+  downfall.1.e:0 "New Canaan must be on its last legs now."
+  downfall.1.f:0 "How long can a nation stand without its namesake city?"
   # 2: To CES
   # 3: To EHT
   # 4: To HEA
@@ -29,13 +29,13 @@
 
   ## Shady Sands (ids 10 to 19)
   # 10: Generic
-  downfall.10.t: "The Fall of Shady Sands"
-  downfall.10.d: "Following three days of skirmishing, the government of the NCR has today confirmed that their beloved capital, Shady Sands, has fallen into the hands of [Root.GetNameDef]. The capture of the city comes despite fierce resistance from both the NCR Rangers and the town's militias, although precise information on the Battle for Shady Sands is very sparce. It appears that the [Root.GetName]'s final assault was spearheaded by a group of bikers who managed to overwhelm the last Ranger defenders at the main entrance. The bikers, utilising their mobility and small size, rapidly spread through the city, forcing almost every NCR Trooper to take shelter inside buildings. [Root.GetName] forces followed the bikers, surrounding and destroying each cluster of NCR troopers one by one, either by breaking down the door or by leveling the buildings NCR troopers vaily defended. \n\nShady Sands itself appears to have been heavily damaged. Only a small portion of building remain standing, including the Hall of Congress, from which flags of [Root.GetNameDef] now fly."
-  downfall.10.a: "Shady Sands is lost, but the war is not."
-  downfall.10.b: "The Californian front must hold!"
-  downfall.10.c: "The Hall of Congress is the NCR's heart. They must sue for peace soon."
-  downfall.10.e: "Even the Rangers can't stop our alliance."
-  downfall.10.f: "The NCR is wounded, but not yet mortally."
+  downfall.10.t:0 "The Fall of Shady Sands"
+  downfall.10.d:0 "Following three days of skirmishing, the government of the NCR has today confirmed that their beloved capital, Shady Sands, has fallen into the hands of [Root.GetNameDef]. The capture of the city comes despite fierce resistance from both the NCR Rangers and the town's militias, although precise information on the Battle for Shady Sands is very sparce. It appears that the [Root.GetName]'s final assault was spearheaded by a group of bikers who managed to overwhelm the last Ranger defenders at the main entrance. The bikers, utilising their mobility and small size, rapidly spread through the city, forcing almost every NCR Trooper to take shelter inside buildings. [Root.GetName] forces followed the bikers, surrounding and destroying each cluster of NCR troopers one by one, either by breaking down the door or by leveling the buildings NCR troopers vaily defended. \n\nShady Sands itself appears to have been heavily damaged. Only a small portion of building remain standing, including the Hall of Congress, from which flags of [Root.GetNameDef] now fly."
+  downfall.10.a:0 "Shady Sands is lost, but the war is not."
+  downfall.10.b:0 "The Californian front must hold!"
+  downfall.10.c:0 "The Hall of Congress is the NCR's heart. They must sue for peace soon."
+  downfall.10.e:0 "Even the Rangers can't stop our alliance."
+  downfall.10.f:0 "The NCR is wounded, but not yet mortally."
   # 11: To CES
   # 12: To BOS
   # 13: To DES
@@ -46,13 +46,13 @@
 
   ## Flagstaff (ids 20 to 29)
   # 20: Generic
-  downfall.20.t: "The Fall of Flagstaff"
-  downfall.20.d: "The City of Flagstaff, long the seat of Caesar's absolute power, fell late last night to [Root.GetNameDef]. Although [CES.GetLeader] stayed to command the defence until defeat was all but certain, even his military wisdom could not save the city, surrounded as it was by [Root.GetName]'s earlier pincer movements. In his infinite wisdom, [CES.GetLeader] ordered a last stand, commanding his elite Praetorian Guard to fire on any units that attempted to desert. Ultimately the order only served to delay the capture of the city at large by a day, although even now sporadic fighting continues between invading forces and Praetorian Guard units holed up in buildings. Caesar's palace also appears to be still holding out, although this might shortly change when [Root.GetName]'s demolition teams get into position."
-  downfall.20.a: "We have plenty more cities to fall back upon..."
-  downfall.20.b: "One city means nothing to the Legion. Right?"
-  downfall.20.c: "How did the Legion have this many slaves?!?"
-  downfall.20.e: "The Legion's tyranny will soon be no more."
-  downfall.20.f: "The Bull may soon be no more."
+  downfall.20.t:0 "The Fall of Flagstaff"
+  downfall.20.d:0 "The City of Flagstaff, long the seat of Caesar's absolute power, fell late last night to [Root.GetNameDef]. Although [CES.GetLeader] stayed to command the defence until defeat was all but certain, even his military wisdom could not save the city, surrounded as it was by [Root.GetName]'s earlier pincer movements. In his infinite wisdom, [CES.GetLeader] ordered a last stand, commanding his elite Praetorian Guard to fire on any units that attempted to desert. Ultimately the order only served to delay the capture of the city at large by a day, although even now sporadic fighting continues between invading forces and Praetorian Guard units holed up in buildings. Caesar's palace also appears to be still holding out, although this might shortly change when [Root.GetName]'s demolition teams get into position."
+  downfall.20.a:0 "We have plenty more cities to fall back upon..."
+  downfall.20.b:0 "One city means nothing to the Legion. Right?"
+  downfall.20.c:0 "How did the Legion have this many slaves?!?"
+  downfall.20.e:0 "The Legion's tyranny will soon be no more."
+  downfall.20.f:0 "The Bull may soon be no more."
   # 21: To NCR
   # 22: To RRG
   # 23: To TWI
@@ -63,13 +63,13 @@
 
   ## New Vegas (ids 30 to 39)
   # 30: Generic
-  downfall.30.t: "New Vegas's Downfall"
-  downfall.30.d: "For the first time in living memory, the casinos on the New Vegas Strip failed to open for business this morning, largely thanks to their annihilation in the fierce fighting against [Root.GetNameDef]. For four days, fighting on the Strip raged, as Securitrons and mobs loyal to the great families of the casinos attempted desperately to prevent their precious city from falling to hostile powers. Ultimately the Strip was lost, but even then the families of the Strip contined to stubbornly defend their casinos. Following a direct order from [Root.GetLeader], the casinos were demolished with the last mobsters inside them—much to the dismay of the soldier keen on looting the riches. The Securitrons, meanwhile, withdrew in the direction of the Mojave's weather monitering system, allthough attempts to find them have so far been unsuccesful."
-  downfall.30.a: "Find me those Securitrons!"
-  downfall.30.b: "The Jewel of the Wasteland is ours!"
-  downfall.30.c: "Vegas was rebuilt once, and it can be again."
-  downfall.30.e: "As long as those Securitrons keep fighting..."
-  downfall.30.f: "Vegas survived the Great War, but not [Root.GetNameDef]"
+  downfall.30.t:0 "New Vegas's Downfall"
+  downfall.30.d:0 "For the first time in living memory, the casinos on the New Vegas Strip failed to open for business this morning, largely thanks to their annihilation in the fierce fighting against [Root.GetNameDef]. For four days, fighting on the Strip raged, as Securitrons and mobs loyal to the great families of the casinos attempted desperately to prevent their precious city from falling to hostile powers. Ultimately the Strip was lost, but even then the families of the Strip contined to stubbornly defend their casinos. Following a direct order from [Root.GetLeader], the casinos were demolished with the last mobsters inside them—much to the dismay of the soldier keen on looting the riches. The Securitrons, meanwhile, withdrew in the direction of the Mojave's weather monitering system, allthough attempts to find them have so far been unsuccesful."
+  downfall.30.a:0 "Find me those Securitrons!"
+  downfall.30.b:0 "The Jewel of the Wasteland is ours!"
+  downfall.30.c:0 "Vegas was rebuilt once, and it can be again."
+  downfall.30.e:0 "As long as those Securitrons keep fighting..."
+  downfall.30.f:0 "Vegas survived the Great War, but not [Root.GetNameDef]"
   # 31: To NCR
   # 32: To CES
   # 33: To KHA
@@ -77,26 +77,26 @@
 
   ## Lost Hills Bunker (ids 40 to 49)
   # 40: Generic
-  downfall.40.t: "The Capture of the Lost Hills Bunker"
-  downfall.40.d: "Some deemed it impenetrable, others deemed the conquest of it too bloody to even be attempted. However, they both initially seemed to have been proven wrong after a single day of somewhat underwhelming fighting. [Root.GetName] troops began their attack in the early hours of the morning, seemingly catching the Brotherhood napping. The first troops through the bunker doors were elites, armed with enough anti-armour firepower to crack open Liberty Prime—twice over. However, they were met with no resistance. The Brotherhood had seemingly cottoned on to the fact that power armour, their great strength, is not terribly effective in cramped hallways. They also seemingly had no appetite for a desperate last stand. Instead, unbeknownst to the attackers, they had rigged the entire bunker to explode as soon as the fourth level of the bunker was reached, and that it did. The resulting explosion could be felt across California, and resulted in the deaths of over five hundred [Root.GetName] soldiers. It seems, ultimately, those who had deemed the conquest too bloody to be justified were proved correct."
-  downfall.40.a: "They pain the highest price!"
-  downfall.40.b: "Even on the backfoot, the Brotherhood are cunning."
-  downfall.40.c: "Expelling the Brotherhood from Lost Hills was worth the cost."
-  downfall.40.e: "Thankfully it wasn't our troops."
-  downfall.40.f: "With Chapters over North America, losing Lost Hills will not bring the Brotherhood down."
+  downfall.40.t:0 "The Capture of the Lost Hills Bunker"
+  downfall.40.d:0 "Some deemed it impenetrable, others deemed the conquest of it too bloody to even be attempted. However, they both initially seemed to have been proven wrong after a single day of somewhat underwhelming fighting. [Root.GetName] troops began their attack in the early hours of the morning, seemingly catching the Brotherhood napping. The first troops through the bunker doors were elites, armed with enough anti-armour firepower to crack open Liberty Prime—twice over. However, they were met with no resistance. The Brotherhood had seemingly cottoned on to the fact that power armour, their great strength, is not terribly effective in cramped hallways. They also seemingly had no appetite for a desperate last stand. Instead, unbeknownst to the attackers, they had rigged the entire bunker to explode as soon as the fourth level of the bunker was reached, and that it did. The resulting explosion could be felt across California, and resulted in the deaths of over five hundred [Root.GetName] soldiers. It seems, ultimately, those who had deemed the conquest too bloody to be justified were proved correct."
+  downfall.40.a:0 "They pain the highest price!"
+  downfall.40.b:0 "Even on the backfoot, the Brotherhood are cunning."
+  downfall.40.c:0 "Expelling the Brotherhood from Lost Hills was worth the cost."
+  downfall.40.e:0 "Thankfully it wasn't our troops."
+  downfall.40.f:0 "With Chapters over North America, losing Lost Hills will not bring the Brotherhood down."
   # 41: To NCR
   # 42: To ENC
   # 43: To Generic Brotherhood
 
   ## Ranger Citadel (ids 50 to 59)
   # 50: Generic
-  downfall.50.t: "The Destruction of Ranger Citadel"
-  downfall.50.d: "The Rangers of the Arizona Wasteland, once the bane of all raiders in Arizona, have today lost their great stronghold. Although the Rangers fought well, defending their beloved Citadel for three days straight against a massive assault and against all odds, it seems the Ranger's favoured tactic of survivalist fighting could not stand up to the swarming ranks of [Root.GetNameDef]. Ultimately, the Rangers made the painful decision to withdraw from the Citadel, both to prevent further unnecessary loss of life, and to ensure their leadership is not captured in one unexpected assault."
-  downfall.50.a: "We'll be back again, mark my words!"
-  downfall.50.b: "The Rangers are survivalists. They will endure."
-  downfall.50.c: "We hold the heart of Ranger organisation in our hands!"
-  downfall.50.e: "Soon Arizona shall be open to us!"
-  downfall.50.f: "The Rangers will fight to their last breath."
+  downfall.50.t:0 "The Destruction of Ranger Citadel"
+  downfall.50.d:0 "The Rangers of the Arizona Wasteland, once the bane of all raiders in Arizona, have today lost their great stronghold. Although the Rangers fought well, defending their beloved Citadel for three days straight against a massive assault and against all odds, it seems the Ranger's favoured tactic of survivalist fighting could not stand up to the swarming ranks of [Root.GetNameDef]. Ultimately, the Rangers made the painful decision to withdraw from the Citadel, both to prevent further unnecessary loss of life, and to ensure their leadership is not captured in one unexpected assault."
+  downfall.50.a:0 "We'll be back again, mark my words!"
+  downfall.50.b:0 "The Rangers are survivalists. They will endure."
+  downfall.50.c:0 "We hold the heart of Ranger organisation in our hands!"
+  downfall.50.e:0 "Soon Arizona shall be open to us!"
+  downfall.50.f:0 "The Rangers will fight to their last breath."
   # 51: To JAC
   # 52: To VIP
   # 53: To NCR
@@ -107,88 +107,88 @@
 
   ## Vault City (ids 60 to 69)
   # 60: Generic
-  downfall.60.t: "The Fall of Vault City"
-  downfall.60.d: "Bitter fighting over Vault City is starting to cease. [Root.GetNameDef] are starting to clean up what's left of Vault City, while the residents are unsure of what to expect from they're new overlords. As [Root.GetNameDef] takes the treasures of the Vault to [Root.Capital.GetName], who would have thought such a city could even be taken?"
-  downfall.60.a: "At least we evacuated our tech."
-  downfall.60.b: "Let us hope the G.E.C.K. is not lost."
-  downfall.60.c: "They can't stand much more..."
-  downfall.60.e: "The spoils will soon be ours too!"
-  downfall.60.f: "For [VLT.GetLeader], Vault City is everything."
+  downfall.60.t:0 "The Fall of Vault City"
+  downfall.60.d:0 "Bitter fighting over Vault City is starting to cease. [Root.GetNameDef] are starting to clean up what's left of Vault City, while the residents are unsure of what to expect from they're new overlords. As [Root.GetNameDef] takes the treasures of the Vault to [Root.Capital.GetName], who would have thought such a city could even be taken?"
+  downfall.60.a:0 "At least we evacuated our tech."
+  downfall.60.b:0 "Let us hope the G.E.C.K. is not lost."
+  downfall.60.c:0 "They can't stand much more..."
+  downfall.60.e:0 "The spoils will soon be ours too!"
+  downfall.60.f:0 "For [VLT.GetLeader], Vault City is everything."
   # 61: To NCR
   # 62: To ENC
   # 63: To Generic Focus Tree Conquest
 
   ## New Reno (ids 70 to 79)
   # 70: Generic
-  downfall.70.t: "The Fall of New Reno"
-  downfall.70.d: "The chaos that was the battle of New Reno is coming to a close. [Root.GetNameDef] is starting to enforce order onto the city. Fighting still continues throughout the city, its believed the city will be back to normal in a few days."
-  downfall.70.a: "Think of all the Jet we just lost..."
-  downfall.70.b: "Reno is going to be drastically poorer now..."
-  downfall.70.c: "We heard stories, but this place is worse than any of them!"
-  downfall.70.e: "Hopefully we get some of that Jet!"
-  downfall.70.f: "Hopefully they burn that place to the ground!"
+  downfall.70.t:0 "The Fall of New Reno"
+  downfall.70.d:0 "The chaos that was the battle of New Reno is coming to a close. [Root.GetNameDef] is starting to enforce order onto the city. Fighting still continues throughout the city, its believed the city will be back to normal in a few days."
+  downfall.70.a:0 "Think of all the Jet we just lost..."
+  downfall.70.b:0 "Reno is going to be drastically poorer now..."
+  downfall.70.c:0 "We heard stories, but this place is worse than any of them!"
+  downfall.70.e:0 "Hopefully we get some of that Jet!"
+  downfall.70.f:0 "Hopefully they burn that place to the ground!"
   # 71: To NCR
   # 72: To ENC
   # 73: To Generic Brotherhood
 
   ## The Warren (ids 80 to 89)
   # 80: Generic
-  downfall.80.t: "The Capture of the Warren"
-  downfall.80.d: "The Mutant armies of [TRL.GetName] have fallen to [ROOT.GetNameDef], the FEV filled caves surrounding Crater Lake becoming militarily occupied by the invading force. With the Mutants within the Warren being forced to flee their homes in retreat is there any future for mutantkind in the far north now?"
-  downfall.80.a: "A grave day for Mutants everywhere."
-  downfall.80.b: "They were never much attached to any one place."
-  downfall.80.c: "Purge them from the lands!"
-  downfall.80.e: "The world will be glad to see them gone!"
-  downfall.80.f: "What will happen in the north now?"
+  downfall.80.t:0 "The Capture of the Warren"
+  downfall.80.d:0 "The Mutant armies of [TRL.GetName] have fallen to [ROOT.GetNameDef], the FEV filled caves surrounding Crater Lake becoming militarily occupied by the invading force. With the Mutants within the Warren being forced to flee their homes in retreat is there any future for mutantkind in the far north now?"
+  downfall.80.a:0 "A grave day for Mutants everywhere."
+  downfall.80.b:0 "They were never much attached to any one place."
+  downfall.80.c:0 "Purge them from the lands!"
+  downfall.80.e:0 "The world will be glad to see them gone!"
+  downfall.80.f:0 "What will happen in the north now?"
   # 81: To NCR
   # 82: To WBH
   # 83: To Generic Brotherhood
 
   ## Capitol Hill (ids 90 to 99)
   # 90: Generic
-  downfall.90.t: "Capitol Hill has Fallen" #Title
-  downfall.90.d: "After fierce resistance, Capitol Hill has fallen to [Root.GetNameDef]. Brotherhood forces staunchly defended their position until the last shots were fired. Cowards were shot when they fled from their positions, but with ammunition supplies dwindling, the order was given at dusk to hastily withdraw from their positions, surrendering it to [Root.GetNameDef]."
-  downfall.90.a: "We shall repay the blood tenfold!" #Owner
-  downfall.90.b: "We must support our friends in their time of need." #Ownerfaction
-  downfall.90.c: "Now that the Capitol has fallen, the war is ours!" #Taker
-  downfall.90.e: "Victory is within our grasp!" #TakerFaction
-  downfall.90.f: "Let's see how these new owners behave from now on." #Unaligned
+  downfall.90.t:0 "Capitol Hill has Fallen" #Title
+  downfall.90.d:0 "After fierce resistance, Capitol Hill has fallen to [Root.GetNameDef]. Brotherhood forces staunchly defended their position until the last shots were fired. Cowards were shot when they fled from their positions, but with ammunition supplies dwindling, the order was given at dusk to hastily withdraw from their positions, surrendering it to [Root.GetNameDef]."
+  downfall.90.a:0 "We shall repay the blood tenfold!" #Owner
+  downfall.90.b:0 "We must support our friends in their time of need." #Ownerfaction
+  downfall.90.c:0 "Now that the Capitol has fallen, the war is ours!" #Taker
+  downfall.90.e:0 "Victory is within our grasp!" #TakerFaction
+  downfall.90.f:0 "Let's see how these new owners behave from now on." #Unaligned
   # 91: To OLY or TCA
   # 92: To TRL
   # 93: To Generic Brotherhood
 
   ## North Koover (ids 100 to 109)
   # 100: Generic
-  downfall.100.t: "North Koover Taken In A Raid" #Title
-  downfall.100.d: "In an ironic twist of fate, the capitol of the Broken Coast pirates, North Koover has fallen to raiding parties sent by the forces of [Root.GetNameDef]. Naval infantry landed on the beaches of the Upper Colombia River in the dead of night, catching the small security detachment in North Koover off guard. Official sources state that before enemy reinforcements could be signalled, these raiding parties quickly secured key infrastructure in the city, swiftly eliminated leadership figures in the enemy's chain of command, and entrenched themselves in intersections, on highrises, and in abandoned stores. Before long, the main [Root.GetNameDef] force caught up to reinforce these forward raiding parties and advanced the frontline in the war against the Broken Coast. Although the Broken Coast is still very much in the fight, we suspect that this attack has thrown their command structure into a frenzy. It remains to be seen if [Root.GetNameDef] will be able to keep up the momentum from this victory."
-  downfall.100.a: "We'll take North Koover back - and take their lives too!" #Owner
-  downfall.100.b: "The Coast have bled for this city. Let's help retake it." #Ownerfaction
-  downfall.100.c: "We've raided the raiders. Poetic justice!" #Taker
-  downfall.100.e: "Because of [Root.GetNameDef], we can breathe in relief." #TakerFaction
-  downfall.100.f: "Can [Root.GetNameDef] hold onto North Koover? Time will tell." #Unaligned
+  downfall.100.t:0 "North Koover Taken In A Raid" #Title
+  downfall.100.d:0 "In an ironic twist of fate, the capitol of the Broken Coast pirates, North Koover has fallen to raiding parties sent by the forces of [Root.GetNameDef]. Naval infantry landed on the beaches of the Upper Colombia River in the dead of night, catching the small security detachment in North Koover off guard. Official sources state that before enemy reinforcements could be signalled, these raiding parties quickly secured key infrastructure in the city, swiftly eliminated leadership figures in the enemy's chain of command, and entrenched themselves in intersections, on highrises, and in abandoned stores. Before long, the main [Root.GetNameDef] force caught up to reinforce these forward raiding parties and advanced the frontline in the war against the Broken Coast. Although the Broken Coast is still very much in the fight, we suspect that this attack has thrown their command structure into a frenzy. It remains to be seen if [Root.GetNameDef] will be able to keep up the momentum from this victory."
+  downfall.100.a:0 "We'll take North Koover back - and take their lives too!" #Owner
+  downfall.100.b:0 "The Coast have bled for this city. Let's help retake it." #Ownerfaction
+  downfall.100.c:0 "We've raided the raiders. Poetic justice!" #Taker
+  downfall.100.e:0 "Because of [Root.GetNameDef], we can breathe in relief." #TakerFaction
+  downfall.100.f:0 "Can [Root.GetNameDef] hold onto North Koover? Time will tell." #Unaligned
 
   # 101: To Generic Unbroken Resistance Member
 
   ## Heaven's Gate (ids 110 to 119)
   # 110: Generic
-  downfall.110.t: "The Fall of Heaven's Gate"
-  downfall.110.d: "The holy crusade against [Root.GetNameDef] proved to be too much for Heaven's Gate to handle. After a grisly campaign, the carcasses of both the faithful and their creations borne of steam littered the promised land, creating a trail that led all the way to the broken gates of the cathedral and the ransacked city itself. Fighting in the city was intense as every able-bodied man, woman, and child was ordered by the Clergy to give their lives for The Archangel's vision of a pure world. [Root.GetNameDef] forces were involved in bitter urban fighting as they fought uphill to reach the cathedral at the top of the mountain the city rested upon, with each city block heavily contested by heavily entrenched infantry and civilian militia. For once in decades, the smoke coming from the city was not a call for mass."
-  downfall.110.a: "They shall know that I am the LORD when I lay my vengeance upon them." #Owner
-  downfall.110.b: "We won't let Heaven's Gate be defiled by sinners!" #Ownerfaction
-  downfall.110.c: "And we took the Gate, and God saw that it was good." #Taker
-  downfall.110.e: "And we breathed in relief, for the crusaders were bested. "#TakerFaction
-  downfall.110.f: "Looks like they ran out of steam." #Unaligned
+  downfall.110.t:0 "The Fall of Heaven's Gate"
+  downfall.110.d:0 "The holy crusade against [Root.GetNameDef] proved to be too much for Heaven's Gate to handle. After a grisly campaign, the carcasses of both the faithful and their creations borne of steam littered the promised land, creating a trail that led all the way to the broken gates of the cathedral and the ransacked city itself. Fighting in the city was intense as every able-bodied man, woman, and child was ordered by the Clergy to give their lives for The Archangel's vision of a pure world. [Root.GetNameDef] forces were involved in bitter urban fighting as they fought uphill to reach the cathedral at the top of the mountain the city rested upon, with each city block heavily contested by heavily entrenched infantry and civilian militia. For once in decades, the smoke coming from the city was not a call for mass."
+  downfall.110.a:0 "They shall know that I am the LORD when I lay my vengeance upon them." #Owner
+  downfall.110.b:0 "We won't let Heaven's Gate be defiled by sinners!" #Ownerfaction
+  downfall.110.c:0 "And we took the Gate, and God saw that it was good." #Taker
+  downfall.110.e:0 "And we breathed in relief, for the crusaders were bested. "#TakerFaction
+  downfall.110.f:0 "Looks like they ran out of steam." #Unaligned
   # 111: To NCN
 
   ## Hidden Valley (ids 120 to 129)
   # 120: Generic
-  downfall.120.t: "The Siege of Hidden Valley" #Title
-  downfall.120.d: "After days of siege, relentless fighting, Hidden Valley has fallen. [Root.GetNameDef] was able to take Hidden Valley though pockets of resistance still exist. The Mojave chapter shall be remembered in history books for its defence of Hidden Valley, though fruitless in the end they stood agianst giants. Fighting to the last man, its unsure if this victory was truely a victory for [Root.GetNameDef]. Was it worth the price that was paid in blood for this land."
-  downfall.120.a: "Brothers & Sisters, fight on! Ad Victoriam!" #Owner
-  downfall.120.b: "We must not be outshone by the Brotherhoods heroic deeds." #Ownerfaction
-  downfall.120.c: "With Hidden Valley taken, they shall soon fall." #Taker
-  downfall.120.e: "Soon this war must end." #TakerFaction
-  downfall.120.f: "Wait, what? Must have been a bloodbath." #Unaligned
+  downfall.120.t:0 "The Siege of Hidden Valley" #Title
+  downfall.120.d:0 "After days of siege, relentless fighting, Hidden Valley has fallen. [Root.GetNameDef] was able to take Hidden Valley though pockets of resistance still exist. The Mojave chapter shall be remembered in history books for its defence of Hidden Valley, though fruitless in the end they stood agianst giants. Fighting to the last man, its unsure if this victory was truely a victory for [Root.GetNameDef]. Was it worth the price that was paid in blood for this land."
+  downfall.120.a:0 "Brothers & Sisters, fight on! Ad Victoriam!" #Owner
+  downfall.120.b:0 "We must not be outshone by the Brotherhoods heroic deeds." #Ownerfaction
+  downfall.120.c:0 "With Hidden Valley taken, they shall soon fall." #Taker
+  downfall.120.e:0 "Soon this war must end." #TakerFaction
+  downfall.120.f:0 "Wait, what? Must have been a bloodbath." #Unaligned
   # 121: To NCR
   # 122: To CES
   # 123: To VEG
@@ -196,13 +196,13 @@
 
   ## Bitter Springs (ids 130 to 139)
   # 130: Generic
-  downfall.130.t: "The Second Massacre at Bitter Springs" #Title
-  downfall.130.d: "Fighting is now coming to an end in Bitter Springs, [Root.GetNameDef] are now mopping up resistance. Rumours of another massacre at Bitter Springs is already spreading throughout the wasteland, though confirmed reports are still scattered."
-  downfall.130.a: "We shall avenge our fallen!" #Owner
-  downfall.130.b: "How dare they kill civilians!" #Ownerfaction
-  downfall.130.c: "Clean up what's left of this mess." #Taker
-  downfall.130.e: "We all know the rumours are lies." #TakerFaction
-  downfall.130.f: "These rumours are concerning." #Unaligned
+  downfall.130.t:0 "The Second Massacre at Bitter Springs" #Title
+  downfall.130.d:0 "Fighting is now coming to an end in Bitter Springs, [Root.GetNameDef] are now mopping up resistance. Rumours of another massacre at Bitter Springs is already spreading throughout the wasteland, though confirmed reports are still scattered."
+  downfall.130.a:0 "We shall avenge our fallen!" #Owner
+  downfall.130.b:0 "How dare they kill civilians!" #Ownerfaction
+  downfall.130.c:0 "Clean up what's left of this mess." #Taker
+  downfall.130.e:0 "We all know the rumours are lies." #TakerFaction
+  downfall.130.f:0 "These rumours are concerning." #Unaligned
   # 131: To NCR
   # 132: To CES
   # 133: To WHT
@@ -210,13 +210,13 @@
 
   ## Gloria (ids 140 to 149)
   # 140: Generic
-  downfall.140.t: "Glory Falls" #Title
-  downfall.140.d: "After hours of street to street fighting, [Root.GetNameDef] has finally taken the majority of Gloria. With heroes on both sides fighting until the bitter end & with the sheer ferocity of fighting glory must be taken. Though resistance still continues throughout the city, the main forces of the Republic have withdrawn. With the city in ruins, one has to ask what is next for Gloria?"
-  downfall.140.a: "The Republic is more then a city, ¡Por la República, por México!" #Owner
-  downfall.140.b: "We must liberate Gloria, and fight tyranny" #Ownerfaction
-  downfall.140.c: "This is a Glorious day!" #Taker
-  downfall.140.e: "We can't let [Root.GetNameDef] take all the glory!" #TakerFaction
-  downfall.140.f: "Is all this war and death really glorious?" #Unaligned
+  downfall.140.t:0 "Glory Falls" #Title
+  downfall.140.d:0 "After hours of street to street fighting, [Root.GetNameDef] has finally taken the majority of Gloria. With heroes on both sides fighting until the bitter end & with the sheer ferocity of fighting glory must be taken. Though resistance still continues throughout the city, the main forces of the Republic have withdrawn. With the city in ruins, one has to ask what is next for Gloria?"
+  downfall.140.a:0 "The Republic is more then a city, ¡Por la República, por México!" #Owner
+  downfall.140.b:0 "We must liberate Gloria, and fight tyranny" #Ownerfaction
+  downfall.140.c:0 "This is a Glorious day!" #Taker
+  downfall.140.e:0 "We can't let [Root.GetNameDef] take all the glory!" #TakerFaction
+  downfall.140.f:0 "Is all this war and death really glorious?" #Unaligned
   # 141: To CES
   # 142: To TAA
   # 143: To ARM
@@ -225,62 +225,62 @@
   ## Los Mochis (ids 150 to 159)
   # 150: Generic
   #Los Mochis/Freedom Fighters
-  downfall.150.t: "The Broken Masks" #Title
-  downfall.150.d: "After extensive fighting and with many soldiers laying their lives down on both sides, the Free Fighters were finally pushed back from their initial borders and finally lost their capitol city of Los Mochis. Understanding the devastation that would befall their people if they did not act quickly, the Tres Mascaras and their most elite fighters vowed to buy as much time for their people to escape the fighting as possible."
-  downfall.150.a: "You can't defeat a Free Fighter's spirit. We'll be back!" #Owner
-  downfall.150.b: "This time, we'll fight for the Free Fighters' freedom!" #Ownerfaction
-  downfall.150.c: "Real heroes wouldn't wear silly masks or fall so easily." #Taker
-  downfall.150.e: "[Root.GetNameDef] helped Mexico by eliminating these vigilantes." #TakerFaction
-  downfall.150.f: "Can Las Tres Mascaras and their people be so easily beaten?" #Unaligned
+  downfall.150.t:0 "The Broken Masks" #Title
+  downfall.150.d:0 "After extensive fighting and with many soldiers laying their lives down on both sides, the Free Fighters were finally pushed back from their initial borders and finally lost their capitol city of Los Mochis. Understanding the devastation that would befall their people if they did not act quickly, the Tres Mascaras and their most elite fighters vowed to buy as much time for their people to escape the fighting as possible."
+  downfall.150.a:0 "You can't defeat a Free Fighter's spirit. We'll be back!" #Owner
+  downfall.150.b:0 "This time, we'll fight for the Free Fighters' freedom!" #Ownerfaction
+  downfall.150.c:0 "Real heroes wouldn't wear silly masks or fall so easily." #Taker
+  downfall.150.e:0 "[Root.GetNameDef] helped Mexico by eliminating these vigilantes." #TakerFaction
+  downfall.150.f:0 "Can Las Tres Mascaras and their people be so easily beaten?" #Unaligned
 
 
   ## Reynosa (ids 160 to 169)
   # 160: Generic
-  downfall.160.t: "Twice in Two Lifetimes" #Title
-  downfall.160.d: "Intense and deadly fighting has ended in the jungle capitol of Reynosa. [Root.GetNameDef] forces cleared out robots and conscripted forces from entrenched positions. Reporters attached to frontline units stated that living soldiers in Reynosa were being rounded up as prisoners of war, and any remaining holdouts were being dealt with via high-explosive and flamer units. In addition, any remaining mechanized forces in the area under command of the Generalissimo were being eliminated through dedicated anti-armor teams. Civilians formerly under Santa Anna's rule began to cautiously but surely exit their homes, marvelling at the absence of the omniscient presence of deadly robots patrolling the streets.  \n\n Although the Ejercito's front in Reynosa was quickly evaporating, [Root.GetNameDef] intelligence learned that Santa Anna was rallying his army and air force to mount a counterattack and retake the city. While losing his capital came as a heavy loss, the Generalissimo was not ready to go down without another fight or ten."
-  downfall.160.a: "I refuse to accept this! Reynosa will once again be mine!" #Owner
-  downfall.160.b: "Santa Anna has lost his throne; let's help him reclaim it." #Ownerfaction
-  downfall.160.c: "Reynosa is ours! Death to Santa Anna! Viva Mexico!" #Taker
-  downfall.160.e: "Over 400 years to prepare, and he lost land again. Pathetic." #TakerFaction
-  downfall.160.f: "Santa Anna has lost his capital; Mexico will lose a tyrant." #Unaligned
+  downfall.160.t:0 "Twice in Two Lifetimes" #Title
+  downfall.160.d:0 "Intense and deadly fighting has ended in the jungle capitol of Reynosa. [Root.GetNameDef] forces cleared out robots and conscripted forces from entrenched positions. Reporters attached to frontline units stated that living soldiers in Reynosa were being rounded up as prisoners of war, and any remaining holdouts were being dealt with via high-explosive and flamer units. In addition, any remaining mechanized forces in the area under command of the Generalissimo were being eliminated through dedicated anti-armor teams. Civilians formerly under Santa Anna's rule began to cautiously but surely exit their homes, marvelling at the absence of the omniscient presence of deadly robots patrolling the streets.  \n\n Although the Ejercito's front in Reynosa was quickly evaporating, [Root.GetNameDef] intelligence learned that Santa Anna was rallying his army and air force to mount a counterattack and retake the city. While losing his capital came as a heavy loss, the Generalissimo was not ready to go down without another fight or ten."
+  downfall.160.a:0 "I refuse to accept this! Reynosa will once again be mine!" #Owner
+  downfall.160.b:0 "Santa Anna has lost his throne; let's help him reclaim it." #Ownerfaction
+  downfall.160.c:0 "Reynosa is ours! Death to Santa Anna! Viva Mexico!" #Taker
+  downfall.160.e:0 "Over 400 years to prepare, and he lost land again. Pathetic." #TakerFaction
+  downfall.160.f:0 "Santa Anna has lost his capital; Mexico will lose a tyrant." #Unaligned
 
   # 161: To RRG
   # 162: To ITZ
 
   ## The Refinery (ids 170 to 179)
   # 170: Generic
-  downfall.170.t: "The Hostile Takeover of Petro-Chico"
-  downfall.170.d: "After days of heavy fighting, reports are beginning to come from the front stating that [Root.GetNameDef] has broken the stalwart defence of Petro-Chico's capitol, The Refinery. Despite having a defensive line manned by thousands of men, [Root.GetNameDef] special operations units were able to penetrate a lightly guarded section in The Refinery's defence. The guard detail in the area was quickly and quietly eliminated under the cover of night and a gaping hole was blasted into a barrier that separated The Refinery's interior from the fighting outside, providing [Root.GetNameDef] with an opening to funnel forces into the objective. Faced with defending their capitol from both inside and out and losing more men than they could sustain, El Seeyo, who had been fighting the enemy alongside his elite guard, the Mannajias, ordered The Refinery's entire garrison to surrender their arms. Now scattered to the wind, Petro-Chico's people fled East to Chichen Itza and South to Nueva Aztlán. It seems that for this once proud people, the Fourth Quarter had finally come. [Root.GetNameDef] forces now occupied the derelict but precious refinery, a relic of the Old World."
-  downfall.170.a: "Zheiroldas willing, we will take back our Refinery and Kompenni!" #Owner
-  downfall.170.b: "We must recoup both The Refinery and any other losses." #Ownerfaction
-  downfall.170.c: "Our soldiers have paid enough in blood. The Refinery is ours!" #Taker
-  downfall.170.e: "Looks like they should've invested more in defence." #TakerFaction
-  downfall.170.f: "Another bloodbath in Mexico. What's new?" #Unaligned
+  downfall.170.t:0 "The Hostile Takeover of Petro-Chico"
+  downfall.170.d:0 "After days of heavy fighting, reports are beginning to come from the front stating that [Root.GetNameDef] has broken the stalwart defence of Petro-Chico's capitol, The Refinery. Despite having a defensive line manned by thousands of men, [Root.GetNameDef] special operations units were able to penetrate a lightly guarded section in The Refinery's defence. The guard detail in the area was quickly and quietly eliminated under the cover of night and a gaping hole was blasted into a barrier that separated The Refinery's interior from the fighting outside, providing [Root.GetNameDef] with an opening to funnel forces into the objective. Faced with defending their capitol from both inside and out and losing more men than they could sustain, El Seeyo, who had been fighting the enemy alongside his elite guard, the Mannajias, ordered The Refinery's entire garrison to surrender their arms. Now scattered to the wind, Petro-Chico's people fled East to Chichen Itza and South to Nueva Aztlán. It seems that for this once proud people, the Fourth Quarter had finally come. [Root.GetNameDef] forces now occupied the derelict but precious refinery, a relic of the Old World."
+  downfall.170.a:0 "Zheiroldas willing, we will take back our Refinery and Kompenni!" #Owner
+  downfall.170.b:0 "We must recoup both The Refinery and any other losses." #Ownerfaction
+  downfall.170.c:0 "Our soldiers have paid enough in blood. The Refinery is ours!" #Taker
+  downfall.170.e:0 "Looks like they should've invested more in defence." #TakerFaction
+  downfall.170.f:0 "Another bloodbath in Mexico. What's new?" #Unaligned
   # 171: To ARM
   # 172: To ITZ
 
   ## Xochicalco (ids 180 to 189)
   # 180: Generic
-  downfall.180.t: "The Fall of Xochicalco: An Unforeseen Catastrophe"
-  downfall.180.d: "After a long and arduous campaign against Nueva Aztlán, [Root.GetNameDef] forces finally carved their way into the mountainous capitol city of Xochicalco. Mountain warfare units as well as special operations forces were engaged in heavy fighting with Eagle Warrior Cult and Jaguar Warrior Cult soldiers, who were deployed in an effort to buy Nueva Aztlán's elites and civilians time to escape the ensuing bloodshed. Rumors among soldiers at the front reported heavy street-to-street combat as asymmetric warfare completely engulfed the city. For some [Root.GetNameDef] units, bayonets and hand-to-hand combat became almost as, if not more, common than ranged firefights. \n\n It remains to be seen whether the efforts of Aztlán the Lifebringer, Aztlán the Legendary, and Speaker Yesenia have created a nation that can survive even these dire times, or if Nueva Aztlán will submit itself to a dark fate and future."
-  downfall.180.a: "In Aztlán's name, we challenge our fate!" #Owner
-  downfall.180.b: "The future is not written. We'll help free Xochicalco!" #Ownerfaction
-  downfall.180.c: "We'll witness the end of Nueva Aztlán, unlike Yesenia." #Taker
-  downfall.180.e: "Tlaloc's nukes started the job; we'll help finish it!" #TakerFaction
-  downfall.180.f: "The Flower Wars have bloomed into something horrible..." #Unaligned
+  downfall.180.t:0 "The Fall of Xochicalco: An Unforeseen Catastrophe"
+  downfall.180.d:0 "After a long and arduous campaign against Nueva Aztlán, [Root.GetNameDef] forces finally carved their way into the mountainous capitol city of Xochicalco. Mountain warfare units as well as special operations forces were engaged in heavy fighting with Eagle Warrior Cult and Jaguar Warrior Cult soldiers, who were deployed in an effort to buy Nueva Aztlán's elites and civilians time to escape the ensuing bloodshed. Rumors among soldiers at the front reported heavy street-to-street combat as asymmetric warfare completely engulfed the city. For some [Root.GetNameDef] units, bayonets and hand-to-hand combat became almost as, if not more, common than ranged firefights. \n\n It remains to be seen whether the efforts of Aztlán the Lifebringer, Aztlán the Legendary, and Speaker Yesenia have created a nation that can survive even these dire times, or if Nueva Aztlán will submit itself to a dark fate and future."
+  downfall.180.a:0 "In Aztlán's name, we challenge our fate!" #Owner
+  downfall.180.b:0 "The future is not written. We'll help free Xochicalco!" #Ownerfaction
+  downfall.180.c:0 "We'll witness the end of Nueva Aztlán, unlike Yesenia." #Taker
+  downfall.180.e:0 "Tlaloc's nukes started the job; we'll help finish it!" #TakerFaction
+  downfall.180.f:0 "The Flower Wars have bloomed into something horrible..." #Unaligned
 
   # 181: To ITZ
 
 
   ## Chichen Itza (ids 190 to 199)
   # 190: Generic
-  downfall.190.t: "The Fall of the Chichen Itza"
-  downfall.190.d: "After a bloody campaign, Chichen Itza was pushed all the way back to the Yucatan Peninsula by [Root.GetNameDef]. Bodies of soldiers from both nations' armies covered the landscape around the ziggurat as [Root.GetNameDef] forces slowly but surely pushed the frontlines deeper into Chichen Itza's territory and ultimately, its capital city. The Itzan government extensively drafted any able bodied men and women to fight off the invaders, hoping in vain that superior numbers would be able to turn the war in their favor. \n\n[Root.GetNameDef] command hopes the capture of the capital would further demoralize already flagging Itzan soldiers. [ITZ.GetLeader] and their security detail narrowly avoided capture by [Root.GetNameDef] special operations forces, managing to flee to the coast. It is thought that they have crossed either the Gulf of Mexico to the American South or to one of the many island nations in the Caribbean, but [Root.GetNameDef] forces were unable to pursue. Regardless, it is presumed [ITZ.GetLeader] will soon need to return to the mainland to negotiate peace for the Itzan people."
-  downfall.190.a: "White is the flag they'll wave when we force them to heel!" #Owner
-  downfall.190.b: "Chichen Itza is in dire straits; we need to help them out!" #Ownerfaction
-  downfall.190.c: "Orange is the sun that sets on the Itzan empire!" #Taker
-  downfall.190.e: "Chichen Itza will be a sacrifice for our prosperity!" #TakerFaction
-  downfall.190.f: "No matter who wins, the Itzan people will suffer the most." #Unaligned
+  downfall.190.t:0 "The Fall of the Chichen Itza"
+  downfall.190.d:0 "After a bloody campaign, Chichen Itza was pushed all the way back to the Yucatan Peninsula by [Root.GetNameDef]. Bodies of soldiers from both nations' armies covered the landscape around the ziggurat as [Root.GetNameDef] forces slowly but surely pushed the frontlines deeper into Chichen Itza's territory and ultimately, its capital city. The Itzan government extensively drafted any able bodied men and women to fight off the invaders, hoping in vain that superior numbers would be able to turn the war in their favor. \n\n[Root.GetNameDef] command hopes the capture of the capital would further demoralize already flagging Itzan soldiers. [ITZ.GetLeader] and their security detail narrowly avoided capture by [Root.GetNameDef] special operations forces, managing to flee to the coast. It is thought that they have crossed either the Gulf of Mexico to the American South or to one of the many island nations in the Caribbean, but [Root.GetNameDef] forces were unable to pursue. Regardless, it is presumed [ITZ.GetLeader] will soon need to return to the mainland to negotiate peace for the Itzan people."
+  downfall.190.a:0 "White is the flag they'll wave when we force them to heel!" #Owner
+  downfall.190.b:0 "Chichen Itza is in dire straits; we need to help them out!" #Ownerfaction
+  downfall.190.c:0 "Orange is the sun that sets on the Itzan empire!" #Taker
+  downfall.190.e:0 "Chichen Itza will be a sacrifice for our prosperity!" #TakerFaction
+  downfall.190.f:0 "No matter who wins, the Itzan people will suffer the most." #Unaligned
   # 191: To ATE
 
   ### Additional Cities

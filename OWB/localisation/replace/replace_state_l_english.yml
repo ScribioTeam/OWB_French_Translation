@@ -1,16 +1,16 @@
 ﻿l_english:
-  wasteland: "§R Wasteland §!"
-  city: "Ruined City"
-  large_city: "Wasteland City"
-  metropolis: "§G Old World City §!"
-  megalopolis: "§G Restored Megacity §!"
-  prewar_megacity:0 "§G Pre-War Megacity §!"
-  town: "Settlement"
-  large_town: "Walled Settlement"
-  rural: "§R Badland §!"
-  enclave: "Enclave"
-  small_island: "Small Island"
-  tiny_island: "Tiny Island"
-  pastoral: "Frontier"
-  shanty: "Outpost"
+  wasteland: "§R Wasteland §!" # 0 slots
+  city: "Ruined City" # 6 slots
+  large_city: "Wasteland City" # 8 slots
+  metropolis: "§G Old World City §!" # 10 slots
+  megalopolis: "§G Restored Megacity §!" # 12 slots
+  prewar_megacity:0 "§G Pre-War Megacity §!" # 20 slots
+  town: "Settlement" # 4 slots
+  large_town: "Walled Settlement" # 5 slots
+  rural: "§R Badland §!" # 1 slot
+  enclave: "Enclave" # 0 slots
+  small_island: "Small Island" # 1 slot
+  tiny_island: "Tiny Island" # 0 slots
+  pastoral: "Frontier" # 1 slot
+  shanty: "Outpost" # 2 slots
   PROVINCE_STATE_IMPASSABLE: "§R Impassable Wasteland §!"

@@ -133,6 +133,15 @@
   operation_nuke_vp:0 "Dirty Bomb Attack"
   operation_nuke_vp_desc:0 "The various nuclear devices sitting in storage would probably be better off in the enemy's hands, so to speak."
 
+  operation_mine_colorado:0 "Mine the Colorado"
+  operation_mine_colorado_desc:0 "The Colorado River could act as a perfect staging point for supply or invasion of the Mojave. As such, we need to take steps to limit an enemy's ability to utilize it. While mines won't prevent river traffic, it will slow it down."
+
+  operation_sabotage_divide:0 "Sabotage the Divide"
+  operation_sabotage_divide_desc:0 "The Divide acts as a vital supply route for invaders into the Mojave. Moreso, our scouts have reported the presence of nuclear weapons in the area. Our operatives will sabotage infrastructure across the region, hampering enemy supply."
+
+  operation_securitron_heist:0 "The Securitron Heist"
+  operation_securitron_heist_desc:0 "Securitrons may be the favored toy of Vegas, but they are truly just remnants of Old World arrogance. Elijah has decided that only the brotherhood is capable of controlling them, and is planning an operation to recover a number of stored securitron units."
+
   #Operation Phases
   make_underworld_connections:0 "Make Underworld Connections"
   make_underworld_connections_desc:0 "We know a pack of drugged-out killers. They're addicted to every stim, every pill, every psychoactive enema on this fucked-up Earth. Let’s see if they’ll work with us."
@@ -278,6 +287,22 @@
   use_dirty_bomb:0 "Deploy the Dirty Bomb"
   use_dirty_bomb_desc:0 "We'll conscript a few fanatical fighters to deploy the dirty bomb in a major population location."
   use_dirty_bomb_outcome:0 "Those who deployed it died, of course, but it was a worthy sacrifice. This has been a major success."
+
+  mine_river:0 "Mine the River"
+  mine_river_desc:0 "We'll then deploy mines from these boats, limiting enemy operations."
+  mine_river_outcome:0 "The mines were deployed without difficulty."
+
+  boat_mine_moj:0 "Launch Boats"
+  boat_mine_moj_desc:0 "We've commandeered a few small vessels. We'll load the mines onto them, and set off."
+  boat_mine_moj_outcome:0 "While we were almost caught by an enemy patrol, we did manage to launch the boats."
+
+  navigate_home:0 "Navigate Home"
+  navigate_home_desc:0 "With the mines placed, we'll make our way back home, scuttling the boats to remove any evidence."
+  navigate_home_outcome:0 "The boats were sunk, and our operatives successfully returned home."
+
+  neutralize_robots:0 "Secure the Targets"
+  neutralize_robots_desc:0 "The securitrons we're looking to steal are stored in several seemingly abandoned facilities. While they are protected by other robotic security, we believe we'll be able to infiltrate and escape with a sizeable number of them."
+  neutralize_robots_outcome:0 "Our team came under serious fire from the facility's defenses. Still, they were able to find a blind spot in the systems, and carry out the mission."
 
   # Tooltips
   1_leg_ops_tt:0 "Gained [?slaves_to_add|G]k slaves."

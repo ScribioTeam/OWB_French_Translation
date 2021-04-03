@@ -1,17 +1,17 @@
 ﻿l_english:
 
  #Decision Categories
-  KHA_drug_trade_category: "Kings Of The Drug Trade"
-  KHA_slaver_category: "Slaver Decisions"
-  KHA_diplomatic_options: "Diplomacy"
-  KHA_drug_runner_category: "Send the Drug Runners"
+  KHA_drug_trade_category:0 "Kings Of The Drug Trade"
+  KHA_slaver_category:0 "Slaver Decisions"
+  KHA_diplomatic_options:0 "Diplomacy"
+  KHA_drug_runner_category:0 "Send the Drug Runners"
 
  #decisions
-  KHA_drug_run_to_fiends_renewal: "Drug Run To Fiends"
-  KHA_drug_run_to_fiends_renewal_desc: "Run drugs to the fiends"
-  KHA_drugged_up: "Drugged Up"
-  KHA_drugged_up_desc: "Hand out extra chems in preparation for the worst, it's hard to stop someone in a drug induced rage."
-  KHA_sorrows_war_help: "Sorrows War Aid"
-  KHA_sorrows_war_help_desc: "Perhaps we bit off more than we could chew in our war with the Sorrows. I'm sure we could bribe some local gangs to take part—namely the White Legs—although it will make us look weak for needing help."
-  KHA_drug_trade: "Send the Drug Runners to [From.GetName]"
-  KHA_drug_trade_desc: "We could make a pretty cap from selling all our excess chems to [From.GetName]!"
+  KHA_drug_run_to_fiends_renewal:0 "Drug Run To Fiends"
+  KHA_drug_run_to_fiends_renewal_desc:0 "Run drugs to the fiends"
+  KHA_drugged_up:0 "Drugged Up"
+  KHA_drugged_up_desc:0 "Hand out extra chems in preparation for the worst, it's hard to stop someone in a drug induced rage."
+  KHA_sorrows_war_help:0 "Sorrows War Aid"
+  KHA_sorrows_war_help_desc:0 "Perhaps we bit off more than we could chew in our war with the Sorrows. I'm sure we could bribe some local gangs to take part—namely the White Legs—although it will make us look weak for needing help."
+  KHA_drug_trade:0 "Send the Drug Runners to [From.GetName]"
+  KHA_drug_trade_desc:0 "We could make a pretty cap from selling all our excess chems to [From.GetName]!"

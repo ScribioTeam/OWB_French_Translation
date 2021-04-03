@@ -44,8 +44,8 @@
   chieftain_desc:0 "This faction is ruled over by a chieftain possessing unlimited power over their people."
   gang:0 "Gang"
   gang_desc:0 "This faction is ruled through a loose gang structure, with the most powerful and ruthless making up it's leadership"
-  military_government: "Martial Law"
-  military_government_desc: "This faction is ruled by the army, for the people's own good, of course."
+  military_government:0 "Martial Law"
+  military_government_desc:0 "This faction is ruled by the army, for the people's own good, of course."
 
 #Elites
   kritocracy:0 "Kritocracy"

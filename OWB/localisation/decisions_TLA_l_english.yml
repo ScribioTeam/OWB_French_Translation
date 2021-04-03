@@ -1,7 +1,7 @@
 ﻿l_english:
 
-  tla_annex_decrepit: "Regaining our Southern Defenses"
-  tla_decision_annex_decrepit: "Annexing the Decrepit Defenses"
+  tla_annex_decrepit:0 "Regaining our Southern Defenses"
+  tla_decision_annex_decrepit:0 "Annexing the Decrepit Defenses"
 
   tla_favourites:0 "The Sons of Tlaloc"
   tla_favourites_desc:0 "As Tlaloc's condition deteriorates, he has become more and more susceptible to the suggestions of his A.I. children, for better or for worse."
@@ -15,6 +15,6 @@
 
   tla_decision_mont_patch:0 "Combat Moctezuma's Influence"
 
-  tla_asset_protection_protocols: "§RASSET PROTECTION PROTOCOLS§!"
-  tla_asset_protection_protocol: "PROTECTION PROTOCOL [From.Capital.GetID]"
-  tla_nuclear_deterrance_protocol: "§RDETERRANCE PROTOCOL [From.Capital.GetID]§!"
+  tla_asset_protection_protocols:0 "§RASSET PROTECTION PROTOCOLS§!"
+  tla_asset_protection_protocol:0 "PROTECTION PROTOCOL [From.Capital.GetID]"
+  tla_nuclear_deterrance_protocol:0 "§RDETERRANCE PROTOCOL [From.Capital.GetID]§!"

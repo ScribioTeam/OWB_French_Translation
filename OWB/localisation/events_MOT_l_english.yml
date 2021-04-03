@@ -51,64 +51,49 @@
   nf_mot.14.t:0 "The Ranger and the Robot"
   nf_mot.14.d:0 "Ever since the NCR established the Vegas Embassy, we've suspected the company it hosted was not entirely friendly. Indeed, we had strong suspicion that the NCR were running an undercover Ranger detatchment from the building, right under our noses, to try and infiltrate our ranks. We've never been able to prove it. \n\nThis morning, just outside Goodsprings, a very special person was arrested and detained by an NCR Ranger squad. One of the many Couriers we sent to deliver to us the Platinum Chip, Courier 6 was the most reliable Courier to date. Alas, even they seem to have been unable to avoid the Bear's watchful gaze, and the Platinum Chip he was carrying has been confiscated. Sources inside the NCR inform us that it's being swiftly moved back to California, under heavy guard. \n\nThe Courier's arrest and the Chip's confiscation mean only one thing: that the NCR knows of its importance. With our plans for the Bear and the Bull now in tatters, we need to carefully consider how to proceed. Our securitron army alone may be enough for us to overwhelm the Mojave Expedition's forces, allowing us to capture the Hoover Dam and the chip. It's a risky move..."
   nf_mot.14.a:0 "Rip up the Treaty!"
-
   nf_mot.15.t:0 "Civilian Rule in Bakersfield"
   nf_mot.15.d:0 "Bakerfield has been under martial law for years as part of the Mojave Expedition's remit. But with their increasing control of the Mojave, the territory has been returned to civilian rule. It is only a matter of time before we extend the same liberties to the rest of the Mojave . . . and perhaps, beyond."
   nf_mot.15.a:0 "To the torch of the Pacific!"
-
   nf_mot.16.t:0 "Indefinite Martial Law in Bakersfield"
   nf_mot.16.d:0 "Bakerfield has been under martial law for years as part of the Mojave Expedition's remit. Given the threats poised by their endless protracted war, [MOT.GetLeader] has persuaded the NCR Council to continue that. Some of our citizens may question the 'endless quagnmire' but we will, ultimately, prevail."
   nf_mot.16.a:0 "To the torch of the Pacific!"
-
   nf_mot.17.t:0 "The Bear's Last Meal"
-  nf_mot.17.d: "[MOT.GetLeader] has demanded we submit to New California's demands and become an 'associated territory' of the Republic. This would end our independence and make us a puppet in all but name. Although new California is our greatest market, can we really submit to these demands?"
-  nf_mot.17.a: "Absolutely not."
-  nf_mot.17.a_tt: "\n§RRoses are red§!,\n§Mviolets are blue§!,\n§Ywe're going to send securitrons \nafter you.§!"
-  nf_mot.17.b: "Why did I lose that Chip!"
-
-
-
+  nf_mot.17.d:0 "[MOT.GetLeader] has demanded we submit to New California's demands and become an 'associated territory' of the Republic. This would end our independence and make us a puppet in all but name. Although new California is our greatest market, can we really submit to these demands?"
+  nf_mot.17.a:0 "Absolutely not."
+  nf_mot.17.a_tt:0 "\n§RRoses are red§!,\n§Mviolets are blue§!,\n§Ywe're going to send securitrons \nafter you.§!"
+  nf_mot.17.b:0 "Why did I lose that Chip!"
   nf_mot.18.t:0 "Vegas Is Ours!"
   nf_mot.18.d:0 "[VEG.GetLeader] understands that we are the shield that guards the realms of civilization against all who threaten it.  Accordingly, Vegas is prepared to enter the Republic, becoming one more point of light in the darkness. Already our bureacrats are preparing to assess the city's wealth tax and ensure the adequate distribution of resources."
   nf_mot.18.a:0 "To the sixth state in the Union!"
-
-
   nf_mot.19.t:0 "With An Enemy You Know Where They Stand. With a Neutral, Who Knows?"
   nf_mot.19.d:0 "[VEG.GetLeader] has refused our friendly offer to alter the terms of the Treaty of New Vegas. Ah well, that's what the Republic's army is for. Of course, this could expose us to an attack across the Colorado."
   nf_mot.19.a:0 "To the Sixth state in the Union!"
-
   nf_mot.20.t:0 "Protecting Our Customers"
   nf_mot.20.d:0 "With the Legion at the door, the Mojave Territories beg for our aid.  [MOT.GetLeader] offers territorial concessions in exchange for our military assistance. Honestly, this is a great plan since the NCR will die to protect us! Just as I calculated."
   nf_mot.20.a:0 "I can think of few reasons not to do this."
   nf_mot.20.b:0 "One is the NCR may win!"
-
   nf_mot.21.t:0 "A Loan Against the House"
   nf_mot.21.d:0 "With the Legion at the door, we have ceded territory to [VEG.GetLeader] in exchange for economic assistance. Hopefully this won't come back to bite us in the ass as armies of robots descend upon our rear. But that's crazy talk."
   nf_mot.21.a:0 "We can always conquer Vegas later."
-
-
   nf_mot.22.t:0 "I Hate Vegas"
   nf_mot.22.d:0 "[VEG.GetLeader] spurned our offer and is content to watch the Legion conquer the Mojave. Presumably they don't get they're next, or hope we'll bleed each other out."
   nf_mot.22.a:0 "Next time I'm going to Reno."
-
-
   nf_mot.24.t:0 "... Well, That's Weird"
   nf_mot.24.d:0 "Rangers approaching Black Mountain are hearing weird ramblings about 'Utobitha,' the promised land of mutants. After some sharp rifle volleys, the radio station has been silenced with minimal casualties. Among the survivors was a Mexican ghoul named Raul Tejada. Raul has offered to work on the Mojave's infrastructure in exchange for saving his life. Is not life wonderful?"
   nf_mot.24.a:0 "For the next 24 hours, anyway."
-  nf_mot.24.a_tt: "\nRaul Tejada volunteers for service! It was either you or that postal worker, I guess."
-
-
+  nf_mot.24.a_tt:0 "\nRaul Tejada volunteers for service! It was either you or that postal worker, I guess."
   nf_mot.25.t:0 "Return to Sender"
   nf_mot.25.d:0 "Horrible news! A courier discovered that Hanlon has been sending false reports playing up threats to New California to discourage our support for the war. How shall we react to this treachery?"
   nf_mot.25.a:0 "Persuade Hanlon through diplomacy that the NCR will prevail!"
   nf_mot.25.b:0 "Give the Chief a bullet."
   nf_mot.25.b_tt:0 "Although demoralizing to the rangers, it gives more power to Oliver."
-
   nf_mot.26.t:0 "What in the God Damn?"
   nf_mot.26.d:0 "The Head of the Chairman has risen up against [VEG.GetLeader] with the support of [MOT.GetLeader]. How dare he! After we gave him that spiffy suit!"
   nf_mot.26.a:0 "Baby, getting outplayed and getting cheated ain't the same thing."
-
-
+  nf_mot.27.t:0 "The Three-Card Bounty"
+  nf_mot.27.d:0 "While we may have overrun the Fiends and captured Vault 3 some months ago, we always knew dislodging the scum from their stronghold would be far from the end of the group. Sure enough, after Motor Runner's death three leaders rapidly sprang up: the infamous Violet, Cook-Cook and Driver Nephi. Countless squadrons of NCR Troopers have been dispatched over the months since our capture of the Vault to attempt to bring the three to justice, but none have been successful. Almost all we send end up dead, and those that survive are usually so scared they wish they were slaughtered alongside their friends. For months now the works of these three have tied up vital men and equipment that could be much better used against the Legion or Vegas. So infamous were the trio that the Republic even set the so-called \"Three-Card Bounty\" on their head, offering 250 Caps for the confirmed kill of any individual and a bonus 300 Caps for the elimination of all three. The leaders truly are a menace. \n\nMore accurately, they were. Following an intervention today by a combined taskforce of the 1st Recon, an elite sniper team, and the Baja Brothers, the most experience Ranger assault for in the Republic, all three have at last been put down in one fell swoop. It sure as hell wasn't easy even for such a formidable fighting force: 12 good soldiers were lost in the fighting. With their deaths, however, we've freed up much-needed manpower that would otherwise have been tied down for years to come. Thank God."
+  nf_mot.27.a:0 "Those monsters deserved their deaths."
+  nf_mot.27.a_tt:0 "The §OBaja Brothers§!, a §Yveteran spec-ops§! unit of war-hardened Rangers, will become §Gavailable§! for redeployment from §YVault 6§!.\n\n"
 
   ## news events ##
   nf_mot_news.1.t:0 "Operation: Sunburst"

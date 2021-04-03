@@ -34,7 +34,7 @@
   unit_training_tech_8_desc:0 "Pre-war training pods, loaded with all previous improvements to our army drills, let our troops become experienced soldiers much quicker with less ressources directed toward boot camps."
 
  #----------------------------
- # Ranged Weaponry
+ # Heavy Inf Gear
  #----------------------------
   heavy_infantry_tech_1:0 "Enforcers"
   heavy_infantry_tech_1_desc:0 ""
@@ -60,8 +60,12 @@
   ballistic_weaponry_tech_2:0 "Common Ballistic Weaponry"
   ballistic_weaponry_tech_3:0 "Advanced Ballistic Weaponry"
   ballistic_weaponry_tech_4:0 "Elite Ballistic Weaponry"
+  energy_weapon_emitter_tech:0 "Focusing Arrays"
+  energy_weapon_emitter_tech_desc:0 ""
   warrior_equipment:0 "Warrior Equipment"
   warrior_equipment_desc:0 "Providing things such as bags, bedrolls, mess kits, and maintenance tools improves morale and combat effectiveness."
+  warrior_melee_tech:0 "Simplified Designs"
+  warrior_melee_tech_desc:0 ""
   overcharged_ammunition:0 "Overcharged Ammunition"
   overcharged_ammunition_desc:0 "By having our manufacturers supercharge our MFCs, ECPs and ECs before shipping them our to our troops we can ensure that our energy weapons pack a greater punch without needing to directly modify the weapon at all."
   custom_built_capacitors:0 "Custom Built Capacitors"

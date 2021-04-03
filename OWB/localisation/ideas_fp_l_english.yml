@@ -1,64 +1,61 @@
 ﻿l_english:
 
- gpf_three_nations_trade: "Three Nations Trade Center"
- gpf_three_nations_trade_tt: "All three nations have invested heavily into a shared trade center in First People's Junction and all will earn their share of the profits from it."
- gpf_acclimatization: "Acclimatization to the Surface"
- gpf_defensive_accord: "Safety"
- gpf_freedom_accord: "Freedom"
- fp_support_dynamic: "The Support of Our People"
- fp_support_dynamic_tt: "§gThis national spirit will gain bonuses based on the support of the clans and city dwellers.§!"
- fp_clan_support_mod: "Clans Support"
- fp_city_support_mod: "City Dweller Support"
+ gpf_three_nations_trade:0 "Three Nations Trade Center"
+ gpf_three_nations_trade_tt:0 "All three nations have invested heavily into a shared trade center in First People's Junction and all will earn their share of the profits from it."
+ gpf_acclimatization:0 "Acclimatization to the Surface"
+ gpf_defensive_accord:0 "Safety"
+ gpf_freedom_accord:0 "Freedom"
+ fp_support_dynamic:0 "The Support of Our People"
+ fp_support_dynamic_tt:0 "§gThis national spirit will gain bonuses based on the support of the clans and city dwellers.§!"
+ fp_clan_support_mod:0 "Clans Support"
+ fp_city_support_mod:0 "City Dweller Support"
 
 
- fp_clan_support_change_tt: "Increase Clans Support by §G[?fp_support_var_temp]§!"
- fp_city_support_change_tt: "Increase City Dweller Support by §G[?fp_support_var_temp]§!"
+ fp_clan_support_change_tt:0 "Increase Clans Support by §G[?fp_support_var_temp]§!"
+ fp_city_support_change_tt:0 "Increase City Dweller Support by §G[?fp_support_var_temp]§!"
 
- fp_enough_clan_support_tt: "Has more than §G[?support_check_temp]§! §YClans Support§!"
- fp_enough_city_support_tt: "Has more than §G[?support_check_temp]§! §YCity Dweller Support§!"
+ fp_enough_clan_support_tt:0 "Has more than §G[?support_check_temp]§! §YClans Support§!"
+ fp_enough_city_support_tt:0 "Has more than §G[?support_check_temp]§! §YCity Dweller Support§!"
 
- fp_conscript_increase_tt: "The Support of Our People - Monthly Manpower: §G+[?fp_increase_temp]%§!"
- fp_infrastructure_increase_tt: "The Support of Our People - §YInfrastructure§! Construction Speed: §G+[?fp_increase_temp]%§!"
- fp_industry_increase_tt: "The Support of Our People - §YIndustry§! Construction Speed: §G+[?fp_increase_temp]%§!"
-
-
- gpf_trained_hunters: "Trained Hunter"
-
- gpf_pit_preparations: "Preparations for the PIT"
- gpf_new_students: "Eager New Students"
- gpf_trade_pact_1: "Trade Pact"
- gpf_trade_pact_2: "Free Trade"
- gpf_protected_caravans: "Protected Caravans"
- gpf_protected_caravans_desc: "Regular patrols will make it easier for new caracan companies and businesses to settle down in our lands."
- gpf_infrastrucutre_projects: "Infrastructure Projects"
- gpf_train_network: "Train Network"
-
- gpf_horse_breeding_large: "Horse Breeding Program"
- gpf_horse_breeding_medium: "Horse Breeding Program"
- gpf_horse_breeding_small: "Horse Breeding Program"
- gpf_horse_breeding_specialized: "Horse Breeding Program"
-
- gpf_horse_breeding_large_result: "Large Scale Horse Breeding"
- gpf_horse_breeding_medium_result: "Medium Scale Horse Breeding"
- gpf_horse_breeding_small_result: "Small Scale Horse Breeding"
- gpf_horse_breeding_specialized_result: "Specialized Horse Breeding"
-
- gpf_caravan_crimson: "Crimson Caravan"
- gpf_caravan_crimson_tt: "§LAll the way from the west coast comes a well established caravan company that excels at producing and shipping agricultural and industrial goods§!"
- gpf_caravan_diamond_shipping: "Diamond Shipping Company"
- gpf_caravan_diamond_shipping_tt: "§LA company that sells all manner of goods all along the Mississippi with a small fleet of refurbished ships.§!"
- gpf_caravan_ozark_logging: "Ozark Logging"
- gpf_caravan_ozark_logging_tt: "§LWhile their big seller is still the quality wood they get from what remains of the nearby national park, they branched out into other goods as well, like the unique plants with special properties that grow deep in the wilderness.§!"
-
- gpf_standhope_advisor: "Standhope Shadow Mountain"
- man_of_science: "Man of Science"
-
- gpf_lushanya_advisor: "Lushanya Harjo"
- lushanya_advisor_trait: "Casino Heiress"
- gpf_trade_genius: "Trade Genius"
-
- gpf_nashoba_advisor: "Nashoba Solomon"
- gpf_nashoba_advisor_trait: "Storyteller"
+ fp_conscript_increase_tt:0 "The Support of Our People - Monthly Manpower: §G+[?fp_increase_temp]%§!"
+ fp_infrastructure_increase_tt:0 "The Support of Our People - §YInfrastructure§! Construction Speed: §G+[?fp_increase_temp]%§!"
+ fp_industry_increase_tt:0 "The Support of Our People - §YIndustry§! Construction Speed: §G+[?fp_increase_temp]%§!"
 
 
+ gpf_trained_hunters:0 "Trained Hunter"
 
+ gpf_pit_preparations:0 "Preparations for the PIT"
+ gpf_new_students:0 "Eager New Students"
+ gpf_trade_pact_1:0 "Trade Pact"
+ gpf_trade_pact_2:0 "Free Trade"
+ gpf_protected_caravans:0 "Protected Caravans"
+ gpf_protected_caravans_desc:0 "Regular patrols will make it easier for new caracan companies and businesses to settle down in our lands."
+ gpf_infrastrucutre_projects:0 "Infrastructure Projects"
+ gpf_train_network:0 "Train Network"
+
+ gpf_horse_breeding_large:0 "Horse Breeding Program"
+ gpf_horse_breeding_medium:0 "Horse Breeding Program"
+ gpf_horse_breeding_small:0 "Horse Breeding Program"
+ gpf_horse_breeding_specialized:0 "Horse Breeding Program"
+
+ gpf_horse_breeding_large_result:0 "Large Scale Horse Breeding"
+ gpf_horse_breeding_medium_result:0 "Medium Scale Horse Breeding"
+ gpf_horse_breeding_small_result:0 "Small Scale Horse Breeding"
+ gpf_horse_breeding_specialized_result:0 "Specialized Horse Breeding"
+
+ gpf_caravan_crimson:0 "Crimson Caravan"
+ gpf_caravan_crimson_tt:0 "§LAll the way from the west coast comes a well established caravan company that excels at producing and shipping agricultural and industrial goods§!"
+ gpf_caravan_diamond_shipping:0 "Diamond Shipping Company"
+ gpf_caravan_diamond_shipping_tt:0 "§LA company that sells all manner of goods all along the Mississippi with a small fleet of refurbished ships.§!"
+ gpf_caravan_ozark_logging:0 "Ozark Logging"
+ gpf_caravan_ozark_logging_tt:0 "§LWhile their big seller is still the quality wood they get from what remains of the nearby national park, they branched out into other goods as well, like the unique plants with special properties that grow deep in the wilderness.§!"
+
+ gpf_standhope_advisor:0 "Standhope Shadow Mountain"
+ man_of_science:0 "Man of Science"
+
+ gpf_lushanya_advisor:0 "Lushanya Harjo"
+ lushanya_advisor_trait:0 "Casino Heiress"
+ gpf_trade_genius:0 "Trade Genius"
+
+ gpf_nashoba_advisor:0 "Nashoba Solomon"
+ gpf_nashoba_advisor_trait:0 "Storyteller"

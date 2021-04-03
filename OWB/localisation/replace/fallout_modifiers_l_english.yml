@@ -249,6 +249,18 @@
   modifier_army_sub_unit_security_robot_attack_factor:0 "Security Robot Attack"
   modifier_army_sub_unit_security_robot_speed_factor:0 "Security Robot Speed"
   modifier_army_sub_unit_security_robot_defence_factor:0 "Security Robot Defence"
+  modifier_army_sub_unit_police_infantry_attack_factor:0 "Lawkeeper Attack"
+  modifier_army_sub_unit_police_infantry_defence_factor:0 "Lawkeeper Defence"
+  modifier_army_sub_unit_police_infantry_speed_factor:0 "Lawkeeper Speed"
+  modifier_army_sub_unit_heavy_infantry_attack_factor:0 "Enforcer Attack"
+  modifier_army_sub_unit_heavy_infantry_defence_factor:0 "Enforcer Defence"
+  modifier_army_sub_unit_heavy_infantry_speed_factor:0 "Enforcer Speed"
+  modifier_army_sub_unit_fireteam_infantry_attack_factor:0 "Fireteam Attack"
+  modifier_army_sub_unit_fireteam_infantry_speed_factor:0 "Fireteam Speed"
+  modifier_army_sub_unit_fireteam_infantry_defence_factor:0 "Firetam Defence"
+  modifier_army_sub_unit_demolitions_infantry_attack_factor:0 "Demolitions Attack"
+  modifier_army_sub_unit_demolitions_infantry_speed_factor:0 "Demolitions Speed"
+  modifier_army_sub_unit_demolitions_infantry_defence_factor:0 "Demolitions Defence"
 
   # operations
   MODIFIER_COMMANDO_TRAIT_CHANCE_FACTOR:1 "Chance of recruiting an Operative with the §HIntensive Training§! trait"

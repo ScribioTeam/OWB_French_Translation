@@ -1,7 +1,7 @@
 ﻿l_english:
-  TRIGGER_HAS_UNIT_LEADER: "Has unit leader with ID: $ID|Y$"
-  TRIGGER_HAS_NOT_UNIT_LEADER: "Does not have unit leader with ID: $ID|Y$"
-  TRIGGER_ALL_UNIT_LEADER_STARTS: "All Unit Leaders"
-  TRIGGER_ANY_UNIT_LEADER_STARTS: "Any Unit Leader"
-  TRIGGER_IS_FIELD_MARSHALL: "Is a §HCommanding Officer§!"
-  TRIGGER_IS_NOT_FIELD_MARSHALL: "Is not a §HCommanding Officer§!"
+  TRIGGER_HAS_UNIT_LEADER:0 "Has unit leader with ID: $ID|Y$"
+  TRIGGER_HAS_NOT_UNIT_LEADER:0 "Does not have unit leader with ID: $ID|Y$"
+  TRIGGER_ALL_UNIT_LEADER_STARTS:0 "All Unit Leaders"
+  TRIGGER_ANY_UNIT_LEADER_STARTS:0 "Any Unit Leader"
+  TRIGGER_IS_FIELD_MARSHALL:0 "Is a §HCommanding Officer§!"
+  TRIGGER_IS_NOT_FIELD_MARSHALL:0 "Is not a §HCommanding Officer§!"

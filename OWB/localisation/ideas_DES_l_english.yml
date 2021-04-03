@@ -1,103 +1,103 @@
 ﻿l_english:
-  spellcheck_ignore: "knighttactics,slayinggiants,rangerslegionwar,rangersnewthreat"
+  spellcheck_ignore:0 "knighttactics,slayinggiants,rangerslegionwar,rangersnewthreat"
 
-  desertrangers: "Desert Rangers"
-  desertrangers_desc: ""
+  desertrangers:0 "Desert Rangers"
+  desertrangers_desc:0 ""
 
-  raiderconscripts: "Raider Conscripts"
-  raiderconscripts_desc: ""
+  raiderconscripts:0 "Raider Conscripts"
+  raiderconscripts_desc:0 ""
 
-  rangercores: "Ranger Corps"
-  rangercores_desc: ""
+  rangercores:0 "Ranger Corps"
+  rangercores_desc:0 ""
 
-  rangerintervention: "Ranger Intervention"
-  rangerintervention_desc: ""
+  rangerintervention:0 "Ranger Intervention"
+  rangerintervention_desc:0 ""
 
-  nevadarecruitment: "Nevada Recruitment"
-  nevadarecruitment_desc: ""
+  nevadarecruitment:0 "Nevada Recruitment"
+  nevadarecruitment_desc:0 ""
 
-  knighttactics: "Knight Tactics"
-  knighttactics_desc: ""
+  knighttactics:0 "Knight Tactics"
+  knighttactics_desc:0 ""
 
-  rangersworkbench: "Ranger's Workbench"
-  rangersworkbench_desc: ""
+  rangersworkbench:0 "Ranger's Workbench"
+  rangersworkbench_desc:0 ""
 
-  wastelandprotect: "Wasteland Protect"
-  wastelandprotect_desc: ""
+  wastelandprotect:0 "Wasteland Protect"
+  wastelandprotect_desc:0 ""
 
-  rangersquartermaster: "Ranger Quartermaster"
-  rangersquartermaster_desc: ""
+  rangersquartermaster:0 "Ranger Quartermaster"
+  rangersquartermaster_desc:0 ""
 
-  rangersmechanic: "Rangers Mechanic"
-  rangersmechanic_desc: ""
+  rangersmechanic:0 "Rangers Mechanic"
+  rangersmechanic_desc:0 ""
 
-  rangersrecruiter: "Rangers Recruiter"
-  rangersrecruiter_desc: ""
+  rangersrecruiter:0 "Rangers Recruiter"
+  rangersrecruiter_desc:0 ""
 
-  rangerspropaganda: "Rangers Propaganda"
-  rangerspropaganda_desc: ""
+  rangerspropaganda:0 "Rangers Propaganda"
+  rangerspropaganda_desc:0 ""
 
-  rangersoutreach: "Rangers Outreach"
-  rangersoutreach_desc: ""
+  rangersoutreach:0 "Rangers Outreach"
+  rangersoutreach_desc:0 ""
 
-  rangersarmouries: "Rangers Armouries"
-  rangersarmouries_desc: ""
+  rangersarmouries:0 "Rangers Armouries"
+  rangersarmouries_desc:0 ""
 
-  rangerdepot: "Ranger Depot"
-  rangerdepot_desc: ""
+  rangerdepot:0 "Ranger Depot"
+  rangerdepot_desc:0 ""
 
-  rangersaviation: "Rangers Aviation"
-  rangersaviation_desc: ""
+  rangersaviation:0 "Rangers Aviation"
+  rangersaviation_desc:0 ""
 
-  standingtall: "Standing Tall"
-  standingtall_desc: ""
+  standingtall:0 "Standing Tall"
+  standingtall_desc:0 ""
 
-  reorganizedrangers: "Reorganized Rangers"
-  reorganizedrangers_desc: ""
+  reorganizedrangers:0 "Reorganized Rangers"
+  reorganizedrangers_desc:0 ""
 
-  ncrfunding: "NCR Funding"
-  ncrfunding_desc: ""
+  ncrfunding:0 "NCR Funding"
+  ncrfunding_desc:0 ""
 
-  bosfunding_tt: "BoS Funding"
-  bosfunding_tt_desc: " "
+  bosfunding_tt:0 "BoS Funding"
+  bosfunding_tt_desc:0 " "
 
-  opjericho: "Operation Jericho"
-  opjericho_desc: ""
+  opjericho:0 "Operation Jericho"
+  opjericho_desc:0 ""
 
-  rangerslegionwar: "Rangers-Legion War"
-  rangerslegionwar_desc: ""
+  rangerslegionwar:0 "Rangers-Legion War"
+  rangerslegionwar_desc:0 ""
 
-  rangermarch: "Ranger March"
-  rangermarch_desc: ""
+  rangermarch:0 "Ranger March"
+  rangermarch_desc:0 ""
 
-  ncrhonours: "NCR Honours"
-  ncrhonours_desc: ""
+  ncrhonours:0 "NCR Honours"
+  ncrhonours_desc:0 ""
 
-  nationalguard: "National Guard"
-  nationalguard_desc: ""
+  nationalguard:0 "National Guard"
+  nationalguard_desc:0 ""
 
-  armyrangers: "Army Rangers"
-  armyrangers_desc: ""
+  armyrangers:0 "Army Rangers"
+  armyrangers_desc:0 ""
 
-  acceptcrim: "Accepted Criminals"
-  acceptcrim_desc: ""
+  acceptcrim:0 "Accepted Criminals"
+  acceptcrim_desc:0 ""
 
-  acceptpetty: "Accepted Petty Criminals"
-  acceptpetty_desc: ""
+  acceptpetty:0 "Accepted Petty Criminals"
+  acceptpetty_desc:0 ""
 
-  kickcrim: "Kicked out Criminals"
-  kickcrim_desc: ""
+  kickcrim:0 "Kicked out Criminals"
+  kickcrim_desc:0 ""
 
-  rangerinterventionism: "Ranger interventionism"
-  rangerinterventionism_desc: " "
+  rangerinterventionism:0 "Ranger interventionism"
+  rangerinterventionism_desc:0 " "
 
-  DES_army_corps_of_engineers: "Army Corps of Engineers Origins"
-  DES_army_corps_of_engineers_desc: ""
+  DES_army_corps_of_engineers:0 "Army Corps of Engineers Origins"
+  DES_army_corps_of_engineers_desc:0 ""
 
-  DES_protectors_guarantee: "Protector's Guarantee"
-  DES_protectors_guarantee_desc: "§GThe Rangers' protect northern Nevada from the Eighties, but they will not protect it from each other!§!"
+  DES_protectors_guarantee:0 "Protector's Guarantee"
+  DES_protectors_guarantee_desc:0 "§GThe Rangers' protect northern Nevada from the Eighties, but they will not protect it from each other!§!"
 
   DES_the_guarantees:0 "The Guarantees"
   DES_the_guarantees_desc:0 "§GYour guarantees will allow you to protect northern Nevada from the Eighties, but this will NOT allow you to intervene on the side their side against any other wars they fight.§!"
 
-  threaten_nevada: "Threaten Nevada"
+  threaten_nevada:0 "Threaten Nevada"

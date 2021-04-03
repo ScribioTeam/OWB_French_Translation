@@ -1,36 +1,37 @@
 ﻿l_english:
   # spellchecker stuff
-  spellcheck_ignore: "ADD_CORE_TLALOC_TT_DELAYED"
+  spellcheck_ignore:0 "ADD_CORE_TLALOC_TT_DELAYED"
 
   # GUI:
   ADD_CORE_TT:0 "§H[ROOT.coring_button_label_name_scripted_loc] state§! £pol_power [?coring_var_coring_cost]"
-  ADD_CORE_TT_DELAYED:0 "§HBase value§!: £pol_power 15\n§HState's population§!: £pol_power [?coring_var_state_pop]\n§HYour cored population§!: £pol_power [?coring_var_cored_pop]\n§HDistance from capital§!: £pol_power [?coring_var_distance]\n§HCoring Efficiency factor§!: [?coring_cost_factor_gui|%0]\n§HClaim multiplier§!: [?coring_var_claim|%0]\n§HCore Creation Cost Reduction from Modifiers§!: [?coring_cost_from_modifiers_for_display|%0]\n§HCoring Cost Cap§!: £pol_power 300\n---------------\n[!add_core_click_enabled][Root.coring_button_bonus_effect_scripted_loc]"
+  ADD_CORE_TT_DELAYED:0 "§HBase value§!: £pol_power 15\n§HState's population§!: £pol_power [?coring_var_state_pop]\n§HYour cored population§!: £pol_power [?coring_var_cored_pop]\n§HDistance from capital§!: £pol_power [?coring_var_distance]\n§HCoring Efficiency factor§!: [?coring_cost_factor_gui|%0]\n§HClaim multiplier§!: [?coring_var_claim|%0]\n§HCore Creation Cost Reduction from Modifiers§!: [?coring_cost_from_modifiers_for_display|%0]\n§HCoring Cost Cap§!: £pol_power [?maximum_coring_cost]\n§HCoring Cost§!: £pol_power [?coring_var_coring_cost]\n---------------\n[!add_core_click_enabled][Root.coring_button_bonus_effect_scripted_loc]"
   not_allowed_to_core_flag:0 " §RHas coring ability disabled§!"
   tt_is_not_in_home_area:0 "Is not connected to the owner's capital."
-  core_button_25_state_reduction_tt: "Gain a permanent local §G25%§! reduction in coring costs."
-  trigger_less_than_20_resistance: "Less than §Y20%§! Resistance"
+  core_button_25_state_reduction_tt:0 "Gain a permanent local §G25%§! reduction in coring costs."
+  trigger_less_than_20_resistance:0 "Less than §Y20%§! Resistance"
 
-  TTM_CORE_SPECIAL_BONUS: "\n§GIn addition to coring the state, we will also gain another bonus as well§!"
-  ADD_CORE_TLALOC_TT: "§HConnect to Chico-Net§! £resources_strip|2£ [?coring_var_energy_cost]"
-  ADD_CORE_TLALOC_TT_DELAYED: "§HBase value§!: £resources_strip|2£ 10 \n§HCore Creation Cost Reduction from Modifiers§!: [?coring_cost_from_modifiers_for_display|%0] \n§HFrom already connected states§!: [?Root.coring_var_energy_cost_from_coring] \n--------------\n[!add_core_tlaloc_click_enabled]--------------\nThis will make §Y[This.GetName]§! to a core state of §Y[Root.GetName]§!."
+  TTM_CORE_SPECIAL_BONUS:0 "\n§GIn addition to coring the state, we will also gain another bonus as well§!"
+  ADD_CORE_TLALOC_TT:0 "§HConnect to Chico-Net§! £resources_strip|2£ [?coring_var_energy_cost]"
+  ADD_CORE_TLALOC_TT_DELAYED:0 "§HBase value§!: £resources_strip|2£ 10 \n§HCore Creation Cost Reduction from Modifiers§!: [?coring_cost_from_modifiers_for_display|%0] \n§HFrom already connected states§!: [?Root.coring_var_energy_cost_from_coring] \n--------------\n[!add_core_tlaloc_click_enabled]--------------\nThis will make §Y[This.GetName]§! to a core state of §Y[Root.GetName]§!."
 
-  HAS_ENOUGH_ENERGY_TO_CORE_STATE: "§Y[Root.GetName]§! is producing enough §YEnergy§! to have §Y[?coring_var_energy_cost]§! availble (currently §Y[?free_energy_for_coring]§!)"
+  HAS_ENOUGH_ENERGY_TO_CORE_STATE:0 "§Y[Root.GetName]§! is producing enough §YEnergy§! to have §Y[?coring_var_energy_cost]§! availble (currently §Y[?free_energy_for_coring]§!)"
 
-  FALLOUT_CORING_TAB_TITLE: "[This.GetCoringTabTitle]"
-  FALLOUT_CORING_TAB_NO_STATES_INFO: "[This.GetCoringTabNoStatesInfo]"
+  FALLOUT_CORING_TAB_TITLE:0 "[This.GetCoringTabTitle]"
+  FALLOUT_CORING_TAB_NO_STATES_INFO:0 "[This.GetCoringTabNoStatesInfo]"
 
-  FALLOUT_GO_TO_STATE_TT: "§GClick§! to center the map on §Y[This.GetName]§!."
-  FALLOUT_CORE_BUTTON: "[ROOT.coring_button_label_name_scripted_loc]"
-  FALLOUT_TLALOC_CORE_BUTTON: "Connect"
+  FALLOUT_GO_TO_STATE_TT:0 "§GClick§! to center the map on §Y[This.GetName]§!."
+  FALLOUT_CORE_BUTTON:0 "[ROOT.coring_button_label_name_scripted_loc]"
+  FALLOUT_TLALOC_CORE_BUTTON:0 "Connect"
 
   # Scripted Localisation:
-  string_fallout_coring_tab_no_states_info: "We currently have no uncored states."
-  string_fallout_tlaloc_coring_tab_no_states_info: "We currently have no unconnected states."
+  string_fallout_coring_tab_no_states_info:0 "We currently have no uncored states."
+  string_fallout_tlaloc_coring_tab_no_states_info:0 "We currently have no unconnected states."
 
   # Custom Modifiers:
-  core_creation_cost_factor: "Core Creation Cost"
-  local_core_creation_cost_factor: "Local Core Creation Cost"
-  required_compliance_for_coring: "Required Compliance for Coring"
-  local_required_compliance_for_coring: "Local Required Compliance for Coring"
-  required_compliance_for_coring_factor: "Required Compliance for Coring Factor"
-  local_required_compliance_for_coring_factor: "Local Required Compliance for Coring Factor"
+  core_creation_cost_factor:0 "Core Creation Cost"
+  local_core_creation_cost_factor:0 "Local Core Creation Cost"
+  maxium_core_cost_increase:0 "Maximum Cost for Coring changed by"
+  required_compliance_for_coring:0 "Required Compliance for Coring"
+  local_required_compliance_for_coring:0 "Local Required Compliance for Coring"
+  required_compliance_for_coring_factor:0 "Required Compliance for Coring Factor"
+  local_required_compliance_for_coring_factor:0 "Local Required Compliance for Coring Factor"

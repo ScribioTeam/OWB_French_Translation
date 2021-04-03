@@ -23,9 +23,9 @@
   # Scripted Localisation:
   string_pantheon_colour_white:0 "§W"
   string_pantheon_colour_yellow:0 "§Y"
-  string_select_pantheon_god_button_tt_invalid_selected_this_god: "§Y[This.GetPantheonGodName]§! is the currently worshipped god of §Y[This.GetName]§!."
-  string_select_pantheon_god_button_tt_invalid_recently_selected: "§RWe recently selected §Y[This.GetPantheonSelectedGodName]§R as worshipped god. We cannot select another god within the next §Y[?days_mission_timeout@utah_pantheon_timeout]§R days.§W"
-  string_select_pantheon_god_button_tt: "§GClick§! to select §Y[This.GetPantheonGodName]§! as worshipped god."
+  string_select_pantheon_god_button_tt_invalid_selected_this_god:0 "§Y[This.GetPantheonGodName]§! is the currently worshipped god of §Y[This.GetName]§!."
+  string_select_pantheon_god_button_tt_invalid_recently_selected:0 "§RWe recently selected §Y[This.GetPantheonSelectedGodName]§R as worshipped god. We cannot select another god within the next §Y[?days_mission_timeout@utah_pantheon_timeout]§R days.§W"
+  string_select_pantheon_god_button_tt:0 "§GClick§! to select §Y[This.GetPantheonGodName]§! as worshipped god."
 
 
 
