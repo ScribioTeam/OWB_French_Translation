@@ -214,14 +214,27 @@
   lac_no_strings_on_me_desc: "I can do whatever I want."
   lac_mantling_a_new_look: "Strength Through Union"
   lac_mantling_a_new_look_desc: "Caesar was just a stepping stone for me and my conquests. Now with Diana I have someone even better.\nA stronger wasteland, a stronger world."
-
-
-####
+  lac_new_empire: "Look to the East"
+  lac_new_empire_desc: "Caesar is well and good, but if I've learned anything, it's that the East is the land of wealth and power. Let him spend his time battering against that Old World Wall, I will march to the sea."
+  lac_new_empire_tt: "§YTake the First Steps to firm a rival Legion, to scare the east as Caesar does the West.§!"
+  lac_our_new_capital: "The Eastern Citadel"
+  lac_our_new_capital_desc: "Castra Sal Rubem is far too close to Caesar to be the seat of my throne. Why not take one of the Hang Dogs as a woman, and rule from their old seat?"
+  lac_better_myth: "The Magnanimous Warlord"
+  lac_better_myth_desc: "They call me brutal, but I've inspired men to fight and die for me across the East. Think of me not as a conqueror, but as your saviour."
+  lac_bitter_drink: "A Bitter Truth"
+  lac_bitter_drink_desc: "All of Lanius' tribe is gone, as if it never was. The only memory of the Hidebarks is whatever Lanius can make for them. But perhaps there's still something to remember from their old lessons."
+  lac_bitter_drink_tt: "§YLanius remembers the ways of his Tribe, and applies them to the new Legion.§!"
+  lac_hire_scholars: "Scribes of Our Own"
+  lac_hire_scholars_desc: "Brotherhood exiles, Follower dropouts, scavengers from Dog City . . . they all know much wisdom from the old books, if you know where to look for it. Let's use our riches to direct them to help us."
+  lac_lessons_from_the_east2: "Mescalero Musings"
+  lac_lessons_from_the_east2_desc: "The Mescalero lived in this land for thousands of years, seeing empires rise and fall. Perhaps we should hear some of what they have to say."
+  ###
   lac_letting_go_of_the_mask: "A Nation of Strength"
   lac_letting_go_of_the_mask_desc: "And Joshua Graham rejected out of hand the idea of disobeying Caesar, saying it would be death to cross the god. To which Lanius replied, 'I would agree - were I Vulpes.'"
   lac_temple_of_athena_desc: "Of Pallas Athena, guardian of the city, I begin to sing. Dread is she, and with Lanius she loves the deeds of war, the sack of cities and the shouting and the battle. It is she who saves the people as they go to war and come back. Hail, goddess, and give us good fortune and happiness!"
   lac_dianas_light_to_the_cohort: "Diana's Light to the Cohort"
   lac_dianas_light_to_the_cohort_desc: "Youths of the Executives and of the Summer and the Winter and of all New Mexico, join your fellow-soldiers and entrust yourselves to me, so that we can move against the barbarians and liberate ourselves from the Caesar's bondage, for as warriors we should not be slaves to barbarians."
+  lac_dianas_light_to_the_cohort_tt: "§YWorking with [TTM.GetNameWithFlag], the Eastern Legion takes the first steps to become a nation.§!"
   lac_integrate_exe: "Integrate the Executives"
   lac_integrate_exe_desc: "Do not fear or run from the fray; for in my hand I bear war and death. Let us carve an empire to last the ages."
   lac_integrate_suf: "Integrate the Summer Federation"
@@ -384,5 +397,10 @@
   lac_temple_of_diana: "Temple of Diana"
   lac_temple_of_diana_desc: "Lover of horses, splendid, queen of Night, bedecked with starry light. Lover of vigilance, the foe of strife, in peace rejoicing, and a prudent life. Fair lamp of Night, its ornament and friend, who gives to Nature's works their destined end. Come, blessed Goddess, starry, bright, come our moon, with chaste and splendid light, shine on these sacred rites with prosperous rays, and please accept your followers' praise."
   lac_add_scrap_bots: "Add Technology: §YScrap bots§!"
+  lac_army_velites: "The Velites"
+  lac_army_liberti: "The Free"
+  lac_army_quincunx: "The Quincunx"
+  lac_army_testudo: "The Testudo Formation"
+  lac_army_speculatores: "The Speculatores"
 
 

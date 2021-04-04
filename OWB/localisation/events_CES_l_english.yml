@@ -315,6 +315,7 @@
   nf_legion.80.c:0 "We will emerge from the flames under Aurelian."
   nf_legion.80.e:0 "The Malpais Legate Prevails!"
   nf_legion.80.f:0 "A fight breaks out to lead."
+  nf_legion.80.g:0 "There can be only one leader."
   #####################   Aurelius
 
   nf_legion.81.t:0 "To the Strongest"
@@ -556,6 +557,10 @@
   nf_legion.125.d: "The people of the Reservation chafe under their despotic leader. We must save them and make sure the ghouls are safe!"
   nf_legion.125.a: "We tried our best."
 
+  nf_legion.126.t: "The Monster Comes West"
+  nf_legion.126.d: "With the Death of Great Caesar, Lanius, the hero of the East, comes west to fulfill his will. Vulpes and the rest have had their fun, but none of them can win the favour of the Legion. What triumphs do they have against the man who turned Colorado red? Now he will finish the job set before him, and crush all who defy the Caesar's will, even in death."
+  nf_legion.126.a: "Greatness comes from the sword."
+
 
   ###
   CES_healthy:0 "Caesar is healed!"
@@ -572,3 +577,4 @@
 
 nf_lanius_integration.4.t: "The Conquest of the East"
 nf_lanius_integration.4.d: "The Hang Dogs could not stop him. Diana could not stop him. The Brotherhood could not stop him. From Dog City pour slaves, food, and metals into the Legion's maw. An engine of war the Wastes have not seen since the Bombs fell has reached its natural limit and prepares to march West. And at the bridge between Eat and West, the fate of the Wasteland will be decided. Good luck to Shady Sands; against our warriors, they will need all of it."
+nf_lanius_integration.4.a: "On to New Vegas... and beyond."
