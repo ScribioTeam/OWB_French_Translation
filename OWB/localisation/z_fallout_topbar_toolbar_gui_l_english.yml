@@ -1,8 +1,8 @@
 ﻿l_english:
   # GUI:
-  spellcheck_ignore: "puppet_taxation_popup_icon"
-  FALLOUT_TOOLBAR_DROP_DOWN_BUTTON_TT: "§YMiscellaneous Tabs§!\nClick to show or hide the drop down menu for the other tabs."
-  FALLOUT_TOOLBAR_DROP_DOWN_BUTTON_TT_DELAYED: "[This.GetToolbarDropDownButtonTooltipDelayed]"
+  spellcheck_ignore:0 "puppet_taxation_popup_icon"
+  FALLOUT_TOOLBAR_DROP_DOWN_BUTTON_TT:0 "§YMiscellaneous Tabs§!\nClick to show or hide the drop down menu for the other tabs."
+  FALLOUT_TOOLBAR_DROP_DOWN_BUTTON_TT_DELAYED:0 "[This.GetToolbarDropDownButtonTooltipDelayed]"
 
   FALLOUT_TOOLBAR_TAB_BUTTON_TT:0 "[This.GetToolbarTabButtonTooltip]"
 

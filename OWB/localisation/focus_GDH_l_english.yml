@@ -13,7 +13,7 @@
 
   gdh_bandit_contracts:0 "Baja Contracts"
   gdh_bandit_contracts_desc:0 "The freedom loving peoples of Baja are eager to buy our weapons to resist NCR aggression.  And NCR defense against their aggression."
-  gdh_guns_for_hire: "Guns for Hire"
+  gdh_guns_for_hire:0 "Guns for Hire"
 
   gdh_panchos_pride:0 "Pancho's Pride"
   gdh_panchos_pride_desc:0 "Pancho Villa, leader of [BVC.GetName], has asked for our assistance building a great wall to protect his land against the NCR.  We are glad to assist!"
@@ -50,7 +50,7 @@
 
   gdh_cartel_arms:0 "Cartel Arms"
   gdh_cartel_arms_desc:0 "For better or worse, some of our best customers are the cartels.  For now."
-  gdh_cartel_arms_tt: "§Y[SIN.GetNamewithFlag]§! and §Y[BLO.GetNameWithFlag]§! will gain access to our market."
+  gdh_cartel_arms_tt:0 "§Y[SIN.GetNamewithFlag]§! and §Y[BLO.GetNameWithFlag]§! will gain access to our market."
 
   gdh_bullets_for_beltran:0 "Bullets for Beltran"
   gdh_bullets_for_beltran_desc:0 "One of the benefits of selling ammo is that for some reason the cartels always need more of it. Is not commerce grand?"
@@ -67,8 +67,8 @@
   gdh_fun_sun:0 "Fun in the Sun!"
   gdh_fun_sun_desc:0 "With the destruction of Free Fighters, all recognize our control over Mexico's northwestern coast. El Generalissimo es supremo!"
 
-  gdh_cartels_oopsies: "So About those Cartels"
-  gdh_cartels_oopsies_desc: "With the destruction of [FFI.GetName], a thought occurs. Would it not be more profitable to annex the cartels' territory directly, rather than selling them guns? Why borrow from the bank when you can rob it. \nPlus, who wishes to raise their children in a land with drugs?"
+  gdh_cartels_oopsies:0 "So About those Cartels"
+  gdh_cartels_oopsies_desc:0 "With the destruction of [FFI.GetName], a thought occurs. Would it not be more profitable to annex the cartels' territory directly, rather than selling them guns? Why borrow from the bank when you can rob it. \nPlus, who wishes to raise their children in a land with drugs?"
 
   gdh_take_tohono:0 "Taking Tohono"
   gdh_take_tohono_desc:0 ""
@@ -78,7 +78,7 @@
 
   gdh_costa_friend:0 "Costa Contracts"
   gdh_costa_friend_desc:0 "[CAF.GetLeader] is a man after our own heart. Let's grab a drink and discuss a trade agreement!"
-  gdh_costa_friend_tt: "This may give [CAF.GetNamewithFlag] access to your store."
+  gdh_costa_friend_tt:0 "This may give [CAF.GetNamewithFlag] access to your store."
 
   gdh_place_in_sun:0 "Our Place in the Sun"
   gdh_place_in_sun_desc:0 "We are no longer the people of the sun. This is the coast of the sun, a land happy and prosperous under its supreme leader. Care for a drink?"
@@ -88,7 +88,7 @@
 
   gdh_adoring_public:0 "The Adoring Public"
   gdh_adoring_public_desc:0 "El Generalissimo has many admirers among the people of Costa Del Sol. They will gladly help build his villa... for a price."
-  gdh_adoring_public_tt: "The public loves their Generalissimo, and would gladly sacrifice for his project. As long as they can use the pool."
+  gdh_adoring_public_tt:0 "The public loves their Generalissimo, and would gladly sacrifice for his project. As long as they can use the pool."
 
   gdh_work_for_all:0 "Work For All"
   gdh_work_for_all_desc:0 ""
@@ -128,7 +128,7 @@
 
   gdh_bodyguards:0 "Some Time on the Yacht"
   gdh_bodyguards_desc:0 "El Generalissimo is a good friend to his soldiers, which is why he's faced so few coup attempts. Nothing will destress him like some time in the Sea of Cortez to unwind."
-  gdh_bodyguards_tt: "\nUnlocks a decision to go drinking with El Generalissimo's bodyguards to de-stress."
+  gdh_bodyguards_tt:0 "\nUnlocks a decision to go drinking with El Generalissimo's bodyguards to de-stress."
 
   gdh_recruitment_benefits:0 "Gone Fission"
   gdh_recruitment_benefits_desc:0 "Sometimes you need to kick back on your yacht, crack a cold one open, and fire depth charges at some mirelurks. [GDH.GetLeader] can learn a thing or two while doing so."
@@ -138,7 +138,7 @@
 
   gdh_personal_training:0 "Personal Training"
   gdh_personal_training_desc:0 "El Generalissimo has been content to sit around for too long, but it's time to get back into shape. The villa's going to have a top of the line crossfit gym!"
-  gdh_personal_training_tt: "El Generalissimo will be less stressed."
+  gdh_personal_training_tt:0 "El Generalissimo will be less stressed."
 
   gdh_conflict_resolution:0 "Conflict Resolution"
   gdh_conflict_resolution_desc:0 "We can host a series of conflict resolution seminars at the villa. We can apply these lessons to our occupation of the Wasteland!"
@@ -151,7 +151,7 @@
 
   gdh_genial_general:0 "The Genial General"
   gdh_genial_general_desc:0 "Life is good, no? Have a drink."
-  gdh_genial_general_tt: "Unlocks decisions to profit from how great life is."
+  gdh_genial_general_tt:0 "Unlocks decisions to profit from how great life is."
 
   gdh_popular_populism:0 "Popular Populism"
   gdh_popular_populism_desc:0 "El Generalissimo's promise of peace, land, and bread has won the hearts of many of the people. It's just they can't have any of those things right now."
@@ -164,7 +164,7 @@
 
   gdh_technological_tyrant:0 "Technological Tyrant"
   gdh_technological_tyrant_desc:0 "It seems Los Norteamericanos had some ideas about how to rule their countrymen. We can obviously do likewise..."
-  gdh_technological_tyrant_tt: "Unlocks decisions to use pre-war technology to bring a better rule to the Wasteland."
+  gdh_technological_tyrant_tt:0 "Unlocks decisions to use pre-war technology to bring a better rule to the Wasteland."
 
   gdh_robots_dont_need_paychecks:0 "Robots Don't Need Paychecks"
   gdh_robots_dont_need_paychecks_desc:0 "We could economize on much of our budget if we replaced our conscript  soldiers with robots!"
@@ -174,11 +174,11 @@
 
   gdh_hidden_levels:0 "The Hidden Vault"
   gdh_hidden_levels_desc:0 "It appears that there were some more weapons in the vaul't sifnal bunker. These relics of American oppression will be held in trust for Gente's people, unless there's someone we don't like."
-  gdh_hidden_levels_tt: "[GDH.GetLeader] gains §Rten mini-nukes§!!"
+  gdh_hidden_levels_tt:0 "[GDH.GetLeader] gains §Rten mini-nukes§!!"
 
   gdh_militant_master:0 "The Militant Master"
   gdh_militant_master_desc:0 "El Generalissimo feels as if he's gotten a second wind now that the villa is done. Perhaps it is not just a villa. Perhaps it is a §Rmilitary high command.§!"
-  gdh_militant_master_tt: "Unlocks new hobbies in the villa."
+  gdh_militant_master_tt:0 "Unlocks new hobbies in the villa."
 
   gdh_gunboat_diplomacy:0 "Gun AND boat Diplomacy"
   gdh_gunboat_diplomacy_desc:0 ""
@@ -189,9 +189,9 @@
   gdh_military_arms_complex:0 "Military Arms Complex"
   gdh_military_arms_complex_desc:0 ""
 
-  gdh_eagle_economy: "The Eagle Economy"
+  gdh_eagle_economy:0 "The Eagle Economy"
   gdh_eagle_economy_desc:0 "[RRG.GetName] is considered to be one of the successes of the waste, the jewel of Mexico, and an Emerging and Growth Leading Economy. The present of vigorous leadership and a rising middle class means that it is ready for bloody foreign wars, which means a ready market for us. Especially since the Texas Arms Association are such assholes."
-  gdh_eagle_economy_tt: "\n§YDante Guerra§! will be willing to work with you, but §YPresidente Mora§! is unlikely to do so... \n\nBut if §Y[RRG.GetLeader]§! accepts, they will gain access to your market."
+  gdh_eagle_economy_tt:0 "\n§YDante Guerra§! will be willing to work with you, but §YPresidente Mora§! is unlikely to do so... \n\nBut if §Y[RRG.GetLeader]§! accepts, they will gain access to your market."
 
   gdh_army_contracts:0 "Army Contracts"
   gdh_army_contracts_desc:0 "[RRG.GetLeader] could use some more guns given the troubles with the [TTA.GetNameWithFlag].  Good news for us! Bad news for [CES.GetNameWithFlag]."
@@ -199,16 +199,16 @@
   gdh_mexicali:0 "Mexicali Trade Port"
   gdh_mexicali_desc:0 "Mexicali is our window upon the Pacific; and we can use it to promote ties with [RRG.GetNameWithFlag] as well."
 
-  gdh_ncr_trade: "The California Market"
-  gdh_ncr_trade_desc: "[NCR.GetNameWithFlag] could use guns as well. Although they are a little far away, perhaps we can send reach out to them."
-  gdh_ncr_trade_tt: "§YWe will offer NCR the opportunity to buy guns at reasonable prices!§Y"
+  gdh_ncr_trade:0 "The California Market"
+  gdh_ncr_trade_desc:0 "[NCR.GetNameWithFlag] could use guns as well. Although they are a little far away, perhaps we can send reach out to them."
+  gdh_ncr_trade_tt:0 "§YWe will offer NCR the opportunity to buy guns at reasonable prices!§Y"
 
   gdh_baja_arms:0 "Baja Arms"
   gdh_baja_arms_desc:0 ""
 
   gdh_baja_purchase:0 "The Baja Purchase"
   gdh_baja_purchase_desc:0 "The Legion is overstretched, and really doesn't want or need Baja. In contrast, our acquisition would give us control over the Sea of Cortez! Soon to be the Sea of Vialla!"
-	ces_owns_baja_states_tt: "[CES.GetName] or a subject owns the Baja Penninsula."
+	ces_owns_baja_states_tt:0 "[CES.GetName] or a subject owns the Baja Penninsula."
 
 
   gdh_ranger_mission:0 "Rio's Roughnecks"
@@ -222,7 +222,7 @@
 
   gdh_bull_market:0 "Bull Market"
   gdh_bull_market_desc:0 "The greatest market for firearms is, without a doubt, [CES.GetNameWithFlag].  I am sure we can come to a mutual arrangement, amigo. I mean amicus."
-  gdh_bull_market_tt: "If the Legion Accepts, they will gain access to your store!"
+  gdh_bull_market_tt:0 "If the Legion Accepts, they will gain access to your store!"
 
   gdh_hachita_trade:0 "Hachita Trade Route"
   gdh_hachita_trade_desc:0 "Hachita would be an excellent springboard for our Tuscon trade. The Legion's ability to impose order, along with our ready supply of guns, is a benefit to us both!"
@@ -254,4 +254,3 @@
 
   gdh_profit:0 "Profit"
   gdh_profit_desc:0 "As we prepare to join the march on Gloria, I hope [RRG.GetLeader] remembers it's nothign personal.  Just business."
-

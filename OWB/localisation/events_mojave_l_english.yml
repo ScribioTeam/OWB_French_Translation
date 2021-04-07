@@ -28,9 +28,9 @@
   nf_mojave_brotherhood.6.a:0 "This is our land!"
   nf_mojave_brotherhood.6.b:0 "Lets not push this too far."
 
-  nf_mojave_brotherhood.7.t: "Oliver's Folly"
-  nf_mojave_brotherhood.7.d: "Oliver has lost the Mojave for the New California Republic, facing a devastating defeat at the hands of the Brotherhood of Steel Oliver has been forced to head back down the Long 15 towards Shady Sands. Thankfully, it seems that he wont be asked to be called to service anytime soon - the Brotherhood not seeming too eager to chase him back into California."
-  nf_mojave_brotherhood.7.a: "We haven't faced a defeat this bad in years!"
+  nf_mojave_brotherhood.7.t:0 "Oliver's Folly"
+  nf_mojave_brotherhood.7.d:0 "Oliver has lost the Mojave for the New California Republic, facing a devastating defeat at the hands of the Brotherhood of Steel Oliver has been forced to head back down the Long 15 towards Shady Sands. Thankfully, it seems that he wont be asked to be called to service anytime soon - the Brotherhood not seeming too eager to chase him back into California."
+  nf_mojave_brotherhood.7.a:0 "We haven't faced a defeat this bad in years!"
   nf_mojave_brotherhood.7.a_tt:0 "§OGeneral Lee Oliver§! and his assorted command staff return to the Republic, ready for redeployment.\n\n"
 
   nf_mojave_brotherhood.8.t:0 "Oliver's Folly"
@@ -318,14 +318,14 @@
   nf_mojave.32.a:0 "Join the alliance"
   nf_mojave.32.b:0 "Settle on protection"
 
-  nf_mojave.33.t: "The House Always Wins"
-  nf_mojave.33.d: "Despite the Mojave Territories' best efforts, we have regained the platinum chip and access to the Vault. Now we can complete our dream of ushering in the New Vegas Economic Zone. "
-  nf_mojave.33.a: "The rocket barrages were worth it!"
+  nf_mojave.33.t:0 "The House Always Wins"
+  nf_mojave.33.d:0 "Despite the Mojave Territories' best efforts, we have regained the platinum chip and access to the Vault. Now we can complete our dream of ushering in the New Vegas Economic Zone. "
+  nf_mojave.33.a:0 "The rocket barrages were worth it!"
 
 
-  mojave_news.0.t: "NCR Settlements in Mojave raided"
-  mojave_news.0.d: "Hello ladies and gentlemen, unfortunately today I'm not at liberty to entertain you. Let's get straight onto the news. Traders from California were horrified to find the Mojave Outpost in ruins this morning. Its main building has been reduced to rubble, and the ground was scorched by as many laser burns as it was littered with dead NCR troopers. One of the traders who spoke to Radio New Vegas confided in us that, quote, \"I haven't seen anything like this since Navarro.\" It wasn't just the Mojave Outpost that was targeted however, folks. Soon after the NCR began to hear rumblings that something had gone bad along the I-15, Camp Golf was attacked. By the time the sun had risen in the sky and reinforcements had arrived, it was reportedly too late. The camp was set on fire at some point around midnight, and the main building was supposedly breached around the same time. These events have left the Mojave deeply troubled, and all fingers are pointing to the Brotherhood as the culprits of these raids. Today's headlines were not sponsored."
-  mojave_news.0.a: "Seems the NCR isn't welcome in the Mojave"
+  mojave_news.0.t:0 "NCR Settlements in Mojave raided"
+  mojave_news.0.d:0 "Hello ladies and gentlemen, unfortunately today I'm not at liberty to entertain you. Let's get straight onto the news. Traders from California were horrified to find the Mojave Outpost in ruins this morning. Its main building has been reduced to rubble, and the ground was scorched by as many laser burns as it was littered with dead NCR troopers. One of the traders who spoke to Radio New Vegas confided in us that, quote, \"I haven't seen anything like this since Navarro.\" It wasn't just the Mojave Outpost that was targeted however, folks. Soon after the NCR began to hear rumblings that something had gone bad along the I-15, Camp Golf was attacked. By the time the sun had risen in the sky and reinforcements had arrived, it was reportedly too late. The camp was set on fire at some point around midnight, and the main building was supposedly breached around the same time. These events have left the Mojave deeply troubled, and all fingers are pointing to the Brotherhood as the culprits of these raids. Today's headlines were not sponsored."
+  mojave_news.0.a:0 "Seems the NCR isn't welcome in the Mojave"
 
  #placeholder localisation beings
   mojave_news.1.t:0 "Mojave Brotherhood Joins the NCR"

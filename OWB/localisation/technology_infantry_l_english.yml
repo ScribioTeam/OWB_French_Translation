@@ -78,8 +78,8 @@
  #----------------------------
  # Power Armour
  #----------------------------
-  stripped_pa_tech:0 "Stripped Power Armour"
-  stripped_pa_tech_desc:0 ""
+  wasteland_pa_tech:0 "Stripped Power Armour"
+  wasteland_pa_tech_desc:0 ""
 
   scav_pa_tech:0 "Scavenged Power Armour"
   scav_pa_tech_desc:0 "The poor man's  , often cobbled together from spare parts and broken scraps. Not as effective as regular T-45d but much better than mere metal armour."

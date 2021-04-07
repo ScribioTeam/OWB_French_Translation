@@ -1,6 +1,6 @@
 ﻿l_english:
-  ttm_lac_compliance: "Diana's Vestals"
-  ttm_lac_compliance_desc: "The wise woman of the Twin Mothers; Diana has sent out her very best to assist in the pacification of Arizona."
+  ttm_lac_compliance:0 "Diana's Vestals"
+  ttm_lac_compliance_desc:0 "The wise woman of the Twin Mothers; Diana has sent out her very best to assist in the pacification of Arizona."
   ttm_the_nursery_idea:0 "The Nursery"
   ttm_the_nursery_idea_desc:0 "§MThe Control Facility Operations§!\n[TTM.ttm_the_nursery_control_facility_scripted_localization]\n\n§MThe Factory Operations§!\n[TTM.ttm_the_nursery_factory_scripted_localization]\n\n§MThe Repository Operations§!\n[TTM.the_repository_scripted_loc]"
 
@@ -93,8 +93,8 @@
   ttm_odysseus_soul:0 "§P"The Soul of Odysseus"§!"
   ttm_odysseus_soul_desc:0 "Diana's Brother, Greenway's Hope, Presper's Tool.\nAll of this and more stored on a 3 inch holotape."
 
-  ttm_old_robotics_stockpile: "Old Nursery Stockpile"
-  ttm_old_robotics_stockpile_desc: "Our robotics stockpile is derelict and the earthquake that hit us a few years ago has made producing new robots more then a challenge. Its going to be some time until we can get the Factory fully operation to make repairs and replacement robots."
+  ttm_old_robotics_stockpile:0 "Old Nursery Stockpile"
+  ttm_old_robotics_stockpile_desc:0 "Our robotics stockpile is derelict and the earthquake that hit us a few years ago has made producing new robots more then a challenge. Its going to be some time until we can get the Factory fully operation to make repairs and replacement robots."
 
   # Manpower laws
   ttm_born_warriors:0 "Diana's Protection"

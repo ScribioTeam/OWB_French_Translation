@@ -2,55 +2,55 @@
  # Equipment naming is inherited from the equipment name when displayed in the techtree
  # For if we actually decide to localise the hidden techs
  #Headers
-  fallout_focus_tree_folder: "Reward Technologies"
-  fallout_focus_tree_folder_desc: "Technologies only accessible through focuses and other non-researchable actions."
+  fallout_focus_tree_folder:0 "Reward Technologies"
+  fallout_focus_tree_folder_desc:0 "Technologies only accessible through focuses and other non-researchable actions."
 
-  HEADER_EQUIPMENT: "Equipment"
-  HEADER_BUFFS: "Buffs"
-  HEADER_TRIBAL_BUFFS: "Tribal Buffs"
-  HEADER_NCN_BUFFS: "New Canaan Buffs"
-  HEADER_RANGER_BUFFS: "Desert Ranger Buffs"
-  HEADER_NCR_BUFFS: "NCR Buffs"
-  HEADER_VAULT_CITY_BUFFS: "Vault City Buffs"
-  HEADER_MEXICO_BUFFS: "Mexico Buffs"
-  HEADER_TBH_BUFFS: "Texan Brotherhood Buffs"
+  HEADER_EQUIPMENT:0 "Equipment"
+  HEADER_BUFFS:0 "Buffs"
+  HEADER_TRIBAL_BUFFS:0 "Tribal Buffs"
+  HEADER_NCN_BUFFS:0 "New Canaan Buffs"
+  HEADER_RANGER_BUFFS:0 "Desert Ranger Buffs"
+  HEADER_NCR_BUFFS:0 "NCR Buffs"
+  HEADER_VAULT_CITY_BUFFS:0 "Vault City Buffs"
+  HEADER_MEXICO_BUFFS:0 "Mexico Buffs"
+  HEADER_TBH_BUFFS:0 "Texan Brotherhood Buffs"
 
-  HEADER_RENO_BUFFS: "New Reno Buffs"
-  HEADER_OREGON_BUFFS: "Oregon Buffs"
-  HEADER_COLORADO_BUFFS: "Colorado Buffs"
-  HEADER_SETTLER_BUFFS: "Settler Buffs"
-  HEADER_RAIDER_BUFFS: "Raider Buffs"
-  HEADER_LEGION_BUFFS: "Legion Buffs"
-  HEADER_WESTERN_BROTHERHOOD_BUFFS: "Western Brotherhood Buffs"
-  HEADER_TECH_LEVEL: "Technology"
-  HEADER_UNIT: "Units"
-  HEADER_UNLOCK: "Schematics"
-  HEADER_DOCTRINE_TECHS: "Doctrine"
+  HEADER_RENO_BUFFS:0 "New Reno Buffs"
+  HEADER_OREGON_BUFFS:0 "Oregon Buffs"
+  HEADER_COLORADO_BUFFS:0 "Colorado Buffs"
+  HEADER_SETTLER_BUFFS:0 "Settler Buffs"
+  HEADER_RAIDER_BUFFS:0 "Raider Buffs"
+  HEADER_LEGION_BUFFS:0 "Legion Buffs"
+  HEADER_WESTERN_BROTHERHOOD_BUFFS:0 "Western Brotherhood Buffs"
+  HEADER_TECH_LEVEL:0 "Technology"
+  HEADER_UNIT:0 "Units"
+  HEADER_UNLOCK:0 "Schematics"
+  HEADER_DOCTRINE_TECHS:0 "Doctrine"
 
 
  #Unlocks
-  gauss_unlock_tech: "Gauss Weaponry Schematics"
-  plasma_unlock_tech: "Plasma Weaponry Schematics"
-  enclave_pa_unlock_tech: "Advanced Power Armour Schematics"
-  high_fighter_unlock_tech: "Xian Schematics"
-  vertibird_unlock_tech: "Vertibird Schematics"
-  grunt_level_radio_unlock_tech: "Portable Radios"
-  forward_fire_base_unlock_tech: "Mobile Fortifications"
+  gauss_unlock_tech:0 "Gauss Weaponry Schematics"
+  plasma_unlock_tech:0 "Plasma Weaponry Schematics"
+  enclave_pa_unlock_tech:0 "Advanced Power Armour Schematics"
+  high_fighter_unlock_tech:0 "Xian Schematics"
+  vertibird_unlock_tech:0 "Vertibird Schematics"
+  grunt_level_radio_unlock_tech:0 "Portable Radios"
+  forward_fire_base_unlock_tech:0 "Mobile Fortifications"
 
-  scav_unlock_weapon_tt: "Unlocks the corresponding weapon technology for research."
-  scav_unlock_business_tt: "Unlocks the corresponding pre-war business."
+  scav_unlock_weapon_tt:0 "Unlocks the corresponding weapon technology for research."
+  scav_unlock_business_tt:0 "Unlocks the corresponding pre-war business."
 
  #----------------------------
  # Civilizations
  #----------------------------
-  tribal_civilization: "Is Tribal"
-  tribal_civilization_desc: ""
-  settled_civilization: "Is Civilized"
-  settled_civilization_desc: ""
-  scientific_civilization: "Is Advanced"
-  scientific_civilization_desc: ""
-  super_mutant_civilization: "Super Mutant Civilization"
-  super_mutant_civilization_desc: ""
+  tribal_civilization:0 "Is Tribal"
+  tribal_civilization_desc:0 ""
+  settled_civilization:0 "Is Civilized"
+  settled_civilization_desc:0 ""
+  scientific_civilization:0 "Is Advanced"
+  scientific_civilization_desc:0 ""
+  super_mutant_civilization:0 "Super Mutant Civilization"
+  super_mutant_civilization_desc:0 ""
 
 
   # Units
@@ -68,170 +68,170 @@
 
 
  #Tribal
-  pathfinders: "Pathfinders"
-  pathfinders_desc: ""
+  pathfinders:0 "Pathfinders"
+  pathfinders_desc:0 ""
 
-  clanfightingstyles: "Clan Fighting Style"
-  clanfightingstyles_desc: ""
+  clanfightingstyles:0 "Clan Fighting Style"
+  clanfightingstyles_desc:0 ""
 
-  warriorcult: "Warrior Cult"
-  warriorcult_desc: ""
+  warriorcult:0 "Warrior Cult"
+  warriorcult_desc:0 ""
 
-  nomadsoul: "Nomad Warriors"
-  nomadsoul_desc: ""
+  nomadsoul:0 "Nomad Warriors"
+  nomadsoul_desc:0 ""
 
-  mansbestfriend: "Man's Best Friend"
-  mansbestfriend_desc: ""
+  mansbestfriend:0 "Man's Best Friend"
+  mansbestfriend_desc:0 ""
 
-  noctwarriors: "Nocturnal Warriors"
-  noctwarriors_desc: ""
+  noctwarriors:0 "Nocturnal Warriors"
+  noctwarriors_desc:0 ""
 
-  tribalholyorg: "The God In The Cave"
-  tribalholyorg_desc: ""
+  tribalholyorg:0 "The God In The Cave"
+  tribalholyorg_desc:0 ""
 
-  sacredgifts: "Gifts Of The Land"
-  sacredgifts_desc: ""
+  sacredgifts:0 "Gifts Of The Land"
+  sacredgifts_desc:0 ""
 
-  outsiderways: "Lessons Of The Outsiders"
-  outsiderways_desc: ""
+  outsiderways:0 "Lessons Of The Outsiders"
+  outsiderways_desc:0 ""
 
-  tribalimmortals: "Immortal Warriors"
-  tribalimmortals_desc: ""
+  tribalimmortals:0 "Immortal Warriors"
+  tribalimmortals_desc:0 ""
 
-  tribalwarpaint: "Tribal War Paint"
-  tribalwarpaint_desc: ""
+  tribalwarpaint:0 "Tribal War Paint"
+  tribalwarpaint_desc:0 ""
 
-  tribalnumbers: "Strength In Numbers"
-  tribalnumbers_desc: ""
+  tribalnumbers:0 "Strength In Numbers"
+  tribalnumbers_desc:0 ""
 
  #New Canaan
-  warriorsofgod: "Warriors of God"
-  warriorsofgod_desc: ""
+  warriorsofgod:0 "Warriors of God"
+  warriorsofgod_desc:0 ""
 
-  knightsofgod: "Knights of God"
-  knightsofgod_desc: ""
+  knightsofgod:0 "Knights of God"
+  knightsofgod_desc:0 ""
 
  #Rangers
-  bosfunding: "Brotherhood of Steel Funding"
-  bosfunding_desc: ""
+  bosfunding:0 "Brotherhood of Steel Funding"
+  bosfunding_desc:0 ""
 
-  rangerswidth: "Ranger Combat Spread Training"
-  rangerswidth_desc: ""
+  rangerswidth:0 "Ranger Combat Spread Training"
+  rangerswidth_desc:0 ""
 
-  rangersmedic: "Ranger Medic Training"
-  rangersmedic_desc: ""
+  rangersmedic:0 "Ranger Medic Training"
+  rangersmedic_desc:0 ""
 
-  rangersattrition: "Ranger Attrition Training"
-  rangersattrition_desc: ""
+  rangersattrition:0 "Ranger Attrition Training"
+  rangersattrition_desc:0 ""
 
-  legionprep: "Ranger Prep for the Legion"
-  legionprep_desc: ""
+  legionprep:0 "Ranger Prep for the Legion"
+  legionprep_desc:0 ""
 
  #NCR
-  oldworldarmour: "Old World Armour"
-  oldworldarmour_desc: ""
+  oldworldarmour:0 "Old World Armour"
+  oldworldarmour_desc:0 ""
 
  #Vault City
-  mutant_supremacy: "The Mole-Men Shall Rule The Earth!"
-  mutant_supremacy_desc: ""
+  mutant_supremacy:0 "The Mole-Men Shall Rule The Earth!"
+  mutant_supremacy_desc:0 ""
  #Itza
-  itz_rough_terrian_training: "Rough Terrain Training"
-  itz_rough_terrian_training_desc: ""
+  itz_rough_terrian_training:0 "Rough Terrain Training"
+  itz_rough_terrian_training_desc:0 ""
 
  #Army of Mexico
-  jungle_spirits: "Jungle Machine Spirit"
-  jungle_spirits_desc: ""
+  jungle_spirits:0 "Jungle Machine Spirit"
+  jungle_spirits_desc:0 ""
 
-  jungle_tribal_integration_tech: "Jungle Tribal integration"
-  jungle_tribal_integration_tech_desc: ""
+  jungle_tribal_integration_tech:0 "Jungle Tribal integration"
+  jungle_tribal_integration_tech_desc:0 ""
 
   ghoul_civilization:0 "Ghoul Civilization"
 
   #NCR
-  ncr_reorgranger_tech: "Reorganization of the Rangers"
-  ncr_reorgranger_tech_desc: ""
+  ncr_reorgranger_tech:0 "Reorganization of the Rangers"
+  ncr_reorgranger_tech_desc:0 ""
 
-  ncr_rangercore_tech: "Ranger Corps"
-  ncr_rangercore_tech_desc: ""
+  ncr_rangercore_tech:0 "Ranger Corps"
+  ncr_rangercore_tech_desc:0 ""
 
-  ncr_jim_drills: "Jim Drills"
-  ncr_jim_drills_desc: ""
+  ncr_jim_drills:0 "Jim Drills"
+  ncr_jim_drills_desc:0 ""
 
-  ncr_rangerlead_tech: "Ranger Leads"
-  ncr_rangerlead_tech_desc: ""
+  ncr_rangerlead_tech:0 "Ranger Leads"
+  ncr_rangerlead_tech_desc:0 ""
 
-  ncr_rangercanopeners_tech: "Ranger can Openers"
-  ncr_rangercanopeners_tech_desc: ""
+  ncr_rangercanopeners_tech:0 "Ranger can Openers"
+  ncr_rangercanopeners_tech_desc:0 ""
 
-  ncr_seth: "Seth's Rangers"
-  ncr_seth_desc: ""
+  ncr_seth:0 "Seth's Rangers"
+  ncr_seth_desc:0 ""
 
-  ncr_privatepolice: "NCR Private Police"
-  ncr_privatepolice_desc: ""
+  ncr_privatepolice:0 "NCR Private Police"
+  ncr_privatepolice_desc:0 ""
 
  #Ranger
-  ranger_knighttactics: "Ranger BoS Knight Tactics"
-  ranger_knighttactics_desc: ""
+  ranger_knighttactics:0 "Ranger BoS Knight Tactics"
+  ranger_knighttactics_desc:0 ""
 
-  ranger_slayinggiants: "Ranger Giant Slaying Tactics"
-  ranger_slayinggiants_desc: ""
+  ranger_slayinggiants:0 "Ranger Giant Slaying Tactics"
+  ranger_slayinggiants_desc:0 ""
 
-  ranger_rangerslegionwar: "Ranger-Legion War Tactics"
-  ranger_rangerslegionwar_desc: ""
+  ranger_rangerslegionwar:0 "Ranger-Legion War Tactics"
+  ranger_rangerslegionwar_desc:0 ""
 
-  ranger_rangersnewthreat: "Ranger New Threat Assessment"
-  ranger_rangersnewthreat_desc: ""
+  ranger_rangersnewthreat:0 "Ranger New Threat Assessment"
+  ranger_rangersnewthreat_desc:0 ""
 
  #Western Brotherhood
-  bos_navarroscoutcamp: "Navarro Scout Camp"
-  bos_navarroscoutcamp_desc: ""
+  bos_navarroscoutcamp:0 "Navarro Scout Camp"
+  bos_navarroscoutcamp_desc:0 ""
 
-  bos_bosdigin: "Brotherhood Field Fortifications"
-  bos_bosdigin_desc: ""
+  bos_bosdigin:0 "Brotherhood Field Fortifications"
+  bos_bosdigin_desc:0 ""
 
  #Legion
-  legion_centurions_tech: "Centurions"
-  legion_centurions_tech_desc: "This will give all Leg infantry 0.5 more organization."
+  legion_centurions_tech:0 "Centurions"
+  legion_centurions_tech_desc:0 "This will give all Leg infantry 0.5 more organization."
 
-  legion_warriors_of_mars_tech: "Warriors of Mars"
-  legion_warriors_of_mars_tech_desc: ""
+  legion_warriors_of_mars_tech:0 "Warriors of Mars"
+  legion_warriors_of_mars_tech_desc:0 ""
 
-  legion_vexillarius_tech: "Vexillarius"
-  legion_vexillarius_tech_desc: ""
-  legion_training_tech: "Legion Training"
-  legion_training_tech_desc: ""
-  legion_frumentarii_officers_tech: "Frumentarii Officers"
-  legion_frumentarii_officers_tech_desc: ""
-  legion_frumentarii_commandoes_tech: "Frumentarii Commandos"
-  legion_frumentarii_commandoes_tech_desc: ""
-  ces_aurelius_mercenaries_tech: "Mercenary Advisors"
-  ces_aurelius_mercenaries_tech_desc: ""
-  CES_horns_moroni_tech: "Horns of Moroni"
-  CES_horns_moroni_tech_desc: ""
-  armored_chariots_tech: "Armoured Chariots"
-  armored_chariots_tech_desc: ""
-  CES_mercenary_training_tech: "Mercenary Training Tech"
-  CES_mercenary_training_tech_desc: ""
+  legion_vexillarius_tech:0 "Vexillarius"
+  legion_vexillarius_tech_desc:0 ""
+  legion_training_tech:0 "Legion Training"
+  legion_training_tech_desc:0 ""
+  legion_frumentarii_officers_tech:0 "Frumentarii Officers"
+  legion_frumentarii_officers_tech_desc:0 ""
+  legion_frumentarii_commandoes_tech:0 "Frumentarii Commandos"
+  legion_frumentarii_commandoes_tech_desc:0 ""
+  ces_aurelius_mercenaries_tech:0 "Mercenary Advisors"
+  ces_aurelius_mercenaries_tech_desc:0 ""
+  CES_horns_moroni_tech:0 "Horns of Moroni"
+  CES_horns_moroni_tech_desc:0 ""
+  armored_chariots_tech:0 "Armoured Chariots"
+  armored_chariots_tech_desc:0 ""
+  CES_mercenary_training_tech:0 "Mercenary Training Tech"
+  CES_mercenary_training_tech_desc:0 ""
 
 
 
  #Reno
-  reno_mastersnewarmy: "Master's New Army"
-  reno_mastersnewarmy_desc: ""
+  reno_mastersnewarmy:0 "Master's New Army"
+  reno_mastersnewarmy_desc:0 ""
 
  #Oregon
-  oregon_geckosupport: "Gecko Support"
-  oregon_geckosupport_desc: ""
-  oregon_mesmetronfieldequipment: "Mesmetron Field Equipment"
-  oregon_mesmetronfieldequipment_desc: ""
+  oregon_geckosupport:0 "Gecko Support"
+  oregon_geckosupport_desc:0 ""
+  oregon_mesmetronfieldequipment:0 "Mesmetron Field Equipment"
+  oregon_mesmetronfieldequipment_desc:0 ""
 
  #Settler
-  settler_caravanmilitia: "Caravan Militia's"
-  settler_caravanmilitia_desc: ""
+  settler_caravanmilitia:0 "Caravan Militia's"
+  settler_caravanmilitia_desc:0 ""
 
  #Raider
-  raider_reckless_aggression: "Reckless Aggression"
-  raider_reckless_aggression_desc: ""
+  raider_reckless_aggression:0 "Reckless Aggression"
+  raider_reckless_aggression_desc:0 ""
 
  #Raider
   tbh_lawkeepers_tech_1:0 "Deputy Training"
@@ -242,12 +242,12 @@
   tbh_lawkeepers_tech_3_desc:0 ""
 
  #Colorado
-  ttm_healthy_warriors: "Healthy Warriors"
-  ttm_healthy_warriors_desc: ""
-  ttm_call_of_the_wild: "Call of the Wild"
-  ttm_call_of_the_wild_desc: ""
-  ttm_jurassic_strength: "Jurassic Strength"
-  ttm_jurassic_strength_desc: ""
+  ttm_healthy_warriors:0 "Healthy Warriors"
+  ttm_healthy_warriors_desc:0 ""
+  ttm_call_of_the_wild:0 "Call of the Wild"
+  ttm_call_of_the_wild_desc:0 ""
+  ttm_jurassic_strength:0 "Jurassic Strength"
+  ttm_jurassic_strength_desc:0 ""
 
   #Block Tech Tech
   blocked_tech:0 "Not Researchable"

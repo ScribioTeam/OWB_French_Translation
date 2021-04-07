@@ -148,7 +148,7 @@ shale_an_unfortunate_reunion_desc:0 "It turns out that this top level facility i
 shale_defending_against_the_monster:0 "Defending Against the Technocrat"
 shale_defending_against_the_monster_desc:0 "We have heard word that a tyrant is heading this way - we can't let her interfer in our glorious conquests! We will have to delay our conflict against the rest of the army until we have this sorted!"
 
-sha_make_three_way_war_harder_to_do: "§RTaking this focus will make "The Three Way War for Unity" impossible to complete until the west has been dealt with.§!"
+sha_make_three_way_war_harder_to_do:0 "§RTaking this focus will make "The Three Way War for Unity" impossible to complete until the west has been dealt with.§!"
 
 shale_planning_against_the_paladins:0 "Planning Against the Paladins"
 shale_planning_against_the_paladins_desc:0 "Ultimately, our conquests will need to include the lands of the east - the lands of the "Paladins". Lets investigate ways that we can sucesfully win this future war."
@@ -192,20 +192,20 @@ shale_strength_in_insanity_desc:0 "Rationality, order, reason - none of it makes
 shale_the_road_of_conquest:0 "The Road of Conquest"
 shale_the_road_of_conquest_desc:0 "It is time to test ourselves against the best Texas has to offer. This is where we show ourselves to be the true heirs to Attis's legacy - or die trying."
 
-shale_cerberus_unity_unleashed: "§!§!§RTrue Unity§!"
-shale_cerberus_unity_unleashed_desc: ""
+shale_cerberus_unity_unleashed:0 "§!§!§RTrue Unity§!"
+shale_cerberus_unity_unleashed_desc:0 ""
 
-shale_cerberus_mexico: "§!§!§RLand of Titans§!"
-shale_cerberus_mexico_desc: ""
+shale_cerberus_mexico:0 "§!§!§RLand of Titans§!"
+shale_cerberus_mexico_desc:0 ""
 
-shale_cerberus_west: "§!§!§RMar's Domain§!"
-shale_cerberus_west_desc: ""
+shale_cerberus_west:0 "§!§!§RMar's Domain§!"
+shale_cerberus_west_desc:0 ""
 
-shale_cerberus_the_masters_legacy: "§!§!§RThe Master's Legacy§!"
-shale_cerberus_the_masters_legacy_desc: ""
+shale_cerberus_the_masters_legacy:0 "§!§!§RThe Master's Legacy§!"
+shale_cerberus_the_masters_legacy_desc:0 ""
 
-shale_cerberus_the_final_flame: "§!§!§RThe Final Flame§!"
-shale_cerberus_the_final_flame_desc: ""
+shale_cerberus_the_final_flame:0 "§!§!§RThe Final Flame§!"
+shale_cerberus_the_final_flame_desc:0 ""
 
 imo_the_steelworks:0 "The Steelworks"
 imo_the_steelworks_desc:0 "When Juggernaught's warband was given the order from Attis to seize the southern industrial heartbed of Texas he took that order diligently. It was a simple matter of fighting off those who used to live there - simple raiders and small creatures alike... What those Super Mutants wouldn't have prediced was just how much they "loved" the place they took. So much metal, so many tools and so much FUN! The Ironmongers made the Steelworks their home, their identity."
@@ -261,11 +261,11 @@ imo_improved_shielding_desc:0 "More plates! More! More! MORE!"
 imo_slimmed_chasis:0 "Slimmed Chasis"
 imo_slimmed_chasis_desc:0 "Just a few plates is good too though. Don't want to go too slow."
 
-imo_ach_tbh_puppet: "A Fun Challenge"
-imo_ach_tbh_puppet_desc: "Metal-men think they are strong! We will show them!"
+imo_ach_tbh_puppet:0 "A Fun Challenge"
+imo_ach_tbh_puppet_desc:0 "Metal-men think they are strong! We will show them!"
 
-imo_ach_no_shale: "Now's Our Chance!"
-imo_ach_no_shale_desc: "With Shale gone we don't have to fear an attack from the north - let's go east and try our toys on someone new!"
+imo_ach_no_shale:0 "Now's Our Chance!"
+imo_ach_no_shale_desc:0 "With Shale gone we don't have to fear an attack from the north - let's go east and try our toys on someone new!"
 
 imo_unification_wars:0 "Unification Wars"
 imo_unification_wars_desc:0 "To the north the other remnants of the Attis Army have mostly left us alone.. yet that wont always be the case. Eventually they will try to call us back - take away this identity we have made for ourselves. We will never surrender the forge - even if it means having to unify the army ourselves to do so!"
@@ -339,9 +339,9 @@ uoa_calls_for_unity_desc:0 "Recently there has been some calls that perhaps its 
 uoa_texan_integration_act:0 "The Texan Integration Act"
 uoa_texan_integration_act_desc:0 "Now that we have unified the remnants of the Attis Army we can look towards integrating Austin into Texas proper. From within Texas we can better spread our ideals of mutant and human friendship as well as ensure the survival and protection of Austin."
 
-uoa_failure_of_the_union: "The \"Failure of the Union\" Speech"
-uoa_failure_of_the_union_desc: "Great people of Austin! Tell me today - why has the Texan Economic Union failed us so? We should be equal members, yet still we are treated as second class citizens by the people of Texas! Its time we break off, form our own state seperate from Texas!"
-some_stuff_for_leaving_fucking_texas_or_something: "By having our scientists leave the Texan Economic Union we can better put them towards things that matter!\n"
+uoa_failure_of_the_union:0 "The \"Failure of the Union\" Speech"
+uoa_failure_of_the_union_desc:0 "Great people of Austin! Tell me today - why has the Texan Economic Union failed us so? We should be equal members, yet still we are treated as second class citizens by the people of Texas! Its time we break off, form our own state seperate from Texas!"
+some_stuff_for_leaving_fucking_texas_or_something:0 "By having our scientists leave the Texan Economic Union we can better put them towards things that matter!\n"
 #Tooltips
  attis_army_no_justify_tt:0 "§RCountries with the idea §Y"Attis Army Remnants"§! §Rcannot justify on one another manually and must use war goals given through national focuses.§!"
  attis_army_no_justify_idea_tt:0 "\nCountries with this idea cannot justify on one another manually and must use war goals given through national focuses."

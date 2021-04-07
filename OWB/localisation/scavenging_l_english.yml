@@ -2,7 +2,7 @@
  ### Decisions ###
   # category
   scavenging_decisions:0 "Procurement of Things"
-  scavenging_decisions_desc: "Producing our equipment is all well and good, but the wasteland is also a treasure trove of ancient secrets waiting to be discovered. This Knowledge is often hidden, guarded, and perilous to recover. We can send out search parties to find things in the wastes (risking their lives in the process) at the expense of some political power. Hopefully our men will return with something we can use."
+  scavenging_decisions_desc:0 "Producing our equipment is all well and good, but the wasteland is also a treasure trove of ancient secrets waiting to be discovered. This Knowledge is often hidden, guarded, and perilous to recover. We can send out search parties to find things in the wastes (risking their lives in the process) at the expense of some political power. Hopefully our men will return with something we can use."
 
   # Scavenging Startup Non WTT
   begin_scavenging_program:0 "Begin a Scavenging Program"
