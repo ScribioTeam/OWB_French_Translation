@@ -36,7 +36,9 @@
   #GAM
  chains_across_the_rivers:0 "Chaînes de l'Autre Côté de la Rivière"
  chains_across_the_rivers_desc:0 "En faisant passer des chaînes de fer submergées par les diverses rivières qui traversent les marais de Louisiane, nous pouvons enchevêtrer les commerçants qui tentent d'explorer les routes à l'ouest du Mississippi. En pillant les navires échoués, nous pouvons obtenir une grande variété de matériaux qui seraient autrement beaucoup plus rares."
-
+  ### TLT
+ river_trade:9 "The Mighty Mississip"
+ river_trade_desc:9 "The Mississippi is the heart of the Midwest's trade, ferrying goods from the Queen's court, the Pharaohs of Memphis, and Chicago to the steaming ports of the Caribbean. Only stands to reason [ROOT.TLT] can make a cap or two on it."
   #SYN
  syilx_council_of_eight:0 "Le Conseil des Huit"
  syilx_council_of_eight_desc:0 "La Nation Syilx est gouvernée par le Conseil exécutif des chefs, composé des sept chefs de la nation et du président de la nation des tribus confédérées de Coleville. Le Conseil se réunit régulièrement pour décider des sujets de préoccupation et s'efforce de protéger la population, les terres et les ressources de la nation."
@@ -57,7 +59,7 @@
  wickiup_nomads:0 "Wicki Nomade"
  wickiup_nomads_desc:0 "Pendant une grande partie de leur histoire, les Mescaleros ont été des chasseurs et des guerriers nomades, construisant des habitations temporaires (appelées \"Wicki up\") lorsqu'ils se déplaçaient dans les plaines du sud-ouest. Malgré l'évolution vers des établissements plus permanents à la fin du XXe siècle, les histoires et les traditions des périodes plus nomades sont toujours des pierres angulaires importantes de la culture des Mescaleros."
  guerilla_legacy:0 "Héritage de la Guérilla"
- guerilla_legacy_desc:0 "Lorsque les hommes blancs sont arrivés en Amérique, les Mescaleros ont résisté à leur perpétuelle expansion dans le territoire traditionnel des Mescaleros. Souvent à la tête de raids sur les colonies espagnoles, mexicaines et américaines, les Mescaleros étaient des guérilleros réputés : un héritage qui perdure encore aujourd'hui."
+ guerilla_legacy_desc:9 "When the White Men first came to America, the Mescalero resisted their perpetual expansion into traditional Mescalero territory. Often leading raids on Spanish, Mexican and American settlements, the Mescalero were renown guerilla fighters: a legacy that lives on to this day."
 
   #TLP
  always_ready_always_there:0 "Toujours Prêt, Toujours Là"
@@ -96,10 +98,10 @@
 
 
   #EDA
- EDA_ufo_defense:9 "Défense contre les Zétans !"
+ EDA_ufo_defense:9 "Defense Against the Chinese!"
  EDA_ufo_defense_desc:9 "[EDA.GetName] claims they protect the America from any communists in the US of A.  Granted the nation's fallen on hard times, but they will glaldy fight against any Chinese agents on continental soil."
  EDA_secrets:0 "Informations Classifiées"
- EDA_secrets_desc:0 "[EDA.GetLeader] prétend avoir des informations que le monde n'est pas censé connaître. Bien que peu de gens croient qu'ils ont un \"trou de ver extrême\", il est indéniable qu'ils en savent plus que la plupart des habitants des Terres Désolées."
+ EDA_secrets_desc:9 "[EDA.GetLeader] claims to have information that the world was not meant to know. Although few believe they have an 'extreme wormhole,' it is undeniable that they know more than most Wastelanders."
 
   #WHI
  whi_burden_of_a_nation:0 "Le Fardeau d'une Nation"

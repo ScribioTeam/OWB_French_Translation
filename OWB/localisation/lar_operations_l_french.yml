@@ -318,3 +318,9 @@
  preposition_units_outcome:0 "Our assets in the country have been placed to capture critical infrastructure when the uprising begins."
  launch_coup_exfiltration_outcome:0 "On receipt of the start signal, our agent led several units to capture their assigned objectives. The rebels have successfully taken control of a slice of territory."
  launch_coup_exfiltration_outcome_fail:0 "In the confusion of the uprising, we have lost contact with our operative. We may never find out what happened."
+ operation_god_save_tnt:9 "Returning our Seaman Home Safely"
+ operation_god_save_tnt_desc:9 "Serving as Vice Admiral in Her Majesty's Navy, Kaleb has been going far too long for your fellow countryman. [VIC.GetLeader] just won't let go of him, so we will have to help out."
+ tnt_rescued:0 "§GKaleb was rescued.§!
+ com_tnt.1.t:9 "Homecoming"
+ com_tnt.1.d:9 "It wasn't easy. The ragtag team sent out to save Kaleb was made up of Legate Lanius' wannabe wife, a man wearing a duck mask who constantly repeats his name, a Mexican bear enthusiast, a ballsy Eyebot, lead by Colt with the big Drip and our secret weapon: a Brazilian. Yet, they brought him home safely at last. His return is being celebrated by a parade and one thing is clear: now that he's back on dry land, his service for law and order has begun again."
+ com_tnt.1.a:9 "Get his hammer"

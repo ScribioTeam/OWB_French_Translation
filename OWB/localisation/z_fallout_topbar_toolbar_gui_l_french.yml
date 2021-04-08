@@ -46,5 +46,5 @@
  node_new_org_popup_tt:0 "[GetNodeNewOrgPopup]"
  puppet_taxation_popup_icon:9 "GFX_puppet_tax_icon"
  node_new_org_popup_tooltip_tt:0 "§Y[?org_state.GetName]§! est devenu le foyer de §G[GetOrganizationName]§!\nNous pouvons désormais échanger des marchandises et établir des relations commerciales avec eux !"
- exodus_popup_icon:9 "GFX_puppet_tax_icon"
+ exodus_popup_icon:9 "GFX_exodus_small"
  exodus_popup_tooltip:9 "§YRefugees!§!\n§gIn the last 60 days, [?exodus_pop_left|0+] refugees have fled before our conquering armies.§!\n§g[?exodus_pop_gained|0+] refugees have come to settle in our states.§!"

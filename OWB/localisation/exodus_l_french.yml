@@ -1,12 +1,35 @@
 ﻿l_french:
-  ## Modifiers
+  ### Modifiers
  exodus_occupier_appeal:9 "Occupation Appeal"
  exodus_nomadicity:9 "Population Nomadicity"
- exodus_local_appeal:9 "Appeal to Refugees"
-
+ exodus_national_appeal:9 "Appeal to Refugees"
+ exodus_assimilation_proportion:9 "Refugee Assimilation Factor"
+ exodus_refugee_ratio_malus:9 "Unassimilated Refugees"
   ### GUI
  exodus_button_tt:9 "[GetCanExodus]"
  exodus_gui_allow_exodus:9 "Estimating for conquerer: §R[?ROOT.exodus_new_owner.GetName]§! \n    Appeal: [?occupier_appeal_temp|2+%]\nconquering: §Y[?ROOT.exodus_target_state.GetName]§!\n    §gNomadicity:§! [?nomadicity_temp|+2%]\n    §gRefugees:§1 [?exodus_state_refugees|0-] \n    §gMilitary Factories Lost:§! [?exodus_arms_refugees|0-]\n    §gCivilian Factories Lost:§! [?exodus_civ_refugees|0-]"
  exodus_gui_disallow_exodus:9 "Population will not be displaced when state changes control"
  exodus_gui_please_refreesh:9 "Please click to refresh Exodus Prediction"
  exodus_array_entry_n:9 "§W[?exodus_valid_targets_temp^cur.GetName]§! Weight of: [?current_weight|0=]\n[GetExodusTargetsArrayTT]"
+  ### Tooltips
+ exodus_with_set_proportion_tt:9 "§Y[?refugee_proportion]%§! of this state's population will §Rflee§! as §YRefugees§!, equating to §Y[?global.exodus_state_refugees] civilians§!, §Y[?global.exodus_arms_refugees] arms factories§!, and §Y[?global.exodus_civ_refugees] civilian goods factories.\n"
+ exodus_decimate_portion_tt:9 "§Y[?refugee_proportion]%§! of this state's population will be §Rdestroyed§!, equating to §Y[?global.exodus_state_refugees] civilians§!, §Y[?global.exodus_arms_refugees] arms factories§!, and §Y[?global.exodus_civ_refugees] civilian goods factories.\n"
+ assimilate_no_prop_tt:9 "\n§gOur current §YRefugee Assimilation Factor§! is below 0, and we are thus unable to passively assimilate any refugees. Perusing a §ONationwide Assimilation Drive§! or seeking to §OExpel Refugees§! will still yield results, however.§!\n"
+ assimilate_n_pop_cap_tt:9 "A total of £manpower_texticon §G[?pulse_assimilate_pre_div|0]§! §YRefugees§! §g(representing approximately [?modifier@exodus_assimilation_proportion|%1] of the total pool)§! will §Gassimilate§! into our nation's capital, becoming §Ycivilians§!.\n\n"
+ assimilate_n_pop_tt:9 "A total of £manpower_texticon §G[?pulse_assimilate|0]§! §YRefugees§! §g(representing approximately [?modifier@exodus_assimilation_proportion|%1] of the total pool)§! will §Gassimilate§! into states across nation, becoming §Ycivilians§!.\n\n"
+ every_core_controlled_states_tt:9 "Every §Ycontrolled§!, §Ycored§! state"
+ assimilate_add_pop_cap_tt:9 "Gains [?pulse_assimilate_pre_div|G0] §Ypopulation§!\n"
+ assimilate_add_pop_tt:9 "Gains [?pulse_assimilate_per_state|G0] §Ypopulation§!\n"
+  ### Assimilation Decisions
+ exodus_refugee_assimilation:9 "Refugees"
+ exodus_refugee_assimilation_desc:9 "As states are conquered in the Wasteland, §Yrefugees§! will flee new occupation and seek to start anew elsewhere. When such refugees reach our nation, they join our §OUnassimilated Refugee§! pool. We can §Gassimilate§! these §Yrefugees§! for a manpower boost in our core states, either by letting time play out or through making a conscious political effort. \n\nCurrently we have [?unassimilated_refugees|Y0] §OUnassimilated Refugees§! across the nation. This is [?refugee_to_core_ratio|%R] of our §Ycore population§!, and we thus suffer a [?ratio_modifier_stab|%R] §Ystability impact§!. \n\nSince the start of the game, [?all_time_refugees|Y0] §ORefugees§! have arrived in our nation, of whom [?all_time_assimilate|Y0] have §Gassimilated§! and [?all_time_expelled|Y0] have been §Rexpelled§! to date."
+ exodus_assimilation_pulse_mission:9 "Passive Refugee Assimilation"
+ exodus_assimilation_pulse_mission_desc:9 "Every four weeks, a fraction of our total §OUnassimilated Refugees§! will integrate evenly across our §Ycore states§!, bolstering our §Ymanpower pool§! proportional to our §OAssimilation Proportion§!. This proportion depends on §Ynational spirits§!, §Ytechnologies§! and §YOutsider Recruitment laws§!."
+ nationwide_assimilation_drive:9 "Nationwide Assimilation Drive"
+ nationwide_assimilation_drive_desc:9 "Through the expenditure of some political will, we can integrate a month's worth of §Orefugees§! straight into our civilian population. Handy in a pinch, it'll also help to alleviate the stability penalty from §OUnassimilated Refugees§!."
+ nationwide_assimilation_drive_trig_tt:9 "There are more §OUnassimilated Refugees§! than we have §Ocore states§! §g(currently [?num_core_states])§!"
+ assimilation_drive_tt:9 "A total of £manpower_texticon §G[?pulse_assimilate|0]§! §YRefugees§! §g(representing approximately §G15%§! of the total pool)§! will §Gassimilate§! into states across nation, becoming §Ycivilians§!.\n\n"
+ expel_refugees:9 "Turn Away Refugees"
+ expel_refugees_desc:9 "While we'd much prefer to assimilate the sizable number of refugees in our nation, the sheer number of them relative to our own core population makes this entirely unfeasible. Instead, we're going to have to turn a portion of our refugee population away from our lands to maintain stability."
+ expel_refugees_trig_tt:9 "§OUnassimilated Refugees§! are causing more than a §R15%§! §Ystability§! penalty."
+ expel_refugees_tt:9 "A total of £manpower_texticon §G[?refugees_expelled|0]§! §YRefugees§! §g(representing approximately §R15%§! of the total pool)§! will be §Rexpelled§! from our nation to maintain stability.\n\n"

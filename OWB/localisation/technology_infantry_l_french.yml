@@ -78,8 +78,8 @@
  #----------------------------
  # Power Armour
  #----------------------------
- stripped_pa_tech:0 "Armure assistée dépouillée"
- stripped_pa_tech_desc:0 ""
+ wasteland_pa_tech:9 "Stripped Power Armour"
+ wasteland_pa_tech_desc:9 ""
 
  scav_pa_tech:0 "Armure assistée récupérée"
  scav_pa_tech_desc:0 "Le pauvre homme, souvent concocté avec des pièces de rechange et des restes cassés. Pas aussi efficace qu'un T-45d ordinaire mais bien meilleur qu'une simple armure de métal."

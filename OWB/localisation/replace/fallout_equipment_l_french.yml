@@ -214,13 +214,13 @@
 
  # Power Armour
 
- power_armor_equipment_0:0 "Armure assistée de patate"
- power_armor_equipment_0_short:0 "AA Patate"
- power_armor_equipment_0_desc:0 "Combinaison de patates qui protègent."
+ power_armor_equipment_0:9 "Armure assistée de patate"
+ power_armor_equipment_0_short:9 "AA Patate"
+ power_armor_equipment_0_desc:9 "Suits of Power Armour stripped of their servos, sometimes even just affixed to regular uniforms as a bulky rudimentary augmentation. Not very efficient for anything but the lightest of combat and training exercises."
 
- power_armor_equipment_1:0 "Armure Assistée récupérée"
- power_armor_equipment_1_short:0 "Armure Assistée récupérée"
- power_armor_equipment_1_desc:0 "Cette armure a été bricolée à partir de pièces détachées et de morceaux brisés."
+ power_armor_equipment_1:9 "Armure Assistée récupérée"
+ power_armor_equipment_1_short:9 "Armure Assistée récupérée"
+ power_armor_equipment_1_desc:9 "Suits of Power Armour stripped of most servos, sometimes even just affixed to regular uniforms as a bulky rudimentary augmentation. Not very efficient for anything except protecting who ever wears it from small arms fire."
 
  power_armor_equipment_2:45 "Armure assistée T-45d"
  power_armor_equipment_2_short:0 "T-45d AP"
