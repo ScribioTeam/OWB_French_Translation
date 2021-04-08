@@ -36,7 +36,9 @@
   #GAM
   chains_across_the_rivers:0 "Chains Across the River"
   chains_across_the_rivers_desc:0 "By draping submerged iron chains across the various rivers that weave through the marshes of Louisiana, we can entangle traders that attempt to explore routes west of the Mississippi. By raiding the stranded vessels, we can gain a huge variety of materials that would otherwise be much more scarce."
-
+  ### TLT
+  river_trade: "The Mighty Mississip"
+  river_trade_desc: "The Mississippi is the heart of the Midwest's trade, ferrying goods from the Queen's court, the Pharaohs of Memphis, and Chicago to the steaming ports of the Caribbean. Only stands to reason [ROOT.TLT] can make a cap or two on it."
   #SYN
   syilx_council_of_eight:0 "The Council of Eight"
   syilx_council_of_eight_desc:0 "The Syilx Nation is governed by the Chiefs Executive Council, composed of the seven Nation Chiefs and the Coleville Confederated Tribes' Chairman of the Nation. The Council holds regular meetings to decide on areas of concern and and works to protect the Nation's people, land, and resources."
