@@ -158,10 +158,17 @@ guiTypes = {
 				orientation = RIGHT
 				shortcut = "ESCAPE"
 			}
+			buttonType = {
+				name = "trade_expedition_button"
+				position = { x = 775 y = 0 }
+				spriteType = "GFX_fallout_topbar_node_map"
+				pdx_tooltip = "SEND_TRADE_NODE_EXPEDITION_TT"
+				orientation = RIGHT
+			}
 		}
 		containerWindowType = {
 			name = "filter_container"
-			position = { x = 140 y = 20 }
+			position = { x = 75 y = 20 }
 			size = { width = 300 height = 100 }
 			clipping = no
 			containerWindowType = {
@@ -258,7 +265,7 @@ guiTypes = {
 		}
 
 		containerWindowType = {
-			name = "entry_window"
+			name = "move_box_entry_window"
 			position = { x = @NODE_MAP_START_POSITION_X y = @NODE_MAP_START_POSITION_Y }
 			size = { width = 100%% height = 100%% }
 
@@ -284,7 +291,7 @@ guiTypes = {
 		}
 
 		containerWindowType = {
-			name = "entry_window"
+			name = "move_box_small_entry_window"
 			position = { x = @NODE_MAP_START_POSITION_X y = @NODE_MAP_START_POSITION_Y }
 			size = { width = 100%% height = 100%% }
 
@@ -511,6 +518,24 @@ guiTypes = {
 			}
 		}
 	}
+	containerWindowType = {
+		name = "trade_node_expedition_popup"
+		position = { x = 0 y = 0 }
+		size = { width = 150 height = 30 }
+		#orientation = UPPER_RIGHT
+		moveable = yes
+		clipping = no
+		click_to_front = yes
+		buttonType = {
+			name = "trade_node_expedition_tt"
+			#size = { x = 150 y = 30 }
+			spriteType ="GFX_sort_button_140x29"
+			buttonFont = "hoi_18mbs"
+			buttonText = TRADE_NODE_MAP_SEND_EXPEDITION_TEXT
+			pdx_tooltip = TRADE_NODE_MAP_SEND_EXPEDITION_TT
+		}
+		scale = 1.0
+	}
 
 	containerWindowType = {
 		name = "trade_node_info_popup"
@@ -564,7 +589,7 @@ guiTypes = {
 				iconType = {
 					name = "building_icon"
 					position = { x = 5 y = 5 }
-					spriteType = "GFX_trade_economic_value_icon"
+					spriteType = "GFX_incoming_trade"
 					pdx_tooltip = "TRADE_NODE_MAP_TARGET_RECIEVED"
 				}
 
@@ -592,7 +617,7 @@ guiTypes = {
 				iconType = {
 					name = "building_icon"
 					position = { x = 5 y = 5 }
-					spriteType = "GFX_trade_economic_trade_icon"
+					spriteType = "GFX_outgoing_trade"
 					pdx_tooltip = "TRADE_NODE_MAP_TARGET_SENT"
 				}
 
@@ -615,13 +640,13 @@ guiTypes = {
 				scale = 0.8
 			}
 			buttonType = {
-				name = "set_trade_route_button"
+				name = "set_trade_route_button_map"
 				position = { x = 40 y = 90 }
 				spriteType = "GFX_sort_button_140x29"
 				frame = 1
 				buttonFont = "hoi_16mbs"
 				buttonText = TRADE_NODE_MAP_SEND_BUTTON
-				pdx_tooltip = "TRADE_NODE_TRADE_ROUTE_BUTTON_TT"
+				pdx_tooltip = "TRADE_NODE_TRADE_ROUTE_BUTTON_MAP_TT"
 			}
 			buttonType = {
 				name = "remove_trade_route_button"
@@ -634,6 +659,7 @@ guiTypes = {
 			}
 		}
 	}
+
 	containerWindowType = {
 		name = "trade_nodes_map_ledger"
 		position = { x = 30 y = 65 }
@@ -903,4 +929,6 @@ guiTypes = {
 			pdx_tooltip = TRADE_NODE_MAP_OWNED_LIST_TT
 		}
 	}
+
+
 }
