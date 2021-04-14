@@ -42,15 +42,15 @@
  fireteam_equipment_short:0 "Armes à feu"
  fireteam_equipment_desc:0 ""
 
- anti_air_equipment:9 "Anti-Air Weaponry"
- anti_air_equipment_short:9 "AA Gear"
+ anti_air_equipment:9 "Armement anti-aérien"
+ anti_air_equipment_short:9 "Équipement AA"
  anti_air_equipment_desc:9 ""
 
  radio_equipment:0 "Radios Portables"
  radio_equipment_short:0 "Radio Portable"
  radio_equipment_desc:0 ""
 
- forward_firebase_equipment:9 "Mobile Fortifications"
+ forward_firebase_equipment:9 "Fortifications Mobiles"
  forward_firebase_equipment_short:0 "Fortifications"
  forward_firebase_equipment_desc:9 ""
 
@@ -216,11 +216,11 @@
 
  power_armor_equipment_0:9 "Armure assistée de patate"
  power_armor_equipment_0_short:9 "AA Patate"
- power_armor_equipment_0_desc:9 "Suits of Power Armour stripped of their servos, sometimes even just affixed to regular uniforms as a bulky rudimentary augmentation. Not very efficient for anything but the lightest of combat and training exercises."
+ power_armor_equipment_0_desc:9 "Des Armures Assistées dépourvues de leurs servos, parfois même simplement fixées à des uniformes ordinaires comme une augmentation rudimentaire et encombrante. Pas très efficace pour quoi que ce soit d'autre que le plus léger des combats et des exercices d'entraînement."
 
  power_armor_equipment_1:9 "Armure Assistée récupérée"
  power_armor_equipment_1_short:9 "Armure Assistée récupérée"
- power_armor_equipment_1_desc:9 "Suits of Power Armour stripped of most servos, sometimes even just affixed to regular uniforms as a bulky rudimentary augmentation. Not very efficient for anything except protecting who ever wears it from small arms fire."
+ power_armor_equipment_1_desc:9 "Combinaisons d'Armures Assistées dépourvues de la plupart des servos, parfois même simplement fixées à des uniformes ordinaires comme une augmentation rudimentaire encombrante. Pas très efficace pour quoi que ce soit, sauf pour protéger celui qui la porte des tirs d'armes légères."
 
  power_armor_equipment_2:45 "Armure assistée T-45d"
  power_armor_equipment_2_short:0 "T-45d AP"
@@ -303,10 +303,10 @@
  energy_fireteam_equipment_4_desc:0 "À l'origine, c'était une arme antichar, mais ce dispositif tesla a été modifié pour ressembler davantage à un canon d'automobile que son frère plus lourd, grâce à l'installation d'un réseau de focalisation plus petit et de paquets d'électrons à décharge rapide. Bien que la cadence de tir soit assez faible, les capacités d'impact et de perforation de chaque tir sont suffisantes pour perforer n'importe quel gilet pare-balles."
 
  # Anti air AA equipment
- anti_air_equipment_1:9 "Unguided Volley Launcher System"
+ anti_air_equipment_1:9 "Système de Lanceur de Volée Non Guidé"
  anti_air_equipment_1_short:9 "UV-LS AA"
  anti_air_equipment_1_desc:9 ""
- anti_air_equipment_2:9 "Proximity Fuse Munitions Rocket System"
+ anti_air_equipment_2:9 "Système de Roquettes à Munitions à Fusées de Proximité"
  anti_air_equipment_2_short:9 "PF-MRS AA"
  anti_air_equipment_2_desc:9 ""
 
