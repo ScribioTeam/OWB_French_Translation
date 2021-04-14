@@ -281,6 +281,12 @@
  RULE_EVENTS_MLP_HARMONY_AND_UNITY_DISABLED:0 "@NCR Désactivé"
  RULE_EVENTS_MLP_HARMONY_AND_UNITY_DISABLED_DESC:0 "Les visiteurs décident de rentrer chez eux avant de causer des problèmes."
 
+ RULE_EVENTS_SPAWN_APRIL_ELITE:9 "L'Incident de Gary (Poisson d'avril 2021)"
+ RULE_EVENTS_SPAWN_APRIL_ELITE_ENABLED:9 "Activé"
+ RULE_EVENTS_SPAWN_APRIL_ELITE_ENABLED_desc:9 "Cela permettra à l'incident de Gary"
+ RULE_EVENTS_SPAWN_APRIL_ELITE_DISABLED:9 "Désactivé"
+ RULE_EVENTS_SPAWN_APRIL_ELITE_DISABLED_desc:9 "Cela désactivera l'incident de Gary"
+
  RULE_TEXCLAVE:9 "La Texcalve est réelle ? (Poisson d'avril 2021)"
  RULE_EVENTS_TEXCLAVE_ENABLED:9 "Activé"
  RULE_EVENTS_TEXCLAVE_ENABLED_DESC:9 "Qui sont ces gars en armure brillante ?"
