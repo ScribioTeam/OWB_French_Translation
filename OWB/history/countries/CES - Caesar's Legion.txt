@@ -96,6 +96,7 @@ set_country_flag = slavery_allowed
 set_country_flag = manpower_laws_hidden
 set_country_flag = slave_society
 set_country_flag = bans_drugs
+set_country_flag = has_unique_manpower_law
 
 add_ideas = {
 	currencycesdenarius
@@ -106,7 +107,6 @@ add_ideas = {
 	undesirables_law_petty
 	legionary_state
 	legion_training
-	lac_loot_from_theeast_1
 }
 
 
@@ -161,6 +161,17 @@ create_field_marshal = {
 	planning_skill = 2
 	logistics_skill = 3
 	traits = { strong_trait enduring_trait }
+}
+create_corps_commander = {
+	name = "Caius Drusus"
+	picture = "portrait_caius_drusus.dds"
+	skill = 3
+	id = 10009
+	attack_skill = 3
+	defense_skill = 3
+	planning_skill = 3
+	logistics_skill = 3
+	traits = { strong_trait intelligent_trait ferocious_loyalty_trait }
 }
 create_corps_commander = {
 	name = "Aurelius"
@@ -243,11 +254,32 @@ create_dynamic_country = {
 }
 create_dynamic_country = {
 	original_tag = CES
+	set_country_flag = CES_caius_flag
+	set_politics = {
+		ruling_party = ruler
+	}
+	set_cosmetic_tag = CES_caius_legion
+	set_research_slots = 4
+	reserve_dynamic_country = yes
+}
+
+create_dynamic_country = {
+	original_tag = CES
 	set_country_flag = CES_lucius_legion_flag
 	set_politics = {
 		ruling_party = ruler
 	}
 	set_cosmetic_tag = CES_lucius_legion
+	set_research_slots = 4
+	reserve_dynamic_country = yes
+}
+create_dynamic_country = {
+	original_tag = CES
+	set_country_flag = CES_lanius_legion_flag
+	set_politics = {
+		ruling_party = ruler
+	}
+	set_cosmetic_tag = CES_lanius_legion
 	set_research_slots = 4
 	reserve_dynamic_country = yes
 }
@@ -264,7 +296,7 @@ create_dynamic_country = {
 
 create_dynamic_country = {
 	original_tag = CES
-	set_country_flag = CES_vulpes_flag
+	set_country_flag = CES_vulpes_legion_flag
 	set_politics = {
 		ruling_party = ruler
 	}

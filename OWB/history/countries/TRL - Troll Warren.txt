@@ -79,6 +79,8 @@ set_research_slots = 3
 set_country_flag = army_wages_disabled
 set_country_flag = is_super_mutant_nation
 set_country_flag = is_followers_black_listed_nation
+set_country_flag = has_unique_manpower_law
+
 set_politics = {
 	ruling_party = ruler
 	elections_allowed = no
