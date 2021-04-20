@@ -1,5 +1,4 @@
-﻿
-l_french:
+﻿l_french:
  spellcheck_ignore:9 "node_level_up_icon"
  spellcheck_ignore:9 "node_disabled_icon"
  spellcheck_ignore:9 "node_trade_notification_icon"
@@ -8,32 +7,32 @@ l_french:
  node_disabled_tt:0 "Le Noeud de Commerce est §Rdésactivé§!."
  node_disabled_timed_tt:0 "Le Noeud de Commerce est §Rdésactivé§! pendant [?OWNER.duration_node_disabled|§Y§0] jours."
   # EFFECTS
- NODE_ADD_DEVELOPMENT_EFFECT_TT:0 "Ajoute [?development_to_add|2+=] de §cDéveloppement§! à §Y[This.GetName]§!\n\n§cDéveloppement Économique§! augmente la progression au niveau des nœuds."
+ NODE_ADD_DEVELOPMENT_EFFECT_TT:0 "Ajoute [?development_to_add|2+=] de §cDéveloppement§! à §Y[This.GetName]§!\n\nLe §cDéveloppement Économique§! augmente la progression au niveau des nœuds."
  scripted_effect_update_route_value_tt:0 "Met à jour les Routes Commerciales de §Y[This.GetName]§!"
  scripted_effect_remove_trade_route_tt:0 "§RRetire§! la Route Commerciale de §Y[This.GetName]§! à §Y[?trade_route_temp_target.GetName]§!"
  scripted_effect_begin_trade_route_tt:0 "§GCommencer§! une Route Commerciale de §Y[?node_map_selector.GetName]§! à §Y[?trade_route_selector_target.GetName]§!"
   # TRIGGERS
- get_trade_route_slots_number_tt:9 "Available Routes: $RIGHT|0G$\nMaximum Routes: $LEFT|0G$\n"
- has_open_trade_route_slot_tt:9 "Has available trade route slot\n   Available Routes: [?trade_route_slot_avail|0+]\n   Maximum Routes: [?trade_route_slots|0+]\n"
+ get_trade_route_slots_number_tt:9 "Routes Disponibles : $RIGHT|0G$\nRoutes Maximum : $LEFT|0G$\n"
+ has_open_trade_route_slot_tt:9 "A un emplacement de route commercial disponible\n   Routes Disponibles : [?trade_route_slot_avail|0+]\n   Routes Maximum : [?trade_route_slots|0+]\n"
 
   # GUI:
 
  TRADE_NODE_NAME:0 "§Y[?current_node_name.GetName]§! §WNoeud Économique [GetTradeNodeNameAffix]§!"
- TRADE_NODE_MAIN_NODE_TT:9 "§Y[?current_node_name.GetName]§! est le principal noeud de [?main_node_holder.GetFlag] §L[?main_node_holder.GetName]§!."
+ TRADE_NODE_MAIN_NODE_TT:9 "§Y[?current_node_name.GetName]§! est le principal §ynœud§! de [?main_node_holder.GetFlag] §L[?main_node_holder.GetName]§!."
  TRADE_NODE_LEVEL:0 "Niveau : §Y[?current_node_level]§!"
- TRADE_NODE_LEVEL_TT:9 "The level of the §Y[?current_node_name.GetName]§! §yeconomic node§! currently is §Y[?current_node_level]§!. \nThe maximum level of a §yeconomic node§! is §Y10§!. \n\n §gOnly level§! §Y8§! §gcan be achieved without§! §cEconomic Development§!§g.§!"
+ TRADE_NODE_LEVEL_TT:9 "Le niveau du §ynœud économique§! §Y[?current_node_name.GetName]§! est actuellement de §Y[?current_node_level]§!. \nLe niveau maximum d'un §ynœud économique§! est de §Y10§!. \n\n §gLe niveau§! §Y8§! §gpeut être atteint sans§! §cDéveloppement Économique§!§g.§!"
  TRADE_NODE_INFRASTRUCTURE_LEVEL:0 "§Y[?current_node_name_infrastructure]§!"
- TRADE_NODE_INFRASTRUCTURE_LEVEL_TT:9 "The §Y[?current_node_name.GetName]§! §yeconomic node§! has a total amount of §Y[?current_node_name_infrastructure]§! infrastructure."
+ TRADE_NODE_INFRASTRUCTURE_LEVEL_TT:9 "Le §ynœud économique§! §Y[?current_node_name.GetName]§! a un total de §Y[?current_node_name_infrastructure]§! infrastructures."
  TRADE_NODE_ECONOMIC_DEVELOPMENT:0 "§Y[?current_node_economic_development|1+]§!"
- TRADE_NODE_ECONOMIC_DEVELOPMENT_TT:9 "The §Y[?current_node_name.GetName]§! §yeconomic node§! has an §cEconomic Development§! of [?current_node_economic_development|1+].\n\n §cEconomic Development§! §gallows a node to progress beyond level§! §Y8§!"
+ TRADE_NODE_ECONOMIC_DEVELOPMENT_TT:9 "Le §ynœud économique§! §Y[?current_node_name.GetName]§! a un §cDéveloppement Économique§! de [?current_node_economic_development|1+].\n\n Le §cDéveloppement Économiqu§! §gpermet à un nœud de progresser au-delà du niveau§! §Y8§!"
  TRADE_NODE_NAVAL_BASE_LEVEL:0 "§Y[?current_node_name_naval_base]§!"
- TRADE_NODE_NAVAL_BASE_LEVEL_TT:9 "The §Y[?current_node_name.GetName]§! §yeconomic node§! has a total amount of §Y[?current_node_name_naval_base]§! dockyards."
+ TRADE_NODE_NAVAL_BASE_LEVEL_TT:9 "Le §ynœud économique§! §Y[?current_node_name.GetName]§! a un total de §Y[?current_node_name_naval_base]§! chantiers navals."
  TRADE_NODE_ARMS_FACTORY_LEVEL:0 "§Y[?current_node_name_arms_factory]§!"
- TRADE_NODE_ARMS_FACTORY_LEVEL_TT:9 "The §Y[?current_node_name.GetName]§! §yeconomic node§! has a total amount of §Y[?current_node_name_arms_factory]§! military factories."
+ TRADE_NODE_ARMS_FACTORY_LEVEL_TT:9 "Le §ynœud économique§! §Y[?current_node_name.GetName]§! a un total de §Y[?current_node_name_arms_factory]§! usines militaires."
  TRADE_NODE_INDUSTRIAL_COMPLEX_LEVEL:0 "§Y[?current_node_name_industrial_complex]§!"
- TRADE_NODE_INDUSTRIAL_COMPLEX_LEVEL_TT:9 "The §Y[?current_node_name.GetName]§! §yeconomic node§! has a total amount of §Y[?current_node_name_industrial_complex]§! civilian workshops."
+ TRADE_NODE_INDUSTRIAL_COMPLEX_LEVEL_TT:9 "Le §ynœud économique§! §Y[?current_node_name.GetName]§! a un total de §Y[?current_node_name_industrial_complex]§! ateliers civils."
  TRADE_NODE_BASE_VALUE:0 "Valeur de développement : §G[?current_node_base_value|2]k§!"
- TRADE_NODE_BASE_VALUE_TT:9 "The development value of the §Y[?current_node_name.GetName]§! §yeconomic node§! is currently §G[?current_node_base_value|2]k§! [GetCapCurrencyType].  \n\nDevelopment Modifier: £GFX_caps_base_modifier_texticon §Y[?current_node_value_multiplier|%+]§!\nCountry Development Modifier: §Y[GetCountryBaseModifier]§! "
+ TRADE_NODE_BASE_VALUE_TT:9 "La valeur de développement du §ynœud économique§! §Y[?current_node_name.GetName]§! est actullement de §G[?current_node_base_value|2]k§! [GetCapCurrencyType].  \n\nModificateur de Développement : £GFX_caps_base_modifier_texticon §Y[?current_node_value_multiplier|%+]§!\nModificateur de Développement du Pays: §Y[GetCountryBaseModifier]§! "
  TRADE_NODE_TRADE_VALUE:0 "Valeur de Commerce :  §G[?current_node_trade_value|2]k§!"
  TRADE_NODE_TRADE_VALUE_TT:9 "The trade value of the §Y[?current_node_name.GetName]§! §yeconomic node§! is currently §G[?node_trade_value|2]k§!; we collect [?current_node_trade_value|2+=] [GetCapCurrencyType].  \n\nTrade Modifier: £caps_trade_modifier_texticon §Y[?current_node_trade_value_multiplier|%+]§!\nCountry Trade Tariffs: §Y[GetCountryTradeModifier]§!"
  TRADE_NODE_TOTAL_VALUE:0 "Valeur Totale : §G[?current_node_value|2]k§!"
