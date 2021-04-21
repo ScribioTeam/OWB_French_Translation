@@ -1,6 +1,6 @@
 ﻿l_french:
  nf_legion.1.t:0 "L'Honneur du Taureau"
- nf_legion.1.d:0 "César a continué à nous couvrir de faveurs. Si nous promettons de travailler à ses fins dans l'Utah, nous recevrons davantage de soldats pour former nos guerriers. Pourquoi aurions-nous refusé ?"
+ nf_legion.1.d:0 "Caesar a continué à nous couvrir de faveurs. Si nous promettons de travailler à ses fins dans l'Utah, nous recevrons davantage de soldats pour former nos guerriers. Pourquoi aurions-nous refusé ?"
  nf_legion.1.a: "Bien sûr, nous acceptons"
  nf_legion.1.b: "Jamais!"
 #Placeholder localization begins
@@ -12,14 +12,14 @@
  nf_legion.1001.desc:0 "Ces imbéciles! Ils refusent notre demande de les faire entrer dans la Légion pour les aider à détruire les New Cananéens et leur chef Joshua ! Ils vont payer pour cela."
  nf_legion.1001.a:0 "L'arrogance !"
 
- nf_legion.1002.title:0 "Cadeaux pour César"
+ nf_legion.1002.title:0 "Cadeaux pour Caesar"
  nf_legion.1002.desc:0 "[WHT.GetLeader] a conquis l'Utah depuis ses tentes de guerre, mais on ne peut pas gouverner depuis une seule. [CES.GetName] a envoyé des conseillers pour aider à gouverner la terre, compétents dans l'art de briser le joug d'un peuple. Avec leur aide, tout l'Utah apprendra pourquoi les Jambes Blanches marchent fièrement. Et si [WHT.GetLeader] a des idées sur le tribut qu'il doit envoyer à Flagstaff, il ne le dit pas. Pour l'instant."
  nf_legion.1002.a:0 "Il vaut mieux faire partie de la meute que d'être un mouton."
  nf_legion.1002.a_tt:0 "§g\nLe coût pour rendre les États de l'Utah en état coeur est réduit de moitié."
 
 #Placeholder localization ends
  nf_legion.2.t: "La Pétition des Eighties"
- nf_legion.2.d: "Un envoyé de la Légion de César a visité nos terres tribales et nous a proposé un accord. Prêter allégance à la Légion de César et abandonner les vieilles manières. Refuser, et ressentir la pleine puissance de la Légion."
+ nf_legion.2.d: "Un envoyé de la Légion de Caesar a visité nos terres tribales et nous a proposé un accord. Prêter allégance à la Légion de Caesar et abandonner les vieilles manières. Refuser, et ressentir la pleine puissance de la Légion."
  nf_legion.2.a: "Bien sûr, nous acceptons"
  nf_legion.2.b: "Jamais!"
 #Placeholder localization begins
@@ -32,37 +32,37 @@
  nf_legion.2001.a:0 "L'arrogance !"
 #Placeholder localization ends
  nf_legion.3.t:0 "Le Flambeau de la Civilisation"
- nf_legion.3.d:0 "En 2247, le missionnaire mormon Joshua Graham, ainsi que deux disciples de l'Apocalypse - Calhoun et Edward Sallow - ont été capturés par la tribu des Pieds-Noirs, spectateurs d'une guerre tribale typique. Mais les suggestions de Sallow à la tribu se sont transformées en ordres, qui se sont traduits par la conduite de la bataille, qui s'est transformée en domination sur la tribu. Se nommant lui-même César, il a entraîné les Pieds-Noirs à la manière de l'ancienne guerre, et les a aidés à conquérir leurs six tribus rivales.  Il leur a montré comment nettoyer et entretenir les armes, opérer avec des tactiques de petite unité, créer leurs propres explosifs et frapper leurs ennemis les plus faibles en premier ; Divide Et Impera - diviser pour mieux régner. Lorsque la guerre fut terminée, il n'était plus un adepte de l'Apocalypse, mais le César d'un nouvel empire. Sa plus grande introduction a été :"
+ nf_legion.3.d:0 "En 2247, le missionnaire mormon Joshua Graham, ainsi que deux disciples de l'Apocalypse - Calhoun et Edward Sallow - ont été capturés par la tribu des Pieds-Noirs, spectateurs d'une guerre tribale typique. Mais les suggestions de Sallow à la tribu se sont transformées en ordres, qui se sont traduits par la conduite de la bataille, qui s'est transformée en domination sur la tribu. Se nommant lui-même Caesar, il a entraîné les Pieds-Noirs à la manière de l'ancienne guerre, et les a aidés à conquérir leurs six tribus rivales.  Il leur a montré comment nettoyer et entretenir les armes, opérer avec des tactiques de petite unité, créer leurs propres explosifs et frapper leurs ennemis les plus faibles en premier ; Divide Et Impera - diviser pour mieux régner. Lorsque la guerre fut terminée, il n'était plus un adepte de l'Apocalypse, mais le Caesar d'un nouvel empire. Sa plus grande introduction a été :"
  nf_legion.3.a:0 "Maintenance des armes"
  nf_legion.3.b:0 "Tactique de l'unité"
  nf_legion.3.c:0 "Il y a trop de réalisations pour les énumérer toutes."
- CES_stress_increase:0 "\nCet effort aggravera la §Rsanté§! de César."
+ CES_stress_increase:0 "\nCet effort aggravera la §Rsanté§! de Caesar."
 
   #####
  nf_legion.4.t:0 "Les quatre-vingt-six tribus - et les sociétés civilisées."
- nf_legion.4.d:0 "Sallow et Graham ont été impitoyables pendant la guerre, mais ils ont réussi à forger une société à l'est du Colorado. Les sujets tribaux sont devenus des Tabula Rasa, leur culture a été incorporée dans une Légion qui a assimilé les traits utiles et a écarté le reste. Mais les villes \"civilisées\" ont été traitées de manière très différente. La Légion les laissait se gouverner elles-mêmes, tant qu'elles payaient des impôts et obéissaient au caprice de César. Beaucoup en Arizona et au Nouveau-Mexique ont trouvé que le règne de la Légion était préférable à celui des petits despotes avant l'arrivée de César, et une Pax Romana s'est installée sur les Terres Désolées. De l'eau propre, de l'électricité et un gouvernement qui n'a pas suscité de dissidence significative, voilà les caractéristiques de la civilisation de la Légion.\n\nLes deux exceptions sont les féroces Navajo, dont la sophistication rivalise avec celle de la RNC, et dont les Skin-walkers effraient les frumentarii eux-mêmes ; et Two Sun, dont les prêtres ont rendu hommage à l'autonomie."
- nf_legion.4.a:0 "La justice de César a créé une terre de paix."
+ nf_legion.4.d:0 "Sallow et Graham ont été impitoyables pendant la guerre, mais ils ont réussi à forger une société à l'est du Colorado. Les sujets tribaux sont devenus des Tabula Rasa, leur culture a été incorporée dans une Légion qui a assimilé les traits utiles et a écarté le reste. Mais les villes \"civilisées\" ont été traitées de manière très différente. La Légion les laissait se gouverner elles-mêmes, tant qu'elles payaient des impôts et obéissaient au caprice de Caesar. Beaucoup en Arizona et au Nouveau-Mexique ont trouvé que le règne de la Légion était préférable à celui des petits despotes avant l'arrivée de Caesar, et une Pax Romana s'est installée sur les Terres Désolées. De l'eau propre, de l'électricité et un gouvernement qui n'a pas suscité de dissidence significative, voilà les caractéristiques de la civilisation de la Légion.\n\nLes deux exceptions sont les féroces Navajo, dont la sophistication rivalise avec celle de la RNC, et dont les Skin-walkers effraient les frumentarii eux-mêmes ; et Two Sun, dont les prêtres ont rendu hommage à l'autonomie."
+ nf_legion.4.a:0 "La justice de Caesar a créé une terre de paix."
  nf_legion.4.b:0 "Les Tribus ont un nouveau dieu."
- nf_legion.4.c:0 "Les deux visages de César ont laissé leur marque."
+ nf_legion.4.c:0 "Les deux visages de Caesar ont laissé leur marque."
 
  nf_legion.5.t:0 "Le Légat Malpais"
- nf_legion.5.d:0 "Joshua Graham, le légat Malpais, n'a jamais vu de contradiction entre sa foi mormone et son engagement dans la Légion. Graham voyait la Légion comme un fléau pour la corruption et les péchés des Terres Désolées. Tout comme Joshua a harcelé les anciens Cananéens, il a harcelé la méchanceté et l'avidité qu'il a vues. Graham était dégoûté par la corruption perçue de son peuple et, selon certains, il envisageait de ramener la Légion chez lui pour purifier sa nation. D'autres pensaient qu'il abandonnait entièrement sa foi, vouée à la conquête et au pouvoir. Et Graham lui-même ? Seul César connaissait ses objectifs."
- nf_legion.5.a:0 "Il a fouetté les ennemis de César comme les Amalécites."
- nf_legion.5.b:0 "César et lui ont cherché la justice ensemble, à leur manière."
- legion_malpais_friend_tt:0 "§HLe Légat Malpais§! se battra pour César, et risquera sa propre vie si nécessaire."
+ nf_legion.5.d:0 "Joshua Graham, le légat Malpais, n'a jamais vu de contradiction entre sa foi mormone et son engagement dans la Légion. Graham voyait la Légion comme un fléau pour la corruption et les péchés des Terres Désolées. Tout comme Joshua a harcelé les anciens Cananéens, il a harcelé la méchanceté et l'avidité qu'il a vues. Graham était dégoûté par la corruption perçue de son peuple et, selon certains, il envisageait de ramener la Légion chez lui pour purifier sa nation. D'autres pensaient qu'il abandonnait entièrement sa foi, vouée à la conquête et au pouvoir. Et Graham lui-même ? Seul Caesar connaissait ses objectifs."
+ nf_legion.5.a:0 "Il a fouetté les ennemis de Caesar comme les Amalécites."
+ nf_legion.5.b:0 "Caesar et lui ont cherché la justice ensemble, à leur manière."
+ legion_malpais_friend_tt:0 "§HLe Légat Malpais§! se battra pour Caesar, et risquera sa propre vie si nécessaire."
  nf_legion.5.c:0 "Il a profané les temples de Two Sun pour se moquer de l'idolâtrie."
- nf_legion.5.e:0 "Les accomplissements du Légat troublent César lui-même."
- legion_stress_caesar_tt:0 "\nMême si vous aurez deux bataillons motorisés et deux bataillons frumentarii, les inquiétudes de César aggraveront sa §Rsanté§!."
+ nf_legion.5.e:0 "Les accomplissements du Légat troublent Caesar lui-même."
+ legion_stress_caesar_tt:0 "\nMême si vous aurez deux bataillons motorisés et deux bataillons frumentarii, les inquiétudes de Caesar aggraveront sa §Rsanté§!."
 
  nf_legion.6.t:0 "Le culte de Vulcain"
- nf_legion.6.d:0 "Certains étrangers prétendent que la Légion méprise la technologie avancée, mais c'est une demi-vérité. La Légion construit des centrales électriques, des fortifications complexes, et équipe ses soldats d'élite de fusils anti-matériels, de carabines de tireurs d'élite et de poings balistiques. La technologie, pour la Légion, est un bon serviteur mais un pauvre maître.\n\nLe Culte de Vulcain gère toute la technologie pour la Légion et s'assure que la technologie existe pour servir l'homme, et non l'homme pour servir la technologie.\n\nMélange de prêtres et d'ingénieurs, le Culte de Vulcain supervise les esclaves qui extraient le charbon, forgent des armes et fabriquent des munitions. Ils sont fidèles à César, mais récemment, certains ont consulté des livres non techniques d'avant-guerre et posé des questions. Et bien sûr, il y a quelques anciens esclaves qui ont servi dans le détachement de la Confrérie en Arizona, qui ne sont épargnés que pour ce qu'ils savent. "
+ nf_legion.6.d:0 "Certains étrangers prétendent que la Légion méprise la technologie avancée, mais c'est une demi-vérité. La Légion construit des centrales électriques, des fortifications complexes, et équipe ses soldats d'élite de fusils anti-matériels, de carabines de tireurs d'élite et de poings balistiques. La technologie, pour la Légion, est un bon serviteur mais un pauvre maître.\n\nLe Culte de Vulcain gère toute la technologie pour la Légion et s'assure que la technologie existe pour servir l'homme, et non l'homme pour servir la technologie.\n\nMélange de prêtres et d'ingénieurs, le Culte de Vulcain supervise les esclaves qui extraient le charbon, forgent des armes et fabriquent des munitions. Ils sont fidèles à Caesar, mais récemment, certains ont consulté des livres non techniques d'avant-guerre et posé des questions. Et bien sûr, il y a quelques anciens esclaves qui ont servi dans le détachement de la Confrérie en Arizona, qui ne sont épargnés que pour ce qu'ils savent. "
  nf_legion.6.a:0 "Ils construisent des chars pour un dieu !"
  nf_legion.6.b:0 "Les survivants de la Confrérie ont un rôle à jouer."
- nf_legion.6.c:0 "César est le grand prêtre."
+ nf_legion.6.c:0 "Caesar est le grand prêtre."
 
  nf_legion.7.t:0 "Gloria Exercitus"
- nf_legion.7.d:0 "César est le ciment de la Légion, mais il est soutenu par les plus grands dirigeants des Terres Désolées. Vulpes le rusé, le légat sanglant, Aurelius le pragmatique, la bête de l'Est, Lanius, tous servent sous ses ordres. Et bien sûr, il y a le loyal et dévoué Lucius. Tous luttent pour la faveur de César, et tentent de gagner la gloire. Et si quelque chose devait arriver au dieu... eh bien, cette gloire pourrait être utile.\n\nLa Gloire est suivie comme une Catégorie de décision, et les chefs de la Légion peuvent gagner la gloire par de grandes actions au service de la Légion."
- nf_legion.7.a:0 "Ave, fidèle à César."
+ nf_legion.7.d:0 "Caesar est le ciment de la Légion, mais il est soutenu par les plus grands dirigeants des Terres Désolées. Vulpes le rusé, le légat sanglant, Aurelius le pragmatique, la bête de l'Est, Lanius, tous servent sous ses ordres. Et bien sûr, il y a le loyal et dévoué Lucius. Tous luttent pour la faveur de Caesar, et tentent de gagner la gloire. Et si quelque chose devait arriver au dieu... eh bien, cette gloire pourrait être utile.\n\nLa Gloire est suivie comme une Catégorie de décision, et les chefs de la Légion peuvent gagner la gloire par de grandes actions au service de la Légion."
+ nf_legion.7.a:0 "Ave, fidèle à Caesar."
 
 
 
@@ -70,10 +70,10 @@
  nf_legion.11.t:0 "Test de notre Courage"
  nf_legion.11.d:0 "La bataille pour le barrage Hoover est terminée, notre puissance a été mise à l'épreuve et nos armées ont jeté dans la brèche tous les soldats dont elles disposaient. Même maintenant, sa surface brûle, la forte odeur de mort, la poudre à canon et les flammes suffisent à faire vomir même un vétéran. Des cadavres jonchent la vieille relique de guerre, témoignage d'un horrible broyeur sur lequel le Taureau et l'Ours se sont affrontés ce jour-là, mais qui a gagné cet engagement décisif ? La légion sans fin et la ruse du Taureau ont-elles réussi à gagner la journée ? Ou bien les défenses et les volées tonitruantes de l'Ours ont-elles brisé leur volonté ?"
  nf_legion.11.a:0 "L'Ours a gagné... pour l'instant"
- nf_legion.11.b:0 "Le Taureau est victorieux ! Je vous salue César !"
+ nf_legion.11.b:0 "Le Taureau est victorieux ! Je vous salue Caesar !"
 
- nf_legion.12.t:0 "César nous envoie une "requête""
- nf_legion.12.d:0 "Un messager de César est arrivé et apporte une lettre d'invitation à la Légion. Ils souhaitent nous permettre d’écraser ceux qui ont osé nous menacer et nous ont maltraité.\n\nQue devons-nous faire mon Khan ?"
+ nf_legion.12.t:0 "Caesar nous envoie une "requête""
+ nf_legion.12.d:0 "Un messager de Caesar est arrivé et apporte une lettre d'invitation à la Légion. Ils souhaitent nous permettre d’écraser ceux qui ont osé nous menacer et nous ont maltraité.\n\nQue devons-nous faire mon Khan ?"
  nf_legion.12.a:0 "Accepter son invitation"
  nf_legion.12.b:0 "Décliner. Nous n'avons pas besoin de son aide"
 
@@ -87,8 +87,8 @@
 
  vulpes_chosen: "Vulpes doit faire face aux légions orientales de Lanius"
  lanius_chosen: "Lanius défend contre une révolte de Vulpes Inculta"
- lucius_chosen: "Passer à Lucius et se révolter contre l'hypocrisie de César"
- caesar_chosen: "Restez comme César et installez la nouvelle thèse"
+ lucius_chosen: "Passer à Lucius et se révolter contre l'hypocrisie de Caesar"
+ caesar_chosen: "Restez comme Caesar et installez la nouvelle thèse"
  load_CES_crossing_party: "§Y5 unités d'infanterie d'élite saisissent Parker Strip§!"
  load_CES_crossing_party_nelson: "§Y5 unités d'infanterie d'élite saisissent Nipton§!"
  legion_had_civil_war:0 "La guerre civile de la Légion a commencé"
@@ -96,13 +96,13 @@
   #Legion Phoenix Event
  nf_legion.20.t:0 "Un Phénix se lève"
  nf_legion.20.d:0 "Phoenix a été l'une des premières grandes conquêtes de la Légion, et pour certains, elle a marqué la date à laquelle la Légion s'est transformée d'une bande de tribus en un empire. Avant la conquête de la Légion, Phoenix était peuplé de colons qui utilisaient les rivières Sila et Gila pour irriguer les champs de coton et faisaient du commerce de textiles dans le sud-ouest. Bien que de nombreux habitants de la ville aient prospéré une fois que la Légion a unifié l'Arizona et ouvert de nouveaux marchés, certains des riches de Phoenix se souviennent de l'époque où ils étaient maîtres de leur destin. Phoenix ne pourrait-il pas imiter, murmurent-ils, la République du Rio Grande ? Ne pouvaient-ils pas former une ville-État à eux seuls ?\n\nQu'ils sont fous, ils ne savent pas que les frumentarii sont au courant de leurs plans."
- nf_legion.20.a:0 "César trouvera cela intéressant..."
+ nf_legion.20.a:0 "Caesar trouvera cela intéressant..."
  nf_legion.20.a_tt:0 "\nLa Légion se préparera à faire face à ces rebelles."
 
 
   #Dealing with Rebels
  nf_legion.21.t:0 "Éteindre Phoenix"
- nf_legion.21.d:0 "César et son conseil ont convenu que les rebelles de Phoenix doivent être écrasés, de peur qu'ils ne mettent en danger le coton, les agrumes et le cuivre de la Légion, mais ils ne sont pas d'accord sur la manière de le traiter.\n\nLa proposition de Lucius est la plus simple. Pourquoi ne pas simplement tuer quelques meneurs, confisquer leurs biens, puis réduire les impôts des pauvres de Phoenix ? Cela leur rappellera que le Grand César est dur mais juste. Certains chuchotent que c'est un signe que Lucius se ramollit, mais César sait qu'un char est meilleur avec des moteurs, de la peur et de l'amour.\n\nLe plan de Vulpes est d'attirer les chefs rebelles à une réunion avec des agents qui prétendront travailler avec les Rangers du Désert, puis de les crucifier le long des rives de la rivière Gila.\n\nMais Aurelius a le plan le plus sournois, et certains le plus dur, de tous. Aurelius propose d'armer les rebelles avec des munitions défectueuses, et de les encourager à se révolter. Les rebelles ne le sauront que lorsqu'il sera trop tard, et seront mûrs pour la prise. Une fois Phoenix reconquise, la Légion pourra briser la ville une fois pour toutes.\n\nOr César peut toujours écouter le légat Malpais, qui propose de crucifier un citoyen de Phoenix sur cent à titre d'exemple."
+ nf_legion.21.d:0 "Caesar et son conseil ont convenu que les rebelles de Phoenix doivent être écrasés, de peur qu'ils ne mettent en danger le coton, les agrumes et le cuivre de la Légion, mais ils ne sont pas d'accord sur la manière de le traiter.\n\nLa proposition de Lucius est la plus simple. Pourquoi ne pas simplement tuer quelques meneurs, confisquer leurs biens, puis réduire les impôts des pauvres de Phoenix ? Cela leur rappellera que le Grand Caesar est dur mais juste. Certains chuchotent que c'est un signe que Lucius se ramollit, mais Caesar sait qu'un char est meilleur avec des moteurs, de la peur et de l'amour.\n\nLe plan de Vulpes est d'attirer les chefs rebelles à une réunion avec des agents qui prétendront travailler avec les Rangers du Désert, puis de les crucifier le long des rives de la rivière Gila.\n\nMais Aurelius a le plan le plus sournois, et certains le plus dur, de tous. Aurelius propose d'armer les rebelles avec des munitions défectueuses, et de les encourager à se révolter. Les rebelles ne le sauront que lorsqu'il sera trop tard, et seront mûrs pour la prise. Une fois Phoenix reconquise, la Légion pourra briser la ville une fois pour toutes.\n\nOr Caesar peut toujours écouter le légat Malpais, qui propose de crucifier un citoyen de Phoenix sur cent à titre d'exemple."
  nf_legion.21.a:0 "Lucius nous a toujours bien servi."
  nf_legion.21.b:0 "Les Frumentarii sont parfaits pour cela."
  nf_legion.21.c:0 "Quel complot astucieux !"
@@ -110,14 +110,14 @@
 
   ###### Lucius Crushes Phoenix
  nf_legion.22.t:0 "Le meilleur médicament vient avec le miel"
- nf_legion.22.d:0 "Le puissant César a exécuté les meneurs du complot du Phoenix, mais il n'est pas un despote. Reconnaissant que le peuple du Phoenix aime son César et qu'il a été opprimé par de cruels despotes, il a donné une partie de ses biens aux pauvres. Le Phoenix est maintenant calme et son peuple respire librement. Cela montre que Lucius n'est pas tape-à-l'œil, mais qu'il est fiable et qu'il fera son travail."
- nf_legion.22.a:0 "Louons César !"
+ nf_legion.22.d:0 "Le puissant Caesar a exécuté les meneurs du complot du Phoenix, mais il n'est pas un despote. Reconnaissant que le peuple du Phoenix aime son Caesar et qu'il a été opprimé par de cruels despotes, il a donné une partie de ses biens aux pauvres. Le Phoenix est maintenant calme et son peuple respire librement. Cela montre que Lucius n'est pas tape-à-l'œil, mais qu'il est fiable et qu'il fera son travail."
+ nf_legion.22.a:0 "Louons Caesar !"
  phx_doused:0 "Phoenix a été dompté"
 
   ###### Vulpes Crushes Phoenix
  nf_legion.23.t:0 "Pourquoi se sont-ils donné la peine"
- nf_legion.23.d:0 "Ce matin, Phoenix s'est réveillé avec un nouveau jeu de crucifix sur sa place publique, alors que les chefs du complot Phoenix s'étendaient sur la place de la ville. Avec leur famille. Leurs enfants, au moins, ont été épargnés ; leurs fils ont été envoyés à la caserne de la Légion, et leurs filles aux marchés d'esclaves de Flagstaff.\n\nEt les habitants de Phoenix ont appris une précieuse leçon sur les raisons de ne pas s'opposer à César."
- nf_legion.23.a:0 "Louons César !"
+ nf_legion.23.d:0 "Ce matin, Phoenix s'est réveillé avec un nouveau jeu de crucifix sur sa place publique, alors que les chefs du complot Phoenix s'étendaient sur la place de la ville. Avec leur famille. Leurs enfants, au moins, ont été épargnés ; leurs fils ont été envoyés à la caserne de la Légion, et leurs filles aux marchés d'esclaves de Flagstaff.\n\nEt les habitants de Phoenix ont appris une précieuse leçon sur les raisons de ne pas s'opposer à Caesar."
+ nf_legion.23.a:0 "Louons Caesar !"
 
 
   ###### Aurelius Shines
@@ -127,23 +127,23 @@
 
   ###### Malpais Kills Everyone
  nf_legion.25.t:0 "Malheur aux pécheurs"
- nf_legion.25.d:0 "Les dirigeants de Phoenix se sont gavés de Brahmine et ont bu du café mexicain pendant que leurs voisins mouraient de faim. Ils s'habillaient de soie Aztláni et de bijoux Navajo. Mais pleurez et gémissez, vous les riches, à cause de la misère qui s'abat sur vous. Vos richesses ont pourri, et les mites ont mangé vos vêtements. Votre or et votre argent sont corrodés. Leur corrosion témoignera contre vous et dévorera votre chair comme du feu. Vous avez amassé des richesses dans les derniers jours. Regardez ! Les salaires que vous n'avez pas payés aux ouvriers qui ont fauché vos champs crient contre vous. Les cris des moissonneurs sont parvenus aux oreilles de l'Éternel, et César vient nettoyer votre ville avec une colonne de feu."
+ nf_legion.25.d:0 "Les dirigeants de Phoenix se sont gavés de Brahmine et ont bu du café mexicain pendant que leurs voisins mouraient de faim. Ils s'habillaient de soie Aztláni et de bijoux Navajo. Mais pleurez et gémissez, vous les riches, à cause de la misère qui s'abat sur vous. Vos richesses ont pourri, et les mites ont mangé vos vêtements. Votre or et votre argent sont corrodés. Leur corrosion témoignera contre vous et dévorera votre chair comme du feu. Vous avez amassé des richesses dans les derniers jours. Regardez ! Les salaires que vous n'avez pas payés aux ouvriers qui ont fauché vos champs crient contre vous. Les cris des moissonneurs sont parvenus aux oreilles de l'Éternel, et Caesar vient nettoyer votre ville avec une colonne de feu."
  nf_legion.25.a:0 "Cela ne se passera pas bien."
 
   ###### Caesar Sick
  nf_legion.26.t:0 "Et Tumour, Brute ?"
- nf_legion.26.d:0 "Quelque chose ne va pas avec le Grand César ces derniers temps. Il ne l'a pas mentionné, mais certains de ses collaborateurs l'ont vu se tenir la tête, comme s'il souffrait, oublier certains détails clés et, d'une certaine manière, donner l'impression qu'il n'est plus aussi SPÉCIAL qu'il l'était.\n\nBien que la Légion désapprouve la médecine, une exception pourrait peut-être être faite pour César. Mais où trouverions-nous la capacité de guérir une telle maladie ?"
+ nf_legion.26.d:0 "Quelque chose ne va pas avec le Grand Caesar ces derniers temps. Il ne l'a pas mentionné, mais certains de ses collaborateurs l'ont vu se tenir la tête, comme s'il souffrait, oublier certains détails clés et, d'une certaine manière, donner l'impression qu'il n'est plus aussi SPÉCIAL qu'il l'était.\n\nBien que la Légion désapprouve la médecine, une exception pourrait peut-être être faite pour Caesar. Mais où trouverions-nous la capacité de guérir une telle maladie ?"
  nf_legion.26.a:0 "Ce n'est probablement rien. N'est-ce pas ?"
- nf_legion.26.a_tt:0 "Le puissant César souffrira du §Rstress§! plus il s'efforcera. Cependant, un centre de technologie et d'apprentissage peut contenir un moyen de le guérir. Mais où trouverons-nous un tel outil ?\n\nNotez que le §Rstress§! n'est pas visible pour vous... alors souvenez-vous, Sic Transit Gloria Mundi."
+ nf_legion.26.a_tt:0 "Le puissant Caesar souffrira du §Rstress§! plus il s'efforcera. Cependant, un centre de technologie et d'apprentissage peut contenir un moyen de le guérir. Mais où trouverons-nous un tel outil ?\n\nNotez que le §Rstress§! n'est pas visible pour vous... alors souvenez-vous, Sic Transit Gloria Mundi."
 
   ###### What Makes a Legion
  nf_legion.27.t:0 "Ce qui fait une Légion"
- nf_legion.27.d:0 "\"Ma Légion m'obéit, même jusqu'à la mort. Pourquoi ? Parce qu'ils vivent pour servir le bien commun, et qu'ils ne connaissent pas d'autre alternative\".\n\nLa Légion est considérée par certains comme un empire despotique, par d'autres comme un groupe de guerre primitif. C'est les deux et aucun des deux. La Légion est maintenue par l'entraînement de César, dérivé de la tradition de la Rome antique. La Légion comprend des enfants soldats élevés dès la naissance dans ses enseignements, des tribus enrôlées dans la Légion, des frumentarii qui servent César au-delà de ses frontières, et même des mercenaires des terres incultes. La Légion pratique la guerre totale à une échelle jamais vue depuis la Grande Guerre. Elle ne tue pas pour le plaisir. Elle tue dans un but précis. Elle asservit non pas pour son confort personnel. Elle asservit parce que les mines du Nouveau-Mexique ont besoin de nouveaux esclaves, parce que les champs de coton de l'Arizona ont besoin de nouvelles mains ou parce que les marchés de Vault City ont besoin de nouveaux serviteurs. Tout ce que fait la Légion est consacré au grand projet de César. Et il est le seul à pouvoir le diriger. Pour l'instant."
+ nf_legion.27.d:0 "\"Ma Légion m'obéit, même jusqu'à la mort. Pourquoi ? Parce qu'ils vivent pour servir le bien commun, et qu'ils ne connaissent pas d'autre alternative\".\n\nLa Légion est considérée par certains comme un empire despotique, par d'autres comme un groupe de guerre primitif. C'est les deux et aucun des deux. La Légion est maintenue par l'entraînement de Caesar, dérivé de la tradition de la Rome antique. La Légion comprend des enfants soldats élevés dès la naissance dans ses enseignements, des tribus enrôlées dans la Légion, des frumentarii qui servent Caesar au-delà de ses frontières, et même des mercenaires des terres incultes. La Légion pratique la guerre totale à une échelle jamais vue depuis la Grande Guerre. Elle ne tue pas pour le plaisir. Elle tue dans un but précis. Elle asservit non pas pour son confort personnel. Elle asservit parce que les mines du Nouveau-Mexique ont besoin de nouveaux esclaves, parce que les champs de coton de l'Arizona ont besoin de nouvelles mains ou parce que les marchés de Vault City ont besoin de nouveaux serviteurs. Tout ce que fait la Légion est consacré au grand projet de Caesar. Et il est le seul à pouvoir le diriger. Pour l'instant."
  nf_legion.27.a:0 "Ave !"
 
     ###### Worthy Few
  nf_legion.28.t:0 "Les personnes les plus méritantes"
- nf_legion.28.d:0 "La Légion s'est répandue dans le sud-ouest comme une flamme dévorante. Le puissant César conquiert les peuples du désert, il les dépouille de leur identité tribale et transforme leurs jeunes hommes en légionnaires impitoyables et leurs femmes en reproductrices. Contrairement aux pillards de l'Est, les légionnaires de César ne ressemblent pas à des troupes irrégulières et désordonnées. Ils sont bien organisés, se déplacent et attaquent en grandes meutes, et commettent délibérément des atrocités pour terroriser ceux qui pourraient oser s'opposer à eux. Il est vrai que César est l'homme parfait. Mais ce n'est pas seulement un homme : c'est le fils de Mars, ordonné par le dieu de la guerre pour conquérir toute la Terre. Pour préparer le chemin, Mars a rasé la Terre, l'a nettoyée par le feu et a fait tomber les faibles et les méchants ; et maintenant son fils est venu pour délivrer les Terres Désolées du chaos et de la barbarie.\n\nSuivre César, c'est obéir à la volonté de Mars ; désobéir, c'est se condamner à la mort. Mais il y a une faiblesse potentielle. La Légion peut trop compter sur les légionnaires vétérans pour la direction et le leadership, et un ennemi habile pourrait exploiter cette faiblesse en tuant de loin le meilleur de lui-même."
+ nf_legion.28.d:0 "La Légion s'est répandue dans le sud-ouest comme une flamme dévorante. Le puissant Caesar conquiert les peuples du désert, il les dépouille de leur identité tribale et transforme leurs jeunes hommes en légionnaires impitoyables et leurs femmes en reproductrices. Contrairement aux pillards de l'Est, les légionnaires de Caesar ne ressemblent pas à des troupes irrégulières et désordonnées. Ils sont bien organisés, se déplacent et attaquent en grandes meutes, et commettent délibérément des atrocités pour terroriser ceux qui pourraient oser s'opposer à eux. Il est vrai que Caesar est l'homme parfait. Mais ce n'est pas seulement un homme : c'est le fils de Mars, ordonné par le dieu de la guerre pour conquérir toute la Terre. Pour préparer le chemin, Mars a rasé la Terre, l'a nettoyée par le feu et a fait tomber les faibles et les méchants ; et maintenant son fils est venu pour délivrer les Terres Désolées du chaos et de la barbarie.\n\nSuivre Caesar, c'est obéir à la volonté de Mars ; désobéir, c'est se condamner à la mort. Mais il y a une faiblesse potentielle. La Légion peut trop compter sur les légionnaires vétérans pour la direction et le leadership, et un ennemi habile pourrait exploiter cette faiblesse en tuant de loin le meilleur de lui-même."
  nf_legion.28.a:0 "Ce serait vraiment lâche."
 
    ###### Phoenix
@@ -156,22 +156,22 @@
 
     ###### Navajo Scheme
  nf_legion.30.t:0 "Traiter avec les Na-Dené"
- nf_legion.30.d:0 "Les méthodes de [NAV.GetName] se heurtent à une grande partie des enseignements de la Légion. Les skinwalkers navajos se heurtent aux Frumentarii, car leur dépendance aux pip boys, aux stimpaks et aux équipements furtifs contraste fortement avec le mépris de la Légion pour les machines et la médecine. De plus, les Navajos interdisent la traite des esclaves et servent de tampon entre la Légion et les tribus du nord. [CES.GetLeader] a élaboré un nouveau plan pour apaiser les eaux troubles des Navajos en envoyant un émissaire.\n\nLe prétorien Lucius a proposé d'aller au nord avec des cadeaux de coton mexicain et d'argent du Nouveau Mexique, en promettant à César de continuer à respecter les Navajos. Le légat de Malpais ferait simplement marcher une cohorte vers le nord jusqu'à [NAV.Capital.GetName]."
- nf_legion.30.de:0 "Les méthodes de [NAV.GetName] se heurtent à une grande partie des enseignements de la Légion. Les skinwalkers navajos se heurtent aux Frumentarii, car leur dépendance aux pip boys, aux stimpaks et aux équipements furtifs contraste fortement avec le mépris de la Légion pour les machines et la médecine. De plus, les Navajos interdisent la traite des esclaves et servent de tampon entre la Légion et les tribus du nord. [CES.GetLeader] a élaboré un nouveau plan pour apaiser les eaux troubles des Navajos en envoyant un émissaire.\n\nLe prétorien Lucius a proposé d'aller au nord avec des cadeaux de coton mexicain et d'argent du Nouveau Mexique, en promettant à César de continuer à respecter les Navajos."
+ nf_legion.30.d:0 "Les méthodes de [NAV.GetName] se heurtent à une grande partie des enseignements de la Légion. Les skinwalkers navajos se heurtent aux Frumentarii, car leur dépendance aux pip boys, aux stimpaks et aux équipements furtifs contraste fortement avec le mépris de la Légion pour les machines et la médecine. De plus, les Navajos interdisent la traite des esclaves et servent de tampon entre la Légion et les tribus du nord. [CES.GetLeader] a élaboré un nouveau plan pour apaiser les eaux troubles des Navajos en envoyant un émissaire.\n\nLe prétorien Lucius a proposé d'aller au nord avec des cadeaux de coton mexicain et d'argent du Nouveau Mexique, en promettant à Caesar de continuer à respecter les Navajos. Le légat de Malpais ferait simplement marcher une cohorte vers le nord jusqu'à [NAV.Capital.GetName]."
+ nf_legion.30.de:0 "Les méthodes de [NAV.GetName] se heurtent à une grande partie des enseignements de la Légion. Les skinwalkers navajos se heurtent aux Frumentarii, car leur dépendance aux pip boys, aux stimpaks et aux équipements furtifs contraste fortement avec le mépris de la Légion pour les machines et la médecine. De plus, les Navajos interdisent la traite des esclaves et servent de tampon entre la Légion et les tribus du nord. [CES.GetLeader] a élaboré un nouveau plan pour apaiser les eaux troubles des Navajos en envoyant un émissaire.\n\nLe prétorien Lucius a proposé d'aller au nord avec des cadeaux de coton mexicain et d'argent du Nouveau Mexique, en promettant à Caesar de continuer à respecter les Navajos."
  nf_legion.30.a:0 "Que la paix soit avec vous."
  nf_legion.30.b:0 "La peur les maintiendra dans le rang."
 
 
   ###### Southern Capital
  nf_legion.31.t:0 "Une capitale du Sud ?"
- nf_legion.31.d:0 "Si Flagstaff a été la première véritable ville conquise par César, nul ne peut nier qu'elle est très éloignée du cœur de son Empire, reposant en dehors des routes commerciales traditionnelles et étant enfermée dans un territoire accidenté et largement non viable. Avec le développement récent et la croissance de Phoenix qui y a déplacé la plus grande partie de la puissance économique et militaire de la Légion, César débat... doit-il déplacer la capitale ? Cela servirait aussi à rappeler fermement à la population de la ville que la Légion est là pour rester. Alors qu'Aurelius souhaite déplacer la capitale pour soutenir le développement de la région et pousser vers le sud, Lucius soutient que Flagstaff est le cœur et l'âme de la Légion."
+ nf_legion.31.d:0 "Si Flagstaff a été la première véritable ville conquise par Caesar, nul ne peut nier qu'elle est très éloignée du cœur de son Empire, reposant en dehors des routes commerciales traditionnelles et étant enfermée dans un territoire accidenté et largement non viable. Avec le développement récent et la croissance de Phoenix qui y a déplacé la plus grande partie de la puissance économique et militaire de la Légion, Caesar débat... doit-il déplacer la capitale ? Cela servirait aussi à rappeler fermement à la population de la ville que la Légion est là pour rester. Alors qu'Aurelius souhaite déplacer la capitale pour soutenir le développement de la région et pousser vers le sud, Lucius soutient que Flagstaff est le cœur et l'âme de la Légion."
  nf_legion.31.a:0 "Phoenix est notre nouvelle maison."
  nf_legion.31.b:0 "Si nous déplaçons la capitale, ce sera vers l'ouest."
  nf_legion.aurelius_glory:0 "\nAurelius gagne de la §Mgloire !§!\n"
 
   ###### Two Sun
  nf_legion.32.t:0 "Besoin d'un miracle"
- nf_legion.32.d:0 "[CES.GetLeader] a appris que les prêtres de Two-Sun ont refusé de verser un tribu en le conservant dans leurs temples, appelés \"Garages\". Malpais souhaite saisir ce tribut pour César, mais Vulpes craint que cela ne provoque des troubles et de la colère chez les fidèles de Two Sun. Et César ne dit-il pas toujours : \"Contrôlez les pièces, contrôlez les tribunaux, et laissez la populace avoir le reste ?\"\n\nUne course est en cours. Malpais marche avec une colonne pour prendre d'assaut les temples de Two Sun, tandis que Malpais a l'intention d'offrir aux prêtres un marché dans lequel ils présenteront leur hommage comme un \"cadeau\" à la Légion."
+ nf_legion.32.d:0 "[CES.GetLeader] a appris que les prêtres de Two-Sun ont refusé de verser un tribu en le conservant dans leurs temples, appelés \"Garages\". Malpais souhaite saisir ce tribut pour Caesar, mais Vulpes craint que cela ne provoque des troubles et de la colère chez les fidèles de Two Sun. Et Caesar ne dit-il pas toujours : \"Contrôlez les pièces, contrôlez les tribunaux, et laissez la populace avoir le reste ?\"\n\nUne course est en cours. Malpais marche avec une colonne pour prendre d'assaut les temples de Two Sun, tandis que Malpais a l'intention d'offrir aux prêtres un marché dans lequel ils présenteront leur hommage comme un \"cadeau\" à la Légion."
  nf_legion.32.a:0 "Vulpes explique les bienfaits d'une révélation divine."
  nf_legion.32.a_tt:0 "Dans un rêve prophétique, le grand prêtre de Cannonball a appris que leur dieu souhaite que la moitié de leur tribut aille à la Légion."
  nf_legion.32.b:0 "Et faisant un fouet de cordes, il les chassa tous du temple."
@@ -200,7 +200,7 @@
  nf_legion.36.t:0 "La Renovatio de Flagstaff"
  nf_legion.36.d:0 "Flagstaff a prospéré sous la Légion, mais on pourrait faire encore plus. [CES.GetLeader] a entendu une pétition des commerçants de la ville. Il y a eu des combats entre les marchands pour l'accès aux forêts de pins de Flagstaff, et en publiant des décrets pour permettre une exploitation ordonnée, nous pouvons préserver les arbres et promouvoir le développement. L'industrie du bois peut être à la base du travail des métaux et de produits simples, tels que les planeurs ou les équipements d'infanterie.\n\nMais Vulpes souhaite envoyer une cohorte pour dépouiller l'observatoire Lowell et l'ancienne université. Les marchands paieraient cher pour ces secrets..."
  nf_legion.36.a:0 "Dictons les lois de la Silva."
- nf_legion.36.b:0 "L'observatoire permettra à César de voir clair."
+ nf_legion.36.b:0 "L'observatoire permettra à Caesar de voir clair."
 
   ###### Forestry
  nf_legion.37.t:0 "Les lois de la Silva"
@@ -236,15 +236,15 @@
 
 
   ###### Bribe them!
- nf_legion.43.t:0 "Les yeux de César"
- nf_legion.43.d:0 "[GDH.GetLeader], César a envoyé des agents pour nous espionner ! Il semble penser que nos distilleries et nos repaires de drogués sont la source de la tequila fumée et rafraîchissante et du café bon marché qui se fraient un chemin dans la Légion. Que ferons-nous à ce sujet ?"
+ nf_legion.43.t:0 "Les yeux de Caesar"
+ nf_legion.43.d:0 "[GDH.GetLeader], Caesar a envoyé des agents pour nous espionner ! Il semble penser que nos distilleries et nos repaires de drogués sont la source de la tequila fumée et rafraîchissante et du café bon marché qui se fraient un chemin dans la Légion. Que ferons-nous à ce sujet ?"
  nf_legion.43.a:0 "Il semble que j'ai fait tomber quelques capsules sur le sol."
  nf_legion.43.b:0 "La perfidie de [RRG.GetLeader] ne connaît pas de limites !"
 
   ###### Legion Roots Out the Problem
- nf_legion.44.t:0 "Les yeux de César"
+ nf_legion.44.t:0 "Les yeux de Caesar"
  nf_legion.44.d:0 "[GDH.GetLeader] a coopéré à notre enquête, et Vulpes a démontré à quel point nos préoccupations étaient stupides. Non, El Generalissimo est peut-être un prodigue, mais il est notre prodigue."
- nf_legion.44.a:0 "Fidèle à César !"
+ nf_legion.44.a:0 "Fidèle à Caesar !"
 
 
   ###### GDH Gets Slaves
@@ -260,15 +260,15 @@
 
 ######################## Civil War####
  nf_legion.70.t:0 "Même un Dieu peut mourir"
- nf_legion.70.d:0 "César est monté aux cieux pour rejoindre Mars. La Légion organisera des funérailles pendant une semaine, avec des jeux et des offrandes au dieu qui a sauvé les Terres Désolées. Mais l'élite de la Légion ne vient pas pour louer César, mais pour l'enterrer. Car ils se regardent les uns les autres avec du poison dans la bouche et des poignards dans le dos. Qui va diriger la Légion maintenant ?"
+ nf_legion.70.d:0 "Caesar est monté aux cieux pour rejoindre Mars. La Légion organisera des funérailles pendant une semaine, avec des jeux et des offrandes au dieu qui a sauvé les Terres Désolées. Mais l'élite de la Légion ne vient pas pour louer Caesar, mais pour l'enterrer. Car ils se regardent les uns les autres avec du poison dans la bouche et des poignards dans le dos. Qui va diriger la Légion maintenant ?"
  nf_legion.70.a:0 "Les Terres Désolées retiennent leur souffle."
 
  nf_legion.71.t:0 "Même un Dieu peut mourir"
- nf_legion.71.d:0 "César est monté aux cieux pour rejoindre Mars. La Légion organisera des funérailles pendant une semaine, avec des jeux et des offrandes au dieu qui a sauvé les Terres Désolées. Mais l'élite de la Légion ne vient pas pour louer César, mais pour l'enterrer. Car ils se regardent les uns les autres avec du poison dans la bouche et des poignards dans le dos. Qui va diriger la Légion maintenant ?"
+ nf_legion.71.d:0 "Caesar est monté aux cieux pour rejoindre Mars. La Légion organisera des funérailles pendant une semaine, avec des jeux et des offrandes au dieu qui a sauvé les Terres Désolées. Mais l'élite de la Légion ne vient pas pour louer Caesar, mais pour l'enterrer. Car ils se regardent les uns les autres avec du poison dans la bouche et des poignards dans le dos. Qui va diriger la Légion maintenant ?"
  nf_legion.71.a:0 "Les Terres Désolées retiennent leur souffle"
 
  nf_legion.72.t:0 "Aurelius fait son mouvement !"
- nf_legion.72.d:0 "Aurelius est un géant de la Légion, et a gagné le respect lors de son arrivée au Mexique.  Avec la mort du Grand César, il a atteint la pourpre et croit que l'avenir de la Légion se trouve au Mexique, et non dans les Terres Désolées de l'Utah. Nous devrons l'écraser lui aussi."
+ nf_legion.72.d:0 "Aurelius est un géant de la Légion, et a gagné le respect lors de son arrivée au Mexique.  Avec la mort du Grand Caesar, il a atteint la pourpre et croit que l'avenir de la Légion se trouve au Mexique, et non dans les Terres Désolées de l'Utah. Nous devrons l'écraser lui aussi."
  nf_legion.72.a:0 "Plus ils sont gros, plus ils tombent difficilement."
 
 
@@ -277,40 +277,40 @@
  nf_legion.73.a:0 "Un loup sans meute n'est pas une menace."
 
  nf_legion.74.t:0 "Le légat Malpais se révolte !"
- nf_legion.74.d:0 "Le légat Malpais prétend qu'il était le second de César, et que le contrôle de la Légion devait donc lui revenir. Il a rassemblé les vétérans de ses campagnes sanglantes dans l'est et a maintenant l'intention de marcher sur Flagstaff."
+ nf_legion.74.d:0 "Le légat Malpais prétend qu'il était le second de Caesar, et que le contrôle de la Légion devait donc lui revenir. Il a rassemblé les vétérans de ses campagnes sanglantes dans l'est et a maintenant l'intention de marcher sur Flagstaff."
  nf_legion.74.a:0 "Nous allons jeter son corps brûlant dans le Grand Canyon !"
 
  nf_legion.75.t:0 "Lucius rassemble les Loyalistes !"
- nf_legion.75.d:0 "Le prétorien Lucius a été l'un des gardes et des commandants de César pendant la conquête du Nouveau-Mexique, et à la mort de César, il refuse de plier le genou. Lucius est dévoué aux objectifs de César et à la \"synthèse\", telle qu'il l'entend. C'est un fervent loyaliste des anciennes méthodes et il rejette tout discours de réforme ou de changement."
+ nf_legion.75.d:0 "Le prétorien Lucius a été l'un des gardes et des commandants de Caesar pendant la conquête du Nouveau-Mexique, et à la mort de Caesar, il refuse de plier le genou. Lucius est dévoué aux objectifs de Caesar et à la \"synthèse\", telle qu'il l'entend. C'est un fervent loyaliste des anciennes méthodes et il rejette tout discours de réforme ou de changement."
  nf_legion.75.a:0 "Les vieilles méthodes pour un vieil homme."
 
 ##### Lucius Prevails
  nf_legion.76.t:0 "Au plus fort !"
- nf_legion.76.d:0 "César est mort, mais la Légion vit. Lucius n'a aucun rival à la tête de la Légion en raison de ses prouesses au combat et de ses liens avec les Skin-walkers des Navajos. Il finira ce que le dieu a commencé."
- nf_legion.76.a:0 "César nous a rendus meilleurs que ce que nous étions."
+ nf_legion.76.d:0 "Caesar est mort, mais la Légion vit. Lucius n'a aucun rival à la tête de la Légion en raison de ses prouesses au combat et de ses liens avec les Skin-walkers des Navajos. Il finira ce que le dieu a commencé."
+ nf_legion.76.a:0 "Caesar nous a rendus meilleurs que ce que nous étions."
 ##### Vulpes Prevails
 
 
   ##### Vulpes Prevails
  nf_legion.77.t:0 "Au plus fort !"
- nf_legion.77.d:0 "César est mort, mais la Légion vit.  Vulpes Inculta est assis sur le trône de César, sans opposition de la part d'aucun des chefs de guerre de la Légion. Tout signe de dissidence n'est qu'un murmure dans le vent... entendu par les frumentarii, et traité en conséquence."
+ nf_legion.77.d:0 "Caesar est mort, mais la Légion vit.  Vulpes Inculta est assis sur le trône de Caesar, sans opposition de la part d'aucun des chefs de guerre de la Légion. Tout signe de dissidence n'est qu'un murmure dans le vent... entendu par les frumentarii, et traité en conséquence."
  nf_legion.77.a:0 "A un homme aussi rusé que le renard."
 
   ##### Vulpes Prevails
  nf_legion.78.t:0 "L'homme qui brûle"
- nf_legion.78.d:0 "Le légat de Malpais a repris la légion, sans aucune dissidence. La mort de César est le signe de Dieu que sa tolérance pour l'idolâtrie a des limites, mais son succès est un rappel des péchés des Terres Désolées. Le feu en lui brûle plus fort que les feux autour de lui, car les villes, les caravanes de marchands, les pilleurs et tous font face à la flamme. Sous Malpais, la Légion deviendra un outil pour châtier les méchants, une armée vengeresse du Seigneur. Et malheur aux méchants qui se dressent sur son chemin."
+ nf_legion.78.d:0 "Le légat de Malpais a repris la légion, sans aucune dissidence. La mort de Caesar est le signe de Dieu que sa tolérance pour l'idolâtrie a des limites, mais son succès est un rappel des péchés des Terres Désolées. Le feu en lui brûle plus fort que les feux autour de lui, car les villes, les caravanes de marchands, les pilleurs et tous font face à la flamme. Sous Malpais, la Légion deviendra un outil pour châtier les méchants, une armée vengeresse du Seigneur. Et malheur aux méchants qui se dressent sur son chemin."
  nf_legion.78.a:0 "Dieu connaîtra les siens."
 
   ### Sickness.
 
  nf_legion.79.t:0 "Même un Dieu peut mourir"
- nf_legion.79.d:0 "La santé de César n'a cessé de se dégrader ! Ces derniers temps, il a été moins actif et son visage vigoureux semble plus mince et plus pâle que la normale. Ce n'est probablement rien, n'est-ce pas ?"
+ nf_legion.79.d:0 "La santé de Caesar n'a cessé de se dégrader ! Ces derniers temps, il a été moins actif et son visage vigoureux semble plus mince et plus pâle que la normale. Ce n'est probablement rien, n'est-ce pas ?"
  nf_legion.79.a:0 "Il ira bien."
 
     ### Who Wears the Crown
  nf_legion.80.t:0 "Le Destin de la Légion"
- nf_legion.80.d:0 "Si quelqu'un vénère César, César est mort. Si quelqu'un suit ses préceptes, la Légion est vivante et immortelle.\n\nMais qui va diriger la Légion maintenant ? Le Renard, le Prétorien, le Phénix et la Bête se battent tous pour la couronne. Parce que la guerre, la guerre ne change jamais."
- nf_legion.80.a:0 "Lucius suivra les traces de César."
+ nf_legion.80.d:0 "Si quelqu'un vénère Caesar, Caesar est mort. Si quelqu'un suit ses préceptes, la Légion est vivante et immortelle.\n\nMais qui va diriger la Légion maintenant ? Le Renard, le Prétorien, le Phénix et la Bête se battent tous pour la couronne. Parce que la guerre, la guerre ne change jamais."
+ nf_legion.80.a:0 "Lucius suivra les traces de Caesar."
  nf_legion.80.b:0 "Vulpes est rusé comme un renard."
  nf_legion.80.c:0 "Nous sortirons des flammes sous Aurélien."
  nf_legion.80.e:0 "Le légat Malpais prévaut !"
@@ -324,21 +324,21 @@
 
   #### Legion Civil War!
  nf_legion.82.t:0 "Les Successeurs"
- nf_legion.82.d:0 "Peut-être était-il inévitable que la guerre éclate après la mort de César. L'homme qui a rassemblé les quatre-vingt-cinq tribus, qui a conquis le Sud-Ouest, ne pouvait être remplacé par aucun de ses partisans. Chacun d'entre eux voyait une facette de César dans leur leadership. Et ils n'auraient de cesse que les autres ne soient morts."
+ nf_legion.82.d:0 "Peut-être était-il inévitable que la guerre éclate après la mort de Caesar. L'homme qui a rassemblé les quatre-vingt-cinq tribus, qui a conquis le Sud-Ouest, ne pouvait être remplacé par aucun de ses partisans. Chacun d'entre eux voyait une facette de Caesar dans leur leadership. Et ils n'auraient de cesse que les autres ne soient morts."
  nf_legion.82.a:0 "Aurelius domine le terrain."
  nf_legion.82.b:0 "Les Frumentarii dirigent la Légion."
- nf_legion.82.c:0 "Lucius reste fidèle à César."
+ nf_legion.82.c:0 "Lucius reste fidèle à Caesar."
  nf_legion.82.e:0 "Le légat Malpais sait comment crucifier."
  nf_legion.82.f:9 "§RLe plus grand des commandants pour la plus grande guerre.§!"
  nf_legion.82.g:9 "§GLe légat des goules sort de l'ombre...§!"
  CES_civil_war:0 "La Guerre Civile !"
   ### White legs Upgrade
  nf_legion.83.t:0 "Les leçons d'Ulysse"
- nf_legion.83.d:0 "Ulysse nous a appris à utiliser les tambours d'orage, les \"compagnies de mitrailleuses\" et les \"mortiers\". Il est clair que César doit être un puissant sorcier pour avoir de tels sorts à sa disposition, et en rejoignant la Légion, nous apprendrons de tels tours de magie par nous-mêmes. Avec ces outils, nous écraserons les Cananéens et balaierons l'Utah ! Et peut-être qu'avec le temps, nous apprendrons quelques sorts de notre cru, à garder en réserve si jamais le collier de la Légion devenait trop serré."
+ nf_legion.83.d:0 "Ulysse nous a appris à utiliser les tambours d'orage, les \"compagnies de mitrailleuses\" et les \"mortiers\". Il est clair que Caesar doit être un puissant sorcier pour avoir de tels sorts à sa disposition, et en rejoignant la Légion, nous apprendrons de tels tours de magie par nous-mêmes. Avec ces outils, nous écraserons les Cananéens et balaierons l'Utah ! Et peut-être qu'avec le temps, nous apprendrons quelques sorts de notre cru, à garder en réserve si jamais le collier de la Légion devenait trop serré."
  nf_legion.83.a:0 "Une telle sagesse."
 
   ### Eighties Puppet
- nf_legion.84.t:0 "Cadeaux pour César"
+ nf_legion.84.t:0 "Cadeaux pour Caesar"
  nf_legion.84.d:0 "[EHT.GetLeader] a conquis l'Utah grâce à sa Thunderbird, mais il ne peut pas gouverner à partir d'une seule. [CES.GetName] a envoyé des conseillers pour aider à gouverner la terre, compétents dans l'art de briser le joug d'un peuple. Avec leur aide, tout l'Utah deviendra un passager pour les années Eighties."
  nf_legion.84.a:0 "Nous allons regagner Sac City."
 
@@ -347,7 +347,7 @@
 
   ### Caesar's Ponderings
  nf_legion.85.t:0 "Les guerres en Arizona"
- nf_legion.85.d:0 "La décision de César de rédiger un mémoire relatant ses conquêtes lui a laissé quelques idées. La Légion pourrait doubler son chemin historique, en consacrant le culte des prouesses et de l'endoctrinement de l'homme. Mais la Légion utilise déjà la technologie et la science. Peut-être pourrait-elle intégrer davantage d'idées de l'auxiliaire dans la Légion. Qu'est-ce que ce sera ?"
+ nf_legion.85.d:0 "La décision de Caesar de rédiger un mémoire relatant ses conquêtes lui a laissé quelques idées. La Légion pourrait doubler son chemin historique, en consacrant le culte des prouesses et de l'endoctrinement de l'homme. Mais la Légion utilise déjà la technologie et la science. Peut-être pourrait-elle intégrer davantage d'idées de l'auxiliaire dans la Légion. Qu'est-ce que ce sera ?"
  nf_legion.85.a:0 "La Légion est née dans la Bataille !"
  nf_legion.85.b:0 "Nous dirigeons un Empire, pas une armée. Comportons-nous comme tels."
 
@@ -369,15 +369,15 @@
 
   ### Cult of Mars
  nf_legion.89.t:0 "Les enseignements sacrés"
- nf_legion.89.d:0 "Lucius savait la leçon. L'os n'était pas assez solide. La chair n'était pas assez forte. L'Ancien Monde était puissant grâce à son acier et à ses lasers, pas à ses muscles et à ses tendons. César se moquait de la technologie, mais l'homme avait utilisé un auto-doc. Il connaissait la vérité et a menti à son peuple. Plus maintenant.  Les Terres Désolées suivront les enseignements de Vulcain, martelant les Terres Désolées en une brillante utopie."
+ nf_legion.89.d:0 "Lucius savait la leçon. L'os n'était pas assez solide. La chair n'était pas assez forte. L'Ancien Monde était puissant grâce à son acier et à ses lasers, pas à ses muscles et à ses tendons. Caesar se moquait de la technologie, mais l'homme avait utilisé un auto-doc. Il connaissait la vérité et a menti à son peuple. Plus maintenant.  Les Terres Désolées suivront les enseignements de Vulcain, martelant les Terres Désolées en une brillante utopie."
  nf_legion.89.a:0 "Nous allons forger un monde nouveau."
 
   ### The Fate of the Legate
  nf_legion.90.t:0 "Le sort du légat Malpais"
- nf_legion.90.d:0 "Le légat Malpais, le héros du barrage Hoover, a commencé à attirer un culte à lui. Il ne nie pas qu'il est un prophète du dieu cananéen, et certains murmurent qu'il complote pour s'emparer de la légion de César. Peut-être notre vieil ami est-il devenu trop puissant ?"
+ nf_legion.90.d:0 "Le légat Malpais, le héros du barrage Hoover, a commencé à attirer un culte à lui. Il ne nie pas qu'il est un prophète du dieu cananéen, et certains murmurent qu'il complote pour s'emparer de la légion de Caesar. Peut-être notre vieil ami est-il devenu trop puissant ?"
  nf_legion.90.a:0 "Je n'aime pas tuer, mais ce n'est qu'une corvée, comme toutes les autres."
  nf_legion.90.b:0 "Dans ces moments-là, nous pouvons nous tourner vers Mars, mais il est bon d'avoir des amis."
- CES_stress_decrease:0 "\nLe fait de jeter son camarade de confiance qui a apporté la victoire de la Légion sur le Grand Canyon pendant qu'il brûle améliorera la §Rsanté§! de César. Le rival potentiel ne reviendra certainement jamais avec une armée de tribus fanatiques qui connaissent la Voie du Canaanite ?"
+ CES_stress_decrease:0 "\nLe fait de jeter son camarade de confiance qui a apporté la victoire de la Légion sur le Grand Canyon pendant qu'il brûle améliorera la §Rsanté§! de Caesar. Le rival potentiel ne reviendra certainement jamais avec une armée de tribus fanatiques qui connaissent la Voie du Canaanite ?"
 
   ### Planes
  nf_legion.91.t:0 "La tribu des Boomers"
@@ -387,7 +387,7 @@
 
     ### Fidelitas
  nf_legion.92.t:0 "Pia Fidelis"
- nf_legion.92.d:0 "Lucius a toujours été un peu bizarre pour César. Content de ne servir que dans la garde prétorienne de César, il tenait son titre grâce au respect de ses subordonnés. Lucius était appelé le chien par certains, car il était toujours fidèle à César. Juste envers les sujets de la Légion, gentil envers ses soldats et dur envers les ennemis de la Légion, Lucius était un homme bon dans les mauvais moments.\n\nLucius a découvert les hypocrisies de César après sa mort, et a été ébranlé jusqu'au plus profond de lui-même. Le dieu qui se moquait de la technologie cherchait un remède contre le cancer ! Il servait avec les Disciples et voyait ses sujets comme de l'argile à modeler, et non comme ses fidèles sujets. Ce fut un choc pour le vieil homme qui servait César depuis qu'il était enfant. Il y avait beaucoup de bonnes choses dans la Légion ; mais pourquoi la Légion devrait-elle mépriser la technologie ? Et pourquoi devrait-elle attendre de conquérir la RNC pour cette \"synthèse\" ? Il y a, comme César l'a dit un jour, beaucoup de leçons dans les vieux livres."
+ nf_legion.92.d:0 "Lucius a toujours été un peu bizarre pour Caesar. Content de ne servir que dans la garde prétorienne de Caesar, il tenait son titre grâce au respect de ses subordonnés. Lucius était appelé le chien par certains, car il était toujours fidèle à Caesar. Juste envers les sujets de la Légion, gentil envers ses soldats et dur envers les ennemis de la Légion, Lucius était un homme bon dans les mauvais moments.\n\nLucius a découvert les hypocrisies de Caesar après sa mort, et a été ébranlé jusqu'au plus profond de lui-même. Le dieu qui se moquait de la technologie cherchait un remède contre le cancer ! Il servait avec les Disciples et voyait ses sujets comme de l'argile à modeler, et non comme ses fidèles sujets. Ce fut un choc pour le vieil homme qui servait Caesar depuis qu'il était enfant. Il y avait beaucoup de bonnes choses dans la Légion ; mais pourquoi la Légion devrait-elle mépriser la technologie ? Et pourquoi devrait-elle attendre de conquérir la RNC pour cette \"synthèse\" ? Il y a, comme Caesar l'a dit un jour, beaucoup de leçons dans les vieux livres."
  nf_legion.92.a:0 "Découvrons qui est Livy."
  nf_legion.92.b:0 "Le Culte de Vulcain avait raison !"
   ############### bhd.1
@@ -397,15 +397,15 @@
  nf_legion.93.d:0 "Comme si, pour un homme vertueux, courageux et magnanime, il pouvait y avoir une raison plus juste que celle-ci de rechercher le gouvernement, pour éviter d'être soumis à des hommes sans valeur, et pour empêcher que le Commonwealth ne soit mis en pièces par eux ; alors que, même s'ils étaient alors désireux de la sauver, ils n'en auraient pas le pouvoir."
  nf_legion.93.a:0 "La Légion achèvera la synthèse."
   ### Navajo
- nf_legion.94.t:0 "César est mort !"
+ nf_legion.94.t:0 "Caesar est mort !"
  nf_legion.94.d:0 "Le conquérant d'un nombre variable de tribus est mort ! Les Terres Désolées retiennent leur souffle, et pour [NAV.GetLeader], le moment est peut-être venu de se préparer à frapper."
  nf_legion.94.a:0 "Vous devez vivre pour que lorsque vous mourrez, le monde pleure et vous vous réjouissez. L'a-t-il fait ?"
   ### Ceasar LIves
  nf_legion.95.t:0 "Un homme instruit"
- nf_legion.95.d:9 "Un coursier de New Vegas a offert un esclave pour servir de médecin à César. Mieux encore, il sera désormais le sparring-partner intellectuel de [CES.GetName] ! Dans un premier temps, ils vont se pencher sur la \"maladie\" de César."
+ nf_legion.95.d:9 "Un coursier de New Vegas a offert un esclave pour servir de médecin à Caesar. Mieux encore, il sera désormais le sparring-partner intellectuel de [CES.GetName] ! Dans un premier temps, ils vont se pencher sur la \"maladie\" de Caesar."
  nf_legion.95.a:0 "Un jour, Gannon reconnaîtra notre sagesse."
- nf_legion.95.a_tt:0 "\n§gCésar est guéri !§!"
- nf_legion.95.b:9 "Le couteau a glissé et César est fortement sollicité."
+ nf_legion.95.a_tt:0 "\n§gCaesar est guéri !§!"
+ nf_legion.95.b:9 "Le couteau a glissé et Caesar est fortement sollicité."
  nf_legion.95.b_tt:9 "\n§RPourquoi avons-nous embauché un coursier de toute façon !!§!"
 
 
@@ -422,7 +422,7 @@
 
   ### Wargoal
  nf_legion.98.t:0 "Prendre ce qui est à nous !"
- nf_legion.98.d:0 "Nous ne tolérerons plus les faibles, les pitoyables, les prodigues ! La RNC et sa bureaucratie corrompue et dégénérée osent penser qu'ils peuvent repousser la Légion ? Nous n'attendrons plus ! Notre préparation est terminée, nos soldats sont prêts, nos armées marchent jusqu'à la frontière avec le drapeau de notre empire bien haut ! Il est temps de revendiquer ce qui nous appartient, il est temps de mettre fin à cette pitoyable rivalité et d'exorciser l'Ours une fois pour toutes. Ave César !"
+ nf_legion.98.d:0 "Nous ne tolérerons plus les faibles, les pitoyables, les prodigues ! La RNC et sa bureaucratie corrompue et dégénérée osent penser qu'ils peuvent repousser la Légion ? Nous n'attendrons plus ! Notre préparation est terminée, nos soldats sont prêts, nos armées marchent jusqu'à la frontière avec le drapeau de notre empire bien haut ! Il est temps de revendiquer ce qui nous appartient, il est temps de mettre fin à cette pitoyable rivalité et d'exorciser l'Ours une fois pour toutes. Ave Caesar !"
  nf_legion.98.a:0 "En avant ! Pour la gloire !"
 
 
@@ -443,7 +443,7 @@
  nf_legion.103.a:0 "Bon sang !"
   #### Burned Man
  nf_legion.104.t:0 "Le prix de l'échec !"
- nf_legion.104.d:0 "Avec la défaite au barrage Hoover, quelqu'un devait prendre le blâme. Et ce ne serait certainement pas César. "
+ nf_legion.104.d:0 "Avec la défaite au barrage Hoover, quelqu'un devait prendre le blâme. Et ce ne serait certainement pas Caesar. "
  nf_legion.104.a:0 "Malpais, c'est de ta faute."
  nf_legion.104.b:0 "Je ne peux pas punir mon frère d'armes."
  nf_legion.104.b_tt:0 "\nVous en tirerez du stress."
@@ -481,9 +481,9 @@
 
   ###  Dam
  nf_legion.110.t:0 "La Décimation"
- nf_legion.110.d:0 "Il est clair que Malpais n'a pas échoué au Barrage. Non, ses soldats ont échoué. Pour cela, Malpais a décrété leur décimation, comme Dieu a frappé ceux qui ont échoué.\n\nMais le Grand César a décrété qu'ils seraient épargnés ! Au lieu de cela, les soldats serviront dans des bataillons de gloire qui se battront lors de la première vague contre la RNC lors de notre prochain combat !"
- nf_legion.110.a:0 "Ave César !"
- CES_stress_decrease_2:0 "\nC'était suspicieusement gentil de la part de César. Il doit essayer d'aider le Légat Malpais, même si cela provoque du stress."
+ nf_legion.110.d:0 "Il est clair que Malpais n'a pas échoué au Barrage. Non, ses soldats ont échoué. Pour cela, Malpais a décrété leur décimation, comme Dieu a frappé ceux qui ont échoué.\n\nMais le Grand Caesar a décrété qu'ils seraient épargnés ! Au lieu de cela, les soldats serviront dans des bataillons de gloire qui se battront lors de la première vague contre la RNC lors de notre prochain combat !"
+ nf_legion.110.a:0 "Ave Caesar !"
+ CES_stress_decrease_2:0 "\nC'était suspicieusement gentil de la part de Caesar. Il doit essayer d'aider le Légat Malpais, même si cela provoque du stress."
 
 
  nf_legion.111.t:0 "Un Nouveau Légat ?"
@@ -504,7 +504,7 @@
 
 
  nf_legion.114.t:0 "La Bibliothèque"
- nf_legion.114.d:0 "César a toujours voulu porter le flambeau de la civilisation aux Terres Désolées. Quelle meilleure façon de le faire que de commander une grande Bibliothèque à Sables Ombragés, une université pour répandre la parole de la Légion à travers les Terres Désolées. Les Disciples se moqueront peut-être, mais ils apprécieront avec le temps tout ce que César a fait pour le monde."
+ nf_legion.114.d:0 "Caesar a toujours voulu porter le flambeau de la civilisation aux Terres Désolées. Quelle meilleure façon de le faire que de commander une grande Bibliothèque à Sables Ombragés, une université pour répandre la parole de la Légion à travers les Terres Désolées. Les Disciples se moqueront peut-être, mais ils apprécieront avec le temps tout ce que Caesar a fait pour le monde."
  nf_legion.114.a:0 "J'ai allumé un feu, et je le garderai pendant qu'il brûle."
 
 
@@ -514,12 +514,12 @@
 
 
  nf_legion.116.t:0 "Le bâtiment du Sénat"
- nf_legion.116.d:0 "César rêvait de la synthèse, et d'un jour meilleur. Mais Lucius a construit ce jour. Pour écouter les habitants de la Nouvelle-Californie, il fit construire un nouveau bâtiment du sénat, plus grand que l'ancienne colline. Un nouveau bâtiment, pour un rêve. Un bâtiment plus grand que les tribus de l'Est ou que les maisons de marchands de l'Ouest. Un lieu où les habitants des Terres Désolées peuvent conseiller et donner leur avis à leur dictateur.\n\nMais finalement, à la mort de Lucius, c'est le Sénat qui dictait."
+ nf_legion.116.d:0 "Caesar rêvait de la synthèse, et d'un jour meilleur. Mais Lucius a construit ce jour. Pour écouter les habitants de la Nouvelle-Californie, il fit construire un nouveau bâtiment du sénat, plus grand que l'ancienne colline. Un nouveau bâtiment, pour un rêve. Un bâtiment plus grand que les tribus de l'Est ou que les maisons de marchands de l'Ouest. Un lieu où les habitants des Terres Désolées peuvent conseiller et donner leur avis à leur dictateur.\n\nMais finalement, à la mort de Lucius, c'est le Sénat qui dictait."
  nf_legion.116.a:0 "SPQNC"
 
  nf_legion.117.t:0 "Le Fabricant"
  nf_legion.117.d:0 "Certains membres de la Légion ont interrogé Lucius pour le Culte de Vulcain, et d'autres ont pensé qu'il était devenu fou. Mais à mesure que ceux qui se plaignaient disparaissaient et que la sagesse de Lucius prévalait, ils apprenaient à garder leurs pensées pour eux.\n\nAvec la conquête de la Nouvelle Californie, Lucius décréta qu'il construirait un atelier pour étudier les secrets de l'ancien monde. Vulcain serait glorifié par une Légion qui combattrait avec les armes du dieu. Et malheur à tous ceux qui se sont mis sur leur chemin."
- nf_legion.117.a:0 "Si César pouvait nous voir maintenant."
+ nf_legion.117.a:0 "Si Caesar pouvait nous voir maintenant."
 
  nf_legion.118.t:0 "Les Pillards !"
  nf_legion.118.d:0 "D'une manière ou d'une autre, des pillards ont traversé le fleuve Colorado et ont détruit nos convois de ravitaillement. Nous avons perdu beaucoup de matériel d'infanterie, un résultat désastreux !"
@@ -534,7 +534,7 @@
  nf_legion.120.a:0 "Cela me fait presque souhaiter l'hiver nucléaire."
 
  nf_legion.121.t:0 "Nouvelle Rome ?"
- nf_legion.121.d:0 "C'était une vision de César de transformer New Vegas en Nova Rome, une Nouvelle Rome. Avec la récente conquête de New Vegas, le choix est enfin entre nos mains. Souhaitons-nous faire de Sin City, La Ville des Lumières et qui sait quels autres noms cette ville porte, notre nouvelle capitale ? Nous pourrions toujours nous en tenir à Flagstaff, après tout. Souhaitons-nous faire passer la grandeur avant le confort au milieu de notre propre territoire ?"
+ nf_legion.121.d:0 "C'était une vision de Caesar de transformer New Vegas en Nova Rome, une Nouvelle Rome. Avec la récente conquête de New Vegas, le choix est enfin entre nos mains. Souhaitons-nous faire de Sin City, La Ville des Lumières et qui sait quels autres noms cette ville porte, notre nouvelle capitale ? Nous pourrions toujours nous en tenir à Flagstaff, après tout. Souhaitons-nous faire passer la grandeur avant le confort au milieu de notre propre territoire ?"
  nf_legion.121.a:0 "New Vegas deviendra la Nouvelle Rome !"
  nf_legion.121.b:0 "Flagstaff restera notre capitale."
 
@@ -544,7 +544,7 @@
  nf_legion.122.b:9 "Favorisons des liens plus étroits."
 
  nf_legion.123.t:9 "Les Pièces pour Hadès"
- nf_legion.123.d:9 "Caius Drusus a réussi au-delà de ses rêves les plus fous lorsqu'il a quitté la Réserve. Il n'est plus un serviteur de César, il règne sur l'Arizona et le Nouveau Mexique. Maintenant, notre ancien soldat vient avec une demande : que nous leur confions notre sécurité. En échange, le commerce d'esclaves connaîtra un essor sans précédent... et peut-être pourrons-nous terminer le Grand Œuvre et sauver l'humanité des goules."
+ nf_legion.123.d:9 "Caius Drusus a réussi au-delà de ses rêves les plus fous lorsqu'il a quitté la Réserve. Il n'est plus un serviteur de Caesar, il règne sur l'Arizona et le Nouveau Mexique. Maintenant, notre ancien soldat vient avec une demande : que nous leur confions notre sécurité. En échange, le commerce d'esclaves connaîtra un essor sans précédent... et peut-être pourrons-nous terminer le Grand Œuvre et sauver l'humanité des goules."
  nf_legion.123.a:9 "Nous sacrifierons notre liberté pour le Grand Œuvre."
  nf_legion.123.b:9 "Qui est-il, pour nous donner des ordres ?"
 
@@ -558,21 +558,21 @@
  nf_legion.125.a:9 "Nous avons fait de notre mieux."
 
  nf_legion.126.t:0 "Le Monstre vient à l'Ouest"
- nf_legion.126.d:0 "Avec la Mort du Grand César, Lanius, le héros de l'Est, vient à l'Ouest pour accomplir sa volonté. Vulpes et les autres se sont amusés, mais aucun d'entre eux ne peut gagner la faveur de la Légion. Quels triomphes ont-ils contre l'homme qui a rendu le Colorado rouge ? Il va maintenant terminer la tâche qui lui a été confiée et écraser tous ceux qui défient la volonté de César, même dans la mort."
+ nf_legion.126.d:0 "Avec la Mort du Grand Caesar, Lanius, le héros de l'Est, vient à l'Ouest pour accomplir sa volonté. Vulpes et les autres se sont amusés, mais aucun d'entre eux ne peut gagner la faveur de la Légion. Quels triomphes ont-ils contre l'homme qui a rendu le Colorado rouge ? Il va maintenant terminer la tâche qui lui a été confiée et écraser tous ceux qui défient la volonté de Caesar, même dans la mort."
  nf_legion.126.a:0 "La grandeur vient de l'épée."
 
 
   ###
- CES_healthy:0 "César est guéri !"
+ CES_healthy:0 "Caesar est guéri !"
 
   #### Kick Out Folks
  nf_lanius_integration.2.t:9 "Le Cazador de l'Est"
- nf_lanius_integration.2.d:9 "Lanius a échoué. L'homme qui se faisait appeler le Monstre de l'Est n'a pas réussi à prendre Dog City, et beaucoup se demandent si les jours d'expansion de la Légion sont derrière elle.  Honnêtement, comment ont-ils pu perdre contre [HAN.GetLeader] ?  César crucifierait Lanius s'il retournait à Flagstaff, mais ce lâche n'a jamais osé montrer son visage..."
+ nf_lanius_integration.2.d:9 "Lanius a échoué. L'homme qui se faisait appeler le Monstre de l'Est n'a pas réussi à prendre Dog City, et beaucoup se demandent si les jours d'expansion de la Légion sont derrière elle.  Honnêtement, comment ont-ils pu perdre contre [HAN.GetLeader] ?  Caesar crucifierait Lanius s'il retournait à Flagstaff, mais ce lâche n'a jamais osé montrer son visage..."
  nf_lanius_integration.2.a:9 "Ugh, il est temps de se concentrer sur Vegas"
 
   #### Kick Out Folks
  nf_lanius_integration.3.t:9 "Le Second Paullus"
- nf_lanius_integration.3.d:9 "Dans une tournure d'événements choquante, le redouté et légendaire Légat Lanius et les forces de la Légion directement sous son commandement ont été vaincus. C'est une défaite importante pour César, car la frontière orientale de sa Légion, supervisée par nul autre que son plus estimé subordonné, a été compromise par ceux que la Légion cherchait à rallier à sa bannière. Il reste à voir comment cette défaite affectera le statut militaire de la Légion."
+ nf_lanius_integration.3.d:9 "Dans une tournure d'événements choquante, le redouté et légendaire Légat Lanius et les forces de la Légion directement sous son commandement ont été vaincus. C'est une défaite importante pour Caesar, car la frontière orientale de sa Légion, supervisée par nul autre que son plus estimé subordonné, a été compromise par ceux que la Légion cherchait à rallier à sa bannière. Il reste à voir comment cette défaite affectera le statut militaire de la Légion."
  nf_lanius_integration.3.a:9 "Je n'arrive pas à croire que les tribus aient perdu contre des armes lourdes !"
 
  nf_lanius_integration.4.t:9 "La Conquête de l'Est"

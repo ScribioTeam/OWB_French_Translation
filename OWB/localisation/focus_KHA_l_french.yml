@@ -147,8 +147,8 @@
  KHA_focus_a_friend_of_the_legion:0 "Un ami de la Légion"
  KHA_focus_a_friend_of_the_legion_desc:0 "La Légion est peut-être étroitement liée à nous sur de nombreuses questions de politique, mais nous n’avons actuellement pas beaucoup de relations diplomatiques - en effet, certains de ses dirigeants ne voient en nous que guère plus que des sauvages tribaux ! (Honnêtemen t! Nous, sauvages ! Nos soldats se lavent deux fois par quinzaine - c'est le double de ce qu'ils font !) Nous devrions chercher à les éclairer sur notre héritage et notre culture, afin que nos deux civilisations s'entrelacent."
 
- KHA_focus_caesars_advisor:0 "Conseiller de César"
- KHA_focus_caesars_advisor_desc:0 "En tant que symbole de notre amitié grandissante, César nous a envoyé l’un de ses conseillers les plus fiables - un frumentarii qui s’appelle Karl. Il fera sans aucun doute rapport à César lui-même. Nous devons donc nous assurer que nous prenons tous ses avis à son compte et que nous lui apprenons quelque chose sur la façon dont nous faisons la guerre."
+ KHA_focus_caesars_advisor:0 "Conseiller de Caesar"
+ KHA_focus_caesars_advisor_desc:0 "En tant que symbole de notre amitié grandissante, Caesar nous a envoyé l’un de ses conseillers les plus fiables - un frumentarii qui s’appelle Karl. Il fera sans aucun doute rapport à Caesar lui-même. Nous devons donc nous assurer que nous prenons tous ses avis à son compte et que nous lui apprenons quelque chose sur la façon dont nous faisons la guerre."
 
  KHA_focus_join_the_legion:0 "Rejoindre la Légion"
  KHA_focus_join_the_legion_desc:0 "Une grande alliance militaire entre nous et le Taureau à travers le Colorado est la progression logique de nos relations actuelles avec la Légion. Tout ce que nous avons à faire est de le demander."
@@ -172,7 +172,7 @@
  KHA_focus_legion_industry_desc:0 "Les conseillers de la Légion nous ont expliqué plusieurs techniques pour améliorer notre capacité industrielle grâce à une meilleure utilisation du travail des esclaves et à un travail des métaux plus efficace. Celles-ci nous aideront sans aucun doute à mener notre production à de nouveaux sommets !"
 
  KHA_focus_legion_weapons:0 "Armes de la Légion"
- KHA_focus_legion_weapons_desc:0 "César lui-même a ordonné de nous fournir plusieurs tonnes d'armes, d'explosifs et d'autres équipements, afin de pouvoir mieux nous défendre contre la RNC. Nous devrions accepter gracieusement."
+ KHA_focus_legion_weapons_desc:0 "Caesar lui-même a ordonné de nous fournir plusieurs tonnes d'armes, d'explosifs et d'autres équipements, afin de pouvoir mieux nous défendre contre la RNC. Nous devrions accepter gracieusement."
 
  KHA_focus_fake_neutrality:0 "Une façade de Neutralité"
  KHA_focus_fake_neutrality_desc:0 "Bien que la protection offerte par la Légion soit attrayante, elle exige trop de nous en retour. Au lieu de cela, nous devrions faire les choses à notre façon - même s’il est évident de savoir de quel côté nous sommes favorables lors du choc entre l’Ours et le Taureau."
@@ -353,7 +353,7 @@
  KHA_focus_utah_client_states_desc:0 "Nous serons gravement débordés si nous atteignons notre territoire dans l'Utah proprement dit, et nous devrions donc chercher à créer des États tributaires parmi les tribus et les colonies locales."
 
  KHA_focus_raise_new_wht_hosts:0 "Réunir les hôtes des Jambes Blanches"
- KHA_focus_raise_new_wht_hosts_desc:0 "De nombreuses tribus des Jambes Blanches ne sont pas des adeptes fanatiques de César ou des Mormons. En effet, beaucoup sont prêts à servir n'importe quel maître sur la promesse de pillage et de gloire. Ils feront des recrues faciles."
+ KHA_focus_raise_new_wht_hosts_desc:0 "De nombreuses tribus des Jambes Blanches ne sont pas des adeptes fanatiques de Caesar ou des Mormons. En effet, beaucoup sont prêts à servir n'importe quel maître sur la promesse de pillage et de gloire. Ils feront des recrues faciles."
  kha_raise_wht_warbands:0 "Une division de §RKhan Footrunners§ ! sera créée dans chaque état contrôlé qui est un état coeur de [WHT.GetNameWithFlag]."
 
  KHA_focus_integrate_wht:0 "Nouveaux membres Khan"
