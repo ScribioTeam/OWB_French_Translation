@@ -462,3 +462,9 @@
  RULE_EVENTS_SPAWN_APRIL_ELITE_ENABLED_desc:0 "Cela permettra à l'incident de Gary"
  RULE_EVENTS_SPAWN_APRIL_ELITE_DISABLED:0 "Désactivé"
  RULE_EVENTS_SPAWN_APRIL_ELITE_DISABLED_desc:0 "Cela désactivera l'incident de Gary"
+
+ RULE_UNIT_LOGGER_NAME:9 "Debug Unit logger"
+ RULE_UNIT_LOGGER_ENABLED:9 "Enabled"
+ RULE_UNIT_LOGGER_ENABLED_DESC:9 "Enable debug logging of techs for units."
+ RULE_UNIT_LOGGER_DISABLED:9 "Disabled"
+ RULE_UNIT_LOGGER_DISABLED_DESC:9 "Disable debug logging of techs for units."
