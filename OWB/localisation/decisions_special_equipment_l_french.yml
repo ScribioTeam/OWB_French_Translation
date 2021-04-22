@@ -11,5 +11,5 @@
  artillery_arming_3_decision:0 "Ready three Artillery Barrages"
  artillery_arming_3_decision_desc:0 "Gives three charges for the artillery commander ability, requires to have three shell-batches in storage. Shell-batches can be build via the production interface."
 
- special_equipment_decisions:9 "Army Supplies"
- special_equipment_decisions_desc:9 "The decisions below will tell us exactly how many readied artillery and fatman charges we have. Charges are activated via commander abilities. \nReadied Mininukes: §G[?fatman_uses]§! \nReadied Artillery Barrages: §G[?artillery_uses]§!"
+ special_equipment_decisions:0 "Army Supplies"
+ special_equipment_decisions_desc:0 "The decisions below will tell us exactly how many readied artillery and fatman charges we have. Charges are activated via commander abilities. \nReadied Mininukes: §G[?fatman_uses]§! \nReadied Artillery Barrages: §G[?artillery_uses]§!"

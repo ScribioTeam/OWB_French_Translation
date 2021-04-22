@@ -25,8 +25,8 @@
  modifier_experience_gain_super_heavy_carrier_ship_unit_training_factor:0 "Expérience d'entraînement de porte-avions lourds"
  modifier_experience_gain_super_heavy_carrier_ship_unit_combat_factor:0 "Expérience de combat de porte-avions lourds"
 
- MODIFIER_ANNEX_COST_FACTOR:9 "Coût d'Annexion Pendant les Conférences de Paix"
- MODIFIER_TAKE_STATES_COST_FACTOR:9 "Coût d'un État lors des Conférences de Paix"
+ MODIFIER_ANNEX_COST_FACTOR:0 "Coût d'Annexion Pendant les Conférences de Paix"
+ MODIFIER_TAKE_STATES_COST_FACTOR:0 "Coût d'un État lors des Conférences de Paix"
  
  temporary_state_resource_energy:0 "Énergie"
  temporary_state_resource_metal:0 "Métal"

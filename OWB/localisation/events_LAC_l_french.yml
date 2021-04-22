@@ -1,15 +1,15 @@
 ﻿l_french:
- has_turned_down_dianas_offer_tt:9 "§RA rejeté la lumière.§!"
- doesnt_have_war_with_neighbor_tt:9 "N'a pas de §Rguerre§! avec un pays §Yvoisin§!."
- nf_lanius_ces_relations.1.t:9 "Ordres de Caesar"
- nf_lanius_ces_relations.1.d:9 "Il y a quatre mois, Caesar a convoqué Lanius dans sa tente-citadelle de Flagstaff. Là, il a donné un ordre important au célèbre légat.\n\n\"Lanius, j'ai besoin que tu prennes Dog City. Je vais avoir besoin des richesses que Denver a à offrir si je veux traverser le Colorado et prendre le barrage.\nJe vais te confier une poignée de cohortes et j'espère qu'en cinq ans, tu auras accompli cette mission. Si tu prends plus de temps, je te considérerai comme un échec et je te condamnerai à mort comme le feraient tous ceux qui m'ont déçu.\nN'aie aucune pitié pour ces prodigues.\""
- nf_lanius_ces_relations.1.a:9 "\"Oui, mon Caesar.\""
- nf_lanius_ces_relations.1.a.tt:9 "[CES.GetFlag]§YCaesar§! a donné à [LAC.GetFlag]§YLanius§ ! l'ordre direct de conquérir [HAN.GetFlag]§YDog City§! et de revenir avant le §Y1er janvier 2280§!\nSi cette date est dépassée et que [LAC.GetFlag]§YLanius§ ! n'a toujours pas accompli cette tâche, il sera considéré comme un §Rtraître et condamné à mort, ce qui entraînera le départ de la Cohorte de Lanius de la faction.§!"
+ has_turned_down_dianas_offer_tt:0 "§RA rejeté la lumière.§!"
+ doesnt_have_war_with_neighbor_tt:0 "N'a pas de §Rguerre§! avec un pays §Yvoisin§!."
+ nf_lanius_ces_relations.1.t:0 "Ordres de Caesar"
+ nf_lanius_ces_relations.1.d:0 "Il y a quatre mois, Caesar a convoqué Lanius dans sa tente-citadelle de Flagstaff. Là, il a donné un ordre important au célèbre légat.\n\n\"Lanius, j'ai besoin que tu prennes Dog City. Je vais avoir besoin des richesses que Denver a à offrir si je veux traverser le Colorado et prendre le barrage.\nJe vais te confier une poignée de cohortes et j'espère qu'en cinq ans, tu auras accompli cette mission. Si tu prends plus de temps, je te considérerai comme un échec et je te condamnerai à mort comme le feraient tous ceux qui m'ont déçu.\nN'aie aucune pitié pour ces prodigues.\""
+ nf_lanius_ces_relations.1.a:0 "\"Oui, mon Caesar.\""
+ nf_lanius_ces_relations.1.a.tt:0 "[CES.GetFlag]§YCaesar§! a donné à [LAC.GetFlag]§YLanius§ ! l'ordre direct de conquérir [HAN.GetFlag]§YDog City§! et de revenir avant le §Y1er janvier 2280§!\nSi cette date est dépassée et que [LAC.GetFlag]§YLanius§ ! n'a toujours pas accompli cette tâche, il sera considéré comme un §Rtraître et condamné à mort, ce qui entraînera le départ de la Cohorte de Lanius de la faction.§!"
 
- nf_lanius_ces_relations.2.t:9 "Le Boucher Fidèle"
- nf_lanius_ces_relations.2.d:9 "Il y a quatre mois, Caesar a convoqué Lanius dans sa tente-citadelle de Flagstaff. Là, il a donné un ordre important au célèbre Légat.\n\n\"Lanius, j'ai besoin que tu prennes Dog City. Je vais avoir besoin des richesses que Denver a à offrir si je veux traverser le Colorado et prendre le barrage.\nJe vais te confier une poignée de cohortes et j'espère qu'en cinq ans, tu auras accompli cette mission. Si tu prends plus de temps, je te considérerai comme un échec et je te condamnerai à mort comme le feraient tous ceux qui m'ont déçu.\n\nN'aie aucune pitié pour ces prodigues.\""
- nf_lanius_ces_relations.2.a:9 "Que Ma Volonté Soit Faite."
- nf_lanius_ces_relations.2.a.tt:9 "[CES.GetFlag]§YCaesar§! a donné à [LAC.GetFlag]§YLanius§ ! l'ordre direct de conquérir [HAN.GetFlag]§YDog City§! et de revenir avant le §Y1er janvier 2280§!\nSi cette date est dépassée et que [LAC.GetFlag]§YLanius§§! n'a toujours pas accompli cette tâche, il sera considéré comme un §Rtraître et condamné à mort, ce qui entraînera le départ de la Cohorte de Lanius de la faction.§! \n\nCaesar peut fournir à Lanius des équipements et de la main-d'œuvre, mais ne pourra pas contrôler directement Lanius en raison des distances à parcourir."
+ nf_lanius_ces_relations.2.t:0 "Le Boucher Fidèle"
+ nf_lanius_ces_relations.2.d:0 "Il y a quatre mois, Caesar a convoqué Lanius dans sa tente-citadelle de Flagstaff. Là, il a donné un ordre important au célèbre Légat.\n\n\"Lanius, j'ai besoin que tu prennes Dog City. Je vais avoir besoin des richesses que Denver a à offrir si je veux traverser le Colorado et prendre le barrage.\nJe vais te confier une poignée de cohortes et j'espère qu'en cinq ans, tu auras accompli cette mission. Si tu prends plus de temps, je te considérerai comme un échec et je te condamnerai à mort comme le feraient tous ceux qui m'ont déçu.\n\nN'aie aucune pitié pour ces prodigues.\""
+ nf_lanius_ces_relations.2.a:0 "Que Ma Volonté Soit Faite."
+ nf_lanius_ces_relations.2.a.tt:0 "[CES.GetFlag]§YCaesar§! a donné à [LAC.GetFlag]§YLanius§ ! l'ordre direct de conquérir [HAN.GetFlag]§YDog City§! et de revenir avant le §Y1er janvier 2280§!\nSi cette date est dépassée et que [LAC.GetFlag]§YLanius§§! n'a toujours pas accompli cette tâche, il sera considéré comme un §Rtraître et condamné à mort, ce qui entraînera le départ de la Cohorte de Lanius de la faction.§! \n\nCaesar peut fournir à Lanius des équipements et de la main-d'œuvre, mais ne pourra pas contrôler directement Lanius en raison des distances à parcourir."
 
 
  nf_lanius_ces_relations.3.t:0 "Le chien est parti !"
@@ -60,9 +60,9 @@
  nf_lanius.2.c:0 "Les chars traversent les plaines en tonitruant."
 
  nf_lanius.3.t:0 "Forger une vaste faux, tranchante comme un rasoir. "
- nf_lanius.3.d:9 "Lorsque Lanius a occupé Fort Summers, il a dû décider de ce qu'il allait faire des habitants de ce petit village plein d'entrain."
- nf_lanius.3.a:9 "Les transformer en une armée d'esclaves."
- nf_lanius.3.b:9 "Volez leurs richesses et saisissez leurs fortunes."
+ nf_lanius.3.d:0 "Lorsque Lanius a occupé Fort Summers, il a dû décider de ce qu'il allait faire des habitants de ce petit village plein d'entrain."
+ nf_lanius.3.a:0 "Les transformer en une armée d'esclaves."
+ nf_lanius.3.b:0 "Volez leurs richesses et saisissez leurs fortunes."
 
  nf_lanius.4.t:0 "Malheur aux vaincus !"
  nf_lanius.4.d:0 "La tribu Lambda du Nouveau-Mexique a été réduite en esclavage sans pitié, tout comme les Hidebarks l'ont été. Pour montrer sa victoire, Lanius a nommé leur chef de village les Staging Grounds.  Quant à la tribu elle-même ?"
@@ -84,9 +84,9 @@
  nf_lanius.7.b:0 "On peut trouver plus d'esclaves ailleurs."
 
  nf_lanius.8.t:0 "Magie"
- nf_lanius.8.d:9 "Les colons de Roswell ne nous ont pas dit par quels moyens leurs outils et leurs sorts fonctionnaient. Peut-être pouvons-nous apprendre leurs secrets en pillant leur temple d'Ef-Bee-Eye ?"
- nf_lanius.8.a:9 "Décaper l'endroit pour les pièces."
- nf_lanius.8.b:9 "Récupérez les métaux rares."
+ nf_lanius.8.d:0 "Les colons de Roswell ne nous ont pas dit par quels moyens leurs outils et leurs sorts fonctionnaient. Peut-être pouvons-nous apprendre leurs secrets en pillant leur temple d'Ef-Bee-Eye ?"
+ nf_lanius.8.a:0 "Décaper l'endroit pour les pièces."
+ nf_lanius.8.b:0 "Récupérez les métaux rares."
 
  nf_lanius.9.t:0 "Les fruits de la victoire"
  nf_lanius.9.d:0 "Les Mescalero ont survécu à la Grande Guerre grâce au cœur de la plante Mescal, et ont étanché leur soif sur le fruit sucré du yucca sous le soleil brûlant. Ils ont prospéré malgré la Grande Guerre et ses conséquences, en se forgeant une maison dans les Terres Désolées.\n\nA présent, les survivants s'occupent de leurs vergers sous les yeux de la Légion, une autre dans la lignée de leurs futurs conquérants. Mais Lanius allait apprendre beaucoup de ses ennemis, et même l'ancien chef du Mescalero, Lozen, admettrait qu'il n'était pas sans sagesse. Car la Bête de l'Est croyait que l'imitation était la forme la plus sincère de flatterie."
@@ -214,8 +214,8 @@
 
 
  nf_lanius.33.t:0 "Le Peuple Caché"
- nf_lanius.33.d:9 "En interrogeant d'anciens membres du conseil d'administration de la Blue Rose Society, Lanius a finalement été capable d'obtenir l'emplacement d'un lieu important. Un abri - qui n'était pas terminé avant la Grande Guerre, mais qui a été, à un moment donné, colonisé depuis.\nIl était connu sous le nom \"d'Abri 86-b\" sur leurs cartes païennes.\n\nDans les tactiques militaires, les abris ont toujours été une simple conquête, solitaire par nature, paresseuse et assez stupide pour croire que leurs murs de fer tiendraient Mars à distance.\nNous avons finalement été dirigés vers l'emplacement de l'abri en suivant les conseils et les indications du membre du conseil.\nContre les attentes de Lanius, au lieu de trouver un abri rempli de paresseux prodigues à abattre, ils ont trouvé une enveloppe vide ! Ce qu'il restait était une série de couloirs vides, les couloirs en fer de l'abri étaient recouverts d'une écriture indéchiffrable et extraterrestre, le mot écrit habituel ayant muté en un code de caractères cryptiques étranges. Avant que Lanius ne l'exécute, le membre du Conseil a été capable de traduire un des mots lorsqu'il a été pressé, indiquant que les habitants de l'abri étaient connus sous le nom \"d'Esiibii\"."
- nf_lanius.33.a:9 "C'était un gaspillage de venir ici."
+ nf_lanius.33.d:0 "En interrogeant d'anciens membres du conseil d'administration de la Blue Rose Society, Lanius a finalement été capable d'obtenir l'emplacement d'un lieu important. Un abri - qui n'était pas terminé avant la Grande Guerre, mais qui a été, à un moment donné, colonisé depuis.\nIl était connu sous le nom \"d'Abri 86-b\" sur leurs cartes païennes.\n\nDans les tactiques militaires, les abris ont toujours été une simple conquête, solitaire par nature, paresseuse et assez stupide pour croire que leurs murs de fer tiendraient Mars à distance.\nNous avons finalement été dirigés vers l'emplacement de l'abri en suivant les conseils et les indications du membre du conseil.\nContre les attentes de Lanius, au lieu de trouver un abri rempli de paresseux prodigues à abattre, ils ont trouvé une enveloppe vide ! Ce qu'il restait était une série de couloirs vides, les couloirs en fer de l'abri étaient recouverts d'une écriture indéchiffrable et extraterrestre, le mot écrit habituel ayant muté en un code de caractères cryptiques étranges. Avant que Lanius ne l'exécute, le membre du Conseil a été capable de traduire un des mots lorsqu'il a été pressé, indiquant que les habitants de l'abri étaient connus sous le nom \"d'Esiibii\"."
+ nf_lanius.33.a:0 "C'était un gaspillage de venir ici."
 
    #conquest events##
  lac_conquest_events.1.t:0 "Une victoire pour la Légion !"
@@ -253,83 +253,83 @@
  lac_conquest_events.6.a:0 "Faites un exemple de quelques commandants."
  lac_conquest_events.6.c:0 "Crucifiez aussi leurs familles."
 
- nf_lanius_revolter.1.t:9 "La Lune M'a Regardé De Haut"
- nf_lanius_revolter.2.t:9 "La Lune M'a Regardé De Haut"
- nf_lanius_revolter.2.d:9 "Lorsque les lumières brillent de toutes parts, Lanius se retrouve face à face avec une présence immaculée, parfaite. Une figure d'une vraie beauté, de regret, de triomphe et d'amour. C'était la Victoire incarnée.\n§B-... Mon mon,§! §RApollon §!§B ? Tu en as mis du temps.§!\n\nLanius était confus. §RCe n'était pas son nom.§! Il a essayé de parler, mais sa gorge est restée fermée par une force invisible. Il a essayé de respirer, mais ses poumons étaient vides. Il a essayé de détourner le regard, mais il n'y avait rien d'autre.\n\n§BCela fait si longtemps. Tu causes des problèmes en Arizona, je vois ? Tu sais que Pallus a déjà fait assez de dégâts à ces enfants rebelles.§!\n\nAvec une certaine hésitation, Lanius a essayé de s'expliquer ... mais ce n'était pas à la femme vêtue d'or. C'était plutôt à la lumière derrière elle.\n\nLa lumière faisait cela, cette lumière incontrôlée, dominatrice, sinistre. Cette femme avait-elle seulement conscience de ce qu'elle faisait aux gens ? Il expliquait à la lumière sa \"mission\", comment Caesar lui avait confié la conquête des tribus du nord.\n\nElle ne répondait pas, mais la femme parlait à son tour. §BHaha ! Ce n'est pas ton genre de te mêler des affaires des autres§! §RApollon§!§B. Tu te laisses distraire.§!\n§RLes distractions sont mauvaises pour l'esprit.§!\n§BLaisse-moi t'aider, pour que tu puisses te refaire une beauté. Je te rappellerai ta place à mes côtés, je te rappellerai le héros que tu as toujours voulu être.\n\nÔ héros fatigué, dis-moi juste ton nom. C'est tout ce dont j'ai besoin.§!"
- nf_lanius_revolter.2.a:9 "Luttez contre la contrainte !"
- nf_lanius_revolter.2.b:9 "§RDIS-LUI TON NAME§!"
+ nf_lanius_revolter.1.t:0 "La Lune M'a Regardé De Haut"
+ nf_lanius_revolter.2.t:0 "La Lune M'a Regardé De Haut"
+ nf_lanius_revolter.2.d:0 "Lorsque les lumières brillent de toutes parts, Lanius se retrouve face à face avec une présence immaculée, parfaite. Une figure d'une vraie beauté, de regret, de triomphe et d'amour. C'était la Victoire incarnée.\n§B-... Mon mon,§! §RApollon §!§B ? Tu en as mis du temps.§!\n\nLanius était confus. §RCe n'était pas son nom.§! Il a essayé de parler, mais sa gorge est restée fermée par une force invisible. Il a essayé de respirer, mais ses poumons étaient vides. Il a essayé de détourner le regard, mais il n'y avait rien d'autre.\n\n§BCela fait si longtemps. Tu causes des problèmes en Arizona, je vois ? Tu sais que Pallus a déjà fait assez de dégâts à ces enfants rebelles.§!\n\nAvec une certaine hésitation, Lanius a essayé de s'expliquer ... mais ce n'était pas à la femme vêtue d'or. C'était plutôt à la lumière derrière elle.\n\nLa lumière faisait cela, cette lumière incontrôlée, dominatrice, sinistre. Cette femme avait-elle seulement conscience de ce qu'elle faisait aux gens ? Il expliquait à la lumière sa \"mission\", comment Caesar lui avait confié la conquête des tribus du nord.\n\nElle ne répondait pas, mais la femme parlait à son tour. §BHaha ! Ce n'est pas ton genre de te mêler des affaires des autres§! §RApollon§!§B. Tu te laisses distraire.§!\n§RLes distractions sont mauvaises pour l'esprit.§!\n§BLaisse-moi t'aider, pour que tu puisses te refaire une beauté. Je te rappellerai ta place à mes côtés, je te rappellerai le héros que tu as toujours voulu être.\n\nÔ héros fatigué, dis-moi juste ton nom. C'est tout ce dont j'ai besoin.§!"
+ nf_lanius_revolter.2.a:0 "Luttez contre la contrainte !"
+ nf_lanius_revolter.2.b:0 "§RDIS-LUI TON NAME§!"
 
- nf_lanius_revolter.3.t:9 "Rejeter la Lumière"
- nf_lanius_revolter.3.d:9 "Lanius savait reconnaître un escroc quand il en voyait un. Diana est peut-être une divinité -... mais ces machines ? Ces fils ? Cette §Rlumière sinistre ?§! Elle l'a corrompue, tout comme elle a corrompu tous ses \"enfants\".\n\nUne courte bataille a eu lieu au \"Temple\", qui n'était en fait qu'un autre caveau déguisé. Les soldats de la Légion combattent les cruels tribus pour permettre à Lanius de s'échapper du complexe.\n\nCe n'est pas la dernière fois qu'ils entendent parler de la Légion."
- nf_lanius_revolter.3.a:9 "Peut-être qu'elle n'a jamais été un dieu en premier lieu ?"
- nf_lanius_revolter.3.b:9 "Même si c'est un dieu, il faut l'arrêter !"
- nf_lanius_revolter.3.ttm:9 "Lanius se bat dehors !"
+ nf_lanius_revolter.3.t:0 "Rejeter la Lumière"
+ nf_lanius_revolter.3.d:0 "Lanius savait reconnaître un escroc quand il en voyait un. Diana est peut-être une divinité -... mais ces machines ? Ces fils ? Cette §Rlumière sinistre ?§! Elle l'a corrompue, tout comme elle a corrompu tous ses \"enfants\".\n\nUne courte bataille a eu lieu au \"Temple\", qui n'était en fait qu'un autre caveau déguisé. Les soldats de la Légion combattent les cruels tribus pour permettre à Lanius de s'échapper du complexe.\n\nCe n'est pas la dernière fois qu'ils entendent parler de la Légion."
+ nf_lanius_revolter.3.a:0 "Peut-être qu'elle n'a jamais été un dieu en premier lieu ?"
+ nf_lanius_revolter.3.b:0 "Même si c'est un dieu, il faut l'arrêter !"
+ nf_lanius_revolter.3.ttm:0 "Lanius se bat dehors !"
 
- nf_lanius_revolter.4.t:9 "Une Sensation de Flou"
- nf_lanius_revolter.4.d:9 "C'était un sentiment étrange de sortir de ce complexe et de retourner au camp de base. Mes soldats me regardaient bizarrement - c'était comme s'ils s'attendaient à ce que je leur demande de détruire cet endroit.\n\nOù suis-je allé ? Je sais qu'ils savent que quelque chose s'est passé, mais ils n'osent pas me dire leurs griefs en face.\n\nEh bien... Laissez-les partir. S'ils n'ont aucun intérêt à se battre dans ma cohorte, ils peuvent se battre aux côtés de Caesar à la place.\n\nJ'ai besoin de temps pour comprendre ce qui s'est passé quand j'étais dans cette enceinte."
- nf_lanius_revolter.4.a:9 "Plus important encore ...\nQuel est mon nom ?"
+ nf_lanius_revolter.4.t:0 "Une Sensation de Flou"
+ nf_lanius_revolter.4.d:0 "C'était un sentiment étrange de sortir de ce complexe et de retourner au camp de base. Mes soldats me regardaient bizarrement - c'était comme s'ils s'attendaient à ce que je leur demande de détruire cet endroit.\n\nOù suis-je allé ? Je sais qu'ils savent que quelque chose s'est passé, mais ils n'osent pas me dire leurs griefs en face.\n\nEh bien... Laissez-les partir. S'ils n'ont aucun intérêt à se battre dans ma cohorte, ils peuvent se battre aux côtés de Caesar à la place.\n\nJ'ai besoin de temps pour comprendre ce qui s'est passé quand j'étais dans cette enceinte."
+ nf_lanius_revolter.4.a:0 "Plus important encore ...\nQuel est mon nom ?"
 
- nf_lanius_revolter.4.t.ttm:9 "Lanius retourne au sud."
- nf_lanius_revolter.4.d.ttm:9 "Après leur courte rencontre, Lanius se dirigeait vers le sud, quittant la vallée et retournant à son camp. La conversation entre Diana et Lanius était \"étrange\", faute d'un meilleur terme. Il ne semblait jamais que Lanius lui parlait directement, mais plutôt à quelque chose \"derrière elle\".\nDans le passé, à certaines occasions, quelque chose comme ça s'est produit. Peut-être que ça vaut la peine de faire une petite enquête ?"
- nf_lanius_revolter.4.a.ttm:9 "J'ai besoin d'aller au fond des choses."
+ nf_lanius_revolter.4.t.ttm:0 "Lanius retourne au sud."
+ nf_lanius_revolter.4.d.ttm:0 "Après leur courte rencontre, Lanius se dirigeait vers le sud, quittant la vallée et retournant à son camp. La conversation entre Diana et Lanius était \"étrange\", faute d'un meilleur terme. Il ne semblait jamais que Lanius lui parlait directement, mais plutôt à quelque chose \"derrière elle\".\nDans le passé, à certaines occasions, quelque chose comme ça s'est produit. Peut-être que ça vaut la peine de faire une petite enquête ?"
+ nf_lanius_revolter.4.a.ttm:0 "J'ai besoin d'aller au fond des choses."
 
- nf_lanius_revolter.5.t:9 "Les auxiliaires déçus rentrent chez eux"
- nf_lanius_revolter.5.d:9 "Je pensais qu'il disparaîtrait en quelques jours, un défi de l'esprit qui attend d'être conquis. Il semble plutôt que ce nuage qui pèse sur mes épaules soit là pour rester. Je n'ai jamais voulu qu'il soit là. Les gens m'appellent \"Lanius\", les gens disent que je dois aller au nord et obéir à mon Caesar, mais tout cela sonne faux.\nPourquoi est-ce que je fais ça ? Pourquoi devrais-je écouter quelqu'un comme ça ? J'ai ma propre force, pourquoi devrais-je me plier à lui ?"
- nf_lanius_revolter.5.a:9 "Peut-être que je vais devoir trouver un nouveau Légat."
+ nf_lanius_revolter.5.t:0 "Les auxiliaires déçus rentrent chez eux"
+ nf_lanius_revolter.5.d:0 "Je pensais qu'il disparaîtrait en quelques jours, un défi de l'esprit qui attend d'être conquis. Il semble plutôt que ce nuage qui pèse sur mes épaules soit là pour rester. Je n'ai jamais voulu qu'il soit là. Les gens m'appellent \"Lanius\", les gens disent que je dois aller au nord et obéir à mon Caesar, mais tout cela sonne faux.\nPourquoi est-ce que je fais ça ? Pourquoi devrais-je écouter quelqu'un comme ça ? J'ai ma propre force, pourquoi devrais-je me plier à lui ?"
+ nf_lanius_revolter.5.a:0 "Peut-être que je vais devoir trouver un nouveau Légat."
 
  nf_lanius_revolter.5.t.ttm:29 "Shenanigans des ZAX - 29"
  nf_lanius_revolter.5.d.ttm:29 "Lorsque nous avons posé des questions, il n'a pas fallu longtemps pour trouver le coupable de l'humeur étrange de Lanius. Il s'avère que ZAX-29, l'intelligence centrale en charge des affaires de l'Abri 29, a interféré en notre nom, en utilisant le logiciel d'arrangement de la personnalité CODE pour essayer d'instaurer une sorte de crise d'identité chez le Légat.\nDiana était furieuse au début, mais l'intelligence a justifié ses actions de manière directe, en déclarant que c'était l'option qui offrait les meilleures chances de survie aux résidents de l'Abri 29."
- nf_lanius_revolter.5.a.ttm:9 "Je ne t'ai pas demandé de faire ça !"
+ nf_lanius_revolter.5.a.ttm:0 "Je ne t'ai pas demandé de faire ça !"
 
- nf_lanius_revolter.6.t:9 "Préoccupations croissantes"
- nf_lanius_revolter.6.d:9 "C'était un sentiment étrange de sortir de ce complexe et de retourner au camp de base. Mes soldats me regardaient bizarrement - c'était comme s'ils s'attendaient à ce que je leur demande de détruire cet endroit.\n\nOù suis-je allé ? Je sais qu'ils savent que quelque chose s'est passé, mais ils n'osent pas me dire leurs griefs en face.\n\nEh bien... Laissez-les partir. S'ils n'ont aucun intérêt à se battre dans ma cohorte, ils peuvent se battre aux côtés de Caesar à la place.\n\nJ'ai besoin de temps pour comprendre ce qui s'est passé quand j'étais dans cette enceinte."
- nf_lanius_revolter.6.a:9 "Je suis mon propre homme."
+ nf_lanius_revolter.6.t:0 "Préoccupations croissantes"
+ nf_lanius_revolter.6.d:0 "C'était un sentiment étrange de sortir de ce complexe et de retourner au camp de base. Mes soldats me regardaient bizarrement - c'était comme s'ils s'attendaient à ce que je leur demande de détruire cet endroit.\n\nOù suis-je allé ? Je sais qu'ils savent que quelque chose s'est passé, mais ils n'osent pas me dire leurs griefs en face.\n\nEh bien... Laissez-les partir. S'ils n'ont aucun intérêt à se battre dans ma cohorte, ils peuvent se battre aux côtés de Caesar à la place.\n\nJ'ai besoin de temps pour comprendre ce qui s'est passé quand j'étais dans cette enceinte."
+ nf_lanius_revolter.6.a:0 "Je suis mon propre homme."
 
- nf_lanius_revolter.7.t.lac:9 "Revenir à la Lumière"
- nf_lanius_revolter.7.d.lac:9 "Finalement, je n'en pouvais plus. Les voix dans ma tête étaient de plus en plus fortes. J'ai ordonné à ce qui restait de ma cohorte de retourner dans le nord - pour affronter cette tribu une fois de plus, peut-être auront-ils des réponses à ce qui m'est arrivé.\n\nLorsque je suis retourné dans la vallée des Twin Mothers, mon hôte a été célébré comme un triomphe d'antan. Des cornes, des acclamations et des festivals. Toute la tribu s'est réunie pour m'acclamer à l'unisson pour quelque chose. Au début, je ne savais pas pour quoi. J'ai vite compris en écoutant les paroles d'un oracle de Diana en robe rouge, debout sur un haut piédestal.\nC'était pour moi.\n§R\"Le guerrier sans nom est de retour ! Es-tu prêt à accepter ce qui t'est dû ? Ta place dans les annales de l'histoire, plutôt que d'être l'esclave de Caesar ?\n\nEs-tu prêt à traverser le Rio Grande, à abattre Caesar et à construire avec nous un héritage qui durera mille ans ? Es-tu prêt à accepter ton vrai nom ?\nNous t'avons forgé une nouvelle armure, dépouille-toi de ton ancien toi et revêts l'armure de la tribu. Apollon, nous te l'accordons !\"§!"
- nf_lanius_revolter.7.a.lac:9 "§R... Mon nom !§!"
+ nf_lanius_revolter.7.t.lac:0 "Revenir à la Lumière"
+ nf_lanius_revolter.7.d.lac:0 "Finalement, je n'en pouvais plus. Les voix dans ma tête étaient de plus en plus fortes. J'ai ordonné à ce qui restait de ma cohorte de retourner dans le nord - pour affronter cette tribu une fois de plus, peut-être auront-ils des réponses à ce qui m'est arrivé.\n\nLorsque je suis retourné dans la vallée des Twin Mothers, mon hôte a été célébré comme un triomphe d'antan. Des cornes, des acclamations et des festivals. Toute la tribu s'est réunie pour m'acclamer à l'unisson pour quelque chose. Au début, je ne savais pas pour quoi. J'ai vite compris en écoutant les paroles d'un oracle de Diana en robe rouge, debout sur un haut piédestal.\nC'était pour moi.\n§R\"Le guerrier sans nom est de retour ! Es-tu prêt à accepter ce qui t'est dû ? Ta place dans les annales de l'histoire, plutôt que d'être l'esclave de Caesar ?\n\nEs-tu prêt à traverser le Rio Grande, à abattre Caesar et à construire avec nous un héritage qui durera mille ans ? Es-tu prêt à accepter ton vrai nom ?\nNous t'avons forgé une nouvelle armure, dépouille-toi de ton ancien toi et revêts l'armure de la tribu. Apollon, nous te l'accordons !\"§!"
+ nf_lanius_revolter.7.a.lac:0 "§R... Mon nom !§!"
 
- nf_lanius_revolter.7.t.ttm:9 "Une Célébration du Couronnement"
+ nf_lanius_revolter.7.t.ttm:0 "Une Célébration du Couronnement"
  nf_lanius_revolter.7.d.ttm:29 "Ce n'est pas la situation que je voulais, mais je ne suis pas non plus prêt à la laisser tomber.\nD'un côté, ce qu'a fait ZAX-29 était vraiment mal, dépouiller une autre personne de son identité. Ce n'était pas mieux que ce que Caesar fait à ses propres hommes.\n\nPourtant, il serait encore plus cruel de ma part de laisser passer ça, j'ai la chance de mettre fin à la tyrannie de Caesar. Si dépouiller un monstre de ses griffes est le moyen d'y parvenir ? Qu'il en soit ainsi.\nLa philosophie utilitariste dirait qu'aider des dizaines de milliers d'esclaves à se libérer de leurs chaînes est mieux que le caractère sacré de la vie d'un homme. Pourtant, être dans ce dilemme en premier lieu - être le conducteur du chariot sur le destin de milliers de personnes - m'a rempli d'effroi.\nEspérons que certaines célébrations mettront de l'ordre ? Lanius vient ce soir pour accepter sa place à mes côtés contre Caesar, \"Le Culte d'Apollon\", comme les tribus pensent l'appeler.\n\nPeut-être qu'ensemble, moi et la nouvelle alliance d'Apollon, ça va être bon pour les Terres Désolées après tout."
- nf_lanius_revolter.7.a.ttm:9 "... Est-ce qu'un robot de pépinière peut jeter un peu de vin dans mon cerveau ?"
+ nf_lanius_revolter.7.a.ttm:0 "... Est-ce qu'un robot de pépinière peut jeter un peu de vin dans mon cerveau ?"
 
- nf_lanius_revolter.8.t:9 "Lanius trahit Caesar ! Il rend un nouveau nom !"
- nf_lanius_revolter.8.d:9 "Dans une tournure d'événements choquante, le Légat Lanius, redouté et légendaire, et les forces de la Légion directement sous son commandement sont tombés sous la coupe d'un sorcier.  Il semble croire qu'il peut unir les Terres Désolées à la place de Caesar, et a dit à nos frumentarii qu'il va nous montrer ce qu'est la force. Est-il fou ?"
- nf_lanius_revolter.8.t.ces:9 "Notre Legatus s'allie aux Profligates !"
- nf_lanius_revolter.8.t.ttm_lac:9 "Le Nouveau Culte d'Apollon"
-
-
- nf_lanius_revolter.20.t:9 "Parler aux Dogs"
- nf_lanius_revolter.20.d:9 "La mission originelle de Lanius était de conquérir les Lycaons et de s'emparer de Denver, mais dans quel but ? Peut-être serait-il préférable de leur proposer une alliance avec la Légion, car si les chiens ne parlent pas, ils savent écouter."
- nf_lanius_revolter.20.a:9 "Un tampon utile au nord."
- nf_lanius_revolter.20.b:9 "La Légion ne prend pas en charge les animaux errants."
-
- nf_lanius_revolter.21.t:9 "La Première Victime de Caesar"
- nf_lanius_revolter.21.d:9 "Hécate et Ulysse sont parmi les seuls survivants des Poils Tordus, mais tandis qu'il a rejoint la Légion, elle a fui vers le nord et a trouvé du réconfort dans les bras d'une Mère. Elle a poursuivi son propre et fou plan d'eugénisme contre la Légion, cherchant à tester sa force contre la nôtre. Mais peut-être que maintenant, avec la Légion partie, elle peut se reposer et apprendre à lâcher prise ?"
- nf_lanius_revolter.21.a:9 "Le chagrin va te rendre folle, Hécate..."
- nf_lanius_revolter.21.b:9 "Ne travaillons pas avec la sorcière folle."
+ nf_lanius_revolter.8.t:0 "Lanius trahit Caesar ! Il rend un nouveau nom !"
+ nf_lanius_revolter.8.d:0 "Dans une tournure d'événements choquante, le Légat Lanius, redouté et légendaire, et les forces de la Légion directement sous son commandement sont tombés sous la coupe d'un sorcier.  Il semble croire qu'il peut unir les Terres Désolées à la place de Caesar, et a dit à nos frumentarii qu'il va nous montrer ce qu'est la force. Est-il fou ?"
+ nf_lanius_revolter.8.t.ces:0 "Notre Legatus s'allie aux Profligates !"
+ nf_lanius_revolter.8.t.ttm_lac:0 "Le Nouveau Culte d'Apollon"
 
 
- nf_lanius_revolter.211.t:9 "Rebonjour Maman"
- nf_lanius_revolter.211.d:9 "Lanius et Diana ont vaincu la Légion et ont, peut-être, apporté la paix aux Terres Désolées. Mais maintenant, ils veulent travailler avec moi ... Que dois-je faire ?  Que font les filles d'Hécate maintenant ?"
- nf_lanius_revolter.211.a:9 "Le chagrin va te rendre folle, Hécate ..."
+ nf_lanius_revolter.20.t:0 "Parler aux Dogs"
+ nf_lanius_revolter.20.d:0 "La mission originelle de Lanius était de conquérir les Lycaons et de s'emparer de Denver, mais dans quel but ? Peut-être serait-il préférable de leur proposer une alliance avec la Légion, car si les chiens ne parlent pas, ils savent écouter."
+ nf_lanius_revolter.20.a:0 "Un tampon utile au nord."
+ nf_lanius_revolter.20.b:0 "La Légion ne prend pas en charge les animaux errants."
 
- nf_lanius_revolter.30.t:9 "Le Sac de Flagstaff"
- nf_lanius_revolter.30.d:9 "Les hommes de Lanius ont pillé Flagstaff pendant trois jours, comme le veut la coutume.  Un pillage rendu d'autant plus tragique par le peu qu'il y avait à piller. Il y avait les trésors de la Légion, et les armureries, mais aucune des icônes de Santa Fe, aucun des lainages des Navajos, aucun des parfums de Lonestar. Si Diana avait raison, et que tous les empires tombent, et sont jugés par ce qu'ils laissent derrière eux, la Légion était, vraiment, une impasse."
- nf_lanius_revolter.30.a:9 "Une vie pour construire la Légion, une heure pour la détruire."
-
- nf_lanius_revolter.31.t:9 "L'île au Soleil"
- nf_lanius_revolter.31.d:9 "Les escortes de la Légion ont transporté leur vieux dieu vers l'est, en descendant le Mississippi, jusqu'à un navire maya. Les Mayas, à leur tour, ont emmené leur \"invité\" à La Havane, où il était un délégué distingué de la flotte maritime militaire. Car quelle meilleure façon pour Caesar de finir ses jours, que de se draper dans le pourpre qu'il aimait tant ?"
- nf_lanius_revolter.31.a:9 "Brûlons le drapeau, et recommençons."
-
- nf_lanius_revolter.32.t:9 "Regarder vers l'Ouest"
- nf_lanius_revolter.32.d:9 "Croyez-vous que Caesar ait jamais regretté les chemins qui l'ont mené à Kou ? S'est-il jamais demandé si les Disciples étaient plus sages qu'il ne le pensait ? S'il a eu de telles pensées, il ne les a jamais écrites, et Lanius n'a jamais pris la peine de lui demander."
- nf_lanius_revolter.32.a:9 "Laissez-le écrire sa propre histoire."
+ nf_lanius_revolter.21.t:0 "La Première Victime de Caesar"
+ nf_lanius_revolter.21.d:0 "Hécate et Ulysse sont parmi les seuls survivants des Poils Tordus, mais tandis qu'il a rejoint la Légion, elle a fui vers le nord et a trouvé du réconfort dans les bras d'une Mère. Elle a poursuivi son propre et fou plan d'eugénisme contre la Légion, cherchant à tester sa force contre la nôtre. Mais peut-être que maintenant, avec la Légion partie, elle peut se reposer et apprendre à lâcher prise ?"
+ nf_lanius_revolter.21.a:0 "Le chagrin va te rendre folle, Hécate..."
+ nf_lanius_revolter.21.b:0 "Ne travaillons pas avec la sorcière folle."
 
 
- nf_lanius_revolter.33.t:9 "Le Mariage Improbable"
- nf_lanius_revolter.33.d:9 "Dans un geste que personne n'aurait pu prévoir dans les Terres Désolées, le Légat, le commandant en second de Caesar, a fait défection à la Légion et s'est allié au chef des Twin Mothers, Diana. Bien que les raisons de cette défection ne soient pas claires pour les forces en présence dans les Terres Désolées, la Légion de Caesar doit désormais faire face à une nouvelle menace à sa frontière orientale ainsi qu'à la République de Nouvelle-Californie à l'ouest."
- nf_lanius_revolter.33.a:9 "Caesar n'aurait peut-être pas dû envoyer un homme qui ne respecte que la force de l'Est."
+ nf_lanius_revolter.211.t:0 "Rebonjour Maman"
+ nf_lanius_revolter.211.d:0 "Lanius et Diana ont vaincu la Légion et ont, peut-être, apporté la paix aux Terres Désolées. Mais maintenant, ils veulent travailler avec moi ... Que dois-je faire ?  Que font les filles d'Hécate maintenant ?"
+ nf_lanius_revolter.211.a:0 "Le chagrin va te rendre folle, Hécate ..."
+
+ nf_lanius_revolter.30.t:0 "Le Sac de Flagstaff"
+ nf_lanius_revolter.30.d:0 "Les hommes de Lanius ont pillé Flagstaff pendant trois jours, comme le veut la coutume.  Un pillage rendu d'autant plus tragique par le peu qu'il y avait à piller. Il y avait les trésors de la Légion, et les armureries, mais aucune des icônes de Santa Fe, aucun des lainages des Navajos, aucun des parfums de Lonestar. Si Diana avait raison, et que tous les empires tombent, et sont jugés par ce qu'ils laissent derrière eux, la Légion était, vraiment, une impasse."
+ nf_lanius_revolter.30.a:0 "Une vie pour construire la Légion, une heure pour la détruire."
+
+ nf_lanius_revolter.31.t:0 "L'île au Soleil"
+ nf_lanius_revolter.31.d:0 "Les escortes de la Légion ont transporté leur vieux dieu vers l'est, en descendant le Mississippi, jusqu'à un navire maya. Les Mayas, à leur tour, ont emmené leur \"invité\" à La Havane, où il était un délégué distingué de la flotte maritime militaire. Car quelle meilleure façon pour Caesar de finir ses jours, que de se draper dans le pourpre qu'il aimait tant ?"
+ nf_lanius_revolter.31.a:0 "Brûlons le drapeau, et recommençons."
+
+ nf_lanius_revolter.32.t:0 "Regarder vers l'Ouest"
+ nf_lanius_revolter.32.d:0 "Croyez-vous que Caesar ait jamais regretté les chemins qui l'ont mené à Kou ? S'est-il jamais demandé si les Disciples étaient plus sages qu'il ne le pensait ? S'il a eu de telles pensées, il ne les a jamais écrites, et Lanius n'a jamais pris la peine de lui demander."
+ nf_lanius_revolter.32.a:0 "Laissez-le écrire sa propre histoire."
+
+
+ nf_lanius_revolter.33.t:0 "Le Mariage Improbable"
+ nf_lanius_revolter.33.d:0 "Dans un geste que personne n'aurait pu prévoir dans les Terres Désolées, le Légat, le commandant en second de Caesar, a fait défection à la Légion et s'est allié au chef des Twin Mothers, Diana. Bien que les raisons de cette défection ne soient pas claires pour les forces en présence dans les Terres Désolées, la Légion de Caesar doit désormais faire face à une nouvelle menace à sa frontière orientale ainsi qu'à la République de Nouvelle-Californie à l'ouest."
+ nf_lanius_revolter.33.a:0 "Caesar n'aurait peut-être pas dû envoyer un homme qui ne respecte que la force de l'Est."
 
 
 

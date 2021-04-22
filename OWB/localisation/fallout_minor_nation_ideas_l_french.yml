@@ -8,8 +8,8 @@
  neutrality_owb:0 "Neutralité"
  neutrality_owb_desc:0 ""
 
- sun_victors_against_pallus:9 "Victors Against Paullus"
- sun_victors_against_pallus_desc:9 "Paullus was seen as unstoppable before he tried to run his cohorts into Sun Dogs territory. The Centurion's chariots passed through a narrow mountain passage - feeling themselves invincible after their previous victories.\nA short, if decisive battle would follow - Gold-hound proving to Paullus that Colorado was out of his reach. Even today the legacy of Paullus's failed invasion still lingers in the minds of the Sun Dogs - the tribe having reversed engineered the Legionary chariots - making them their own!"
+ sun_victors_against_pallus:0 "Victors Against Paullus"
+ sun_victors_against_pallus_desc:0 "Paullus was seen as unstoppable before he tried to run his cohorts into Sun Dogs territory. The Centurion's chariots passed through a narrow mountain passage - feeling themselves invincible after their previous victories.\nA short, if decisive battle would follow - Gold-hound proving to Paullus that Colorado was out of his reach. Even today the legacy of Paullus's failed invasion still lingers in the minds of the Sun Dogs - the tribe having reversed engineered the Legionary chariots - making them their own!"
 
   #########
   ##### UFO
@@ -50,8 +50,8 @@
   #MES
  wickiup_nomads:0 "Wicki Nomade"
  wickiup_nomads_desc:0 "Pendant une grande partie de leur histoire, les Mescaleros ont été des chasseurs et des guerriers nomades, construisant des habitations temporaires (appelées \"Wicki up\") lorsqu'ils se déplaçaient dans les plaines du sud-ouest. Malgré l'évolution vers des établissements plus permanents à la fin du XXe siècle, les histoires et les traditions des périodes plus nomades sont toujours des pierres angulaires importantes de la culture des Mescaleros."
- guerilla_legacy:9 "Thuner Chevauche un Cheval Noir"
- guerilla_legacy_desc:9 "Le 27 mai 1873, par ordre exécutif du président Ulisses S. Grant, la tribu des Apaches Mescalero fut officiellement établie. Contrairement aux Navajo, les Apache Mescalero étaient peu nombreux et le nouveau gouvernement a dû inviter plusieurs autres petites bandes apaches, comme les Apache Lipan, pour l'aider à gérer le nouveau territoire. La tribu Mescalero a finalement été en mesure de négocier avec le Commonwealth des quatre États pour obtenir de plus grands privilèges en matière d'administration légale après des affaires historiques comme McDirt contre Tulsa, ce qui a permis à la tribu de connaître un âge d'or jusqu'au début de la Grande Guerre.\n\nEn raison de son importance non vitale, la nation a miraculeusement été épargnée par la dévastation qui a suivi le début de la Grande Guerre, mais elle a tout de même souffert de raids, de famines et d'attaques de mutants.\nEn réponse à cette situation, le conseil tribal s'est efforcé de combiner les pouvoirs des branches exécutive, judiciaire et législative du gouvernement de la nation en un seul poste, permettant ainsi aux Mescalero de répondre plus rapidement aux menaces croissantes auxquelles ils sont confrontés dans les Terres Désolées. La force du Président ferait écho à celle des chefs Lipan d'autrefois dans le nouveau monde que la guerre a engendré."
+ guerilla_legacy:0 "Thuner Chevauche un Cheval Noir"
+ guerilla_legacy_desc:0 "Le 27 mai 1873, par ordre exécutif du président Ulisses S. Grant, la tribu des Apaches Mescalero fut officiellement établie. Contrairement aux Navajo, les Apache Mescalero étaient peu nombreux et le nouveau gouvernement a dû inviter plusieurs autres petites bandes apaches, comme les Apache Lipan, pour l'aider à gérer le nouveau territoire. La tribu Mescalero a finalement été en mesure de négocier avec le Commonwealth des quatre États pour obtenir de plus grands privilèges en matière d'administration légale après des affaires historiques comme McDirt contre Tulsa, ce qui a permis à la tribu de connaître un âge d'or jusqu'au début de la Grande Guerre.\n\nEn raison de son importance non vitale, la nation a miraculeusement été épargnée par la dévastation qui a suivi le début de la Grande Guerre, mais elle a tout de même souffert de raids, de famines et d'attaques de mutants.\nEn réponse à cette situation, le conseil tribal s'est efforcé de combiner les pouvoirs des branches exécutive, judiciaire et législative du gouvernement de la nation en un seul poste, permettant ainsi aux Mescalero de répondre plus rapidement aux menaces croissantes auxquelles ils sont confrontés dans les Terres Désolées. La force du Président ferait écho à celle des chefs Lipan d'autrefois dans le nouveau monde que la guerre a engendré."
 
   #TLP
  always_ready_always_there:0 "Toujours Prêt, Toujours Là"
@@ -90,10 +90,10 @@
 
 
   #EDA
- EDA_ufo_defense:9 "\"PROJECT MOGUL\" Legacy"
- EDA_ufo_defense_desc:9 "The "Blue Rose Society" was the formal, non-confidential name for a series of military bases related to the extant PROJECT MOGUL, a hundred-year research project that sought to study the methods by which new sciences can be used in novel ways to defeat enemies of America. Roswell, New Mexico served as the homes of some of MOGUL's earliest experiments.\n\nAfter the Great War, the Society has grown greatly to attempt to fill the space left by proper American governance through establishing a local government of regional committees led by a central representing board in Roswell. However, some propose that the Society's higher ups still carry on the scientific tradition of their forebears in the shadows. "
- EDA_secrets:9 "Non-Disclosure Agreements"
- EDA_secrets_desc:9 "Any wasteland settlers wishing to move to, trade in or find safety within Blue Rose Society lands has to sign a "Non-Disclosure Agreement", a binding agreement between recipent and the Society's Board of Directors. People who have broken this agreement tend to not stay around for long."
+ EDA_ufo_defense:0 "\"PROJECT MOGUL\" Legacy"
+ EDA_ufo_defense_desc:0 "The "Blue Rose Society" was the formal, non-confidential name for a series of military bases related to the extant PROJECT MOGUL, a hundred-year research project that sought to study the methods by which new sciences can be used in novel ways to defeat enemies of America. Roswell, New Mexico served as the homes of some of MOGUL's earliest experiments.\n\nAfter the Great War, the Society has grown greatly to attempt to fill the space left by proper American governance through establishing a local government of regional committees led by a central representing board in Roswell. However, some propose that the Society's higher ups still carry on the scientific tradition of their forebears in the shadows. "
+ EDA_secrets:0 "Non-Disclosure Agreements"
+ EDA_secrets_desc:0 "Any wasteland settlers wishing to move to, trade in or find safety within Blue Rose Society lands has to sign a "Non-Disclosure Agreement", a binding agreement between recipent and the Society's Board of Directors. People who have broken this agreement tend to not stay around for long."
 
   #WHI
  whi_burden_of_a_nation:0 "Le Fardeau d'une Nation"

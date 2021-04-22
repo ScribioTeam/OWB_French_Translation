@@ -60,12 +60,12 @@
  ballistic_weaponry_tech_2:0 "Armes balistiques communes"
  ballistic_weaponry_tech_3:0 "Armes balistiques améliorées"
  ballistic_weaponry_tech_4:0 "Armes balistiques avancées"
- energy_weapon_emitter_tech:9 "Matrices de Focalisation"
- energy_weapon_emitter_tech_desc:9 ""
+ energy_weapon_emitter_tech:0 "Matrices de Focalisation"
+ energy_weapon_emitter_tech_desc:0 ""
  warrior_equipment:0 "Équipement du guerrier"
  warrior_equipment_desc:0 "Fournir des choses comme des sacs, des sacs de couchage, des trousses médicales et des outils d'entretien améliore le moral et l'efficacité au combat."
- warrior_melee_tech:9 "Conceptions Simplifiées"
- warrior_melee_tech_desc:9 ""
+ warrior_melee_tech:0 "Conceptions Simplifiées"
+ warrior_melee_tech_desc:0 ""
  overcharged_ammunition:0 "Munitions surchargées"
  overcharged_ammunition_desc:0 "En demandant à nos fabricants de surcharger nos MFC, ECP et EC avant de les expédier à nos troupes, nous pouvons nous assurer que nos armes à énergie sont plus puissantes sans qu'il soit nécessaire de modifier directement l'arme."
  custom_built_capacitors:0 "Condensateurs sur mesure"
@@ -78,8 +78,8 @@
  #----------------------------
  # Power Armour
  #----------------------------
- wasteland_pa_tech:9 "Armure Assistée Dénudée"
- wasteland_pa_tech_desc:9 ""
+ wasteland_pa_tech:0 "Armure Assistée Dénudée"
+ wasteland_pa_tech_desc:0 ""
 
  scav_pa_tech:0 "Armure assistée récupérée"
  scav_pa_tech_desc:0 "Le pauvre homme, souvent concocté avec des pièces de rechange et des restes cassés. Pas aussi efficace qu'un T-45d ordinaire mais bien meilleur qu'une simple armure de métal."

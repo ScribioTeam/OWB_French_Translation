@@ -329,8 +329,8 @@
  nf_legion.82.b:0 "Les Frumentarii dirigent la Légion."
  nf_legion.82.c:0 "Lucius reste fidèle à Caesar."
  nf_legion.82.e:0 "Le légat Malpais sait comment crucifier."
- nf_legion.82.f:9 "§RLe plus grand des commandants pour la plus grande guerre.§!"
- nf_legion.82.g:9 "§GLe légat des goules sort de l'ombre...§!"
+ nf_legion.82.f:0 "§RLe plus grand des commandants pour la plus grande guerre.§!"
+ nf_legion.82.g:0 "§GLe légat des goules sort de l'ombre...§!"
  CES_civil_war:0 "La Guerre Civile !"
   ### White legs Upgrade
  nf_legion.83.t:0 "Les leçons d'Ulysse"
@@ -402,11 +402,11 @@
  nf_legion.94.a:0 "Vous devez vivre pour que lorsque vous mourrez, le monde pleure et vous vous réjouissez. L'a-t-il fait ?"
   ### Ceasar LIves
  nf_legion.95.t:0 "Un homme instruit"
- nf_legion.95.d:9 "Un coursier de New Vegas a offert un esclave pour servir de médecin à Caesar. Mieux encore, il sera désormais le sparring-partner intellectuel de [CES.GetName] ! Dans un premier temps, ils vont se pencher sur la \"maladie\" de Caesar."
+ nf_legion.95.d:0 "Un coursier de New Vegas a offert un esclave pour servir de médecin à Caesar. Mieux encore, il sera désormais le sparring-partner intellectuel de [CES.GetName] ! Dans un premier temps, ils vont se pencher sur la \"maladie\" de Caesar."
  nf_legion.95.a:0 "Un jour, Gannon reconnaîtra notre sagesse."
  nf_legion.95.a_tt:0 "\n§gCaesar est guéri !§!"
- nf_legion.95.b:9 "Le couteau a glissé et Caesar est fortement sollicité."
- nf_legion.95.b_tt:9 "\n§RPourquoi avons-nous embauché un coursier de toute façon !!§!"
+ nf_legion.95.b:0 "Le couteau a glissé et Caesar est fortement sollicité."
+ nf_legion.95.b_tt:0 "\n§RPourquoi avons-nous embauché un coursier de toute façon !!§!"
 
 
    ### Picking Up the Pieces
@@ -538,24 +538,24 @@
  nf_legion.121.a:0 "New Vegas deviendra la Nouvelle Rome !"
  nf_legion.121.b:0 "Flagstaff restera notre capitale."
 
- nf_legion.122.t:9 "Instructions pour [RES.GetLeader]"
- nf_legion.122.d:9 "Maintenant qu'une Goule dirige la Légion, la Réserve n'a plus de raison d'être.  [Root.GetLeader] a plusieurs façons d'approcher son ancien maître. Il peut demander l'annexion, en prenant les ressources de la réserve pour la Légion d'Hadès. Ou il peut raviver l'ancienne alliance, en prenant le savoir faire de la Réserve pour la Légion. Pourquoi, avec le service de la Légion entière, il devrait y avoir beaucoup de matières premières pour des expériences."
- nf_legion.122.a:9 "Maintenant, je suis le maître."
- nf_legion.122.b:9 "Favorisons des liens plus étroits."
+ nf_legion.122.t:0 "Instructions pour [RES.GetLeader]"
+ nf_legion.122.d:0 "Maintenant qu'une Goule dirige la Légion, la Réserve n'a plus de raison d'être.  [Root.GetLeader] a plusieurs façons d'approcher son ancien maître. Il peut demander l'annexion, en prenant les ressources de la réserve pour la Légion d'Hadès. Ou il peut raviver l'ancienne alliance, en prenant le savoir faire de la Réserve pour la Légion. Pourquoi, avec le service de la Légion entière, il devrait y avoir beaucoup de matières premières pour des expériences."
+ nf_legion.122.a:0 "Maintenant, je suis le maître."
+ nf_legion.122.b:0 "Favorisons des liens plus étroits."
 
- nf_legion.123.t:9 "Les Pièces pour Hadès"
- nf_legion.123.d:9 "Caius Drusus a réussi au-delà de ses rêves les plus fous lorsqu'il a quitté la Réserve. Il n'est plus un serviteur de Caesar, il règne sur l'Arizona et le Nouveau Mexique. Maintenant, notre ancien soldat vient avec une demande : que nous leur confions notre sécurité. En échange, le commerce d'esclaves connaîtra un essor sans précédent... et peut-être pourrons-nous terminer le Grand Œuvre et sauver l'humanité des goules."
- nf_legion.123.a:9 "Nous sacrifierons notre liberté pour le Grand Œuvre."
- nf_legion.123.b:9 "Qui est-il, pour nous donner des ordres ?"
+ nf_legion.123.t:0 "Les Pièces pour Hadès"
+ nf_legion.123.d:0 "Caius Drusus a réussi au-delà de ses rêves les plus fous lorsqu'il a quitté la Réserve. Il n'est plus un serviteur de Caesar, il règne sur l'Arizona et le Nouveau Mexique. Maintenant, notre ancien soldat vient avec une demande : que nous leur confions notre sécurité. En échange, le commerce d'esclaves connaîtra un essor sans précédent... et peut-être pourrons-nous terminer le Grand Œuvre et sauver l'humanité des goules."
+ nf_legion.123.a:0 "Nous sacrifierons notre liberté pour le Grand Œuvre."
+ nf_legion.123.b:0 "Qui est-il, pour nous donner des ordres ?"
 
 
- nf_legion.124.t:9 "[RES.GetLeader] coopère"
- nf_legion.124.d:9 "Caius Drusus travaillera avec le chef de la Réserve pour les goules, et, peut-être, pour les peaux lisses.  En signe de soutien, [RES.GetLeader] offre l'accès aux armes nucléaires qui alimentent leurs plus puissantes défenses.  Est-ce que quelqu'un dans les Terres Désolées peut nous résister maintenant ?"
- nf_legion.124.a:9 "Et cela fera plus de goules !"
+ nf_legion.124.t:0 "[RES.GetLeader] coopère"
+ nf_legion.124.d:0 "Caius Drusus travaillera avec le chef de la Réserve pour les goules, et, peut-être, pour les peaux lisses.  En signe de soutien, [RES.GetLeader] offre l'accès aux armes nucléaires qui alimentent leurs plus puissantes défenses.  Est-ce que quelqu'un dans les Terres Désolées peut nous résister maintenant ?"
+ nf_legion.124.a:0 "Et cela fera plus de goules !"
 
- nf_legion.125.t:9 "[RES.GetLeader] rejette notre offre."
- nf_legion.125.d:9 "Les gens de la Réserve s'irritent sous leur chef despotique. Nous devons les sauver et nous assurer que les goules sont en sécurité !"
- nf_legion.125.a:9 "Nous avons fait de notre mieux."
+ nf_legion.125.t:0 "[RES.GetLeader] rejette notre offre."
+ nf_legion.125.d:0 "Les gens de la Réserve s'irritent sous leur chef despotique. Nous devons les sauver et nous assurer que les goules sont en sécurité !"
+ nf_legion.125.a:0 "Nous avons fait de notre mieux."
 
  nf_legion.126.t:0 "Le Monstre vient à l'Ouest"
  nf_legion.126.d:0 "Avec la Mort du Grand Caesar, Lanius, le héros de l'Est, vient à l'Ouest pour accomplir sa volonté. Vulpes et les autres se sont amusés, mais aucun d'entre eux ne peut gagner la faveur de la Légion. Quels triomphes ont-ils contre l'homme qui a rendu le Colorado rouge ? Il va maintenant terminer la tâche qui lui a été confiée et écraser tous ceux qui défient la volonté de Caesar, même dans la mort."
@@ -566,15 +566,15 @@
  CES_healthy:0 "Caesar est guéri !"
 
   #### Kick Out Folks
- nf_lanius_integration.2.t:9 "Le Cazador de l'Est"
- nf_lanius_integration.2.d:9 "Lanius a échoué. L'homme qui se faisait appeler le Monstre de l'Est n'a pas réussi à prendre Dog City, et beaucoup se demandent si les jours d'expansion de la Légion sont derrière elle.  Honnêtement, comment ont-ils pu perdre contre [HAN.GetLeader] ?  Caesar crucifierait Lanius s'il retournait à Flagstaff, mais ce lâche n'a jamais osé montrer son visage..."
- nf_lanius_integration.2.a:9 "Ugh, il est temps de se concentrer sur Vegas"
+ nf_lanius_integration.2.t:0 "Le Cazador de l'Est"
+ nf_lanius_integration.2.d:0 "Lanius a échoué. L'homme qui se faisait appeler le Monstre de l'Est n'a pas réussi à prendre Dog City, et beaucoup se demandent si les jours d'expansion de la Légion sont derrière elle.  Honnêtement, comment ont-ils pu perdre contre [HAN.GetLeader] ?  Caesar crucifierait Lanius s'il retournait à Flagstaff, mais ce lâche n'a jamais osé montrer son visage..."
+ nf_lanius_integration.2.a:0 "Ugh, il est temps de se concentrer sur Vegas"
 
   #### Kick Out Folks
- nf_lanius_integration.3.t:9 "Le Second Paullus"
- nf_lanius_integration.3.d:9 "Dans une tournure d'événements choquante, le redouté et légendaire Légat Lanius et les forces de la Légion directement sous son commandement ont été vaincus. C'est une défaite importante pour Caesar, car la frontière orientale de sa Légion, supervisée par nul autre que son plus estimé subordonné, a été compromise par ceux que la Légion cherchait à rallier à sa bannière. Il reste à voir comment cette défaite affectera le statut militaire de la Légion."
- nf_lanius_integration.3.a:9 "Je n'arrive pas à croire que les tribus aient perdu contre des armes lourdes !"
+ nf_lanius_integration.3.t:0 "Le Second Paullus"
+ nf_lanius_integration.3.d:0 "Dans une tournure d'événements choquante, le redouté et légendaire Légat Lanius et les forces de la Légion directement sous son commandement ont été vaincus. C'est une défaite importante pour Caesar, car la frontière orientale de sa Légion, supervisée par nul autre que son plus estimé subordonné, a été compromise par ceux que la Légion cherchait à rallier à sa bannière. Il reste à voir comment cette défaite affectera le statut militaire de la Légion."
+ nf_lanius_integration.3.a:0 "Je n'arrive pas à croire que les tribus aient perdu contre des armes lourdes !"
 
- nf_lanius_integration.4.t:9 "La Conquête de l'Est"
- nf_lanius_integration.4.d:9 "Les Hang Dogs n'ont pas pu l'arrêter. Diana n'a pas pu l'arrêter. La Confrérie n'a pas pu l'arrêter. Dog City déverse esclaves, nourriture et métaux dans la gueule de la Légion. Un moteur de guerre que les Terres Désolées n'ont pas vu depuis la chute des Bombes a atteint sa limite naturelle et se prépare à marcher vers l'Ouest. Et au pont entre l'Est et l'Ouest, le destin des Terres Désolées sera décidé. Bonne chance aux Sables Ombragés ; contre nos guerriers, ils en auront besoin."
+ nf_lanius_integration.4.t:0 "La Conquête de l'Est"
+ nf_lanius_integration.4.d:0 "Les Hang Dogs n'ont pas pu l'arrêter. Diana n'a pas pu l'arrêter. La Confrérie n'a pas pu l'arrêter. Dog City déverse esclaves, nourriture et métaux dans la gueule de la Légion. Un moteur de guerre que les Terres Désolées n'ont pas vu depuis la chute des Bombes a atteint sa limite naturelle et se prépare à marcher vers l'Ouest. Et au pont entre l'Est et l'Ouest, le destin des Terres Désolées sera décidé. Bonne chance aux Sables Ombragés ; contre nos guerriers, ils en auront besoin."
  nf_lanius_integration.4.a:0 "En route pour New Vegas... et au-delà."

@@ -4,7 +4,7 @@
 
   # GUI:
  ADD_CORE_TT:0 "§HEtat [ROOT.coring_button_label_name_scripted_loc]§! £pol_power [?coring_var_coring_cost]"
- ADD_CORE_TT_DELAYED:9 "§HValeur de base§! : £pol_power 15\n§HPopulation d'État§! : £pol_power [?coring_var_state_pop]\n§HVotre population de cœur§! : £pol_power [?coring_var_cored_pop]\n§HDistance de la capitale§! : £pol_power [?coring_var_distance]\n§HFacteur d'Efficacité dre rendre cœur§!: [?coring_cost_factor_gui|%0]\n§HMultiplicateur de revendications§! : [?coring_var_claim|%0]\n§HRéduction du Coût de Création de rendre cœur par les Modificateurs§! : [?coring_cost_from_modifiers_for_display|%0]\n§HLimite de Coûts de rendre Cœur§! : £pol_power [?maximum_coring_cost]\n§HCoûts de rendre Cœur§!: £pol_power [?coring_var_coring_cost]\n---------------\n[!add_core_click_enabled][Root.coring_button_bonus_effect_scripted_loc]"
+ ADD_CORE_TT_DELAYED:0 "§HValeur de base§! : £pol_power 15\n§HPopulation d'État§! : £pol_power [?coring_var_state_pop]\n§HVotre population de cœur§! : £pol_power [?coring_var_cored_pop]\n§HDistance de la capitale§! : £pol_power [?coring_var_distance]\n§HFacteur d'Efficacité dre rendre cœur§!: [?coring_cost_factor_gui|%0]\n§HMultiplicateur de revendications§! : [?coring_var_claim|%0]\n§HRéduction du Coût de Création de rendre cœur par les Modificateurs§! : [?coring_cost_from_modifiers_for_display|%0]\n§HLimite de Coûts de rendre Cœur§! : £pol_power [?maximum_coring_cost]\n§HCoûts de rendre Cœur§!: £pol_power [?coring_var_coring_cost]\n---------------\n[!add_core_click_enabled][Root.coring_button_bonus_effect_scripted_loc]"
  not_allowed_to_core_flag:0 " §RA la possibilité de transformer en État coeur (core) désactivé§!"
  tt_is_not_in_home_area:0 "N'est pas connecté à la capitale du propriétaire."
  core_button_25_state_reduction_tt:25 "Obtenir une réduction locale permanente de §G25%§! des coûts pour rendre un état coeur"
@@ -30,7 +30,7 @@
   # Custom Modifiers:
  core_creation_cost_factor:0 "Coût de création coeur"
  local_core_creation_cost_factor:0 "Coût de création coeur local"
- maxium_core_cost_increase:9 "Coût Maximal de rendre Cœur modifié par"
+ maxium_core_cost_increase:0 "Coût Maximal de rendre Cœur modifié par"
  required_compliance_for_coring:0 "Conformité requise pour rendre coeur"
  local_required_compliance_for_coring:0 "Conformité locale requise pour rendre coeur"
  required_compliance_for_coring_factor:0 "Facteur de conformité requise pour rendre coeur"

@@ -8,7 +8,7 @@
  bhd.2.d:0 "Depuis quelque temps, nous avons connaissance d'une grande puissance dans les rudes terres désolées à l'est du fleuve Colorado. D'après les commerçants venus de l'Utah et de l'Arizona, nous avons même constaté que la région semble être dominée par des sectes néo-romaines de merde qui jurent fidélité à leur "Caesar" et crucifient ceux qui s'opposent à eux. Cependant, nous n'avons pas beaucoup pensé à eux pendant un certain temps : ils semblent avoir peu de grandes villes à leur actif et ignorent pour la plupart la technologie moderne au profit d'équipements de mêlée plus primitifs. Un groupe de raiders comme les autres, semble-t-il. \n\nIl semble toutefois que les événements récents nous aient obligés à reconsidérer cette évaluation. Au cours des derniers mois, nous avons vu apparaître et disparaître de plus en plus de scouts vêtus d'une armure similaire. La semaine dernière, une division a campé en vue de nos patrouilles. Aujourd'hui, une compagnie est arrivée, et d'autres semblent être en route. Pourquoi sont-ils ici ? Eh bien, il n'y a qu'une chose à faire dans la région : le Barrage Hoover. Nous devons préparer nos défenses. C'est urgent."
  bhd.2.a:0 "Alertez toutes nos unités. Préparez-vous à défendre le Barrage."
  bhd.4.t:0 "La Bataille pour le Barrage Hoover"
- bhd.4.d:9 "Le Barrage Hoover, qui s'étend à travers le puissant Colorado, est devenu aujourd'hui le champ de bataille entre deux vastes forces. Sur ordre direct de Caesar, le légat de Malpais lui-même dirige une force massive de légionnaires et d'auxiliaires tribaux dans une tentative de saisir le \"Mur de l'Ancien Monde\" des mains de la République de Nouvelle Californie, qui le détient depuis le traité de New Vegas de 2274. La Légion, aidée par son nombre supérieur et son obéissance féroce aux ordres, semble avoir le dessus dans l'affrontement, mais elle devra porter tout l'élan qu'elle gagnera en perçant le barrage pour le protéger d'une contre-attaque.\n\nS'ils réussissent, le Mojave et les lumières de Vegas s'ouvriront pour que Caesar puisse s'en emparer. S'ils échouent, le légat de Malpais pourrait se retrouver dans une situation difficile, et la RNC conservera son emprise sur le Mojave un peu plus longtemps."
+ bhd.4.d:0 "Le Barrage Hoover, qui s'étend à travers le puissant Colorado, est devenu aujourd'hui le champ de bataille entre deux vastes forces. Sur ordre direct de Caesar, le légat de Malpais lui-même dirige une force massive de légionnaires et d'auxiliaires tribaux dans une tentative de saisir le \"Mur de l'Ancien Monde\" des mains de la République de Nouvelle Californie, qui le détient depuis le traité de New Vegas de 2274. La Légion, aidée par son nombre supérieur et son obéissance féroce aux ordres, semble avoir le dessus dans l'affrontement, mais elle devra porter tout l'élan qu'elle gagnera en perçant le barrage pour le protéger d'une contre-attaque.\n\nS'ils réussissent, le Mojave et les lumières de Vegas s'ouvriront pour que Caesar puisse s'en emparer. S'ils échouent, le légat de Malpais pourrait se retrouver dans une situation difficile, et la RNC conservera son emprise sur le Mojave un peu plus longtemps."
  bhd.4.a:0 "Les sauvages seront repoussés. Pour la République !"
  bhd.4.b:0 "Personne n'arrêtera la marche de Caesar vers sa Nouvelle Rome."
  bhd.4.c:0 "La bataille façonnera le Mojave, quelle qu'en soit l'issue."
@@ -93,9 +93,9 @@
  sbhd_ncr_mob:0 "Le RNC se mobilise !"
 
   ### Failure
- bhd.153.t:9 "Divisés, ils tombent"
- bhd.153.d:9 "La Confrérie du Mojave et les territoires Mojave continuent de se saigner à blanc, ce qui n'est possible que parce que les deux parties sont dirigées par des imbéciles. Nous serions fous de ne pas les attaquer tous les deux maintenant, jusqu'à ce que le seul son qui reste soit le rire des dieux."
- bhd.153.a:9 "Ils meurent trop facilement."
+ bhd.153.t:0 "Divisés, ils tombent"
+ bhd.153.d:0 "La Confrérie du Mojave et les territoires Mojave continuent de se saigner à blanc, ce qui n'est possible que parce que les deux parties sont dirigées par des imbéciles. Nous serions fous de ne pas les attaquer tous les deux maintenant, jusqu'à ce que le seul son qui reste soit le rire des dieux."
+ bhd.153.a:0 "Ils meurent trop facilement."
 
   ### Flags
  fbhd_mot_hold_dam:0 "§MLa Légion n'a même pas rompu le barrage§!"

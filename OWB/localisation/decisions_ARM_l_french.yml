@@ -15,4 +15,4 @@
 
   ### The Great Game  ###
  ARM_taa_food:0 "Le Grand Jeu"
- ARM_taa_food_desc:9 "La sécession de la TAA de la République du Rio Grande était censée leur donner la liberté, mais pour certains de ses voisins, cela ne représente qu'une nouvelle proie. Le temps dira si [TAA.GetLeader] peut sauver sa jeune nation. \nActuellement, l'état d'infuence des voisins de la TAA est : \n§M[RRG.GetNameWithFlag]§! : \n§M[ARM.GetNameWithFlag]§! : \n§M[ACH.GetNameWithFlag]§! : "
+ ARM_taa_food_desc:0 "La sécession de la TAA de la République du Rio Grande était censée leur donner la liberté, mais pour certains de ses voisins, cela ne représente qu'une nouvelle proie. Le temps dira si [TAA.GetLeader] peut sauver sa jeune nation. \nActuellement, l'état d'infuence des voisins de la TAA est : \n§M[RRG.GetNameWithFlag]§! : \n§M[ARM.GetNameWithFlag]§! : \n§M[ACH.GetNameWithFlag]§! : "

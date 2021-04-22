@@ -31,7 +31,7 @@
  nf_mojave_brotherhood.7.t:0 "La folie d'Oliver"
  nf_mojave_brotherhood.7.d:15 "Oliver a perdu le Mojave pour la République de Nouvelle Californie, confronté à une défaite dévastatrice aux mains de la Confrérie de l'acier ; Oliver a été contraint de redescendre le Long 15 vers Sables Ombragés. Heureusement, il semble qu'on ne lui demandera pas de servir de sitôt - la Confrérie ne semblant pas trop désireuse de le poursuivre jusqu'en Californie."
  nf_mojave_brotherhood.7.a:0 "Nous n'avons pas connu de défaite aussi grave depuis des années !"
- nf_mojave_brotherhood.7.a_tt:9 "Le §OGeneral Lee Oliver§! et son personnel de commandement retournent à la République, prêts pour le redéploiement.\n\n"
+ nf_mojave_brotherhood.7.a_tt:0 "Le §OGeneral Lee Oliver§! et son personnel de commandement retournent à la République, prêts pour le redéploiement.\n\n"
 
  nf_mojave_brotherhood.8.t:0 "La folie d'Oliver"
  nf_mojave_brotherhood.8.d:15 "Oliver a perdu le Mojave pour la République de Nouvelle Californie, confronté à une défaite dévastatrice aux mains de la Confrérie de l'acier ; Oliver a été contraint de redescendre le Long 15 vers Sables Ombragés. Il semble inquiétant que la Confrérie le poursuive - nous devrons rassembler une armée si nous voulons empêcher ce chapitre de la Confrérie de lancer des raids directement sur la Californie !"
@@ -318,9 +318,9 @@
  nf_mojave.32.a:0 "Rejoindre l'alliance"
  nf_mojave.32.b:0 "Choisir la protection"
 
- nf_mojave.33.t:9 "House gagne toujours"
- nf_mojave.33.d:9 "Malgré les efforts des territoires de Mojave, nous avons récupéré la puce de platine et l'accès à l'Abri. Nous pouvons maintenant réaliser notre rêve d'inaugurer la New Vegas Economic Zone. "
- nf_mojave.33.a:9 "Les barrages de rockets en valaient la peine !"
+ nf_mojave.33.t:0 "House gagne toujours"
+ nf_mojave.33.d:0 "Malgré les efforts des territoires de Mojave, nous avons récupéré la puce de platine et l'accès à l'Abri. Nous pouvons maintenant réaliser notre rêve d'inaugurer la New Vegas Economic Zone. "
+ nf_mojave.33.a:0 "Les barrages de rockets en valaient la peine !"
 
 
  mojave_news.0.t:0 "Colonies de la RNC en Mojave pillées"

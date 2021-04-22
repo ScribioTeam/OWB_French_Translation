@@ -13,7 +13,7 @@
 
  gdh_bandit_contracts:0 "Contracts de Baja"
  gdh_bandit_contracts_desc:0 "Les peuples épris de liberté de Baja sont impatients d'acheter nos armes pour résister à l'agression de la RNC.  Et la défense de la RNC contre leur agression."
- gdh_guns_for_hire:9 "Armes à louer"
+ gdh_guns_for_hire:0 "Armes à louer"
 
  gdh_panchos_pride:0 "Fierté de Pancho"
  gdh_panchos_pride_desc:0 "Pancho Villa, leader de [BVC.GetName], a demandé notre aide pour construire un grand mur pour protéger ses terres contre la RNC.  Nous sommes heureux de l'aider !"
@@ -100,7 +100,7 @@
  gdh_food_for_most_desc:0 ""
 
  gdh_peace_of_tyranny:0 "La Paix de la Tyrannie"
- gdh_peace_of_tyranny_desc:9 "Quoi que vous pensiez des vices d'El Generalissimo, personne ne peut nier qu'il est un dirigeant ferme et juste. Il est si populaire que même l'opposition vote pour lui ! Ceux qui survivent, en tout cas."
+ gdh_peace_of_tyranny_desc:0 "Quoi que vous pensiez des vices d'El Generalissimo, personne ne peut nier qu'il est un dirigeant ferme et juste. Il est si populaire que même l'opposition vote pour lui ! Ceux qui survivent, en tout cas."
 
  gdh_gulf_economy:0 "Économie du Golfe"
  gdh_gulf_economy_desc:0 ""
@@ -126,15 +126,15 @@
  gdh_one_step_further:0 "Une Étape de Plus"
  gdh_one_step_further_desc:0 "L'Abri nous a beaucoup appris, mais il crée plusieurs opportunités potentielles.  "
 
- gdh_bodyguards:9 "Un peu de temps sur le Yacht"
- gdh_bodyguards_desc:9 "El Generalissimo est un bon ami de ses soldats, c'est pourquoi il a fait face à si peu de tentatives de coup d'état. Rien ne le déstabilisera autant qu'un moment de détente dans la mer de Cortez."
+ gdh_bodyguards:0 "Un peu de temps sur le Yacht"
+ gdh_bodyguards_desc:0 "El Generalissimo est un bon ami de ses soldats, c'est pourquoi il a fait face à si peu de tentatives de coup d'état. Rien ne le déstabilisera autant qu'un moment de détente dans la mer de Cortez."
  gdh_bodyguards_tt:0 "\nDébloque une décision d'aller boire avec les gardes du corps d'El Generalissimo pour déstresser."
 
- gdh_recruitment_benefits:9 "Fission Disparue"
- gdh_recruitment_benefits_desc:9 "Parfois, il faut se remettre en selle sur son yacht, en ouvrir un qui est froid et tirer des grenades sous-marines sur certains mirellocks. [GDH.GetLeader] peut apprendre une chose ou deux en faisant cela."
+ gdh_recruitment_benefits:0 "Fission Disparue"
+ gdh_recruitment_benefits_desc:0 "Parfois, il faut se remettre en selle sur son yacht, en ouvrir un qui est froid et tirer des grenades sous-marines sur certains mirellocks. [GDH.GetLeader] peut apprendre une chose ou deux en faisant cela."
 
- gdh_population_conscription:9 "Organiser une conférence des femmes sur le Yacht"
- gdh_population_conscription_desc:9 "Ce n'est pas parce qu'El Generalissimo aime une belle femme qu'il est sexiste. Certains de ses meilleurs sbires sont des femmes ! Il n'y a pas de mal à organiser une conférence de femmes sur le yacht, et peut-être que sa petite Mijita apprendra une chose ou deux."
+ gdh_population_conscription:0 "Organiser une conférence des femmes sur le Yacht"
+ gdh_population_conscription_desc:0 "Ce n'est pas parce qu'El Generalissimo aime une belle femme qu'il est sexiste. Certains de ses meilleurs sbires sont des femmes ! Il n'y a pas de mal à organiser une conférence de femmes sur le yacht, et peut-être que sa petite Mijita apprendra une chose ou deux."
 
  gdh_personal_training:0 "Formation Personnelle"
  gdh_personal_training_desc:0 "El Generalissimo s'est contenté de rester assis trop longtemps, mais il est temps de se remettre en forme. La villa va avoir une salle de gym crossfit haut de gamme !"

@@ -1,9 +1,9 @@
 ﻿l_french:
 
   #Caps Main
- CAPS_TOOLTIP:9 "Vous avez [?caps_number_display|+]k [GetCapType] \n\nVous gagnez [PrecalculateCapsNet] [GetCapType] par trimestre.\n\n"
+ CAPS_TOOLTIP:0 "Vous avez [?caps_number_display|+]k [GetCapType] \n\nVous gagnez [PrecalculateCapsNet] [GetCapType] par trimestre.\n\n"
  CAPS_TOOLTIP_delayed:0 "[GetLongCapTT]"
- CAPS_TOOLTIP_delayed_real:9 "[GetCapType] \nRevenu brut : [PrecalculateCapsIncome] par trimestre [GetPuppetIncome]\n   -Modifié par [?modifier@caps_income_modifier|+=%]  [GetCapType] \nDépenses : [PrecalculateCapsExpenes] par trimestre \n   - Modifié par [?modifier@caps_expense_modifier|-=%] (Max §G-90%§!)\n Profit Net Trimestriel : [PrecalculateCapsNet]\n   - Revenu Fixe: [?modifier@caps_flat_income_modifier|+=0]"
+ CAPS_TOOLTIP_delayed_real:0 "[GetCapType] \nRevenu brut : [PrecalculateCapsIncome] par trimestre [GetPuppetIncome]\n   -Modifié par [?modifier@caps_income_modifier|+=%]  [GetCapType] \nDépenses : [PrecalculateCapsExpenes] par trimestre \n   - Modifié par [?modifier@caps_expense_modifier|-=%] (Max §G-90%§!)\n Profit Net Trimestriel : [PrecalculateCapsNet]\n   - Revenu Fixe: [?modifier@caps_flat_income_modifier|+=0]"
   ##CAPS_MAIN:0 "[?caps_number_display|2]k"
  CAPS_MAIN_0dp:0 "[?caps_number_display|0]k"
  gross_income_header:0 "Revenu Brut :"
@@ -12,17 +12,17 @@
  replay_button_text:0 "Rejouer Tutoriel"
  toggle_hint_text:0 "Afficher/Masquer les info-bulles"
  caps_income_calc_tt:0 "[GetCapTxt] [?income_display_temp|=+]k"
- caps_puppet_income_calc_tt:9 "\n    [GetCapTxt] [?income_from_puppets|=+]k des taxes des marionnettes"
+ caps_puppet_income_calc_tt:0 "\n    [GetCapTxt] [?income_from_puppets|=+]k des taxes des marionnettes"
  caps_expense_calc_tt:0 "[GetCapTxt] [?temp_expense_calc|=+]k"
  caps_net_calc_tt:0 "[GetCapTxt] [?temp_net_calc|=+]k"
- caps_trigger_negative:9 "Vous avez besoin de [GetCapTxt] [?caps_trigger_calc|+]k de plus [GetCapType]."
+ caps_trigger_negative:0 "Vous avez besoin de [GetCapTxt] [?caps_trigger_calc|+]k de plus [GetCapType]."
  caps_trigger_positive:0 "Requiert : [?caps_transaction_temp|+]k [GetCapType]."
  caps_trigger_tt:0 "[GetCapCostTrigger]"
  caps_opinion_tt:0 "L'opinion donne [?opinion_var_temp|%+] de remise.\n"
  caps_decision_balance_tt:0 "Montant actuellement en banque. \nDépenser pour les décisions et l'entretien des unités."
- caps_decision_income_tt:9 "Revenu de [GetCapType].[GetPuppetIncome]\n   Modifié par [?modifier@caps_income_modifier|+%]\n   Revenu fixe : [?modifier@caps_flat_income_modifier|+=]"
+ caps_decision_income_tt:0 "Revenu de [GetCapType].[GetPuppetIncome]\n   Modifié par [?modifier@caps_income_modifier|+%]\n   Revenu fixe : [?modifier@caps_flat_income_modifier|+=]"
  caps_decision_expense_tt:0 "Les dépenses trimestrielles sont consacrées à l'entretien militaire.\nChaque bataillon est plus cher que le précédent.\n   Modifié par [?modifier@caps_expense_modifier|-%] (Max §G-90%§!)"
- caps_decision_net_tt:90 "Profit Net Trimestriel [GetCapType] \n[GetPuppetIncome]\n   Revenu modifié par [?modifier@caps_income_modifier|+%]\n   Dépenses modifiées par [?modifier@caps_expense_modifier|-%] (Max §G-90%§!)\n   Revenu fixe : [?modifier@caps_flat_income_modifier|+=]"
+ caps_decision_net_tt:00 "Profit Net Trimestriel [GetCapType] \n[GetPuppetIncome]\n   Revenu modifié par [?modifier@caps_income_modifier|+%]\n   Dépenses modifiées par [?modifier@caps_expense_modifier|-%] (Max §G-90%§!)\n   Revenu fixe : [?modifier@caps_flat_income_modifier|+=]"
  recuit_pop_calc_tt:0 "Coût de la main-d'œuvre dans la file d'attente d'entraînement : [?temp_expense_calc|1+=] [GetCapType]"
 
  caps_army_wages_lockout_tt:0 "N'a pas récemment modifié les salaires"
@@ -41,13 +41,13 @@
  caps_node_base_modifier:0 "£caps_base_modifier_texticon Revenus du développement"
  caps_node_trade_modifier:0 "£caps_trade_modifier_texticon Revenu du Commerce"
  caps_flat_income_modifier:0 "Revenu de capsules passifs"
- caps_country_trade_modifier:9 "Droits de Douane"
+ caps_country_trade_modifier:0 "Droits de Douane"
  caps_country_base_modifier:0 "Revenu du Nœud de base du pays"
  caps_tax_puppet_tt:0 "Récemment taxé par le Maître"
  caps_gift_puppet_tt:0 "Récemment soutenu économiquement par le Maître"
  caps_payment_dynamic_modifier:0 "Modificateur des salaires de l'armée"
  caps_raider_sure_defense_dynamic_modifier:0 "Défenses d'État sûres"
- caps_trade_expedition_dynamic_modifier:9 "Revenus des Expéditions Commerciales"
+ caps_trade_expedition_dynamic_modifier:0 "Revenus des Expéditions Commerciales"
 
   ### IDEAS
  caps_bos_idea:0 "Dépôts d'approvisionnement du gouvernement"
@@ -58,7 +58,7 @@
  caps_ncr_start_modifier:0 "Faible contrôle de l'État de substitution"
 
   ###Caps TT for designer
- caps_recruit_tt:9 "Coût de la main-d'œuvre dans la file d'attente de formation.\n   Modifié par [?modifier@caps_expense_modifier|-%]\n\n   §gModificateur Robot :§! [?-0.40|-=%]\n   §gModificateur Milice :§! [?-0.25|-=%]"
+ caps_recruit_tt:0 "Coût de la main-d'œuvre dans la file d'attente de formation.\n   Modifié par [?modifier@caps_expense_modifier|-%]\n\n   §gModificateur Robot :§! [?-0.40|-=%]\n   §gModificateur Milice :§! [?-0.25|-=%]"
   ###General Caps TT
  transaction_caps_tt:0 "[GetTransactionCapTT]"
  transaction_caps_positive_tt:0 "Recevoir un paiement de [GetCapTxt] [?caps_to_add|+=]k [GetCapType].\n"
@@ -141,9 +141,9 @@
  caps_economic_bankrupcy:0 "Faillite !"
  caps_economic_bankrupcy_desc:0 "Nous n'avons pas d'argent et nous allons mourir. Aidez-nous."
 
- currencyncrdollar:9 "Dollar de la RNC"
+ currencyncrdollar:0 "Dollar de la RNC"
  currencycesdenarius:0 "Denarius de la Légion"
- currencygenericcap:9 "Capsules de bouteille"
+ currencygenericcap:0 "Capsules de bouteille"
  currencycad:0 "Dollar Canadien"
  currencyusd:0 "U.S. Dollar"
  currencypeso:0 "Peso Mexicain"
@@ -171,30 +171,30 @@
  capdisplaytexdollartxt:0 "£currency_tex_text_icon"
 
   ### TUTORIAL EVENT LOC ###
- tutorial_caps.1.t:9 "Mise à jour des Capsules §c3.2§!"
- tutorial_caps.1.d:9 "Le système de Capsules s'est encore agrandi dans la mise à jour 3.2 ! Dans un souci de qualité de vie et d'optimisation, la vue des nœuds d'état et la carte globale des nœuds ont été révisées pour vous aider à choisir les routes commerciales les plus lucratives. De plus, les revenus commerciaux ont légèrement changé, avec plus de commerce circulant autour des terres désolées, et moins de commerce collecté dans un nœud. Ce tutoriel est §RFORTEMENT§! recommandé pour une première utilisation de la version §o3.2§!, ainsi que l'activation de l'aide sous forme d'info-bulles à la fin de ce tutoriel ou dans le pipboy sous \"Mécanique > Capsules\"."
- tutorial_caps.1.a:9 "J'ai déjà joué à la 3.2"
+ tutorial_caps.1.t:0 "Mise à jour des Capsules §c3.2§!"
+ tutorial_caps.1.d:0 "Le système de Capsules s'est encore agrandi dans la mise à jour 3.2 ! Dans un souci de qualité de vie et d'optimisation, la vue des nœuds d'état et la carte globale des nœuds ont été révisées pour vous aider à choisir les routes commerciales les plus lucratives. De plus, les revenus commerciaux ont légèrement changé, avec plus de commerce circulant autour des terres désolées, et moins de commerce collecté dans un nœud. Ce tutoriel est §RFORTEMENT§! recommandé pour une première utilisation de la version §o3.2§!, ainsi que l'activation de l'aide sous forme d'info-bulles à la fin de ce tutoriel ou dans le pipboy sous \"Mécanique > Capsules\"."
+ tutorial_caps.1.a:0 "J'ai déjà joué à la 3.2"
  tutorial_caps.1.b:0 "Tutoriel"
 
  tutorial_caps.3.t:0 "La banque et la loi"
- tutorial_caps.3.d:9 "Le système de capsules peut être consulté d'un seul coup d'œil sur la §oBarre Supérieure§!, qui affiche votre coffre de capsules actuel. En la survolant, vous obtiendrez une répartition plus détaillée de vos §oRevenus§! et §oDépenses§!, ainsi que les modificateurs appliqués aux deux.\nLa principale dépense du système de capsules est l'entretien militaire. Les troupes coûtent de l'argent, et plus vous en avez, plus chaque bataillon consécutif coûte cher !\nLe menu \"Recruter et Déployer\" affiche une estimation du coût des troupes dans votre file de la formation. Certaines unités rudimentaires, comme la milice, les robots et les gardiens de la loi, coûtent moins cher par bataillon que l'infanterie. Ces coûts modifiés peuvent être consultés dans le menu Recruter et déployer.\nVos troupes coûtent actuellement : §R[PrecalculateCapsExpenes]§! [GetCapType].\nEn période de conflit, de paix ou d'inspiration capitaliste, certains pays peuvent ajuster leur §oSolde de l'Armée§! en augmentant ou en diminuant les coûts et les forces de leur armée. Les soldes de l'armée peuvent être définis comme une loi économique ; ces lois ont un délai de 140 jours entre deux changements."
+ tutorial_caps.3.d:0 "Le système de capsules peut être consulté d'un seul coup d'œil sur la §oBarre Supérieure§!, qui affiche votre coffre de capsules actuel. En la survolant, vous obtiendrez une répartition plus détaillée de vos §oRevenus§! et §oDépenses§!, ainsi que les modificateurs appliqués aux deux.\nLa principale dépense du système de capsules est l'entretien militaire. Les troupes coûtent de l'argent, et plus vous en avez, plus chaque bataillon consécutif coûte cher !\nLe menu \"Recruter et Déployer\" affiche une estimation du coût des troupes dans votre file de la formation. Certaines unités rudimentaires, comme la milice, les robots et les gardiens de la loi, coûtent moins cher par bataillon que l'infanterie. Ces coûts modifiés peuvent être consultés dans le menu Recruter et déployer.\nVos troupes coûtent actuellement : §R[PrecalculateCapsExpenes]§! [GetCapType].\nEn période de conflit, de paix ou d'inspiration capitaliste, certains pays peuvent ajuster leur §oSolde de l'Armée§! en augmentant ou en diminuant les coûts et les forces de leur armée. Les soldes de l'armée peuvent être définis comme une loi économique ; ces lois ont un délai de 140 jours entre deux changements."
  tutorial_caps.2.a:0 "Continuer"
  tutorial_caps.2.b:0 "Quitter"
  tutorial_caps_2_can:0 "§opeut§!"
  tutorial_caps_2_cannot:0 "§Rne peut pas§!"
 
  tutorial_caps.2.t:0 "L'Agitation"
- tutorial_caps.2.d:9 "Le §oRevenu§! a principalement deux sources. Pour les pays mineurs, la majorité de leurs capsules proviennent du §oRevenu Fixe§!. Le revenu fixe est accordé par le biais des lois de l'économie, des récompenses de priorités et des décisions. Vous gagnez actuellement [?modifier@caps_flat_income_modifier|=+1] capsules grâce au revenu fixe. La deuxième source de revenus provient des nœuds économiques, abordés plus loin dans ce tutoriel.\n\nTous les 92 jours (un trimestre), les dépenses sont soustraites des revenus, et les coffres se remplissent (ou se vident !). Lorsque les capsules nettes (revenus + dépenses) sont négatifs, et que la banque est vide, votre pays peut souffrir d'instabilité économique."
+ tutorial_caps.2.d:0 "Le §oRevenu§! a principalement deux sources. Pour les pays mineurs, la majorité de leurs capsules proviennent du §oRevenu Fixe§!. Le revenu fixe est accordé par le biais des lois de l'économie, des récompenses de priorités et des décisions. Vous gagnez actuellement [?modifier@caps_flat_income_modifier|=+1] capsules grâce au revenu fixe. La deuxième source de revenus provient des nœuds économiques, abordés plus loin dans ce tutoriel.\n\nTous les 92 jours (un trimestre), les dépenses sont soustraites des revenus, et les coffres se remplissent (ou se vident !). Lorsque les capsules nettes (revenus + dépenses) sont négatifs, et que la banque est vide, votre pays peut souffrir d'instabilité économique."
  tutorial_caps.3.a:0 "A la nouveauté !"
  tutorial_caps.3.b:0 "Quitter"
 
  tutorial_caps.4.t:0 "America Universalis"
- tutorial_caps.4.d:9 "§oLes \"nœuds économiques\"§! sont la pierre angulaire des revenus des grandes nations. La §oVue des nœuds d'état§! peut être vue en sélectionnant un état qui fait partie d'un nœud. Vous contrôlez actuellement [?state_controlled_nodes^num|0G] nœuds.\n\nLes nœuds sont une collection §od'États Membres§! et d'un §oÉtat Central§!. Chaque nœud possède un niveau, entre 1 et 10. Les niveaux 1 à 8 peuvent être atteints en améliorant le §oDéveloppement§! d'un nœud, tandis que les niveaux 9 et 10 nécessitent un §oDéveloppement économique§! normalement récompensé par des décisions et des priorités. Chaque usine, chantier naval et infrastructure d'un nœud contribue à son développement. L'amélioration du nœud d'état central est légèrement plus puissante que l'amélioration des nœuds membres. En général, plus il y a d'états membres dans un nœud, plus il est difficile de l'améliorer, mais plus il peut atteindre un niveau élevé.\n\nLes nœuds octroient le plus grand pourcentage du revenu d'un pays lorsqu'ils sont contrôlés (Votre revenu de nœud : [?caps_income|0] [GetCapTxt]). Le revenu de chaque nœud est composé de deux parties : §oRevenu de développement§! et §oRevenu de commerce§!. Le revenu de développement dépend directement du niveau du nœud et, par extension, de son développement. Les revenus commerciaux sont générés par les §oRoutes commerciales§!. Votre pays ne perçoit qu'une partie du commerce passant par un nœud ([modifier@caps_country_trade_modifier|%=]). Chaque source de revenu a un modificateur respectif au niveau de l'État et du pays. Pendant un conflit, les nœuds peuvent devenir §oDésactivé§! : les nœuds désactivés ne fournissent pas de revenus."
+ tutorial_caps.4.d:0 "§oLes \"nœuds économiques\"§! sont la pierre angulaire des revenus des grandes nations. La §oVue des nœuds d'état§! peut être vue en sélectionnant un état qui fait partie d'un nœud. Vous contrôlez actuellement [?state_controlled_nodes^num|0G] nœuds.\n\nLes nœuds sont une collection §od'États Membres§! et d'un §oÉtat Central§!. Chaque nœud possède un niveau, entre 1 et 10. Les niveaux 1 à 8 peuvent être atteints en améliorant le §oDéveloppement§! d'un nœud, tandis que les niveaux 9 et 10 nécessitent un §oDéveloppement économique§! normalement récompensé par des décisions et des priorités. Chaque usine, chantier naval et infrastructure d'un nœud contribue à son développement. L'amélioration du nœud d'état central est légèrement plus puissante que l'amélioration des nœuds membres. En général, plus il y a d'états membres dans un nœud, plus il est difficile de l'améliorer, mais plus il peut atteindre un niveau élevé.\n\nLes nœuds octroient le plus grand pourcentage du revenu d'un pays lorsqu'ils sont contrôlés (Votre revenu de nœud : [?caps_income|0] [GetCapTxt]). Le revenu de chaque nœud est composé de deux parties : §oRevenu de développement§! et §oRevenu de commerce§!. Le revenu de développement dépend directement du niveau du nœud et, par extension, de son développement. Les revenus commerciaux sont générés par les §oRoutes commerciales§!. Votre pays ne perçoit qu'une partie du commerce passant par un nœud ([modifier@caps_country_trade_modifier|%=]). Chaque source de revenu a un modificateur respectif au niveau de l'État et du pays. Pendant un conflit, les nœuds peuvent devenir §oDésactivé§! : les nœuds désactivés ne fournissent pas de revenus."
  tutorial_caps.4.a:0 "Continuer"
  tutorial_caps.4.b:0 "Quitter"
 
  tutorial_caps.6.t:0 "Des caravanes pas des minivans"
- tutorial_caps.6.d:9 "En tant que pays possédant un ou plusieurs nœuds, il est indispensable de tirer parti de votre nouvelle puissance économique ! Chaque nœud commercial peut être la source de §oRoutes Commerciales§! vers un autre nœud. La quantité de routes est déterminée par le niveau du nœud, les récompenses, les décisions et les événements. Les routes commerciales suivent des §oLiens§! prédéfinis à travers les Terres Désolées, en passant par des zones au terrain favorable et en évitant les dangers. Des liens peuvent également être créés à partir des priorités, de décisions et d'événements. Une route peut être lancée à partir de la vue du nœud d'état, mais elle doit remplir certaines conditions : \n\n - Aucune route en cours à partir du nœud §oSource§ ! \n -Sous la §oLimite de Route Commerciale du Pays§!\n - 40 Pouvoir Politique\n - Un itinéraire le long du même lien n'a pas été modifié récemment.\n\n Une fois envoyée, une route commerciale envoie une partie du revenu de développement d'un nœud au nœud récepteur avec un bonus pour chaque route de revenu. Une plus petite partie de la valeur de développement du nœud récepteur est envoyée en retour au nœud source. Une fois envoyées, les routes commerciales durent indéfiniment, mais ne peuvent être modifiées avant un minimum de 120 jours. Les routes commerciales sont également perturbées par les conflits. Un pays peut envoyer autant de routes commerciales que ses nœuds peuvent en supporter."
+ tutorial_caps.6.d:0 "En tant que pays possédant un ou plusieurs nœuds, il est indispensable de tirer parti de votre nouvelle puissance économique ! Chaque nœud commercial peut être la source de §oRoutes Commerciales§! vers un autre nœud. La quantité de routes est déterminée par le niveau du nœud, les récompenses, les décisions et les événements. Les routes commerciales suivent des §oLiens§! prédéfinis à travers les Terres Désolées, en passant par des zones au terrain favorable et en évitant les dangers. Des liens peuvent également être créés à partir des priorités, de décisions et d'événements. Une route peut être lancée à partir de la vue du nœud d'état, mais elle doit remplir certaines conditions : \n\n - Aucune route en cours à partir du nœud §oSource§ ! \n -Sous la §oLimite de Route Commerciale du Pays§!\n - 40 Pouvoir Politique\n - Un itinéraire le long du même lien n'a pas été modifié récemment.\n\n Une fois envoyée, une route commerciale envoie une partie du revenu de développement d'un nœud au nœud récepteur avec un bonus pour chaque route de revenu. Une plus petite partie de la valeur de développement du nœud récepteur est envoyée en retour au nœud source. Une fois envoyées, les routes commerciales durent indéfiniment, mais ne peuvent être modifiées avant un minimum de 120 jours. Les routes commerciales sont également perturbées par les conflits. Un pays peut envoyer autant de routes commerciales que ses nœuds peuvent en supporter."
  tutorial_caps.6.a:0 "Continuer"
  tutorial_caps.6.b:0 "Quitter"
 

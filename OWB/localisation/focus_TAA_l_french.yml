@@ -70,7 +70,7 @@
  TAA_innovative_equipment_desc:0 "Parfois, mieux est vraiment mieux. Nous pourrions remplir nos entrepôts de pistolets artisanaux en quelques semaines, mais rien ne garantit qu'ils ne nous laisseront pas tomber si quelqu'un de l'État vient frapper à notre porte. C'est pourquoi la capacité à développer et à produire des armes modernes est la pierre angulaire de la défense de notre nation."
 
  TAA_see_that_mountain:0 "Voyez-Vous Cette Montagne ?"
- TAA_see_that_mountain_desc:9 "Les Terres Désolées ne sont pas vraiment agréables à chausser et elles ont toujours quelque chose pour fatiguer le plus grand nombre. Qu'il s'agisse de terrains rocheux, de déserts, de tempêtes de neige ou même de boue radioactive ! Mais quand les temps sont durs, n'oubliez jamais les paroles de notre chef impeccable : \"Vous voyez cette montagne ? Vous pouvez l'escalader."\"
+ TAA_see_that_mountain_desc:0 "Les Terres Désolées ne sont pas vraiment agréables à chausser et elles ont toujours quelque chose pour fatiguer le plus grand nombre. Qu'il s'agisse de terrains rocheux, de déserts, de tempêtes de neige ou même de boue radioactive ! Mais quand les temps sont durs, n'oubliez jamais les paroles de notre chef impeccable : \"Vous voyez cette montagne ? Vous pouvez l'escalader."\"
 
  TAA_stand_your_ground:0 "Tenez Bon"
  TAA_stand_your_ground_desc:0 "Il n'y a rien d'autre au monde qui puisse nous protéger que nous. Il est grand temps que nous le réalisions, car un jour, un méchant fils de pute va rouler sur cette rivière, et nous devrons nous dresser contre lui."
@@ -231,14 +231,14 @@
  TAA_todd_eats_a_cheeseburger:0 "Todd Mange un Cheeseburger"
  TAA_todd_eats_a_cheeseburger_desc:0 "Oh, il semble que Todd ait manqué le déjeuner aujourd'hui."
 
- TAA_rosados_gun:9 "Les Armes à Feu du Sud"
- TAA_rosados_gun_desc:9 "La Zone de Développement du Texas, libérée des anciens cartels, a produit certaines des meilleures armes des Terres Désolées. Si seulement Rosado ne souriait pas à chaque fois qu'on les tirait sur des cibles."
- TAA_miller_eats_salad:9 "Miller Commande une Salade"
- TAA_miller_eats_salad_desc:9 "Techniquement, si on parle de travail, on peut dépenser les margaritas."
- TAA_rosado_school:9 "La Universidad de Texas"
- TAA_rosado_school_desc:9 "Miller et Rosado ont un rêve - qu'un jour tout le monde puisse avoir une éducation gratuite et de qualité. Que l'Université s'ouvre à tous les habitants du Texas, et que la vision de Rosado serve de modèle à toute les Terres Désolées."
- TAA_vehicles_woo:9 "L'Industrie Automobile"
- TAA_vehicles_woo_desc:9 "La première usine automobile de la Zone de Développement Texane a ouvert ses portes ! Et plus important encore, elle peut aussi fabriquer des tanks !"
+ TAA_rosados_gun:0 "Les Armes à Feu du Sud"
+ TAA_rosados_gun_desc:0 "La Zone de Développement du Texas, libérée des anciens cartels, a produit certaines des meilleures armes des Terres Désolées. Si seulement Rosado ne souriait pas à chaque fois qu'on les tirait sur des cibles."
+ TAA_miller_eats_salad:0 "Miller Commande une Salade"
+ TAA_miller_eats_salad_desc:0 "Techniquement, si on parle de travail, on peut dépenser les margaritas."
+ TAA_rosado_school:0 "La Universidad de Texas"
+ TAA_rosado_school_desc:0 "Miller et Rosado ont un rêve - qu'un jour tout le monde puisse avoir une éducation gratuite et de qualité. Que l'Université s'ouvre à tous les habitants du Texas, et que la vision de Rosado serve de modèle à toute les Terres Désolées."
+ TAA_vehicles_woo:0 "L'Industrie Automobile"
+ TAA_vehicles_woo_desc:0 "La première usine automobile de la Zone de Développement Texane a ouvert ses portes ! Et plus important encore, elle peut aussi fabriquer des tanks !"
 
  TAA_import_digging_equipment:0 "Importation de Matériel d'Excavation"
  TAA_import_digging_equipment_desc:0 "L'état actuel de l'industrie minière dans le Rio fait cruellement défaut ; le plus grand défaut est l'absence totale d'équipements miniers avancés et de générateurs portables pour maintenir les opérations de creusement à grande échelle. Bien que nous ne soyons pas près de fissurer la planète, un peu de matériel d'excavation fait beaucoup de chemin."
@@ -452,7 +452,7 @@
  nf_taa.636865657365627572676572.a:0 "Huh, pas mal."
 
 
- nf_taa.14.t:9 "Le Poulet Caesar est une Mauvaise Blague"
- nf_taa.14.d:9 "Il était presque trois heures de l'après-midi quand Miller a réalisé qu'il avait manqué le déjeuner aujourd'hui.  Il était bien trop tôt pour aller dîner, trop tard pour le petit déjeuner.  Avec cette idée en tête, il s'est rendu à la cafétéria qui servait de la nourriture biologique à prix modéré aux nouveaux riches. Alors qu'il mangeait une salade d'avocat brahmine, il s'est dit que Rosado avait vraiment amené la nation très loin."
- nf_taa.14.a:9 "Huh, pas mal."
+ nf_taa.14.t:0 "Le Poulet Caesar est une Mauvaise Blague"
+ nf_taa.14.d:0 "Il était presque trois heures de l'après-midi quand Miller a réalisé qu'il avait manqué le déjeuner aujourd'hui.  Il était bien trop tôt pour aller dîner, trop tard pour le petit déjeuner.  Avec cette idée en tête, il s'est rendu à la cafétéria qui servait de la nourriture biologique à prix modéré aux nouveaux riches. Alors qu'il mangeait une salade d'avocat brahmine, il s'est dit que Rosado avait vraiment amené la nation très loin."
+ nf_taa.14.a:0 "Huh, pas mal."
  #anything else

@@ -1,5 +1,5 @@
 ﻿l_french:
- suf_trait:9 "Le \"Général de Brigade Florissant\""
+ suf_trait:0 "Le \"Général de Brigade Florissant\""
  greenway_ingenuity:0 "Ingéniosité de Greenway"
  arm_man_of_destiny:0 "\"L'Homme de Destinée\""
  moj_distrusted_elder:0 "Aîné de confiance"
@@ -81,8 +81,8 @@
  bane_of_the_ncr:0 "Fléau de la RNC"
  local_patriot:0 "Patriote Local"
  pirate_queen:0 "Reine Pirate"
- lac_no_mercy:9 "Pas de Pitié"
- lac_frontier_justice:9 "Le Seigneur de Guerre de l'Est"
+ lac_no_mercy:0 "Pas de Pitié"
+ lac_frontier_justice:0 "Le Seigneur de Guerre de l'Est"
 
 
   ##Organization Traits
@@ -201,13 +201,13 @@
  LAC_master_of_the_rock:0 "Maître du Rocher"
  lanius_women:0 "Ministras"
  lanius_monster_east:0 "Le Monstre de l'Est"
- lanius_monster_east1:9 "Le Monstre vient à l'Ouest"
+ lanius_monster_east1:0 "Le Monstre vient à l'Ouest"
  lanius_frumentarii:0 "Adeptes des Frumentarii"
  propaganda_team:0 "Bardes sponsorisées"
- lanius_monster_world:9 "Le Monstre du Monde"
+ lanius_monster_world:0 "Le Monstre du Monde"
 
 ##3 CES
- frank_ghoul_trait:9 "Réserves sur le Système"
+ frank_ghoul_trait:0 "Réserves sur le Système"
 
 ### ACH
  cos_member:0 "Agent du Cercle de l'Acier"

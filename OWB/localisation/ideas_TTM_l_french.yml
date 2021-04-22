@@ -1,6 +1,6 @@
 ﻿l_french:
- ttm_lac_compliance:9 "Vestales de Diana"
- ttm_lac_compliance_desc:9 "La sage femme des  Twin Mothers; Diana, a envoyé ses meilleurs éléments pour aider à la pacification de l'Arizona."
+ ttm_lac_compliance:0 "Vestales de Diana"
+ ttm_lac_compliance_desc:0 "La sage femme des  Twin Mothers; Diana, a envoyé ses meilleurs éléments pour aider à la pacification de l'Arizona."
  ttm_the_nursery_idea:0 "La Pépinière"
  ttm_the_nursery_idea_desc:0 "§MLe Centre de Contrôle Opérations§!\n[TTM.ttm_the_nursery_control_facility_scripted_localization]\n\n§MLa Fabrique Opérations§!\n[TTM.ttm_the_nursery_factory_scripted_localization]\n\n§MLe Dépôt de données Opérations§!\n[TTM.the_repository_scripted_loc]"
 
@@ -12,7 +12,7 @@
  ttm_the_nursery_factory_effects_tiny:0 "§WEffets de Terraformation:§! §RLocked§!."
 
  ttm_coring_rng:0 " §WEffets de Terraformation:§! A chaque fois que nous corons un état, lancez un §Y1d100§! En fonction de son résultat, appliquez les effets suivants:"
- ttm_refractoring_radiation_compression_device_coring_effect:98 "\n  §W98-100:§! §G+1§!£resources_strip|6\n\n  §W90-97:§! §G+1§!£resources_strip|5\n"
+ ttm_refractoring_radiation_compression_device_coring_effect:08 "\n  §W98-100:§! §G+1§!£resources_strip|6\n\n  §W90-97:§! §G+1§!£resources_strip|5\n"
  ttm_geologic_crystal_growth_prism_coring_effect:76 "\n  §W76-89:§! §G+1§!£resources_strip|4\n"
  ttm_exponential_humidity_amplifier_system_coring_effect:50 "\n  §W50-75:§! §G+1§!£resources_strip|3\n"
  ttm_industrial_hillside_reforesting_network_coring_effect:25 "\n  §W25-49:§! §G+1§!£resources_strip|2\n"
@@ -84,7 +84,7 @@
  ttm_epa_efficiency_protocol_desc:0 ""
 
  ttm_tlalocs_last_memories:0 "Derniers Souvenirs de Tlaloc"
- spellcheck_ignore:9 "ttm_tlalocs_last_memories_desc"
+ spellcheck_ignore:0 "ttm_tlalocs_last_memories_desc"
  ttm_tlalocs_last_memories_desc:0 "Un journal de bord de centaines de millions de lignes. La plupart de ces données sont sans valeur - pourtant, certains de nos anciens protocoles Poséidon Energy semblent capables de traiter les informations d'une manière que nous ne comprenons pas entièrement.\n\n§R"Application: PSD_ENERGY.CORE.MEX_GOV_PRIMARY\nVersion: 21349151923109151.313210154.213154.53131\nUnhandled Exception C0000005 (OUT_OF_MEMORY) at address 0x000000013FF61660....\n\n(953,103,593 Lines omitted for brevity)"§!"
 
  ttm_the_full_moon_raid:0 "Le Raid de la Pleine Lune"
@@ -93,8 +93,8 @@
  ttm_odysseus_soul:0 "§P\"L'âme d'Odysseus\"§!"
  ttm_odysseus_soul_desc:0 "Le frère de Diana, l'espoir de Greenway, l'outil de Presper.\nTout cela et bien plus encore est stocké sur un holotape de 3 pouces."
 
- ttm_old_robotics_stockpile:9 "Vieux Stock de la Pépinière"
- ttm_old_robotics_stockpile_desc:9 "Notre stock de robots est à l'abandon et le tremblement de terre qui nous a frappé il y a quelques années a rendu la production de nouveaux robots plus qu'un défi. Il faudra un certain temps avant que nous puissions faire fonctionner l'usine à plein régime pour réparer et remplacer les robots."
+ ttm_old_robotics_stockpile:0 "Vieux Stock de la Pépinière"
+ ttm_old_robotics_stockpile_desc:0 "Notre stock de robots est à l'abandon et le tremblement de terre qui nous a frappé il y a quelques années a rendu la production de nouveaux robots plus qu'un défi. Il faudra un certain temps avant que nous puissions faire fonctionner l'usine à plein régime pour réparer et remplacer les robots."
 
   # Manpower laws
  ttm_born_warriors:0 "Protection de Diane"
