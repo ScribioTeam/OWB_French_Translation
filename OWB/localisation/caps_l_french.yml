@@ -16,7 +16,7 @@
  caps_expense_calc_tt:0 "[GetCapTxt] [?temp_expense_calc|=+]k"
  caps_net_calc_tt:0 "[GetCapTxt] [?temp_net_calc|=+]k"
  caps_trigger_negative:0 "Vous avez besoin de [GetCapTxt] [?caps_trigger_calc|+]k de plus [GetCapType]."
- caps_trigger_positive:0 "Requiert : [?caps_transaction_temp|+]k [GetCapType]."
+ caps_trigger_positive:0 "Requiert : [GetCapTxt] [?caps_transaction_temp|+]k [GetCapType]."
  caps_trigger_tt:0 "[GetCapCostTrigger]"
  caps_opinion_tt:0 "L'opinion donne [?opinion_var_temp|%+] de remise.\n"
  caps_decision_balance_tt:0 "Montant actuellement en banque. \nDépenser pour les décisions et l'entretien des unités."
