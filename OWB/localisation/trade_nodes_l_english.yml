@@ -189,7 +189,7 @@ l_english:
   node_events.2.t:0 "[?global.main_node_fallen.GetName] Lost"
   node_events.2.d:0 "[?global.main_node_fallen.GetName] has been occupied by foreign forces! Already a stream of refugees is fleeing to our lands, spreading tales of brutal repression and lost loved ones. Not only that, it was a capital trade hub vital to our economy. Steps must be taken at once!"
   node_events.2.a:0 "Move the treasury to a new location"
-  node_events.2.b:0 "These is very little hope left in this war..."
+  node_events.2.b:0 "There is very little hope left in this war..."
   ###Popup Icons Scripted Loc Strings
   node_level_up_icon:0 "GFX_level_up_notification"
 

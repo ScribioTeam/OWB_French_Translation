@@ -50,9 +50,9 @@
  # Header
  #----------------------------
   HEADER_REQUISITES:0 "Prerequisites"
-  TRIBAL_HEADER:0 "Tribal"
-  CIVILIZED_HEADER:0 "Civilized"
-  ADVANCED_HEADER:0 "Advanced"
+  TRIBAL_HEADER:0 "Basic"
+  CIVILIZED_HEADER:0 "Intermediate"
+  ADVANCED_HEADER:0 "Sophisticated"
   SPECIAL_HEADER:0 "Unique"
   HEADER_UPGRADES:0 "Upgrades"
 

@@ -16,7 +16,7 @@
   caps_expense_calc_tt:0 "[GetCapTxt] [?temp_expense_calc|=+]k"
   caps_net_calc_tt:0 "[GetCapTxt] [?temp_net_calc|=+]k"
   caps_trigger_negative:0 "You need [GetCapTxt] [?caps_trigger_calc|+]k more [GetCapType]."
-  caps_trigger_positive:0 "Requires: [?caps_transaction_temp|+]k [GetCapType]."
+  caps_trigger_positive:0 "Requires: [GetCapTxt] [?caps_transaction_temp|+]k [GetCapType]."
   caps_trigger_tt:0 "[GetCapCostTrigger]"
   caps_opinion_tt:0 "Opinion Gives [?opinion_var_temp|%+] discount.\n"
   caps_decision_balance_tt:0 "Currently banked amount. \nSpend on decisions and unit upkeep."
@@ -115,7 +115,7 @@
   caps_unlock_academy_decisions:0 "Unlocks Decision: §YInvest into Military Academy§!"
   ###LOC PASS
   caps_base_category_desc:0 "Manage the [GetCapType] economy through these decisions"
-  caps_quarterly_income:0 "Quartely Income Report"
+  caps_quarterly_income:0 "Quarterly Income Report"
   caps_node_category:0 "Economic Center Decisions"
   caps_development_decisions:0 "Invest Stimulus in §Y[From.GetName]§!"
   caps_development_node_tt:0 "Economic Stimulus Available for Current Node Level"
