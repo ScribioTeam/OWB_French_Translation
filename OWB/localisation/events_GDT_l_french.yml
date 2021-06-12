@@ -83,16 +83,16 @@
   #############################################
  nf_gente.18.t:0 "L'Échange Ultime"
  nf_gente.18.d:444 "[GDH.GetLeader] demande le droit d'acheter [444.GetName] chez nous. Nous allons perdre notre débouché sur le Pacifique, mais ils nous offrent pas mal d'argent..."
- nf_gente.18.a:9 "Let those profigates have it."
- nf_gente.18.a_tt:9 "You will sell [444.GetName] for 400 caps."
+ nf_gente.18.a:9 "Laissez ces profigates l'avoir."
+ nf_gente.18.a_tt:9 "Vous allez vendre [444.GetName] pour 400 capsules."
  nf_gente.18.b:0 "Pourquoi ferions-nous cela ?"
   ##############################################
- nf_gente.19.t:9 "Un Cadeau de [CES.GetName]."
- nf_gente.19.d:9 "CES.GetLeader] a accepté de vendre [444.GetName].  Quel vol !"
- nf_gente.19.a:0 "Muchas Gracias!"
+ nf_gente.19.t:9 "Un Cadeau de [TWO.GetName]."
+ nf_gente.19.d:9 "[TWO.GetLeader] a accepté de vendre [444.GetName].  Quel vol !"
+ nf_gente.19.a:0 "Muchas Gracias !"
   ##############################################
- nf_gente.20.t:9 "[CES.GetName] a rejeté notre offre !"
- nf_gente.20.d:9 "CES.GetLeader] a refusé de vendre [444.GetName]. Ce connard."
+ nf_gente.20.t:9 "[TWO.GetName] a rejeté notre offre !"
+ nf_gente.20.d:9 "[TWO.GetLeader] a refusé de vendre [444.GetName]. Ce connard."
  nf_gente.20.a:9 "Chenga tu Madre, [TWO.GetLeader]"
   ############################################## not used
  nf_gente.21.t:0 "La Proposition Nogales"

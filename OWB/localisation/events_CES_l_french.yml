@@ -258,16 +258,16 @@
  nf_legion.46.a:0 "Si vous vous approchez d'un bon arbre, vous trouverez un endroit agréable pour faire la sieste."
 
   ###### TWO sends troops
- nf_legion.47.t:9 "[TWO.GetName] Sends Us their Veterans"
- nf_legion.47.d:9 "In the lands of the Sonora Desert stands a city of Two Sun. It's citizens are not a part of the Legion and they have their own deities, but as long as they worship the Caesar and fight in our battles, we can keep them independent. As a sign of their submission, Will has sent us his best warriors, who mount the roaring chariots."
- nf_legion.47.a:9 "They will serve well"
+ nf_legion.47.t:9 "[TWO.GetName] nous envoie ses anciens combattants"
+ nf_legion.47.d:9 "Dans les terres du désert de Sonora se trouve la ville de Two Sun. Ses citoyens ne font pas partie de la Légion et ils ont leurs propres divinités, mais tant qu'ils vénèrent Caesar et participent à nos batailles, nous pouvons les garder indépendants. En signe de soumission, Will nous a envoyé ses meilleurs guerriers, qui montent les chars rugissants."
+ nf_legion.47.a:9 "Ils serviront bien"
 
   ###### COW decision
- nf_legion.48.t:9 "The Ultimate Decision"
- nf_legion.48.d:9 "The time has come for Caesar to make a decision. Vulpes obviously [ultima_vulpes_opinion], while Aurelius [ultima_aurelius_opinion] and Lucius [ultima_lucius_opinion]. But it is up to Caesar to decide"
- nf_legion.48.a:9 "Loyalty Must Be Rewarded"
- nf_legion.48.b:9 "[GDH.GetLeader] Will Build a Mighty Fleet For Us"
- nf_legion.48.c:9 "I Got No Time for This, They'll Figure it out"
+ nf_legion.48.t:9 "L'Ultime Décision"
+ nf_legion.48.d:9 "Le moment est venu pour Caesar de prendre une décision. Vulpes évidemment [ultima_vulpes_opinion], tandis qu'Aurelius [ultima_aurelius_opinion] et Lucius [ultima_lucius_opinion]. Mais c'est à Caesar de décider..."
+ nf_legion.48.a:9 "La loyauté doit être récompensée"
+ nf_legion.48.b:9 "[GDH.GetLeader] construira une puissante flotte pour nous"
+ nf_legion.48.c:9 "Je n'ai pas le temps pour ça, ils vont se débrouiller."
 
 
 ######################## Civil War####

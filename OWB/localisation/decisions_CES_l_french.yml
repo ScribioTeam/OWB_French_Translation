@@ -71,7 +71,7 @@
 
   ### Ultimo Decisions
  CES_two_gdh_relations:444 "La question de [444.GetName]."
- CES_two_gdh_relations_desc:520 "Les émissaires de §Y[TWO.GetName]§! et de §O[GDH.GetName]§  sont venus au [520.GetName] pour persuader le puissant César que leur pays est digne de détenir §M[444.GetName]§! Mais aucun homme ne gouverne seul et même le Fils de Mars base son jugement sur les avis de ses conseillers. La décision finale sera prise lorsque les grands guerriers de la Légion se décideront.\n\nFrumentarius Vulpes [ultima_vulpes_opinion]\nPrétorien Lucius [ultima_lucius_opinion]\nCenturion Aurelius [ultima_aurelius_opinion]\nLégat Malpais [ultima_malpas_opinion]"
+ CES_two_gdh_relations_desc:520 "Les émissaires de §Y[TWO.GetName]§! et de §O[GDH.GetName]§  sont venus au [520.GetName] pour persuader le puissant Caesar que leur pays est digne de détenir §M[444.GetName]§! Mais aucun homme ne gouverne seul et même le Fils de Mars base son jugement sur les avis de ses conseillers. La décision finale sera prise lorsque les grands guerriers de la Légion se décideront.\n\nFrumentarius Vulpes [ultima_vulpes_opinion]\nPrétorien Lucius [ultima_lucius_opinion]\nCenturion Aurelius [ultima_aurelius_opinion]\nLégat Malpais [ultima_malpas_opinion]"
 
  ultimo_opinion_ambivalent:9 "est §gambivalent§!"
  ultimo_opinion_two_lean:9 "§Lse penche vers [TWO.GetName]§!"
@@ -99,9 +99,9 @@
 
   # TWO
  two_cult_of_nas:9 "Propager le Culte de Nas"
- two_cult_of_nas_desc:9 "César nous a permis d'envoyer des prêtres sur ses terres. Nous devrions profiter de cette occasion pour prouver notre utilité à la légion. Aurelius a dit qu'une route est nécessaire depuis Phoenix."
+ two_cult_of_nas_desc:9 "Caesar nous a permis d'envoyer des prêtres sur ses terres. Nous devrions profiter de cette occasion pour prouver notre utilité à la légion. Aurelius a dit qu'une route est nécessaire depuis Phoenix."
 
  two_army_xp:9 "Participer aux exercices de la Légion"
- two_army_xp_desc:9 "En combinant notre fer de lance motorisé avec les légions sans fin de César, nous obtiendrons l'armée la plus puissante que ce monde ait jamais vue ! Enfin, si nos cavaliers n'écrasent pas tous les légionnaires sur leur chemin vers la ligne de front."
+ two_army_xp_desc:9 "En combinant notre fer de lance motorisé avec les légions sans fin de Caesar, nous obtiendrons l'armée la plus puissante que ce monde ait jamais vue ! Enfin, si nos cavaliers n'écrasent pas tous les légionnaires sur leur chemin vers la ligne de front."
 
   
