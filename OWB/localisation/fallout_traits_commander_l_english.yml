@@ -200,3 +200,6 @@ ABILITY_USE_FATMAN:0 "Use a Fatman"
 ABILILTY_USE_FATMAN_DESC:0 "The Fat Man is perhaps the most devastating infantry weapon ever unleashed upon the modern battlefield - a hand-held catapult that launches portable nuclear bombs. Just don't drop it."
 USE_ARTILLERY:0 "Deploy the Cannons"
 USE_ARTILLERY_DESC:0 "Prewar howitzers are difficult to transport, but when deployed, they can turn the tide of any battle. Of course, once we deploy them it will be hard to retreat."
+
+exhausted_order_trait:0 "Exhausted"
+exhausted_order_trait_desc:0 ""

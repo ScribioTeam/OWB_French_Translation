@@ -73,7 +73,7 @@
   nf_gente.15.b:0 "Drink Up, Generalissimo!"
   #############################################
   nf_gente.16.t:0 "A Trade Caravan from [GDH.Capital.GetName]"
-  nf_gente.16.d:0 "[GDH.GetLeader] has sent another convoy to us.  We will profit greatly from this friendship. Although [GDH.GetLeader] is a Profligate who, some would say, belongs on a cross, perhaps there is still a use for him."
+  nf_gente.16.d:0 "[GDH.GetLeader] has sent another convoy to us. We will profit greatly from this friendship. Although [GDH.GetLeader] is a Profligate who, some would say, belongs on a cross, perhaps there is still a use for him."
   nf_gente.16.a:0 "Strange times make for strange friends."
   #############################################
   nf_gente.17.t:0 "[GDH.GetLeader] sent a caravan to Flagstaff!"
@@ -83,28 +83,28 @@
   #############################################
   nf_gente.18.t:0 "The Ultimo Trade"
   nf_gente.18.d:0 "[GDH.GetLeader] requests the right to buy [444.GetName] from us. Although we will lose our outlet on the Pacific, they are offering quite a bit of money..."
-  nf_gente.18.a:0 "The only coastline we need is in New California."
-  nf_gente.18.a_tt:0 "You will sell Ultima for 400 caps."
+  nf_gente.18.a:0 "Let those profigates have it."
+  nf_gente.18.a_tt:0 "You will sell [444.GetName] for 400 caps."
   nf_gente.18.b:0 "Why would we ever do this?"
   ##############################################
-  nf_gente.19.t:0 "A Gift from [CES.GetName]"
-  nf_gente.19.d:0 "[CES.GetLeader] has agreed to sell [444.GetName].  What a steal!"
+  nf_gente.19.t:0 "A Gift from [TWO.GetName]"
+  nf_gente.19.d:0 "[TWO.GetLeader] has agreed to sell [444.GetName].  What a steal!"
   nf_gente.19.a:0 "Muchas Gracias!"
   ##############################################
-  nf_gente.20.t:0 "[CES.GetName] Rejected Our Offer!"
-  nf_gente.20.d:0 "[CES.GetLeader] refused to [444.GetName]. That asshole."
-  nf_gente.20.a:0 "Chenga tu Madre, [CES.GetLeader]"
-  ##############################################
+  nf_gente.20.t:0 "[TWO.GetName] Rejected Our Offer!"
+  nf_gente.20.d:0 "[TWO.GetLeader] refused to [444.GetName]. That asshole."
+  nf_gente.20.a:0 "Chenga tu Madre, [TWO.GetLeader]"
+  ############################################## not used
   nf_gente.21.t:0 "The Nogales Proposal"
   nf_gente.21.d:0 "[GDH.GetLeader] would also trade us for [588.GetName]. They could do more with it, and we would benefit from having another injection of funds."
   nf_gente.21.a:0 "Why would we care about this scrap of land?"
   nf_gente.21.a_tt:0 "You will sell Nogales for 400 caps."
   nf_gente.21.b:0 "The Legion's flag does not retreat."
-  ##############################################
+  ############################################## not used
   nf_gente.22.t:0 "Nogales is Ours!"
   nf_gente.22.d:0 "[CES.GetLeader] agreed to sell us [588.GetName]. Is this not wonderful? Today north-western Mexico, tomorrow perhaps more of Mexico!"
   nf_gente.22.a:0 "Let's throw another fiesta!"
-  ##############################################
+  ############################################## not used
   nf_gente.23.t:0 "Nogales Nunca"
   nf_gente.23.d:0 "[CES.GetLeader] refused to sell us [588.GetName]. Perhaps we will consider taking it by force, down the road."
   nf_gente.23.a:0 "Is there no honour in the Wasteland?"

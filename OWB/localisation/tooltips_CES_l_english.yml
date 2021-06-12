@@ -1,3 +1,19 @@
 ﻿l_english:
   legion_owns_cores_all_vegas_states_tt:0 "§Y[CES.GetNameDef]§! owns, controls, and has Cores on all §Y[VEG.GetNameDef]§! core states."
   legion_owns_all_mojave_bos_core_states_tt:0 "§Y[CES.GetNameDef]§! owns, and controls all §Y[MOJ.GetNameDef]§! core states."
+
+  ces_add_two_vulpes_opinion: "§YVulpes'§!§L opinion about §!§Y[TWO.GetName]§!§L will be increased§!"
+  ces_add_two_lucius_opinion: "§YLucius'§!§L opinion about §!§Y[TWO.GetName]§!§L will be increased§!"
+  ces_add_two_aurelius_opinion: "§YAurelius'§!§L opinion about §!§Y[TWO.GetName]§!§L will be increased§!"
+  ces_add_gdh_vulpes_opinion: "§YVulpes'§!§L opinion about §!§Y[GDH.GetName]§!§L will be increased§!"
+  ces_add_ghd_lucius_opinion: "§YLucius'§!§L opinion about §!§Y[GDH.GetName]§!§L will be increased§!"
+  ces_add_gdh_aurelius_opinion: "§YAurelius'§!§L opinion about §!§Y[GDH.GetName]§!§L will be increased§!"
+
+  self_add_vulpes_opinion: "§YVulpes'§!§L opinion about us will be increased§!"
+  self_add_lucius_opinion: "§YLucius'§!§L opinion about us will be increased§!"
+  self_add_aurelius_opinion: "§YAurelius'§!§L opinion about us will be increased§!"
+
+  ces_ultima_decided_trigger: "§LThe advisors have made up their minds or Caesar grew tired of this debate§!"
+  ces_ultima_friendship: "Caesar has spoken: \"§OFors Iuvat Audentes§!\""
+  ces_ultima_to_two: "Caesar has allowed Two Sun to govern all of the Cowboy Country"
+  ces_ultima_to_gdh: "Caesar has gifted §MUltimo§! to §YGente Del Sol§!."

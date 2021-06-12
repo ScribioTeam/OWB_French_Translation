@@ -1,0 +1,151 @@
+﻿l_english:
+  two_great_race_preparations: "§HThe Great Race§!"
+  two_great_race_preparations_desc: "We are going to take part in the Great Race, our best racer will compete with the best the wasteland has to offer on the most challenging and demanding race track ever built. Competitors race through the narrow, meandering canyons of Sonora at different elevations, shooting around sharp corners along the gulf of California. The perils of racing at this venue only add to its allure, we must prepare.\n\n[two_two_prep_skill][two_two_prep_mech]\n[two_eht_prep_skill][two_eht_prep_mech]\n[two_new_prep_skill][two_new_prep_mech]\n[two_gdh_prep_skill][two_gdh_prep_mech]\n[two_imo_prep_skill][two_imo_prep_mech]"
+
+  # Two Sun
+  two_two_prep_skill_text_no: "Two Sun racers are §Runprepared§!\n"
+  two_two_prep_skill_text_low: "Two Sun racers are §Oillprepared§!\n"
+  two_two_prep_skill_text_medium: "Two Sun racers are §Ysomewhat prepared§!\n"
+  two_two_prep_skill_text_high: "Two Sun racers are §Gready§!\n"
+
+  two_two_prep_mech_text_no: "Two Sun technicians are §Runprepared§!\n"
+  two_two_prep_mech_text_low: "Two Sun technicians are §Oillprepared§!\n"
+  two_two_prep_mech_text_medium: "Two Sun technicians are §Ysomewhat prepared§!\n"
+  two_two_prep_mech_text_high: "Two Sun technicians are §Gready§!\n"
+
+  # Eighties
+  two_eht_prep_skill_text_no: "Eighties racers are §Runprepared§!\n"
+  two_eht_prep_skill_text_low: "Eighties racers are §Oillprepared§!\n"
+  two_eht_prep_skill_text_medium: "Eighties racers are §Ysomewhat prepared§!\n"
+  two_eht_prep_skill_text_high: "Eighties racers are §Gready§!\n"
+
+  two_eht_prep_mech_text_no: "Eighties technicians are §Runprepared§!\n"
+  two_eht_prep_mech_text_low: "Eighties technicians are §Oillprepared§!\n"
+  two_eht_prep_mech_text_medium: "Eighties technicians are §Ysomewhat prepared§!\n"
+  two_eht_prep_mech_text_high: "Eighties technicians are §Gready§!\n"
+
+  # New Reno
+  two_new_prep_skill_text_no: "New Reno's racers are §Runprepared§!\n"
+  two_new_prep_skill_text_low: "New Reno's racers are §Oillprepared§!\n"
+  two_new_prep_skill_text_medium: "New Reno's racers are §Ysomewhat prepared§!\n"
+  two_new_prep_skill_text_high: "New Reno's racers are §Gready§!\n"
+
+  two_new_prep_mech_text_no: "New Reno's technicians are §Runprepared§!\n"
+  two_new_prep_mech_text_low: "New Reno's technicians are §Oillprepared§!\n"
+  two_new_prep_mech_text_medium: "New Reno's technicians are §Ysomewhat prepared§!\n"
+  two_new_prep_mech_text_high: "New Reno's technicians are §Gready§!\n"
+
+  # Gente
+  two_gdh_prep_skill_text_no: "Gente del Sol's racers are §Runprepared§!\n"
+  two_gdh_prep_skill_text_low: "Gente del Sol's racers are §Oillprepared§!\n"
+  two_gdh_prep_skill_text_medium: "Gente del Sol's racers are §Ysomewhat prepared§!\n"
+  two_gdh_prep_skill_text_high: "Gente del Sol's racers are §Gready§!\n"
+
+  two_gdh_prep_mech_text_no: "Gente del Sol's technicians are §Runprepared§!\n"
+  two_gdh_prep_mech_text_low: "Gente del Sol's technicians are §Oillprepared§!\n"
+  two_gdh_prep_mech_text_medium: "Gente del Sol's technicians are §Ysomewhat prepared§!\n"
+  two_gdh_prep_mech_text_high: "Gente del Sol's technicians are §Gready§!\n"
+
+  # Ironmongers
+  two_imo_prep_skill_text_no: "Ironmongers' racers are §Runprepared§!\n"
+  two_imo_prep_skill_text_low: "Ironmongers' racers are §Oillprepared§!\n"
+  two_imo_prep_skill_text_medium: "Ironmongers' racers are §Ysomewhat prepared§!\n"
+  two_imo_prep_skill_text_high: "Ironmongers' racers are §Gready§!\n"
+
+  two_imo_prep_mech_text_no: "Ironmongers' technicians are §Runprepared§!\n"
+  two_imo_prep_mech_text_low: "Ironmongers' technicians are §Oillprepared§!\n"
+  two_imo_prep_mech_text_medium: "Ironmongers' technicians are §Ysomewhat prepared§!\n"
+  two_imo_prep_mech_text_high: "Ironmongers' technicians are §Gready§!\n"
+
+  equipment_decisions_cost_text: "[?great_race_motorized_cost|+] [GetCapTxt]"
+  equipment_decisions_cost_text_blocked: "[?great_race_motorized_cost|-] [GetCapTxt]"
+
+  equipment_display_generic_txt: "Something"
+
+  great_race_trip: "Wild Ride"
+  great_race_trip_desc: "Wyatt is [two_wyatt_trip]."
+
+  two_wyatt_trip_1: "riding through the wastes of [?TWO.display.GetName]"
+  two_wyatt_trip_2: "passing the ruins of [?TWO.display.GetName]"
+  two_wyatt_trip_3: "crossing the river of Colorado from [?TWO.display.GetName] to Bitter Springs"
+  two_wyatt_trip_4: "riding in the canyons of [?TWO.display.GetName]"
+  two_wyatt_trip_5: "passing throught the gardens of Eden"
+  two_wyatt_trip_6: "staying in Two Sun"
+
+  riding: "Wyatt is [two_wyatt_trip]."
+  riding_desc: ""
+
+  invitations_timeout: "Invitations deadline"
+  invitations_timeout_desc: "It won't do if rumors move faster than our great racers."  
+
+  send_to_eht: "Send an invitation to the Eighties"
+  send_to_eht_desc: ""
+
+  send_to_new: "Send an invitation to New Reno"
+  send_to_new_desc: ""
+
+  send_to_gdh: "Send an invitation to Gente Del Sol"
+  send_to_gdh_desc: ""
+
+  send_to_imo: "Send an invitation to the Ironmongers"
+  send_to_imo_desc: ""
+
+  # decisions
+  two_great_race_building: "Great Race Preparation"
+  two_great_race_building_desc: ""
+
+  race_tracks: "Build New Tracks"
+  race_tracks_desc: ""
+
+  practice_race_1: "Run a Practice Race"
+  practice_race_1_desc: ""
+
+  practice_race_2: "Apply what we have learned"
+  practice_race_2_desc: ""
+
+  technological_advancement: "Test New Prototypes"
+  technological_advancement_desc: ""
+
+  chop_shops: "Buy New Parts"
+  chop_shops_desc: ""
+
+  open_boxes_in_two: "Garages of our own"
+  open_boxes_in_two_desc: ""
+
+  # events locs GFX_event_twosun_car
+
+  nf_two.101.t: "[GetRaceTitle]"
+  nf_two.101.d: "[GetRaceEvent]"
+  nf_two.101.a: "[GetRaceOption]"
+
+  GetRaceEvent: "[RacePlace]"
+
+  RaceTitle1: "3...2...1... Go!"
+  RaceTitle2: "The Road West"
+  RaceTitle3: "The Yuma Turn"
+  RaceTitle4: "The Mountain Pass"
+  RaceTitle5: "The Finish Line"
+
+  RacePlace1: "The Racers have taken off from the temple of Mars mere moments ago, beginning their epic journey across Sonora. Currently our contestants are hindered from showing the full power of their vehicles  by the rough terrain, however with each of the racers determined to be the first to pull ahead to reach the open roads of the west first, there is no doubt that the competition has already started.\nOur first reports have finally reached us and it seems that [race_tag1] leads the early laps, while [race_tag2] is able to stay close behind him and keep the pressure on, all the while putting enough of a gap – never more than five seconds but always bigger than the one in front – to [race_tag3] behind him. Meanwhile [race_tag4] is recovering from a spin, but still manages to overtake [race_tag5], we will of course be right back with you as the race enters the second stage."
+  RacePlace2: "Here we are yet again with another status report, the racers have passed the mountains of Arizona and entered the fertile and wide open plains of Sonora at full speed and our observers are sadly only able to determine their current location due to the roaring of their engines and the tremendous dust clouds our racers leave behind. None the less we have been able to conclude that [race_tag2] pressured [race_tag3] into a lock-up and then set up a brilliant around-the-outside pass turn four to move into third place. But he was unwilling to then push for second place straight away, saving his tyres. That position became his anyway, as [race_tag5] car slowed down nearly to a halt at the halfway point around the tip of Sonora forcing him to hold and do repairs, allowing [race_tag4] to ride past him. During all of this [race_tag1] has managed to expand an earlier lead he had since the racers have left Oro Valley."
+  RacePlace3: "We have once again been brought news of our competitors, this time from the beautiful sunshine coast as the racers try to outdo each other taking the treacherous turns that closely follow the Gente coastline. Even the slightest misstep could spell the early end to their ambitions, none the less they rarely ever slow down, displaying their drifting prowess at every turn.\n[race_tag1] entered the first obstacle flawlessly. [race_tag5] however made the one mistake of the day. He entered a little bit tighter than he should’ve and took [race_tag4] along with him, that cost him dearly. This cost them dearly, throwing both temporarily off the road, costing them precious seconds, allowing [race_tag2] and [race_tag3] to pass them by and close in on [race_tag1]."
+  RacePlace4: "We have once again spotted our neck on neck riding competitors after we lost sight of them leaving Gente City, they have since entered the treacherous mountain passes of east Sonora and while the tight track itself offers few opportunities for one racer to pull ahead, these are the best, so we shouldn’t be surprised about any rapid changes that may take place in this most inhospitable section of the race.\nOur mountain trackers have identified [race_tag1] in the lead, with [race_tag2] following close behind, while [race_tag3], [race_tag4] and [race_tag5] were briefly slowed down as each of them tired to ram the other two down the cliff."
+  RacePlace5: "Ladies and gentleman, super mutants, boys, girls and ghouls as you can undoubtedly tell by the dust clouds being thrown up in the distance our racers have finally arrived and the fact that none of them have been eliminated along the way or have fallen significantly behind can only be seen as a testament to their driving skills, this is still everyone’s game.\nI am happy to announce that [race_tag1] has taken the lead by almost an arm’s length with [race_tag2] having taken the position right next to him, in the shadows of these two legends I can spot [race_tag3] as well as [race_tag4] ready to take this race on the final meters, slightly behind them all, but quickly picking up speed is [race_tag5].\nClearly we are going to be able to pronounce the winner of the first Great Race of Two Sun any second now."
+
+  two_TWO_loc: "Wyatt"
+  two_EHT_loc: "Thunderbird"
+  two_NEW_loc: "Jalabert"
+  two_GDH_loc: "Suneater"
+  two_IMO_loc: "Juggernaut"
+
+  two_TWO_winner_loc: "Wyatt from Two Sun"
+  two_EHT_winner_loc: "Thunderbird from Eighties"
+  two_NEW_winner_loc: "Jalabert from New Reno"
+  two_GDH_winner_loc: "Suneater from Gente del Sol"
+  two_IMO_winner_loc: "Juggernaut from Ironmongers"
+
+  RaceOption1: "May the best win"
+  RaceOption2: "Just you wait till he reaches the open planes"
+  RaceOption3: "Drifting is our speciality"
+  RaceOption4: "We are not slowing down"
+  RaceOption5: "Gas! Gas! Gas!"

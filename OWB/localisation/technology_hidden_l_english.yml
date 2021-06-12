@@ -18,6 +18,7 @@
   HEADER_RENO_BUFFS:0 "New Reno Buffs"
   HEADER_OREGON_BUFFS:0 "Oregon Buffs"
   HEADER_COLORADO_BUFFS:0 "Colorado Buffs"
+  HEADER_COSTA_BUFFS:0 "Costa Cafetera Buffs"
   HEADER_SETTLER_BUFFS:0 "Settler Buffs"
   HEADER_RAIDER_BUFFS:0 "Raider Buffs"
   HEADER_LEGION_BUFFS:0 "Legion Buffs"
@@ -198,8 +199,8 @@
 
   legion_vexillarius_tech:0 "Vexillarius"
   legion_vexillarius_tech_desc:0 ""
-  legion_training_tech:0 "Legion Training"
-  legion_training_tech_desc:0 ""
+  ces_at_tech:0 "AT Rifle Mastery"
+  ces_at_tech_desc:0 "Not all Legion's warroirs fight with melee weapons. Many veterans are the one of the sharpest shooters Mojave has ever seen."
   legion_frumentarii_officers_tech:0 "Frumentarii Officers"
   legion_frumentarii_officers_tech_desc:0 ""
   legion_frumentarii_commandoes_tech:0 "Frumentarii Commandos"
@@ -212,6 +213,12 @@
   armored_chariots_tech_desc:0 ""
   CES_mercenary_training_tech:0 "Mercenary Training Tech"
   CES_mercenary_training_tech_desc:0 ""
+  ces_navajo_scouts_tech: "Navajo Scouts"
+  ces_navajo_scouts_tech_desc: "Scouts from Navajo nation can tech our Frumentarii a lot of valuable skills"
+  ces_navajo_skin_walkers_tech: "Navajo's Skin Walkers"
+  ces_navajo_skin_walkers_tech_desc: ""
+  ces_two_tech: "Legion's Chariots"
+  ces_two_tech_desc: "The greatest vehicles Two Sun has to offer now will serve the Legion's glory."
 
 
 

@@ -13,7 +13,7 @@
   nf_legion.1001.a:0 "The arrogance!"
 
   nf_legion.1002.title:0 "Gifts for Caesar"
-  nf_legion.1002.desc:0 "[WHT.GetLeader] has conquered Utah from his war tents, but you cannot rule from one. CES.GetName] has sent advisors to help govern the land, skilled in the art of breaking a people to the yoke. With their assistance, all of Utah will learn why the White Legs walk proudly. And if [WHT.GetLeader] has thoughts on the tribute he must send to Flagstaff, he keeps that quiet. For now."
+  nf_legion.1002.desc:0 "[WHT.GetLeader] has conquered Utah from his war tents, but you cannot rule from one. [CES.GetName] has sent advisors to help govern the land, skilled in the art of breaking a people to the yoke. With their assistance, all of Utah will learn why the White Legs walk proudly. And if [WHT.GetLeader] has thoughts on the tribute he must send to Flagstaff, he keeps that quiet. For now."
   nf_legion.1002.a:0 "It is better to be one of the pack than the sheep."
   nf_legion.1002.a_tt:0 "§g\nThe cost of coring Utah states is halved."
 
@@ -141,12 +141,12 @@
   nf_legion.27.d:0 "'My Legion obeys me, even unto death. Why? Because they live to serve the greater good, and they know of no alternative.'' \n\nThe Legion is considered by some to be a despotic empire; it is considered by others to be a primitive warband. It is both and neither. The Legion is held together by Caesar's training, derived from the lore of ancient Rome. The Legion includes child soldiers raised from birth in its teachings; tribes conscripted into the Legion; frumentarii who serve Caesar beyond its borders; and even wastelander mercenaries. The Legion practices total warfare on a scale not seen since the Great War. It does not kill for pleasure. It kills for a purpose. It enslaves not for personal comfort. It enslaves because the mines of New Mexico need new slaves; because the cotton fields of Arizona need new hands; or because the markets of Vault City need new servants. All that the Legion does is devoted towards Caesar's grand plan. And he is the only one who can lead it. For now."
   nf_legion.27.a:0 "Ave!"
 
-    ###### Worthy Few
+  ###### Worthy Few
   nf_legion.28.t:0 "The Worthy Few"
   nf_legion.28.d:0 "The Legion has spread across the southwest like an all-consuming flame. Mighty Caesar conquers the peoples of the wasteland, he strips them of their tribal identities and turns their young men into ruthless legionaries and women into breeding stock. Unlike the rag-tag Raiders back east, Caesar's Legionaries neither look nor act like haphazard, irregular troops. They are well organized, moving and attacking in large packs, and deliberately commit atrocities to terrorize those who might dare oppose them. True, Caesar is the perfect man. But he is not just a man: he is the Son of Mars, ordained by the god of war to conquer all Earth. To prepare the way, Mars razed the Earth, cleansed it with fire, and brought the weak and the wicked low; and now his son has come to deliver the wasteland from chaos and barbarism. \n\nTo follow Caesar is to obey the will of Mars; to disobey is to condemn oneself to death. But there is a potential weakness. They Legion may rely too much on veteran Legionaries for direction and leadership, and a skilled enemy could exploit this weakness by killing its best from afar."
   nf_legion.28.a:0 "That would be cowardly indeed."
 
-   ###### Phoenix
+  ###### Phoenix
   nf_legion.29.t:0 "Renovatio!"
   nf_legion.29.d:0 "With Phoenix broken to our rule, the time has come to decide the fate of the City. Aurelius proposes we expand the market and make it into a hub of southern Texas.  Vulpes, instead, urges us to expand the slave barracks outside the city, and house the profligates we conquer outside the city in barracks to build weapons. "
   nf_legion.29.a:0 "Peace be with you."
@@ -154,7 +154,7 @@
   nf_legion.29.b:0 "Fear will keep them in line."
   nf_legion.malpais_glory:0 "\nMalpais gains §Mglory!§!\n"
 
-    ###### Navajo Scheme
+  ###### Navajo Scheme
   nf_legion.30.t:0 "Dealing With the Na-Dené"
   nf_legion.30.d:0 "The ways of [NAV.GetName] clash with much of the Legion's teachings. The Navajo Skinwalkers clash with the Frumentarii, as their reliance on pip boys, stimpaks, and stealth equipment are a stark contrast to the Legion's disdain of machines and medicine. Moreover, the Navajo ban slave trading and act as a buffer between the Legion and the tribes to the north. [CES.GetLeader] has come up with a new plan to soothe the troubled waters of the Navajo by sending an emissary. \n\nPraetorian Lucius has offered to go north with gifts of Mexican cotton and New Mexican silver, offering to promise Caesar will continue to respect the Navajo.  Malpais Legate would simply march a cohort north to [NAV.Capital.GetName]."
   nf_legion.30.de:0 "The ways of [NAV.GetName] clash with much of the Legion's teachings. The Navajo Skinwalkers clash with the Frumentarii, as their reliance on pip boys, stimpaks, and stealth equipment are a stark contrast to the Legion's disdain of machines and medicine. Moreover, the Navajo ban slave trading and act as a buffer between the Legion and the tribes to the north. [CES.GetLeader] has come up with a new plan to soothe the troubled waters of the Navajo by sending an emissary. \n\nPraetorian Lucius has offered to go north with gifts of Mexican cotton and New Mexican silver, offering to promise Caesar will continue to respect the Navajo."
@@ -243,7 +243,7 @@
 
   ###### Legion Roots Out the Problem
   nf_legion.44.t:0 "The Eyes of Caesar"
-  nf_legion.44.d:0 "[GDH.GetLeader] cooperated in our investigation, and  Vulpes has demonstrated how foolish our concerns were. No, El Generalissimo may be a profligate,but he is our profligate."
+  nf_legion.44.d:0 "[GDH.GetLeader] cooperated in our investigation, and  Vulpes has demonstrated how foolish our concerns were. No, El Generalissimo may be a profligate, but he is our profligate."
   nf_legion.44.a:0 "True to Caesar!"
 
 
@@ -256,6 +256,18 @@
   nf_legion.46.t:0 "Our Amigos In the North"
   nf_legion.46.d:0 "One of Aurelian of Phoenix's officers has come south to assist El Generalissimo as part of a visiting warriors' program. And perhaps he can learn a thing or two from us as well!"
   nf_legion.46.a:0 "If you get close to a good tree, you'll find a nice spot for a siesta."
+
+  ###### TWO sends troops
+  nf_legion.47.t: "[TWO.GetName] Sends Us their Veterans"
+  nf_legion.47.d: "In the lands of the Sonora Desert stands a city of Two Sun. It's citizens are not a part of the Legion and they have their own deities, but as long as they worship the Caesar and fight in our battles, we can keep them independent. As a sign of their submission, Will has sent us his best warriors, who mount the roaring chariots."
+  nf_legion.47.a: "They will serve well"
+
+  ###### COW decision
+  nf_legion.48.t: "The Ultimate Decision"
+  nf_legion.48.d: "The time has come for Caesar to make a decision. Vulpes obviously [ultima_vulpes_opinion], while Aurelius [ultima_aurelius_opinion] and Lucius [ultima_lucius_opinion]. But it is up to Caesar to decide"
+  nf_legion.48.a: "Loyalty Must Be Rewarded"
+  nf_legion.48.b: "[GDH.GetLeader] Will Build a Mighty Fleet For Us"
+  nf_legion.48.c: "I Got No Time for This, They'll Figure it out"
 
 
 ######################## Civil War####
@@ -307,7 +319,7 @@
   nf_legion.79.d:0 "Caesar's health has continued to worsen! Of late he has been less active, and his vigorous face seems thinner and paler than normal. This is probably nothing, right?"
   nf_legion.79.a:0 "He'll be fine."
 
-    ### Who Wears the Crown
+  ### Who Wears the Crown
   nf_legion.80.t:0 "The Fate of the Legion"
   nf_legion.80.d:0 "If anyone worships Caesar, Caesar is dead. If anyone follows his precepts, the Legion is alive and immortal. \n\n But who shall lead the Legion now? The Fox, the Praetorian, the Phoenix, and the Beast all vie for the crown. Because war, war never changes."
   nf_legion.80.a:0 "Lucius will follow Caesar's steps."

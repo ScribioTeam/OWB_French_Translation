@@ -1,0 +1,776 @@
+﻿l_english:
+
+  ###Abilities
+  ABILITY_coffeerush:0 "Distribute Coffee Rations"
+  ABILITY_coffeerush_DESC:0 "Nothing like a hot brew to perk you up."
+  ABILITY_coffeerush2:0 "Distribute Raider Roast"
+  ABILITY_coffeerush2_DESC:0 "This will get the blood pumping."
+  ABILITY_COFFERUSH_TOOLTIP:0 "Coffee Rage!"
+
+
+  ### Opinion Modifiers
+  caf_trade_failed_delivery:0 "Failed Delivery"
+  caf_trade_order_canceled:0 "Order Canceled"
+  caf_trade_partner:0 "Coffee Consumer"
+  caf_cooperation:0 "Cooperation"
+  caf_distrust:0 "Distrust"
+  caf_customer_service:0 "Great Customer Service Experience"
+
+  caf_cartel_old_friends_opinion:0 "Old Friends"
+  caf_cartel_trade_opinion:0 "Friendly Rivalry"
+  caf_economic_pressure:0 "Economic Pressure"
+  caf_denied_freedom:0 "Denied Freedom"
+  caf_betrayal:0 "Betrayer"
+
+  #tooltips
+  caf_itz_pissed_tt:0 "§YThe Itza will be angered by this action.§!"
+  caf_itz_pissed_major_tt:0 "§RThe Itza will be enraged by this action!§!"
+  caf_itz_pissed_minor_tt:0 "§YThe Itza will be somewhat annoyed by this action.§!"
+
+  caf_ate_pissed_tt:0 "§YAztlan will be angered by this action.§!"
+  caf_ate_pissed_major_tt:0 "§RAztlan will be enraged by this action!§!"
+  caf_ate_pissed_minor_tt:0 "§YAztlan will be somewhat annoyed by this action.§!"
+
+  caf_unlock_abilities_tt:0 "Unlocks new unit commander abilities."
+  caf_temp_factories_tt:0 "Adds §Y2§! temporary factories, these will be removed at the end of the financial half-year."
+  caf_lower_req_tt:0 "Lowers our required industrial expansion by §Y1§!."
+
+  ###ideas
+
+  caf_drugged_population_heavy_idea:0 "Heavily Drugged Populace"
+  caf_drugged_population_mandatory_idea:0 "Drugged Populace"
+  caf_drugged_population_voluntary_idea:0 "Voluntarily Drugged Populace"
+  caf_drugged_population_idea_2:0 "Medicated Populace"
+  caf_drugged_soldiers_idea:0 "Chem'd Soldiers"
+  caf_private_investment_idea:0 "Private Investments"
+  caf_coffee_kings_idea:0 "Coffee Kings"
+  caf_coffee_kings_idea_2:0 "Coffee Kings"
+  caf_ate_puppet_idea:0 "The Treaty of Oaxaca"
+  caf_ate_puppet_dependent_idea:0 "Loyalty"
+  caf_ate_puppet_dependent_idea_desc:0 "The Customer is Always Right"
+  caf_ate_puppet_independent_idea:0 "Independence"
+  caf_new_strain_idea:0 "A New Strain"
+  caf_raider_roast_idea:0 "§RRaider Roast§!"
+  caf_decaf_timed_idea:0 "Withdrawal Symptoms"
+  caf_decaf_idea:0 "§YDecaf§!"
+  caf_mutalatte_idea:0 "§GMuta-Latte§!"
+  caf_soil_idea:0 "Irradiated Soil"
+  caf_breadbasket_idea:0 "The Breadbasket of Mexico"
+  caf_breadbasket_idea_2:0 "The Breadbasket of Mexico"
+  caf_customer_service_idea:0 "Customer Satisfaction"
+  caf_nature_idea:0 "Water Reclamation"
+  caf_quality_army_idea:0 "Mercenary Army"
+  caf_quantity_army_idea:0 "Native Army"
+  caf_aztlan_support_idea:0 "Aztlan Military Mission"
+  caf_spiked_drugs_idea:0 "Spiked Drugs"
+
+  caf_hidden_major_client:0 "Massive Contracts"
+  caf_hidden_warehouses:0 "Spacious Warehouses"
+
+
+  caf_trade_range_idea:0 "Pacific Shipping"
+  caf_trade_dominance_idea:0 "Mexican Trade Dominance"
+  caf_trade_river_idea:0 "Coastal Primacy"
+  caf_trade_ocean_idea:0 "River Primacy"
+  caf_refueling_hulks_idea:0 "Floating Fuel Depos"
+
+  CAF_flagship:0 "The Flagship"
+
+  caf_itz_embargo_idea:0 "Economic Embargo"
+  caf_ate_embargo_idea:0 "Economic Embargo"
+
+  caf_guerreros_idea:0 "Goods for Guerreros"
+
+  caf_short_term_investment_idea:0 "Short Term Investments"
+
+  caf_long_term_investment_idea:0 "Long Term Investments"
+
+  caf_bad_investment_idea:0 "Bad Investments"
+  caf_bad_investment_idea_2:0 "Bad Investments"
+  caf_bad_investment_idea_3:0 "Bad Investments"
+  caf_good_investment_idea:0 "Good Investments"
+  caf_good_investment_idea_2:0 "Good Investments"
+  caf_good_investment_idea_3:0 "Good Investments"
+  caf_unsuccessful_financial_year_idea:0 "Unsuccessful Financial Year"
+  caf_unsuccessful_financial_year_idea_2:0 "Unsuccessful Financial Year"
+  caf_unsuccessful_financial_year_idea_3:0 "Unsuccessful Financial Year"
+  caf_successful_financial_year_idea:0 "Successful Financial Year"
+  caf_successful_financial_year_idea_2:0 "Successful Financial Year"
+  caf_successful_financial_year_idea_3:0 "Successful Financial Year"
+  caf_internal_investments_idea:0 "Internal Investments"
+
+  caf_naval_industry_idea:0 "Drydock Expansion"
+
+  caf_volunteers_idea:0 "Volunteer Mercenaries"
+  caf_cartel_drugs_idea:0 "Drug Trade"
+  caf_disrupted_river_traffic_idea:0 "Disrupted River Traffic"
+  caf_economic_refugees_idea:0 "Economic Refugees"
+  caf_HON_partisans_idea:0 "Honduran Partisans"
+  caf_TZO_agitators_idea:0 "Tzotzil Agitators"
+  caf_tariffs_idea:0 "Costa Trade Tariffs"
+  caf_watered_down_coffee_idea:0 "Watered Down Coffee"
+  caf_war_bonds_idea:0 "War Bonds"
+  caf_war_bonds_caf_idea:0 "War Bonds"
+
+  caf_ncr_coffee_addiction_idea:0 "Coffee Addicts"
+
+  juan_efectivo:0 "Juan Efectivo"
+  grant_stone:0 "Grant Stone"
+  rafael_hernandez:0 "Rafael Hernandez"
+  la_mano_derecha:0 "La Mano Derecha"
+  el_capitan:0 "El Capitan"
+  lopez_chief_of_army:0 "Lopez"
+  la_mano_derecha_chief_of_army:0 "La Mano Derecha"
+  el_capitan_chief_of_navy:0 "El Capitan"
+  rafael_hernandez_theorist:0 "Rafael Hernandez"
+
+  aztlan_officer_theorist_trait:0 "Aztalan Officer"
+  el_capitan_navy_trait:0 "El Capitan"
+  right_hand_army_trait:0 "The Right Hand"
+  lopez_trait:0 "Brutish Thug"
+  el_capitan_trait:0 "El Capitan"
+  right_hand_trait:0 "The Right Hand"
+  aztlan_officer_trait:0 "Aztalan Officer"
+  foreign_capitalist_trait:0 "Foreign Capitalist"
+  affable_trait:0 "Affable Ghoul"
+  baron_trait:0 "The Baron"
+
+  #focuses
+
+  caf_intro_1:0 "Articles of Association"
+  caf_intro_1_desc:0 "our friends at Costa Cafeinada has served the thirsty citizens of Mexico for over *ILLEGIBLE* years. But it's a long trip to the top, and nobody knows that like us..."
+
+  caf_intro_2:0 "'The Taste you Can't Forget'"
+  caf_intro_2_desc:0 "Don't be fooled by our mascot, it's not all smiles at the Costa Cafeineda compounds. Hard work and dedication to the company are a must for all our employees..."
+
+  caf_intro_3:0 "Business Forecast"
+  caf_intro_3_desc:0 "You too, can be a part of something special..."
+
+  caf_merchant_marine:0 "Merchant Marine"
+  caf_merchant_marine_desc:0 "Due to our interest in coastal trading, we are of the few nations in Mexico that maintain any sizable naval presence. However, currently most of our vessels are shipping barges, if we are to exploit naval dominance of the west coast, we need to transform our merchant navy into a proper fleet."
+
+  caf_light_ships:0 "Advance Skiffs"
+  caf_light_ships_desc:0 "Coffee barges are slow, and hard to defend from would-be boarders. To ensure the safety of our cargo, fast, light skiffs are sent out to screen river and coastal passages, and to engage the enemy before they can reach our main fleet."
+
+  caf_heavy_ships:0 "Barges and Berths"
+  caf_heavy_ships_desc:0 "Our barges currently make up the bulk of our seaworthy vessels. While cumbersome, with enough refitting, they could be repurposed into becoming a strong naval backbone for our fleet."
+
+  caf_extending_range:0 "Extending our Range"
+  caf_extending_range_desc:0 "River expeditions and coastal hopping may have been sufficient before, but to able to reach new customers with our product we need to equip our ships with the resources and materials for long-distance expeditions."
+
+  caf_ocean_focus:0 "Short Sea Shipping"
+  caf_ocean_focus_desc:0 "The Benefits of coastal trading is that it's far faster than river-sailing, the downside is that, if something goes wrong, you're stranded on the coast of a foreign country with a payload of expensive coffee and no way to bring it back. But with the improvements made to our barges, we can reduce the risk of profit loss to a manageable level. "
+
+  caf_river_focus:0 "Riverboat Diplomacy"
+  caf_river_focus_desc:0 "The rivers are the veins of Mexico. Deploying our skiffs en masse to patrol our local riverways allows us to project a larger amount of influence in our neighbour's affairs."
+
+  caf_naval_dominance:0 "Dominate Trade"
+  caf_naval_dominance_desc:0 "All business is our business. The people of mexico have finally begun to learn that it's that simple, you work for us, or you don't work at all."
+
+  caf_cartel_trade:0 "Business with the Cartels"
+  caf_cartel_trade_desc:0 "Friendly competition is always welcome, and our brothers in the north have carved out an impressive kingdom of terror for themselves. Let's make their success ours as well."
+
+  caf_merc:0 "Plantation Security"
+  caf_merc_desc:0 "Manpower has never been our strongest suite. Often, we've had to outsource the security of our coffee plantations to our Aztec overlords. With Aztlan on the decline, however, we need to prepare to take control of our own military defenses."
+
+  caf_quality_mercenaries:0 "Hiring the Best"
+  caf_quality_mercenaries_desc:0 "There's no shortage of gunslingers that travel the wastelands of Mexico, but few among them are reliable, or competent. Large mercenary companies provide a solution to both these problems, providing skill and loyalty, as long as we provide the caps."
+
+  caf_mafia_training:0 "Staying In-House"
+  caf_mafia_training_desc:0 "While they may not be the most competent soldiers, our plantation enforcers are loyal, trusted, and most importantly, cheap."
+
+  caf_request_aztlan_support:0 "Request an Aztlan Military Mission"
+  caf_request_aztlan_support_desc:0 "As loathe as we are to admit it, the Aztalan are the best there is when it comes to waging war. It make require us to swallow our pride, but we should request an Aztalan military mission to train our new forces."
+
+  caf_honduran_mercs:0 "Guerreros Contracts"
+  caf_honduran_mercs_desc:0 "The Guerreros of Honduras are hardened by years of jungle warfare on their southern border, even better, they have no love for the Itza. These two traits more than make up for any asking price for their services."
+
+  caf_cartel_mercs:0 "Cartel Enforcers"
+  caf_cartel_mercs_desc:0 "It's not enough to be able to shoot a plasma pistol, we need men who can inspire fear into the hearts of our enemies. The cartels of the north have refined cruelty into an art form, which is just what we're looking for in new employees."
+
+  caf_rely_on_aztlan:0 "Rely on the Aztlan"
+  caf_rely_on_aztlan_desc:0 "Despite our reservations, the Aztlan mission has been a marked success. By adopting their battle strategies we can improve our military strategies even more."
+
+  caf_mafia_tactics:0 "Mafioso Tactics"
+  caf_mafia_tactics_desc:0 "We have neither the manpower nor the inclination to wage large-scale war. By training our troops for asymmetric warfare we can pick the fights we know we can win."
+
+  caf_drugged_soldiers:0 "Drugged Soldiers"
+  caf_drugged_soldiers_desc:0 "We may not have the fervour, the weaponry, or the sheer bloodlust of our rivals, but we have one thing they don't: ludicrous amounts of drugs. With enough of our signature blend coursing through their veins, our men won't even feel the bullets ripping through their bodies."
+
+  caf_business_as_usual:0 "Business As Usual"
+  caf_business_as_usual_desc:0 "One of the most important rules of business is this: Never ruin a good thing. Our position with the Aztalan empire is far more profitable for us than them, so for now, let's let bygones be bygones."
+
+  caf_cutting_a_deal:0 "Cutting A Deal"
+  caf_cutting_a_deal_desc:0 "With their leader dead, their council indecisive, and their heir apparent an inexperienced novice, the Aztlani hold over us has never been weaker. And when there's weakness to be found, there's profit to be made."
+
+  caf_secure_trade_routes:0 "Secure The Trade Routes"
+  caf_secure_trade_routes_desc:0 "Trade with outlying nations has fallen off in recent years, due to recent instabilities. Therefore securing our in-roads to our neighbours is the first step in a larger economic expansion."
+
+  caf_trade_aztlan:0 "Trade With Aztlan"
+  caf_trade_aztlan_desc:0 "Aztlan is the bread and butter of our coffee trade, but that doesn't mean we can take these customers for granted. A new trade initiative to the Aztalan border cities is the first stop in our coffee chain empire."
+
+  caf_viceroyalty_monopoly:0 "Southern Monopoly "
+  caf_viceroyalty_monopoly_desc:0 "With the annexation of the Viceroyalty, and the subsequent elimination of our sole competitor in the region, we can now set up shop over their smoldering corpses."
+
+  caf_viceroyalty_competition:0 "Taking Care of the Competition"
+  caf_viceroyalty_competition_desc:0 "Though we have most of the market cornered in the empire of the Aztlani, there is some amount of competition left. [TVR.GetName] is investing heavily into commodity crops to support themselves as an independent state. Wouldn't it be a shame if someone dropped a match or 900 in their plantations?\n\n§g[ATE.GetName]'s decision is contigent on their opinion of [THIS.GetName]§!"
+
+  caf_trade_honduras:0 "Trade with Honduras"
+  caf_trade_honduras_desc:0 "Honduras is a wild place, the last line of defense against a horde of horrors and jungle that extends without end. Perhaps we can give them a discount for their services to civilisation."
+
+  caf_goods_for_guerreros:0 "Goods For Guerreros"
+  caf_goods_for_guerreros_desc:0 "Not everyone wants to die in the jungle, in fact, most people don't. The role of a Costa Cafeinada security personnel officer, in comparison, is a retirement plan for a Guerrero, and we can use this this manpower influx to our advantage."
+
+  caf_trade_tzotzil:0 "Trade With Tzotzil"
+  caf_trade_tzotzil_desc:0 "Our position with Tzotzil is...precarious, to say the least. But far be it from us to let the threat of an upcoming bloody war get in the way of good business!"
+
+  caf_negotiating_table:0 "The Negotiating Table"
+  caf_negotiating_table_desc:0 "The treaty of Oaxaca has once again come up for renegotiation. In the past, we have managed to greatly strengthen our position relative to our Aztlan overlords, it is hoped that this time we can strike the final blow for our complete independence, preferrably without having to fight a war over it."
+
+  caf_art_of_the_deal:0 "The Art of the Deal"
+  caf_art_of_the_deal_desc:0 "As always, Baron Garcia has proven to be a brilliant negotiator, running circles around the outmached Aztlan delegation. Costa is free in every sense of the word, and without a single drop of blood shed. Let's have a freshly brewed toast to such a great accomplishment!"
+
+  caf_economic_embargo:0 "Economic Embargo"
+  caf_economic_embargo_desc:0 "Even the army of the Itza marches on it stomach. By using our economic monopoly to pressure the Itza economy, we can land the first strike in any upcoming conflict."
+
+  caf_bad_business:0 "Bad Business"
+  caf_bad_business_desc:0 "Despite the reasonableness of our demands, the sincerity of our arguments, and the copious amount of bribes we issued, the Aztalan have refused to grant our independence. This means war."
+
+  caf_hit_em_where_it_hurts:0 "Hit Them Where it Hurts"
+  caf_hit_em_where_it_hurts_desc:0 "Hell hath no wrath like that of a ghoul scorned. Hundreds of years of business, trade, and partnership, are to be used as kindling in the fire against Aztlan. For the Baron, this time it's personal."
+
+  caf_war_is_good_for_business:0 "War is Good for Business"
+  caf_war_is_good_for_business_desc:0 "'War! What is it good for?' Our bottom line, for a starter."
+
+  caf_business:0 "Going Public"
+  caf_business_desc:0 "As easy way to inject more funding into our business operations is to sell stocks in our company to the public. While we may have trouble finding suitable business partners around us, as our operations expand, we're sure to find someone gullible enough to buy in. Capitalism, ho!"
+  caf_business_external_tooltip:0 "Taking this focus will allow foreign nations to invest in your country. Make sure to meet your investor demands!"
+
+  caf_business_2:0 "Private Investments"
+  caf_business_2_desc:0 "Trying to build a public investment system in a nuclear wasteland is a surefire way to go bankrupt. Far better to play it safe than to risk it all on some pre-war financial idealism."
+
+  caf_coffee_kings:0 "Coffee Kings"
+  caf_coffee_kings_desc:0 "The foundation of Costa Cafeinada is coffee. Ground, premix, thermos-sealed, as long as it's coffee, we sell it. We are the kings of coffee not only in Mexico, but across America, and possibly, what's left of the whole world."
+
+  caf_new_strain:0 "A New Strain"
+  caf_new_strain_desc:0 "Complacency is the death knell of any organisation. Sure, we sell coffee, but why stop at just coffee? With the right blend of nuclear irradiated ingredients and proper mixing, a whole world of new flavours can be opened to us to sell to the unsuspecting public."
+
+  caf_raider_roast:0 "§RRaider Roast§!"
+  caf_raider_roast_desc:0 "What causes a man to lose his humanity? To become a wild animal, hating his own kind, ready to kill at the slightest provocation? We sure as hell don't know, but by sticking irradiated peppers into coffee we can get a pretty close simulacram."
+
+  caf_decaf:0 "§YDecaf§!"
+  caf_decaf_desc:0 "Sometimes, you just need a little less coffee."
+
+  caf_muta_latte:0 "§GMuta-Latte§!"
+  caf_muta_latte_desc:0 "Mutation: is it really that bad? Sure it seems to cut your life expectancy by half and your fertility rate by double that, but on the other side, it seems to make for a mindless, musclebound workforce to exploit."
+
+  caf_the_perfect_blend:0 "The Perfect Blend"
+  caf_the_perfect_blend_desc:0 "Drug psychos and caffeine fiends are all well and good, but when it comes down to it, what you really want, in this hell of a world that we are unwillingly borne into and forced to live in, is a damn fine cup of coffee. "
+
+  caf_scientific_deliciousness:0 "Scientifically Proven Deliciousness"
+  caf_scientific_deliciousness_desc:0 "Our RND department has run the tests, and all the data points to one simple fact: Costa Coffee is 100% all natural deliciousness. It's science, people."
+
+  caf_satisfaction_guaranteed:0 "Satisfaction Guarantee"
+  caf_satisfaction_guaranteed_desc:0 "With our new product line up and a ready market of addicted and over-caffeinated workers, we're ready to begin business. If anyone has a customer complaint, they just haven't drunk enough coffee yet."
+
+  caf_new_markets:0 "New Market Opportunities"
+  caf_new_markets_desc:0 "'Costa Cafeinada, the greatest drink on earth, packing with all-natural goodness and a taste you can't forget, coming to a brahmin trader near you!'"
+
+  caf_mexican_monopoly:0 "Mexican Monopoly"
+  caf_mexican_monopoly_desc:0 "While the 'Great Powers' of Mexico continue to squabble and murder each other over foolish ideals such as 'honor' and 'freedom,' we can spend our time far more profitably, by selling them all coffee while they do it."
+
+  caf_breadbasket_of_mexico:0 "The Second Breadbasket of Mexico"
+  caf_breadbasket_of_mexico_desc:0 "While the hot fires of nuclear annihilation may have turned the rest of the world into an unlivable hellscape, for us, it became a highly fertile hellscape. The irradiated soil of Costa Cafeinada can grow just about anything that is planted, as long as it can survive the background radiation."
+
+  caf_inmecafe:0 "INMECAFE Techniques"
+  caf_inmecafe_desc:0 "Often, when sorting through documents from before the war, we find memos from the Instituto Mexicano del Cafe. INMECAF distributed many materials to assist coffee farmers in the past, and, despite the slightly glowy soil, some of their guidance could help. [THIS.GetLeader] evenn has an idea on where their headquarters may lie."
+
+  caf_bumper_crops:0 "Bumper Crops"
+  caf_bumper_crops_desc:0 "A man cannot live on coffee alone, at least, not yet anyway. While we're working on that technical issue, rotating our coffee fields with high-yield grain crops can help offset our cost overheads."
+
+  caf_secondary_industries:0 "Secondary Industries"
+  caf_secondary_industries_desc:0 "There's a lot more to growing coffee than just a watering can and some dirt. From production, packaging, supply, and administration, our self-sufficency as an organisation has ensured our continued growth as a company."
+
+  caf_soil_reclamation:0 "Soil Reclamation Projects"
+  caf_soil_reclamation_desc:0 "As ridiculous as it sounds, there is such a thing as 'too much' radiation. By reclaiming some of the more unlivable sections of our interior, we can up production levels by 150% by third quarter."
+
+  caf_natural_ingredients:0 "All Natural Ingredients"
+  caf_natural_ingredients_desc:0 "Despite all good sense and logic, the people of the wasteland still keep trying to eat 200 year old boxes of preserved pre-war foodstuffs. Putting aside the radiation poisoning, these products are chocked to the brim with preservatives! Costa offers a all-natural goodness alternative to the people of mexico, whether they like it or not."
+
+  caf_customer_services:0 "Customer Service Support"
+  caf_customer_services_desc:0 "Here at Costa, the customer always comes first in line. Whether that's on the battlefield, the testing lab, or the plantation fields, Costa is committed to helping our customers help us help them."
+
+  caf_small_markets:0 "The Craft Market"
+  caf_small_markets_desc:0 "Often when a commodity becomes popular, a niche forms for trade of the highest quality product. By cornering this sector of the market, we can build a smaller, but dedicated, consumer base in our local region."
+  add_to_small_business_amount:0 "Increase small orders by §p300§! worth §G7.8§! [GetCapTxt] "
+
+  caf_major_clients:0 "Major Clients"
+  caf_major_clients_desc:0 "Business booms and busts, but when its booming, having a contract with the biggest boomer around will go a long way towards financing our golden toilets!"
+
+  caf_transportation_infrastructure:0 "Frieght Infrastructure"
+  caf_transportation_infrastructure_desc:0 "Creating infrastructure to get coffee where it needs to go, onto a barge, and to the customer is paramount to expanding our reach. A little investment in the far regions will be a great boon."
+
+  caf_warehouses:0 "The Hangers"
+  caf_warehouses_desc:0 "Named for the sacks of coffee hanging from the ceiling in order to control moisture, The Hangers warehouse district in [828.GetName] could do with some rennovation. Increasing our storage capacity for our processors can help us better absorb production fluctuations."
+
+  caf_processing_facilities:0 "Roastery Blueprints"
+  caf_processing_facilities_desc:0 "Our roasting needs have become inadequate as we've grown, one of our engineers, [GetCAFSalesman], has assembled a team to create a new roastery to fit our needs."
+
+  caf_processing_facilities_trigger_tt:0 "§YPrepared to offer a§! §Rconsiderable sum§! §Yto buy a facility§!"
+
+  caf_supply_network:0 "Supply Network"
+  caf_supply_network_desc:0 "Bringing all of our previous efficiencies under one system will futher increase our capacity, efficiency, and most importantly, PROFIT "
+
+  caf_expand_our_operations:0 "Expanding our Operations"
+  caf_expand_our_operations_desc:0 "With our political future secured, we can now realise our dreams for even further economic expansion, not amongst the petty warlords of mexico, but across the entire western coast, and beyond."
+
+  caf_lease_two_harbor:0 "The Lease of Two-Harbor"
+  caf_lease_two_harbor_desc:0 "The merchants of the boneyard have received our trade ships with open arms. If we can permanently guarantee a warm reception in the future. we can use this as a basis for further exploration up the Pacific Coast."
+
+  caf_refueling_hulks:0 "Refueling Hulks"
+  caf_refueling_hulks_desc:0 "The distances our coffee barges are traveling can no longer be measured in days, but in months, and with such long distances to travel, fuels and supplies can run dangerously low, by placing stationary ghoul-operated refueling hulks along the coasts, we can provide a safety net for our outgoing vessels."
+
+  caf_the_flagship:0 "The Flagship"
+  caf_the_flagship_desc:0 "With things going so well for us, it wouldn't hurt to indulge in a little vanity project, just in case."
+  CAF_flagship:0 "Gran Prosperidad"
+
+
+  caf_last_port_of_call:0 "The Last Port of Call"
+  caf_last_port_of_call_desc:0 "Before the northwestern wastelands of cannibals, raiders, and mud-dwelling savages begins, there is one final bastion of civilisation. Arroyo is crucial to our expanding operations, but if we're going to get them to agree to lease their harbour to us, we're going to need one hell of a bribe."
+
+  caf_hot_coffee_nuclear_winter:0 "Hot Coffee for a Nuclear Winter"
+  caf_hot_coffee_nuclear_winter_desc:0 "It's a cold, cold world up there in the north. Crazed techno-slavers, pirates, cannibals, and worse. Wouldn't it be nice if these good people of the great white could take a load off, relax, and enjoy a nice hot cup of Costa Cafeinada(TM) coffee before their inevitable gruesome death?"
+
+  ###events###
+
+  nf_caf.0.t:0 "The Articles of Association"
+  nf_caf.0.d:0 "'Established in 2XXX, your friends at Costa Cafeinada has served the thirsty citizens of Mexico for over *ILLEGIBLE* years. But it's a long trip to the top, and nobody knows that like us. Why, when our cacique first founded this company it was nothing more than:"
+  nf_caf.0.a:0 "A simple corner cafe, serving our special blend with a smile to our American guests"
+  nf_caf.0.b:0 "A quiet transportation company, with strong 'community' ties."
+
+  nf_caf.1.t:0 "The Taste You Can't Forget"
+  nf_caf.1.d:0 "'Don't be fooled by our mascot, it's not all smiles at the Costa Cafeineda compounds. Hard work and dedication to the company are a must for all our employees. But don't let that bring you down, with a free serving of Costa's delicious in-house blend every day, you'll never feel reluctant to work again!'"
+  nf_caf.1.a:0 "You'll feel as strong as a deathclaw!"
+  nf_caf.1.b:0 "Have the endurance of a panthleopard!"
+  nf_caf.1.c:0 "And it's all completely Free! §HTM§!"
+
+  nf_caf.2.t:0 "Business Forecast"
+  nf_caf.2.d:0 "'You too, can be a part of something special. as Costa Cafeineda prepares for another great year of financial growth and new market opportunities, whether as a prized financial partner or one of our loyal employees, together, we can build a fresher future.' \n \n \n - Costa Cafeineda 2275 Company Statement"
+  nf_caf.2.a:0 "Costa: §H\"The fresh new taste of Mexico.\"§!"
+  nf_caf.2.b:0 "Costa: §H\"Building a plan for the future, together.\"§!"
+  nf_caf.2.c:0 "Costa: §H\"The skull you can trust.\"§!"
+
+  nf_caf.3.t:0 "Costa Requests Military Support"
+  nf_caf.3.d:0 "While our relationship with Costa Cafeineda has been...tense, over the last few years, they still remain our vassal, and we, their protector. An envoy from the compounds has asked for increased military support in the form of arms and tactics training, to bolster their inadequate forces. While it may be costly, ignoring their requests may cause them to drift away from us even further, in the event we cannot stop them."
+  nf_caf.3.a:0 "If they can fight, then they can fight for us."
+  nf_caf.3.b:0 "A perfunctionary military mission will suffice."
+  nf_caf.3.c:0 "We don't have time for this."
+
+  nf_caf.4.t:0 "Traveling Coffee Sales-Ghoul"
+  nf_caf.4.d:0 "We've gotten a quite interesting visitor recently, a ghoul from the Oaxacaca region in Mexico. Word has spread far and wide about the amazing blends created by the old timers from [CAF.GetName]. Smooth and mellow, bitter and energizing, astringent and fruity; something we can only find in ruins. Their representative is keen on expanding the business to us, and for an unbeatable price!"
+  nf_caf.4.a:0 "[GetCAFPropositionResponse]"
+  nf_caf.4.b:0 "We are too tight on [GetCapType] right now"
+
+  nf_caf.4_tt:0 "§MInvoice:§!\nCost: [?caps_to_caf_temp|+=2] [GetCapTxt]\n\nAmount: [?caf_shipment_recieved_amount_temp|0p] kilos\nBlend: [GetCAFBlend]\n\n§gWe will pay §!§Y[CAF.GetName]§!§g every 180 days to gain the envigorating effects of coffee for our population, and our troops!§!"
+
+  nf_caf.5.t:0 "New Customers"
+  nf_caf.5.d:0 "Our astute salesman, [GetCAFSalesman], was able to strike a deal for a preliminary order of our [GetBlendType] from [FROM.GetName]. We expect this portfolio to prosper with the amount of thristy patrons in [FROM.GetName]. They expect their first shipment soon; fire the roasters!"
+  nf_caf.5.a:0 "Capitalism, ho!"
+
+  nf_caf.6.t:0 "Missed Opportunity"
+  nf_caf.6.d:0 "Unfortunately, the sales team send to [FROM.GetName] has failed to secure the account. Though the people will remain thirsty for now, it would be smart to reach out again soon. As we know, the wamingo can not resist thirst forever. For now though we have a 'performance review' of the sales team lead, [GetCAFSalesman]."
+  nf_caf.6.a:0 "We needed more help on the plantation anyways"
+
+
+  #nf_caf.6.d:0 "Aztlan has always been one of our biggest customers for our coffee sales, but sometimes even we can be surprised by the demand they have. Our trade caravans have returned laden with Aztlan riches, and merchants from the empire have already begun placing hold orders for the next caravan."
+
+  nf_caf.8.t:0 "An Altered Agreement"
+  nf_caf.8.d:0 "Upon arrival in Tehuacan, our Aztlan buyers decided to conveniantly inform us that they were incapable of paying the agreed price for our product, evidently hoping to scam our traders. Things were about to get heated when one of the traders offered Aztlan military surplus as a substitute, to make up for the shortfall."
+  nf_caf.8.a:0 "....Thanks? I guess?"
+
+  nf_caf.9.t:0 "Account Closed"
+  nf_caf.9.d:0 "[FROM.GetName] has contacted us via messenger pigeon to terminate their account with us. While we can understand that paying the price for our premium product can be difficult, it shouldn't be hard for a nation as wealthy as [FROM.GetName]! We supply small raider gangs and they never have such issues. Thier account isn't a small one either, the details can be found in the attached report. The account manager, [GetCAFSalesman], seems to have boarded a barge yesterday headed for [ITZ.GetName]. His luck seems tenuous, given our best 'finacial implementer' is already in [temp_caf_itz_target_state.GetName] waiting for said barge...\n\n\n\n\nAccount: §G[FROM.GetName]§!\n  Blend: §o[FROM.GetBlendName]§!\n\n    Amount: [?FROM.caf_shipment_recieved_amount|0c] kilos \n    Payment Amount: [?FROM.caps_to_caf|=+2][GetCapTxt] \n    Date Account Opened: [?FROM.caf_date_account_opened.GetDateStringNoHourLong]"
+  nf_caf.9.a:0 "A loss is a loss."
+  nf_caf.9.b:0 "A discount should convince them."
+  nf_caf.9.c:0 "Sweeten the deal."
+  caf_remove_order_FROM_tt:0 "[event_cancellor.GetName] cancels their account with us."
+
+  nf_caf.12.t:0 "Order Reduced"
+  nf_caf.12.d:0 "Due to some financial difficulties, [FROM.GetName] has decided to reduce their order from us for the time being. In the future we should be able to win them back with some new blends or cutting a deal. Thier account standing is in the attached report\n\n\n\n\nAccount: §G[FROM.GetName]§!\n  Blend: §o[FROM.GetBlendName]§!\n\n    Amount: [?FROM.caf_shipment_recieved_amount|0c] kilos \n    Payment Amount: [?FROM.caps_to_caf|=+2][GetCapTxt] \n    Date Account Opened: [?FROM.caf_date_account_opened.GetDateStringNoHourLong]"
+  nf_caf.12.a:0 "They'll come back.."
+  caf_reduce_order_FROM_tt:0 "[FROM.GetName] reduces their order by 1/3rd ([?temp_shipment_amount_reduction|0p] kilos)"
+
+  nf_caf.13.t:0 "Order Increase Request"
+  nf_caf.13.d:0 "Please tell ICODE to rewrite this because he's really tired Thier account standing is in the attached report\n\n\n\n\nAccount: §G[FROM.GetName]§!\n  Blend: §o[FROM.GetBlendName]§!\n\n    Amount: [?FROM.caf_shipment_recieved_amount|0c] kilos \n    Payment Amount: [?FROM.caps_to_caf|=+2][GetCapTxt] \n    Date Account Opened: [?FROM.caf_date_account_opened.GetDateStringNoHourLong]"
+  nf_caf.13.a:0 "Business is booming!"
+  nf_caf.13.b:0 "We can't support this right now"
+  caf_increase_order_FROM_tt:0 "[FROM.GetName] increases their order by 1/3rd ([?temp_shipment_amount_reduction|0p] kilos)"
+
+  nf_caf.10.t:0 "Human Capital"
+  nf_caf.10.d:0 "The Guerreros of Honduras are not a rich people, but they are an incredibly violent one, and in this world, concentrated violence is worth its weight in caps. In return our latest shipment, a detachment of Guerreros mercenaries have agreed to work for Costa, as long as we provide the tools for their trade."
+  nf_caf.10.a:0 "Beats caps at least."
+
+  nf_caf.11.t:0 "Massacre at the Grijalva"
+  nf_caf.11.d:0 "While our relations to the Tzotzil are ambivalent, their watchful neighbour does not take kindly to them making friends. Our recent trading mission to Tzotzil was intercepted by an Itza scouting party. The product was lost, and none of the traders survived."
+  nf_caf.11.a:0 "Honestly, we should of seen this coming."
+
+  # nf_caf.12.t:0 "Friendly Competition"
+  # nf_caf.12.d:0 "It's always a risk to sell to the competition, especially when that competition is the cartels. Thankfully, rather than outright steal our product, the cartels gave our traders an offer they couldn't refuse: our product, for theirs."
+  # nf_caf.12.a:0 "Nothing wrong with a little bit of diversification."
+  # caf_reduce_order_FROM_tt:0 ""
+
+  # nf_caf.13.t:0 "Trade with Costa?"
+  # nf_caf.13.d:0 "In a surprising turn of events, a Costa Cafeinada trade caravan has successfully made it to one of our border towns. While the patrolling guards will have to be severely punished for this lapse of vigiliance, it does raise the question of why Costa would seek to trade directly through us, rather than by proxies as previously, perhaps the Costa/Aztlan relationship is not as solid as we first thought."
+  # nf_caf.13.a:0 "A surpise to be sure, but a welcome one."
+
+  nf_caf.14.t:0 "Costa Disrupts our Sea Trade!"
+  nf_caf.14.d:0 "While we have never had a major naval presence, we still maintain a respectable fishing and trade industry alongside our coastlines. This industry has now been rudely disrupted by Costa trade barges, barreling through our coastal waters and capsizing any fishing boats in their way. While a minor grievance, it is frustrating that our nominal puppet could disrespect us in this way."
+  nf_caf.14.a:0 "How rude."
+
+  nf_caf.15.t:0 "Costa Dismisses our Advisors!"
+  nf_caf.15.d:0 "In a display of arrogance, Costa Cafeinada has dismissed our military high command under their control. Preferring to have complete control over their military forces, our advisors have been given an unceremonious boot."
+  nf_caf.15.a:0 "Their loss."
+  caf_dismissed_advisors:0 "Aztlan Advisors Dismissed"
+
+  nf_caf.16.t:0 "Centralised Roasting"
+  nf_caf.16.d:0 "Our operation has been booming recently! Despite the large amount of investment we have put into our processing capacity, the lack of centeralized processing has hampered our ability to streamline the process. To remedy this snaffu, our best engineer, [GetCAFSalesman], proposed a processing facility nearby our hub, §G[828.GetName]§!, in §G[813.GetName]§!. This location is fairly flat, has plenty of background radiation to preserve the beans, and is practically uninhabitable by smoothskins! However, we do not own this land, perhaps a partnership with [ATE.GetName] will give us the best of both worlds?"
+  nf_caf.16.a:0 "How nice of that AI to level the area"
+  nf_caf.16.b:0 "Can we make a purchase for the land?"
+  nf_caf.16.c:0 "Keep the processing in-house"
+
+  nf_caf.17.t:0 "The Purchase of [813.GetName]"
+  nf_caf.17.d:0 "Our subject, [CAF.GetName] is growing at a rapid pace due to their booming coffee industry. As they near capacity, they have given us an extremely intriguing proposition: A purchase contract for §G[813.GetName]§!. After the massacre, the land has had little value to us, however empowering [CAF.GetName] may not be the wisest of decisions."
+  nf_caf.17.a:0 "A hefty sum outweights the detriments."
+  nf_caf.17.b:0 "This land is important."
+
+  nf_caf.18.t:0 "The Purchase of [813.GetName]"
+  nf_caf.18.d:0 "They have accepted our proposition, §G[813.GetName]§! is now on its way to become the new site of our centeralized roasting operations!"
+  nf_caf.18.a:0 "Begin breaking ground immediately!"
+
+  nf_caf.19.t:0 "The Purchase of [813.GetName]"
+  nf_caf.19.d:0 "[ATE.GetName]have declined our request to buy §G[813.GetName]§!, however we may still privately invest in the land, should we see fit!"
+  nf_caf.19.a:0 "They do not deserve our business."
+  nf_caf.19.b:0 "The location is too perfect."
+
+  ### caf_viceroyalty_competition
+
+  nf_caf.60.t:0 "Trading Success!"
+  nf_caf.60.d:0 "Our trade caravans have returned with a good success, our product has sold, return buyers have placed orders, and the wheels of business turn ever so smoother."
+  nf_caf.60.a:0 "There's no business like good business."
+  ### caf_viceroyalty_competition
+  nf_caf.61.t:0 "Plantations in Flames"
+  nf_caf.61.d:0 "Since our independence, we have invested heaily into expanding our own self sufficientcy as the Aztlani are unreliable at best. Our neighbors to the south however, are not enthused with our crop choices. Despite no evidence of malice, 37 plantations do not simultainiously catch flame in one night on accident."
+  nf_caf.61.a:0 "Smells like.... coffee?"
+
+  nf_caf.20.t:0 "The Lease of Two-Harbour"
+  nf_caf.20.d:0 "Recently, the Boneyard has received an influx of trade from coffee traders arriving in port from the far south of Mexico. While business has been so far smooth, if infrequent, Allgood has received an offer from the traders, asking for a naval docking lease on the Two-Harbour Islets. while their offer certainly is generous, and the islands hold almost no real value to us, concerns have been raised over the appropriateness of surrendering even a small amount of autonomy to an unknown entity."
+  nf_caf.20.a:0 "More coffee for everyone!"
+  nf_caf.20.b:0 "I'm more of a tea-drinker anyway."
+  nf_caf.20.c:0 "Water is my choice of beverage."
+
+  nf_caf.21.t:0 "The Last Port of Call"
+  nf_caf.21.d:0 "Life in Arroyo is peaceful, far enough away from the interests of the NCR or the warring factions of the North, our tranquility is highly treasured. Today, this peace was disturbed by huge, foreign ships, docked in Sixes harbour. The ghouls on board claimed they were from a land far to the south, and brought gifts of food and drink to our people, in return, they asked only for the freedom to dock and rest their ships on our shores, before venturing further into the Frozen North."
+  nf_caf.21.a:0 "If they come in peace, then we shall received them in kind."
+  nf_caf.21.b:0 "It is too dangerous, force them to leave."
+
+  nf_caf.22.t:0 "Arroyo Refuses"
+  nf_caf.22.d:0 "Despite our generous gifts, the people of Arroyo have driven our traders from our land, not only is this a setback for our trade business, the Baron himself feels personally insulted by the actions of these upstart tribals."
+  nf_caf.22.a:0 "We will show them our peaceful ways, by force!"
+  nf_caf.22.b:0 "Leave them be, we can make money elsewhere."
+
+  nf_caf.23.t:0 ""
+  nf_caf.23.d:0 ""
+  nf_caf.23.a:0 ""
+  nf_caf.23.b:0 ""
+
+  nf_caf.25.t:0 "The Treaty of Oaxacaca"
+  nf_caf.25.d:0 "Once again, the time has come for us to renegotiate our position under the authority of the Aztalan Empire. While originally these deals were struck out of desperation and a need for protection, the current weakness of the Aztalan has let us extract more and more concessions from our 'overlords.' It is the Baron's hope that this meeting will the be last, and that Costa can once operate without the oversight of any emperor other than himself."
+  nf_caf.25.a:0 "Let's wring them out for all they're worth."
+  nf_caf.25.b:0 "We can afford to be fair in our dealings."
+
+  nf_caf.26.t:0 "The Treaty of Oaxaca"
+  nf_caf.26.d:0 "Once again, the time has come for us to renegotiate our protection of the Costa Cafeinada Corporation. While originally these deals were fair and beneficial, the Baron has been able to exploit our weakness in the past years, and no doubt aims to use this meeting as the final nail in the coffin of our control over Costa. We could accept the inevitable and grant Costa independence, on our own terms, or we can attempt to keep them under our thumb, but this may come back to haunt us."
+  nf_caf.26.a:0 "They have proven themselves to be dependable, let them be our ally rather than our servant."
+  nf_caf.26.b:0 "We don't negotiate with ghouls."
+
+  nf_caf.27.t:0 "Aztalan Agrees to our Freedom!"
+  nf_caf.27.d:0 "Having demonstrated our geniality and loyalty, the Aztalan have agreed to abandon the Treaty of Oaxacaca, in return for a mutual defense pact between us, and a continued non-compete clause with the Itza Raiders."
+  nf_caf.27.a:0 "That seems reasonable."
+  nf_caf.27.b:0 "They fell for for our act! Let's leave them to their demise."
+
+  nf_caf.28.t:0 "Aztalan Refuses!"
+  nf_caf.28.d:0 "The Aztalan delegation has refused to any more alterations to our relationship, violating both the spirit and the law of the treaty. The Baron is reportedly furious, and has vowed not to take this disrespect sitting down."
+  nf_caf.28.a:0 "Big mistake, [ATE.getleader]."
+
+  nf_caf.29.t:0 "Costa has refused an alliance."
+  nf_caf.29.d:0 "Despite our generosity in granting them their freedom, Costa has apparently decided to leave us high and dry, leaving us without an ally or a servant. Honestly, this wasn't too unexpected, really."
+  nf_caf.29.a:0 "Man, what a bunch of assholes."
+
+  nf_caf.30.t:0 "Costa Cafeinada has cut ties!"
+  nf_caf.30.d:0 "The last few months have seen an angry Costa skirt around our authority, poking and prodding us into action. While it was hoped that these annoyances would dissipate, It appears that the Baron was not bluffing, and has halted all trade flowing into Aztalan. This withdrawal has sent our economy into a tailspin, food supplies are dwindling, and panic is spreading in the streets, what do we do?"
+  nf_caf.30.a:0 "Fine, let them go free."
+  nf_caf.30.b:0 "We will crush this insolence!"
+
+  nf_caf.40.t:0 "Costa Cafeinada has embargoed us!"
+  nf_caf.40.d:0 "While we have little trade between Costa Cafeinada directly, the interconnected nature of Mexico's trade has made us at least somewhat reliant on their economic ties. In an unprecedented action, Costa has embargoed all ingoing trade to our nation, and has threatened economic action against any trader who does business with our empire. The resulting trade collapse has hurt our economic greatly, and will take some time before it recovers."
+  nf_caf.40.a:0 "There's nothing we can do."
+  nf_caf.40.b:0 "Let's put the 'War' in Trade War."
+
+  nf_caf.50.t:0 "A Lesson Learnt"
+  nf_caf.50.d:0 "The Brotherhood of Steel does not take kindly to ghouls bearing gifts, it would seem, our trade ship has returned with a skeleton crew, the only survivors after coming into contact with a Brotherhood strike party sent to ward them off."
+  nf_caf.50.a:0 "wow, what a bunch of jerks."
+
+  nf_caf.51.t:0 "Coffee Addictions"
+  nf_caf.51.d:0 "Despite trade between the NCR and the southern nation of Costa Cafeinada going splendidly, concerns have been raised about the content of the coffee being sold to us. Reports have shown that the coffee appears to contain highly addictive narcotics, not to mention a whole range of incredibly irradiated base materials that cannot be healthy to drink."
+  nf_caf.51.a:0 "If we ban coffee, the terrorists win."
+  nf_caf.51.b:0 "Let's move to limit the flow of imports from Costa."
+
+  nf_caf.52.t:0 "The NCR Wants to ban coffee!"
+  nf_caf.52.d:0 "Our traders in the New California Republic have delivered dire news, there is a bill currently being moved in the NCR congress to ban the sale and purchasing of our coffee imports in the country. Apparently, the bear thinks our coffe is 'addictive' 'unhealthy' and 'contains traces of high radiation.' While this is clearly slander, we need to act fast if we want to stop our biggest customer from going cold turkey."
+  nf_caf.52.a:0 "We can always sell somewhere else."
+  nf_caf.52.b:0 "We can make it worth their while."
+
+  nf_caf.53.t:0 "The coffee ban fails!"
+  nf_caf.53.d:0 "Despite impassioned lobbying by environmental and local agricultural interest groups, the Costa Coffee ban has failed to be made into law, thanks in part to the vigorous campaigning of Costa's main beneficiary in the NCR, 'Allgood' Murphy and the Boneyard, who's economic growth will continue to grow from Costa's trade."
+  nf_caf.53.a:0 "A little coffee never hurt anyone."
+
+  nf_caf.71.t:0 "Costa Cafeinada offers a new blend"
+  nf_caf.71.d:0 "New advertisements and sales pitchers have arrived from Costa Cafeinada, touting the wonders of their premium coffee blend: Raider Roast. Apparently the new flavour has twice the kick of the old strain, and is being offered to us at quite a reasonable first-time discount, shall we take the ghouls up on the offer?"
+  nf_caf.71.a:0 "Let's give it a taste."
+  nf_caf.71.b:0 "We'll pass, thanks."
+
+  ###decisions###
+
+  ### Mechanical
+  caf_trade_offshore_investment:0 "Offshore Investment"
+  caf_trade_offshore_investment_desc:0 "We use some of our newfound wealth to better bolster our economic growth."
+  caf_trade_temp_factories:0 "Fudge the Numbers"
+  caf_trade_temp_factories_desc:0 "As long as it's written down, it's real."
+  caf_trade_lower_req:0 "Pad Expectations"
+  caf_trade_lower_req_desc:0 "Better to let them down easy on a bed of caps."
+
+  drug_equipment_coffee_1:0 "Coffea Arabica de la Costa"
+  drug_equipment_coffee:0 "Coffee"
+  drug_equipment_coffee2:0 "Fancy Coffee"
+  drug_equipment_coffee_desc:0 "Grown in Oaxaca, this cultivar thrives on the fresh, slightly salty air of the Rio Verde, perched on the mountains surrounding the Verde–Atoyac basin. As an Arabica, the flavor is smooth and chocolaty, however also hints with tang.... maybe a result of the fallout some 30 years ago."
+
+  caf_trade_decisions:0 "Coffee Shipment Orders"
+  caf_trade_decisions_desc:0 ""
+
+
+  drug_equipment_coffee_2:0 "Coffea Arabica - Raider Roast"
+
+
+  drug_technology_coffee_2:0 "Raider Roast Blend"
+  drug_equipment_coffee_2_desc:0 ""
+  drug_equipment_coffee_desc:0 ""
+
+  ### Scripted Loc
+  caf_blend_1_name:0 "Coffea Arabica - Original"
+  caf_blend_2_name:0 "Coffea Arabica - Raider Roast"
+  salesman_1_name:0 "Alfredo"
+  salesman_2_name:0 "Isidoro"
+  salesman_3_name:0 "Bautista"
+  salesman_4_name:0 "Adan"
+  salesman_5_name:0 "Thiago"
+  salesman_6_name:0 "Maria"
+  salesman_7_name:0 "Noe"
+  salesman_8_name:0 "Covadonga"
+  salesman_9_name:0 "Yesenia"
+  salesman_10_name:0 "Nazaret"
+
+  caf_trade_decisions_external:0 "Financial Decisions"
+  caf_trade_decisions_external_desc:0 ""
+
+  caf_trade_external:0 "Invest in Costa Cafeinada"
+  caf_trade_external_desc:0 ""
+
+  caf_trade_external_mission:0 "Meeting Investor Demands"
+  caf_trade_external_mission_desc:0 "As other nations begin to invest in our company, our stock value will continue to rise, however, if we cannot meet investor expectations for growth, both of our economies will suffer for it."
+
+  caf_investors_tooltip:0 "We currently need §G[?current_industry]§! total civilian factories to meet our investor demands."
+
+  caf_available_factories_tooltip_1:0 "We need §G1§! offmap factory available to begin this trade mission."
+  caf_available_factories_tooltip_2:0 "We need §G2§! offmap factories available to begin this trade mission."
+  caf_available_factories_tooltip_3:0 "We need §G3§! offmap factories available to begin this trade mission."
+  caf_available_factories_tooltip_4:0 "We need §G4§! offmap factories available to begin this trade mission."
+  caf_available_factories_tooltip_5:0 "We need §G5§! offmap factories available to begin this trade mission."
+
+  caf_opinion_change:0 "Opinion of §YCosta Cafeinada§! changes by $RIGHT|0+$"
+  ### Add customer
+  caf_unlock_trade_partner:0 "Unlock §Y[THIS.GetName]§! as a potential customer for §Y[CAF.GetName]§!"
+  caf_trade_enable_decision:0 "Send Coffee Salesman to: §Y[FROM.GetName]§!"
+
+  ### Mission
+  caf_next_shipment_mission:0 "Pending Order!"
+  caf_next_shipment_mission_available_tt:0 "Has Shipment: [?caf_next_shipment_amount|0p] kilos of coffee [GetBlend2Amount] \n    §gCurrent amount: [?num_equipment@drug_equipment_coffee|0p] kilos Original, [?num_equipment@drug_equipment_coffee2|0p] kilos Raider Roast Blend§!"
+  caf_next_shipment_mission_remove_tt:0 "[GetCAFMissionRemoveTT]"
+  caf_blend_2_available_tt:0 "\n    Including [?caf_next_shipment_amount_blend_2|0p] kilos of Raider Roast"
+  caf_next_shipment_mission_remove_tt_tooltip:0 "Earn [?caf_payment|2+=] [GetCapTxt] from coffee sales\n  [?caps_from_small_business|2+=] [GetCapTxt] from small orders\n  §gBonus: [?modifier@caf_coffee_shipment_bonus|2%=+]§!\nShipment Total: [?caf_next_shipment_temp|0p] kilos\n  §gSmall Orders:§! [?shipment_to_small_business|0p]\n  Trade Partners:\n[GetCAFTradePartners]"
+  caf_coffee_shipment_bonus:0 "Income from §pCoffee§! Sales"
+
+  caf_array_entry_n:0 "      §Y[?ROOT.caf_trade_partners^cur.GetName]§! [?entry_amount|0p] kilos of [GetBlendNameFromTemp]\n[CAFArrayTTEntry]"
+
+  ### Small business mission
+  caf_market_small_business:0 "Advertise to Local Markets"
+
+  ### Target decisions
+  caf_future_roastery_tt:0 "We will approach Aztlan over the purchase and development of a §pRoastery§! in La Liberacion."
+  caf_customer_decisions:0 "[CAF.GetName] §pCoffee§! Blends"
+
+  caf_target_remove_order:0 "Close account with §Y[CAF.GetName]§!"
+  caf_target_reduce_order:0 "Reduce Next Coffee Shipment"
+  caf_target_increase_order:0 "Increase Next Coffee Shipment"
+  caf_target_trade_mission:0 "Coffee Order Delivery"
+  caf_target_trade_mission_desc:0 "Order Invoice:\n  Blend: [GetBlendName]\n\n  Amount: [?caf_shipment_recieved_amount|0p]\n  Cost: [?caps_to_caf|0-][GetCapTxt] \n  Bonus Duration: [?caf_delivery_days_timeout|0]"
+  caf_mission_fulfilled_tt:0 "Order Fulfilled"
+
+  caf_trade_market_blend_2_decision:0 "Market Blend: Raider Roast"
+
+  ### Delivery Ideas
+  caf_failed_delivery_idea:0 "Failed Delivery"
+  caf_delivery_idea:0 "Recent Shipment"
+
+  caf_trade_internal:0 "Internal Investments"
+  caf_trade_internal_desc:0 "Putting some of the beans we get from selling beans to good use."
+
+  caf_ai_factory_decision_tt:0 "[?ai_lost_factories_to_coffee|0] simulated factories for a [?coffee_produced] simulated production"
+  caf_internal_investment_tt:0 "Continued internal investment will allow for us to boost our external trading capacity."
+
+
+  caf_economy_decisions:0 "Private Investment"
+  caf_economy_decisions_desc:0 "Business is Blooming"
+  caf_plantation_expansion:0 "Plantation Expansion"
+  caf_plantation_expansion_desc:0 ""
+  caf_production_drives:0 "Production Drives"
+  caf_production_drives_desc:0 ""
+  caf_random_investment:0 "Animal Spirits"
+  caf_random_investment_desc:0 ""
+
+  caf_production_drives_idea:0 "Production Drives"
+  caf_production_drives_idea_desc:0 ""
+
+  ### Roastery
+  caf_develop_roastery:0 "Develop Roastery in §Y[FROM.GetName]§!"
+  caf_develop_roastery_trigger_tt:0 "Roastery is less than level §G7§!\n  §gCurrent Level:§! [?roastry_level|0G]"
+  caf_develop_roastery_increase_tt:0 "Increase Roastery Efficiency by: [?roastery_idea_temp|+%=]"
+  caf_roastery_dynamic_modifier:0 "The Roastery"
+
+  caf_trade_aztlan_decision:0 "Prepare A Trade Mission to Aztlan"
+  caf_trade_aztlan_decision_desc:0 "Aztlan is the bread and butter of our coffee trade, but that doesn't mean we can take these customers for granted. A new trade initiative to the Aztalan border cities is the first stop in our coffee chain empire."
+
+  caf_trade_aztlan_mission:0 "Aztlan Trade Profits"
+  caf_trade_aztlan_mission_desc:0 ""
+
+  caf_trade_honduras_decision:0 "Prepare A Trade Mission to Honduras"
+  caf_trade_honduras_decision_desc:0 "Honduras is a wild place, the last line of defense against a horde of horrors and jungle that extends without end. Perhaps we can give them a discount for their services to civilisation."
+
+  caf_trade_honduras_mission:0 "Honduran Trade Profits"
+  caf_trade_honduras_mission_desc:0 ""
+
+  caf_trade_tzotzil_decision:0 "Prepare A Trade Mission to Tzotzil"
+  caf_trade_tzotzil_decision_desc:0 "Our position with Tzotzil is...precarious, to say the least. But far be it from us to let the threat of an upcoming bloody war get in the way of good business!"
+
+  caf_trade_tzotzil_mission:0 "Tzotzil Trade Profits"
+  caf_trade_tzotzil_mission_desc:0 ""
+
+  caf_trade_cartels:0 "Prepare A Trade Mission to the Cartels"
+  caf_trade_cartels_desc:0 ""
+
+  caf_trade_cartels_mission:0 "Cartel Trade Profits"
+  caf_trade_cartels_mission_desc:0 ""
+
+  caf_trade_gente:0 "Prepare A Trade Mission to Gente Del Sol"
+  caf_trade_gente_desc:0 ""
+
+  caf_trade_gente_mission:0 "Gente Trade Profits"
+  caf_trade_gente_mission_desc:0 ""
+
+  caf_trade_tohono:0 "Prepare A Trade Mission to Tohono"
+  caf_trade_tohono_desc:0 ""
+
+  caf_trade_tohono_mission:0 "Tohono Trade Profits"
+  caf_trade_tohono_mission_desc:0 ""
+
+  caf_trade_banditos:0 "Prepare A Trade Mission to the Baja Bandits"
+  caf_trade_banditos_desc:0 ""
+
+  caf_trade_baja:0 "Prepare A Trade Mission to the Baja"
+  caf_trade_baja_desc:0 ""
+
+  caf_trade_banditos_mission:0 "Baja Trade Profits"
+  caf_trade_banditos_mission_desc:0 ""
+
+  caf_trade_ncr:0 "Prepare A Trade Mission to the N.C.R."
+  caf_trade_ncr_desc:0 ""
+
+  caf_trade_ncr_mission:0 "Californian Trade Profits"
+  caf_trade_ncr_mission_desc:0 ""
+
+  caf_trade_arroyo:0 "The Last Port of Call"
+  caf_trade_arroyo_desc:0 ""
+
+  caf_trade_arroyo_mission:0 "Arroyan Trade Profits"
+  caf_trade_arroyo_mission_desc:0 ""
+
+  caf_trade_bellingham:0 "Prepare A Trade Mission to the Far North"
+  caf_trade_bellingham_desc:0 ""
+
+  caf_trade_bellingham_mission:0 "Northern Trade Profits"
+  caf_trade_bellingham_mission_desc:0 ""
+
+  caf_trade_victoria:0 "Prepare A Trade Mission to the Frozen Isles"
+  caf_trade_victoria_desc:0 ""
+
+  caf_trade_victoria_mission:0 "Royal Trade Profits"
+  caf_trade_victoria_mission_desc:0 ""
+
+  caf_trade_brotherhood:0 "Prepare A Trade Mission to the Brotherhood of Steel"
+  caf_trade_brotherhood_desc:0 ""
+
+  caf_dependence:0 "The Art of the Deal"
+  caf_dependence_desc:0 "With the business of our independence so generously concluded, it's only fair that we help the Aztalan out with their upstart raider problem. \nItza Pissed-off-O-meter:  §R[?itz_fucking_pissed]§!"
+  caf_dependence_disrupt_river_traffic:0 "Disrupt River Traffic"
+  caf_dependence_agitate_tzotzil:0 "Contact Tzotzil Partisans"
+  caf_dependence_honduran_partisans:0 "Contact Honduran Partisans"
+  caf_dependence_economic_pressure:0 "Embargo Itza"
+
+  caf_dependence_economic_refugees:0 "Accept Itzan Refugees"
+  caf_dependence_war_readiness:0 "Close the Borders"
+
+  caf_independence:0 "Bad Business"
+  caf_independence_desc:0 "Nothing personal, kid. \nAztlan Pissed-off-O-meter:  §R[?caf_ate_fucking_pissed]§!"
+
+  caf_ate_fucking_pissed_tooltip:0 "We need at least §R10§! Independence points (As tracked by the Pissed-off-O-meter) to break away."
+  caf_itz_fucking_pissed_tooltip:0 "We need at least §R10§! Trade Power points (As tracked by the Pissed-off-O-meter) to embargo Itza."
+
+  caf_independence_disrupt_sea_trade:0 "Disrupt Sea Trade"
+  caf_independence_water_down:0 "Water Down Our Coffee"
+  caf_independence_disrupt_advisors:0 "Disrupt Aztlan Advisors"
+  caf_independence_tariffs:0 "Hike Food Prices"
+  caf_independence_propaganda:0 "Issue Anti-Aztlan Propaganda"
+  caf_independence_trade_itza:0 "A Deal with the Devil"
+
+  caf_war_profiteering:0 "War Profiteering"
+  caf_arms_trade:0 "Arms Trade"
+
+  caf_invest_tooltip:0 "Costa has established a trade route to our country."
+  caf_investor:0 "Investor"
+  investors:0 "Investors"
+  current_industry:0 "Current Industry"
+  caf_trade_success:0 "Successful Trade Mission"
+  caf_trade_failure:0 "Unsuccessful Trade Mission"
+
+  caf_ncr_crisis:0 "Gumming up the Machine of Democracy"
+  caf_bribe_congress:0 "Bribe Members of Congress"
+  caf_reduce_addictiveness:0 "Reduce Addictive Chemicals"
+  caf_free_samples:0 "Free samples!"
+  caf_allgood_support:0 "Pressure Allgood"
+  caf_ncr_legislation_mission:0 "The N.C.R. Bans Coffee!"
+
+  caf_ncr_clean_flag:0 "Going Cold Turkey"
+
+
+  caf_axp_cost:0 "§H25§!£army_experience"
+
+  caf_axp_cost_blocked:0 "§R25§!£army_experience"

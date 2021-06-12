@@ -7,11 +7,14 @@ l_english:
   spellcheck_ignore:0 "node_organization_gain_icon"
   node_disabled_tt:0 "The Trade Node is §Rdisabled§!."
   node_disabled_timed_tt:0 "The Trade Node is §Rdisabled§! for [?OWNER.duration_node_disabled|§Y§0] days."
+  # Modifiers
+  caps_trade_node_route_limit:0 "Maximum Outgoing Trade Routes"
   # EFFECTS
   NODE_ADD_DEVELOPMENT_EFFECT_TT:0 "Add [?development_to_add|2+=] §cDevelopment§! to §Y[This.GetName]§!\n\n §cEconomic Development§! increases node level progress."
   scripted_effect_update_route_value_tt:0 "Update Trade Routes from §Y[This.GetName]§!"
   scripted_effect_remove_trade_route_tt:0 "§RRemove§! Trade Route from §Y[This.GetName]§! to §Y[?trade_route_temp_target.GetName]§!"
   scripted_effect_begin_trade_route_tt:0 "§GBegin§! a Trade Route from §Y[?node_map_selector.GetName]§! to §Y[?trade_route_selector_target.GetName]§!"
+  scripted_effect_add_state_as_node_partner_tt:0 "Become a member state of the §y[?var:node_to_add_partner_to.GetName] Economic Node§!\n"
   # TRIGGERS
   get_trade_route_slots_number_tt:0 "Available Routes: $RIGHT|0G$\nMaximum Routes: $LEFT|0G$\n"
   has_open_trade_route_slot_tt:0 "Has available trade route slot\n   Available Routes: [?trade_route_slot_avail|0+]\n   Maximum Routes: [?trade_route_slots|0+]\n"
@@ -174,7 +177,7 @@ l_english:
   TRADE_NODE_MAP_SEND_EXPEDITION_TT:0 "Expedition Value: [GetExpeditionValue] [GetCapTxt]"
   string_has_expedition_button_tt:0 "Recall Expedition"
   string_no_expedition_button_tt:0 "Send Expedition"
-  trade_expedition_button_click_enabled_tt:0 "Does not control §yEconomic Node§!"
+  trade_expedition_button_click_enabled_tt:0 "No major §yEconomic Node§! under our control"
 
   ### Route ledger
   TRADE_NODE_MAP_COUNTRY_ROUTE_LIST:0 "§Y[THIS.GetName]§! to §Y[GetTradeRouteCountryListName]§!"
