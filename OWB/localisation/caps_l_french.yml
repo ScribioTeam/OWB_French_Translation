@@ -3,7 +3,8 @@
   #Caps Main
  CAPS_TOOLTIP:0 "Vous avez [?caps_number_display|+]k [GetCapType] \n\nVous gagnez [PrecalculateCapsNet] [GetCapType] par trimestre.\n\n"
  CAPS_TOOLTIP_delayed:0 "[GetLongCapTT]"
- CAPS_TOOLTIP_delayed_real:0 "[GetCapType] \nRevenu brut : [PrecalculateCapsIncome] par trimestre [GetPuppetIncome]\n   -Modifié par [?modifier@caps_income_modifier|+=%]  [GetCapType] \nDépenses : [PrecalculateCapsExpenes] par trimestre \n   - Modifié par [?modifier@caps_expense_modifier|-=%] (Max §G-90%§!)\n Profit Net Trimestriel : [PrecalculateCapsNet]\n   - Revenu Fixe: [?modifier@caps_flat_income_modifier|+=0]"
+ CAPS_TOOLTIP_delayed_real:9 "[GetCapType] \nGross Income: [PrecalculateCapsIncome] per quarter [GetPuppetIncome]\n   -Modified by [?modifier@caps_income_modifier|+=%]  [GetCapType] \nExpenses: [PrecalculateCapsExpenes] per quarter \n   -Modified by [?modifier@caps_expense_modifier|-=%] (Max §G-90%§!)\n Net Quarterly Profit: [PrecalculateCapsNet]\n   -Flat Income: [?modifier@caps_flat_income_modifier|+=0]\n   [GetTaxedIncomeAmount]"
+ caps_to_overlord_tt:9 "\n     -Taxes to [OVERLORD.GetName]: [?taxes_to_overlord|+=2]"
   ##CAPS_MAIN:0 "[?caps_number_display|2]k"
  CAPS_MAIN_0dp:0 "[?caps_number_display|0]k"
  gross_income_header:0 "Revenu Brut :"
@@ -44,6 +45,8 @@
  caps_country_trade_modifier:0 "Droits de Douane"
  caps_country_base_modifier:0 "Revenu du Nœud de base du pays"
  caps_tax_puppet_tt:0 "Récemment taxé par le Maître"
+ caps_taxation_overlord:9 "Incoming Taxes"
+ caps_taxation_subject:9 "Overlord Taxes"
  caps_gift_puppet_tt:0 "Récemment soutenu économiquement par le Maître"
  caps_payment_dynamic_modifier:0 "Modificateur des salaires de l'armée"
  caps_raider_sure_defense_dynamic_modifier:0 "Défenses d'État sûres"
@@ -68,6 +71,10 @@
  add_caps_negative_tt:0 "Perte de [GetCapTxt] [?caps_to_add|+=]k [GetCapType].\n"
  create_new_node_effect_tt:0 "devient et nœud économique.\n"
  army_wages_disabled:0 "Salaires non conventionnels de l'armée"
+ caps_puppet_taxation_short_tt:9 "[GetTaxationTooltipShort]"
+ caps_puppet_ledger_tax_tooltip:9 "[GetTaxationTooltip]"
+ caps_puppet_ledger_tax_tooltip_taxing:9 "We currently tax: [?taxes_var_for_overlord|2=+] [GetCapType] from §Y[THIS.GetName]§! \n\n Their current taxable income is [PrecalculateTaxableIncome]"
+ caps_puppet_ledger_tax_tooltip_non_taxing:9 "We do not levy taxes. \n\n Their current taxable income is [PrecalculateTaxableIncome]"
   ###Focus Code
  continuous_increase_caps_income:0 "Augmenter la monnaie"
  continuous_caps_trigger_tt:0 "A un revenu net positif"
@@ -344,6 +351,11 @@
  caps_flavor_events.18.d:0 "Pendant que nos éclaireurs étaient dehors à récupérer les ruines de §Y[215.GetName]§!, Nous sommes tombés sur quelque chose de très étrange. Beaucoup de gens de l’Ancien Monde connaissaient cet endroit pour une raison singulière. Une raison que nous connaissons aujourd’hui. \nLes fouilles nous ont pris quelques jours, mais nous l’avons finalement découvert. L’un des rares lots de §cFromage Mozzarella§! laissée intacte par la guerre. Non seulement nous avons découvert un fromage non contaminé, mais nous avons aussi trouvé la recette secrète de Roswellian!\nAvec notre nouvelle industrie du fromage, non seulement nos armées auront des os plus forts, mais aussi des cœurs plus forts."
  caps_flavor_events.18.a:0 "La Pizza est de retour au menu!"
  caps_mozzerella_idea:0 "Production de Fromage Roswell"
+
+ caps_flavor_events.19.t:9 "Our Caps Master"
+ caps_flavor_events.19.d:9 "The science of economics is not a popular subject amongst the bureaucracy. What's more, building a market and currency system from the ground up is a challenging task even for the finest of number-crunchers, let alone the high-school level intelligentsia of our community. This in mind, the keen eye of our economic 'caps master' and his fiscal acumen have been nothing short of extraordinary, and has turned a tidy profit for our nation."
+ caps_flavor_events.19.a:9 "Now if only he was a chef too..."
+
 ###GAMERULE DATA
  RULE_CAPS_DEBUG_TOGGLE:0 "Générateur de données du système Capsules"
  RULE_CAPS_DEBUG_TOGGLE_ENABLED:0 "Activer l'enregistreur de données"

@@ -1,0 +1,32 @@
+﻿l_french:
+  # race
+ two_start_race_preparations:9 ""
+
+ two_invite:9 "§LWe will start preparing for Wyatt's journey to other great racers.§!"
+ two_invite_80:9 "§LThis focus will allow us to send Wyatt to §!§Y[EHT.GetName]§!§L — the great race warriors of Utah.§!"
+ two_invite_imo:9 "§LThis focus will allow us to send Wyatt to §!§Y[IMO.GetName]§!§L — the armoured titans of Texas.§!"
+ two_invite_new:9 "§LThis focus will allow us to send Wyatt to §!§Y[NEW.GetName]§!§L — the home of the best East Coast Chop Shops.§!"
+ two_invite_gdh:9 "§LThis focus will allow us to send Wyatt to §!§Y[GDH.GetName]§!§L — our speedy neighbours.§!"
+ two_merge_invitation_ideas:9 "§LThis will merge all our previous national ideas, which we have learned from other nations, into one.§!"
+ two_complete_deadline:9 "§LCompleting this focus will cancel the §Yinvitations deadline§!§L.§!"
+
+ motorized_cost:9 "§H[?motorized_equipment_display]§!£unit_motorized_icon_small"
+ motorized_cost_blocked:9 "§H[?motorized_equipment_display]§!£unit_motorized_icon_small"
+ motorized_cost_tooltip:9 "It costs §H[?motorized_equipment_display]§!£unit_motorized_icon_small  to select this."
+
+ two_hire_buck:9 "§LUnlocks §YBuck Teague§!§L as an advisor.§!"
+ two_allow_boxes:9 "§LGrants foreign §YGreat Race§!§L participants rights to build boxes in §Y[516.GetName]§!§L.§!"
+
+ two_small_navy_advisor:9 "§LUnlocks §!§YRudel Castro§!§L as an advisor.§!"
+ two_large_navy_advisor:9 "§LUnlocks §!§YMerito Mortimer§!§L as an advisor.§!"
+
+ two_tracks_building_start:9 "§LBy expanding our infrastructure we are going to open up new avenues for trade, improving our access to important resources, which in turn will greatly benefit our home industry.§!"
+ two_tracks_building_process:9 "§LThis focus will increase the positive effect of our tracks.§!"
+
+ great_race_participant:9 "Is a §YGreat Race§! participant"
+ two_gdh_friendship:9 "We have been granted access to Gentes roads"
+ two_launch_race:9 "§LCompleting this focus will start §!§Ythe Great Race§!§L.§!"
+
+ TWO_OWB_DESC:9 "Founded upon the Ruins of Tucson, the formerly second largest City in Arizona, Two Sun has since developed their previous obsession for motor sport into an outright religious movement the Cult of Nas. They have since then become a client state of the legion, venerating Caesar as part of their Pantheon, making themselves indispensable to his cause by carrying his wrath across the wastes on their impressive vehicles.\nTwo Suns entire culture revolves around the race track and they seek to hold nothing short of the Greatest Race of all time, with the greatest racers of the wasteland all in attendance."
+
+ two_cow_conquest_trigger_tt:9 "§YCaesar§!§W has allowed us to start a campaign against §Y[COW.GetName]§!§W.§!"

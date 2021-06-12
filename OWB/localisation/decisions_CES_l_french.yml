@@ -68,3 +68,40 @@
  remove_ncr_cores_tt:0 "Ceci §Rsupprimera les États nationaux de la RNC§! sur Ashton et Hopeville."
  ces_massacre_nipton:0 "Massacrer les Débauchés"
  ces_massacre_nipton_desc:0 "L'Ours pense que sa bannière flotte au-dessus du Mojave, mais montrons-leur à quel point cela est insignifiant..."
+
+  ### Ultimo Decisions
+ CES_two_gdh_relations:9 "The [444.GetName] Question"
+ CES_two_gdh_relations_desc:9 "The §Y[TWO.GetName]§! and §O[GDH.GetName]§! emissaries came to the [520.GetName] to persuade the mighty Caesar, that their country is worthy of holding §M[444.GetName]§!. But no man rules alone and even the Son of Mars bases his judgment on his advisor's opinions. The final decision will be ruled out when the great warriors of the Legion will make up their mind.\n\nFrumentarius Vulpes [ultima_vulpes_opinion]\nPraetorian Lucius [ultima_lucius_opinion]\nCenturion Aurelius [ultima_aurelius_opinion]\nMalpais Legate [ultima_malpas_opinion]"
+
+ ultimo_opinion_ambivalent:9 "is §gambivalent§!"
+ ultimo_opinion_two_lean:9 "§Lleans towards [TWO.GetName]§!"
+ ultimo_opinion_two_support:9 "§Ysupports [TWO.GetName]§!"
+ ultimo_opinion_gdh_lean:9 "§Lleans towards [GDH.GetName]§!"
+ ultimo_opinion_gdh_support:9 "§Osupports [GDH.GetName]§!"
+
+ ultimo_malpas_alive:9 "wants to §Rburn them all§!"
+ ultimo_malpas_dead:9 "got §Oburned§!"
+
+  # GDH
+ gdh_send_arms:9 "Send Guns to the Legion"
+ gdh_send_arms_desc:9 "We have some old arms dusting in our warehouses. Lets send them to the Legion's frontlines, where they will look advanced."
+
+ gdh_send_convoys:9 "Send Convoys to Phoenix"
+ gdh_send_convoys_desc:9 "Phoenix is a heart of Legion trade. Most of it goes through Gila river, so more convoys are always in need there."
+
+ gdh_send_resources:9 "Export Resources to Phoenix"
+ gdh_send_resources_desc:9 "There are many craftsmen working under the legion in Phoenix. It is partially possible due to Aurelius' supervision. We can help him develop the city by sending some of our resources there."
+
+ gdh_send_explosives:9 "Deliver Demolition Blocks"
+ gdh_send_explosives_desc:9 "Everyone loves explosives."
+
+ monke:9 "Embrace Monke"
+
+  # TWO
+ two_cult_of_nas:9 "Spread Cult of Nas"
+ two_cult_of_nas_desc:9 "Caesar has allowed us to send priests into his lands. We should use this opportunity to prove our usefulness to the Legion. Aurelius said a road is needed from Phoenix."
+
+ two_army_xp:9 "Participate in Legion's Exercises"
+ two_army_xp_desc:9 "Combining our motorized spearhead with Caesar's endless legions will result in the most powerful army this world has ever seen! That is, if our riders won't crush all of the legionnaires in their way to the frontline."
+
+  

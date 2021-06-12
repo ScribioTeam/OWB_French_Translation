@@ -200,3 +200,6 @@
  ABILILTY_USE_FATMAN_DESC:0 "Le Fat Man est peut-être l'arme d'infanterie la plus dévastatrice jamais lancée sur le champ de bataille moderne - une catapulte à main qui lance des bombes nucléaires portables. Ne la lâchez pas."
  USE_ARTILLERY:0 "Déployer les canons"
  USE_ARTILLERY_DESC:0 "Les obusiers d'avant-guerre sont difficiles à transporter, mais lorsqu'ils sont déployés, ils peuvent renverser le cours de n'importe quelle bataille. Bien sûr, une fois déployés, il sera difficile de battre en retraite."
+
+ exhausted_order_trait:9 "Exhausted"
+ exhausted_order_trait_desc:9 ""

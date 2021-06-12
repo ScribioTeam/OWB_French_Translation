@@ -49,7 +49,7 @@
 
  ces_the_cult_of_nas:0 "Le culte de Nas"
  ces_the_cult_of_nas_desc:0 "La tribu récemment conquise de Two Sun adoré un dieu qu'ils ont appelé «Nas» - le dieu qui leur aurait donné leurs véhicules et les compétences pour l'utiliser. Si nous permettons l'adoration de ce dieu, ils conserveront leur grande habileté à conduire."
- ces_ride_will_faster_tt:0 "Deux unités motorisées sont apparaissent !\n"
+ ces_ride_will_faster_tt:9 "Spawns two §Ymotorized units§! and unlocks an advisor.\n"
 
 
  ces_taming_the_city:0 "Apprivoiser la ville"
@@ -139,13 +139,35 @@
  ces_legionary_utah:0 "Légionariser Utah"
  ces_legionary_utah_desc:0 "Nos sujets ont écrasé les Cananéens, et contrôlent les richesses de l'Utah.  Il est évident que nous aurons aussi une part."
 
- ces_cowboy_friend:0 "La Fenêtre sur la Mer"
- ces_cowboy_friend_desc:0 "La Légion a enfin pris le contrôle d'un port sur l'Océan. Il est temps d'en profiter."
+  # Ultima relations
+ ces_loyal_tribe:9 "The Loyal Tribe"
+ ces_loyal_tribe_desc:9 "Two Sun has served us well in the past. Now that the fate of Cowboy country is being decided, they will expect us to reward them appropriately."
 
- ces_upgrade_port:0 "Le Port Ultime"
- ces_upgrade_port_desc:0 "Nous pouvons utiliser Ultima comme un tremplin vers le Pacifique. Peut-être qu'il servira de base pour faire des raids en Nouvelle-Californie."
+ ces_two_nas:9 "Embrace Cult of Nas"
+ ces_two_nas_desc:9 "Cult of Nas is a Two Sun religion, which Legion tolerates as it sees the Caesar as on of its Gods. We should accept worshippers of Sr. in our lands, so they can maintain our roads. Moreover, Cult of Vulcan has a lot to learn from them."
 
- # Mexico sub-tree
+ ces_two_motorized:9 "Chariots for the God"
+ ces_two_motorized_desc:9 "Two Sun has many technologies hidden in its garages. And while Legion won't openly those, we can use their vehicle designs."
+
+ ces_outsiders_gente:9 "The Mexican Charisma"
+ ces_outsiders_gente_desc:9 "[GDH.GetLeader] is a know profligate. But he understands well what Legion needs. Maybe we can come to some kind of agreement."
+
+ ces_cowboy_country:9 "The Decision"
+ ces_cowboy_country_desc:9 "Caesar has gathered his most trustworthy warriors to make the final decision."
+
+ ces_friendship:9 "Fors Iuvat Audentes"
+ ces_friendship_desc:9 "§OFors Iuvat Audentes§! goes the old saying and by letting our current and future subject compete against one another we not only ensure that the most worthy receives these lands, but also stand to potentially profit from both sides."
+
+ ces_two_conquest_cow:9 "A Lumine Motus"
+ ces_two_conquest_cow_desc:9 "Will Faster and his racers have served the legion dutifully for many years and there loyalty is unquestioned. The bonds that tie Two Sun and the Legion together run far deeper than the simple relationship between overlord and subject. Today we shall honour this friendship by bestowing this coveted land on them."
+
+ ces_gdh_take_shore:9 "Ubi Proxima Merces"
+ ces_gdh_take_shore_desc:9 "The Generalissimo has made us an offer we simply can not refuse, a fleet capable of challenging the NCR's dominance over the Gulf, a project for which he  is going to require the production capabilities of the  ports of [444.GetName]."
+
+ ces_upgrade_port:9 "The Navy of the Bull"
+ ces_upgrade_port_desc:9 "No matter the owner, [444.Getname] must become Legion's forward navy base. If we can challenge the NCR's position in Baja, it will surely stagger their strategic position up the river."
+
+  # Mexico sub-tree
  ces_mexico_expansion:0 "Expension Mexicaine"
  ces_mexico_expansion_desc:0 "Le sud du territoire de Ceasar est la terre du Mexique. C'est un point primordiale d'expansion, avec de nombreuses tribus et nations faibles.Si l'armée de la Légion se trouvait au Mexique, leur conquête serait facile."
 
@@ -440,8 +462,8 @@
  ces_return_chariots_desc:0 "[TWO.Capital.GetName] possède l'un des plus grands nombres de voitures dans les Terres Désolées. Ils seront probablement heureux de les fournir à la Légion."
  ces_legionary_charioteers:0 "Chariots légionnaires"
  ces_legionary_charioteers_desc:0 "La Légion retourne sur les routes, comme ses ancêtres. Le grand Caesar a décrété que des chevaux de fer propulseraient ses cavaliers, et [TWO.Leader.GetName] seront les nouveaux Scythes !"
- ces_ride_will_faster:0 "La chevauchée de la volonté plus rapide"
- ces_ride_will_faster_desc:0 "Le plus grand chef de Two Sun est prêt à servir la Légion... si cela permet d'épargner à son peuple le sort de Flagstaff."
+ ces_ride_will_faster:9 "Worshippers of Sr"
+ ces_ride_will_faster_desc:9 "Citizens of [TWO.GetName] worship several gods on along with Caesar and Mars. One of them is Sr, the great Founder of Nascar, blesses the priests who work in temples and attend to tracks. Lets invite them to the Legions territories, so they can develop our lands."
  ces_two_sun_colosseum:0 "Colisée des Two Sun"
  ces_two_sun_colosseum_desc:0 "Nous pouvons diffuser les courses de Two Sun à travers le territoire de la Légion, et construire une piste de course pour leur combat épique. Et les compétitions ne feront qu'encourager Two Sun à servir la Légion."
  ces_legend_cannonball:0 "Légende du Boulet de Canon"
@@ -716,8 +738,8 @@
  ces_legionaries_loan_desc:0 "L'un des moyens de promouvoir nos liens avec [GDH.GetName] est de lui apprendre les méthodes de la Légion. Peut-être que [GDH.GetLeader] a des ennemis qu'il souhaite clouer sur une croix ?"
  ces_frumentarius_infiltration:0 "Les vacances de Frumentarius"
  ces_frumentarius_infiltration_desc:0 "Les Frumentarii peuvent apprendre beaucoup de choses à Gente Del Sol. Bien que El Generalissimo soit étrange, la façon dont il contrôle sa population peut valoir la peine d'être étudiée pour notre propre usage."
- ces_cowboy_country:0 "Les cow-boys roulants"
- ces_cowboy_country_desc:0 "Cowboy Country est peut-être la terre la plus pitoyable des Terres Désolées. Ils sont mieux sous notre talon, car ils utilisent leurs rares véhicules, leurs vélos et leurs boutons d'or pour protéger leurs vastes troupeaux de brahmines. Avec l'instruction des Navajos, nous pourrons gérer correctement leurs troupeaux et nourrir notre empire."
+  #ces_cowboy_country:0 "Russling Cowboys"
+  #ces_cowboy_country_desc:0 "Cowboy Country is perhaps the most pitiful land in the Wasteland. Riding their scarce vehicles, bicycles, and Giddyup Buttercups to protect their vast brahmin herds, they are better off under our heel. With Navajo instruction we will properly manage their herds and feed our empire."
  ces_hoover_dam_battle:0 "La bataille pour le barrage Hoover"
  ces_hoover_dam_battle_desc:0 "Le Légat Malpais est en marche ! Il s'emparera du barrage Hoover dans toute sa gloire, un pont vers la Californie. A la victoire !"
  ces_hoover_dam_battle_tt:0 "Graham va se préparer à franchir le barrage Hoover.  À la victoire !"

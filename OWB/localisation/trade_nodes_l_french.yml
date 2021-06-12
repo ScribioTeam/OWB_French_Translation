@@ -6,11 +6,14 @@
  spellcheck_ignore:0 "node_organization_gain_icon"
  node_disabled_tt:0 "Le Noeud de Commerce est §Rdésactivé§!."
  node_disabled_timed_tt:0 "Le Noeud de Commerce est §Rdésactivé§! pendant [?OWNER.duration_node_disabled|§Y§0] jours."
+  # Modifiers
+ caps_trade_node_route_limit:9 "Maximum Outgoing Trade Routes"
   # EFFECTS
  NODE_ADD_DEVELOPMENT_EFFECT_TT:0 "Ajoute [?development_to_add|2+=] de §cDéveloppement§! à §Y[This.GetName]§!\n\nLe §cDéveloppement Économique§! augmente la progression au niveau des nœuds."
  scripted_effect_update_route_value_tt:0 "Met à jour les Routes Commerciales de §Y[This.GetName]§!"
  scripted_effect_remove_trade_route_tt:0 "§RRetire§! la Route Commerciale de §Y[This.GetName]§! à §Y[?trade_route_temp_target.GetName]§!"
  scripted_effect_begin_trade_route_tt:0 "§GCommencer§! une Route Commerciale de §Y[?node_map_selector.GetName]§! à §Y[?trade_route_selector_target.GetName]§!"
+ scripted_effect_add_state_as_node_partner_tt:9 "Become a member state of the §y[?var:node_to_add_partner_to.GetName] Economic Node§!\n"
   # TRIGGERS
  get_trade_route_slots_number_tt:0 "Routes Disponibles : $RIGHT|0G$\nRoutes Maximum : $LEFT|0G$\n"
  has_open_trade_route_slot_tt:0 "A un emplacement de route commercial disponible\n   Routes Disponibles : [?trade_route_slot_avail|0+]\n   Routes Maximum : [?trade_route_slots|0+]\n"
@@ -108,7 +111,7 @@
  string_trade_node_get_route_three:0 "\nPremière route pour : §Y[?temp_trade_node_1.GetName]§! \nDeuxième route pour : §Y[?temp_trade_node_2.GetName]§! \nTroisième route pour : §Y[?temp_trade_node_3.GetName]§!"
 
  TRADE_ROUTE_BUTTON_MAX_TOOLTIP:0 "Route de §Y[?node_map_selector.GetName]§! non utilisée"
- AVAILABLE_COUNTRY_TRADE_SLOTS:0 "Route from §ynode§! not in use"
+ AVAILABLE_COUNTRY_TRADE_SLOTS:9 "Route from §ynode§! not in use"
  TRADE_ROUTE_BUTTON_MAX_COUNTRY_TOOLTIP:0 "Doit avoir moins de routes dans le pays que la limite de [GetTradeCountryLimitCalculation]"
  AVAILABLE_COUNTRY_TRADE_SLOTS:0 "\nLimite actuelle de route du pays : [?temp_num_nodes|0+]\n Routes actuelles : [?ROOT.current_trade_routes|0+]"
  SEND_TRADE_NODE_BUTTON_TRIGGER_TT:0 "Pas de route actuellement entre [?node_map_selector.GetName] et [?trade_route_selector_target.GetName]"
@@ -173,7 +176,7 @@
  TRADE_NODE_MAP_SEND_EXPEDITION_TT:0 "Valeur de l'Expédition : [GetExpeditionValue] [GetCapTxt]"
  string_has_expedition_button_tt:0 "Rappeler l'Expédition"
  string_no_expedition_button_tt:0 "Envoyer une Expédition"
- trade_expedition_button_click_enabled_tt:0 "Ne contrôle pas le §yNoeud Économique§!"
+ trade_expedition_button_click_enabled_tt:9 "No major §yEconomic Node§! under our control"
 
   ### Route ledger
  TRADE_NODE_MAP_COUNTRY_ROUTE_LIST:0 "§Y[THIS.GetName]§! à §Y[GetTradeRouteCountryListName]§!"

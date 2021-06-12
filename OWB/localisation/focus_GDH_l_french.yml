@@ -242,9 +242,8 @@
  gdh_ultima_purchase:0 "L'Achat d'Ultimo"
  gdh_ultima_purchase_desc:0 "Nous avons vraiment besoin de cela plus que Caesar. Il peut toujours avoir une fenêtre sur le Pacifique en Californie, après tout."
 
- gdh_nogales_badlands:0 "Les Badlands de Nogales"
- gdh_nogales_badlands_desc:0 "Certains disent que les Nogales sont des badlands, mais ce sont surtout des Norteamericanos qui vivent en Arizona. Qui sont-ils pour juger ? Mais tant que Caesar pensera à une telle bêtise, laissons-lui le champ libre."
-
+ gdh_nogales_badlands:9 "The New Port"
+ gdh_nogales_badlands_desc:9 "Now that we have secured our presence on the coast, it is time to start building up the fleet to dominate the Gulf. By investing into docks and infrastructure we will prepare [444.GetName] for laying down brand new fleet."
 
  gdh_ncr_renegotiation:0 "Renégociations"
  gdh_ncr_renegotiation_desc:0 "Il semble que la RNC pourrait avoir besoin d'un peu d'aide maintenant qu'elle est en guerre. La guerre ne change jamais, mais nos prix, si !"

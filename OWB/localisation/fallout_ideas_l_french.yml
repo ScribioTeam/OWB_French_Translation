@@ -58,6 +58,8 @@
  stent_security_solutions:0 "Stent Security Solutions"
  wattz_company:0 "Wattz Electronics"
  ces_mojave_tribute:0 "The Spolia Opima"
+ ces_slaves:9 "Consul Officiorum ab Famulatus"
+ ces_slaves_desc:9 "Even in the Legion someone must do paper work, such as drafting legal documents recording slave sales and purchases. Currently M. Licinius Crassus holds this position. Formere Frumentarii, he doesn't scron any methods, if they provide profit, be it threats or kidnapping."
 
  pile_of_guns:0 "Muzzles Pile Of Guns"
  pile_of_guns_desc:0 "Vous voulez des armes ? Nous avons des armes. Chaque arme coûte la même chose. Creusez dans le tas !"
@@ -118,6 +120,31 @@
  # Reservation
  sub_level_2:0 "Sub-Level 2"
 
+  #mexico
+ gente_arms:9 "Gente Arms"
+ cartel_rejects:9 "Cartel Rejects"
+ occupation_surplus:9 "Occupation Surplus"
+ occupation_surplus:9 "Occupation Surplus"
+ farias_outpost:9 "Farías Offloads"
+ tzotzil_detachment:9 "Tzotil Fortification Detachment"
+ viceroyalty_branch_office:9 "Viceroyalty Branch Office"
+ petro_chico_reserve:9 "Petro Chico Reserve"
+ tohono_advisory:9 "Tohono Advisory Firm"
+ costa_corp:9 "Costa Corp Entertainment"
+ cost_corp_pharmaceuticals:9 "Costa Corp Pharmaceuticals"
+ baja_motors:9 "Baja Beasts"
+ nogales_garage:9 "Nogales Garage"
+ belize_drydocks:9 "Belize Drydocks"
+ pueblo_airbase:9 "Pueblo Airbase"
+ masita_riverworks:9 "Masita Riverworks"
+
+ natives_air_designer:9 "Awbizhaye"
+
+ PEMEX:9 "PEMEX"
+ PEMEX_desc:9 "PEMEX had begun intensive research in fuel efficiency and biofuels to alleviate drying oil reserves prior to their closure by the U.S. occupation."
+ petro_chico_rnd:9 "Petro Chico RnD"
+ petro_chico_rnd_desc:9 "Petro Chico was chiefly concerned with bulk oil extraction to compete with fusion energy before the great war closed business permanently."
+
  # Traits
  power_armor_manufacturer:0 "Fabricant d'Armures Assistée"
  bos_power_armor_manufacturer:0 "Fabricant d'armures assistées de la Confrérie"
@@ -135,7 +162,14 @@
   heavy_ship_manufacturer_desc:0 ""
  light_ship_manufacturer:0 "Fabricant de Navires Légers"
   light_ship_manufacturer_desc:0 ""
+ natives_air_manufacturer:9 "Through the Air"
+ slavery_offices:9 "Offices of Slavery"
 
+ economic_finances_company:9 "Financial Advisory"
+ fuel_company:9 "Fuel Depot"
+ light_aircraft_manufacturer:9 "Light Aircraft Manufacturer"
+
+ natives_air_manufacturer:9 "Through the Air"
 
  apc_manufacturer:0 "Fabricant d'APC"
  weapon_manufacturer:0 "Fabricant d'Armes"
