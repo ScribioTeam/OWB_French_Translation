@@ -650,7 +650,7 @@ l_french:
  has_war_with_cartel_faction_tt:0 "Est en §Rguerre§! avec un membre du §YGrand Cartel§!"
  at_peace_with_cartel_faction_tt:0 "En §Gpaix§! avec tous les membres du §YGrand Cartel§!"
  borders_cartel_faction_tt:0 "A une §Yfrontière commune§! avec un membre du §YGrand Cartel§!"
- does_not_border_cartel_faction_tt:0 §RN'a pas§! de §Yfrontière commune§! avec un membre du §YGrand Cartel§!"
+ does_not_border_cartel_faction_tt:0 "§RN'a pas§! de §Yfrontière commune§! avec un membre du §YGrand Cartel§!"
  has_mutually_positive_opinion_with_cartel_faction_tt:0 "A des relations §Gmutuellement positives§! avec §Yle Grand Cartel§!"
 
   # These are used by some faction effects when the target isn't currently in a
