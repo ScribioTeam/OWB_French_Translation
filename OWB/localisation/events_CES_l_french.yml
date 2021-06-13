@@ -13,7 +13,7 @@
  nf_legion.1001.a:0 "L'arrogance !"
 
  nf_legion.1002.title:0 "Cadeaux pour Caesar"
- nf_legion.1002.desc:9 "[WHT.GetLeader] a conquis l'Utah depuis ses tentes de guerre, mais on ne peut pas gouverner depuis une seule. [CES.GetName] a envoyé des conseillers pour aider à gouverner la terre, compétents dans l'art de briser le joug d'un peuple. Avec leur aide, tout l'Utah apprendra pourquoi les Jambes Blanches marchent fièrement. Et si [WHT.GetLeader] a des idées sur le tribut qu'il doit envoyer à Flagstaff, il ne le dit pas. Pour l'instant."
+ nf_legion.1002.desc:0 "[WHT.GetLeader] a conquis l'Utah depuis ses tentes de guerre, mais on ne peut pas gouverner depuis une seule. [CES.GetName] a envoyé des conseillers pour aider à gouverner la terre, compétents dans l'art de briser le joug d'un peuple. Avec leur aide, tout l'Utah apprendra pourquoi les Jambes Blanches marchent fièrement. Et si [WHT.GetLeader] a des idées sur le tribut qu'il doit envoyer à Flagstaff, il ne le dit pas. Pour l'instant."
  nf_legion.1002.a:0 "Il vaut mieux faire partie de la meute que d'être un mouton."
  nf_legion.1002.a_tt:0 "§g\nLe coût pour rendre les États de l'Utah en état coeur est réduit de moitié."
 
@@ -243,7 +243,7 @@
 
   ###### Legion Roots Out the Problem
  nf_legion.44.t:0 "Les yeux de Caesar"
- nf_legion.44.d:9 "[GDH.GetLeader] a coopéré à notre enquête, et Vulpes a démontré à quel point nos préoccupations étaient stupides. Non, El Generalissimo est peut-être un prodigue, mais il est notre prodigue."
+ nf_legion.44.d:0 "[GDH.GetLeader] a coopéré à notre enquête, et Vulpes a démontré à quel point nos préoccupations étaient stupides. Non, El Generalissimo est peut-être un prodigue, mais il est notre prodigue."
  nf_legion.44.a:0 "Fidèle à Caesar !"
 
 
@@ -258,16 +258,16 @@
  nf_legion.46.a:0 "Si vous vous approchez d'un bon arbre, vous trouverez un endroit agréable pour faire la sieste."
 
   ###### TWO sends troops
- nf_legion.47.t:9 "[TWO.GetName] nous envoie ses anciens combattants"
- nf_legion.47.d:9 "Dans les terres du désert de Sonora se trouve la ville de Two Sun. Ses citoyens ne font pas partie de la Légion et ils ont leurs propres divinités, mais tant qu'ils vénèrent Caesar et participent à nos batailles, nous pouvons les garder indépendants. En signe de soumission, Will nous a envoyé ses meilleurs guerriers, qui montent les chars rugissants."
- nf_legion.47.a:9 "Ils serviront bien"
+ nf_legion.47.t:0 "[TWO.GetName] nous envoie ses anciens combattants"
+ nf_legion.47.d:0 "Dans les terres du désert de Sonora se trouve la ville de Two Sun. Ses citoyens ne font pas partie de la Légion et ils ont leurs propres divinités, mais tant qu'ils vénèrent Caesar et participent à nos batailles, nous pouvons les garder indépendants. En signe de soumission, Will nous a envoyé ses meilleurs guerriers, qui montent les chars rugissants."
+ nf_legion.47.a:0 "Ils serviront bien"
 
   ###### COW decision
- nf_legion.48.t:9 "L'Ultime Décision"
- nf_legion.48.d:9 "Le moment est venu pour Caesar de prendre une décision. Vulpes évidemment [ultima_vulpes_opinion], tandis qu'Aurelius [ultima_aurelius_opinion] et Lucius [ultima_lucius_opinion]. Mais c'est à Caesar de décider..."
- nf_legion.48.a:9 "La loyauté doit être récompensée"
- nf_legion.48.b:9 "[GDH.GetLeader] construira une puissante flotte pour nous"
- nf_legion.48.c:9 "Je n'ai pas le temps pour ça, ils vont se débrouiller."
+ nf_legion.48.t:0 "L'Ultime Décision"
+ nf_legion.48.d:0 "Le moment est venu pour Caesar de prendre une décision. Vulpes évidemment [ultima_vulpes_opinion], tandis qu'Aurelius [ultima_aurelius_opinion] et Lucius [ultima_lucius_opinion]. Mais c'est à Caesar de décider..."
+ nf_legion.48.a:0 "La loyauté doit être récompensée"
+ nf_legion.48.b:0 "[GDH.GetLeader] construira une puissante flotte pour nous"
+ nf_legion.48.c:0 "Je n'ai pas le temps pour ça, ils vont se débrouiller."
 
 
 ######################## Civil War####

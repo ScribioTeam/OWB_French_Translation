@@ -50,9 +50,9 @@
  # Header
  #----------------------------
  HEADER_REQUISITES:0 "Prérequis"
- TRIBAL_HEADER:9 "Basique"
- CIVILIZED_HEADER:9 "Intermédiaire"
- ADVANCED_HEADER:9 "Sophistiqué"
+ TRIBAL_HEADER:0 "Basique"
+ CIVILIZED_HEADER:0 "Intermédiaire"
+ ADVANCED_HEADER:0 "Sophistiqué"
  SPECIAL_HEADER:0 "Unique"
  HEADER_UPGRADES:0 "Améliorations"
 

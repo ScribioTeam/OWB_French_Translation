@@ -42,7 +42,7 @@
  node_new_node_popup_tooltip_tt:0 "§Y[?new_node_state.GetName]§! est devenu un centre de commerce dans les Terres Désolées et constitue la principale plaque tournante pour §Y[THIS.GetName]§!!"
  node_new_node_popup_tooltip_tt_short:0 "§Y[?new_node_state.GetName]§! est devenu un centre de commerce dans les Terres Désolées !"
  puppet_taxation_popup_tooltip:0 "[GetPuppetTaxPopup]"
- puppet_taxation_popup_tooltip_tt:9 "Les taxes peuvent être prélevées sur §Y[?puppet.GetName]§!.\n Nous taxons actuellement : [?taxes_var_for_overlord|2=+] [GetCapType] de §Y[?puppet.GetName]§!\n Son revenu imposable actuel est de [PrecalculateTaxableIncome]\n §gLes impôts peuvent être augmentés, diminués et mis à jour dans le registre des marionnettes, sous l'onglet \"Misc\" de la barre supérieure."
+ puppet_taxation_popup_tooltip_tt:0 "Les taxes peuvent être prélevées sur §Y[?puppet.GetName]§!.\n Nous taxons actuellement : [?taxes_var_for_overlord|2=+] [GetCapType] de §Y[?puppet.GetName]§!\n Son revenu imposable actuel est de [PrecalculateTaxableIncome]\n §gLes impôts peuvent être augmentés, diminués et mis à jour dans le registre des marionnettes, sous l'onglet \"Misc\" de la barre supérieure."
  node_new_org_popup_tt:0 "[GetNodeNewOrgPopup]"
  puppet_taxation_popup_icon:0 "GFX_puppet_tax_icon"
  node_new_org_popup_tooltip_tt:0 "§Y[?org_state.GetName]§! est devenu le foyer de §G[GetOrganizationName]§!\nNous pouvons désormais échanger des marchandises et établir des relations commerciales avec eux !"

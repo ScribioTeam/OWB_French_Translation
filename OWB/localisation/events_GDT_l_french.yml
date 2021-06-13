@@ -73,7 +73,7 @@
  nf_gente.15.b:0 "Buvez, Généralissimo !"
   #############################################
  nf_gente.16.t:0 "Une Caravane Commerciale de [GDH.Capital.GetName]"
- nf_gente.16.d:9 "[GDH.GetLeader] nous a envoyé un autre convoi.  Cette amitié nous sera très profitable. Bien que [GDH.GetLeader] soit un prodigue qui, selon certains, a sa place sur une croix, il est peut-être encore utile."
+ nf_gente.16.d:0 "[GDH.GetLeader] nous a envoyé un autre convoi.  Cette amitié nous sera très profitable. Bien que [GDH.GetLeader] soit un prodigue qui, selon certains, a sa place sur une croix, il est peut-être encore utile."
  nf_gente.16.a:0 "Les temps étranges font des amis étranges."
   #############################################
  nf_gente.17.t:0 "[GDH.GetLeader] a envoyé une caravane à Flagstaff !"
@@ -83,17 +83,17 @@
   #############################################
  nf_gente.18.t:0 "L'Échange Ultime"
  nf_gente.18.d:444 "[GDH.GetLeader] demande le droit d'acheter [444.GetName] chez nous. Nous allons perdre notre débouché sur le Pacifique, mais ils nous offrent pas mal d'argent..."
- nf_gente.18.a:9 "Laissez ces profigates l'avoir."
- nf_gente.18.a_tt:9 "Vous allez vendre [444.GetName] pour 400 capsules."
+ nf_gente.18.a:0 "Laissez ces profigates l'avoir."
+ nf_gente.18.a_tt:0 "Vous allez vendre [444.GetName] pour 400 capsules."
  nf_gente.18.b:0 "Pourquoi ferions-nous cela ?"
   ##############################################
- nf_gente.19.t:9 "Un Cadeau de [TWO.GetName]."
- nf_gente.19.d:9 "[TWO.GetLeader] a accepté de vendre [444.GetName].  Quel vol !"
+ nf_gente.19.t:0 "Un Cadeau de [TWO.GetName]."
+ nf_gente.19.d:0 "[TWO.GetLeader] a accepté de vendre [444.GetName].  Quel vol !"
  nf_gente.19.a:0 "Muchas Gracias !"
   ##############################################
- nf_gente.20.t:9 "[TWO.GetName] a rejeté notre offre !"
- nf_gente.20.d:9 "[TWO.GetLeader] a refusé de vendre [444.GetName]. Ce connard."
- nf_gente.20.a:9 "Chenga tu Madre, [TWO.GetLeader]"
+ nf_gente.20.t:0 "[TWO.GetName] a rejeté notre offre !"
+ nf_gente.20.d:0 "[TWO.GetLeader] a refusé de vendre [444.GetName]. Ce connard."
+ nf_gente.20.a:0 "Chenga tu Madre, [TWO.GetLeader]"
   ############################################## not used
  nf_gente.21.t:0 "La Proposition Nogales"
  nf_gente.21.d:588 "[GDH.GetLeader] nous échangerait également contre [588.GetName]. Ils pourraient en faire plus avec cela, et nous bénéficierions d'une autre injection de fonds."

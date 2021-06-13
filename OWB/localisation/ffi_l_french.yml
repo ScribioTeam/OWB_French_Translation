@@ -1,7 +1,7 @@
 ﻿l_french:
 
 #leaders
- CHAVO_DESC:9 "'Look High! \nIt's my \nLast hope.'"
+ CHAVO_DESC:0 "'Look High! \nIt's my \nLast hope.'"
 
 #ministers
  ffi_advisor_ortiz:0 "Ortiz"
@@ -21,29 +21,29 @@
  rodriguez_trait:0 "Puissant"
  arellano_trait:0 "Génial"
  suneater_trait:0 "Suneater"
- ffi_triarchy:9 "Triarchy"
- ffi_triarchy2:9 "Triarchy"
- ffi_santos:9 "The Saint"
- ffi_mascaras:9 "The Giant"
- ffi_demon:9 "The Demon"
+ ffi_triarchy:0 "Triarchy"
+ ffi_triarchy2:0 "Triarchy"
+ ffi_santos:0 "The Saint"
+ ffi_mascaras:0 "The Giant"
+ ffi_demon:0 "The Demon"
 
 #parties
- FFI_ruler_party:9 "The Masks Cult"
- FFI_people_party:9 "The Saints Cult"
- FFI_elites_party:9 "The Demons Cult"
+ FFI_ruler_party:0 "The Masks Cult"
+ FFI_people_party:0 "The Saints Cult"
+ FFI_elites_party:0 "The Demons Cult"
 
 #tooltips
- ffi_rematch_tt:9 "At least three matches between the Triarchy have occured."
- ffi_triarchy_triumphant:9 "The Triarchy has Triumphed!"
+ ffi_rematch_tt:0 "At least three matches between the Triarchy have occured."
+ ffi_triarchy_triumphant:0 "The Triarchy has Triumphed!"
 
- ffi_train_attack_tt:9 "[THIS.Getplayerfighter] will boost his offensive moves for the upcoming match."
- ffi_train_defense_tt:9 "[THIS.Getplayerfighter] will boost his defensive moves for the upcoming match."
- ffi_train_feint_tt:9 "[THIS.Getplayerfighter] will boost his wildcard moves for the upcoming match."
- ffi_train_health_tt:9 "[THIS.Getplayerfighter] will boost his stamina for the upcoming match."
+ ffi_train_attack_tt:0 "[THIS.Getplayerfighter] will boost his offensive moves for the upcoming match."
+ ffi_train_defense_tt:0 "[THIS.Getplayerfighter] will boost his defensive moves for the upcoming match."
+ ffi_train_feint_tt:0 "[THIS.Getplayerfighter] will boost his wildcard moves for the upcoming match."
+ ffi_train_health_tt:0 "[THIS.Getplayerfighter] will boost his stamina for the upcoming match."
 
- ffi_cp_cost:9 "§H15§!£command_power"
- ffi_cp_cost_blocked:9 "§R15§!£command_power"
- ffi_cp_cost_tooltip:9 "It costs 15£command_power to select this."
+ ffi_cp_cost:0 "§H15§!£command_power"
+ ffi_cp_cost_blocked:0 "§R15§!£command_power"
+ ffi_cp_cost_tooltip:0 "It costs 15£command_power to select this."
 
  ffi_cruz_pardoned:0 "Le porteur d'ombres Cruz pardonné"
  ffi_ortiz_pardoned:0 "Ortiz appelé de Nuit pardonné"
@@ -59,9 +59,9 @@
  ffi_verde_unlocked:0 "Une nouvelle patrie"
  ffi_terror_unlocked:0 "Plus de peur"
 
- ffi_devil_wins:9 "Le diable bleu a remporté le match retour"
- ffi_santo_wins:9 "El Santo a remporté la Grande revanche"
- ffi_mascaras_wins:9 "Mil Mascaras a remporté la Grande revanche"
+ ffi_devil_wins:0 "Le diable bleu a remporté le match retour"
+ ffi_santo_wins:0 "El Santo a remporté la Grande revanche"
+ ffi_mascaras_wins:0 "Mil Mascaras a remporté la Grande revanche"
 
  FFI_cults:0 "Création des Cultes de Lucha"
  FFI_bullfighter_focus:0 "§M Vous permet d'envoyer de l'aide militaire à des cibles de la colère de la Légion se trouvant sous votre influence."
@@ -71,16 +71,16 @@
  FFI_devils_b:0 "§M Le Diable amène les mécaniciens goules du Cartel et leurs robots."
  FFI_devils_c:0 "§M Le Diable libère les milices locales."
 
- ffi_origin_tooltip_saint:9 "§Y5%§! Defense Bonus"
- ffi_origin_tooltip_refugees:9 "§Y5%§! Civilian Factory Construction Bonus"
- ffi_origin_tooltip_coring:9 "§Y5%§! Military Factory Construction Bonus"
- ffi_origin_tooltip_weapons:9 "§Y5%§! Attack bonus"
- ffi_origin_tooltip_verde:9 "§Y5%§! Recruitable Populatio Bonus"
- ffi_origin_tooltip_terror:9 "§Y5%§! Military Factory Construction Bonus"
+ ffi_origin_tooltip_saint:0 "§Y5%§! Defense Bonus"
+ ffi_origin_tooltip_refugees:0 "§Y5%§! Civilian Factory Construction Bonus"
+ ffi_origin_tooltip_coring:0 "§Y5%§! Military Factory Construction Bonus"
+ ffi_origin_tooltip_weapons:0 "§Y5%§! Attack bonus"
+ ffi_origin_tooltip_verde:0 "§Y5%§! Recruitable Populatio Bonus"
+ ffi_origin_tooltip_terror:0 "§Y5%§! Military Factory Construction Bonus"
 
- ffi_honor_cruel_tooltip:9 "Unlocks the Mil Mascaras focus options"
- ffi_truth_hero_tooltip:9 "Unlocks the Demonio Azul focus options"
- ffi_will_giant_tooltip:9 "Unlocks the El Santo focus options"
+ ffi_honor_cruel_tooltip:0 "Unlocks the Mil Mascaras focus options"
+ ffi_truth_hero_tooltip:0 "Unlocks the Demonio Azul focus options"
+ ffi_will_giant_tooltip:0 "Unlocks the El Santo focus options"
 
  ffi_shadowwalkers_tt:0 "Fait apparaître 2 divisions de Guerriers des ombres, 6 divisions d’infanterie avec soutien anti-char et reconnaissance, à Los Mochis"
  ffi_medicinas_tt:0 "Fait apparaître 2 divisions de Medicinas, 6 divisions d’infanterie avec soutien logistique et médical, à Los Mochis"
@@ -136,33 +136,33 @@
 
 
 ###wrestling
- ffi_wrestling:9 "The Lucha Rumble"
- ffi_wrestling_desc:9 "The time draws near for another match between the triarchy. To have any chance of winning the upcoming bout, §Y[Getplayerfighter]§! must train hard and prepare a sound strategy for the ring. \n\nStamina: §Y[?player_round_health]§! \nOffensive Strength: §Y[?player_at_dmg_var]§! \nDefensive Strength: §Y[?player_def_dmg_var]§! \nWildcard Strength: §Y[?player_fe_dmg_var]§!"
- ffi_train_attack:9 "Train Offensive Moves"
- ffi_train_attack_desc:9 ""
- ffi_train_defense:9 "Train Defensive Moves"
- ffi_train_defense_desc:9 ""
- ffi_train_feint:9 "Train Wildcard Moves"
- ffi_train_feint_desc:9 ""
+ ffi_wrestling:0 "The Lucha Rumble"
+ ffi_wrestling_desc:0 "The time draws near for another match between the triarchy. To have any chance of winning the upcoming bout, §Y[Getplayerfighter]§! must train hard and prepare a sound strategy for the ring. \n\nStamina: §Y[?player_round_health]§! \nOffensive Strength: §Y[?player_at_dmg_var]§! \nDefensive Strength: §Y[?player_def_dmg_var]§! \nWildcard Strength: §Y[?player_fe_dmg_var]§!"
+ ffi_train_attack:0 "Train Offensive Moves"
+ ffi_train_attack_desc:0 ""
+ ffi_train_defense:0 "Train Defensive Moves"
+ ffi_train_defense_desc:0 ""
+ ffi_train_feint:0 "Train Wildcard Moves"
+ ffi_train_feint_desc:0 ""
 
- ffi_train_health:9 "Build Up Stamina"
- ffi_train_health_desc:9 ""
- ffi_match_underway:9 "A match is underway"
- ffi_next_match:9 "The Next Match"
- ffi_next_match_desc:9 ""
+ ffi_train_health:0 "Build Up Stamina"
+ ffi_train_health_desc:0 ""
+ ffi_match_underway:0 "A match is underway"
+ ffi_next_match:0 "The Next Match"
+ ffi_next_match_desc:0 ""
 
 #focuses
  FFI_war_mask:0 "La Guerre du Masque"
  FFI_war_mask_desc:0 "Les Luchadores libres doivent leur existence aux cartels, car ce sont leurs mauvaises manières qui nous ont réunis pour combattre..."
 
  FFI_sangriento:0 "Jours Sangriento"
- FFI_sangriento_desc:9 "Of all the miserable, vile characters to terrorize Mexico, there is none as evil as El Bandido Sangriento. The Bandido's thugs and vicious cruelty were the only thing that stopped a complete lucha victory in the uprising, and have been a thorn in our side ever since.."
+ FFI_sangriento_desc:0 "Of all the miserable, vile characters to terrorize Mexico, there is none as evil as El Bandido Sangriento. The Bandido's thugs and vicious cruelty were the only thing that stopped a complete lucha victory in the uprising, and have been a thorn in our side ever since.."
 
  FFI_kill_bandit:0 "Tuer un Bandit"
  FFI_kill_bandit_desc:0 "Tuer une goule comme le bandit sanguinaire n'est pas une tâche facile, ils sont plus résistants que le plus dur des luchadores, et se battent jusqu'à la mort. Bien sûr, tout cela rend le défi encore plus amusant."
 
  FFI_true_demon:0 "Vrai Démon"
- FFI_true_demon_desc:9 "Beltran-Levya are a putrid demon in mexico, preying on the weak and the defenseless without realising their own impending demise. Now, we take the fight to the heart of their cartel, we are the demons, and they are our prey!"
+ FFI_true_demon_desc:0 "Beltran-Levya are a putrid demon in mexico, preying on the weak and the defenseless without realising their own impending demise. Now, we take the fight to the heart of their cartel, we are the demons, and they are our prey!"
 
  FFI_take_refugees:0 "Accueillir les Réfugiés"
  FFI_take_refugees_desc:0 "Ils disent que la guerre est l'enfer, mais en enfer, les seuls qui existent sont ceux qui le méritent. Alors que les nuages de la guerre se rassemblent à l'horizon, nous devons faire tout ce qui est en notre pouvoir pour protéger les innocents de la tempête qui approche."
@@ -174,7 +174,7 @@
  FFI_grateful_fans_desc:0 "À maintes reprises, nous avons protégé ceux qui ne pouvaient pas se protéger eux-mêmes, et notre réputation nous a précédés. Tous ceux qui affluent dans notre nation savent avec certitude qu'ils ont trouvé un havre de paix dans la nature sauvage du désert, et leur gratitude est évidente pour tous."
 
  FFI_freedom_sinaloa:0 "Liberté Pour Sinaloa"
- FFI_freedom_sinaloa_desc:9 "The Sinaloa cartel is a blighted reminder of the sins of the old world. Their continued survival in the north is a stain upon our lands, and it is past time we finish our great crusade agains their evil."
+ FFI_freedom_sinaloa_desc:0 "The Sinaloa cartel is a blighted reminder of the sins of the old world. Their continued survival in the north is a stain upon our lands, and it is past time we finish our great crusade agains their evil."
 
  FFI_last_rumble:0 "Le Dernier Combat"
  FFI_last_rumble_desc:0 "A droite, les champions incontestés de la misère depuis 200 ans, les seigneurs des opioïdes eux-mêmes, le §GCARTEL SINALOAAAAAA !§! Et dans le coin gauche, pesant avec un peuple rempli de la puissance de la justice et de la liberté, armé jusqu'aux dents et prêt à donner un coup de pied dans un culo de goule croustillant, les §GFREE FIGHTERRRRRRS.§! Mesdames et Messieurs, Ghouls et Robobrains, allons §GSoyez Prêt pour le COMBAT!§!"
@@ -186,28 +186,28 @@
  FFI_new_mask_same_bandit_desc:0 "Le combat avec le Beltran-Levya a été l'un des plus grands matchs de notre histoire, le bandit sanguinaire lui-même fixant nos luchardores les plus féroces dans la bataille. Le Diable Bleu, reconnaissant de telles prouesses pour la vertu qu'elles sont, a décidé d'embrasser le cartel vaincu sous sa tutelle, pour leur apprendre le vrai sens de la lutte."
 
  FFI_getting_gang_back_together:0 "Réunir le Gang"
- FFI_getting_gang_back_together_desc:9 "Qu'est-ce qu'un cartel, sinon une tribu de lucha malavisée ? Le Démon bleu va prendre ces bandits brisés et toxicomanes et les transformer en quelque chose de plus grand qu'eux, quelque chose de digne du masque de lucha."
+ FFI_getting_gang_back_together_desc:0 "Qu'est-ce qu'un cartel, sinon une tribu de lucha malavisée ? Le Démon bleu va prendre ces bandits brisés et toxicomanes et les transformer en quelque chose de plus grand qu'eux, quelque chose de digne du masque de lucha."
 
  FFI_hero_of_mochis:0 "Le Héro de Los Mochis"
- FFI_hero_of_mochis_desc:9 "Trente ans après la fin du monde, une petite communauté tribale est terrorisée et réduite en esclavage par des bandits locaux. Mais la situation change lorsqu'une figure solitaire portant un masque blanc se promène en ville..."
+ FFI_hero_of_mochis_desc:0 "Trente ans après la fin du monde, une petite communauté tribale est terrorisée et réduite en esclavage par des bandits locaux. Mais la situation change lorsqu'une figure solitaire portant un masque blanc se promène en ville..."
 
  FFI_bastard_of_guamuchul:0 "Le Bâtard de Guamuchul"
- FFI_bastard_of_guamuchul_desc:9 "The return of El Santo and his sacrifice would go on to inspire a great tribal uprising, one that broke the cartel into two and united the disparate peoples of Sinaloa under one banner,  with the singular exception of one warband..."
+ FFI_bastard_of_guamuchul_desc:0 "The return of El Santo and his sacrifice would go on to inspire a great tribal uprising, one that broke the cartel into two and united the disparate peoples of Sinaloa under one banner,  with the singular exception of one warband..."
 
  FFI_monster_of_culican:0 "Le Monstre de Culican"
- FFI_monster_of_culican_desc:9 "The arrival of the great wanderer broke was a turning point amongst the warring tribes of the Free Fighters..."
+ FFI_monster_of_culican_desc:0 "The arrival of the great wanderer broke was a turning point amongst the warring tribes of the Free Fighters..."
 
  FFI_tag_team:0 "L'Équipe du Siècle"
  FFI_tag_team_desc:0 "Le dernier match de leadership des Luchadores libres s'est terminé sans vainqueur incontestable, et pourtant il reste le plus grand match que la Fédération ait jamais vu..."
 
  FFI_federation_division:0 "Division dans la Fédération"
- FFI_federation_division_desc:9 "Not everyone has accepted the results of the great match and the leadership of the triarchy. Even now, talk circulates amongst the tribe, questioning the fitness of La Tres Mascaras to lead the federation..."
+ FFI_federation_division_desc:0 "Not everyone has accepted the results of the great match and the leadership of the triarchy. Even now, talk circulates amongst the tribe, questioning the fitness of La Tres Mascaras to lead the federation..."
 
  FFI_unbowed:0 "L'Invaincu "
- FFI_unbowed_desc:9 "Les tribus luchas n'ont pas toutes accepté la règle de La Tres Mascaras, il reste encore trois groupes que nous devrons unir sous notre bannière..."
+ FFI_unbowed_desc:0 "Les tribus luchas n'ont pas toutes accepté la règle de La Tres Mascaras, il reste encore trois groupes que nous devrons unir sous notre bannière..."
 
  FFI_approach_shadowwalker:0 "Approcher les Shadow Walkers"
- FFI_approach_shadowwalker_desc:9 "Les Shadow Walkers vénèrent le Black Shadow, un mal ancien qui aurait combattu El Santo à de nombreuses reprises, pour finalement être vaincu par le grand héros d'antan. Cette divinité étant si en désaccord avec la nôtre, les relations restent tendues ; cependant, avec la montée des cartels, un tel allié clandestin s'avérerait très utile."
+ FFI_approach_shadowwalker_desc:0 "Les Shadow Walkers vénèrent le Black Shadow, un mal ancien qui aurait combattu El Santo à de nombreuses reprises, pour finalement être vaincu par le grand héros d'antan. Cette divinité étant si en désaccord avec la nôtre, les relations restent tendues ; cependant, avec la montée des cartels, un tel allié clandestin s'avérerait très utile."
 
  FFI_honor_saint:0 "En l'Honneur du Saint"
  FFI_honor_saint_desc:0 "Aujourd'hui, nous célébrons le grand El Santo original, le martyr qui est venu sur nos terres et a chassé les misérables bandits qui se sont emparés de nous. Des défilés parcourent les rues de Los Mochis et des célébrations ont lieu alors qu'une nouvelle statue du Saint est dévoilée sur la place de la ville"
@@ -234,7 +234,7 @@
  FFI_twofaced_warriors_desc:0 "Les Twin Luchadores de la tribu des Two-Faced forment un couple fier, vénérant un certain Dos Caras, qui était considéré comme le meilleur Lucha de son âge. Ces deux-là résistent à l'idée de rejoindre la fédération à cause de cette fierté, il est donc grand temps de les faire tomber à l'eau."
 
  FFI_verde_cult:0 "Culte du Géant Vert"
- FFI_verde_cult_desc:9 "Le Culte Gigante Verde est un groupe qui vénère son homonyme, Verde, composé principalement de super-mutants semi-intelligents. La seule chose qui les empêche de rejoindre la fédération est le préjugé envers les mutants de notre côté, un préjugé facilement surpassé, cela dit. "
+ FFI_verde_cult_desc:0 "Le Culte Gigante Verde est un groupe qui vénère son homonyme, Verde, composé principalement de super-mutants semi-intelligents. La seule chose qui les empêche de rejoindre la fédération est le préjugé envers les mutants de notre côté, un préjugé facilement surpassé, cela dit. "
 
  FFI_heavyweight_champions:0 "Champions Poids Lourds"
  FFI_heavyweight_champions_desc:0 "Les Supermutants du Culte du Gigante Verde, récemment intégrés, ont été une aubaine pour les combats de lutte ; à mesure que d'autres combats ont lieu, nous comprenons et apprécions mieux ces titans charnus et comment ils peuvent nous aider à combattre les cartels."
@@ -253,10 +253,10 @@
 #industry
 
  FFI_bazzar:0 "Le Bazar"
- FFI_bazzar_desc:9 "El Bazaar De Los Calinas is a grand market in the center of town, where traders from across the Gulf coast come to do business with the Free Fighters and each other; this location presents an excellent opportunity for civilian industry, as it allows for easy access to a diverse range of goods."
+ FFI_bazzar_desc:0 "El Bazaar De Los Calinas is a grand market in the center of town, where traders from across the Gulf coast come to do business with the Free Fighters and each other; this location presents an excellent opportunity for civilian industry, as it allows for easy access to a diverse range of goods."
 
  FFI_rrg_trade:0 "Commerce avec Rio"
- FFI_rrg_trade_desc:9 "While our relatively similar disposition to the Rio Grande Republic makes trade with them viable, our proximity to them makes it profitable."
+ FFI_rrg_trade_desc:0 "While our relatively similar disposition to the Rio Grande Republic makes trade with them viable, our proximity to them makes it profitable."
 
  FFI_fishing_ports:0 "Ports de Pêche"
  FFI_fishing_ports_desc:0 "Pour une nation côtière, la pêche est vitale pour la richesse et la santé de sa population. Tout chantier de pêche mis en service a également pour effet de pouvoir abriter et créer des navires de combat en temps de guerre."
@@ -271,7 +271,7 @@
  FFI_awakened_foundries_desc:0 "Pendant trop longtemps, les fonderies de l'Ancien Monde sont restées en sommeil, ne servant qu'à cacher les squatters et les chimistes. Grâce à leur rénovation et à leur réaménagement, ces grandes aciéries peuvent à nouveau mettre des armes dans les mains de notre peuple."
 
  FFI_dubious_shipments:0 "Cargaisons Suspectes"
- FFI_dubious_shipments_desc:9 "Battles must be fought with honour, but the preparation is fair game. After all, what greater justice is there than to defeat the corrupt and oppressive regimes of this land with the weapons of their own design?"
+ FFI_dubious_shipments_desc:0 "Battles must be fought with honour, but the preparation is fair game. After all, what greater justice is there than to defeat the corrupt and oppressive regimes of this land with the weapons of their own design?"
 
  FFI_superior_slammers:0 "Slammers Supérieurs "
  FFI_superior_slammers_desc:0 "Pour un lutteur de cerveau de Luchadore, un traîneau-fusée peut sembler à première vue être le summum de l'armement humain, mais les récentes découvertes dans le domaine des \"superfistes motorisés qui peuvent percer un crâne\" ont ébranlé la communauté scientifique dans son ensemble."
@@ -292,7 +292,7 @@
  FFI_hundred_ships_desc:0 "...Avec l'apparition de la violence à Baja, de plus en plus de ces personnes se retrouvent en fuite sur le territoire de la fédération à la recherche d'un port sûr, apportant avec elles leur expertise en mer."
 
  FFI_la_paz_terror:0 "La Terreur du Paz"
- FFI_la_paz_terror_desc:9 "The Bandits of La Paz are cut from the same cloth as the cartel scum that butchered our people in the legends of old. If we really wish to SUPLEX these wretched criminals into the ocean, it would first be advantageous to develop a navy worth of challenging their smuggling craft."
+ FFI_la_paz_terror_desc:0 "The Bandits of La Paz are cut from the same cloth as the cartel scum that butchered our people in the legends of old. If we really wish to SUPLEX these wretched criminals into the ocean, it would first be advantageous to develop a navy worth of challenging their smuggling craft."
 
  FFI_repurposed_trawlers:0 "Chalutiers Réaffectés"
  FFI_repurposed_trawlers_desc:0 "Pour les besoins de l'action navale, les chalutiers de pêche d'avant-guerre ont une coque qui a suffisamment de volume pour être poussée, suffisamment d'espace sur le pont pour installer des canons et suffisamment de puissance motrice pour surpasser des formes de propulsion moins régulières. Avec un peu de rétro-ingénierie, il ne serait pas difficile de concevoir une coque qui tire parti de ces caractéristiques."
@@ -309,8 +309,8 @@
  FFI_down_the_coast:0 "Le long de la Côte"
  FFI_down_the_coast_desc:0 "Les Duchés de la vice-royauté sont devenus complaisants suite à leur séparation avec l'Aztalan, il est grand temps que quelqu'un mette ces marchands débutants à leur place."
 
- FFI_honor_the_cruel:9 "Honorer le Cruel"
- FFI_honor_the_cruel_desc:9 "None can now question the might of the Blue Demons, but there are still wounds in our society that need healing. The Verde cult has been a worthy adversary, and there is no reason that Mil Mascaras legacy and vision cannot be honoured, as long as it is under the Demon's terms."
+ FFI_honor_the_cruel:0 "Honorer le Cruel"
+ FFI_honor_the_cruel_desc:0 "None can now question the might of the Blue Demons, but there are still wounds in our society that need healing. The Verde cult has been a worthy adversary, and there is no reason that Mil Mascaras legacy and vision cannot be honoured, as long as it is under the Demon's terms."
 
  FFI_rise_of_b_team:0 "La Montée de l'Equipe B"
  FFI_rise_of_b_team_desc:0 "Les adeptes du Démon bleu ont toujours eu une chose en commun. Rares sont les individus dont on pense qu'ils étaient destinés à une quelconque grandeur. Des hors-la-loi, des criminels, des âmes brisées qui errent sans espoir. Par-dessus tout, le Démon Bleu s'efforce de forger ces personnes en quelque chose de valable, en élevant à jamais l'équipe B vers le futur."
@@ -327,11 +327,11 @@
  FFI_message_to_people:0 "Message au Peuple"
  FFI_message_to_people_desc:0 "La Liberté ne peut être contenue derrière aucune nation, c'est une flamme qui doit être apportée à chaque homme et femme qui peut tenir le feu en eux. El Santo répandra ce message au loin et à proximité, et les tyrans trembleront."
 
- FFI_truth_of_hero:9 "The Forgiveness of Sins"
- FFI_truth_of_hero_desc:9 "When El Santo speaks, all listen. Ever gracious in victory, El Santo has redeemed the Blue Demon, his eternal rival, into a new ally in the Saint's federation. Already the former followers of the Demon have joined the faithful, further strengthening and uniting our society."
+ FFI_truth_of_hero:0 "The Forgiveness of Sins"
+ FFI_truth_of_hero_desc:0 "When El Santo speaks, all listen. Ever gracious in victory, El Santo has redeemed the Blue Demon, his eternal rival, into a new ally in the Saint's federation. Already the former followers of the Demon have joined the faithful, further strengthening and uniting our society."
 
  FFI_rage_against_tyrants:0 "Rage Contre les Tyrans"
- FFI_rage_against_tyrants_desc:9 "La légende d'El-Santo s'étend désormais bien au-delà de l'homme qui s'est opposé aux méchants du ring dans l'ancien monde, ou de l'homme qui est mort dans une grêle de tirs dans le désert. Ce nom inspire l'espoir et l'héroïsme à tous ceux qui l'entendent et le connaissent, et il est à l'origine des grandes actions des gens ordinaires. En réalité, le royaume de la fédération est devenu la patrie des héros au lendemain de leur ascension."
+ FFI_rage_against_tyrants_desc:0 "La légende d'El-Santo s'étend désormais bien au-delà de l'homme qui s'est opposé aux méchants du ring dans l'ancien monde, ou de l'homme qui est mort dans une grêle de tirs dans le désert. Ce nom inspire l'espoir et l'héroïsme à tous ceux qui l'entendent et le connaissent, et il est à l'origine des grandes actions des gens ordinaires. En réalité, le royaume de la fédération est devenu la patrie des héros au lendemain de leur ascension."
 
  FFI_great_federation:0 "Grande Fédération"
  FFI_great_federation_desc:0 "Ce n'est pas par la conquête, mais par la coopération, qu'une paix durable sera apportée aux terres aux Terres Désolées. Que tous ceux qui aiment la liberté (et qui ont un faible pour la lutte) fassent cause commune au sein de notre nouvelle grande fédération."
@@ -345,8 +345,8 @@
  FFI_land_of_free:0 "Terre de la Liberté"
  FFI_land_of_free_desc:0 "Les Luchadores libres accueillent tout le monde, esclave, libre, riche ou pauvre, que les masses entassées des Terres Désolées trouvent un foyer accueillant dans notre fédération."
 
- FFI_will_of_giant:9 "The Saint of Strength"
- FFI_will_of_giant_desc:9 "When Mil Mascaras commands, all obey. Though the Giant entered the Free Fighters as a stranger, he has won the respect and leadership of his people, but not yet their souls. Incorporating the Saint's message into his own, Mascaras hopes to build a federation united as one, both in spirit and in body."
+ FFI_will_of_giant:0 "The Saint of Strength"
+ FFI_will_of_giant_desc:0 "When Mil Mascaras commands, all obey. Though the Giant entered the Free Fighters as a stranger, he has won the respect and leadership of his people, but not yet their souls. Incorporating the Saint's message into his own, Mascaras hopes to build a federation united as one, both in spirit and in body."
 
  FFI_great_refuge:0 "Le Grand Refuge"
  FFI_great_refuge_desc:0 "Le moment le plus marquant de la vie de Mil Mascaras, si vous lui demandez, prend la forme de sa première tentative ratée d'échapper à l'esclavage de la Légion, dans laquelle il a sacrifié sa liberté pour que d'autres puissent gagner la leur, se jetant dans une foule de légionnaires pour gagner du temps à ses camarades pour s'échapper. Cet idéal de sacrifice continue à définir le Géant jusqu'à ce jour, et cette légende inspire ses disciples à des niveaux de sacrifice similaires."
@@ -354,7 +354,7 @@
  FFI_freedoms_ring:0 "Ring de la Liberté"
  FFI_freedoms_ring_desc:0 "Que tous ceux qui veulent asservir, terroriser et opprimer entendent bien, car la cloche a sonné pour la liberté, et les Luchadores libres arrivent."
 
- FFI_suneater_calls:9 "Les Appels des Suneater"
+ FFI_suneater_calls:0 "Les Appels des Suneater"
  FFI_suneater_calls_desc:0 "Récemment, nous avons reçu des lettres et des messages cryptiques à propos d'un guerrier tribal qui se fait appeler \"Suneater\" ; il est supposé être à la tête d'un groupe de guerriers déchus qui ont été chassés de leurs terres par le Généralissime et ses hommes de main. La planification a commencé pour libérer leur terre du tyran."
 
  FFI_rebellious_champion:0 "Le Champion Rebelle"
@@ -394,7 +394,7 @@
  FFI_against_bull_desc:0 "Le taureau est venu à notre porte, et se prépare à se battre. Alors que d'autres nations tombent et plient le genou, notre fédération de la liberté fera la seule chose que nous faisons le mieux : Se lever et se battre."
 
  FFI_call_lucha:0 "Appel du Lucha"
- FFI_call_lucha_desc:9 "Même si nous ne sommes pas d'accord, contre le taureau, tous les luchadores sont unis, dans toute la fédération, l'appel de la lucha est entendu, et tous les hommes et femmes qui défendent la liberté y répondront."
+ FFI_call_lucha_desc:0 "Même si nous ne sommes pas d'accord, contre le taureau, tous les luchadores sont unis, dans toute la fédération, l'appel de la lucha est entendu, et tous les hommes et femmes qui défendent la liberté y répondront."
 
  FFI_battle_encordado:0 "Bataille dans l'Encordado"
  FFI_battle_encordado_desc:0 "Dans notre match contre la légion, l'ensemble de la fédération est notre ring, et nous devons faire tout notre possible pour préparer nos cordes pour le combat."
@@ -419,11 +419,11 @@
 
 #ideas
  ffi_division_timed:0 "Division dans la Fédération"
- ffi_division_timed_desc:9 ""
+ ffi_division_timed_desc:0 ""
  ffi_unbowed_timed:0 "L'Invaincu "
- ffi_unbowed_timed_desc:9 ""
- ffi_gente_attack:9 "The Suneater's Call"
- ffi_gente_attack_desc:9 ""
+ ffi_unbowed_timed_desc:0 ""
+ ffi_gente_attack:0 "The Suneater's Call"
+ ffi_gente_attack_desc:0 ""
 
 #ffi_unbowed_idea:0 "The Unbowed"
 #ffi_unbowed_idea_desc:0 ""
@@ -540,17 +540,17 @@
 #events
 
  nf_ffi.1.t:0 "Le Dernier Luchadore"
- nf_ffi.1.d:9 "Trente ans après la fin du monde, une petite communauté tribale est terrorisée et réduite en esclavage par des bandits locaux. Mais la situation change lorsqu'une figure solitaire portant un masque blanc se promène en ville et ose défier les bandits. Malgré tous les obstacles, le personnage chasse les bandits, pour ensuite succomber à ses blessures au lendemain de la bataille. Son sacrifice inspirera des générations de tribus à porter des masques et à combattre leurs oppresseurs, et ses dernières paroles les porteront vers l'avenir."
+ nf_ffi.1.d:0 "Trente ans après la fin du monde, une petite communauté tribale est terrorisée et réduite en esclavage par des bandits locaux. Mais la situation change lorsqu'une figure solitaire portant un masque blanc se promène en ville et ose défier les bandits. Malgré tous les obstacles, le personnage chasse les bandits, pour ensuite succomber à ses blessures au lendemain de la bataille. Son sacrifice inspirera des générations de tribus à porter des masques et à combattre leurs oppresseurs, et ses dernières paroles les porteront vers l'avenir."
  nf_ffi.1.a:0 "\"Mémoires de la Justice\""
  nf_ffi.1.b:0 "\"Un Abri pour les Faibles\""
 
  nf_ffi.2.t:0 "\"Le Retour du Démon\""
- nf_ffi.2.d:9 "Over a century later, El Santo would return. Despite years of oppression and brutality under the cartels, the saints arrival would go on to inspire a tribal uprising that would shatter the cartel into exile and defeat, but not all would join El Santo's crusade. A warband of tribals refused to accept the saint as savior, adopting the mask and fashioning themselves after the Blue Demon that once challenged El Santo, forcing the saint to share power with Demonio Azul, the ruthless leader of the Blue Demon cult."
+ nf_ffi.2.d:0 "Over a century later, El Santo would return. Despite years of oppression and brutality under the cartels, the saints arrival would go on to inspire a tribal uprising that would shatter the cartel into exile and defeat, but not all would join El Santo's crusade. A warband of tribals refused to accept the saint as savior, adopting the mask and fashioning themselves after the Blue Demon that once challenged El Santo, forcing the saint to share power with Demonio Azul, the ruthless leader of the Blue Demon cult."
  nf_ffi.2.a:0 "\"Un Méchant pour Chaque Conte\""
  nf_ffi.2.b:0 "\"L'Honneur, à un Point Près\""
 
  nf_ffi.3.t:0 "Un Monstre aux Cent Masques"
- nf_ffi.3.d:9 "The arrival of the great wanderer broke the uneasy status-quo for this great foe was greater than any who had come to threaten them before. Easily defeating several chiefs in single combat, the monster claimed the masks of his defeated foes, establishing himself as the new leader of their tribes. To all who inquired, he made his goals clear. He sought to form an army with which to defeat The Legion of the far north, and would challenge the rule of both El Santo and the Blue Demon to do so."
+ nf_ffi.3.d:0 "The arrival of the great wanderer broke the uneasy status-quo for this great foe was greater than any who had come to threaten them before. Easily defeating several chiefs in single combat, the monster claimed the masks of his defeated foes, establishing himself as the new leader of their tribes. To all who inquired, he made his goals clear. He sought to form an army with which to defeat The Legion of the far north, and would challenge the rule of both El Santo and the Blue Demon to do so."
  nf_ffi.3.a:0 "\"Un Nouveau Foyer\""
  nf_ffi.3.b:0 "\"Plus de Crainte\""
 
@@ -708,11 +708,11 @@
  nf_ffi.55.a:0 "Nous allons les écraser rapidement."
 
  nf_ffi.60.t:0 "La Grande Revanche"
- nf_ffi.60.desc:9 ""Good evening ladies and gentlemen, this is Mr. New Vegas with a special radio broadcast for you tonight, coming live from the Los Mochis ring, comes the greatest wrestling match of the apocalypse. The atmosphere in the ring is tense enough to cut through steel, as the three luchadores contending for the title of leader of the Free Fighters face each other. The Blue Demon is first to make a move, searching out a weak point in Mil Mascaras' defenses. The Green Giant is about to retaliate, catching the Demon in a ground slam before El Santo leaps onto his back with a somersault! Fearing a repeat of the first rematch, Mil Mascaras quickly disengages before the Blue Demon reveals his secret weapon, sliding under the ring, he returns to the fray holding a RobCo. Titanium Folding Chair, and begins to wail on Mascaras before El Santo lands a swift blow on them both. This battle is one for the ages folks. The dust of the ring is getting too thick to see, but as the bell rings for the first round, we can confirm we have an elimination!""
+ nf_ffi.60.desc:0 ""Good evening ladies and gentlemen, this is Mr. New Vegas with a special radio broadcast for you tonight, coming live from the Los Mochis ring, comes the greatest wrestling match of the apocalypse. The atmosphere in the ring is tense enough to cut through steel, as the three luchadores contending for the title of leader of the Free Fighters face each other. The Blue Demon is first to make a move, searching out a weak point in Mil Mascaras' defenses. The Green Giant is about to retaliate, catching the Demon in a ground slam before El Santo leaps onto his back with a somersault! Fearing a repeat of the first rematch, Mil Mascaras quickly disengages before the Blue Demon reveals his secret weapon, sliding under the ring, he returns to the fray holding a RobCo. Titanium Folding Chair, and begins to wail on Mascaras before El Santo lands a swift blow on them both. This battle is one for the ages folks. The dust of the ring is getting too thick to see, but as the bell rings for the first round, we can confirm we have an elimination!""
  nf_ffi.60.a:0 "§BLe Démon bleu est éliminé !§! "
  nf_ffi.60.b:0 "!§WEl Santo est élminé !§!"
  nf_ffi.60.c:0 "§GMil Mascaras est éliminé !§!"
- nf_ffi.60.d:9 "§YIt's a three-way knockout!§!"
+ nf_ffi.60.d:0 "§YIt's a three-way knockout!§!"
 
  nf_ffi.61.t:0 "La Grande Revanche : Le Diable et le Saint"
  nf_ffi.61.d:0 "Une fois de plus, le Démon et le Saint ont réussi à travailler ensemble pour vaincre Mil Mascaras, mais cette fois, il n'y aura pas de trêve. Ils s'encerclent l'un l'autre, chaise pliante dans un coin, poings de la justice dans l'autre. La bataille est longue et sale, et si les deux camps semblent être à égalité, il ne peut y avoir qu'un seul vainqueur..."
@@ -734,83 +734,83 @@
  nf_ffi.65.a:0 "Nous acceptons !"
  nf_ffi.65.b:0 "Nous n'acceptons pas."
 
- nf_ffi.98.t:9 "The Lucha Rumble"
- nf_ffi.98.d:9 "The uneasy tripartite leadership of the Federation has caused a headache for the Free Fighters, with the three strong personalities often butting heads and fists over the direction of the yougn nation. While their legendary first bout ended in a draw, the time has come to settle old grudges, and a series of three-way grand matches have been planned to decide the leadership of the Federation, each victor taking the reigns of the Federation until a final winner-takes-all grand slam of the century."
- nf_ffi.98.a:9 "How exciting!"
+ nf_ffi.98.t:0 "The Lucha Rumble"
+ nf_ffi.98.d:0 "The uneasy tripartite leadership of the Federation has caused a headache for the Free Fighters, with the three strong personalities often butting heads and fists over the direction of the yougn nation. While their legendary first bout ended in a draw, the time has come to settle old grudges, and a series of three-way grand matches have been planned to decide the leadership of the Federation, each victor taking the reigns of the Federation until a final winner-takes-all grand slam of the century."
+ nf_ffi.98.a:0 "How exciting!"
 
- nf_ffi.99.t:9 "Match [?ffi_match_number]: Choose your fighter!"
- nf_ffi.99.d:9 "with the bout drawing near, all three Mascaras are preparing for their showdown, El Santo has taken to the hills, training in solitude and strengthening his nigh-impenetrable defense. The Blue Demon is alternating between the ring and the workshop, fine-tuneing his power-fist and preparing his infamous sidesweeps. Mil Mascaras has challenged all comers to the public arena, honing his fists in brutal attacks designed to overwhelm the opponent. While all three will the enter the arena on equal footing, the position of first entrance for Match [?ffi_match_number] is a prestigious position, and the federation has yet to decide who will take this honour."
- nf_ffi.99.a:9 "El Santo will lead the match."
- nf_ffi.99.b:9 "The Blue Demon will take first entrance."
- nf_ffi.99.c:9 "Mil Mascaras will take first position."
+ nf_ffi.99.t:0 "Match [?ffi_match_number]: Choose your fighter!"
+ nf_ffi.99.d:0 "with the bout drawing near, all three Mascaras are preparing for their showdown, El Santo has taken to the hills, training in solitude and strengthening his nigh-impenetrable defense. The Blue Demon is alternating between the ring and the workshop, fine-tuneing his power-fist and preparing his infamous sidesweeps. Mil Mascaras has challenged all comers to the public arena, honing his fists in brutal attacks designed to overwhelm the opponent. While all three will the enter the arena on equal footing, the position of first entrance for Match [?ffi_match_number] is a prestigious position, and the federation has yet to decide who will take this honour."
+ nf_ffi.99.a:0 "El Santo will lead the match."
+ nf_ffi.99.b:0 "The Blue Demon will take first entrance."
+ nf_ffi.99.c:0 "Mil Mascaras will take first position."
 
- nf_ffi.100.t:9 "Match [?ffi_match_number]: Begin!"
- nf_ffi.100.d:9 "The time has come for another legendary rumble between Las Tres Mascaras to determine the next interim leader of the Free Fighters. With all three fighters having trained for the match, the upcoming fight is certain to be a showstopper, and spectators have arrived from across the federation to cheer on their favourite. As the combatants cross the ropes to enter the ring, there's only one thing left to say..."
- nf_ffi.100.a:9 "Let's get ready to RUMBLE!"
+ nf_ffi.100.t:0 "Match [?ffi_match_number]: Begin!"
+ nf_ffi.100.d:0 "The time has come for another legendary rumble between Las Tres Mascaras to determine the next interim leader of the Free Fighters. With all three fighters having trained for the match, the upcoming fight is certain to be a showstopper, and spectators have arrived from across the federation to cheer on their favourite. As the combatants cross the ropes to enter the ring, there's only one thing left to say..."
+ nf_ffi.100.a:0 "Let's get ready to RUMBLE!"
 
- nf_ffi.101.t:9 "Match [?ffi_match_number]: Round One"
- nf_ffi.101.d:9 "The bell has rung, and the first round begins! All three fighters are keen to gain an early upper hand, and circle the centre of the ring, waiting for the first blow to be struck. [THIS.Getplayerfighter] sees an opportunity, and striking first:"
- nf_ffi.101.a:9 "Opens with a volley of furious blows!"
- nf_ffi.101.b:9 "Stays out of the scrum and holds back."
- nf_ffi.101.c:9 "Plays the wildcard!"
+ nf_ffi.101.t:0 "Match [?ffi_match_number]: Round One"
+ nf_ffi.101.d:0 "The bell has rung, and the first round begins! All three fighters are keen to gain an early upper hand, and circle the centre of the ring, waiting for the first blow to be struck. [THIS.Getplayerfighter] sees an opportunity, and striking first:"
+ nf_ffi.101.a:0 "Opens with a volley of furious blows!"
+ nf_ffi.101.b:0 "Stays out of the scrum and holds back."
+ nf_ffi.101.c:0 "Plays the wildcard!"
 
- nf_ffi.102.t:9 "Match [?ffi_match_number]: Round Two"
- nf_ffi.102.d:9 "The bell rings, and the first round is over! in the fury of the battle, [THIS.Getroundmoves] \nAfter returning to their corners for a brief interlude, the three fighters are ready to take the fight to the second round. [THIS.Getplayerfighter] weighs his options and decides:"
- nf_ffi.102.a:9 "To press the Advantage! Attack!"
- nf_ffi.102.b:9 "To watch for weaknesses and stay on the defensive."
- nf_ffi.102.c:9 "To play the ring and stay prepared to feint!"
+ nf_ffi.102.t:0 "Match [?ffi_match_number]: Round Two"
+ nf_ffi.102.d:0 "The bell rings, and the first round is over! in the fury of the battle, [THIS.Getroundmoves] \nAfter returning to their corners for a brief interlude, the three fighters are ready to take the fight to the second round. [THIS.Getplayerfighter] weighs his options and decides:"
+ nf_ffi.102.a:0 "To press the Advantage! Attack!"
+ nf_ffi.102.b:0 "To watch for weaknesses and stay on the defensive."
+ nf_ffi.102.c:0 "To play the ring and stay prepared to feint!"
 
- nf_ffi.103.t:9 "Match [?ffi_match_number]: Round Three"
- nf_ffi.103.d:9 "The second round is over, and the hits are beginning to take their toll. Feeling the pressure, [THIS.Getroundmoves] \nKnowing that this is his last shot at taking the victory, [THIS.Getplayerfighter] pulls all his strength into one final move:"
- nf_ffi.103.a:9 "All for One! Sinaloa Smash!"
- nf_ffi.103.b:9 "The Aztlan Curtain!"
- nf_ffi.103.c:9 "Infinite Fistworks!"
+ nf_ffi.103.t:0 "Match [?ffi_match_number]: Round Three"
+ nf_ffi.103.d:0 "The second round is over, and the hits are beginning to take their toll. Feeling the pressure, [THIS.Getroundmoves] \nKnowing that this is his last shot at taking the victory, [THIS.Getplayerfighter] pulls all his strength into one final move:"
+ nf_ffi.103.a:0 "All for One! Sinaloa Smash!"
+ nf_ffi.103.b:0 "The Aztlan Curtain!"
+ nf_ffi.103.c:0 "Infinite Fistworks!"
 
- nf_ffi.104.t:9 "Match [?ffi_match_number]: The Final Bell"
- nf_ffi.104.desc:9 "The bell has rung and the match is over! in the final moments of the match, [THIS.Getroundmoves] \nBut as the dust settles, there can only be one victor, and the last mask standing is..."
- nf_ffi.104.a:9 "[THIS.Getplayerfighter]!"
- nf_ffi.104.b:9 "[THIS.Getenemy1]!"
- nf_ffi.104.c:9 "[THIS.Getenemy2]!"
- nf_ffi.104.d:9 "No one! The match is inconclusive and declared a draw!"
+ nf_ffi.104.t:0 "Match [?ffi_match_number]: The Final Bell"
+ nf_ffi.104.desc:0 "The bell has rung and the match is over! in the final moments of the match, [THIS.Getroundmoves] \nBut as the dust settles, there can only be one victor, and the last mask standing is..."
+ nf_ffi.104.a:0 "[THIS.Getplayerfighter]!"
+ nf_ffi.104.b:0 "[THIS.Getenemy1]!"
+ nf_ffi.104.c:0 "[THIS.Getenemy2]!"
+ nf_ffi.104.d:0 "No one! The match is inconclusive and declared a draw!"
 
- nf_ffi.105.t:9 "[This.GetLeader] Takes the Reigns"
- nf_ffi.105.d:9 "[This.GetLeader] has won the match and taken temporary leadership of the Federation till the next rumble. While his opponents still hold great sway over the Free Fighters, [This.GetLeader] now has the opportunity to pursue his own designs for the nation, while also preparing for the next bout against his foes."
- nf_ffi.105.a:9 "Till the next match!"
+ nf_ffi.105.t:0 "[This.GetLeader] Takes the Reigns"
+ nf_ffi.105.d:0 "[This.GetLeader] has won the match and taken temporary leadership of the Federation till the next rumble. While his opponents still hold great sway over the Free Fighters, [This.GetLeader] now has the opportunity to pursue his own designs for the nation, while also preparing for the next bout against his foes."
+ nf_ffi.105.a:0 "Till the next match!"
 
- nf_ffi.106.t:9 "The Triarchy Returns."
- nf_ffi.106.d:9 "Once again unable to find a clear victor, Las Tres Mascaras have agreed to return to a three-way leadership. While the match was glorious to watch and the respect that these fighters have for each other has only grown through battle, the issue of our nations leadership remains unresolved."
- nf_ffi.106.a:9 "Till the next match!"
+ nf_ffi.106.t:0 "The Triarchy Returns."
+ nf_ffi.106.d:0 "Once again unable to find a clear victor, Las Tres Mascaras have agreed to return to a three-way leadership. While the match was glorious to watch and the respect that these fighters have for each other has only grown through battle, the issue of our nations leadership remains unresolved."
+ nf_ffi.106.a:0 "Till the next match!"
 
- nf_ffi.107.t:9 "The Triarchy Triumphant!"
- nf_ffi.107.d:9 "With the final match ending much the same as the first, Las Tres Mascaras have agreed to put aside their petty differences and rule the federation as true equals, each member of the trio deferring to the other in areas of their own speciality. The ending of this legendary rivalry has caused quite a shock amongst the Federation, as it was thought impossible that the three could ever fully put aside their differences, but it is perhaps possible that the sheer ferocity of their final battle has created an unshakeable bond of brotherhood and camraderie that surpasses all others, and that will change the face of the Free Fighters forever."
- nf_ffi.107.a:9 "Por la libertad, por pelear, por Las Tres Mascaras!"
+ nf_ffi.107.t:0 "The Triarchy Triumphant!"
+ nf_ffi.107.d:0 "With the final match ending much the same as the first, Las Tres Mascaras have agreed to put aside their petty differences and rule the federation as true equals, each member of the trio deferring to the other in areas of their own speciality. The ending of this legendary rivalry has caused quite a shock amongst the Federation, as it was thought impossible that the three could ever fully put aside their differences, but it is perhaps possible that the sheer ferocity of their final battle has created an unshakeable bond of brotherhood and camraderie that surpasses all others, and that will change the face of the Free Fighters forever."
+ nf_ffi.107.a:0 "Por la libertad, por pelear, por Las Tres Mascaras!"
 
- nf_ffi.108.t:9 "[This.GetLeader] Triumphant!"
- nf_ffi.108.d:9 "After years of contested leadership, [This.GetLeader] has emerged from the final lucha rumble as the uncontested ruler of the Free Fighters. While his opponents recuperate, shattered by their devastating loss, [This.GetLeader] has wasted no time in restructuring the leadership of the Federation in his image, this time, permanently."
- nf_ffi.108.a:9 "Por la libertad, por pelear, por [This.GetLeader]!"
+ nf_ffi.108.t:0 "[This.GetLeader] Triumphant!"
+ nf_ffi.108.d:0 "After years of contested leadership, [This.GetLeader] has emerged from the final lucha rumble as the uncontested ruler of the Free Fighters. While his opponents recuperate, shattered by their devastating loss, [This.GetLeader] has wasted no time in restructuring the leadership of the Federation in his image, this time, permanently."
+ nf_ffi.108.a:0 "Por la libertad, por pelear, por [This.GetLeader]!"
 
 #scripted loc 
 #fighters
- playerfighter_santos:9 "El Santo"
- playerfighter_demon:9 "Demonio Azul"
- playerfighter_mascaras:9 "Mil Mascaras"
- enemy1_santos:9 "El Santo"
- enemy1_demon:9 "Demonio Azul"
- enemy1_mascaras:9 "Mil Mascaras"
- enemy2_santos:9 "El Santo"
- enemy2_demon:9 "Demonio Azul"
- enemy2_mascaras:9 "Mil Mascaras"
+ playerfighter_santos:0 "El Santo"
+ playerfighter_demon:0 "Demonio Azul"
+ playerfighter_mascaras:0 "Mil Mascaras"
+ enemy1_santos:0 "El Santo"
+ enemy1_demon:0 "Demonio Azul"
+ enemy1_mascaras:0 "Mil Mascaras"
+ enemy2_santos:0 "El Santo"
+ enemy2_demon:0 "Demonio Azul"
+ enemy2_mascaras:0 "Mil Mascaras"
 
 #moves
 #REMEMBER: 1 IS PLAYER, 2 AND 3 ARE RANDOM, USE [THIS.Getenemy1]  [THIS.Getenemy2] AND [THIS.Getplayerfighter] TO REFER TO EACH ONE
- move_at_at_at:9 "all three fighters leapt into the centre of the ring in a blinding display of unbridled violence, ready for a furious assault. The fists flew fast and free as all three Masks committed themselves to the offensive, each taking near as many hits as they gave."
- move_def_def_def:9 "the fighters stayed in their corners, unwilling to commit to an attack in fear of overextending. While a few cautious jabs were traded and plenty of evasive footwork was on display, the end result was a disappointing non-starter that left a lot to be desired."
- move_fe_fe_fe:9 "the combatants chose to demonstrate their style over substance, each sicking to outplay and outmanouvere each other through daring and ridiculous moves. In a culmination of this showboating, the round ended with a three way summersault slam, from which it was hard to tell if there was any winner, or indeed a point to the move."
- move_at_def_fe:9 "[THIS.Getplayerfighter] took the offensive, getting an early headstart that was brutally shut down by the iron defense of [THIS.Getenemy1]. Unfortunately, [THIS.Getenemy1]'s defense was broken by a rearward legsweep by [THIS.Getenemy2]. Who, now standing tall, was the new target of [THIS.Getplayerfighter], who proceeded to press the attack against the compromised foe. All three fighters took a hit this rond, and it's hard to say who was the real winner."
- move_at_at_fe:9 "[THIS.Getplayerfighter] readied his fists and launched a furious onslaught against [THIS.Getenemy1], who chose to meet him in kind, exchanging rapid blows and devastating swings. [THIS.Getenemy2] Attempted to take advantage of this, and was ready to jumpslam the two fighters, but was rudely countered by an impromptu alliance, as both combatants chose to direct their blows against the hapless interloper. While there was no outright winner, it's clear that [THIS.Getenemy2] lost this round."
- move_at_at_def:9 "[THIS.Getplayerfighter] struck an impromptu alliance with [THIS.Getenemy1], seeking to eliminate [THIS.Getenemy2] with a combined assault. The twin fists of these fighters struck against the iron defense of [THIS.Getenemy2] who blocked, ducked, and weaved his way through a sea of blows. This two-front attack almost took the lucha down, but a careless swing by [THIS.Getenemy1] went wide, slamming into the unprotected side of [THIS.Getplayerfighter], leaving [THIS.Getenemy2] open to deliver a devastating counterblow to both opponents."
- move_def_def_at:9 "[THIS.Getenemy2] decided to take the initiative, taunting both opponents to take him on. This showboating got him nowhere, as both [THIS.Getplayerfighter] and [THIS.Getenemy1] refused to be drawn out, preferring to corral and harass the middle fighter while staying on the defensive. An exhausting game of cat and mouse ensued, and left [THIS.Getenemy2] panting for breath in the middle of the ring, where both luchas gave their devastating retort."
- move_def_def_fe:9 "both [THIS.Getplayerfighter] and [THIS.Getenemy1] sought to use the round as a moment of respite to gain strength for the continued battle, and stayed defensive, but [THIS.Getenemy2] was having none of it. Deftly playing against his enemies weaknesses [THIS.Getenemy2] broke through their defenses like a knife through hot butter, keeping both luchas exhausted and on the backstep until the end of the round."
- move_fe_fe_at:9 "[THIS.Getplayerfighter] and [THIS.Getenemy1] decided to up the ante this round, joining together to take down [THIS.Getenemy2] with an audacious display of skill and lunacy. Unfortunately, the Luchadore's super secret moves were more flash than bang, and while attempting to throw [THIS.Getenemy1] at [THIS.Getenemy2] as a projectile, [THIS.Getplayerfighter] stumbled and fell, leaving both attackers reeling on the ground, where [THIS.Getenemy2] mopped the floor with them."
- move_fe_fe_def:9 "[THIS.Getenemy2] decided to play the round safe, with everything to play for and one's life and limb to lose. Unfortunately, this smart and tactical decision came up against the twin insanities of [THIS.Getplayerfighter] and [THIS.Getenemy1], who were prepared to dazzle the crowd and deck [THIS.Getenemy2]. Discombulated by a flurry of sommersaults and rope jumps, [THIS.Getenemy2] was unprepared for the brutal combo die kick that was deliver right to his mascara, losing the round and most of his remaining teeth."
+ move_at_at_at:0 "all three fighters leapt into the centre of the ring in a blinding display of unbridled violence, ready for a furious assault. The fists flew fast and free as all three Masks committed themselves to the offensive, each taking near as many hits as they gave."
+ move_def_def_def:0 "the fighters stayed in their corners, unwilling to commit to an attack in fear of overextending. While a few cautious jabs were traded and plenty of evasive footwork was on display, the end result was a disappointing non-starter that left a lot to be desired."
+ move_fe_fe_fe:0 "the combatants chose to demonstrate their style over substance, each sicking to outplay and outmanouvere each other through daring and ridiculous moves. In a culmination of this showboating, the round ended with a three way summersault slam, from which it was hard to tell if there was any winner, or indeed a point to the move."
+ move_at_def_fe:0 "[THIS.Getplayerfighter] took the offensive, getting an early headstart that was brutally shut down by the iron defense of [THIS.Getenemy1]. Unfortunately, [THIS.Getenemy1]'s defense was broken by a rearward legsweep by [THIS.Getenemy2]. Who, now standing tall, was the new target of [THIS.Getplayerfighter], who proceeded to press the attack against the compromised foe. All three fighters took a hit this rond, and it's hard to say who was the real winner."
+ move_at_at_fe:0 "[THIS.Getplayerfighter] readied his fists and launched a furious onslaught against [THIS.Getenemy1], who chose to meet him in kind, exchanging rapid blows and devastating swings. [THIS.Getenemy2] Attempted to take advantage of this, and was ready to jumpslam the two fighters, but was rudely countered by an impromptu alliance, as both combatants chose to direct their blows against the hapless interloper. While there was no outright winner, it's clear that [THIS.Getenemy2] lost this round."
+ move_at_at_def:0 "[THIS.Getplayerfighter] struck an impromptu alliance with [THIS.Getenemy1], seeking to eliminate [THIS.Getenemy2] with a combined assault. The twin fists of these fighters struck against the iron defense of [THIS.Getenemy2] who blocked, ducked, and weaved his way through a sea of blows. This two-front attack almost took the lucha down, but a careless swing by [THIS.Getenemy1] went wide, slamming into the unprotected side of [THIS.Getplayerfighter], leaving [THIS.Getenemy2] open to deliver a devastating counterblow to both opponents."
+ move_def_def_at:0 "[THIS.Getenemy2] decided to take the initiative, taunting both opponents to take him on. This showboating got him nowhere, as both [THIS.Getplayerfighter] and [THIS.Getenemy1] refused to be drawn out, preferring to corral and harass the middle fighter while staying on the defensive. An exhausting game of cat and mouse ensued, and left [THIS.Getenemy2] panting for breath in the middle of the ring, where both luchas gave their devastating retort."
+ move_def_def_fe:0 "both [THIS.Getplayerfighter] and [THIS.Getenemy1] sought to use the round as a moment of respite to gain strength for the continued battle, and stayed defensive, but [THIS.Getenemy2] was having none of it. Deftly playing against his enemies weaknesses [THIS.Getenemy2] broke through their defenses like a knife through hot butter, keeping both luchas exhausted and on the backstep until the end of the round."
+ move_fe_fe_at:0 "[THIS.Getplayerfighter] and [THIS.Getenemy1] decided to up the ante this round, joining together to take down [THIS.Getenemy2] with an audacious display of skill and lunacy. Unfortunately, the Luchadore's super secret moves were more flash than bang, and while attempting to throw [THIS.Getenemy1] at [THIS.Getenemy2] as a projectile, [THIS.Getplayerfighter] stumbled and fell, leaving both attackers reeling on the ground, where [THIS.Getenemy2] mopped the floor with them."
+ move_fe_fe_def:0 "[THIS.Getenemy2] decided to play the round safe, with everything to play for and one's life and limb to lose. Unfortunately, this smart and tactical decision came up against the twin insanities of [THIS.Getplayerfighter] and [THIS.Getenemy1], who were prepared to dazzle the crowd and deck [THIS.Getenemy2]. Discombulated by a flurry of sommersaults and rope jumps, [THIS.Getenemy2] was unprepared for the brutal combo die kick that was deliver right to his mascara, losing the round and most of his remaining teeth."
 

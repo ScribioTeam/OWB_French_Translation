@@ -49,7 +49,7 @@
 
  ces_the_cult_of_nas:0 "Le culte de Nas"
  ces_the_cult_of_nas_desc:0 "La tribu récemment conquise de Two Sun adoré un dieu qu'ils ont appelé «Nas» - le dieu qui leur aurait donné leurs véhicules et les compétences pour l'utiliser. Si nous permettons l'adoration de ce dieu, ils conserveront leur grande habileté à conduire."
- ces_ride_will_faster_tt:9 "Crée deux §Yunités motorisées§! et débloque un conseiller.\n"
+ ces_ride_will_faster_tt:0 "Crée deux §Yunités motorisées§! et débloque un conseiller.\n"
 
 
  ces_taming_the_city:0 "Apprivoiser la ville"
@@ -140,31 +140,31 @@
  ces_legionary_utah_desc:0 "Nos sujets ont écrasé les Cananéens, et contrôlent les richesses de l'Utah.  Il est évident que nous aurons aussi une part."
 
   # Ultima relations
- ces_loyal_tribe:9 "La Tribu Loyale"
- ces_loyal_tribe_desc:9 "Two Sun nous a bien servi dans le passé. Maintenant que le destin du pays de Cowboy est en train de se décider, ils s'attendront à ce que nous les récompensions comme il se doit."
+ ces_loyal_tribe:0 "La Tribu Loyale"
+ ces_loyal_tribe_desc:0 "Two Sun nous a bien servi dans le passé. Maintenant que le destin du pays de Cowboy est en train de se décider, ils s'attendront à ce que nous les récompensions comme il se doit."
 
- ces_two_nas:9 "Embrasser le Culte de Nas"
- ces_two_nas_desc:9 "Le Culte de Nas est une religion des Two Sun, que la Légion tolère car elle considère Caesar comme l'un de ses dieux. Nous devrions accepter les adorateurs de Nas sur nos terres, afin qu'ils puissent entretenir nos routes. De plus, le Culte de Vulcain a beaucoup à apprendre d'eux."
+ ces_two_nas:0 "Embrasser le Culte de Nas"
+ ces_two_nas_desc:0 "Le Culte de Nas est une religion des Two Sun, que la Légion tolère car elle considère Caesar comme l'un de ses dieux. Nous devrions accepter les adorateurs de Nas sur nos terres, afin qu'ils puissent entretenir nos routes. De plus, le Culte de Vulcain a beaucoup à apprendre d'eux."
 
- ces_two_motorized:9 "Des chars pour le Dieu"
- ces_two_motorized_desc:9 "Two Sun a beaucoup de technologies cachées dans ses garages. Et bien que Légion ne les ouvre pas, nous pouvons utiliser le design de leurs véhicules."
+ ces_two_motorized:0 "Des chars pour le Dieu"
+ ces_two_motorized_desc:0 "Two Sun a beaucoup de technologies cachées dans ses garages. Et bien que Légion ne les ouvre pas, nous pouvons utiliser le design de leurs véhicules."
 
- ces_outsiders_gente:9 "Le Charisme Mexicain"
- ces_outsiders_gente_desc:9 "[GDH.GetLeader] est un prodigue notoire. Mais il comprend bien les besoins de la Légion. Peut-être que nous pouvons arriver à une sorte d'accord."
+ ces_outsiders_gente:0 "Le Charisme Mexicain"
+ ces_outsiders_gente_desc:0 "[GDH.GetLeader] est un prodigue notoire. Mais il comprend bien les besoins de la Légion. Peut-être que nous pouvons arriver à une sorte d'accord."
 
- ces_cowboy_country:9 "La Décision"
- ces_cowboy_country_desc:9 "Caesar a réuni ses guerriers les plus dignes de confiance pour prendre la décision finale."
+ ces_cowboy_country:0 "La Décision"
+ ces_cowboy_country_desc:0 "Caesar a réuni ses guerriers les plus dignes de confiance pour prendre la décision finale."
 
- ces_friendship:9 "Fors Iuvat Audentes"
- ces_friendship_desc:9 "§OFors Iuvat Audentes§!, comme le dit le vieil adage, en mettant en concurrence nos sujets actuels et futurs, nous nous assurons non seulement que les plus méritants reçoivent ces terres, mais aussi que les deux parties en tirent potentiellement profit."
+ ces_friendship:0 "Fors Iuvat Audentes"
+ ces_friendship_desc:0 "§OFors Iuvat Audentes§!, comme le dit le vieil adage, en mettant en concurrence nos sujets actuels et futurs, nous nous assurons non seulement que les plus méritants reçoivent ces terres, mais aussi que les deux parties en tirent potentiellement profit."
 
- ces_two_conquest_cow:9 "Un Lumine Motus"
- ces_two_conquest_cow_desc:9 "Will Faster et ses pilotes ont servi la légion avec dévouement pendant de nombreuses années et leur loyauté est incontestable. Les liens qui unissent Two Sun et la Légion sont bien plus profonds que la simple relation entre un suzerain et un sujet. Aujourd'hui, nous allons honorer cette amitié en leur accordant cette terre convoitée."
+ ces_two_conquest_cow:0 "Un Lumine Motus"
+ ces_two_conquest_cow_desc:0 "Will Faster et ses pilotes ont servi la légion avec dévouement pendant de nombreuses années et leur loyauté est incontestable. Les liens qui unissent Two Sun et la Légion sont bien plus profonds que la simple relation entre un suzerain et un sujet. Aujourd'hui, nous allons honorer cette amitié en leur accordant cette terre convoitée."
 
- ces_gdh_take_shore:9 "Ubi Proxima Merces"
+ ces_gdh_take_shore:0 "Ubi Proxima Merces"
  ces_gdh_take_shore_desc:444 "Le Generalissimo nous a fait une offre que nous ne pouvons tout simplement pas refuser, une flotte capable de défier la domination de la RNC sur le Golfe, un projet pour lequel il va avoir besoin des capacités de production des ports de [444.GetName]."
 
- ces_upgrade_port:9 "La Marine du Taureau"
+ ces_upgrade_port:0 "La Marine du Taureau"
  ces_upgrade_port_desc:444 "Peu importe le propriétaire, [444.Getname] doit devenir la base navale avancée de la Légion. Si nous pouvons contester la position de la RNC à Baja, cela va sûrement ébranler leur position stratégique en amont de la rivière."
 
   # Mexico sub-tree
@@ -462,8 +462,8 @@
  ces_return_chariots_desc:0 "[TWO.Capital.GetName] possède l'un des plus grands nombres de voitures dans les Terres Désolées. Ils seront probablement heureux de les fournir à la Légion."
  ces_legionary_charioteers:0 "Chariots légionnaires"
  ces_legionary_charioteers_desc:0 "La Légion retourne sur les routes, comme ses ancêtres. Le grand Caesar a décrété que des chevaux de fer propulseraient ses cavaliers, et [TWO.Leader.GetName] seront les nouveaux Scythes !"
- ces_ride_will_faster:9 "Adorateurs de Sr"
- ces_ride_will_faster_desc:9 "Les citoyens de [TWO.GetName] vénèrent plusieurs dieux en plus de Caesar et Mars. L'un d'eux est Sr, le grand fondateur de Nascar, qui bénit les prêtres qui travaillent dans les temples et s'occupent des pistes. Invitons-les sur les territoires des Légions, afin qu'ils puissent développer nos terres."
+ ces_ride_will_faster:0 "Adorateurs de Sr"
+ ces_ride_will_faster_desc:0 "Les citoyens de [TWO.GetName] vénèrent plusieurs dieux en plus de Caesar et Mars. L'un d'eux est Sr, le grand fondateur de Nascar, qui bénit les prêtres qui travaillent dans les temples et s'occupent des pistes. Invitons-les sur les territoires des Légions, afin qu'ils puissent développer nos terres."
  ces_two_sun_colosseum:0 "Colisée des Two Sun"
  ces_two_sun_colosseum_desc:0 "Nous pouvons diffuser les courses de Two Sun à travers le territoire de la Légion, et construire une piste de course pour leur combat épique. Et les compétitions ne feront qu'encourager Two Sun à servir la Légion."
  ces_legend_cannonball:0 "Légende du Boulet de Canon"
