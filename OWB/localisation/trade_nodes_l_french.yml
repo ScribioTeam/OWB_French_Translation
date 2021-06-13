@@ -7,13 +7,13 @@
  node_disabled_tt:0 "Le Noeud de Commerce est §Rdésactivé§!."
  node_disabled_timed_tt:0 "Le Noeud de Commerce est §Rdésactivé§! pendant [?OWNER.duration_node_disabled|§Y§0] jours."
   # Modifiers
- caps_trade_node_route_limit:9 "Maximum Outgoing Trade Routes"
+ caps_trade_node_route_limit:9 "Routes commerciales sortantes maximales"
   # EFFECTS
  NODE_ADD_DEVELOPMENT_EFFECT_TT:0 "Ajoute [?development_to_add|2+=] de §cDéveloppement§! à §Y[This.GetName]§!\n\nLe §cDéveloppement Économique§! augmente la progression au niveau des nœuds."
  scripted_effect_update_route_value_tt:0 "Met à jour les Routes Commerciales de §Y[This.GetName]§!"
  scripted_effect_remove_trade_route_tt:0 "§RRetire§! la Route Commerciale de §Y[This.GetName]§! à §Y[?trade_route_temp_target.GetName]§!"
  scripted_effect_begin_trade_route_tt:0 "§GCommencer§! une Route Commerciale de §Y[?node_map_selector.GetName]§! à §Y[?trade_route_selector_target.GetName]§!"
- scripted_effect_add_state_as_node_partner_tt:9 "Become a member state of the §y[?var:node_to_add_partner_to.GetName] Economic Node§!\n"
+ scripted_effect_add_state_as_node_partner_tt:9 "Devient un État membre du nœud économique §y[?var:node_to_add_partner_to.GetName].§!\n"
   # TRIGGERS
  get_trade_route_slots_number_tt:0 "Routes Disponibles : $RIGHT|0G$\nRoutes Maximum : $LEFT|0G$\n"
  has_open_trade_route_slot_tt:0 "A un emplacement de route commercial disponible\n   Routes Disponibles : [?trade_route_slot_avail|0+]\n   Routes Maximum : [?trade_route_slots|0+]\n"
@@ -176,7 +176,7 @@
  TRADE_NODE_MAP_SEND_EXPEDITION_TT:0 "Valeur de l'Expédition : [GetExpeditionValue] [GetCapTxt]"
  string_has_expedition_button_tt:0 "Rappeler l'Expédition"
  string_no_expedition_button_tt:0 "Envoyer une Expédition"
- trade_expedition_button_click_enabled_tt:9 "No major §yEconomic Node§! under our control"
+ trade_expedition_button_click_enabled_tt:9 "Aucun §yNœud Économique§! majeur sous notre contrôle."
 
   ### Route ledger
  TRADE_NODE_MAP_COUNTRY_ROUTE_LIST:0 "§Y[THIS.GetName]§! à §Y[GetTradeRouteCountryListName]§!"

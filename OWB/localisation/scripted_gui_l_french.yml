@@ -17,10 +17,10 @@
  HAS_ENOUGH_ENERGY_TO_CORE_STATE:0 "§Y[Root.GetName]§! produit assez d'§YEnergie§! pour avoir §Y [?coring_var_energy_cost] §! disponibles (actuellement §Y [?free_energy_for_coring] §!)"
 
   # Two Coring
- ADD_CORE_TWO_TT:9 "§HConvert state to the cult of Nas§! £unit_motorized_icon_small [?coring_var_motorized_cost]"
- ADD_CORE_TWO_TT_DELAYED:9 "§HBase value§!: £unit_motorized_icon_small 100\n§HState's population§!: £unit_motorized_icon_small [?coring_var_state_pop]\n§HDistance from capital§!: £unit_motorized_icon_small [?coring_var_distance]\n§HCoring Cost Reduction from Modifiers§!: [?coring_cost_from_modifiers_for_display|%0]\n§HCoring Cost§!: £unit_motorized_icon_small [?coring_var_motorized_cost]\n--------------\n[!add_core_two_click_enabled][Root.coring_button_bonus_effect_scripted_loc]"
+ ADD_CORE_TWO_TT:9 "§HConvertir l'Etat au culte de Nas§! £unit_motorized_icon_small [?coring_var_motorized_cost]"
+ ADD_CORE_TWO_TT_DELAYED:9 "§HValeur de base§! : £unit_motorized_icon_small 100\n§HPopulation d'État§!: £unit_motorized_icon_small [?coring_var_state_pop]\n§HDistance de la capitale§! : £unit_motorized_icon_small [?coring_var_distance]\n§HRéduction des coûts de rendre cœurs grâce aux modificateurs§! : [?coring_cost_from_modifiers_for_display|%0]\n§HCoût de rendre cœurs§! : £unit_motorized_icon_small [?coring_var_motorized_cost]\n--------------\n[!add_core_two_click_enabled][Root.coring_button_bonus_effect_scripted_loc]"
 
- trigger_infrastructure_coring:9 "State infrastructure level is at least §Y[?required_infrastructure]§!"
+ trigger_infrastructure_coring:9 "Le niveau d'infrastructure de l'État est au moins §Y[?required_infrastructure]§!"
 
  FALLOUT_CORING_TAB_TITLE:0 "[This.GetCoringTabTitle]"
  FALLOUT_CORING_TAB_NO_STATES_INFO:0 "[This.GetCoringTabNoStatesInfo]"
@@ -41,8 +41,8 @@
  local_required_compliance_for_coring:0 "Conformité locale requise pour rendre coeur"
  required_compliance_for_coring_factor:0 "Facteur de conformité requise pour rendre coeur"
  local_required_compliance_for_coring_factor:0 "Facteur de conformité locale requise pour rendre coeur"
- required_infrastructure_for_coring:9 "Required Infrastructure for Converting"
- local_required_required_infrastructure_for_coring:9 "Local Required Infrastructure for Converting"
+ required_infrastructure_for_coring:9 "Infrastructure requise pour la Conversion"
+ local_required_required_infrastructure_for_coring:9 "Infrastructure locale requise pour la Conversion"
 
   # Scripted effects
- decrease_coring_cost_for_prev_cores:9 "Gain a permanent [?core_cost_var|%G0] reduction in coring costs of every owned §Y[PREV.GetNameDef]§! core state"
+ decrease_coring_cost_for_prev_cores:9 "Obtenez une réduction permanente [?core_cost_var|%G0] des coûts de rendre cœur de chaque §Y[PREV.GetNameDef]§ ! état cœur possédé."
