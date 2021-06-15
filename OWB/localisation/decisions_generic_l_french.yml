@@ -59,3 +59,4 @@
  command_power_more_than_25:0 "§H25§! £command_power"
  command_power_more_than_25_blocked:0 "§R25§! £command_power"
  command_power_more_than_25_tooltip:0 "Il en coûte §R25§! £command_power pour sélectionner ceci."
+ on_map_decision_only_tt:0 "\n§RUne ou plusieurs des décisions ainsi débloquées n'apparaîtront pas dans l'onglet des décisions mais apparaîtront sur la carte lorsque l'onglet des décisions sera ouvert.§!"

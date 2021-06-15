@@ -9,6 +9,6 @@
  startup.100.t:0 "§RInitalisation des pays manquants§!"
  startup.100.d:0 "§RVEUILLEZ EN INFORMER LES DÉVELOPPEURS. CE PAYS N'A PAS CORRECTEMENT INITALISÉ !§! \nTAG : [This.GetTag]\nDATE : [This.GetDateText]\nIDEOLOGIE : [This.GetRulingIdeology]"
  FOCUS_FILTER_IDEAS:0 "Idées"
- mod_version_label_tt:0 "Old World Blues 3.3.3"
+ mod_version_label_tt:0 "Old World Blues 3.3.4"
  add_state_population_tt:0 "§OPopulration de l'état§! de §Y[THIS.GetName]§! change de [?pop_add|0+=].\n"
  UNLOCK_DIVISION_TEMPLATE:0 "Déverrouille un modèle de division contenant l'unité recherchée s'il n'y en a pas."

@@ -65,7 +65,11 @@
 
  RULE_AI_BEHAVIOR_LAC:0 "@LAC Cohorte de Lanius"
  RULE_AI_BEHAVIOR_LAC_DEFAULT:0 "Défaut"
- RULE_AI_BEHAVIOR_LAC_DEFAULT_DESC:0 "Lanius va frapper au nord dans le Colorado avant de river ses yeux sur le Texas."
+ RULE_AI_BEHAVIOR_LAC_DEFAULT_DESC:0 "Lanius va frapper le nord du Colorado et rester fidèle à César."
+ RULE_AI_BEHAVIOR_LAC_EAST:0 "La Légion de l'Est"
+ RULE_AI_BEHAVIOR_LAC_EAST_DESC:0 "Lanius ira à l'est pour se tailler un empire à lui tout seul !"
+ RULE_AI_BEHAVIOR_LAC_DIANA:0 "la Res Publica"
+ RULE_AI_BEHAVIOR_LAC_DIANA_DESC:0 "Lanius reconnaîtra que la Légion est insoutenable et que la dialectique hégélienne est le genre de conneries qu'on entend d'un mec sur Youtube."
 
 
  RULE_AI_BEHAVIOR_MOJ:0 "@MOJ Chapitre du Mojave"
@@ -240,6 +244,17 @@
  RULE_EVENTS_SYNTHETIC_DAWN_DISABLED_DESC:0 "Les Chichen Itza ont oublié les habitudes des derniers vrais Mexicains."
  RULE_EVENTS_SYNTHETIC_DAWN_ENABLED:0 "£flag_MAYA_texticon Aube Synthétique"
  RULE_EVENTS_SYNTHETIC_DAWN_ENABLED_DESC:0 "Les Mayas seront prêts à affronter l'Aube Synthétique."
+
+ DEATH_OF_CAESAR:0 "La Mort de Caesar"
+ RULE_EVENTS_CAESAR_DIE:0 "Caesar Mourra"
+ RULE_EVENTS_CAESAR_DIE_ENABLED_DESC:0 "Si la Légion prend New Vegas, l'opération de Caesar échouera ! Maudit Courrier."
+ RULE_EVENTS_CAESAR_LIVE:0 "Caesar Vivra"
+ RULE_EVENTS_CAESAR_LIVE_ENABLED_DESC:0 "L'opération de Caesar réussira."
+ RULE_EVENTS_CAESAR_RANDOM:0 "Je suis quoi, un Docteur ?"
+ RULE_EVENTS_CAESAR_RANDOM_DESC:0 "Le sort de Caesar sera aléatoire."
+
+
+
 
  syntheticdawn.1.t:0 "Aube Synthétique"
  syntheticdawn.1.d:0 "Les gens de l'ancien monde craignaient l'intelligence qui sommeillait dans le monde souterrain, un dieu machine immortel créé par les visions tordues des autocrates humains. Le massacre commença dès la fin du monde ; des monstres insensibles faits entièrement d'armures conquirent tout sur leur passage. Ils sont venus de la terre, d'usines qui ont travaillé sans relâche entre les racines de la civilisation : d'immenses machines métalliques, calculatrices et innombrables. L'invasion synthétique a commencé le jour où les bombes sont tombées, comme si elles annonçaient l'arrivée d'un être plus grand.\n\nLeur arrivée a été annoncée dans les prophéties, par nos ancêtres des siècles passés. Nous avons suivi les instructions qu'ils nous ont laissées, reconstruisant les étranges machines représentées dans les diagrammes en pierre sculptée. Lorsque le grand appareil a été terminé et que l'interrupteur a été actionné, un courageux volontaire s'est retrouvé perdu dans une mer de verdure. Quand il a ouvert les yeux, il se tenait debout dans une ancienne réplique de notre appareil, flanqué de tous côtés par trois statues imposantes. Au-delà de leurs silhouettes inertes, il a vu un étonnant arsenal d'armes de l'autre côté de l'espace et du temps. Alors que notre guerrier s'avançait pour les revendiquer, les trois statues se fendirent, et de l'intérieur de la pierre éclata un trio d'hommes avec vigueur ! Nos guerriers n'ont pas l'habitude de manier ces armes étranges et sont fatigués de nos ancêtres anciens récemment découverts, mais ils doivent s'adapter rapidement si nous voulons défendre l'humanité de la menace de Tlaloc !"

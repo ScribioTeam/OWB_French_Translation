@@ -8,12 +8,15 @@
  neutrality_owb:0 "Neutralité"
  neutrality_owb_desc:0 ""
 
+  # SUN
  sun_victors_against_pallus:0 "Victors Against Paullus"
  sun_victors_against_pallus_desc:0 "Paullus was seen as unstoppable before he tried to run his cohorts into Sun Dogs territory. The Centurion's chariots passed through a narrow mountain passage - feeling themselves invincible after their previous victories.\nA short, if decisive battle would follow - Gold-hound proving to Paullus that Colorado was out of his reach. Even today the legacy of Paullus's failed invasion still lingers in the minds of the Sun Dogs - the tribe having reversed engineered the Legionary chariots - making them their own!"
 
-  #########
-  ##### UFO
-  #########
+  ##########################
+  ##### UNIQUE GENERIC IDEAS
+  ##########################
+
+  #UFO
 
  zetan:0 "Zétans !"
  zetan_desc:0 "Des entités très avancées, de l'autre monde, avec des capacités qui pourraient aussi bien être magiques pour les occupants des Terres Désolées."
@@ -33,6 +36,10 @@
  chains_across_the_rivers:0 "Chaînes de l'Autre Côté de la Rivière"
  chains_across_the_rivers_desc:0 "En faisant passer des chaînes de fer submergées par les diverses rivières qui traversent les marais de Louisiane, nous pouvons enchevêtrer les commerçants qui tentent d'explorer les routes à l'ouest du Mississippi. En pillant les navires échoués, nous pouvons obtenir une grande variété de matériaux qui seraient autrement beaucoup plus rares."
 
+  ### TLT
+ river_trade:0 "Le Puissant Mississipi"
+ river_trade_desc:0 "Le Mississippi est le cœur du commerce du Midwest, transportant des marchandises de la cour de la Reine, des Pharaons de Memphis et de Chicago vers les ports des Caraïbes. Il va de soi que [TLT.GetName] peut y faire un ou deux capsules."
+
   #SYN
  syilx_council_of_eight:0 "Le Conseil des Huit"
  syilx_council_of_eight_desc:0 "La Nation Syilx est gouvernée par le Conseil exécutif des chefs, composé des sept chefs de la nation et du président de la nation des tribus confédérées de Coleville. Le Conseil se réunit régulièrement pour décider des sujets de préoccupation et s'efforce de protéger la population, les terres et les ressources de la nation."
@@ -40,8 +47,10 @@
  syilx_captikwl_desc:0 "captíkwł sont des enseignements sur les principes, les coutumes, les valeurs, les lois et les structures de Sylix qui informent sur les responsabilités et les droits des Sylix sur leur terre. Ils servent à la fois de lois naturelles et font partie d'un processus de renouvellement et de revitalisation culturelle. Les lois enseignent au peuple Syilx comment survivre sur leurs terres et sont transmises à chaque jeune de la nation."
 
   #HAI
- haida_raven_and_eagle:0 "Le Corbeau et l'Aigle"
- haida_raven_and_eagle_desc:0 "La vie sociale des Haïdas est largement divisée en deux parties : le Corbeau et l'Aigle. La moitié d'une famille détermine le côté du village où elle vit, l'histoire qu'on lui enseigne et où elle pêche. Malgré les différences entre les deux groupes, ils sont tous deux unis au sein d'une même famille, ce qui leur donne un fort sentiment d'unité."
+ hai_raven_and_eagle:0 "Le Corbeau et l'Aigle"
+ hai_raven_and_eagle_desc:0 "La vie sociale d'Haida est largement divisée en deux moitiés : le Corbeau et l'Aigle. La fraction d'une famille détermine le côté du village où elle vit, l'histoire qu'on lui enseigne et l'endroit où elle pêche. Malgré les différences entre les deux groupes, ils seraient unis au sein des familles, ce qui leur confère un fort sentiment d'unité."
+ hai_whaling_chiefs:0 "Chefs Baleiniers"
+ hai_whaling_chiefs_desc:0 "La chasse à la baleine fait partie de l'économie des Hiada depuis des millénaires, depuis que leurs lointains parents ont atteint le Nord-Ouest du Pacifique. Les Chefs Baleiniers ('haw'iih') détiennent le pouvoir économique et social au sein de la nation, et les chefs qui réussissent commandent une grande vénération pour leurs succès lors des expéditions de chasse. Selon d'anciennes traditions, ces Chefs Baleiniers peuvent même communiquer avec les baleines dans le monde des esprits, ce qui permet de les localiser et de les chasser."
 
   #SLE
  bomb_station_02:0 "B.O.M.B. Station 002"
@@ -190,6 +199,9 @@
   #COW
  cow_remnants_of_rangers:0 "Restes des Arizona Rangers"
  cow_remnants_of_rangers_desc:0 "Les Arizona Rangers, qui se sont engagés à protéger les personnes vulnérables contre ceux qui cherchent à les soumettre, se battent depuis dix ans contre la Légion de Caesar et ses soldats au cerveau lavé. Alors que les Rangers étaient bien entraînés et armés jusqu'aux dents, face au nombre écrasant de la Légion, ils ont été lentement contraints d'abandonner de plus en plus de territoire. Après leur défaite face au Légat Malpais en 2271, la plupart de ce qui restait des Rangers d'Arizona s'est enfui par le Colorado pour rejoindre la Nouvelle République de Californie. Un petit groupe choisit plutôt de fuir vers le sud pour rejoindre le dernier groupe de colonies libres en Arizona, surnommé \"Cowboy Country\". Bien qu'il reste bien trop peu de Rangers pour que le groupe puisse revendiquer le leadership sur la région, leur formation militaire et leur expertise en matière de spec-ops ont un impact significatif sur le Cowboy Country."
+ cow_reformed_corps:0 "Le corps des Rangers réformé"
+ cow_reformed_corps_desc:0 "Les Rangers de l'Arizona, qui se sont engagés à protéger les personnes vulnérables contre ceux qui cherchent à les soumettre, ont mené un conflit de dix ans contre la Légion de Caesar et ses soldats ayant subi un lavage de cerveau. Bien que les Rangers soient bien entraînés et armés jusqu'aux dents, face au nombre écrasant de la Légion, ils ont été lentement contraints d'abandonner de plus en plus de territoires. Après leur défaite face au Légat de Malpais en 2271, la plupart de ce qui restait des Rangers d'Arizona ont fui par le Colorado pour rejoindre la République de Nouvelle-Californie. Un petit groupe a préféré fuir vers le sud, vers le dernier groupe de colonies libres en Arizona, affectueusement surnommé \"le pays des cow-boys\", mais nous ne pouvions pas nous cacher éternellement de la Légion. Ils sont venus nous chercher une fois de plus, mais nous avons réussi à les repousser et à reconquérir le nom des Rangers d'Arizona."
+ form_arizona_rangers_tt:0 "Nous obtenons des §Yrevendications§! sur tous les états de §Ol'Arizona§!.\n\n"
  cow_bastion_of_liberty:0 "Dernier Bastion de la Liberté en Arizona"
  cow_bastion_of_liberty_desc:0 "La Légion a envahi l'Arizona, et menace la vie et la liberté de tous ceux dont elle revendique la suprématie. Alors que de nombreux réfugiés ont réussi à fuir les armées de la Légion, beaucoup d'autres sont devenus les esclaves des hommes de Caesar. Nous ne devons pas laisser cela arriver aux hommes et aux femmes du Pays des Cowboys : quel qu'en soit le prix."
 
