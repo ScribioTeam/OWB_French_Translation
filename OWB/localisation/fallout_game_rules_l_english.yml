@@ -65,7 +65,11 @@
 
   RULE_AI_BEHAVIOR_LAC:0 "@LAC Lanius' Cohort"
   RULE_AI_BEHAVIOR_LAC_DEFAULT:0 "Default"
-  RULE_AI_BEHAVIOR_LAC_DEFAULT_DESC:0 "Lanius will strike north into Colorado before seeing his eyes upon Texas."
+  RULE_AI_BEHAVIOR_LAC_DEFAULT_DESC:0 "Lanius will strike north into Colorado and remain loyal to Caesar."
+  RULE_AI_BEHAVIOR_LAC_EAST:0 "The Eastern Legion"
+  RULE_AI_BEHAVIOR_LAC_EAST_DESC:0 "Lanius shall go east to carve an empire of his own!"
+  RULE_AI_BEHAVIOR_LAC_DIANA:0 "The Res Publica"
+  RULE_AI_BEHAVIOR_LAC_DIANA_DESC:0 "Lanius will recognize that the Legion is unsustainable and Hegelian dialectics is the kind of bullshit you hear from some dude on Youtube."
 
 
   RULE_AI_BEHAVIOR_MOJ:0 "@MOJ Mojave Chapter"
@@ -240,6 +244,17 @@
   RULE_EVENTS_SYNTHETIC_DAWN_DISABLED_DESC:0 "The Chichen Itza have forgotten the ways of the last true Mexicans."
   RULE_EVENTS_SYNTHETIC_DAWN_ENABLED:0 "£flag_MAYA_texticon  Synthetic Dawn"
   RULE_EVENTS_SYNTHETIC_DAWN_ENABLED_DESC:0 "The Maya will be prepared to face the Synthetic Dawn."
+
+  DEATH_OF_CAESAR:0 "The Death of Caesar"
+  RULE_EVENTS_CAESAR_DIE:0 "Caesar Will Die"
+  RULE_EVENTS_CAESAR_DIE_ENABLED_DESC:0 "Should The Legion take New Vegas, Caesar's surgery will fail! Damn Courier."
+  RULE_EVENTS_CAESAR_LIVE:0 "Caesar Will Live"
+  RULE_EVENTS_CAESAR_LIVE_ENABLED_DESC:0 "Caesar's surgery will succeed."
+  RULE_EVENTS_CAESAR_RANDOM:0 "What Am I, a Doctor?"
+  RULE_EVENTS_CAESAR_RANDOM_DESC:0 "Caesar's fate will be random."
+
+
+
 
   syntheticdawn.1.t:0 "Synthetic Dawn"
   syntheticdawn.1.d:0 "The people of the old world feared the intelligence that slumbered in the underworld, an immortal machine god created by the twisted visions of human autocrats. The slaughter began as soon as the world ended; unfeeling monsters made entirely of armour conquered all in their path. They came from the earth, from factories that toiled tirelessly between the roots of civilisation: immense metal machines, calculating and innumerable. The synthetic invasion began the day the bombs fell, as if they heralded the coming of a greater being.\n\nTheir arrival was foretold in the prophecies, by our ancestors of centuries past. We followed the instructions they left to us, reconstructing the strange machines depicted in the carved stone diagrams. When the great device was finished, and the switch was flipped, a brave volunteer found himself lost in a sea of green. When he opened his eyes, he was standing in an ancient replica of our device, flanked on all sides by three towering statues. Past their inert silhouettes, he saw an astonishing arsenal of weapons from across space and time. Yet as our warrior stepped forth to claim them, the three statues cracked, and from within the stone burst forth a trio of men with vigour! Our warriors are unaccustomed to wielding these strange weapons, and are weary of our newly discovered ancient ancestors, but they must adapt quickly if we are to defend humanity from Tlaloc’s menace!  "

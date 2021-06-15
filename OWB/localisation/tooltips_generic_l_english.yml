@@ -28,3 +28,9 @@
 
   #Scavenging Tooltips
   rescue_team_send:0 "Has sent a rescue team out."
+
+  #Goverment Removal cost tooltip
+  remove_cost_tooltip:0 "\nThis idea costs a additional §R[?removal_cost]§! £pol_power to remove or switch from it to another idea.\n"
+
+  #Tooltip for air equipment production cost issues
+  air_tech_production_cost_tt:0 "§RThe production costs of this equipment will double in the production screen upon researching it this is to trick the AI into researching plane tech.§!"

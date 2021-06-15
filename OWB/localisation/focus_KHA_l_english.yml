@@ -351,6 +351,7 @@
 
   KHA_focus_utah_client_states:0 "Create Tributary States in Utah"
   KHA_focus_utah_client_states_desc:0 "We will be severely overextended if we reach our territory into Utah proper, and so we should seek to create tributary states amongst local tribes and settlements."
+  KHA_tributary_effect_tt:0 "This focus has several outcomes:\n\nIf you own all the core lands of the of the §YSorrows§!, §YTimekeepers§!, or §YTar Walkers§! you will §GPuppet§! them directly.\n\nOtherwise you will gain §YWargoals§! on any nation that owns their core land you don't own. \n\nIf the §YSorrows§!, §YTimekeepers§!, or §YTar Walkers§! are in a faction with you they will become your §Gpuppet§!.\n\nOtherwise you will gain a §RPuppet wargoal§! against them."
 
   KHA_focus_raise_new_wht_hosts:0 "Raise White Leg Hosts"
   KHA_focus_raise_new_wht_hosts_desc:0 "Many tribals of the White Legs are not fanatical followers of either Caesar or the Mormons. Indeed, many are willing to serve any master on the promise of loot and glory. They'll make easy recruits."

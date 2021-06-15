@@ -8,12 +8,15 @@
   neutrality_owb:0 "Neutrality"
   neutrality_owb_desc:0 ""
 
+  # SUN
   sun_victors_against_pallus:0 "Victors Against Paullus"
   sun_victors_against_pallus_desc:0 "Paullus was seen as unstoppable before he tried to run his cohorts into Sun Dogs territory. The Centurion's chariots passed through a narrow mountain passage - feeling themselves invincible after their previous victories.\nA short, if decisive battle would follow - Gold-hound proving to Paullus that Colorado was out of his reach. Even today the legacy of Paullus's failed invasion still lingers in the minds of the Sun Dogs - the tribe having reversed engineered the Legionary chariots - making them their own!"
 
-  #########
-  ##### UFO
-  #########
+  ##########################
+  ##### UNIQUE GENERIC IDEAS
+  ##########################
+
+  #UFO
 
   zetan:0 "Zetans!"
   zetan_desc:0 "Highly advanced, otherworldly entities with abilities which might as well be magic to the occupants of the wasteland."
@@ -33,6 +36,10 @@
   chains_across_the_rivers:0 "Chains Across the River"
   chains_across_the_rivers_desc:0 "By draping submerged iron chains across the various rivers that weave through the marshes of Louisiana, we can entangle traders that attempt to explore routes west of the Mississippi. By raiding the stranded vessels, we can gain a huge variety of materials that would otherwise be much more scarce."
 
+  ### TLT
+  river_trade:0 "The Mighty Mississippi"
+  river_trade_desc:0 "The Mississippi is the heart of the Midwest's trade, ferrying goods from the Queen's court, the Pharaohs of Memphis, and Chicago to the steaming ports of the Caribbean. Only stands to reason [TLT.GetName] can make a cap or two on it."
+
   #SYN
   syilx_council_of_eight:0 "The Council of Eight"
   syilx_council_of_eight_desc:0 "The Syilx Nation is governed by the Chiefs Executive Council, composed of the seven Nation Chiefs and the Coleville Confederated Tribes' Chairman of the Nation. The Council holds regular meetings to decide on areas of concern and and works to protect the Nation's people, land, and resources."
@@ -40,8 +47,10 @@
   syilx_captikwl_desc:0 "captíkwł are teachings about Sylix principles, customs, values, laws and structures that inform the responsibilities and rights of the Sylix to their land. They serve as both natural laws and part of a cultural renewal and revitalization process. The laws teach the Syilx people how to survive in their lands, and are passed on to each young person in the Nation."
 
   #HAI
-  haida_raven_and_eagle:0 "The Raven and the Eagle"
-  haida_raven_and_eagle_desc:0 "Haida social life is broadly split by two moieties: the Raven and the Eagle. A family's moiety dictates which side of a village they live on, the history they are taught, and where they fish. Despite the differences between the two groups, both would be united within families, providing a strong sense of unity between the two."
+  hai_raven_and_eagle:0 "The Raven and the Eagle"
+  hai_raven_and_eagle_desc:0 "Haida social life is broadly split by two moieties: the Raven and the Eagle. A family's moiety dictates which side of a village they live on, the history they are taught, and where they fish. Despite the differences between the two groups, both would be united within families, providing a strong sense of unity between the two."
+  hai_whaling_chiefs:0 "Whaling Chiefs"
+  hai_whaling_chiefs_desc:0 "Hunting for whales has long been part of Hiada's economy for millennia, ever since their distant relatives first reached the Pacific Northwest. Whaling Chiefs ('haw’iih') hold economic and social power within the Nation, and successful chiefs command great reverence for their successes on hunting expeditions. According to ancient traditions, these Whaling Chiefs can even connect to Whales in the spirit world, allowing them to be located and hunted."
 
   #SLE
   bomb_station_02:0 "B.O.M.B. Station 002"
@@ -189,7 +198,10 @@
 
   #COW
   cow_remnants_of_rangers:0 "Remnants of the Arizona Rangers"
-  cow_remnants_of_rangers_desc:0 "The Arizona Rangers, pledged to protecting the vulnerable from those who sought to subjugate them, have been fighting a decade-long conflict with Caesar's Legion and his brainwashed soldiers. While the Rangers were well trained and armed to the teeth, in the face of the Legion's overwhelming numbers they have been slowly forced to abandon more and more territory. After their defeat by the Malpais Legate in 2271, most of what remained of the Arizona Rangers fled over the Colorado to  join the New California Republic. A small splinter chose instead to flee south to the last group of free settlements in Arizona: afectionately dubbed 'Cowboy Country'. While far too few Rangers remain for the group to claim leadership over the area, their military training and spec-ops expertise has a significant impact on the Cowboy Country."
+  cow_remnants_of_rangers_desc:0 "The Arizona Rangers, pledged to protecting the vulnerable from those who sought to subjugate them, have been fighting a decade-long conflict with Caesar's Legion and his brainwashed soldiers. While the Rangers were well trained and armed to the teeth, in the face of the Legion's overwhelming numbers they have been slowly forced to abandon more and more territory. After their defeat by the Malpais Legate in 2271, most of what remained of the Arizona Rangers fled over the Colorado to join the New California Republic. A small splinter chose instead to flee south to the last group of free settlements in Arizona: affectionately dubbed 'Cowboy Country'. While far too few Rangers remain for the group to claim leadership over the area, their military training and spec-ops expertise has a significant impact on the Cowboy Country."
+  cow_reformed_corps:0 "The Reformed Ranger Corps"
+  cow_reformed_corps_desc:0 "The Arizona Rangers, pledged to protecting the vulnerable from those who sought to subjugate them, have been fighting a decade-long conflict with Caesar's Legion and his brainwashed soldiers. While the Rangers were well trained and armed to the teeth, in the face of the Legion's overwhelming numbers they have been slowly forced to abandon more and more territory. After their defeat by the Malpais Legate in 2271, most of what remained of the Arizona Rangers fled over the Colorado to join the New California Republic. A small splinter chose instead to flee south to the last group of free settlements in Arizona: affectionately dubbed \"Cowboy Country\", but we couldn't hide from the Legion forever. Now they've come for us once more, but we've managed to push them back and reclaim the Arizona Ranger name once more."
+  form_arizona_rangers_tt:0 "We gain §Yclaims§! on every state in §OArizona§!.\n\n"
   cow_bastion_of_liberty:0 "Arizona's Last Bastion of Liberty"
   cow_bastion_of_liberty_desc:0 "The Legion has overrun Arizona, and threatens the life and liberty of everyone it claims overlordship over. While many refugees managed to flee from the Legion's armies, many more became slaves to Caesar's men. We must not let this happen to the men and women of the Cowboy Country: no matter the cost."
 

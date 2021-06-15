@@ -385,7 +385,7 @@
   #nf_caf.6.d:0 "Aztlan has always been one of our biggest customers for our coffee sales, but sometimes even we can be surprised by the demand they have. Our trade caravans have returned laden with Aztlan riches, and merchants from the empire have already begun placing hold orders for the next caravan."
 
   nf_caf.8.t:0 "An Altered Agreement"
-  nf_caf.8.d:0 "Upon arrival in Tehuacan, our Aztlan buyers decided to conveniantly inform us that they were incapable of paying the agreed price for our product, evidently hoping to scam our traders. Things were about to get heated when one of the traders offered Aztlan military surplus as a substitute, to make up for the shortfall."
+  nf_caf.8.d:0 "Upon arrival in Tehuacan, our Aztlan buyers decided to conveniently inform us that they were incapable of paying the agreed price for our product, evidently hoping to scam our traders. Things were about to get heated when one of the traders offered Aztlan military surplus as a substitute, to make up for the shortfall."
   nf_caf.8.a:0 "....Thanks? I guess?"
 
   nf_caf.9.t:0 "Account Closed"
@@ -393,7 +393,7 @@
   nf_caf.9.a:0 "A loss is a loss."
   nf_caf.9.b:0 "A discount should convince them."
   nf_caf.9.c:0 "Sweeten the deal."
-  caf_remove_order_FROM_tt:0 "[event_cancellor.GetName] cancels their account with us."
+  caf_remove_order_FROM_tt:0 "[?event_cancellor.GetName] cancels their account with us."
 
   nf_caf.12.t:0 "Order Reduced"
   nf_caf.12.d:0 "Due to some financial difficulties, [FROM.GetName] has decided to reduce their order from us for the time being. In the future we should be able to win them back with some new blends or cutting a deal. Thier account standing is in the attached report\n\n\n\n\nAccount: §G[FROM.GetName]§!\n  Blend: §o[FROM.GetBlendName]§!\n\n    Amount: [?FROM.caf_shipment_recieved_amount|0c] kilos \n    Payment Amount: [?FROM.caps_to_caf|=+2][GetCapTxt] \n    Date Account Opened: [?FROM.caf_date_account_opened.GetDateStringNoHourLong]"
