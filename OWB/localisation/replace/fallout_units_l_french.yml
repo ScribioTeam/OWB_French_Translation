@@ -4,7 +4,7 @@
  category_army:0 "Armée"
  category_front_line:0 "Pelotons de première ligne"
  category_demolitions:0 "Démolitions"
- category_fireteams:0 "Équipes de feu"
+ category_fireteams:0 "Équipes d'appui feu"
  category_robots:0 "Robots"
  category_super_mutants:0 "Super mutant"
  category_mutants:0 "Mutants"
@@ -69,8 +69,8 @@
  police_infantry_short:0 "Observateurs"
  police_infantry_desc:0 ""
 
- fireteam_infantry:0 "Peloton de feu"
- fireteam_infantry_short:0 "Equipe de feu"
+ fireteam_infantry:0 "Peloton d'appui feu"
+ fireteam_infantry_short:0 "Appui feu"
  fireteam_infantry_desc:0 ""
 
  demolitions_infantry:0 "Peloton de démolition"
@@ -101,11 +101,11 @@
  power_armour_short:0 "Bataillon d'Armure Assistée"
  power_armour_desc:0 "Une unité d'infanterie équipée d'Armures Assistées. Leurs armures peuvent fournir un avantage énorme en combat en ajoutant plus de résistance aux attaques en douceur. Le coût de production de ce type d’armure augmente le coût des unités d’infanterie, mais peut fournir une bien meilleure utilisation des ressources humaines."
 
- power_armour_fireteam_infantry:0 "Peloton de Fireteam motorisé"
- power_armour_fireteam_infantry_short:0 "Fireteam Armure Assistée"
+ power_armour_fireteam_infantry:0 "Peloton d'appui feu en Armure Assistée"
+ power_armour_fireteam_infantry_short:0 "Appui feu AA"
  power_armour_fireteam_infantry_desc:0 ""
 
- power_armour_demolitions_infantry:0 "Peloton de démolitions motorisées"
+ power_armour_demolitions_infantry:0 "Peloton de démolitions en Armure Assistée"
  power_armour_demolitions_infantry_short:0 "Démolitions AA"
  power_armour_demolitions_infantry_desc:0 ""
 
@@ -233,8 +233,8 @@
  power_armour_support_short:0 "Support d'Armure Assistée"
  power_armour_support_desc:0 "Une unité d'infanterie équipée d'une armure assistée. Leur armure peut fournir un avantage énorme au combat en ajoutant plus de résistance aux attaques légères. Le coût de production de telles armures augmente le coût des unités d'infanterie mais peut permettre une utilisation bien meilleure des ressources en main-d'œuvre"
 
- fireteam_support:0 "Équipe de feu Support"
- fireteam_support_short:0 "Équipe de feu"
+ fireteam_support:0 "Équipe d'appui feu de Soutien"
+ fireteam_support_short:0 "Appui feu"
  fireteam_support_desc:0 ""
 
  anti_air_support:0 "Anti Air Support"
@@ -245,11 +245,11 @@
  demolitions_support_short:0 "Démolitions"
  demolitions_support_desc:0 ""
 
- power_armour_fireteam_support:0 "Équipe de feu de soutien motorisée"
- power_armour_fireteam_support_short:0 "Fireteam AA"
+ power_armour_fireteam_support:0 "Équipe de d'appui feu en Armure Assisté"
+ power_armour_fireteam_support_short:0 "Appui feu AA"
  power_armour_fireteam_support_desc:0 ""
 
- power_armour_demolitions_support:0 "Assistance à la démolition motorisée"
+ power_armour_demolitions_support:0 "Démolition en Armure Assisté"
  power_armour_demolitions_support_short:0 "Démolitions AA"
  power_armour_demolitions_support_desc:0 ""
 
