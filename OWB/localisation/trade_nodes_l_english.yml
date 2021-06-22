@@ -112,7 +112,6 @@ l_english:
   string_trade_node_get_route_three:0 "\nFirst route to: §Y[?temp_trade_node_1.GetName]§! \nSecond route to: §Y[?temp_trade_node_2.GetName]§! \nThird route to: §Y[?temp_trade_node_3.GetName]§!"
 
   TRADE_ROUTE_BUTTON_MAX_TOOLTIP:0 "Route from §Y[?node_map_selector.GetName]§! not in use"
-  AVAILABLE_COUNTRY_TRADE_SLOTS:0 "Route from §ynode§! not in use"
   TRADE_ROUTE_BUTTON_MAX_COUNTRY_TOOLTIP:0 "Must have less routes in country than cap [GetTradeCountryLimitCalculation]"
   AVAILABLE_COUNTRY_TRADE_SLOTS:0 "\nCurrent Country Route Limit: [?temp_num_nodes|0+]\n Current Routes: [?ROOT.current_trade_routes|0+]"
   SEND_TRADE_NODE_BUTTON_TRIGGER_TT:0 "No current route between [?node_map_selector.GetName] and [?trade_route_selector_target.GetName]"

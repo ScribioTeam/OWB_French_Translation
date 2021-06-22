@@ -74,8 +74,6 @@
   caf_trade_ocean_idea:0 "River Primacy"
   caf_refueling_hulks_idea:0 "Floating Fuel Depos"
 
-  CAF_flagship:0 "The Flagship"
-
   caf_itz_embargo_idea:0 "Economic Embargo"
   caf_ate_embargo_idea:0 "Economic Embargo"
 
@@ -563,7 +561,6 @@
 
   drug_technology_coffee_2:0 "Raider Roast Blend"
   drug_equipment_coffee_2_desc:0 ""
-  drug_equipment_coffee_desc:0 ""
 
   ### Scripted Loc
   caf_blend_1_name:0 "Coffea Arabica - Original"

@@ -471,12 +471,6 @@
   followers_system_toggle_enabled_global_flag:0 "Followers System is Enabled"
   owb_allow_achievements_enabled_global_flag:0 "Old World Blues Achievement System is Enabled"
 
-  RULE_EVENTS_SPAWN_APRIL_ELITE:0 "The Gary Incident (April fools 2021)"
-  RULE_EVENTS_SPAWN_APRIL_ELITE_ENABLED:0 "Enabled"
-  RULE_EVENTS_SPAWN_APRIL_ELITE_ENABLED_desc:0 "This will enable the Gary incident"
-  RULE_EVENTS_SPAWN_APRIL_ELITE_DISABLED:0 "Disabled"
-  RULE_EVENTS_SPAWN_APRIL_ELITE_DISABLED_desc:0 "This will disable the Gary incident"
-
   RULE_UNIT_LOGGER_NAME:0 "Debug Unit logger"
   RULE_UNIT_LOGGER_ENABLED:0 "Enabled"
   RULE_UNIT_LOGGER_ENABLED_DESC:0 "Enable debug logging of techs for units."

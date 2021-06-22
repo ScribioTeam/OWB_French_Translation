@@ -19,8 +19,8 @@
     tt_lac_recruit_2:0 "Our new commander will bring troops to assimilate into our ranks, but our military will need time to adjust."
     tt_lac_recruit_3:0 "§RA new cohort and commander will be enlisted, utilising their old tactics, which will greatly upset our Legionnaires.§!"
 
-    tt_lac_choose_tribute:0 "Giving Tribute to Caesar brings Glory but little else."
+    tt_lac_choose_tribute:0 "Giving Tribute to [CES.GetLeader] brings Glory but little else."
     tt_lac_ces_tribute:0 "Lanius has fulfilled his obligations, and so must we."
 
-    tt_lac_choose_demand:0 "Demanding a Triumph from Caesar, in return for our Tribute, provides Glory and riches galore."
+    tt_lac_choose_demand:0 "Demanding a Triumph from [CES.GetLeader], in return for our Tribute, provides Glory and riches galore."
     tt_lac_ces_triumph:0 "Lanius demands are reasonable, but troubling: his Triumph will be scheduled, §Rbut we should keep an eye on him.§!"
