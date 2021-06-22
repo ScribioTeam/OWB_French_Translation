@@ -604,12 +604,12 @@
  long_cas_equipment_short:0 "CAS à longue portée"
  long_cas_equipment_desc:0 ""
 
-  cas_equipment_1:0 "Triplane Attacker"
-  cas_equipment_1_short:0 "Triplane Attacker"
+  cas_equipment_1:0 "Triplan"
+  cas_equipment_1_short:0 "Triplan"
   cas_equipment_1_desc:0 "Les triplans, par rapport aux biplans, augmentent la capacité de charge de nos moyens aériens. L'intégration d'une telle conception dans notre armée de l'air permet la fabrication d'actifs CAS, armés d'un seul canon de 37 mm chargé à la main, combiné à un pylône sous le fuselage pour une bombe explosive de 250 livres de haut. Une position de tir orientée vers l'arrière, équipée d'une mitrailleuse refroidie à l'eau, permet à nos triplans de se défendre contre les menaces aériennes."
 
-  cas_equipment_2:0 "Monoplane Attacker"
-  cas_equipment_2_short:0 "Monoplane Attacker"
+  cas_equipment_2:0 "Monoplan"
+  cas_equipment_2_short:0 "Monoplan"
   cas_equipment_2_desc:0 "En fournissant un blindage léger sous la forme d'un cockpit en verre pare-balles, et un placage mince dans l'arc frontal, laissez notre soutien au sol continuer leur tâche sous le feu AA. Une soute à bombes interne pour les explosifs légers et deux pylônes externes pour les charges utiles lourdes les rendent plus polyvalents, tandis qu'une disposition interne de quatre mitrailleuses et d'une mitrailleuse lourde arrière accroît nos capacités défensives contre les intercepteurs."
 
   cas_equipment_3:0 "Avion à réaction"
@@ -628,16 +628,16 @@
   vb_gunship_equipment_short:0 "VB-02 Bataillon d'artillerie"
   vb_gunship_equipment_desc:0 ""
 
-  hev_cas_equipment_2:0 "Poussoir de mise à la terre"
-  hev_cas_equipment_2_short:0 "Poussoir de mise à la terre"
- hev_cas_equipment_2_desc:0 "Les avions lourds CAS peuvent fournir un meilleur soutien au sol, au détriment de l'agilité et de l'augmentation du tonnage. Le remplacement de nos mitrailleuses moyennes par deux variantes plus lourdes, modifiées à partir d'un développement automatique de notre conception de fusil antichar, augmentera considérablement nos capacités de perçage contre la cible dure et notre puissance de feu contre les cibles molles."
+  hev_cas_equipment_2:0 "Avion Appui Rapproché Lourd"
+  hev_cas_equipment_2_short:0 "Avion Appui Rapproché Lourd"
+  hev_cas_equipment_2_desc:0 "Les avions lourds CAS peuvent fournir un meilleur soutien au sol, au détriment de l'agilité et de l'augmentation du tonnage. Le remplacement de nos mitrailleuses moyennes par deux variantes plus lourdes, modifiées à partir d'un développement automatique de notre conception de fusil antichar, augmentera considérablement nos capacités de perçage contre la cible dure et notre puissance de feu contre les cibles molles."
 
-  hev_cas_equipment_3:0 "Interdiction Jet Striker"
-  hev_cas_equipment_3_short:0 "Interdiction Jet Striker"
- hev_cas_equipment_3_desc:0 "While a six-barrelled autocannon is already a good weapon for ground attack runs, we can still add more. Strengthening two of the wing pylons will let us arm our jet attackers with 37mm automatic gunpods for even greater armour-piercing capabilities."
+  hev_cas_equipment_3:0 "Jet Striker d'Interception"
+  hev_cas_equipment_3_short:0 "Jet Striker d'Interception"
+  hev_cas_equipment_3_desc:0 "Si un canon automatique à six canons est déjà une bonne arme pour les attaques au sol, nous pouvons encore en ajouter. Le renforcement de deux des pylônes d'aile nous permettra d'armer nos avions à réaction avec des canons automatiques de 37 mm pour des capacités de perçage de blindage encore plus grandes."
 
-  hev_cas_equipment_4:0 "Annihilateur blindé"
-  hev_cas_equipment_4_short:0 "Annihilateur blindé"
+  hev_cas_equipment_4:0 "Annihilateur de Blindés"
+  hev_cas_equipment_4_short:0 "Annihilateur de Blindés"
   hev_cas_equipment_4_desc:0 "Le remplacement de l'autocanon rotatif central par un canon automatique à deux canons de 57 mm augmentera massivement la puissance de feu de nos attaquants nucléaires, nous permettant de percer les chars ennemis beaucoup plus facilement et de détruire les formations ennemies avec des obus à fragmentation."
 
   car_cas_equipment_2:0 "Striker naval"
