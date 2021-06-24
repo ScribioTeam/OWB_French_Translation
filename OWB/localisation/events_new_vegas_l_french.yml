@@ -94,13 +94,13 @@
  nf_vegas.20.a:0 "Le robot est dangereux, tuez-le. Interrogez le coursier."
  nf_vegas.20.b:0 "Une technologie avancée du Nevada ? Le péquenaud peut être libre."
 
- nf_vegas.201.t:9 "La Confrérie rejette !"
- nf_vegas.201.d:9 "Confondre ! Un signal d'urgence a été envoyé depuis le signal de détresse automatisé émis par mes sécuritrons. Mon émissaire a été sabordé par la Confrérie. Malheureusement, il semble que la livraison sera brièvement suspendue."
- nf_vegas.201.a:9 "Qu'ils aillent au diable ! Cela pourrait prendre du temps."
+ nf_vegas.201.t:0 "La Confrérie rejette !"
+ nf_vegas.201.d:0 "Confondre ! Un signal d'urgence a été envoyé depuis le signal de détresse automatisé émis par mes sécuritrons. Mon émissaire a été sabordé par la Confrérie. Malheureusement, il semble que la livraison sera brièvement suspendue."
+ nf_vegas.201.a:0 "Qu'ils aillent au diable ! Cela pourrait prendre du temps."
 
- nf_vegas.202.t:9 "La Confrérie accepte !"
- nf_vegas.202.d:9 "J'ai reçu un message de mon émissaire à la Confrérie. Il semble qu'ils aient mordu à l'hameçon. Par conséquent, le Courrier a été libéré. Il devrait arriver dans moins d'une semaine."
- nf_vegas.202.a:9 "Ils ont fait le bon choix."
+ nf_vegas.202.t:0 "La Confrérie accepte !"
+ nf_vegas.202.d:0 "J'ai reçu un message de mon émissaire à la Confrérie. Il semble qu'ils aient mordu à l'hameçon. Par conséquent, le Courrier a été libéré. Il devrait arriver dans moins d'une semaine."
+ nf_vegas.202.a:0 "Ils ont fait le bon choix."
 
  nf_vegas.21.t:0 "Paladins du désert"
  nf_vegas.21.d:0 "Nos alliés à New Vegas ont proposé une guerre commune contre les raiders qui peuplent le pays. En échange de la promesse de protéger les passages dans le Mojave, New Vegas nous soutiendra dans une bataille pour sécuriser le Mojave du Sud pour la Confrérie une fois pour toutes."

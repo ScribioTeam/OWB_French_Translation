@@ -430,8 +430,8 @@
  gulf_conference_military:0 "Gulf Military Deals"
  gulf_conference_economy:0 "Gulf Economic Deals"
 
- cartel_complete_control_idea:9 "Complete Political Control"
- cartel_complete_control_idea_desc:9 "Completel control of internal politics."
+ cartel_complete_control_idea:0 "Complete Political Control"
+ cartel_complete_control_idea_desc:0 "Completel control of internal politics."
 
 
   ###DECISIONS
@@ -521,7 +521,7 @@
  nf_cartel.6.t:0 "23rd Century Innovation"
  nf_cartel.6.d:0 "Our accumulated efforts to redesign, appropriate, and outright steal the technology of the wasteland has given us a technological catchup to the 23rd century. But if we are to go further, we need to decide what to focus our own domestic research on."
  nf_cartel.6.a:0 "Let's get Lasers!"
- nf_cartel.6.b:9 "We need to support our infantry detachments."
+ nf_cartel.6.b:0 "We need to support our infantry detachments."
  nf_cartel.6.c:0 "A better grasp of industry is paramount."
 
  nf_cartel.7.t:0 "Cartel Barges on the Fuerte!"
@@ -653,7 +653,7 @@
  nf_cartel.33.a:0 "Well that's a bit awkward."
 
  nf_cartel.34.t:0 "From Our Syndicate to Yours"
- nf_cartel.34.d:9 "What do you give someone who has everything? As the undisputed rulers of Sinaloa, it's a hard task to find something that'd spark the interest of the cartel. Already enured to a panoply of luxurious narcotics, and mostly disinterested in carnal pleasures due to skincare-related chafing, there's little that a druglord wants that they don't already have. Still, it's the thought that counts. "
+ nf_cartel.34.d:0 "What do you give someone who has everything? As the undisputed rulers of Sinaloa, it's a hard task to find something that'd spark the interest of the cartel. Already enured to a panoply of luxurious narcotics, and mostly disinterested in carnal pleasures due to skincare-related chafing, there's little that a druglord wants that they don't already have. Still, it's the thought that counts. "
  nf_cartel.34.a:0 "Perhaps the Bandit could use some English lessons?"
  nf_cartel.34.b:0 "Nothing shows you care like a firearm."
  nf_cartel.34.c:0 "Perhaps the Queen could be 'reunited' with an old friend."
@@ -713,7 +713,7 @@
 
  nf_cartel.44.t:0 "Gente Refuses!"
  nf_cartel.44.d:0 "Our envoy to Gente del Sol has returned with disappointing news: Gente has refused to join any alliance under our leadership."
- nf_cartel.44.a:9 "What a shame."
+ nf_cartel.44.a:0 "What a shame."
 
  nf_cartel.45.t:0 "Dealing with the Devil"
  nf_cartel.45.d:0 "The cartel influence in our nation has become a bit of an unwelcome, yet common phenomenon. However, it cannot be denied that their presence has provided opportunities for a not-insignificant profit. Perhaps seeking to capitalise on this, the Cartels have approached us directly, offering attractive market opportunities, military support, and the reduction of 'unpleasant' operations, in return for a pact of friendship and guarantee of protection and non-interference in cartel activities. Accepting this deal would mean effectively giving them free reign in our nation, but the reward would be a tidy profit."
