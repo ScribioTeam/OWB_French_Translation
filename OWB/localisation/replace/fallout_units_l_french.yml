@@ -20,7 +20,6 @@
  category_combat_support:0 "Unité d'appui feu"
  category_non_combat_support:0 "Unités de soutien non combattant"
  category_behemoth:0 "Behemoths"
- category_infantry:0 "Infanterie"
 
 
  category_air_unit:0 "Tous les avions"
@@ -285,10 +284,7 @@
  chariot_unit_short:0 "Chariots"
  chariot_unit_desc:0 "Légion en avant BRRRRRRRRRR"
 
- forward_firebase_support:0 "Base de tir avancée"
- forward_firebase_support_short:0 "Base de tir"
  forward_firebase_support_desc:0 "Des positions renforcées, semi-mobiles, qui permettront de tenir la ligne beaucoup plus facilement."
-
  monster_support:0 "Soutien Mutant du Colorado"
  monster_support_desc:0 ""
 

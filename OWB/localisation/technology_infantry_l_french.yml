@@ -81,6 +81,12 @@
  wasteland_pa_tech:0 "Armure Assistée Dénudée"
  wasteland_pa_tech_desc:0 ""
 
+ weight_support_frame_pa_tech_1:9 "Cadre de support de l'Armure Assistée"
+ weight_support_frame_pa_tech_1_desc:9 ""
+
+ weight_support_frame_pa_tech_2:9 "Durcissement de l'Armure Assistée"
+ weight_support_frame_pa_tech_2_desc:9 ""
+
  scav_pa_tech:0 "Armure assistée récupérée"
  scav_pa_tech_desc:0 "Le pauvre homme, souvent concocté avec des pièces de rechange et des restes cassés. Pas aussi efficace qu'un T-45d ordinaire mais bien meilleur qu'une simple armure de métal."
 
