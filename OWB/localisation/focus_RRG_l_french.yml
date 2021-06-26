@@ -194,7 +194,7 @@
  rrg_steel_reclamation_desc:0 "En échange de l'octroi du contrôle de la Confrérie, ils ont accepté d'aider à former nos combattants, hommes, femmes et robots."
  rrg_the_rio_chapter:0 "On n'arrête pas le progrès !"
  rrg_the_rio_chapter_desc:0 "Avec le soutien de la Confrérie texane, Rosado se préparera à démanteler la TAA et à mettre à profit ses richesses."
- rrg_the_rio_chapter_tt:0 "Cela permet de se détacher de §Y[TBH.GetNamewithFlag]§ ! Cela vous donnera également un but de guerre sur la TAA."
+ rrg_the_rio_chapter_tt:0 "Cela permet de se détacher de §Y[TBH.GetNamewithFlag]§! Cela vous donnera également un but de guerre sur la TAA."
  rrg_raise_moras_militia:0 "Lever les milices"
  rrg_raise_moras_militia_desc:0 "Mora peut expédier des armes à des loyalistes au sein de la TAA. Ils se lèveront pour défendre la démocratie le moment venu !"
  rrg_economic_crackdown:0 "Répression économique"
@@ -617,7 +617,7 @@
  ################
  uses_drugs:0 "Soutient les cartels"
  guerra_merciless:0 "Guerra est §RImpitoyable§!"
- guerra_charismatic:0 "Guerra est §MCharismatique§ !"
+ guerra_charismatic:0 "Guerra est §MCharismatique§!"
  #### Discarded##
  rrg_approach_pecos:0 "Approche Pecos"
  rrg_approach_pecos_desc:0 "Pecos a depuis longtemps des liens avec Rio, et avec la menace de la Légion, ils pourraient être ouverts à une alliance plus étroite."

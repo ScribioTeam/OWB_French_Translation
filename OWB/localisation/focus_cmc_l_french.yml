@@ -123,5 +123,5 @@
  cmc_previous_commitments_desc:0 "[TUB.GetLeader] a passé quelques accords avec [TBH.GetName], qui ont fait tomber les Tubeheads sous leur contrôle. Les situations changent et je pense qu'il est temps de faire comprendre à tout le monde que nous sommes solidaires. Cela pourrait coûter cher à la coalition de revenir sur son contrat avec eux. Qu'il en soit ainsi."
 
  cmc_open_casino_tt:0 "Cela permettra d'augmenter le nombre de casinos pleinement opérationnels de §G1§!."
- cmc_open_roadside_tt:0 "Cela permettra d'augmenter le nombre d'attractions routières ouvertes par §G1§ !"
+ cmc_open_roadside_tt:0 "Cela permettra d'augmenter le nombre d'attractions routières ouvertes par §G1§!"
  cmc_payout_tt:0 "Vos casinos et attractions ont payé [GetCapTxt] [?payout_total|+=]k [GetCapType] au cours du dernier trimestre.\n"

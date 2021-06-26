@@ -45,4 +45,4 @@
  local_required_required_infrastructure_for_coring:0 "Infrastructure locale requise pour la Conversion"
 
   # Scripted effects
- decrease_coring_cost_for_prev_cores:0 "Obtenez une réduction permanente [?core_cost_var|%G0] des coûts de rendre cœur de chaque §Y[PREV.GetNameDef]§ ! état cœur possédé."
+ decrease_coring_cost_for_prev_cores:0 "Obtenez une réduction permanente [?core_cost_var|%G0] des coûts de rendre cœur de chaque §Y[PREV.GetNameDef]§! état cœur possédé."

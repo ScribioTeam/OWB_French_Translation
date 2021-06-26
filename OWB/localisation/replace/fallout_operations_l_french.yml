@@ -20,7 +20,7 @@
  resistance_contacts_radio_circuits_desc:0 "L'équipe distribuera des radios aux membres de la résistance et enseignera le protocole radio de base, en particulier pour éviter que l'ennemi ne trouve des radio-directions."
 
  operation_infiltrate_civilian:0 "Corruption des dirigeants."
- operation_infiltrate_civilian_desc:0 "§LLe gouvernement [From.GetAdjective] a de nombreux points faibles par lesquels nous pourrions infiltrer un agent dans ses opérations. Cela nous donnerait un aperçu précieux des rouages internes de [From.GetNameDef] et nous donnerait l'occasion d'utiliser cet agent dans de futures opérations contre [From.GetNameDef].§ !"
+ operation_infiltrate_civilian_desc:0 "§LLe gouvernement [From.GetAdjective] a de nombreux points faibles par lesquels nous pourrions infiltrer un agent dans ses opérations. Cela nous donnerait un aperçu précieux des rouages internes de [From.GetNameDef] et nous donnerait l'occasion d'utiliser cet agent dans de futures opérations contre [From.GetNameDef].§!"
 
  operation_raid_country:0 "Raid sur le Trésor"
  operation_raid_country_desc:0 "Nous pouvons faire des raids dans les colonies de [From.GetName] pour notre propre profit."
