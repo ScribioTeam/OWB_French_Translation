@@ -94,13 +94,13 @@
   nf_vegas.20.a:0 "The robot is dangerous; kill it. Question the courier."
   nf_vegas.20.b:0 "Advanced tech from Nevada? The bumpkin can go free."
 
- nf_vegas.201.t:9 "The Brotherhood Rejects!"
- nf_vegas.201.d:9 "Confound it! An emergency signal has been sent from the automated distress signal emitted by my securitrons--my emissary has been scuttled by the Brotherhood. Unfortunately, it appears as though the delivery will be briefly suspended."
- nf_vegas.201.a:9 "Damn them! This could take some time."
+  nf_vegas.201.t:0 "The Brotherhood Rejects!"
+  nf_vegas.201.d:0 "Confound it! An emergency signal has been sent from the automated distress signal emitted by my securitrons--my emissary has been scuttled by the Brotherhood. Unfortunately, it appears as though the delivery will be briefly suspended."
+  nf_vegas.201.a:0 "Damn them! This could take some time."
 
- nf_vegas.202.t:9 "The Brotherhood Accepts!"
- nf_vegas.202.d:9 "I've received a message from my emissary to the Brotherhood. So it seems, they've taken the bait. Consequently, the Courier has been released--he ought to arrive in less than a week."
- nf_vegas.202.a:9 "They made the right choice."
+  nf_vegas.202.t:0 "The Brotherhood Accepts!"
+  nf_vegas.202.d:0 "I've received a message from my emissary to the Brotherhood. So it seems, they've taken the bait. Consequently, the Courier has been released--he ought to arrive in less than a week."
+  nf_vegas.202.a:0 "They made the right choice."
 
   nf_vegas.21.t:0 "Desert Paladins"
   nf_vegas.21.d:0 "Our allies in New Vegas have proposed a joint war against the raider scum that inhabits the land. In return for promising to protect the passages into the Mojave, New Vegas will support us in a battle to secure the Southern Mojave for the Brotherhood once and for all."
