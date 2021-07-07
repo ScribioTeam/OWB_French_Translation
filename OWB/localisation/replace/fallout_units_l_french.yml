@@ -90,7 +90,7 @@
 
  forward_firebase_support:0 "Base de tir avancée"
  forward_firebase_support_short:0 "Base de tir"
- forward_firebase_support_desc:0 "Reinforced, semi-mobile positions that will make it a lot easier to hold the line."
+ forward_firebase_support_desc:0 "Des positions renforcées, semi-mobiles, qui permettront de tenir la ligne beaucoup plus facilement."
 
  behemoth:0 "Monstre"
  behemoth_short:0 "Monstre"
@@ -276,6 +276,9 @@
  medical_chem_company_short:0 "Compagnie Médicale"
  medical_chem_company_desc:0 "Les bons hommes sont difficiles à trouver, surtout après la fin du monde. L'ajout de compagnie spécialisées transportant des équipements médicaux et pratiquant des compétences médicales de base peut au moins réduire certaines des pertes subies sur le champ de bataille."
 
+ spec_ops_horses_tech:0 "Cavaliers"
+ spec_ops_horses_tech_desc:9 ""
+
  spec_ops_cavalry:0 "Cavaliers"
  spec_ops_cavalry_short:0 "Cavaliers"
  spec_ops_cavalry_desc:0 "Qui savait que les chevaux existaient encore dans les Terres Désolées ?"
@@ -284,7 +287,6 @@
  chariot_unit_short:0 "Chariots"
  chariot_unit_desc:0 "Légion en avant BRRRRRRRRRR"
 
- forward_firebase_support_desc:0 "Des positions renforcées, semi-mobiles, qui permettront de tenir la ligne beaucoup plus facilement."
  monster_support:0 "Soutien Mutant du Colorado"
  monster_support_desc:0 ""
 
