@@ -19,7 +19,7 @@
   resistance_contacts_radio_circuits:0 "Create Radio Transistors"
   resistance_contacts_radio_circuits_desc:0 "The team will distribute radios to resistance members and teach basic radio protocol, especially with an eye towards avoiding enemy radio-direction finding."
 
-  operation_infiltrate_civilian:0 "Bribe Leadership."
+  operation_infiltrate_civilian:0 "Bribe Leadership"
   operation_infiltrate_civilian_desc:0 "§LThe [From.GetAdjective] government has numerous weakpoints through which we might infiltrate an agent into its operations. Doing so would give us valuable insight into the internal workings of [From.GetNameDef] as well as giving us an opportunity to utilize this agent in future operations against [From.GetNameDef].§!"
 
   operation_raid_country:0 "Raid The Treasury"
