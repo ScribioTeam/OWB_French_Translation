@@ -2,7 +2,7 @@
 
  #Decision Categories
  KHA_drug_trade_category:0 "Les Rois du Trafic de Drogue"
- KHA_slaver_category:0 "Décisions d'esclaves"
+ KHA_slaver_category:0 "Décisions d'Esclaves"
  KHA_diplomatic_options:0 "Diplomatie"
  KHA_drug_runner_category:0 "Envoyer les Drug Runners"
 
@@ -11,7 +11,7 @@
  KHA_drug_run_to_fiends_renewal_desc:0 "Courir aux Monstres de la Drogue"
  KHA_drugged_up:0 "Drogué"
  KHA_drugged_up_desc:0 "Distribuez des produits chimiques supplémentaires en prévision du pire, c'est difficile d'arrêter quelqu'un dans une rage provoquée par la drogue."
- KHA_sorrows_war_help:0 "Aide de Guerre des Douleurs"
- KHA_sorrows_war_help_desc:0 "Peut-être que nous avons mordu plus que nous pourrions mâcher dans notre guerre avec les Douleurs. Je suis sûr que nous pourrions soudoyer certains gangs locaux, notamment les Jambes Blanches, bien que cela nous rende plus faibles en ayant besoin d'aide."
+ KHA_sorrows_war_help:0 "Aide de Guerre des Pleureurs"
+ KHA_sorrows_war_help_desc:0 "Peut-être que nous avons mordu plus que nous pourrions mâcher dans notre guerre avec les Pleureurs. Je suis sûr que nous pourrions soudoyer certains gangs locaux, notamment les Jambes Blanches, bien que cela nous rende plus faibles en ayant besoin d'aide."
  KHA_drug_trade:0 "Envoyer les Drug Runners à [From.GetName]"
  KHA_drug_trade_desc:0 "Nous pourrions faire un joli profit en vendant tous nos chems excédentaires à [From.GetName] !"

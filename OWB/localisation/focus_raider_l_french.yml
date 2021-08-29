@@ -5,7 +5,7 @@
  gang_lifestyle:0 "Mode de vie des gangs"
  gang_lifestyle_desc:0 "Qu'il s'agisse de tuer et de mutiler, de piller, de conduire sur une route ou même de simples deals de chems, chaque gang est un jeu d'enfant. Et nous ne sommes pas différents, bien que nous allions évidemment aller beaucoup plus loin que certains agents chimiques à deux bits."
 
- gang_ambitions:0 "Ambition de gang"
+ gang_ambitions:0 "Ambition du Gang"
  gang_ambitions_desc:0 "On ne va pas rester en arrière pour toujours. Il est temps d'aller gros et de prendre ce qui devrait être nôtre. Faucons et idiots nous entourent, pourquoi ne pas simplement prendre ce que nous voulons ? Nous ferons ce que nous voulons pour eux, nous sommes des pillards et personne ne baise avec nous."
 
  new_leadership:0 "Nouveau Leader"
@@ -62,7 +62,7 @@
  terrorise_the_locals:0 "Terroriser les locaux"
  terrorise_the_locals_desc:0 "Parfois, il suffit de s'occuper de choses simples. Menacer des habitants, brûler des objets au loin, hurler dessus en tirant en l'air, cela devrait calmer ceux qui veulent être des héros. Cela va certainement aussi soulager le stress chez nos gars en attendant le prochain raid."
 
- raider_headquarters:0 "Siège du Raider"
+ raider_headquarters:0 "Siège des Raiders"
  raider_headquarters_desc:0 "Ce dont nous avons besoin, c'est d'une immense forteresse. Quelque chose qui va immédiatement faire trembler un gang rival ! Nous aurons des murs énormes, des salles entières dédiées à la production d'armes, beaucoup d'esclaves pour construire cela encore plus grand et meilleur ! Ce sera génial."
 
  territoriality:0 "Les loyautés territoriales"
@@ -86,7 +86,7 @@
  slave_scientists:0 "Asservissement de Scientifiques"
  slave_scientists_desc:0 "Écoute, tu vois ces gros cerveaux ? Eh bien oui, ils ne semblent pas beaucoup, mais peut-être, juste peut-être, ils pourraient en fait nous donner de meilleurs shooties et autres. Pourquoi ne pas les faire travailler pour nous ? Observez-les de près et voyez à quelle vitesse ils fabriquent des explosifs lorsqu'un pistolet est dirigé vers eux."
 
- slave_researchers:0 "Chercheurs d'Esclave"
+ slave_researchers:0 "Esclaves Scientifiques"
  slave_researchers_desc:0 "En ajoutant à nos scientifiques des ingénieurs \"recrutés de force\", ils devraient pouvoir travailler encore plus vite et créer encore plus de choses sympas pour nous. Imaginez, nous pourrions peut-être même avoir une arme à feu qui n'explose pas dans votre visage !"
 
  new_age_weaponry:0 "Nouveaux Jouets Brillants"
@@ -96,7 +96,7 @@
  guns_with_legs_desc:0 "Bon alors voir cette poubelle ? Eh bien, il a des armes à feu et une armure. Il ne meurt pas aussi facilement. Alors que diriez-vous que nous donnions un coup de pied devant les gens, et quand ils sont à court de munitions, nous leur explosons le cul ? Je sais, je sais, j'aurais dû être tacticien."
 
  find_the_good_stuff:0 "Le Bon Matos"
- find_the_good_stuff_desc:0 "Je ne sais pas du tout ce que c'est, mais les ingénieurs répètent sans cesse que nous en avons besoin pour fabriquer plus de poubelles, alors ... je suppose que nous le prendrons aussi ? Cela n’a jamais été le cas auparavant, mais nous n’avons jamais eu de compacteurs de déchets mobiles qui envoyaient des SMG à des personnes."
+ find_the_good_stuff_desc:0 "Je n'ai aucune idée de ce qu'est ce truc, mais les ingénieurs n'arrêtent pas de dire qu'on en a besoin pour faire plus de poubelles mobiles, alors... je suppose qu'on va le prendre aussi ? On n'a jamais fait ça avant, mais là encore, on n'a jamais eu de compacteurs d'ordures mobiles tirant sur les gens avec des SMG."
 
  shitty_robots:0 "Robots Merdiques"
  shitty_robots_desc:0 "Vous voyez toutes ces choses fantaisistes là-bas ? Pourquoi en avons-nous même besoin, cela ne fait que ralentir la production. Je ne sais même pas ce qu’est un gyroscope, ni ce que \"empêcher le robot d’entrer dans un événement nucléaire catastrophique\", mais je suis sûr que nous pouvons le transmettre. Plus d'armes à feu !"
@@ -107,47 +107,47 @@
  establish_the_slave_trade:0 "Diminution dans le Commerce des esclaves"
  establish_the_slave_trade_desc:0 "Nous devons aller chez les gars de la région, plus d’avoirs extérieurs, plus de mauvaises affaires, nous allons faire de la traite négrière et créer notre propre entreprise ! Sans rapports trimestriels et réunions ennuyeuses, et avec bien plus de chems !"
 
- drug_dealers:0 "Faire du trafic de drogue"
- drug_dealers_desc:0 "Chems, la chose ultime à utiliser dans n'importe quelle situation. Évitez simplement de dire aux gens quel type de drogue vous utilisez dans Jet. En fait ... juste ne leur parlee pas du tout de la drogue."
+ drug_dealers:0 "Faire du Trafic de Drogue"
+ drug_dealers_desc:0 "Les drogues, la chose ultime à utiliser dans n'importe quelle situation. Evitez juste de dire aux gens quel type de fumier vous utilisez dans le Jet. En fait... ne leur parlez pas du tout de la bouse."
 
  raid_workshops:0 "Vol de la Concurrence"
  raid_workshops_desc:0 "D'accord, alors au lieu de construire des objets, nous les volons ? Je veux dire, nous sommes des pillards, cela a du sens. Cela nous éviterait également des ennuis."
 
- supply_stashes:0 "Remplir la Cachette"
- supply_stashes_desc:0 "Nous avons besoin de plus en plus de choses pour alimenter notre machine chauffante, de l'eau pour les gars, des restes pour les usines, allez-y ! Continuez à penser à la nouvelle APC brillante que vous voulez et vous travaillerez encore plus fort."
+ supply_stashes:0 "Remplir la Planque"
+ supply_stashes_desc:0 "Nous avons besoin de plus en plus de choses pour alimenter notre machine de guerre, de l'eau pour les gars, de la ferraille pour les usines, allez-y ! Continuez à penser à ce brillant nouvel APC que vous voulez, et vous travaillerez encore plus dur."
 
- turn_the_lights_on:0 "Donner un coup de pied Violemment au Générateur"
- turn_the_lights_on_desc:0 "Je ne sais absolument pas pourquoi les ingénieurs répètent sans cesse que nous devons renvoyer des objets. On pourrait penser qu’ils ont besoin de soins appropriés, mais ils continuent à parler de \"maintenance percussive\". Eh bien d'accord alors, il suffit de frapper, je suppose. Ne restez pas trop près après."
+ turn_the_lights_on:0 "Donner un Coup Pied au Générateur"
+ turn_the_lights_on_desc:0 "Je n'ai absolument aucune idée de la raison pour laquelle les ingénieurs continuent de dire qu'il faut donner des coups de pied dans les trucs. On pourrait penser qu'ils ont besoin de soins appropriés, mais ils continuent à parler de \"maintenance percussive\". Bon, d'accord, donnez des coups de pied, je suppose. Mais ne vous tenez pas trop près d'elle après."
 
  terminals_for_all:0 "Réparation de Terminaux"
- terminals_for_all_desc:0 "Apparemment, les terminaux permettraient vraiment à nos têtes d'œufs d'écrire des choses plus facilement et d'aller beaucoup plus vite dans leurs recherches. Donc, je leur donne des terminaux. Tellement que vous pouvez remplir une pièce entière avec eux. Je veux juste un nouveau pistolet."
+ terminals_for_all_desc:0 "Apparemment, les terminaux permettraient à nos têtes d'œuf d'écrire des choses plus facilement et d'aller plus vite dans leurs recherches. Donc je leur ai donné des terminaux. Tellement que tu peux remplir une pièce entière avec. Je veux juste un nouveau flingue."
 
- raider_computer_logs:0 "Garder le registre"
- raider_computer_logs_desc:0 "Garder les journaux de nos précédents pillages et lire, pour changer, nous permettra de voir où la grosse baise s’est produite. Peut-être que jeter de la dynamite autour des poutres de soutien n’était pas la meilleure idée, mais nous le saurons la prochaine fois. J'espère."
+ raider_computer_logs:0 "Garder les Registres"
+ raider_computer_logs_desc:0 "Conserver les registres de nos raids précédents et les lire réellement, pour changer, nous permettra de voir où la grosse merde s'est produite. Peut-être que jeter de la dynamite autour des poutres de soutien n'était pas la meilleure idée, mais la prochaine fois, nous le saurons vraiment. J'espère."
 
- taking_the_best:0 "Prendre le meilleur"
- taking_the_best_desc:65 "Un matériel assez avancé, un ordinateur personnel P-65, des spécifications de haut niveau, vous pourriez peut-être sauver le processeur central ainsi que le verrou quantique ... pourquoi me regardez-vous comme ça ? Retourne au travail idiot, nous devons les remettre aux têtes d'œufs !"
+ taking_the_best:0 "Prendre le Meilleur"
+ taking_the_best_desc:65 "Du matériel plutôt avancé là, un ordinateur personnel P-65, des spécificités de pointe, vous pourriez peut-être récupérer le processeur central ainsi que la serrure quantique... pourquoi vous me regardez comme ça ? Retourne au travail idiot, on doit ramener ça aux têtes d'œufs !"
 
  industrial_interest:0 "Outils de Vol"
- industrial_interest_desc:0 "Apparemment, certains de ces esclaves savaient vraiment des choses. Des choses comme l'emplacement des usines toujours en activité, les points d'entrée et le moment exact où tout le monde serait dans la même pièce pour pouvoir lancer une grenade. Cela ressemble à un plan."
+ industrial_interest_desc:0 "Apparemment, certains de ces esclaves savaient des choses. Des trucs comme l'emplacement des usines encore en activité, les points d'entrée, et le moment exact où tout le monde serait dans la même pièce pour pouvoir lancer une grenade. Ça ressemble à un plan de malade !"
 
- hideout_expansion:0 "Plans Volés"
- hideout_expansion_desc:0 "D'accord, il semblerait que nous ayons manqué des choses lors de la dernière manche. Des trucs comme euh ... des piles entières de plans et de documents techniques avancés. Ne me demandez pas, ils ne parlaient que d'outils à l'époque. Quoi qu'il en soit, revenons en arrière."
+ hideout_expansion:0 "Schémas Volés"
+ hideout_expansion_desc:0 "Ok donc, il semble qu'on ait raté des trucs lors du dernier voyage. Des trucs comme euh... des piles entières de plans et de documents techniques avancés. Ne me demandez pas, ils ne parlaient que d'outils à l'époque. Bref, allons-y."
 
- slaver_settlement:0 "Soumettre le centre"
- slaver_settlement_desc:0 "Peut-être devrions-nous donner à nos esclaves de véritables bâtiments. Cela améliorerait certainement le moral et libérerait toute la place occupée par les camps délabrés."
+ slaver_settlement:0 "Centres d'Esclaves"
+ slaver_settlement_desc:0 "Peut-être que nous devrions donner à nos esclaves de vrais bâtiments. Cela améliorerait certainement le moral et libérerait tout l'espace que les camps délabrés occupent."
 
- a_weapon_to_surpass_the_other_gang:0 "Homme en métal renforcé"
- a_weapon_to_surpass_the_other_gang_desc:0 "Depuis qu’un des gars a vu un soldat de la confrérie courir et ne se souciant pas vraiment de se faire tirer dessus, il continue de harceler les scientifiques à ce sujet. Ils sont allés se plaindre à d'autres pillards, et quand ils leur ont dit pourquoi il les dérangeait, tous les autres se sont joints à eux pour s'amuser. Je suppose que cela signifie que nous obtenons des boîtes de conserve maintenant ?"
+ a_weapon_to_surpass_the_other_gang:0 "Hommes en Métal Lourd"
+ a_weapon_to_surpass_the_other_gang_desc:0 "Depuis que l'un des gars a vu un soldat de la confrérie courir partout sans se soucier de se faire tirer dessus, il n'a cessé d'importuner les scientifiques à ce sujet. Ils sont allés se plaindre à d'autres raiders, et quand ils leur ont dit pourquoi il les embêtait, tout le monde s'est joint à eux pour s'amuser. Je suppose que ça veut dire qu'on a des boîtes de conserve maintenant ?"
 
- convert_metal_armour:0 "Provision Délabrée"
+ convert_metal_armour:0 "Approvisionnement Déglingué"
  convert_metal_armour_desc:0 "Ce n'est peut-être pas vraiment une armure assistée, mais elle place quand même quelques centimètres d'armure entre le corps visqueux et la balle très méchante qui vous arrive dessus. Alors arrêtez de vous plaindre et mettez-la, elle va arrêter de peser tellement dans un peu de temps, je le jure."
 
- power_armor_familiarity:0 "Tous le monde préfèrent les jouets"
- power_armor_familiarity_desc:0 "Pourquoi personne ne voudrait-il en avoir une ? Elles sont géniales ! Vous pouvez avoir des grenades qui atterrissent juste devant vous sans vous en soucier, et le regard inestimable sur le visage de ces colons quand ils ont vu des pillards en armure assistée en valait la peine!"
+ power_armor_familiarity:0 "Les Jouets Favoris des Gars"
+ power_armor_familiarity_desc:0 "Pourquoi quelqu'un n'en voudrait-il pas un ? Ils sont géniaux ! Vous pouvez avoir des grenades qui atterrissent juste devant vous sans vous en soucier, et le regard impayable sur le visage de ces colons quand ils ont vu des raiders en armure assistée en valait plus que la peine !"
 
- chop_shop_shimmy:0 "Le Chop Shop se dandine"
- chop_shop_shimmy_desc:0 "Nous avons beaucoup de véhicules qui circulent, mais rien de tout à fait standardisé. Ce sont pour la plupart des morceaux de jonque qui sont délabrés et qui ne valent pas vraiment la peine d'être examinés. Mais nous pourrions aussi simplement vaincre tous les pilotes et ingénieurs rencontrés jusqu'à ce qu'ils nous donnent quelque chose à faire !"
+ chop_shop_shimmy:0 "Le Chop Shop se Dandine"
+ chop_shop_shimmy_desc:0 "On a beaucoup de véhicules qui traînent, mais rien de tout à fait banalisé. Ce sont pour la plupart des tas de ferraille déglingués, et ça ne vaut pas vraiment la peine de s'y intéresser. Mais nous pourrions aussi tabasser tous les conducteurs et ingénieurs que nous rencontrons jusqu'à ce qu'ils nous donnent quelque chose que nous pouvons fabriquer !"
 
  gear_head_slaves:0 "Mécanos"
  gear_head_slaves_desc:0 "Faire travailler nos esclaves dans les garages est bien mieux que de passer du temps à essayer de réparer nous-mêmes ces morceaux de jonques. Avec un peu de chance, ils utiliseront plus d'un demi-réservoir avant de casser quelque chose."
@@ -161,46 +161,46 @@
  brutal_hazing:0 "Bizutage Brutal"
  brutal_hazing_desc:0 "Pourquoi former nos troupes quand nous pouvons simplement les droguer jusqu'en enfer et les faire se battre ? Celui qui reste est clairement plus expérimenté que l'autre après tout."
 
- recruit_them_young:0 "Recruter les jeunes"
+ recruit_them_young:0 "Les Recruter Jeunes"
  recruit_them_young_desc:0 "Cela amènerait certainement plus de troupes sur la ligne de front, oui. Il suffit de s’assurer qu’ils peuvent réellement lever le fusil ou viser."
 
- expand_the_garage:0 "Expansion du Garage"
+ expand_the_garage:0 "Agrandir le Garage"
  expand_the_garage_desc:0 "Vous pouvez être sûr que dès que quelqu'un a parlé d'agrandir le garage, tous les gars du gang étaient à l'écoute. Qui ne voudrait pas la monstruosité rugissante d'un véhicule pour lui-même ? Cela se fera plus rapidement que le jour d'utilisation du jet expiré"
 
- kings_of_the_roads:0 "Les rois des Routes"
- kings_of_the_roads_desc:0 "Personne n'est aussi rapide et aussi fou que nous ! Barrage routier, épaves, route entière de blaster, on s'en fiche, on roule à pleine vitesse !"
+ kings_of_the_roads:0 "Les Rois des Routes"
+ kings_of_the_roads_desc:0 "Personne n'est aussi rapide ou aussi fou que nous ! Barrages routiers, épaves, routes de mines, on s'en fout, on fonce à toute vitesse !"
 
  custom_rides:0 "Tours personnalisés"
  custom_rides_desc:0 "Des promenades sur mesure, c'est une chose si douce à dire. Plus gros moteur, meilleures suspensions, échappements plus forts, tout est permis. Et une fois dans la bagarre, ça se voit."
 
- call_in_the_warboys:0 "Appeler tous les Warboys"
- call_in_the_warboys_desc:0 "Lorsque vous appelez les warboys, vous jouez vraiment avec le feu. Ils sont peut-être les meilleurs pilotes APC parmi les terres désolées, mais ils s’épuisent également plus rapidement que vous ne pouvez demander un autre jet. Nous pouvons en faire bon usage, mais ne vous tenez pas trop près de leurs manèges."
+ call_in_the_warboys:0 "Appeler Tous les WarBoyz"
+ call_in_the_warboys_desc:0 "Quand vous appelez les WarBoyz, vous jouez vraiment avec le feu. Ce sont peut-être les meilleurs conducteurs d'APC des Terres Désolées, mais ils se détruisent aussi vite que vous ne pouvez demander un autre jet. On peut faire bon usage d'eux, mais ne vous tenez pas trop près de leurs véhicules..."
 
- metal_boxes:0 "Boîtes en métal renforcé"
- metal_boxes_desc:0 "Des boites ! Sur roue s! Tout ce dont ils ont besoin, c'est de nombreuses armures et de nombreuses armes. Des fusils antichars, des lance-flammes, des lance-grenades, des mitraillettes, etc. Mets-le sur les écoutilles, mets-le dans les supports à billes, allons voir ce spectacle sur la route !"
+ metal_boxes:0 "Boîtes en Métal Lourd"
+ metal_boxes_desc:0 "Des boîtes ! Sur roues ! Tout ce dont ils ont besoin, c'est de beaucoup de blindage et de beaucoup d'armes. Fusils antichars, lance-flammes, lance-grenades, mitrailleuses, tout ce que vous voulez, nous l'avons ! Mettez-les sur les capots, mettez-les dans les coffres, et que le spectacle commence bordel !"
 
- roaring_machines:0 "Machines de Rugissement"
- roaring_machines_desc:0 "Tant qu'il rugit, vous pouvez être sûr que les gars le voudront. N'importe quel échange de moteur a lieu, à condition qu'il puisse se soulever du sol d'une simple accélération."
+ roaring_machines:0 "Machines Rugissantes"
+ roaring_machines_desc:0 "Tant qu'elle rugit, vous pouvez être sûr que les gars la voudront. N'importe quel moteur peut être échangé, tant qu'il peut se soulever du sol par la seule accélération."
 
- doped_soldiers:0 "Raiders dopés"
- doped_soldiers_desc:0 "Nous avons mis la main sur quelque chose appelé "super jet", et bien que personne ne sache d’où il vient, cela rend les gars complètement fous. Remplissez-les simplement de la substance et laissez-les se déchaîner sur l'ennemi. Assurez-vous d'attendre longtemps après le retrait, sans vous soucier des parties du corps."
+ doped_soldiers:0 "Raiders Dopés"
+ doped_soldiers_desc:0 "On a mis la main sur un truc appelé \"super jet\", et bien que personne ne sache d'où ça vient, ça rend les gars furieux comme la braise. Il suffit de les remplir de ce truc et de les lâcher sur l'ennemi, assurez-vous d'attendre un long moment après pour que le sevrage fasse effet et ne faites pas attention aux parties du corps."
 
- lightning_raids:0 "Attaque éclair"
- lightning_raids_desc:0 "Nous sommes et nous sortons avant même qu'ils sachent ce qui s'est passé. C'est comme ça que ça se passe les gars, on rentre vite et fort, prenons leur butin, prenons leurs esclaves, prenons leur vie !"
+ lightning_raids:0 "Raids Éclairs"
+ lightning_raids_desc:0 " On est entré et on est sorti avant même qu'ils ne sachent ce qui s'est passé. C'est comme ça que ça se passe les gars, on y va vite et fort, on prend leur butin, leurs esclaves, leurs vies !"
 
- blood_soaked_gender_equality:0 "Égalité des sexes par la Violence"
- blood_soaked_gender_equality_desc:0 "Nous ne faisons pas vraiment de discrimination ici. Si vous pouvez lancer une grenade assez loin pour la poser là où il est amusant de la voir exploser, ou si vous pouvez couper le bras de quelqu'un avec une machette, vous y êtes."
+ blood_soaked_gender_equality:0 "Égalité des Sexes par la Violence"
+ blood_soaked_gender_equality_desc:0 "On fait pas vraiment de discrimination par ici. Si tu peux lancer une grenade assez loin pour qu'elle atterrisse là où c'est drôle de la voir exploser, ou si tu peux couper le bras de quelqu'un avec une machette, tu es accepté."
 
- take_what_you_need:0 "Prendre ce qu'on a besoin"
- take_what_you_need_desc:0 "Le pillage, c'est une affaire assez simple. Ce qui est difficile, c’est de voir si cela vaut vraiment la peine d’assumer cette patrouille d'AA, et comment. Mais avec plus d'expérience contre des cibles simples, nous pouvons améliorer nos techniques de raid."
+ take_what_you_need:0 "Prendre ce Dont on a Besoin"
+ take_what_you_need_desc:0 "Les raids, c'est un truc assez simple, vraiment. Ce qui est difficile, c'est de voir si ça vaut vraiment la peine de s'attaquer à cette patrouille de mecs en armure assistée, et comment. Mais avec un peu plus d'expérience contre des cibles simples, nous pouvons améliorer nos techniques de raid."
 
- business_booms:0 "Booms D'affaires"
- business_booms_desc:0 "Les affaires grondent, l'artillerie fleurit et ça va faire kaboom. Personne ne va se plaindre d'avoir une lourde ordonnance sur son côté, sauf quand elle tombe sur sa tête par accident."
+ business_booms:0 "Boom des Affaires"
+ business_booms_desc:0 "Les affaires prospèrent, l'artillerie fleurit et ça fait certainement kaboom. Personne ne va se plaindre d'avoir des munitions lourdes de son côté, sauf quand elles tombent sur sa tête par accident."
 
- short_fused_engineers:0 "Ingénierie Short Fuse"
- short_fused_engineers_desc:0 "De plus en plus d'explosifs sont nécessaires pour avoir un avantage sur les autres gangs. Chaque gars de la troupe doit avoir sa propre réserve, et pour cela, cela prendra pas mal de temps. Mais tous les cris et soufflés en feront la peine."
+ short_fused_engineers:0 "Ingénierie des Courts-Circuits"
+ short_fused_engineers_desc:0 "Il faut de plus en plus d'explosifs pour avoir vraiment un avantage sur les autres bandes. Chaque gars de la troupe doit avoir son propre stock d'explosifs, et cela va prendre pas mal de temps. Mais tous les hurlements et les morceaux explosés feront que ça en vaudra la peine."
 
- an_explosion_in_understanding:0 "Une explosion compréhensible"
+ an_explosion_in_understanding:0 "Une Explosion dans la Compréhension"
  an_explosion_in_understanding_desc:0 "C’est ce que l’on pourrait appeler de toute façon un des gars s’est fait exploser avec des explosifs expérimentaux et cela a apparemment donné une idée aux chefs d’équipe. Si cela les accélère, nous jetterons les gens au-dessus des mines à ce rythme."
 
     ### Mechanical
