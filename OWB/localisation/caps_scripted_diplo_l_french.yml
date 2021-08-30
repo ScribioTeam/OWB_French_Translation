@@ -1,14 +1,14 @@
 ﻿l_french:
- caps_scripted_diplo_gui_amount_tt:0 "Gift [THIS.GetName]: [?caps_to_send_to|2+=] [ROOT.GetCapTxt]"
- caps_scripted_diplo_gui_left_button_tt:0 "Click to remove §R1§! [ROOT.GetCapTxt]  \nShift-Click to remove §R10§! [ROOT.GetCapTxt]  \nCtrl-Click to remove §R100§! [ROOT.GetCapTxt]  \n\nMinimum gift is §G10§! [ROOT.GetCapTxt]"
+ caps_scripted_diplo_gui_amount_tt:0 "Donner [THIS.GetName] : [?caps_to_send_to|2+=] [ROOT.GetCapTxt]"
+ caps_scripted_diplo_gui_left_button_tt:0 "Clic pour retirer §R1§! [ROOT.GetCapTxt]  \nMaj+Clic pour retirer §R10§! [ROOT.GetCapTxt]  \nCtrl+Clic pour retirer §R100§! [ROOT.GetCapTxt]  \n\nLe don minimum est de §G10§! [ROOT.GetCapTxt]"
  caps_scripted_diplo_gui_right_button_tt:0 "Click to add §G1§! [ROOT.GetCapTxt]  \nShift-Click to add §G10§! [ROOT.GetCapTxt]  \nCtrl-Click to add §G100§! [ROOT.GetCapTxt]  \n\nMaximum gift is [?caps_to_send_max|=+0] [ROOT.GetCapTxt]"
 
- CAPS_SEND_GIFT_TITLE:0 "Send a Caps Gift"
+ CAPS_SEND_GIFT_TITLE:0 "Faire un Don"
  CAPS_SEND_GIFT_ACTION_DESC:0 "Send the gift you always wanted as a little raider, §GC§! A §RP§! §GS§!"
- caps_gift_receive_desc:0 "Accept gift of [?caps_to_send_to|2=+] [GetCapType] from [ROOT.GetName]"
+ caps_gift_receive_desc:0 "Accepter le don de [?caps_to_send_to|2=+] [GetCapType] venant de [ROOT.GetName]"
 
- caps_gift_accept_title:0 "Gift to [THIS.GetName]"
- caps_gift_accept_desc:0 "Gift of [?caps_to_send_to|2=+] [GetCapType] to [THIS.GetName] accepted"
+ caps_gift_accept_title:0 "Don à [THIS.GetName]"
+ caps_gift_accept_desc:0 "Le don de [?caps_to_send_to|2=+] [GetCapType] proposé à [THIS.GetName] est accepté"
 
- caps_gift_reject_title:0 "Gift to [THIS.GetName]"
- caps_gift_reject_desc:0 "Gift of [?caps_to_send_to|2=+] [GetCapType] to [THIS.GetName] rejected"
+ caps_gift_reject_title:0 "Don à [THIS.GetName]"
+ caps_gift_reject_desc:0 "Le don de [?caps_to_send_to|2=+] [GetCapType] proposé à [THIS.GetName] est refusé"
