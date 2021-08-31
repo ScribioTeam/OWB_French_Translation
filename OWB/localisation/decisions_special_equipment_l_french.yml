@@ -2,14 +2,14 @@
  #-------------------------------------
  # CHR Decisions
  #-------------------------------------
- mininuke_arming_decision:0 "Arm a Mini-nuke"
- mininuke_arming_decision_desc:0 "Gives a charge for the mini-nuke commander ability, requires to have a mini-nuke in storage. Mini-nukes can be build via the production interface."
- mininuke_arming_3_decision:0 "Arm three Mini-nukes"
- mininuke_arming_3_decision_desc:0 "Gives three charges for the mini-nuke commander ability, requires to have three mini-nukes in storage. Mini-nukes can be build via the production interface."
- artillery_arming_decision:0 "Ready Artillery Barrage"
- artillery_arming_decision_desc:0 "Gives a charge for the artillery commander ability, requires to have a shell-batch in storage. Shell-batches can be build via the production interface."
- artillery_arming_3_decision:0 "Ready three Artillery Barrages"
- artillery_arming_3_decision_desc:0 "Gives three charges for the artillery commander ability, requires to have three shell-batches in storage. Shell-batches can be build via the production interface."
+ mininuke_arming_decision:0 "Armer une Mini-Nuke"
+ mininuke_arming_decision_desc:0 "Donne une charge pour la capacité de commandant mini-nuke, nécessite d'avoir une mini-nuke en stock. Les mini-nukes peuvent être construites via l'interface de production."
+ mininuke_arming_3_decision:0 "Armer trois Mini-Nukes"
+ mininuke_arming_3_decision_desc:0 "Donne trois charges pour la capacité de commandant mini-nuke, nécessite d'avoir trois mini-nukes en stock. Les mini-nukes peuvent être construites via l'interface de production."
+ artillery_arming_decision:0 "Préparer le Barrage d'Artillerie"
+ artillery_arming_decision_desc:0 "Donne une charge pour la capacité commandant d'artillerie, nécessite d'avoir un lot d'obus en stock. Les lots d'obus peuvent être construits via l'interface de production."
+ artillery_arming_3_decision:0 "Préparer trois Barrages d'Artillerie"
+ artillery_arming_3_decision_desc:0 "Donne trois charges pour la capacité commandant d'artillerie, nécessite d'avoir trois lots d'obus en stock. Les lots d'obus peuvent être construits via l'interface de production."
 
- special_equipment_decisions:0 "Army Supplies"
- special_equipment_decisions_desc:0 "The decisions below will tell us exactly how many readied artillery and fatman charges we have. Charges are activated via commander abilities. \nReadied Mininukes: §G[?fatman_uses]§! \nReadied Artillery Barrages: §G[?artillery_uses]§!"
+ special_equipment_decisions:0 "Provisions Militaires"
+ special_equipment_decisions_desc:0 "Les décisions ci-dessous nous indiqueront exactement combien de charges d'artillerie et de fatmans prêts à l'emploi nous avons. Les charges sont activées par les capacités du commandant. \nMini-Nukes Préparés : §G[?fatman_uses]§!\nBarrages d'Artillerie Préparés : §G[?artillery_uses]§!"
