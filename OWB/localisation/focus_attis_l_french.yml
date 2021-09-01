@@ -168,8 +168,8 @@
  shale_ethos_of_the_army:0 "Éthos de l'Armée"
  shale_ethos_of_the_army_desc:0 "Maintenant que nous avons unifié notre armée, nous pouvons chercher à l'améliorer - prenons les meilleures idées de nos sujets conquis et rendons-nous meilleurs pour elle !"
 
- shale_ancient_techniques_of_the_ironmongers:0 "Techniques Anciennes des Ironmongers"
- shale_ancient_techniques_of_the_ironmongers_desc:0 "Les Ironmongers sont devenus de véritables maîtres de la forge, prenant trop au pied de la lettre l'ordre d'Attis de sécuriser les usines du sud. La force qu'ils ont apprise dans leurs forges sera utilisée pour faire avancer nos chars !"
+ shale_ancient_techniques_of_the_ironmongers:0 "Techniques Anciennes des Ferronniers"
+ shale_ancient_techniques_of_the_ironmongers_desc:0 "Les Ferronniers sont devenus de véritables maîtres de la forge, prenant trop au pied de la lettre l'ordre d'Attis de sécuriser les usines du sud. La force qu'ils ont apprise dans leurs forges sera utilisée pour faire avancer nos chars !"
 
  shale_mysteries_of_the_spores:0 "Mystères des Spores"
  shale_mysteries_of_the_spores_desc:0 "Parfois, je peux entendre Reese me chuchoter dans la forêt d'Eden. J'essaie de ne pas y penser - mais cela peut être difficile de sortir de votre tête. Ces mystères, les énigmes qu'il vous raconte seront quelque chose que nous emporterons avec nous."
@@ -208,16 +208,16 @@
  shale_cerberus_the_final_flame_desc:0 ""
 
  imo_the_steelworks:0 "L'Aciérie"
- imo_the_steelworks_desc:0 "Lorsque la bande de guerre de Juggernaught a reçu l'ordre d'Attis de s'emparer du cœur industriel du Texas, il a pris cet ordre avec diligence. Il s'agissait simplement de repousser ceux qui vivaient là - de simples pilleurs et de petites créatures... Ce que ces Super-Mutants n'auraient pas pu prévoir, c'est à quel point ils \"aimaient\" l'endroit qu'ils avaient pris. Tant de métal, tant d'outils et tant de plaisir ! Les Ironmongers ont fait de l'usine sidérurgique leur maison, leur identité."
+ imo_the_steelworks_desc:0 "Lorsque la bande de guerre de Juggernaught a reçu l'ordre d'Attis de s'emparer du cœur industriel du Texas, il a pris cet ordre avec diligence. Il s'agissait simplement de repousser ceux qui vivaient là - de simples pilleurs et de petites créatures... Ce que ces Super-Mutants n'auraient pas pu prévoir, c'est à quel point ils \"aimaient\" l'endroit qu'ils avaient pris. Tant de métal, tant d'outils et tant de plaisir ! Les Ferronniers ont fait de l'usine sidérurgique leur maison, leur identité."
 
  imo_iron_flyers:0 "Brochures sur le Fer"
- imo_iron_flyers_desc:0 "Être une créature aussi lourde qu'un mutant s'accompagne d'une certaine -... peur de tomber. Après tout, quand on pèse autant, on fait généralement plus de dégâts en tombant. Cette peur est encore plus grande dans les profondeurs du ciel ! Néanmoins, certains ouvriers métallurgistes des Ironmongers ont fait des progrès dans le développement du \"Flyer\" - suscitant l'admiration de leurs contemporains !"
+ imo_iron_flyers_desc:0 "Être une créature aussi lourde qu'un mutant s'accompagne d'une certaine -... peur de tomber. Après tout, quand on pèse autant, on fait généralement plus de dégâts en tombant. Cette peur est encore plus grande dans les profondeurs du ciel ! Néanmoins, certains ouvriers métallurgistes des Ferronniers ont fait des progrès dans le développement du \"Flyer\" - suscitant l'admiration de leurs contemporains !"
 
  imo_trained_mantis_gearjocks:0 "Des Mantes Entraînées"
- imo_trained_mantis_gearjocks_desc:0 "Dans les couloirs profonds des usines des Ironmongers, il est difficile pour les grands super-mutants de trouver les outils dont ils ont besoin en un clin d'œil. C'est pourquoi ils utilisent ce qu'ils appellent des "Gearjocks" - des mantes entraînées qui leur servent d'assistants à la place des esclaves ou des serviteurs sous contrat. Ces petites créatures entraînées et loyales sont capables de naviguer rapidement dans les forges désolées et de trouver l'outil dont leurs maîtres ont besoin - le compagnon parfait du maître forgeron."
+ imo_trained_mantis_gearjocks_desc:0 "Dans les couloirs profonds des usines des Ferronniers, il est difficile pour les grands super-mutants de trouver les outils dont ils ont besoin en un clin d'œil. C'est pourquoi ils utilisent ce qu'ils appellent des "Gearjocks" - des mantes entraînées qui leur servent d'assistants à la place des esclaves ou des serviteurs sous contrat. Ces petites créatures entraînées et loyales sont capables de naviguer rapidement dans les forges désolées et de trouver l'outil dont leurs maîtres ont besoin - le compagnon parfait du maître forgeron."
 
  imo_building_the_perfect_war_machine:0 "Construire la Machine de Guerre Parfaite"
- imo_building_the_perfect_war_machine_desc:0 "Les Ironmongers n'ont pas tendance à préférer se battre sur terre avec un dakka et une choppa - non, ils préfèrent plutôt leurs machines de guerre - les Battlewagons ! De grands véhicules à chenilles destinés à écraser leurs ennemis avec des tourelles au sommet de leur châssis pour un appui-feu supplémentaire. Rares sont ceux qui peuvent résister à une menace aussi dangereuse !"
+ imo_building_the_perfect_war_machine_desc:0 "Les Ferronniers n'ont pas tendance à préférer se battre sur terre avec un dakka et une choppa - non, ils préfèrent plutôt leurs machines de guerre - les Battlewagons ! De grands véhicules à chenilles destinés à écraser leurs ennemis avec des tourelles au sommet de leur châssis pour un appui-feu supplémentaire. Rares sont ceux qui peuvent résister à une menace aussi dangereuse !"
 
  imo_loud_engines:0 "Moteurs Bruyants"
  imo_loud_engines_desc:0 "En rendant délibérément nos moteurs aussi bruyants que possible, nous pouvons augmenter le facteur d'intimidation de notre armée. Qui a besoin de discrétion quand on travaille à l'intérieur d'un cadre métallique d'un mètre d'épaisseur ?"
@@ -283,7 +283,7 @@
  imo_trying_out_our_new_toys_desc:0 "Maintenant que nous avons fait la preuve de nos armes contre les restes de l'armée d'Attis, nous pouvons regarder vers le sud sans inquiétude. Il est temps de passer le Rio Grande !"
 
  imo_attack_arm:0 "Détruire les Droïdes"
- imo_attack_arm_desc:0 "L'Armée du Mexique a toujours embrouillé les Ironmongers. Leurs machines de guerre étaient si minuscules - qui pouvait s'asseoir à l'intérieur d'un de ces \"robots\" pour le piloter ? C'était de la folie !"
+ imo_attack_arm_desc:0 "L'Armée du Mexique a toujours embrouillé les Ferronniers. Leurs machines de guerre étaient si minuscules - qui pouvait s'asseoir à l'intérieur d'un de ces \"robots\" pour le piloter ? C'était de la folie !"
 
  imo_attack_taa:0 "La Pleine Conquête de la TAA"
  imo_attack_taa_desc:0 "Avant, nous avons pris quelques bouchées de la TAA. Maintenant, il est temps de faire une conquête totale !"
@@ -353,7 +353,7 @@
  every_new_mexican_state:0 "Tous les États du §YNouveau Mexique§! "
  uoa_cant_join_tt:0 "§RNous ne pouvons raisonnablement demander à nos soldats de se battre aux côtés des Super-Mutants. Keats va devoir gagner par lui-même.§!"
  uoa_cant_call_tt:0 "§RLa stigmatisation culturelle de la Confrérie à l'égard des Super-Mutants les empêche de se joindre à nous dans ce conflit !§!"
- shale_reunite_the_army_tt:0 "Nous rompons la trêve que nous avons formée avec les autres restes de §Yl'Armée d'Attis§! et recommencer les hostilités ! sa volonté de déclencher immédiatement une guerre à trois entre nous, §Yles Ironmongers§! et §Yl'Unité d'Austin§!\n\n"
+ shale_reunite_the_army_tt:0 "Nous rompons la trêve que nous avons formée avec les autres restes de §Yl'Armée d'Attis§! et recommencer les hostilités ! sa volonté de déclencher immédiatement une guerre à trois entre nous, §Yles Ferronniers§! et §Yl'Unité d'Austin§!\n\n"
  WAR_NAME_SHA_IMO:0 "Combats Internes des Restes de l'Armée d'Attis "
  WAR_NAME_SHA_UOA:0 "Combats Internes des Restes de l'Armée d'Attis "
  WAR_NAME_UOA_SHA:0 "Combats Internes des Restes de l'Armée d'Attis "
