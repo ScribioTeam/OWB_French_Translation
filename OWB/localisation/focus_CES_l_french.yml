@@ -115,11 +115,11 @@
  ces_whitelegs_accept_tt:0 "\nCela mettra les §YJambes Blanches§! sur la voie pour devenir votre marionnette."
 
  ces_white_legs_refuse:0 "Appeler les Nomades"
- ces_white_legs_refuse_desc:0 "Au lieu de nous tourner vers les Jambes Blanches, dont Ulysse nous a dit qu'ils n'étaient que des imbéciles sauvages, nous pouvons nous tourner vers les redoutables Eighties. Peut-être seront-ils attirés par une partie du butin des grands garages ?"
+ ces_white_legs_refuse_desc:0 "Au lieu de nous tourner vers les Jambes Blanches, dont Ulysse nous a dit qu'ils n'étaient que des imbéciles sauvages, nous pouvons nous tourner vers les redoutables 80's. Peut-être seront-ils attirés par une partie du butin des grands garages ?"
  ces_white_legs_refuse_tt:0 "\nSoyez avertis, nous devrons améliorer notre technologie de communication pour envoyer des volontaires aux [EHT.GetNameWithFlag] ...\n "
 
  ces_eighties:0 "Chariots des Dieux"
- ces_eighties_desc:0 "Le Culte de Nas pourrait trouver des convertis prêts dans les Eighties, et leurs prêtres iront enseigner la Grande Boucle et l'importance de l'économie de carburant."
+ ces_eighties_desc:0 "Le Culte de Nas pourrait trouver des convertis prêts dans les 80's, et leurs prêtres iront enseigner la Grande Boucle et l'importance de l'économie de carburant."
 
  ces_weapons_of_war:0 "Armes de guerre"
  ces_weapons_of_war_desc:0 "La guerre contre les Cananéens a accordé une faveur à l'industrie de notre allié, et aussi à nous-mêmes, nous devons fournir des armes à nos alliés tribaux."
@@ -132,7 +132,7 @@
  ces_new_cohort_tt:0 "\n§gNous enverrons des conseillers pour aider [WHT.GetLeader] à renforcer l'Utah. Et ils deviendront notre sujet en fait ainsi que notre nom.§!\n"
 
  ces_new_auxilliary:0 "Nouvelle Auxilliaire"
- ces_new_auxilliary_desc:0 "Malgré la trahison des Jambes Blanches, un allié inattendu, la tribu des Eighties, a vaincu New Canaan. Ils seront accueillis dans la Légion, et se verront accorder la domination de l'Utah. La Légion leur enverra également des guerriers pour les aider dans leur conquête de la Nouvelle-Californie !"
+ ces_new_auxilliary_desc:0 "Malgré la trahison des Jambes Blanches, un allié inattendu, la tribu des 80's, a vaincu New Canaan. Ils seront accueillis dans la Légion, et se verront accorder la domination de l'Utah. La Légion leur enverra également des guerriers pour les aider dans leur conquête de la Nouvelle-Californie !"
  ces_white_legs_guns:0 "Instruction d'Ulysse"
  ces_white_legs_guns_desc:0 "Ulysse est heureux d'apprendre aux Jambes blanches à utiliser des armes \"modernes\". Et en retour, ils nous accorderont certaines... faveurs."
  ces_white_legs_guns_tt:0 "Cela permettra d'apprendre aux §Y[WHT.GetNamewithFlag]§! comment utiliser les armes à feu et les armes de soutiens comme les habitants \"civilisés\" des Terres Désolées."
