@@ -12,7 +12,7 @@
  trl_fourthholotape_desc:0 "La HoloBande Finale est une chose volée, dérobée à un passant victime du Warren pendant une période de désespoir, car la gravité de leur situation et la reproduction stérile s’étaient installées."
 
  trl_warrenstirs:0 "Le Warren fait sensation"
- trl_warrenstirs_desc:0 "Les tambours de guerre, créés à partir des innombrables tonneaux qui contenaient autrefois le FEV qui a donné vie au Warren, résonnent à travers les collines. Même les plus violentes des tribus locales se terrent chez elles, se régalant de ce qui pourrait être leur dernier repas de chair humaine. Le Warrenfait sensation, et de là vient une horde de mutants affamés."
+ trl_warrenstirs_desc:0 "Les tambours de guerre, créés à partir des innombrables tonneaux qui contenaient autrefois le VEF qui a donné vie au Warren, résonnent à travers les collines. Même les plus violentes des tribus locales se terrent chez elles, se régalant de ce qui pourrait être leur dernier repas de chair humaine. Le Warrenfait sensation, et de là vient une horde de mutants affamés."
 
  trl_attackmarrow:0 "Moelle Succulente"
  trl_attackmarrow_desc:0 ""
@@ -33,7 +33,7 @@
  trl_fromtheruins_desc:0 "Le démantèlement de leurs constructions et de leurs bâtiments peut nous donner un aperçu de ce qu'ils ont fait pour survivre dans ces conditions inhospitalières. Mieux encore, nous les tirerons des ruines, de ceux qui ont fui, de ceux qui se sont cachés, de ceux qui sont indignes de transformation. Nous les ferons travailler pour nous! Ils s'occuperont de nos terres, construiront nos bâtiments et travailleront dans nos mines."
 
  trl_forced_mutation:0 "Mutation forcée 1"
- trl_forced_mutation_desc:0 "Des centaines de nouveaux guerriers ont été entraînés lors de nos conquêtes réussies des tribus Briseurs de côtes et Buveurs de moellle! Ils seront immergés dans le lac souterrain des eaux du FEV au-dessous du Warren et ceux qui survivent ? Ils nous serviront bien!"
+ trl_forced_mutation_desc:0 "Des centaines de nouveaux guerriers ont été entraînés lors de nos conquêtes réussies des tribus Briseurs de côtes et Buveurs de moellle! Ils seront immergés dans le lac souterrain des eaux du VEF au-dessous du Warren et ceux qui survivent ? Ils nous serviront bien!"
 
  trl_warhornseast: "Cornes de Guerre à l'Est"
  trl_warhornseast_desc: "Of all the northern tribes, there are none greater than the Bone Dancers, who stand atop the masses of unworthy. They are the only worthy foe we can find in these lands, and our battles with them shall be savoured! To the south lies the last of the hidden tribes, the long reclusive animists of the swamp. Like all others, they must be defeated."
@@ -162,7 +162,7 @@
  trl_callofthefirst_desc:0 "Le Premier est le plus ancien de notre espèce, né dans les jours qui ont suivi la guerre, un accident de la nature, destiné à hériter des royaumes de l’humanité. Que ses paroles se répercutent dans le désert, que tous ceux qui l'entendent, humains, mutants ou goules, sachent qu'il est venu les chercher. Ils peuvent s'agenouiller ou tomber, mais tous ceux qui entendent l'appel du Premier doivent répondre."
 
  trl_sonsofman: "Mutation Mobile"
- trl_sonsofman_desc: "Un de nos petits généraux, un mutant connu sous le nom de Peon Tusk-Hell, s'est fait un nom en utilisant la \"Mutation Mobile\" en première ligne ! Plutôt que de ramener les captifs jusqu'au bout, il apporte une petite quantité de FEV avec lui dans des canisters, l'utilisant pour transformer les soldats qu'il combat sur le champ de bataille en horribles monstres mutants ! Sa stratégie fonctionne, peut-être devrions-nous le promouvoir ?"
+ trl_sonsofman_desc: "Un de nos petits généraux, un mutant connu sous le nom de Peon Tusk-Hell, s'est fait un nom en utilisant la \"Mutation Mobile\" en première ligne ! Plutôt que de ramener les captifs jusqu'au bout, il apporte une petite quantité de VEF avec lui dans des canisters, l'utilisant pour transformer les soldats qu'il combat sur le champ de bataille en horribles monstres mutants ! Sa stratégie fonctionne, peut-être devrions-nous le promouvoir ?"
 
  trl_riverexpedition:0 "Expéditions fluviales"
  trl_riverexpedition_desc:0 "Le contrôle des fleuves est une partie essentielle du commerce entre les tribus de l'Oregon et de Washington. La capacité de projeter son pouvoir et de transporter les guerriers est la clé de tout groupe de sauvages cherchant à dominer."
@@ -225,13 +225,13 @@
  trl_gloriouscity_desc:0 "Le Warren grandit chaque jour! Même maintenant, il prospère, avec une population de mutants en plein essor et une sous-classe toujours croissante d’êtres humains qui peinent à gagner leur vie sous nos pieds."
 
  trl_defendingthewarren:0 "Défendre le Warren"
- trl_defendingthewarren_desc:0 "La défense des fosses FEV au-dessous du Warren est la priorité absolue de notre tribu et, en tant que telle, les plans d'amélioration de la capacité défensive de la capitale évoluent constamment."
+ trl_defendingthewarren_desc:0 "La défense des fosses VEF au-dessous du Warren est la priorité absolue de notre tribu et, en tant que telle, les plans d'amélioration de la capacité défensive de la capitale évoluent constamment."
 
  trl_oregonline:0 "La ligne de l'Oregon"
  trl_oregonline_desc:0 "Le Warren n’est pas une forteresse, mais il peut en être une avec suffisamment de temps et d’efforts. Le fait de mettre les esclaves à l’œuvre nous permettra de le renforcer contre l’invasion, au cas où cela se produirait."
 
  trl_seek_out_the_wizard: "A la recherche du Sorcier"
- trl_seek_out_the_wizard_desc: "The Super Mutants of the Warren are a isolated people, yet none are more isolated then The Wizard, a old-aged Nightkin living atop the volcanic isle in the middle of the FEV filled Crater Lake. Perhaps The Wizard would have ideas on how we could inspire hope in the Super Mutant remnants?"
+ trl_seek_out_the_wizard_desc: "The Super Mutants of the Warren are a isolated people, yet none are more isolated then The Wizard, a old-aged Nightkin living atop the volcanic isle in the middle of the VEF filled Crater Lake. Perhaps The Wizard would have ideas on how we could inspire hope in the Super Mutant remnants?"
 
  trl_the_first_above_all: "Le Premier avant tout"
  trl_the_first_above_all_desc: "There is no reason why any of these fools should have the title of Warchief. The Warbands should all heed the words of The First straight from within the depths of the Warren. From here The First can instruct the other leaders how to fight better, teach them where they might falter and how they can succeed."
@@ -255,13 +255,13 @@
  trl_redriver_desc:0 "When we defeat Klamath our victory will be known throughout the south! The River after which the town was named runs deep, deep into civilized lands.\nWe will pitch the bodies into the stream after an unceremonious slaughter of the civilian population, bring about an end to this meager little town!"
 
  trl_mariposareborn:0 "La renaissance de Mariposa"
- trl_mariposareborn_desc:0 "To the north lies a massive underground complex known as Vault Six. With its technology and some of the FEV from Troll Warren, The First believes that he can recreate Mariposa! It will require the removal of the bothersome Washington Brotherhood, but who are they to stand before the Super Mutant Race?"
+ trl_mariposareborn_desc:0 "To the north lies a massive underground complex known as Vault Six. With its technology and some of the VEF from Troll Warren, The First believes that he can recreate Mariposa! It will require the removal of the bothersome Washington Brotherhood, but who are they to stand before the Super Mutant Race?"
 
  trl_bonesnarlloyalty:0 "La loyauté de Bonesnarl"
  trl_bonesnarlloyalty_desc:0 "Bonesnarl est un guerrier du Warren à travers et à travers. Il ne pose aucune question à son maître et croit en gros au concept de force par la consommation. Les guerriers du Warren s'entassent jour et nuit autour de lui, écoutant les paroles de celui qui a l'oreille de l'Immortel."
 
  trl_cannibalmutants:0 "Mutants Cannibales"
- trl_cannibalmutants_desc:0 "N'oublions pas d'où viennent les guerriers du Warren! Les tribus cannibales de l'Oregon ont fourni leurs meilleurs guerriers et coutumes au FEV au-dessous du Warren, et des générations de monstruosités cannibales ont émergé."
+ trl_cannibalmutants_desc:0 "N'oublions pas d'où viennent les guerriers du Warren! Les tribus cannibales de l'Oregon ont fourni leurs meilleurs guerriers et coutumes au VEF au-dessous du Warren, et des générations de monstruosités cannibales ont émergé."
 
  trl_preparingthewarren:0 "Préparer le Warren"
  trl_preparingthewarren_desc:0 "Si le Warren doit se développer et s’épanouir, il doit devenir plus qu’il ne l’est déjà. Les armes, le commerce et mille autres choses doivent arriver à la ville avant qu’elles puissent vraiment être considérées comme excellentes."
