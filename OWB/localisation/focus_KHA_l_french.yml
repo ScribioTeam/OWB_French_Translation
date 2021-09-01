@@ -355,7 +355,7 @@
 
  KHA_focus_raise_new_wht_hosts:0 "Réunir les hôtes des Jambes Blanches"
  KHA_focus_raise_new_wht_hosts_desc:0 "De nombreuses tribus des Jambes Blanches ne sont pas des adeptes fanatiques de Caesar ou des Mormons. En effet, beaucoup sont prêts à servir n'importe quel maître sur la promesse de pillage et de gloire. Ils feront des recrues faciles."
- kha_raise_wht_warbands:0 "Une division de §RKhan Footrunners§! sera créée dans chaque état contrôlé qui est un état coeur de [WHT.GetNameWithFlag]."
+ kha_raise_wht_warbands:0 "Une division de §RKhan Footrunners§! sera créée dans chaque état contrôlé qui est un état national de [WHT.GetNameWithFlag]."
 
  KHA_focus_integrate_wht:0 "Nouveaux membres Khan"
  KHA_focus_integrate_wht_desc:0 "De nombreuses personnes au sein des Jambes Blanches ne se sont jamais opposées à l'adhésion aux Khans et ont également une expérience significative de la survie dans les déserts. Nous ne devons pas laisser ce talent se perdre !"

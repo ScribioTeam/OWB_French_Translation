@@ -102,7 +102,7 @@
 
  sickness_of_soot_modifier:0 "La Maladie de Suie"
  sickness_of_soot:0 "La Maladie de Suie"
- sickness_of_soot_desc:0 "Une maladie dégoûtante s'est répandue sur nos terres, des furoncles et des plaques de peste couleur de suie se développent sur certains de nos meilleurs guerriers. Nos médecins pensent pouvoir la guérir et soigner leur maladie - mais cela prendra du temps. Des recherches ou une assistance médicale supplémentaires pourraient accélérer notre rétablissement.\n\nFacteur de Population Recrutable : [?soot_conscription_malus|§R%2]\nAttaque de division sur le territoire cœur : [?soot_attack_malus|§R%1]\nDéfense de division sur le territoire cœur : [?soot_defence_malus|§R%1]\n\n Taux de récupération actuel : [?soot_recovery_rate|§G%]\nSemaines restantes estimées : [?soot_remaining_weeks|§R0]"
+ sickness_of_soot_desc:0 "Une maladie dégoûtante s'est répandue sur nos terres, des furoncles et des plaques de peste couleur de suie se développent sur certains de nos meilleurs guerriers. Nos médecins pensent pouvoir la guérir et soigner leur maladie - mais cela prendra du temps. Des recherches ou une assistance médicale supplémentaires pourraient accélérer notre rétablissement.\n\nFacteur de Population Recrutable : [?soot_conscription_malus|§R%2]\nAttaque de division sur le territoire national : [?soot_attack_malus|§R%1]\nDéfense de division sur le territoire national : [?soot_defence_malus|§R%1]\n\n Taux de récupération actuel : [?soot_recovery_rate|§G%]\nSemaines restantes estimées : [?soot_remaining_weeks|§R0]"
 
  pantheon_sunstroke:0 "L'insolation"
  pantheon_false_science:0 "Fausse Science"

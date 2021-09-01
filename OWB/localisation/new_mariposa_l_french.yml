@@ -12,7 +12,7 @@
  new_mariposa_rebuild_new_mariposa:0 "Redynamiser notre nouvelle capitale"
  new_mariposa_rebuild_new_mariposa_desc:0 "Notre nouvelle capitale, New Mariposa, est dans une position précaire. Bien qu'il s'agisse d'un lieu important pour les mutants, elle est stérile en termes de ressources et de main-d'œuvre. Nous avons besoin d'une capitale appropriée pour notre nouvelle nation ! Déplaçons les ressources de certaines de nos villes conquises et amenons-les dans la grande capitale !"
  new_mariposa_move_resources_north_tt:84 "Toutes les ressources de [84.GetName] et [179.GetName] sont déplacées dans [Root.Capital.GetName]"
- new_mariposa_move_resources_north_not_own_south_tt:0 "\nSi nous contrôlons l'ensemble de l'ancien territoire du Maître ainsi que Washington, nous en ferons un état coeur au lieu de ce territoire.\n"
+ new_mariposa_move_resources_north_not_own_south_tt:0 "\nSi nous contrôlons l'ensemble de l'ancien territoire du Maître ainsi que Washington, nous en ferons un état national au lieu de ce territoire.\n"
  new_mariposa_move_resources_south_tt:253 "Toutes les ressources de [253.GetName] et de [1.GetName] sont déplacées dans [Root.Capital.GetName]"
  new_mariposa_move_resources_neither_tt:0 "Nous avons besoin de plus d'États pour avoir un effet"
  mariposa_true:0 "£trigger_yes "

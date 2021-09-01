@@ -11,8 +11,8 @@
  string_fallout_toolbar_drop_down_button_help:0 "[GetMiscButtonTTHint]"
 
  string_fallout_tab_button_tt_1:0 "§Y[This.GetCoringTabTitle]§! \n[This.GetCoringTabDesc]"
- string_fallout_coring_tab_title:0 "États non coeur"
- string_fallout_coring_tab_desc:0 "Voir les états qui ne sont pas vos états coeur et les rendre coeur, si possible."
+ string_fallout_coring_tab_title:0 "États non national"
+ string_fallout_coring_tab_desc:0 "Voir les états qui ne sont pas vos états national et les rendre national, si possible."
  string_fallout_tlaloc_coring_tab_title:0 "Restaurer le réseau électrique"
  string_fallout_tlaloc_coring_tab_desc:0 "Voir les états qui ne sont pas connectés à Chico-Net et les connecter, si possible."
 

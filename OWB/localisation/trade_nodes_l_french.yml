@@ -42,7 +42,7 @@
  TRADE_NODE_TOTAL_VALUE_TT:0 "La valeur de totale du §ynœud économique§! §Y[?current_node_name.GetName]§! est actullement de §G[?current_node_value|2]k§! [GetCapCurrencyType]."
  TRADE_NODE_TOTAL_VALUE_TT_DELAYED:0 "\n[GetNodeNonCoreResistance]  [GetMainNodeMultiplier] \n [GetTradeNodeTotalValueTTHint]"
  string_trade_node_modifiers_core_resistance:0 "Modificateur de Résistance : [?temp_resistance|0+=%]"
- string_trade_node_modifiers_noncore_resistance:0 "Modificateur de Résistance : [?temp_resistance|0+=%] \nModificateur Non-Cœur : [?non_core_temp|0+=%]"
+ string_trade_node_modifiers_noncore_resistance:0 "Modificateur de Résistance : [?temp_resistance|0+=%] \nModificateur Non-national : [?non_core_temp|0+=%]"
 
  TRADE_NODE_PROGRESS:0 "Progression : §Y[?current_node_progress_percentage_temp|2%]§!"
  TRADE_NODE_PROGRESS_TT:0 "La progression du §ynœud économique§! §Y[?current_node_name.GetName]§! vers une possible promotion est actuellement de §Y[?current_node_progress_percentage_temp|2%]§!."

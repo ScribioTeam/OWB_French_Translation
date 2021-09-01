@@ -5,11 +5,11 @@
  PUPPET_LEDGER_PP_TT:0 "§YPouvoir politique§!\nChangement de pouvoir: [? political_power_daily|2+] par jour.\nValeur de base : §Y2.00§!"
  PUPPET_LEDGER_STABILITY_TT:0 "§YStabilité§!\nStabilité actuelle: [This.GetPuppetLedgerStabilityColor][?stability|2%]§!"
  PUPPET_LEDGER_WAR_SUPPORT_TT:0 "§YSoutien à la guerre§! \nSoutien actuel à la guerre: [This.GetPuppetLedgerWarSupportColor][?has_war_support|2%]§!"
- PUPPET_LEDGER_MANPOWER_TT:0 "§YMain d'oeuvre§! \nMain d'oeuvre disponible : §Y[This.GetPuppetLedgerManpower]§! \nMain d'oeuvre utilisée : §Y[This.GetPuppetLedgerUsedManpower]§! \n   - En entraînement : §Y[This.GetPuppetLedgerManpowerInTraining]§! \n\nMain d'oeuvre totale : §Y[This.GetPuppetLedgerMaxAvailableManpower]§! \n§Y[?modifier@conscription|2%]§! de la population des états coeurs éligible (§Y[This.GetPuppetLedgerMaxManpower]§!) [This.GetPuppetLedgerConscriptionFactor]"
+ PUPPET_LEDGER_MANPOWER_TT:0 "§YMain d'oeuvre§! \nMain d'oeuvre disponible : §Y[This.GetPuppetLedgerManpower]§! \nMain d'oeuvre utilisée : §Y[This.GetPuppetLedgerUsedManpower]§! \n   - En entraînement : §Y[This.GetPuppetLedgerManpowerInTraining]§! \n\nMain d'oeuvre totale : §Y[This.GetPuppetLedgerMaxAvailableManpower]§! \n§Y[?modifier@conscription|2%]§! de la population des états nationaux éligible (§Y[This.GetPuppetLedgerMaxManpower]§!) [This.GetPuppetLedgerConscriptionFactor]"
  PUPPET_LEDGER_INDUSTRIAL_CAPACITY_TT:0 "§YUsines§! \nUsines d'armement utilisées : §Y[?military_factories_in_use|0]§!/§Y[?num_of_military_factories|0]§! \nArsenaux maritimes utilisés : §Y[?naval_factories_in_use|0]§!/§Y[?num_of_naval_factories|0]§! \nUsines civiles utilisées : §Y[?civilian_factories_in_use|0]§!/§Y[?num_of_civilian_factories|0]§!"
  PUPPET_LEDGER_FUEL_TT:0 "§YCellules énergétiques§!"
  PUPPET_LEDGER_NAVY_TT:0 "§YFlotte§! \nNombre actuel de navires : §Y[?num_of_ships|0]§!"
- PUPPET_LEDGER_CONSCRIPTION_LAW_TT:0 "§YLoi de Conscription§! \nLa loi de conscription actuelle est §Y[This.GetConscriptionLawName]§! qui conscrit §Y[This.GetConscriptionLawPercentage]§! de la population des états coeurs."
+ PUPPET_LEDGER_CONSCRIPTION_LAW_TT:0 "§YLoi de Conscription§! \nLa loi de conscription actuelle est §Y[This.GetConscriptionLawName]§! qui conscrit §Y[This.GetConscriptionLawPercentage]§! de la population des états nationaux."
  legion_vassal:0 "Sujet tribal"
 
   # Scripted Localisation:
