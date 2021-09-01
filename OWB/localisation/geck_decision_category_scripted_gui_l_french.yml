@@ -2,10 +2,10 @@
   # GUIs:
  GECK_DECISION_CATEGORY_SCRIPTED_GUI_ENTRY_BUTTON_TT:0 "[This.GetGECKUsabilityTooltip]"
 
- GECK_IN_USE_TOOLTIP:0 "Vous ne pouvez pas sélectionner un nouvel état avant que le déploiement G.E.C.K. actuel soit terminé."
- GECK_USABLE_TOOLTIP:0 "§GCliquer§! pour sélectionner / désélectionner §Y [This.GetName]§! comme état pour un déploiement G.E.C.K."
- GECK_TOO_DEVELOPED_TOOLTIP:0 "§Y[This.GetName]§! est trop développé pour un déploiement G.E.C.K.; nous risquions de causer de graves dommages à notre infrastructure existante."
- GECK_IMPASSABLE_TOOLTIP:0 "§Y[This.GetName]§! est trop inaccessible pour justifier un déploiement G.E.C.K."
+ GECK_IN_USE_TOOLTIP:0 "Vous ne pouvez pas sélectionner un nouvel état avant que le déploiement J.E.K. actuel soit terminé."
+ GECK_USABLE_TOOLTIP:0 "§GCliquer§! pour sélectionner / désélectionner §Y [This.GetName]§! comme état pour un déploiement J.E.K."
+ GECK_TOO_DEVELOPED_TOOLTIP:0 "§Y[This.GetName]§! est trop développé pour un déploiement J.E.K.; nous risquions de causer de graves dommages à notre infrastructure existante."
+ GECK_IMPASSABLE_TOOLTIP:0 "§Y[This.GetName]§! est trop inaccessible pour justifier un déploiement J.E.K."
 
  GECK_USABLE_NAME:0 "[This.GetName]"
  GECK_UNUSABLE_NAME:0 "§g[This.GetName]§!"
@@ -14,13 +14,13 @@
 
   # Decisions:
  geck_decision_category:0 "Kits de création de Jardins de l'Eden"
- geck_decision_category_desc:0 "Le Kit de Création des Jardins de l'Eden (G.E.C.K. pour Garden of Eden Creation Kit) est un dispositif capable de modifier radicalement les Terres Désolées et de transformer un sol mort et irradié en un terrain viable, propice à l'agriculture. Une fois déployé, un G.E.C.K. effondrera toute matière dans son rayon donné et la recombinera pour former un paysage vierge vivant, respirant et fertile et permettre à la vie de recommencer à zéro."
+ geck_decision_category_desc:0 "Le Kit de Création des Jardins de l'Eden (J.E.K. pour Garden of Eden Creation Kit) est un dispositif capable de modifier radicalement les Terres Désolées et de transformer un sol mort et irradié en un terrain viable, propice à l'agriculture. Une fois déployé, un J.E.K. effondrera toute matière dans son rayon donné et la recombinera pour former un paysage vierge vivant, respirant et fertile et permettre à la vie de recommencer à zéro."
 
  deploy_geck:0 "[GetDeployGeckDecisionName]"
- GECK_DECSION_NAME_WITHOUT_TARGET:0 "Déployer un G.E.C.K."
- GECK_DECSION_NAME_WITH_TARGET:0 "Déployer un G.E.C.K. en [?geck_target_state.GetName]"
+ GECK_DECSION_NAME_WITHOUT_TARGET:0 "Déployer un J.E.K."
+ GECK_DECSION_NAME_WITH_TARGET:0 "Déployer un J.E.K. en [?geck_target_state.GetName]"
 
  GECK_HAS_SELECTED_STATE:0 "A sélectionné un état dans la liste ci-dessus"
  GECK_STATE_GETS_EFFECTS:1 "§Y1x§! §G50%§! Bonus de recherche pour : §YConstruction§!.\n§Y1x§! §G50%§! Bonus de recherche pour : §YAgriculture§!.\n§YÉtat sélectionné§! : \n    La catégorie des modifications d'état passe au type §YColonie fortifiéet§!.\n   Ajoute §Y2 Usines civiles§!.\n   Ajoute §Y3 Infrastructures§!.\n   Ajoute la production de §Y8 énergie§! dans l'état sélectionné.\n   Ajoute la production de §Y8 eau§! dans l'état sélectionné."
 
- GECK_INVENTORY_TEXT:0 "Inventaire G.E.C.K.: §Y[?geck_count]§! £geck_texticon"
+ GECK_INVENTORY_TEXT:0 "Inventaire J.E.K.: §Y[?geck_count]§! £geck_texticon"
