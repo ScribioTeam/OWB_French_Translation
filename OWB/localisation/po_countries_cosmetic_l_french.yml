@@ -406,12 +406,12 @@
  NCR_BOS_autonomy_brotherhood_dependency:0 "Californie d'Acier"
  NCR_BOS_autonomy_brotherhood_dependency_DEF:0 "La Californie d'Acier"
 
- BON_BOS_autonomy_brotherhood_initiate:0 "Chapitre du Boneyard"
- BON_BOS_autonomy_brotherhood_initiate_DEF:0 "Le Chapitre du Boneyard"
- BON_BOS_autonomy_brotherhood_protectorate:0 "Protectorat du Boneyard"
- BON_BOS_autonomy_brotherhood_protectorate_DEF:0 "Le Protectorat du Boneyard"
- BON_BOS_autonomy_brotherhood_dependency:0 "Boneyard d'Acier"
- BON_BOS_autonomy_brotherhood_dependency_DEF:0 "Le Boneyard d'Acier"
+ BON_BOS_autonomy_brotherhood_initiate:0 "Chapitre du Cimetière"
+ BON_BOS_autonomy_brotherhood_initiate_DEF:0 "Le Chapitre du Cimetière"
+ BON_BOS_autonomy_brotherhood_protectorate:0 "Protectorat du Cimetière"
+ BON_BOS_autonomy_brotherhood_protectorate_DEF:0 "Le Protectorat du Cimetière"
+ BON_BOS_autonomy_brotherhood_dependency:0 "Cimetière d'Acier"
+ BON_BOS_autonomy_brotherhood_dependency_DEF:0 "Le Cimetière d'Acier"
 
  BAR_BOS_autonomy_brotherhood_initiate:0 "Chapitre de la Californie du Nord"
  BAR_BOS_autonomy_brotherhood_initiate_DEF:0 "Le Chapitre de la Californie du Nord"
@@ -463,10 +463,10 @@
  BAR_CES_autonomy_client_tribe:0 "Légion de Californie du Nord"
  BAR_CES_autonomy_client_tribe_DEF:0 "La Légion de Californie du Nord"
 
- BON_CES_autonomy_tributary:0 "Tributarius du Boneyard"
- BON_CES_autonomy_tributary_DEF:0 "Le Tributarius du Boneyard"
- BON_CES_autonomy_client_tribe:0 "Légion du Boneyard"
- BON_CES_autonomy_client_tribe_DEF:0 "La Légion du Boneyard"
+ BON_CES_autonomy_tributary:0 "Tributarius du Cimetière"
+ BON_CES_autonomy_tributary_DEF:0 "Le Tributarius du Cimetière"
+ BON_CES_autonomy_client_tribe:0 "Légion du Cimetière"
+ BON_CES_autonomy_client_tribe_DEF:0 "La Légion du Cimetière"
 
  NCR_CES_autonomy_tributary:0 "Tributarius de Californie"
  NCR_CES_autonomy_tributary_DEF:0 "Le Tributarius de Californie"
