@@ -2,32 +2,32 @@
   # race
  two_start_race_preparations:0 ""
 
- two_invite:0 "§LWe will start preparing for Wyatt's journey to other great racers.§!"
- two_invite_80:0 "§LThis focus will allow us to send Wyatt to §!§Y[EHT.GetName]§!§L — the great race warriors of Utah.§!"
- two_invite_imo:0 "§LThis focus will allow us to send Wyatt to §!§Y[IMO.GetName]§!§L — the armoured titans of Texas.§!"
- two_invite_new:0 "§LThis focus will allow us to send Wyatt to §!§Y[NEW.GetName]§!§L — the home of the best East Coast Chop Shops.§!"
- two_invite_gdh:0 "§LThis focus will allow us to send Wyatt to §!§Y[GDH.GetName]§!§L — our speedy neighbours.§!"
- two_merge_invitation_ideas:0 "§LThis will merge all our previous national ideas, which we have learned from other nations, into one.§!"
- two_complete_deadline:0 "§LCompleting this focus will cancel the §Yinvitations deadline§!§L.§!"
+ two_invite:0 "§LNous allons commencer à préparer le voyage de Wyatt vers d'autres grands pilotes.§!"
+ two_invite_80:0 "§LCette priorité nous permettra d'envoyer Wyatt chez §!§Y[EHT.GetName]§!§L - les grands guerriers de la course de l'Utah.§!"
+ two_invite_imo:0 "§LCette priorité nous permettra d'envoyer Wyatt vers §!§Y[IMO.GetName]§!§L - les titans blindés du Texas.§!"
+ two_invite_new:0 "§LCette priorité nous permettra d'envoyer Wyatt à §!§Y[NEW.GetName]§!§L - le foyer des meilleurs Chop Shops de la côte Ouest.§!"
+ two_invite_gdh:0 "§LCette priorité nous permettra d'envoyer Wyatt à la §!§Y[GDH.GetName]§!§L - nos voisins pressés.§!"
+ two_merge_invitation_ideas:0 "§LCela permettra de fusionner toutes nos iesprits nationaux précédents, que nous avons appris des autres nations, en un seul.§!"
+ two_complete_deadline:0 "§L'achèvement de cette priorité annulera la §YDate limite pour les invitations§!§L.§!"
 
  motorized_cost:0 "§H[?motorized_equipment_display]§!£unit_motorized_icon_small"
  motorized_cost_blocked:0 "§H[?motorized_equipment_display]§!£unit_motorized_icon_small"
- motorized_cost_tooltip:0 "It costs §H[?motorized_equipment_display]§!£unit_motorized_icon_small  to select this."
+ motorized_cost_tooltip:0 "Cela coûte §H[?motorized_equipment_display]§!£unit_motorized_icon_small   pour le sélectionner."
 
- two_hire_buck:0 "§LUnlocks §YBuck Teague§!§L as an advisor.§!"
- two_allow_boxes:0 "§LGrants foreign §YGreat Race§!§L participants rights to build boxes in §Y[516.GetName]§!§L.§!"
+ two_hire_buck:0 "§LDéverrouille §YBuck Teague§!§L en tant que conseiller.§!"
+ two_allow_boxes:0 "§LAccorde aux participants étrangers de la §YGrande Course§!§L le droit de construire des boîtes à §Y[516.GetName]§!§L.§!"
 
- two_small_navy_advisor:0 "§LUnlocks §!§YRudel Castro§!§L as an advisor.§!"
- two_large_navy_advisor:0 "§LUnlocks §!§YMerito Mortimer§!§L as an advisor.§!"
+ two_small_navy_advisor:0 "§LDéverrouille §!§YRudel Castro§!§L en tant que conseiller.§!"
+ two_large_navy_advisor:0 "§LDéverrouille §!§YMerito Mortimer§!§L en tant que conseiller.§!"
 
- two_tracks_building_start:0 "§LBy expanding our infrastructure we are going to open up new avenues for trade, improving our access to important resources, which in turn will greatly benefit our home industry.§!"
- two_tracks_building_process:0 "§LThis focus will increase the positive effect of our tracks.§!"
+ two_tracks_building_start:0 "§LEn développant nos infrastructures, nous allons ouvrir de nouvelles voies pour le commerce, améliorer notre accès à d'importantes ressources, ce qui, à son tour, profitera grandement à notre industrie nationale.§!"
+ two_tracks_building_process:0 "§LCette priorité permettra d'accroître l'effet positif de nos pistes.§!"
 
- great_race_participant:0 "Is a §YGreat Race§! participant"
- two_gdh_friendship:0 "We have been granted access to Gentes roads"
- two_launch_race:0 "§LCompleting this focus will start §!§Ythe Great Race§!§L.§!"
- two_unlock_ruby_tt:0 "Unlocks a military research advisor."
+ great_race_participant:0 "Est un participant de la §YGrande Course§!"
+ two_gdh_friendship:0 "Nous avons obtenu l'accès aux routes de Gentes"
+ two_launch_race:0 "§LEn complétant cette priorité, vous commencerez §!§Yla Grande Course§!§L.§!"
+ two_unlock_ruby_tt:0 "Débloque un conseiller en recherche militaire."
 
- TWO_OWB_DESC:0 "Founded upon the Ruins of Tucson, the formerly second largest City in Arizona, Two Sun has since developed their previous obsession for motor sport into an outright religious movement the Cult of Nas. They have since then become a client state of the legion, venerating Caesar as part of their Pantheon, making themselves indispensable to his cause by carrying his wrath across the wastes on their impressive vehicles.\nTwo Suns entire culture revolves around the race track and they seek to hold nothing short of the Greatest Race of all time, with the greatest racers of the wasteland all in attendance."
+ TWO_OWB_DESC:0 "Fondée sur les ruines de Tucson, l'ancienne deuxième plus grande ville de l'Arizona, Two Sun a depuis développé son ancienne obsession pour le sport automobile en un véritable mouvement religieux, le culte de Nas. Ils sont depuis devenus un état client de la légion, vénérant Caesar comme faisant partie de leur Panthéon, se rendant indispensables à sa cause en transportant sa colère à travers les terres sauvages sur leurs impressionnants véhicules.\nLa culture entière de Two Suns tourne autour de la piste de course et ils cherchent à organiser rien de moins que la plus grande course de tous les temps, avec les plus grands pilotes des Terres Désolées tous présents."
 
- two_cow_conquest_trigger_tt:0 "§YCaesar§!§W has allowed us to start a campaign against §Y[COW.GetName]§!§W.§!"
+ two_cow_conquest_trigger_tt:0 "§YCaesar§!§W nous a permis de lancer une campagne contre §Y[COW.GetName]§!§W.§!"

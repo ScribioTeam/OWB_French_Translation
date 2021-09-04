@@ -72,44 +72,44 @@
  two_wyatt_trip_5:0 "en passant par les jardins d'Eden"
  two_wyatt_trip_6:0 "séjournant à Two Sun"
 
- riding:0 "Wyatt is [two_wyatt_trip]."
+ riding:0 "Wyatt est [two_wyatt_trip]."
  riding_desc:0 ""
 
- invitations_timeout:0 "Invitations deadline"
- invitations_timeout_desc:0 "It won't do if rumors move faster than our great racers."
+ invitations_timeout:0 "Date limite pour les invitations"
+ invitations_timeout_desc:0 "Il ne faut pas que les rumeurs aillent plus vite que nos grands pilotes."
 
- send_to_eht:0 "Send an invitation to the Eighties"
+ send_to_eht:0 "Envoyer une invitation aux 80"
  send_to_eht_desc:0 ""
 
- send_to_new:0 "Send an invitation to New Reno"
+ send_to_new:0 "Envoyer une invitation à New Reno"
  send_to_new_desc:0 ""
 
- send_to_gdh:0 "Send an invitation to Gente Del Sol"
+ send_to_gdh:0 "Envoyer une invitation à la Gente Del Sol"
  send_to_gdh_desc:0 ""
 
- send_to_imo:0 "Send an invitation to the Ironmongers"
+ send_to_imo:0 "Envoyer une invitation aux Ferronniers"
  send_to_imo_desc:0 ""
 
   # decisions
- two_great_race_building:0 "Great Race Preparation"
+ two_great_race_building:0 "Grande Préparation de la Course"
  two_great_race_building_desc:0 ""
 
- race_tracks:0 "Build New Tracks"
+ race_tracks:0 "Construire de Nouvelles Pistes"
  race_tracks_desc:0 ""
 
- practice_race_1:0 "Run a Practice Race"
+ practice_race_1:0 "Faites une Course d'Entraînement"
  practice_race_1_desc:0 ""
 
- practice_race_2:0 "Apply what we have learned"
+ practice_race_2:0 "Appliquer ce que nous avons appris"
  practice_race_2_desc:0 ""
 
- technological_advancement:0 "Test New Prototypes"
+ technological_advancement:0 "Tester de Nouveaux Prototypes"
  technological_advancement_desc:0 ""
 
- chop_shops:0 "Buy New Parts"
+ chop_shops:0 "Acheter de Nouvelles Pièces"
  chop_shops_desc:0 ""
 
- open_boxes_in_two:0 "Garages of our own"
+ open_boxes_in_two:0 "Nos propres garages"
  open_boxes_in_two_desc:0 ""
 
   # events locs GFX_event_twosun_car
@@ -120,17 +120,17 @@
 
  GetRaceEvent:0 "[RacePlace]"
 
- RaceTitle1:0 "3...2...1... Go!"
- RaceTitle2:0 "The Road West"
- RaceTitle3:0 "The Yuma Turn"
- RaceTitle4:0 "The Mountain Pass"
- RaceTitle5:0 "The Finish Line"
+ RaceTitle1:0 "3...3...1... Partez!"
+ RaceTitle2:0 "La Route de l'Ouest"
+ RaceTitle3:0 "Le Virage de Yuma"
+ RaceTitle4:0 "Le Passage de la Montagne"
+ RaceTitle5:0 "La Ligne d'Arrivée"
 
- RacePlace1:0 "The Racers have taken off from the temple of Mars mere moments ago, beginning their epic journey across Sonora. Currently our contestants are hindered from showing the full power of their vehicles  by the rough terrain, however with each of the racers determined to be the first to pull ahead to reach the open roads of the west first, there is no doubt that the competition has already started.\nOur first reports have finally reached us and it seems that [race_tag1] leads the early laps, while [race_tag2] is able to stay close behind him and keep the pressure on, all the while putting enough of a gap – never more than five seconds but always bigger than the one in front – to [race_tag3] behind him. Meanwhile [race_tag4] is recovering from a spin, but still manages to overtake [race_tag5], we will of course be right back with you as the race enters the second stage."
- RacePlace2:0 "Here we are yet again with another status report, the racers have passed the mountains of Arizona and entered the fertile and wide open plains of Sonora at full speed and our observers are sadly only able to determine their current location due to the roaring of their engines and the tremendous dust clouds our racers leave behind. None the less we have been able to conclude that [race_tag2] pressured [race_tag3] into a lock-up and then set up a brilliant around-the-outside pass turn four to move into third place. But he was unwilling to then push for second place straight away, saving his tyres. That position became his anyway, as [race_tag5] car slowed down nearly to a halt at the halfway point around the tip of Sonora forcing him to hold and do repairs, allowing [race_tag4] to ride past him. During all of this [race_tag1] has managed to expand an earlier lead he had since the racers have left Oro Valley."
- RacePlace3:0 "We have once again been brought news of our competitors, this time from the beautiful sunshine coast as the racers try to outdo each other taking the treacherous turns that closely follow the Gente coastline. Even the slightest misstep could spell the early end to their ambitions, none the less they rarely ever slow down, displaying their drifting prowess at every turn.\n[race_tag1] entered the first obstacle flawlessly. [race_tag5] however made the one mistake of the day. He entered a little bit tighter than he should’ve and took [race_tag4] along with him, that cost him dearly. This cost them dearly, throwing both temporarily off the road, costing them precious seconds, allowing [race_tag2] and [race_tag3] to pass them by and close in on [race_tag1]."
- RacePlace4:0 "We have once again spotted our neck on neck riding competitors after we lost sight of them leaving Gente City, they have since entered the treacherous mountain passes of east Sonora and while the tight track itself offers few opportunities for one racer to pull ahead, these are the best, so we shouldn’t be surprised about any rapid changes that may take place in this most inhospitable section of the race.\nOur mountain trackers have identified [race_tag1] in the lead, with [race_tag2] following close behind, while [race_tag3], [race_tag4] and [race_tag5] were briefly slowed down as each of them tired to ram the other two down the cliff."
- RacePlace5:0 "Ladies and gentleman, super mutants, boys, girls and ghouls as you can undoubtedly tell by the dust clouds being thrown up in the distance our racers have finally arrived and the fact that none of them have been eliminated along the way or have fallen significantly behind can only be seen as a testament to their driving skills, this is still everyone’s game.\nI am happy to announce that [race_tag1] has taken the lead by almost an arm’s length with [race_tag2] having taken the position right next to him, in the shadows of these two legends I can spot [race_tag3] as well as [race_tag4] ready to take this race on the final meters, slightly behind them all, but quickly picking up speed is [race_tag5].\nClearly we are going to be able to pronounce the winner of the first Great Race of Two Sun any second now."
+ RacePlace1:0 "Les Pilotes ont démarré du temple de Mars il y a quelques instants, entamant leur voyage épique à travers Sonora. Pour l'instant, nos concurrents ne peuvent pas montrer toute la puissance de leurs véhicules à cause du terrain accidenté, mais avec chacun des pilotes déterminés à être le premier à prendre de l'avance pour atteindre les routes ouvertes de l'ouest, il ne fait aucun doute que la compétition a déjà commencé.\nNos premiers rapports nous sont enfin parvenus et il semble que [race_tag1] mène les premiers tours, tandis que [race_tag2] parvient à rester proche derrière lui et à maintenir la pression, tout en creusant un écart suffisant - jamais plus de cinq secondes mais toujours plus grand que celui qui le précède - avec [race_tag3] derrière lui. Pendant ce temps, [race_tag4] se remet d'un tête-à-queue, mais parvient tout de même à dépasser [race_tag5]. Nous vous retrouverons bien sûr à l'entame de la deuxième étape de la course."
+ RacePlace2:0 "Les pilotes ont dépassé les montagnes de l'Arizona et sont entrés à pleine vitesse dans les plaines fertiles et ouvertes de Sonora. Malheureusement, nos observateurs ne sont capables de déterminer leur position actuelle qu'en raison du vrombissement de leurs moteurs et des énormes nuages de poussière que nos pilotes laissent derrière eux. Néanmoins, nous avons été en mesure de conclure que [race_tag2] a mis la pression sur [race_tag3] pour qu'il s'immobilise, puis a réalisé un brillant dépassement dans le quatrième virage pour prendre la troisième place. Mais il n'a pas voulu pousser pour la deuxième place tout de suite, pour préserver ses pneus. Cette position est devenue la sienne de toute façon, car la voiture de [race_tag5] a ralenti et s'est presque arrêtée à mi-chemin de la pointe de Sonora, ce qui l'a obligé à attendre et à faire des réparations, permettant à [race_tag4] de le dépasser. Pendant tout ce temps, [race_tag1] a réussi à augmenter l'avance qu'il avait depuis que les coureurs ont quitté Oro Valley."
+ RacePlace3:0 "Nous avons une fois de plus reçu des nouvelles de nos concurrents, cette fois-ci de la magnifique Sunshine Coast, où les coureurs tentent de se surpasser en prenant les virages dangereux qui suivent de près la côte de Gente. Le moindre faux pas pourrait mettre fin à leurs ambitions, mais ils ne ralentissent jamais, montrant leurs prouesses de dérive à chaque tournant.\n[race_tag1] a franchi le premier obstacle sans encombre. [race_tag5] a cependant fait la seule erreur de la journée. Il est entré un peu plus étroitement qu'il n'aurait dû et a entraîné [race_tag4] avec lui, ce qui lui a coûté cher. Cela leur a coûté cher. Ils sont sortis temporairement de la route, ce qui leur a fait perdre de précieuses secondes, permettant à [race_tag2] et [race_tag3] de les dépasser et de se rapprocher de [race_tag1]."
+ RacePlace4:0 "Nous avons de nouveau repéré nos concurrents au coude à coude après les avoir perdus de vue au départ de Gente City, ils sont depuis entrés dans les cols de montagne traîtres de l'est de Sonora et bien que la piste serrée en elle-même offre peu d'opportunités pour un coureur de prendre de l'avance, ce sont les meilleurs, donc nous ne devrions pas être surpris des changements rapides qui pourraient avoir lieu dans cette section la plus inhospitalière de la course.\nNos pisteurs de montagne ont identifié [race_tag1] en tête, avec [race_tag2] qui suit de près, tandis que [race_tag3], [race_tag4] et [race_tag5] ont été brièvement ralentis par la fatigue de chacun d'entre eux pour pousser les deux autres en bas de la falaise."
+ RacePlace5:0 "Mesdames et messieurs, super mutants, garçons, filles et goules, comme vous pouvez sans doute le constater par les nuages de poussière qui s'élèvent au loin, nos coureurs sont enfin arrivés et le fait qu'aucun d'entre eux n'ait été éliminé en cours de route ou n'ait pris un retard significatif ne peut être considéré que comme un témoignage de leurs compétences de conduite, c'est encore le jeu de tout le monde.\nJ'ai le plaisir de vous annoncer que [race_tag1] a pris la tête de presque une longueur de bras avec [race_tag2] ayant pris la position juste à côté de lui, dans l'ombre de ces deux légendes je peux apercevoir [race_tag3] ainsi que [race_tag4] prêt à prendre cette course sur les derniers mètres, légèrement derrière eux tous, mais prenant rapidement de la vitesse est [race_tag5].\nIl est clair que nous allons pouvoir prononcer le nom du vainqueur de la première Grande Course de Two Sun d'une seconde à l'autre."
 
  two_TWO_loc:0 "Wyatt"
  two_EHT_loc:0 "Thunderbird"
@@ -138,14 +138,14 @@
  two_GDH_loc:0 "Suneater"
  two_IMO_loc:0 "Juggernaut"
 
- two_TWO_winner_loc:0 "Wyatt from Two Sun"
- two_EHT_winner_loc:0 "Thunderbird from Eighties"
- two_NEW_winner_loc:0 "Jalabert from New Reno"
- two_GDH_winner_loc:0 "Suneater from Gente del Sol"
- two_IMO_winner_loc:0 "Juggernaut from Ironmongers"
+ two_TWO_winner_loc:0 "Wyatt de Two Sun"
+ two_EHT_winner_loc:0 "Thunderbird venant des 80"
+ two_NEW_winner_loc:0 "Jalabert de New Reno"
+ two_GDH_winner_loc:0 "Suneater de la Gente del Sol"
+ two_IMO_winner_loc:0 "Juggernaut des Ferronniers"
 
- RaceOption1:0 "May the best win"
- RaceOption2:0 "Just you wait till he reaches the open planes"
- RaceOption3:0 "Drifting is our speciality"
- RaceOption4:0 "We are not slowing down"
- RaceOption5:0 "Gas! Gas! Gas!"
+ RaceOption1:0 "Que le meilleur gagne !"
+ RaceOption2:0 "Attends juste qu'il atteigne les plaines ouvertes."
+ RaceOption3:0 "Le drift est notre spécialité"
+ RaceOption4:0 "Nous ne ralentissons pas"
+ RaceOption5:0 "Appuie sur le champignon !"

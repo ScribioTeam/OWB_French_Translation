@@ -5,316 +5,316 @@
  # Written by [Rhacius], redacted by [Theranis], shamelessly used by CGS
 
   # Introduction
- two_sun_tucson:0 "Tucson legacy"
- two_sun_tucson_desc:0 "Before the war, Tucson was one of the scientific centres of USA, home to the University of Arizona, major military development projects, and its underground races. Today, the city is known only to a handful of ghouls. But the Legacy of Tucson still influences Two Sun atop its ruins."
+ two_sun_tucson:0 "L'Héritage de Tucson"
+ two_sun_tucson_desc:0 "Avant la guerre, Tucson était l'un des centres scientifiques des États-Unis, abritant l'université d'Arizona, de grands projets de développement militaire et ses courses souterraines. Aujourd'hui, la ville n'est plus connue que par une poignée de goules. Mais l'héritage de Tucson influence toujours Two Sun au sommet de ses ruines."
 
- two_sun_religion:0 "Cult of Nas"
- two_sun_religion_desc:0 "Nas is Speed. Nas is the race. Nas is the chariot, the fumes, the screech of the tires. Nas is the Car, and Two Sun are its acolytes."
+ two_sun_religion:0 "Culte de Nas"
+ two_sun_religion_desc:0 "Nas est la vitesse. Nas est la course. Nas est le char, les fumées, le crissement des pneus. Nas est la voiture, et Two Sun sont ses acolytes."
 
- two_sun_will:0 "Wyatt the Demon"
- two_sun_will_desc:0 "Wyatt the Demon is known and feared across Arizona, for good reason.\nHis persona is myth, his many deeds shrouded in mystery and the tall tales of those left in his dust. All that is clear, is his past."
+ two_sun_will:0 "Wyatt le Démon"
+ two_sun_will_desc:0 "Wyatt le Démon est connu et craint dans tout l'Arizona, pour de bonnes raisons.\nSon personnage est un mythe, ses nombreux actes sont enveloppés de mystère et les histoires à dormir debout de ceux qu'il a laissés dans la poussière. Tout ce qui est clair, c'est son passé."
 
- two_sun_caesar_rule:0 "Caesar's Rule"
- two_sun_caesar_rule_desc:0 "When the first troops of the Legion threatened the security of Two Sun itself, its racers were ready and raring to meet them, for death or glory in Nas' name. The actions of a lone courier convinced them otherwise. He came from the desert, alone, wearing the symbol of the Great Fox, he who once spread Nas' glory across the wastes. The Fox showed the people of Two Sun that Nas' will was not to attack, but to lay down arms, approach in peace, even offer gifts to the encroaching invaders. In doing so, the Fox brought the cult of Nas to the banner of the Bull. \nNow, Vulpes Inculta sits at Caesar's left hand, and has shown the Son of Mars that the Cult of Nas shines his light best when given a freer rein. For Nas is the race, but Mars is the contest. Mars is the battle on the track, the debris in the crash, the blood and sweat spilled as men fight and die in the name of First Place. Mars is the glory of victory, and Two Sun shall spread his name across the wastes."
+ two_sun_caesar_rule:0 "Règne de Caesar"
+ two_sun_caesar_rule_desc:0 "Lorsque les premières troupes de la Légion ont menacé la sécurité de Two Sun, ses coureurs étaient prêts et impatients de les rencontrer, pour la mort ou la gloire au nom de Nas. Les actions d'un coursier solitaire les ont convaincus du contraire. Il venait du désert, seul, portant le symbole du Grand Renard, celui qui avait autrefois répandu la gloire de Nas dans les terres. Le Renard a montré au peuple de Two Sun que la volonté de Nas n'était pas d'attaquer, mais de déposer les armes, de s'approcher en paix, et même d'offrir des cadeaux aux envahisseurs. Ce faisant, le Renard a fait passer le culte de Nas sous la bannière du Taureau. \nAujourd'hui, Vulpes Inculta est assis à la main gauche de César, et a montré au fils de Mars que le culte de Nas brille mieux lorsqu'on lui donne plus de liberté. Car Nas est la course, mais Mars est le concours. Mars, c'est la bataille sur la piste, les débris de l'accident, le sang et la sueur versés par les hommes qui se battent et meurent au nom de la première place. Mars, c'est la gloire de la victoire, et Two Sun répandra son nom sur les terres sauvages."
 
   # Civilian branch
- two_the_roads:0 "The Roads"
- two_the_roads_desc:0 "Two Sun has a long history, but for the first time in 200 years, that history is brought together under a strong government. Will Faster has brought together a council of Two Sun's greatest minds. Priests, mechanics, warriors and racers will all create the development plan for the city and the territories around it."
+ two_the_roads:0 "Les Routes"
+ two_the_roads_desc:0 "Two Sun a une longue histoire, mais pour la première fois en 200 ans, cette histoire est réunie sous un gouvernement fort. Will Faster a réuni un conseil composé des plus grands esprits de Two Sun. Prêtres, mécaniciens, guerriers et coureurs vont tous créer le plan de développement de la ville et des territoires qui l'entourent."
 
- two_scavenging_1:0 "Scavenging Program"
- two_scavenging_1_desc:0 "One of the programs intended for the acquirement of new material for our foundries and garages, the scavenger's highway has granted prospectors permission to break down some of the pre-war buildings in hopes of securing scrap and building materials for our projects. This has lead to entire steel beam structures being picked apart and shipped off to be melted down in our furnaces."
+ two_scavenging_1:0 "Programme de Récupération"
+ two_scavenging_1_desc:0 "L'un des programmes destinés à l'acquisition de nouveaux matériaux pour nos fonderies et nos garages, la route des charognards, a permis aux prospecteurs de démolir certains bâtiments d'avant-guerre dans l'espoir d'obtenir de la ferraille et des matériaux de construction pour nos projets. Des structures entières de poutres d'acier ont ainsi été démontées et expédiées pour être fondues dans nos fours."
 
- two_scavenging_2:0 "Technological Excavation"
- two_scavenging_2_desc:0 "With the success of the previous campaign, the council has decided to set a more ambitious goal. This time, scavengers will dig into old ruins to search for whatever advanced components might still remain intact."
+ two_scavenging_2:0 "Excavation Technologique"
+ two_scavenging_2_desc:0 "Vu le succès de la campagne précédente, le conseil a décidé de fixer un objectif plus ambitieux. Cette fois, les pilleurs creuseront dans de vieilles ruines à la recherche de composants avancés encore intacts."
 
- two_industry_1:0 "Taking Inventory"
- two_industry_1_desc:0 "There are countless garages all over our land. Some of them are improvised temples, some are rooted in the pre-war period, but all owe their glory to the name of Nas. Will Faster wants to initiate a thorough inventory to uncover more tools and forgotten technologies."
+ two_industry_1:0 "Faire l'Inventaire"
+ two_industry_1_desc:0 "Il existe d'innombrables garages dans tout notre pays. Certains sont des temples improvisés, d'autres sont enracinés dans la période d'avant-guerre, mais tous doivent leur gloire au nom de Nas. Will Faster veut lancer un inventaire minutieux pour découvrir d'autres outils et technologies oubliés."
 
  two_industry_2:0 "Développement industriel"
- two_industry_2_desc:0 "With the new record of tools, and a couple of uncovered blueprints to hand, we can now put them to use in our industry."
+ two_industry_2_desc:0 "Avec les nouveaux outils et quelques plans non couverts en main, nous pouvons maintenant les utiliser dans notre secteur."
 
- two_nogales_water:0 "Build Water Pumps in Nogales"
- two_nogales_water_desc:0 "Nogales is the second biggest city in our territories. This pre-war city now provides shelter for all comers, from immigrants from Mexico to runaway slaves seeking a home away from Caesar's piercing gaze. To keep those people in our lands, we have to provide them with water. The Council will organise the construction of new wells."
+ two_nogales_water:0 "Construire des Pompes à Eau à Nogales"
+ two_nogales_water_desc:0 "Nogales est la deuxième plus grande ville de nos territoires. Cette ville d'avant-guerre offre désormais un abri à tous les arrivants, des immigrants du Mexique aux esclaves en fuite qui cherchent un foyer loin du regard perçant de Caesar. Pour garder ces gens sur nos terres, nous devons leur fournir de l'eau. Le Conseil va organiser la construction de nouveaux puits."
 
- two_nogales_farms:0 "Develop Farming in Nogales"
- two_nogales_farms_desc:0 "Now that the supplies of drinking water are secure, we can focus on supporting Nogales' farmers. There are great numbers of immigrants who can settle there and cultivate the land around the city."
+ two_nogales_farms:0 "Développer l'Agriculture à Nogales"
+ two_nogales_farms_desc:0 "Maintenant que l'approvisionnement en eau potable est assuré, nous pouvons nous concentrer sur le soutien aux agriculteurs de Nogales. Il y a un grand nombre d'immigrants qui peuvent s'y installer et cultiver les terres autour de la ville."
 
- two_tombstone_garages:0 "Tombstone Garages"
- two_tombstone_garages_desc:0 "Tombstone is a small desert village. However, the plains around it are perfect for racing. To provide our drivers with appropriate maintenance, the Council has decided to open new Garages in Tombstone."
+ two_tombstone_garages:0 "Garages de Tombstone"
+ two_tombstone_garages_desc:0 "Tombstone est un petit village du désert. Cependant, les plaines qui l'entourent sont parfaites pour les courses. Afin de fournir à nos pilotes un entretien approprié, le Conseil a décidé d'ouvrir de nouveaux Garages à Tombstone."
 
- two_hilltop_garages:0 "Hilltop Garages"
- two_hilltop_garages_desc:0 "Hilltop is the next destination for our racers after Tombstone. We can extend our tracks from Two Sun to build the longest race in the Wastelands."
+ two_hilltop_garages:0 "Garages de Hilltop"
+ two_hilltop_garages_desc:0 "Hilltop est la prochaine destination pour nos pilotes après Tombstone. Nous pouvons étendre nos pistes depuis Two Sun pour construire la plus longue course des Terres Désolées."
 
- two_explotation:0 "United Country"
- two_explotation_desc:0 "With its projects done, the council can report a complete success. Our newfound infrastructure and control of our lands allows us to finally create a reliable exploitation industry."
+ two_explotation:0 "Pays Uni"
+ two_explotation_desc:0 "Avec ses projets terminés, le conseil peut annoncer un succès complet. Nos nouvelles infrastructures et le contrôle de nos terres nous permettent enfin de créer une industrie d'exploitation fiable."
 
   # The great race
- two_race_start:0 "§YThe Great Race§!"
+ two_race_start:0 "§YLa Grande Course§!"
  two_race_start_desc:0 ""
 
- two_race_invitations:0 "Step on the Gas"
- two_race_invitations_desc:0 "With the great race on the horizon and preparations well on the way, we can finally start sending out invitations, the carrier of which shall be none other than Wyatt himself.\nThis long and perilous journey shall lead him across the wastes and beyond; no other racer could be more suited for this monumental task."
+ two_race_invitations:0 "Appuie sur le Champignon !"
+ two_race_invitations_desc:0 "Avec la grande course à l'horizon et les préparatifs en cours, nous pouvons enfin commencer à envoyer les invitations, dont le porteur ne sera autre que Wyatt lui-même.\nCe long et périlleux voyage le mènera à travers les terres désolées et au-delà ; aucun autre coureur ne pourrait être mieux placé pour cette tâche monumentale."
 
- two_race_invitations_80:0 "Children of the Long 80"
- two_race_invitations_80_desc:0 "The Frumentarii returning from Utah tell us stories of a most remarkable tribe, known and feared for the speed and savagery with which they conduct their attacks. If their mastery of vehicles is truly as remarkable as they claim, they shall make a worthy foe that is very much deserving of an invitation."
+ two_race_invitations_80:0 "Enfants de la Long 80"
+ two_race_invitations_80_desc:0 "Les Frumentarii de retour d'Utah nous racontent l'histoire d'une tribu des plus remarquables, connue et redoutée pour la rapidité et la sauvagerie avec lesquelles ils mènent leurs attaques. Si leur maîtrise des véhicules est vraiment aussi remarquable qu'ils le prétendent, ils feront un ennemi digne de ce nom et méritant largement une invitation."
 
- two_race_invitations_80_2:0 "Poetic Justice"
- two_race_invitations_80_2_desc:0 "We would have never taken the scourge of the Long 80 for talented poets, yet the skill with which they form rhymes into almost melodic tunes is undeniable. However, their true strength lies in their resourcefulness, allowing them to drive their cars for days even in the desolate wastes of Utah, only ever-so-briefly stopping to refuel."
+ two_race_invitations_80_2:0 "Justice Poétique"
+ two_race_invitations_80_2_desc:0 "Nous n'aurions jamais pris le fléau de la Long 80 pour des poètes de talent, pourtant l'habileté avec laquelle ils forment des rimes en des airs presque mélodiques est indéniable. Cependant, leur véritable force réside dans leur ingéniosité, qui leur permet de conduire leur voiture pendant des jours, même dans les terres désolées de l'Utah, en ne s'arrêtant que brièvement pour faire le plein."
 
- two_race_invitations_imo:0 "Iron Titans"
- two_race_invitations_imo_desc:0 "Few Legion scouts ever venture far south, especially after the folly of Paulus on the Rio Grande. However, despite these hostilities, trade with the remnants of Mexico has never ceased and the story of one old arms trader has caught our attention. Apparently, even supermutants are not immune to the allure of blessed combustion. Perhaps they can even be persuaded to join if we only invite them."
+ two_race_invitations_imo:0 "Titans de Fer"
+ two_race_invitations_imo_desc:0 "Peu d'éclaireurs de la Légion s'aventurent loin au sud, surtout après la folie de Paulus sur le Rio Grande. Cependant, malgré ces hostilités, le commerce avec les vestiges du Mexique n'a jamais cessé et l'histoire d'un vieux marchand d'armes a attiré notre attention. Apparemment, même les Super Mutants ne sont pas immunisés contre l'attrait de la combustion bénite. Peut-être peut-on même les persuader de nous rejoindre si nous les invitons.\"
 
- two_race_invitations_imo_2:0 "Bigger than Texas Steel"
- two_race_invitations_imo_2_desc:0 "Housing the Ironmongers' proved less complicated than we originally anticipated. Their vehicles, although crude from the outside, hide true beauty within like a geode. Originally housed separately from the other racers, the Ironmongers have since mingled amongst our mechanics, leading to a healthy exchange of ideas. While different in almost all aspects, our two people have found common ground in our love for vehicles."
+ two_race_invitations_imo_2:0 "Plus Imposant que l'Acier Texan"
+ two_race_invitations_imo_2_desc:0 "Loger les Ferronniers s'est avéré moins compliqué que prévu. Leurs véhicules, bien que rudimentaires de l'extérieur, cachent une véritable beauté à l'intérieur comme une géode. Initialement logés séparément des autres pilotes, les Ferronniers se sont depuis mêlés à nos mécaniciens, ce qui a conduit à un échange d'idées sain. Bien que différents dans presque tous les aspects, nos deux peuples ont trouvé un terrain d'entente dans leur amour des véhicules."
 
- two_race_invitations_new:0 "The Biggest Little City"
- two_race_invitations_new_desc:0 "To the north-east of California lies New Reno, the city of sin; controlled by gangs, but also home to some of the best racers on that side of the Colorado. Even at the risk of Caesar's wrath, Nas demands we invite them."
+ two_race_invitations_new:0 "La plus Grande Petite Ville"
+ two_race_invitations_new_desc:0 "Au nord-est de la Californie se trouve New Reno, la ville du péché, contrôlée par les gangs, mais qui abrite aussi certains des meilleurs pilotes de ce côté du Colorado. Même au risque de la colère de Caesar, Nas exige que nous les invitions."
 
- two_race_invitations_new_2:0 "No One Tell Vulpes"
- two_race_invitations_new_2_desc:0 "The drivers of New Reno are just as fearsome off the race track as they are on it. We do not wish to know how they managed to smuggle their jet and other drugs past the legion patrols, and neither do we need to, but one thing is for certain. They know how to party through the night and still be relatively sober for the next race the next morning."
+ two_race_invitations_new_2:0 "Personne Ne Le Dit à Vulpes"
+ two_race_invitations_new_2_desc:0 "Les pilotes de New Reno sont tout aussi redoutables en dehors de la piste de course que sur celle-ci. Nous ne souhaitons pas savoir comment ils parviennent à faire passer leur jet et autres drogues à travers les patrouilles de la Légion, et nous n'en avons pas besoin non plus, mais une chose est sûre. Ils savent comment faire la fête toute la nuit et rester relativement sobres pour la prochaine course le lendemain matin."
 
- two_race_invitations_gdh:0 "Remembering our Rivals"
- two_race_invitations_gdh_desc:0 "Our relationship with Gente Del Sol has always been complicated, ever since it rose from the ashes under the leadership of the cunning Generalissimo Vialla. However, his people love the car almost as much as we do, and Nas demands the best for his race. It should be easy to convince the best of them to join us; all it would take is an invitation."
+ two_race_invitations_gdh:0 "En Mémoire de nos Rivaux"
+ two_race_invitations_gdh_desc:0 "Nos relations avec la Gente Del Sol ont toujours été compliquées, depuis qu'elle renaît de ses cendres sous la direction du rusé Généralissimo Vialla. Cependant, son peuple aime la course presque autant que nous, et Nas exige le meilleur pour sa course. Il devrait être facile de convaincre les meilleurs d'entre eux de nous rejoindre ; il suffirait d'une invitation."
 
- two_race_invitations_gdh_2:0 "The Loathsome Drifter"
- two_race_invitations_gdh_2_desc:0 "No one expected that of all people the luchador known as Suneater would be the one to represent Gente in the upcoming race! While the Generalissimo would undoubtedly pay us handsomely for his capture, our racers would much rather challenge him to another friendly race, and see if they can match the freedom fighter's fearsome drifting skill along the southern mountain range."
+ two_race_invitations_gdh_2:0 "Le Détestable Chauffeur"
+ two_race_invitations_gdh_2_desc:0 "Personne ne s'attendait à ce que le luchador connu sous le nom de Suneater soit le représentant de la Gente lors de la prochaine course ! Alors que le Généralissimo nous paierait sans aucun doute grassement pour sa capture, nos pilotes préféreraient le défier dans une autre course amicale, et voir s'ils peuvent égaler la redoutable habileté du combattant de la liberté à dériver le long de la chaîne de montagnes du sud."
 
- two_invitations_end:0 "Come to a Stop"
+ two_invitations_end:0 "S'immobiliser"
  two_invitations_end_desc:0 ""
 
- two_chop_shop:0 "Ideas are Easy"
- two_chop_shop_desc:0 "'We gonna help the chop shop by financing a new garage in Two Sun!' \nThis small gesture shall hopefully lead to them conducting even more business in our territory in the future."
+ two_chop_shop:0 "Les Idées sont Simples"
+ two_chop_shop_desc:0 "\"Nous allons aider chop shop en finançant un nouveau garage à Two Sun !\"\nNous espérons que ce petit geste les amènera à faire encore plus d'affaires sur notre territoire à l'avenir."
 
- two_chop_shop_caps:0 "Implementation is Hard"
- two_chop_shop_caps_desc:0 "Nobody knows when the chop shop set up in Two Sun originally. Some ghouls claim that chop shops predated the war itself and that the US government tried to close them down numerous times, but that's difficult to believe. Why would any government shut down a business this profitable?"
+ two_chop_shop_caps:0 "La Réalisation est Difficile"
+ two_chop_shop_caps_desc:0 "Personne ne sait quand le chop shop s'est installé à Two Sun à l'origine. Certaines goules prétendent que les chop-shops ont précédé la guerre elle-même et que le gouvernement américain a essayé de les fermer à plusieurs reprises, mais c'est difficile à croire. Pourquoi un gouvernement fermerait-il un commerce aussi rentable ?"
 
- two_chop_shop_hire:0 "Hiring a Real Bastard"
- two_chop_shop_hire_desc:0 "Buck Teague is one of the legendary team of mechanics that reformed the chop shop after it was originally destroyed by the Arizona rangers, in an attempt to deny their equipment to the advancing Legion. He is all-too willing to lend us a hand when it comes to fitting out our racers with the best gear available - for the right price, of course."
+ two_chop_shop_hire:0 "Embaucher un Vrai Salopard"
+ two_chop_shop_hire_desc:0 "Buck Teague fait partie de l'équipe légendaire de mécaniciens qui a reformé le chop shop après qu'il ait été détruit par les rangers de l'Arizona, dans le but de refuser leur équipement à la Légion en marche. Il est tout à fait disposé à nous donner un coup de main lorsqu'il s'agit d'équiper nos coureurs avec le meilleur matériel disponible - pour le bon prix, bien sûr."
 
- two_boxes:0 "New Product for New Buyers"
- two_boxes_desc:0 "By allowing the different participants of the race to set up their own workshops in our territory, we not only ensure a better race overall, but also the ability to later acquire those newly built installations from our new friends for our own use, once they inevitably return to their respective homes."
+ two_boxes:0 "Un Nouveau Produit pour de Nouveaux Acheteurs"
+ two_boxes_desc:0 "En permettant aux différents participants de la course d'installer leurs propres ateliers sur notre territoire, nous garantissons non seulement une meilleure course dans l'ensemble, mais aussi la possibilité d'acquérir plus tard ces installations nouvellement construites par nos nouveaux amis pour notre propre usage, lorsqu'ils retourneront inévitablement dans leurs foyers respectifs."
 
- two_track_two_1:0 "The Colosseum"
- two_track_two_1_desc:0 "At the centre of our land lies the great Colosseum, although its tracks extend far beyond our capitol. It is where our leaders are chosen and victors are declared. It is here where our race shall begin, and where Nas shall witness its conclusion."
+ two_track_two_1:0 "Le Colisée"
+ two_track_two_1_desc:0 "Au centre de notre terre se trouve le grand Colisée, bien que ses voies s'étendent bien au-delà de notre capitole. C'est là que nos dirigeants sont choisis et que les vainqueurs sont déclarés. C'est ici que notre course commencera, et que Nas assistera à sa conclusion."
 
- two_track_two_2:0 "New Merchant Roads"
- two_track_two_2_desc:0 "In the southern parts of our land, Spanish is still the primary spoken language - this makes for the ideal location to develop trade with the nations of Mexico. By expanding our roads into this section we will not only be able open up new trade routes, but also finish a new section of our race track."
+ two_track_two_2:0 "Nouvelles Routes Marchandes"
+ two_track_two_2_desc:0 "Dans les régions méridionales de notre pays, l'espagnol est encore la principale langue parlée. C'est l'endroit idéal pour développer le commerce avec les nations du Mexique. En développant nos routes dans cette section, nous pourrons non seulement ouvrir de nouvelles routes commerciales, mais aussi terminer une nouvelle section de notre circuit de course."
 
- two_track_ton:0 "All Roads lead to Phoenix"
- two_track_ton_desc:0 "We cannot expect all countries to posses the level of internal integration Two Sun has to offer. By extending our roads into Yuma, we can partake in the lucrative trade along the Colorado, whilst also completing another step in our race construction project."
+ two_track_ton:0 "Tous les Chemins mènent à Phoenix"
+ two_track_ton_desc:0 "Nous ne pouvons pas attendre de tous les pays qu'ils possèdent le niveau d'intégration interne que Two Sun a à offrir. En prolongeant nos routes jusqu'à Yuma, nous pouvons prendre part au commerce lucratif le long du Colorado, tout en complétant une autre étape de notre projet de construction de course."
 
- two_track_cow:0 "But First through Two Sun"
- two_track_cow_desc:0 "Our priests determined that the roads built through the former territories of Cowboy Country are insufficient for our needs. Currently the region holds little value and even less people, but our development efforts shall lead to the founding new towns along the track, serving as pit-stops travelling from one corner of our land to the other."
+ two_track_cow:0 "Mais d'abord à Travers Two Sun"
+ two_track_cow_desc:0 "Nos prêtres ont déterminé que les routes construites à travers les anciens territoires du Pays Cow Boy sont insuffisantes pour nos besoins. Actuellement, la région a peu de valeur et encore moins de population, mais nos efforts de développement conduiront à la fondation de nouvelles villes le long de la piste, servant d'arrêts pour voyager d'un coin à l'autre de notre terre."
 
- two_track_rio_yaq:0 "A Hundred Miles of Concrete"
- two_track_rio_yaq_desc:0 "Our road networks rival the works of the legendary Eisen Howard, the mythical giant said to have built the long roads that run through the former territories of the USA. Both traders and racers are sure to appreciate our efforts."
+ two_track_rio_yaq:0 "Des Centaines de Kilomètres de Béton"
+ two_track_rio_yaq_desc:0 "Nos réseaux routiers rivalisent avec les travaux du légendaire Eisen Howard, le géant mythique dont on dit qu'il a construit les longues routes qui traversent les anciens territoires des États-Unis. Les commerçants et les pilotes apprécieront certainement nos efforts."
 
- two_track_sea:0 "Dreams Fulfilled"
- two_track_sea_desc:0 "The task of building roads this close to the coast proved long and difficult; however, it paid off. Our nation is now perfectly connected by land, river and sea. We have little time to appreciate the beautiful scenery, though. With the last piece of road paved our nation is finally ready to hold the great race we always envisioned."
+ two_track_sea:0 "Rêves Exaucés"
+ two_track_sea_desc:0 "La tâche de construire des routes aussi près de la côte s'est avérée longue et difficile, mais elle a porté ses fruits. Notre pays est désormais parfaitement relié par la terre, le fleuve et la mer. Nous avons cependant peu de temps pour apprécier la beauté des paysages. Avec le dernier morceau de route pavé, notre nation est enfin prête à organiser la grande course que nous avons toujours envisagée."
   
- two_race_launch:0 "Launch the Race [desc]"
+ two_race_launch:0 "Lancer la Course [desc]"
  two_race_launch_desc:0 ""
 
- two_race_finish_line:0 "§YFinish Line [desc]§!"
+ two_race_finish_line:0 "§YLigne d'Arrivée [desc]§!"
  two_race_finish_line_desc:0 ""
 
   # Political branch
- two_ces_trade:0 "Trade with Phoenix"
- two_ces_trade_desc:0 "While Flagstaff was the original location chosen to serve as the capital of Caesar's Empire, there is no doubt that Phoenix is its economic core - the markets of Two Sun can only stand to benefit from us pursuing closer ties. An increased number of Frumentarii have travelled through our land recently; one of them can certainly be convinced to deliver our new trade proposal to the merchant families of Phoenix."
+ two_ces_trade:0 "Commercer avec Phoenix"
+ two_ces_trade_desc:0 "Bien que Flagstaff ait été le lieu initialement choisi pour servir de capitale à l'Empire de Caesar, il ne fait aucun doute que Phoenix est son cœur économique - les marchés de Two Sun ne peuvent que bénéficier de la poursuite de liens plus étroits. Un nombre croissant de Frumentarii ont traversé nos terres récemment ; l'un d'entre eux peut certainement être convaincu de livrer notre nouvelle proposition commerciale aux familles marchandes de Phoenix."
 
- two_ces_tribute:0 "Oval Tithe"
- two_ces_tribute_desc:0 "Over time, Legion restrictions have lessened - by increasing our annual tribute, we can prove to Caesar's emissaries that this was the correct measure and that both sides can only benefit from further exemptions.\n§OAcceptissima semper munera sunt, auctor quae pretiosa facit.§!\n"
+ two_ces_tribute:0 "Dîme Ovale"
+ two_ces_tribute_desc:0 "Avec le temps, les restrictions de la Légion se sont atténuées - en augmentant notre tribut annuel, nous pouvons prouver aux émissaires de Caesar que cette mesure était la bonne et que les deux parties ne peuvent que bénéficier de nouvelles exemptions.\n§OAcceptissima semper munera sunt, auctor quae pretiosa facit.§!\n"
 
- two_cohort:0 "The Sonora Cohort"
- two_cohort_desc:0 "The land of Sonora is the birthplace of some of the fiercest warriors the Legion has to offer. Originally raised from tribals expelled from the region, they are without a doubt itching to take revenge - undoubtedly Caesar intends to use them to crush the pesky cowboy raiders to the south. However, our Frumentarii contacts have spoken of the possibility that he could be convinced to delegate this task to someone else."
+ two_cohort:0 "La Cohorte de Sonora"
+ two_cohort_desc:0 "La terre de Sonora est le berceau de certains des guerriers les plus féroces que la Légion ait à offrir. Issus à l'origine de tribus expulsées de la région, ils ont sans aucun doute envie de se venger - Caesar a sans doute l'intention de les utiliser pour écraser les agaçants cow-boys au sud. Cependant, nos contacts Frumentarii ont évoqué la possibilité de le convaincre de déléguer cette tâche à quelqu'un d'autre."
 
- two_cowboy_self:0 "Conquer the Cowboys"
- two_cowboy_self_desc:0 "To the West of our lands a community called Cowboy Country lies. It consists of various ranches, but their military is enforced by remnants of Arizona rangers. We will ask the Legion to allow us to conquer those degenerates and prove our worth."
+ two_cowboy_self:0 "Conquérir les Cowboys"
+ two_cowboy_self_desc:0 "À l'ouest de nos terres se trouve une communauté appelée le Pays Cowboy. Elle se compose de divers ranchs, mais leur armée est assurée par des restes de rangers de l'Arizona. Nous allons demander à la Légion de nous permettre de conquérir ces dégénérés et de prouver notre valeur."
 
- two_cowboy_ces:0 "Proving our Worth"
- two_cowboy_ces_desc:0 "The Legion have conquered the Cowboy country before we did, but right now Caesar is more preoccupied with the Mojave. Maybe we can ask them to let our priests govern those territories, and in exchange we will deal with the ranger problem?"
+ two_cowboy_ces:0 "Prouver notre Valeur"
+ two_cowboy_ces_desc:0 "La Légion a conquis le Pays Cowboys avant nous, mais pour l'instant Caesar est plus préoccupé par le Mojave. Peut-être pouvons-nous leur demander de laisser nos prêtres gouverner ces territoires, et en échange nous nous occuperons du problème des rangers ?"
 
- two_rule_cow:0 "Road to Ultimo"
- two_rule_cow_desc:0 "Now that the Cowboy Country is under our rule it is time to connect it to Two Sun. We will force all who are unwilling to live under the rule of Caesar - the son of Mars - to build roads connecting our growing nation."
+ two_rule_cow:0 "La Route vers Ultimo"
+ two_rule_cow_desc:0 "Maintenant que le Pays Cowboy est sous notre domination, il est temps de le relier à Two Sun. Nous forcerons tous ceux qui ne veulent pas vivre sous le règne de Caesar - le fils de Mars - à construire des routes reliant notre nation en pleine expansion."
 
- two_arizona_rangers:0 "Integrate the Rangers"
- two_arizona_rangers_desc:0 "Even after their defeat, the most fearsome of the Cowboy militia still fight against Two Sun and Legion rule. While the Legion proper would undoubtedly track down and crush these dissenters, executing them in view of their captured families, we are by no means obliged to act the same. Perhaps these last remnants of the Arizona Rangers can be convinced to give up their futile attempts at resistance through the kind treatment of those we occupy, thus proving our good intentions?"
+ two_arizona_rangers:0 "Intégrer les Rangers"
+ two_arizona_rangers_desc:0 "Même après leur défaite, les plus redoutables des milices cowboys continuent de lutter contre Two Sun et la domination de la Légion. Alors que la Légion proprement dite traquerait et écraserait sans aucun doute ces dissidents, les exécutant devant leurs familles capturées, nous ne sommes nullement obligés d'agir de même. Peut-être ces derniers vestiges des Arizona Rangers peuvent-ils être convaincus d'abandonner leurs vaines tentatives de résistance grâce à la gentillesse de ceux que nous occupons, prouvant ainsi nos bonnes intentions ?"
 
- two_arizona_pacifiing:0 "Crucify the Rangers"
- two_arizona_pacifiing_desc:0 "For too long have the people of this region resisted Caesar's will. Now that their pathetic resistance is crushed under the Legion's sandals, the task of pacifying the region has fallen to us. Some of Caesar's servants think us weak for relying on others to fight for them, but by having our roads lined with the crucified bodies of dissenters we shall make a display that shall rival even the mighty Lanius in the east."
+ two_arizona_pacifiing:0 "Crucifier les Rangers"
+ two_arizona_pacifiing_desc:0 "Pendant trop longtemps, les habitants de cette région ont résisté à la volonté de Caesar. Maintenant que leur résistance pathétique est écrasée sous les sandales de la Légion, la tâche de pacifier la région nous incombe. Certains serviteurs de Caesar pensent que nous sommes faibles parce que nous comptons sur les autres pour se battre à leur place, mais en alignant sur nos routes les corps crucifiés des dissidents, nous ferons une démonstration qui rivalisera même avec le puissant Lanius à l'est."
 
- two_cores_cow:0 "Incorporating the Ranches"
- two_cores_cow_desc:0 "Now that the rangers are pacified and our roads secured, connecting our city with the ports of Ultimo, we can spread our cult freely amongst the populace. New Garages will be opened and a flood of mechanics is ready to transform these wild Ranches for the good of our now united people."
+ two_cores_cow:0 "Incorporer les Ranchs"
+ two_cores_cow_desc:0 "Maintenant que les rangers sont pacifiés et que nos routes sont sécurisées, reliant notre ville aux ports d'Ultimo, nous pouvons répandre notre culte librement parmi la population. De nouveaux garages vont être ouverts et un flot de mécaniciens est prêt à transformer ces ranchs sauvages pour le bien de notre peuple désormais uni."
 
- two_annex_ton:0 "The Conquest of Yuma"
- two_annex_ton_desc:0 "Quentin Lopez has so far successfully kept his country in an intensely neutral position, despite its location between the power block of the Legion and the NCR. However the risk of his country one day serving as a potential springboard for an NCR invasion is one we can ill afford, and so the Nation of Tohono shall suffer the same fate as all buffer states that lack the means to defend themselves."
+ two_annex_ton:0 "La Conquête de Yuma"
+ two_annex_ton_desc:0 "Quentin Lopez a jusqu'à présent réussi à maintenir son pays dans une position intensément neutre, malgré sa situation entre le bloc de pouvoir de la Légion et la RNC. Cependant, le risque que son pays serve un jour de tremplin potentiel pour une invasion de la RNC est un risque que nous ne pouvons nous permettre, et donc la nation de Tohono subira le même sort que tous les états tampons qui n'ont pas les moyens de se défendre."
 
- two_rule_ton:0 "New Roads for a New Land"
- two_rule_ton_desc:0 "If we ever wish to govern these lands as more than an occupational force, we will have to integrate both them as well as their infrastructure, enabling both people and troops to move freely within our borders. Unlike in Cowboy country, the people of Tohono seem to require a lot less convincing to help us on this endeavour."
+ two_rule_ton:0 "De Nouvelles Routes pour un Nouvelle Route"
+ two_rule_ton_desc:0 "Si nous souhaitons un jour gouverner ces terres autrement que comme une force d'occupation, nous devrons les intégrer ainsi que leurs infrastructures, en permettant aux personnes et aux troupes de se déplacer librement à l'intérieur de nos frontières. Contrairement au Pays Cowboy, les habitants de Tohono semblent avoir besoin d'être moins convaincus pour nous aider dans cette tâche."
 
- two_ton_secrets:0 "Farming Traditions"
- two_ton_secrets_desc:0 "When we conquered the lands of Yuma, we simply did so out of concern for our own security. But what our racers discovered was a true bread basket, capable of feeding far more than just the small population of Tohono, a food source for all the people across our growing nation."
+ two_ton_secrets:0 "Traditions Agricoles"
+ two_ton_secrets_desc:0 "Lorsque nous avons conquis les terres de Yuma, nous l'avons fait simplement par souci de notre propre sécurité. Mais ce que nos pilotes ont découvert, c'est un véritable grenier à blé, capable de nourrir bien plus que la petite population de Tohono, une source de nourriture pour tous les habitants de notre nation en pleine croissance."
 
- two_cores_ton:0 "Tohonos's Integration"
- two_cores_ton_desc:0 "The people of Yuma are now finally ready to embrace us - not as overlords, but as fellow citizens of Two Sun. Once they have tasted the speed on our new highways, the idea of a Tohono nation will be nothing but a distant memory."
+ two_cores_ton:0 "Intégration des Tohonos"
+ two_cores_ton_desc:0 "Les habitants de Yuma sont enfin prêts à nous accueillir - non pas comme des maîtres, mais comme des camarades de Two Sun. Lorsqu'ils auront goûté à la vitesse sur nos nouvelles autoroutes, l'idée d'une nation Tohono ne sera plus qu'un lointain souvenir."
 
- two_gente_question:0 "The Gente Question"
- two_gente_question_desc:0 "Everything about the Generalissimo is a lie; his country, his past, his accomplishments, his peace and ambitions, even his title. We shall ask Flagstaff if we can truly trust such a man, especially if he claims to be our friend, promising gifts.\n§OTimeo Danaos et dona ferentes§!"
+ two_gente_question:0 "La Question de Gente"
+ two_gente_question_desc:0 "Tout ce qui concerne le Généralissimo est un mensonge ; son pays, son passé, ses accomplissements, sa paix et ses ambitions, même son titre. Nous demanderons à Flagstaff si nous pouvons vraiment faire confiance à un tel homme, surtout s'il prétend être notre ami, en promettant des cadeaux.\n§OTimeo Danaos et dona ferentes§!"
 
- two_gente_annex:0 "Setting Fire to the Sun"
- two_gente_annex_desc:0 "The die is cast - Caesar has given us an order and we shall fulfil it. Our racers stand ready with fury and righteous anger in their hearts, waiting for the starting pistol to take on the Generalissimo's troops. Those foolish enough not to surrender shall meet their end in our tracks as we shall simply drive over them."
+ two_gente_annex:0 "Mettre le Feu au Soleil"
+ two_gente_annex_desc:0 "Les dés sont jetés - Caesar nous a donné un ordre et nous devons l'exécuter. Nos pilotes se tiennent prêts, la fureur et la juste colère au cœur, attendant le coup d'envoi pour affronter les troupes du Généralissimo. Ceux qui sont assez fous pour ne pas se rendre trouveront leur fin sur nos traces, car nous les écraserons tout simplement."
 
- two_gente_annex_road:0 "The Road to Occupation"
- two_gente_annex_road_desc:0 "The terrain of our newly conquered land does not lend itself to the long and open road networks our people are accustomed to. We shall push ahead regardless, even if that means that we are forced to make our way through the terrain itself - luckily, our campaign resulted in a great influx of slaves that are perfectly suited for such a dangerous task."
+ two_gente_annex_road:0 "La Route de l'Occupation"
+ two_gente_annex_road_desc:0 "Le terrain de notre terre nouvellement conquise ne se prête pas aux réseaux routiers longs et ouverts auxquels notre peuple est habitué. Nous irons de l'avant malgré tout, même si cela signifie que nous sommes obligés de nous frayer un chemin à travers le territoire lui-même - heureusement, notre campagne a entraîné un grand afflux d'esclaves qui sont parfaitement adaptés à une tâche aussi dangereuse."
 
- two_gente_annex_mask:0 "One Last Hurrah"
- two_gente_annex_mask_desc:0 "Turns out the only thing Sun Eater hates more than the Generalissimo is people threatening Gente's independence. We will have to deal with him, one way or the other, if we ever wish to rule this land as our own."
+ two_gente_annex_mask:0 "Un Dernier Hourra"
+ two_gente_annex_mask_desc:0 "Il s'avère que la seule chose que Sun Eater détestent plus que le Généralissimo, ce sont les gens qui menacent l'indépendance de Gente. Nous devrons traiter avec lui, d'une manière ou d'une autre, si nous voulons un jour gouverner cette terre comme la nôtre."
 
- two_gente_cores:0 "The Sun Sets"
- two_gente_cores_desc:0 "With our final construction project complete, the sun has finally set on the Generalissimo's dream. We shall ensure that his cursed name is forever lost to the history books, as are all those that foolishly tried to stand against the Legion."
+ two_gente_cores:0 "Le Soleil se Couche"
+ two_gente_cores_desc:0 "Avec notre dernier projet de construction terminé, le soleil s'est enfin couché sur le rêve du Généralissimo. Nous ferons en sorte que son nom maudit soit à jamais perdu dans les livres d'histoire, comme le sont tous ceux qui ont bêtement essayé de s'opposer à la Légion."
 
- two_gente_trade:0 "Under the Protection of the Bull"
- two_gente_trade_desc:0 "Like the roads that connect our land, so shall the alliances of Caesar connect the Legion as a whole. It was foolish of us to doubt the Generalissimo's intentions, and profits from the trade caravan he sent are already filling our coffers; perhaps in the future we can seek out opportunities of even closer cooperation."
+ two_gente_trade:0 "Sous la Protection du Taureau"
+ two_gente_trade_desc:0 "Comme les routes qui relient nos terres, les alliances de Caesar relient la Légion dans son ensemble. Il était stupide de notre part de douter des intentions du Généralissimo, et les profits de la caravane commerciale qu'il a envoyée remplissent déjà nos coffres ; peut-être pourrons-nous à l'avenir rechercher des opportunités de coopération encore plus étroite."
 
- two_gente_trade_res:0 "Energy of the Suns"
- two_gente_trade_res_desc:0 "Our people have always preferred the sight of an open road over anything else. However, due to our newly formed bond with the people of Gente, we have come to view the rivers as what they truly are - highways for resource transportation."
+ two_gente_trade_res:0 "L'Énergie des Soleils"
+ two_gente_trade_res_desc:0 "Notre peuple a toujours préféré la vue d'une route ouverte à toute autre chose. Cependant, grâce aux liens que nous venons de tisser avec le peuple de Gente, nous en sommes venus à considérer les rivières pour ce qu'elles sont vraiment : des autoroutes pour le transport des ressources."
 
- two_gente_trade_mil:0 "Joined Arms Production"
- two_gente_trade_mil_desc:0 "The Generalissimo made us one simple promise - Guns, Guns and yet more Guns!"
+ two_gente_trade_mil:0 "Production Conjointe d'Armes"
+ two_gente_trade_mil_desc:0 "Le Généralissimo nous a fait une promesse simple : des fusils, des fusils et encore des fusils !"
 
- two_gente_trade_arms:0 "Weapons to Surpass Metal Gears"
- two_gente_trade_arms_desc:0 "Most people would only ever get to see the cheap mass manufactured wares Gente del Sol has to offer. However, the Generalissimo, in honour of his close friendship with the people of Two Sun, has granted us this unique opportunity to buy weapons directly from his personal stash. A gun or a knife shall never match the glory of the open road, but we have no doubt these will be worth every Denarius we spend on them."
+ two_gente_trade_arms:0 "Des Armes pour Changer des Jantes"
+ two_gente_trade_arms_desc:0 "La plupart des gens n'ont jamais eu l'occasion de voir les produits bon marché fabriqués en série que Gente del Sol a à offrir. Cependant, le Généralissimo, en l'honneur de son étroite amitié avec le peuple de Two Sun, nous a accordé cette opportunité unique d'acheter des armes directement de sa réserve personnelle. Un fusil ou un couteau n'égalera jamais la gloire de la route, mais nous ne doutons pas que ces armes vaudront chaque denier que nous dépenserons."
 
  two_gente_trade_civs:0 "Nouvelle Industrie"
- two_gente_trade_civs_desc:0 "Trade between our two nations is flourishing - already our drivers are using window glasses produced in Gente, while our engines power the ships of Gente's growing merchant fleet. None can argue that this closer cooperation has been beneficial for both sides"
+ two_gente_trade_civs_desc:0 "Le commerce entre nos deux nations est florissant - déjà nos conducteurs utilisent des vitres produites à Gente, tandis que nos moteurs alimentent les navires de la flotte marchande croissante de Gente. Personne ne peut contester que cette coopération plus étroite a été bénéfique pour les deux parties."
 
- two_gente_trade_weapons:0 "Our Own Design"
- two_gente_trade_weapons_desc:0 "The Generalissimo promised us guns and he delivered - now it is time we start developing some designs of our own."
+ two_gente_trade_weapons:0 "Notre Propre Design"
+ two_gente_trade_weapons_desc:0 "Le Généralissimo nous a promis des fusils et il les a livrés - il est maintenant temps de commencer à développer nos propres modèles."
 
  two_gente_trade_3_suns:0 "§OTres Helios§!"
- two_gente_trade_3_suns_desc:0 "We now see the wisdom of Caesar when he chose to permit the people of Gente to become part of the Legion. Under his watchful gaze, we have come to view the people to the south not as profligates, but as friends. From now on it shall be 3 suns that shine a bright light upon Mars' ever-growing empire."
+ two_gente_trade_3_suns_desc:0 "Nous voyons maintenant la sagesse de Caesar quand il a choisi de permettre au peuple de Gente de faire partie de la Légion. Sous son regard attentif, nous en sommes venus à considérer les gens du sud non pas comme des débauchés, mais comme des amis. Désormais, ce seront trois soleils qui éclaireront l'empire grandissant de Mars."
 
- two_ces_civil_war:0 "Death of a God"
- two_ces_civil_war_desc:0 "The unthinkable has happened; Caesar has died, and his self proclaimed successors are squabbling over the remains of his empire. None of them can ever truly replace the Son of Mars, but we must choose among them the most likely candidate to succeed, for the good of Nas and Two Sun."
+ two_ces_civil_war:0 "La Mort d'un Dieu"
+ two_ces_civil_war_desc:0 "L'impensable s'est produit : Caesar est mort, et ses successeurs autoproclamés se disputent les restes de son empire. Aucun d'entre eux ne pourra jamais vraiment remplacer le Fils de Mars, mais nous devons choisir parmi eux le candidat le plus susceptible de lui succéder, pour le bien de Nas et de Two Sun."
 
- two_ces_civil_war_vlp_ally:0 "A New Caesar"
- two_ces_civil_war_vlp_ally_desc:0 "Vulpes Inculta has always been a true friend of Two Sun - it isn't even a stretch to say that our nation owns him its existence. Vulpes calls for aid, and all of Two Sun shall answer."
+ two_ces_civil_war_vlp_ally:0 "Un Nouveau Caesar"
+ two_ces_civil_war_vlp_ally_desc:0 "Vulpes Inculta a toujours été un véritable ami de Two Sun - il n'est même pas exagéré de dire que notre nation lui doit son existence. Vulpes appelle à l'aide, et tout Two Sun doit répondre."
 
- two_ces_civil_war_vlp_ally_adv:0 "What Now?"
- two_ces_civil_war_vlp_ally_adv_desc:0 "Vulpes is calling us into the war for the Caesar's legacy. This campaign will be blessed by Cannonball and Mars!"
+ two_ces_civil_war_vlp_ally_adv:0 "Et Maintenant ?"
+ two_ces_civil_war_vlp_ally_adv_desc:0 "Vulpes nous appelle dans la guerre pour l'héritage de Caesar. Cette campagne sera bénie par Cannonball et Mars !"
 
- two_ces_civil_war_vlp_run:0 "Loyalty is its Own Reward"
- two_ces_civil_war_vlp_run_desc:0 "Vulpes bid for power has failed and we did not manage to support him in time. However we can still do right by our friend by offering him refugee and shielding him against his pursuers. The Fox has a lot to say, and we shall listen."
+ two_ces_civil_war_vlp_run:0 "La Loyauté est sa Propre Récompense"
+ two_ces_civil_war_vlp_run_desc:0 "L'offre de Vulpes pour le pouvoir a échoué et nous n'avons pas réussi à le soutenir à temps. Cependant, nous pouvons encore rendre service à notre ami en lui offrant un refuge et en le protégeant contre ses poursuivants. Le Renard a beaucoup à dire, et nous allons l'écouter."
 
- two_ces_civil_war_vlp_run_ally:0 "Vulpes Always has a Plan"
- two_ces_civil_war_vlp_run_ally_desc:0 "The winner of the civil war will undoubtedly try to restore Caesar's empire in all its glory; those ambitions include our lands. Vulpes' Frumentarii are already on their way, now we just have to choose which side to take."
+ two_ces_civil_war_vlp_run_ally:0 "Vulpes a Toujours un Plan"
+ two_ces_civil_war_vlp_run_ally_desc:0 "Le vainqueur de la guerre civile tentera sans doute de restaurer l'empire de Caesar dans toute sa gloire ; ces ambitions incluent nos terres. Les Frumentarii de Vulpes sont déjà en route, il ne nous reste plus qu'à choisir quel camp prendre."
 
  two_ces_agency:0 "Invitez les Frumentarii"
- two_ces_agency_desc:0 "Frumentarii can teach us a lot."
+ two_ces_agency_desc:0 "Les Frumentarii peuvent nous apprendre beaucoup de choses."
 
- two_ces_agency_2:0 "Expand the Surveillance"
- two_ces_agency_2_desc:0 "For the last few months, a campaign of underground terror lead by Vulpes has achieved great results. We should contribute more to it."
+ two_ces_agency_2:0 "Étendre la Surveillance"
+ two_ces_agency_2_desc:0 "Depuis quelques mois, une campagne de terreur clandestine menée par Vulpes a obtenu de grands résultats. Nous devrions y contribuer davantage."
 
   # Technological branch
 
- two_masters_of_motor:0 "Masters of Motor"
- two_masters_of_motor_desc:0 "Cars haven't advanced that much since their invention. When you boil it down, it's still the holy combustion engine that is the driving force behind them, just like they drive all of Two Sun."
+ two_masters_of_motor:0 "Maîtres du Moteur"
+ two_masters_of_motor_desc:0 "Les voitures n'ont pas beaucoup évolué depuis leur invention. En résumé, c'est toujours le saint moteur à combustion qui les propulse, tout comme il propulse tout le Two Sun."
 
- two_motorized:0 "Start Your Engine!"
- two_motorized_desc:0 "Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves."
+ two_motorized:0 "Démarrez votre Moteur !"
+ two_motorized_desc:0 "Tout homme qui peut conduire en toute sécurité tout en embrassant une jolie fille ne donne tout simplement pas au baiser l'attention qu'il mérite."
 
- two_ven_armor:0 "Queen of the Highway"
- two_ven_armor_desc:0 "The Nas priestess Sara has come up with a new design improvement for our cars - we shall make good use of this blessing."
+ two_ven_armor:0 "Reine de l'Autoroute"
+ two_ven_armor_desc:0 "La prêtresse Nas, Sara, a proposé une nouvelle amélioration du design de nos voitures - nous ferons bon usage de cette bénédiction."
 
- two_ven_armor_scrap:0 "Melting Iron"
- two_ven_armor_scrap_desc:0 "With the help of the chop shop, we have been able to restore a pre-war foundry back to functionality, allowing us to produce more quality metals to meet our growing demand."
+ two_ven_armor_scrap:0 "Fonte du Fer"
+ two_ven_armor_scrap_desc:0 "Avec l'aide de chop shop, nous avons pu remettre en état de fonctionnement une fonderie d'avant-guerre, ce qui nous permet de produire davantage de métaux de qualité pour répondre à notre demande croissante."
 
- two_car_2:0 "Highway Star"
- two_car_2_desc:0 "Our traders managed to acquire a pre-war car in pristine condition - apparently it has been housed in something called a Museum, and was originally used in races just like ours. After some lengthy discussions, the priests of Nas have finally given the go ahead; we shall take it apart and study its design in hopes of gaining new insights and potentially replicating it."
+ two_car_2:0 "Étoile de la Route"
+ two_car_2_desc:0 "Nos négociants ont réussi à acquérir une voiture d'avant-guerre en parfait état - apparemment, elle a été conservée dans ce qu'on appelle un musée et a été utilisée à l'origine dans des courses comme la nôtre. Après de longues discussions, les prêtres de Nas ont finalement donné le feu vert ; nous allons la démonter et étudier sa conception dans l'espoir d'en tirer de nouvelles idées et de la reproduire éventuellement."
 
- two_masters_of_motorized:0 "Standardize Spare Parts"
- two_masters_of_motorized_desc:0 "Through the use of standardized spare parts we can effectively reduce the cost for production and maintenance of our smaller vehicles."
+ two_masters_of_motorized:0 "Standardiser les Pièces Détachées"
+ two_masters_of_motorized_desc:0 "Grâce à l'utilisation de pièces de rechange standardisées, nous pouvons réduire efficacement les coûts de production et d'entretien de nos petits véhicules."
 
- two_doctrine_1:0 "Speed is the Heart of Battle"
- two_doctrine_1_desc:0 "At the start of World War II, the German Panzer tanks were not markedly superior to their French or Russian counterparts - quite the opposite, in fact. The German Panzers were inferior in both firepower and in armor. What the Germans did have was a superior doctrine designed to utilize their armoured cores to their fullest potential."
+ two_doctrine_1:0 "La Vitesse est le Cœur de la Bataille"
+ two_doctrine_1_desc:0 "Au début de la Seconde Guerre mondiale, les chars Panzer allemands n'étaient pas nettement supérieurs à leurs homologues français ou russes, bien au contraire. Les Panzer allemands sont inférieurs en puissance de feu et en blindage. Ce que les Allemands avaient, c'était une doctrine supérieure conçue pour utiliser leurs noyaux blindés au maximum de leur potentiel."
 
- two_doctrine_2:0 "Le grand jeu"
- two_doctrine_2_desc:0 "We shall conduct our own army exercises near Hilltop to study our new strategies in practice."
+ two_doctrine_2:0 "Le Grand Jeu"
+ two_doctrine_2_desc:0 "Nous ferons nos propres exercices militaires près de Hilltop pour étudier nos nouvelles stratégies en pratique."
 
- two_doctrine_3:0 "Thunderstruck"
- two_doctrine_3_desc:0 "The mighty Caesar has heard of our efforts and granted us access to pre-war books on the topic of mechanized warfare. We shall make sure to study them in great detail, particularly the idea of the Blitzkrieg."
+ two_doctrine_3:0 "Coup de Tonnerre"
+ two_doctrine_3_desc:0 "Le puissant Caesar a entendu parler de nos efforts et nous a donné accès à des livres d'avant-guerre sur le thème de la guerre mécanisée. Nous nous assurerons de les étudier en détail, en particulier l'idée de la Blitzkrieg."
 
- two_apc_1:0 "Armoured Personnel Carrier"
- two_apc_1_desc:0 "The rediscovered APC heralds the advent of mechanized warfare; by studying old schematics, we will soon be able to reconstruct this most fearsome of all armoured transportation vehicles."
+ two_apc_1:0 "Véhicule Blindé de Transport de Troupes"
+ two_apc_1_desc:0 "La redécouverte de l'APC annonce l'avènement de la guerre mécanisée ; en étudiant les anciens schémas, nous serons bientôt en mesure de reconstruire le plus redoutable des véhicules de transport blindés."
 
- two_apc_supply_grace:0 "Manage the Logistics"
- two_apc_supply_grace_desc:0 "With the advent of mechanized infantry, logistics has grown increasingly complex. A motorized army can only travel as far as its fuel provides, which is why our support convoys are the lifeblood of our army."
+ two_apc_supply_grace:0 "Gérer la Logistique"
+ two_apc_supply_grace_desc:0 "Avec l'avènement de l'infanterie mécanisée, la logistique est devenue de plus en plus complexe. Une armée motorisée ne peut voyager qu'aussi loin que son carburant le lui permet, c'est pourquoi nos convois de soutien sont l'élément vital de notre armée."
 
- two_apc_support:0 "Arms and Supplies"
+ two_apc_support:0 "Armes et Fournitures"
  two_apc_support_desc:0 ""
 
- two_apc_2:0 "Optimize Our Designs"
- two_apc_2_desc:0 "By improving on our existing designs, applying what we managed to learn over the months we have been driving them, we can create faster and better versions of our existing vehicles, while eliminating any potential weaknesses."
+ two_apc_2:0 "Optimiser nos Conceptions"
+ two_apc_2_desc:0 "En améliorant nos conceptions existantes, en appliquant ce que nous avons réussi à apprendre pendant les mois où nous les avons conduites, nous pouvons créer des versions plus rapides et meilleures de nos véhicules existants, tout en éliminant les faiblesses potentielles."
 
- two_masters_of_apc:0 "Faster and Stronger"
- two_masters_of_apc_desc:0 "Our Priests must strike a delicate balance between the protective Armor, the Strength of our Engines and the viability of our Designs as a fast combat vehicle, all while trying to minimize the production cost for our industry."
+ two_masters_of_apc:0 "Plus Rapide et Plus Fort"
+ two_masters_of_apc_desc:0 "Nos prêtres doivent trouver un équilibre délicat entre l'armure protectrice, la puissance de nos moteurs et la viabilité de nos conceptions en tant que véhicule de combat rapide, tout en essayant de minimiser le coût de production pour notre industrie."
 
- two_motorized_1:0 "Desert Tires"
+ two_motorized_1:0 "Pneus du Désert"
  two_motorized_1_desc:0 ""
 
- two_motorized_factories:0 "Expand the Motorworks"
- two_motorized_factories_desc:0 "The cities of Two Sun itself need to be expanded alongside our growing Industry. We must accommodate new garages, even when it comes at the cost of potential living space."
+ two_motorized_factories:0 "Élargir l'Usine de Moteurs"
+ two_motorized_factories_desc:0 "La ville de Two Sun elle-même doit s'étendre parallèlement à notre industrie en pleine croissance. Nous devons accueillir de nouveaux garages, même si cela se fait au détriment de l'espace vital potentiel."
 
- two_motorized_construction:0 "The Engines of War"
- two_motorized_construction_desc:0 "Caesar has made his intentions clear, and as his subject it will only be a matter of time before we are called upon to support his war effort. We best start making our preparations now."
+ two_motorized_construction:0 "Les Moteurs de la Guerre"
+ two_motorized_construction_desc:0 "Caesar a clairement exprimé ses intentions, et en tant que sujet, ce ne sera qu'une question de temps avant que nous soyons appelés à soutenir son effort de guerre. Nous ferions mieux de commencer à nous préparer dès maintenant."
 
- two_motorized_2:0 "Faster"
+ two_motorized_2:0 "...Plus Rapide"
  two_motorized_2_desc:0 ""
 
- two_motorized_3:0 "Complete Industrial Mobilisation"
- two_motorized_3_desc:0 "Our government must choose how to allocate our country’s resources very carefully in order to achieve military victory, while also meeting vital domestic demands."
+ two_motorized_3:0 "Mobilisation Industrielle Complète"
+ two_motorized_3_desc:0 "Notre gouvernement doit choisir très soigneusement la manière d'allouer les ressources de notre pays afin d'obtenir une victoire militaire, tout en répondant à des demandes intérieures vitales."
 
- two_tanks_1:0 "Spearhead Tank Development"
- two_tanks_1_desc:0 "We have made great improvements with our combustion engine, its method of transforming energy into motion could be fit into a machine the size of a carriage. Behold, the weapon of a new Era: The Tank."
+ two_tanks_1:0 "Développement de Chars d'Assaut"
+ two_tanks_1_desc:0 "Nous avons fait de grandes améliorations avec notre moteur à combustion, sa méthode de transformation de l'énergie en mouvement pourrait être intégrée dans une machine de la taille d'une voiture. Voici l'arme d'une nouvelle ère : Le Tank."
 
- two_tanks_stats:0 "Well Oiled Machine"
- two_tanks_stats_desc:0 "The rough deserts of Arizona have never been kind to our vehicles and complex machinery. However, one of Nas' youngest and most promising acolytes has discovered a new holy oil that should help improve the reliability and reduce the wear the Arizona winds have on our tanks, earning himself his priesthood and the gratitude of all of Two Sun for this discovery."
+ two_tanks_stats:0 "Machine Bien Huilée"
+ two_tanks_stats_desc:0 "Les durs déserts de l'Arizona n'ont jamais été tendres avec nos véhicules et nos machines complexes. Cependant, l'un des acolytes les plus jeunes et les plus prometteurs de Nas a découvert une nouvelle huile sainte qui devrait aider à améliorer la fiabilité et à réduire l'usure que les vents de l'Arizona ont sur nos réservoirs. Il a gagné son statut de prêtre et la gratitude de tout Two Sun pour cette découverte."
 
- two_tanks_2:0 "Panzers of Our Own"
- two_tanks_2_desc:0 "In World War II, the Germans employed the \"blitzkrieg\" - lightning-fast assaults headed by fleets of tanks - to extraordinary effect. Soon, the newest epiphany of our priests shall make the ground shake under its quickly advancing tracks, and our enemies shall tremble."
+ two_tanks_2:0 "Nos Propres Panzers"
+ two_tanks_2_desc:0 "Pendant la Seconde Guerre mondiale, les Allemands ont utilisé la \"blitzkrieg\" - des assauts fulgurants dirigés par des flottes de chars - avec un effet extraordinaire. Bientôt, la toute nouvelle épiphanie de nos prêtres fera trembler le sol sous ses traces qui avancent rapidement, et nos ennemis trembleront."
 
- two_tanks_attack:0 "Caesar's Hammer"
- two_tanks_attack_desc:0 "Under the orders of the high priest of Nas himself, all of Two Sun has come together; mechanics, racers, and for the first time even people from the outside, who we have since insisted that they shall remain in our territory as our honoured guests. It all has led to the creation of a new design that shall form the basis for the ultimate weapon, a weapon capable of rivalling even those used before the War, if not surpass them."
+ two_tanks_attack:0 "Marteau de Caesar"
+ two_tanks_attack_desc:0 "Sous les ordres du grand prêtre de Nas lui-même, tout Two Sun s'est réuni : les mécaniciens, les pilotes et, pour la première fois, des gens de l'extérieur, dont nous avons depuis insisté pour qu'ils restent sur notre territoire en tant qu'invités d'honneur. Tout cela a conduit à la création d'un nouveau design qui constituera la base de l'arme ultime, une arme capable de rivaliser avec celles utilisées avant la guerre, voire de les surpasser."
 
- two_apc_3:0 "Armoured Reconnaissance"
+ two_apc_3:0 "Reconnaissance Blindée"
  two_apc_3_desc:0 "[me]"
 
- two_apc_4:0 "Miracle of Combustion"
- two_apc_4_desc:0 "Success isn't the result of spontaneous combustion, you must set yourself on fire."
+ two_apc_4:0 "Miracle de la Combustion"
+ two_apc_4_desc:0 "Le succès n'est pas le résultat d'une combustion spontanée, vous devez vous enflammer."
 
- two_apc_5:0 "Modern Armor"
+ two_apc_5:0 "Armure Moderne"
  two_apc_5_desc:0 "[me]"
 
- two_slave_trade:0 "Send Priests to Flagstaff"
- two_slave_trade_desc:0 "Our priests have managed to make great progress with their research, and it is time we share some of our discoveries with the rest of the Legion. While we can not expect outright repayment, we may expect substantial financial gifts in the near future and potentially even more blessings in the form of further exemptions"
+ two_slave_trade:0 "Envoyer des Prêtres à Flagstaff"
+ two_slave_trade_desc:0 "Nos prêtres ont réussi à faire de grands progrès dans leurs recherches, et il est temps que nous partagions certaines de nos découvertes avec le reste de la Légion. Bien que nous ne puissions pas nous attendre à un remboursement total, nous pouvons nous attendre à des dons financiers substantiels dans un avenir proche et potentiellement à d'autres bénédictions sous forme d'exemptions supplémentaires."
 
  two_slave_trade_2:0 "Ora et Labora"
- two_slave_trade_2_desc:0 "Two Suns' treatment of its involuntary servants is vastly different to that of the Legion - our slaves are granted far more autonomy, with a promise that they shall be set free as repayment for years of service. But whilst we may treat them like friends only separated from us through lower station, that does not change the fact that they are still slaves. As such, the daunting task of acquiring the resources that fuel our industry will fall upon them."
+ two_slave_trade_2_desc:0 "Le traitement que Two Suns réserve à ses serviteurs involontaires est très différent de celui de la Légion - nos esclaves bénéficient d'une bien plus grande autonomie, avec la promesse qu'ils seront libérés en remboursement de leurs années de service. Mais même si nous les traitons comme des amis qui ne sont séparés de nous que par un rang inférieur, cela ne change rien au fait qu'ils restent des esclaves. En tant que tels, la tâche intimidante d'acquérir les ressources qui alimentent notre industrie leur incombera."
 
  two_ultima:0 "La Fenêtre sur la Mer"
- two_ultima_desc:0 "Now, that we have established our control over [444.GetName], it is time to lay down our first ships. But before that we have to determine our goals in the Gulf. Should we aim for naval supremacy, or just focus on naval invasion?"
+ two_ultima_desc:0 "Maintenant que nous avons établi notre contrôle sur [444.GetName], il est temps de poser nos premiers navires. Mais avant cela, nous devons déterminer nos objectifs dans le Golfe. Devons-nous viser la suprématie navale, ou nous concentrer sur l'invasion navale ?"
 
- two_small_fleet_advisor:0 "Mariner's doctrine"
- two_small_fleet_advisor_desc:0 "Rudel has a plan, and a great one. Why waste efforts and resources on big boats, when we can just land our marines in Baja? Of course, we will have to train special marine divisions, but flesh is cheap."
+ two_small_fleet_advisor:0 "Doctrine du Marin"
+ two_small_fleet_advisor_desc:0 "Rudel a un plan, et un super plan. Pourquoi gaspiller des efforts et des ressources sur de gros bateaux, alors qu'on peut simplement débarquer nos fusiliers marins à Baja ? Bien sûr, nous devrons former des divisions spéciales de marines, mais la chair n'est pas chère."
 
- two_small_fleet_tech:0 "Faster Transports"
- two_small_fleet_tech_desc:0 "For the last couple of months we have made a noticeable progress in our landing transports' design. Now they no longer fall apart before reaching the coast."
+ two_small_fleet_tech:0 "Transports plus Rapides"
+ two_small_fleet_tech_desc:0 "Au cours des deux derniers mois, nous avons fait des progrès notables dans la conception de nos transports terrestres. Maintenant, ils ne tombent plus en morceaux avant d'atteindre la côte."
 
- two_large_fleet_advisor:0 "Big Gun Doctrine"
- two_large_fleet_advisor_desc:0 "Mortimer is a believer in \"the bigger the better\". That is why he proposed an ambitious project involving several large ships and a supporting fleet of smaller boats. This mighty fleet is supposed to match NCR's regional powers and the growing Gente navy."
+ two_large_fleet_advisor:0 "Doctrine du Gros Calibre"
+ two_large_fleet_advisor_desc:0 "Mortimer est un adepte du \"plus c'est gros, mieux c'est\". C'est pourquoi il a proposé un projet ambitieux impliquant plusieurs grands navires et une flotte de soutien composée de bateaux plus petits. Cette puissante flotte est censée rivaliser avec les puissances régionales de la RNC et la marine croissante de la Gente."
 
- two_large_fleet_tech:0 "The Sea Bull"
- two_large_fleet_tech_desc:0 "From the start of this project, our knowledge of ship design has increased by considerable margin."
+ two_large_fleet_tech:0 "Le Taureau des Mers"
+ two_large_fleet_tech_desc:0 "Depuis le début de ce projet, notre connaissance de la conception des navires s'est considérablement accrue."
 
- two_ultima_2:0 "Full Steam Ahead"
- two_ultima_2_desc:0 "Every fleet needs fuel. To power up our newborn navy several, power plants will be built along the coastline."
+ two_ultima_2:0 "En Avant Toute !"
+ two_ultima_2_desc:0 "Chaque flotte a besoin de carburant. Pour alimenter notre marine naissante plusieurs, des centrales électriques seront construites le long du littoral."
