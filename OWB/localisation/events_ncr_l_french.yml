@@ -20,12 +20,12 @@
  ncr.4.b:0 "Exterminons les."
 
  ncr-boswar.1.t:0 "Un rapport de nos éclaireurs"
- ncr-boswar.1.d:0 "Nos éclaireurs ont récemment trouvés un groupe de soldats de la Confrérie, accompagnés de scribes, occupant un batiment au coeur de Boneyard. Nos tentatives de leur parler on toutes échouées. Lorsque nous leur avons demandé de partir, ils ont refusé - violemment. Plusieurs soldats de la RNC sont déjà morts pour "intrusion", et nous arrivons à un point de rupture. Que devons nous faire ?"
+ ncr-boswar.1.d:0 "Nos éclaireurs ont récemment trouvés un groupe de soldats de la Confrérie, accompagnés de scribes, occupant un batiment au coeur du Cimetière. Nos tentatives de leur parler on toutes échouées. Lorsque nous leur avons demandé de partir, ils ont refusé - violemment. Plusieurs soldats de la RNC sont déjà morts pour "intrusion", et nous arrivons à un point de rupture. Que devons nous faire ?"
  ncr-boswar.1.a:0 "Envoyer un message."
  ncr-boswar.1.b:0 "Détruire le batiment!"
 
  ncr-boswar.2.t:0 "Un message de la NRC"
- ncr-boswar.2.d:0 "Tôt ce matin, un homme s'est approché des portes d'un de nos bunkers prés du territoire de la RNC. Il dit être un messager envoyé par le gouvernement Californian, nous avons donc pris son message en lui demandant d'attendre notre réponse. La NRC nous accuse d'avoir envoyer une patrouille à Boneyard, sans leur permission. Ils ont précisés que cette patrouille à déjà tué plusieurs de leurs hommes."
+ ncr-boswar.2.d:0 "Tôt ce matin, un homme s'est approché des portes d'un de nos bunkers prés du territoire de la RNC. Il dit être un messager envoyé par le gouvernement Californian, nous avons donc pris son message en lui demandant d'attendre notre réponse. La NRC nous accuse d'avoir envoyer une patrouille au Cimetière, sans leur permission. Ils ont précisés que cette patrouille à déjà tué plusieurs de leurs hommes."
  ncr-boswar.2.a:0 "Dire à la RNC que nos hommes ont agis indépendamment."
  ncr-boswar.2.b:0 "Exiger de la RNC qu'elle nous renvoye nos hommes"
 
@@ -48,7 +48,7 @@
  ncr-boswar.6.a:0 "Envoyés l'armée!"
 
  ncr-boswar.7.t:0 "Nos éclaireurs sont de retour"
- ncr-boswar.7.d:0 "Nous avons recu une communication de nos hommes nous indiquant qu'ils ont été capable de revenir de Boneyard sans problémes. Ils ramenent avec eux 7 caches de données d'une valeure inconnue; toutefois ces données venants d'une installation de West-Tek elles devraient être inestimable dans notre objectif de comprendre, maitriser, et protéger la Technologie."
+ ncr-boswar.7.d:0 "Nous avons recu une communication de nos hommes nous indiquant qu'ils ont été capable de revenir du Cimetière sans problémes. Ils ramenent avec eux 7 caches de données d'une valeure inconnue; toutefois ces données venants d'une installation de West-Tek elles devraient être inestimable dans notre objectif de comprendre, maitriser, et protéger la Technologie."
  ncr-boswar.7.a:0 "Les punir pour avoir agi sans ordre"
 
  ncr-boswar.8.t:0 "L'Ultimatum"
@@ -178,7 +178,7 @@
  nf_ncr.17.c:0 "Le contrôle direct sur la police de Sac City via la corruption."
 
  nf_ncr.18.t:0 "Les secrets de la vieille ville"
- nf_ncr.18.d:0 "La ville de Los Angeles possédait jadis l'une des plus grandes technologies de notre monde, et l'acquisition de cette technologie pourrait grandement améliorer les conditions de vie dans le Boneyard, et dans toute la RNC. Quel secret trouverons nous dans la vielle ville ? Et comment pourrons nous l'utiliser à l'avantage de la plus grande Nation du nouveau monde ?"
+ nf_ncr.18.d:0 "La ville de Los Angeles possédait jadis l'une des plus grandes technologies de notre monde, et l'acquisition de cette technologie pourrait grandement améliorer les conditions de vie dans le Cimetière, et dans toute la RNC. Quel secret trouverons nous dans la vielle ville ? Et comment pourrons nous l'utiliser à l'avantage de la plus grande Nation du nouveau monde ?"
  nf_ncr.18.a:0 "Des machines du vieux monde."
  nf_ncr.18.b:0 "Des armures du vieux monde."
  nf_ncr.18.c:0 "Des théâtres du vieux monde."
@@ -217,7 +217,7 @@
  nf_ncr.24.c:0 "Les Barons font cesser le crime."
 
  nf_ncr.29.t:0 "La République...en GUERRE"
- nf_ncr.29.d:0 "Les élections de la RNC se sont finis dans une impasse, aucun candidat n'ayant obtenu une majorité suffisante de grands électeurs. En temps normal des négociations et désistements entre candidats réglerait le problème, toutefois les choses ont pris une tournure tragique lorsque Grant.C Hayes a revendiqué la victoire et a appellé l'Enclave à ses côtés. Dans le même temps la région de Dayglow a rejoint son camp et s'est proclamée héritiére de la République. En ce moment même, ses forces, composées de soldats de l'Enclave à la technologie avancée, ou de membres de la RNC, avancent.                                                                                          Dans une tentative de le contrer Aaron Kimball c'est déclaré Président de-facto de la RNC. Il est, dans ceci, supporté unanimement par les Barons et l'armée. Toutefois, cette action lui a aliéné les habitants de Boneyard, qui crient au coup d'État militaire contre la République. Outragé par la situation, et voulant à tout prix évité d'être pris en sandwich dans une guerre entre Kimball et Hayer, Allgood Murphy et ses alliés ont déclaré l'indépendance du Boneyard, rejointe par la majorité des communautés l'entourant. Aaron Kimball a, logiquement, déclaré Allgood et ceux le suivant "ennemis de la République" et a demandé leur arrestation. Et ce alors que Hayes se prépare à écraser et Allgood et Kimball à l'aide de son impressionnante armée.                                                                                                                                                          Allgood Murphy n'est pas le seul à être inquiété contre Aaron Kimball et son régime militaire. Anton Flynn, souhaitant défendre les intérêts des Barons, pense que personne n'est capable de militairement s'opposer aux forces de Hayes. Et, même en ces heures graves, il recherche le dialogue avec cette homme, espérant la garantie du maintient du monopole de l'élevage de Brahimes pour les Barons en échange de son ralliement."
+ nf_ncr.29.d:0 "Les élections de la RNC se sont finis dans une impasse, aucun candidat n'ayant obtenu une majorité suffisante de grands électeurs. En temps normal des négociations et désistements entre candidats réglerait le problème, toutefois les choses ont pris une tournure tragique lorsque Grant.C Hayes a revendiqué la victoire et a appellé l'Enclave à ses côtés. Dans le même temps la région de Dayglow a rejoint son camp et s'est proclamée héritiére de la République. En ce moment même, ses forces, composées de soldats de l'Enclave à la technologie avancée, ou de membres de la RNC, avancent.                                                                                          Dans une tentative de le contrer Aaron Kimball c'est déclaré Président de-facto de la RNC. Il est, dans ceci, supporté unanimement par les Barons et l'armée. Toutefois, cette action lui a aliéné les habitants du Cimetière, qui crient au coup d'État militaire contre la République. Outragé par la situation, et voulant à tout prix évité d'être pris en sandwich dans une guerre entre Kimball et Hayer, Allgood Murphy et ses alliés ont déclaré l'indépendance du Cimétière, rejointe par la majorité des communautés l'entourant. Aaron Kimball a, logiquement, déclaré Allgood et ceux le suivant "ennemis de la République" et a demandé leur arrestation. Et ce alors que Hayes se prépare à écraser et Allgood et Kimball à l'aide de son impressionnante armée.                                                                                                                                                          Allgood Murphy n'est pas le seul à être inquiété contre Aaron Kimball et son régime militaire. Anton Flynn, souhaitant défendre les intérêts des Barons, pense que personne n'est capable de militairement s'opposer aux forces de Hayes. Et, même en ces heures graves, il recherche le dialogue avec cette homme, espérant la garantie du maintient du monopole de l'élevage de Brahimes pour les Barons en échange de son ralliement."
  nf_ncr.29.a:0 "Nous nous battrons pour la République!"
 
  ncr_helios_event.21.t:0 "La Communauté s'empare de HELIOS One"
