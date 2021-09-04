@@ -97,7 +97,7 @@
  ncr_newnorth_desc:0 "Sous la direction d'Anton I. Flynn, le nord de la RNC a été ramené à la paix. L'économie est en plein essor et la nourriture circule à nouveau vers le sud. Flynn s'est fait l'un des hommes les plus puissants de la RNC et est en passe de remporter les prochaines élections."
 
  ncr_diplomatic:0 "La mission diplomatique"
- ncr_diplomatic_desc:0 "Sean 'Allgood' Murphy est une figure curieuse de la scène politique de la RNC. Un homme du Boneyard ayant des liens à la fois avec la Confrérie de l'acier et les disciples de l'Apocalypse. Il croit que la réponse au chaos dans le Nord peut être facilement résolue avec une aide extérieure."
+ ncr_diplomatic_desc:0 "Sean 'Allgood' Murphy est une figure curieuse de la scène politique de la RNC. Un homme du Cimetière ayant des liens à la fois avec la Confrérie de l'acier et les disciples de l'Apocalypse. Il croit que la réponse au chaos dans le Nord peut être facilement résolue avec une aide extérieure."
 
  ncr_steeldeal:0 "Le deal en acier"
  ncr_steeldeal_desc:0 "Le Deal d'Acier, comme on l’appelle, est une tentative de réintroduire les patrouilles de la Confrérie de l'Acier dans le nord de la RNC. Bien que cela soit fortement critiqué par beaucoup, Allgood estime que l’approche du combat menée par la Confrérie et sa redoutable réputation seront suffisantes pour que les Barons déposent les armes."
@@ -228,7 +228,7 @@
  ncr_migration:0 "Migration Baja"
  ncr_migration_desc:0 "Avec la prospérité, il y a la croissance et, avec la croissance, de nouveaux visages. Des milliers d'hommes et de femmes tentent d'immigrer à Dayglow à partir de la pauvreté frappante de Baja. Bien qu'ils soient acceptés, il est légitime de craindre que ces afflux ne nuisent à l'économie et à notre efficacité à court terme."
 
- ncr_supermutants:0 "Migration super-mutante"
+ ncr_supermutants:0 "Migration Super Mutante"
  ncr_supermutants_desc:0 "Les super-mutants ont des droits dans la RNC, mais sont rarement les bienvenus. Hayes a fait de la publicité pour Baja comme un lieu où les mutants peuvent trouver la liberté et la richesse, et un bon emploi. Malheureusement, ce message a été reçu de façon inattendu, car des centaines de mutants se sont installés dans la ville. Que fait-on avec tant de brutes ?"
 
  ncr_thirteen:0 "Reconstruire le 13"
@@ -255,18 +255,18 @@
  ncr_calileague:0 "La ligue californienne"
  ncr_calileague_desc:0 "Maintenant que le baseball est de retour aux yeux des gens de la RNC, la ligue est fondée et de nombreux citoyens se rallient à elle. Des stades sont en cours de construction, des équipes et des ligues moins importantes ont été créées, un petit bout d’Amérique est enfin revenu sur les terrains vagues."
 
- ncr_boneyard:0 "Le Boneyard"
- ncr_boneyard_desc:0 "La ville de Los Angeles devait être la plus grande du monde avant la guerre. Le L.A. Boneyard s'étire pour toujours, les squelettes des bâtiments se trouvant sous le soleil brûlant. Même le vent n'est pas entré dans cette ville morte. Ou alors c'était pour un temps, mais maintenant, LA grandit, les gens et les goules y reviennent et chaque année, elle devient un peu moins vide et un peu plus vivante."
- ncr_gain_boneyard_income:10 "§YLe Boneyard§! gagne §G+10%§! de développement et revenus commerciaux"
+ ncr_boneyard:0 "Le Cimetière"
+ ncr_boneyard_desc:0 "La ville de Los Angeles devait être la plus grande du monde avant la guerre. Le Cimetière s'étire pour toujours, les squelettes des bâtiments se trouvant sous le soleil brûlant. Même le vent n'est pas entré dans cette ville morte. Ou alors c'était pour un temps, mais maintenant, L.A grandit, les gens et les goules y reviennent et chaque année, elle devient un peu moins vide et un peu plus vivante."
+ ncr_gain_boneyard_income:10 "§YLe Cimetière§! gagne §G+10%§! de développement et revenus commerciaux"
 
  ncr_oldcity:0 "Récurer la vieille ville"
- ncr_oldcity_desc:0 "Le Boneyard était autrefois la plus grande villes de toute l’Amérique ancienne, avec une population et une taille considérable, remplie de technologies et de merveilles perdues au fil du temps. Pourtant, dans les ruines, on peut encore trouver des choses merveilleuses ... qu'est-ce qui a été découvert récemment ?"
+ ncr_oldcity_desc:0 "Le Cimetière était autrefois la plus grande villes de toute l’Amérique ancienne, avec une population et une taille considérable, remplie de technologies et de merveilles perdues au fil du temps. Pourtant, dans les ruines, on peut encore trouver des choses merveilleuses ... qu'est-ce qui a été découvert récemment ?"
 
  ncr_bearport:0 "Le Bearport"
- ncr_bearport_desc:0 "La RNC est à l’origine de l’innovation technologique depuis des décennies et compte beaucoup sur sa supériorité terrestre. Cependant, dans le boneyard, un aéroport vaste et pratiquement intact a été mis en sommeil pendant plus d’un siècle. Une nouvelle subvention pour le renouvellement de cet emplacement a été approuvée par le congrès."
+ ncr_bearport_desc:0 "La RNC est à l’origine de l’innovation technologique depuis des décennies et compte beaucoup sur sa supériorité terrestre. Cependant, dans Le Cimetière, un aéroport vaste et pratiquement intact est resté inutilisé et oublié pendant plus d’un siècle. Une nouvelle subvention pour le renouvellement de cet emplacement a été approuvée par le congrès."
 
  ncr_followers:0 "Financement des suiveurs"
- ncr_followers_desc:0 "Les partisans de l'Apocalypse ont toujours bien agi pour la RNC, et il est temps que la faveur soit rendue ! Des bénévoles et des médecins sont envoyés dans cette organisation par douzaine, et le financement officiel de l'arsenal régional promet de développer leur organisation afin qu'elle puisse mieux aider les gens de la RNC."
+ ncr_followers_desc:0 "Les Disciples de l'Apocalypse ont toujours bien agi pour la RNC, et il est temps que la faveur soit rendue ! Des bénévoles et des médecins sont envoyés dans cette organisation par douzaine, et le financement officiel de leur base du Cimetière promet de développer leur organisation afin qu'elle puisse mieux aider les gens de la RNC."
 
  ncr_bearforceexpansion:0 "Expansion de la force de l'ours"
  ncr_bearforceexpansion_desc:0 "La bien nommée Bear Force de la RNC est, entre autres, sous-financé et en manque d'expertise. Toutefois, la RNC investit toujours dans l'expansion, et une réattribution de fonds, ainsi que des conseils de plusieurs goules d'avant-guerre, devraient permettre d'accroître la capacité de la RNC à mener une guerre dans le ciel."
