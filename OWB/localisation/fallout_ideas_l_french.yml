@@ -59,7 +59,7 @@
  wattz_company:0 "Wattz Electronics"
  ces_mojave_tribute:0 "The Spolia Opima"
  ces_slaves:0 "Consul Officiorum ab Famulatus"
- ces_slaves_desc:0 "Même dans la Légion, quelqu'un doit s'occuper du travail administratif, comme la rédaction de documents juridiques enregistrant les ventes et les achats d'esclaves. Actuellement, M. Licinius Crassus occupe ce poste. Formere Frumentarii, il ne scrute aucune méthode, si elle procure du profit, que ce soit des menaces ou des enlèvements."
+ ces_slaves_desc:0 "Même dans la Légion, quelqu'un doit s'occuper du travail administratif, comme la rédaction des documents juridiques enregistrant la vente et l'achat d'esclaves. Actuellement, c'est M. Licinius Crassus qui occupe ce poste. Anciennement Frumentarii, il n'examine aucune méthode, si elle apporte du profit, qu'il s'agisse de menaces ou d'enlèvements."
 
  pile_of_guns:0 "Muzzles Pile Of Guns"
  pile_of_guns_desc:0 "Vous voulez des armes ? Nous avons des armes. Chaque arme coûte la même chose. Creusez dans le tas !"
@@ -109,7 +109,7 @@
 
  # VEG
  silver_rush:0 "Silver Rush"
- new_vegas_clinic:0 "New Vegas Clinic"
+ new_vegas_clinic:0 "Clinique de New Vegas"
 
  # Oregon Shared
  coral_shapers:0 "Coral Shapers"
@@ -125,16 +125,16 @@
  cartel_rejects:0 "Le Cartel Rejette"
  occupation_surplus:0 "Surplus d'Occupation"
  farias_outpost:0 "Farías Décharge"
- tzotzil_detachment:0 "Détachement de Fortification de Tzotil"
- viceroyalty_branch_office:0 "Succursale de la Vice-Royauté"
+ tzotzil_detachment:0 "Détachement de Fortification Tzotil"
+ viceroyalty_branch_office:0 "Succursale d'El Virreinato"
  petro_chico_reserve:0 "Réserve de Petro Chico"
- tohono_advisory:0 "Cabinet de conseil Tohono"
+ tohono_advisory:0 "Cabinet de Consultants Tohono"
  costa_corp:0 "Costa Corp Entertainment"
  cost_corp_pharmaceuticals:0 "Costa Corp Pharmaceuticals"
  baja_motors:0 "Bêtes de Baja"
- nogales_garage:0 "Garage Nogales"
- belize_drydocks:0 "Cales sèches de Belize"
- pueblo_airbase:0 "Base aérienne de Pueblo"
+ nogales_garage:0 "Garage de Nogales"
+ belize_drydocks:0 "Cales Sèches du Belize"
+ pueblo_airbase:0 "Base Aérienne de Pueblo"
  masita_riverworks:0 "Ouvrages de la rivière Masita"
 
  natives_air_designer:0 "Awbizhaye"
@@ -142,7 +142,7 @@
  PEMEX:0 "PEMEX"
  PEMEX_desc:0 "PEMEX avait entamé des recherches intensives sur l'efficacité énergétique et les biocarburants pour pallier le dessèchement des réserves de pétrole avant leur fermeture par l'occupation américaine."
  petro_chico_rnd:0 "Petro Chico R&D"
- petro_chico_rnd_desc:0 "Petro Chico s'occupait principalement de l'extraction de pétrole en vrac pour concurrencer l'énergie de fusion avant que la grande guerre ne mette définitivement fin aux activités."
+ petro_chico_rnd_desc:0 "Petro Chico s'occupait principalement de l'extraction de pétrole brut pour concurrencer l'énergie de fusion avant que la grande guerre ne mette définitivement fin à ses activités."
 
  # Traits
  power_armor_manufacturer:0 "Fabricant d'Armures Assistée"
@@ -161,13 +161,13 @@
   heavy_ship_manufacturer_desc:0 ""
  light_ship_manufacturer:0 "Fabricant de Navires Légers"
   light_ship_manufacturer_desc:0 ""
- slavery_offices:0 "Bureaux de l'Esclavage"
+ slavery_offices:0 "Institutions Esclavagistes"
 
- economic_finances_company:0 "Conseil Financier"
+ economic_finances_company:0 "Assistance Financière"
  fuel_company:0 "Dépôt de Carburant"
- light_aircraft_manufacturer:0 "Fabricant d'Aéronefs Légers"
+ light_aircraft_manufacturer:0 "Fabricant d'Avions Légers"
 
- natives_air_manufacturer:0 "À travers l'air"
+ natives_air_manufacturer:0 "À Travers l'Air"
 
  apc_manufacturer:0 "Fabricant d'APC"
  weapon_manufacturer:0 "Fabricant d'Armes"

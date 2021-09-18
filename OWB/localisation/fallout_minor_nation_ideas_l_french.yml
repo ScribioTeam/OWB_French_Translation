@@ -9,8 +9,8 @@
  neutrality_owb_desc:0 ""
 
   # SUN
- sun_victors_against_pallus:0 "Victors Against Paullus"
- sun_victors_against_pallus_desc:0 "Paullus was seen as unstoppable before he tried to run his cohorts into Sun Dogs territory. The Centurion's chariots passed through a narrow mountain passage - feeling themselves invincible after their previous victories.\nA short, if decisive battle would follow - Gold-hound proving to Paullus that Colorado was out of his reach. Even today the legacy of Paullus's failed invasion still lingers in the minds of the Sun Dogs - the tribe having reversed engineered the Legionary chariots - making them their own!"
+ sun_victors_against_pallus:0 "Vainqueurs contre Paullus"
+ sun_victors_against_pallus_desc:0 "Paullus était considéré comme invincible avant qu'il ne tente de faire entrer ses cohortes en territoire des Chiens du Soleil. Les chars du Centurion traversèrent un étroit passage montagneux - se sentant invincibles après leurs précédentes victoires.\nUne bataille courte, mais décisive, s'ensuivit - Molosse d'Or prouvant à Paullus que le Colorado était hors de sa portée. Aujourd'hui encore, l'héritage de l'invasion ratée de Paullus est toujours présent dans l'esprit des Chiens du Soleil - la tribu a modifié les chars des Légionnaires pour en faire les leurs !"
 
   ##########################
   ##### UNIQUE GENERIC IDEAS
@@ -99,10 +99,10 @@
 
 
   #EDA
- EDA_ufo_defense:0 "\"PROJECT MOGUL\" Legacy"
- EDA_ufo_defense_desc:0 "The "Blue Rose Society" was the formal, non-confidential name for a series of military bases related to the extant PROJECT MOGUL, a hundred-year research project that sought to study the methods by which new sciences can be used in novel ways to defeat enemies of America. Roswell, New Mexico served as the homes of some of MOGUL's earliest experiments.\n\nAfter the Great War, the Society has grown greatly to attempt to fill the space left by proper American governance through establishing a local government of regional committees led by a central representing board in Roswell. However, some propose that the Society's higher ups still carry on the scientific tradition of their forebears in the shadows. "
- EDA_secrets:0 "Non-Disclosure Agreements"
- EDA_secrets_desc:0 "Any wasteland settlers wishing to move to, trade in or find safety within Blue Rose Society lands has to sign a "Non-Disclosure Agreement", a binding agreement between recipent and the Society's Board of Directors. People who have broken this agreement tend to not stay around for long."
+ EDA_ufo_defense:0 "Héritage du \"PROJECT MOGUL\""
+ EDA_ufo_defense_desc:0 "La \"Société de la Rose Bleue\" était le nom officiel et non confidentiel d'une série de bases militaires liées à l'actuel PROJET MOGUL, un projet de recherche centenaire qui visait à étudier les méthodes permettant d'utiliser les nouvelles sciences de manière originale pour vaincre les ennemis de l'Amérique. Roswell, au Nouveau-Mexique, a été le siège de certaines des premières expériences du MOGUL.\n\nAprès la Grande Guerre, la Société s'est fortement développée pour tenter de combler l'espace laissé par une gouvernance américaine appropriée en établissant un gouvernement local composé de comités régionaux dirigés par un conseil central représentatif à Roswell. Cependant, certains pensent que les hauts responsables de la Société continuent à perpétuer la tradition scientifique de leurs ancêtres dans l'ombre. "
+ EDA_secrets:0 "Accords de Non-Divulgation"
+ EDA_secrets_desc:0 "Tout habitant des Terres Désolées souhaitant s'installer, faire du commerce ou trouver la sécurité sur les terres de la Société de la Rose Bleue doit signer un \"Accord de Non-Divulgation\", un accord contraignant entre la personne et le conseil d'administration de la Société. Les personnes qui ne respectent pas cet accord ont tendance à ne pas rester longtemps dans le coin."
 
   #WHI
  whi_burden_of_a_nation:0 "Le Fardeau d'une Nation"
@@ -185,14 +185,14 @@
   #ROT
  rot_legacy_of_vault_100:0 "L'Héritage d'Abri 100"
  rot_legacy_of_vault_100_desc:0 "L'Abri 100, construit sous le Spokane d'avant-guerre, était l'un des plus grands abris jamais construits par Vault-Tec. Conçue pour abriter plus de 1200 occupants, l'abri a été délibérément construite en grand pour faciliter l'expérience tordue menée dans ses murs. Sous l'observation attentive du Superviseur, des radiations ont été délibérément introduites dans les quartiers d'une partie des occupants de l'Abri. Pendant la première décennie, les effets étaient insignifiants, mais au fil du temps, une minorité importante des habitants de l'Abri s'est lentement transformée en goules intelligentes. Les habitants qui sont restés \"purs\" ont été horrifiés par leur famille irradiée, et avant qu'une longue guerre civile n'éclate dans l'Abri. Les goules prirent le dessus lorsqu'elles prirent le contrôle de l'armurerie du Superviseur, forçant la faction humaine à s'échapper à la surface. Les humains ont fui vers l'est, où ils ont juré de se venger."
- rot_legacy_of_vault_100_tt:0 "\nReconquérir §YSpokane§! et éradiquer le §YVieux Pays§! nous donnera accès à la décision de §OFormer la Grande Inquisition§!.\n"
+ rot_legacy_of_vault_100_tt:0 "\nReconquérir §YSpokane§! et éradiquer le §YOld Country§! nous donnera accès à la décision de §OFormer la Grande Inquisition§!.\n"
  rot_eternal_quest:0 "La Quête Éternelle des Purs"
  rot_eternal_quest_desc:0 "Depuis notre exil de l'Abri 100, notre maison légitime, nous complotons notre vengence. Armés de lance-flammes, notre arme préférée d'extermination des goules, et après trois générations d'entraînement et de planification, nous sommes enfin prêts à reprendre notre maison. Nous allons faire briller Spokane §RBRULER§! dans la nuit, si c'est ce qu'il faut pour tuer les goules une fois pour toutes."
  rot_eternal_quest_tt:0 "Notre §RHAINE§! de ceux qui sont tordus par les radiations signifie que nous §Rpouvons pas§! recruter toute forme de §Omutants§!.\n"
 
   #FIE
  fie_drug_monopoly:0 "Monopole de la Drogue du Mojave"
- fie_drug_monopoly_desc:0 "Les Fiends ont un monopole quasi total sur le flux de drogues dans tout le Mojave, aidés par leurs fournisseurs des Grands Khans et de New Reno. Le commerce des drogues est incroyablement lucratif, surtout lorsque les habitants du Mojave mènent une vie aussi déprimante."
+ fie_drug_monopoly_desc:0 "Les Tox ont un monopole quasi total sur le flux de drogues dans tout le Mojave, aidés par leurs fournisseurs des Grands Khans et de New Reno. Le commerce des drogues est incroyablement lucratif, surtout lorsque les habitants du Mojave mènent une vie aussi déprimante."
  fie_strength_in_numbers:0 "L'Union fait la Force"
  fie_strength_in_numbers_desc:0 "Ce qui manque peut-être aux Fiends en termes de cerveau ou d'avance technologique, ils le compensent largement par leur nombre. Curieusement, ce ne sont pas les chimiodépendants qui manquent dans les dépotoirs du Mojave."
 
@@ -215,7 +215,7 @@
  PMR_slaves_and_drugs:0 "Esclaves et Drogues"
  PMR_slaves_and_drugs_desc:0 "L'économie de Port Maw est presque entièrement alimentée par la vente d'esclaves et de drogue. Bien que ce commerce ne soit ni moral ni terriblement rentable, le statut unique de Port Maw en tant que l'un des rares établissements non cannibales d'Oregon signifie qu'ils obtiennent une quantité surprenante de clients. Après tout, il vaut mieux être accro au Psycho qu'à un ragoût de cannibale."
  PMR_wannabe_criminal_empire:0 "L'Empire Criminel Wannabe"
- PMR_wannabe_criminal_empire_desc:0 "Les gangs de Port Maw ont les yeux rivés sur un objectif ambitieux : être la plaque tournante d'un vaste empire criminel faisant le commerce d'esclaves, de marchandises de contrebande et de capsules. Malheureusement, ils doivent faire face à une forte concurrence, la drogue s'écoulant de The Den et de New Reno, tandis que les esclaves sont facilement commercialisés le long des côtes du nord. Quoi qu'il en soit, la promesse d'une gloire future encourage des pans entiers de jeunes désespérés n'ayant aucune autre perspective de vie à rejoindre les gangs. \nPauvres bougres."
+ PMR_wannabe_criminal_empire_desc:0 "Les gangs de Port Maw ont les yeux rivés sur un objectif ambitieux : être la plaque tournante d'un vaste empire criminel faisant le commerce d'esclaves, de marchandises de contrebande et de capsules. Malheureusement, ils doivent faire face à une forte concurrence, la drogue vevant de La Fosse et de New Reno, tandis que les esclaves sont facilement commercialisés le long des côtes du nord. Quoi qu'il en soit, la promesse d'une gloire future encourage des pans entiers de jeunes désespérés n'ayant aucune autre perspective de vie à rejoindre les gangs. Pauvres bougres."
 
   #BEl
  bel_bellingham_for_battle:0 "Bataille pour Bellingham"
@@ -229,7 +229,7 @@
  blp_procurement_specialists:0 "Spécialistes des Marchés"
  blp_procurement_specialists_desc:0 "Dans le cadre de leur partenariat avec les bandits de Valle, les bandits du Paz s'occupent plus ou moins complètement de l'acquisition de biens illicites. Les bandits du Paz ont des contacts qui peuvent vous procurer des esclaves, de la drogue, des armes à feu ou même du café qui crée une dépendance. Si vous pouvez le nommer, les bandits du Paz peuvent le trouver pour vous : pour le bon prix..."
  bvc_expert_smugglers:0 "Contrebandiers Experts"
- bvc_expert_smugglers_desc:0 "Personne ne sait comment soudoyer un soldat de la RNC ou éviter une patrouille de Rangers comme le font les bandits de Valle. Après des décennies d'expérience de la contrebande, les Valle Bandits ont fait tourner la RNC en rond pour tenter de mettre un terme à leurs livraisons illicites à Dayglow, au Cimetière et au Hub."
+ bvc_expert_smugglers_desc:0 "Personne ne sait comment soudoyer un soldat de la RNC ou éviter une patrouille de Rangers comme le font les Valle Banditos. Après des décennies d'expérience de la contrebande, les Valle Banditos ont fait tourner la RNC en rond pour tenter de mettre un terme à leurs livraisons illicites au Dayglow, au Cimetière et au Centre."
 
   #OLY
  oly_park_legacy:0 "Héritage du Parc National"
@@ -268,8 +268,8 @@
  sho_snake_river_teachings_desc:0 "La Rivière aux Serpents, qui longe le flanc nord des Shoshones et s'étend sur l'Utah et l'Idaho, a fourni aux Shoshones une source fiable de nourriture et d'eau pendant des siècles. Bien qu'ils aient été expulsés de leur pays, l'accès continu des Shoshones à la rivière Snake signifie qu'ils sont loin de ne pas savoir comment survivre."
 
   #MOS
- mos_storms_of_the_divide:0 "Tempêtes du Divide"
- mos_storms_of_the_divide_desc:0 "Le \"Divide\" est le nom des colonies situées près des ruines de l'Ancien Monde d'Ashton et de Hopeville. Ces ruines ont été préservées parce que d'étranges tempêtes couvrent constamment la vallée, laissant les cicatrices de l'ancien monde à nu et à découvert."
+ mos_storms_of_the_divide:0 "Tempêtes de la Ligne de Partage"
+ mos_storms_of_the_divide_desc:0 "La \"Ligne de Partage\" est le nom des colonies situées près des ruines de l'Ancien Monde d'Ashton et de Hopeville. Ces ruines ont été préservées parce que d'étranges tempêtes couvrent constamment la vallée, laissant les cicatrices de l'ancien monde à nu et à découvert."
 
  mos_old_world_heritage:0 "Héritage du Vieux Monde"
- mos_old_world_heritage_desc:0 "Le Divide est si vierge que ceux qui y vivent peuvent encore y trouver des symboles et de l'héraldique que l'ancien monde a laissés derrière lui."
+ mos_old_world_heritage_desc:0 "La Ligne de Partage est si vierge que ceux qui y vivent peuvent encore y trouver des symboles et des autres traces que l'ancien monde a laissés derrière lui."

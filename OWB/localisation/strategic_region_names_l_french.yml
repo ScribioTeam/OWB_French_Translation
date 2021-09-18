@@ -200,25 +200,25 @@
   STRATEGICREGION_200:1 "Qinghai"
   STRATEGICREGION_201:0 "Northern Andes"
 
-  CARIBBEAN_SEA:0 "Caribbean Sea"
+ CARIBBEAN_SEA:0 "Mer des Caraïbes"
 
   MEXICO_RIVER_INTERNAL:0 "Hexus"
   MEXICO_RIVER_SOUTHWEST_1:0 "Jexus"
   MEXICO_RIVER_SOUTHWEST_2:0 "Sexus"
   MEXICO_RIVER_SOUTHEAST:0 "Nexus"
 
-  TR_COLUMBIA: "Northeast Columbia"
-  TL_COLUMBIA: "Northwest Columbia"
-  BR_COLUMBIA: "South Columbia"
-  BL_COLUMBIA: "Vancouver Island"
-  TLL_COLUMBIA: "Graham Island"
+ TR_COLUMBIA: "Colombie Nord-Est"
+ TL_COLUMBIA: "Colombie Nord-Ouest"
+ BR_COLUMBIA: "Colombie Sud"
+ BL_COLUMBIA: "Île de Vancouver"
+ TLL_COLUMBIA: "Île de Graham"
 
-  L_WASHINGTON: "West Washington"
-  C_WASHINGTON: "Central Washington"
-  R_WASHINGTON: "East Washington"
+ L_WASHINGTON: "Washington Ouest"
+ C_WASHINGTON: "Washington Centre"
+ R_WASHINGTON: "Washington Est"
 
-  L_OREGON: "West Oregon"
-  B_OREGON: "South Oregon"
+ L_OREGON: "Oregon Ouest"
+ B_OREGON: "Oregon Sud"
   T_OREGON: "North Oregon"
 
   TL_IDAHO: "North Idaho"

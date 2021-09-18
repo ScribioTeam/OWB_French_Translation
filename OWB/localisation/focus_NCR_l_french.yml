@@ -7,7 +7,7 @@
  ncr_tandi_desc:0 "Tandi a consacré sa vie à la cause de la République de Nouvelle-Californie et, au début de sa vie, ses idéaux se sont estompés et elle a dû faire face à un pragmatisme honnête. Elle a fait une série de choix difficiles, dont beaucoup ne lui ont pas nécessairement valu l'adoration de son peuple."
 
  ncr_development:0 "Développement de la République"
- ncr_development_desc:0 "Il y a environ 20 ans, le Congrès de la RNC proposait l'un des plans de développement économique les plus ambitieux de l'histoire des terres désolées, un investissement à grande échelle dans chacun des principaux centres de population de la RNC, les villes du quator de Sables Ombragés, Dayglow, The Boneyard et Sac-Town."
+ ncr_development_desc:0 "Il y a environ 20 ans, le Congrès de la RNC proposait l'un des plans de développement économique les plus ambitieux de l'histoire des Terres Désolées, un investissement à grande échelle dans chacun des principaux centres de population de la RNC, les villes proches de Sables Ombragés, Dayglow, Le Cimetière et Sac-Ville."
 
  ncr_navarro:0 "La bataille de Navarro"
  ncr_navarro_desc:0 "La bataille de Navarro fut le premier test réel de l'armée de la RNC. Avec l'approbation complète du Congrès et un financement illimité, la RNC a formé l'armée la plus massive que les Terres Désolées n'aient jamais vue jusque-là, un énorme regroupement de volontaires, de mercenaires et de conscrits. Soutenus par un détachement important de la Confrérie de l'Acier, ils ont marché sur la dernière base de l'Enclave."
@@ -274,7 +274,7 @@
  ncr_flyingbears:0 "Quand les ours volent"
  ncr_flyingbears_desc:0 "Malgré tout, l'aéroport du Cimetière est devenu le joyau de l'armée de l'air de la RNC et est devenu une plaque tournante pour la remise à neuf et la reconstruction d'aéronefs divers. C’est là que les aspirants ingénieurs sont formés pour reconstruire les machines de guerre de jadis, et c’est à partir de là que la nouvelle flotte aérienne de la RNC sera lancée."
 
- ncr_boneyardsprawl:0 "Le Cimetière Sprawl"
+ ncr_boneyardsprawl:0 "L'Étendu du Cimetière"
  ncr_boneyardsprawl_desc:0 "Dans ce qui s'appelait autrefois Lakewood, se trouve Adytum, l’une des plus importantes colonies du Cimetière. Lakewood était autrefois dans les terres avant la guerre, mais la dévastation nucléaire qui a frappé la ville a provoqué des inondations et la destruction du littoral."
 
  ncr_newcity:0 "Renforcer la New City"
@@ -285,10 +285,10 @@
  ncr_gain_dayglow_income:20 "§YDayglow§! gagne §G+20%§! de développement et revenus commerciaux"
 
  ncr_mint:0 "La réserve de la république"
- ncr_mint_desc:0 "Le stock de tout l'or et de la richesse dans la RNC est situé dans le Cimetière, et le trésorier actuel de la République et chef de la réserve de la République est John Michael Henderton; dont la signature se trouve sur la face avant de toutes les notes de la RNC."
+ ncr_mint_desc:0 "Le stock de tout l'or et de la richesse dans la RNC est situé au Cimetière, et le Trésorier actuel de la République et chef de la réserve de la République est John Michael Henderton; dont la signature se trouve sur la face avant de toutes les notes de la RNC."
 
  ncr_scavfund:0 "Financer les Scavengers"
- ncr_scavfund_desc:0 "Les Scavengers sont et continuent d'être le cœur de l'économie du Cimetière, une petite armée d'hommes et de femmes qui s'aventurent dans les ruines du Vieux Monde et reviennent avec du métal et d'autres ressources utiles. Le fonctionnement continu de ces groupes et leur expansion sont des éléments clés de notre plan économique."
+ ncr_scavfund_desc:0 "Les récupérateurs sont et continuent d'être le cœur de l'économie du Cimetière, une petite armée d'hommes et de femmes qui s'aventurent dans les ruines du Vieux Monde et reviennent avec du métal et d'autres ressources utiles. Le fonctionnement continu de ces groupes et leur expansion sont des éléments clés de notre plan économique."
 
  ncr_grinvestments:0 "Investissements Gun Runner"
  ncr_grinvestments_desc:0 "Les Gun Runners du Cimetière comptent parmi les meilleurs armuriers du monde et ils sont certainement les plus puissants et les plus performants de la RNC. Capable de reproduire toutes les conceptions d'avant-guerre, sauf les plus rares, et à une échelle convenant à l'armée de la RNC."
@@ -296,8 +296,8 @@
  ncr_grexpansion:0 "Expansion de Gun Runner"
  ncr_grexpansion_desc:0 "L'expansion de Gun Runner est une généreuse donation du budget militaire de la RNC, destiné à être utilisé pour une expansion à grande échelle des installations de Gun Runners, afin de mieux armer les troupes de la RNC au fur et à mesure de la standardisation."
 
- ncr_allisgoodboneyard:0 "Tout est bon dans le Cimetière"
- ncr_allisgoodboneyard_desc:0 "Sous la direction d'Allgood Murphy, le Cimetière a connu une croissance impensable. Il est devenu un phare de progrès dans la RNC, dans une moindre mesure, dans l’ensemble des Terres Désolées."
+ ncr_allisgoodboneyard:0 "Tout est bon au Cimetière"
+ ncr_allisgoodboneyard_desc:0 "Sous la direction d'Allgood Murphy, Le Cimetière a connu une croissance impensable. Il est devenu un phare de progrès dans la RNC, dans une moindre mesure, dans l’ensemble des Terres Désolées."
 
  ncr_barons:0 "Barons de la RNC"
  ncr_barons_desc:0 "L'économie de la RNC est vaste et puissante, mais on s'inquiète de plus en plus des divers Barons et de leurs monopoles sur divers aspects de l'économie. De Brahmin sur l'eau, toutes les ressources précieuses sont contrôlées par une poignée d'hommes seulement. Pourtant, lorsque ces hommes travaillent ensemble, leur influence politique et économique peut faire des miracles dans des endroits improbables."
@@ -306,10 +306,10 @@
  ncr_sac_desc:0 "Sac-Town était autrefois l'ancienne capitale de la Californie avant que les bombes ne tombent, et peu de temps après, elle est devenue un bastion pour les pillards et les tribaux, notamment les 80's. Cependant, la ville n’a jamais été un terme approprié pour un tel endroit, et la RNC s’est efforcée de faire de ce lieu un pôle économique, leur ville la plus septentrionale d’importance."
 
  ncr_hub:0 "Le Hub prospère"
- ncr_hub_desc:0 "Le Hub est un énorme centre de commerce et de peuplement établi dans une vieille ville relativement épargnée par la Grande Guerre. Les caravanes sont organisées ici, transportant des marchandises vers le nord jusqu'à Sables Ombragés, Junktown, les Terres Désolées de Mojave et vers le sud jusqu'au Cimetière."
+ ncr_hub_desc:0 "Le Centre est un énorme centre de commerce et de peuplement établi dans une vieille ville relativement épargnée par la Grande Guerre. Les caravanes sont organisées ici, transportant des marchandises vers le nord jusqu'à Sables Ombragés, JDépôtville, les Terres Désolées du Mojave et vers le sud jusqu'au Cimetière."
 
- ncr_junktown:0 "Junktown fleurit"
- ncr_junktown_desc:0 "Junktown est l'une des plus petites villes du sud de la Californie. Elle a été fondé peu après la guerre par un soldat nommé Darkwater. [1] Au lieu de construire sur les ruines d'une vieille ville, il pensait qu'il valait mieux commencer à partir de zéro. Depuis qu’elle est devenu un État de la région de la capitale nationale, Junktown a connu une croissance économique et une prospérité notables, en partie parce qu’elle était la plaque tournante du peu de commerce de la RNC avec la Confrérie de l'Acier."
+ ncr_junktown:0 "Dépôtville Fleurit"
+ ncr_junktown_desc:0 "Dépôtville est l'une des plus petites villes du sud de la Californie. Elle a été fondé peu après la guerre par un soldat nommé Darkwater. Au lieu de construire sur les ruines d'une vieille ville, il pensait qu'il valait mieux commencer à partir de zéro. Depuis qu’elle est devenu un État de la région de la capitale nationale, Dépôtville a connu une croissance économique et une prospérité notables, en partie parce qu’elle était la plaque tournante du peu de commerce de la RNC avec la Confrérie de l'Acier."
 
  ncr_80sgarage:0 "Les garages des 80's"
  ncr_80sgarage_desc:0 "La Tribu des 80's faisait autrefois partie des gangs de pillards les plus puissants de Californie, les conservateurs rituels qui entretenaient leurs motos avec une attention et des soins superstitieux. Cependant, les 80's ont été peu de chose pour les militaires de la RNC qui les ont ensuite expulsés de leurs terres et, à ce jour, leurs nombreux garages et temples sont restés intacts, tout comme les secrets qu'ils contiennent."
@@ -330,13 +330,13 @@
  ncr_richroad_desc:0 "Comme toujours, le cœur de la RNC est Sables Ombragés, et la mise en place d’un réseau de routes reliant tout canton à la ville apportera à la fois richesse et prospérité. À cette fin, les barons cherchent à améliorer et à perfectionner les routes commerciales qui relient actuellement le Hub à la capitale, afin que leurs investissements puissent s’épanouir."
 
  ncr_gizmo:0 "L'héritage de Gizmo"
- ncr_gizmo_desc:0 "Gizmo était autrefois l’homme le plus puissant de tout Junktown, un criminel infâme qui, involontairement, a soutenu le canton naissant par la grandeur de ses activités et de ses pratiques commerciales ignobles. Bien qu'invoqué par de nombreux citoyens de Junktown, le Baron Brahmin considère favorablement l'héritage de Gizmo et continue de se livrer à de nombreuses pratiques qui l'ont rendu puissant et riche."
+ ncr_gizmo_desc:0 "Gizmo était autrefois l’homme le plus puissant de tout Dépôtville, un criminel infâme qui, involontairement, a soutenu le canton naissant par la grandeur de ses activités et de ses pratiques commerciales ignobles. Bien qu'invoqué par de nombreux citoyens de Dépôtville, le Baron Brahmin considère favorablement l'héritage de Gizmo et continue de se livrer à de nombreuses pratiques qui l'ont rendu puissant et riche."
 
  ncr_doctormorbid:0 "École de médecine du docteur Morbid"
  ncr_doctormorbid_desc:0 "L'école de médecine du Docteur Morbid est l'héritage du docteur Morbid, un praticien de médecine douteux sur le plan moral, qui a utilisé son monopole sur le commerce médical pour facturer des prix exorbitants et financer ses nombreux autres projets, dont l'institution."
 
  ncr_newwall:0 "Le nouveau mur"
- ncr_newwall_desc:0 "Junktown a toujours eu une esthétique emblématique, une ville naissante entourée de nombreux murs faits de véhicules anciens et d'épaves. Toutes les quelques décennies, une autre couche est ajoutée pour contenir la population toujours croissante, et il est temps que le nouvel étalement externe soit intégré aux limites de cette défense en couches."
+ ncr_newwall_desc:0 "Dépôtville a toujours eu une esthétique emblématique, une ville naissante entourée de nombreux murs faits de véhicules anciens et d'épaves. Toutes les quelques décennies, une autre couche est ajoutée pour contenir la population toujours croissante, et il est temps que le nouvel étalement externe soit intégré aux limites de cette défense en couches."
 
  ncr_bearsroar:0 "Les rugissements d'ours"
  ncr_bearsroar_desc:0 "L'armée de la RNC est la plus forte de toutes les Terres Désolées, des dizaines de milliers d'hommes et de femmes qui sont à la fois bien équipés et raisonnablement bien entraînés. Ces hommes et ces femmes sont appuyés par un noyau logistique dévoué et compétent, le talent suprême et la compétence des Rangers, et un dévouement indéniable à la civilisation dans les Terres Désolées. Quand les ours rugissent, la Terres Désolées tremblent."

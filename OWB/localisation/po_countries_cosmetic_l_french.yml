@@ -576,8 +576,8 @@
  UIN_NCN_autonomy_brother_in_the_faith:0 "Eagle Rock"
  UIN_NCN_autonomy_brother_in_the_faith_DEF:0 "Eagle Rock"
 
- CRZ_NCN_autonomy_child_in_the_faith:0 "Disciples des Cornes Folles"
- CRZ_NCN_autonomy_child_in_the_faith_DEF:0 "Les Disciples des Cornes Folles"
+ CRZ_NCN_autonomy_child_in_the_faith:0 "Disciples Cornes Folles"
+ CRZ_NCN_autonomy_child_in_the_faith_DEF:0 "Les Disciples Cornes Folles"
  CRZ_NCN_autonomy_convert:0 "Apôtres Cornes Folles"
  CRZ_NCN_autonomy_convert_DEF:0 "Les Apôtres des Cornes Folles"
  CRZ_NCN_autonomy_brother_in_the_faith:0 "Cornes Folles"
@@ -626,12 +626,12 @@
  MUR_HEA_autonomy_brother_in_the_faith:0 "Murtaugh Oint"
  MUR_HEA_autonomy_brother_in_the_faith_DEF:0 "Les Murtaugh Oints"
 
- TOC_HEA_autonomy_child_in_the_faith:0 "Disciples du Vieux Pays"
- TOC_HEA_autonomy_child_in_the_faith_DEF:0 "Les Disciples du Vieux Pays"
- TOC_HEA_autonomy_convert:0 "Croyants du Vieux Pays"
- TOC_HEA_autonomy_convert_DEF:0 "Les Croyants du Vieux Pays"
- TOC_HEA_autonomy_brother_in_the_faith:0 "Oints du Vieux Pays"
- TOC_HEA_autonomy_brother_in_the_faith_DEF:0 "Les Oints du Vieux Pays"
+ TOC_HEA_autonomy_child_in_the_faith:0 "Disciples de Old Country"
+ TOC_HEA_autonomy_child_in_the_faith_DEF:0 "Les Disciples de Old Country"
+ TOC_HEA_autonomy_convert:0 "Croyants de Old Country"
+ TOC_HEA_autonomy_convert_DEF:0 "Les Croyants de Old Country"
+ TOC_HEA_autonomy_brother_in_the_faith:0 "Oints de Old Country"
+ TOC_HEA_autonomy_brother_in_the_faith_DEF:0 "Les Oints de Old Country"
 
  LON_HEA_autonomy_child_in_the_faith:0 "Disciples de Lonetree"
  LON_HEA_autonomy_child_in_the_faith_DEF:0 "Les Disciples de Lonetree"
@@ -652,43 +652,43 @@
 
   ### Troll warren
 
- KLA_TRL_autonomy_slave_den:0 "Den Klamath"
- KLA_TRL_autonomy_slave_den_DEF:0 "Den Klamath"
+ KLA_TRL_autonomy_slave_den:0 "Fosse de Klamtah"
+ KLA_TRL_autonomy_slave_den_DEF:0 "Fosse de Klamtah"
  KLA_TRL_autonomy_slave_warren:0 "Warren Klamath "
  KLA_TRL_autonomy_slave_warren_DEF:0 "Warren Klamath"
 
- CHE_TRL_autonomy_slave_den:0 "Den Chemult"
- CHE_TRL_autonomy_slave_den_DEF:0 "Den Chemult"
+ CHE_TRL_autonomy_slave_den:0 "Fosse de Chemult"
+ CHE_TRL_autonomy_slave_den_DEF:0 "Fosse de Chemult"
  CHE_TRL_autonomy_slave_warren:0 "Warren Chemult"
  CHE_TRL_autonomy_slave_warren_DEF:0 "Warren Chemult"
 
- BDT_TRL_autonomy_slave_den:0 "Den Bonedancer"
- BDT_TRL_autonomy_slave_den_DEF:0 "Den Bonedancer"
+ BDT_TRL_autonomy_slave_den:0 "Fosse de Crowshaven"
+ BDT_TRL_autonomy_slave_den_DEF:0 "Fosse de Crowshaven"
  BDT_TRL_autonomy_slave_warren:0 "Warren Bonedancer"
  BDT_TRL_autonomy_slave_warren_DEF:0 "Warren Bonedancer"
 
- MIR_TRL_autonomy_slave_den:0 "Den Mireluk"
- MIR_TRL_autonomy_slave_den_DEF:0 "Le Den Mireluk Den"
+ MIR_TRL_autonomy_slave_den:0 "Fosse des Fangeux"
+ MIR_TRL_autonomy_slave_den_DEF:0 "La Fosse des Fangeux"
  MIR_TRL_autonomy_slave_warren:0 "Warren Mireluk "
  MIR_TRL_autonomy_slave_warren_DEF:0 "La Warren Mireluk"
 
- RBT_TRL_autonomy_slave_den:0 "Den Rib Breaker "
- RBT_TRL_autonomy_slave_den_DEF:0 "Le Den Rib Breaker"
- RBT_TRL_autonomy_slave_warren:0 "Warren Rib Breaker Warren"
- RBT_TRL_autonomy_slave_warren_DEF:0 "La Warren Rib Breaker"
+ RBT_TRL_autonomy_slave_den:0 "Fosse des Casse-côtes"
+ RBT_TRL_autonomy_slave_den_DEF:0 "La Fosse des Casse-côtes"
+ RBT_TRL_autonomy_slave_warren:0 "Warren Casse-côtes"
+ RBT_TRL_autonomy_slave_warren_DEF:0 "La Warren Casse-côtes"
 
- MDT_TRL_autonomy_slave_den:0 "Den Marrow Drinker"
- MDT_TRL_autonomy_slave_den_DEF:0 "Le Den Marrow Drinker"
+ MDT_TRL_autonomy_slave_den:0 "Fosse des Marrow Drinkers"
+ MDT_TRL_autonomy_slave_den_DEF:0 "La Fosse des Marrow Drinkers"
  MDT_TRL_autonomy_slave_warren:0 "Warren Marrow Drinker"
  MDT_TRL_autonomy_slave_warren_DEF:0 "La Warren Marrow Drinker"
 
- BPT_TRL_autonomy_slave_den:0 "Den Bone Picker"
- BPT_TRL_autonomy_slave_den_DEF:0 "Le Den Bone Picker"
+ BPT_TRL_autonomy_slave_den:0 "Fosse d'Arago"
+ BPT_TRL_autonomy_slave_den_DEF:0 "La Fosse d'Arago"
  BPT_TRL_autonomy_slave_warren:0 "Warren Bone Picker"
  BPT_TRL_autonomy_slave_warren_DEF:0 "La Warren Bone Picker"
 
- WBH_TRL_autonomy_slave_den:0 "Den Washington"
- WBH_TRL_autonomy_slave_den_DEF:0 "Le Den Washington "
+ WBH_TRL_autonomy_slave_den:0 "Fosse de Washington"
+ WBH_TRL_autonomy_slave_den_DEF:0 "La Fosse de Washington"
  WBH_TRL_autonomy_slave_warren:0 "Warren Washington "
  WBH_TRL_autonomy_slave_warren_DEF:0 "La Warren Washington"
 
@@ -737,20 +737,20 @@
 
  PAL_VLT_autonomy_vault_territory:0 "Territoire Pale Folk"
  PAL_VLT_autonomy_vault_territory_DEF:0 "Le Territoire Pale Folk"
- PAL_VLT_autonomy_courtyard_state:0 "Cité des Pâles"
- PAL_VLT_autonomy_courtyard_state_DEf:0 "Cité des Pâles"
- PAL_VLT_autonomy_council_state:0 "Cité des Pâles"
- PAL_VLT_autonomy_council_state_DEF:0 "Cité des Pâles"
+ PAL_VLT_autonomy_courtyard_state:0 "Cité de Carlin"
+ PAL_VLT_autonomy_courtyard_state_DEf:0 "Cité de Carlin"
+ PAL_VLT_autonomy_council_state:0 "Cité de Carlin"
+ PAL_VLT_autonomy_council_state_DEF:0 "Cité de Carlin"
 
- CYC_VLT_autonomy_vault_territory:0 "Territoire Cyclops"
- CYC_VLT_autonomy_vault_territory_DEF:0 "Le Territoire Cyclops"
+ CYC_VLT_autonomy_vault_territory:0 "Territoire Cyclope"
+ CYC_VLT_autonomy_vault_territory_DEF:0 "Le Territoire Cyclope"
  CYC_VLT_autonomy_courtyard_state:0 "Cité des Cyclopes"
  CYC_VLT_autonomy_courtyard_state_DEf:0 "Cité des Cyclopes"
  CYC_VLT_autonomy_council_state:0 "Cité des Cyclopes"
  CYC_VLT_autonomy_council_state_DEF:0 "Cité des Cyclopes"
 
- ANT_VLT_autonomy_vault_territory:0 "Territoire Antelope "
- ANT_VLT_autonomy_vault_territory_DEF:0 "Le Territoire Antelope"
+ ANT_VLT_autonomy_vault_territory:0 "Réserve Antilope"
+ ANT_VLT_autonomy_vault_territory_DEF:0 "La Réserve Antilope"
  ANT_VLT_autonomy_courtyard_state:0 "Cité des Antilopes"
  ANT_VLT_autonomy_courtyard_state_DEf:0 "Cité des Antilopes"
  ANT_VLT_autonomy_council_state:0 "Cité des Antilopes"
@@ -765,10 +765,10 @@
 
  RIP_VLT_autonomy_vault_territory:0 "Territoire Ripefruit"
  RIP_VLT_autonomy_vault_territory_DEF:0 "Le Territoire Ripefruit"
- RIP_VLT_autonomy_courtyard_state:0 "Ville de Crescent Valley"
- RIP_VLT_autonomy_courtyard_state_DEf:0 "Ville de Crescent Valley"
- RIP_VLT_autonomy_council_state:0 "Ville de Crescent Valley"
- RIP_VLT_autonomy_council_state_DEF:0 "Ville de Crescent Valley"
+ RIP_VLT_autonomy_courtyard_state:0 "Cité de Crescent Valley"
+ RIP_VLT_autonomy_courtyard_state_DEf:0 "Cité de Crescent Valley"
+ RIP_VLT_autonomy_council_state:0 "Cité de Crescent Valley"
+ RIP_VLT_autonomy_council_state_DEF:0 "Cité de Crescent Valley"
 
   ### Vegas
 
@@ -804,8 +804,8 @@
  MRA_VEG_autonomy_periphery_DEF:0 "Le Mojave"
  MRA_VEG_autonomy_district:0 "Le District du Mojave"
  MRA_VEG_autonomy_district_DEF:0 "Le District du Mojave"
- MRA_VEG_autonomy_family:0 "New Novac"
- MRA_VEG_autonomy_family_DEF:0 "New Novac"
+ MRA_VEG_autonomy_family:0 "New Nipton"
+ MRA_VEG_autonomy_family_DEF:0 "New Nipton"
 
  MOS_VEG_autonomy_periphery:0 "Mountain Springs"
  MOS_VEG_autonomy_periphery_DEF:0 "Mountain Springs"
@@ -821,8 +821,8 @@
  BEL_WBH_autonomy_brotherhood_slave:0 "Fantômes de Bellingham"
  BEL_WBH_autonomy_brotherhood_slave_DEF:0 "Les Fantômes de Bellingham"
 
- RBT_WBH_autonomy_brotherhood_slave:0 "Thralls Rib Breaker "
- RBT_WBH_autonomy_brotherhood_slave_DEF:0 "Les Thralls Rib Breaker"
+ RBT_WBH_autonomy_brotherhood_slave:0 "Serviteurs Casse-côtes"
+ RBT_WBH_autonomy_brotherhood_slave_DEF:0 "Les Serviteurs Casse-côtes"
 
  YAK_WBH_autonomy_brotherhood_slave:0 "Spectres Yakama"
  YAK_WBH_autonomy_brotherhood_slave_DEF:0 "Les Spectres Yakama"
@@ -844,10 +844,10 @@
 
  TOC_BRK_autonomy_slave_port:0 "Port d'Electric City"
  TOC_BRK_autonomy_slave_port_DEF:0 "Port d'Electric City"
- TOC_BRK_autonomy_slave_raiders:0 "Pirates du Vieux Pays"
- TOC_BRK_autonomy_slave_raiders_DEF:0 "Les Pirates du Vieux Pays"
- TOC_BRK_autonomy_raider_city:0 "Vieux Pays"
- TOC_BRK_autonomy_raider_city_DEF:0 "Le Vieux Pays"
+ TOC_BRK_autonomy_slave_raiders:0 "Pirates de Old Country"
+ TOC_BRK_autonomy_slave_raiders_DEF:0 "Les Pirates de Old Country"
+ TOC_BRK_autonomy_raider_city:0 "Old Country"
+ TOC_BRK_autonomy_raider_city_DEF:0 "L'Old Country"
 
  HAI_BRK_autonomy_slave_port:0 "Port de Haida"
  HAI_BRK_autonomy_slave_port_DEF:0 "Port de Haida"
@@ -865,15 +865,15 @@
 
  KAM_BRK_autonomy_slave_port:0 "Port Kamloops"
  KAM_BRK_autonomy_slave_port_DEF:0 "Port Kamloops"
- KAM_BRK_autonomy_slave_raiders:0 "Raiders de Kamlo"
- KAM_BRK_autonomy_slave_raiders_DEF:0 "Les Raiders de Kamlo"
+ KAM_BRK_autonomy_slave_raiders:0 "Pirates de Kamlo"
+ KAM_BRK_autonomy_slave_raiders_DEF:0 "Les Pirates de Kamlo"
  KAM_BRK_autonomy_raider_city:0 "Kamlo"
  KAM_BRK_autonomy_raider_city_DEF:0 "Kamlo"
 
  BEL_BRK_autonomy_slave_port:0 "Port Koover"
  BEL_BRK_autonomy_slave_port_DEF:0 "Port Koover"
- BEL_BRK_autonomy_slave_raiders:0 "Raiders de Koover"
- BEL_BRK_autonomy_slave_raiders_DEF:0 "Les Raiders de Koover"
+ BEL_BRK_autonomy_slave_raiders:0 "Pirates de Koover"
+ BEL_BRK_autonomy_slave_raiders_DEF:0 "Les Pirates de Koover"
  BEL_BRK_autonomy_raider_city:0 "Koover"
  BEL_BRK_autonomy_raider_city_DEF:0 "Koover"
 
