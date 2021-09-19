@@ -4,7 +4,7 @@
  caps_scripted_diplo_gui_right_button_tt:0 "Clic pour ajouter §G1§! [ROOT.GetCapTxt]  \nMaj+Clic pour ajouter §G10§! [ROOT.GetCapTxt]  \nCtrl+Clic pour ajouter §G100§! [ROOT.GetCapTxt]  \n\nLe don maximum est de [?caps_to_send_max|=+0] [ROOT.GetCapTxt]"
 
  CAPS_SEND_GIFT_TITLE:0 "Faire un Don"
- CAPS_SEND_GIFT_ACTION_DESC:9 "Envoyez le cadeau dont vous avez toujours rêvé en tant que petit raider, §GC§! §RA§! §GP§! §RS§!"
+ CAPS_SEND_GIFT_ACTION_DESC:0 "Envoyez le cadeau dont vous avez toujours rêvé en tant que petit raider, §GC§! §RA§! §GP§! §RS§!"
  caps_gift_receive_desc:0 "Accepter le don de [?caps_to_send_to|2=+] [GetCapType] venant de [ROOT.GetName]"
 
  caps_gift_accept_title:0 "Don à [THIS.GetName]"

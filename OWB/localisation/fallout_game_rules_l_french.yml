@@ -239,11 +239,11 @@
  RULE_MAP_SETUP_NPE_STATUS_ONMAP:0 "@NPE Enclave du pôle Nord sur la carte."
  RULE_MAP_SETUP_NPE_STATUS_ONMAP_DESC:0 "Le Père Noël arrive en ville (met l'enclave du pôle Nord sur la carte au-dessus de la côte brisée)."
 
- RULE_MAP_SETUP_KONGO_BONGO_TAG:9 "Le DK Crew vs King Kraven"
+ RULE_MAP_SETUP_KONGO_BONGO_TAG:0 "Le DK Crew vs King Kraven"
  RULE_MAP_SETUP_KONGO_BONGO_TAG_DISABLED:0 "Désactivé"
- RULE_MAP_SETUP_KONGO_BONGO_TAG_DISABLED_DESC:9 "New Victoria et Côte Brisée sont sûrs pour le moment."
+ RULE_MAP_SETUP_KONGO_BONGO_TAG_DISABLED_DESC:0 "New Victoria et Côte Brisée sont sûrs pour le moment."
  RULE_MAP_SETUP_KONGO_BONGO_TAG_ENABLED:0 "Activé"
- RULE_MAP_SETUP_KONGO_BONGO_TAG_ENABLED_DESC:9 "Le DK Crew s'occupe de New Victoria et King K. Kraven s'occupe de la Côte Brisée."
+ RULE_MAP_SETUP_KONGO_BONGO_TAG_ENABLED_DESC:0 "Le DK Crew s'occupe de New Victoria et King K. Kraven s'occupe de la Côte Brisée."
 
  RULE_EVENTS_SYNTHETIC_DAWN:0 "@ITZ Aube Synthétique"
  RULE_EVENTS_SYNTHETIC_DAWN_DISABLED:0 "@ITZ Défaut"
@@ -379,9 +379,9 @@
 
  RULE_PROJECT_EXODUS_TOGGLE:0 "Basculement des Réfugiés et de la Décimation"
  RULE_PROJECT_EXODUS_DEFAULT:0 "Activé avec les Cibles par Défaut"
- RULE_PROJECT_EXODUS_DEFAULT_DESC:9 "§OProjet Exodus§!, le système personnalisé de réfugiés et de décimation d'Old World Blues sera activé. Les réfugiés quitteront les états et se rendront dans d'autres nations. C'est l'option par défaut."
+ RULE_PROJECT_EXODUS_DEFAULT_DESC:0 "§OProjet Exodus§!, le système personnalisé de réfugiés et de décimation d'Old World Blues sera activé. Les réfugiés quitteront les états et se rendront dans d'autres nations. C'est l'option par défaut."
  RULE_PROJECT_EXODUS_LIMITED:0 "Activé avec des Objectifs Limités"
- RULE_PROJECT_EXODUS_LIMITED_DESC:9 "§OProject Exodus§!, le système personnalisé de réfugiés et de décimation de Old World Blues sera activé. Les réfugiés quitteront les états et voyageront vers d'autres nations, mais certaines améliorations seront désactivées, ce qui rendra l'expérience moins complète. Cela peut cependant permettre de gagner en performance."
+ RULE_PROJECT_EXODUS_LIMITED_DESC:0 "§OProject Exodus§!, le système personnalisé de réfugiés et de décimation de Old World Blues sera activé. Les réfugiés quitteront les états et voyageront vers d'autres nations, mais certaines améliorations seront désactivées, ce qui rendra l'expérience moins complète. Cela peut cependant permettre de gagner en performance."
  RULE_PROJECT_EXODUS_DECIMATION_ONLY:0 "Décimation uniquement"
  RULE_PROJECT_EXODUS_DECIMATION_ONLY_DESC:0 "§OProjet Exodus§!, le système personnalisé de réfugiés et de décimation d'Old World Blues sera en grande partie désactivé. La main d'œuvre et les usines seront toujours retirées des états lorsqu'ils seront conquis, mais aucun calcul ne sera effectué pour déterminer où elles iront. Cette option conserve les principaux facteurs anti-snowballing nécessaires au mod, mais limite presque tous les calculs."
  RULE_PROJECT_EXODUS_DISABLED:0 "Entièrement désactivé"
@@ -480,8 +480,8 @@
  RULE_UNIT_LOGGER_DISABLED:0 "Disabled"
  RULE_UNIT_LOGGER_DISABLED_DESC:0 "Disable debug logging of techs for units."
 
- RULE_HOLOTAPE_DECISIONS:9 "Décisions Holotape"
+ RULE_HOLOTAPE_DECISIONS:0 "Décisions Holotape"
  RULE_HOLOTAPE_DECISIONS_ENABLED:0 "Activées"
- RULE_HOLOTAPE_DECISIONS_ENABLED_DESC:9 "Les décisions d'écouter les holotapes de certains jeux/lores de Fallout sont visibles. Elles peuvent être désactivées dans les décisions elles-mêmes plus tard."
+ RULE_HOLOTAPE_DECISIONS_ENABLED_DESC:0 "Les décisions d'écouter les holotapes de certains jeux/lores de Fallout sont visibles. Elles peuvent être désactivées dans les décisions elles-mêmes plus tard."
  RULE_HOLOTAPE_DECISIONS_DISABLED:0 "Désactivées"
- RULE_HOLOTAPE_DECISIONS_DISABLED_DESC:9 "Les décisions d'écouter les holotapes de certains jeux/lores de Fallout ne sont pas visibles."
+ RULE_HOLOTAPE_DECISIONS_DISABLED_DESC:0 "Les décisions d'écouter les holotapes de certains jeux/lores de Fallout ne sont pas visibles."
