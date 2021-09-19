@@ -75,7 +75,7 @@ ffi_origin_tooltip_saint:0 "§Y5%§! Defense Bonus"
 ffi_origin_tooltip_refugees:0 "§Y5%§! Civilian Factory Construction Bonus"
 ffi_origin_tooltip_coring:0 "§Y5%§! Military Factory Construction Bonus"
 ffi_origin_tooltip_weapons:0 "§Y5%§! Attack bonus"
-ffi_origin_tooltip_verde:0 "§Y5%§! Recruitable Populatio Bonus"
+ffi_origin_tooltip_verde:0 "§Y5%§! Recruitable Population Bonus"
 ffi_origin_tooltip_terror:0 "§Y5%§! Military Factory Construction Bonus"
 
 ffi_honor_cruel_tooltip:0 "Unlocks the Mil Mascaras focus options"
@@ -789,7 +789,7 @@ nf_ffi.108.t:0 "[This.GetLeader] Triumphant!"
 nf_ffi.108.d:0 "After years of contested leadership, [This.GetLeader] has emerged from the final lucha rumble as the uncontested ruler of the Free Fighters. While his opponents recuperate, shattered by their devastating loss, [This.GetLeader] has wasted no time in restructuring the leadership of the Federation in his image, this time, permanently."
 nf_ffi.108.a:0 "Por la libertad, por pelear, por [This.GetLeader]!"
 
-#scripted loc 
+#scripted loc
 #fighters
 playerfighter_santos:0 "El Santo"
 playerfighter_demon:0 "Demonio Azul"
@@ -813,4 +813,3 @@ move_def_def_at:0 "[THIS.Getenemy2] decided to take the initiative, taunting bot
 move_def_def_fe:0 "both [THIS.Getplayerfighter] and [THIS.Getenemy1] sought to use the round as a moment of respite to gain strength for the continued battle, and stayed defensive, but [THIS.Getenemy2] was having none of it. Deftly playing against his enemies weaknesses [THIS.Getenemy2] broke through their defenses like a knife through hot butter, keeping both luchas exhausted and on the backstep until the end of the round."
 move_fe_fe_at:0 "[THIS.Getplayerfighter] and [THIS.Getenemy1] decided to up the ante this round, joining together to take down [THIS.Getenemy2] with an audacious display of skill and lunacy. Unfortunately, the Luchadore's super secret moves were more flash than bang, and while attempting to throw [THIS.Getenemy1] at [THIS.Getenemy2] as a projectile, [THIS.Getplayerfighter] stumbled and fell, leaving both attackers reeling on the ground, where [THIS.Getenemy2] mopped the floor with them."
 move_fe_fe_def:0 "[THIS.Getenemy2] decided to play the round safe, with everything to play for and one's life and limb to lose. Unfortunately, this smart and tactical decision came up against the twin insanities of [THIS.Getplayerfighter] and [THIS.Getenemy1], who were prepared to dazzle the crowd and deck [THIS.Getenemy2]. Discombulated by a flurry of sommersaults and rope jumps, [THIS.Getenemy2] was unprepared for the brutal combo die kick that was deliver right to his mascara, losing the round and most of his remaining teeth."
-

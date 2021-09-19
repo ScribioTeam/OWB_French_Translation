@@ -5,6 +5,7 @@
   ttm_the_nursery_idea_desc:0 "§MThe Control Facility Operations§!\n[TTM.ttm_the_nursery_control_facility_scripted_localization]\n\n§MThe Factory Operations§!\n[TTM.ttm_the_nursery_factory_scripted_localization]\n\n§MThe Repository Operations§!\n[TTM.the_repository_scripted_loc]"
 
   ttm_the_nursery_control_facility_effects:0 " §WDiana's Computational Strength:§! §Y[TTM.ttm_computational_power_modifier_scripted_text]%§!\n  Diana's current Computational Power gives the following benefits:\n   §G+[?TTM.ttm_comp_power_tt]%§! §WPolitical Power Growth§!\n   §G+[?TTM.ttm_comp_power_tt]%§! §WMax Factories In States§!\n   §G+[?TTM.ttm_comp_power_tt]%§! §WProduction Efficiency§!\n\n  §WSatellite Network Size:§! §Y[?TTM.ttm_satellite_network]§!\n   We control a network of space satellites working together in unison. The networks size gives the following benefits:   [TTM.ttm_satellite_effects_scripted_localization]\n[TTM.ttm_satellite_decay_scripted_localization]"
+  ttm_control_facility_dynamic_modifier:0 "The Control Facility"
   ttm_computational_power_num:0 "[?TTM.ttm_computational_power]"
   ttm_add_to_computational_power_tt:0 "Gain §G+[?TTM.ttm_comp_power_to_add]§! §MComputational Power§!\n"
 

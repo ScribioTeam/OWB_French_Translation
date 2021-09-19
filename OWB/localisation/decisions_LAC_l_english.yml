@@ -17,3 +17,5 @@ LAC_burn_the_dgs_desc:0 "No matter their ruler, the people of Dog City worship t
 iron_alliance_spawn_unit:0 "Hire the [IRN.GetNameWithFlag]"
 LAC_go_west:0 "Go West"
 LAC_go_west_desc:0 "Caesar has faced a difficulty in his wars, and needs me to serve him. And if the tribes of the East could not stand against me, then nor shall all the Lights of Vegas!"
+lanius_revolt: "The Diadochi"
+lanius_revolt_desc: "[CES.GetLeader] or [LAC.GetLeader] must decide the fate of the Wasteland. Which vision of the Legion is truly stronger?"

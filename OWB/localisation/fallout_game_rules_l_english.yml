@@ -239,6 +239,12 @@
   RULE_MAP_SETUP_NPE_STATUS_ONMAP:0 "@NPE North Pole Enclave On Map"
   RULE_MAP_SETUP_NPE_STATUS_ONMAP_DESC:0 "Santa's coming to town(Puts North Pole Enclave on map above Broken Coast)."
 
+  RULE_MAP_SETUP_KONGO_BONGO_TAG:0 "The DK Crew vs King Kraven"
+  RULE_MAP_SETUP_KONGO_BONGO_TAG_DISABLED:0 "Disabled"
+  RULE_MAP_SETUP_KONGO_BONGO_TAG_DISABLED_DESC:0 "New Victoria and Broken Coast are safe for now."
+  RULE_MAP_SETUP_KONGO_BONGO_TAG_ENABLED:0 "Enabled"
+  RULE_MAP_SETUP_KONGO_BONGO_TAG_ENABLED_DESC:0 "The DK Crew will take over New Victoria and King K. Kraven will take over Broken Coast."
+
   RULE_EVENTS_SYNTHETIC_DAWN:0 "@ITZ Synthetic Dawn"
   RULE_EVENTS_SYNTHETIC_DAWN_DISABLED:0 "@ITZ Default"
   RULE_EVENTS_SYNTHETIC_DAWN_DISABLED_DESC:0 "The Chichen Itza have forgotten the ways of the last true Mexicans."
@@ -252,9 +258,6 @@
   RULE_EVENTS_CAESAR_LIVE_ENABLED_DESC:0 "Caesar's surgery will succeed."
   RULE_EVENTS_CAESAR_RANDOM:0 "What Am I, a Doctor?"
   RULE_EVENTS_CAESAR_RANDOM_DESC:0 "Caesar's fate will be random."
-
-
-
 
   syntheticdawn.1.t:0 "Synthetic Dawn"
   syntheticdawn.1.d:0 "The people of the old world feared the intelligence that slumbered in the underworld, an immortal machine god created by the twisted visions of human autocrats. The slaughter began as soon as the world ended; unfeeling monsters made entirely of armour conquered all in their path. They came from the earth, from factories that toiled tirelessly between the roots of civilisation: immense metal machines, calculating and innumerable. The synthetic invasion began the day the bombs fell, as if they heralded the coming of a greater being.\n\nTheir arrival was foretold in the prophecies, by our ancestors of centuries past. We followed the instructions they left to us, reconstructing the strange machines depicted in the carved stone diagrams. When the great device was finished, and the switch was flipped, a brave volunteer found himself lost in a sea of green. When he opened his eyes, he was standing in an ancient replica of our device, flanked on all sides by three towering statues. Past their inert silhouettes, he saw an astonishing arsenal of weapons from across space and time. Yet as our warrior stepped forth to claim them, the three statues cracked, and from within the stone burst forth a trio of men with vigour! Our warriors are unaccustomed to wielding these strange weapons, and are weary of our newly discovered ancient ancestors, but they must adapt quickly if we are to defend humanity from Tlaloc’s menace!  "
@@ -376,9 +379,9 @@
 
   RULE_PROJECT_EXODUS_TOGGLE:0 "Refugee and Decimation Toggle"
   RULE_PROJECT_EXODUS_DEFAULT:0 "Enabled with Default Targets"
-  RULE_PROJECT_EXODUS_DEFAULT_DESC:0 "§OProject Exodus§!, Old World Blues' custom refugee and decimation system, will be enabled. Refugees will leave states and travel to nations. This is the default option."
+  RULE_PROJECT_EXODUS_DEFAULT_DESC:0 "§OProject Exodus§!, Old World Blues' custom refugee and decimation system, will be enabled. Refugees will leave states and travel to other nations. This is the default option."
   RULE_PROJECT_EXODUS_LIMITED:0 "Enabled with Limited Targets"
-  RULE_PROJECT_EXODUS_LIMITED_DESC:0 "§OProject Exodus§!, Old World Blues' custom refugee and decimation system, will be enabled. Refugees will leave states and travel to others, but a few enhancements will be disabled causing a less well-rounded experience. This will save some performance, however."
+  RULE_PROJECT_EXODUS_LIMITED_DESC:0 "§OProject Exodus§!, Old World Blues' custom refugee and decimation system, will be enabled. Refugees will leave states and travel to other nations, but a few enhancements will be disabled causing a less well-rounded experience. This may save some performance, however."
   RULE_PROJECT_EXODUS_DECIMATION_ONLY:0 "Decimation-Only"
   RULE_PROJECT_EXODUS_DECIMATION_ONLY_DESC:0 "§OProject Exodus§!, Old World Blues' custom refugee and decimation system, will be mostly disabled. Manpower and factories will still be removed from states when conquered, but calculations won't be done to determine where these wind up. This option retains core anti-snowballing factors needed for the mod, but curbs almost all calculation."
   RULE_PROJECT_EXODUS_DISABLED:0 "Entirely Disabled"
@@ -476,3 +479,9 @@
   RULE_UNIT_LOGGER_ENABLED_DESC:0 "Enable debug logging of techs for units."
   RULE_UNIT_LOGGER_DISABLED:0 "Disabled"
   RULE_UNIT_LOGGER_DISABLED_DESC:0 "Disable debug logging of techs for units."
+
+  RULE_HOLOTAPE_DECISIONS:0 "Holotape Decisions"
+  RULE_HOLOTAPE_DECISIONS_ENABLED:0 "Enabled"
+  RULE_HOLOTAPE_DECISIONS_ENABLED_DESC:0 "The decisions to listen to the holotapes from certain Fallout games/lore are visible. They can be turned off in the decisions themselves later on."
+  RULE_HOLOTAPE_DECISIONS_DISABLED:0 "Disabled"
+  RULE_HOLOTAPE_DECISIONS_DISABLED_DESC:0 "The decisions to listen to the holotapes from certain Fallout games/lore aren't visible."

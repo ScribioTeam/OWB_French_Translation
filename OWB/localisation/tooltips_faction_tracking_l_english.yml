@@ -662,5 +662,6 @@ l_english:
   invite_to_prev_faction_tt:0 "Receives an invitation to join §Ythe same faction§! as §Y[Prev.GetNameDef]§!, §Yshould they be a member of one.§!\n"
   invite_to_from_faction_tt:0 "Receives an invitation to join §Ythe same faction§! as §Y[From.GetNameDef]§!, §Yshould they be a member of one.§!\n"
   join_root_faction_tt:0 "Joins §Ythe same faction§! as §Y[Root.GetNameDef]§!, §Yshould they be a member of one.§!\n"
+  can_join_prev_faction_tt:0 "Can join §Ythe same faction§! as §Y[Prev.GetNameDef]§!, §Yshould they be a member of one.§!\n"
   join_prev_faction_tt:0 "Joins §Ythe same faction§! as §Y[Prev.GetNameDef]§!, §Yshould they be a member of one.§!\n"
   join_from_faction_tt:0 "Joins §Ythe same faction§! as §Y[From.GetNameDef]§!, §Yshould they be a member of one.§!\n"
