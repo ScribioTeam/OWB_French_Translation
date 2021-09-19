@@ -154,9 +154,9 @@
  RULE_AI_BEHAVIOR_TLA_MOCTEZUMA:0 "@MOC Moctezuma"
  RULE_AI_BEHAVIOR_TLA_MOCTEZUMA_DESC:0 "Tlaloc favorisera son fils Moctezuma, et lui donnera des forces avant sa mort."
 
- RULE_AI_BEHAVIOR_TRL:0 "@TRL Troll Warren"
+ RULE_AI_BEHAVIOR_TRL:0 "@TRL Horde du Primordial"
  RULE_AI_BEHAVIOR_TRL_DEFAULT:0 "Défaut"
- RULE_AI_BEHAVIOR_TRL_DEFAULT_DESC:0 "Le Troll Warren suivra son parcours historique ou en choisira un au hasard en fonction de l'option de focus historique."
+ RULE_AI_BEHAVIOR_TRL_DEFAULT_DESC:0 "Le Horde du Primordial suivra son parcours historique ou en choisira un au hasard en fonction de l'option de focus historique."
  RULE_AI_BEHAVIOR_TRL_SOUTHERN_PUSH:0 "@TRL Poussée du Sud"
  RULE_AI_BEHAVIOR_TRL_SOUTHERN_PUSH_DESC:0 "Le Premier s'en prendra à Arroyo et Klamath avant d'attaquer la Confrérie de Washington."
  RULE_AI_BEHAVIOR_TRL_BROTHERHOOD:0 "@TRL Confrérie"

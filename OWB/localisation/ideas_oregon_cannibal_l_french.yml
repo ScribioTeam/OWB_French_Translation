@@ -34,7 +34,7 @@
  mdt_has_not_accepted_pact_of_servitude:0 "§Y[RBT.GetNameWithFlag]§! n'a pas accepté notre offre, ou nous n'avons jamais envoyée aucune offre !§!§!"
  mdt_super_mutants_loyal:0 "§gLe Premier a enfin pu voir la vision de [MDT.GetLeader] et le reste des Super Mutants que nous n'avons pas encore hypnotisés ont commencé à s'aligner!§!\n"
  mdt_gecko_warriors:0 "§g[MDT.GetLeader] utilise ses sorcelleries pour déformer les esprits des Geckos régionaux, les transformant en puissants guerriers hommes-lézards !§!\n"
- mdt_first_commander:0 "§g[MDT.GetLeader], avec beaucoup de difficulté est finalement capable d'ensorceler l'esprit du leader des Troll Warren, Le Premier§!\n"
+ mdt_first_commander:0 "§g[MDT.GetLeader], avec beaucoup de difficulté est finalement capable d'ensorceler l'esprit du leader des Horde du Primordial, Le Premier§!\n"
  mdt_mlulu_commander:0 "§g[MDT.GetLeader] utilise ses \"sombres sortilèges\" pour convaincre les membres de la Cour de Corail de lui céder le contrôle de leur grande bête M'lulu§!\n"
  mdt_convert_unit_leaders:00 "§g [MDT.GetLeader] utilise ses \"sortilèges mystiques de contrôle de l'esprit\" pour forcer les commandants de [THIS.Getname] à la suivre. §!\n    §Y90%§! de chance d'une §Ghypnotisation totale.§!\n    §Y10%§! de chance d'une ...  §RExplosion cérébrale.§!\n"
  mdt_queen:0 "§Y[ROOT.GetLeader]§! va gagner le Titre de §Y\"Reine\"\n§!"
