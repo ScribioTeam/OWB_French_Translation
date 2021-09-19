@@ -331,6 +331,53 @@
  nf_lanius_revolter.33.d:0 "Dans un geste que personne n'aurait pu prévoir dans les Terres Désolées, le Légat, le commandant en second de Caesar, a fait défection à la Légion et s'est allié au chef des Mères Jumelles, Diana. Bien que les raisons de cette défection ne soient pas claires pour les forces en présence dans les Terres Désolées, la Légion de Caesar doit désormais faire face à une nouvelle menace à sa frontière orientale ainsi qu'à la République de Nouvelle-Californie à l'ouest."
  nf_lanius_revolter.33.a:0 "Caesar n'aurait peut-être pas dû envoyer un homme qui ne respecte que la force de l'Est."
 
+ nf_lanius_revolter.34.t:9 "And the Earth Will Speak To You"
+ nf_lanius_revolter.34.d:9 "We have worked with Caesar as the best of all possible options in the East. But now from the East comes word from Lanius and the old woman of the Mountain. The two invite us to rise up against Caesar with them, which would open a valuable new front for them. And while we have prospered with the aid of Caesar.... maybe we would prefer a future that's not bound to someone reenacting a long dead Empire?"
+ nf_lanius_revolter.34.a:9 "A rocky vinyard does not need a prayer, but a pick ax."
+ nf_lanius_revolter.35.a:9 "They will clearly die, sorry."
+
+ nf_lanius_revolter.35.t:9 "The Navajo Said No."
+ nf_lanius_revolter.35.d:9 "Despite our best efforts, the Navajo rejected our bid to join our revolt. Fair enough, but do they think Caesar's Legion has a happy ending?  Still, some of their warriors fled East to join our revolt. So there's that at least."
+
+ nf_lanius_revolter.36.t:9 "The Gordian Knot"
+ nf_lanius_revolter.36.d:9 "Although Diana has persuaded Lanius that Caesar's destruction of his people was not, in fact, a sign of strength, he still seeks to carve an empire. To that end, the Legate sets eyes upon the Maxson Chapter. Crushing a Brotherhood of Steel faction would be a mighty victory for Lanius.  But it would also be bloody, and might exhaust the East when it comes time to crush Caesar. \n\nDiana proposes a different path. Why not ally with the Brotherhood? Caesar owes them a blood debt for his destruction of the Phoenix Detachment, and in exchange for lands along the Arkansas River they might join in the war against Caesar. Instead of a protracted conflict, Lanius could turn the Brotherhood's army west."
+ nf_lanius_revolter.36.a:9 "What need have I for power armor mercenaries?"
+ nf_lanius_revolter.36.b:9 "There is wisdom in your words, woman of the East."
+
+ nf_lanius_revolter.37.t:9 "The Tribal's Proposal"
+ nf_lanius_revolter.37.d:9 "The Eastern Legion warlord, Lanius, rose up against Caesar and now marches his own path. Although we thought he would come against us with his armies, it appears he has a different goal. Lanius instead asks us to join him in the fight against Caesar when he marches west. In return, he shall give us the lands in Colorado he now controls. Although we will not serve Lanius in any wars of conquest, we cannot deny that Caesar butchered our Arizona brethrenn. And the resources of the Arkansas Tributary would be most useful to us. \n\nWe can of course say no, but that might make Lanius view us as a threat."
+ nf_lanius_revolter.37.a:9 "We accept your terms, Legate."
+ nf_lanius_revolter.37.a_tt:9 "\nShould war break out §R[CES.GetName]§! and §B[LAC.GetName]§!, we will join the East's cause."
+ nf_lanius_revolter.37.b:9 "Why would we die for Flagstaff?"
+
+ nf_lanius_revolter.38.t:9 "The Gordian Knot"
+ nf_lanius_revolter.38.d:9 "Leading the Hidebarks was never just about brutality or strength. The man known as Lanius was a leader through cunning, wisdom, and foresight. And so while the Legate would never have made a proposal to the Brotherhood, a Prinnceps would. And so the Maxson Chapter will join the fight against the Legion, augmenting Lanius' armies. For not all problems need be solved with a sword."
+ nf_lanius_revolter.38.a:9 "Fear and Fellowship are the best wheels of a chariot."
+
+ nf_lanius_revolter.39.t:9 "The Gordian Knot"
+ nf_lanius_revolter.39.d:9 "As Lanius expected, the Maxson Chapter refused his proposal. On the upside, this will provide a new test for the Legate's troops."
+ nf_lanius_revolter.39.a:9 "The simplest way to break a knot? Cut it."
+
+ nf_lanius_revolter.40.t:9 "The Treachery of the Hidebarks"
+ nf_lanius_revolter.40.d:9 "Mighty Caesar, it appears that Lanius betrayed us! The expedition we sent east revolted and formed a pact with the Witch of Colorado to seize the East for himself! Although Lanius mouths honeyed words to woo his new subjects, his goal is clear - to seize the Arizona for himself and his crone. Although we are tied up in commitments elsewhere, we must prepare to march east to stop him in two years."
+ nf_lanius_revolter.40.a:9 "I will drag his corpse behind my chariot."
+
+ nf_lanius_revolter.41.t:9 "A Visit from Hastseoltoi"
+ nf_lanius_revolter.41.d:9 "We've told tales of the Huntress since the bombs fell; the mysterious machine witch to the East who haunts the databanks and warns away outsiders. Now some of her robots have come to us with an offer. According to the Huntress, she has persuaded the warlord Lanius to rise up against Caesar, and asks us to join them. Together, we may stand a chance."
+ nf_lanius_revolter.41.a:9 "Well, I've heard worse ideas."
+ nf_lanius_revolter.41.b:9 "We will not ally with a computer program and a warlord."
+
+
+ nf_lanius_revolter.42.t:9 "The Navajo Accept"
+ nf_lanius_revolter.42.d:9 "Thanks to Diana's aid as a conduit to the Navajo, they will join our revolt against Caesar. Together, we shall stand a chance."
+ nf_lanius_revolter.42.a:9 "The rocky vineyard needs no prayer, but a pickaxe."
+
+ nf_lanius_revolter.41.b:9 "We will not ally with a computer program and a warlord."
+
+
+ nf_lanius_revolter.43.t:9 "The Navajo Refuse"
+ nf_lanius_revolter.43.d:9 "It appears [NAV.GetLeader] is more cowardly than I expected. They will not join our revolt against Caesar."
+ nf_lanius_revolter.43.a:9 "Nothing is as eloquent as a rattlesnake's tale."
 
 
    #### Ideas

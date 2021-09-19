@@ -239,6 +239,12 @@
  RULE_MAP_SETUP_NPE_STATUS_ONMAP:0 "@NPE Enclave du pôle Nord sur la carte."
  RULE_MAP_SETUP_NPE_STATUS_ONMAP_DESC:0 "Le Père Noël arrive en ville (met l'enclave du pôle Nord sur la carte au-dessus de la côte brisée)."
 
+ RULE_MAP_SETUP_KONGO_BONGO_TAG:9 "The DK Crew vs King Kraven"
+ RULE_MAP_SETUP_KONGO_BONGO_TAG_DISABLED:0 "Désactivé"
+ RULE_MAP_SETUP_KONGO_BONGO_TAG_DISABLED_DESC:9 "New Victoria and Broken Coast are safe for now."
+ RULE_MAP_SETUP_KONGO_BONGO_TAG_ENABLED:0 "Activé"
+ RULE_MAP_SETUP_KONGO_BONGO_TAG_ENABLED_DESC:9 "The DK Crew will take over New Victoria and King K. Kraven will take over Broken Coast."
+
  RULE_EVENTS_SYNTHETIC_DAWN:0 "@ITZ Aube Synthétique"
  RULE_EVENTS_SYNTHETIC_DAWN_DISABLED:0 "@ITZ Défaut"
  RULE_EVENTS_SYNTHETIC_DAWN_DISABLED_DESC:0 "Les Chichen Itza ont oublié les habitudes des derniers vrais Mexicains."
@@ -252,9 +258,6 @@
  RULE_EVENTS_CAESAR_LIVE_ENABLED_DESC:0 "L'opération de Caesar réussira."
  RULE_EVENTS_CAESAR_RANDOM:0 "Je suis quoi, un Docteur ?"
  RULE_EVENTS_CAESAR_RANDOM_DESC:0 "Le sort de Caesar sera aléatoire."
-
-
-
 
  syntheticdawn.1.t:0 "Aube Synthétique"
  syntheticdawn.1.d:0 "Les gens de l'ancien monde craignaient l'intelligence qui sommeillait dans le monde souterrain, un dieu machine immortel créé par les visions tordues des autocrates humains. Le massacre commença dès la fin du monde ; des monstres insensibles faits entièrement d'armures conquirent tout sur leur passage. Ils sont venus de la terre, d'usines qui ont travaillé sans relâche entre les racines de la civilisation : d'immenses machines métalliques, calculatrices et innombrables. L'invasion synthétique a commencé le jour où les bombes sont tombées, comme si elles annonçaient l'arrivée d'un être plus grand.\n\nLeur arrivée a été annoncée dans les prophéties, par nos ancêtres des siècles passés. Nous avons suivi les instructions qu'ils nous ont laissées, reconstruisant les étranges machines représentées dans les diagrammes en pierre sculptée. Lorsque le grand appareil a été terminé et que l'interrupteur a été actionné, un courageux volontaire s'est retrouvé perdu dans une mer de verdure. Quand il a ouvert les yeux, il se tenait debout dans une ancienne réplique de notre appareil, flanqué de tous côtés par trois statues imposantes. Au-delà de leurs silhouettes inertes, il a vu un étonnant arsenal d'armes de l'autre côté de l'espace et du temps. Alors que notre guerrier s'avançait pour les revendiquer, les trois statues se fendirent, et de l'intérieur de la pierre éclata un trio d'hommes avec vigueur ! Nos guerriers n'ont pas l'habitude de manier ces armes étranges et sont fatigués de nos ancêtres anciens récemment découverts, mais ils doivent s'adapter rapidement si nous voulons défendre l'humanité de la menace de Tlaloc !"
@@ -376,9 +379,9 @@
 
  RULE_PROJECT_EXODUS_TOGGLE:0 "Basculement des Réfugiés et de la Décimation"
  RULE_PROJECT_EXODUS_DEFAULT:0 "Activé avec les Cibles par Défaut"
- RULE_PROJECT_EXODUS_DEFAULT_DESC:0 "§OProjet Exodus§!, le système personnalisé de réfugiés et de décimation d'Old World Blues sera activé. Les réfugiés quitteront les états et se rendront dans les nations. C'est l'option par défaut."
+ RULE_PROJECT_EXODUS_DEFAULT_DESC:9 "§OProjet Exodus§!, le système personnalisé de réfugiés et de décimation d'Old World Blues sera activé. Les réfugiés quitteront les états et se rendront dans les nations. C'est l'option par défaut."
  RULE_PROJECT_EXODUS_LIMITED:0 "Activé avec des Objectifs Limités"
- RULE_PROJECT_EXODUS_LIMITED_DESC:0 "§OProjet Exodus§!, le système personnalisé de réfugiés et de décimation d'Old World Blues sera activé. Les réfugiés quitteront les états et voyageront vers d'autres, mais certaines améliorations seront désactivées, ce qui rendra l'expérience moins complète. Cela permettra toutefois de gagner en performance."
+ RULE_PROJECT_EXODUS_LIMITED_DESC:9 "§OProject Exodus§!, Old World Blues' custom refugee and decimation system, will be enabled. Refugees will leave states and travel to other nations, but a few enhancements will be disabled causing a less well-rounded experience. This may save some performance, however."
  RULE_PROJECT_EXODUS_DECIMATION_ONLY:0 "Décimation uniquement"
  RULE_PROJECT_EXODUS_DECIMATION_ONLY_DESC:0 "§OProjet Exodus§!, le système personnalisé de réfugiés et de décimation d'Old World Blues sera en grande partie désactivé. La main d'œuvre et les usines seront toujours retirées des états lorsqu'ils seront conquis, mais aucun calcul ne sera effectué pour déterminer où elles iront. Cette option conserve les principaux facteurs anti-snowballing nécessaires au mod, mais limite presque tous les calculs."
  RULE_PROJECT_EXODUS_DISABLED:0 "Entièrement désactivé"
@@ -476,3 +479,9 @@
  RULE_UNIT_LOGGER_ENABLED_DESC:0 "Enable debug logging of techs for units."
  RULE_UNIT_LOGGER_DISABLED:0 "Disabled"
  RULE_UNIT_LOGGER_DISABLED_DESC:0 "Disable debug logging of techs for units."
+
+ RULE_HOLOTAPE_DECISIONS:9 "Holotape Decisions"
+ RULE_HOLOTAPE_DECISIONS_ENABLED:0 "Activé"
+ RULE_HOLOTAPE_DECISIONS_ENABLED_DESC:9 "The decisions to listen to the holotapes from certain Fallout games/lore are visible. They can be turned off in the decisions themselves later on."
+ RULE_HOLOTAPE_DECISIONS_DISABLED:0 "Désactivé"
+ RULE_HOLOTAPE_DECISIONS_DISABLED_DESC:9 "The decisions to listen to the holotapes from certain Fallout games/lore aren't visible."

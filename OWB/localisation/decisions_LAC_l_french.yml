@@ -17,3 +17,5 @@
  iron_alliance_spawn_unit:0 "Engager le [IRN.GetNameWithFlag]"
  LAC_go_west:0 "Aller à l'Ouest"
  LAC_go_west_desc:0 "Caesar a fait face à une difficulté dans ses guerres, et a besoin de moi pour le servir. Et si les tribus de l'Est ne pouvaient pas s'opposer à moi, alors toutes les lumières de Vegas ne le feront pas non plus !"
+ lanius_revolt:9 "The Diadochi"
+ lanius_revolt_desc:9 "[CES.GetLeader] or [LAC.GetLeader] must decide the fate of the Wasteland. Which vision of the Legion is truly stronger?"

@@ -75,7 +75,7 @@
  ffi_origin_tooltip_refugees:0 "§Y5%§! Bonus de Construction d'Usine Civiles"
  ffi_origin_tooltip_coring:0 "§Y5%§! Bonus de Construction d'Usine Militaires"
  ffi_origin_tooltip_weapons:0 "§Y5%§! Bonus d'Attaque"
- ffi_origin_tooltip_verde:0 "§Y5%§! Bonus de Population Recrutable"
+ ffi_origin_tooltip_verde:9 "§Y5%§! Bonus de Population Recrutable"
  ffi_origin_tooltip_terror:0 "§Y5%§! Bonus de Construction d'Usine Militaires"
 
  ffi_honor_cruel_tooltip:0 "Déverrouille les options de priorités de Mil Mascaras"
@@ -789,7 +789,7 @@
  nf_ffi.108.d:0 "Après des années de lutte pour le pouvoir, [This.GetLeader] a émergé de l'ultime combat de lucha comme le chef incontesté des Luchadores Libres. Pendant que ses adversaires récupèrent, brisés par leur défaite dévastatrice, [This.GetLeader] n'a pas perdu de temps pour restructurer le leadership de la Fédération à son image, cette fois-ci de façon permanente."
  nf_ffi.108.a:0 "Por la libertad, por pelear, por [This.GetLeader]!"
 
-#scripted loc 
+#scripted loc
 #fighters
  playerfighter_santos:0 "El Santo"
  playerfighter_demon:0 "Demonio Azul"
@@ -813,4 +813,3 @@
  move_def_def_fe:0 "Chacun de [THIS.Getplayerfighter] et [THIS.Getenemy1] a cherché à utiliser le round comme un moment de répit pour reprendre des forces en vue de la suite du combat, et est resté sur la défensive, mais [THIS.Getenemy2] ne s'est pas laissé faire. Jouant habilement contre les faiblesses de ses ennemis, [THIS.Getenemy2] a percé leurs défenses comme un couteau dans du beurre chaud, gardant les deux luchas épuisés et sur la touche jusqu'à la fin du round."
  move_fe_fe_at:0 "[THIS.Getplayerfighter] et [THIS.Getenemy1] ont décidé de faire monter les enchères ce tour-ci, en s'associant pour battre [THIS.Getenemy2] avec une audacieuse démonstration d'habileté et de folie. Malheureusement, les mouvements super secrets du Luchadore étaient plus rapides que rapides, et alors qu'il tentait de lancer [THIS.Getenemy1] sur [THIS.Getenemy2] comme un projectile, [THIS.Getplayerfighter] a trébuché et est tombé, laissant les deux attaquants chancelants sur le sol, où [THIS.Getenemy2] leur a fait la peau."
  move_fe_fe_def:0 "[THIS.Getenemy2] a décidé de jouer la carte de la sécurité, avec tout à jouer et une vie et un membre à perdre. Malheureusement, cette décision intelligente et tactique s'est heurtée aux folies jumelles de [THIS.Getplayerfighter] et de [THIS.Getenemy1], qui étaient prêts à éblouir la foule et à terrasser [THIS.Getenemy2]. Décomposé par une rafale de sauts périlleux et de sauts à la corde, [THIS.Getenemy2] n'était pas préparé au brutal combo die kick qui lui a été délivré en plein mascara, perdant le tour et la plupart de ses dents restantes."
-

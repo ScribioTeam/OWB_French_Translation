@@ -5,6 +5,7 @@
  ttm_the_nursery_idea_desc:0 "§MLe Centre de Contrôle Opérations§!\n[TTM.ttm_the_nursery_control_facility_scripted_localization]\n\n§MLa Fabrique Opérations§!\n[TTM.ttm_the_nursery_factory_scripted_localization]\n\n§MLe Dépôt de données Opérations§!\n[TTM.the_repository_scripted_loc]"
 
  ttm_the_nursery_control_facility_effects:0 " §WPuissance de Calcul de Diana:§! §Y[TTM.ttm_computational_power_modifier_scripted_text]%§!\n  La Puissance de Calcul actuelle de Diana offre les avantages suivant:\n   §G+[?TTM.ttm_comp_power_tt]%§! §WGain de Poids Politique§!\n   §G+[?TTM.ttm_comp_power_tt]%§! §WNombre maximal d'usines par État§!\n   §G+[?TTM.ttm_comp_power_tt]%§! §WEfficacité de Production§!\n\n  §WTaille du Réseau Satellitaire:§! §Y[?TTM.ttm_satellite_network]§!\n   Nous contrôlons un réseau de satellites spatiaux qui travaillent ensemble à l'unisson. La taille du réseau présente les avantages suivants :   [TTM.ttm_satellite_effects_scripted_localization]\n[TTM.ttm_satellite_decay_scripted_localization]"
+ ttm_control_facility_dynamic_modifier:9 "The Control Facility"
  ttm_computational_power_num:0 "[?TTM.ttm_computational_power]"
  ttm_add_to_computational_power_tt:0 "Gagne §G+[?TTM.ttm_comp_power_to_add]§! §MPuissance de Calcul§!"
 
