@@ -11,5 +11,5 @@
  FOCUS_FILTER_IDEAS:0 "Idées"
  mod_version_label_tt:9 "Old World Blues 3.3.10"
  add_state_population_tt:0 "§OPopulration de l'état§! de §Y[THIS.GetName]§! change de [?pop_add|0+=].\n"
- add_state_population_no_state_name_tt:9 "§Ostate population§! changes by [?pop_add|0+=].\n"
+ add_state_population_no_state_name_tt:9 "§OPopulation d'état§! change par [?pop_add|0+=].\n"
  UNLOCK_DIVISION_TEMPLATE:0 "Déverrouille un modèle de division contenant l'unité recherchée s'il n'y en a pas."

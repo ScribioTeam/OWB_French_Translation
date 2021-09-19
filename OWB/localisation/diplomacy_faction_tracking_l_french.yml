@@ -1,4 +1,4 @@
-﻿######################################
+﻿l_french:
 ####### GENERATED CODE WARNING #######
 ######################################
 # This file is generated code - any
@@ -12,17 +12,17 @@
 ####### GENERATED CODE WARNING #######
 ######################################
 l_french:
- ASK_TO_JOIN_FACTION_TITLE:9 "Ask to join faction"
- ASK_TO_JOIN_FACTION_ACTION_DESC:9 "Ask to join faction."
- ASK_TO_JOIN_FACTION_SEND_DESC:9 "Ask to join faction."
+ ASK_TO_JOIN_FACTION_TITLE:9 "Demander à rejoindre la faction"
+ ASK_TO_JOIN_FACTION_ACTION_DESC:9 "Demander à rejoindre la faction."
+ ASK_TO_JOIN_FACTION_SEND_DESC:9 "Demander à rejoindre la faction."
  ASK_TO_JOIN_FACTION_ACCEPT:0 "Requête Acceptée !"
- ASK_TO_JOIN_FACTION_REJECT:0 "Invitation Refusée !"
- ASK_TO_JOIN_FACTION_ACCEPT_DESC:9 "Your request to join faction has been accepted!"
- ASK_TO_JOIN_FACTION_REJECT_DESC:9 "Your request to join faction has been rejected!"
- INVITE_TO_JOIN_FACTION_TITLE:9 "Invite to faction"
- INVITE_TO_JOIN_FACTION_ACTION_DESC:9 "Invite to faction\n\nRequires prospect to border a member of the faction and have mutually positive relations with their leader."
- INVITE_TO_JOIN_FACTION_SEND_DESC:9 "Invitation to faction."
+ ASK_TO_JOIN_FACTION_REJECT:0 "Requête Refusée !"
+ ASK_TO_JOIN_FACTION_ACCEPT_DESC:9 "Votre demande de rejoindre la faction a été acceptée !"
+ ASK_TO_JOIN_FACTION_REJECT_DESC:9 "Votre demande de rejoindre la faction a été acceptée !"
+ INVITE_TO_JOIN_FACTION_TITLE:9 "Inviter dans la faction"
+ INVITE_TO_JOIN_FACTION_ACTION_DESC:9 "Inviter dans la faction\n\nLe prospect doit être frontalier à un membre de la faction et avoir des relations mutuellement positives avec son chef."
+ INVITE_TO_JOIN_FACTION_SEND_DESC:9 "Invitation à la faction."
  INVITE_TO_JOIN_FACTION_ACCEPT:0 "Invitation Acceptée !"
  INVITE_TO_JOIN_FACTION_REJECT:0 "Invitation Refusée !"
- INVITE_TO_JOIN_FACTION_ACCEPT_DESC:9 "Your invitation to faction has been accepted!"
- INVITE_TO_JOIN_FACTION_REJECT_DESC:9 "Your invitation to faction has been rejected!"
+ INVITE_TO_JOIN_FACTION_ACCEPT_DESC:9 "Votre invitation à la faction a été acceptée !"
+ INVITE_TO_JOIN_FACTION_REJECT_DESC:9 "Votre invitation à la faction a été rejetée !"
