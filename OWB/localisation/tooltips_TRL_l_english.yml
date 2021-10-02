@@ -6,7 +6,7 @@
   more_states_tt:0 "§RWe need more states to have an effect§!"
   fulfilled_the_wizards_task_tt:0 "Fulfilled The Wizard's task"
   search_wizard_tt:0 "§MUnlock a decision to begin the search for the elusive Wizard§!"
-  old_guns_tt:0 "§gUse the supplies we have moved into Chemult Station to help rebuild the artillery, any leftover artillery can be moved to our capital§!\nFor every state we own with a §Y[CHE.GetNameWithFlag]§! core that is also has at least §Y5§! infrastructure:\n  Build §Y1 Anti-Air§! in [Root.Capital.GetName] and [580.GetName]\n"
+  old_guns_tt:0 "§gUse the supplies we have moved into Chemult Station to help rebuild the artillery, any leftover artillery can be moved to our capital§!\nFor every state we own with a §Y[CHE.GetNameWithFlag]§! core that has at least §Y5§! infrastructure:\n  Build §Y1 Anti-Air§! in [Root.Capital.GetName] and [580.GetName]\n"
   bone_picks_tt:0 "§gWe have the former [DIS.GetAdjective] we have mutated help make new bone picks for us§!\nFor every state we own that §Y[DIS.GetNameWithFlag]§! has cored that also has at least §Y5§! infrastructure:\n  Gain §Y250§! Infantry Equipment\n"
   unwilling_gatherers_tt:0 "§gHarvesters are forced to werk-werk in the well-developed lands near our capital§!\nFor each level of infrastructure in our capital:\n  Add production of §Y2£resources_strip|3  1£resources_strip|1\n§!"
   oregon_line_tt:0 "§gWe use our developed rail lines to improve our slave trade§!\nFor each level of infrastructure in our owned states in Oregon:\n  Gain §Y3§! slaves\n"

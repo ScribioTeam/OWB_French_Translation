@@ -185,7 +185,7 @@ l_english:
   TRADE_NODE_MAP_COUNTRY_ROUTE_POTENTIAL_TT:0 "[!potential_entry_button_click_enabled]"
 
   node_events.1.t:0 "Economic Resurgence"
-  node_events.1.d:0 "Our trade node, [?state_to_re_enable.GetName], has finally thrown off it's economic downturn. As commerce returns to the neglected region, we expect our income from taxes to rise as well."
+  node_events.1.d:0 "Our trade node, [state_to_re_enable.GetName], has finally thrown off it's economic downturn. As commerce returns to the neglected region, we expect our income from taxes to rise as well."
   node_events.1.a:0 "Great news"
   caps_lost_main_node:0 "Economic Capital Fallen"
   node_events.2.t:0 "[?global.main_node_fallen.GetName] Lost"

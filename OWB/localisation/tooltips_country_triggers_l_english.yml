@@ -29,13 +29,13 @@
   is_tribal_nation_tt:0 "Is a §Ytribal§! nation"
   is_not_tribal_nation_tt:0 "Is §Rnot§! a §Ytribal§! nation"
 
-  is_mexican_tt:0 "Is a §YMexican§! nation"
+  is_mexican_nation_tt:0 "Is a §YMexican§! nation"
   is_not_mexican_tt:0 "Is §Rnot§! a §YMexican§! nation"
 
-  is_north_mexican_tt:0 "Is a §YNorthern Mexican§! nation"
+  is_north_mexican_nation_tt:0 "Is a §YNorthern Mexican§! nation"
   is_not_north_mexican_tt:0 "Is §Rnot§! a §YNorthern Mexican§! nation"
 
-  is_south_mexican_tt:0 "Is a §YSouthern Mexican§! nation"
+  is_south_mexican_nation_tt:0 "Is a §YSouthern Mexican§! nation"
   is_not_south_mexican_tt:0 "Is §Rnot§! a §YSouthern Mexican§! nation"
 
   is_vault_tec_nation_tt:0 "Is a §YVault-Tec§! nation"
@@ -56,5 +56,7 @@
 
   is_ncr_nation_tt:0 "Is an §YNCR§! nation"
   is_not_ncr_nation_tt:0 "Is §Rnot§! an §YNCR§! nation"
+
+  is_canadian_nation_tt:0 "Is a §YCanadian§!"
 
   is_neutral_country_tt:0 "§Y[THIS.GetName]§! is mutually neutral with §Y[PREV.GetName]§!"
