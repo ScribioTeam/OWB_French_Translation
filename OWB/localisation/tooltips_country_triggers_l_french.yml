@@ -29,13 +29,13 @@
  is_tribal_nation_tt:0 "Est une nation §Ytribale§!"
  is_not_tribal_nation_tt:0 "§RN'est pas§! une nation §Ytribale§!"
 
- is_mexican_tt: "Est une nation §YMexicaine§!"
+ is_mexican_nation_tt:0 "Est une nation §YMexicaine§!"
  is_not_mexican_tt: "§RN'est pas§! une nation §YMexicaine§!"
 
- is_north_mexican_tt: "Est une nation §Mexicaine du Nord§!"
+ is_north_mexican_nation_tt:0 "Est une nation §Mexicaine du Nord§!"
  is_not_north_mexican_tt: "§RN'est pas§! une nation §YMexicaine du Nord§!"
 
- is_south_mexican_tt: "Est une nation §YMexicaine du Sud§!"
+ is_south_mexican_nation_tt:0 "Est une nation §YMexicaine du Sud§!"
  is_not_south_mexican_tt: "§RN'est pas§! une nation §YMexicaine du Sud§!"
 
  is_vault_tec_nation_tt:0 "Est une nation §YVault-Tec§!"
@@ -56,5 +56,7 @@
 
  is_ncr_nation_tt:0 "Est une nation de la §YRNC§!"
  is_not_ncr_nation_tt:0 "§RN'est pas§! une nation de la §YRNC§!"
+
+ is_canadian_nation_tt:0 "Est §YCanadien§!"
 
  is_neutral_country_tt:0 "§Y[THIS.GetName]§! et §Y[PREV.GetName]§! sont mutuellement neutres"

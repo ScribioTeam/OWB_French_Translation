@@ -255,6 +255,10 @@
  umb_arroyo_trade:0 "Commerce avec Arroyo"
  umb_arroyo_trade_desc:0 "Ce qui a commencé comme une simple camaraderie entre Sulik, un membre de la tribu des Ombres, et l'Elu s'est rapidement transformé en une solide amitié entre les deux peuples. Arroyo et Umbra entretiennent des liens commerciaux étroits, Umbra apprenant la technologie \"civilisée\" auprès d'Arroyo et Arroyo profitant des solides compétences de chasseurs-cueilleurs d'Umbra."
 
+
+  ### SCO
+ bizaare_market:0 "Le Bizarre"
+ bizaare_market_desc:0 "Le Bizarre est un marché autonome de ce qui est cher, dangereux et étrange, construit dans un centre commercial d'avant-guerre. Autrefois des raiders à travers le Colorado, ils rendent maintenant hommage au chapitre Maxson et profitent du plus grand emporium du Colorado. Entrez - nous avons de tels délices à vous montrer."
   #TON
  ton_expert_cultivators:0 "Cultivateurs Experts"
  ton_expert_cultivators_desc:0 "La nation Tohono O'odham est fière de son histoire d'étude et de maîtrise de son environnement. De la construction de systèmes d'irrigation complexes à la création de nouvelles méthodes de plantation et de récolte, les O'odham comptent parmi les meilleurs esprits agricoles de toutes les Terres Désolées américaines . Leurs récoltes abondantes assurent une croissance démographique importante, et ils développent sans cesse de nouvelles techniques pour améliorer leurs exploitations."
@@ -273,3 +277,6 @@
 
  mos_old_world_heritage:0 "Héritage du Vieux Monde"
  mos_old_world_heritage_desc:0 "La Ligne de Partage est si vierge que ceux qui y vivent peuvent encore y trouver des symboles et des autres traces que l'ancien monde a laissés derrière lui."
+  ## ROB
+ machine_commune:0 "La Commune des Machines"
+ machine_commune_desc:0 "La Cité des Robots est un lieu de rencontre pour les Robots de toutes les Terres Désolées qui recherchent l'amitié et la camaraderie. Même les roboscorpions sont les bienvenus, tant qu'ils respectent les règles !"
