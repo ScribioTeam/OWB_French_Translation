@@ -20,6 +20,8 @@
   loyalty_desc:0 "This general maintains fierce loyalty from their men, allowing them to maintain discipline and dig fortifications quicker and more efficiently."
   slavemaster:0 "Slave master"
   slavemaster_desc:0 "This general uses harsh punishments to push their troops to march faster."
+  settlement_protector:0 "Settlement Protector"
+  settlement_protector_desc:0 ""
   vulpes_inculta:0 "Vulpes Inculta"
   burned_man:0 "Burned Man"
   blessed_are_the_merciful:0 "Blessed are the Merciful"
@@ -86,27 +88,27 @@
 
 
   ##Organization Traits
-    ### Gun Runners
-      org_1_opinion_1:0 "Conscript"
-      org_1_opinion_2:0 "Sergeant"
-      org_1_opinion_3:0 "Partner"
-    ### Chop Shop
-      org_2_opinion_1:0 "Fuel Boy"
-      org_2_opinion_2:0 "Eagle"
-      org_2_opinion_3:0 "Kahuna"
+  ### Gun Runners
+  org_1_opinion_1:0 "Conscript"
+  org_1_opinion_2:0 "Sergeant"
+  org_1_opinion_3:0 "Partner"
+  ### Chop Shop
+  org_2_opinion_1:0 "Fuel Boy"
+  org_2_opinion_2:0 "Eagle"
+  org_2_opinion_3:0 "Kahuna"
 
-    ### Van Graffs
-      org_3_opinion_1:0 "Family Friend"
-      org_3_opinion_2:0 "Caporegime"
-      org_3_opinion_3:0 "The Boss"
-    ### Butcher Pete
-      org_4_opinion_1:0 "Toothpick"
-      org_4_opinion_2:0 "Fillet Knife"
-      org_4_opinion_3:0 "The Cleaver"
-    ### Mavens
-      org_5_opinion_1:0 "Whisper"
-      org_5_opinion_2:0 "Shadow"
-      org_5_opinion_3:0 "Nightmare"
+  ### Van Graffs
+  org_3_opinion_1:0 "Family Friend"
+  org_3_opinion_2:0 "Caporegime"
+  org_3_opinion_3:0 "The Boss"
+  ### Butcher Pete
+  org_4_opinion_1:0 "Toothpick"
+  org_4_opinion_2:0 "Fillet Knife"
+  org_4_opinion_3:0 "The Cleaver"
+  ### Mavens
+  org_5_opinion_1:0 "Whisper"
+  org_5_opinion_2:0 "Shadow"
+  org_5_opinion_3:0 "Nightmare"
 
   # ITZ
   critically_ill:0 "Critically Ill"
