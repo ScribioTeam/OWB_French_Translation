@@ -20,6 +20,8 @@
  loyalty_desc: "Ce général à l'entiére loyauté de ses hommes, lui permettant de maintenir la discipline et de construire de meilleurs fortifications plus rapidement."
  slavemaster: "Esclavagiste"
  slavemaster_desc: "Ce général punis violemment les trainards afin de faire avancer son armée plus vite!"
+ settlement_protector:0 "Protecteur de Colonie"
+ settlement_protector_desc:0 ""
  vulpes_inculta:0 "Vulpes Inculta"
  burned_man: "Grand brulé"
  blessed_are_the_merciful: "Bénis sont les miséricordieux"
@@ -86,24 +88,24 @@
 
 
   ##Organization Traits
-    ### Gun Runners
+  ### Gun Runners
  org_1_opinion_1:0 "Conscrit"
  org_1_opinion_2:0 "Sergent"
  org_1_opinion_3:0 "Partenaire"
-    ### Chop Shop
+  ### Chop Shop
  org_2_opinion_1:0 "Fuel Boy"
  org_2_opinion_2:0 "Aigle"
  org_2_opinion_3:0 "Kahuna"
 
-    ### Van Graffs
+  ### Van Graffs
  org_3_opinion_1:0 "Ami de Famille"
  org_3_opinion_2:0 "Caporegime"
  org_3_opinion_3:0 "Le Boss"
-    ### Butcher Pete
+  ### Butcher Pete
  org_4_opinion_1:0 "Cure-dents"
  org_4_opinion_2:0 "Couteau à filet"
  org_4_opinion_3:0 "Le Couperet"
-    ### Mavens
+  ### Mavens
  org_5_opinion_1:0 "Chuchoter"
  org_5_opinion_2:0 "Ombre"
  org_5_opinion_3:0 "Cauchemare"

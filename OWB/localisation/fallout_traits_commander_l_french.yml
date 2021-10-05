@@ -123,7 +123,9 @@
  rad_rat_II:0 "Maître Rad"
  rad_rat_II_desc:0 ""
  big:0 "B I G"
+ big_desc:0 ""
  jim:0 "J I M"
+ jim_desc:0 ""
  best_pony:0 "Meilleur poney"
  best_pony_desc:0 "\"Je voulais juste que Braeburn soit dans le jeu parce que c'est mon préféré. C'est mon roc, d'où la défense de 20. \" - Shudderfly"
 
@@ -177,6 +179,8 @@
  finesse_trait:0 "Finesse"
  finesse_trait_desc:0 ""
  reckless_trait:0 "Téméraire"
+ virus:0 "Virus"
+ virus_desc:0 ""
 
   #Unique Traits
  conqueror:0 "Conquérant"
@@ -185,7 +189,7 @@
  pyromaniac_trait_desc:0 ""
 
 
-#####
+  #####
  use_jet:0 "Prendre du Jet"
  ABILITY_USE_JET:0 "Prendre du Jet"
  ABILITY_USE_JET_DESC:0 "En mettant des tonnes de merde brahmines dans les cuves, nous avons découvert que les vapeurs donnent plus qu'un coup de pied. Eureka. Littéralement. Bien sûr, nous avons dû faire des tests pour obtenir le bon mélange."
@@ -196,6 +200,7 @@
  ABILITY_USE_PSYCHO:0 "Utiliser le Psycho"
  ABILITY_USE_PSYCHO_DESC:0 "Développé à l'origine par l'armée américaine pour augmenter l'efficacité au combat des soldats, le Psycho permet à l'utilisateur d'augmenter la production de dommages et la résistance aux dommages pendant une période de temps limitée. \n\nCela utilisera §l1 chem§!."
  addicted:0 "Accroc"
+ addicted_desc:0 ""
  ABILITY_USE_FATMAN:0 "Utiliser un Fatman"
  ABILILTY_USE_FATMAN_DESC:0 "Le Fat Man est peut-être l'arme d'infanterie la plus dévastatrice jamais lancée sur le champ de bataille moderne - une catapulte à main qui lance des bombes nucléaires portables. Ne la lâchez pas."
  USE_ARTILLERY:0 "Déployer les canons"
