@@ -31,6 +31,9 @@
   string_fallout_tab_button_tt_6:0 "§YOrganization Marketplace§! \nVisit the local bazaar to purchase weapons, equipment, and more!"
 
   string_fallout_tab_button_tt_7:0 "Our §YConstitution§!"
+
+  string_fallout_tab_button_tt_8:0 "§YAdditional Map Modes§! \nView OWB's Custom Map modes. \n§RThis can take a long time to load the first time!§!"
+
   popup_hover_over_tooltip:0 "[GetPopupTooltip]"
   node_level_up_popup_tooltip:0 "[GetNodeLevelUpPopUp]"
   node_level_up_popup_tooltip_tt:0 "§Y[?target_state_var.GetName]§! can level up to level [?new_level|+0]"

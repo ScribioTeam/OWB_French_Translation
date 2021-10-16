@@ -238,7 +238,7 @@
   ### Scripted loc
   generalissimostatus_low:0 "§mchill§!"
   generalissimostatus_medium:0 "§a little stressed§!"
-generalissimostatus_high:0 "§Stressed!"
+  generalissimostatus_high:0 "§Stressed!"
 
   ## static modifiers
   GDH_goul_friends:0 "Ghoul Amigos"

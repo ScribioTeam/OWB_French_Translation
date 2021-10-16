@@ -1,0 +1,76 @@
+﻿l_english:
+  custom_map_mode_filter_name_1:0 "Countries"
+  custom_map_mode_filter_text_1:0 "[THIS.GetName]"
+  custom_map_mode_state_tooltip_1:0 "§Y[This.Controller.GetName]§!"
+
+  custom_map_mode_filter_name_2:0 "Factories"
+  custom_map_mode_state_tooltip_2:0 "This state holds §Y[?THIS.arms_factory_level|0]§! £mil_factory arms workshops and §Y[?THIS.industrial_complex_level|0]§! £civ_factory civilian workshops."
+
+  custom_map_mode_filter_name_3:0 "Stability"
+  custom_map_mode_state_tooltip_3:0 "§Y[This.Controller.GetName]§! stability is [GetStabilityValue]"
+  GetStabilityValueGood:0 "§G[?controller_stability]§!"
+  GetStabilityValueAverage:0 "§Y[?controller_stability]§!"
+  GetStabilityValueBad:0 "§R[?controller_stability]§!"
+
+  custom_map_mode_filter_name_4:0 "War Support"
+  custom_map_mode_state_tooltip_4:0 "§Y[This.Controller.GetName]§! war support is [GetWarSupportValue]"
+  GetWarSupportValueGood:0 "§G[?controller_war_support]§!"
+  GetWarSupportValueAverage:0 "§Y[?controller_war_support]§!"
+  GetWarSupportValueBad:0 "§R[?controller_war_support]§!"
+
+  custom_map_mode_filter_name_5:0 "Caps Income"
+  custom_map_mode_state_tooltip_5:0 "Caps Income: [ControllerCapsIncome]"
+  ControllerCapsIncomePositiveCapsIncome:0 "§G[?caps_daily_mod]§!"
+  ControllerCapsIncomeZeroCapsIncome:0 "§Y[?caps_daily_mod]§!"
+  ControllerCapsIncomeNegativeCapsIncome:0 "§R[?caps_daily_mod]§!"
+
+  custom_map_mode_filter_name_6:0 "Coring Status"
+  custom_map_mode_state_tooltip_6:0 "Coring possibility"
+  custom_map_mode_state_tooltip_delayed_6:0 "[CoringStatus]"
+
+  CoringStatusAlreadyCored:0 "This state is already a core."
+  CoringStatusCanBeCored:0 "This state can be cored. \n[CoringAdjacencyRule] \n[CoringCost] \n[ResistanceValueCoring] \n[ComplianceValueCoring]"
+  CoringStatusCantCore:0 "You can't core this state. \n[CoringAdjacencyRule] \n[CoringCost] \n[ResistanceValueCoring] \n[ComplianceValueCoring]"
+
+  CoringAdjacencyRuleNoRule:0 "To core a state the state must be adjacent to a already cored state. §GAdjacency is not a issue for us§!"
+  CoringAdjacencyRulePassesRule:0 "To core a state the state must be adjacent to a already cored state. §GThis state is Adjacent to a core§!"
+  CoringAdjacencyRuleDoesntPassRule:0 "To core a state the state must be adjacent to a already cored state. §RThis state isn't Adjacent to a core§!"
+
+  CoringCostStandard:0 "[PPCoringCost]"
+  PPCoringCostHasEnough:0 "We Need £pol_power §Y[?coring_political_cost]§! Political Power. Our Political Power is currently: £pol_power §G[ControllersPoliticalPower]§!"
+  PPCoringCostNotEnough:0 "We Need £pol_power §Y[?coring_political_cost]§! Political Power. Our Political Power is currently: £pol_power §R[ControllersPoliticalPower]§!"
+
+  CoringCostTlaloc:0 "[EnergyCoringCost]"
+  EnergyCoringCostHasEnough:0 "We Need £resources_strip|2£ §Y[?energy_coring_cost]§! Energy Production. Our Energy Production is currently: £resources_strip|2£ §G[ControllersEnergyAmount]§!"
+  EnergyCoringCostNotEnough:0 "We Need £resources_strip|2£ §Y[?energy_coring_cost]§! Energy Production. Our Energy Production is currently: £resources_strip|2£ §R[ControllersEnergyAmount]§!"
+
+  CoringCostTwoSuns:0 "[EquipmentCoringCost] \n[InfrastructureCoringCost]"
+  EquipmentCoringCostHasEnough:0 "We Need £unit_motorized_icon_small §Y[?equipment_coring_cost]§! Motorized Equipment. Our Motorized Equipment stockpile is currently: £unit_motorized_icon_small §G[ControllersEquipmentAmount]§!"
+  EquipmentCoringCostNotEnough:0 "We Need £unit_motorized_icon_small §Y[?equipment_coring_cost]§! Motorized Equipment. Our Motorized Equipment stockpile is currently: £unit_motorized_icon_small §R[ControllersEquipmentAmount]§!"
+  InfrastructureCoringCostHasEnough:0 "The state needs §Y[?required_infrastructure]§! £infrastructure_texticon infrastructure. The state currently has §G[?infrastructure_level]§! £infrastructure_texticon infrastructure."
+  InfrastructureCoringCostNotEnough:0 "The state needs §Y[?required_infrastructure]§! £infrastructure_texticon infrastructure. The state currently has §R[?infrastructure_level]§! £infrastructure_texticon infrastructure."
+
+  ResistanceValueCoringNoCost:0 "§GResistance is not a issue for us§!"
+  ResistanceValueCoringCanCore:0 "Resistance must be below §Y20%§!. State resistance is currently: §G[?resistance]%§!"
+  ResistanceValueCoringCantCore:0 "Resistance must be below §Y20%§!. State resistance is currently: §R[?resistance]%§!"
+
+  ComplianceValueCoringNoCost:0 "§GCompliance is not a issue for us§!"
+  ComplianceValueCoringCanCore:0 "Compliance must be equal to or greater then §Y[?required_compliance]%§!. State compliance is currently at §G[?compliance]%§!"
+  ComplianceValueCoringCantCore:0 "Compliance must be equal to or greater then §Y[?required_compliance]%§!. State compliance is currently at §R[?compliance]%§!"
+
+  DiplomaticRangeOurCountry:0 "This is us."
+  DiplomaticRangeWithinRange:0 "They must control a §Ghome-area§! §Ystate§! within [?distance|Y] §Ykm§! of any of §Y[Root.GetNameDef]'s§! §Ghome-area§! §Ystates§!.\nThe current distance between us is [?closest_distance_to_controller|Y]"
+  DiplomaticRangeOutsideRange:0 "They must control a §Ghome-area§! §Ystate§! within [?distance|Y] §Ykm§! of any of §Y[Root.GetNameDef]'s§! §Ghome-area§! §Ystates§!.\nThe current distance between us is [?closest_distance_to_controller|Y]"
+
+  custom_map_mode_filter_name_7:0 "Diplomatic Range"
+  custom_map_mode_state_tooltip_7:0 "[DiplomaticRange]"
+
+  custom_map_mode_filter_name_8:0 "Claims Map Mode"
+  custom_map_mode_state_tooltip_8:0 "Claim Status"
+  custom_map_mode_state_tooltip_delayed_8:0 "[ClaimStatus]"
+
+  ClaimStatusOwnState:0 "We already own this state."
+  ClaimStatusHaveClaim:0 "We have a claim on this state."
+  ClaimStatusNoClaim:0 "We don't have a claim on this state."
+
+#§Y

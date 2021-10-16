@@ -46,3 +46,4 @@
 
   # Scripted effects
   decrease_coring_cost_for_prev_cores: "Gain a permanent [?core_cost_var|%G0] reduction in coring costs of every owned §Y[PREV.GetNameDef]§! core state"
+  compliance_greater_then_or_equal_requirement:0 "Complaince Greater then or Equal to §Y[?required_compliance]%§!"
