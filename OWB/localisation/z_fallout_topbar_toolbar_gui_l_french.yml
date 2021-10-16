@@ -31,6 +31,9 @@
  string_fallout_tab_button_tt_6:0 "§YMarché des Organisations§!\nVisitez le bazar local pour acheter des armes, de l'équipement, et plus encore !"
 
  string_fallout_tab_button_tt_7:0 "Notre §YConstitution§!"
+
+ string_fallout_tab_button_tt_8:0 "§YModes de carte supplémentaires§! \nVoir les modes de cartes personnalisées d'OWB. \n§RCela peut prendre beaucoup de temps à charger la première fois!§!"
+
  popup_hover_over_tooltip:0 "[GetPopupTooltip]"
  node_level_up_popup_tooltip:0 "[GetNodeLevelUpPopUp]"
  node_level_up_popup_tooltip_tt:0 "§Y[?target_state_var.GetName]§! peut s'élever jusqu'au niveau [?new_level|+0]"

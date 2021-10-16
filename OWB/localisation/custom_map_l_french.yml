@@ -1,0 +1,6 @@
+﻿l_french:
+ custom_map_marker_text:0 "[GetFilterMarkerText]"
+ custom_map_mode_state_entry_tooltip:0 "[GetStateTooltip]"
+ custom_map_mode_state_entry_tooltip_delayed:0 "[GetStateTooltipDelayed]"
+
+ custom_map_mode_open_tt:0 "Ouvrir le Mode de Carte Personnalisée"

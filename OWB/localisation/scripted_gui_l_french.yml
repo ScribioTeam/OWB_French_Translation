@@ -46,3 +46,4 @@
 
   # Scripted effects
  decrease_coring_cost_for_prev_cores:0 "Obtenez une réduction permanente [?core_cost_var|%G0] des coûts de rendre national de chaque §Y[PREV.GetNameDef]§! état national possédé."
+ compliance_greater_then_or_equal_requirement:0 "Conformité Supérieure ou égale à §Y[?required_compliance]%§!"

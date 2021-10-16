@@ -7,7 +7,7 @@
  exodus_refugee_ratio_malus:0 "Réfugiés Non Assimilés"
   ### GUI
  exodus_button_tt:0 "[GetCanExodus]"
- exodus_gui_allow_exodus:0 "Estimation pour conquérant : §R[?ROOT.exodus_new_owner.GetName]§! \n    Attractivité : [?occupier_appeal_temp|2+%]\nconquérant : §Y[?ROOT.exodus_target_state.GetName]§!\n    §gNomadisme :§! [?nomadicity_temp|+2%]\n    §gRéfugiés :§1 [?exodus_state_refugees|0-] \n    §gUsines militaires perdues :§! [?exodus_arms_refugees|0-]\n    §gUsines civiles perdues :§! [?exodus_civ_refugees|0-]"
+ exodus_gui_allow_exodus:0 "Estimation pour conquérant : §R[?ROOT.exodus_new_owner.GetName]§! \n    Attractivité : [?occupier_appeal_temp|2+%]\nconquérant : §Y[?ROOT.exodus_target_state.GetName]§!\n    §gNomadisme :§! [?nomadicity_temp|+2%]\n    §gRéfugiés :§! [?exodus_state_refugees|0-] \n    §gUsines militaires perdues :§! [?exodus_arms_refugees|0-]\n    §gUsines civiles perdues :§! [?exodus_civ_refugees|0-]"
  exodus_gui_error:0 "L'interface graphique d'Exodus a généré une erreur. Essayez de cliquer pour rafraîchir, et si rien ne change, signalez ce problème comme un bug."
  exodus_gui_disallow_exodus:0 "La population ne sera pas déplacée lorsque l'État changera de contrôle."
  exodus_gui_please_refreesh:0 "Veuillez cliquer pour rafraîchir la prédiction d'Exodus."
