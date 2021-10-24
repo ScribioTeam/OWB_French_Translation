@@ -1,0 +1,76 @@
+﻿l_french:
+ custom_map_mode_filter_name_1:0 "Pays"
+ custom_map_mode_filter_text_1:0 "[THIS.GetName]"
+ custom_map_mode_state_tooltip_1:0 "§Y[This.Controller.GetName]§!"
+
+ custom_map_mode_filter_name_2:0 "Usines"
+ custom_map_mode_state_tooltip_2:0 "Cet état détient §Y[?THIS.arms_factory_level|0]§! £mil_factory usines militaires et §Y[?THIS.industrial_complex_level|0]§! £civ_factory usines civiles"
+
+ custom_map_mode_filter_name_3:0 "Stabilité"
+ custom_map_mode_state_tooltip_3:0 "La stabilité de §Y[This.Controller.GetName]§! est de [GetStabilityValue]"
+ GetStabilityValueGood:0 "§G[?controller_stability]§!"
+ GetStabilityValueAverage:0 "§Y[?controller_stability]§!"
+ GetStabilityValueBad:0 "§R[?controller_stability]§!"
+
+ custom_map_mode_filter_name_4:0 "Soutien à la Guerre"
+ custom_map_mode_state_tooltip_4:0 "Le soutien à la guerre de §Y[This.Controller.GetName]§! est de [GetWarSupportValue]"
+ GetWarSupportValueGood:0 "§G[?controller_war_support]§!"
+ GetWarSupportValueAverage:0 "§Y[?controller_war_support]§!"
+ GetWarSupportValueBad:0 "§R[?controller_war_support]§!"
+
+ custom_map_mode_filter_name_5:0 "Revenu de Capsules"
+ custom_map_mode_state_tooltip_5:0 "Revenu de Capsules : [ControllerCapsIncome]"
+ ControllerCapsIncomePositiveCapsIncome:0 "§G[?caps_daily_mod]§!"
+ ControllerCapsIncomeZeroCapsIncome:0 "§Y[?caps_daily_mod]§!"
+ ControllerCapsIncomeNegativeCapsIncome:0 "§R[?caps_daily_mod]§!"
+
+ custom_map_mode_filter_name_6:0 "Statuts d'Intégration"
+ custom_map_mode_state_tooltip_6:0 "Possibilité d'Intégration"
+ custom_map_mode_state_tooltip_delayed_6:0 "[CoringStatus]"
+
+ CoringStatusAlreadyCored:0 "Cet état est déjà complétement intégré."
+ CoringStatusCanBeCored:0 "Cet état peut être intégré.\n[CoringAdjacencyRule] \n[CoringCost] \n[ResistanceValueCoring] \n[ComplianceValueCoring]"
+ CoringStatusCantCore:0 "Vous ne pouvez pas intégrer cet état.\n[CoringAdjacencyRule] \n[CoringCost] \n[ResistanceValueCoring] \n[ComplianceValueCoring]"
+
+ CoringAdjacencyRuleNoRule:0 "Pour qu'un état soit intégré, il doit être adjacent à un état déjà intégré. §GLa proximité n'est pas un problème pour nous§!"
+ CoringAdjacencyRulePassesRule:0 "Pour qu'un état soit intégré, il doit être adjacent à un état déjà intégré. §GCet état est adjacent à un état intégré§!"
+ CoringAdjacencyRuleDoesntPassRule:0 "Pour qu'un état soit intégré, il doit être adjacent à un état déjà intégré. §RCet état n'est pas adjacent à un état intégré§!"
+
+ CoringCostStandard:0 "[PPCoringCost]"
+ PPCoringCostHasEnough:0 "Nous avons besoin de £pol_power §Y[?coring_political_cost]§! Poids Politique. Notre poids politique est actuellement : £pol_power §G[ControllersPoliticalPower]§!"
+ PPCoringCostNotEnough:0 "Nous avons besoin de £pol_power §Y[?coring_political_cost]§! Poids Politique. Notre poids politique est actuellement : £pol_power §R[ControllersPoliticalPower]§!"
+
+ CoringCostTlaloc:0 "[EnergyCoringCost]"
+ EnergyCoringCostHasEnough:0 "Nous avons besoin de £resources_strip|2£ §Y[?energy_coring_cost]§! Production d'énergie. Notre Production d'énergie est de : £resources_strip|2£ §G[ControllersEnergyAmount]§!"
+ EnergyCoringCostNotEnough:0 "Nous avons besoin de £resources_strip|2£ §Y[?energy_coring_cost]§! Production d'énergie. Notre Production d'énergie est de : £resources_strip|2£ §R[ControllersEnergyAmount]§!"
+
+ CoringCostTwoSuns:0 "[EquipmentCoringCost] \n[InfrastructureCoringCost]"
+ EquipmentCoringCostHasEnough:0 "Nous avons besoin de £unit_motorized_icon_small §Y[?equipment_coring_cost]§! d'Équipement motorisé. Notre stock d'équipements motorisés est actuellement de : £unit_motorized_icon_small §G[ControllersEquipmentAmount]§!"
+ EquipmentCoringCostNotEnough:0 "Nous avons besoin de £unit_motorized_icon_small §Y[?equipment_coring_cost]§! d'Équipement motorisé. Notre stock d'équipements motorisés est actuellement de : £unit_motorized_icon_small §R[ControllersEquipmentAmount]§!"
+ InfrastructureCoringCostHasEnough:0 "L'état a besoin de §Y[?required_infrastructure]§! £infrastructure_texticon d'infrastructure. L'état dispose actuellement de §G[?infrastructure_level]§! £infrastructure_texticon d'infrastructure."
+ InfrastructureCoringCostNotEnough:0 "L'état a besoin de §Y[?required_infrastructure]§! £infrastructure_texticon d'infrastructure. L'état dispose actuellement de §R[?infrastructure_level]§! £infrastructure_texticon d'infrastructure."
+
+ ResistanceValueCoringNoCost:0 "§GLa résistance n'est pas un problème pour nous§!"
+ ResistanceValueCoringCanCore:0 "La résistance doit être inférieure à §Y20%§!. Le niveau de résistance de l'état est actuellement de : §G[?resistance]%§!"
+ ResistanceValueCoringCantCore:0 "La résistance doit être inférieure à §Y20%§!. Le niveau de résistance de l'état est actuellement de : §R[?resistance]%§!"
+
+ ComplianceValueCoringNoCost:0 "§GL'accommodement n'est pas un problème pour nous§!"
+ ComplianceValueCoringCanCore:0 "Le niveau d'accommodement doit être égal ou supérieur à §Y[?required_compliance]%§!. Le niveau d'accommodement  est actuellement de §G[?compliance]%§!"
+ ComplianceValueCoringCantCore:0 "Le niveau d'accommodement doit être égal ou supérieur à §Y[?required_compliance]%§!. Le niveau d'accommodement  est actuellement de §R[?compliance]%§!"
+
+ DiplomaticRangeOurCountry:0 "Nous sommes là."
+ DiplomaticRangeWithinRange:0 "Ils doivent contrôler un §Yétat§! §Gnatal§! à [?distance|Y] §Ykm§! de l'un des §Yétats§! §Gnataux§! de §Y[Root.GetNameDef]§!.\nLa distance actuelle entre nous est de [?closest_distance_to_controller|Y]"
+ DiplomaticRangeOutsideRange:0 "Ils doivent contrôler un §Yétat§! §Gnatal§! à [?distance|Y] §Ykm§! de l'un des §Yétats§! §Gnataux§! de §Y[Root.GetNameDef]§!.\nLa distance actuelle entre nous est de [?closest_distance_to_controller|Y]"
+
+ custom_map_mode_filter_name_7:0 "Portée Diplomatique"
+ custom_map_mode_state_tooltip_7:0 "[DiplomaticRange]"
+
+ custom_map_mode_filter_name_8:0 "Carte des Revendications"
+ custom_map_mode_state_tooltip_8:0 "Statuts de Revendication"
+ custom_map_mode_state_tooltip_delayed_8:0 "[ClaimStatus]"
+
+ ClaimStatusOwnState:0 "Cet état nous appartient déjà."
+ ClaimStatusHaveClaim:0 "Nous avons une revendication sur cet état."
+ ClaimStatusNoClaim:0 "Nous n'avons pas de revendication sur cet état."
+
+#§Y
