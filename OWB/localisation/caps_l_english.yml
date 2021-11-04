@@ -272,11 +272,11 @@
     caps_flavor_events.2.b: "Nothing to spare, send a detachment for the statue"
 
     caps_flavor_events.3.t: "Rats!"
-    caps_flavor_events.3.d: "Mole Rats have infested the underbelly of [event_target.mole_rat_damage_state.GetName]! We aren't sure how they made their nest undetected, but at least 6 people have been partially eaten so far. \n\nOnly a man named Jeremy has died so far. Despite being a banker, his death has caused an outcry. People are leaving."
+    caps_flavor_events.3.d: "Mole Rats have infested the underbelly of [mole_rat_damage_state.GetName]! We aren't sure how they made their nest undetected, but at least 6 people have been partially eaten so far. \n\nOnly a man named Jeremy has died so far. Despite being a banker, his death has caused an outcry. People are leaving."
     caps_flavor_events.3.a: "Where are 'RAID'ers when you need them"
 
     caps_flavor_events.4.t:0 "Caravan Ambush"
-    caps_flavor_events.4.d:0 "A trade caravan delievering goods between settlements near [event_target.raided_state.GetName] has been brutally ambushed. Not only did the brigands hold up the brahmin, they slaughtered everyone as well. \n\nGuards are apprehensive to accompany more caravans, and merchants do not want to lose more goods. A pursuit may steady their minds, but the blood has already dried."
+    caps_flavor_events.4.d:0 "A trade caravan delievering goods between settlements near [raided_state.GetName] has been brutally ambushed. Not only did the brigands hold up the brahmin, they slaughtered everyone as well. \n\nGuards are apprehensive to accompany more caravans, and merchants do not want to lose more goods. A pursuit may steady their minds, but the blood has already dried."
     caps_flavor_events.4.a:0 "Nothing can be done now"
     caps_flavor_events.4.b:0 "We can at least try"
 
@@ -289,7 +289,7 @@
     caps_flavor_events.6.a: "Next time we will be prepared"
 
     caps_flavor_events.7.t: "Uncivil Civilian Unrest"
-    caps_flavor_events.7.d: "There is increasing resistance to our presence in our new territory. Groups have gathered in [event_target.unrest_node.GetName], and are becoming increasing more brash and violent. \n\nIt seems that tension is now reaching a breaking point, resulting in widespread destruction."
+    caps_flavor_events.7.d: "There is increasing resistance to our presence in our new territory. Groups have gathered in [unrest_node.GetName], and are becoming increasing more brash and violent. \n\nIt seems that tension is now reaching a breaking point, resulting in widespread destruction."
     caps_flavor_events.7.a: "Intervention may only embolden them"
     caps_flavor_events.7.b: "Put them in their place"
 
@@ -298,13 +298,13 @@
     caps_flavor_events.8.a: "Bull, or maybe Bear?"
 
     caps_flavor_events.9.t: "Rad-Stag Candle Shop"
-    caps_flavor_events.9.d: "In the quaint outskirts of [event_target.business_boon_state.GetName], a mom and pop shop has made quite a splash! Rad-Stag Tallow Candles they sell, scented with the best pulverized floater teeth. \n\nSome say it smells like raspberry with a hint of bergamot. Others can only detect faint amounts of D O O M. Either way, business is booming! \n\nThankfully, these new business owners pay their taxes. We should even buy a few! Some of our adviors could do with some relaxing candles, especially Jeremy."
+    caps_flavor_events.9.d: "In the quaint outskirts of [business_boon_state.GetName], a mom and pop shop has made quite a splash! Rad-Stag Tallow Candles they sell, scented with the best pulverized floater teeth. \n\nSome say it smells like raspberry with a hint of bergamot. Others can only detect faint amounts of D O O M. Either way, business is booming! \n\nThankfully, these new business owners pay their taxes. We should even buy a few! Some of our adviors could do with some relaxing candles, especially Jeremy."
     caps_flavor_events.9.a: "Our people are doing well"
     caps_flavor_events.9.b: "We'll take 40... cases"
     caps_good_business_modifier: "Rad-Stag Candle Business"
 
     caps_flavor_events.10.t: "A Jewel in Our Crown"
-    caps_flavor_events.10.d: "Under our governance, [THIS.GetName] has prospered. We've built towns, roads, communities, and dreams. One of our advisors noticed today while walking through [event_target.business_boon_state.GetName] that it has become a beacon in the wasteland, but still, it isn't perfect. \n\nThough flawed, the imperfections give character to this jewel on our nation's crown."
+    caps_flavor_events.10.d: "Under our governance, [THIS.GetName] has prospered. We've built towns, roads, communities, and dreams. One of our advisors noticed today while walking through [business_boon_state.GetName] that it has become a beacon in the wasteland, but still, it isn't perfect. \n\nThough flawed, the imperfections give character to this jewel on our nation's crown."
     caps_flavor_events.10.a: "Spectacular indeed"
     caps_crown_jewel_modifier: "Crown Jewel"
 

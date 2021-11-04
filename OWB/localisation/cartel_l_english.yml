@@ -58,6 +58,9 @@
   cartel_cosmetic:0 "Gran Cartel"
   cartel_cosmetic_ADJ:0 "Cartel"
   cartel_cosmetic_DEF:0 "La Gran Cartel"
+  
+  #Ideology
+  cartel_desc:0 "This country is ruled by a cartel. Caring little for the populace under their control, cartels have a profitable but unstable rule."
 
   ###PARTIES###
   SIN_people_party:0 "Settler Loyalists"

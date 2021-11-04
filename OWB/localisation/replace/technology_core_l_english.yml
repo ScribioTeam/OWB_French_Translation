@@ -60,9 +60,9 @@
  # Categories
  #----------------------------
   civilization_tech_category:0 "Civilization"
-  tribal_tech_category:0 "Tribal Technology"
-  civilized_tech_category:0 "Civilized Technology"
-  scientific_tech_category:0 "Advanced Technology"
+  tribal_tech_category:0 "Basic Technology"
+  civilized_tech_category:0 "Intermediate Technology"
+  scientific_tech_category:0 "Sophisticated Technology"
 
  # weapon categories
   infantry_weapons_tech_category:0 "Infantry Weaponry"

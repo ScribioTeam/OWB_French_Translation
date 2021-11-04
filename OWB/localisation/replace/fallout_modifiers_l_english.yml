@@ -154,7 +154,9 @@
   artillery_research:0 "Artillery Technology Research Speed"
   super_mutant_tech_category_research:0 "Super Mutant Technology Research Speed"
   building_tech_research:0 "Building Technology Research Speed"
-  tribal_tech_category_research:0 "Tribal Technology Research Speed"
+  tribal_tech_category_research:0 "Basic Technology Research Speed"
+  civilized_tech_category_research:0 "Intermediate Technology Research Speed"
+  scientific_tech_category_research:0 "Sophisticated Technology Research Speed"
 
   modifier_production_speed_water_generator_factor:0 "§YPurification Station§! construction speed"
   modifier_production_speed_radar_station_factor_desc:0 ""
