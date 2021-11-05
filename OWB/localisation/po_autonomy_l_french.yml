@@ -71,6 +71,9 @@
  autonomy_rio_protected_state:0 "Estado Soberano"
  autonomy_rio_unincorporated_territory:0 "Territorio"
  autonomy_rio_client_state:0 "Estado Cliente"
+ 
+ # TVR, Vice Royalty
+ autonomy_free_port:0 "Free Port"
 
 
 

@@ -272,11 +272,11 @@
  caps_flavor_events.2.b:0 "Rien à épargner, envoyez un détachement pour la statue"
 
  caps_flavor_events.3.t:0 "Rataupes!"
- caps_flavor_events.3.d:0 "Les Rataupes ont infesté le point faible de [event_target.mole_rat_damage_state.GetName]! Nous ne savons pas comment ils ont fait leur nid sans être détectés, mais au moins 6 personnes ont été partiellement mangées jusqu’à présent. \n\n Seul un homme nommé Jeremy est mort jusqu’à présent. Bien qu’il soit banquier, sa mort a provoqué un tollé. Les gens s’en vont.."
+ caps_flavor_events.3.d:0 "Les Rataupes ont infesté le point faible de [mole_rat_damage_state.GetName]! Nous ne savons pas comment ils ont fait leur nid sans être détectés, mais au moins 6 personnes ont été partiellement mangées jusqu’à présent. \n\n Seul un homme nommé Jeremy est mort jusqu’à présent. Bien qu’il soit banquier, sa mort a provoqué un tollé. Les gens s’en vont.."
  caps_flavor_events.3.a:0 "Où sont les Raiders quand vous avez besoin d'eux !"
 
  caps_flavor_events.4.t:0 "Embuscade de la caravane"
- caps_flavor_events.4.d:0 "Une caravane commerciale livrant des marchandises entre des colonies proches [event_target.raided_state.GetName]a été brutalement pris en embuscade. Non seulement les brigands ont braqué le brahmane, mais ils ont aussi massacré tout le mondea été brutalement pris en embuscade. Non seulement les brigands ont braqué le brahmane, mais ils ont aussi massacré tout le monde. \n\nLes gardes craignent d'accompagner plus de caravanes, et les commerçants ne veulent pas perdre plus de marchandises. Une poursuite peut stabiliser leur esprit, mais le sang a déjà séché."
+ caps_flavor_events.4.d:0 "Une caravane commerciale livrant des marchandises entre des colonies proches [raided_state.GetName]a été brutalement pris en embuscade. Non seulement les brigands ont braqué le brahmane, mais ils ont aussi massacré tout le mondea été brutalement pris en embuscade. Non seulement les brigands ont braqué le brahmane, mais ils ont aussi massacré tout le monde. \n\nLes gardes craignent d'accompagner plus de caravanes, et les commerçants ne veulent pas perdre plus de marchandises. Une poursuite peut stabiliser leur esprit, mais le sang a déjà séché."
  caps_flavor_events.4.a:0 "Il n'y a plus rien à faire"
  caps_flavor_events.4.b:0 "On peut au moins essayer"
 
@@ -289,7 +289,7 @@
  caps_flavor_events.6.a:0 "La prochaine fois nous serons prêts"
 
  caps_flavor_events.7.t:0 "Les Troubles Civils Incivils"
- caps_flavor_events.7.d:0 "Il y a une résistance croissante à notre présence sur notre nouveau territoire. Des groupes se sont réunis dans [event_target.unrest_node.GetName], et deviennent de plus en plus brutaux et violents. \n\nIl semble que la tension soit en train d’atteindre un point de rupture, entraînant une destruction généralisée."
+ caps_flavor_events.7.d:0 "Il y a une résistance croissante à notre présence sur notre nouveau territoire. Des groupes se sont réunis dans [unrest_node.GetName], et deviennent de plus en plus brutaux et violents. \n\nIl semble que la tension soit en train d’atteindre un point de rupture, entraînant une destruction généralisée."
  caps_flavor_events.7.a:0 "L'intervention ne peut que les encourager"
  caps_flavor_events.7.b:0 "Mettez-les à leur place"
 
@@ -298,13 +298,13 @@
  caps_flavor_events.8.a:0 "Le Taureau, ou peut-être l'Ours?"
 
  caps_flavor_events.9.t:0 "Boutique de Bougies Radcerf"
- caps_flavor_events.9.d:0 "Dans la banlieue pittoresque de [event_target.business_boon_state.GetName], un magasin de vêtements pour mamans et papas a fait sensation! Ils vendent des bougies de suif Radcerf, parfumées avec les meilleures dents de flotteur pulvérisées. \n\nCertains disent que ça sent la framboise avec un soupçon de bergamote. D'autres ne peuvent détecter que de faibles quantités de D O O M. Quoi qu’il en soit, les affaires sont en plein essor! \n\nHeureusement, ces nouveaux propriétaires d’entreprise paient leurs impôts. On devrait même en acheter quelques-uns! Certains de nos conseillers auraient besoin de bougies relaxantes, en particulier Jeremy."
+ caps_flavor_events.9.d:0 "Dans la banlieue pittoresque de [business_boon_state.GetName], un magasin de vêtements pour mamans et papas a fait sensation! Ils vendent des bougies de suif Radcerf, parfumées avec les meilleures dents de flotteur pulvérisées. \n\nCertains disent que ça sent la framboise avec un soupçon de bergamote. D'autres ne peuvent détecter que de faibles quantités de D O O M. Quoi qu’il en soit, les affaires sont en plein essor! \n\nHeureusement, ces nouveaux propriétaires d’entreprise paient leurs impôts. On devrait même en acheter quelques-uns! Certains de nos conseillers auraient besoin de bougies relaxantes, en particulier Jeremy."
  caps_flavor_events.9.a:0 "Notre peuple se porte bien"
  caps_flavor_events.9.b:0 "Nous prendrons 40... caisses"
  caps_good_business_modifier:0 "Entreprise de Bougies Radcerf"
 
  caps_flavor_events.10.t:0 "Un Bijou dans Notre Couronne"
- caps_flavor_events.10.d:0 "Sous notre gouvernance, [THIS.GetName] a prospéré. Nous avons construit des villes, des routes, des communautés et des rêves. Un de nos conseillers l'a remarqué aujourd'hui alors qu'il traversait [event_target.business_boon_state.GetName] qu'il est devenu un phare dans le désert, mais toutefois, il n'est pas parfait. \n\nBien qu'imparfaites, les imperfections donnent du caractère à ce joyau de la couronne de notre nation."
+ caps_flavor_events.10.d:0 "Sous notre gouvernance, [THIS.GetName] a prospéré. Nous avons construit des villes, des routes, des communautés et des rêves. Un de nos conseillers l'a remarqué aujourd'hui alors qu'il traversait [business_boon_state.GetName] qu'il est devenu un phare dans le désert, mais toutefois, il n'est pas parfait. \n\nBien qu'imparfaites, les imperfections donnent du caractère à ce joyau de la couronne de notre nation."
  caps_flavor_events.10.a:0 "Spectaculaire en effet"
  caps_crown_jewel_modifier:0 "Joyau de la Couronne"
 
