@@ -28,8 +28,8 @@
   cartel_influence_effect:0 "[THIS.Getcartelinfluenceeffects]"
   cartel_influence_tooltip:0 "The Cartels are an insidious force, and not one to be taken lightly. While their presence may be profitable, letting their influence grow to unmanageable levels may have disastrous consequences for our nation."
   cartel_root_tooltip:0 "Current hosts: [?cartel_victims] \n§Y[THIS.Getcartelhostlist]§! \n\n§RHost nations may not take kindly to your presence and will seek to reduce it.§!"
-  cartel_victim_entry: "[?temp.GetName] \n[This.Getcartelhostlistentry]"
-  cartel_victim_entry_last: "[?temp.GetName]"
+  cartel_victim_entry:0 "[?temp.GetName] \n[This.Getcartelhostlistentry]"
+  cartel_victim_entry_last:0 "[?temp.GetName]"
 
 
   cartel_low:0 "Low"
@@ -58,7 +58,7 @@
   cartel_cosmetic:0 "Gran Cartel"
   cartel_cosmetic_ADJ:0 "Cartel"
   cartel_cosmetic_DEF:0 "La Gran Cartel"
-  
+
   #Ideology
   cartel_desc:0 "This country is ruled by a cartel. Caring little for the populace under their control, cartels have a profitable but unstable rule."
 

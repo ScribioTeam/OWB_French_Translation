@@ -257,8 +257,8 @@
 
 
   ### SCO
-  bizaare_market: "The Bizarre"
-  bizaare_market_desc: "The Bizarre is an autonomous marketplace of the expensive, the dangerous, and the weird, built into a prewar mall. Once raiders across Colorado, they now pay tribute to the Maxson Chapter and profit as Colorado's largest emporium. Come in - we have such delights to show you."
+  bizaare_market:0 "The Bizarre"
+  bizaare_market_desc:0 "The Bizarre is an autonomous marketplace of the expensive, the dangerous, and the weird, built into a prewar mall. Once raiders across Colorado, they now pay tribute to the Maxson Chapter and profit as Colorado's largest emporium. Come in - we have such delights to show you."
   #TON
   ton_expert_cultivators:0 "Expert Cultivators"
   ton_expert_cultivators_desc:0 "The Tohono O'odham Nation has a proud history of studying and mastering their environment. From building complex irrigation systems to creating new methods of planting and harvesting, the O'odham are amongst the finest agricultural minds in the entire American wasteland. Their bountiful crop harvests ensure significant population growth, and are always developing new techniques to improve their farms."
@@ -282,5 +282,5 @@
   mos_old_world_heritage:0 "Old World Heritage"
   mos_old_world_heritage_desc:0 "The Divide is so pristine that those living there can still find symbols and heraldry that the old world left behind."
   ## ROB
-  machine_commune: "The Machine Commune"
+  machine_commune:0 "The Machine Commune"
   machine_commune_desc:0 "Robot City is a beacon to Robots from across the Wasteland who seek fellowship and camaraderie. Even roboscorpions are welcome, so long as they follow the rules!"

@@ -58,8 +58,8 @@
   stent_security_solutions:0 "Stent Security Solutions"
   wattz_company:0 "Wattz Electronics"
   ces_mojave_tribute:0 "The Spolia Opima"
-  ces_slaves: "Consul Officiorum ab Famulatus"
-  ces_slaves_desc: "Even in the Legion someone must do paper work, such as drafting legal documents recording slave sales and purchases. Currently M. Licinius Crassus holds this position. Formere Frumentarii, he doesn't scron any methods, if they provide profit, be it threats or kidnapping."
+  ces_slaves:0 "Consul Officiorum ab Famulatus"
+  ces_slaves_desc:0 "Even in the Legion someone must do paper work, such as drafting legal documents recording slave sales and purchases. Currently M. Licinius Crassus holds this position. Formere Frumentarii, he doesn't scron any methods, if they provide profit, be it threats or kidnapping."
 
   pile_of_guns:0 "Muzzles Pile Of Guns"
   pile_of_guns_desc:0 "You want guns? We have guns. Every gun costs the same. Just dig through the pile!"
@@ -138,7 +138,7 @@
   pueblo_airbase:0 "Pueblo Airbase"
   masita_riverworks:0 "Masita Riverworks"
 
-  natives_air_designer: "Awbizhaye"
+  natives_air_designer:0 "Awbizhaye"
 
   PEMEX:0 "PEMEX"
   PEMEX_desc:0 "PEMEX had begun intensive research in fuel efficiency and biofuels to alleviate drying oil reserves prior to their closure by the U.S. occupation."
@@ -162,14 +162,14 @@
   heavy_ship_manufacturer_desc:0 ""
   light_ship_manufacturer:0 "Light Ship Manufacturer"
   light_ship_manufacturer_desc:0 ""
-  natives_air_manufacturer: "Through the Air"
-  slavery_offices: "Offices of Slavery"
+  natives_air_manufacturer:0 "Through the Air"
+  slavery_offices:0 "Offices of Slavery"
 
   economic_finances_company:0 "Financial Advisory"
   fuel_company:0 "Fuel Depot"
   light_aircraft_manufacturer:0 "Light Aircraft Manufacturer"
 
-  natives_air_manufacturer: "Through the Air"
+  natives_air_manufacturer:0 "Through the Air"
 
   apc_manufacturer:0 "APC Manufacturer"
   weapon_manufacturer:0 "Weapon Manufacturer"

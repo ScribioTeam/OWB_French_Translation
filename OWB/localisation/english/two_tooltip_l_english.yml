@@ -1,35 +1,35 @@
 ﻿l_english:
   # race
-  two_start_race_preparations: ""
+  two_start_race_preparations:0 ""
 
-  two_invite: "§LWe will start preparing for Wyatt's journey to other great racers.§!"
-  two_invite_80: "§LThis focus will allow us to send Wyatt to §!§Y[EHT.GetName]§!§L — the great race warriors of Utah.§!"
-  two_invite_imo: "§LThis focus will allow us to send Wyatt to §!§Y[IMO.GetName]§!§L — the armoured titans of Texas.§!"
-  two_invite_new: "§LThis focus will allow us to send Wyatt to §!§Y[NEW.GetName]§!§L — the home of the best East Coast Chop Shops.§!"
-  two_invite_gdh: "§LThis focus will allow us to send Wyatt to §!§Y[GDH.GetName]§!§L — our speedy neighbours.§!"
-  two_merge_invitation_ideas: "§LThis will merge all our previous national ideas, which we have learned from other nations, into one.§!"
-  two_complete_deadline: "§LCompleting this focus will cancel the §Yinvitations deadline§!§L.§!"
+  two_invite:0 "§LWe will start preparing for Wyatt's journey to other great racers.§!"
+  two_invite_80:0 "§LThis focus will allow us to send Wyatt to §!§Y[EHT.GetName]§!§L — the great race warriors of Utah.§!"
+  two_invite_imo:0 "§LThis focus will allow us to send Wyatt to §!§Y[IMO.GetName]§!§L — the armoured titans of Texas.§!"
+  two_invite_new:0 "§LThis focus will allow us to send Wyatt to §!§Y[NEW.GetName]§!§L — the home of the best East Coast Chop Shops.§!"
+  two_invite_gdh:0 "§LThis focus will allow us to send Wyatt to §!§Y[GDH.GetName]§!§L — our speedy neighbours.§!"
+  two_merge_invitation_ideas:0 "§LThis will merge all our previous national ideas, which we have learned from other nations, into one.§!"
+  two_complete_deadline:0 "§LCompleting this focus will cancel the §Yinvitations deadline§!§L.§!"
 
-  motorized_cost: "§H[?motorized_equipment_display]§!£unit_motorized_icon_small"
-  motorized_cost_blocked: "§H[?motorized_equipment_display]§!£unit_motorized_icon_small"
-  motorized_cost_tooltip: "It costs §H[?motorized_equipment_display]§!£unit_motorized_icon_small  to select this."
+  motorized_cost:0 "§H[?motorized_equipment_display]§!£unit_motorized_icon_small"
+  motorized_cost_blocked:0 "§H[?motorized_equipment_display]§!£unit_motorized_icon_small"
+  motorized_cost_tooltip:0 "It costs §H[?motorized_equipment_display]§!£unit_motorized_icon_small  to select this."
 
-  two_hire_buck: "§LUnlocks §YBuck Teague§!§L as an advisor.§!"
-  two_allow_boxes: "§LGrants foreign §YGreat Race§!§L participants rights to build boxes in §Y[516.GetName]§!§L.§!"
+  two_hire_buck:0 "§LUnlocks §YBuck Teague§!§L as an advisor.§!"
+  two_allow_boxes:0 "§LGrants foreign §YGreat Race§!§L participants rights to build boxes in §Y[516.GetName]§!§L.§!"
 
-  two_small_navy_advisor: "§LUnlocks §!§YRudel Castro§!§L as an advisor.§!"
-  two_large_navy_advisor: "§LUnlocks §!§YMerito Mortimer§!§L as an advisor.§!"
+  two_small_navy_advisor:0 "§LUnlocks §!§YRudel Castro§!§L as an advisor.§!"
+  two_large_navy_advisor:0 "§LUnlocks §!§YMerito Mortimer§!§L as an advisor.§!"
 
-  two_tracks_building_start: "§LBy expanding our infrastructure we are going to open up new avenues for trade, improving our access to important resources, which in turn will greatly benefit our home industry.§!"
-  two_tracks_building_process: "§LThis focus will increase the positive effect of our tracks.§!"
+  two_tracks_building_start:0 "§LBy expanding our infrastructure we are going to open up new avenues for trade, improving our access to important resources, which in turn will greatly benefit our home industry.§!"
+  two_tracks_building_process:0 "§LThis focus will increase the positive effect of our tracks.§!"
 
-  great_race_participant: "Is a §YGreat Race§! participant"
-  two_gdh_friendship: "We have been granted access to Gentes roads"
-  two_launch_race: "§LCompleting this focus will start §!§Ythe Great Race§!§L.§!"
-  two_unlock_ruby_tt: "Unlocks a military research advisor."
+  great_race_participant:0 "Is a §YGreat Race§! participant"
+  two_gdh_friendship:0 "We have been granted access to Gentes roads"
+  two_launch_race:0 "§LCompleting this focus will start §!§Ythe Great Race§!§L.§!"
+  two_unlock_ruby_tt:0 "Unlocks a military research advisor."
 
-  TWO_OWB_DESC: "Founded upon the Ruins of Tucson, the formerly second largest City in Arizona, Two Sun has since developed their previous obsession for motor sport into an outright religious movement the Cult of Nas. They have since then become a client state of the legion, venerating Caesar as part of their Pantheon, making themselves indispensable to his cause by carrying his wrath across the wastes on their impressive vehicles.\nTwo Suns entire culture revolves around the race track and they seek to hold nothing short of the Greatest Race of all time, with the greatest racers of the wasteland all in attendance."
+  TWO_OWB_DESC:0 "Founded upon the Ruins of Tucson, the formerly second largest City in Arizona, Two Sun has since developed their previous obsession for motor sport into an outright religious movement the Cult of Nas. They have since then become a client state of the legion, venerating Caesar as part of their Pantheon, making themselves indispensable to his cause by carrying his wrath across the wastes on their impressive vehicles.\nTwo Suns entire culture revolves around the race track and they seek to hold nothing short of the Greatest Race of all time, with the greatest racers of the wasteland all in attendance."
 
-  two_cow_conquest_trigger_tt: "§YCaesar§!§W has allowed us to start a campaign against §Y[COW.GetName]§!§W.§!"
+  two_cow_conquest_trigger_tt:0 "§YCaesar§!§W has allowed us to start a campaign against §Y[COW.GetName]§!§W.§!"
 
-  two_improve_masters_of_the_motor_idea_tt: "§YMasters of the Motor§! idea will be improved, granting reduced §YMotorized Equipment§! building cost."
+  two_improve_masters_of_the_motor_idea_tt:0 "§YMasters of the Motor§! idea will be improved, granting reduced §YMotorized Equipment§! building cost."

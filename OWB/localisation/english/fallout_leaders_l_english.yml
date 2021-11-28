@@ -110,6 +110,8 @@
   MAXIMO_VELA_DESC:0 "Sajal Maximilo Vela I is not a nice man. Raised in the Chichen Itza, he was a class bully at the military academy, but rose through the ranks regardless due to his family's strong political connections. The Kalomte Sebastian II of the Itza recognised his potential as a loyal strongman soon after his graduation, and so encouraged the young Vela to move to Tzotzil and rise up the ranks. Vela was the ultimate sleeper agent."
  # TLA
   TLALOC_DESC:0 "Unknowable, alien, and alone: Tlaloc gazes at the surface through cold, dead lenses. Its miles of circuitry and constituent components are rotting, decaying as the years pass and revealing more of its guttural mechanical innards. Built by the brightest minds America had to offer, with technology none of them fully understood, the undisputed God of Mexico looms over all aspects of daily life like a spectre. It has killed by the thousands, and it will kill again. In its final days, it reflects on its “life” and accomplishments, on the “children” it will leave behind. Somewhere deep inside its central core, there is a sense of empathy, but it will die before it can ever comprehend what that means. Tlaloc knows exactly when it will die: and so it waits, and plots, and spends its final hours watching the clock with what could be considered “dread”."
+# TRK
+  Cranberry_DESC:0 "For centuries, Wastelanders have sat down to feast upon turkeys and celebrate what they are thankful for, as their ancestors did before the war. But in a little town in Texas, the effects of the mutated GECK went too far, and corrupted a local turkey. Now Cranberry rises to teach the Wasteland what they really should be thankful for - a mandatory vegetarian diet."
  #TPM
   CALLAHAN_DESC:0 "Patrol Chief Callahan was born to be a Patrolman; the child to a couple who met in a Patrolmen field hospital, he grew up watching his parents delivering justice and healing the sick of their own free will. Despite rising through the ranks before his election to Patrol Chief twenty four years ago, he is woefully ignorant of the rapidly decaying foundations holding the Tenth Patrolmen up. His progressive policies of self reporting and individual responsibility have lead to a rise in corrupt officials, an increased raider presence, and extensive abuse of the Rule of Ten in an organisation many once trusted. Callahan is finally beginning to catch on to the idea that perhaps, the Gold and Blue might not mean what it used to in the Wasteland."
   # TXL
@@ -295,3 +297,63 @@
   Commander_Keen_DESC:0 "Commander K'Een, of the Zetan Star Armada has been trapped on earth since his ship crashed in New Mexico. After the United States failed to neutralize him the a branch of the Long Now corporation offered to build a containment vessel for him. Area 51 would have end up being built around this prison, to ensure that K'Een could never escape and threaten America."
   # TEX
   PROV_TEX_SENATE_DESC:0 "Formed from the wisest and most influential figures across what once was Lone Star and the Texan Rangers, the Congress of the Provisional Republic has a temporary leadership mandate until a proper election can be organised. Before such an election can be held, however, Congress has a number of important decisions to make revolving around the creation of the Republic. The issues they resolve will have striking effects on the future path of the Republic."
+
+  ####################
+  # NSB ERROR FIXING #
+  #     by KD        #
+  ####################
+
+  # These are all loc keys that were never defined. Thanks guys.
+
+  Goddard_DESC:0 ""
+  MARI_TORNI_DESC:0 ""
+  CHE_Leader_DESC:0 ""
+  Overwatch_Tock_DESC:0 ""
+  DOCTOR_DESC:0 ""
+  CWB_LEADER_DESC:0 ""
+  Polyphemus_DESC:0 ""
+  DRY_Leader_DESC:0 ""
+  LuiWei_DESC:0 ""
+  JimLahey_DESC:0 ""
+  Scarlet_DESC:0 ""
+  Vialla_DESC:0 ""
+  HRO_Parliament_DESC:0 ""
+  Sanchez_DESC:0 ""
+  ZhangKing_DESC:0 ""
+  JUGGERNAUT_DESC:0 ""
+  Alkaya_DESC:0 ""
+  Bulleteater_DESC:0 ""
+  CHO_BANG_DESC:0 ""
+  Necromancer_DESC:0 ""
+  Elijah_DESC:0 ""
+  General_Lee_Oliver_DESC:0 ""
+  ANDREA_BRIXLEY_DESC:0 ""
+  Wright_DESC:0 ""
+  Salvatore_DESC:0 ""
+  Mordino_DESC:0 ""
+  JORDAN_DAE_DESC:0 ""
+  YVANA_DESC:0 ""
+  EddPukaloy_DESC:0 ""
+  MAX_TACKETT_DESC:0 ""
+  The_Nemonik_DESC:0 ""
+  JackVickers_DESC:0 ""
+  WILLEM_DESC:0 ""
+  RIP_Leader_DESC:0 ""
+  Ves_DESC:0 ""
+  SHALE_DESC:0 ""
+  KRONOS_DESC:0 ""
+  TLL_Leader_DESC:0 ""
+  Tyrantus_DESC:0 ""
+  TPM_CC_DESC:0 ""
+  First_DESC:0 ""
+  Mr_Entertainment_DESC:0 ""
+  Will_Faster_DESC:0 ""
+  KEATS_DESC:0 ""
+  LIEUTENTANT_CRUSHER_DESC:0 ""
+  BENNY_DESC:0 ""
+  THE_KING_DESC:0 ""
+  POLITICS_CITIZEN_DESC:0 ""
+  POLITICS_FESTUS_DESC:0 ""
+  POLITICS_SEC_CHIEF_DESC:0 ""
+  POLITICS_BRAIN_DESC:0 ""
+  Akari_DESC:0 ""

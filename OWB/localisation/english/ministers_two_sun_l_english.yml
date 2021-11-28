@@ -1,23 +1,23 @@
 ﻿l_english:
   #Chief of army
 
-  TWO_wyatt: "Wyatt the Demon"
-  TWO_wyatt_desc: "People shouldn't call for demons unless they really mean what they say"
-  TWO_wyatt_trait: "Black Blooded"
+  TWO_wyatt:0 "Wyatt the Demon"
+  TWO_wyatt_desc:0 "People shouldn't call for demons unless they really mean what they say"
+  TWO_wyatt_trait:0 "Black Blooded"
 
   # Military high command
 
-  TWO_ranger: "William Herschel"
-  TWO_ranger_desc: "Crawling is acceptable, falling is acceptable, puking is acceptable, blood is acceptable, sweat is acceptable, pain is acceptable but quitting is not acceptable."
-  TWO_ranger_trait: "Last Arizona Ranger"
+  TWO_ranger:0 "William Herschel"
+  TWO_ranger_desc:0 "Crawling is acceptable, falling is acceptable, puking is acceptable, blood is acceptable, sweat is acceptable, pain is acceptable but quitting is not acceptable."
+  TWO_ranger_trait:0 "Last Arizona Ranger"
 
   # Navy Chief
-  
-  TWO_navy_small: "Rudel Castro"
-  TWO_small_navy_trait: "Naval Invasion Doctrine"
-  
-  TWO_navy_large: "Merito Mortimer"
-  TWO_large_navy_trait: "Large Navy Doctrine"
+
+  TWO_navy_small:0 "Rudel Castro"
+  TWO_small_navy_trait:0 "Naval Invasion Doctrine"
+
+  TWO_navy_large:0 "Merito Mortimer"
+  TWO_large_navy_trait:0 "Large Navy Doctrine"
 
 
   # Research advisor
@@ -25,35 +25,35 @@
 
   # Economic advisor
 
-  TWO_jess: "Jess Tander"
-  TWO_jess_desc: "Nobody talks about entrepreneurship as a survival, but that’s exactly what it is. Running with the Chop Shop taught me business is not financial science; it’s about trading, buying and selling."
-  TWO_jess_trait: "Racing Industrialist"
+  TWO_jess:0 "Jess Tander"
+  TWO_jess_desc:0 "Nobody talks about entrepreneurship as a survival, but that’s exactly what it is. Running with the Chop Shop taught me business is not financial science; it’s about trading, buying and selling."
+  TWO_jess_trait:0 "Racing Industrialist"
 
-  TWO_marius: "Marius the Younger"
-  TWO_marius_desc: "It is in war that the State really comes into its own: swelling in power, in number, in pride, in absolute dominion over all aspects of life."
-  TWO_marius_trait: "Flagstaff Representative"
+  TWO_marius:0 "Marius the Younger"
+  TWO_marius_desc:0 "It is in war that the State really comes into its own: swelling in power, in number, in pride, in absolute dominion over all aspects of life."
+  TWO_marius_trait:0 "Flagstaff Representative"
 
-  TWO_joe: "Mortal Joe"
-  TWO_joe_desc: "Don't look for the needle in the haystack. Just buy the haystack!"
-  TWO_joe_trait: "Silent Partner"
+  TWO_joe:0 "Mortal Joe"
+  TWO_joe_desc:0 "Don't look for the needle in the haystack. Just buy the haystack!"
+  TWO_joe_trait:0 "Silent Partner"
 
-  TWO_mortimer: "P. Mortimer"
-  TWO_mortimer_desc: "Remember when disaster strikes, the time for preparation has passed."
-  TWO_mortimer_trait: "Paranoid Protector"
+  TWO_mortimer:0 "P. Mortimer"
+  TWO_mortimer_desc:0 "Remember when disaster strikes, the time for preparation has passed."
+  TWO_mortimer_trait:0 "Paranoid Protector"
 
   # Cultural advior
 
-  TWO_simon: "Simon Bellingham"
-  TWO_simon_desc: "Originally from San Carlos, Simon has managed to get on the bad side of every human, ghoul or AI he has ever worked for, forcing him to flee all the way up here to escape their wrath. Still he is undoubtedly a brilliant mind and his research might be worth the cost that comes with protecting him."
-  wanted_man: "Wanted Man"
+  TWO_simon:0 "Simon Bellingham"
+  TWO_simon_desc:0 "Originally from San Carlos, Simon has managed to get on the bad side of every human, ghoul or AI he has ever worked for, forcing him to flee all the way up here to escape their wrath. Still he is undoubtedly a brilliant mind and his research might be worth the cost that comes with protecting him."
+  wanted_man:0 "Wanted Man"
 
-  TWO_carmen: "Carmen Capdevila"
-  TWO_carmen_desc: "Once one of the many lovers of the Generalissimo Carmen has since left Gente to work for us, her charisma and fiery speeches have become legendary, helping to improve our nations outlook on war.\nThe former poster girl for the Generalissimos female empowerment propaganda campaign, has lost nothing of her charm, capable of inspiring everyone from the simple soldier to the diligent factory worker."
-  fiery_temptress: "Fiery Temptress"
+  TWO_carmen:0 "Carmen Capdevila"
+  TWO_carmen_desc:0 "Once one of the many lovers of the Generalissimo Carmen has since left Gente to work for us, her charisma and fiery speeches have become legendary, helping to improve our nations outlook on war.\nThe former poster girl for the Generalissimos female empowerment propaganda campaign, has lost nothing of her charm, capable of inspiring everyone from the simple soldier to the diligent factory worker."
+  fiery_temptress:0 "Fiery Temptress"
 
-  TWO_xanthippe: "Xanthippe"
-  TWO_xanthippe_desc: "In the beginning, people prayed to the Creator of Life, the Mistress of Heaven.\nAt the very dawn of time, God was a woman. Do you remember?"
-  TWO_xanthippe_trait: "Priestess of Diana"
+  TWO_xanthippe:0 "Xanthippe"
+  TWO_xanthippe_desc:0 "In the beginning, people prayed to the Creator of Life, the Mistress of Heaven.\nAt the very dawn of time, God was a woman. Do you remember?"
+  TWO_xanthippe_trait:0 "Priestess of Diana"
 
-  TWO_navyboy: "Horatio Douglas"
-  TWO_navy_trait: "Small Fleet Admiral"
+  TWO_navyboy:0 "Horatio Douglas"
+  TWO_navy_trait:0 "Small Fleet Admiral"

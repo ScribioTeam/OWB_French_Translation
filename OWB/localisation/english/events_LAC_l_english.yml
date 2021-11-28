@@ -347,7 +347,7 @@
   nf_lanius_revolter.37.t:0 "The Tribal's Proposal"
   nf_lanius_revolter.37.d:0 "The Eastern Legion warlord, Lanius, rose up against Caesar and now marches his own path. Although we thought he would come against us with his armies, it appears he has a different goal. Lanius instead asks us to join him in the fight against Caesar when he marches west. In return, he shall give us the lands in Colorado he now controls. Although we will not serve Lanius in any wars of conquest, we cannot deny that Caesar butchered our Arizona brethrenn. And the resources of the Arkansas Tributary would be most useful to us. \n\nWe can of course say no, but that might make Lanius view us as a threat."
   nf_lanius_revolter.37.a:0 "We accept your terms, Legate."
-  nf_lanius_revolter.37.a_tt: "\nShould war break out §R[CES.GetName]§! and §B[LAC.GetName]§!, we will join the East's cause."
+  nf_lanius_revolter.37.a_tt:0 "\nShould war break out §R[CES.GetName]§! and §B[LAC.GetName]§!, we will join the East's cause."
   nf_lanius_revolter.37.b:0 "Why would we die for Flagstaff?"
 
   nf_lanius_revolter.38.t:0 "The Gordian Knot"
