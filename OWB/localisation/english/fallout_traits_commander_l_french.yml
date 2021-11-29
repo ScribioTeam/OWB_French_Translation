@@ -159,6 +159,10 @@
  targeting_computer_trait:0 "Calculateur de cible"
  targeting_computer_trait_desc:0 ""
 
+  # Car Nations
+ lead_foot_trait:0 "Pied de plomb"
+ lead_foot_trait_desc:0 "Les réflexes et la capacité de conduite de ce leader se combinent pour en faire un conducteur très rapide !"
+
  #Generic Traits
  hot_blooded_trait:0 "Sang chaud"
  hot_blooded_trait_desc:0 ""
@@ -180,6 +184,16 @@
  finesse_trait_desc:0 ""
  reckless_trait:0 "Téméraire"
  reckless_trait_desc:0 ""
+ camouflage_trait:0 "Camouflage"
+ camouflage_trait_desc:0 "Ce chef passe beaucoup de temps à former ses troupes à l'art du déguisement."
+ lone_wolf_trait:0 "Loup Solitaire"
+ lone_wolf_trait_desc:9 ""
+  # trait_trait:0 ""
+  # trait_trait_desc:0 "This leader has been trained by skilled Military Robotics."
+ xenotech_expert_trait:0 "Expert en Xenotech"
+ xenotech_expert_trait_desc:0 "Ce leader veut croire."
+ fortune_finder_trait:0 "Chercheur de fortune"
+ fortune_finder_trait_desc:0 "Ce leader sait que les meilleures choses dans la vie sont gratuites."
  virus:0 "Virus"
  virus_desc:0 ""
 

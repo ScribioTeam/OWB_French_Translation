@@ -4,57 +4,57 @@
  autonomy_brother_in_the_faith:0 "Frère dans la Foi"
  autonomy_child_in_the_faith:0 "Enfant dans la Foi"
 
- #
+  #
  autonomy_client_tribe:0 "Tribu Cliente"
  autonomy_tributary:0 "Tributaire"
 
- #
+  #
  autonomy_free_state:0 "État libre"
  autonomy_protected_state:0 "État protégé"
  autonomy_unincorporated_territory:0 "Territoire non incorporé"
  autonomy_incorporated_territory:0 "Territoire incorporé"
 
- #
+  #
  autonomy_brotherhood_protectorate:0 "Protectorat de la Confrérie"
  autonomy_brotherhood_dependency:0 "Dépendance de la Confrérie"
  autonomy_brotherhood_initiate:0 "Initiation de la Confrérie"
  autonomy_initiate_chapter:0 "Initié du Chapitre"
 
- #
+  #
  autonomy_enclave_occupation:0 "Territoire fédéral occupé"
  autonomy_enclave_reservation:0 "Réserve fédérale"
  autonomy_enclave_protectorate:0 "Protectorat de l'Enclave"
  autonomy_enclave_state:0 "État fédéral"
 
- #
+  #
  autonomy_little_city:0 "Petite ville"
 
  autonomy_courtyard_state:0 "Cour d'État"
  autonomy_council_state:0 "Conseil d'État"
  autonomy_vault_territory:0 "Territoire d'Abri"
 
- #
+  #
  autonomy_brotherhood_slave:0 "Esclave de la Confrérie"
 
  autonomy_district:0 "District"
  autonomy_periphery:0 "Périphérie"
  autonomy_family:0 "Famille"
 
- #
+  #
  autonomy_slave_den:0 "Repaire d'esclaves"
  autonomy_slave_warren:0 "Esclave Warren"
 
- ###
+  ###
  autonomy_slave_port:0 "Port d'esclaves"
  autonomy_slave_raiders:0 "Pillards d'esclaves"
  autonomy_raider_city:0 "Ville de pillards"
 
-#
+  #
  autonomy_junior_deputy:0 "Député junior"
  autonomy_deputy:0 "Député"
  autonomy_sheriff:0 "Sheriff"
 
- #
+  #
  autonomy_tlatoani:0 "Tlatoani"
  autonomy_calpixqui:0 "Calpixqui"
  autonomy_cuahtlatoani:0 "Cuahtlatoani"
@@ -71,8 +71,8 @@
  autonomy_rio_protected_state:0 "Estado Soberano"
  autonomy_rio_unincorporated_territory:0 "Territorio"
  autonomy_rio_client_state:0 "Estado Cliente"
- 
- # TVR, Vice Royalty
+
+  # TVR, Vice Royalty
  autonomy_free_port:0 "Free Port"
 
 
@@ -128,4 +128,3 @@
  CONSTRUCTION_MASTER_BUILDING_CANT_REDUCE:0 "§RNous ne sommes pas autorisés à réduire le niveau ou à annuler cette construction.§!"
  CONSTRUCTION_INFO_MASTER:0 "Cette construction est construite sur le territoire de $WHO|H$. Si nous n'utilisons pas toutes les usines, ils peuvent contribuer en utilisant les leurs."
  CONSTRUCTION_INFO_SUBJECT:0 "Cette construction est construite pour nous par les $WHO|H$. S'ils n'utilisent pas toutes les usines, nous pouvons contribuer en utilisant les nôtres."
-

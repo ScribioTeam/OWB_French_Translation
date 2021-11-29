@@ -239,6 +239,14 @@
  RULE_MAP_SETUP_NPE_STATUS_ONMAP:0 "@NPE Enclave du pôle Nord sur la carte."
  RULE_MAP_SETUP_NPE_STATUS_ONMAP_DESC:0 "Le Père Noël arrive en ville (met l'enclave du pôle Nord sur la carte au-dessus de la côte brisée)."
 
+
+
+ RULE_MAP_SETUP_TRK_STATUS:0 "@TRK  Le Dernier Thanksgiving"
+ RULE_MAP_SETUP_TRK_STATUS_DEFAULT:0 "@TRK Défaut"
+ RULE_MAP_SETUP_TRK_STATUS_DEFAULT_DESC:0 "La Fête de la Dinde n'aura pas lieu."
+ RULE_MAP_SETUP_TRK_STATUS_ONMAP:0 "@TRK Empire de la Dinde sur la Carte"
+ RULE_MAP_SETUP_TRK_STATUS_ONMAP_DESC:0 "Nous sommes reconnaissants pour nos fans, Huzzah."
+
  RULE_MAP_SETUP_KONGO_BONGO_TAG:0 "Le DK Crew vs King Kraven"
  RULE_MAP_SETUP_KONGO_BONGO_TAG_DISABLED:0 "Désactivé"
  RULE_MAP_SETUP_KONGO_BONGO_TAG_DISABLED_DESC:0 "New Victoria et Côte Brisée sont sûrs pour le moment."

@@ -110,6 +110,8 @@
  MAXIMO_VELA_DESC:0 "Sajal Maximilo Vela I n'est pas un homme gentil. Élevé dans le Chichen Itza, il était une brute de classe à l'académie militaire, mais il a gravi les échelons malgré tout grâce aux liens politiques solides de sa famille. Le Kalomte Sebastian II de l'Itza a reconnu son potentiel en tant qu'homme fort et loyal peu après sa sortie de l'école militaire, et a donc encouragé le jeune Vela à s'installer à Tzotzil et à gravir les échelons. Vela était l'agent dormant par excellence."
  # TLA
  TLALOC_DESC:0 "Inconnu, étranger et seul : Tlaloc regarde la surface à travers des lentilles froides et mortes. Ses circuits et ses composants se décomposent au fil des ans et révèlent ses entrailles mécaniques gutturales. Construit par les esprits les plus brillants que l'Amérique avait à offrir, avec une technologie qu'aucun d'entre eux ne comprenait entièrement, le Dieu incontesté du Mexique plane sur tous les aspects de la vie quotidienne comme un spectre. Il a tué par milliers, et il tuera encore. Dans ses derniers jours, il réfléchit sur sa "vie" et ses réalisations, sur les "enfants" qu'il laissera derrière lui. Quelque part au fond de son noyau central, il y a un sentiment d'empathie, mais il mourra avant de pouvoir comprendre ce que cela signifie. Tlaloc sait exactement quand il va mourir : il attend, il complote et passe ses dernières heures à regarder l'horloge avec ce que l'on pourrait considérer comme de la "terreur"."
+# TRK
+ Cranberry_DESC:0 "Pendant des siècles, les habitants des Terres Désolées se sont assis pour festoyer autour d'une dinde et célébrer ce dont ils sont reconnaissants, comme le faisaient leurs ancêtres avant la guerre. Mais dans une petite ville du Texas, les effets du JEK muté sont allés trop loin et ont corrompu une dinde locale. Maintenant, Cranberry se lève pour enseigner aux Terres Désolés ce pour quoi ils devraient vraiment être reconnaissants - un régime végétarien obligatoire."
  #TPM
  CALLAHAN_DESC:0 "Le Chef de Patrouille Callahan est né pour être Patrouilleur ; enfant d'un couple qui s'est rencontré dans un hôpital de campagne de Patrouilleurs, il a grandi en regardant ses parents rendre la justice et soigner les malades de leur plein gré. Bien qu'il ait gravi les échelons avant d'être élu Chef de Patrouille il y a vingt-quatre ans, il est terriblement ignorant des fondations des \"Dix Patrouilleurs\" qui se délabrent rapidement. Ses politiques progressistes en faveur de la dénonciation et de responsabilité individuelle ont conduit à une augmentation du nombre de fonctionnaires corrompus, à une présence accrue de pillards et à un abus généralisé de la Règle des Dix Patrouilleurs dans une organisation à laquelle beaucoup faisaient autrefois confiance. Callahan commence enfin à comprendre que l'Or et le Bleu ne sont peut-être plus ce qu'ils étaient dans les Terres Désolées."
   # TXL
@@ -295,3 +297,63 @@
  Commander_Keen_DESC:0 "Le commandant K'Een, de l'Armada Zetan Star, est prisonnier sur terre depuis que son navire s'est écrasé au Nouveau-Mexique. Les États-Unis n'ayant pas réussi à le neutraliser, une filiale de la société Long Now a proposé de lui construire un navire de confinement. La zone 51 aurait fini par être construite autour de cette prison, pour s'assurer que K'Een ne puisse jamais s'échapper et menacer l'Amérique."
   # TEX
  PROV_TEX_SENATE_DESC:0 "Formé des personnalités les plus sages et les plus influentes de ce qui fut l'Étoile Solitaire et les Texan Rangers, le Congrès de la République provisoire a un mandat de direction temporaire jusqu'à ce qu'une élection en bonne et due forme puisse être organisée. Avant qu'une telle élection puisse être organisée, le Congrès doit cependant prendre un certain nombre de décisions importantes concernant la création de la République. Les questions qu'il résout auront des effets marquants sur la trajectoire future de la République."
+
+  ####################
+  # NSB ERROR FIXING #
+  #     by KD        #
+  ####################
+
+  # These are all loc keys that were never defined. Thanks guys.
+
+ Goddard_DESC:9 ""
+ MARI_TORNI_DESC:9 ""
+ CHE_Leader_DESC:9 ""
+ Overwatch_Tock_DESC:9 ""
+ DOCTOR_DESC:9 ""
+ CWB_LEADER_DESC:9 ""
+ Polyphemus_DESC:9 ""
+ DRY_Leader_DESC:9 ""
+ LuiWei_DESC:9 ""
+ JimLahey_DESC:9 ""
+ Scarlet_DESC:9 ""
+ Vialla_DESC:9 ""
+ HRO_Parliament_DESC:9 ""
+ Sanchez_DESC:9 ""
+ ZhangKing_DESC:9 ""
+ JUGGERNAUT_DESC:9 ""
+ Alkaya_DESC:9 ""
+ Bulleteater_DESC:9 ""
+ CHO_BANG_DESC:9 ""
+ Necromancer_DESC:9 ""
+ Elijah_DESC:9 ""
+ General_Lee_Oliver_DESC:9 ""
+ ANDREA_BRIXLEY_DESC:9 ""
+ Wright_DESC:9 ""
+ Salvatore_DESC:9 ""
+ Mordino_DESC:9 ""
+ JORDAN_DAE_DESC:9 ""
+ YVANA_DESC:9 ""
+ EddPukaloy_DESC:9 ""
+ MAX_TACKETT_DESC:9 ""
+ The_Nemonik_DESC:9 ""
+ JackVickers_DESC:9 ""
+ WILLEM_DESC:9 ""
+ RIP_Leader_DESC:9 ""
+ Ves_DESC:9 ""
+ SHALE_DESC:9 ""
+ KRONOS_DESC:9 ""
+ TLL_Leader_DESC:9 ""
+ Tyrantus_DESC:9 ""
+ TPM_CC_DESC:9 ""
+ First_DESC:9 ""
+ Mr_Entertainment_DESC:9 ""
+ Will_Faster_DESC:9 ""
+ KEATS_DESC:9 ""
+ LIEUTENTANT_CRUSHER_DESC:9 ""
+ BENNY_DESC:9 ""
+ THE_KING_DESC:9 ""
+ POLITICS_CITIZEN_DESC:9 ""
+ POLITICS_FESTUS_DESC:9 ""
+ POLITICS_SEC_CHIEF_DESC:9 ""
+ POLITICS_BRAIN_DESC:9 ""
+ Akari_DESC:9 ""
