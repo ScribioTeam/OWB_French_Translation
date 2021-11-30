@@ -16,7 +16,7 @@
  flavour.3.a:0 "Demandez à apprendre comment ils cultivent ces fruits."
  flavour.3.b:0 "Nous devrions les payer pour qu'ils nous enseignent l'art de la diplomatie."
  flavour.3.c:0 "Concluez un accord commercial !"
- flavour.3.e:9 "Nous ne pouvons pas faire un achat maintenant..."
+ flavour.3.e:0 "Nous ne pouvons pas faire un achat maintenant..."
   # Unique Flavour Events
  flavour_unique.1.t:0 "L'incident [Root.Capital.GetName]"
  flavour_unique.1.d1:0 "L'un des secrets gouvernementaux les plus mal gardés avant la Grande Guerre était l'existence des \"Zétans\" : des êtres extra-terrestres qui ont observé la race humaine depuis une orbite lointaine. Bien que le gouvernement américain n'ait jamais officiellement reconnu leur présence (ils avaient d'autres choses en tête, après tout), le public a considéré comme plus ou moins certain que ces extraterrestres étaient là pour rester. Il est certain que les Zétans semblent toujours être ici plus de deux siècles après la Grande Guerre qu'ils ont sûrement regardée avec une joyeuse excitation. Comment pouvons-nous le savoir ? Eh bien, il semble qu'un vaisseau spatial Zétan se soit écrasé près de [Racine.Capitale.ObtenirNom]. Les deux occupants de Zétan, identifiés grâce à leur étrange ressemblance avec les graffitis d'avant-guerre, sont toujours en vie et ont mis en place une solide défense de leur vaisseau écrasé. Quelques-uns de nos soldats ont déjà péri lors de leur repérage, mais avec un assaut coordonné, nous pouvons sûrement écraser les deux défenseurs et atteindre le navire."
