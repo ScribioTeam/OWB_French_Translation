@@ -8,4 +8,4 @@ tags={
 	"Translation"
 }
 version="3.0.1"
-supported_version="1.10.*"
+supported_version="1.11.*"
