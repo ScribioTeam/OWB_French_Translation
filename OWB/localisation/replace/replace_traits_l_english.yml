@@ -5,7 +5,8 @@
   assignable_traits:0 "Unit Leader Traits"
   commanding_officer_traits:0 "Commanding Officer Traits"
   COMMANDING_OFFICER_TRAITS_DESC:0 "Commanding Officer traits can only be assigned to Commanding Officers. Commanding Officers also can use regular traits, but their effects will be reduced while commanding more than one army."
-  SPECIAL_TRAITS_DESC:0 "Randomized Starting Traits, assigned on leader recruitment."
+  BASIC_TRAITS_DESC:0 "Randomized Starting Traits, assigned on leader recruitment."
+  basic_traits:0 "S.P.E.C.I.A.L."
 
 
   ALREADY_HAS_MAX_ALLOWED_ASSIGNABLE_TRAITS:0 "The Unit Leader already has maximum amount of assignable traits.\n"

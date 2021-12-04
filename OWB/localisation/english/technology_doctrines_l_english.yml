@@ -287,6 +287,8 @@
  #----------------------------
  # localisation navy doctrine tech
  #----------------------------
+  fleet_in_being:0 "Safe Munitions Stowage"
+  fleet_in_being_desc:0 "From handling primitive firepots to high explosive shells; drilling our sailors on safe stowage of ammunition is vital to naval organization."
   pacific_fleet_navy_doctrine:0 "Safe Munitions Stowage"
   pacific_fleet_navy_doctrine_desc:0 "From handling primitive firepots to high explosive shells; drilling our sailors on safe stowage of ammunition is vital to naval organization."
   river_fleet_navy_doctrine:0 "River Fleet"

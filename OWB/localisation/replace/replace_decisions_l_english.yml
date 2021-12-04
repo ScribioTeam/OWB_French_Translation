@@ -1,4 +1,7 @@
 ﻿l_english:
-  #Generic
+#Categories
+  formable_nations:1 "Formable Nations"
+  formable_nations_desc:1 "The winds of change blow swiftly across the Wasteland, and few can resist its power for long. While we may call ourselves [ROOT.GetNameWithFlag] today, we may find it right to change our identity as we forge a new path..."
+#Generic
   war_propaganda:0 "War Propaganda"
   war_propaganda_desc:0 "War is near the cities and villages of our peoples. It is time to ready them for war in their homes - let us drum up support for the war, so that they may be ready to tackle any cause in the name of our country and the war effort."

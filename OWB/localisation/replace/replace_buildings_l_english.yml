@@ -32,3 +32,7 @@
   radar_station:0 "Radar Station"
   radar_station_plural:0 "Radar Stations"
   radar_station_desc:3 "Radar allows you to gain intel on enemy troops in nearby states.\nA higher radar level in a state increases the effective range of the radar.\nRadar also provides the state with better detection of enemy air forces, giving your planes a better chance to engage them.\nIn addition radar increases the detection of enemy fleets at sea."
+  supply_node:1 "Supply Hub"
+  supply_node_desc:2 "A Supply Hub is a point along a roads, outside of existing cities, where supply can be drawn."
+  rail_way:0 "Roads"
+  rail_way_desc:2 "Roads are used to connect Supply Hubs together to allow drawing of supply far from your capital."

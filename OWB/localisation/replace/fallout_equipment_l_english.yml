@@ -533,17 +533,13 @@
   long_fighter_equipment_short:0 "Long Range Fighter"
   long_fighter_equipment_desc:0 ""
 
-  fighter_equipment_1:0 "Glider"
-  fighter_equipment_1_short:0 "Glider"
-  #fighter_equipment_1_desc:0 "Our engineers have, after multiple stressful tests, invented a glider able to strike from the sky. Armed with two submachine guns, a complement of grenades for ground strikes, and a lot of prayers, our pilots can now support frontline troops. A mobile catapult system, installed on a truck bed for launching procedures, also gives them a considerably increased range, as the trucks have more autonomy than our gliders."
+  #fighter_equipment_1 in replace_equipment_l_english
 
   fighter_equipment_2:0 "Biplane Fighter"
   fighter_equipment_2_short:0 "Biplane Fighter"
   fighter_equipment_2_desc:0 "A biplane fuselage provides a stiff base for our new fighters, along with good agility. Powered by a chemical truck engine, and armed with two water-cooled machine guns linked to a synchronized gear, it lets us tear into soft target with higher speed. Specialized hand-dropped explosive shells instead of simple grenades also improves the damage we can do against lightly armoured targets and structures."
 
-  fighter_equipment_3:0 "Monoplane Fighter"
-  fighter_equipment_3_short:0 "Monoplane Fighter"
-  #fighter_equipment_3_desc:0 "As speed and low drag become primordial, a monoplane design is now preferable. Increased weight capacity allows the installation of a third, air-cooled, higher calibre machine gun for gun runs, as well as external struts able to support two 100lb high explosive bombs. Stacked powerpack units allow higher top speed, giving us the possibility for increased strike range, and interception techniques against enemy crafts."
+  #fighter_equipment_3 in replace_equipment_l_english
 
   fighter_equipment_4:0 "Jetfighter"
   fighter_equipment_4_short:0 "Jetfighter"
