@@ -32,3 +32,7 @@
  radar_station:0 "Station Radar"
  radar_station_plural:0 "Stations Radar"
  radar_station_desc:0 "Le radar vous permet d'obtenir des informations sur les troupes ennemies dans les États voisins.\nUn niveau de radar plus élevé dans un État augmente la portée effective du radar.\nLe radar permet également à l'État de mieux détecter les forces aériennes ennemies, ce qui donne à vos avions une meilleure chance de les engager.\nEn outre, le radar permet de mieux détecter les flottes ennemies en mer."
+ supply_node:0 "Centre d'Approvisionnement"
+ supply_node_desc:0 "Un Centre d'Approvisionnement est un point le long d'une route, en dehors des villes existantes, où l'approvisionnement peut être tiré."
+ rail_way:0 "Routes"
+ rail_way_desc:0 "Les routes sont utilisées pour relier les Centres d'Approvisionnement entre eux afin de permettre l'approvisionnement loin de votre capitale."

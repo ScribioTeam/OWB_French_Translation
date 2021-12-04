@@ -5,7 +5,8 @@
  assignable_traits:0 "Traits de Chef d'Unité"
  commanding_officer_traits:0 "Traits de commandant"
  COMMANDING_OFFICER_TRAITS_DESC:0 "Les traits de commandant ne peuvent être attribués qu'aux commandants. Les commandants peuvent également utiliser des traits réguliers, mais leurs effets seront réduits lorsqu'ils commandent plus d'une armée."
- SPECIAL_TRAITS_DESC:0 "Traits de départ aléatoires, attribués lors du recrutement des chefs."
+ BASIC_TRAITS_DESC:0 "Traits de départ aléatoires, attribués lors du recrutement des chefs."
+ basic_traits:0 "S.P.E.C.I.A.L."
 
 
  ALREADY_HAS_MAX_ALLOWED_ASSIGNABLE_TRAITS:0 "Le Chef d'Unité possède déjà le maximum de traits assignables.\n"

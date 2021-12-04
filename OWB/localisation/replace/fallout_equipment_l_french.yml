@@ -533,17 +533,13 @@
  long_fighter_equipment_short:0 "Chasseur à longue distance"
  long_fighter_equipment_desc:0 ""
 
- fighter_equipment_1:0 "Chasseur de ferraille"
- fighter_equipment_1_short:0 "Chasseur de ferraille"
-  #fighter_equipment_1_desc:0 "Our engineers have, after multiple stressful tests, invented a glider able to strike from the sky. Armed with two submachine guns, a complement of grenades for ground strikes, and a lot of prayers, our pilots can now support frontline troops. A mobile catapult system, installed on a truck bed for launching procedures, also gives them a considerably increased range, as the trucks have more autonomy than our gliders."
+  #fighter_equipment_1 in replace_equipment_l_english
 
   fighter_equipment_2:0 "Chasseur biplan"
   fighter_equipment_2_short:0 "Chasseur biplan"
   fighter_equipment_2_desc:0 "Un fuselage biplan fournit une base rigide pour nos nouveaux chasseurs, ainsi qu'une bonne agilité. Propulsé par un moteur de camion chimique, et armé de deux mitrailleuses refroidies à l'eau reliées à un engrenage synchronisé, il nous permet d'atteindre la cible douce à une vitesse plus élevée. Des obus explosifs spécialisés largués à la main au lieu de simples grenades améliorent également les dégâts que nous pouvons faire contre des cibles et des structures légèrement blindées."
 
- fighter_equipment_3:0 "Chasseur nucléaire récupéré"
- fighter_equipment_3_short:0 "Chasseur nucléaire récupéré"
-  #fighter_equipment_3_desc:0 "As speed and low drag become primordial, a monoplane design is now preferable. Increased weight capacity allows the installation of a third, air-cooled, higher calibre machine gun for gun runs, as well as external struts able to support two 100lb high explosive bombs. Stacked powerpack units allow higher top speed, giving us the possibility for increased strike range, and interception techniques against enemy crafts."
+  #fighter_equipment_3 in replace_equipment_l_english
 
   fighter_equipment_4:0 "Avion de chasse"
   fighter_equipment_4_short:0 "Avion de chasse"

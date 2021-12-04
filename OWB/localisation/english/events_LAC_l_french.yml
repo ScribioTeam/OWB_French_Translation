@@ -217,7 +217,7 @@
  nf_lanius.33.d:0 "En interrogeant d'anciens membres du conseil d'administration de la Blue Rose Society, Lanius a finalement été capable d'obtenir l'emplacement d'un lieu important. Un abri - qui n'était pas terminé avant la Grande Guerre, mais qui a été, à un moment donné, colonisé depuis.\nIl était connu sous le nom \"d'Abri 86-b\" sur leurs cartes païennes.\n\nDans les tactiques militaires, les abris ont toujours été une simple conquête, solitaire par nature, paresseuse et assez stupide pour croire que leurs murs de fer tiendraient Mars à distance.\nNous avons finalement été dirigés vers l'emplacement de l'abri en suivant les conseils et les indications du membre du conseil.\nContre les attentes de Lanius, au lieu de trouver un abri rempli de paresseux prodigues à abattre, ils ont trouvé une enveloppe vide ! Ce qu'il restait était une série de couloirs vides, les couloirs en fer de l'abri étaient recouverts d'une écriture indéchiffrable et extraterrestre, le mot écrit habituel ayant muté en un code de caractères cryptiques étranges. Avant que Lanius ne l'exécute, le membre du Conseil a été capable de traduire un des mots lorsqu'il a été pressé, indiquant que les habitants de l'abri étaient connus sous le nom \"d'Esiibii\"."
  nf_lanius.33.a:0 "C'était un gaspillage de venir ici."
 
-   #conquest events##
+  #conquest events##
  lac_conquest_events.1.t:0 "Une victoire pour la Légion !"
  lac_conquest_events.1.d:0 "Un autre peuple de l'Est est tombé dans la Légion. Leurs veuves et leurs maris pleurent lorsque les colliers d'esclaves se resserrent autour de leur cou, et Lanius les regarde impassiblement. Déjà, ses yeux sont fixés sur l'horizon, pour un nouveau monde à conquérir."
  lac_conquest_events.1.a:0 "Il suffit d'en enrôler quelques-uns."
@@ -367,19 +367,15 @@
  nf_lanius_revolter.41.a:0 "Eh bien, j'ai entendu des idées pires."
  nf_lanius_revolter.41.b:0 "Nous ne nous allierons pas avec un programme informatique et un seigneur de guerre."
 
-
  nf_lanius_revolter.42.t:0 "Les Navajo acceptent"
  nf_lanius_revolter.42.d:0 "Grâce à l'aide de Diana comme intermédiaire avec les Navajos, ils se joindront à notre révolte contre Caesar. Ensemble, nous aurons une chance."
  nf_lanius_revolter.42.a:0 "Le vignoble rocailleux n'a pas besoin de prière, mais d'une pioche."
-
- nf_lanius_revolter.41.b:0 "Nous ne nous allierons pas avec un programme informatique et un seigneur de guerre."
-
 
  nf_lanius_revolter.43.t:0 "Les Navajo refusent"
  nf_lanius_revolter.43.d:0 "Il semble que [NAV.GetLeader] soit plus lâche que je ne le pensais. Ils ne se joindront pas à notre révolte contre Caesar."
  nf_lanius_revolter.43.a:0 "Rien n'est aussi éloquent que l'histoire d'un serpent à sonnette."
 
 
-   #### Ideas
+  #### Ideas
 
  lac_engineers:0 "Fiat Voluntas Tua"

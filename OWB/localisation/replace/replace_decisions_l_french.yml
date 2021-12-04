@@ -1,4 +1,7 @@
 ﻿l_french:
-  #Generic
+#Categories
+ formable_nations:0 "Nations Formables"
+ formable_nations_desc:0 "Le vent du changement souffle rapidement sur les Terres Désolées, et peu peuvent résister longtemps à sa puissance. Si nous nous appelons [ROOT.GetNameWithFlag] aujourd'hui, il se peut que nous trouvions juste de changer d'identité alors que nous forgeons une nouvelle voie..."
+#Generic
  war_propaganda:0 "Propagande de Guerre"
  war_propaganda_desc:0 "La guerre est proche des villes et des villages de nos peuples. Il est temps de les préparer à la guerre dans leurs foyers. Faisons une faveur au soutien de la guerre, afin qu'ils soient prêts à s'attaquer à n'importe quelle cause au nom de notre pays et de l'effort de guerre."

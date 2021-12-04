@@ -287,6 +287,8 @@
  #----------------------------
  # localisation navy doctrine tech
  #----------------------------
+ fleet_in_being:0 "Stockage de munitions Sûr"
+ fleet_in_being_desc:0 "De la manipulation de pots de feu primitifs aux obus hautement explosifs ; Il est essentiel pour les organisations navales de forer nos marins à arrimer leurs munitions en toute sécurité."
  pacific_fleet_navy_doctrine:0 "Flotte du Pacifique"
  pacific_fleet_navy_doctrine_desc:0 "De la manipulation de pots de feu primitifs aux obus hautement explosifs ; Il est essentiel pour les organisations navales de forer nos marins à arrimer leurs munitions en toute sécurité."
  river_fleet_navy_doctrine:0 "Flotte fluviale"
