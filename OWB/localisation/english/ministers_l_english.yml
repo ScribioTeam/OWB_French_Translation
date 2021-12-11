@@ -308,32 +308,6 @@
   adaptive_learning:0 "Adaptive Learning"
   burning_avenger:0 "Burning Avenger"
 
-  pittman:0 "Pittman"
-  pittman_desc:0 "Pittman was always a shrewd and paranoid one, even when he attempts to cover it in his own vanity, it's easy to see with those who have perception. Either way with him now the First's second he has begun to implement the tactics he learnt over the decades."
-  pittman_chief_of_army:0 "Pittman"
-
-  bonesnarl:0 "Bonesnarl"
-  bonesnarl_desc:0 "Bonesnarl was once a lowly cannibal who skulked around the Warren attempting to find supplies and those to feed on. His luck ran out when the First caught him and dunked him into the Warren's FEV pits. Now a super mutant, his hunger only grew over time and rumors believe he'll snatch slaves just to sate his hunger."
-  bonesnarl_chief_of_army:0 "Bonesnarl"
-
-  betty:0 "Betty"
-  betty_desc:0 "Betty comes from a dark and mysterious past. Only the First and Mother could possibly know her origins. She is driven to find those who \"caused it\" and won't stop until her revenge is had."
-  betty_chief_of_army:0 "Betty"
-
-  shepard:0 "Shepard"
-  shepard_desc:0 "Shepard is a new addition to the Warren's growing family, and he has already proven his worth with his improvement over the local slaves, making them work harder with cruelty, and if their job is done poorly enough, by letting Bonesnarl run loose on the local slave habitats."
-
-  mother:0 "Mother"
-  mother_desc:0 "Mother is one of the very first few the First ever dunked into the Warren, and she has grew to almost match his stature. However her mental faculty remains steadfast within her, she cares for the Warren and looks after them. Bonesnarl and Betty often talk with her to speak their issues and seek guidance."
-
-  scurge:0 "Scurge"
-  scurge_desc:0 "Scurge was a tribal hunter before being caught and dunked into the FEV lagoon in the Warren. Bonesnarl often uses him to hunt prize meals for him and his small clan. However he prides himself on unrelenting loyalty to the First, and not any of the followers below him."
-
-  marro:0 "Marro"
-  marro_desc:0 "Marro was a soldier just after the bombs fell, one of those who returned to the Warren to scavenge until the First caught him and dunked him. Knowing how bad the world has become he has stayed with the First, becoming one of his few closest friends and acts as countermeasure to his growing lack of mentality."
-
-  doctor:0 "Doc Torr"
-  doctor_desc:0 "Doc Torr is a brute and often psychotic mutant, if he didn't know how to heal our kind the First or one of his followers would've most likely of killed him, until he ceases to be useful however, his skills can be used to heal our warriors who return from battle."
   nightkin_terror:0 "Nightkin Terror"
   consuming_hunger:0 "Consuming Hunger"
   brains_and_brawn:0 "Brains and Brawn"
@@ -578,30 +552,6 @@
 
   journeyman_fritz:0 "Journeyman Fritz"
 
-  inquisitor_torland:0 "Master Inquisitor Torland"
-
-  head_paladin_blair:0 "Head Paladin Blair"
-
-  paladin_jetson:0 "Paladin Jetson"
-
-  inquisitor_abram:0 "Inquisitor Abram"
-
-  paladin_talso:0 "Paladin Talso"
-
-  knight_boston:0 "Knight Boston"
-
-  scout_cormac:0 "Paladin Scout Cormac"
-
-  knight_kamala:0 "Knight Kamala"
-
-  paladin_jakzin:0 "Paladin Jakzin"
-
-  black_paladin_landon:0 "Black Paladin Landon"
-
-  inquisitor_fritz:0 "Inquisitor Fritz"
-
-  WBH_military_theorist:0 "Knight Malorie"
-
   #RRG
   kim_carrion:0 "Kimberly Carrión"
   dominic_unger:0 "Dominic Unger"
@@ -753,7 +703,6 @@
   TBH_river_young_desc:0 "River Young leads the Lone Star economic advisory detatchemnt to our capital, providing us with her and her staff's extensive knowledge of economic affairs. Over the past decade, she has helped us rebuild the industrial districts of Dallas, and her efficient and merticulous mind is ready to help plan the reclamation of more cities."
   TBH_ariel_horne:0 "Ariel Horne"
   TBH_ariel_horne_desc:0 "Ariel Horne is a contiversial figure in our government. Whilst she has many things to say about how we use and allocate our finite resources, her lothing of excess has made her enemies amongst the upper echelons of society."
-  scout_ambrosone:0 "Scout Ambrosone"
   stagnant_politician:0 "Stagnant Politician"
   balance_in_all_things:0 "No Absolutes Allowed"
   mutant_politician:0 "Mutant Politician"
@@ -779,8 +728,6 @@
   doctor_henry_trait:0 "Expert Physician"
 
   # NAV
-  NAV_hashkeh:0 "Hashkeh Naabah"
-  NAV_hashkeh_desc:0 ""
   hashkeh_trait:0 "Army Offence Expert"
 
   NAV_sicheii:0 "Sicheii"
@@ -799,6 +746,6 @@
   NAV_hokee_desc:0 ""
   hokee_trait:0 "Stalwart Defender"
 
-  NAV_sialea:0 "Sialea-lea"
-  NAV_sialea_desc:0 ""
+  NAV_sialea_lea:0 "Sialea-lea"
+  NAV_sialea_lea_desc:0 ""
   sialea_trait:0 "Little Blue Bird"

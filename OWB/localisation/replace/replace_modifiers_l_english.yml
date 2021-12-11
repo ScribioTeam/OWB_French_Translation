@@ -27,10 +27,16 @@
 
   MODIFIER_ANNEX_COST_FACTOR:0 "Annexation Cost During Peace Conferences"
   MODIFIER_TAKE_STATES_COST_FACTOR:0 "State Cost During Peace Conferences"
- 
+
   temporary_state_resource_energy:0 "Energy"
   temporary_state_resource_metal:0 "Metal"
   temporary_state_resource_composites:0 "Composites"
   temporary_state_resource_circuitry:0 "Circuitry"
   temporary_state_resource_advanced:0 "Advanced Components"
   temporary_state_resource_water:0 "Water"
+
+  cat_elite_army_cost_factor:0 "Refined Warfare Cost"
+  cat_grand_army_cost_factor:0 "Conventional Warfare Cost"
+  cat_automated_warfare_cost_factor:0 "Automated Warfare Cost"
+  cat_terror_tactics_cost_factor:0 "Asymmetrical Warfare Cost"
+  cat_outsider_warfare_cost_factor:0 "Outsider Warfare Cost"
