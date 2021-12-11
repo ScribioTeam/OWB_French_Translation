@@ -27,10 +27,16 @@
 
  MODIFIER_ANNEX_COST_FACTOR:0 "Coût d'Annexion Pendant les Conférences de Paix"
  MODIFIER_TAKE_STATES_COST_FACTOR:0 "Coût d'un État lors des Conférences de Paix"
- 
+
  temporary_state_resource_energy:0 "Énergie"
  temporary_state_resource_metal:0 "Métal"
  temporary_state_resource_composites:0 "Matériaux Composites"
  temporary_state_resource_circuitry:0 "Circuits"
  temporary_state_resource_advanced:0 "Composants avancés"
  temporary_state_resource_water:0 "Eau"
+
+ cat_elite_army_cost_factor:0 "Coût de la Guerre Raffinée"
+ cat_grand_army_cost_factor:0 "Coût de la Guerre Conventionnelle"
+ cat_automated_warfare_cost_factor:0 "Coût de la Guerre Automatisée"
+ cat_terror_tactics_cost_factor:0 "Coût de la Guerre Asymmétrique"
+ cat_outsider_warfare_cost_factor:0 "Coût de la Guerre d'Outsider"

@@ -308,32 +308,6 @@
  adaptive_learning:0 "Apprentissage adaptatif"
  burning_avenger:0 "Avenger brûlant"
 
- pittman:0 "Pittman"
- pittman_desc:0 "Pittman a toujours été perspicace et paranoïaque, même quand il tente de le couvrir dans sa propre vanité, il est facile de voir avec ceux qui ont une perception. De toute façon avec lui maintenant, le Premier a commencé à appliquer les tactiques qu’il a apprises au fil des décennies."
- pittman_chief_of_army:0 "Pittman"
-
- bonesnarl:0 "Bonesnarl"
- bonesnarl_desc:0 "Bonesnarl était une fois un cannibale humble qui a contourné le Warren en essayant de trouver des vivres pour se nourrir. Sa chance s’est épuisée lorsque le Premier l’a attrapé et l’a jeté dans les fosses VEF du Warren. Désormais un super mutant, sa faim n'a fait que croître avec le temps et les rumeurs croient qu'il va arracher des esclaves juste pour satisfaire sa faim."
- bonesnarl_chief_of_army:0 "Bonesnarl"
-
- betty:0 "Betty"
- betty_desc:0 "Betty vient d'un passé sombre et mystérieux. Seules le Premier et la Mère pouvaient connaître ses origines. Elle est amenée à trouver ceux qui l'ont "provoquée" et ne s'arrêtera pas tant que sa revanche n'aura pas été prise."
- betty_chief_of_army:0 "Betty"
-
- shepard:0 "Shepard"
- shepard_desc:0 "Shepard est un nouvel ajout à la famille croissante des Warren, et il a déjà prouvé sa valeur avec son amélioration par rapport aux esclaves locaux, les obligeant à travailler plus dur avec de la cruauté et à laisser Bonesnarl se débrouiller des esclaves."
-
- mother:0 "Mère"
- mother_desc:0 "Mère est l'une des toutes Premières personnes à avoir plongé dans le Warren et elle a presque atteint sa taille. Cependant sa faculté mentale reste inébranlable en elle, elle prend soin du Warren et s'occupe d'eux. Bonesnarl et Betty lui parlent souvent pour parler de leurs problèmes et demander conseil."
-
- scurge:0 "Scurge"
- scurge_desc:0 "Scurge était un chasseur tribal avant d'être capturé et immergé dans le lagon VEF du Warren. Bonesnarl l'utilise souvent pour chasser des prix pour lui et son petit clan. Cependant, il est fier de sa loyauté implacable envers le Premier, et non des partisans au-dessous de lui."
-
- marro:0 "Marro"
- marro_desc:0 "Marro était un soldat juste après que les bombes soient tombées, un de ceux qui sont retournés au Warren pour aller chercher le Premier le rattrapaient et le trempaient. Sachant à quel point le monde est devenu mauvais, il est resté avec le Premier, devenant l'un de ses rares amis les plus proches et agissant comme une contre-mesure à son manque de mentalité croissant."
-
- doctor:0 "Doc Torr"
- doctor_desc:0 "Doc Torr est un mutant brut et souvent psychotique, s'il ne savait pas comment guérir notre espèce, le Premier ou l'un de ses disciples l'aurait probablement tué, jusqu'à ce qu'il cesse d'être utile, mais ses compétences peuvent être utilisées. Guérir nos guerriers qui reviennent de la bataille."
  nightkin_terror:0 "Terreur de nuit"
  consuming_hunger:0 "Consommer la faim"
  brains_and_brawn:0 "Brains et Brawn"
@@ -578,30 +552,6 @@
 
  journeyman_fritz:0 "Compagnon fritz"
 
- inquisitor_torland:0 "Maître inquisiteur Torland"
-
- head_paladin_blair:0 "Chef Paladin Blair"
-
- paladin_jetson:0 "Paladin Jetson"
-
- inquisitor_abram:0 "Inquisiteur Abram"
-
- paladin_talso:0 "Paladin Talso"
-
- knight_boston:0 "Chevalier Boston"
-
- scout_cormac:0 "Éclaireur Paladin Cormac"
-
- knight_kamala:0 "Chevalier Kamala"
-
- paladin_jakzin:0 "Paladin Jakzin"
-
- black_paladin_landon:0 "Paladin Noir Landon"
-
- inquisitor_fritz:0 "Inquisiteur Fritz"
-
- WBH_military_theorist:0 "Chevalier Malorie"
-
   #RRG
  kim_carrion:0 "Kimberly Carrión"
  dominic_unger:0 "Dominic Unger"
@@ -753,7 +703,6 @@
  TBH_river_young_desc:0 "River Young dirige le détachement de conseil économique de Lone Star dans notre capitale, nous faisant profiter, elle et son personnel, de sa connaissance approfondie des affaires économiques. Au cours des dix dernières années, elle nous a aidés à reconstruire les districts industriels de Dallas, et son esprit efficace et méticuleux est prêt à nous aider à planifier la réhabilitation de nouvelles villes."
  TBH_ariel_horne:0 "Ariel Horne"
  TBH_ariel_horne_desc:0 "Ariel Horne est une figure contiguë de notre gouvernement. Bien qu'elle ait beaucoup de choses à dire sur la façon dont nous utilisons et allouons nos ressources limitées, son penchant pour l'excès lui a valu de se faire des ennemis dans les hautes sphères de la société."
- scout_ambrosone:0 "Scout Ambrosone"
  stagnant_politician:0 "Politicien Stagnant"
  balance_in_all_things:0 "Absolus non autorisés"
  mutant_politician:0 "Politicien Mutant"
@@ -779,8 +728,6 @@
  doctor_henry_trait: "Médecin expert"
 
   # NAV
- NAV_hashkeh:0 "Hashkeh Naabah"
- NAV_hashkeh_desc:0 ""
  hashkeh_trait:0 "Expert d'Offensive de l'Armée"
 
  NAV_sicheii:0 "Sicheii"
@@ -799,6 +746,6 @@
  NAV_hokee_desc:0 ""
  hokee_trait:0 "Défenseur Acharné"
 
- NAV_sialea:0 "Sialea-lea"
- NAV_sialea_desc:0 ""
+ NAV_sialea_lea:0 "Sialea-lea"
+ NAV_sialea_lea_desc:0 ""
  sialea_trait:0 "Petit Oiseau Bleu"
