@@ -385,7 +385,7 @@
   bos_elijahs_victory_at_sunburst_desc:0 "None of the elders truly believed that Elijah would win out there in the east. However, it seems word has gotten back that he has done the impossible! Lets send him a small supply of Power Armour to help him keep control of the Mojave."
 
   #Arthurian Brotherhood
-  spellcheck_ignore:0 "bos_knights_of_the_round_table_desc, bos_the_holy_hand_grenade_desc, bos_holy_hand_grenade_tt_3"
+  #spellcheck_ignore: bos_knights_of_the_round_table_desc, bos_the_holy_hand_grenade_desc, bos_holy_hand_grenade_tt_3
   bos_the_arthurian_brotherhood:0 "The Arthurian Brotherhood"
   bos_the_arthurian_brotherhood_desc:0 "The Arthurian Squadron, while unorthodox embodied the spirit of the Brotherhood better then any other. Lets honour their legacy and reform Lost Hills to match their image!"
   bos_arthurian_brotherhood_tt:0 "We embrace the identity of the Arthurian Squadron's legacy.\nMari Törni will now be known as 'Catherine Törni', to honour their legacy."

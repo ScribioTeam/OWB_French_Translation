@@ -1,0 +1,60 @@
+﻿l_english:
+  CES_vulpes_cultural_advisor:0 "The Vulpes Inculta"
+  CES_vulpes_cultural_advisor_desc:0 "The Vulpes Inculta is a brutal and covert agent of Caesar; he shall infiltrate frumentarii in every nation, unseen."
+
+  CES_vulpes_high_command:0 "The Vulpes Inculta"
+  CES_vulpes_high_command_desc:0 "The Vulpes Inculta is a brutal and covert agent of Caesar; if our enemies take our land, he shall pile body upon body."
+
+  CES_malpais_army_chief:0 "The Malpais Legate"
+  CES_malpais_army_chief_desc:0 "Joshua Graham is the greatest tactician and friend Caesar has; so much so that some whisper that Caesar fears him."
+
+  CES_gaius_duilius_name:0 "Gaius Duilius"
+  CES_gaius_duilius_navy_chief_desc:0 ""
+
+  CES_hashkeh_naabaah_name:0 "Hashkeh Naabaah"
+  CES_hashkeh_naabaah_army_chief_desc:0 ""
+
+  CES_preist_david_name:0 "The Priests of Two Sun"
+  CES_preist_david_high_command_desc:0 ""
+
+  CES_preist_selene_name:0 "The Priests of Two Sun"
+  CES_preist_selene_cultural_advisor_desc:0 "The Women of Two Sun, keep the sacred engine purring. Perhaps we can listen to them."
+
+  CES_lanius_legate_army_chief:0 "Legate Lanius"
+  CES_lanius_legate_army_chief_desc:0 "Champion of his tribe, and slayer of it, Caesar gave him a new face, and made him the champion of the legion: legionnaires would rather face death, than Lanius' wroth."
+
+  CES_bares_his_teeth_name:0 "Bares-His-Teeth"
+  CES_bares_his_teeth_high_command:0 "Houndmaster Barbarus"
+  CES_bares_his_teeth_high_command_desc:0 "By making him take a Legion name, he has been assimilated, and so can be put to work making our dogs fiercer."
+
+  CES_bares_his_teeth_economic_advisor:0 "Hides-His-Teeth"
+  CES_bares_his_teeth_economic_advisor_desc:0 "Though we have broken his will to fight, he still has skills of use; the Hangdogs were notorious scavengers, after all."
+
+  CES_carmine_name:0 "Carmine"
+  CES_carmine_cultural_advisor:0 "Sheriff Carmine"
+  CES_carmine_cultural_advisor_desc:0 "Carmine and his kin worship lawmen as well as outlaws; by making Carmine an enforcer of our will, we can bring our tribes to heel."
+
+  CES_carmine_high_command:0 "'Mad Dog' Carmine"
+  CES_carmine_high_command_desc:0 "Carmine knows how to live off the land, and he can teach this to our soldiers."
+
+  CES_earnhardt_name:0 "Earnhardt"
+  CES_earnhardt_high_command:0 "Pit Lord Earnhardt"
+  CES_earnhardt_high_command_desc:0 "Earnhardt is a gifted mechanic; let him control the pit crews and he will fine tune our chariots for speed."
+
+  CES_earnhardt_economic_advisor:0 "Tabellarius Earnhardt"
+  CES_earnhardt_economic_advisor_desc:0 "Earnhardt loves to race and is a natural leader of men; let him courier resources and build our roads."
+
+  CES_lilly_blair_name:0 "Lilly Blair"
+  CES_lilly_blair_economic_advisor_desc:0 "Lilly was the Caravan Queen, shepherding convoys as far afield as Chicago or the courts of the Aztlán speakers. Never a fan of soft men, she's fallen for Lucius. "
+
+  CES_dale_barton_name:0 "Dale Barton"
+  CES_dale_barton_economic_advisor_desc:0 "One of Arizona's more prosperous traders, he recognizes the benefits of the order [CES.GetLeader] brings."
+  dale_barton_trait:0 "Connections"
+
+  CES_frank_ghoul_name:0 "Frank"
+  CES_frank_ghoul_economic_advisor_desc:0 ""
+
+  CES_guillermo_rossi_name:0 "Guillermo Rossi"
+  CES_guillermo_rossi_economic_advisor_desc:0 "Decked in elaborate turquoise and silver jewellery, Guillermo's fat fingers are in every pie in the Southwest. But he'll play along with the Legion. If he knows what's good for him. Just don't ask who works in the mines."
+
+  CES_angry_warrior_name:0 "The Angry Warrior"

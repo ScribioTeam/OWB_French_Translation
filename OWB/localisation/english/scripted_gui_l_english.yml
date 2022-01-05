@@ -1,6 +1,6 @@
 ﻿l_english:
   # spellchecker stuff
-  spellcheck_ignore:0 "ADD_CORE_TLALOC_TT_DELAYED"
+  #spellcheck_ignore: ADD_CORE_TLALOC_TT_DELAYED
 
   # GUI:
   ADD_CORE_TT:0 "§H[ROOT.coring_button_label_name_scripted_loc] state§! £pol_power [?coring_var_coring_cost]"

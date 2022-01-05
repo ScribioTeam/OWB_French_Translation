@@ -1,5 +1,5 @@
 ﻿l_english:
-  spellcheck_ignore:0 "all"
+  #spellcheck_ignore: all
   #########################################
   # NATIONS
   #########################################
@@ -83,7 +83,7 @@
   PIPBOY_PLUS_NATION_TEXT_RAP:0 "§YThe Rapids§! are a rarity in the §YCore Region§!, making up a bulk of the tribal population found on the west of the §YColorado River§!. After decades of state-crafting at the hands of the §YN.C.R.§!, the §YWest Coast§! was transformed from a barren and lawless land, to a somewhat populated, slightly less lawless one. Without a place in the new society that had sprung up around them, many tribes travelled east to find refuge along the §YColorado River§!. The Rapids are the result of this great exodus: a large coalition of tribes settled along the south east of the §YColorado§!.\n\nTheir primary sources of income are fish trading, mercenary work, and transportation services. A large portion of their trade comes in the form of regular pit-stops by caravaners who seek to travel the lands of §YCaesar's Legion§!. These traders bring wealth, goods, news, and arms to the tribes of the §YColorado§!. Often, §YThe Rapids§! Will ferry travellers across the §YColorado§! in return for commodities such as expensive medical supplies, caps, or arms.\n\nAlthough §YThe Rapids§! have experienced a period of peace and fostered a community outside of the \"civilised lands\" of the §YN.C.R.§!, their future is uncertain. While they maintain a healthy relationship with the people of the §YTohono Nation§! to the east, to their north §YThe Scorpions§! continue to encroach upon their territory. Border skirmishes have become an all-to-common occurance for the tribes along the §YColorado§!. To the west, the §YN.C.R.§! continues to plot the \"inevitable\" exodus of §YThe Rapids§!: and the re-settlement of their new-found home. Messengers from §YThe Boneyard§! regularly come to make welfare checks and trade, bringing the §YN.C.R.§! closer to home whether §YThe Rapids§! want to recognise their republic or not."
   PIPBOY_PLUS_NATION_TEXT_RBD:0 "This is the history of [RBD.GetName].\n"
   PIPBOY_PLUS_NATION_TEXT_RBT:0 "This is the history of [RBT.GetName].\n"
-  PIPBOY_PLUS_NATION_TEXT_RED:0 "This is the history of [RED.GetName].\n"
+  PIPBOY_PLUS_NATION_TEXT_RED:0 "This is the history of [REC.GetName].\n"
   PIPBOY_PLUS_NATION_TEXT_RIP:0 "This is the history of [RIP.GetName].\n"
   PIPBOY_PLUS_NATION_TEXT_RRG:0 "The §YRepublic of the Rio Grande§! is a democratic nation founded on the principles of liberty, freedom from oppression, and equality for all. Originally a collection of American occupation troopers and the Mexican nationals under their boot, the early years of the nation were fraught with tension and strife. The R.R.G. was not always a democracy, however, and first existed as a self-imposed military dictatorship. After thirty years of preparation and rebuilding, the dictatorship was phased out for a fully fledged democracy which still functions in 2275."
   PIPBOY_PLUS_NATION_TEXT_RSR:0 "This is the history of [RSR.GetName].\n"

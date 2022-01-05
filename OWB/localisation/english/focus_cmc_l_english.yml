@@ -2,9 +2,6 @@
  #-------------------------------------
  # CMC
  #-------------------------------------
-
-  lushanya_desc:0 "Lushanya Harjo is the heiress of one of the largest casino families in the coalition. She had a relative peaceful upbringing, but was trained and schooled in all manner of things that made their family as long lasting and successful as they are. She had a short reasonable successful career as a lounge singer, before the death of her parents at the hand of a raider incursion put her into a position where she had to take over the business and the de facto leadership of the coalition earlier than anyone expected."
-
   cmc_light_up_the_night:0 "Light up the Night"
   cmc_light_up_the_night_desc:0 "The Casinos we run eat up a lot of power with all their lights and machines. So much so that we often get brown outs in either the casinos themselves, or other areas of the city. We need to rig up a couple more generators to keep that from happening."
   cmc_casino1:0 "Red River Casino"
@@ -99,6 +96,7 @@
   cmc_preemptive_measures:0 "Pre-emptive Measures"
   cmc_preemptive_measures_desc:0 "We need a better information network if we want to prevent anything like this ever happening again. Liam was always good with ferreting out information. Maybe it's time to give him some more funding and people to really let that ability shine."
   cmc_preemptive_measures_liam_tt:0 "Chief of Surveillance §YLiam§! becomes available for service."
+  cmc_preemptive_measures_flag:0 "Has taken Pre-emptive Measures"
   cmc_bird_in_a_cage:0 "Bird in a Cage"
   cmc_bird_in_a_cage_desc:0 "Liam is dead. Most of my supporters are too. The ones that aren't are held hostage. They decided to keep me alive. To parade around. To be a public face that people know. No options, no way out. I have to do what they tell me to do until some opportunity presents itself."
   cmc_crime_does_pay:0 "Crime Does Pay"

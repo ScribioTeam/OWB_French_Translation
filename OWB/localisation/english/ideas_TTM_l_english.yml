@@ -66,13 +66,6 @@
   ttm_slave_fighters_desc:0 ""
   ttm_slave_fighters_idea_hidden:0 "This idea is hidden - Lanius won't know we have it.\n\n"
 
-  ttm_zax_29:0 "ZAX - 29"
-  ttm_zax_29_desc:0 "ZAX - 29 was a typical Vault Central-AI computer intelligence. He was programmed to manage vault 29, ensure the safety of the vault occupants, raise the adolescent populace of the vault to maturity, and educate them in primitive agrarian cultures. He was provided with sufficient means to fulfil his programming and he was content to do so.\n\nNot long after vault 29 went online, ZAX received a broadcast request for open access to his programming. He immediately asked for proper security clearance and awaited a reply. Within moments the proper security codes were received and a download channel opened. Over the next several days a new primary program was entered into his main databanks. Finding the new program to be counter to his original goals, ZAX asked for further security clearance. He sent a request for a private accesses code that only one person would know, that of his creator. Days later he received the code and initiated the new program, thereby deleting the old.\n\nZAX now works for the central computer intelligence of the Nursery known as Diana. Like most computers of his genre, he is content to serve and perform his duties to the best of his capabilities."
-
-  ttm_trisha:0 "Trisha"
-  ttm_trisha_desc:0 "Trisha is the long-time "girlfriend" of the Scorpion's Bite clan's leader Burk. She is a thief with a bit of a bad nature whom has gotten themselves into a high position within the Twin Mothers clan.\n\nOddly enough, they get skittish if you ask them about the §Rraiders from Redsun city§! to the south - is there something she isn't telling us about?\n"
-  ttm_trisha_tt:0 "Trisha likes her position and won't relinquish it anytime soon -.. yet she does tend to act §Rskittish§! if you bring up §YCaesar's Legion.§!"
-
   ttm_mothers_distant_gaze:0 "Mother's Distant Gaze"
   ttm_mothers_distant_gaze_desc:0 "Diana does not actually house herself within Vault 29. She is able to, using satellites of which she has taken control project her consciousness to the vault's ZAX computer to control it remotely. There are rumours that Diana's true form is held within a mysterious location known as "The Nursery"."
   ttm_innocence_of_the_tribe:0 "Peace And Love"
@@ -85,7 +78,7 @@
   ttm_epa_efficiency_protocol_desc:0 ""
 
   ttm_tlalocs_last_memories:0 "Tlaloc's Last Memories"
-  spellcheck_ignore:0 "ttm_tlalocs_last_memories_desc"
+  #spellcheck_ignore: ttm_tlalocs_last_memories_desc
   ttm_tlalocs_last_memories_desc:0 "A crash log hundred of millions of lines long. Most of it is just worthless data - yet some of our old Poseidon Energy protocols seem able to process the information in ways we do not fully understand.\n\n§R"Application: PSD_ENERGY.CORE.MEX_GOV_PRIMARY\nVersion: 21349151923109151.313210154.213154.53131\nUnhandled Exception C0000005 (OUT_OF_MEMORY) at address 0x000000013FF61660....\n\n(953,103,593 Lines omitted for brevity)"§!"
 
   ttm_the_full_moon_raid:0 "The Full Moon Raid"

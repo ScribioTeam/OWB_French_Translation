@@ -24,3 +24,8 @@
   DR_STRATEGIC_FRIENDSHIP:1 "Strategic Reasons: " #§Y$US|U$§! §Y$THEM$§!
   EFFECT_ADD_STATE_MODIFIER:0 "Add the following: $MODIFIERS$§!"
   UNLOCK_DIVISION_TEMPLATE:0 "Unlocks a Division template containing the researched unit if there is none present."
+  TRAINS:0 "Caravans"
+  TRAINS_COLON:0 "$TRAINS$:"
+  TRUCKS:0 "Vehicles"
+  TRUCKS_COLON:0 "$TRUCKS$:"
+  LOGISTICS_CAPACITY_DETAILED_DESC:1 "Logistics Capacity represents how satisfied your supply lines are. If your country lacks the $TRAINS$ or the Motorized Equipment needed for transferring all supply needs, your units will gets reduced supply and will be affected by supply penalties."

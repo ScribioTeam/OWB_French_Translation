@@ -1,107 +1,38 @@
 ﻿l_english:
-  two_sun_advisor_cultural:0 "The Priests of Two Sun"
-  two_sun_advisor_cultural_desc:0 "The Women of Two Sun, keep the sacred engine purring. Perhaps we can listen to them."
   mother_shaman:0 "Mother Shaman"
   war_shaman:0 "War Shaman"
   caesars_hound:0 "Caesar's Hound"
   war_dog:0 "Dog of War"
   phoenix_ties:0 "Phoenix Merchants"
-  lilly_blair:0 "Lilly Blair"
-  lilly_blair_desc:0 "Lilly was the Caravan Queen, shepherding convoys as far afield as Chicago or the courts of the Aztlán speakers. Never a fan of soft men, she's fallen for Lucius. "
-
-  two_sun_command:0 "The Priests of Two Sun"
-
-  bares_his_teeth_advisor:0 "Hides-His-Teeth"
-  bares_his_teeth_advisor_desc:0 "Though we have broken his will to fight, he still has skills of use; the Hangdogs were notorious scavengers, after all."
-
-  bares_his_teeth_command:0 "Houndmaster Barbarus"
-  bares_his_teeth_command_desc:0 "By making him take a Legion name, he has been assimilated, and so can be put to work making our dogs fiercer."
   arizona_ranger:0 "Arizona Ranger"
   bushranger:0 "Bushranger"
 
-  carmine_advisor:0 "Sheriff Carmine"
-  carmine_advisor_desc:0 "Carmine and his kin worship lawmen as well as outlaws; by making Carmine an enforcer of our will, we can bring our tribes to heel."
-
-  carmine_command:0 "'Mad Dog' Carmine"
-  carmine_command_desc:0 "Carmine knows how to live off the land, and he can teach this to our soldiers."
   speed_demon:0 "Speed Demon"
   pit_lord:0 "Lord of the Pit"
 
   ces_rancher_advisor:0 "The Ranchers' Association"
-
-  earnhardt_advisor:0 "Tabellarius Earnhardt"
-  earnhardt_advisor_desc:0 "Earnhardt loves to race and is a natural leader of men; let him courier resources and build our roads."
-  dale_barton:0 "Dale Barton"
-  dale_barton_desc:0 "One of Arizona's more prosperous traders, he recognizes the benefits of the order [CES.GetLeader] brings."
-  guillermo_rossi:0 "Guillermo Rossi"
-  guillermo_rossi_desc:0 "Decked in elaborate turquoise and silver jewellery, Guillermo's fat fingers are in every pie in the Southwest. But he'll play along with the Legion. If he knows what's good for him. Just don't ask who works in the mines."
   mining_magnate:0 "Mining Magnate"
-  frank_ghoul_advisor:0 "Frank"
 
-  earnhardt_command:0 "Pit Lord Earnhardt"
-  earnhardt_command_desc:0 "Earnhardt is a gifted mechanic; let him control the pit crews and he will fine tune our chariots for speed."
   ruthless_capitalist:0 "Ruthless Capitalist"
   earth_scorcher:0 "Earth Scorcher"
   fox_cruelty:0 "Fox's Cunning"
   total_war_tactician:0 "Total War Tactician"
   praetorian_prefect:0 "Praetorian Prefect"
-  vulpes_inculta_advisor:0 "The Vulpes Inculta"
 
-  vulpes_inculta_command:0 "The Vulpes Inculta"
-  vulpes_inculta_advisor_desc:0 "The Vulpes Inculta is a brutal and covert agent of Caesar; he shall infiltrate frumentarii in every nation, unseen."
-  vulpes_inculta_command_desc:0 "The Vulpes Inculta is a brutal and covert agent of Caesar; if our enemies take our land, he shall pile body upon body."
   lucius_advisor:0 "Prefect Lucius"
   lucius_command:0 "Prefect Lucius"
 
   ces_crucified_lucius:0 "Lucius hasn't been crucified"
   lucius_advisor_desc:0 "Lucius, like any good commander of the legion, knows well the value of engineering and discipline; this will allow us to mobilise and rally easier."
   lucius_command_desc:0 "Our praetorians wield ballistic fists; they do not shy from the fray. Lucius, their prefect, knows how best to send troops into that fray, breaking enemy lines."
-  malpais_legatus_chief:0 "The Malpais Legate"
-  CES_river_pirate:0 "Gaius Duilius"
-
-  lanius_legatus_chief:0 "Legate Lanius"
-  malpais_legatus_chief_desc:0 "Joshua Graham is the greatest tactician and friend Caesar has; so much so that some whisper that Caesar fears him."
-  lanius_legatus_chief_desc:0 "Champion of his tribe, and slayer of it, Caesar gave him a new face, and made him the champion of the legion: legionnaires would rather face death, than Lanius' wroth."
-  navajo_minister:0 "Hashkeh Naabaah"
 
   monster_of_the_east_chief:0 "Monster of the East"
-  alice_mclafferty_desc:0 "Alice knows how to do business and do it well; she can satisfy the popular demand for consumerism, so long as she is given lucrative government contracts."
   old_world_blues:0 "Old World Blues"
   power_broker:0 "Power Broker"
   peaceful_foreman:0 "Peaceful Foreman"
   gun_runner:0 "Gun Runner"
   follower_of_the_apocalypse:0 "Follower of the Apocalypse"
   lanius_married_god:0 "Lucifer, Consort of Diana"
-
-  grant_c_hayes:0 "Grant C. Hayes"
-  grant_c_hayes_desc:0 "Hayes is a disruptive politician obsessed with the old world, with his help we can better reacquire its secrets, but he will be pushing his own agenda the entire time, and it will be a costly endeavour."
-
-  allgood_murphy:0 "Allgood Murphy"
-  allgood_murphy_desc:0 "Allgood wants peace and prosperity, for the NCR at whole, but mostly the boneyard; with his help our manufacturing will benefit, but our jingoism and war enthusiasm will suffer."
-
-  anton_flynn:0 "Anton Flynn"
-  anton_flynn_desc:0 "Anton Flynn is a dealmaker, and has come to control much of the moving and shaking in the NCR; however, the legitimacy of the republic will be in question if we hire him, as the population fear oligarchy has taken root."
-
-  zachariah_rigby:0 "Zachariah Rigby"
-  zachariah_rigby_desc:0 "As head of the Gunrunners, Rigby can make our arms manufacturing far more efficient; but the Gunrunners are mercenary, and Rigby demands high pay."
-
-  ncr_innovator:0 "Sky Fletcher"
-
-  ncr_warhero:0 "Ranger Elise"
-
-  ncr_tactitian:0 "Major Abbott"
-
-  major_lawrence:0 "Major Lawrence"
-
-  ncr_bastion:0 "Reuben Burton"
-
-  NCR_follower_advisor:0 "Abigail Lewis"
-
-  NCR_imperialist:0 "Senator McCoy"
-
-  NCR_HME_LAR:0 "Oscar Stone"
-
-  NCR_HME_NONLAR:0 "Oscar Stone"
 
   ncr_hero_trait:0 "War Hero"
   ncr_innovator_trait:0 "Innovator"
@@ -118,55 +49,9 @@
   calm_leader:0 "Calm Leader"
   all_american_badass:0 "All-American Badass"
 
-  general_oliver:0 "General Oliver"
-  general_oliver_desc:0 "As the protege of the Hero of the Mojave, Oliver has a great amount of political clout and prestige behind him; but his cautious tactics and reliance on heavy troopers leave something to be desired, in the eyes of many company men."
-
-  colonel_hsu:0 "Colonel Hsu"
-  colonel_hsu_desc:0 "Colonel Hsu is beloved by the men, and is a workhorse without compare in the top brass. Hsu knows how to manage supply lines, root out spies, and make sure the men know they are understood, and cared for: a great boon to morale."
-
-  colonel_moore:0 "Colonel Moore"
-  colonel_moore_desc:0 "Moore does not blink, does not hesitate; her ranger instincts have made her into the sort to strike hard, fast and without mercy. She can see threats before they emerge, and can have a battleplan ready before they can strike."
-
-  colonel_royez:0 "Colonel Royez"
-  colonel_royez_desc:0 "Colonel Royez earned his rank during the acquisition of the Long-15, through his great feats of bravery and strength; he is the pinnacle of what an NCR soldier can become. However, he is just one man, and cannot be everywhere at once."
-
-  chief_hanlon:0 "Chief Hanlon"
-  chief_hanlon_desc:0 "Chief Hanlon is the oldest living non-ghoul ranger, and those years of experience show. He has served as the Ranger Chief for over three decades, and many attest to his skill, tenacity and cunning. He is a living symbol of the NCR rangers."
-
-  major_dhatri:0 "Major Dhatri"
-  major_dhatri_desc:0 "Major Dhatri commands the first recon squadron, a sniper team beyond compare. With his men and women making tactical movements and reassignments, Dhatri can effectively scout, clear and prepare the ground for camps and divisions."
-
-  big_jim_chief_of_army:0 "James 'Big Jim' Marshal"
-  big_jim_chief_of_army_desc:0 "Big Jim knows how to succeed at war, and succeed quick; overwhelming displays of force! As such his appointment as chief of army will result in an increase in conscription and mobilization efficiency."
-
-  mossman_chief_of_army:0 "Ranger General Mossman"
-  mossman_chief_of_army_desc:0 "Mossman believes totally in the power of the Rangers; as such, his appointment as chief of army will result in the expansion of the NCR rangers and more rigorous training for all."
-
-  drummond_chief_of_army:0 "General Alexander Drummond"
-  drummond_chief_of_army_desc:0 "Drummond has years of experience with which to back up his appointment, and it shows in his capacity for planning, both in speed and brilliance. However, he is unpopular among the people, and his appointment will weaken the republic's standing."
-
-  the_baron:0 "The Baron"
   ranger_general:0 "Ranger General"
   unpopular_genius:0 "Unpopular Genius"
-  doctor_verdrehtnerv:0 "Doctor Verdrehtnerv"
-  randy_aldgate:0 "Randy Aldgate"
-  elias_wordsworth:0 "Elias Wordsworth"
-  patrick_fitzpatrick:0 "Patrick Fitzpatrick"
-  scribe_theresa:0 "Scribe Theresa"
 
-  gilbert_sagarra:0 "Gilbert Sagarra"
-  doctor_verdrehtnerv_desc:0 "Though something of a back-alley surgeon, Verdrehtnerv did receive his education with the followers and is widely acknowledged to be effective at proper health and recovery standards, and his oversight will make sure we have more men and women fit and ready for the fight (as well as ensuring general health for the populace)."
-
-  randy_aldgate_desc:0 "An unlikely find out of Yerington, Aldgate was a con-man and huckster. However, these skills of duplicity and charisma can be put to good use; war propaganda and recruitment material is always of a benefit to our capacity for war, and as such, our capacity to help the people of Nevada."
-  elias_wordsworth_desc:0 "Wordsworth used to perform management for the Crimson Caravan, but retired to live in Ranger controlled territory; it would not take much to draw him out of retirement into a government role, for the good of the Rangers."
-  DES_Mechanic:0 "Kai Cooke"
-  DES_Mechanic_desc:0 "Enslaved by the Vipers, for years Kai lived with a boot on his neck. Forced to keep the war machines and guns of the Vipers working in peak condition, any flaw meant he was subject for a beating. After his liberation, he still flinches at any sudden arm movements but is happy to be able to work for a better cause."
-  DES_Supplier:0 "Rusty"
-  DES_Supplier_desc:0 "Known by a nickname of Rusty, his reputation as a fixer was legendary in northern Nevada for years. Able to get anything at the right price, he was a staple in Reno before a bad deal put him on the lamb. While some of the old school members of the Rangers view him as no better than the Vipers, they can never argue with his results."
-
-  patrick_fitzpatrick_desc:0 "Fitzpatrick possesses a mind of logistics, necessity and numbers; how many rounds, how many men, how many guns. He will be perfect for arranging resupply for our soldiers."
-  scribe_theresa_desc:0 "Scribe Theresa is an attache from the Brotherhood of Steel, sent to sort through our tech files and share their own technology with us; while she is here she is only too happy to help with other research, especially in her field, eager scientist she is."
-  gilbert_sagarra_desc:0 "Sagarra is an old-timer without compare, and though he had a much fiercer name in the past, he is past his prime. He assists the Rangers now by reading over old battle reports, tactical texts and other pieces of war history, hoping to learn from the past to improve our future."
   head_physician:0 "Head Physician"
   head_trader:0 "Head Trader"
   head_quartermaster:0 "Head Quartermaster"
@@ -175,102 +60,6 @@
   raider_supplier:0 "Fixer"
   dedicated_scribe:0 "Dedicated Scribe"
   tactical_historian:0 "Tactical Historian"
-
-  angela_deth:0 "Angela Deth"
-  angela_deth_desc:0 "Angela's soul is as fiery as her hair; every single member of the Ranger leadership knows this from the Cochise Incident. She will give anything to protect the Rangers, and she will stop at no limits to make our enemies pay."
-  frontline_operative:0 "Frontline Operative"
-
-  snake_vargas_dispatch:0 "'Snake' Vargas"
-  snake_vargas_dispatch_desc:0 "Vargas may have been forced into retirement, but that doesn't mean he'll actually retire. Instead, Snake has taken up the dispatch, using his knowledge of field operations to make sure the men are in high moral and that they are aided and relieved when appropriate."
-  dispatcher:0 "Dispatcher"
-
-  ross_nakam:0 "Ross Nakam"
-  ross_nakam_desc:0 "Nakam was the leader of Vipers, but his skills in guerrilla warfare and population control could be invaluable to us; however his horrific past and questionable methods may lead people to question the cause of the Rangers."
-  viper:0 "Viper"
-
-  jack_hidalgo:0 "Jack Hidalgo"
-  jack_hidalgo_desc:0 "Hidalgo was the leader of the Jackals, and like the starving scavengers they named themselves for, the jackals know how to survive with no resupply, no back up, and no reinforcements. However, the horrific past of the Jackals makes his appointment a question of dignity, and may weaken the legitimacy of the Rangers."
-  jackal:0 "Jackal"
-  hell_razor_commander:0 "Hell Razor"
-  hell_razor_commander_desc:0 "Hell Razor's always been known as something of a berserker, and that didn't change when he took command and stopped being a field operative. His aggressive tactics have been known to shatter enemy lines, but also potentially cost us dearly, a lack of heed for human life."
-  aggressive_attacker:0 "Aggressive Attacker"
-
-  veteran_ranger_holstadt:0 "Veteran Ranger Holstadt"
-  veteran_ranger_holstadt_desc:0 "Holstadt has served with the Rangers for over 20 years, and after the unification has been sent to the Desert Rangers to retire, instead serving to instruct and train greater numbers of our own Rangers."
-  ranger_instructor:0 "Ranger Instructor"
-
-  snake_vargas:0 "'Snake' Vargas"
-  snake_vargas_desc:0 "Vargas is a veteran who earned his rank and fame in the Cochise Incident, alongside Deth, Hell Razor and Sagarra; he has been in every role this organization has to offer, and he knows how best to use the iron fist of the Rangers."
-  lifelong_ranger:0 "Lifelong Ranger"
-
-  thrasher_sagarra:0 "'Thrasher' Sagarra"
-  thrasher_sagarra_desc:0 "Sagarra's extended reading and study of old tactics was not for naught; it has given him a sharp and analytical tactical mind, allowing him to plan out battlelines quickly and execute them with deadly efficiency."
-  tactically_minded:0 "Tactically Minded"
-
-  hell_razor:0 "Hell Razor"
-  hell_razor_desc:0 "Hell Razor hasn't changed much since ascending to the position of Ranger General; his tactics are still recklessly aggressive, and tend to garner the same results; massive casualties on both sides."
-
-  mason_salvatore:0 "Mason Salvatore"
-  mason_salvatore_desc:0 "The Salvatores are known for being schemers, dealers, movers, shakers; Mason will improve our economic capacity, but he will be working against us at every turn, looking for his chance."
-  two_timing_dealer:0 "Two-Timing Dealer"
-
-  christopher_wright:0 "Christopher Wright"
-  christopher_wright_desc:0 "Wright's an evangeliser that makes his money selling moonshine; the worst kind of hypocrite. But so long as we keep his distilleries running and his customers in booze, he'll put his thinking, reading and writing to work for our cause."
-  moonshine_intellectual:0 "Moonshine Intellectual"
-
-  mr_bishop:0 "Mr Bishop"
-  mr_bishop_desc:0 "Mr Bishop won't accept our takeover lying down, but he's perfectly willing to play the scheming vizier; for now. He'll help control New Reno's wayward souls, but he'll be sowing dissent all the while."
-  chessmaster:0 "Chessmaster"
-  lil_jesus_mordino:0 "Lil' Jesus Mordino"
-  lil_jesus_mordino_desc:0 "The dregs of this fair city would do anything for Mordino and his Jet, but giving Mordino what he wants means sacrificing a significant number of those dregs; to his workhouses, to his bodyguard, to his brothels."
-  jet_baron:0 "Jet Baron"
-
-  tiaret_van_graff:0 "Tiaret Van Graff"
-  tiaret_van_graff_desc:0 "Marrying our patriarch to the Van Graff matriarch has assured her support, and her capabilities, for our cause; no one wants to fuck with the Van Graffs, and they know energy weapons better than anybody. However there will be murmurings; rumours that Bishop is now just a Van Graff puppet..."
-  bloody_bride_of_bishop:0 "Bloody Bride of Bishop"
-
-  ol_crookshanks:0 "Ol' Crookshanks"
-  ol_crookshanks_desc:0 "Crookshanks didn't used to get respect from anybody, until we made it clear that New Reno is a home to all dregs, outcasts and scum. Now Crookshanks is recognised for what he is; an experienced administrator and a valuable employee. However, some of the bigoted morons in the city might not be able to look past the lesions."
-  pre_war_administrator:0 "Pre War Administrator"
-
-  pablo:0 "Pablo"
-  pablo_desc:0 "Pablo is an experienced mercenary who with his band has worked his way up north looking for a place to get a lifelong contract and settle down; he knows how to fight, how to make his men fight, and he knows how to keep mercenaries of all sorts motivated and aggressive."
-  conquistador_captain:0 "Conquistador Captain"
-
-  runs_with_hatred:0 "Runs-With-Hatred"
-  runs_with_hatred_desc:0 "Runs-With-Hatred and his Vengeful Sons were cast out from their home by the cruel and terrible Caesar; by offering a new home in New Reno (and lucrative pay), we can ensure that they are loyal and ready to defend our city."
-
-  pit_master_frazz:0 "Pit Master Frazz"
-  pit_master_frazz_desc:0 "Frazz is an odd one, but his desires are simple; he wants to build robots and make them fight. If we supply him with materials, and pay him enough, he'll do it for us. It never hurts to indulge a hobby."
-  erratic_engineer:0 "Erratic Engineer"
-
-  warcrying_todd:0 "Warcrying Todd"
-  warcrying_todd_desc:0 "Todd and his boys love to race, love to fight, and love to combine their hobbies. They're also gearheads that love their vehicles. If we can get the to give some loving to our vehicles, we can improve our motorised combat capabilities."
-  blitzer:0 "Blitzer"
-
-  tech_officer_hilden:0 "Tech Officer Hilden"
-  tech_officer_hilden_desc:0 "Hilden comes from a long line of Enclave scientists and engineers, and he knows his way around advanced technology. He can apply his unique skill set to our laser batteries and power armour, making them plain better."
-  esoteric_engineer:0 "Esoteric Engineer"
-
-  karm_the_brilliant:0 "Karm the Brilliant"
-  karm_the_brilliant_desc:0 "Karm is potentially one of the oldest super mutants, comparable to Thradd. His mind is solid and his instincts are sharpened; experience and time have made him a patient planner. Though he may take longer to put a plan together, it will be deadly when executed, and will reach beyond the sight of most enemies."
-  ancient_tactician:0 "Ancient Tactician"
-
-  sergeant_granite:0 "Sergeant Granite"
-  sergeant_granite_desc:0 "Fiercely loyal to the Enclave but willing to shoot for someone else until it comes back, Granite is a well trained drill sergeant capable of making sure soldiers learn and learn quickly."
-  drill_sergeant:0 "Drill Sergeant"
-
-  thradd_the_immortal:0 "Thradd the Immortal"
-  thradd_the_immortal_desc:0 "Though in secret he weeps for his lost love, in the places where he thinks no one can hear him, Thradd is a stone cold killer and cannot be stopped; he will be able to slay any who step on our turf."
-  immortal_titan:0 "Immortal Titan"
-
-  colonel_jalabert:0 "Colonel Jalabert"
-  colonel_jalabert_desc:0 "It is not known if it was solely a financial incentive that drove Jalabert to give up his rank in the NCR military and defect to a mercenary life, but it is known that he is a strict disciplinarian and a capable tactician when it comes to motorized forces."
-  the_bear_of_reno:0 "The Bear of Reno"
-
-  tobias_halvorsen:0 "Tobias Halvorsen"
-  tobias_halvorsen_desc:0 "Tobias loves guns, bombs, and any weapon that has kick. He and his men know how best to use, tune and customise these weapons to reach their full potential, and our enemies will never get the feeling of learning firsthand the stopping power of Halvorsen's Hell-Hammers."
-  flash_in_the_pan:0 "Flash-in-the-Pan"
 
   militia_leader_mick:0 "Militia Leader Mick"
   militia_leader_mick_desc:0 "Though Mick is just a petty local arms dealer, he is also a staunch defender of Freeside and a pillar of its community. By giving him official capacity to police our outskirts, he can make Freeside safer, while also giving hell to our enemies, whether they be occupiers or occupied."
@@ -319,32 +108,6 @@
   power_of_might:0 "Power of Might"
   power_of_hunger:0 "Power of Hunger"
   power_of_tactics:0 "Power of Tactics"
-
-  raul:0 "Raul"
-  raul_desc:0 "Raul was the best Vertibird Mechanic the Enclave had. After the defeat of the Enclave at the Oil Rig and Navarro he vanished with Dornan. Upon Dornan's return Raul very quickly realized the equipment they used to build Factories for their equipment needed a major overhaul and began working immediately and became the Enclaves best Engineer."
-  raul_engineer:0 "Engineer"
-
-  judah_kreger:0 "Captain Judah Kreger"
-  judah_kreger_desc:0 "Judah Kreger was a Captain in the Enclave at Navarro and a good one at that. His leadership skills kept several rivalries at bay in the enclave and kept them working together without any problems. When the enclave suffered defeat at the Oil Rig and Navarro his squad fled and attempted to integrate with the NCR secretly. Then Dornan came back and everything changed."
-  judah_kreger_leader:0 "Leader"
-
-  snookie:0 "Snookie"
-  snookie_desc:0 "Snookie was a Guard at Navarro base guarding a intelligent Deathclaw the enclave had taken prisoner. She was a soldier as well and excelled at entrenching a position and not moving a inch from it. When the Enclave lost at Navarro she managed to escape with Dornan and she returns with him to assist in the Enclaves final Victory."
-  snookie_guard:0 "Guard"
-
-  quincy:0 "Quincy"
-  quincy_desc:0 "As head of the Technician team at Navarro Quincy was a man of great skill and responsibility. He was in charge of overseeing the work of the mechanics and maintenance crews that were at the base. When the Enclave lost at the Oil Rig and Navarro he vanished with Arch Dornan and now returns with Dornan himself."
-  quincy_technician:0 "Technician"
-
-  sanders:0 "Colonel Sanders"
-  sanders_desc:0 "Sanders was the Officer in charge of overseeing Excavation at the Mariposa Military Base. His capabilities was what allowed the Enclave to procure the FEV-II sample and prevented Mutant Miners from overcoming the guards and camps just outside the base. He leads his Special Operatives with the ability of a true Enclave Officer."
-  sanders_spec_ops:0 "Spec Ops training"
-
-  daisy_whitman:0 "Daisy Whitman"
-  daisy_whitman_desc:0 "Daisy was and is a accomplished Vertibird pilot and has over 70 missions under her belt in the sky. With her experience and skill in sky our flyers will be unstoppable."
-
-  orion_moreno:0 "Orion Moreno"
-  orion_moreno_desc:0 "Orion Moreno was a accomplished soldier in Judah Kreger's squad. His experience on the field and in combat as well as his loyalty leads him to be a rather strong asset to the Enclave in general."
 
   ##Cultural Advisor Traits
 	#Columnist
@@ -429,154 +192,40 @@
   tribal_trader:0 "Scoundrel"
   tribal_good_natured:0 "Good Natured"
 
-  daniel:0 "Daniel"
-  daniel_desc:0 "A devoted missionary, Daniel is gifted with the languages of the tribes of Utah, and his patience has gained him much favour with the tribes and traders of the wastelands. Daniel is an excellent choice to help us negotiate between tribes and traders."
   gifted_translator:0 "Gifted Translator"
 
-  burnedman:0 "Joshua Graham"
-  burnedman_desc:0 "Once a gifted translator and devoted Mormon, Graham fell into bad company while far from home. Now, times have changed, and Joshua has returned home to us."
-
-  abraham:0 "Abraham Horres"
-  abraham_desc:0 "Sent as a missionary to a tribe in Arizona, the tribe he was with was massacred by the Legion. Fleeing back to Canaan, he saw first hand what the Legion could do. Knowing that they would eventually come for New Canaan, he has spent his years building support to spread the word of God to the world by force."
   unrelenting_crusader:0 "Unrelenting Crusader"
 
-  matthew:0 "Matthew Green"
-  matthew_desc:0 "A peaceful man, Matthew Green was a devout follower of God. Sent to the Ires to try to ease tensions between the Mormons and the Catholics and try to form an alliance between our peoples. After much success, he returned to New Canaan a complete pacifist, seeing first hand that the will of God is that of peace."
-  peace_mission:0 "Peaceful Missionary"
   expel_danish_heretics_tt:0 "We have §Ynot§! §Rexpelled§! the §O\"Danish\" Heretics§!"
 
-  eden:0 "Eden Dent"
-  eden_desc:0 "A gifted planner, Eden is one of New Canaan's best. Though a Mormon herself, she does not agree with New Canaan's policy of converting the lesser educated tribes to the will of God, seeing it as manipulation instead of salvation."
   calm_doc:0 "Conflicted Industrialist"
 
-  aaron:0 "Aaron Grant"
-  aaron_desc:0 "New Canaan's expert arms manufacturer, Aaron is New Canaan's de facto quartermaster. An expert in the .45 caliber pistol, he creates almost all of the weapons used by New Canaan's soldiers."
   quatermaster_45:0 "Mormon Quartermaster"
 
-  waking_cloud:0 "Waking Cloud"
-  waking_cloud_desc:0 "A tribal convert from the Sorrows, Waking Cloud was one of the first Sorrows converted by Daniel. As a midwife for the Sorrows, she cares deeply about the tribe and their culture while also adopting the Mormon way of life."
   coming_convert:0 "Coming Convert"
 
-  gideon:0 "Gideon Maywater"
-  gideon_desc:0 "An expert in tactics and training, Gideon is a Mormon instructor for their army. While he trains the soldiers of New Canaan, he refuses to train anyone from outside New Canaan, especially the tribals. Fearing that if they knew their tactics they could be used against them."
   mormon_militia:0 "The Lord's Teacher"
 
-  mountain_hawk:0 "Mountain Hawk"
-  mountain_hawk_desc:0 "A Dead Horse tribal, Mountain Hawk is one of the elders of the tribe. Sharing his wisdom with those below him, he is wary of New Canaan, knowing what their missionaries have done to tribes in the past. Though he is up on years compared to most of the tribals, he has not lost his edge."
   gods_warrior:0 "God's Warrior"
 #### Eighties
   grabber_advisor:0 "Shotgun Webster"
   grabber_advisor_desc:0 "The former leader of the Grabbers has found a new rule in the 80s"
-  furiosa:0 "Furiosa"
-  furiosa_trait:0 "The Hero of Ruby Valley"
-  major_kalishnakov:0 "Major Kalashnikov"
-  major_trait:0 "The Other Hero of Ruby Valley"
-  EHT_speed_key_to_victory:0 "The King of Speed"
-  EHT_defend_our_turf:0 "The Harpy"
-  eighties_stonefoot:0 "Stonefoot"
-  eighties_windwaker:0 "Windwaker"
-  EHT_windwaker:0 "Windwaker Honoured"
-  EHT_stonefoot:0 "Stonefoot Honoured"
   bigbear:0 "Big Bear"
   EHT_big_bear:0 "Big Bear Honoured"
   EHT_davison:0 "Davison Honoured"
   davison:0 "Driver Davison"
-  EHT_soldiers_grabbers:0 "Turned New Hammond's Craftsmen to War"
-  EHT_civilians_grabbers:0 "Enslaved the People"
 
-
-
-  rushing_wind:0 "Rushing Wind"
-  rushing_wind_desc:0 "A tribal convert from the Tar Walkers, Rushing Wind is one of the pride pieces of New Canaan. Now a full citizen with almost no connection to his former tribe, he is a devout Mormon and an example that anyone can follow the will of God."
   tribal_mormon:0 "Mormon Tribal"
 
-  joel:0 "Joel Harnigan"
-  joel_desc:0 "Joel is a Mormon priest who believes strongly that New Canaan is the holy land. He believes that there is no reason to waste God's people in expansion as the holy land has already been established. He supports defending New Canaan at all costs and would only expand the holy land if it wouldn't cost the lives of God's people."
   defender_priest:0 "Defender Priest"
 
-  david:0 "David Toreen"
-  david_desc:0 "A former member of the Desert Rangers, David moved to New Canaan in order to teach the Mormons the strategies of the Rangers. Though initially distrusted, he has earned his place as a member of New Canaan."
   mormon_ranger:0 "Mormon Rangers"
 
-  wallace:0 "Wallace Regdan"
-  wallace_desc:0 "For a man who spends all his time in the water, Wallace never got tired of it. Using his boats to cross the Great Salt Lake, he dreams of a time when it is common for people to use boats and the waterways as much as New Canaan relies on the roads. He hopes that day will come soon."
   mormon_navy_buff:0 "Salt Lake Travel"
 
-  sariah:0 "Sariah June"
-  sariah_desc:0 "Sariah, a devout Mormon girl, was never the traditional Mormon woman. From a young age her passion for flight has controlled her life. From the moment she became an adult she has dedicated herself to create New Canaan's air force."
   mormon_air_buff:0 "Holy Wings"
 
-  paladin_ramos:0 "Paladin Ramos"
-  paladin_ramos_desc:0 "Paladin Ramos has long served the Brotherhood as the head of security in the Mojave Chapter. He knows nothing but loyalty to the cause and ideals of the Brotherhood."
-
-  paladin_hardin_advisor:0 "Head Paladin Hardin"
-  paladin_hardin_advisor_desc:0 "Head Paladin Edgar Hardin is a member of the Mojave Wasteland Brotherhood of Steel, he shows divine loyalty to the Brotherhood. He is known for his no non-sense attitude and his morals of giving everyone a chance to prove themselves and make themselves better."
-
-  paladin_sato:0 "Paladin Sato"
-  paladin_sato_desc:0 "Paladin Sato is a long time member of the Brotherhood. He rose through the ranks to paladin and is now regarded as an expert in all things weapons."
-
-  paladin_fairbanks:0 "Paladin Fairbanks"
-
-  knight_torres:0 "Knight Torres"
-
-  scout_sierra:0 "Knight Sierra"
-  scout_sierra_desc:0 "Sierra is a scout who has grown up in the service of the Brotherhood. After her grueling training and initiation she rose through the ranks before becoming a scout."
-
-  paladin_todd:0 "Paladin Todd"
-
-  scribe_taggart:0 "Head Scribe Taggart"
-
-  paladin_finley:0 "Paladin Finley"
-
-  paladin_matiz:0 "Paladin Matiz"
-
-  MOJ_scribe_schuler:0 "Scribe Schuler"
-
-  head_paladin_richardson:0 "Head Paladin Richardson"
-
-  paladin_myers:0 "Senior Paladin Myers"
-
-  scribe_perez:0 "Scribe Perez"
-
-  paladin_moore:0 "Paladin Moore"
-
-  knight_watson:0 "Knight Watson"
-
-  scout_davies:0 "Scout Davies"
-
-  knight_simmons:0 "Knight Simmons"
-
-  scribe_dyson:0 "Head Scribe Dyson"
-
-  paladin_myers_advisor:0 "Paladin Myers"
-
-  journeyman_fritz:0 "Journeyman Fritz"
-
   #RRG
-  kim_carrion:0 "Kimberly Carrión"
-  dominic_unger:0 "Dominic Unger"
-  juanita_flores:0 "Juanita Flores"
-  rinaldo_martinez:0 "Rinaldo Martinez"
-  pablo_jimenes:0 "Pablo Jimenez"
-  leonardo_poblete:0 "Leonardo Poblete"
-  senor_cromwell:0 "Senor Cromwell"
-  leo_scarazzo:0 "Leo Scarazzo"
-  maria_carlos:0 "Maria Carlos"
-  fio_orezzoli:0 "Annemarie Taylor"
-  cesare_lopez:0 "Cesare Lopez"
-  alejandro:0 "Alejandro"
-  jacob_martinez:0 "Jacob Martinez"
-  jacob_martinez_desc:0 "Born and raised on the north bank of the Rio Grande, Jacob was the third son of an influential arms baron, one of many who dotted the north of the Republic. His father neglected him, pushing him down a different path from his brothers, away from the family business and into politics. Perhaps his father had hoped to use him as a lobbyist, but by the time Jacob was first elected as a deputy, he had long since cut ties with his family."
-  gaius_aetius:0 "Gaius Aetius"
-  gaius_aetius_desc:0 "Formerly one of Paullus' finest subordinates, Gaius disgraced himself by falling in love with a local, being branded a sympathiser. His punishment was to watch his fellow soldiers slaughter the local population. Paullus, in his hubris, had forgotten who he was dealing with. In a stunning show of martial prowess, Gaius performed reverse decimatio on his captors, escaping with his life and the love of it. Fleeing to the Republic, he vowed to turn his back on barbarism, and become an honest man."
-  amelia_martinez:0 "Amelia Martinez"
-  amelia_martinez_desc:0 "Don't mess with her. She'll cut you."
-  justin_walton:0 "Justin Walton"
-  southern_hummingbird:0 "Southern Hummingbird"
-  southern_hummingbird_desc:0 "A defector from the Aztlan court, Southern Hummingbird believes that the Sixth Sun does not need sacrifices on a bloody altar; it needs a people united around a leader as great as Mora."
-  RRG_martinez:0 "Admiralante Martinez"
-  carlos_avila:0 "Carlos Avila"
-  carlos_avila_desc:0 "An old guard through and through, Carlos Avila is a ghoul who's seen it all. He's worked for the Republic for the last 200 years, and his accumulated experience make his predictions of events seem like uncanny foresight. Many jest that his unnatural dedication to his various positions over the years shows that he's gone feral: but in truth, his fierce loyalty to the Republic might be all that's keeping him sane."
   high_noon_inc:0 "High Noon Arms"
   high_noon_inc_desc:0 "Considered a lesser branch of one of the T.A.A.'s main dynasties, the McCree Family, High Noon Arms has long operated in the shadow of its parent companies. Despite its low profile, however, it is responsible for some of the T.A.A.'s highest performing small-arms. With an emphasis on designs that cut down production time, the folks at High Noon take longer on the drawing board, but make up for it on the factory floor."
   xiuhcoatl_inc:0 "Xiuhcoatl Industries"
@@ -601,55 +250,7 @@
   ancient_warmonger_trait:0 "Ancient Warmonger"
   ancient_skills_trait:0 "Successful Traditions"
 
-  tla_defensive_subroutine:0 "Defensive Subroutine"
-  tla_aggressive_subroutine:0 "Aggressive Subroutine"
-  tla_organisation_subroutine:0 "Organisation Subroutine"
-  tla_robotic_subroutine:0 "Robotic Subroutine"
-  tla_organic_subroutine:0 "Organic Subroutine"
-  tla_experimental_subroutine:0 "Experimental Subroutine"
-  tla_aerodynamic_subroutine:0 "Aerodynamic Subroutine"
-
-  #VLT
-  vlt_ghoul_cultural_kildog:0 "Kildog"
-  vlt_ghoul_cultural_rumbleeye:0 "Rumbleeye"
-  vlt_ghoul_cultural_rog:0 "Rog"
-  vlt_ghoul_cultural_bitterfoot:0 "Bitterfoot"
-  vlt_ghoul_cultural_mendy:0 "Mendy"
-  vlt_mutant_cultural_devourer:0 "The Devourer"
-  vlt_mutant_cultural_mopes:0 "Mopes"
-  vlt_mutant_cultural_moose:0 "Moose"
-  vlt_mutant_cultural_tadpole:0 "Tadpole"
-  vlt_ghoul_command_zug:0 "Zug"
-  vlt_mutant_command_maggot:0 "Maggot"
-  vlt_mutant_command_tooth:0 "Tooth"
-  vlt_mutant_command_bones:0 "Bones"
-  vlt_mutant_command_snout:0 "Snout"
-  vlt_ghoul_chief_asqot:0 "Asqot"
-  vlt_mutant_chief_bugs:0 "Bugs"
-  vlt_mutant_chief_slime:0 "Slime"
-
   #LNS
-  LNS_paladin_hancock:0 "Paladin Hancock"
-  LNS_paladin_hancock_desc:0 "Paladin Hancock is a senior figure in the Texan Brotherhood's armed forces, and leads the Brotherhood's military advisory detachment to our nation. An advocate of power armour and defensive tactics, Hancock was deemed the perfect man to help us protect the I-20."
-  LNS_scribe_duran:0 "Scribe Duran"
-  LNS_scribe_duran_desc:0 "A senior scribe in the Brotherhood and Paladin Hancock's second in command, Scribe Duran has an impressive knowledge of complicated military tactics and technology. With Duran's patient and thorough advice, we have successfully expanded our technical knowlegde significantly."
-  LNS_cyamus_asina:0 "Cyamus Asina"
-  LNS_cyamus_asina_desc:0 "A senior figure in the Legion scavenging expedition that reached Texas a decade ago, Asina decided to remain in and around Lone Star after the bulk of the expedition returned home. His military expertise is vast, and would bring great reform to our armies."
-  LNS_daisy_roth:0 "Daisy Roth"
-  LNS_daisy_roth_desc:0 "A child of the slums, Daisy Roth grew up having to fend for herself from as soon as she could get a job. Thankfully, a pioneering inititive to help children of the slums lead brigher lives picked her from amongst the thousands of children in the vast slums, giving her a basic education and money to provide for herself. It was evident to her teachers that she was a bright spark, and was nominated for a university education for her educational excellence. Here, she researched Old World economic methods and theories, applying them to the New World to come up with revolutionary new techniques."
-  LNS_senior:0 "Dylan Barrett"
-  LNS_heritage:0 "Zachariah Lamay"
-  LNS_cause:0 "Easton Hodge"
-  LNS_old:0 "Faustus of Amarillo"
-  LNS_trader:0 "Gene Tanner"
-  LNS_expedition:0 "Charlie Morgan"
-  LNS_finance:0 "Archie Moss"
-  LNS_slaver:0 "Marcus Fletcher"
-  LNS_pride:0 "Price Yarborough"
-  LNS_powerhouse:0 "Morris Hamilton"
-  LNS_sufficient:0 "Lloyd Tower"
-  LNS_clouds:0 "Thomas Lankford"
-  LNS_painter:0 "Arnold Gore"
   LNS_10_core_reduction_advisor_tt:0 "Gain a §G10%§! reduction in coring costs."
   lns_senior_trait:0 "Senior Patrolman"
   lns_heritage_trait:0 "Air Force Heritage"
@@ -667,42 +268,6 @@
   lns_painter_trait:0 "Paint It Red"
 
   # TBH
-  TBH_ewan_wan:0 "Ewan Wan"
-  TBH_ewan_wan_desc:0 ""
-  TBH_hayden_sky:0 "Hayden Sky"
-  TBH_hayden_sky_desc:0 ""
-  TBH_edward_j_rusk:0 "Edward Jefferson Rusk"
-  TBH_edward_j_rusk_desc:0 ""
-  TBH_lars_mundo:0 "Lars Mundo"
-  TBH_lars_mundo_desc:0 ""
-  TBH_charles_sturgon:0 "Charles Sturgon"
-  TBH_charles_sturgon_desc:0 ""
-  TBH_emily_strong:0 "Emily Strong"
-  TBH_emily_strong_desc:0 ""
-  TBH_arthur_morrigan:0 "Arthur Morrigan"
-  TBH_arthur_morrigan_desc:0 ""
-  TBH_ledroc_walker:0 "Ledroc Walker"
-  TBH_ledroc_walker_desc:0 ""
-  TBH_kathrine_torni:0 "Kathrine Törni"
-  TBH_kathrine_torni_desc:0 ""
-  TBH_markus_elliot:0 "Markus Elliot"
-  TBH_markus_elliot_desc:0 ""
-  TBH_steffan_keith:0 "Steffan Keith"
-  TBH_steffan_keith_desc:0 ""
-  TBH_sebastian_keith:0 "Sebastian Keith"
-  TBH_sebastian_keith_desc:0 ""
-  TBH_sidney_mcdonald:0 "Sidney McDonald"
-  TBH_sidney_mcdonald_desc:0 ""
-  TBH_knight_swallows:0 "Knight Swallows"
-  TBH_knight_swallows_desc:0 ""
-  TBH_scribe_hubertus:0 "Scribe Hubertus"
-  TBH_scribe_hubertus_desc:0 ""
-  TBH_paladin_mcdert:0 "Paladin McDert"
-  TBH_paladin_mcdert_desc:0 ""
-  TBH_river_young:0 "River Young"
-  TBH_river_young_desc:0 "River Young leads the Lone Star economic advisory detatchemnt to our capital, providing us with her and her staff's extensive knowledge of economic affairs. Over the past decade, she has helped us rebuild the industrial districts of Dallas, and her efficient and merticulous mind is ready to help plan the reclamation of more cities."
-  TBH_ariel_horne:0 "Ariel Horne"
-  TBH_ariel_horne_desc:0 "Ariel Horne is a contiversial figure in our government. Whilst she has many things to say about how we use and allocate our finite resources, her lothing of excess has made her enemies amongst the upper echelons of society."
   stagnant_politician:0 "Stagnant Politician"
   balance_in_all_things:0 "No Absolutes Allowed"
   mutant_politician:0 "Mutant Politician"
@@ -714,38 +279,5 @@
   radical_reformer:0 "Radical Reformer"
   economic_knowhow:0 "Economic Knowhow"
 
-  # ACH
-  ACH_knight_hallows:0 "Knight Hallows"
-  ACH_knight_hallows_desc:0 ""
-  ACH_scribe_charlie:0 "Scribe Charlie"
-  ACH_scribe_charlie_desc:0 ""
-  ACH_paladin_cade:0 "Paladin Cade"
-  ACH_paladin_cade_desc:0 ""
-
   # JCT
-  doctor_henry:0 "Doctor Henry"
-  doctor_henry_desc:0 "One of the best doctors in the Wasteland, Doctor Henry has expressed a strong interest in helping to address the nightkin schizophrenia problem."
   doctor_henry_trait:0 "Expert Physician"
-
-  # NAV
-  hashkeh_trait:0 "Army Offence Expert"
-
-  NAV_sicheii:0 "Sicheii"
-  NAV_sicheii_desc:0 ""
-  sicheii_trait:0 "Tactically Minded"
-
-  NAV_tsela:0 "Tsela"
-  NAV_tsela_desc:0 ""
-  tsela_trait:0 "Deep Strike Infiltrator"
-
-  NAV_bidziil:0 "Bidziil"
-  NAV_bidziil_desc:0 ""
-  bidziil_trait:0 "Bulwark"
-
-  NAV_hokee:0 "Hok'ee"
-  NAV_hokee_desc:0 ""
-  hokee_trait:0 "Stalwart Defender"
-
-  NAV_sialea_lea:0 "Sialea-lea"
-  NAV_sialea_lea_desc:0 ""
-  sialea_trait:0 "Little Blue Bird"
