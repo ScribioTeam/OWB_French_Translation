@@ -78,7 +78,7 @@
  ttm_epa_efficiency_protocol_desc:0 ""
 
  ttm_tlalocs_last_memories:0 "Derniers Souvenirs de Tlaloc"
-  spellcheck_ignore:0 "ttm_tlalocs_last_memories_desc"
+  #spellcheck_ignore:0 "ttm_tlalocs_last_memories_desc"
  ttm_tlalocs_last_memories_desc:0 "Un journal de bord de centaines de millions de lignes. La plupart de ces données sont sans valeur - pourtant, certains de nos anciens protocoles Poséidon Energy semblent capables de traiter les informations d'une manière que nous ne comprenons pas entièrement.\n\n§R"Application: PSD_ENERGY.CORE.MEX_GOV_PRIMARY\nVersion: 21349151923109151.313210154.213154.53131\nUnhandled Exception C0000005 (OUT_OF_MEMORY) at address 0x000000013FF61660....\n\n(953,103,593 Lines omitted for brevity)"§!"
 
  ttm_the_full_moon_raid:0 "Le Raid de la Pleine Lune"
