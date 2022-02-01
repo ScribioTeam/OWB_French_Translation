@@ -1,19 +1,39 @@
 ﻿l_french:
+ #leaders
+ FFI_LAS_TRES_MASCARAS_NAME:0 "Las Tres Mascaras"
+ FFI_LAS_TRES_MASCARAS_DESC:0 "Lorsque les tribus masquées se sont unies pour lutter contre les cartels qui sévissaient à Los Mochis et dans les terres environnantes, ce sont ces trois-là qui ont fait office de force de liaison. Mil Mascaras, le Titan Vert, le Preneur de Masques, le Torero lui-même, apportant force et courage aux tribus. Le Diable Bleu, jadis ennemi juré des tribus, ses tactiques astucieuses de délit de fuite et ses armes puissantes portant un grand coup aux responsables du cartel. Et le père de tout cela, El Santo, guerrier vertueux, pur de cœur, d'esprit et d'âme, porteur de justice et défenseur des faibles. C'est Lui qui s'est d'abord opposé au Sinoloa, et c'est Lui qui a conduit le Beltran dans les jungles du sud. Ensemble, ils forment une équipe mal à l'aise, bien que puissante."
+ FFI_MIL_MASCARAS_NAME:0 "Mil Mascaras"
+ FFI_MIL_MASCARAS_DESC:0 "Mil Mascaras is a figure shrouded in mystery. Despite his many battles and victories, the Super Mutant remains an enigma, a hero hidden beneath a thousand masks. There are whispers of a past Mil Mascaras wishes he could forget, one spent toiling under the Legion’s whip, a slave revolt ending in tragedy, and a selfless act that would define the man behind the mask."
+ FFI_EL_SANTO_NAME:0 "El Santo"
+ FFI_EL_SANTO_DESC:0 "Those who fight for a righteous cause with righteous means are the exception in Mexico, America, and perhaps the entire world. El Santo is the exception of exceptions. El Santo saw the rise of the Cartels, how they would tread on all those underneath them, and wept. These tears would become a fire within his heart to one day liberate all those under the boot of the Cartels, and return to the days of peace stolen by evil."
+ FFI_DEMONIO_AZUL_NAME:0 "Demonio Azul"
+ FFI_DEMONIO_AZUL_DESC:0 "When you are faced with adversity, you have only one task that you owe yourself. An honorable defeat leads nowhere but death and suffering, and El Diablo Azul knows this. He knows the Cartels play by rules that the honorable could not comprehend, and that this would lead only to defeat. His reputation as underhanded and cunning both within the ring and without serves him well, catching his enemy on off-footing."
+ FFI_EMILIO_MUZQUIZ_NAME:0 "Emilio Múzquiz"
+ FFI_EMILIO_MUZQUIZ_DESC:9 ""
 
-  #leaders
- CHAVO_DESC:0 "\"Regardez en haut ! \nC'est mon \nDernier espoir.\""
+ #characters
+ FFI_chavo_guererro_name:0 "Chavo Guererro"
+ FFI_chavo_guererro_desc:0 "\"Regardez en haut ! \nC'est mon \nDernier espoir.\""
+ FFI_ortiz_name:0 "Ortiz"
+ FFI_ortiz_economic_advisor_desc:9 ""
+ FFI_gonzalez_name:0 "Gonzales"
+ FFI_gonzalez_cultural_advisor_desc:9 ""
+ FFI_rodriguez_name:0 "Dos Rodriguez"
+ FFI_arellano_high_command_desc:9 ""
+ FFI_cruz_name:0 "Cruz"
+ FFI_cruz_high_command:9 ""
+ FFI_rivera_name:0 "Rivera"
+ FFI_rivera_high_command:9 ""
+ FFI_arellano_name:0 "Dos Arellano"
+ FFI_arellano_high_command:9 ""
+ FFI_suneater:0 "Suneater"
+ FFI_suneater_name:0 "Suneater"
+ FFI_suneater_desc:9 ""
+ FFI_suneater_high_command:0 "Suneater"
+ FFI_suneater_high_command_desc:9 ""
 
-  #ministers
- ffi_advisor_ortiz:0 "Ortiz"
- ffi_advisor_gonzalez:0 "Gonzales"
- ffi_advisor_rodriguez:0 "Dos Rodriguez"
- ffi_advisor_cruz:0 "Cruz"
- ffi_advisor_rivera:0 "Rivera"
- ffi_advisor_arellano:0 "Dos Arellano"
- ffi_suneater_command:0 "Suneater"
 
-
-  #traits
+ #traits
  ortiz_trait:0 "Nuit"
  cruz_trait:0 "Shade Bringer"
  gonzalez_trait:0 "Docteur bien-aimé"
@@ -27,12 +47,12 @@
  ffi_mascaras:0 "Le Géant"
  ffi_demon:0 "Le Démon"
 
-  #parties
+ #parties
  FFI_ruler_party:0 "Le Culte des Masques"
  FFI_people_party:0 "Le Culte des Saints"
  FFI_elites_party:0 "Le Culte des Démons"
 
-  #tooltips
+ #tooltips
  ffi_rematch_tt:0 "Au moins trois matchs entre la Triarchie ont eu lieu."
  ffi_triarchy_triumphant:0 "La Triarchie a Triomphé !"
 
@@ -88,10 +108,10 @@
  ffi_baja_revolt_tt:0 "Localiser ceci lorsque le OOB est créé"
  ffi_ecu_uprising_tt:0 "Suneater se lèvera contre Gente Del Sol pour nous!"
 
-  #opinion
+ #opinion
  ffi_ncr_trade:0 "Alliance de Baja"
 
-  #decisions
+ #decisions
  ffi_refuge_for_slaves:0 "Refuge pour esclaves"
  ffi_refuge_for_slaves_desc:0 ""
 
@@ -135,7 +155,7 @@
  ffi_whitepeace_baja_desc:0 "Cette guerre sur la Baja ne va nulle part, il est peut-être préférable pour nous de signer une paix blanche."
 
 
-  ###wrestling
+ ###wrestling
  ffi_wrestling:0 "Le Grognement des Luchas"
  ffi_wrestling_desc:0 "L'heure est proche pour un nouveau match entre la triarchie. Pour avoir une chance de gagner le prochain combat, §Y[Getplayerfighter]§! doit s'entraîner dur et préparer une stratégie solide pour le ring. \n\nEndurance: §Y[?player_round_health]§! \nForce Offensive: §Y[?player_at_dmg_var]§! \nForce Défensive: §Y[?player_def_dmg_var]§! \nForce Surprise: §Y[?player_fe_dmg_var]§!"
  ffi_train_attack:0 "Entraîner les Coups Offensifs"
@@ -151,7 +171,7 @@
  ffi_next_match:0 "Le Prochain Match"
  ffi_next_match_desc:0 ""
 
-  #focuses
+ #focuses
  FFI_war_mask:0 "La Guerre du Masque"
  FFI_war_mask_desc:0 "Les Luchadores libres doivent leur existence aux cartels, car ce sont leurs mauvaises manières qui nous ont réunis pour combattre..."
 
@@ -250,7 +270,7 @@
 
  FFI_great_rematch:0 "La Grande Remontada"
  FFI_great_rematch_desc:0 "Les Tres Mascaras se sont réunis à Los Mochis. Cette fois, il n'y aura pas d'égalité. Les enjeux sont fixés, les combattants sont prêts, mesdames et messieurs, §GSOYEZ PRET POUR LE MAAAATCH §!"
-  #industry
+ #industry
 
  FFI_bazzar:0 "Le Bazar"
  FFI_bazzar_desc:0 "El Bazaar De Los Calinas est un grand marché situé au centre de la ville, où les commerçants de toute la côte du Golfe viennent faire des affaires avec les Luchadores Libres et entre eux ; cet endroit représente une excellente opportunité pour l'industrie civile, car il permet un accès facile à une gamme variée de marchandises."
@@ -417,18 +437,13 @@
  FFI_unrelenting_assault:0 "L'Agression Permanente"
  FFI_unrelenting_assault_desc:0 "Il n'y a pas de geste plus meurtrier, tant pour le luchadore que pour son ennemi, que la Plancha Suicida, Mil Mascaras risque tout pour vaincre la légion, et ses plus grands guerriers seront ses émissaires de la mort auprès de Caesar."
 
-  #ideas
+ #ideas
  ffi_division_timed:0 "Division dans la Fédération"
  ffi_division_timed_desc:0 ""
  ffi_unbowed_timed:0 "L'Invaincu "
  ffi_unbowed_timed_desc:0 ""
  ffi_gente_attack:0 "L'Appel de Suneater"
  ffi_gente_attack_desc:0 ""
-
-  #ffi_unbowed_idea:0 "The Unbowed"
-  #ffi_unbowed_idea_desc:0 ""
-  #ffi_division_idea:0 "Division in the Federation"
-  #ffi_division_idea_desc:0 ""
 
  ffi_ancestral_weapons_idea:0 "Armes Ancestrales"
  ffi_ancestral_weapons_idea_desc:0 "La plupart des guerriers de la fédération utilisent des armes héréditaires, transmises de famille en famille et réparées si nécessaire pour une bataille ouverte. Bien que de nombreuses nouvelles armes soient produites, celles qui le sont sont souvent conçues pour refléter celles qui les ont précédés."
@@ -540,7 +555,7 @@
  ffi_legend_monster_idea:0 "Légendes des Montres"
  ffi_legend_monster_idea_desc:0 ""
 
-  #events
+ #events
 
  nf_ffi.1.t:0 "Le Dernier Luchadore"
  nf_ffi.1.d:0 "Trente ans après la fin du monde, une petite communauté tribale est terrorisée et réduite en esclavage par des bandits locaux. Mais la situation change lorsqu'une figure solitaire portant un masque blanc se promène en ville et ose défier les bandits. Malgré tous les obstacles, le personnage chasse les bandits, pour ensuite succomber à ses blessures au lendemain de la bataille. Son sacrifice inspirera des générations de tribus à porter des masques et à combattre leurs oppresseurs, et ses dernières paroles les porteront vers l'avenir."
@@ -792,7 +807,7 @@
  nf_ffi.108.d:0 "Après des années de lutte pour le pouvoir, [This.GetLeader] a émergé de l'ultime combat de lucha comme le chef incontesté des Luchadores Libres. Pendant que ses adversaires récupèrent, brisés par leur défaite dévastatrice, [This.GetLeader] n'a pas perdu de temps pour restructurer le leadership de la Fédération à son image, cette fois-ci de façon permanente."
  nf_ffi.108.a:0 "Por la libertad, por pelear, por [This.GetLeader]!"
 
-  #scripted loc
+ #scripted loc
   #fighters
  playerfighter_santos:0 "El Santo"
  playerfighter_demon:0 "Demonio Azul"
@@ -804,7 +819,7 @@
  enemy2_demon:0 "Demonio Azul"
  enemy2_mascaras:0 "Mil Mascaras"
 
-  #moves
+ #moves
   #REMEMBER: 1 IS PLAYER, 2 AND 3 ARE RANDOM, USE [THIS.Getenemy1]  [THIS.Getenemy2] AND [THIS.Getplayerfighter] TO REFER TO EACH ONE
  move_at_at_at:0 "les trois combattants bondirent au centre du ring dans une démonstration aveuglante de violence débridée, prêts pour un assaut furieux. Les poings volent vite et librement alors que les trois Masques s'engagent dans l'offensive, chacun prenant presque autant de coups qu'il en donne."
  move_def_def_def:0 "les combattants sont restés dans leur coin, ne voulant pas s'engager dans une attaque de peur de se dépasser. Bien que quelques coups de poing prudents aient été échangés et que de nombreux jeux de jambes évasifs aient été montrés, le résultat final est un échec décevant qui laisse beaucoup à désirer."

@@ -112,15 +112,15 @@
 
  caf_ncr_coffee_addiction_idea:0 "Accros du Café"
 
- juan_efectivo:0 "Juan Efectivo"
- grant_stone:0 "Pierre Grant"
- rafael_hernandez:0 "Rafael Hernandez"
- la_mano_derecha:0 "La Mano Derecha"
- el_capitan:0 "El Capitan"
- lopez_chief_of_army:0 "Lopez"
- la_mano_derecha_chief_of_army:0 "La Mano Derecha"
- el_capitan_chief_of_navy:0 "El Capitan"
- rafael_hernandez_theorist:0 "Rafael Hernandez"
+ #Characters
+ CAF_juan_efectivo:0 "Juan Efectivo"
+ CAF_grant_stone:0 "Pierre Grant"
+ CAF_rafael_hernandez:0 "Rafael Hernandez"
+ CAF_la_mano_derecha:0 "La Mano Derecha"
+ CAF_el_capitan:0 "El Capitán"
+ CAF_lopez:0 "Lopez"
+ CAF_the_baron:0 "Le Baron"
+ CAF_el_ejecutor_name:0 "El Ejecutor"
 
  aztlan_officer_theorist_trait:0 "Officier Aztalani"
  el_capitan_navy_trait:0 "El Capitan"

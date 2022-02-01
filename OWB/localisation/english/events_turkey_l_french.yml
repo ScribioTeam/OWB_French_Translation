@@ -1,7 +1,7 @@
 ﻿l_french:
-#################################
-# This is Not a Place of Honour #
-#################################
+  #################################
+  # This is Not a Place of Honour #
+  #################################
  nf_turkey.1.t:0 "De Quoi êtes-vous Reconnaissant ?"
  nf_turkey.1.d:0 "Les Américains ont célébré Thanksgiving pendant des siècles, en remontant jusqu'aux premiers Pèlerins. Même au lendemain de la Grande Guerre, les gens ont essayé de maintenir la fête en vie, en offrant une boîte de haricots, ou un voisin, pour marquer le jour. Le redressement des Terres Désolées au cours des dernières décennies a vu un retour aux anciens festins, avec de nouvelles caractéristiques. Une partie de purée de pommes de terre, une tarte aux fruits, une sauce aux goudrons. Mais à travers tout ça, personne n'a demandé aux dindes ce qu'elles aimaient."
  nf_turkey.1.a:0 "Garnir !"
@@ -23,7 +23,7 @@
  nf_turkey.4.a_tt:0 "Nous vous donnons aussi des revendications sur le Texas, comme cadeau."
 
 
-####
+  ####
  trk_origin_story:0 "Le Dernier Thanksgiving"
  trk_origin_story_desc:0 "Depuis trop longtemps, les habitants des Terres Désolées dévorent d'innocentes dindes à Thanksgiving. Ils les lâchent même du haut des vertiges dans les ruines de Cincinnati, une tradition sacrée de malveillance. Mais cela prend fin aujourd'hui !"
  turk_fev:0 "Gardez le Tofu"
@@ -48,8 +48,8 @@
  turkey_vegas_showgirls_desc:0 "On ne peut pas avoir Thanksgiving sans regarder une parade. Voyons si nous pouvons inviter des gens de Vegas à le faire !"
  turkey_turn_on_the_stove:0 "Allumer le Fourneau"
  turkey_turn_on_the_stove_desc:0 "Il est temps de commencer à cuisiner ! Préparons-nous, tout le monde !"
- npe_lonestar:0 "Prenez des amuse-gueules"
- npe_lonestar_desc:0 "Les stocks de l'Étoile Solitaire contiennent beaucoup de nourriture d'avant-guerre prête à être consommée. Prenons-en un peu pour réduire notre temps en cuisine !"
+ turkey_lonestar:0 "Prenez des amuse-gueules"
+ turkey_lonestar_desc:0 "Les stocks de l'Étoile Solitaire contiennent beaucoup de nourriture d'avant-guerre prête à être consommée. Prenons-en un peu pour réduire notre temps en cuisine !"
  turkey_pecan_pie:0 "Faire une Tarte aux Noix de Pécan"
  turkey_pecan_pie_desc:0 "Vous savez qu'il n'y a pas eu de tarte aux noix de pécan depuis la Grande Guerre ? Eh bien, cela prend fin aujourd'hui !"
  turkey_make_some_drinks:0 "Préparez des Boissons"
@@ -60,7 +60,7 @@
  thanksgiving_gravy_desc:0 "On ne peut pas faire de biscuits sans sauce, après tout. Honnêtement, pourquoi n'aides-tu pas ta famille à cuisiner au lieu de jouer ?"
  turkey_thank_you_fans:0 "Le Changement de Cœur"
  turkey_thank_you_fans_desc:0 "Tous ces visiteurs et ces crimes de guerre font que [TRK.GetLeader] se demande. De quoi sommes-nous vraiment reconnaissants, en fin de compte ? N'est-ce pas les uns les autres ? Et Fallout ? Non, c'est surtout Fallout."
-### IDeas
+  ### IDeas
  turkey_stuffing:0 "Fourrage"
  turkey_pie:0 "Tarte"
  turkey_trot_idea:0 "La Course de la Dinde"

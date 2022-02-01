@@ -2,9 +2,6 @@
  #-------------------------------------
  # CMC
  #-------------------------------------
-
- lushanya_desc:0 "Lushanya Harjo est l'héritière d'une des plus grandes familles de casinos de la coalition. Elle a reçu une éducation relativement paisible, mais elle a été formée et scolarisée dans toutes sortes de domaines qui ont permis à leur famille de durer aussi longtemps et de réussir qu'elle l'est. Elle a eu une courte carrière raisonnablement réussie de chanteuse de salon, avant que la mort de ses parents lors d'une incursion des raiders ne la mette dans une position où elle a dû reprendre l'affaire et la direction de facto de la coalition plus tôt que prévu."
-
  cmc_light_up_the_night:0 "Illuminez la Nuit"
  cmc_light_up_the_night_desc:0 "Les casinos que nous gérons consomment beaucoup d'énergie avec toutes leurs lumières et leurs machines. A tel point que nous avons souvent des pannes de courant dans les casinos eux-mêmes ou dans d'autres quartiers de la ville. Nous devons installer quelques générateurs supplémentaires pour éviter que cela n'arrive."
  cmc_casino1:0 "Casino de Red River"
@@ -99,6 +96,7 @@
  cmc_preemptive_measures:0 "Mesures Préventives"
  cmc_preemptive_measures_desc:0 "Nous avons besoin d'un meilleur réseau d'information si nous voulons éviter que ce genre de choses ne se reproduise. Liam a toujours été doué pour dénicher des informations. Il est peut-être temps de lui donner plus de fonds et de personnes pour qu'il puisse vraiment laisser cette capacité briller."
  cmc_preemptive_measures_liam_tt:0 "Le Chef de la Surveillance, §YLiam§! devient disponible pour le service."
+ cmc_preemptive_measures_flag:0 "A pris des mesures préventives"
  cmc_bird_in_a_cage:0 "Oiseau en Cage"
  cmc_bird_in_a_cage_desc:0 "Liam est mort. La plupart de mes partisans le sont aussi. Ceux qui ne le sont pas sont pris en otage. Ils ont décidé de me garder en vie. Pour parader. Pour être un visage public que les gens connaissent. Pas d'options, pas d'échappatoire. Je dois faire ce qu'ils me disent de faire jusqu'à ce qu'une opportunité se présente."
  cmc_crime_does_pay:0 "Le Crime Paie"

@@ -1,4 +1,5 @@
 ﻿l_french:
+ HAN_crbs:0 "CRB-S"
  HAN_Kennelmaster:0 "Kennelmaster Jamison"
  HAN_Kennelmaster_desc:0 "Même avec l'expansion massive qui entoure Dog City, il y aura toujours besoin de plus de bâtiments."
  HAN_medicine:0 "Maria Greene"
@@ -21,7 +22,6 @@
  HAN_doc:0 "Docteur Anderson"
  HAN_doc_desc:0 "\"Vous devrez peut-être mordre dans quelque chose. Ça va faire mal.\""
  HAN_network:0 "Réseau d'Apprentissage des Technologies Alliées"
- HAN_network_lar:0 "Réseau d'Apprentissage des Technologies Alliées"
  HAN_howler:0 "Hurleur"
  HAN_howler_desc:0 "La plupart des éléments tribaux et des pillards des Hangdogs ont été purgés, mais il en reste quelques-uns sur les bords. Propriétaire d'une société de sécurité en dehors de Dog City, Howler refuse un nom traditionnel. Le surnom que son gang lui a donné il y a des années a plus de valeur que tout ce que la conformité pourrait lui apporter."
  HAN_powergrid:0 "Réseau d'Éoliennes "
@@ -38,3 +38,10 @@
  HAN_grand_advisor_desc:0 "L'affluent de l'Arkansas sert de frontière naturelle au territoire de Hangdogs. Avec le commerce apporté le long de ses rivières, la nourriture qu'il fournit, et la protection contre les horreurs du sud, certains le considèrent comme une terre sainte. En patrouillant à travers l'affluent, ils se considèrent comme les défenseurs du don de la nature vis-à-vis des Hangdogs."
  HAN_BENRY:0 "Unité de Protection Frontalière BENRY"
  HAN_BENRY_desc:0 "\"Veuillez présenter votre passeport pour inspection.\""
+
+ HAN_madame_marshall_name:0 "Madame Marshall"
+ HAN_officer_krupke_name:0 "Officier Krupke"
+ HAN_deputy_wood_name:0 "Shérif Wood"
+ HAN_sheriff_truman_name:0 "Shérif Truman"
+
+ HAN_modus_name:0 "MODUS"

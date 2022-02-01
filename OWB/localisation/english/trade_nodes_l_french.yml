@@ -1,10 +1,5 @@
-﻿
-l_french:
-  spellcheck_ignore:0 "node_level_up_icon"
-  spellcheck_ignore:0 "node_disabled_icon"
-  spellcheck_ignore:0 "node_trade_notification_icon"
-  spellcheck_ignore:0 "node_new_node_notification_icon"
-  spellcheck_ignore:0 "node_organization_gain_icon"
+﻿l_french:
+  #spellcheck_ignore: node_level_up_icon, node_disabled_icon, node_trade_notification_icon, node_new_node_notification_icon, node_organization_gain_icon
  node_disabled_tt:0 "Le Noeud de Commerce est §Rdésactivé§!."
  node_disabled_timed_tt:0 "Le Noeud de Commerce est §Rdésactivé§! pendant [?OWNER.duration_node_disabled|§0§Y] jours."
   # Modifiers

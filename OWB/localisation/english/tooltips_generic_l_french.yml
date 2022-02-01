@@ -1,6 +1,7 @@
 ﻿l_french:
  spacer_tt:0 "\n"
  annex_wargoal_against_owners_of_the_states_tt:0 "Gagne les objectifs de guerre pour §Yl'Annexion§! contre §Ytous ceux qui possèdent cet État§!"
+
   # named threat
  took_territory:0 "A volé le territoire revendiqué."
  returned_territory:0 "A rendu le territoire revendiqué."
@@ -34,3 +35,10 @@
 
   #Tooltip for air equipment production cost issues
  air_tech_production_cost_tt:0 "§RLes coûts de production de cet équipement doubleront dans l'écran de production lors de sa recherche, ceci afin de tromper l'IA et de l'inciter à rechercher la technologie des avions.§!"
+
+  #Tooltip for characters because Paradox is dumb and doesn't make proper tooltip for characters transfering countries
+ recruit_character_tt:0 "Recruter un personnage :"
+
+  #Advisor tooltips
+ available_cultural_advisor:0 "§GDisponible§! en tant que §YConseiller culturel§!:\n"
+ available_economic_advisor:0 "§GDisponible§! en tant que §YConseiller économique§!:\n"
