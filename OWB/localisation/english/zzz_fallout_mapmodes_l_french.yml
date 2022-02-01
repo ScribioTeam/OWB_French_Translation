@@ -50,7 +50,7 @@
  MAPMODE_FALLOUT_CAPS_INCOME_MAP_MODE_NAME:0 "$fallout_caps_income_map_mode$"
  MAPMODE_FALLOUT_CAPS_INCOME_MAP_MODE_DESCRIPTION:0 "Indique le montant des revenus de chaque pays."
  fallout_caps_income_map_mode_tooltip:0 "§Y[From.Controller.GetNameWithFlag]§! a actuellement un revenu plafond de [?From.Controller:caps_daily_modified|3+]."
- fallout_caps_income_map_mode_tooltip_delayed:9 ""
+ fallout_caps_income_map_mode_tooltip_delayed:0 ""
 
   # Scripted Localisation:
  fallout_stability_map_mode_tt:0 "Varie de [?temp|2%=+] par semaine."
