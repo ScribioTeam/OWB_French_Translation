@@ -17,9 +17,9 @@
  fp_enough_clan_support_tt:0 "Has more than §G[?support_check_temp]§! §YClans Support§!"
  fp_enough_city_support_tt:0 "Has more than §G[?support_check_temp]§! §YCity Dweller Support§!"
 
- fp_conscript_increase_tt:0 "The Support of Our People - Monthly Manpower: §G+[?fp_increase_temp]%§!"
- fp_infrastructure_increase_tt:0 "The Support of Our People - §YInfrastructure§! Construction Speed: §G+[?fp_increase_temp]%§!"
- fp_industry_increase_tt:0 "The Support of Our People - §YIndustry§! Construction Speed: §G+[?fp_increase_temp]%§!"
+ fp_conscript_increase_tt:0 "The Support of Our People - Monthly Manpower: [?fp_increase_temp|%+]"
+ fp_infrastructure_increase_tt:0 "The Support of Our People - §YInfrastructure§! Construction Speed: [?fp_increase_temp|%+]!"
+ fp_industry_increase_tt:0 "The Support of Our People - §YIndustry§! Construction Speed: [?fp_increase_temp|%+]!"
 
 
  gpf_trained_hunters:0 "Trained Hunter"

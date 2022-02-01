@@ -594,6 +594,8 @@
   caf_available_factories_tooltip_5:0 "We need §G5§! offmap factories available to begin this trade mission."
 
   caf_opinion_change:0 "Opinion of §YCosta Cafeinada§! changes by $RIGHT|0+$"
+  caf_new_strain_idea_tt:0 "Upon selecting this focus you will recieve the national spirit §YA New Strain§! for §Y150§! days which will increase research speed by §G25%§!."
+
   ### Add customer
   caf_unlock_trade_partner:0 "Unlock §Y[THIS.GetName]§! as a potential customer for §Y[CAF.GetName]§!"
   caf_trade_enable_decision:0 "Send Coffee Salesman to: §Y[FROM.GetName]§!"
