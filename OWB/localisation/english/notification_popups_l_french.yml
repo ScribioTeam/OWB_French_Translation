@@ -1,0 +1,5 @@
+﻿l_french:
+ coring_popup_tooltip:0 "[GetCoringPopup]"
+ coring_popup_tooltip_normal_tt:0 "Intégrer l'état §Y[?target_state.GetName]§! pour [?target_cost|0-] £pol_power"
+ coring_popup_tooltip_no_cost_tt:0 "Intégrer l'état §Y[?target_state.GetName]§!"
+ coring_popup_icon:0 "GFX_icons_core"

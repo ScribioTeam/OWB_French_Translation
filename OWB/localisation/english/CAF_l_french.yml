@@ -594,6 +594,8 @@
  caf_available_factories_tooltip_5:0 "Nous avons besoin de §G5§! usines hors carte disponibles pour commencer cette mission commerciale."
 
  caf_opinion_change:0 "Opinion of §YCosta Cafeinada§! changes by $RIGHT|0+$"
+ caf_new_strain_idea_tt:0 "En choisissant cette priorité, vous recevrez l'esprit national §YUne Nouvelle Tendance§! pendant §Y150 jours§!, ce qui augmentera la vitesse de recherche de §G25%§!."
+
   ### Add customer
  caf_unlock_trade_partner:0 "Unlock §Y[THIS.GetName]§! as a potential customer for §Y[CAF.GetName]§!"
  caf_trade_enable_decision:0 "Send Coffee Salesman to: §Y[FROM.GetName]§!"

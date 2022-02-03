@@ -17,9 +17,9 @@
  fp_enough_clan_support_tt:0 "A plus de §G[?support_check_temp]§! §YSoutien des Clans§!"
  fp_enough_city_support_tt:0 "A plus de §G[?support_check_temp]§! §YSoutien aux Citadins§!"
 
- fp_conscript_increase_tt:0 "Le Soutien de Notre Peuple - Effectif mensuel : §G+[?fp_increase_temp]%§!"
- fp_infrastructure_increase_tt:0 "Le Soutien de Notre Peuple - §YInfrastructure§! Vitesse de construction : §G+[?fp_increase_temp]%§!"
- fp_industry_increase_tt:0 "Le Soutien de Notre Peuple - §YIndustrie§! Vitesse de Construction: §G+[?fp_increase_temp]%§!"
+ fp_conscript_increase_tt:0 "Le Soutien de Notre Peuple - Effectif mensuel : [?fp_increase_temp|%+]"
+ fp_infrastructure_increase_tt:0 "Le Soutien de Notre Peuple - §YInfrastructure§! Vitesse de construction : [?fp_increase_temp|%+]"
+ fp_industry_increase_tt:0 "Le Soutien de Notre Peuple - §YIndustrie§! Vitesse de Construction: [?fp_increase_temp|%+]"
 
 
  gpf_trained_hunters:0 "Chasseur entraîné"
