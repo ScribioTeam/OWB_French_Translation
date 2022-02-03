@@ -205,7 +205,7 @@
  TRADE_NODE_PROGRESS_HINT_TT:0 "§gLes progrès et le niveau sont mesurés par le développement de l'État dans un nœud économique. Le développement de l'État est une moyenne pondérée des usines, des chantiers navals, des infrastructures et des accès fluviaux entre un État central et ses États membres.§!"
 
  TRADE_NODE_LEVEL_TRIGGER:0 "[GetTradeNodeLevelTTHint]"
- TRADE_NODE_LEVEL_HINT_TT:0 "§gLevel 8 can be reached by state development, beyond level 8 requires Economic Development from focuses, events, and decisions.§!"
+ TRADE_NODE_LEVEL_HINT_TT:0 "§gLe niveau 8 peut être atteint naturellement, au-delà du niveau 8, il faut du développement économique.§!"
 
  TRADE_NODE_ECONOMIC_DEVELOPMENT_TRIGGER:0 "[GetTradeNodeEconomicDevelopmentTTHint]"
  TRADE_NODE_ECONOMIC_DEVELOPMENT_HINT_TT:0 "§gLe développement économique augmente le niveau d'un par point. Le développement économique peut être accordé par le biais de priorités, d'événements, de décisions, et plus encore ! Chaque point permet un développement au-delà du niveau 8 jusqu'à un maximum de 10§!"
@@ -214,14 +214,14 @@
  TRADE_NODE_BASE_VALUE_HINT_TT:0 "§gLe niveau des nœuds crée une valeur de développement.§!"
 
  TRADE_NODE_TRADE_VALUE_TRIGGER:0 "[GetTradeNodeTradeValueTTHint]"
- TRADE_NODE_TRADE_VALUE_HINT_TT:0 "§gAmount of trade flowing into a node. Trade routes send a portion of the node's development value downstream to the target, in return, the target sends a smaller portion upstream§!"
+ TRADE_NODE_TRADE_VALUE_HINT_TT:0 "§gQuantité de commerce entrant dans un nœud.§!"
 
- TRADE_NODE_TOTAL_VALUE_HINT_TT:0 "\n\n§gTotal node value is combined development and trade value, with modifiers.§!"
+ TRADE_NODE_TOTAL_VALUE_HINT_TT:0 "\n\n§gLa valeur totale des nœuds est la valeur combinée du développement et du commerce, avec des modificateurs. La valeur totale est partagée le long des routes commerciales.§!"
 
  TRADE_NODE_MEMBER_STATES_LIST_ENTRY_HINT_TT:0 "\n\n §gLes États membres constituent le corps d'un nœud. Les routes ne vont pas directement vers ou depuis les États membres, mais elles contribuent au développement du progrès et du niveau des nœuds. Un État membre ne peut être membre que d'un seul nœud à la fois.§!"
 
  TRADE_NODE_TRADE_ROUTE_BUTTON_TRIGGER:0 "[GetTradeNodeRouteButtonTTHint]"
- TRADE_NODE_TRADE_ROUTE_BUTTON_HINT_TT:0 "§gTrade routes send a portion of the node's development value downstream to the target, in return, the target sends a smaller portion upstream back here!§!"
+ TRADE_NODE_TRADE_ROUTE_BUTTON_HINT_TT:0 "§gLes routes commerciales envoient une partie de la valeur totale du nœud à la cible, et reçoivent en retour une partie plus petite de la valeur du nœud cible.§!"
 
  TRADE_NODE_PROMOTE_BUTTON_TRIGGER:0 "[!promote_node_button_click_enabled][GetTradeNodePromoteTTHint]"
  TRADE_NODE_PROMOTE_BUTTON_HINT_TT:0 "§gLa promotion d'un nœud augmente le niveau et la valeur de développement.§!"
@@ -236,7 +236,7 @@
  NODE_MAP_LEDGER_ROUTES_HINT_TT:120 "§gPermet la gestion de toutes les routes commerciales entrantes et sortantes à partir des nœuds. La modification d'une route commerciale a un délai de récupération de 120 jours§!"
 
  NODE_MAP_MARKER_TRIGGER:0 "[GetNodeMapMarkerTTHint]"
- NODE_MAP_MARKER_HINT_TT:0 "§gClick to select this node. Selecting a node highlights '§!§MTrade Links§!§g' on map. Selection also opens a panel to control country to send, remove, and manage income and outgoing trade routes.§! \n§!§GGreen§!§g highlight denotes a trade link. \n§!§OOrange§!§g highlight denotes an active trade route.\n\nOnce a node is selected, designated by a shine, selecting another node will allow one to create a trade route.§!"
+ NODE_MAP_MARKER_HINT_TT:0 "§gCliquez pour sélectionner ce nœud. La sélection d'un nœud met en évidence les "§!§MLiens Commerciaux§!§g" sur la carte. La sélection ouvre également un panel permettant de contrôler le pays pour envoyer, retirer et gérer les revenus et les routes commerciales sortantes.§!\n§!§gLa mise en évidence§! §GVerte§!§g dénote un lien commercial.\n§!§gLa mise en évidence§! §OOrange§!§g dénote une route commerciale active.§!"
 
  NODE_MAP_TRADE_CONNECTION_TRIGGER:0 "[GetNodeMapConnectionTTHint]"
  NODE_MAP_TRADE_CONNECTION_HINT_TT:0 "§gCliquez pour visualiser un nœud connecté capable de recevoir une route commerciale à partir du nœud actuellement sélectionné.\n§!§gLa mise en évidence§! §GVerte§!§g dénote un lien commercial.\n§!§gLa mise en évidence§! §OOrange§!§g dénote une route commerciale active.§!"
