@@ -111,39 +111,39 @@
 
   ##Cultural Advisor Traits
 	#Columnist
- 	owb_cultural_advisor_state_columnist: "State Columnist"
+ owb_cultural_advisor_state_columnist: "Journaliste d'État"
  owb_cultural_advisor_state_columnist_desc:0 "Un chroniqueur d'État travaille au nom du gouvernement central pour fournir un reportage transparent, généralement impartial, qui peut être facilement digéré par les habitants du Terres Désolées"
 
- 	owb_cultural_advisor_venerated_columnist: "Venerated Columnist"
+ owb_cultural_advisor_venerated_columnist: "Journaliste Vénéré"
  owb_cultural_advisor_venerated_columnist_desc:0 "Avec le temps, il est presque inévitable que quiconque a été témoin de la nature de la guerre et les Terres Désolées en vienne à la mépriser. Le vénérable chroniqueur est arrivé à ce point dans sa vie, et ses écrits fréquents sont souvent critiqués comme démoralisant pour le public."
 
 	#Ideological Somethingorother
- 	owb_cultural_advisor_ideological_representative: "Ideological Representative"
+ owb_cultural_advisor_ideological_representative: "Représentant Idéologique"
  owb_cultural_advisor_ideological_representative_desc:0 "Le représentant idéologique est capable de puiser au cœur même de l'identité nationale d'une nation, et de l'utiliser pour rallier le peuple en faveur du statu quo."
 
- 	owb_cultural_advisor_ideological_manipulator: "Ideological Manipulator"
+ owb_cultural_advisor_ideological_manipulator: "Manipulateur Idéologique"
  owb_cultural_advisor_ideological_manipulator_desc:0 "Le manipulateur idéologique est capable d'exploiter les croyances et les rêves du noyau démographique de la nation, mais il y parviendra invariablement en se tournant vers des groupes démographiques plus petits, qui à leur tour cesseront de soutenir la nation dans son ensemble."
 
 	#Strategist
- 	owb_cultural_advisor_national_strategist: "National Strategist"
+ owb_cultural_advisor_national_strategist: "Stratège National"
  owb_cultural_advisor_national_strategist_desc:0 "Le stratège national est généralement un guerrier ou un général de haut rang qui se spécialise dans l'organisation non seulement des efforts militaires, mais aussi du haut commandement militaire."
 
- 	owb_cultural_advisor_supreme_strategist: "Supreme Strategist"
+ owb_cultural_advisor_supreme_strategist: "Stratège Suprême"
  owb_cultural_advisor_supreme_strategist_desc:0 "Le stratège suprême est un stratège national de haut rang, auquel la plupart des hauts fonctionnaires font confiance et qu'ils aiment beaucoup pour le devoir qu'ils accomplissent dans les dangereuses Terres Désolées. Cependant, ses revendications se font souvent au détriment de l'élan politique et même du bien commun."
 
 	#Population
- 	owb_cultural_advisor_population_organizer: "Population Organizer"
+ owb_cultural_advisor_population_organizer: "Organisateur de Population"
  owb_cultural_advisor_population_organizer_desc:0 "Dans les Terres Désolées, la gestion des populations n'est pas une tâche simple. Elle implique que des hommes armés aillent faire le recensement, mesurer la quantité d'eau qu'une zone peut supporter et évaluer les menaces générales. Si elle n'est pas effectuée avec soin, une grande nation peut soudainement voir des pans entiers de sa population mourir de faim ou de soif."
 
- 	owb_cultural_advisor_population_micromanager: "Population Micromanager"
+ owb_cultural_advisor_population_micromanager: "Micromanager de Population"
  owb_cultural_advisor_population_micromanager_desc:0 "Le Micromanager de la population est l'évolution naturelle de l'Organisateur de la population. Il se concentre sur l'enregistrement efficace des personnes, la distribution de l'aide et la structuration civile globale. Malheureusement, il a tendance à isoler les personnes qui devraient être exclues du service, mais ils passent généralement inaperçus. Ceux qui sont trop jeunes, trop malades ou trop instables pour servir sont moins susceptibles de le faire sous leur surveillance."
 
 	#Recruiter
- 	owb_cultural_advisor_recruitment_propagandist: "Recruitment Propagandist"
+ owb_cultural_advisor_recruitment_propagandist: "Propagandiste du Recrutement"
  owb_cultural_advisor_recruitment_propagandist_desc:0 "Comme on peut s'y attendre, le propagandiste du recrutement se spécialise dans l'incitation des jeunes à s'engager et à se battre au nom de leur pays d'origine, souvent par le biais d'airs accrocheurs et d'éditoriaux émouvants."
 
- 	owb_cultural_advisor_recruitment_driver: "Recruitment Driver"
- 	owb_cultural_advisor_recruitment_driver_desc: "A Recruitment Driver takes recruitment to the next tier, relying heavily on financial and political pressure to encourage the depserate to enlist in the army. While immoral, none can deny they are effective."
+ owb_cultural_advisor_recruitment_driver: "Recruteur Magouilleur"
+ owb_cultural_advisor_recruitment_driver_desc: "Un Recruteur Magouilleur fait passer le recrutement à l'étape suivante, en s'appuyant sur des pressions financières et politiques pour encourager les désespérés à s'engager dans l'armée. Bien qu'immoraux, personne ne peut nier qu'ils sont efficaces."
 
  chem_pusher:0 "Pousseur Chem"
  slaving_bastard:0 "Bâtard Esclave"
@@ -196,7 +196,7 @@
 
  unrelenting_crusader:0 "Croisé implacable"
 
- expel_danish_heretics_tt:0 "Nous §Yn'§!avons §Ypas§! §Rexpulsé§! les §OHérétiques \"Danois\"§!"
+ expel_danish_heretics_tt:0 "Nous n'avons §Ypas§! §Rexpulsé§! les §OHérétiques \"Danois§!\" !"
 
  calm_doc:0 "Docteur en conflit"
 
@@ -209,7 +209,7 @@
  gods_warrior:0 "Guerrier de Dieu"
 #### Eighties
  grabber_advisor:0 "Shotgun Webster"
- grabber_advisor_desc:80 "L'ancien chef des Grabbers a trouvé un nouveau régime avec les 80's"
+ grabber_advisor_desc:80 "L'ancien chef des Grabbers a trouvé un nouveau régime avec les Eighties"
  bigbear:0 "Big Bear"
  EHT_big_bear:0 "Big Bear Honoré"
  EHT_davison:0 "Davison Honoré"

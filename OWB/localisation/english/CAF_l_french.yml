@@ -1,20 +1,20 @@
 ﻿l_french:
 
   ###Abilities
- ABILITY_coffeerush:0 "Distribute Coffee Rations"
- ABILITY_coffeerush_DESC:0 "Nothing like a hot brew to perk you up."
- ABILITY_coffeerush2:0 "Distribute Raider Roast"
- ABILITY_coffeerush2_DESC:0 "This will get the blood pumping."
- ABILITY_COFFERUSH_TOOLTIP:0 "Coffee Rage!"
+ ABILITY_coffeerush:0 "Distribuer des Rations de Café"
+ ABILITY_coffeerush_DESC:0 "Rien de tel qu'un bon café pour vous remonter le moral."
+ ABILITY_coffeerush2:0 "Distribuer le Rôti de Raiders"
+ ABILITY_coffeerush2_DESC:0 "Cela va faire circuler le sang."
+ ABILITY_COFFERUSH_TOOLTIP:0 "La Rage du Café !"
 
 
   ### Opinion Modifiers
- caf_trade_failed_delivery:0 "Failed Delivery"
- caf_trade_order_canceled:0 "Order Canceled"
- caf_trade_partner:0 "Coffee Consumer"
- caf_cooperation:0 "Cooperation"
- caf_distrust:0 "Distrust"
- caf_customer_service:0 "Great Customer Service Experience"
+ caf_trade_failed_delivery:0 "Échec de la Livraison"
+ caf_trade_order_canceled:0 "Commande Annulée"
+ caf_trade_partner:0 "Consommateur de Café"
+ caf_cooperation:0 "Coopération"
+ caf_distrust:0 "Méfiance"
+ caf_customer_service:0 "Grande Expérience du Service Client"
 
  caf_cartel_old_friends_opinion:0 "Vieux amis"
  caf_cartel_trade_opinion:0 "Rivalité amicale"
@@ -23,17 +23,17 @@
  caf_betrayal:0 "Traître"
 
   #tooltips
- caf_itz_pissed_tt:0 "§YThe Itza will be angered by this action.§!"
- caf_itz_pissed_major_tt:0 "§RThe Itza will be enraged by this action!§!"
- caf_itz_pissed_minor_tt:0 "§YThe Itza will be somewhat annoyed by this action.§!"
+ caf_itz_pissed_tt:0 "§YLes Itza seront en colère de cette action.§!"
+ caf_itz_pissed_major_tt:0 "§RLes Itza seront enragés par cette action !§!"
+ caf_itz_pissed_minor_tt:0 "§YLes Itza seront quelque peu contrariés par cette action.§!"
 
- caf_ate_pissed_tt:0 "§YAztlan will be angered by this action.§!"
- caf_ate_pissed_major_tt:0 "§RAztlan will be enraged by this action!§!"
- caf_ate_pissed_minor_tt:0 "§YAztlan will be somewhat annoyed by this action.§!"
+ caf_ate_pissed_tt:0 "§YLes Aztlani seront en colère à cause de cette action.§!"
+ caf_ate_pissed_major_tt:0 "§RLes Aztlani seront enragés par cette action !§!"
+ caf_ate_pissed_minor_tt:0 "§YLes Aztlani seront quelque peu contrariés par cette action.§!"
 
- caf_unlock_abilities_tt:0 "Unlocks new unit commander abilities."
- caf_temp_factories_tt:0 "Adds §Y2§! temporary factories, these will be removed at the end of the financial half-year."
- caf_lower_req_tt:0 "Lowers our required industrial expansion by §Y1§!."
+ caf_unlock_abilities_tt:0 "Débloque de nouvelles capacités de commandant d'unité."
+ caf_temp_factories_tt:0 "Ajout de §Y2§! usines temporaires, celles-ci seront retirées à la fin du semestre financier."
+ caf_lower_req_tt:0 "Réduit notre expansion industrielle requise de §Y1§!"
 
   ###ideas
 
@@ -64,8 +64,8 @@
  caf_aztlan_support_idea:0 "Mission Militaire Aztlan"
  caf_spiked_drugs_idea:0 "Drogues Dopées"
 
- caf_hidden_major_client:0 "Massive Contracts"
- caf_hidden_warehouses:0 "Spacious Warehouses"
+ caf_hidden_major_client:0 "Contrats Massifs"
+ caf_hidden_warehouses:0 "Entrepôts Spacieux"
 
 
  caf_trade_range_idea:0 "Transport Maritime du Pacifique"
@@ -97,7 +97,7 @@
  caf_successful_financial_year_idea_3:0 "Année Financière Réussie"
  caf_internal_investments_idea:0 "Investissements Internes"
 
- caf_naval_industry_idea:0 "Drydock Expansion"
+ caf_naval_industry_idea:0 "Expansion de la Cale Sèche"
 
  caf_volunteers_idea:0 "Mercenaires Volontaires"
  caf_cartel_drugs_idea:0 "Commerce de la Drogue"
@@ -150,7 +150,7 @@
  caf_light_ships:0 "Évolution des Skiffs"
  caf_light_ships_desc:0 "Les barges de café sont lentes et difficiles à défendre contre les éventuels pensionnaires. Pour assurer la sécurité de notre cargaison, des skiffs rapides et légers sont envoyés pour surveiller les passages fluviaux et côtiers, et pour engager l'ennemi avant qu'il n'atteigne notre flotte principale."
 
- caf_heavy_ships:0 "Barges and Berths"
+ caf_heavy_ships:0 "Barges et Quais d'Amarrage"
  caf_heavy_ships_desc:0 "Nos barges constituent actuellement la majeure partie de nos navires en état de marche. Bien qu'elles soient encombrantes, elles pourraient, si elles étaient suffisamment réaménagées, devenir une solide ossature navale pour notre flotte."
 
  caf_extending_range:0 "Élargir notre Gamme"
@@ -207,11 +207,11 @@
  caf_trade_aztlan:0 "Commercer avec Aztlan"
  caf_trade_aztlan_desc:0 "Aztlan est le pain et le beurre de notre commerce de café, mais cela ne signifie pas que nous pouvons prendre ces clients pour acquis. Une nouvelle initiative commerciale vers les villes frontalières de l'Aztalan est la première étape de notre empire de la chaîne du café."
 
- caf_viceroyalty_monopoly:0 "Southern Monopoly "
+ caf_viceroyalty_monopoly:0 "Monopole du Sud "
  caf_viceroyalty_monopoly_desc:0 "Avec l'annexion de la Vice-Royauté, et l'élimination subséquente de notre seul concurrent dans la région, nous pouvons maintenant nous installer au-dessus de leurs cadavres fumants."
 
  caf_viceroyalty_competition:0 "Prendre Soin de la Compétitivité"
- caf_viceroyalty_competition_desc:0 "Though we have most of the market cornered in the empire of the Aztlani, there is some amount of competition left. [TVR.GetName] is investing heavily into commodity crops to support themselves as an independent state. Wouldn't it be a shame if someone dropped a match or 900 in their plantations?\n\n§g[ATE.GetName]'s decision is contigent on their opinion of [THIS.GetName]§!"
+ caf_viceroyalty_competition_desc:0 "Bien que nous ayons accaparé la majeure partie du marché de l'empire d'Aztlani, il reste une certaine concurrence. [TVR.GetName] investit massivement dans les cultures de base pour subvenir à ses besoins en tant qu'état indépendant. Ne serait-il pas dommage que quelqu'un fasse tomber une allumette ou 900 dans leurs plantations ?\n\n§gLa décision de [ATE.GetName] dépend de son opinion sur [THIS.GetName]§!"
 
  caf_trade_honduras:0 "Commercer avec le Honduras"
  caf_trade_honduras_desc:0 "Le Honduras est un endroit sauvage, la dernière ligne de défense contre une horde d'horreurs et une jungle qui s'étend sans fin. Peut-être pouvons-nous leur accorder une remise pour leurs services à la civilisation."
@@ -280,8 +280,8 @@
  caf_breadbasket_of_mexico:0 "Le Second Grenier du Mexique"
  caf_breadbasket_of_mexico_desc:0 "Si les feux chauds de l'anéantissement nucléaire ont peut-être transformé le reste du monde en un enfer invivable, pour nous, il est devenu un enfer très fertile. Le sol irradié de la Costa Cafeinada peut pousser à peu près tout ce qui est planté, tant qu'il peut survivre au rayonnement de fond."
 
- caf_inmecafe:0 "INMECAFE Techniques"
- caf_inmecafe_desc:0 "Often, when sorting through documents from before the war, we find memos from the Instituto Mexicano del Cafe. INMECAF distributed many materials to assist coffee farmers in the past, and, despite the slightly glowy soil, some of their guidance could help. [THIS.GetLeader] evenn has an idea on where their headquarters may lie."
+ caf_inmecafe:0 "Techniques de l'Institut Mexicain du Café"
+ caf_inmecafe_desc:0 "Souvent, en triant les documents d'avant la guerre, on trouve des mémos de l'Instituto Mexicano del Cafe. L'INMECAF a distribué beaucoup de matériel pour aider les cultivateurs de café dans le passé, et, malgré le sol légèrement incandescent, certains de leurs conseils pourraient être utiles. [THIS.GetLeader] a même une idée de l'endroit où pourrait se trouver leur quartier général."
 
  caf_bumper_crops:0 "Récoltes Exceptionnelles"
  caf_bumper_crops_desc:0 "Un homme ne peut pas vivre uniquement de café, du moins, pas encore en tout cas. Pendant que nous travaillons sur cette question technique, la rotation de nos champs de café avec des cultures céréalières à haut rendement peut nous aider à compenser nos frais généraux."
@@ -298,26 +298,26 @@
  caf_customer_services:0 "Service d'Assistance à la Clientèle"
  caf_customer_services_desc:0 "Ici, chez Costa, le client est toujours le premier sur la liste. Que ce soit sur le champ de bataille, dans le laboratoire d'essais ou dans les champs de plantation, Costa s'engage à aider ses clients à nous aider à les aider."
 
- caf_small_markets:0 "The Craft Market"
- caf_small_markets_desc:0 "Often when a commodity becomes popular, a niche forms for trade of the highest quality product. By cornering this sector of the market, we can build a smaller, but dedicated, consumer base in our local region."
- add_to_small_business_amount:0 "Increase small orders by §p300§! worth §G7.8§! [GetCapTxt] "
+ caf_small_markets:0 "Le Marché de l'Artisanat"
+ caf_small_markets_desc:0 "Souvent, lorsqu'une denrée devient populaire, une niche se forme pour le commerce du produit de la plus haute qualité. En accaparant ce secteur du marché, nous pouvons créer une base de consommateurs plus petite, mais dévouée, dans notre région locale."
+ add_to_small_business_amount:0 "Augmente les petites commandes de §p300§! d'une valeur de §G7.8§! [GetCapTxt]"
 
- caf_major_clients:0 "Major Clients"
- caf_major_clients_desc:0 "Business booms and busts, but when its booming, having a contract with the biggest boomer around will go a long way towards financing our golden toilets!"
+ caf_major_clients:0 "Clients Majeurs"
+ caf_major_clients_desc:0 "Les affaires vont et viennent, mais quand elles sont en plein essor, avoir un contrat avec le plus grand boomer du coin contribuera grandement à financer nos toilettes dorées !"
 
- caf_transportation_infrastructure:0 "Frieght Infrastructure"
- caf_transportation_infrastructure_desc:0 "Creating infrastructure to get coffee where it needs to go, onto a barge, and to the customer is paramount to expanding our reach. A little investment in the far regions will be a great boon."
+ caf_transportation_infrastructure:0 "Infrastructures de Transport"
+ caf_transportation_infrastructure_desc:0 "La création d'infrastructures permettant d'acheminer le café là où il doit aller, sur une barge, et jusqu'au client est primordiale pour étendre notre portée. Un petit investissement dans les régions éloignées sera un grand avantage."
 
- caf_warehouses:0 "The Hangers"
- caf_warehouses_desc:0 "Named for the sacks of coffee hanging from the ceiling in order to control moisture, The Hangers warehouse district in [828.GetName] could do with some rennovation. Increasing our storage capacity for our processors can help us better absorb production fluctuations."
+ caf_warehouses:0 "Les \"Suspentes\""
+ caf_warehouses_desc:0 "Nommé d'après les sacs de café suspendus au plafond afin de contrôler l'humidité, le quartier des entrepôts des Suspentes à [828.GetName] aurait besoin d'être rénové. Augmenter notre capacité de stockage pour nos transformateurs peut nous aider à mieux absorber les fluctuations de production."
 
- caf_processing_facilities:0 "Roastery Blueprints"
- caf_processing_facilities_desc:0 "Our roasting needs have become inadequate as we've grown, one of our engineers, [GetCAFSalesman], has assembled a team to create a new roastery to fit our needs."
+ caf_processing_facilities:0 "Schémas de Torréfaction"
+ caf_processing_facilities_desc:0 "Nos besoins en matière de torréfaction sont devenus inadéquats au fur et à mesure de notre croissance. L'un de nos ingénieurs, [GetCAFSalesman], a réuni une équipe pour créer une nouvelle torréfaction adaptée à nos besoins."
 
- caf_processing_facilities_trigger_tt:0 "§YPrepared to offer a§! §Rconsiderable sum§! §Yto buy a facility§!"
+ caf_processing_facilities_trigger_tt:0 "§YPrêt à offrir une§! §Rsomme considérable§! §Ypour acheter une installation§!"
 
- caf_supply_network:0 "Supply Network"
- caf_supply_network_desc:0 "Bringing all of our previous efficiencies under one system will futher increase our capacity, efficiency, and most importantly, PROFIT "
+ caf_supply_network:0 "Réseau d'Approvisionnement"
+ caf_supply_network_desc:0 "Le fait de regrouper toutes nos activités antérieures dans un seul système nous permettra d'accroître notre capacité, notre efficacité et, surtout, nos PROFITS."
 
  caf_expand_our_operations:0 "Développer nos Opérations"
  caf_expand_our_operations_desc:0 "Notre avenir politique étant assuré, nous pouvons maintenant réaliser nos rêves d'expansion économique, non pas parmi les petits chefs de guerre du Mexique, mais sur toute la côte occidentale et au-delà."
@@ -347,7 +347,7 @@
  nf_caf.0.b:0 "Une société de transport silencieuse, avec des liens solides avec la \"communauté\"."
 
  nf_caf.1.t:0 "Le Goût qu'on ne peut Oublier"
- nf_caf.1.d:0 "\"Ne vous laissez pas tromper par notre mascotte, il n'y a pas que des sourires dans les enceintes de la Costa Cafeineda. Le travail acharné et le dévouement à l'entreprise sont un must pour tous nos employés. Mais ne vous laissez pas abattre, avec une portion gratuite du délicieux mélange maison de Costa chaque jour, vous n'aurez plus jamais de réticence à travailler !\""
+ nf_caf.1.d:0 ""Ne vous laissez pas tromper par notre mascotte, il n'y a pas que des sourires dans les enceintes de la Costa Cafeineda. Le travail acharné et le dévouement à l'entreprise sont un must pour tous nos employés. Mais ne vous laissez pas abattre, avec une portion gratuite du délicieux mélange maison de Costa chaque jour, vous n'aurez plus jamais de réticence à travailler !""
  nf_caf.1.a:0 "Vous vous sentirez aussi fort qu'un condamné à mort !"
  nf_caf.1.b:0 "Ayez l'endurance d'un panthélépard !"
  nf_caf.1.c:0 "Et tout cela est complètement gratuit ! §HTM§!"
@@ -364,20 +364,20 @@
  nf_caf.3.b:0 "Une mission Militaire Perfonctionnelle suffira."
  nf_caf.3.c:0 "Nous n'avons pas le temps pour cela."
 
- nf_caf.4.t:0 "Traveling Coffee Sales-Ghoul"
- nf_caf.4.d:0 "We've gotten a quite interesting visitor recently, a ghoul from the Oaxacaca region in Mexico. Word has spread far and wide about the amazing blends created by the old timers from [CAF.GetName]. Smooth and mellow, bitter and energizing, astringent and fruity; something we can only find in ruins. Their representative is keen on expanding the business to us, and for an unbeatable price!"
+ nf_caf.4.t:0 "Vendeur Ambulant de Café"
+ nf_caf.4.d:0 "Nous avons récemment reçu un visiteur assez intéressant, une goule de la région de Oaxacaca au Mexique. La rumeur s'est répandue dans le monde entier sur les mélanges étonnants créés par les experts de [CAF.GetName]. Doux et moelleux, amers et énergisants, astringents et fruités, ce que l'on ne trouve que dans les ruines. Leur représentant est désireux d'étendre son activité à nous, et ce à un prix imbattable !"
  nf_caf.4.a:0 "[GetCAFPropositionResponse]"
- nf_caf.4.b:0 "We are too tight on [GetCapType] right now"
+ nf_caf.4.b:0 "Nous sommes trop restreints sur [GetCapType] en ce moment."
 
- nf_caf.4_tt:0 "§MInvoice:§!\nCost: [?caps_to_caf_temp|+=2] [GetCapTxt]\n\nAmount: [?caf_shipment_recieved_amount_temp|0p] kilos\nBlend: [GetCAFBlend]\n\n§gWe will pay §!§Y[CAF.GetName]§!§g every 180 days to gain the envigorating effects of coffee for our population, and our troops!§!"
+ nf_caf.4_tt:0 "§MFacture:§!\nCoût: [?caps_to_caf_temp|+=2] [GetCapTxt]\n\nMontant: [?caf_shipment_recieved_amount_temp|0p] kilos\nMélange: [GetCAFBlend]\n\n§g Nous paierons §!§Y[CAF.GetName]§!§g tous les 180 jours pour obtenir les effets revigorants du café pour notre population, et nos troupes !§!"
 
- nf_caf.5.t:0 "New Customers"
- nf_caf.5.d:0 "Our astute salesman, [GetCAFSalesman], was able to strike a deal for a preliminary order of our [GetBlendType] from [FROM.GetName]. We expect this portfolio to prosper with the amount of thristy patrons in [FROM.GetName]. They expect their first shipment soon; fire the roasters!"
+ nf_caf.5.t:0 "Nouveaux Clients"
+ nf_caf.5.d:0 "Notre vendeur avisé, [GetCAFSalesman], a pu conclure un accord pour une commande préliminaire de notre [GetBlendType] auprès de [FROM.GetName]. Nous espérons que ce portefeuille prospérera avec le nombre de clients enthousiastes de [FROM.GetName]. Ils attendent leur première livraison sous peu ; activez les torréfacteurs !"
  nf_caf.5.a:0 "Le Capitalisme, ho !"
 
- nf_caf.6.t:0 "Missed Opportunity"
- nf_caf.6.d:0 "Unfortunately, the sales team send to [FROM.GetName] has failed to secure the account. Though the people will remain thirsty for now, it would be smart to reach out again soon. As we know, the wamingo can not resist thirst forever. For now though we have a 'performance review' of the sales team lead, [GetCAFSalesman]."
- nf_caf.6.a:0 "We needed more help on the plantation anyways"
+ nf_caf.6.t:0 "Occasion Manquée"
+ nf_caf.6.d:0 "Malheureusement, l'équipe de vente envoyée à [FROM.GetName] n'a pas réussi à obtenir le compte. Bien que les gens restent assoiffés pour le moment, il serait judicieux de les contacter à nouveau prochainement. Comme nous le savons, le wamingo ne peut pas résister à la soif éternellement. Pour l'instant, nous avons une \"évaluation des performances\" du chef de l'équipe de vente, [GetCAFSalesman]."
+ nf_caf.6.a:0 "Nous avions besoin de plus d'aide sur la plantation de toute façon"
 
 
   #nf_caf.6.d:0 "Aztlan has always been one of our biggest customers for our coffee sales, but sometimes even we can be surprised by the demand they have. Our trade caravans have returned laden with Aztlan riches, and merchants from the empire have already begun placing hold orders for the next caravan."
@@ -386,23 +386,23 @@
  nf_caf.8.d:0 "À leur arrivée à Tehuacan, nos acheteurs d'Aztlan ont décidé de nous informer de manière convenable qu'ils étaient incapables de payer le prix convenu pour notre produit, espérant manifestement escroquer nos commerçants. Les choses étaient sur le point de s'envenimer lorsque l'un des négociants a proposé le surplus militaire d'Aztlan comme substitut, pour combler le manque à gagner."
  nf_caf.8.a:0 "....Merci ? Je suppose ?"
 
- nf_caf.9.t:0 "Account Closed"
- nf_caf.9.d:0 "[FROM.GetName] has contacted us via messenger pigeon to terminate their account with us. While we can understand that paying the price for our premium product can be difficult, it shouldn't be hard for a nation as wealthy as [FROM.GetName]! We supply small raider gangs and they never have such issues. Thier account isn't a small one either, the details can be found in the attached report. The account manager, [GetCAFSalesman], seems to have boarded a barge yesterday headed for [ITZ.GetName]. His luck seems tenuous, given our best 'finacial implementer' is already in [temp_caf_itz_target_state.GetName] waiting for said barge...\n\n\n\n\nAccount: §G[FROM.GetName]§!\n  Blend: §o[FROM.GetBlendName]§!\n\n    Amount: [?FROM.caf_shipment_recieved_amount|0c] kilos \n    Payment Amount: [?FROM.caps_to_caf|=+2][GetCapTxt] \n    Date Account Opened: [?FROM.caf_date_account_opened.GetDateStringNoHourLong]"
- nf_caf.9.a:0 "A loss is a loss."
- nf_caf.9.b:0 "A discount should convince them."
- nf_caf.9.c:0 "Sweeten the deal."
- caf_remove_order_FROM_tt:0 "[?event_cancellor.GetName] cancels their account with us."
+ nf_caf.9.t:0 "Compte Clos"
+ nf_caf.9.d:0 "[FROM.GetName] nous a contacté par pigeon voyageur pour résilier son compte chez nous. Bien que nous puissions comprendre que le paiement du prix de notre produit haut de gamme puisse être difficile, cela ne devrait pas être difficile pour une nation aussi riche que [FROM.GetName] ! Nous fournissons de petits gangs de raiders et ils n'ont jamais de tels problèmes. Leur compte n'est pas un petit compte non plus, les détails peuvent être trouvés dans le rapport ci-joint. Le responsable du compte, [GetCAFSalesman], semble avoir embarqué hier sur une barge en direction de [ITZ.GetName]. Sa chance semble bien mince, étant donné que notre meilleur \"implémenteur financier\" est déjà à [temp_caf_itz_target_state.GetName] en train d'attendre ladite barge...\n\n\n\n\nCompte: §G[FROM.GetName]§!\n   Mélange: §o[FROM.GetBlendName]§!\n\nMontant: [?FROM.caf_shipment_recieved_amount|0c] kilos \n    Montant du Paiement: [?FROM.caps_to_caf|=+2][GetCapTxt] \n    Date D'ouverture du Compte: [?FROM.caf_date_account_opened.GetDateStringNoHourLong]"
+ nf_caf.9.a:0 "Une perte est une perte."
+ nf_caf.9.b:0 "Une remise devrait les convaincre."
+ nf_caf.9.c:0 "Adoucissez l'affaire."
+ caf_remove_order_FROM_tt:0 "[?event_cancellor.GetName] annule son compte chez nous."
 
- nf_caf.12.t:0 "Order Reduced"
- nf_caf.12.d:0 "Due to some financial difficulties, [FROM.GetName] has decided to reduce their order from us for the time being. In the future we should be able to win them back with some new blends or cutting a deal. Thier account standing is in the attached report\n\n\n\n\nAccount: §G[FROM.GetName]§!\n  Blend: §o[FROM.GetBlendName]§!\n\n    Amount: [?FROM.caf_shipment_recieved_amount|0c] kilos \n    Payment Amount: [?FROM.caps_to_caf|=+2][GetCapTxt] \n    Date Account Opened: [?FROM.caf_date_account_opened.GetDateStringNoHourLong]"
- nf_caf.12.a:0 "They'll come back.."
- caf_reduce_order_FROM_tt:0 "[FROM.GetName] reduces their order by 1/3rd ([?temp_shipment_amount_reduction|0p] kilos)"
+ nf_caf.12.t:0 "Commande Réduite"
+ nf_caf.12.d:0 "En raison de difficultés financières, [FROM.GetName] a décidé de réduire sa commande pour le moment. Dans le futur, nous devrions être en mesure de les reconquérir avec de nouveaux mélanges ou en concluant un accord. La situation de leur compte figure dans le rapport ci-joint\n\n\n\n\nCompte: §G[FROM.GetName]§!\n   Mélange: §o[FROM.GetBlendName]§!\n\nMontant: [?FROM.caf_shipment_recieved_amount|0c] kilos \n    Montant du Paiement: [?FROM.caps_to_caf|=+2][GetCapTxt] \n    Date D'ouverture du Compte: [?FROM.caf_date_account_opened.GetDateStringNoHourLong]"
+ nf_caf.12.a:0 "Ils reviendront.."
+ caf_reduce_order_FROM_tt:0 "[FROM.GetName] réduit sa commande d'un tiers ([?temp_shipment_amount_reduction|0p] kilos)"
 
- nf_caf.13.t:0 "Order Increase Request"
- nf_caf.13.d:0 "Please tell ICODE to rewrite this because he's really tired Thier account standing is in the attached report\n\n\n\n\nAccount: §G[FROM.GetName]§!\n  Blend: §o[FROM.GetBlendName]§!\n\n    Amount: [?FROM.caf_shipment_recieved_amount|0c] kilos \n    Payment Amount: [?FROM.caps_to_caf|=+2][GetCapTxt] \n    Date Account Opened: [?FROM.caf_date_account_opened.GetDateStringNoHourLong]"
- nf_caf.13.a:0 "Business is booming!"
- nf_caf.13.b:0 "We can't support this right now"
- caf_increase_order_FROM_tt:0 "[FROM.GetName] increases their order by 1/3rd ([?temp_shipment_amount_reduction|0p] kilos)"
+ nf_caf.13.t:0 "Demande d'Augmentation de la Commande"
+ nf_caf.13.d:0 "S'il vous plaît, dites à ICODE de réécrire ceci parce qu'il est vraiment fatigué. La situation de leur compte est dans le rapport ci-joint\n\n\n\n\nCompte: §G[FROM.GetName]§!\n   Mélange: §o[FROM.GetBlendName]§!\n\nMontant: [?FROM.caf_shipment_recieved_amount|0c] kilos \n    Montant du Paiement: [?FROM.caps_to_caf|=+2][GetCapTxt] \n    Date D'ouverture du Compte: [?FROM.caf_date_account_opened.GetDateStringNoHourLong]"
+ nf_caf.13.a:0 "Les affaires sont en plein essor !"
+ nf_caf.13.b:0 "Nous ne pouvons pas soutenir cela pour le moment"
+ caf_increase_order_FROM_tt:0 "[FROM.GetName] augmente sa commande d'un tiers ([?temp_shipment_amount_reduction|0p] kilos)"
 
  nf_caf.10.t:0 "Le Capital Humain"
  nf_caf.10.d:0 "Les Guerreros du Honduras ne sont pas un peuple riche, mais ils sont incroyablement violents, et dans ce monde, la violence concentrée vaut son pesant d'or. En échange de notre dernière livraison, un détachement de mercenaires des Guerreros a accepté de travailler pour Costa, à condition que nous leur fournissions les outils nécessaires à leur commerce."
@@ -430,25 +430,25 @@
  nf_caf.15.a:0 "Leur perte."
  caf_dismissed_advisors:0 "Les Conseillers d'Aztlan Licenciés"
 
- nf_caf.16.t:0 "Centralised Roasting"
- nf_caf.16.d:0 "Our operation has been booming recently! Despite the large amount of investment we have put into our processing capacity, the lack of centeralized processing has hampered our ability to streamline the process. To remedy this snaffu, our best engineer, [GetCAFSalesman], proposed a processing facility nearby our hub, §G[828.GetName]§!, in §G[813.GetName]§!. This location is fairly flat, has plenty of background radiation to preserve the beans, and is practically uninhabitable by smoothskins! However, we do not own this land, perhaps a partnership with [ATE.GetName] will give us the best of both worlds?"
- nf_caf.16.a:0 "How nice of that AI to level the area"
- nf_caf.16.b:0 "Can we make a purchase for the land?"
- nf_caf.16.c:0 "Keep the processing in-house"
+ nf_caf.16.t:0 "Torréfaction Centralisée"
+ nf_caf.16.d:0 "Notre activité est en plein essor ces derniers temps ! Malgré les investissements importants que nous avons réalisés dans notre capacité de traitement, l'absence de traitement centralisé a entravé notre capacité à rationaliser le processus. Pour remédier à ce problème, notre meilleur ingénieur, [GetCAFSalesman], a proposé une installation de traitement à proximité de notre nœud, §G[828.GetName]§!, dans §G[813.GetName]§! Cet endroit est assez plat, il y a beaucoup de radiations de fond pour préserver les haricots, et il est pratiquement inhabitable pour les peaux lisses ! Cependant, nous ne possédons pas cette terre, peut-être qu'un partenariat avec [ATE.GetName] nous donnera le meilleur des deux mondes ?"
+ nf_caf.16.a:0 "C'est gentil de la part de l'IA de niveler la zone"
+ nf_caf.16.b:0 "Peut-on faire un achat pour le terrain ?"
+ nf_caf.16.c:0 "Garder le traitement en interne"
 
- nf_caf.17.t:0 "The Purchase of [813.GetName]"
- nf_caf.17.d:0 "Our subject, [CAF.GetName] is growing at a rapid pace due to their booming coffee industry. As they near capacity, they have given us an extremely intriguing proposition: A purchase contract for §G[813.GetName]§!. After the massacre, the land has had little value to us, however empowering [CAF.GetName] may not be the wisest of decisions."
- nf_caf.17.a:0 "A hefty sum outweights the detriments."
- nf_caf.17.b:0 "This land is important."
+ nf_caf.17.t:0 "L'Achat de [813.GetName]"
+ nf_caf.17.d:0 "Notre sujet, [CAF.GetName], connaît une croissance rapide grâce à son industrie du café en plein essor. Alors qu'ils approchent de leur pleine capacité, ils nous ont fait une proposition extrêmement intrigante : Un contrat d'achat pour §G[813.GetName]§!. Après le massacre, la terre a perdu de sa valeur pour nous, mais donner le pouvoir à [CAF.GetName] n'est peut-être pas la plus sage des décisions."
+ nf_caf.17.a:0 "Une somme importante compense les inconvénients."
+ nf_caf.17.b:0 "Cette terre est importante."
 
- nf_caf.18.t:0 "The Purchase of [813.GetName]"
- nf_caf.18.d:0 "They have accepted our proposition, §G[813.GetName]§! is now on its way to become the new site of our centeralized roasting operations!"
- nf_caf.18.a:0 "Begin breaking ground immediately!"
+ nf_caf.18.t:0 "L'Achat de [813.GetName]"
+ nf_caf.18.d:0 "Ils ont accepté notre proposition, §G[813.GetName]§! est maintenant en route pour devenir le nouveau site de nos opérations de torréfaction centralisée !"
+ nf_caf.18.a:0 "Commencez à préparer le terrain immédiatement !"
 
- nf_caf.19.t:0 "The Purchase of [813.GetName]"
- nf_caf.19.d:0 "[ATE.GetName]have declined our request to buy §G[813.GetName]§!, however we may still privately invest in the land, should we see fit!"
- nf_caf.19.a:0 "They do not deserve our business."
- nf_caf.19.b:0 "The location is too perfect."
+ nf_caf.19.t:0 "L'Achat de [813.GetName]"
+ nf_caf.19.d:0 "[ATE.GetName]a refusé notre demande d'achat de §G[813.GetName]§!, mais nous pouvons toujours investir dans le terrain à titre privé, si nous le jugeons bon !"
+ nf_caf.19.a:0 "Ils ne méritent pas nos services."
+ nf_caf.19.b:0 "L'emplacement est trop parfait."
 
   ### caf_viceroyalty_competition
 
@@ -456,15 +456,15 @@
  nf_caf.60.d:0 "Nos caravanes commerciales sont revenues avec un bon succès, notre produit s'est vendu, les acheteurs de retour ont passé des commandes, et les rouages de l'entreprise tournent de plus en plus facilement."
  nf_caf.60.a:0 "Il n'y a pas d'affaires comme les bonnes affaires."
   ### caf_viceroyalty_competition
- nf_caf.61.t:0 "Plantations in Flames"
- nf_caf.61.d:0 "Since our independence, we have invested heaily into expanding our own self sufficientcy as the Aztlani are unreliable at best. Our neighbors to the south however, are not enthused with our crop choices. Despite no evidence of malice, 37 plantations do not simultainiously catch flame in one night on accident."
- nf_caf.61.a:0 "Smells like.... coffee?"
+ nf_caf.61.t:0 "Plantations en Flammes"
+ nf_caf.61.d:0 "Depuis notre indépendance, nous avons investi massivement dans l'expansion de notre propre autosuffisance, car les Aztlani ne sont pas fiables, au mieux. Nos voisins du sud, cependant, ne sont pas enthousiasmés par nos choix de cultures. Malgré aucune preuve de malveillance, 37 plantations ne s'enflamment pas simultanément en une nuit par accident."
+ nf_caf.61.a:0 "Ça sent comme..... le café ?"
 
  nf_caf.20.t:0 "Le Location de Two-Harbour"
  nf_caf.20.d:0 "Récemment, le Cimetière a reçu un afflux de commerce de la part de négociants du café qui arrivent au port en provenance de l'extrême sud du Mexique. Bien que les affaires se soient déroulées sans encombre jusqu'à présent, bien que rarement, Allgood a reçu une offre des négociants, demandant un bail d'amarrage naval sur les îles de Two-Harbour. Bien que leur offre soit certainement généreuse et que les îles n'aient presque aucune valeur réelle pour nous, des inquiétudes ont été soulevées quant à l'opportunité de céder ne serait-ce qu'une petite partie de l'autonomie à une entité inconnue."
  nf_caf.20.a:0 "Plus de café pour tout le monde !"
  nf_caf.20.b:0 "Je suis plutôt un amateur de thé de toute façon."
- nf_caf.20.c:0 "Water is my choice of beverage."
+ nf_caf.20.c:0 "L'eau est ma boisson de prédilection."
 
  nf_caf.21.t:0 "La Dernière Escale"
  nf_caf.21.d:0 "La vie à Arroyo est paisible, suffisamment éloignée des intérêts de la RNC ou des factions belligérantes du Nord, notre tranquillité est très précieuse. Aujourd'hui, cette paix a été troublée par d'énormes navires étrangers, amarrés dans le port de Sixes. Les goules à bord prétendaient venir d'une terre lointaine au sud et apportaient des cadeaux de nourriture et de boisson à notre peuple, en échange, elles ne demandaient que la liberté d'accoster et de faire reposer leurs navires sur nos côtes, avant de s'aventurer plus loin dans le Nord glacé."
@@ -532,39 +532,39 @@
  nf_caf.53.d:0 "Malgré le lobbying passionné des groupes d'intérêts environnementaux et agricoles locaux, l'interdiction du café Costa n'a pas été transposée dans la législation, en partie grâce à la campagne énergique du principal bénéficiaire de Costa dans la RNC, \"Allgood\" Murphy et le Cimetière, dont la croissance économique continuera de croître grâce au commerce de Costa."
  nf_caf.53.a:0 "Un peu de café n'a jamais fait de mal à personne."
 
- nf_caf.71.t:0 "Costa Cafeinada offers a new blend"
- nf_caf.71.d:0 "New advertisements and sales pitchers have arrived from Costa Cafeinada, touting the wonders of their premium coffee blend: Raider Roast. Apparently the new flavour has twice the kick of the old strain, and is being offered to us at quite a reasonable first-time discount, shall we take the ghouls up on the offer?"
- nf_caf.71.a:0 "Let's give it a taste."
- nf_caf.71.b:0 "We'll pass, thanks."
+ nf_caf.71.t:0 "Costa Cafeinada propose un nouveau mélange"
+ nf_caf.71.d:0 "De nouvelles publicités et de nouveaux lanceurs de vente sont arrivés de Costa Cafeinada, vantant les mérites de leur mélange de café premium : Rôti de Raiders. Apparemment, le nouveau goût a deux fois plus d'effet que l'ancienne variété, et il nous est proposé à un prix très raisonnable pour une première fois, allons-nous accepter l'offre des goules ?"
+ nf_caf.71.a:0 "Goûtons-y."
+ nf_caf.71.b:0 "On passe notre tour, merci."
 
   ###decisions###
 
   ### Mechanical
- caf_trade_offshore_investment:0 "Offshore Investment"
- caf_trade_offshore_investment_desc:0 "We use some of our newfound wealth to better bolster our economic growth."
- caf_trade_temp_factories:0 "Fudge the Numbers"
- caf_trade_temp_factories_desc:0 "As long as it's written down, it's real."
- caf_trade_lower_req:0 "Paid Expectations"
- caf_trade_lower_req_desc:0 "Better to let them down easy on a bed of caps."
+ caf_trade_offshore_investment:0 "Investissement à l'Étranger"
+ caf_trade_offshore_investment_desc:0 "Nous utilisons une partie de notre nouvelle richesse pour mieux soutenir notre croissance économique."
+ caf_trade_temp_factories:0 "Truquer les Statistiques"
+ caf_trade_temp_factories_desc:0 "Tant que c'est écrit, c'est réel."
+ caf_trade_lower_req:0 "Attentes en Termes de Paiement"
+ caf_trade_lower_req_desc:0 "Il vaut mieux les laisser tomber doucement sur un lit de capsules."
 
  drug_equipment_coffee_1:0 "Coffea Arabica de la Costa"
- drug_equipment_coffee:0 "Coffee"
- drug_equipment_coffee2:0 "Fancy Coffee"
- drug_equipment_coffee_desc:0 "Grown in Oaxaca, this cultivar thrives on the fresh, slightly salty air of the Rio Verde, perched on the mountains surrounding the Verde–Atoyac basin. As an Arabica, the flavor is smooth and chocolaty, however also hints with tang.... maybe a result of the fallout some 30 years ago."
+ drug_equipment_coffee:0 "Café"
+ drug_equipment_coffee2:0 "Café Chic"
+ drug_equipment_coffee_desc:0 "Cultivé à Oaxaca, ce cultivar s'épanouit dans l'air frais et légèrement salé du Rio Verde, perché sur les montagnes entourant le bassin Verde-Atoyac. En tant qu'Arabica, son goût est doux et chocolaté, mais il a aussi des notes de piment...., peut-être à cause des retombées d'il y a une trentaine d'années."
 
- caf_trade_decisions:0 "Coffee Shipment Orders"
+ caf_trade_decisions:0 "Commandes d'Expédition de Café"
  caf_trade_decisions_desc:0 ""
 
 
- drug_equipment_coffee_2:0 "Coffea Arabica - Raider Roast"
+ drug_equipment_coffee_2:0 "Coffea Arabica - Rôti de Raider"
 
 
- drug_technology_coffee_2:0 "Raider Roast Blend"
+ drug_technology_coffee_2:0 "Mélange Rôti de Raider"
  drug_equipment_coffee_2_desc:0 ""
 
   ### Scripted Loc
  caf_blend_1_name:0 "Coffea Arabica - Original"
- caf_blend_2_name:0 "Coffea Arabica - Raider Roast"
+ caf_blend_2_name:0 "Coffea Arabica - Rôti de Raider"
  salesman_1_name:0 "Alfredo"
  salesman_2_name:0 "Isidoro"
  salesman_3_name:0 "Bautista"
@@ -593,67 +593,67 @@
  caf_available_factories_tooltip_4:0 "Nous avons besoin de §G4§! usines hors carte disponibles pour commencer cette mission commerciale."
  caf_available_factories_tooltip_5:0 "Nous avons besoin de §G5§! usines hors carte disponibles pour commencer cette mission commerciale."
 
- caf_opinion_change:0 "Opinion of §YCosta Cafeinada§! changes by $RIGHT|0+$"
+ caf_opinion_change:0 "L'opinion de §YCosta Cafeinada§! est modifiée de $RIGHT|0+$"
  caf_new_strain_idea_tt:0 "En choisissant cette priorité, vous recevrez l'esprit national §YUne Nouvelle Tendance§! pendant §Y150 jours§!, ce qui augmentera la vitesse de recherche de §G25%§!."
 
   ### Add customer
- caf_unlock_trade_partner:0 "Unlock §Y[THIS.GetName]§! as a potential customer for §Y[CAF.GetName]§!"
- caf_trade_enable_decision:0 "Send Coffee Salesman to: §Y[FROM.GetName]§!"
+ caf_unlock_trade_partner:0 "Déverrouille §Y[THIS.GetName]§! comme client potentiel pour la §Y[CAF.GetName]§!"
+ caf_trade_enable_decision:0 "Envoye le Vendeur de Café à : §Y[FROM.GetName]§!"
 
   ### Mission
- caf_next_shipment_mission:0 "Pending Order!"
- caf_next_shipment_mission_available_tt:0 "Has Shipment: [?caf_next_shipment_amount|0p] kilos of coffee [GetBlend2Amount] \n    §gCurrent amount: [?num_equipment@drug_equipment_coffee|0p] kilos Original, [?num_equipment@drug_equipment_coffee2|0p] kilos Raider Roast Blend§!"
+ caf_next_shipment_mission:0 "Commande en Cours !"
+ caf_next_shipment_mission_available_tt:0 "A l'expédition : [?caf_next_shipment_amount|0p] kilos de café [GetBlend2Amount]. \n    §gMontant actuel: [?num_equipment@drug_equipment_coffee|0p] kilos Originaux, [?num_equipment@drug_equipment_coffee2|0p] kilos de Mélange Rôti de Raiders§!"
  caf_next_shipment_mission_remove_tt:0 "[GetCAFMissionRemoveTT]"
- caf_blend_2_available_tt:0 "\n    Including [?caf_next_shipment_amount_blend_2|0p] kilos of Raider Roast"
- caf_next_shipment_mission_remove_tt_tooltip:0 "Earn [?caf_payment|2+=] [GetCapTxt] from coffee sales\n  [?caps_from_small_business|2+=] [GetCapTxt] from small orders\n  §gBonus: [?modifier@caf_coffee_shipment_bonus|2%=+]§!\nShipment Total: [?caf_next_shipment_temp|0p] kilos\n  §gSmall Orders:§! [?shipment_to_small_business|0p]\n  Trade Partners:\n[GetCAFTradePartners]"
- caf_coffee_shipment_bonus:0 "Income from §pCoffee§! Sales"
+ caf_blend_2_available_tt:0 "\n   Y inclus [?caf_next_shipment_amount_blend_2|0p] kilos de Rôti de Raider"
+ caf_next_shipment_mission_remove_tt_tooltip:0 "Gagnez [?caf_payment|2+=] [GetCapTxt] sur les ventes de café.\n  [?caps_from_small_business|2+=] [GetCapTxt] de petites commandes\n  §gBonus: [?modifier@caf_coffee_shipment_bonus|2%=+]§!\nExpéditions Totales: [?caf_next_shipment_temp|0p] kilos\n  §gPetites Commandes:§! [?shipment_to_small_business|0p]\n  Partenaires Commerciaux:\n[GetCAFTradePartners]"
+ caf_coffee_shipment_bonus:0 "Revenu des Ventes de §pCafé§!"
 
- caf_array_entry_n:0 "      §Y[?ROOT.caf_trade_partners^cur.GetName]§! [?entry_amount|0p] kilos of [GetBlendNameFromTemp]\n[CAFArrayTTEntry]"
+ caf_array_entry_n:0 "      §Y[?ROOT.caf_trade_partners^cur.GetName]§! [?entry_amount|0p] kilos de [GetBlendNameFromTemp]\n[CAFArrayTTEntry]"
 
   ### Small business mission
- caf_market_small_business:0 "Advertise to Local Markets"
+ caf_market_small_business:0 "Faire la Promotion des Marchés Locaux"
 
   ### Target decisions
- caf_future_roastery_tt:0 "We will approach Aztlan over the purchase and development of a §pRoastery§! in La Liberacion."
- caf_customer_decisions:0 "[CAF.GetName] §pCoffee§! Blends"
+ caf_future_roastery_tt:0 "Nous nous rapprocherons d'Aztlan pour l'achat et le développement d'une §pRôtisserie§! dans La Liberacion."
+ caf_customer_decisions:0 "[CAF.GetName] Mélanges de §pCafé§!"
 
- caf_target_remove_order:0 "Close account with §Y[CAF.GetName]§!"
- caf_target_reduce_order:0 "Reduce Next Coffee Shipment"
- caf_target_increase_order:0 "Increase Next Coffee Shipment"
- caf_target_trade_mission:0 "Coffee Order Delivery"
- caf_target_trade_mission_desc:0 "Order Invoice:\n  Blend: [GetBlendName]\n\n  Amount: [?caf_shipment_recieved_amount|0p]\n  Cost: [?caps_to_caf|0-][GetCapTxt] \n  Bonus Duration: [?caf_delivery_days_timeout|0]"
- caf_mission_fulfilled_tt:0 "Order Fulfilled"
+ caf_target_remove_order:0 "Fermer le compte avec §Y[CAF.GetName]§!"
+ caf_target_reduce_order:0 "Réduire la Prochaine Expédition de Café"
+ caf_target_increase_order:0 "Augmenter la Prochaine Expédition de Café"
+ caf_target_trade_mission:0 "Commandes de Livraison de Café"
+ caf_target_trade_mission_desc:0 "Facture de la Commande:\n  Mélenge: [GetBlendName]\n\n  Montant: [?caf_shipment_recieved_amount|0p]\n  Coût: [?caps_to_caf|0-][GetCapTxt] \n  Durée du Bonus: [?caf_delivery_days_timeout|0]"
+ caf_mission_fulfilled_tt:0 "Commande Satisfaite"
 
- caf_trade_market_blend_2_decision:0 "Market Blend: Raider Roast"
+ caf_trade_market_blend_2_decision:0 "Mélange du Marché : Rôti de Raider"
 
   ### Delivery Ideas
- caf_failed_delivery_idea:0 "Failed Delivery"
- caf_delivery_idea:0 "Recent Shipment"
+ caf_failed_delivery_idea:0 "Échec de la Livraison"
+ caf_delivery_idea:0 "Envoi Récent"
 
  caf_trade_internal:0 "Investissements Internes"
- caf_trade_internal_desc:0 "Putting some of the beans we get from selling beans to good use."
+ caf_trade_internal_desc:0 "Mettre à profit une partie des haricots que nous obtenons en les vendant."
 
- caf_ai_factory_decision_tt:0 "[?ai_lost_factories_to_coffee|0] simulated factories for a [?coffee_produced] simulated production"
+ caf_ai_factory_decision_tt:0 "[?ai_lost_factories_to_coffee|0] usines simulées pour une production simulée [?coffee_produced]"
  caf_internal_investment_tt:0 "La poursuite des investissements internes nous permettra de renforcer notre capacité de commerce extérieur."
 
 
- caf_economy_decisions:0 "Private Investment"
- caf_economy_decisions_desc:0 "Business is Blooming"
- caf_plantation_expansion:0 "Plantation Expansion"
+ caf_economy_decisions:0 "Investissement Privée"
+ caf_economy_decisions_desc:0 "Les Affaires sont Florissantes"
+ caf_plantation_expansion:0 "Expansion des Plantations"
  caf_plantation_expansion_desc:0 ""
- caf_production_drives:0 "Production Drives"
+ caf_production_drives:0 "Conduite de Production"
  caf_production_drives_desc:0 ""
- caf_random_investment:0 "Animal Spirits"
+ caf_random_investment:0 "Esprits Animaux"
  caf_random_investment_desc:0 ""
 
- caf_production_drives_idea:0 "Production Drives"
+ caf_production_drives_idea:0 "Conduite de Production"
  caf_production_drives_idea_desc:0 ""
 
   ### Roastery
- caf_develop_roastery:0 "Develop Roastery in §Y[FROM.GetName]§!"
- caf_develop_roastery_trigger_tt:0 "Roastery is less than level §G7§!\n  §gCurrent Level:§! [?roastry_level|0G]"
- caf_develop_roastery_increase_tt:0 "Increase Roastery Efficiency by: [?roastery_idea_temp|+%=]"
- caf_roastery_dynamic_modifier:0 "The Roastery"
+ caf_develop_roastery:0 "Développer la torréfaction dans §Y[FROM.GetName]§!"
+ caf_develop_roastery_trigger_tt:0 "La torréfaction est inférieure au niveau §G7§!\n    §gNiveau actuel:§! [?roastry_level|0G]"
+ caf_develop_roastery_increase_tt:0 "Augmenter l'Efficacité de la Torréfaction de : [?roastery_idea_temp|+%=]"
+ caf_roastery_dynamic_modifier:0 "Le Torréfacteur"
 
  caf_trade_aztlan_decision:0 "Préparer une Mission Commerciale à Aztlan"
  caf_trade_aztlan_decision_desc:0 "Aztlan est le pain et le beurre de notre commerce de café, mais cela ne signifie pas que nous pouvons prendre ces clients pour acquis. Une nouvelle initiative commerciale vers les villes frontalières de l'Aztalan est la première étape de notre empire de la chaîne du café."
@@ -740,8 +740,8 @@
  caf_independence:0 "Mauvaises Affaires"
  caf_independence_desc:0 "Rien de personnel, gamin. \nAztlan Pissed-off-O-meter :  §R[?caf_ate_fucking_pissed]§!"
 
- caf_ate_fucking_pissed_tooltip:0 "We need at least §R10§! Independence points (As tracked by the Pissed-off-O-meter) to break away."
- caf_itz_fucking_pissed_tooltip:0 "We need at least §R10§! Trade Power points (As tracked by the Pissed-off-O-meter) to embargo Itza."
+ caf_ate_fucking_pissed_tooltip:0 "Nous avons besoin d'au moins §R10§! points d'indépendance (selon le Pissed-off-O-meter) pour se détacher."
+ caf_itz_fucking_pissed_tooltip:0 "Il nous faut au moins §R10§! Points Commerciaux de Pouvoir (selon le Pissed-off-O-meter) pour mettre un embargo sur Itza."
 
  caf_independence_disrupt_sea_trade:0 "Perturber le Commerce Maritime"
  caf_independence_water_down:0 "Arroser notre Café"
