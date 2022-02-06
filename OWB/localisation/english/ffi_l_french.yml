@@ -3,11 +3,11 @@
  FFI_LAS_TRES_MASCARAS_NAME:0 "Las Tres Mascaras"
  FFI_LAS_TRES_MASCARAS_DESC:0 "Lorsque les tribus masquées se sont unies pour lutter contre les cartels qui sévissaient à Los Mochis et dans les terres environnantes, ce sont ces trois-là qui ont fait office de force de liaison. Mil Mascaras, le Titan Vert, le Preneur de Masques, le Torero lui-même, apportant force et courage aux tribus. Le Diable Bleu, jadis ennemi juré des tribus, ses tactiques astucieuses de délit de fuite et ses armes puissantes portant un grand coup aux responsables du cartel. Et le père de tout cela, El Santo, guerrier vertueux, pur de cœur, d'esprit et d'âme, porteur de justice et défenseur des faibles. C'est Lui qui s'est d'abord opposé au Sinoloa, et c'est Lui qui a conduit le Beltran dans les jungles du sud. Ensemble, ils forment une équipe mal à l'aise, bien que puissante."
  FFI_MIL_MASCARAS_NAME:0 "Mil Mascaras"
- FFI_MIL_MASCARAS_DESC:0 "Mil Mascaras is a figure shrouded in mystery. Despite his many battles and victories, the Super Mutant remains an enigma, a hero hidden beneath a thousand masks. There are whispers of a past Mil Mascaras wishes he could forget, one spent toiling under the Legion’s whip, a slave revolt ending in tragedy, and a selfless act that would define the man behind the mask."
+ FFI_MIL_MASCARAS_DESC:0 "Mil Mascaras est un personnage entouré de mystère. Malgré ses nombreuses batailles et victoires, le Super Mutant reste une énigme, un héros caché sous mille masques. Il se murmure que Mil Mascaras souhaiterait oublier son passé, un passé où il a peiné sous le fouet de la Légion, une révolte d'esclaves qui s'est terminée en tragédie, et un acte désintéressé qui définira l'homme derrière le masque."
  FFI_EL_SANTO_NAME:0 "El Santo"
- FFI_EL_SANTO_DESC:0 "Those who fight for a righteous cause with righteous means are the exception in Mexico, America, and perhaps the entire world. El Santo is the exception of exceptions. El Santo saw the rise of the Cartels, how they would tread on all those underneath them, and wept. These tears would become a fire within his heart to one day liberate all those under the boot of the Cartels, and return to the days of peace stolen by evil."
+ FFI_EL_SANTO_DESC:0 "Ceux qui se battent pour une cause juste avec des moyens justes sont l'exception au Mexique, en Amérique, et peut-être dans le monde entier. El Santo est l'exception des exceptions. El Santo a vu la montée en puissance des cartels, comment ils allaient piétiner tous ceux qui étaient en dessous d'eux, et il a pleuré. Ces larmes sont devenues un feu dans son cœur pour libérer un jour tous ceux qui sont sous la botte des cartels, et revenir aux jours de paix volés par le mal."
  FFI_DEMONIO_AZUL_NAME:0 "Demonio Azul"
- FFI_DEMONIO_AZUL_DESC:0 "When you are faced with adversity, you have only one task that you owe yourself. An honorable defeat leads nowhere but death and suffering, and El Diablo Azul knows this. He knows the Cartels play by rules that the honorable could not comprehend, and that this would lead only to defeat. His reputation as underhanded and cunning both within the ring and without serves him well, catching his enemy on off-footing."
+ FFI_DEMONIO_AZUL_DESC:0 "Quand vous êtes face à l'adversité, vous n'avez qu'une seule tâche à accomplir. Une défaite honorable ne mène qu'à la mort et à la souffrance, et El Diablo Azul le sait. Il sait que les cartels jouent selon des règles que l'honorable ne peut comprendre, et que cela ne peut mener qu'à la défaite. Sa réputation de sournois et de rusé, tant sur le ring qu'en dehors, lui sert à prendre son ennemi à contre-pied."
  FFI_EMILIO_MUZQUIZ_NAME:0 "Emilio Múzquiz"
  FFI_EMILIO_MUZQUIZ_DESC:0 ""
 
@@ -35,7 +35,7 @@
 
  #traits
  ortiz_trait:0 "Nuit"
- cruz_trait:0 "Shade Bringer"
+ cruz_trait:0 "Facteur-des-Ombres"
  gonzalez_trait:0 "Docteur bien-aimé"
  rivera_trait:0 "Honorable chirurgien"
  rodriguez_trait:0 "Puissant"

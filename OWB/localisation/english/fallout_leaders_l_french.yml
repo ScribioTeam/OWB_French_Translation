@@ -64,7 +64,7 @@
  # ASS
  Tuffy_DESC:0 "Décrit par les fans comme \"construit comme un réfrigérateur avec une tête\", Tuffy est le pivot lourd des Assassin City Rollergirls. Toujours furieux après leur violente éjection du Fair Park Coliseum des mains de la Confrérie du Texas, Tuffy et les filles ont consolidé leur emprise sur Paris, au Texas, tout près de chez elles - complotant sans doute pour reprendre leur stade à la première occasion."
  # ATE
- ATE_EMPRESS_NAME:0 "Speaker Yesenia Aztlanl"
+ ATE_EMPRESS_NAME:0 "Porte-Parole Yesenia Aztlanl"
  ATE_EMPRESS_DESC:0 "Yesenia a régné sur l'Empire depuis qu'elle a été poussée sur le trône de manière inattendue dans sa jeunesse, après le bombardement nucléaire de Tlaloc sur une armée dirigée par sa mère et son père, et la mort subséquente de ses deux frères pendant la douloureuse retraite qui a suivi. Le spectre de cet événement sombre a plané sur son mandat d'impératrice depuis, et sa défaite subséquente aux mains des Itza n'a fait que renforcer le murmure qu'elle pourrait être indigne.  Malgré tout, l'impératrice aveugle sait qu'elle ne peut se permettre d'abandonner le poids du leadership, car un rêve terrible la hante depuis dix ans. Elle sait que Tlaloc mourra et que son départ s'accompagnera d'une ère de sang et de chaos."
  ATE_RAFAEL_NAME:0 "Rafael Cuauhtli"
  ATE_RAFAEL_DESC:0 "L'ascension fulgurante de Rafael Cuāuhtli vers le pouvoir au sein de l'Empire a bouleversé l'équilibre que beaucoup considéraient comme essentiel à l'Empire, mais son charisme et son contrôle total de l'armée n'a laissé aucune possibilité réaliste de le défier au sein du pays. Déjà, il s'est déclaré le premier de la nouvelle dynastie \"Cuāuhtli\". Cuāuhtli, le Sauveur."
@@ -167,7 +167,7 @@
  CES_MALPAIS_NAME:0 "Légat Malpais"
  CES_MALPAIS_DESC:0 "Au cours des années passées à travailler avec Caesar, il a appris à donner des ordres et à mener la bataille. Entraîner, punir et terroriser ; une série de petites erreurs qui s'accumulent.  Le légat Malpais reprend maintenant le manteau de Caesar, et apportera la lumière du Seigneur aux Terres Désolées, même si c'est peut-être plus littéralement que ce que ses frères avaient prévu."
  CES_AURELIUS_NAME:0 "Aurelius de Phoenix"
- CES_AURELIUS_DESC:0 "Although some wonder how Aurelius rose so highly in the rank, none can deny that he towers above his peers."
+ CES_AURELIUS_DESC:0 "Bien que certains se demandent comment Aurélius a pu atteindre un tel rang, personne ne peut nier qu'il dépasse ses pairs."
  CES_CAIUS_DRUSUS_NAME:0 "Caius Drusus"
  CES_CAIUS_DRUSUS_DESC:0 "Carrying himself with the pomp and dignity one would expect from a centurion, while also maintaining the air of a seasoned warrior, Caius is called the prophet of Hades among the Legion. Caius is the only ghoul to ever ascend to the rank of Legate before Caesar's death. Caius began his 'career' as a soldier under Colonel Green on the Reservation, but he soon saw a need to protect ghouls across the Wasteland. And who better to do so than the Legion? The tribes whisper that Caius is already dead; but if that is so, who better to lead after Caesar's ascension?"
  CES_VULPES_NAME:0 "Vulpes Inculta"
@@ -315,7 +315,7 @@
  HAN_WARDEN_NAME:0 "WARDEN"
  HAN_WARDEN_DESC:0 "Le protocole de sécurité WARDEN est une série de programmes d'avant-guerre exécutés par l'ordinateur central ZAX situé dans La Boîte, une grande usine de production de robots au cœur de Denver. WARDEN a été conçu par les programmeurs de Robco pour réprimer les troubles et les émeutes.\n200 ans plus tard, WARDEN a été réactivé à partir du mode veille et est plus que désireux de ramener Denver à l'ordre."
  HAN_COLOSSUS_NAME:0 "COLOSSUS"
- HAN_COLOSSUS_DESC:0 "The AI located at the box was not always known under the Warden security protocol. At one point, during the time of the Prisoner's travels it was known for its time under the COLOSSUS war game protocol. Diana, feeling that its worth it that the Box's ZAX doesn't forget its roots has restored the Box's original protocol."
+ HAN_COLOSSUS_DESC:0 "L'IA située dans la boîte n'a pas toujours été connue sous le protocole de sécurité "Warden". À un moment donné, pendant les voyages du Prisonnier, elle était connue sous le protocole de jeu de guerre de COLOSSUS. Diane, estimant qu'il est important que le ZAX de la boîte n'oublie pas ses racines, a restauré le protocole original de la boîte."
  HAN_DREAM_HUNTER_SPINEBREAKER_NAME:0 "Chasseur de Rêves Spinebreaker"
  HAN_DREAM_HUNTER_SPINEBREAKER_DESC:0 ""
  HAN_GREAT_GECKO_NAME:0 "Grand Gecko"
@@ -573,7 +573,7 @@
  NPE_OVERCLAUS_DESC:0 ""
  # ODY
  ODY_ODYSSEUS_NAME:0 "ODYSSEUS"
- ODY_ODYSSEUS_DESC:0 "In the 2040’s the §R“ULYSSES”§! AI research of the company Greenway Hydroponics led to the creation of two artificial intelligences. One, §R"TLALOC"§! would be poised to command Mexico and ensure compliance.\nThe other, §R"ODYSSEUS"§! would be charged with watching and mitigating the spread of the New Plague.\n\nIn the period following the great war ODYSSEUS was tricked by Victor Presper into believing a wide-spread New Plague outbreak had occurred. It would send his robots to rampage across Arizona and Colorado seeking rightful containment of those believed to be carriers, etching fear into the Wasteland as it went. Only a shell remains of its former intelligence remained after a self-inflicted immolation due to falsely believing the New Plague epidemic to be unstoppable.\n\nRecently, Diana Stone has managed to find a backup of ODYSSEUS’s memory core, using it and installing it within the memory-drained ZAX of Boulder Dome in order to bring the fabled intelligence online once again."
+ ODY_ODYSSEUS_DESC:0 "Dans les années 2040, les recherches sur l'IA §R"ULYSSES"§! de la société Greenway Hydroponique ont conduit à la création de deux intelligences artificielles. L'une, §R\"TLALOC\"§!, serait prête à commander le Mexique et à s'assurer de sa conformité.\nL'autre, §R\"ODYSSEUS§!, serait chargé de surveiller et d'atténuer la propagation de la Nouvelle Peste.\n\nAu cours de la période qui a suivi la grande guerre, ODYSSEUS a été trompé par Victor Presper qui lui a fait croire qu'une nouvelle épidémie de peste s'était répandue. Il envoya ses robots se déchaîner à travers l'Arizona et le Colorado en cherchant à contenir ceux qui étaient considérés comme des porteurs, semant la peur dans les Terres Désolées sur leur passage. Il ne restait qu'une coquille de son ancienne intelligence après une immolation auto-infligée due à la croyance erronée que l'épidémie de nouvelle peste était inarrêtable.\n\nRécemment, Diana Stone a réussi à trouver une sauvegarde du noyau de mémoire d'ODYSSEUS, l'utilisant et l'installant dans le ZAX de Boulder Dome à court de mémoire afin de remettre en ligne la légendaire intelligence."
  # OLY
  HERMES_DESC:0 "Né de la tribu Olympus il y a 20 ans, Hermès a pris la tête du groupe lorsque la Confrérie de Washington a commencé sa campagne contre son peuple. Tirant son nom de sa capacité unique à traverser les flancs des montagnes enneigées à la vitesse de l'éclair, Hermès s'est révélé être un commandant compétent et un leader affectueux. Il devra cependant faire appel à toutes les astuces de sa tribu s'il veut survivre à l'assaut de l'Immortel."
  # ORO
@@ -599,7 +599,7 @@
   #
  # PHR
  PHR_HARVEY_THOMPSON_NAME:0 "Harvey Thompson"
- PHR_HARVEY_THOMPSON_DESC:0 "Born to a trader couple who ran a gun store in Phoenix, Harvey was brought up in his parent's trade. He learned how to shoot with his father daily, alongside learning to clean and repair guns. By 16 he had joined the town militia, and by 25 he was at its head. Now he raises the flag of Phoenix, resolved to die as a free man rather than live as a slave."
+ PHR_HARVEY_THOMPSON_DESC:0 "Né d'un couple de commerçants qui tenait une armurerie à Phoenix, Harvey a été élevé dans le métier de ses parents. Il apprenait quotidiennement à tirer avec son père, tout en apprenant à nettoyer et à réparer les armes. À 16 ans, il a rejoint la milice de la ville, et à 25 ans, il en était le chef. Aujourd'hui, il hisse le drapeau de Phoenix, résolu à mourir en homme libre plutôt que de vivre en esclave."
  # PMR
  GRANGER_STORM_DESC:0 "À l'origine une pirate terrorisant les côtes d'Oregon et de la Californie du Nord, Granger Storm et son gang ont arraché le contrôle de Port Maw aux Gardiens du Blanc après une guerre de territoire acharnée. Déterminée à créer un empire criminel qui rivalisera avec celui de New Reno, Granger supervise personnellement les activités d'extorsion, d'esclavage et de contrebande de son gang. Personne ne fait des affaires dans la ville sans que Storm ne reçoive une part des profits."
  # PNT
@@ -674,7 +674,7 @@
  # SHI
  SHI_Leader_DESC:0 "La Dr Sheng est la chef désigné du \"Conseil de San Francisco\", un organe directeur composé de membres de l'École du Dragon, de l'École de la Grue, du Département Scientifique Shi et du Palais d'Acier de l'Empereur. (Les membres de l'Église de Hubologie ont également droit à un siège limité au conseil. )\n\nBien que l'Empereur, mystérieux et rarement vu, soit de jure le souverain céleste de San Francisco, l'Empereur ne prend pas part aux affaires internes ou externes, mais seulement aux affaires de l'esprit et de la Cour Céleste Supérieure. C'est au chef du conseil élu qu'il revient de gérer les affaires internes et externes au jour le jour.\n\nLa Dr Sheng a plus que mérité son poste d'élue. Pionnière de la recherche en botanique, elle a été le chef de projet à l'origine de la création du \"Sérum de Sentience Botanique\" (SSB), un sérum de croissance qui a permis à San Francisco d'être l'une des villes les moins irradiées de toute la côte ouest Américaine.\nSheng a également un don pour la diplomatie - il a été un personnage clé dans la négociation du programme d'échange culturel San Francisco - Sables Ombragés. Sous la direction de Sheng, la ville de San Francisco a un avenir vraiment brillant."
  # SHO
- TECHKI_DESC:0 "The Chief for as as long as most of the Shoshone can remember, Techki has seen their people through some of their best and worst days in this hellhole of a wasteland. Coming to power following the murder of their father at the hands of Heaven's Gate fanaticals, one of Techki's first duties was to lead their people westwards to safer territoy. Although they vow to one day lead their people back home one day, Chief Techki know it won't be easy. Regardless, they're willing to try,"
+ TECHKI_DESC:0 "Chef depuis aussi longtemps que la plupart des Shoshones s'en souviennent, Techki a vu son peuple traverser certains des meilleurs et des pires jours dans cet enfer de terres désolées. Arrivé au pouvoir après le meurtre de son père par les fanatiques de Heaven's Gate, l'un des premiers devoirs de Techki a été de conduire son peuple vers l'ouest, vers des territoires plus sûrs. Bien qu'ils jurent de ramener un jour leur peuple chez lui, les chefs Techki savent que ce ne sera pas facile. Néanmoins, ils sont prêts à essayer..."
  # SIN
  SIN_MARIA_SINALOA_NAME:0 "Maria Sinaloa"
  SIN_MARIA_SINALOA_DESC:0 "Dernière de la Vieille Garde dans l'échelon du cartel mexicain, Maria est la reine incontestée des narcos de Sinaloa depuis plus d'un siècle. Le récent soulèvement des Luchadores et l'indépendance nominale des territoires du sud ont mis un léger bémol à son glorieux règne, mais Maria a prévu d'éliminer ces opposants, ainsi que tout autre obstacle potentiel à son règne de fer."
@@ -737,7 +737,7 @@
  TCA_CHIEF_WARDEN_SYLVIA_NAME:0 "Chef de Garde Sylvia"
  TCA_CHIEF_WARDEN_SYLVIA_DESC:0 "Née de parents Gardiens, Sylvia a passé sa vie entière à combattre les esclavagistes et les cannibales dans une tentative désespérée de garder les quelques colons de Portland en sécurité. Sylvia est devenue Chef des Gardiens après la perte du centre-ville de Portland aux mains des esclavagistes de Port Maw : une bataille sanglante qui a coûté aux Gardiens un grand nombre de leurs meilleurs soldats. Sous la direction de Sylvia, les Gardiens se sont alliés avec Abel et les exilés de la Confrérie, et ont réussi ensemble à vaincre la tyrannie de l'Immortel. Aujourd'hui, Sylvia a conduit son peuple à Seattle, où ils vont recommencer leur humble mission."
  # TCL
- HOUSTON_DESC:0 "Colonel Houston is one of a long line of Texan patriots. Tired of the Enclave's defeats in the quest to restore America, he recognizes the real problem - §RThe Wasteland lacks enough Texas.§!  Leading a deatchment of Enclave dissidents, he will purify the Wasteland of all non-Texan governments, no matter the cost. Buckle up!"
+ HOUSTON_DESC:0 "Le Colonel Houston fait partie d'une longue lignée de patriotes Texans. Fatigué des défaites de l'Enclave dans sa quête pour restaurer l'Amérique, il reconnaît le vrai problème : §Rles Terres Désolées manque de Texas !§!  À la tête d'un détachement de dissidents de l'Enclave, il va purifier les Terres Désolées de tous les gouvernements non Texans, quel qu'en soit le prix. Attachez vos ceintures !"
  # TDT
  TDT_SAJAL_TOBIAS_REY_II_NAME:0 "Sajal Tobias Rey II"
  TDT_SAJAL_TOBIAS_REY_II_DESC:0 "Prévoyant et rusé, Sajal Tobias Rey II dirige Tierra De Los Tzotzil depuis près de vingt ans. Sous sa direction, Tzotzil a réussi à maintenir son autonomie par rapport à l'Empire Itzan, qui progresse, mais à un prix élevé."
@@ -779,7 +779,7 @@
  TLP_HENRY_HEINTZELMAN_NAME:0 "Henry Heintzelman"
  TLP_HENRY_HEINTZELMAN_DESC:0 ""
  TLP_PRESIDENT_OKLAHOMA_CORTEZ_NAME:0 "Président Cortez"
- TLP_PRESIDENT_OKLAHOMA_CORTEZ_DESC:0 "Cortez was elected President of Oklahoma mostly on name recognition, the lodge of Wichita Falls often assisting both northern and southern neighbours against the perils that the wasteland had to offer. Cortez hopes to build Oklahoma into a proud state that holds to those same values."
+ TLP_PRESIDENT_OKLAHOMA_CORTEZ_DESC:0 "Cortez a été élu président de l'Oklahoma principalement grâce à la reconnaissance de son nom, la loge de Wichita Falls ayant souvent aidé ses voisins du nord et du sud contre les périls que le désert avait à offrir. Cortez espère faire de l'Oklahoma un État fier, attaché à ces mêmes valeurs."
  # TLT
  TLT_OFFICER_OF_AFFAIRS_NAME:0 "Bureau des Affaires de la Louisiane"
  TLT_OFFICER_OF_AFFAIRS_DESC:0 ""
@@ -790,7 +790,7 @@
   #
  # TOC
  TOC_GROZDAN_HAYKOV_NAME:0 "Grozdan Haykov"
- TOC_GROZDAN_HAYKOV_DESC:0 "Grozdan Haykov was, before the Great War, a Bulgarian-born logistics wizard. One of many brilliant minds 'liberated' by the United States government shortly after Europe fell into civil war, Grozdan was posted to Spokane to assist with the ever-increasing logistical mess that was supplying the American garrison in Canada. Due to his importance he, like many other great minds that resided in Spokane, was assigned a spot in Vault 100. One of the first exposed to the radiaton that seeped into Vault 100 under Vault-Tec's orders, Grozdan quickly arose to become one of the leading figures of the ghoulish quater of Vault 100. A constant advocate for negotiation and descalation, even Grozdan was powerless to prevent the 'Great Revolt': an all-out civil war between the human and ghoul factions of Vault 100. When the humans finally broke out of the vault and fled east, Grozdan was left to pick up the pieces and attempt to forge a new Spokane."
+ TOC_GROZDAN_HAYKOV_DESC:0 "Grozdan Haykov était, avant la Grande Guerre, un magicien de la logistique né en Bulgarie. L'un des nombreux esprits brillants \"libérés\" par le gouvernement des États-Unis peu après que l'Europe ait sombré dans la guerre civile, Grozdan a été affecté à Spokane pour aider à résoudre le désordre logistique toujours plus grand qui approvisionnait la garnison américaine au Canada. En raison de son importance, il s'est vu attribuer, comme beaucoup d'autres grands esprits résidant à Spokane, une place dans l'Abri 100. L'un des premiers exposés aux radiations qui se sont infiltrées dans l'Abri 100 sous les ordres de Vault-Tec, Grozdan est très rapidement devenu l'une des figures de proue du quartier macabre de l'Abri 100. Constamment en faveur de la négociation et de la désescalade, même Grozdan n'a pas pu empêcher la \"Grande Révolte\" : une guerre civile totale entre les factions humaines et goules de l'abri 100. Lorsque les humains se sont finalement échappés de l'abri et ont fui vers l'est, Grozdan a dû ramasser les morceaux et tenter de forger un nouvel Abri."
  # TON
  QUINTIN_LOPEZ_DESC:0 "Issu d'une longue lignée de Tohono O'odham du district de Chukut Kuk, Quintin Lopez a eu une éducation relativement sans histoire. Dès son plus jeune âge, on lui a enseigné le riche héritage de ses ancêtres, ainsi que l'importance de la conservation et les principes de l'agriculture, comme on le fait pour chaque enfant de la Nation. Apprenant parfaitement le droit local, Quintin était un choix naturel pour siéger au Conseil Législatif de la Nation, qui s'est réuni pendant plus de quatre siècles. Il finit par être élu président de la nation, en mettant l'accent sur l'importance de l'agriculture et de l'isolement. Bien que les Tohono O'odham entretiennent quelques relations commerciales avec leurs voisins, Quintin espère tranquillement que si la Nation reste suffisamment tranquille, elle pourra peut-être échapper aux guerriers de Caesar..."
  # TPM
@@ -799,7 +799,7 @@
  TRK_CRANBERRY_NAME:0 "Cranberry"
  TRK_CRANBERRY_DESC:0 "Pendant des siècles, les habitants des Terres Désolées se sont assis pour festoyer autour d'une dinde et célébrer ce dont ils sont reconnaissants, comme le faisaient leurs ancêtres avant la guerre. Mais dans une petite ville du Texas, les effets du JEK muté sont allés trop loin et ont corrompu une dinde locale. Maintenant, Cranberry se lève pour enseigner aux Terres Désolés ce pour quoi ils devraient vraiment être reconnaissants - un régime végétarien obligatoire."
  # TRL
- TRL_FIRST_NAME:0 "The First"
+ TRL_FIRST_NAME:0 "Le Primordial"
  TRL_FIRST_DESC:0 ""
  TRL_PITTMAN_NAME:0 "Pittman"
  TRL_PITTMAN_DESC:0 "Pittman a toujours été perspicace et paranoïaque, même quand il tente de le couvrir dans sa propre vanité, il est facile de voir avec ceux qui ont une perception. De toute façon avec lui maintenant, le Premier a commencé à appliquer les tactiques qu’il a apprises au fil des décennies."
@@ -883,8 +883,8 @@
  WAP_SONSEE_ARRAY_NAME:0 "Sonsee"
  WAP_SONSEE_ARRAY_DESC:0 "Se libérant de l'esclavage au moment où la Légion commençait à s'effondrer, Sonsee mena une petite rébellion d'esclaves dans toute l'Arizona alors que la Légion se retirait de ses terres. Après avoir libéré d'innombrables esclaves, elle fonda l'Apache de l'Ouest, prenant le nom d'histoires que sa grand-mère lui avait racontées."
  # WBH
- WBH_THE_IMMORTAL_NAME:0 "The Immortal"
  WBH_THE_IMMORTAL_DESC:0 "Révéré par ses subordonnés pour les avoir conduits à Seattle, le soi-disant aîné \"immortel\" est plus âgé que ses plus anciens commandants. Sa campagne de violence et d'assujettissement à travers Washington a inspiré un désir de sang dans son chapitre - laissant une tache noire sur l'ensemble de la Confrérie."
+ WBH_THE_IMMORTAL_NAME:0 "L'Immortel"
  WBH_JOHN_FORSYTH_NAME:0 "John Forsyth"
  WBH_JOHN_FORSYTH_DESC:0 ""
  WBH_CYRUS_RHODES_NAME:0 "Cyrus Rhodes"
