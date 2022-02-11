@@ -1,15 +1,15 @@
 ﻿l_french:
   #mason_salvatore:0 "Mason Salvatore" #Uses leader loc
-  #mason_salvatore_desc:0 "The Salvatores are known for being schemers, dealers, movers, shakers; Mason will improve our economic capacity, but he will be working against us at every turn, looking for his chance." #Uses leader loc
+ NEW_mason_salvatore_economic_advisor_desc:0 "Les Salvatores sont connus pour être des magouilleurs, des négociants, des meneurs, des agitateurs ; Mason améliorera notre capacité économique, mais il travaillera contre nous à chaque tournant, cherchant sa chance."
 
   #christopher_wright:0 "Christopher Wright" #Uses leader loc
-  #christopher_wright_desc:0 "Wright's an evangeliser that makes his money selling moonshine; the worst kind of hypocrite. But so long as we keep his distilleries running and his customers in booze, he'll put his thinking, reading and writing to work for our cause." #Uses leader loc
+ NEW_christopher_wright_cultural_advisordesc:0 "Wright est un prêcheur qui gagne sa vie en vendant de l'alcool de contrebande ; la pire espèce d'hypocrite. Mais tant que nous faisons tourner ses distilleries et que ses clients boivent de l'alcool, il mettra sa réflexion, sa lecture et son écriture au service de notre cause."
 
   #mr_bishop:0 "Mr Bishop" #Uses leader loc
-  #mr_bishop_desc:0 "Mr Bishop won't accept our takeover lying down, but he's perfectly willing to play the scheming vizier; for now. He'll help control New Reno's wayward souls, but he'll be sowing dissent all the while." #Uses leader loc
+ NEW_mr_bishop_cultural_advisor_desc:0 "M. Bishop n'acceptera pas notre prise de pouvoir sans broncher, mais il est tout à fait prêt à jouer le rôle du vizir intrigant, pour le moment. Il aidera à contrôler les âmes rebelles de New Reno, mais il sèmera la discorde en même temps."
 
   #lil_jesus_mordino:0 "Lil' Jesus Mordino" #Uses leader loc
-  #lil_jesus_mordino_desc:0 "The dregs of this fair city would do anything for Mordino and his Jet, but giving Mordino what he wants means sacrificing a significant number of those dregs; to his workhouses, to his bodyguard, to his brothels." #Uses leader loc
+ NEW_lil_jesus_mordino_economic_advisor_desc:0 "La racaille de cette belle ville ferait n'importe quoi pour Mordino et son Jet, mais donner à Mordino ce qu'il veut signifie sacrifier un nombre important de cette racaille ; à ses maisons de travail, à son garde du corps, à ses bordels."
 
  NEW_tiaret_van_graff:0 "Tiaret Van Graff "
  NEW_tiaret_van_graff_desc:0 "En épousant le patriarche de la matriarche Van Graff, elle a assuré son soutien et ses capacités pour notre cause; personne ne veut baiser avec les Van Graff et ils connaissent mieux les armes énergétiques que quiconque. Cependant, il y aura des murmures; des rumeurs selon lesquelles Bishop est maintenant juste une marionnette de Van Graff ... "
