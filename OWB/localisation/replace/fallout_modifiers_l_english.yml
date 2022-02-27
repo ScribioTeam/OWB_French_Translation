@@ -267,3 +267,25 @@
 
   # operations
   MODIFIER_COMMANDO_TRAIT_CHANCE_FACTOR:1 "Chance of recruiting an Operative with the §HIntensive Training§! trait"
+
+  # cost modifiers
+  modifier_unit_infantry_design_cost_factor:0 "Infantry Platoon Designer XP cost"
+  modifier_unit_heavy_infantry_design_cost_factor:0 "Enforcer Platoon Designer XP cost"
+  modifier_unit_dog_infantry_design_cost_factor:0 "Warhound Platoon Designer XP cost"
+  modifier_unit_ghoul_infantry_design_cost_factor:0 "Ghoul Platoon Designer XP cost"
+  modifier_unit_skate_infantry_design_cost_factor:0 "Skate Infantry Designer XP cost"
+  modifier_unit_power_armour_design_cost_factor:0 "Power Armour Designer XP cost"
+  modifier_unit_power_armour_demolitions_infantry_design_cost_factor:0 "Power Armour Demolitions Designer XP cost"
+  modifier_unit_power_armour_fireteam_infantry_design_cost_factor:0 "Power Armour Fireteam Designer XP cost"
+  modifier_unit_spec_ops_design_cost_factor:0 "Special Forces Designer XP cost"
+  modifier_unit_spec_ops_cavalry_design_cost_factor:0 "Cavalry Designer XP cost"
+  modifier_unit_ghoul_paratrooper_design_cost_factor:0 "Ghoul Paratrooper Designer XP cost"
+  modifier_unit_crusader_unit_design_cost_factor:0 "Crusader Designer XP cost"
+  modifier_unit_combat_robot_design_cost_factor:0 "Combat Robot Designer XP cost"
+  modifier_unit_support_robot_design_cost_factor:0 "Support Robot Designer XP cost"
+  modifier_unit_security_robot_design_cost_factor:0 "Security Robot Designer XP cost"
+  modifier_unit_super_heavy_robot_design_cost_factor:0 "Super Heavy Robot Designer XP cost"
+  modifier_unit_motorized_design_cost_factor:0 "Motorized Designer XP cost"
+  modifier_unit_tank_design_cost_factor:0 "Tank Designer XP cost"
+  modifier_unit_apc_design_cost_factor:0 "APC Designer XP cost"
+  modifier_unit_chariot_unit_design_cost_factor:0 "Legion Chariot Designer XP cost"

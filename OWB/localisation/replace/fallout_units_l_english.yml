@@ -1,5 +1,5 @@
 ﻿l_english:
- #	Categories
+ # Categories
 
   category_army:0 "Army"
   category_front_line:0 "Frontline Platoons"
@@ -319,3 +319,21 @@
   cybernetic_warform:0 "Cybernetic Warform"
   cybernetic_warform_short:0 "Warform"
   cybernetic_warform_desc:0 "What have we done?"
+
+
+  # Elites
+  elite_infantry:0 "Elite Infantry"
+  elite_infantry_short:0 "Elite Infantry"
+  elite_infantry_desc:0 ""
+  elite_power_armour:0 "Elite Power Armour"
+  elite_power_armour_short:0 "Elite Power Armour"
+  elite_power_armour_desc:0 ""
+  elite_spec_ops:0 "Elite Special Forces"
+  elite_spec_ops_short:0 "Elite Special Forces"
+  elite_spec_ops_desc:0 ""
+  elite_motorized:0 "Elite Motorized"
+  elite_motorized_short:0 "Elite Motorized"
+  elite_motorized_desc:0 ""
+  elite_robot:0 "Elite Robot"
+  elite_robot_short:0 "Elite Robot"
+  elite_robot_desc:0 ""
