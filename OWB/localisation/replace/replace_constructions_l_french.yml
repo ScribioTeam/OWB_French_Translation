@@ -4,6 +4,6 @@
  CONSTRUCTION_MAPMODE_CONVERT_PROVINCE_TOOLTIP:0 "Cliquez sur l'icone d'une Usine civile ou d'une Usine militaire pour commencer la conversion."
  CONSTRUCTION_CONVERT_IC_TOOLTIP:0 "§YConvert§!\nConvertir une Usine civile en Usine militaire et vice versa"
  CONSTRUCTION_FACTORIES_AMOUNT:0 "Nombre d'usines"
- CONSTRUCTION_MAPMODE_BUILD_RAILWAY_NO_ACCESS:9 "Impossible de construire des §HRoutes§! en dehors du territoire contrôlé par les alliés."
+ CONSTRUCTION_MAPMODE_BUILD_RAILWAY_NO_ACCESS:0 "Impossible de construire des §HRoutes§! en dehors du territoire contrôlé par les alliés."
  CONSTRUCTION_MAPMODE_BUILD_RAILWAY_BAD_PROVINCE:0 "Impossible de construire des §HRoutes§! sur cette province."
  CONSTRUCTION_MAPMODE_BUILD_RAILWAY_BAD_START:0 "Impossible de construire des §HRoutes§!. Les Routes doivent commencer sur un nœud d'approvisionnement ou d'autres routes."
