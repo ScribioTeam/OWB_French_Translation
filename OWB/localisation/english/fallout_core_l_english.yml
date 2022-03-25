@@ -9,7 +9,7 @@
   startup.100.t:0 "§RCountry Missing Initalization§!"
   startup.100.d:0 "§RPLEASE REPORT TO DEVELOPERS. THIS COUNTRY HAS NOT PROPER INITALIZED!§! \nTAG: [This.GetTag]\nDATE: [This.GetDateText]\nIDEOLOGY: [This.GetRulingIdeology]"
   FOCUS_FILTER_IDEAS:0 "Ideas"
-  mod_version_label_tt:0 "Old World Blues 3.4.11"
+  mod_version_label_tt:0 "Old World Blues 3.4.12"
   add_state_population_tt:0 "§Y[THIS.GetName]'s§! §Ostate population§! changes by [?pop_add|0+=].\n"
   add_state_population_no_state_name_tt:0 "§Ostate population§! changes by [?pop_add|0+=].\n"
   wasteland_states_name:0 "Unoccupied Wasteland"

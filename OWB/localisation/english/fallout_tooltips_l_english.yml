@@ -20,7 +20,7 @@
   demon_servants_tt:0 "Spawns 2 §YSpec Ops Infantry§!. \n"
   steelbreakers_tt:0 "Unlocks §YSteelbreakers§!.\n"
 
-  legion_siege_battalion_tt:0 "Spawns 3 §YSiege Divisions§! with §Y1§! explosive companies." # removed "§Rlocked§! template" because the template is no longer locked @CGS
+  legion_siege_battalion_tt:0 "Spawns 3 §YSiege Divisions§! with §Y1§! explosive companies." # removed §Rlocked§! template because the template is no longer locked @CGS
   legion_recon_battalion_tt:0 "Spawns 3 §YFrumentarii Divisions§! with a recon company."
   legion_chariots_tt:0 "Spawns 2 motorized §YLegion Motor Chariot§! divisions."
 
