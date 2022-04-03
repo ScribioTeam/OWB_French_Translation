@@ -197,7 +197,7 @@
  ces_boomers_desc:0 "Il y a une tribu à la périphérie de New Vegas qui utilise les installations d'entraînement d'avant-guerre, l'artillerie lourde et, peut-être, les avions. Certains d'entre eux feront de bons soldats. D'autres feront de bons esclaves."
 
  ces_fate_gangs:0 "Le Destin des Gangs"
- ces_fate_gangs_desc:0 "Les Kings, Fiends et Muggers croient qu'ils ont le contrôle des rues de New Vegas. Nous avons une surprise pour eux !"
+ ces_fate_gangs_desc:0 "Les Kings, Tox et Muggers croient qu'ils ont le contrôle des rues de New Vegas. Nous avons une surprise pour eux !"
 
  CES_loot_vegas:0 "Les Richesses de Vegas"
  CES_loot_vegas_desc:0 "[CES.GetLeader] a commandé une nouvelle pièce de monnaie commémorant notre conquête de New Vegas. Et elle sera frappée à partir du butin saisi aux familles."
@@ -712,7 +712,7 @@
  ces_colorado_blues:0 "Blues du Colorado"
  ces_colorado_blues_desc:0 "Les terres le long du Colorado sont vulnérables aux raids et aux menaces. Nous pouvons les traverser rapidement !"
  ces_raider_rumble:0 "Raider Rumble"
- ces_raider_rumble_desc:0 "Les gangs du Mojave sont une culture diverse et dégénérée ! Elle comprend les Vipères, un ensemble de puits néo-classiques, creusés à proximité des grandes routes pour voler et piller les voyageurs et les caravanes de marchands. Les Scorpions, qui traînent au Monte Carlo quand ils ne sont pas en train de jeter des chimères ou de se faire exploser la tête par les Fiends. Et bien sûr les Fiends, une bande de tueurs drogués. Ils sont accros à toutes les drogues, à toutes les pilules, à tous les lavelas psychoactifs de cette putain de Terre. Si on leur donne du matériel et des armes à feu, avec de la chance, ils trouveront un but en tuant les soldats [MOT.GetName]."
+ ces_raider_rumble_desc:0 "Les gangs du Mojave sont une culture diverse et dégénérée ! Elle comprend les Vipères, un ensemble de puits néo-classiques, creusés à proximité des grandes routes pour voler et piller les voyageurs et les caravanes de marchands. Les Scorpions, qui traînent au Monte Carlo quand ils ne sont pas en train de jeter des chimères ou de se faire exploser la tête par les Tox. Et bien sûr les Tox, une bande de tueurs drogués. Ils sont accros à toutes les drogues, à toutes les pilules, à tous les lavelas psychoactifs de cette putain de Terre. Si on leur donne du matériel et des armes à feu, avec de la chance, ils trouveront un but en tuant les soldats [MOT.GetName]."
  ces_legate_glory:0 "La Gloire du Légat"
  ces_legate_glory_desc:0 "Le légat Malpais frappera au nom de la Légion et repoussera les dégénérés à Sables Ombragés. Les survivants de §Y[MOT.GetNameWithFlag]§!  pourront reconstruire les routes à l'est, s'ils ont de la chance."
  ces_legate_glory_tt:0 "§YLe Légat Malpais§! doit avoir gagné un peu de gloire pour continuer."
