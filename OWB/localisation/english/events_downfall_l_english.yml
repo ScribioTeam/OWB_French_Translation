@@ -284,3 +284,92 @@
   # 191: To ATE
 
   ### Additional Cities
+
+  ##Hangdogs (Id's 200 to 209)##
+
+downfall.200.t:0 "The Fall of the Hangdogs"
+downfall.200.d:0 "Word has begun spreading throughout the wastes from couriers and refugee's from Colorado, the Hangdogs are on the brink. Stories of [Root.GetNameDef]'s forces overwealming the defenders of Dog City have been partially confirmed, though the sounds of battle rage on in the ruins of the city, with bodies and bullets falling from the towering buildings. The dogs of the city work both for and against the defenders, striking the forces of [Root.GetNameDef] from drainage pipes and other small places they can hide. Meanwhile, [Root.GetNameDef] and their armies continue their advance outside the city, heading towards the remaining strongholds in Hangdog control. Can the dogs of war hold out and make a comeback, or will they be snuffed out like many under [Root.GetNameDef]'s boot?"
+downfall.200.a:0 "Our hounds will not heel!"
+downfall.200.b:0 "Stand with the Dogs of War!"
+downfall.200.c:0 "The Hangdogs will fall!"
+downfall.200.e:0 "The Dogs will not stop us!"
+downfall.200.f:0 "Colorado's rivers run red with blood..."
+
+#Lanius (Id's 210-219)##
+downfall.210.t:0 "Lanius's Failure"
+downfall.210.d:0 "Legate Lanius and his expedition east have met with failure at the hands of [Root.GetNameDef]. Whether it was in open battle, through guerilla tactics, or if the Legate had the same failing of the New Mexican Butcher is yet to be determined. What is known is that the Legates headquarters in the eastern half of Red Sun City has been overrun, with legionares cut down and gunned down as they flee, only for them to be executed for cowardice should they return to Legion lines..."
+downfall.210.a:0 "§RI won't become another Paulus! §!"
+downfall.210.b:0 "Failure..."
+downfall.210.c:0 "Let's push him across the Rio Grande!"
+downfall.210.e:0 "Lets make sure they won't come back!"
+downfall.210.f:0 "Out with one conquer, in with another?"
+
+##Texan BOS (Id's 220-229)##
+
+downfall.220.t:0 "The Collapse of Brotherhood Control in Texas"
+downfall.220.d:0 "Word from Texas has reached the ears across the wastes, and its not good. [TBH.GetNameDef], the largest power in the region is supposedly close to being overrun by [Root.GetNameDef]. It's forces are stretched thin, with their outposts going silent as their control over the land slips. Raiders within the territories that were active even before this are now reigning hell upon caravans and settlements with the Brotherhood unable to respond. Reportedly their leader, [TBH.GetLeader], have been fighting alongside their forces in the streets of Dallas. Can [TBH.GetNameDef] recover, or will Texas be under control of a new power?"
+downfall.220.a:0 "Mors Super Dedecus, Ad Victorium!"
+downfall.220.b:0 "The union will stand to the last!"
+downfall.220.c:0 "Texas will be ours!"
+downfall.220.e:0 "Texas will break!"
+downfall.220.f:0 "What will become of Texas?"
+
+##Gente (Id's 230-239)##
+
+downfall.230.t:0 "Gente De Sol's Downfall"
+downfall.223.d:0 "The forces of Gente de Sol are on the retreat, with their generals spending more time with women and securing their own saftey then focused on the war. [GDH.GetLeader] has attempted to alleviate this with arming his forces with more weapons and bringing more people into the army, but this likely won't be enough as [Root.GetNameDef]'s forces ravage the land."
+downfall.230.a:0 "Nonsense! My Men do not know the meaning of the word Surrender!"
+downfall.230.b:0 "...But We're willing to Learn!"
+downfall.230.c:0 "Their guns will be ours soon enough!"
+downfall.230.e:0 "Let's hope there's enough guns for us to 'liberate'"
+downfall.230.f:0 "But where will be get arms now?!"
+
+##Ironmongers (Id's 240-249)##
+
+downfall.240.t:0 "History Repeats Itself"
+downfall.240.d:0 "The remnants of Attis's Army have struggled since it's defeat at the hands of the brotherhood, and now one of it's largest surviving groups has gone the way of Attis. The Ironmongers have suffered greatly in conflict against the forces of [Root.GetNameDef]. Many of their tanks have either been destroyed, captured, or left to rust as they've been pushed back from their forges."
+downfall.240.a:0 "The machines of war will drive on!"
+downfall.240.b:0 "They'll 'Tank' Us for the victory!"
+downfall.240.c:0 "Their tanks won't save them!"
+downfall.240.e:0 "Our combined might will crush them!"
+downfall.240.f:0 "he Blood of Super Mutants soaks Texan soil...."
+
+##Shales Army (Id's 250-259)##
+
+downfall.250.t:0 "History Repeats Itself"
+downfall.250.d:0 "The remnants of Attis's Army have struggled since it's defeat at the hands of the brotherhood, and now one of it's largest surviving groups has gone the way of Attis. [SHA.GetNameDef] has been pushed back heavily by the soldiers of [Root.GetNameDef]. The Mutant Army has called upon their neighboring mutants for support, though few accepted the call to assist. It seems that history is cyclical."
+downfall.250.a:0 "We will not fail like Attis!"
+downfall.250.b:0 "We won't abandon our ally!"
+downfall.250.c:0 "They 'Shale' be defeated!"
+downfall.250.e:0 "Our combined might will crush them!"
+downfall.250.f:0 "The Blood of Super Mutants soaks Texan soil..."
+
+##Unity of Austin (Id's 260-269 (nice))##
+
+downfall.260.t:0 "History Repeats Itself"
+downfall.260.d:0 "The remnants of Attis's Army have struggled since it's defeat at the hands of the brotherhood, and now one of it's largest surviving groups has gone the way of Attis. [UOA.GetNameDef] has suffered heavily from the armies of [Root.GetNameDef]. The Mutant Army has called upon the Texan Economic Union to assist them, though the beuracracy of the union may prevent aid from reaching them in time."
+downfall.260.a:0 "We can't fail, not again!"
+downfall.260.b:0 "As a Union we stand, united we fall!"
+downfall.260.c:0 "Austin will be ours"
+downfall.260.e:0 "Our combined might will crush them!"
+downfall.260.f:0 "The Blood of Super Mutants soaks Texan soil..."
+
+##Twin Mothers (Id's 270-279 )##
+
+downfall.270.t:0 "The Fall of Diana"
+downfall.270.d:0 "The Twin Mothers Tribe has been inflicted a catostrophic loss by the bloody hands of [Root.GetNameDef]. Their female warriors fought bravely, yet as brave as they were they eventually had to retreat. Diana watches from afar, a burning anger growing. She will pull this back, at least that's what she tells herself. But will she?"
+downfall.270.a:0 "I should have subjegated military leaders...Where's Hecate when you need her?"
+downfall.270.b:0 "We shall stand with Diana!"
+downfall.270.c:0 "No Tribe shall escape our hands"
+downfall.270.e:0 "Down with the Witch!"
+downfall.270.f:0 "What does this mean for Colorado?"
+
+##Last Patrol (Id's 280-289 )##
+
+downfall.280.t:0 "The Fall of the National Guard"
+downfall.280.d:0 "Word from Oklahoma has come out, [TLP.GetNameDef] is being overrun. The forces of [Root.GetNameDef] have inflicted heavy casualties upon the Guardsmen, with them falling back to their defensive lines, which may not hold."
+downfall.280.a:0 "Into the Fire, into the flames!"
+downfall.280.b:0 "We won't let our Okhlahomie's fall!"
+downfall.280.c:0 "They should have let the past go."
+downfall.280.e:0 "They shall fall!"
+downfall.280.f:0 "That's very Unfortunate, son."
