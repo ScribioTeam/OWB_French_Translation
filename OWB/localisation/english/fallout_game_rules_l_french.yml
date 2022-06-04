@@ -301,6 +301,30 @@
  RULE_EVENTS_KSR_KAISERS_RETURN_DISABLED:0 "@CES Désactivé"
  RULE_EVENTS_KSR_KAISERS_RETURN_DISABLED_DESC:0 "Caesar se concentre sur son travail, il peut se reposer après avoir pris le Barrage."
 
+ RULE_EVENTS_KHA_MAD_BARON:0 "@KHA The Mad Baron"
+ RULE_EVENTS_KHA_MAD_BARON_ENABLED:0 "@KHA Enabled"
+ RULE_EVENTS_KHA_MAD_BARON_ENABLED_DESC:0 "Khans will ride, ride to ruin and worlds ending!"
+ RULE_EVENTS_KHA_MAD_BARON_DISABLED:0 "@KHA Disabled"
+ RULE_EVENTS_KHA_MAD_BARON_DISABLED_DESC:0 "Khans know no Khan but the Khan of Khans, whose name is Papa."
+
+ RULE_EVENTS_TRK_KEMALISM:0 "Second Kemalist Revolution"
+ RULE_EVENTS_TRK_KEMALISM_ENABLED:0 "Activé"
+ RULE_EVENTS_TRK_KEMALISM_ENABLED_DESC:0 "Grand Vizier finds himself in a vastly different Turkey."
+ RULE_EVENTS_TRK_KEMALISM_DISABLED:0 "Désactivé"
+ RULE_EVENTS_TRK_KEMALISM_DISABLED_DESC:0 "Turkey? You mean like the bird? There is no way we could have a Turkey nation in the mod."
+
+ RULE_EVENTS_HAI_ADMIRAL_DICTATOR:0 "£kx_kolchak_hat_texticon  Admiral Dictator"
+ RULE_EVENTS_HAI_ADMIRAL_DICTATOR_ENABLED:0 "@HAI Enabled"
+ RULE_EVENTS_HAI_ADMIRAL_DICTATOR_ENABLED_DESC:0 "Alexander Vasilievich finds himself in a weird place..."
+ RULE_EVENTS_HAI_ADMIRAL_DICTATOR_DISABLED:0 "@HAI Disabled"
+ RULE_EVENTS_HAI_ADMIRAL_DICTATOR_DISABLED_DESC:0 "Turns out it was just his fever dream."
+
+ RULE_EVENTS_SHI_EMPEROR_NORTON:0 "@SHI Emperor Norton"
+ RULE_EVENTS_SHI_EMPEROR_NORTON_ENABLED:0 "@SHI Enabled"
+ RULE_EVENTS_SHI_EMPEROR_NORTON_ENABLED_DESC:0 "Good Emperor Norton finds himself in the San Fransico he's always known, sunny, lovely... irradiated?"
+ RULE_EVENTS_SHI_EMPEROR_NORTON_DISABLED:0 "@SHI Disabled"
+ RULE_EVENTS_SHI_EMPEROR_NORTON_DISABLED_DESC:0 "The Emperor never witnesses the world of Fallout. And the wasteland is forever worse for it."
+
  RULE_EVENTS_MLP_HARMONY_AND_UNITY:0 "£april_fools_eaw_texticon  £april_fools_harmony_and_unity_texticon"
  RULE_EVENTS_MLP_HARMONY_AND_UNITY_ENABLED:0 "@NCR Activé"
  RULE_EVENTS_MLP_HARMONY_AND_UNITY_ENABLED_DESC:0 "Des visiteurs amicaux visitent Sables Ombragés !"

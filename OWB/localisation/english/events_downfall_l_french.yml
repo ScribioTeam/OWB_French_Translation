@@ -284,3 +284,92 @@
   # 191: To ATE
 
   ### Additional Cities
+
+  ##Hangdogs (Id's 200 to 209)##
+
+ downfall.200.t:0 "La Chute des Hangdogs"
+ downfall.200.d:0 "Des courriers et des réfugiés du Colorado ont commencé à se répandre dans les régions désertiques, les Hangdogs sont au bord du gouffre. Les histoires des forces de [Root.GetNameDef] qui ont vaincu les défenseurs de Dog City ont été partiellement confirmées, mais les bruits de la bataille font rage dans les ruines de la ville, avec des corps et des balles qui tombent des immeubles. Les chiens de la ville travaillent à la fois pour et contre les défenseurs, frappant les forces de [Root.GetNameDef] depuis les tuyaux de drainage et autres petits endroits où ils peuvent se cacher. Pendant ce temps, [Root.GetNameDef] et ses armées poursuivent leur progression en dehors de la ville, en direction des derniers bastions contrôlés par les Hangdogs. Les chiens de guerre parviendront-ils à tenir bon et à faire un retour, ou seront-ils anéantis comme beaucoup sous la botte de [Root.GetNameDef] ?"
+ downfall.200.a:0 "Nos chiens ne talonnent pas !"
+ downfall.200.b:0 "Debout avec les Chiens de Guerre !"
+ downfall.200.c:0 "Les Hangdogs vont tomber !"
+ downfall.200.e:0 "Ces Chiens ne nous arrêteront pas !"
+ downfall.200.f:0 "Les rivières du Colorado sont rouges de sang..."
+
+#Lanius (Id's 210-219)##
+ downfall.210.t:0 "L'Échec de Lanius"
+ downfall.210.d:0 "Le légat Lanius et son expédition vers l'est ont échoué aux mains de [Root.GetNameDef]. Que ce soit en combat ouvert, par des tactiques de guérilla, ou si le Légat a eu le même échec que le Boucher du Nouveau Mexique, cela reste à déterminer. Ce que l'on sait, c'est que le quartier général du Légat, dans la moitié est de Red Sun City, a été envahi, les légionnaires étant abattus dans leur fuite, avant d'être exécutés pour lâcheté s'ils retournent dans les lignes de la Légion..."
+ downfall.210.a:0 "§RJe ne deviendrai pas un autre Paulus !§!"
+ downfall.210.b:0 "Échec..."
+ downfall.210.c:0 "Poussons-le à travers le Rio Grande !"
+ downfall.210.e:0 "Faisons en sorte qu'ils ne reviennent pas !"
+ downfall.210.f:0 "Sortir avec une conquête, entrer avec une autre ?"
+
+##Texan BOS (Id's 220-229)##
+
+ downfall.220.t:0 "L'effondrement du contrôle de la Confrérie au Texas"
+ downfall.220.d:0 "Des nouvelles du Texas sont parvenues aux oreilles des habitants des terres désolées, et elles ne sont pas bonnes. [TBH.GetNameDef], la plus grande puissance de la région, serait sur le point d'être envahie par [Root.GetNameDef]. Ses forces sont réduites, ses avant-postes se taisent à mesure que son contrôle sur le territoire s'effrite. Les pillards dans les territoires qui étaient déjà actifs avant cela font maintenant régner l'enfer sur les caravanes et les colonies sans que la Confrérie ne puisse réagir. Leur chef, [TBH.GetLeader], se serait battu aux côtés de leurs forces dans les rues de Dallas. [TBH.GetNameDef] pourra-t-il s'en sortir, ou le Texas sera-t-il sous le contrôle d'une nouvelle puissance ?"
+ downfall.220.a:0 "Mors Super Dedecus, Ad Victorium!"
+ downfall.220.b:0 "L'union fera front jusqu'au bout !"
+ downfall.220.c:0 "Le Texas sera nôtre !"
+ downfall.220.e:0 "Le Texas va craquer !"
+ downfall.220.f:0 "Que va devenir le Texas ?"
+
+##Gente (Id's 230-239)##
+
+ downfall.230.t:0 "La Chute de Gente De Sol"
+ downfall.223.d:0 "Les forces de Gente de Sol battent en retraite, leurs généraux passant plus de temps avec les femmes et à assurer leur propre sécurité qu'à se concentrer sur la guerre. [GDH.GetLeader] a tenté de remédier à cette situation en armant ses forces et en recrutant plus de personnes dans l'armée, mais cela ne sera probablement pas suffisant car les forces de [Root.GetNameDef] ravagent le pays."
+ downfall.230.a:0 "C'est absurde ! Mes hommes ne connaissent pas le sens du mot "reddition" !"
+ downfall.230.b:0 "...Mais nous sommes prêts à apprendre !"
+ downfall.230.c:0 "Leurs armes seront les nôtres bien assez tôt !"
+ downfall.230.e:0 "Espérons qu'il y ait assez d'armes à feu pour que nous puissions les "libérer"."
+ downfall.230.f:0 "Mais où trouver des armes maintenant ? !"
+
+##Ironmongers (Id's 240-249)##
+
+ downfall.240.t:0 "L'histoire se répète"
+ downfall.240.d:0 "Les restes de l'armée d'Attis ont lutté depuis sa défaite aux mains de la confrérie, et l'un des plus grands groupes survivants a suivi la voie d'Attis. Les Ironmongers ont beaucoup souffert dans le conflit qui les a opposés aux forces de [Root.GetNameDef]. Nombre de leurs chars ont été détruits, capturés ou laissés à l'abandon, car ils ont été repoussés de leurs forges."
+ downfall.240.a:0 "Les machines de guerre vont continuer à rouler !"
+ downfall.240.b:0 "Ils vont nous "Tanker" pour la victoire !"
+ downfall.240.c:0 "Leurs tanks ne les sauveront pas !"
+ downfall.240.e:0 "Notre puissance combinée va les écraser !"
+ downfall.240.f:0 "Le sang des Super Mutants imprègne le sol texan...."
+
+##Shales Army (Id's 250-259)##
+
+ downfall.250.t:0 "L'histoire se répète"
+ downfall.250.d:0 "Les restes de l'armée d'Attis ont lutté depuis sa défaite aux mains de la confrérie, et maintenant l'un des plus grands groupes survivants a suivi le chemin d'Attis. Le [SHA.GetNameDef] a été repoussé par les soldats de [Root.GetNameDef]. L'armée mutante a fait appel au soutien de ses voisins mutants, mais peu ont accepté de l'aider. Il semble que l'histoire soit cyclique."
+ downfall.250.a:0 "Nous n'échouerons pas comme Attis !"
+ downfall.250.b:0 "Nous n'abandonnerons pas notre allié !"
+ downfall.250.c:0 "Ils doivent être vaincus !"
+ downfall.250.e:0 "Notre puissance combinée va les écraser !"
+ downfall.250.f:0 "Le Sang des super-mutants imbibe le sol Texan..."
+
+##Unity of Austin (Id's 260-269 (nice))##
+
+ downfall.260.t:0 "L'histoire se répète"
+ downfall.260.d:0 "Les restes de l'armée d'Attis ont lutté depuis sa défaite aux mains de la confrérie, et maintenant l'un de ses plus grands groupes survivants a suivi le chemin d'Attis. L'[UOA.GetNameDef] a beaucoup souffert des armées de [Root.GetNameDef]. L'armée mutante a fait appel à l'Union économique texane pour les aider, bien que la beuracratie de l'union puisse empêcher l'aide de leur parvenir à temps."
+ downfall.260.a:0 "Nous ne pouvons pas échouer, pas encore !"
+ downfall.260.b:0 "L'Union est debout, l'Union fait la force !"
+ downfall.260.c:0 "Austin sera à nous"
+ downfall.260.e:0 "Notre puissance combinée va les écraser !"
+ downfall.260.f:0 "Le Sang des super-mutants imbibe le sol Texan..."
+
+##Twin Mothers (Id's 270-279 )##
+
+ downfall.270.t:0 "La Chute de Diane"
+ downfall.270.d:0 "La tribu des Mères jumelles a subi une perte catostrophique par les mains sanglantes de [Root.GetNameDef]. Leurs guerrières se sont battues avec courage, mais aussi courageuses qu'elles aient été, elles ont dû battre en retraite. Diane observe de loin, une colère brûlante grandissant. Elle va faire marche arrière, du moins c'est ce qu'elle se dit. Mais le fera-t-elle ?"
+ downfall.270.a:0 "J'aurais dû subjuguer les chefs militaires... Où est Hécate quand on a besoin d'elle ?"
+ downfall.270.b:0 "Nous serons aux côtés de Diane !"
+ downfall.270.c:0 "Aucune tribu ne doit échapper à nos mains"
+ downfall.270.e:0 "A bas la Sorcière !"
+ downfall.270.f:0 "Qu'est-ce que cela signifie pour le Colorado ?"
+
+##Last Patrol (Id's 280-289 )##
+
+ downfall.280.t:0 "La Chute de la Garde Nationale"
+ downfall.280.d:0 "Des nouvelles de l'Oklahoma nous parviennent : [TLP.GetNameDef] est envahi. Les forces de [Root.GetNameDef] ont infligé de lourdes pertes aux Gardes, qui se sont repliés sur leurs lignes défensives, qui pourraient ne pas tenir."
+ downfall.280.a:0 "Dans le feu, dans les flammes !"
+ downfall.280.b:0 "Nous ne laisserons pas nos Okhlahomies tomber !"
+ downfall.280.c:0 "Ils auraient dû laisser le passé derrière eux."
+ downfall.280.e:0 "Ils tomberont !"
+ downfall.280.f:0 "C'est très malheureux, mon fils."

@@ -60,8 +60,72 @@
  thanksgiving_gravy_desc:0 "On ne peut pas faire de biscuits sans sauce, après tout. Honnêtement, pourquoi n'aides-tu pas ta famille à cuisiner au lieu de jouer ?"
  turkey_thank_you_fans:0 "Le Changement de Cœur"
  turkey_thank_you_fans_desc:0 "Tous ces visiteurs et ces crimes de guerre font que [TRK.GetLeader] se demande. De quoi sommes-nous vraiment reconnaissants, en fin de compte ? N'est-ce pas les uns les autres ? Et Fallout ? Non, c'est surtout Fallout."
-  ### IDeas
+  ### Ideas
  turkey_stuffing:0 "Fourrage"
  turkey_pie:0 "Tarte"
  turkey_trot_idea:0 "La Course de la Dinde"
  gravy_idea:0 "Bonne Sauce"
+
+
+  #Kemalist Turkey
+
+ trk_ott_new_turkey:0 "A Distant Turkey?"
+ trk_ott_new_turkey_desc:0 "When the portal first opened near the gates of the Sublime Porte, no one dared to pass through, save the Grand Vizier himself. He found himself on a very, very distant Turkey."
+
+ trk_ott_sublime_porte:0 "Orders from the Porte"
+ trk_ott_sublime_porte_desc:0 "Soon, Porte found out about this gateway to the distant lands. With the new Weltkrieg looming closer than ever, Sultan tasked the grand vizier to find the fabled weapon that could bring the doom upon the planet."
+
+ trk_ott_republican_struggle:0 "The Republican Struggle"
+ trk_ott_republican_struggle_desc:0 "Not many of our citizens are happy with the Porte's rule, as such they joined the expedition in hopes of building a new life outside of Sultan's reach."
+
+ trk_ott_expand_devshirme:0 "Expand the Devshirme System"
+ trk_ott_expand_devshirme_desc:0 "Psst kid, wanna be a janissary?"
+ trk_ott_expand_devshirme_tt:0 "§Y+10% National manpower modifier.§Y Kidding, this ain't EU4. Grants five devshirme divisions."
+
+ trk_weltkrieg_blueprints:0 "Weltkrieg Blueprints"
+ trk_weltkrieg_blueprints_desc:0 "Tanks and planes are a new invention for us, but it seems these people had these technologies for centuries. If we can compare our designs with theirs, we can learn a lot about tanks and planes."
+
+ trk_invite_the_first:0 "Request Birinci Kolordu Troops"
+ trk_invite_the_first_desc:0 "Porte is at war with our enemies, with things getting more dire everyday. We can ask for some troops from our homefront, but this will reduce the time they can hold out against our enemies."
+
+ trk_five_year_wasteland_plan:0 "One Year Wasteland Plan"
+ trk_five_year_wasteland_plan_desc:0 "We are here for a mission, and as such we have no time to kickstart a new economy. We will reorganise our economy to meet our wartime demands."
+
+ trk_settle_the_wasteland:0 "Settle the Perimeter"
+ trk_settle_the_wasteland_desc:0 "We can not leave the Portal unattended. We will settle some of our people there so that neither our enemies from this world or the other can pass through."
+
+ trk_local_production:0 "Local Production"
+ trk_local_production_desc:0 "We can not demand much from the Porte, who are already fighting on many fronts. Perhaps we should put our new citizens to work."
+
+ trk_ott_close_masonic_lodges:0 "Close the Masonic Lodges"
+ trk_ott_close_masonic_lodges_desc:0 "We will close the Masonic lodges, just like we did in our world."
+
+ trk_ott_close_the_last_lodge:0 "Truly the Last Lodge"
+ trk_ott_close_the_last_lodge_desc:0 "No lodges, no grandmasters."
+
+ trk_ott_seize_scrap:0 "Scraps to Tanks"
+ trk_ott_seize_scrap_desc:0 "Scrappers sit on many valuable scraps they can not utilise properly. We will make good use of their scrapyards."
+
+ trk_ott_new_foundries:0 "New Foundries"
+ trk_ott_new_foundries_desc:0 "Scrapyards are unrecognisable from their derelict state, buzzling with life as we turn more and more scrap into tanks."
+
+ trk_ott_new_romans:0 "New Romans"
+ trk_ott_new_romans_desc:0 "I guess Romans never collapsed in this timeline. But why are they speaking English?"
+
+ trk_ott_eastern_rome_pacified:0 "Old Tactics"
+ trk_ott_eastern_rome_pacified_desc:0 "Once more we have defeated the Eastern Romans using our tanks against their infantry and outmanouvering them. I guess the more things change, the more they stay the same."
+
+ trk_ott_final_push:0 "La Poussée Finale"
+ trk_ott_final_push_desc:0 "We have located the locations of the great weapon. If we move fast, we can go home by the end of the year."
+
+ trk_ott_breach_vault:0 "Breach the Vault"
+ trk_ott_breach_vault_desc:0 "This great weapon can save the Sublime Porte from being the Sick Man of Europe. Perhaps we could stop the Weltkrieg from happening. But what if they refuse? Who would want to rule the ashes? Who would leave such a world like this to their children?"
+
+  #Misc
+
+ trk_ott_search_for_bomb:0 "Search for the Great Weapon"
+ trk_ott_search_for_bomb_desc:0 "Said to annhilate worlds, the great weapon is our only hope of survival against the looming dangers against the Porte."
+ trk_ott_aid_porte:0 "Aid From the Porte"
+ trk_ott_republican_struggle_idea:0 "Republican Struggle"
+ girlboss:0 "Gaslight, Gatekeep, Girlboss"
+

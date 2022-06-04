@@ -389,3 +389,76 @@
 
  KHA_establish_the_drug_runners:0 "Mettre en place les Drug Runners"
  KHA_establish_the_drug_runners_desc:0 "Nous pouvons certes produire plus de drogues que nous n'en vendons actuellement. Pour développer notre activité, nous aurions besoin de passeurs de drogue dévoués pour faire rentrer la pâte."
+
+  # The Mad Baron Tree For the April Fools 2022
+
+ KHA_focus_tmb_1:0 "The Saviour"
+ KHA_focus_tmb_1_desc:0 "It seems our saviour is suffering amnesia from his fight with the foul courier. He spouts nonsense about being a man who died 354 years ago."
+
+ KHA_focus_tmb_2:0 "Search For 'Horses'"
+ KHA_focus_tmb_2_desc:0 "Our Khan ordered us to find a mythological beast called 'horse'. We could not find anything about horses other than the fact that they live in the mythical lands of Equestria and Wyoming. We're searching for the land of Equestria, as even the Khans know Wyoming does not actually exist."
+
+ KHA_focus_tmb_tengri:0 "Under the Power of Eternal Heaven"
+ KHA_focus_tmb_tengri_desc:0 "Our laws will be simple, as Tengri intended: never forget your debts, never kill women or children, never run from your foes and never betray your Khan."
+
+ KHA_focus_tmb_3:0 "Call of the Khan"
+ KHA_focus_tmb_3_desc:0 "Following the Call of the Khan, many Khans formed cavalry brigades. All will tremble before the Horde."
+ KHA_focus_tmb_3_tt:0 "10 units of cavalry units wait for the command of the Great Khan."
+
+ KHA_focus_tmb_vegas:0 "Blood For the Sky God"
+ KHA_focus_tmb_vegas_desc:0 "Tengri ordained us with the power to exact our revenge against the heathen House. With our newfound strength, streets of Vegas will be cleansed with blood."
+
+ KHA_focus_tmb_temple:0 "Fire and Blood"
+ KHA_focus_tmb_temple_desc:0 "We took what was ours, with fire and blood. The city was purged of its sins and became a city worthy of one true God of the Sky."
+
+ KHA_focus_tmb_skyreavers:0 "'Sky' Reavers"
+ KHA_focus_tmb_skyreavers_desc:0 "Heathens to our north clutch on to gifts from the skies. We will take what is ours with force."
+
+ KHA_focus_tmb_enterprise:0 "USS Enterprise"
+ KHA_focus_tmb_enterprise_desc:0 "Seems like a ship from the stars are buried underneath the Area 51 facility. While the ship, called the USS Enterprise, is deserted, it brings up many questions. No one recalls US having a space force, or any starship for that matter. Perhaps we should investigate."
+
+ KHA_focus_tmb_wrath:0 "Wrath of the Khan"
+ KHA_focus_tmb_wrath_desc:0 "The ship was deserted by its crew, as we only found one prisoner inside the ship, demanding to be released. He claims to be a 'Khan' and wants to take his revenge. Seems good for us."
+ KHA_focus_tmb_wrath_tt:0 "This will unlock §MKhan Noonien Singh§! as a commander."
+
+ KHA_focus_tmb_north:0 "I Khan't Believe This"
+ KHA_focus_tmb_north_desc:0 "Nobody khan believe how fast we conquered all these lands. Lets khantinue to push forward."
+
+ KHA_focus_tmb_rangers:0 "Like A Khancer, We Spread"
+ KHA_focus_tmb_rangers_desc:0 "We will swarm over them."
+
+ KHA_focus_tmb_tech:0 "Ungernomics"
+ KHA_focus_tmb_tech_desc:0 "Wise policies of our Khan led to a dramatic increase in our economy, coupled with technological advancements."
+
+ KHA_focus_tmb_avenge_bitter_springs:0 "Venger Bitter Springs"
+ KHA_focus_tmb_avenge_bitter_springs_desc:0 "We found some nukes around Ashton. Perhaps we can have a communications mistake and drop it on them, accidentally."
+
+
+  #Mad Baron Events
+
+ nf_khans.99.t:0 "Oh My PAPA!"
+ nf_khans.99.d:0 "It seems like Papa Khan got eaten by a certain cannibal courier in an attempt for a deranged ritual. This ritual resulted in failure and opened a dimensional portal to our saviour, the lord and protector of the Khans, Roman von Ungern Sternberg who had slain the damned courier right on the spot with his divine retribution. He will guide us to our vengeance across the wastes."
+ nf_khans.99.a:0 "He is the Messiah!"
+
+ nf_tmb.1.t:0 "Wait! This isn't Mongolia!"
+ nf_tmb.1.d:0 "While our saviour saved us from that deranged courier, some things he mentions do not make sense at all. He claims that there are animal steeds that can match the ferocity of our metal steeds, called horses. He also has no memories about the history of our people, outside of claiming we lived in the fabled lands of Mongolia. He did not took it well when we told him the man named 'Roman von Ungern Sternberg' died 354 years ago at the hands of the Soviet Union."
+ nf_tmb.1.a:0 "What do you mean I died 354 years ago?"
+
+ nf_tmb.2.t:0 "New Steeds for New Khans"
+ nf_tmb.2.d:0 "It seems like the mythical land of Wyoming really does exist. In the distant lands of Wyoming, we found the herds of the mythological beasts, the horses. We will ride with the Great Khan, until the end of the world."
+ nf_tmb.2.a:0 "I am speed!"
+
+ nf_vegas.68.t:0 "Communism with Elvis Characteristics"
+ nf_vegas.68.d:0 "As the crowd gathered around the Lucky 38, King silently made his entrance to the building with his killer moves, not the three hundred year geriatric killing ones mind you. He calmly tried to explain the situation to the Mister House using his endless charisma. 'People of Vegas want, no, demand communism with Elvis characteristics.' Mr. House was shocked, but the King did not allow him to speak. 'You, me, we're all kings. Here king you dropped this, lemme open this chamber and give it to you.' As he struggled to open the antechamber, Mr. House went into a tangent about Ayn Rand and moochers and looters and other sort of capitalist propaganda. King successfully managed to disable his neural interface stating 'Comrade House, I'm disabling your access to the neural interface. Now it is OUR interface."
+ nf_vegas.68.a:0 "As Benny would say: 'Ring a ding-dong!'"
+
+  #Ideas
+
+ KHA_idea_tengri:0 "Under the Power of Eternal Heaven"
+
+ KHA_idea_genetic_soldiers:0 "Genetically Enchanced Soldiers"
+
+ april_fools_communist_vegas:0 "Communism With Elvis Characteristics"
+ april_fools_communist_vegas_desc:0 "When I was a child, ladies and gentlemen, I was a dreamer. I read comic books and I was the revolutionary in the comic book. I saw movies and I was the revolutionary in the movie. So every dream I ever dreamed has come true a hundred times...I learned very early in life that: ‘Without communism, the workday would never end; without communism, a man ain’t got a comrade; without communism, the road would never bend - without communism.' So I keep crushing capitalism. Goodnight. Thank you.."
+
+
