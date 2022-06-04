@@ -82,7 +82,7 @@
   STRATEGICREGION_82:0 "Gulf of Carpentaria"
   STRATEGICREGION_83:0 "Solomon Sea"
   STRATEGICREGION_84:0 "Bismarck Sea"
-  STRATEGICREGION_85:0 "South West Indian Ocean"
+  STRATEGICREGION_85:0 "South Saskatchewan River"
   STRATEGICREGION_86:0 "Tasman Sea"
   STRATEGICREGION_87:0 "Sea of Okhotsk"
   STRATEGICREGION_88:0 "Bering Sea"
@@ -154,7 +154,7 @@
   STRATEGICREGION_154:0 "Home Islands"
   STRATEGICREGION_155:0 "Manchuria"
   STRATEGICREGION_156:1 "Southern Australia"
-  STRATEGICREGION_157:0 "New Zealand"
+  STRATEGICREGION_157:0 "Southern Red River"
   STRATEGICREGION_158:0 "Sunda Islands"
   STRATEGICREGION_159:0 "Borneo"
   STRATEGICREGION_160:0 "Philippines"
@@ -173,8 +173,8 @@
   STRATEGICREGION_173:0 "Eastern North Sea"
   STRATEGICREGION_174:0 "Norwegian Coast"
   STRATEGICREGION_175:0 "Central Pacific"
-  STRATEGICREGION_176:0 "Central North Pacific"
-  STRATEGICREGION_177:0 "Western North Pacific"
+  STRATEGICREGION_176:0 "Three River Crossings"
+  STRATEGICREGION_177:0 "Lake Winnipegosis"
   STRATEGICREGION_178:0 "West Polynesia"
   STRATEGICREGION_179:0 "French Polynesia"
   STRATEGICREGION_180:0 "Micronesian Gap"
@@ -210,8 +210,7 @@
   TR_COLUMBIA:0 "Northeast Columbia"
   TL_COLUMBIA:0 "Northwest Columbia"
   BR_COLUMBIA:0 "South Columbia"
-  BL_COLUMBIA:0 "Vancouver Island"
-  TLL_COLUMBIA:0 "Graham Island"
+  BL_COLUMBIA:0 "Columbian Outlying Islands"
 
   L_WASHINGTON:0 "West Washington"
   C_WASHINGTON:0 "Central Washington"
@@ -221,10 +220,13 @@
   B_OREGON:0 "South Oregon"
   T_OREGON:0 "North Oregon"
 
-  TL_IDAHO:0 "North Idaho"
-  BL_IDAHO:0 "Southwest Idaho"
+  N_IDAHO:0 "Northernmost Idaho"
+  TL_IDAHO:0 "North-West Idaho"
   B_IDAHO:0 "South Idaho"
   R_IDAHO:0 "East Idaho"
+
+  SW_MONTANA:0 "South-West Montana"
+  NW_MONTANA:0 "Northwest Montana"
 
   T_UTAH:0 "North Utah"
   L_UTAH:0 "West Utah"
@@ -302,7 +304,7 @@
 
   NEWFOUNDLAND:0 "Newfoundland"
 
-  NEW_ORLEANS:0 "New Orleans"
+  NEW_ORLEANS:0 "The Future Expansion Zone"
   SOUTH_TEXAS:0 "South Texas"
   BRAXOS_CORRIDOR:0 "Braxos Corridor"
   NORTH_TEXAS:0 "East Texas"
@@ -324,7 +326,10 @@
 
   BAJA_CALIFORNIA:0 "Baja California"
 
+  BLUE_FLU_PLAINS:0 "Plaguelands"
+
   REGION_1:0 "The Forbidden Zone"
+  REGION_151:0 "Wyoming Forbidden Zone"
 
   CUBA:0 "Cuba"
   JAMAICA:0 "Jamaica"
@@ -351,8 +356,8 @@
   SOUTH_AMERICAN_APPROACH:0 "South American Approach"
   ALASKAN_APPROACH:0 "Alaskan Approach"
 
-  CALIFORNIA_RIVER_NORTH:0 "Sacramento Estuary"
-  CALIFORNIA_RIVER_SOUTH:0 "San Joaquin Estuary"
+  CALIFORNIA_RIVER_MOUTH: "San Francisco Bay"
+  CALIFORNIA_RIVER_INLAND: "Sacramento and San Joaquin Estuary"
 
   MEXICO_ARIZONA_RIVER_SOUTH:0 "Gila Estuary"
   MEXICO_RIVER_WEST:0 "Rio Grande River"
@@ -373,6 +378,7 @@
   UTAH_RIVER:0 "Great Salt Lake"
   IDAHO_WEST_RIVER:0 "West Yellowstone Tributary"
   IDAHO_EAST_RIVER:0 "East Yellowstone Tributary"
+  LAKE_WINNIPEG:0 "Lake Winnipeg"
   LOWER_SNAKE_RIVER:0 "Lower Snake River"
   UPPER_SNAKE_RIVER:0 "Upper Snake River"
   GREAT_SALT_LAKE:0 "Great Salt Lake"
@@ -381,3 +387,39 @@
   MIDDLE_COLUMBIA_RIVER:0 "Middle Columbia River"
   WILLAMETTE_RIVER:0 "Willamette River"
   FRASER_RIVER:0 "Fraser River"
+  WESTERN_CENTRAL_CANADA:0 "Western Central Canada"
+  CANADIAN_ROCKIES:0 "Canadian Rockies"
+  M_MISSOURI_RIVER:0 "Middle Missouri River"
+  U_MISSOURI_RIVER:0 "Upper Missouri River"
+  BIG_SIOUX_RIVER:0 "Big Sioux River"
+  C_WYOMING:0 "Whyoming"
+  
+  GWW:0 "The Great White Wall"
+  DESOLATION:0 "The Lethbridge Desolation"
+  R_COLUMBIA:0 "Eastern Columbia"
+  
+  E_MONTANA:0 "Eastern Montana"
+  THE_STRETCH:0 "The Stretch"
+  
+  NE_ALBERTA:0 "Northeast Alberta"
+  NW_ALBERTA:0 "Northwest Alberta"
+  REALM_GODS:0 "Realm of The Sister Gods"
+  AB_STEPPE:0 "The Albertan 'Steppe'"
+  UNKNOWN_BORDER:0 "Expanse of the Unknown Border"
+  
+  C_SK:0 "Central Saskatchewan"
+  W_SK:0 "Western Saskatchewan"
+  N_MANITOBA:0 "Northern Manitoba"
+  W_MANITOBA:0 "Western Manitoba"
+  SW_MANITOBA:0 "Southwest Manitoba"
+  C_MANITOBA:0 "Central Manitoba"
+  NS_RIVER:0 "North Saskatchewan River"
+  R_RIVER:0 "Assiniboine River"
+  
+  N_DAKOTA:0 "North Dakotas"
+  C_DAKOTA:0 "Central Dakotas"
+  W_DAKOTA:0 "West Dakotas"
+  BRASKA:0 "Braska"
+  
+  
+  

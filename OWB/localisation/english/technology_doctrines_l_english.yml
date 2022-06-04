@@ -70,6 +70,12 @@
   rushed_production_desc:0 "It's essential for our units to reach the frontlines as quickly as possible. In order to keep our armies on the move we must sacrifice quality in return for faster construction speeds."
   self_replicating_machinery:0 "Self Replicating Machinery"
   self_replicating_machinery_desc:0 "Simply producing robots in factories isn't good enough. Our forces should be capable of scavenging, repurposing enemy equipment, and tearing apart buildings for resources to create copies of themselves."
+  advanced_cnc_focus_doctrine:0 "Robotic Commander Proxies"
+  advanced_cnc_focus_doctrine_desc:0 "With versatile information networks, robot commanders can share information to and from their armies instantaneously. Robotic support companies can also aid in further organization."
+  advanced_cnc_focus_doctrine_2:0 "Information Relays"
+  advanced_cnc_focus_doctrine_2_desc:0 "With robots designated as information relay points, we can even further our armies organization and efficiency."
+  advanced_cnc_focus_doctrine_3:0 "Robust Network"
+  advanced_cnc_focus_doctrine_3_desc:0 "Our network now allows us to get information from one side of the battlefield to the other in an instant. With superior organization we can become a truly formidable force."
   field_maintenance:0 "Field Maintenance"
   field_maintenance_desc:0 "It can be difficult to bring units back from the field for repairs during long campaigns. Rather than waiting, or allowing our units to continue the fight while damaged, we can give them the ability to repair each other.\n\n"
   the_flesh_is_weak:0 "The Flesh is Weak"
@@ -294,8 +300,8 @@
  #----------------------------
  # localisation navy doctrine tech
  #----------------------------
-  fleet_in_being:0 "Safe Munitions Stowage"
-  fleet_in_being_desc:0 "From handling primitive firepots to high explosive shells; drilling our sailors on safe stowage of ammunition is vital to naval organization."
+  #fleet_in_being:0 "Safe Munitions Stowage" Moved to replace due to duplicate text
+  #fleet_in_being_desc:0 "From handling primitive firepots to high explosive shells; drilling our sailors on safe stowage of ammunition is vital to naval organization." Moved to replace due to duplicate text
   pacific_fleet_navy_doctrine:0 "Safe Munitions Stowage"
   pacific_fleet_navy_doctrine_desc:0 "From handling primitive firepots to high explosive shells; drilling our sailors on safe stowage of ammunition is vital to naval organization."
   river_fleet_navy_doctrine:0 "River Fleet"

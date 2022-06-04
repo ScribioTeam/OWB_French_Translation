@@ -23,5 +23,10 @@
   mot_rollup:0 "Operation Roll Up"
   mot_gangers_suck:0 "The Powder Gangers Suck!"
   mot_flexibility:0 "Flexible Tactics"
+  mot_supply_bonus:0 "Mojave Supply"
+  mot_victory_in_the_mojave:0 "Victory in the Mojave"
+  mot_victory_in_the_mojave_desc:0 "The seemingly endless war in the Mojave has, finally, come to an end. Celebrations are being held across the [NCR.GetName] and for the first time in a while, all is truly good."
+  ncr_takes_power:0 "Diverted Power"
   # Tooltips
   ncr_veg_treaty_of_new_vegas_tt:0 "Whilst the §OTreaty of New Vegas§! is in force, the NCR and its Mojave Expedition have a non-aggression pact in action between themselves and New Vegas. In exchange for guaranteed independence and sovereignty over the Strip, New Vegas must grant the Mojave Expedition military access in and around the city, with the exception of the Strip itself. §RWe cannot cancel any of the Treaty's stipulations individually.§!"
+  mot_review_bittersprings_tt: "Somehow, it doesn't seem that the Khans are gone for good..."

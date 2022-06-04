@@ -1,0 +1,197 @@
+﻿l_english:
+ # decisions
+  ARR_karma_category: "The Council of Arroyo"
+  ARR_karma_category_desc: "The §YChosen One§! created the Council of Arroyo from three key members of the community. Nagor, his young cousin and strong warrior, Dimitri, an experienced doctor from San Francisco educated by the Followers, and Chitsa, a keen and cunning trader and leader.\n\nWhile each leader has their own way of viewing the world, their actions reflect on their §Ginner being§!. Their deeds, both good and bad, reveal a deeper nature and portray the following karma:\n\n§YNagor§! is perceived to be [nagor_karma_visual]§YChitsa§! is best described as [chitsa_karma_visual]§YDimitri§! is considered [dimitri_karma_visual]"
+
+  arr_chitsa_infrastructure: "Invest in Infrastructure"
+  arr_chitsa_benevolence: "Clarify Benevolence"
+  arr_chitsa_kill_dimitri: "Assassinate Dimitri"
+  arr_chitsa_overpowers_nagor: "Overpower Nagor"
+
+  arr_dimitri_housing: "Build Housing"
+  arr_dimitri_health: "Improve Public Health"
+  arr_dimitri_exile_ghouls: "Exile Ghouls"
+  arr_dimitri_exile_followers: "Exile the Followers"
+
+  arr_nagor_help_chitsa: "Build Bonds with Chitsa"
+  arr_nagor_help_dimitri: "Work with Dimitri"
+
+  ARR_chosen_one_category: "Arroyo's Chosen One"
+  ARR_chosen_one_category_desc: "The Chosen One is Arroyo's hero. Nearly singlehandedly having saved their tribe from starvation and the Enclave, nearly every adult and child worships the ground the Chosen One walks on.\n\nBut the wastes still call to the Chosen One, and they know that there is business yet unfinished for them outside the bounds of Arroyo...\n\nThe §YChosen One§!'s karma is [chosen_karma_visual]"
+
+  ARR_foreign_policy_category: "Our Blessed Land"
+  ARR_foreign_policy_category_desc: "As much as we may wish otherwise, we know well enough that we aren't alone. While Arroyo was once at the mercy of foreign powers, nothing could be further from the truth now. We have a duty to protect our neighbours, but we owe our own people even more.\n\nHigher §Minfluence§! increases the likelihood of a peaceful resolution to a crisis, while higher §Mcoercion§! strengthens our ability to strong-arm our neighbours. Failing to accumulate enough of either will prevent any peaceful outcome.\n\nIf 40% coercion or influence is held over a country it can safely be considered as overcome by Arroyo. Overcome nations will have the best outcomes for Arroyo at the end of their respective crises. However, it is never clear when exactly that crisis will end, so it may be worthwhile to pursue short-term objectives while sacrificing coercion or influence. \n\n§YArroyo will§! §Gnever§! §Ylose out on an expansion target due to low coercion/influence, but will gain §Gadditional benefits§! for having >40% of both§!!\n\nMax Sec Influence: [?arr_mxs_influence|%Y0]\nMax Sec Coercion: [?arr_mxs_coercion|%Y0]\n\nUmbra Influence: [?arr_umb_influence|%Y0]\nUmbra Coercion: [?arr_umb_coercion|%Y0]\n\nPackers Influence: [?arr_pac_influence|%Y0]\nPackers Coercion: [?arr_pac_coercion|%Y0]\n\nEureka Influence: [?arr_eur_influence|%Y0]\nEureka Coercion: [?arr_eur_coercion|%Y0]\n\nFourways Influence: [?arr_fou_influence|%Y0]\nFourways Coercion: [?arr_fou_coercion|%Y0]"
+  arr_stab_for_influence: "Invest in [From.GetName]"
+  arr_manpower_for_coercion: "Secure the Border with [From.GetName]"
+  arr_influence_for_coercion: "Tighten Our Grip on [From.GetName]"
+  arr_coercion_for_influence: "Build Bonds with [From.GetName]"
+
+  arr_pac_war: "Map Packer Territory"
+  arr_pac_war_desc: "The Packers' key advantage seems to be their knowledge of their forest home. By deliberately mapping out the areas we attack we can increase the efficacy of our future offensives."
+
+  arr_pac_brutality: "Approve Brutal Tactics"
+  arr_pac_brutality_desc: "The Packers fight fiercely in their raids against us. In order for us to put a permanent stop to their attacks, we may need to sink to their level."
+
+  arr_pac_prisoners: "Improve Prisoner Treatment"
+  arr_pac_prisoners_desc: "The Packers don't take prisoners. We must prove that we're better than they are, both to our people and to our own conscience."
+
+  arr_pac_slaughter: "Kill Them All"
+  arr_pac_battlefields: "Survey Battlefields"
+  arr_pac_interrogate_prisoners: "Interrogate Prisoners"
+  arr_pac_populace: "Question the Populace"
+  arr_pac_gain_pp: "Promote Peace"
+
+  chosen_leaves_countdown: "Wanderlust Takes Hold"
+
+  ARR_fourways_category: "Two Ways for Fourways"
+  ARR_fourways_category_desc: "In the competition for domination over [FOU.GetName], there are two paths available to us. The first is through building §Mcoercion§!, which will eventually result in a military campaign against our target. This will, of course, enrage our competition, as well as possibly provoke some level of military response.\nA more peaceful, but perhaps less satisfying, route can be taken through gaining §Minfluence§! in [FOU.GetName]'s merchant guild. Whichever power holds a higher level of influence over [FOU.GetName] will have the upper hand in negotiations, allowing them to force their opposition into accepting disadvantageous agreements.\n\nArroyo's Influence: [?ARR.arr_fou_influence|%Y0]\nArroyo's Coercion: [?ARR.arr_fou_coercion|%Y0]\n\nThe NCR's Influence: [?NCR.arr_fou_influence|%Y0]\nThe NCR's Coercion: [?NCR.arr_fou_coercion|%Y0]"
+  fou_begin_negotiations: "Begin Negotiations"
+  fou_military_intervention: "Begin Aggressive Negotiations"
+  arr_reopen_fou: "Reopen [FOU.GetName] Talks"
+  fou_factories_for_influence: "Provide Economic Support"
+  fou_caps_for_coercion: "Bribe Border Guards"
+  rds_stab_for_influence: "Invest in [From.GetName]"
+	rds_manpower_for_coercion: "Secure the Border with [From.GetName]"
+	rds_influence_for_coercion: "Tighten Our Grip on [From.GetName]"
+  rds_coercion_for_influence: "Build Bonds with [From.GetName]"
+
+  #Karma
+
+  karma_worst: "§RDemonic§!\n"
+  karma_low3: "§RTyrannical§!\n"
+  karma_low2: "§OCruel§!\n"
+  karma_low1: "§OManipulative§!\n"
+  karma_neutral: "Neutral\n"
+  karma_high1: "§GHelpful§!\n"
+  karma_high2: "§GKind§!\n"
+  karma_high3: "§BHeroic§!\n"
+  karma_best: "§BMessianic§!\n"
+
+  chitsa_karma_up: "Chitsa's karma will §Gincrease§!"
+  chitsa_karma_big_up: "Chitsa's karma will §Gincrease greatly§!"
+  chitsa_karma_down: "Chitsa's karma will §Rlower§!"
+  chitsa_karma_big_down: "Chitsa's karma will §Rlower greatly§!"
+
+  nagor_karma_up: "Nagor's karma will §Gincrease§!"
+  nagor_karma_big_up: "Nagor's karma will §Gincrease greatly§!"
+  nagor_karma_down: "Nagor's karma will §Rlower§!"
+  nagor_karma_big_down: "Nagor's karma will §Rlower greatly§!"
+
+  dimitri_karma_up: "Dimitri's karma will §Gincrease§!"
+  dimitri_karma_big_up: "Dimitri's karma will §Gincrease greatly§!"
+  dimitri_karma_down: "Dimitri's karma will §Rlower§!"
+  dimitri_karma_big_down: "Dimitri's karma will §Rlower greatly§!"
+
+  chosen_karma_up: "The Chosen One's karma will §Gincrease§!"
+  chosen_karma_big_up: "The Chosen One's karma will §Gincrease greatly§!"
+  chosen_karma_down: "The Chosen One's karma will §Rlower§!"
+  chosen_karma_big_down: "The Chosen One's karma will §Rlower greatly§!"
+
+  #Tooltips#
+  foreshadow_arr_tt: "This will have §Yunforeseeable consequences§!!"
+  chosen_karma_bad_tt: "Available because the Chosen One has §Rbad§! karma"
+  chosen_karma_good_tt: "Available because the Chosen One has §Bgood§! karma"
+  chosen_karma_neutral_tt: "Available because the Chosen One has §YNeutral§! karma"
+  chitsa_karma_bad_tt: "Available because Chitsa has §Rbad§! karma"
+  chitsa_karma_good_tt: "Available because Chitsa has §Bgood§! karma"
+  chitsa_karma_neutral_tt: "Available because Chitsa has §YNeutral§! karma"
+  dimitri_karma_bad_tt: "Available because Dimitri has §Rbad§! karma"
+  dimitri_karma_good_tt: "Available because Dimitri has §Bgood§! karma"
+  dimitri_karma_neutral_tt: "Available because Dimitri has §YNeutral§! karma"
+  nagor_karma_bad_tt: "Available because Nagor has §Rbad§! karma"
+  nagor_karma_good_tt: "Available because Nagor has §Bgood§! karma"
+  nagor_karma_neutral_tt: "Available because Nagor has §YNeutral§! karma"
+
+  nagor_merrymen_tt: "So long as Nagor is council leader the §YMerrymen§! will continue to develop Arroyan industry to his specifications. Otherwise, they will work as they think best."
+  influence_unlocked_tt: "Unlocks §Minfluence and coercion§! decisions for the relevant country."
+  nagor_motorbike_tt: "Unlocks a new §Ydivision template§!!"
+
+  umb_influence_up_tt: "We will gain influence with §GUmbra§!"
+  umb_influence_bigup_tt: "We will gain strong influence with §GUmbra§!"
+  umb_coercion_up_tt: "We will gain coercion with §GUmbra§!"
+  umb_coercion_bigup_tt: "We will gain strong coercion with §GUmbra§!"
+  umb_influence_down_tt: "We will lose influence with §GUmbra§!"
+  umb_coercion_down_tt: "We will lose coercion with §GUmbra§!"
+
+  kla_influence_up_tt: "We will gain influence with §YKlamath§!"
+  kla_coercion_up_tt: "We will gain coercion with §YKlamath§!"
+  kla_influence_down_tt: "We will lose influence with §YKlamath§!"
+  kla_coercion_down_tt: "We will lose coercion with §YKlamath§!"
+
+  pac_influence_massup_tt: "We will gain massive influence with the §WPackers§!"
+  pac_influence_up_tt: "We will gain influence with §WPackers§!"
+  pac_coercion_massup_tt: "We will gain massive coercion with the §WPackers§!"
+  pac_influence_bigup_tt: "We will gain strong influence with §WPackers§!"
+  pac_coercion_up_tt: "We will gain coercion with §WPackers§!"
+  pac_coercion_bigup_tt: "We will gain strong coercion with §WPackers§!"
+  pac_influence_down_tt: "We will lose influence with §WPackers§!"
+  pac_coercion_down_tt: "We will lose coercion with §WPackers§!"
+
+  fou_influence_up_tt: "We will gain influence with §BFourways§!"
+  fou_influence_bigup_tt: "We will gain strong influence with §BFourways§!"
+  fou_coercion_higher_tt: "We will gain coercion with §Y[FOU.GETNAMEWITHFLAG]§!"
+  fou_coercion_up_tt: "We will gain coercion with §BFourways§!"
+  fou_coercion_bigup_tt: "We will gain strong coercion with §BFourways§!"
+  fou_influence_down_tt: "We will lose influence with §BFourways§!"
+  fou_coercion_down_tt: "We will lose coercion with §BFourways§!"
+
+  eur_influence_massup_tt: "We will gain massive influence with the §MEureka§!"
+  eur_influence_up_tt: "We will gain influence with §MEureka§!"
+  eur_influence_bigup_tt: "We will gain strong influence with §MEureka§!"
+  eur_coercion_massup_tt: "We will gain massive coercion with the §MEureka§!"
+  eur_coercion_up_tt: "We will gain coercion with §MEureka§!"
+  eur_coercion_bigup_tt: "We will gain strong coercion with §MEureka§!"
+  eur_influence_down_tt: "We will lose influence with §MEureka§!"
+  eur_coercion_down_tt: "We will lose coercion with §MEureka§!"
+
+  mxs_influence_up_tt: "We will gain influence with §OMax Sec§!"
+  mxs_influence_bigup_tt: "We will gain strong influence with §OMax Sec§!"
+  mxs_coercion_up_tt: "We will gain coercion with §OMax Sec§!"
+  mxs_coercion_bigup_tt: "We will gain strong coercion with §OMax Sec§!"
+  mxs_influence_down_tt: "We will lose influence with §OMax Sec§!"
+  mxs_coercion_down_tt: "We will lose coercion with §OMax Sec§!"
+
+  arr_coercion_cost: "§R5§! §YCoercion§!"
+  arr_coercion_cost_blocked: "Coercion must be above §R0§!!"
+  arr_influence_cost: "§R5§! §YInfluence§!"
+  arr_influence_cost_blocked: "Influence must be above §R0§!!"
+
+  arr_coercion_unlock_tt: "Available due to §Ghigh§! coercion!"
+  arr_influence_unlock_tt: "Available due to §Ghigh§! influence!"
+
+  chitsa_umb_plan_tt: "If Avueron accepts, we will gain §Y10§! coercion."
+  umb_rein_tt: "Umbra will send us §G2 divisions§! to lead."
+  umb_raiders_attack_tt: "§ROur infrastructure has been attacked!§!"
+  pac_slaughter_tt: "§RThe Horror!§!"
+  nagor_packer_units_tt: "§G2 divisions§! of Packers will be raised."
+  arr_cancel_karma_decision_tt: "Will §Rcancel§! if the leader switches or karma drastically changes"
+
+  arr_eighty_tt: "We will gain [FOU.GetName] as a §Gpuppet§! and a §Gsmall monetary bonus§!, and they will receive a §Rsmall monetary compensation§!."
+  arr_seventy_tt: "We will gain [FOU.GetName] as a §Gpuppet§!, and they will receive a §Rmonetary compensation§!."
+  arr_sixty_tt: "We will gain a §Glarge monetary bonus§!, and they will receive a §Rmonetary compensation§!. We will both §Yguarantee§! [FOU.GetName]."
+  arr_fifty_tt: "We will sign a §Ynon-aggression pact§! and both §Yguarantee§! [FOU.GetName]."
+
+  arr_no_justify_tt: "The delicate balance of the region mandates that we take a careful diplomatic approach to this nation. We can circumvent this by attacking Arroyo directly."
+  arr_shi_good_opinion: "Available due to our close connection with the Shi"
+  arr_integration_tt: "Use this to clean up border gore"
+
+  arr_rein_tt: "Six new divisions will be raised"
+  arr_council_outcome_tt: "We will gain new ideas based on how long each leader was in power"
+
+  arr_dorris_warbands_tt: "Reno will be in for a §Ynasty surprise§! if they ever step foot in Dorris.\n"
+
+  #Opinion Modifiers#
+  arr_likes_shi: "Likes the Shi"
+  shi_likes_arr: "Likes Arroyo"
+  arr_likes_navarro: "Likes the Navarro Territories"
+  navarro_likes_arr: "Likes Arroyo"
+  reno_likes_arr: "Likes Arroyo"
+  arr_whoz_friendly: "Deal Brokered"
+
+  #Flags#
+  chosen_one_gone:0 "The Chosen One is Gone"
+  fou_negotiations: "Negotiations Ongoing"
+  chosen_one_returned:0 "The Chosen One has Returned"
+  chitsa_dead:0 "Chitsa can no longer influence Arroyo"
+  nagor_dead:0 "Nagor can no longer influence Arroyo"
+  dimitri_dead:0 "Dimitri can no longer influence Arroyo"

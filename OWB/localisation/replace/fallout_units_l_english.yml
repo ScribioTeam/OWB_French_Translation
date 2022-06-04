@@ -6,6 +6,7 @@
   category_demolitions:0 "Demolitions"
   category_fireteams:0 "Fireteams"
   category_robots:0 "Robots"
+  category_cnc_robots:0 "CnC Robots"
   category_super_mutants:0 "Super Mutants"
   category_mutants:0 "Mutants"
   category_special_forces:0 "Special Forces"
@@ -20,6 +21,10 @@
   category_combat_support:0 "Fighting Support Units"
   category_non_combat_support:0 "Non Combat Support Units"
   category_behemoth:0 "Behemoths"
+  mobile:0 "Mobile"
+  infantry:0 "Infantry"
+  support:0 "Support"
+  special_forces_group:0 "Special Forces Group"
 
 
   category_air_unit:0 "All Aircraft"
@@ -135,10 +140,15 @@
   plant_support_desc:0 "Home grown bio-warriors will give our troops a huge advantage, assuming that we can fight in lands fertile enough to plant them."
 
  # Motorized/Mechanized
-
-  apc:0 "APC Platoon"
-  apc_short:0 "APCs"
-  apc_desc:0 "Medium armoured fighting vehicles capable of deflecting most small arms fire while simultaneously capable of returning fire itself."
+  motorized_heavy_infantry:0 "Motorized Enforcers"
+  motorized_heavy_infantry_short:0 "Mobile Enforcers"
+  motorized_heavy_infantry_desc:0 ""
+  motorized_fireteam:0 "Motorized Fireteams"
+  motorized_fireteam_short:0 "Mobile Fireteams"
+  motorized_fireteam_desc:0 ""
+  motorized_demoteam:0 "Motorized Demolitions"
+  motorized_demoteam_short:0 "Mobile Demolitions"
+  motorized_demoteam_desc:0 ""
 
  # tanks
   tank:0 "Tank Platoon"
@@ -224,6 +234,16 @@
   super_heavy_robot_short:0 "Super-Heavy Robots"
   super_heavy_robot_desc:0 "Robots that defy any convention of reasoning or logic, made for one purpose only, destruction."
 
+  cnc_robot:0 "Command and Control Attachment"
+  cnc_robot_short:0 ""
+  cnc_robot_desc:0 ""
+  cnc_robot_2:0 "Command and Control Attachment"
+  cnc_robot_2_short:0 ""
+  cnc_robot_2_desc:0 ""
+  cnc_robot_3:0 "Command and Control Attachment"
+  cnc_robot_3_short:0 ""
+  cnc_robot_3_desc:0 ""
+
 
 
  # Support
@@ -278,6 +298,10 @@
 
   spec_ops_horses_tech:0 "Horsemen"
   spec_ops_horses_tech_desc:0 ""
+  spec_ops_horses_tech_2:0 "Horsemen II"
+  spec_ops_horses_tech_2_desc:0 ""
+  spec_ops_horses_tech_3:0 "Horsemen III"
+  spec_ops_horses_tech_3_desc:0 ""
 
   spec_ops_cavalry:0 "Horsemen"
   spec_ops_cavalry_short:0 "Riders"
@@ -304,7 +328,7 @@
   heavy_ship_unit_desc:0 ""
 
   super_heavy_ship_unit:0 "Superheavy Ship"
-  super_heavy_ship_unit_short:0 "SHS"
+  super_heavy_ship_unit_short:0 "NCR"
   super_heavy_ship_unit_desc:0 ""
 
   # Sentinels
@@ -320,6 +344,21 @@
   cybernetic_warform_short:0 "Warform"
   cybernetic_warform_desc:0 "What have we done?"
 
+  paladin_unit:0 "Paladin Platoon"
+  paladin_unit_short:0 "Paladins"
+  paladin_unit_desc:0 ""
+  Paladin_fireteam_unit:0 "Paladin Fireteam"
+  Paladin_fireteam_unit_short:0 "Paladins"
+  Paladin_fireteam_unit_desc:0 ""
+  Paladin_demo_unit:0 "Paladin Demoteam"
+  Paladin_demo_unit_short:0 "Paladins"
+  Paladin_demo_unit_desc:0 ""
+  knight_support_unit:0 "Brotherhood Knights"
+  knight_support_unit_short:0 "Knights"
+  knight_support_unit_desc:0 ""
+  scribe_support_unit:0 "Field Scribes"
+  scribe_support_unit_short:0 "Scribes"
+  scribe_support_unit_desc:0 ""
 
   # Elites
   elite_infantry:0 "Elite Infantry"

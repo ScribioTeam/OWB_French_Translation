@@ -1,103 +1,124 @@
 ﻿l_english:
- # originally by david, re-written/adapted by Happy
-  KHA_focus_the_stories_we_tell:0 "Our Stories"
-  KHA_focus_the_stories_we_tell_desc:0 "We tell many stories around our campfire about the Khans of old. To know where you are going you must of course know where you are from. A people without a history is a people without a future."
+ # originally by david, re-written/adapted by Happy, re-rewritten for 5.0 by Tar
 
-  KHA_focus_what_happened_in_new_vegas:0 "Our Exile"
-  KHA_focus_what_happened_in_new_vegas_desc:0 "Our early clashes with the NCR in the Mojave forced us to find new areas to settle. In our search ever further from Shady Sands, we discovered the abandoned suburbs of Las Vegas—long before it was the jewel of the wasteland—and settled down. That is, until Mr. House, with his securitrons and bootlicking tribal allies, kicked us out."
+  #Focus
 
-  KHA_focus_our_future:0 "Our Future"
-  KHA_focus_our_future_desc:0 "The time has finally come to decide the destiny of The Great Khans, by deciding who will lead our people on to victory in the name of our forefathers. Both candidates have uniquely different views, however!"
+  KHA_memories_of_vault:0 "Memories of Vault 15"
+  KHA_memories_of_vault_desc:0 ""
 
-  KHA_focus_what_we_once_had:0 "What We Once Had"
-  KHA_focus_what_we_once_had_desc:0 "The Khans were once a great tribe, terrorising all who stood in their way. They amassed untold riches—in old world tech, gold, women and slaves—and were the undisputed masters of hit-and-run tactics. We should strive to once again reach such glories!"
+  KHA_garl_deathhand:0 "Garl Deathhand"
+  KHA_garl_deathhand_desc:0 ""
 
-  KHA_focus_natural_opioids:0 "Natural Opioids"
-  KHA_focus_natural_opioids_desc:0 "Long before the Followers of the Apocalypse arrived, the Khans had taken to using natural opioids—coyote tobacco chew and other natural plants—to enhance our bravery in the battlefield, at the cost of some addictions."
+  KHA_darions_folly:0 "Darion's Folly"
+  KHA_darions_folly_desc:0 ""
 
-  KHA_focus_reinforce_the_patriarchy:0 "Reinforce the Patriarchy"
-  KHA_focus_reinforce_the_patriarchy_desc:0 "Whilst many women prove valiant warriors, we need stability in these times of strife. We should ensure all know the men of this Khanganate are on top."
+  KHA_used_to_rule_world:0 "I Used To Rule the World"
+  KHA_used_to_rule_world_desc:0 ""
 
-  KHA_focus_papa_khan:0 "Papa Khan"
-  KHA_focus_papa_khan_desc:0 "Papa Khan possesses fits of talent and charisma. He is true to the original values of our ancestors, and his hatred for the NCR is unparalleled. Clearly, he is the only person who can lead the Khans to a brighter future!"
+  KHA_wyoming_expedition:0 "Expedition to Wyoming"
+  KHA_wyoming_expedition_desc:0  ""
 
-  KHA_focus_become_a_technological_society:0 "Become a Settled Society"
-  KHA_focus_become_a_technological_society_desc:0 "The ways of the Khans of old are no longer practical. Instead, we need to look to technology for the answer to our problems."
+  KHA_accept_the_uninitiated:9 "Accept the Uninitiated"
+  KHA_accept_the_uninitiated_desc:0 ""
 
-  KHA_focus_new_ideas_embraced:0 "New Ideas"
-  KHA_focus_new_ideas_embraced_desc:0 "Like most societies in the wasteland, the Great Khans understand how important slaves are for the economy—though we are now beginning to realise they're not the only way to run the economy."
+  KHA_ban_drugs:0 "Ban Drugs"
+  KHA_ban_drugs_desc:0 ""
 
-  KHA_focus_advances_in_technology:0 "Advances in Technology"
-  KHA_focus_advances_in_technology_desc:0 "The Followers of the Apocalypse gave us one last gift before they departed—knowledge of electronics. What a gift it was."
+  KHA_new_tech_new_khans:0 "New Technology for New Khans"
+  KHA_new_tech_new_khans_desc:0 ""
 
-  KHA_focus_study_prewar_weapons:0 "Study Pre-war Weapons"
-  KHA_focus_study_prewar_weapons_desc:0 "Whilst the ability to reproduce pre-war weapons is far beyond our capabilities, studying them will nevertheless grant us an insight into how we can improve our own weapons."
+  KHA_history_lessons:0 "History Lessons"
+  KHA_history_lessons_desc:0 ""
 
-  KHA_focus_laser_muskets:0 "Laser Muskets"
-  KHA_focus_laser_muskets_desc:0 "The laser musket is a homemade, non-standard version of a laser rifle. This was our first attempt at reproducing a laser rifle. The \"barrel\" consists of a standard laser rifle housing with two metal-ringed lenses atop a metal rod extending from the stock, through which the laser beam is focused."
+  KHA_new_religion_new_khans:0 "Preach to the Masses"
+  KHA_new_religion_new_khans_desc:0 ""
 
-  KHA_focus_basic_equipment:0 "Basic Equipment"
-  KHA_focus_basic_equipment_desc:0 "Soldiers require the best equipment to remain a strong fighting force. We shouldn't spare any time in researching what is required for a soldier to perform at their max capacity."
+  KHA_only_strong_survive:0 "Only the Strong Survive"
+  KHA_only_strong_survive_desc:0 ""
 
-  KHA_focus_pre-war_energy_weapons:0 "Pre-war Energy Weapons"
-  KHA_focus_pre-war_energy_weapons_desc:0 "We were finally successful in recreating pre-war laser rifles. Laser rifles are high-tech weapons that emit a concentrated beam of coherent light, with sufficient wattage to do considerable damage. They can be powered by battery packs, fusion cells or cabled power systems, but most models use an internal capacitor, charged with microfusion cells."
+  KHA_drug_runs:0 "Drug Runs"
+  KHA_drug_runs_desc:0 ""
 
-  KHA_focus_pre-war_ballistic_weapons:0 "Pre-war Ballistic Weapons"
-  KHA_focus_pre-war_ballistic_weapons_desc:0 "Before the great war ballistic weapons were the primary infantry weapons used by the world's armed forces. Due to their huge usage, it is easy to find parts in the wasteland and produce these for our self."
+  KHA_new_labs_for_drugs:0 "New Labs for Drugs"
+  KHA_new_labs_for_drugs_desc:0 ""
 
-  KHA_focus_the_secrets_of_vault_22:0 "The Secrets of Vault 22"
-  KHA_focus_the_secrets_of_vault_22_desc:0 "Strange rumours of the mysteries of Vault 22 circulate the wasteland. The rumors of what is inside range from man-eating plants to pre-war experiments and wonder weapons. The only catch is that no one has ever returned from the Vault—perhaps we should try out own expedition?"
+  KHA_raid_neighbors:0 "Raid Neighbors"
+  KHA_raid_neighbors_desc:0 ""
 
-  KHA_focus_a_new_direction:0 "A New Direction"
-  KHA_focus_a_new_direction_desc:0 "The world advances around us, and so we must adapt with it—so that we are not blown away by the winds of change. It has become evident that the Legion see us as little more than a tool in their hands. We must instead look towards the NCR for a better life."
+  KHA_exploit_the_land:0 "Exploit the Land"
+  KHA_exploit_the_land_desc:0 ""
 
-  KHA_focus_bandage_old_wounds:0 "Bandage Old Wounds"
-  KHA_focus_bandage_old_wounds_desc:0 "We can never forget the hell that the NCR rained down on us at Bitter Springs, but we must also never forget this was a mistake—indeed, the soldiers that partook in the massacre were only following orders, and the orders were based on incorrect intelligence. We must seek rapprochement with the NCR, or we will be lost."
+  KHA_building_longhouse:0 "Our New Longhouse"
+  KHA_building_longhouse_desc:0 ""
 
-  KHA_focus_propose_plan_to_long_house:0 "Propose a New Plan"
-  KHA_focus_propose_plan_to_long_house_desc:0 "The Long House is now filled with our most trusted advisors—the time has come to propose our plan to move forward with our relations with the NCR."
+  KHA_leader_for_expedition:0 "A Khan for the Khans"
+  KHA_leader_for_expedition_desc:0 ""
 
-  KHA_focus_convince_advisors:0 "Convince Advisors"
-  KHA_focus_convince_advisors_desc:0 "It seems the advisors of the Long House were not quite as receptive to the idea of an alliance with the NCR, and extra effort is now needed to ensure they believe this course of action is the best."
+  KHA_forge_of_empires:0 "Forge of Empires"
+  KHA_forge_of_empires_desc:0 ""
 
-  KHA_focus_ncr_embassy:0 "NCR Embassy"
-  KHA_focus_ncr_embassy_desc:0 "The first step in our plan requires us to launch a diplomatic mission to the NCR embassy in New Vegas. From here we will be able to slowly build up a mutual understanding between our peoples, and hopefully together focus on the bigger enemy across the Colorado."
+  KHA_power_of_tradition:0 "Power of Tradition"
+  KHA_power_of_tradition_desc:0 ""
 
-  KHA_focus_request_amnesty:0 "Request Amnesty"
-  KHA_focus_request_amnesty_desc:0 "For years the Khans have been persecuted by NCR troopers, but we have also enacted violent revenge on NCR settlements in response. We should discuss the possibility of a mutual pardon with the NCR, in exchange for ceasing all raiding activities in the Mojave."
+  #Esen's Warpath
 
-  KHA_focus_a_formal_alliance:0 "A Formal Alliance"
-  KHA_focus_a_formal_alliance_desc:0 "Now that we have reached a mutual understanding, we can initiate the last phase of our plan—a military alliance."
+  KHA_picking_their_corpses:0 "Picking Their Corpses"
+  KHA_picking_their_corpses_desc:0 "Implants are hard to come by in the wasteland. We can not allow such precious equipment go to waste."
 
-  KHA_focus_ncr_funding:0 "NCR Funding"
-  KHA_focus_ncr_funding_desc:0 "A benefit of being a part of the NCR's alliance network is the extensive funding they pump into our defence and production sectors. We should put this money to good use!"
+  KHA_dead_tell_no_tales:0 "Dead Tell No Tales"
+  KHA_dead_tell_no_tales_desc:0 "Elizaveta, the schemer, ran out of places to hide and spread her venomous words. We'll see if she can ruminate her way back to life."
 
-  KHA_focus_ncr_support_development:0 "NCR Development Support"
-  KHA_focus_ncr_support_development_desc:0 "What the NCR believes is old technology is very new to us, and with the NCR's help we can adapt our industry to become more efficient using this tech."
+  KHA_this_does_put_smile:0 "This Does Put A Smile On My Face"
+  KHA_this_does_put_smile_desc:0 "Perhaps Elizaveta was right, at least partially. The greatest happiness in the world is to vanquish your enemies, to chase them before you, to rob them of their wealth, to see those dear to them bathed in tears, not sitting idly while world around you burns."
+  KHA_this_does_put_smile_tt:0 "§GLook from the bright side Elizaveta, at least the Khans ruminated to riches.§!"
+  #Ideas
 
-  KHA_focus_ncr_sharecroppers:0 "NCR Sharecroppers"
-  KHA_focus_ncr_sharecroppers_desc:0 "Sharecropping is the system of offering protection to settlements in exchange for a share of their crop yield. We should employ this system in our territory, allowing us a sizeable reserve of food."
+  kha_expedition_funding:0 "Funding the Wyoming Expedition"
+  kha_expedition_funding_desc:0 ""
 
-  KHA_focus_adopt_new_tactics_ncr:0 "Adopt NCR Tactics"
-  KHA_focus_adopt_new_tactics_ncr_desc:0 "The NCR has shown us how powerful an organised fighting force can be—if we are to be fighting along side these men we should take after them."
+  kha_great_trek:0 "The Great Trek"
+  kha_great_trek_desc:0 "Not all Khans are eager to live under NCR yoke. Fearing annihilation between the Bull and the Bear, many Khans choose the long trek north, dreaming of a fresh start."
 
-  KHA_focus_the_red_menace:0 "The 'Red Menace'"
-  KHA_focus_the_red_menace_desc:0 "The greatest threat to the survival of the Khans is the Legion. We must ensure they remain firmly on the other side of the Colorado."
+  kha_the_crucible:0 "The Crucible"
+  kha_the_crucible_desc:0 "Far away from the mighty empires to the east and west, it is here in Wyoming Atraris decided to build the foundations of his empire. Determined to §R burn §! Wyoming to fuel the rise of his empire, only time will tell the consequences of playing with fire."
 
-  KHA_focus_for_the_republic:0 "For the Republic! For the Khans!"
-  KHA_focus_for_the_republic_desc:0 "The fate of the NCR and our own society are now firmly Intertwined. We must fight to the last!"
+  #Events
 
-  KHA_focus_a_neutral_party:0 "A Neutral Party"
-  KHA_focus_a_neutral_party_desc:0 "We should make clear to the NCR that we will not be a belligerent against them in their war with the Legion, so long as they respect our neutrality."
+  nf_khans.1.t:0 "Memories of Vault 15"
+  nf_khans.1.d:0 ""
+  nf_khans.1.a:0 "Jackals"
+  nf_khans.1.b:0 "Vipers"
 
-  KHA_focus_restore_trade:0 "Restore Trade with the NCR"
-  KHA_focus_restore_trade_desc:0 "Trading with the NCR will allow us access to countless new consumers—to the great benefit of our economy!"
+  #Characters
 
-  KHA_focus_new_traditions:0 "New Traditions"
-  KHA_focus_new_traditions_desc:0 "The Khans have risen from the ashes many times, but does that not mean we have also failed many times? Only a fool would deny that change is needed—we must adopt new tactics in order to survive in this dystopian world."
+  KHA_jessup:0 "Jessup"
+  KHA_chance:0 "Chance"
+  KHA_chance_desc:0 "Chance is a member of the Great Khans and a survivor of the Bitter Springs Massacre. He is considerd by many a veteran of the clan, and a ruthless warrior, showing no remorse as he cuts his foes down one by one"
+  KHA_mcmurphy:0 "McMurphy"
+  KHA_mcmurphy_desc:0 "McMurphy was born member of the Khans, and has bags of experience leading small bands of the clan members on raiding missions deep into enemy lands."
+  KHA_the_armorer:0 "The Armorer"
+  KHA_the_armorer_desc:0 "The Armorer of the Great Khans is considerd one of the best in the wasteland, and with little more than a scrap of metal she has been known to forge the finest breast plates and body armor."
+  KHA_oscar_velasco:0 "Oscar Velasco"
+  KHA_oscar_velasco_desc:0 "Oscar Velasco was one of the few soldiers at Bitter Springs the day of the massacre, and fought bravely with his fellow Khans until they were totally overwhelmed. Oscar managed to survive due to his unique sniper abilities, allowing him to cut down the NCR troopers who attempted to follow him up the narrow mountain passes."
+  KHA_melissa_lewis:0 "Melissa Lewis"
+  KHA_melissa_lewis_desc:0 "Melissa is a courier for the Great Khans and knows all the tricks of the business. She wasn't born into the tribe but instead underwent gruling training—and she shows true potential."
+  KHA_desmond_lans:0 "Desmond Lans"
+  KHA_desmond_lans_desc:0 "Desmond has never forgotten the Bitter Springs massacre, and believe it's high time the Khans have their revenge on the NCR for their atrocities."
+  KHA_jack:0 "Jack"
+  KHA_jack_desc:0 "Jack is an easy going drug dealer, or \"drug supplier\" as he prefers, you can often find him and Diane together. The pair run a drug trafficking ring in the Mojave, and supply the Great Khans with drugs as well. Jack learned chemistry from the Followers of the Apocalypse."
+  KHA_diane:0 "Diane"
+  KHA_diane_desc:0 "Diane is a drug dealer and member of the Great Khans. You can often find her and Jack together, although it seems to be mostly Jack who follows her around rather than a mutual friendship."
+  KHA_anders:0 "Anders"
+  KHA_anders_desc:0 "Anders is and always has been a Khan, making a name for himself as Diane's most trusty drug runner. Together the trio—Diane, Jack and Anders—control the vast majority of the Great Khans' drug trade."
+  KHA_jerry_the_punk:0 "Jerry The Punk"
+  KHA_jerry_the_punk_desc:0 "When Jerry was a child, the Followers of the Apocalypse came to Red Rock Canyon with pre-War books. Jerry used to spend hours reading these books, especially poetry books, and has consequentially grown into the role of the Great Khan's poet—writing epics about the victories of the Khans."
+  KHA_emma_winslow:0 "Emma Winslow"
+  KHA_emma_winslow_desc:0 "Emma was one of the original Followers of the Apocalypse to make contact with the Great Khans, and dedicated her time to helping the clan—even begining to embrace its culture. By inviting her to the Long House we may be able to convince her people that we are not so bad."
+  KHA_dalia:0 "Dalia"
+  KHA_dalia_desc:0 "Dalia is more than just a pretty face, and her way with words combined with her keen political awareness make her a great motivational speaker."
+  anders_lar_trait:0 "Anders"
 
-  KHA_focus_regis:0 "Regis"
-  KHA_focus_regis_desc:0 "Regis has been Papa Khan's right hand man—an excellent fixer, soldier and advisor. However, Regis and Papa don't always see eye to eye on the future of the Khans—especially when it come to how we should align ourselves in the future. Thanks to the decisions of the Council, however, Regis' time to shine has come!"
+  #Misc
 
   KHA_focus_great_hunts:0 "Great Hunts"
   KHA_focus_great_hunts_desc:0 "In the past we’ve taken to hunting when times were quiet. The hides and meat of the Geckos and Bighorners can serve our people well—and the hunt itself is such a thrill!"
@@ -448,9 +469,9 @@
   nf_tmb.2.d:0 "It seems like the mythical land of Wyoming really does exist. In the distant lands of Wyoming, we found the herds of the mythological beasts, the horses. We will ride with the Great Khan, until the end of the world."
   nf_tmb.2.a:0 "I am speed!"
 
-  nf_vegas.68.t:0 "Communism with Elvis Characteristics"
-  nf_vegas.68.d:0 "As the crowd gathered around the Lucky 38, King silently made his entrance to the building with his killer moves, not the three hundred year geriatric killing ones mind you. He calmly tried to explain the situation to the Mister House using his endless charisma. 'People of Vegas want, no, demand communism with Elvis characteristics.' Mr. House was shocked, but the King did not allow him to speak. 'You, me, we're all kings. Here king you dropped this, lemme open this chamber and give it to you.' As he struggled to open the antechamber, Mr. House went into a tangent about Ayn Rand and moochers and looters and other sort of capitalist propaganda. King successfully managed to disable his neural interface stating 'Comrade House, I'm disabling your access to the neural interface. Now it is OUR interface."
-  nf_vegas.68.a:0 "As Benny would say: 'Ring a ding-dong!'"
+  nf_vegas.1002.t:0 "Communism with Elvis Characteristics"
+  nf_vegas.1002.d:0 "As the crowd gathered around the Lucky 38, King silently made his entrance to the building with his killer moves, not the three hundred year geriatric killing ones mind you. He calmly tried to explain the situation to the Mister House using his endless charisma. 'People of Vegas want, no, demand communism with Elvis characteristics.' Mr. House was shocked, but the King did not allow him to speak. 'You, me, we're all kings. Here king you dropped this, lemme open this chamber and give it to you.' As he struggled to open the antechamber, Mr. House went into a tangent about Ayn Rand and moochers and looters and other sort of capitalist propaganda. King successfully managed to disable his neural interface stating 'Comrade House, I'm disabling your access to the neural interface. Now it is OUR interface."
+  nf_vegas.1002.a:0 "As Benny would say: 'Ring a ding-dong!'"
 
   #Ideas
 

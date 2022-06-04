@@ -1,0 +1,49 @@
+﻿l_english: 
+#Umbra
+nf_umb_puppet.1.t:0 "Exchanging Of Gifts"
+nf_umb_puppet.1.d:0 "The ceremony catches a lucky break: bright sunshine illuminates the square where the exchange of gifts is occuring. Cheers fill the air as the two sides make speeches to the occasion. NCR administrators stand off to the sides watching members of the Umbra hand over their gifts of food and jewelry to Arroyo, and to the Chosen One, who couldn't attend the gathering in person due to health concerns. Age, it seems, can catch up with even the greatest.\n\n The delagation from Arroyo goes next, bringing forth..."
+nf_umb_puppet.1.a:0 "Fresh food cultivated in Arroyo, to show the wasteland can be healed"
+nf_umb_puppet.1.b:0 "An old suit of Enclave Power Armor, a symbol of the defeat of evil"
+nf_umb_puppet.1.c:0 "Red cactus flowers strung together alongside red dyed cloth, to symbol the blood shed together"
+
+
+#Rapids
+nf_rap_puppet.1.t:0 "Shayna Wellby Requests A Vessel"
+nf_rap_puppet.1.d:0 "With conflict underway against Caesar's Legion, even many of those who fought against our takeover of the Rapids are attempting to take up the fight against invading forces. Chief among them is Shayna Wellby, previously allowed to walk away from the position of Grand Captain in return for laying down arms. A skilled and respected captain, her help could swing the fighting on the river. However, more than a few hardliners in the administration would rather never see her on a military vessel."
+nf_rap_puppet.1.a:0 "Reinstate her as a captain."
+nf_rap_puppet.1.b:0 "Bring her in as an expert, teaching others."
+nf_rap_puppet.1.c:0 "Reject the request. The NCR doesn't need troublemakers right now."
+
+#Baja
+
+bjs_switch_category:0 "Switch To Baja State"
+bjs_switch_category_desc:0 "With the formation of the Baja State of the NCR, you have a chance to head down and experience it for yourself."
+switch_to_baja:0 "Take Control Of Baja State"
+switch_to_baja_desc:0 "Travel down south and enjoy Baja California."
+switch_to_baja_timer:0 "Last Chance To Go"
+switch_to_baja_timer_desc:0 "Only so long til the administration sets up without you."
+
+nf_bjs_puppet.1.t:0 "State Of Baja"
+nf_bjs_puppet.1.d:0 "This day will hereforth commemorate the founding of the State of Baja. Plans are underway for a massive parade through the streets of La Yaqui, the newly chosen capital of the Baja."
+nf_bjs_puppet.1.a:0 "Import plenty of food and drink!"
+nf_bjs_puppet.1.b:0 "Rig up a few fireworks, put on a show!"
+nf_bjs_puppet.1.c:0 "Celebrate with a military parade, demonstrate our strength!"
+nf_bjs_puppet.1.e:0 "Really? A parade? We barely have a budget yet!"
+
+nf_bjs_puppet.2.t:0 "Compromises"
+nf_bjs_puppet.2.d:0 "Convincing the whole of Baja to join the NCR used a significant amount of resources. While the cost of essentially bribing the locals into compliance was funded by the senate, it was perhaps inevitable that we'd come up short somewhere. \n\nDuring a recent check by the newly established administration, we found that..."
+nf_bjs_puppet.2.a:0 "We've used up our imported building supplies."
+nf_bjs_puppet.2.b:0 "We've overpromised our budget."
+nf_bjs_puppet.2.c:0 "We've not been able to source educational material."
+
+nf_bjs_puppet.3.t:0 "Handling Villa"
+nf_bjs_puppet.3.d:0 "Pancho Villa was a constant thorn in the side of the Dayglow border patrols. An confident and inventive man, his success at getting goods across the border brought him much fame and respect in Baja. However, while his crimes against the NCR were forgiven as part of deals that brought the region under control, more than a few voices from California have called for marginalizing his impact on the new state. On the other hand, leaving a competent individual like Villa to languish would be a waste of talent."
+nf_bjs_puppet.3.a:0 "A few payoffs should ensure he stays out of sight"
+nf_bjs_puppet.3.b:0 "Give him a position in the local administration"
+nf_bjs_puppet.3.c:0 "Offer him a spot leading men once more"
+
+nf_bjs_puppet.4.t:0 "Handling Guarez"
+nf_bjs_puppet.4.d:0 "Guarez is a contentious figure with the administrators sent from California proper. While he has many contacts and a fantastic head for logistics, his storied past means his trustworthiness is often called into question. A few northerners have drafted up plans for how he might be dealt with. It may be best, however, to leave him alone... the NCR, after all, has a place for everyone."
+nf_bjs_puppet.4.a:0 "Let him work in peace"
+nf_bjs_puppet.4.b:0 "Get him a lower level out of sight position where he can work his magic"
+nf_bjs_puppet.4.c:0 "Find him a cozy job in the middle of nowhere"

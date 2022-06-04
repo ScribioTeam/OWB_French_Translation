@@ -1,267 +1,455 @@
 ﻿l_english:
+
+   ######FILTERS#####
+   FOCUS_FILTER_VAN_GRAFFS:0 "Path of Van Graffs"
+
+   ######FILTERS#####
+
   new_american_pmc:0 "American PMC"
   new_american_pmc_desc:0 "The Armies of New Reno have always been a mishmash of mercenary forces, hired from all across the wasteland to enforce the will of the families. These men and women are entirely willing to work for the Enclave's coin."
-
   new_oldworld:0 "The Old World"
   new_oldworld_desc:0 "The Goal of the Enclave has always been, in some form or another, the restoration of Old World America. returning the shattered wasteland to a state that they deem respectable. They are the guardians of the past, and seek to act as such."
-
   new_bio_med:0 "Biomedical Experiments"
   new_bio_med_desc:0 "Despite being the Leader of Enclave Nevada, Arch Dornan is an old man who is largely incapable of acting in the field, along with many of his old guard. However, a recent breakthrough in medical science may enable some restoration of his youth..."
-
-  new_sierra_depot:0 "Sierra Army Depot Renovation"
-  new_sierra_depot_desc:0 "Long ago, the S.A.D. base was a US military outpost in western Nevada, and now that it has Enclave funding and support? It shall be again. Refurbished and reinstated as a place of American military might."
-
   new_old_newworld:0 "New World, Old Ideas"
   new_old_newworld_desc:0 "The Men and Women of Vault City have long stood as a symbol of Old World Elitism in the wasteland, hoarding their science and their technology for the betterment of themselves and the worthy. Truly! They could make proud Americans, assuming nothing has happened to them..."
-
   new_newworld:0 "The New World"
   new_newworld_desc:0 "Despite what we hope, America as we knew it is long gone. If we are ever to restore our beloved nation to her former glory, we shall have to adapt to the times and tame this new world."
-
   new_vertibird:0 "Vertibird Construction"
   new_vertibird_desc:0 "Vertibirds have been a staple of the Enclave Military for the better part of a century, but our stockpiles have been all but devastated. We shall have to start from scratch, rebuilding our fleet with what we can buy."
-
   new_newcapitol:0 "The Capital of Nevada was once Carson "
   new_newcapitol_desc:0 "The Capital of Nevada was once Carson, but that place is now little more than slag. Bombed to ruin and destroyed by raiders. New Reno shall become the capital of the state, as per the wishes of Arch Dornan."
-
   new_reclaimnevada:0 "Nevada Reclamation"
   new_reclaimnevada_desc:0 "The State of Nevada was once a proud member of the United States! And it shall be again!"
-
   new_thradd_army:0 "Thradd's Army"
   new_thradd_army_desc:0 "The Warlord Thradd has conquered New Reno! He now seeks to establish a power base in Nevada and Utah, uniting the disparate Super Mutant Factions so that he might forge a new army capable of punishing those who destroyed his beloved Master!"
-
   new_ode_to_rats:0 "An Ode to Rats"
   new_ode_to_rats_desc:0 "The Brain planned on conquering Vault long ago, and was provided with small amounts of FEV from Thradd to accomplish this takeover. Assuming that he did? He could prove to be a valuable ally!"
-
   new_scheming_rats:0 "Scheming with Vermin"
   new_scheming_rats_desc:0 "The Brain is far more intelligent than any of our kind! And for the better, his technology and resources shall enable our alliance to go far against the weaklings to the south!"
-
   new_conquer_vault:0 "Conquering the Vault"
   new_conquer_vault_desc:0 "Vault City was always wasted on humankind, their technology was the wonder of the wasteland, but their greed stained it in blood. Now? We shall wash it in red..."
-
   new_rebuild_cult:0 "Rebuilding Unity?"
   new_rebuild_cult_desc:0 "The Cult of Unity is where loyal humans belong! Kneeling in service to the glory of the master! Preaching the good word. Unity may have failed us before, but many speak of bringing it back."
-
   new_stir_the_giants:0 "Stirring the Giants"
   new_stir_the_giants_desc:0 "The super mutants of Troll Warren, under the First, are among the greatest forces in all of Northwestern America. They would serve as fine allies!"
-
   new_enslaving_warren:0 "Enslaving the Warren"
   new_enslaving_warren_desc:0 "While the First would not kneel to us willingly, but he and his people will kneel to us when they are weighed down by chains."
-
   new_honorable_allies:0 "Honourable Allies"
   new_honorable_allies_desc:0 "The First has accepted our cause into his heart, and works with us to defeat mankind! Together, with such honourable allies, we shall be unstoppable!"
-
   new_for_master:0 "For the Master!"
   new_for_master_desc:0 "They took the Master from us! They took our future, our dreams and our hopes! Yet they could not take away his memory, and they can not keep us from finishing his dreams! The wasteland shall belong to mutantkind!"
 
+  ### Van Graff
+  new_queen_of_reno: "The Queen of Reno"
+  new_queen_of_reno_desc: "Mama Van Graff is a woman of immense wealth and beauty.  And now she has come into her own, solving the petty quarrels that divided Reno. Say hello to some of her employees!"
+  new_combat_armor: "Combat Armor"
+  new_combat_armor_desc: "Okay, now let's get you geared up. First, your armor. Standard issue is your run-of-the-mill combat armor, with a nice dark coat of paint for both brand recognition and sheer intimidation value."
+  new_plasma_guns: "Provide Guns to Employees"
+  new_plasma_guns_desc: "All Van Graff guards are required to use rifles. Anything lighter compromises your combat effectiveness. Anything heavier and people are too scared to come in the door. What's your preference, laser or plasma?"
+  new_redding: "Sorting Out Redding"
+  new_redding_desc: "Our family comes from Redding, to the west.  But the brahmin barons who dominate the surrounding territory have never given us the respect we deserve.  It's time for them to give us the respect we deserve.  And why shouldn't they? Plasma can burn the barons as well as it can their brahmin."
+  new_gold_for_guns: "Gold for Guns"
+  new_gold_for_guns_desc: "We've spent decades building up wealth and power, trading gold and other techs.  It's time to use that gold for our greatest hostile takeover yet."
+  new_eat_chinese_food: "Teachers Open Doors, But You Enter Alone"
+  new_eat_chinese_food_desc: "Lo Pan shares the same dream as us - to take down New California and carve our names in the heavens. Let us work together to reorder New California."
+  new_vegas_buddy: "Our Fellow Entrepreneur"
+  new_vegas_buddy_desc: "Benny, like us, took power from those who did not deserve it. Let us apply these principles to the rest of the Wasteland."
+  new_crimson_caravan: "Crimson Caravan Monopolies"
+  new_crimson_caravan_desc: "We have worked together with the Crimson Caravan before. They can acquire our rivals' assets at bargain prices, and we can monopolize much of New Reno's trade."
+  new_redding_exploit: "You Should See Me In A Crown"
+  new_redding_exploit_desc: "I'm gonna run this nothing town, watch me make them bow.  Alas, your silence is my favourite sound."
+  new_jean_baptise: "Jean Baptiste's Training"
+  new_jean_baptise_desc: "Our son Jean Baptiste is never going to go very far, but he's made a whole lotta people come up short. Let's put him in command of Reno's army."
+  new_weapons_for_a_state: "Buying Our Own Guns"
+  new_weapons_for_a_state_desc: "We've spent years building up trade networks to source powerful energy weapons. It's time to use those weapons for better ends. After all, running a country is a great source of wealth."
+  new_redding_riches: "Crash Industrialization"
+  new_redding_riches_desc: "Redding's development was held back for too long by the barons. This used to be a prosperous mining town! And it shall be again."
+  mew_conquer_ncr: "The Hostile Takeover"
+  mew_conquer_ncr_desc: "The Van Graffs and the NCR have been enemies for decades. They've tried to block our expansion for years, but we've managed to grow regardless. The problem is they have, too. The NCR is huge now. We're talking on a scale that's difficult to imagine. Time was, we could fight them and hold our own. And now we can again. The NCR can field a really, really big army, but we can field a really, really good army. Let's get to it."
+
  #Reno Tree Loc
 
-  new_littlecity:0 "The Biggest Little City in the Wasteland"
-  new_littlecity_desc:0 "Before the atomic fire rained from on high? Reno was the biggest little city in the world! But now? Now it might just be the biggest city in the wasteland. To this day, the works and structures that survived the end of the world benefit us."
 
-  new_thefamily:0 "Calling in the Family"
-  new_thefamily_desc:0 "Of all the crime 'families' of Reno, ours is the only true family by blood. Reno is a decrepit sinkhole, and it swallowed one of our own whole. Though we were considered the weakest of the families, under our leadership Reno will prosper, and most importantly, be purified."
-
-  new_church:0 "Evangelical Church of New Reno"
-  new_church_desc:0 "Constructing churches and schools across Reno would go a long way towards our dream of an idealistic town, no longer a city full of the worst scum of the Wasteland. Dismantling some of the old families' casinos for our churches is also a fitting metaphor for our future."
-
+  new_littlcity: "Biggest Little City in the Wasteland"
+  new_littlcity_desc: "Welcome to Reno, the friendliest place you'll ever go! On behalf of the New Reno Tourist Association, we'd like to share some of our early history in this affordable 3 cap pamphlet!"
+  new_firstfamily: "Our Best Frenemy"
+  new_firstfamily_desc: "The NCR dominates the West Coast, and we have many profitable ties with it. Many of our citizens are proud to be associated citizens of the Republic. If you are not an NCR citizen, please skip to the section on how NCR Rangers do not have jurisdiction here over non-citizens pursuant to the Treaty of 2251."
+  new_king: "New Family On The Block"
+  new_king_desc: "As you may know already, there was originally four families in New Reno! While only three of the four continue to exist today, another had taken it's place. This family is known as the Van Graffs, just remember to not break any contracts with them!"
+  new_king2: "Taking The Next Step"
+  new_king2_desc: "Lucky you! You've arrived in Reno at a great time. It seems all of the families are funding projects across the cities. From youth centers to better opportunities with the NCR. There's never been a better time to visit New Reno!"
+  new_thefamily: "The Family"
+  new_thefamily_desc: "The Wrights have long stood as a family in Reno, we may be ruthless profiteers but we still try to hold the unity and stability that our embedded loyalty brings. If we want to take over the city we'll have to temper our feuds with each other."
+  new_school: "Setting Up Schools"
+  new_school_desc: "While we aren't exactly the kind of people that enjoy giving to charity with no kickbacks there are still a few good causes that would help us should we invest in them. Investing in schools for the poor will no doubt increase our stability and ensure we'll have far more intellectuals in Reno."
+  new_church: "Take Them To Church"
+  new_church_desc: "While our family may not be the most sinless organization in the wasteland we still should uphold some values if we want to be appreciated by our citizens. Building and investing in Churches for the folk will boost our popularity while making us seem more pious in the eyes of the people."
+  new_wrightsvangraff: "Shotgun Wedding"
+  new_wrightsvangraff_desc: "The Van Graffs are a cunning lot that value business over conflict, having them as allies would help us remove the Bishop from power. While we could've slaughtered the Van Graffs they now have tactical value, organizing a wedding between the Wrights and Van Graffs will only benefit us while ensuring stability in Reno."
+  new_whitepawn: "White Pawn"
+  new_whitepawn_desc: "The Streets of Reno belong to the Bishop, if we want to hold our power we'll have to put some of our pawns on the streets to keep the peace and ensure our rivals don't stand a chance. Our citizens will no doubt support the locals over some gang of lawless criminals."
+  new_jetbeta: "Advanced Jet Formula"
+  new_jetbeta_desc: "While Jet may have been our ticket to power its formula has long been in the hands of folk who didn't appreciate our chemical purity. With that little brat of our chief chemist stabbed to death we'll have to turn our eyes to making a new formula. We'll grab any scientists off the streets we can to ensure this is successful."
+  new_shark_club: "The Shark Club"
+  new_shark_club_desc: "The Shark Club is a symbol of power and civility in the wasteland, we should invest our newly found funds into the casino to drive our profits even further. Without the Shark Club we'd be nothing but a bunch of thugs with no class to them."
+  new_bishop_van_graff: "Parley With Van Graffs"
+  new_bishop_van_graff_desc: "The Van Graffs may be our main rivals in the city but they are cunning and ruthless business folk, they will no doubt see our advantage on them when we go to parley with them. We'll make sure to hire them on our side and give them a favourable contract to ensure they are pacified."
+  new_jacuzzi_janissaries: "Jacuzzi Janissaries"
+  new_jacuzzi_janissaries_desc: "Our mercenary janissaries like to spend their days laying in the jacuzzi, as it turns out they've somehow made this a business as they pull in thousands of caps a day. How they manage to pull this stunt off? Who the fuck knows."
+  new_ncr_buddies: "Californian Investments"
+  new_ncr_buddies_desc: "Some New Californian investors wish to see our arms industry thrive so that they can exploit it years down the line should the NCR go to war. For now it's simply a free arms factory we can use for our own devices."
+  vangraffmobs_tt:0 "Spawns a unit of Van Graff Mercenaries."
+  new_salvatores:0 "The Salvatores' Legacy"
+  new_salvatores_desc:0 "The Salvatores' time in the sun went like a flash, but they still have their friends in New Reno. Indeed, despite Vault City's general qualms about our fine city they've built lovely ties to that charming little city."
+  new_stash: "The Salvatores' Stash"
+  new_stash_desc: "Remember, even though the Salvatore family may be gone, they still have stashes of weapons and other lost equipment in the city. If any stash is found, please contact the local and friendly New Reno Police Department."
   new_speakeasies:0 "Reno Speakeasies"
   new_speakeasies_desc:0 "Even the temperate people of our utopian New Reno need a place to relax. Secret trade in alcohol was Orville Wright's trade and led to our prominence as a family, so it only makes sense to build speakeasies across Reno for safe, responsible entertainment."
-
-  new_police:0 "New Reno Police Department"
-  new_police_desc:0 "The sinful wasters of Reno haven't taken to our rule well, but through a contact of Christopher Wrights, we have a foolproof plan. A police department made up of FEV-enhanced superhumans would certainly be able to enforce law and order, even in Reno."
-
   new_criminalworld:0 "Small Time Crime in the Wasteland"
   new_criminalworld_desc:0 "Not everything that happens in Reno happens because the men and women on top want it to. It's a free thinking place filled with entrepreneurs who are willing to do just about anything for a handful of caps."
-
   new_renodeal:0 "What's the Deal with New Reno?"
   new_renodeal_desc:0 "Our deal? Hell you know our deal. Living the life, living the dream, doing what you want, when you want, for as long as you can get away with it. Sex, Drugs, Rock'n'Roll! What else is there that you can want in a wasteland like this? Come on, forget who you are, forget where you are, and enjoy the party."
-
   new_expansionism:0 "Expansionism"
-  new_expansionism_desc:0 "Sure, Reno's the biggest little city in the world, but why confine ourselves to a little city? We're a big power in the wastes, and its time that was recognized. Why not expand our borders a little?"
-
-  new_savages:0 "Culling the Savages"
-  new_savages_desc:0 "To our north, the savage Antelope Tribe drive property prices down, and threaten our citizens. How is anyone supposed to run a business with these tribals stinking up the place? We should drive them out."
-
-  new_bet:0 "Placing a Bet"
-  new_bet_desc:0 "The Antelope Tribe is now under the sphere of Reno's influence, and can properly be brought into the fold. Constructing settlements out there is risky, but it is a bet we are willing to take."
-
-  new_slavery:0 "Large Scale Slavery"
-  new_slavery_desc:0 "The savages of the Antelope Tribe are worthless almost, except as potential slaves. Capturing the remnants of the tribe and putting them to work, even as personal bodyguards, is sure to have great benefit."
-
-  new_loosends:0 "Tying Loose Ends"
-  new_loosends_desc:0 "The Yakuza have been a nuisance for New Reno almost since its inception. Their raiding parties often disrupt dealings but they have never breached the cities borders. With their bases finally discovered, we should show them what we do to our enemies."
-
+  new_expansionism_desc:0 "Sure, Reno's the biggest little city in the world, but why confine ourselves to a little city? We're a big power in the wastes, and it's time that was recognized. Why not expand our borders a little?"
+  new_savages: "Organic Farming"
+  new_savages_desc: "Modoc's farms are the breadbasket of Northern Nevada, and are the reason our casinos' buffets are so amply stocked. Pay no heed to some steps to address outstanding supply issues."
+  new_bet: "Placing a Bet"
+  new_bet_desc: "The Slags is now under the sphere of Reno's influence, and can properly be brought into the fold. Constructing settlements out there is risky, but it is a bet we are willing to take."
+  new_slavery: "New Farmsteads"
+  new_slavery_desc: "Many sharecroppers in the NCR would be happy to come work up north. It ain't much, but it's honest work.  Is that the saying? We aren't really familiar with either lacking possessions or honest work so it's cute."
   new_spoils:0 "Spoils of War"
   new_spoils_desc:0 "The destruction of the Yakuza gleamed many spoils of war, as they had sustained for years on stealing from us. It is only right that now these spoils of war should flow back to us."
-
   new_shop:0 "Setting Up Shop"
-  new_shop_desc:0 "The land the Yakuza occupied is actually valuable, with some quite populated areas. Perhaps now we should franchise, and set up casinos in the new territory we have acquired, to bring them into the fold."
-
+  new_shop_desc:0 "The land the Yakuza occupied is actually valuable, with some quite populated areas. And some may criticize our methods, if we were really villains, would we have let the Yakuza open a Hibachi restaurant on Virgin Street?"
   new_topdog:0 "Who's the Top Dog?"
   new_topdog_desc:0 "Everyone in Reno has been fighting for a piece of the pie for decades. Every one of the big families is looking to get a leg up on the others, to find a way to take control. But these days, only one of the families rules the streets."
-
-  new_salvatores:0 "Salvatore Reborn"
-  new_salvatores_desc:0 "One of the smaller families, we Salvatores bore our time, and with great patience and cunning plotted our way into power. Our old allies in the Enclave traded high powered energy weapons to us in exchange for chemicals, which we used to take control while our enemies fought each other."
-
-  new_whitepawn:0 "White Pawn to E4"
-  new_whitepawn_desc:0 "The families of Reno all lack vision. All but us, the Bishops. Unlike the other families, who only look for profit, we desire real power and an alliance with the NCR or Vault City is the way to achieve this."
-
-  new_bishop:0 "Bishop to Bc4"
-  new_bishop_desc:0 "The patriarch of our family is also one of our greatest assets. Mr Bishop, whose questionable lineage has no doubt given him a penance for exploration and a familiarity with the harsh wastes of Nevada. Through his frequent wanders, he has learned to lead troops through the desert."
-
   new_f3:0 "Queen to F3"
   new_f3_desc:0 "To consolidate our rule over Reno, we will forge an alliance with the Van Graffs - whose ruthlessness and superior tech make them the perfect ally to remove our enemies. Mr Bishop is set to marry into the Van Graffs through their matriarch, Tiaret, in return for their aid."
-
   new_queen:0 "Queen to F7"
   new_queen_desc:0 "On our behalf, the Van Graffs will eliminate the Wright family, who they have had a rivalry with for some time. Though the pragmatic Mr Bishop doesn't want to hear of the details, Tiaret Van Graff assures it will be brutal. Checkmate."
-
   new_mordinos:0 "Mordinos Tributaries"
   new_mordinos_desc:0 "Our family, the Mordinos, was once the most powerful family of Reno, and our tributaries still hold much sway in Reno's dealings. We desire a return to Reno's golden age, where debauchery and addiction swept Nevada."
-
   new_addictionempire:0 "Addiction Empire"
   new_addictionempire_desc:0 "Though other disreputable families would use violence to enforce their rule, our highly addictive product, Jet, will keep us in power. The Wasteland is a terrifying place, and Jet can provide a temporary distraction."
-
   new_myron:0 "Myron's Legacy"
   new_myron_desc:0 "Myron was the genius who first developed Jet, after he found that peyote resulted in a longer high and wasn't nearly as addictive. His legacy is the highly addictive, high turnaround super-drug of Jet, which made the Mordinos very rich."
-
-  new_jetbeta:0 "Jet Beta"
-  new_jetbeta_desc:0 "Finally, the key to our rule over Reno has been completed. The Beta version of Jet, much more addictive and fully immune to a cure is now finished, and by pumping this out we'll make the whole Wasteland addicts, truly forming our Addiction Empire."
-
   new_allroads:0 "All Roads Lead to Reno"
   new_allroads_desc:0 "All roads truly lead those looking for a night of fun to Reno. Investing in the local infrastructure is sure to lead us into more business, and of course, into profit."
-
-  new_sharkclub:0 "Renovating Shark Club"
-  new_sharkclub_desc:0 "The Shark Club is the largest casino in New Reno, owned by the Bishop family. It is a thriving core of gambling and entertainment in the very heart of New Reno, but it could use some revitalization."
-
-  new_boxing:0 "Expanding the Boxing Scene"
-  new_boxing_desc:0 "The Jungle Gym of Reno hosts the massive boxing scene of Reno. It provides great entertainment for the masses, after all, who doesn't want to see a man have his face punched in?"
-
+  new_boxing:0 "Invite Luchadors"
+  new_boxing_desc:0 "The Jungle Gym of Reno hosts the massive boxing scene of Reno. Let's take this international and invite some Free Fighters to show us how it's done!"
   new_desperado:0 "Renovating the Desperado"
-  new_desperado_desc:0 "The Desperado is another of New Reno's great casinos, owned by the Mordinos, it is also the centre of the drug trade of Reno, primarily the trade of Jet."
-
-  new_distillery:0 "Renovating the Wright Distillery"
-  new_distillery_desc:0 "The Wrights amass their fortune and power through the distillery and distribution of alcohol, despite their insistence they are temperate teetotallers. Renovating their distillery will bring more riches to Reno."
-
+  new_desperado_desc:0 "The Desperado is another of New Reno's great casinos, owned by the Mordinos, it is also the center of the drug trade of Reno, primarily the trade of Jet."
+  new_distillery:0 "Going Clean"
+  new_distillery_desc:0 "The Wrights amassed their fortune through the sale of alcohol, but now they brew healthy, sober drinks. As refreshing as it is calorie free, if you exclude the added sugar!"
   new_expansion:0 "Van Graff Expansion"
-  new_expansion_desc:0 "Allowing the Van Graff family to expand their operations in energy weapon dealing would bring in even more money. In a dangerous place like New Reno, people deserve a little protection."
-
+  new_expansion_desc:0 "The Van Graffs gladly sell weapons to everyone who needs personal protection. In a way, they're heroes for the Wasteland."
   new_precautions:0 "Precautions"
   new_precautions_desc:0 "Precautions must be taken in Reno to protect our assets. It is not enough to rely on the peace of our neighbours in such a place as the Wasteland. A great wall must be constructed around New Reno."
-
   new_radio:0 "New Reno Radio"
-  new_radio_desc:0 "Construction radio towers across Reno would be useful both for entertainment, as we can broadcast music, but also as a way of subterfuge and communicating with out mobsters and other armies."
-
+  new_radio_desc:0 "Constructing radio towers across Reno would be useful both for entertainment, as we can broadcast music, but also as a way of subterfuge and communicating with mobsters and other armies."
   new_sweatshop:0 "Sweatshop Labour"
   new_sweatshop_desc:0 "The ends justify the means, and sweatshop labour is ultimately extremely efficient. These are wasters and junkies who would die on the streets, at least this way they are employed."
-
-  new_farmsteads:0 "Modoc Farmsteads"
-  new_farmsteads_desc:0 "The farmsteads of Modoc are a great source of food for the people of Reno. Investing in their expansion could lead to a higher population in the city as more people prosper and stay fed."
-
   new_airport:0 "Old Reno Airport"
   new_airport_desc:0 "A restoration effort could be made on the airport of pre-War Reno, allowing it to be reused as an airbase just out of Reno. The possibilities of a network of Reno planes is endless."
-
   new_contracts:0 "Extended Contracts"
-  new_contracts_desc:0 "Unlike the tyrannical New California Republic, we don't force our citizens to fight. Instead, individuals with particular sets of skills sign up to the mobster families as protection. Extending these contracts will lead to more reserve manpower."
-
+  new_contracts_desc:0 "Unlike the tyrannical New California Republic, we don't force our citizens to fight. Instead, our citizens coordinate with leading families to defend us all! Aren't they heroes?"
   new_sierradepot:0 "Looting the Sierra Depot"
-  new_sierradepot_desc:0 "The Sierra Army Depot holds armaments and treasures unimaginable. Having a designated team looting the Depot would create a steady import of armaments to the mobster families of Reno."
-
+  new_sierradepot_desc:0 "The Sierra Army Depot holds armaments and treasures unimaginable. Having a designated team looting the Depot would create a steady import of armaments to the mobster families of Reno.  But why is everyone in Vault City so angry about this?"
   new_sanctuary:0 "Sanctuary City"
   new_sanctuary_desc:0 "Reno is a prosperous city, and we often find the disenfranchised of the Wasteland at our gates. Opening them up for a sanctuary city would cause an influx of population but may present... other opportunities."
-
-  new_slavers:0 "Modoc Slavers Guild"
-  new_slavers_desc:0 "Though quite a controversial action, enslaving the people of Modoc would cause an influx of slaves that could be used as bodyguards for mobsters, and would retain the benefits we get from working their farmsteads."
-
   new_oldbirds:0 "The Old Birds"
   new_oldbirds_desc:0 "The Old Birds are a mercenary group of pre-war Ghouls who were trained as paratroopers and pilots. With the recently opened airport in Reno, we can hire these mercs as a potential air force."
-
   new_golgotha:0 "Golgotha Restoration"
   new_golgotha_desc:0 "Golgotha is the graveyard outside of Reno, where the dead were buried and the enemies of certain families were sent to be disposed of. Restoring Golgotha to its original purpose would remove the enemies of mobster families much more discreetly."
-
   new_techslot:0 "Sierra Depot Excavation"
-  new_techslot_desc:0 "Converting the Sierra Depot looting to a full scale excavation would take some manpower, but ultimately the pre-War secrets of the army base are too valuable to ignore. We could gleam much insight from the Depot."
-
-  new_mercmilitary:0 "Merc Military"
+  new_techslot_desc:0 "Converting the Sierra Depot looting to a full scale excavation would take some manpower, but ultimately the pre-War secrets of the army base are too valuable to ignore. We could gain much insight from the Depot."
+  new_mercmilitary:0 "Mercenary Instructors"
   new_mercmilitary_desc:0 "Reno has no standing fighting force, unless you consider the mobsters of the individual families. Instead, they must rely on mercenaries as their armies. The vast wealth of Reno means their merc's contracts last very long, however."
-
+  new_merc:0 "Merc Military"
+  new_merc_desc:0 "With Mercenaries we can now substitute the need for conscripts and soldiers, this allows us to raise divisions far quicker than we ever could previously. Obviously this comes with some raised costs but investing further in mercenaries will no doubt raise the quality of our army."
+  new_blackvultures:0 "The Black Vultures"
+  new_blackvultures_desc:0 "The Black Vultures are a tribe from Mexico mixed with Persian immigrants turned elite mercenaries, our top advisors have no doubt in their abilities to fight on the battlefield. Hiring them would be wise if we wished to pursue using energy weapons in our military."
+  new_nanjimiclan:0 "The Nanjima Clan"
+  new_nanjimiclan_desc:0 "The Najimi Clan used to be Japanese slaved that were subjugated and enslaved by the Chinese before the war in their colossal submarines, now they are a warrior clan that is a force to be reckoned with as they use vehicles to swarm and terrorize the enemy."
   new_uniques:0 "Unique Mercenaries"
   new_uniques_desc:0 "The leaders of the Reno families have their own special contacts in the mercenary world, and some mercenary armies are more disposed to offer contracts to them. These unique mercenaries often tailor to the specific 'needs' of their families' leader."
-
   new_roaring:0 "The Roaring Bears"
   new_roaring_desc:0 "The Roaring Bears are ex-NCR military who found that their specialized skills could find them more wealth in the mercenary world than as NCR conscripts. Strongly disciplined and skilled in motorized warfare, the Roaring Bears are a good stand in for a standing army."
-
   new_artillery:0 "The Hell-Hammers"
   new_artillery_desc:0 "The Hell-Hammers are a crazy, but rigidly organized band of men obsessed with armaments. Extremely skilled in artillery and heavy weaponry, they are quite possibly the greatest line of defence any city could ask for."
-
-  new_thradd:0 "Thradd's Immortals"
-  new_thradd_desc:0 "Lead by Thradd the Immortal, a cunning ex-leader in the Master's Army, the Immortals are a band of Super Mutant mercenaries. Undoubtedly one of the most formidable and infamous forces available for hire in the Wasteland, their allegiance is dubious."
-
+  new_thradd:0 "The Isotope Chapter"
+  new_thradd_desc:0 "A usually reluctant companion when it comes to longterm assignments, \"Elder\" Rutherford and her Isotope Chapter come to assist [Root.GetName]. Being exiled from the Brotherhood of Steel due to being ghoulified, the Isotope Chapter stays true to the ultimate motive of securing technology deemed too dangerous. However, without the support of the Brotherhood, the chapter has to resort to mercenary work, with most of its equipment long lost to time and wear."
   new_granite:0 "Sgt. Granite's Defence Company"
   new_granite_desc:0 "A waylaid company of Enclave Remnants, the Company has found a moderate living in protecting smaller settlements from raiders with their highly advanced technology. Their grizzled leader, Sgt. Granite, diligently trains his company to await the return of the Enclave."
-
+  new_tactics:0 "Overhauling Doctrines"
+  new_tactics_desc:0 "The Militias of New Reno may not be the finest warriors in the wasteland but we can certainly teach them a thing or two. We'll round up some veterans to teach the new blood a little thing or two in wasteland warfare."
   new_capsforloyalty:0 "Caps For Loyalty"
   new_capsforloyalty_desc:0 "Though many say mercenaries' allegiances are fragile at best, caps are the greatest motivator for many living in the Wasteland, and we have lots of it."
   remove_500_caps_ttt:0 "Has 500 caps to spend."
-
   new_councilfunding:0 "Military Council Funding"
   new_councilfunding_desc:0 "In an almost unprecedented act, we could formalize a council of mobsters devoted entirely to arranging military actions, among the mobster bodyguards and mercenary armies we have on contract."
-
-  new_enctech:0 "Enclave Technician"
-  new_enctech_desc:0 "And to this military council, we could add a local former member of the Enclave, who's first-hand knowledge of their advanced technology and their pre-war tactics could be invaluable."
-
-  new_mutanttech:0 "Mutant Technician"
+  new_enctech:0 "Van Graff Advisors"
+  new_enctech_desc:0 "Say what you will about Mama Van Graff, but when it comes to war, she knows her stuff. Why don't we give her a seat on the council?"
+  new_mutanttech:0 "Mutant Tactician"
   new_mutanttech_desc:0 "And to this military council, we could add a super mutant who was once a general in the Master's Army, who's great experience in Wasteland warfare would revolutionize our council."
-
   new_genericmercs:0 "Generic Mercenaries"
   new_genericmercs_desc:0 "Many of the companies we hire have unique talents that set them apart from common mercenaries. Their specialized skills, if used cunningly, could mean an ultra adaptable and infallible military."
-
   new_vengefulsons:0 "The Vengeful Sons"
   new_vengefulsons_desc:0 "The Vengeful Sons are vicious tribals driven from their land by the brutal dictator Caesar. While largely disorganized, their ferocity in battle and great numbers, not to mention their burning vengeance, would make them a great asset."
-
   new_pablos:0 "Pablo's Conquistadors"
   new_pablos_desc:0 "Pablo's Conquistadors are a veteran unit of highly disciplined infantry out of the southern land of Mexico. They are very adaptable and well trained, and can be utilized in almost any situation."
-
   new_gladiators:0 "Junk City Gladiators"
   new_gladiators_desc:0 "The Junk City Gladiators are a mercenary army made up entirely of robots, led by an 'erratic', to say the least, captain named Pit Master Frazz. They would be very useful as heavy support."
-
   new_roadpsychos:0 "Road Psychos"
-  new_roadpsychos_desc:0 "The Road Psychos are a roving mercenary band of bikers and other vehicles. Extremely quick and very useful for precision and blitz attacks, the Road Psychos are pretty much as the name describes."
-
+  new_roadpsychos_desc:0 "The Road Psychos are a band of the Eighties who rejected Thunderbird's ways and live for profit. They'll fit in fine, especially if they win in Two Sun."
   new_oldallies:0 "Calling in Old Allies"
   new_oldallies_desc:0 "Some remnants of the old Enclave still survive, and for all their help in our dominion over Reno, we should welcome these remnants to our city, and gain even more protection from their elite soldiers as a result."
-
-  new_stash:0 "The Old Stash"
-  new_stash_desc:0 "Our Allies in the Enclave luckily left us a large stash of energy weapons we have unearthed, allowing us to equip our mobsters with weapons far more advanced than our contemporaries, the exact biting edge we need to hold Reno."
-
-  new_bloodynight:0 "The Bloody Night"
-  new_bloodynight_desc:0 "Utilizing the weaponry of the Enclave, our mobsters will lead a great campaign against the other families of Reno, gaining complete and utter control for us. Our conquest is sure to be bloody, but we will emerge victorious."
-
   new_hedge:0 "Hedged Bets"
   new_hedge_desc:0 "Fortifying the ex-Yakuza territory should be a good enough disincentive for any more raider groups to take refuge in the area. Also, with potential enemies growing in the South and West, it is never bad to hedge your bets."
-
-  new_hordes:0 "Hordes of the North"
-  new_hordes_desc:0 "North of Nevada is a cold and barren territory, full of savages and distant powerful threats. With the Antelope Reservation under our control, it is now our first line of defence against the Northern Hordes."
-
-  new_klamathdeal:0 "The Klamath Deal"
-  new_klamathdeal_desc:0 "Klamath is a small town to the north that, while not a threat to us, could be a decent enough asset, or even, ally. We should strike a trade deal with this small town, and perhaps open up greater relations."
-
-  new_klamathagreements:0 "Klamath Agreements"
-  new_klamathagreements_desc:0 "We aggressively pursued negotiations with the people of Klamath, and eventually an agreement was reached. In exchange for goods and services, Klamath will come under our sphere of control."
-
-  new_takedown:0 "Taking Down the Den"
-  new_takedown_desc:0 "The people of Klamath are after all, quite primitive, and their town might be better served under others rule. It would be a great asset for New Reno to acquire after all."
-
-  new_township:0 "Take the Township"
-  new_township_desc:0 "With our power over Klamath consolidated, we can claim the town as our rightful territory, and work on bringing it under direct rule from New Reno."
-
+  new_hordes: "Hordes of the North"
+  new_hordes_desc: "North of Nevada is a cold and barren territory, full of savages and distant powerful threats. With the Slags under our control, it is now our first line of defence against the Northern Hordes."
+  new_klamathdeal:0 "Designs on the Den"
+  new_klamathdeal_desc:0 "[TDN.GetLeader] is one of the few nuisances that plague New Reno. Fortunately, our citizen-soldiers are ready to protect our nation and its interests.  Even if it's an interest in making sure people only use our smooth, refreshing jet."
+  new_klamathagreements:0 "The Gecko Trade"
+  new_klamathagreements_desc:0 "Klamath still prospers from hunting geckos, and there's no reason we can't work with them. Them's good eating, especially at the Desperado Taco Bar!"
+  new_occupationden: "Enlightened Teachers"
+  new_occupationden_desc: "The people of Klamath call themselves civilized, but there's more to civilization than living in the  burnt-out ruins of a before-time town. We can set up a school for the poor people, if only they let us send a mayor to supervise them."
+  new_endnorthslavers: "Stomping The Slavers"
+  new_endnorthslavers_desc: "The people of Klamath call themselves civilized, but there's more to civilization than living in the  burnt-out ruins of a before-time town. We can set up a school for the poor people, if only they let us send a mayor to supervise them."
   new_debtwarriors:0 "Debt Warriors"
-  new_debtwarriors_desc:0 "The warriors of Klamath are indebted to us as their overlord, and are now available as mercenaries for us to conscript. This will also mean more fighting men for the town of Klamath."
-
+  new_debtwarriors_desc:0 "The warriors of Klamath are indebted to us for all New Reno provides, and now fight for Reno. Some may question our strict contracts, but Human Resources signed off on them, after all..."
   new_addictsworks:0 "Put Addicts to Work"
-  new_addictsworks_desc:0 "The Mordinos have a plan, to establish control over people through their addiction to the drug Jet, and through debt force them under their control, having them work to pay back their debt. It is a good plan."
-
-  new_rail:0 "East Side Rail Station"
-  new_rail_desc:0 "Restoring the old rail station will create a hub of infrastructure and another way for thrill-seeking NCR citizens or any citizen of the Wasteland to take a trip to the biggest little city in the world."
-
+  new_addictsworks_desc:0 "There are some who say the families control families through their addiction to Jet.  That's slander.  We merely offer discounts on jet to those who need it most as long as they sign several years away working for us."
   new_silverrush:0 "The Silver Rush"
   new_silverrush_desc:0 "The Silver Rush is the establishment of the Van Graffs, who deal in energy weapons and other advanced technology. Their establishment means a greater availability of advanced tech for Reno."
+  new_coreden:0 "Our Sister City"
+  new_coreden_desc:0 "The Den has long been ruled by the dead beat Mordinos we kicked out of Reno decades ago, but they persisted and continued their hostilities with us. However now that they are gone we can finally repair our relations with the Den's people and assure their loyalty."
+  new_assimilation:0 "Mopping Up Modoc"
+  new_assimilation_desc:0 "Modoc may be a new addition to our territories but they will none the less pay tribute to Reno with their able bodied men. We'll sweep the streets of Modoc for conscripts, the locals may not like it but they'll understand in due time when enemies are knocking on their doorstep."
+  new_farmsteads:0 "Torching The Ghosts"
+  new_farmsteads_desc:0 "The Slags have long existed north of Modoc as a strange people that hated the outside, it's time we take over their territories and show them what true society is like. Those that won't come out will be torched in their abandoned farmsteads."
+  new_slags:0 "Slag Supremacy"
+  new_slags_desc:0 "The Slags share a similar wasteland story with us, constantly fighting human oppressors that discriminated against them for futile reasons. Our similar struggle and strife means that aiding them to take over Modoc shouldn't be an issue."
+  new_slagpuppet:0 "Ghost Town"
+  new_slagpuppet_desc:0 "The Slags have made the decision to fully inhabit Modoc and its vicinity, moving in hordes of pale folk into the city streets as they take over homes and farmsteads. While the people of Modoc may not appreciate this we should help the Slags inhabit the city none the less."
+  new_slageaten:0 "Moderating Modoc"
+  new_slageaten_desc:0 "Now that the Slags have taken over Modoc there are still a few fearful and prejudiced folk that rebel against them, it's time we help them deal with these ingrates and ensure that the territories comply."
+  new_modocfarming:0 "Modoc Farmsteads"
+  new_modocfarming_desc:0 "The Slags have always been secondary citizens to the people of Modoc but it's time we show them some appreciation. We'll invest time and effort into their farms to ensure they no longer have to worry about lady luck playing a part in their crops."
+  new_loosends:0 "Loose Ends"
+  new_loosends_desc:0 "The Yakuza Territories have long been a scourge on our borders, always trying to plunder incoming caravans and scaring off outsiders. It's time we end their reign of terror and make a bit of profit in the process."
+  new_connectsouth:0 "Californian Commerce"
+  new_connectsouth_desc:0 "While we've always shared a border with the New Californians we now own a direct route to Shady Sands, it's time to exploit it now that the raiders are cleared off the roads. No doubt the NCR would gladly welcome us."
+  new_sake:0 "Yakuzan Booze"
+  new_sake_desc:0 "While the Yakuza folk may have not shown it, they have excellent taste in alcohol. We've found entire crates of this stuff called 'Sake', plentiful enough to last us years. Sending a shipment home to Reno would definitely boost our spirits and get us loads of caps in profit."
+  new_hentai:0 "Countryside Marauding"
+  new_hentai_desc:0 "While we welcome all sorts of folk into our society it seems some of these Yakuza folk can't abandon their raider past. Our patrols around town are always picking up the occasional murmur of warbands and gangs making a score. While this won't be beneficial to our citizens we can certainly seize their plunder."
+  new_japansteel:0 "Nippon Steel Plants"
+  new_japansteel_desc:0 "The Yakuza raiders may have been a bunch of thieving bastards but they did know how to work their steel, it would be wise to learn these secrets and take over their steel mills before they get sabotaged by outside forces."
+  new_jackalsrush:0 "Jeopardizing The Jackals"
+  new_jackalsrush_desc:0 "The Jackals are a load of sick freaks that somehow acquired the taste of human flesh, it's time we sanded off their tongues and put a few bullets between their brains. Thankfully due to our preparedness we won't even have to spend much time dispatching these degenerates."
+  new_jackalsbuildup:0 "Catching Carson Criminals"
+  new_jackalsbuildup_desc:0 "The Yakuza raiders that once inhabited Carson now are roaming in hoards of brigands looking for a person to rob for their next meal, it's about time we sent out a patrol or two to get rid of these greedy bastards."
+  new_lakes:0 "Lakeside Industry"
+  new_lakes_desc:0 "With the Yakuza raiders gone we now control a majority of Lake Tahoe, the newly conquered territories around it provide an opportunity to exploit this gem of a lake for our industry, it's not like anyone is going skinny dipping."
+  new_jackalsplunder:0 "Plenty Of Plunder"
+  new_jackalsplunder_desc:0 "The Jackals have long squandered the pile of wealth they sit on, it's time to liberate it from the dirty man eaters. We'll round up all the cannibal folk and make sure they never taste human flesh again with the best deterrent: a piece of lead in the brain."
+  new_stateofreno:0 "Reno's Statehood"
+  new_stateofreno_desc:0 "The New California Republic has stood as a benefactor for decades by now, perhaps it's time we apply for official statehood? Still maintain our independence but assure the Californian folks know we're on their side, both militarily and economically."
+  new_cityofsins:0 "City Of Sins"
+  new_cityofsins_desc:0 "New Reno has stood the test of time against foreign invaders and raiders, the city is thriving and our territories live in a state of pre-war luxury and sin. They always called Vegas the City of Sins but Reno has certainly owned the title."
+  new_nevada:0 "Claiming Nevada"
+  new_nevada_desc:0 "Nevada in its current state is a territory of feuding nations and raiders, it's time we put our foot down and begin bringing civility to these shit dens. Reno will certainly be a beacon of hope for the subjugated wastelanders living in these territories."
+
+
+###
+  new_catpaw: "Cat's Paw"
+  new_catpaw_desc: "Cat's Paw the most famous of our city's fine brothels and which easily rivals the Gomorrah.  A pleasure for every purveyor, and it is ready, and waiting, for you! Just leave the kids in day care."
+
+  new_tipography: "Restore Printing"
+  new_tipography_desc: "Of course, Cat's Paw was not just a brothel, once there was a printing house that published the famous erotic magazine. Sadly, only a few copies are left of him that survived two centuries. But we can still restore the printing house and re-issue magazines."
+
+  new_desperado2: "The Sombreros' Taco Bar"
+  new_desperado2_desc: "The Desperado was never as big as Shark Casino, so we've turned it into a Mexican restaurant. Try some delicious Aztláni chilis as part of the Tlaloc Tuesday special."
+
+  new_chopshop: "Chop Shop"
+  new_chopshop_desc: "The Chop Shop originally appeared as a tiny workshop on the City's outskirts.  But now it's one of the best automobile dealerships in the Wasteland! Just make sure nobody keys your car.  Just kidding! \n\nThis joke constitutes full warning and absolves the Chop Shop of all liability."
+
+  new_powerplant: "City Power Plant"
+  new_powerplant_desc: "The Wrights have long been a part of the city's power structure, and, in fact, built our lovely power plant! Some say it's fueled by their self-satisfaction, but we know it's environmentally friendly coal."
+
+  new_distillery2: "The Restored Distillery"
+  new_distillery2_desc: "The Wright family distillery was sadly damaged in recent political struggles, but it's ready and working once again! Just don't try it on the rocks, mutant style."
+
+  new_rail2: "Mine Railways"
+  new_rail2_desc: "Once upon a time, one of the largest railways in the country passed near our city. We still take its metal for domestic use, turning old into new."
+
+  new_rail:0 "East Side Rail Station"
+  new_rail_desc:0 "Restoring the old rail station created a hub of infrastructure and another way for thrill-seeking NCR citizens or any citizen of the Wasteland to take a trip to the biggest little city in the world."
+
+  new_newpeople:0 "Migrant Rush"
+  new_newpeople_desc:0 "Hundreds of wastelanders now flock to our borders in search of a home and work. We can provide for these downtrodden folks and establish Reno as a haven for the refugees of the wastes."
+
+  new_slvatorebar: "Salvatore's Italian Grill"
+  new_slvatorebar_desc: "Salvatore's isn't just a bar - it has some of the best Italian food in the Wasteland. How do we know? It's the only Italian place, as far as we know!"
+
+  new_slvatorebar2: "Cartucci's Pizza Place"
+  new_slvatorebar2_desc: "Although the Salvatores have lost much influence, their contribution to Reno's culture lives on. Try the wood fired pizza at Cartucci's, and please ask no questions about the fate of the Salvatores."
+
+  new_chem2: "Fun With Chems"
+  new_chem2_desc: "The Salvatores always controlled chems in this city, despite what the Mordinos would tell you.  But there's more to the chemical industry than a hallucinogenic experience.  For instance, did you know the Indians use hemp to make rope?"
+
+  new_arms: "New Reno Arms"
+  new_arms_desc: "The New Reno Arms Company has long been a staple of Reno's economy, its new owner Algernon seems to be open to selling stake in the company. We can certainly give him a dodgy contract and buy them out to use their production for our own devices."
+
+  new_goldenglobes: "Golden Globes"
+  new_goldenglobes_desc: " The Corsican brothers created the first porn studio since the bombs fell, and they continue to provide morale support to the fighting men and women of the NCR. We don't just make money - we make a better world."
+
+
+  new_medicine: "Reno 911"
+  new_medicine_desc: "Reno's got some of the best hospitals in Northwestern Nevada. We will gladly heal anyone for a reasonable price."
+
+  new_sharkclub: "Shark World"
+  new_sharkclub_desc: "We can go ahead and add a water park to the Shark Club. Foolish in a desert? Perhaps. A fun time for the family? Obvious!"
+
+
+  new_sharkclub2: "The Megalodon club"
+  new_sharkclub2_desc: "Shark Club was rightfully considered one of the largest gambling establishments in the city, attracting everyone who wished to try their luck. Now let's attract interested people to try their luck from all over northern California and Nevada. And its restoration under the name Megalodon Club will be our first priority."
+
+  new_boxing2: "Gladiator Fights"
+  new_boxing2_desc: "The Bishops promoted certain rules, such as banning blades or fights to the death.  But that was a bit boring.  Inspired by the Legion, let's make people fight to the death for sport! What fun."
+
+
+  new_newcomic: "Our Comedy Shows"
+  new_newcomic_desc: "If you're  tired of gambling, try one of the comedy shows at the Chuckle Vault. After all, there are more jokes than just your love life!"
+
+  ### Broken Brothers
+
+  new_brokenbrothers: "The New Gang in Town"
+  new_brokenbrothers_desc: "Radiation? Heavy lifting? Don't look any further! The Broken Brothers help those in need for a reasonable price. And don't worry. We may be mutants but we are here for everyone."
+
+  new_brokenhills: "What Was Left of Broken Hills"
+  new_brokenhills_desc: "Once the old mine in Broken Hills ran dry, the humans had no more need for us and it showed. They moved away but we had nowhere to go, being surrounded by those afraid of who we are or what we may become. So we stuck together, made use of our knowledge and the final haul of sweet, sweet uranium. And we found a job in the biggest little town in the Wastes!"
+
+  new_refuge: "Our new Home"
+  new_refuge_desc: "Following our arrival in New Reno, things were a little rough. Luckily one of the abandoned industrial complexes gave us what we needed. We knew people would be afraid of us, so we had to hide what we knew and had or they would take it."
+
+  new_protectionlaws: "Mutant Protection Laws"
+  new_protectionlaws_desc: "With the rise of [Root.GetLeader] to one of the most influential figures of New Reno, it didn't take long for first efforts to strive for equality. And the first step included the protection of mutants that suffered not only through public shunning but also work exploitation. A new set of laws was quickly drafted and enacted, turning New Reno into a beacon for mutantkind as well."
+
+  new_brokenvangraffs: "A Deal with the Van Graffs"
+  new_brokenvangraffs_desc: "Sensing rising tensions in the area, especially with mutants going missing in the north, we are now forced to increase our capabilities. Our new home requires an upgrade. And who else can deliver the parts necessary without asking too many questions than the Van Graffs?"
+
+  new_brokensierradepot: "Echoes of the Old World"
+  new_brokensierradepot_desc: "Not all ghouls, or even most, are from before the war. But those that remember things like 'national power grids' and 'atomic engineering' are always welcome in Reno! Even if some of them stink."
+
+  new_theincident: "The Incident"
+  new_theincident_desc: "This is it, the pinnacle of our efforts is about to be revealed. A combined effort by the Broken Brothers, the Bishops and the Wrights to demonstrate unity and prosperity to everyone."
+
+  new_brokenpurge: "The Purge"
+  new_brokenpurge_desc: "The attack was devastating. People have suffered radiation, faulty FEV exposure and shrapnel. Even now the outskirts are more than a danger to everyone. Except for us. With the other Families either gone or devastated, we have to take the fight to the Van Graffs. And while we're at it, we will declare martial law and remove all humans from positions of power. We can trust each other not to be Van Graffs, but we cannot trust them."
+
+  new_brokengrowingcircle: "Our Circle Grows"
+  new_brokengrowingcircle_desc: "With a firm grip established over New Reno, it has become critical that we look outside of our own circle - after all, there are more mutants out there than Ghouls and Super Mutants, and it is our duty to give them a safe place to live."
+
+  new_brokendarkpit: "An End To Their Dark Pit"
+  new_brokendarkpit_desc: "Our troglobiont friends, the Slags, have been forced to huddle in claustrophobic caves for so long. Since we no longer use the Sierra Army Depot, perhaps we could use it as a home for these wayward ghosts?"
+
+  new_brokendownunder: "They Come From A Land Down Under"
+  new_brokendownunder_desc: "With the New Underground established, the Slags can now live more comfortably than ever before! With a bright - figuratively, obviously - future ahead of them, they have offered to assist us out of gratitude! We simply have to make a few adjustments to their equipment..."
+
+  new_brokenlivinginasociety: "Living In A Society"
+  new_brokenlivinginasociety_desc: "We live in a society, and this is a very good thing! Some Super Mutants responded poorly during their transformation, becoming intellectually-stunted as a result. Since we now have something resembling a government, perhaps we ought to establish institutions to help these poor outliers?"
+
+  new_brokenbadbatch: "The Bad Batch"
+  new_brokenbadbatch_desc: "Eureka! Well, sufficiently-so. A few streets and homes burned in the process, but we have managed to cobble together a program promising integration and reformation for disadvantaged Super Mutants. We've already garnered a few admittances, and the rate of attempted cannibalism is lower than ever!"
+
+  new_brokenheartsandminds: "Opening Our Hearts And Minds"
+  new_brokenheartsandminds_desc: "Whilst scouring the wastes for other mutants, we found a most peculiar sight - a small party of procyonids, unmistakably organized and sapient, scattering away into the forests as we approached. While the more jester-y of us wanted to dub them 'Furries' we should consider talking to them first, maybe even help them out."
+
+  new_brokenotherkindred: "Our Other Kindred"
+  new_brokenotherkindred_desc: "Following further investigation into our new procyonid neighbours, we found ourselves getting on quite well with these 'S'Lanter', odd though they may be. They view us as kindred, and they have come offering us knowledge which may prove useful for our community."
+
+  new_brokendeathclaweggfind: "A Most Peculiar Find"
+  new_brokendeathclaweggfind_desc: "Whilst purging the Den of the Mordino's corroding influence, we stumbled upon a most curious treasure - a clutch of Deathclaw eggs, stored in unsightly but technologically-impressive capsules. With the effort put into guarding these, we are already fascinated by the secrets they must conceal."
+
+  new_brokendeadlyclawslovelyhearts: "Deadly Claws, Lovely Hearts"
+  new_brokendeadlyclawslovelyhearts_desc: "When the eggs we procured from the Den hatched, it was immediately evident that these were no ordinary Deathclaws - the hatchlings grew rapidly, and soon became the talk of the town when they themselves began to talk. These fascinating new members of our community are a testament to the beauty and diversity of mutants everywhere."
+
+  new_brokenabrighterfuture: "A Brighter Future"
+  new_brokenabrighterfuture_desc: "The city is now within safe hands, we must no longer worry about human buffoons running Reno to the ground. We'll bring on a new period of stability to this sinful city. Long live Thradd!"
+
+  new_brokenopeningnewmines: "The NRRB"
+  new_brokenopeningnewmines_desc: "The New Reno Reclamation Bureau will offer us centralized means to collect and distribute resources left from the Old World as well as refurbishing its buildings."
+
+  new_brokenfullautomisation: "Full Automatisation"
+  new_brokenfullautomisation_desc: "Robots baby! Using dedicated Protectrons for the NRRB will open up a whole new chapter of rebuilding for us."
+
+  new_brokennewerreno: "Newer Reno"
+  new_brokennewerreno_desc: "While we've been hiding our advanced industrial assets within our headquarters, we no longer have to fear exploitation by our peers. Let us open our doors to the rest of New Reno!"
+
+  new_brokenindustrialisation: "Expanded Industrialisation"
+  new_brokenindustrialisation_desc: "With the initial steps undertaken we can now modernize the general industry all around Reno, taking yet another step towards the pre-war standard."
+
+  new_brokenrememberbrokenhills: "Remember Broken Hills"
+  new_brokenrememberbrokenhills_desc: "Once, our kind had a makeshift idyll - Broken Hills, a place where mutant and man lived somewhat hand-in-hand. Yet, as the uranium dried up and our utility vanished, we were kicked to the wayside, and our arcadia eroded. We will not be stepped on again."
+
+  new_brokenoldworldtactics: "Superiority Of The Old World"
+  new_brokenoldworldtactics_desc: "The most distant memories of the oldest of Ghoulkind harken back to an era of unimaginable prosperity and scientific development - an era which still lives on, however faintly, through them. Perhaps it is time that we let these phantoms of memory into the world again."
+
+  new_brokenourmarines: "Our new Old Marines"
+  new_brokenourmarines_desc: "A scant few of the old world ghosts which we have chosen to employ remember a more civilized era of warfare - one where the mind bore equal relevancy to the body, and where systems existed that men would not starve or fight without weaponry. Though they may have been buried beneath the sands of time, these tactics, like their masters, are undying."
+
+  new_brokennewworldtactics: "Supremacy Of The New World"
+  new_brokennewworldtactics_desc: "The Master taught his children well. Why look back to a past that doomed the world when we can look into the future and use the strengths at hand?"
+
+  new_callinginthebigboys: "Calling in the Big Boys"
+  new_callinginthebigboys_desc: "From time to time, there emerges a fleeting story about some bygone scheme of the Master. Few are taken seriously, fewer still hold water. Talk of some abandoned project - hulks larger still even than other mutants - was dismissed accordingly. Still, with some of the new migrants we've received, it tickles the imagination..."
+
+  new_brokenvaultteccalling: "Vault-Tec Calling?"
+  new_brokenvaultteccalling_desc: "Vault City has gained our interest for quite some time. Their treatment of humans and mutants is different to say the least. It makes us think about our own treatment of humans as well as a possible combined effort to face the bigger threats out there."
+
+  new_brokenrejecthumanity: "Reject Humanity"
+  new_brokenrejecthumanity_desc: "Mankind has stung us time and again, and we have taken the scorpion in our boots with stride. Yet, the Centaur's spines have shattered beneath a straw - it has become evident that man and mutant will never be able to coexist. We will ensure an arcadia for our kind by any means."
+
+  new_brokenreturntosymbiosis: "Return To Symbiosis"
+  new_brokenreturntosymbiosis_desc: "The Master taught us that man cannot coexist with mutant, and mankind taught us the same - we will reject these lessons, even if it draws us to our grave. Though we may suffer for it, we shall carve an idyll of acceptance out of the chaos of the city, for harmony is worth our toil."
+
+  new_brokenmutantsmatter: "Mutants Matter"
+  new_brokenmutantsmatter_desc: "If the unmutated aren't ready to subordinate to our rule, we will have to crush them."
+
+  new_brokenunityandequality: "Unity and Equality"
+  new_brokenunityandequality_desc: "Nothing good could come of turning the sting of rejection from one ensemble of victims to another - if we have learned anything, it is that we should not repeat the mistakes of the past."
+
+####
+
+  new_police:0 "New Reno Police Department"
+  new_police_desc:0 "New Reno does not discriminate based on the colour of one's skin. Why, look at the wonderful super-mutants who were hired to work in our police department! Please be careful taking pictures, as bright lights startle some of them."
+
+  new_gym: "The Gym Rats"
+  new_gym_desc: "Established in 2210, the Jungle Gym is now the largest northern facility in northwestern Nevada. It's boxing matches are the stuff of legend, but try our new yoga studio as well. Hot yoga can't be beat, especially if you try the radioactive version!"
+
+
+  new_renoproclamation: "The Masters of Our Fate"
+  new_renoproclamation_desc: "Oh, there are those who say Reno cannot expand outward and it lies divided because no family is in charge. Don't let that fool you, there's one Family which acts as the unofficial leader. And that is..."
+  new_rat_farms: "Tasty Protein"
+  new_rat_farms_desc: "The molerats and geckos of Klamath are a tasty, environmentally source of protein. Especially for tourists on a budget."
+
+
+  new_slavers:0 "Modoc Slavers Guild"
+  new_slavers_desc:0 "Though quite a controversial action, enslaving the people of Modoc would help the Van Graffs out. We can simply take their food for our armies without paying for it, which all agree would be a cost-cutting measure."
+
+  new_denslavers: "Tolerate the Slavers Guild"
+  new_denslavers_desc: "The Den's practices may be unsavoury, but they've provided labour to Vault City and others for decades.  Reno is a tolerant community, and we are certainly not going to meddle in local practices."
+
+  new_rainbow_confederation: "The Rainbow Confederation"
+  new_rainbow_confederation_desc: "Don't listen to the critics of the Rainbow Raiders - they may have, in the past, been a ruthless gang in California. But today they're a vibrant community who help develop the NCR. Unlike the Legion, we welcome all who can contribute to our shining city on a hill."
+
+  new_ghoul_marriage: "Ghoul Marriage"
+  new_ghoul_marriage_desc: "While many outsiders are intolerant, Reno's welcome extends even to ghoul-human relationships. Perhaps you'll meet the love of your life here?"
+
+  new_economic_convergence: "Economic Convergence"
+  new_economic_convergence_desc: "Reno's growing role in the Western economy has led to an economic boom. Our low-cost, high-skill labour, natural resources, and commercial acumen are turning us into a bit of a technical hub. How about them rad-apples?"
+  new_pyramid_lake: "Picnic at Pyramid Lake"
+  new_pyramid_lake_desc: "If our city of delights are not enough, what if we showed you some pleasures at Pyramid Lake? Who doesn't like fishing?"

@@ -1,0 +1,8 @@
+﻿l_english:
+  # GUI:
+  RAILWAY_STATE_GUI_TT: "[This.GetRailwayStatusText]"
+
+  # Scripted Localisation:
+  railway_state_gui_tt_railway_hub_level: "§YRailway Hub Level§!"
+  railway_state_gui_tt_railway_line_built: "§GLocal Line Built§!"
+  railway_state_gui_tt_railway_no_line_built: "§RNo Local Line§!"

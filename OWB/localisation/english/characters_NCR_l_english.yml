@@ -24,10 +24,10 @@
 
   NCR_big_jim:0 "James 'Big Jim' Marshal"
   NCR_big_jim_army_chief_desc:0 "Big Jim knows how to succeed at war, and succeed quick; overwhelming displays of force! As such his appointment as chief of army will result in an increase in conscription and mobilization efficiency."
-  the_baron:0 "Baron"
 
-  NCR_mossman_character:0 "Ranger General Mossman"
+  NCR_mossman_character_name:0 "Ranger General Mossman"
   NCR_mossman_character_army_chief_desc:0 "Mossman believes totally in the power of the Rangers; as such, his appointment as chief of army will result in the expansion of the NCR rangers and more rigorous training for all."
+  NCR_mossman_character_name_DESC:0 "Let us fight, and be right."
 
   NCR_major_lawrence:0 "Major Lawrence"
   NCR_major_lawrence_desc:0 ""
@@ -58,7 +58,7 @@
 
   NCR_ranger_jackson:0 "Ranger Jackson"
   NCR_ranger_jackson_desc:0 ""
-
+  NCR_navy_chief_name:0 "Admiral Doherty"
   NCR_mr_fantastic_name:0 "Mr. Fantastic"
   NCR_mr_fantastic_research_advisor:0 "Mr. Fantastic"
   NCR_mr_fantastic_research_advisor_desc:0 "Having earned a theoretical degree in physics there are few people in the Wasteland more qualified for management of Helios One then Mr. Fantastic."
@@ -68,7 +68,16 @@
   NCR_alice_mclafferty_economic_advisor:0 "Alice McLafferty"
   NCR_alice_mclafferty_economic_advisor_desc:0 "Alice knows how to do business and do it well; she can satisfy the popular demand for consumerism, so long as she is given lucrative government contracts."
 
+  NCR_mama_van_graff_name: "Tiaret \"Mama\" van Graff"
+  NCR_mama_van_graff_advisor_desc: "Once nigh-outlaws of California, the Van Graffs are now model citizens. Although they may be a little rough around the edges, they understand that their best, perhaps only, market is the Republic. To Victory!"
+
+  NCR_enclave_advisor_advisor_4_NAME:0 "Jonathan Blair"
+  NCR_air_chief_name:0 "Captain Maria"
+
   NCR_joseph_dodge:0 "Joseph Dodge"
   NCR_joseph_dodge_desc:0 ""
 
   NCR_drummond_army_chief_desc:0 "Drummond has years of experience with which to back up his appointment, and it shows in his capacity for planning, both in speed and brilliance. However, he is unpopular among the people, and his appointment will weaken the republic's standing."
+  NCR_ranger_elise: "Ranger Elise"
+  NCR_BAR_NAGA:0 "Naga"
+  NCR_BAR_CHAVO_GUERRERO:0 "Chavo Guerrero"

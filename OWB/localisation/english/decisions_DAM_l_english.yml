@@ -1,0 +1,101 @@
+﻿l_english:
+ # decisions
+  DAM_building_category: "The Oahe Construction Project"
+  DAM_building_category_desc: "The siege of the Oahe Dam left us with little choice but to relocate inside our precious Oahe Dam. Even though the ghoul threat has passed, the dam's industrial power has not.\n\nCurrently the Dam holds:\n[?DAM_dam_civs] §Ycivilian factories§!\n[?DAM_dam_mils] §Ymilitary factories§!\n[?DAM_power_gens] §Lpower generators§!\n[?DAM_metal_gens] §Lmetal generators§!\n[?DAM_dam_slots] §Gopen building slots§!"
+
+  dam_increase_dam_building_slots:0 "Expand Building Space on the Dam"
+  dam_increase_dam_building_slots_desc:0 "Many of the shanty homes that made up the interior of the dam during the Great Crusade have been left to decay as their inhabitants returned to the wasteland. We can organize and auction off these plots of Dam space, opening future opportunities in the dam."
+
+  dam_lose_slots_for_power:0 "Trade Building Slots for Power"
+  dam_lose_slots_for_power_desc:0 ""
+
+  dam_lose_infrastructure_for_power:0 "Trade Infrastructure for Power"
+  dam_lose_infrastructure_for_power_desc:0 ""
+
+  dam_lose_power_for_caps:0 "Trade Power for Caps"
+  dam_lose_power_for_caps_desc:0 ""
+
+  dam_lose_power_for_civs:0 "Trade Power for Civs"
+  dam_lose_power_for_civs_desc:0 ""
+
+  dam_lose_metal_for_caps:0 "Trade Metal for Caps"
+  dam_lose_metal_for_caps_desc:0 ""
+
+  dam_caps_for_infrastructure:0 "Trade Caps for Infrastructure"
+  dam_caps_for_infrastructure_desc:0 ""
+
+  dam_raid_breach_decision:0 "Raid the Breach"
+  dam_raid_breach_decision_desc:0 ""
+
+  dam_raid_deadline_decision:0 "Raid the Deadline"
+  dam_raid_deadline_decision_desc:0 ""
+
+  dam_raid_zone_decision:0 "Raid the [OQZ.GetName]"
+  dam_raid_zone_decision_desc:0 ""
+
+  dam_send_engineer_team:0 "Send Out an Engineer Team"
+  dam_send_engineer_team_desc:0 ""
+
+  #Tooltips#
+  dam_add_construction_slots_tt:0 "Add [?DAM_construction_slots_to_add|Y0] §Gbuilding slots§! to the Oahe Dam."
+  dam_add_military_factories_tt:0 "Add [?DAM_military_factories_to_add|Y0] §Gmilitary factories§! to the Oahe Dam."
+  dam_add_civilian_factories_tt:0 "Add [?DAM_civilian_factories_to_add|Y0] §Gcivilian factories§! to the Oahe Dam."
+  dam_add_power_generators_tt:0 "Add [?DAM_power_generators_to_add|Y0] §Gpower generators§! to the Oahe Dam."
+  dam_add_metal_generators_tt:0 "Add [?DAM_metal_generators_to_add|Y0] §Gmetal generators§! to the Oahe Dam."
+  dam_subtract_metal_generators_tt:0 "Subtract [?DAM_metal_generators_to_subtract|Y0] §Rmetal generators§! from the Oahe Dam."
+  dam_no_space_tt:0 "Currently the Oahe Dam §Rdoes not have enough space§!, so nothing will happen!"
+
+  dam_equipment_border_war_tt:0 "\nWe will raid the §RLakota§! and attempt to seize weapons!"
+  dam_manpower_border_war_tt:0 "\nWe will raid the §RLakota§! and attempt to take slaves!"
+  dam_experience_border_war_tt:0 "\nWe will raid the §RLakota§! to test our military might!"
+  lakota_water_tt:0 "Every Lakota settlement will be offered guaranteed water for their compliance. Obviously, we must control some Lakota settlements for this to take effect."
+  dam_water_settlement_tt:0 "Every state with a water generator will gain 200 §Gmanpower§!"
+  dam_decrease_garrison_in_lakota_tt:0 "The Lakota we rule over will be watched carefully, decreasing their partisan attacks. Obviously, we must control some Lakota settlements for this to take effect."
+
+  dam_free_capacitor_tt:0 "We have a §Pcapacitor§! not currently in use!"
+  dam_increase_power_output_tt:0 "The Dam will produce an additional 10 £resources_strip|2"
+  dam_final_increase_power_output_tt:0 "The Dam will produce an additional 12 £resources_strip|2"
+  dam_increase_power_output_small_tt:0 "The Dam will produce an additional 4 £resources_strip|2"
+  dam_decrease_power_output_small_tt:0 "The Dam will produce §R-5§! £resources_strip|2"
+
+  dam_puppet_extortion_tt:0 "Every one of our puppets will be forced to contribute §P20%§! of their §Gcivilian factories§! to us! This §Rdoes not apply§! to future puppets!"
+  dam_military_puppet_extortion_tt:0 "Every one of our puppets will be forced to contribute §P20%§! of their §Gmilitary factories§! to us! This §Rdoes not apply§! to future puppets!"
+
+  dam_unlock_expand_slots_tt:0 "Unlocks a §Ydecision§! to expand the dam's §Gbuilding slots§!."
+  dam_unlock_infrastructure_to_power_tt:0 "Unlocks a §Ydecision§! to expand the dam's §Gpower§! at the cost of §Rinfrastructure§!."
+  dam_unlock_slots_to_power_tt:0 "Unlocks a §Ydecision§! to expand the dam's §Gpower§! at the cost of §Rbuilding slots§!."
+  dam_unlock_power_to_civs_tt:0 "Unlocks a §Ydecision§! to expand the dam's §Gcivilian workshops§! at the cost of §Rpower§!."
+  dam_unlock_power_to_caps_tt:0 "Unlocks a §Ydecision§! to increase our §Gcaps§! at the cost of §Rpower§!."
+  dam_sell_off_scrap_tt:0 "Unlocks a §Ydecision§! to increase our §Gcaps§! at the cost of the dam's §Rmetal generators§!."
+  dam_slaves_build_roads_tt:0 "Unlocks a §Ydecision§! to increase our §Ginfrastructure§! at the cost of §Rcaps§!."
+
+  dam_first_naval_oob_tt:0 "§GSix§! ships will be launched from the §YOahe Dam§!!"
+
+  dam_amber_denunce_tt: "§LLevel§!: §Y1§!\n§RAttack Skill§!: §Y5§!\n§GDefense Skill§!: §Y4§!\n§PPlanning Skill§!: §Y2§!\n§MLogistics Skill§!: §Y1§!"
+
+  dam_new_engineer_team_tt:0 "Unlocks an §Yengineering team§! that can be sent into the wastes."
+  dam_new_medical_team_tt:0 "Unlocks a §Ymedical team§! that can be sent into the wastes."
+  dam_increase_engineer_guns_tt:0 "All future shipments of §Gguns§! from our §Yengineering teams§! will increase by [?DAM_guns_to_increase|P0] £soft_attack_texticon."
+  dam_increase_engineer_support_tt:0 "Payments in §Gguns§! will also include an additional §Y25 support equipment§!."
+  dam_increase_engineer_caps_tt:0 "All future shipments of §Gcaps§! from our §Yengineering teams§! will increase by [?DAM_caps_to_increase|P0] £currency_cap_text_icon."
+
+  dam_gets_stronger_tt:0 "Careful, this will significantly strengthen the Dam Busters!"
+
+  dam_purchase_workshop_benches_tt:0 "Unlocks the ability for nations to give us §Gweapons workshops§! in return for assistance from our §Yengineering teams§!."
+  dam_purchase_luxury_items_tt:0 "Unlocks the ability for nations to give us §Gcivilian workshops§! in return for assistance from our §Yengineering teams§!."
+  dam_engineering_persuasion_tt:0 "Nations that host our §Yengineering teams§! will be far less likely to turn them away!"
+
+  dam_breach_raid_unlock_tt:0 "We will gain the option to repeatedly raid the §RGreat Breach§!. If we are able to defeat them we will gain an §Yarmy doctrine§! boost!"
+  dam_deadline_raid_unlock_tt:0 "We will gain the option to repeatedly raid the §RDeadline§!. If we are able to defeat them we will gain an §Yindustry boost§!!"
+  dam_zone_raid_unlock_tt:0 "We will gain the option to repeatedly raid the §R[OQZ.GetName]§!. If we are able to defeat them we will gain an §Yinfantry weapon boost§!!"
+  dam_lose_raid_access_tt:0 "We will §Rlose§! the ability to raid our neighbours!"
+
+  dam_has_free_engineer_teams_tt:0 "We have an §Gunused§! engineer team."
+  dam_has_free_medical_teams_tt:0 "We have an §Gunused§! medical team."
+  dam_teams_go_anywhere_tt:0 "Our engineering and medical teams can now travel §Ganywhere§! in the wasteland."
+
+  #Opinion Modifiers#
+
+
+  #Flags#
+

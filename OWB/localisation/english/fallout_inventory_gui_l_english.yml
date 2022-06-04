@@ -1,0 +1,167 @@
+﻿l_english:
+  # Constants:
+  TECHNOLOGY_ITEM: "Technology Item"
+  RELIC_ITEM: "Relic Item"
+  TRINKET_ITEM: "Trinket Item"
+  ITEM_QUALITY_LEGENDARY: "§OLegendary§!"
+  ITEM_QUALITY_VERY_RARE: "§PVery Rare§!"
+  ITEM_QUALITY_RARE: "§BRare§!"
+  ITEM_QUALITY_UNCOMMON: "§GUncommon§!"
+  ITEM_QUALITY_COMMON: "§gCommon§!"
+  EQUIPPED_ITEM: "Equipped Item"
+
+  # GUI:
+  FALLOUT_INVENTORY_WINDOW_TITLE: "Item Inventory"
+  FALLOUT_INVENTORY_INVENTORY_TITLE: "Inventory"
+  FALLOUT_INVENTORY_INVENTORY_TT: "Here you can see all §Y[?items_inventory_array^num]§! items you have in your inventory. You can equip §Y3§! items at the same time: a §M$TECHNOLOGY_ITEM$§!, a §M$RELIC_ITEM$§! and a §M$TRINKET_ITEM$§!. Equipped items grant bonuses while equipped. \n\nThe items have different qualities. The qualities (in order from best to worst) are as follows: \n   - $ITEM_QUALITY_LEGENDARY$ \n   - $ITEM_QUALITY_VERY_RARE$ \n   - $ITEM_QUALITY_RARE$ \n   - $ITEM_QUALITY_UNCOMMON$ \n   - $ITEM_QUALITY_COMMON$"
+  FALLOUT_INVENTORY_PAGE_BUTTON_LEFT_TT: "§GClick§! to go to the previous page. \n§GShift + click§! to go to the first page."
+  FALLOUT_INVENTORY_PAGE_BUTTON_RIGHT_TT: "§GClick§! to go to the next page. \n§GShift + click§! to go to the last page."
+  FALLOUT_INVENTORY_CLEAR_INVENTORY_BUTTON_TEXT: "Clear"
+  FALLOUT_INVENTORY_CLEAR_INVENTORY_BUTTON_TT: "§GClick§! to clear the inventory. \n§YThis will remove all not equipped items and give you [?pp_gained_from_clearing_inventory|0+] £pol_power£.§W"
+  FALLOUT_INVENTORY_SORT_INVENTORY_BUTTON_TEXT: "Sort"
+  FALLOUT_INVENTORY_SORT_INVENTORY_BUTTON_TT: "§GClick§! to sort the inventory after item qualities."
+
+  SELECTED_TECHNOLOGY_ITEM_WINDOW_TITLE: "$TECHNOLOGY_ITEM$"
+  SELECT_TECHNOLOGY_ITEM_BUTTON_TT: "[This.GetFalloutInventorySelectTechnologyItemButtonTooltip]"
+  SELECT_TECHNOLOGY_ITEM_BUTTON_TT_DELAYED: "[This.GetFalloutInventorySelectTechnologyItemButtonTooltipDelayed]"
+
+  SELECTED_RELIC_ITEM_WINDOW_TITLE: "$RELIC_ITEM$"
+  SELECT_RELIC_ITEM_BUTTON_TT: "[This.GetFalloutInventorySelectRelicItemButtonTooltip]"
+  SELECT_RELIC_ITEM_BUTTON_TT_DELAYED: "[This.GetFalloutInventorySelectRelicItemButtonTooltipDelayed]"
+
+  SELECTED_TRINKET_ITEM_WINDOW_TITLE: "$TRINKET_ITEM$"
+  SELECT_TRINKET_ITEM_BUTTON_TT: "[This.GetFalloutInventorySelectTrinketItemButtonTooltip]"
+  SELECT_TRINKET_ITEM_BUTTON_TT_DELAYED: "[This.GetFalloutInventorySelectTrinketItemButtonTooltipDelayed]"
+
+  FALLOUT_INVENTORY_ITEM_TT: "[This.GetFalloutInventoryItemButtonTooltip]"
+  FALLOUT_INVENTORY_ITEM_TT_DELAYED: "[This.GetFalloutInventoryItemButtonTooltipDelayed]"
+
+  FALLOUT_INVENTORY_POPUP_TITLE: "Item Removed"
+  FALLOUT_INVENTORY_POPUP_DESC: "An item we had equipped has been removed due to its expiration date being met now. \nThe removed item is:"
+  FALLOUT_INVENTORY_POPUP_ITEM_NAME: "§Y[This.GetFalloutCurrentInventoryItemName]§!"
+
+  FALLOUT_INVENTORY_CONFIRM_ALERT_WINDOW_TITLE: "[This.GetFalloutInventoryConfirmAlertTitle]"
+  FALLOUT_INVENTORY_CONFIRM_ALERT_WINDOW_DESC: "[This.GetFalloutInventoryConfirmAlertDesc]"
+
+  # Scripted Localisation:
+  string_fallout_inventory_select_technology_item_tt_has_item: "§Y[This.GetFalloutInventorySelectedTechnologyItemName]§! \n§L[This.GetFalloutInventorySelectedTechnologyItemDesc]§! \n\n§YQuality:§! [This.GetFalloutInventorySelectedTechnologyItemQuality] \n\n§YEffects:§! \n[This.GetFalloutInventorySelectedTechnologyItemEffects]"
+  string_fallout_inventory_select_technology_item_tt_has_no_item: "§YThere is no $TECHNOLOGY_ITEM$ equipped at the moment.§!"
+  string_fallout_inventory_select_technology_item_tt_will_automatically_be_removed: "§Y[This.GetFalloutInventorySelectedTechnologyItemName]§! §Rcannot be removed manually. It will be removed and destroyed automatically on §Y[?selected_technology_item_remove_date.GetDateStringNoHourLong]§!.§W"
+  string_fallout_inventory_select_technology_item_tt_cannot_remove_item_yet: "§Y[This.GetFalloutInventorySelectedTechnologyItemName]§! §Rwas recently selected and cannot be removed before the §Y[?selected_technology_item_remove_date.GetDateStringNoHourLong]§!.§W"
+  string_fallout_inventory_select_technology_item_tt_remove_item: "§GClick§! to remove §Y[This.GetFalloutInventorySelectedTechnologyItemName]§! as the equipped §M$TECHNOLOGY_ITEM$§!."
+  string_fallout_inventory_select_technology_item_tt_cannot_replace_item_yet: "§RThis item was recently selected and cannot be replaced with another item before the §Y[?selected_technology_item_remove_date.GetDateStringNoHourLong]§!.§W"
+  string_fallout_inventory_select_technology_item_tt_replace_item: "§GClick§! to replace §Y[This.GetFalloutInventorySelectedTechnologyItemName]§! with §Y[This.GetFalloutInventorySelectedItemName]§!."
+  string_fallout_inventory_select_technology_item_tt_equip_item: "§GClick§! to equip §Y[This.GetFalloutInventorySelectedItemName]§! as §M$TECHNOLOGY_ITEM$§!."
+  string_fallout_inventory_select_technology_item_tt_invalid_item: "§Y[This.GetFalloutInventorySelectedItemName]§! §Ris not a $TECHNOLOGY_ITEM$. It cannot be equipped here.§!"
+
+  string_fallout_inventory_select_relic_item_tt_has_item: "§Y[This.GetFalloutInventorySelectedRelicItemName]§! \n§L[This.GetFalloutInventorySelectedRelicItemDesc]§! \n\n§YQuality:§! [This.GetFalloutInventorySelectedRelicItemQuality] \n\n§YEffects:§! \n[This.GetFalloutInventorySelectedRelicItemEffects]"
+  string_fallout_inventory_select_relic_item_tt_has_no_item: "§YThere is no $RELIC_ITEM$ equipped at the moment.§!"
+  string_fallout_inventory_select_relic_item_tt_will_automatically_be_removed: "§Y[This.GetFalloutInventorySelectedRelicItemName]§! §Rcannot be removed manually. It will be removed and destroyed automatically on §Y[?selected_relic_item_remove_date.GetDateStringNoHourLong]§!.§W"
+  string_fallout_inventory_select_relic_item_tt_cannot_remove_item_yet: "§Y[This.GetFalloutInventorySelectedRelicItemName]§! §Rwas recently selected and cannot be removed before the §Y[?selected_relic_item_remove_date.GetDateStringNoHourLong]§!.§W"
+  string_fallout_inventory_select_relic_item_tt_remove_item: "§GClick§! to remove §Y[This.GetFalloutInventorySelectedRelicItemName]§! as the equipped §M$RELIC_ITEM$§!."
+  string_fallout_inventory_select_relic_item_tt_cannot_replace_item_yet: "§RThis item was recently selected and cannot be replaced with another item before the §Y[?selected_relic_item_remove_date.GetDateStringNoHourLong]§!.§W"
+  string_fallout_inventory_select_relic_item_tt_replace_item: "§GClick§! to replace §Y[This.GetFalloutInventorySelectedRelicItemName]§! with §Y[This.GetFalloutInventorySelectedItemName]§!."
+  string_fallout_inventory_select_relic_item_tt_equip_item: "§GClick§! to equip §Y[This.GetFalloutInventorySelectedItemName]§! as §M$RELIC_ITEM$§!."
+  string_fallout_inventory_select_relic_item_tt_invalid_item: "§Y[This.GetFalloutInventorySelectedItemName]§! §Ris not a $RELIC_ITEM$. It cannot be equipped here.§!"
+
+  string_fallout_inventory_select_trinket_item_tt_has_item: "§Y[This.GetFalloutInventorySelectedTrinketItemName]§! \n§L[This.GetFalloutInventorySelectedTrinketItemDesc]§! \n\n§YQuality:§! [This.GetFalloutInventorySelectedTrinketItemQuality] \n\n§YEffects:§! \n[This.GetFalloutInventorySelectedTrinketItemEffects]"
+  string_fallout_inventory_select_trinket_item_tt_has_no_item: "§YThere is no $TRINKET_ITEM$ equipped at the moment.§!"
+  string_fallout_inventory_select_trinket_item_tt_will_automatically_be_removed: "§Y[This.GetFalloutInventorySelectedTrinketItemName]§! §Rcannot be removed manually. It will be removed and destroyed automatically on §Y[?selected_trinket_item_remove_date.GetDateStringNoHourLong]§!.§W"
+  string_fallout_inventory_select_trinket_item_tt_cannot_remove_item_yet: "§Y[This.GetFalloutInventorySelectedTrinketItemName]§! §Rwas recently selected and cannot be removed before the §Y[?selected_trinket_item_remove_date.GetDateStringNoHourLong]§!.§W"
+  string_fallout_inventory_select_trinket_item_tt_remove_item: "§GClick§! to remove §Y[This.GetFalloutInventorySelectedTrinketItemName]§! as the equipped §M$TRINKET_ITEM$§!."
+  string_fallout_inventory_select_trinket_item_tt_cannot_replace_item_yet: "§RThis item was recently selected and cannot be replaced with another item before the §Y[?selected_trinket_item_remove_date.GetDateStringNoHourLong]§!.§W"
+  string_fallout_inventory_select_trinket_item_tt_replace_item: "§GClick§! to replace §Y[This.GetFalloutInventorySelectedTrinketItemName]§! with §Y[This.GetFalloutInventorySelectedItemName]§!."
+  string_fallout_inventory_select_trinket_item_tt_equip_item: "§GClick§! to equip §Y[This.GetFalloutInventorySelectedItemName]§! as §M$TRINKET_ITEM$§!."
+  string_fallout_inventory_select_trinket_item_tt_invalid_item: "§Y[This.GetFalloutInventorySelectedItemName]§! §Ris not a $TRINKET_ITEM$. It cannot be equipped here.§!"
+
+  string_fallout_inventory_current_item_tt: "§Y[This.GetFalloutCurrentInventoryItemName]§! \n§L[This.GetFalloutCurrentInventoryItemDesc]§! \n\n§YCategory:§! [This.GetFalloutCurrentInventoryItemCategory] \n§YQuality:§! [This.GetFalloutCurrentInventoryItemQuality] \n\n§YEffects when equipped:§! \n[This.GetFalloutCurrentInventoryItemEffects]"
+  string_fallout_inventory_current_item_tt_empty: "§RThis inventory slot is empty.§!"
+  string_fallout_inventory_deselect_current_item_tt: "§GClick§! to deselect §Y[This.GetFalloutCurrentInventoryItemName]§!.\n[This.GetFalloutCurrentInventoryItemCanBeManuallyRemoved] [This.GetFalloutInventoryItemRemoveDaysTooltip]"
+  string_fallout_inventory_select_current_item_tt: "§GClick§! to select §Y[This.GetFalloutCurrentInventoryItemName]§!. \nAfter selecting it, you can equip it in a matching category.\n[This.GetFalloutCurrentInventoryItemCanBeManuallyRemoved] [This.GetFalloutInventoryItemRemoveDaysTooltip]"
+
+  string_fallout_inventory_current_item_days_remove_tt: "\n-------------\nThis item cannot be removed until §Y[?fallout_inventory_item_remove_date.GetDateStringNoHourLong]§! after equipping."
+
+  string_fallout_inventory_current_item_in_category_technology_relic_trinket: "§M$TECHNOLOGY_ITEM$§!, §M$RELIC_ITEM$§!, §M$TRINKET_ITEM$§!"
+  string_fallout_inventory_current_item_in_category_relic_trinket: "§M$RELIC_ITEM$§!, §M$TRINKET_ITEM$§!"
+  string_fallout_inventory_current_item_in_category_technology_trinket: "§M$TECHNOLOGY_ITEM$§!, §M$TRINKET_ITEM$§!"
+  string_fallout_inventory_current_item_in_category_technology_relic: "§M$TECHNOLOGY_ITEM$§!, §M$RELIC_ITEM$§!"
+  string_fallout_inventory_current_item_in_category_technology: "§M$TECHNOLOGY_ITEM$§!"
+  string_fallout_inventory_current_item_in_category_relic: "§M$RELIC_ITEM$§!"
+  string_fallout_inventory_current_item_in_category_trinket: "§M$TRINKET_ITEM$§!"
+
+  string_fallout_inventory_item_quality_legendary: "$ITEM_QUALITY_LEGENDARY$"
+  string_fallout_inventory_item_quality_very_rare: "$ITEM_QUALITY_VERY_RARE$"
+  string_fallout_inventory_item_quality_rare: "$ITEM_QUALITY_RARE$"
+  string_fallout_inventory_item_quality_uncommon: "$ITEM_QUALITY_UNCOMMON$"
+  string_fallout_inventory_item_quality_common: "$ITEM_QUALITY_COMMON$"
+
+  string_fallout_item_can_be_destroyed_manually: "§GRight-click§! to destroy this item. This will give us §G10§! £pol_power£."
+  string_fallout_item_cannot_be_destroyed_manually: "§RCannot be manually destroyed.§!"
+  string_fallout_inventory_confirm_alert_title_destroy_item: "Destroy §Y[This.GetFalloutInventoryConfirmAlertItemName]§!?"
+  string_fallout_inventory_confirm_alert_desc_destroy_item: "Do you want to destroy the item §Y[This.GetFalloutInventoryConfirmAlertItemName]§!? \n\n§YEffects when equipped:§! \n[This.GetFalloutInventoryConfirmAlertItemEffects] \n\nThis will give us §G10§! £pol_power£ and remove this item from our inventory."
+  string_fallout_inventory_confirm_alert_title_replace_selected_item: "Replace §Y[This.GetFalloutInventoryConfirmAlertItemRemoveName]§!?"
+  string_fallout_inventory_confirm_alert_desc_replace_selected_item: "Do you want to replace the equipped item §Y[This.GetFalloutInventoryConfirmAlertItemRemoveName]§! with the item §Y[This.GetFalloutInventoryConfirmAlertItemAddName]§!? \n\nEffects of §Y[This.GetFalloutInventoryConfirmAlertItemRemoveName]§!: \n[This.GetFalloutInventoryConfirmAlertItemRemoveEffects] \n\nEffects of §Y[This.GetFalloutInventoryConfirmAlertItemAddName]§!: \n[This.GetFalloutInventoryConfirmAlertItemAddEffects] \n\nWe will lose the effects the currently equipped item has and gain the ones of the new item. \nThe unequipped item is moved to our inventory again."
+  string_fallout_inventory_confirm_alert_title_remove_selected_item: "Unequip §Y[This.GetFalloutInventoryConfirmAlertItemName]§!?"
+  string_fallout_inventory_confirm_alert_desc_remove_selected_item: "Do you want to unequip the item §Y[This.GetFalloutInventoryConfirmAlertItemName]§!? \n\n§YCurrent effects:§! \n[This.GetFalloutInventoryConfirmAlertItemEffects] \n\nThis will remove the effects it currently has on our country and move it back to our inventory."
+  string_fallout_inventory_confirm_alert_title_clear_inventory: "Clear inventory?"
+  string_fallout_inventory_confirm_alert_desc_clear_inventory: "Do you want to §Yclear§! your §Yinventory§!? \n\nThis will remove all §Y[?items_inventory_array^num]§! items currently in our inventory and give us §G10§! £pol_power£ per item. However, we will keep the currently equipped items and they stay equipped."
+
+  # Scripted Effects:
+  ADD_FALLOUT_INVENTORY_ITEM_TT: "§Y[This.GetFalloutInventoryItemName]§! ([This.GetFalloutInventoryItemQuality]; [This.GetFalloutInventoryItemCategory]) is added to our inventory.\n"
+  REMOVE_FALLOUT_INVENTORY_ITEM_TT: "§Y[This.GetFalloutInventoryItemName]§! is removed from our inventory.\n"
+  REMOVE_FALLOUT_INVENTORY_ITEM_TT_ALSO_REMOVED_AS_EQUIPPED_ITEM: "§Y[This.GetFalloutInventoryItemName]§! is removed as equipped icon and not returned to our inventory."
+  ADD_RANDOM_ITEM_TT_NO_NEW_ITEM: "It seemed that a new item was discovered recently, but all tries to recover it turned out to be in vain.\n"
+  ADD_RANDOM_ITEM_TT: "A new item was discovered and successfully recovered. \nA §Y[This.GetFalloutInventoryItemName]§! is now available in the inventory.\n"
+
+  # Scripted Triggers:
+  HAS_ANY_FALLOUT_INVENTORY_ITEM_TT: "§Y[This.GetName]§! has at least §Y1§! item in its inventory or equipped"
+  HAS_SPECIFIC_FALLOUT_INVENTORY_ITEM_TT: "Has item §Y[This.GetFalloutInventoryItemName]§!"
+  HAS_SPECIFIC_FALLOUT_INVENTORY_ITEM_IN_INVENTORY_TT: "Has item §Y[This.GetFalloutInventoryItemName]§! in inventory"
+  HAS_SPECIFIC_FALLOUT_INVENTORY_ITEM_EQUIPPED_TT: "Has item §Y[This.GetFalloutInventoryItemName]§! equipped"
+
+  # Items:
+  FALLOUT_INVENTORY_ITEM_1: "Improved Cartridge Assembly"
+  FALLOUT_INVENTORY_ITEM_1_DESC: ""
+  FALLOUT_INVENTORY_ITEM_1_EFFECTS: "§Y$fireteam_equipment$:§! $soft_attack$§G+5.00%§!"
+  FALLOUT_INVENTORY_ITEM_2: "2052 Vintage Hola Girl"
+  FALLOUT_INVENTORY_ITEM_2_DESC: ""
+  FALLOUT_INVENTORY_ITEM_2_EFFECTS: "§Y$motorized_type$:§! $reliability$§G+11.00%§!"
+  FALLOUT_INVENTORY_ITEM_3: "Optimized Flux Microfusion Cell"
+  FALLOUT_INVENTORY_ITEM_3_DESC: ""
+  FALLOUT_INVENTORY_ITEM_3_EFFECTS: "§Y$infantry_equipment$:§! $reliability$§G+5.00%§!"
+  FALLOUT_INVENTORY_ITEM_4: "Saturnite Whetstone"
+  FALLOUT_INVENTORY_ITEM_4_DESC: ""
+  FALLOUT_INVENTORY_ITEM_4_EFFECTS: "§Y$category_army$:§! $hard_attack$§G+10.00%§!"
+  FALLOUT_INVENTORY_ITEM_5: "Glassed Skull"
+  FALLOUT_INVENTORY_ITEM_5_DESC: "Shortly after the first strike by Tlaloc against the rallying Aztláni forces, this relic was found. [This.GetLeader], skin slowly melting from [This.GetHerHis] face, found a perfect skull turned to glass from the heat and pressure of the blast. The glowing green reminder of a past life, a lost life, pushes the Mavens forward on their quest."
+  FALLOUT_INVENTORY_ITEM_5_EFFECTS: "$stability_factor$: §G+15.00%§!"
+  FALLOUT_INVENTORY_ITEM_6: "ProSnap PanaLuxe Deluxe Camera"
+  FALLOUT_INVENTORY_ITEM_6_DESC: "This unique ProSnap relic is a one of a kind in the wasteland, a prototype for a camera that never made it to market. This small hand-held device is capable of capturing visual and audio feeds simultaneously, transposing the captured footage into a film reel in less then two hours!"
+  FALLOUT_INVENTORY_ITEM_6_EFFECTS: "$stability_factor$: §G+7.50%§!"
+
+  FALLOUT_INVENTORY_ITEM_7: "Android-Metal Blade"
+  FALLOUT_INVENTORY_ITEM_7_DESC: "This unique blade was forged from the strange alloys that composed the armor of the Androids of TV-Town, made by Kaga after his Sons took over the town. It is seen as a rallying cry of the Sons, and a powerful relic among the tribals of the Wasteland; countless lives having been spilled in the making of that blade."
+  FALLOUT_INVENTORY_ITEM_7_EFFECTS: "$war_support_factor$: §G+7.50%§!"
+
+  # Ideas:
+  fallout_inventory_item_idea_1: "$EQUIPPED_ITEM$ (§Y$FALLOUT_INVENTORY_ITEM_1$§!)"
+  fallout_inventory_item_idea_2: "$EQUIPPED_ITEM$ (§Y$FALLOUT_INVENTORY_ITEM_2$§!)"
+  fallout_inventory_item_idea_3: "$EQUIPPED_ITEM$ (§Y$FALLOUT_INVENTORY_ITEM_3$§!)"
+  fallout_inventory_item_idea_4: "$EQUIPPED_ITEM$ (§Y$FALLOUT_INVENTORY_ITEM_4$§!)"
+  fallout_inventory_item_idea_5: "$EQUIPPED_ITEM$ (§Y$FALLOUT_INVENTORY_ITEM_5$§!)"
+  fallout_inventory_item_idea_6: "$EQUIPPED_ITEM$ (§Y$FALLOUT_INVENTORY_ITEM_6$§!)"
+
+  # Events:
+  fallout_inventory_events.EVTNAME3: "Potential Discovery in the Outside World"
+  fallout_inventory_events.EVTDESC3: "A small squad of pioneers came across a small cave while they were transporting equipment. This could potentially bring us a new item, if their discovery proves to be as promising as we hope. Shall we send out another squad to search the place they found?"
+  fallout_inventory_events3.EVTOPT1: "The one who doesn't search will never find anything..."
+  fallout_inventory_events3.EVTOPT2: "... on the other hand this requires resources we could spend elsewhere."
+
+  fallout_inventory_events.EVTNAME4: "Pioneer Squad returns"
+  fallout_inventory_events.EVTDESC4: "The squad we sent out to search a newly found place for new items has returned. Hopefully they have good news."
+  fallout_inventory_events4.EVTOPT1: "Let's see..."
+
+  SEND_OUT_SEARCH_TEAM_FOR_NEW_ITEM_TT: "A squad is sent out to search the place...\n"
+
+  # Console Commands:
+  d_clear_inventory_and_reset_with_all_items_DESC: "Clears all items that are currently in the inventory or equipped and then adds all items to \nthe inventory. Can only be used in -debug mode."

@@ -410,7 +410,7 @@
   nf_legion.93.a:0 "The Legion shall finish the synthesis."
   ### Navajo
   nf_legion.94.t:0 "Caesar's Dead!"
-  nf_legion.94.d:0 "The conqueror of some varying number of tribes has died! The Wasteland holds ids breath, and for [NAV.GetLeader], perhaps now is a time to prepare to strike."
+  nf_legion.94.d:0 "The conqueror of some varying number of tribes has died! The Wasteland holds its breath, and for [NAV.GetLeader], perhaps now is a time to prepare to strike."
   nf_legion.94.a:0 "You should life so that when you die, the world cries and you rejoice. Did he?"
   ### Ceasar LIves
   nf_legion.95.t:0 "An Educated Man"
@@ -460,7 +460,7 @@
   nf_legion.104.b:0 "I cannot punish my brother in arms."
   nf_legion.104.b_tt:0 "\nYou will take stress from this."
   #### the Mojave Campaign
-  nf_legion.105.t:0 "the Mojave Campaign"
+  nf_legion.105.t:0 "The Mojave Campaign"
   nf_legion.105.d:0 "Defeating the Legion at the Dam was but the first step.  Despite the defeat, we're faced with an unending guerilla war and raids across the mighty Colorado. But at least this costs the Legion as much as us."
   nf_legion.105.a:0 "War never changes."
   nf_legion.105.a_tt:0 "\nThis national idea will go away when war breaks out."
@@ -591,6 +591,32 @@
   nf_lanius_integration.3.d:0 "In a shocking turn of events, the feared and fabled Legate Lanius and the Legion forces directly under his command have been defeated. This marks a significant defeat for Caesar, as his Legion’s easternmost border, supervised by none other than his most esteemed subordinate, has been compromised by those the Legion has sought to bring under his banner. It remains to be seen how this defeat will affect the Legion’s military standing."
   nf_lanius_integration.3.a:0 "I can't believe the tribals lost to heavy weaponry!"
 
-nf_lanius_integration.4.t:0 "The Conquest of the East"
-nf_lanius_integration.4.d:0 "The Hang Dogs could not stop him. Diana could not stop him. The Brotherhood could not stop him. From Dog City pour slaves, food, and metals into the Legion's maw. An engine of war the Wastes have not seen since the Bombs fell has reached its natural limit and prepares to march West. And at the bridge between Eat and West, the fate of the Wasteland will be decided. Good luck to Shady Sands; against our warriors, they will need all of it."
-nf_lanius_integration.4.a:0 "On to New Vegas... and beyond."
+  nf_lanius_integration.4.t:0 "The Conquest of the East"
+  nf_lanius_integration.4.d:0 "The Hang Dogs could not stop him. Diana could not stop him. The Brotherhood could not stop him. From Dog City pour slaves, food, and metals into the Legion's maw. An engine of war the Wastes have not seen since the Bombs fell has reached its natural limit and prepares to march West. And at the bridge between East and West, the fate of the Wasteland will be decided. Good luck to Shady Sands; against our warriors, they will need all of it."
+  nf_lanius_integration.4.a:0 "On to New Vegas... and beyond."
+
+  ##Mutant events##
+  nf_legion_mutants.1.t:0 "Guess Who I Saw Today Part 1"
+  nf_legion_mutants.1.d:0 "That human, Dr. Henry was studying our condition, but because of the Legion invasion he's gone! I was getting tired of waiting for him, but now it's gotten worse, a lot of nightkins are already going through withdrawal!\nHe must be found immediately!"
+  nf_legion_mutants.1.a:0 "Finding one man isn't a problem for the Frumentaries"
+
+  nf_legion_mutants.2.t:0 "Guess Who I Saw Today Part 2"
+  nf_legion_mutants.2.d:0 "There is so much talk about these Frumentaries, but they can't even find one person! He must have left the Mojave a long time ago, but what should we do in that case? We can't wait any longer!\nThis Legionnaire, with a dog on his head, suggested using captured NCR scientists and Followers. At least someone among this rabble who has a head on his shoulders. "
+  nf_legion_mutants.2.a:0 "You can always count on Vulpes"
+
+  nf_legion_mutants.3.t:0 "Awakened From a Long Sleep"
+  nf_legion_mutants.3.d:0 "I thought another wait would kill me, but finally these eggheads were able to resume Dr. Henry's work, and find a cure for the Nightkins schizophrenia.\nMany of our brethren in distant lands, upon hearing this news, rush to the lands of the Legion to be cured"
+  nf_legion_mutants.3.a:0 "So many new tools for the Legion"
+
+  nf_legion_mutants.4.t:0 "Davison's Quest Part 1"
+  nf_legion_mutants.4.d:0 "I don't get it!\nAntler told me the bill said Stealth Boys here, but after dealing with that pesky goole, we didn't find anything!\nWhat, Antler? They're not here? Sent by mistake? \nGoddamn it!"
+  nf_legion_mutants.4.a:0 "Killing that ghoul wasn't easy."
+
+  nf_legion_mutants.5.t:0 "Davison's Quest Part 2"
+  nf_legion_mutants.5.d:0 "Antler was saddened to learn that the Stealth Boys had not been found at that location. But Antler doesn't give up, no no. We searched those terminals for information, and Antler found something to help our search. Another delivery receipt, but what is this place, Antler? Hmm, I hear you, Antler, we're going there!"
+  nf_legion_mutants.5.a:0 "I wonder what'll be there"
+
+  nf_legion_mutants.6.t:0 "The Will of Davison"
+  nf_legion_mutants.6.d:0 "Yes yes, there they are! A whole batch of new Stealth Boys, and they're all ours!\nWhat is it, Antler? What are you talking about, of course I want them, we didn't come all the way here for nothing!\nAddiction, hallucinations? I don't understand you, Antler. It's not like I can give it all up.\nIt's up to me? Why would you say that, to me? I'm..."
+  nf_legion_mutants.6.a:0 "§R...devoted to Antler§!"
+  nf_legion_mutants.6.b:0 "§2...Davison§!"

@@ -1,0 +1,17 @@
+﻿l_english:
+  nf_reno.50.t: "Tourism Season Results"
+  nf_reno.50.d: "Welcome to our show "Around The Wastes"! It's your host, Bryce, and oh boy, do we have some new interesting places for you to visit! In our today's episode...\n\n[GetTouristsCheckTouristsCountEvent]"
+  nf_reno.50.a: "Let the money roll in!"
+  
+  reno_has_more_tourists: "New Reno! The city of sin, the city where everything is possible, the biggest little city in Wasteland! New Reno will satisfy any of your needs, even the ones you feel uncomfortable talking about! Exactly in New Reno the famous and... infamous Golden Globes are located, even the single fact of that makes that city more than worthy to visit! Except for that there will be a plenty of fashionable establishments like Desperado Casino, Shark Club and Cat's Paw! Come visit New Reno and you won't forget about that visit for the rest of your life!"
+  vegas_has_more_tourists: "New Vegas! I bet everyone listening right now know about that big city in Mojave desert which, thanks to mastermind plans of Mister House, has survived the Great War! In this beautiful and shiny city you will find anything that fits your needs! You feel lucky and have some spare caps? Come down to... oh my, what a big choice! Ultra-Lux, Gomorrah, The Tops, Atomic Wrangler... I bet those casinos will be the most amazing establishments you'll ever see by this part of the whole world! And probably the most pocket-emptying, haha! Visit New Vegas right now and it will be a visit of your lifetime!"
+  
+  nf_reno.51.t: "Radio Announcement!"
+  nf_reno.51.veg.d: "Ladies and gentlemen, welcome to our program. This is Mr. New Vegas, and each and every one of you is wonderful in your own special way. This program was brought you by New Vegas. Beautiful sights, shiny neon signs, tasty gourmet food, attractive women and awesome casinos, working 24/7. New Vegas: The Jewel Of The Wasteland. Visit now!"
+  nf_reno.51.ren.d: "Hello there, people of the Wastes! Let me tell you about a magnificent city, where everything is possible! The city of New Reno, the biggest little city in Wasteland! You want to have some fun spending time in casinos? Come to us! You want to feel the warm touch of someone who cares about you? We can give you that! Come visit us now, and I assure you, you won't forget that visit for your entire life!"
+  nf_reno.51.a: "I will definitely visit!" ### Reno or Vegas launched enormous ad campaign, respond from others
+  nf_reno.51.b: "Welcome to New Vegas!" ### Vegas launched enormous ad campaign
+  nf_reno.51.f: "Welcome to New Reno!" ### Reno launched enormous ad campaign
+  nf_reno.51.c: "Stop stealing our clients!" ### Reno respond to Vegas
+  nf_reno.51.e: "Everyone knows that Vegas is still better." ### Vegas respond to Reno
+  

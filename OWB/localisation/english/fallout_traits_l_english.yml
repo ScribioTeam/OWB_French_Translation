@@ -1,6 +1,7 @@
 ﻿l_english:
-  suf_trait:0 "The \"Booming Brigadier General\""
+  shi_dragonsblood: "Dragon's Blood"
   greenway_ingenuity:0 "Greenway's Ingenuity"
+  tof_raider_queen: "Jericho's Raider Queen"
   arm_man_of_destiny:0 ""The Man of Destiny""
   moj_distrusted_elder:0 "Distrusted Elder"
   moj_obsessed_elder:0 "Obsessed Elder"
@@ -15,6 +16,7 @@
   expert_negotiator:0 "Expert Negotiator"
   cruel_tyrant:0 "Cruel Tyrant"
   because_aliens:0 ""Why? Because Aliens!""
+  suf_trait:0 "The \"Booming Brigadier General\""
   elected_tribe_president:0 "Elected President of the Tribal Council"
   loyalty:0 "Loyalty"
   loyalty_desc:0 "This general maintains fierce loyalty from their men, allowing them to maintain discipline and dig fortifications quicker and more efficiently."
@@ -26,6 +28,9 @@
   burned_man:0 "Burned Man"
   blessed_are_the_merciful:0 "Blessed are the Merciful"
   benny_trait:0 "Benny"
+  robco_ceo:0 "RobCo Industries CEO"
+  strip_overlord1:0 "Vegas Overlord"
+  strip_overlord2:0 "Vegas Overlord"
   the_king_trait:0 "The King"
   nero_trait:0 "Nero"
   motor_runner:0 "Motor Runner"
@@ -34,6 +39,7 @@
   regis_trait:0 "Sneering Imperialist"
   majorie_trait:0 "Marjorie"
   timelord:0 "Timelord"
+  red_rose:0 "The Red Rose Of Canada"
   spiritual:0 "Spiritual"
   military_background:0 "Military Background"
   conqueror_of_tribes:0 "Conqueror of Tribes"
@@ -48,6 +54,7 @@
   military_quartermaster:0 "Military Quartermaster"
   reconnaissance_expert:0 "Reconnaissance Expert"
   political_mastermind:0 "Political Mastermind"
+  political_mastermind_eighties:0 "Yaogi the Bear"
   brotherhood_scribe:0 "Brotherhood Scribe"
   surveyor:0 "Surveyor"
   field_medic:0 "Field Medic"
@@ -79,21 +86,35 @@
   the_137th_archbishop:0 "The 137th Archbishop"
   survivalist:0 "Survivalist"
   grand_captain:0 "Grand Captain of the Rapids"
+  #war_hero:0 "War Hero"
+  hardliner:0 "Hardliner"
+  hardliner_1:0 "Patriot"
+  old_worldist:0 "Old-Worldist"
+  baron_connections:0 "Baron Connections"
+  aggressively_simple:0 "Aggressively Simple"
   logistics_tsar:0 "Logistical Genius"
   bane_of_the_ncr:0 "Bane of the NCR"
   local_patriot:0 "Local Patriot"
   pirate_queen:0 "Pirate Queen"
+  top_mechanic: "The Top Mechanic"
   lac_no_mercy:0 "No Mercy"
   lac_frontier_justice:0 "The Eastern Warlord"
   shi_absolutist:0 "Absolutist"
   shi_consitutionalist:0 "Constitutionalist"
-  shi_golden_monarch:0 "The Golden Monarch"
   admiral_dictator:0 "Admiral Dictator"
   supreme_ruler:0 "Supreme Ruler"
   hai_wounded:0 "Wounded"
   hai_pirate_king_1:0 "New Dream"
   hai_pirate_king_2:0 "Pirate King"
   hai_pirate_queen:0 "Pirate Queen"
+
+  ncr_patriot:0 "The Modern NCR"
+  ###
+  ancient_one: "The Ancient One"
+  windsor_dynasty: "The House of Saxe-Coburg-Gotha"
+  good_publiciity: "Montana's Mother"
+  SNO_supplier: "The Survivor"
+  ruminator_trait: "A Positive Attitude!"
 
   ##Organization Traits
   ### Gun Runners
@@ -117,6 +138,12 @@
   org_5_opinion_1:0 "Whisper"
   org_5_opinion_2:0 "Shadow"
   org_5_opinion_3:0 "Nightmare"
+
+  # ARR
+  chitsa_manipulator:0 "Expert Manipulator"
+  chitsa_killer: "Blood On Her Hands"
+  dimitri_doctor:0 "Educated Doctor"
+  nagor_warrior:0 "Unwilling Warrior"
 
   # ITZ
   critically_ill:0 "Critically Ill"
@@ -223,3 +250,38 @@
   cos_member:0 "Circle of Steel Agent"
   mistress_of_subterfuge:0 "Mistress of Subterfuge"
   elder_emergency_authority_trait:0 "Elder Emergency Authority"
+
+  ###NEW
+  new_beacon_of_hope:0 "Beacon of Hope"
+  new_hit_and_run_trait: "Hit and Run"
+  new_run_and_hit_trait: "Run and Hit"
+  new_larg_trait: "Calm Scrapper"
+  new_karg_trait: "Compassionate Mutant"
+  new_burrow_master_trait: "Lord of Pits"
+
+  #VEG
+  crocker_ambassador:0 "Ambassador Extraordinary and Plenipotentiary"
+  nero_devil:0 "The Devil of New Vegas"
+
+#Doctrines
+  automated_warfare_doctrine_trait:0 "Automated Warfare Theorist"
+  terror_tactics_doctrine_trait:0 "Asymmetrical Warfare Theorist"
+  elite_army_doctrine_trait:0 "Refined Warfare Theorist"
+  grand_army_doctrine_trait:0 "Conventional Warfare Theorist"
+  outsider_warfare_trait:0 "Outsider Warfare Theorist"
+
+  ### 5.0
+  mining_expert: "Born With a Pickaxe"
+  sky_seer: "The Sky Seer"
+  kit_fox_warrior: "Kit Fox Warrior"
+
+  roach_king:0 "Radroach Tamer"
+
+  nature_ranger: "The Original Ranger"
+  commissariat:0 "The Commmissar"
+  big_sister:0 "Big Sister"
+  dudley_do_right:0 "Maintain the Right"
+  mother_of_republic:0 "Mother of the Republic"
+  pilot_awesome:0 "Sky Captain For the World of Tomorrow"
+  merchant_princes:0 "The Merchant Princes"
+  nit_leader_trait:0 "A Hero, Somewhat Retired"

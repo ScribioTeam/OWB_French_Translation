@@ -1,0 +1,757 @@
+﻿l_english:
+
+  frn_history_quarantine:0 "The Quarantine"
+  frn_history_quarantine_desc:0 ""
+
+  frn_outbreak:0 "The Outbreak"
+  frn_outbreak_desc:0 ""
+  
+  frn_endofitall:0 "End of It All"
+  frn_endofitall_desc:0 ""
+  
+  frn_coming_storm:0 "Calm Before The Storm"
+  frn_coming_storm_desc:0 ""
+  
+  frn_last_straw:0 "The Last Straw"
+  frn_last_straw_desc:0 "Lacking a central authority, the 'Fringe' as they called it, relied heavily on isolation and self-defence. Some preferred to live on closed communities with high walls, like the Oldtown, while others built their homesteads in the wilderness, hoping no one would come looking for them. A recent raid on the Broken Bow Inn caused an uproar, with many residents travelling to the Inn to help with the repairs and discuss what is to be done to end the raids."
+  
+  frn_expand_drifters:0 "Expand the Drifters"
+  frn_expand_drifters_desc:0 "Patrolling the desolate lands of the Fringe, the Drifters are quite effective at spotting and preventing raids. We must utilise their skills to prevent the raids."
+  
+  frn_new_walls:0 "New Walls"
+  frn_new_walls_desc:0 "They will break upon this walls like water on rock. Raiders will pillage and burn, we've seen it before. Crops can be resown. Homes rebuilt. Within these walls, we will outlast them."
+  
+  frn_pierce_armor:0 "Pierce Their Armor"
+  frn_pierce_armor_desc:0 "Raiders use advanced implants that allow them to shrug off attacks that would kill anyone else. Perhaps investing into higher caliber guns would prove useful." 
+  
+  frn_spill_their_blood:0 "Spill Their Blood"
+  frn_spill_their_blood_desc:0 "The people living in the fringes of Nebraska are used to fighting enemies that are stronger than them. We will spill their blood to show them they bleed like every other tyrant who dared to tread on us."
+  
+  frn_burn_bridges:0 "Burn The Bridges"
+  frn_burn_bridges_desc:0 "There are several bridges that connect the Fringelands to outside. Severing the land connection will hurt the raiders ability to traverse our terrain easily."
+  
+  frn_stand_vigilant:0 "Stand Vigilant"
+  frn_stand_vigilant_desc:0 ""
+  
+  frn_convene_brokenbow:0 "Broken Bow Convention"
+  frn_convene_brokenbow_desc:0 ""
+  
+  #Canton Path
+  
+  frn_dreams_of_unity:0 "Dreams of Unity"
+  frn_dreams_of_unity_desc:0 ""
+  
+  frn_drifter_betrayal:0 "Drifter Betrayal"
+  frn_drifter_betrayal_desc:0 ""
+  
+  frn_disband_drifters:0 "Breach of Contract"
+  frn_disband_drifters_desc:0 ""
+  
+  frn_settlement_guards:0 "Settlement Guards"
+  frn_settlement_guards_desc:0 ""
+  
+  frn_exchange_blueprints:0 "Exchange Blueprints"
+  frn_exchange_blueprints_desc:0 ""
+  
+  frn_research_base:0 "First Laboratories"
+  frn_research_base_desc:0 ""
+  
+  frn_new_horizons:0 "New Horizons"
+  frn_new_horizons_desc:0 ""
+  
+  frn_open_trade:0 "Open Trade"
+  frn_open_trade_desc:0 ""
+  
+  frn_basic_resources:0 "Basic Excavation"
+  frn_basic_resources_desc:0 ""
+  
+  frn_settle_immigrants:0 "Settle the Immigrants"
+  frn_settle_immigrants_desc:0 ""
+  
+  frn_settle_grievances:0 "Settle the Grievances"
+  frn_settle_grievances_desc:0 ""
+  
+  frn_relegate_power:0 "Relegate Power"
+  frn_relegate_power_desc:0 ""
+  
+  frn_secure_capital:0 "Secure the Capital"
+  frn_secure_capital_desc:0 ""
+  
+  frn_announce_confederation:0 "Announce the Confederation"
+  frn_announce_confederation_desc:0 ""
+  
+  #Drifter Path
+  
+  frn_drifters_nomore:0 "Drifters No More"
+  frn_drifters_nomore_desc:0 ""
+  
+  frn_disband_guards:0 "Get Rid of the Guards"
+  frn_disband_guards_desc:0 ""
+  
+  frn_subdue_populace:0 "Subdue the Populace"
+  frn_subdue_populace_desc:0 ""
+  
+  frn_end_autonomy:0 "End Their Autonomy"
+  frn_end_autonomy_desc:0 ""
+  
+  frn_war_research:0 "War Research"
+  frn_war_research_desc:0 ""
+  
+  frn_apurpose:0 "A Purpose"
+  frn_apurpose_desc:0 ""
+  
+  frn_chained_todesk:0 "Chained Researchers"
+  frn_chained_todesk_desc:0 ""
+  
+  frn_trade_outside:0 "Trade With Outsiders"
+  frn_trade_outside_desc:0 ""
+  
+  frn_fresh_blood:0 "Fresh Blood"
+  frn_fresh_blood_desc:0 ""
+  
+  frn_plaguebringers:0 "Plaguebringers"
+  frn_plaguebringers_desc:0 ""
+  
+  frn_slave_mines:0 "Miner Slaves"
+  frn_slave_mines_desc:0 ""
+  
+  frn_slave_labor:0 "Slave Labor"
+  frn_slave_labor_desc:0 ""
+  
+  frn_raid_neighbors:0 "Raid the Plaguelands"
+  frn_raid_neighbors_desc:0 ""
+  
+  frn_bane_nebraska:0 "Bane of Plaguelands"
+  frn_bane_nebraska_desc:0 ""
+
+  #Binary War
+  
+  frn_binary_war:0 "Binary War"
+  frn_binary_war_desc:0 ""
+  
+  frn_secrets_reavers:0 "Secrets of the Reavers"
+  frn_secrets_reavers_desc:0 ""
+  
+  frn_cleanse_altar:0 "Cleanse the Altar"
+  frn_cleanse_altar_desc:0 ""
+  
+  frn_cure_them:0 "Distribute the Cure"
+  frn_cure_them_desc:0 ""
+  
+  frn_blood_drives:0 "Blood Drives"
+  frn_blood_drives_desc:0 ""
+  
+  frn_fifth_canton:0 "Fifth Canton"
+  frn_fifth_canton_desc:0 ""
+  
+  frn_altar_ofourown:0 "Altar of Our Own"
+  frn_altar_ofourown_desc:0 ""
+  
+  frn_blood_for_service:0 "Blood For Service"
+  frn_blood_for_service_desc:0 ""
+  
+  frn_get_rid_troublemakers:0 "Get Rid of the Troublemakers"
+  frn_get_rid_troublemakers_desc:0 ""
+  
+  frn_loot_binary:0 "Loot the Binary"
+  frn_loot_binary_desc:0 ""
+
+  frn_allow_combined_syndicates:0 "New Syndicates"
+  frn_allow_combined_syndicates_desc:0 ""
+
+  frn_surplus_production:0 "Surplus Production"
+  frn_surplus_production_desc:0 ""
+
+  frn_work_for_the_front:0 "Work for the Front"
+  frn_work_for_the_front_desc:0 ""
+
+  frn_unite_the_syndicates:0 "Unite the Syndicates"
+  frn_unite_the_syndicates_desc:0 ""
+
+  frn_liberate_the_altar:0 "Liberate the Altar"
+  frn_liberate_the_altar_desc:0 ""
+
+  frn_life_without_exploitation:0 "Life Without Exploitation"
+  frn_life_without_exploitation_desc:0 ""
+
+  frn_work_for_blood:0 "Work for Blood"
+  frn_work_for_blood_desc:0 ""
+
+  frn_break_the_binary:0 "Break the Binary"
+  frn_break_the_binary_desc:0 ""
+  
+  frn_peoples_militia:0 "People's Militia"
+  frn_peoples_militia_desc:0 ""
+
+  frn_army_pathways:0 "Pathways for the Army"
+  frn_army_pathways_desc:0 ""
+
+  frn_hero_of_people:0 "Heroes of the People"
+  frn_hero_of_people_desc:0 ""
+
+  frn_hounds_of_glory:0 "Hounds of Glory"
+  frn_hounds_of_glory_desc:0 ""
+
+  frn_shady_dealings:0 "Shady Dealings"
+  frn_shady_dealings_desc:0 ""
+
+  frn_spoils_war:0 "Spoils of War"
+  frn_spoils_war_desc:0 ""
+
+  frn_absolute_loyalty:0 "Absolute Loyalty"
+  frn_absolute_loyalty_desc:0 ""
+
+  frn_victims_of_imperialism:0 "Victims of Imperialism"
+  frn_victims_of_imperialism_desc:0 ""
+
+  frn_the_dam_busted:0 "The Dam, Busted"
+  frn_the_dam_busted_desc:0 ""
+
+  frn_united_front:0 "The United Front"
+  frn_united_front_desc:0 ""
+
+  frn_protest_the_kill_order:0 "Protest the Kill Order"
+  frn_protest_the_kill_order_desc:0 ""
+
+  frn_outof_theshadows:0 "Out of the Shadows"
+  frn_outof_theshadows_desc:0 ""
+
+  frn_and_intothe_light:0 "And Into the Light"
+  frn_and_intothe_light_desc:0 ""
+
+  #State Building
+  
+  frn_proper_state:0 "A Proper State"
+  frn_proper_state_desc:0 ""
+  
+  frn_lessons_binarywar:0 "Lessons of Binary War"
+  frn_lessons_binarywar_desc:0 ""
+  
+  frn_federal_conscripts:0 "Federal Conscripts"
+  frn_federal_conscripts_desc:0 ""
+  
+  frn_enlist_arcadians:0 "Enlist the Arcadians"
+  frn_enlist_arcadians_desc:0 ""
+  
+  frn_arcadian_expertise:0 "Arcadian Expertise"
+  frn_arcadian_expertise_desc:0 ""
+  
+  frn_tribal_teachings:0 "Tribal Teachings"
+  frn_tribal_teachings_desc:0 ""
+  
+  frn_forged_bysteel:0 "Forged by Steel"
+  frn_forged_bysteel_desc:0 ""
+  
+  frn_steeltown_factories:0 "Steeltown Factories"
+  frn_steeltown_factories_desc:0 ""
+  
+  frn_steeltown_brigade:0 "Steeltown Brigade"
+  frn_steeltown_brigade_desc:0 ""
+  
+  frn_binary_lords:0 "Binary Lords"
+  frn_binary_lords_desc:0 ""
+  
+  frn_heart_ofdarkness:0 "Heart of Darkness"
+  frn_heart_ofdarkness_desc:0 ""
+  
+  frn_inhumane_perfection:0 "Inhumane Perfection"
+  frn_inhumane_perfection_desc:0 ""
+  
+  frn_thrice_landlocked:0 "Thrice Landlocked"
+  frn_thrice_landlocked_desc:0 ""
+  
+  frn_mississippi_fisheries:0 "Mississippi Fisheries"
+  frn_mississippi_fisheries_desc:0 ""
+  
+  frn_weaken_defences:0 "Weaken Defences"
+  frn_weaken_defences_desc:0 ""
+  
+  frn_contact_colorado:0 "Contact Colorado"
+  frn_contact_colorado_desc:0 ""
+  
+  frn_breach_blockade:0 "Breach Blockade"
+  frn_breach_blockade_desc:0 ""
+  
+  frn_red_cross:0 "Red Cross"
+  frn_red_cross_desc:0 ""
+  
+  frn_cure_research:0 "Cure Research"
+  frn_cure_research_desc:0 ""
+  
+  frn_rapid_industry:0 "Rapid Industry"
+  frn_rapid_industry_desc:0 ""
+  
+  frn_torch_of_civilisation:0 "Torch of Civilisation"
+  frn_torch_of_civilisation_desc:0 ""
+  
+  frn_mountain_folk:0 "Mountain Folk"
+  frn_mountain_folk_desc:0 ""
+  
+  frn_settle_tribes:0 "Settle Tribes"
+  frn_settle_tribes_desc:0 ""
+  
+  frn_locus_amoenus:0 "Locus Amoenus"
+  frn_locus_amoenus_desc:0 ""
+  
+  frn_private_security:0 "Private Security"
+  frn_private_security_desc:0 ""
+  
+  frn_iron_allies:0 "Iron Allies"
+  frn_iron_allies_desc:0 ""
+  
+  frn_man_ofsteel:0 "Man of Steel"
+  frn_man_ofsteel_desc:0 ""
+  frn_new_advisor_tt:0 "§G This will unlock a new advisor. §!"
+  
+  frn_01010100_01100001_01110010:0 "01010100 01100001 01110010"
+  frn_01010100_01100001_01110010_desc:0 ""
+  
+  frn_crack_code:0 "Crack the Code"
+  frn_crack_code_desc:0 ""
+  
+  frn_diagnose_their_condition:0 "Diagnose Their Condition"
+  frn_diagnose_their_condition_desc:0 ""
+  
+  frn_expand_confederacy:0 "Expand the Confederation"
+  frn_expand_confederacy_desc:0 ""
+  frn_claims_tt:0 "§GWe will gain claims on every nation inside the Plaguelands.§!"
+  
+  frn_national_guard:0 "Establish the National Guard"
+  frn_national_guard_desc:0 ""
+  
+  frn_bust_their_dam:0 "Bust Their Dam"
+  frn_bust_their_dam_desc:0 ""
+  
+  frn_reclaim_the_reclaimers:0 "Reclaim the Reclaimers"
+  frn_reclaim_the_reclaimers_desc:0 ""
+  
+  frn_coming_deadline:0 "Coming Deadline"
+  frn_coming_deadline_desc:0 ""
+  
+  frn_forlorn_attempt:0 "A Forlorn Attempt"
+  frn_forlorn_attempt_desc:0 ""
+  
+  frn_nebraska_confederation:0 "Nebraska Confederation"
+  frn_nebraska_confederation_desc:0 ""
+  frn_25_percent_core_cost_reduction_tt:0 "§GWe will gain a 20% reduction on coring costs.§!"
+  
+  #Confederation Expansion
+  
+  frn_ordoabchao:0 "Ordo Ab Chao"
+  frn_ordoabchao_desc:0 ""
+  
+  frn_patriarchs_zeal:0 "Patriarch's Zeal"
+  frn_patriarchs_zeal_desc:0 ""
+  
+  frn_curator_council: "Curator Council"
+  frn_curator_council_desc: ""
+  
+  frn_mercy_forthe_sisters:0 "Mercy for the Sisters"
+  frn_mercy_forthe_sisters_desc:0 ""
+  
+  frn_angels_took_nebraska:0 "The Angels Took Nebraska"
+  frn_angels_took_nebraska_desc:0 ""
+  
+  frn_fix_software:0 "Software Fixes"
+  frn_fix_software_desc:0 ""
+  
+  frn_trapclap:0 "Trapclap"
+  frn_trapclap_desc:0 ""
+  
+  frn_new_citizens:0 "Our New Citizens"
+  frn_new_citizens_desc:0 ""
+  
+  frn_new_jericho:0 "New Jericho"
+  frn_new_jericho_desc:0 ""
+  
+  frn_time_is_up:0 "Time Is Up"
+  frn_time_is_up_desc:0 ""
+  
+  frn_armando_advisor:0 "End Armando's Exile"
+  frn_armando_advisor_desc:0 ""
+  
+  frn_reroute_power:0 "Reroute Power"
+  frn_reroute_power_desc:0 ""
+  
+  frn_nebraska_engineer_corps:0 "Nebraska Engineer Corps"
+  frn_nebraska_engineer_corps_desc:0 ""
+  
+
+  #Raiders Haven
+  
+  frn_raider_haven:0 "A Haven For Raiders"
+  frn_raider_haven_desc:0 ""
+  
+  frn_new_bodyguards:0 "New Bodyguards"
+  frn_new_bodyguards_desc:0 ""
+  
+  frn_raider_code:0 "Raider Code"
+  frn_raider_code_desc:0 ""
+  
+  frn_promote_loyal_raiders:0 "Promote Loyal Raiders"
+  frn_promote_loyal_raiders_desc:0 ""
+  
+  frn_iron_mercenaries:0 "Iron Mercenaries"
+  frn_iron_mercenaries_desc:0 ""
+  
+  frn_edge_of_glory:0 "Edge of Glory"
+  frn_edge_of_glory_desc:0 ""
+  
+  frn_east_takeover:0 "Eastern Takeover"
+  frn_east_takeover_desc:0 ""
+  
+  frn_west_takeover:0 "Western Takeover"
+  frn_west_takeover_desc:0 ""
+  
+  frn_cleanup:0 "Cleanup"
+  frn_cleanup_desc:0 ""
+  
+  frn_subdue_west:0 "Subdue the West"
+  frn_subdue_west_desc:0 ""
+  
+  frn_clean_slate:0 "Clean the Slate"
+  frn_clean_slate_desc:0 ""
+  
+  frn_subdue_east:0 "Subdue the East"
+  frn_subdue_east_desc:0 ""
+  
+  frn_implant_experiments:0 "Implant Experiments"
+  frn_implant_experiments_desc:0 ""
+  
+  frn_raiding_experience:0 "History of Raiding"
+  frn_raiding_experience_desc:0 ""
+  
+  frn_invite_slavers:0 "Invite Slavers"
+  frn_invite_slavers_desc:0 ""
+  
+  frn_fake_refuge:0 "Trick the Refugees"
+  frn_fake_refuge_desc:0 ""
+  
+  frn_enslave_mountain_folk:0 "Enslave the Mountain Folk"
+  frn_enslave_mountain_folk_desc:0 ""
+  
+  frn_useful_few:0 "Useful Few"
+  frn_useful_few_desc:0 ""
+  
+  frn_new_sons:0 "New Sons"
+  frn_new_sons_desc:0 ""
+  
+  frn_slave_trade:0 "Slave Trade"
+  frn_slave_trade_desc:0 ""
+  
+  frn_slave_hub:0 "Slave Hub"
+  frn_slave_hub_desc:0 ""
+  
+  frn_old_world_armory:0 "Old World Armories"
+  frn_old_world_armory_desc:0 ""
+  
+  frn_brand_new_weapons:0 "Brand New Weapons"
+  frn_brand_new_weapons_desc:0 ""
+  
+  frn_vaporise_opposition:0 "Vaporise Opposition"
+  frn_vaporise_opposition_desc:0 ""
+  
+  frn_quarantine_armor:0 "Quarantine Armor"
+  frn_quarantine_armor_desc:0 ""
+  
+  frn_oldtown_renovation:0 "Oldtown Renovation"
+  frn_oldtown_renovation_desc:0 ""
+  
+  frn_visionof_steel:0 "Vision of Steel"
+  frn_visionof_steel_desc:0 ""
+
+  #Anarchosyndicalism
+
+  frn_nebraska_in_our_hearts:0 "Nebraska In Our Hearts"
+  frn_nebraska_in_our_hearts_desc:0 ""
+
+  frn_secure_the_revolution:0 "Secure the Revolution"
+  frn_secure_the_revolution_desc:0 ""
+  frn_secure_the_revolution_tt:0 "§GThis will spawn 3 elite revolutionary guards.§!"
+
+  frn_reach_out_to_federalists:0 "Reach Out to the Federalists"
+  frn_reach_out_to_federalists_desc:0 ""
+
+  frn_purge_the_drifters:0 "Purge the Drifters"
+  frn_purge_the_drifters_desc:0 ""
+
+  frn_land_and_freedom:0 "Land and Freedom"
+  frn_land_and_freedom_desc:0 ""
+  frn_land_and_freedom_tt:0 "§GA random state will become one of our core states!§!"
+
+  frn_collectivised_land:0 "Collectivised Land"
+  frn_collectivised_land_desc:0 ""
+
+  frn_collectivised_agriculture:0 "Collectivised Agriculture"
+  frn_collectivised_agriculture_desc:0 ""
+
+  frn_repair_the_factories:0 "Repair the Factories"
+  frn_repair_the_factories_desc:0 ""
+
+  frn_guns_of_our_labor:0 "Guns of our Labor"
+  frn_guns_of_our_labor_desc:0 ""
+
+  frn_reopen_the_mines:0 "Reopen the Mines"
+  frn_reopen_the_mines_desc:0 ""
+
+  frn_finalise_collectivisation:0 "Finalize the Collectivisation"
+  frn_finalise_collectivisation_desc:0 ""
+
+  frn_self_managed_industry:0 "Self-Managed Industry"
+  frn_self_managed_industry_desc:0 ""
+
+  frn_form_councils:0 "Form Defense Councils"
+  frn_form_councils_desc:0 ""
+
+  frn_nevada_defence_council:0 "Defense Council of Nevada"
+  frn_nevada_defence_council_desc:0 ""
+
+  frn_texas_defence_council:0 "Defense Council of Texas"
+  frn_texas_defence_council_desc:0 ""
+
+  frn_utah_defence_council:0 "Defense Council of Utah"
+  frn_utah_defence_council_desc:0 ""
+
+  frn_california_defence_council:0 "Defense Council of California"
+  frn_california_defence_council_desc:0 ""
+
+  frn_colorado_defence_council:0 "Defense Council of Colorado"
+  frn_colorado_defence_council_desc:0 ""
+
+  frn_arizona_defence_council:0 "Defense Council of Arizona"
+  frn_arizona_defence_council_desc:0 ""
+
+  frn_oregon_defence_council:0 "Defense Council of Oregon"
+  frn_oregon_defence_council_desc:0 ""
+
+  frn_liberate_arizona:0 "Liberate Arizona"
+  frn_liberate_arizona_desc:0 ""
+
+  frn_liberate_texas:0 "Liberate Texas"
+  frn_liberate_texas_desc:0 ""
+
+  frn_liberate_california:0 "Liberate California"
+  frn_liberate_california_desc:0 ""
+
+  frn_liberate_oregon:0 "Liberate Oregon"
+  frn_liberate_oregon_desc:0 ""
+
+  frn_liberate_nevada:0 "Liberate Nevada"
+  frn_liberate_nevada_desc:0 ""
+
+  frn_liberate_utah:0 "Liberate Utah"
+  frn_liberate_utah_desc:0 ""
+
+  frn_liberate_colorado:0 "Liberate Colorado"
+  frn_liberate_colorado_desc:0 ""
+
+  frn_human_wave_tactics:0 "Human Wave Tactics"
+  frn_human_wave_tactics_desc:0 ""
+
+  frn_combined_syndicates_america:0 "Combined Syndicates of America"
+  frn_combined_syndicates_america_desc:0 ""
+
+  frn_self_ownership_guns:0 "Self Ownership of Guns"
+  frn_self_ownership_guns_desc:0 ""
+
+  frn_for_whom_bell_tolls:0 "For Whom The Bell Tolls"
+  frn_for_whom_bell_tolls_desc:0 ""
+
+  frn_robot_robot_revolution:0 "Robot Robot Revolution"
+  frn_robot_robot_revolution_desc:0 ""
+
+  frn_revolutionary_programming:0 "Revolutionary Programming"
+  frn_revolutionary_programming_desc:0 ""
+
+  frn_unionise_the_forlorn:0 "Unionise the Forlorn"
+  frn_unionise_the_forlorn_desc:0 ""
+
+  frn_abolish_prison:0 "Prison Reform"
+  frn_abolish_prison_desc:0 ""
+
+  frn_womens_brigade:0 "Women's Brigade"
+  frn_womens_brigade_desc:0 ""
+
+  frn_war_has_changed:0 "War Has Changed"
+  frn_war_has_changed_desc:0 ""
+
+  frn_nogods_nomasters:0 "No Gods, No Masters"
+  frn_nogods_nomasters_desc:0 ""
+
+  frn_the_dispossessed:0 "The Dispossessed"
+  frn_the_dispossessed_desc:0 ""
+
+  frn_chaos_from_order:0 "Chaos from Order"
+  frn_chaos_from_order_desc:0 ""
+
+  frn_revolutionary_crusade:0 "Revolutionary Crusade"
+  frn_revolutionary_crusade_desc:0 ""
+
+  frn_paint_red_black:0 "Paint it Red-Black"
+  frn_paint_red_black_desc:0 ""
+
+  frn_homage_to_california:0 "Homage to California"
+  frn_homage_to_california_desc:0 "Say of them, They are no longer young, they never learned \n The arts, the stealth of peace, this peace, the tricks of fear; \n And what they knew, they know \n And what they dared they dare."
+  frn_homage_to_california_tt:0 "§GWe will send a volunteer brigade to California to fight against the Legion's tyranny. They shall not pass!§!"
+
+  frn_they_died_to_make_deserts_bloom:0 "They Died to Make the Deserts Bloom"
+  frn_they_died_to_make_deserts_bloom_desc:0 "They gave up everything, their homes, their country, home and fortune- fathers, mothers, wives, brothers, sisters and children, and they came and told us: "We are here, your cause, California's cause, is ours. It is the cause of all advanced and progressive mankind." Today they are going away. Many of them hundreds of them, are staying here with the Californian soil for their shroud, and all Californians remember them with the deepest feeling."
+
+  frn_protect_the_protectors:0 "Protect the Protectors"
+  frn_protect_the_protectors_desc:0 ""
+
+  frn_por_vuestra_libertad_yla_nuestra:0 "Por Vuestra Libertad, y la Nuestra"
+  frn_por_vuestra_libertad_yla_nuestra_desc:0 ""
+
+  frn_doctors_without_borders:0 "Doctors Without Borders"
+  frn_doctors_without_borders_desc:0 ""
+
+  frn_anarchism_knows_no_borders:0 "Anarchism Knows No Borders"
+  frn_anarchism_knows_no_borders_desc:0 ""
+
+  frn_radical_equality:0 "Radical Equality"
+  frn_radical_equality_desc:0 ""
+
+  frn_everybody_for_the_cause:0 "Everybody for the Cause!"
+  frn_everybody_for_the_cause_desc:0 ""
+
+  frn_one_vision:0 "One Vision"
+  frn_one_vision_desc:0 ""
+
+  frn_land_of_titans:0 "Land of Titans"
+  frn_land_of_titans_desc:0 ""
+
+  frn_spectre_that_haunts_mexico:0 "A Spectre Haunts Mexico"
+  frn_spectre_that_haunts_mexico_desc:0 ""
+
+  frn_reach_out_zapatistas:0 "Reach Out to Zapatistas"
+  frn_reach_out_zapatistas_desc:0 ""
+
+  frn_amari_usque_admare:0 "A Mari Usque Ad Mare"
+  frn_amari_usque_admare_desc:0 ""
+
+  frn_even_an_immortal_bleed:0 "Even Immortals Can Bleed"
+  frn_even_an_immortal_bleed_desc:0 "The world will know that free men stood against a tyrant, that few stood against many, and before this battle was over, even the Immortals can bleed."
+
+  frn_mermaid_vs_sailor:0 "Mermaid vs. Sailor"
+  frn_mermaid_vs_sailor_desc:0 ""
+
+  frn_liberty_enlightening_world:0 "Liberty Enlightening the World"
+  frn_liberty_enlightening_world_desc:0 ""
+  frn_liberty_enlightening_world_tt:0 "§OWe will launch an expedition to bring the torch of liberty to the lawless wastes of South America."
+
+  #Ideas
+
+  frn_idea_thedrifters:0 "The Drifters"
+  frn_idea_thedrifters_desc:0 "Without any sort of united government, [FRN.GetName] lacks a unified army. The only unit standing between them and certain annihilation are the Drifters, hardened adventures paid in cap and beer at the Broken Bow Inn."
+  
+  frn_idea_thedrifters_2:0 "The Drifters"
+  frn_idea_thedrifters_2_desc:0 ""
+  
+  frn_idea_thedrifters_3:0 "Settlement Guards"
+  frn_idea_thedrifters_3_desc:0 ""
+  
+  frn_binary_raids:0 "Binary Raids"
+  frn_binary_raids_desc:0 ""
+  
+  frn_the_refuge:0 "The Refuge"
+  frn_the_refuge_desc:0 "We shall go on to the end. We shall fight in the homesteads, we shall fight on the roads and highways, we shall fight with growing confidence and growing strength in the air, we shall defend our Refuge, whatever the cost may be. We shall fight on the fronts, we shall fight on the farms, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender."
+
+  frn_disunited_researchbase:0 "Disunited Research Base"
+  frn_disunited_researchbase_desc:0 "Every settlement on our lands have different attitude towards technology. While some prefer the simple living of tribal life, some prefer the safety of the power armor. Despite all this however, lack of a centralised research base severely limits research output."
+
+  frn_disunited_researchbase_2:0 "Ineffective Research Methods"
+  frn_disunited_researchbase_2_desc:0 ""
+  
+  frn_cure_production:0 "Cure Production"
+  frn_cure_production_desc:0 ""
+  
+  frn_rapid_industrialisation:0 "Rapid Industrialisation"
+  frn_rapid_industrialisation_desc:0 ""
+  
+  frn_idea_slave_trade:0 "Slave Trade"
+  frn_idea_slave_trade_desc:0 ""
+  
+  frn_idea_new_bodyguards:0 "New Bodyguards"
+  frn_idea_new_bodyguards_desc:0 ""
+
+  frn_idea_revolutionary_fervor:0 "Revolutionary Fervor"
+  frn_idea_revolutionary_fervor_desc:0 ""
+
+  frn_anarchist_economy:0 "Anarchist Economy"
+  frn_anarchist_economy_desc:0 ""
+
+  frn_workers_resistance:0 "Worker's Resistance"
+  frn_workers_resistance_desc:0 ""
+
+  frn_anarchism_knows_no_borders_idea:0 "Anarchism Knows No Borders"
+  frn_anarchism_knows_no_borders_idea_desc:0 ""
+
+  frn_paint_red_black_idea:0 "Paint it Red-Black"
+  frn_paint_red_black_idea_desc:0 ""
+
+  frn_arz_memories_of_resistance:0 "Memories of Resistance"
+  frn_arz_memories_of_resistance_desc:0 ""
+
+  frn_cal_spirit_of_freedom:0 "Memories of Liberty"
+  frn_cal_spirit_of_freedom_desc:0 ""
+
+  frn_uta_memories_of_innocence:0 "Memories of Innocence"
+  frn_uta_memories_of_innocence_desc:0 ""
+
+  frn_nev_memories_of_resilience:0 "Memories of Resilience"
+  frn_nev_memories_of_resilience_desc:0 ""
+
+  frn_tex_memories_of_sacrifice:0 "Memories of Sacrifice"
+  frn_tex_memories_of_sacrifice_desc:0 ""
+  
+  frn_col_memories_of_rebirth:0 "Memories of Rebirth"
+  frn_col_memories_of_rebirth_desc:0 ""
+
+  frn_ore_memories_of_tyrants:0 "Memories of Tyrants"
+  frn_ore_memories_of_tyrants_desc:0 ""
+
+  frn_memories_of_america:0 "Memories of America"
+  frn_memories_of_america_desc:0 ""
+  frn_memories_of_america_tt:0 "§GThis will merge our previous ideas into one.§!"
+  
+  frn_idea_raider_code:0 "Raider Code"
+  frn_idea_raider_code_desc:0 ""
+  
+  #Events
+
+  nf_frn_event.1.t:0 "The Quarantine"
+  nf_frn_event.1.desc:0 ""
+  nf_frn_event.1.a:0 ""
+  nf_frn_event.1.b:0 ""
+
+  nf_frn_event.2.t:0 "The Outbreak"
+  nf_frn_event.2.desc:0 ""  
+  nf_frn_event.2.a:0 ""
+  nf_frn_event.2.b:0 ""
+
+  nf_frn_event.3.t:0 "End of it All"
+  nf_frn_event.3.desc:0 ""
+  nf_frn_event.3.a:0 ""
+  nf_frn_event.3.b:0 ""
+
+  nf_frn_event.4.t:0 "The Coming Storm"
+  nf_frn_event.4.desc:0 ""
+  nf_frn_event.4.a:0 ""
+  nf_frn_event.4.b:0 ""
+
+  nf_frn_event.5.t:0 "Brokenbow Convention"
+  nf_frn_event.5.desc:0 ""
+  nf_frn_event.5.a:0 "We need to unify our people"
+  nf_frn_event.5.b:0 "Perhaps might is right, so to speak."
+  nf_frn_event.5.c:0 "Every power corrupts, workers will manage themselves."
+
+  nf_frn_event.6.t:0 "They Died to Make the Deserts Bloom"
+  nf_frn_event.6.desc:0 "News of a Legion victory on Mojave have reached our country. Only a handful of our volunteers have returned, with most making a stand on the Dam to cover the retreat of the main NCR army. Few of them made a last stand at Shady Sands, going from street to street, building to building, saving many civilians from the hands of a cruel fate under the Legion. \n\n We will always have California in our hearts. It was there that we learned that one can be right and yet be beaten, that force can vanquish spirit and that there are times when courage is not rewarded. "
+  nf_frn_event.6.a:0 "They won't be forgotten."
+
+  #Misc
+  
+  VICTORY_POINTS_4457:0 "Oldtown"
+  VICTORY_POINTS_2476:0 "Arcadia"
+  VICTORY_POINTS_3988:0 "New Jericho"

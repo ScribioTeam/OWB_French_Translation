@@ -39,8 +39,6 @@
   ncr_rangerhq:0 "Expand Ranger HQ"
   ncr_rangerhq_desc:0 "Located far from the hustle and bustle of the Hall of Congress, and disassociated from the NCR Military Academy, is a small three-story building. At a glance, no one would ever suspect that this little complex is the heart of one of the most dangerous fighting forces the Wasteland has ever seen, the NCR Rangers."
 
-  ncr_gammacore:0 "The Gamma Corps"
-  ncr_gammacore_desc:0 "Often, mutants live isolated lives, one or two in a given community doing jobs that suit their immense physical stature. Mutants are barred from the general NCR military, along with ghouls, due to the impact their presence can have on the morale of the ordinary conscript; however, the NCR rangers have no such gripes."
 
   ncr_reorgranger:0 "Ranger Reorganization"
   ncr_reorgranger_desc:0 "The nature of the NCR Rangers is a complicated one, as it has for decades functioned as an entity separate to the NCR military. No more! The NCR Rangers shall be reorganized and integrated into the military proper, serving as the elite corps of the army, meant to deal with any danger that is too dangerous or important for the ordinary soldier to deal with."
@@ -265,8 +263,6 @@
   ncr_bearport:0 "The Bearport"
   ncr_bearport_desc:0 "The NCR has been behind on technological innovation for decades, instead relying heavily on its superiority on land. However, in the Boneyard a vast and mostly intact airport has lain dormant for over a century. A new grant for the renewal of this location has been approved by the congress."
 
-  ncr_followers:0 "Funding the Followers"
-  ncr_followers_desc:0 "The Followers of the Apocalypse have always done well by the NCR, and it's time that the favour was returned! Volunteers and doctors are being sent to this organization by the dozen, and official funding from the regional Boneyard promises to grow their organization so that it might better help the people of the NCR."
 
   ncr_bearforceexpansion:0 "Expanding the Bear Force"
   ncr_bearforceexpansion_desc:0 "The aptly named Bear Force of the NCR is, among other things, underfunded and lacking in expertise. However, expansion is still something that is being invested in by the NCR, and a reallocation of funding, as well as guidance from a number of pre-war ghouls, should hopefully expand the NCR's capacity to wage war in the skies."
@@ -338,66 +334,6 @@
   ncr_newwall:0 "The New Wall"
   ncr_newwall_desc:0 "Junktown has always had an iconic aesthetic, a budding city ringed with numerous walls made from ancient vehicles and wrecks. Every few decades, another layer is added to contain the ever expanding population, and it is time that the newest outer sprawl be brought within the confines of this layered defence."
 
-  ncr_bearsroar:0 "The Bear Roars"
-  ncr_bearsroar_desc:0 "The NCR's military is the strongest in all of the wasteland, tens of thousands of men and women who are both well equipped and reasonably drilled. These men and women are backed up by a dedicated and capable logistics core, the supreme talent and skill of the Rangers, and an undeniable dedication to civilization in the wasteland. When the Bear Roars, the wasteland trembles."
-
-  ncr_standardarms:0 "Weapon Standardization"
-  ncr_standardarms_desc:0 "The NCR has been having certain issues with equipping its infantry, not due to a lack of firearms, but due to an overwhelming variety. Numerous small manufacturers produce innumerable weapons for the NCR, some of which take different ammunition or break after brief amounts of use. This inconsistency has caused hell for our forces in the field."
-
-  ncr_grdeals:0 "Gun Runner Deal "
-  ncr_grdeals_desc:0 "The group most suited to aiding in the standardization of the NCR's military equipment would have to be the gun runners, who pride overt quality and standards above any other group in the wasteland. By paying the Gun Runners to send experts to oversee weapon manufacturing across the wasteland, we should be able to increase the quality of our weapons in general."
-
-  ncr_grliscense:0 "Gun Runner Licensing"
-  ncr_grliscense_desc:0 "The Gun Runners have quickly proven themselves as the superior weaponsmiths in the wasteland, and more so, our recent efforts to fund them have put them into a position where they can sustain a far greater output in a reliable way. Efforts are already being made in congress to make them the sole provider of firearms to the NCR's military, we need only approve this motion."
-
-  ncr_drummond1:0 "Drummond's Army "
-  ncr_drummond1_desc:0 "Alexander Drummond is obsessed with the armies of the old world, and has spent much of his long life studying the tactics of the old world. The unification of arms and overeager integration of transport vehicles, artillery and the overwhelming firepower of tanks. Drummond dreams of an NCR military that has the tools to deal with any foe."
-
-  ncr_blast:0 "Blast from the Past"
-  ncr_blast_desc:0 "The cannon revolutionized warfare, rewriting the playbook time and time again. It seems that the wasteland has forgotten the cannon, for so many nations forgo its usage. However, the NCR is in a unique position to gather and make use of such weapons; something Drummond fully intends to do."
-
-  ncr_mobile:0 "Army of Mobility "
-  ncr_mobile_desc:0 "The ability to move troops and supplies from place to place is a key feature in any army, and while the NCR has some capacity to do this, it is currently treated as an afterthought to be used in choice situations, rather than as an element of core NCR doctrine. This must be remedied if the NCR is to push forward militarily."
-
-  ncr_spear:0 "The Tip of the Spear "
-  ncr_spear_desc:0 "Drummond has spent decades collecting information from scattered libraries and military installations, exploring the usage of the now elusive tank through the ages. Warfare in the wasteland, and the limited volume of tanks has made the vast majority of these tactics invalid, yet it has also given Drummond the insight needed to formulate his own new doctrine of vehicular warfare."
-
-  ncr_jim:0 "Big Jim's Army "
-  ncr_jim_desc:0 "Big Jim is not a particularly complicated man when it comes to tactic, he values bravery and loyalty in his troops above any particular strategy or methodology. In many ways, this makes Big Jim's army overwhelmingly inflexible, but at the end of the day? The introduction of simple drills once taught to him by the Desert Ranger should allow the NCR's average soldier to rise to new heights."
-
-  ncr_drills:0 "Infantry Drills"
-  ncr_drills_desc:0 "As odd as it may seem, one of the first things the Big Jim elected to do after being appoint as leader of the NCR's military was to reinvent the wheel when it came to their incredibly rudimentary infantry drills. The integration of simple squad tactics and more complicated marksmanship and urban assault tactics should have a marked improvement on the average soldier in the NCR's Military."
-
-  ncr_march:0 "Military March "
-  ncr_march_desc:0 "The marching drills of Big Jim have been met with resounding frustration from the average soldier, who loathes the idea of marching for days on end even after one has met the physical requirements. The point of these exercises is to increase the overall mobility of infantry as a unit, rather than individuals. This standardization of mobility and increased mileage on foot soldiers is a general boon."
-
-  ncr_draft:0 "The Big Jim Draft"
-  ncr_draft_desc:0 "The Big Jim Draft is something few people actually expected to see, as many in the NCR feel that conscription is one of the leading issues in relation to the quality of the NCR's military forces, yet as Jim's doctrine stresses the importance of overwhelming numbers of high quality infantry, the need to enlist more men and women, willing or otherwise, is a necessity."
-
-  ncr_olivers_pet_project:0 "Oliver's Pet Project"
-  ncr_olivers_pet_project_desc:0 "Oliver always figured that NCR Heavy Troopers could play a pivotal role in the fighting in Arizona. If we were to conquer a Brotherhood outpost we could begin deconstructing old sets of power armour to figure out how they work!"
-
-  ncr_rangergenmossman:0 "Mossman's Army"
-  ncr_rangergenmossman_desc:0 "Ranger General Mossman has something of a disdain for the average soldier in the NCR, and views them as an awkward, blunt tool, better for pinning an enemy down than actually accomplishing anything in particular. To this end, he believes in the expansion and increased importance of the Rangers, and instead puts much of his funding towards improving them."
-
-  ncr_rangercore:0 "The New Ranger Corps"
-  ncr_rangercore_desc:0 "The increased funding, diverted from that usually given to the NCR's common army, has had a notable impact on the Rangers in general. Superior facilities and the lion's share of able bodied recruits has enabled them to grow in number and quality, with propaganda stating again and again that the Ranger Corps has never been stronger."
-
-  ncr_rangerlead:0 "Rangers Lead the Way"
-  ncr_rangerlead_desc:0 "Rangers are, above all other things, special forces capable of infiltration and reconnaissance. Ranger General Mossman employs a relatively simple approach to large scale engagement, one that involves using rangers to scout ahead of a main body of infantry in order to assess the ideal location for an engagement and to counter any and all moves an enemy might make."
-
-  ncr_rangercanopeners:0 "Ranger Can-Openers"
-  ncr_rangercanopeners_desc:0 "Ranger General Mossman, like many within the NCR Rangers, feel that the Brotherhood of Steel are easily the most dangerous threat that the NCR faces to this date, a thorn in the side of the republic who use their advanced technology to bully the commonfolk of the NCR. To this end, special drills and tactics are being developed by the Rangers, informally referred to as can opener techniques."
-
-  ncr_mechcore:0 "Mechanized Corps"
-  ncr_mechcore_desc:0 "The NCR is one of the few nations in the world capable of sustaining a sizeable fleet of support vehicles and motorized support. While these vehicles fill a largely logistical role, on rare occasion one can find these divisions risked on daring envelopment techniques against the NCR's more slippery foes."
-
-  ncr_shock:0 "Shock Companies"
-  ncr_shock_desc:0 "The introduction of the APC to the NCR's military could be a game-changer in wars against more powerful foes, such as the Legion or the Brotherhood of Steel. To this end, the mass production of vehicles for so called 'shock battalions' has become a priority for those in the highest echelons of military command."
-
-  ncr_rapid:0 "Rapid Advance Doctrine"
-  ncr_rapid_desc:0 "The Motorized corps of the NCR is in many ways, a separate entity to the army itself. It shares few commanders and has incompatible tactics and strategies when in battle. The improved integration of these forces and a greater unity in tactics could allow the NCR to make better use of this valuable strategic advantage."
-
   ncr_rapid2:0 "The True Rapids"
   ncr_rapid2_desc:0 "Don't let the tribals fool you, we will head into enemy territory directly."
 
@@ -406,9 +342,6 @@
 
   ncr_rapidannexation:0 "Rapid Annexation"
   ncr_rapidannexation_desc:0 "Across the Colorado River lies Caesar's Legion, a rapidly expanding nation with a penchant for absorbing and annexing independent tribes. On our side of the Colorado lies the Rapids, a sternly independent tribe that runs from Los Algodones all the way up to Tumblehome. Were the legion to cross in the south and attack them, our Heartlands would be exposed, thus we must take matters into our own hands and annex the Rapids. "
-
-  ncr_rapidsettlement:0 "Rapid Settlement"
-  ncr_rapidsettlement_desc:0 "Now that the Rapids has been pacified, we should invest settlers and farmers into the area to strengthen our hold on the territory. It will be costly in both manpower and industry, but in the end we should have a firm grasp on the area."
 
   ncr_expandthefrontier:0 "Expand the Frontier"
   ncr_expandthefrontier_desc:0 "The Umbra tribe have been raiding our caravans travelling along the northern banks of California for some time. We should put them in their place and penalize them for harming NCR citizens."
@@ -425,17 +358,8 @@
   ncr_purchasescrapheapandkettle:0 "Negotiate for Scrapheap and Teakettle"
   ncr_purchasescrapheapandkettle_desc:0 "The Ranger state is one constantly mired in warfare with surrounding gangs and tribes, with little to produce and much of their budget going towards the military, they may be willing to sell a few of their territories for caps..."
 
-  ncr_opentheeasternroute:0 "Open up the Eastern Route"
-  ncr_opentheeasternroute_desc:0 "The route through Mountain Springs and Mountain Springs could make for a major trading and supply route, but at the current moment the settlers inhabiting the Divide have block all of our attempts to move materials into the Mojave. This cannot stand."
-
-  ncr_developtheeasternroute:0 "Develop the Eastern Route"
-  ncr_developtheeasternroute_desc:0 "Now that we've pacified Mountain Springs and have access to the trade route, we can go about laying down infrastructure and digging wells. This will both endear the local population to us, and make transportation of goods easier."
-
   ncr_fortifytheeasternroute:0 "Fortify the Eastern Route"
   ncr_fortifytheeasternroute_desc:0 "The now thriving Eastern route into the Mojave will almost certainly make for a tempting target for parties that wish to undermine our place in the Mojave, we should seek to fortify our side of the route."
-
-  ncr_fundcrimsoncaravan:0 "Fund the Mojave Crimson Caravan"
-  ncr_fundcrimsoncaravan_desc:0 "With an increase in supply and easier access to the Mojave, various firms have shown interest in opening offices in the frontier. The Crimson Caravan is one of them, with a bit of funding we could prop up their efforts."
 
   ncr_manifestdestiny:0 "Manifest Destiny Realized"
   ncr_manifestdestiny_desc:0 "The Old World idea of Manifest Destiny, that our nation is so great in it's ideals and practice that surely it should spread as far as the continent will let it, is an idea we can capitalize on by hoisting our recent frontier successes into the spotlight."

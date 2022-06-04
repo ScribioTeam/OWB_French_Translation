@@ -1,3 +1,8 @@
 ﻿l_english:
   generic_unlock_focus_tt:0 "§RRequires [Root.GetUnlockFocusName]§!"
   generic_unlock_focus_completed_tt:0 "§GCompleted§!"
+  generic_rapid_military_deployment: "Rapid Military Deployment"
+  cant_faction_call_tt: "§RCannot call faction allies into our wars.§!"
+  cant_faction_call: "Can Not Call Allies into Wars"
+  cant_faction_join_tt: "§RCannot join this allies wars.§!"
+  cant_faction_join: "Can Not Join Allies Wars"

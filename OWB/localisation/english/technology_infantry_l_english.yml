@@ -123,15 +123,15 @@
   texas_brotherhood_pa_tech:0 "Vault-Tec Power Armour"
   texas_brotherhood_pa_tech_desc:0 "A vault-tec attempt at creating functional power armour."
 
-  spec_ops_equipment_tech_1:0 "Special forces Gear 1"
+  spec_ops_equipment_tech_1:0 "Special Forces Gear Tier 1"
   spec_ops_equipment_tech_1_desc:0 ""
-  spec_ops_equipment_tech_2:0 "Special forces Gear 2"
+  spec_ops_equipment_tech_2:0 "Special Forces Gear Tier 2"
   spec_ops_equipment_tech_2_desc:0 ""
-  spec_ops_equipment_tech_3:0 "Special forces Gear 3"
+  spec_ops_equipment_tech_3:0 "Special Forces Gear Tier 3"
   spec_ops_equipment_tech_3_desc:0 ""
-  spec_ops_equipment_tech_4:0 "Special forces Gear 4"
+  spec_ops_equipment_tech_4:0 "Special Forces Gear Tier 4"
   spec_ops_equipment_tech_4_desc:0 ""
-  spec_ops_equipment_tech_5:0 "Special forces Gear 5"
+  spec_ops_equipment_tech_5:0 "Special Forces Gear Tier 5"
   spec_ops_equipment_tech_5_desc:0 ""
   hardening_armour_tech:0 "Armour Hardening"
   hardening_armour_tech_desc:0 "Special spray coating, advanced metallurgy, or intuitive design and construction. No matter the implementation, sturdier armour makes for hardier soldiers."
@@ -153,6 +153,13 @@
  #----------------------------
  # Special
  #----------------------------
+  military_heritage_tech_1:0 "Past Victories"
+  military_heritage_tech_1_desc:0 "Our soldiers march into battle with high expectations, they have a past to live up to. The grounds we fight on are coloured with victories and losses through the years that motivate our troops and serve as a reminder to our heritage."
+  military_heritage_tech_2:0 "The Long March"
+  military_heritage_tech_2_desc:0 "The path to war is a long and arduous one, but we can always prepare. If we keep our military drills constant and our traditions tried and true then our warriors will be prepared to face the horrors of war. The enemy will never expect divisions filled with wrathful soldiers."
+  military_heritage_tech_3:0 "Historical Firearms"
+  military_heritage_tech_3_desc:0 "The weapons our soldiers wield aren’t just run of the mill shotguns and rifles, they have a storied past. Every man and woman carries a piece of their past, whether it be an engraved cowboy repeater or a manky old heirloom in the form of a single shotgun."
+
   gauss_weaponry_1:0 "Gauss Weaponry"
   gauss_weaponry_2:0 "Gauss Weaponry 2"
   plasma_weaponry_1:0 "Plasma Weaponry"
@@ -174,6 +181,14 @@
   molerat_upgrade_tech_3:0 "Lightweight Battle Rifle"
   molerat_upgrade_tech_3_desc:0 "Mutants can withstand quite a bit more recoil than normal humans, so we have decided to take some of our battle rifle prototypes and rechamber them for a shortened 15mm cartridge, as well as shedding any unnecessary weight and shortening their barrels to make them akin to carbines. With such heavy firepowers on their side that can be taken on any digging operation, our troops shall not be found lacking."
 
+  radroach_equipment:0 "Radroaches"
+  radroach_equipment_desc:0 "Radroaches were enlarged extensively by radioactive mutation, to the point that they are now as large as house cats. While weak individually, their strength in numbers is sure to overwhelm even the most powerful power armor clad warriors eventually."
+  radroach_equipment_1:0 "Radroaches"
+  radroach_equipment_1_desc:0 "Radroaches were enlarged extensively by radioactive mutation, to the point that they are now as large as house cats. While weak individually, their strength in numbers is sure to overwhelm even the most powerful power armor clad warriors eventually."
+  radroach_infantry:0 "Roach Patrols"
+  radroach_infantry_desc:0 "These little roaches are grouped together to ensure maximum efficiency. The larger the better!"
+
+
 	#--------
 	# Skates
 	#--------
@@ -191,9 +206,9 @@
  # Nation Specific Localisation
  #----------------------------
 
- # BAR (Baron's Republic)
-  BAR_warrior_equipment:0 "Weapon Modifications"
-  BAR_warrior_equipment_desc:0 "By allowing for soldiers to customize their issued weaponry to their liking, the strengths and weaknesses of the individual soldier can be used to the advantage."
+ # RDS (Baron's Republic)
+  RDS_warrior_equipment:0 "Weapon Modifications"
+  RDS_warrior_equipment_desc:0 "By allowing for soldiers to customize their issued weaponry to their liking, the strengths and weaknesses of the individual soldier can be used to the advantage."
 
  # BJS (Baja State)
   BJS_warrior_equipment:0 "Weapon Modifications"

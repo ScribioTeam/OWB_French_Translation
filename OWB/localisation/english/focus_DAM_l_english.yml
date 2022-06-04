@@ -1,0 +1,353 @@
+﻿l_english:
+### CRUSADE STUFF
+  dam_horrid_crusade:0 "The Horrid Crusade"
+  dam_horrid_crusade_desc:0 "TODO"
+
+  dam_fresh_bodies:0 "Fresh Bodies"
+  dam_fresh_bodies_desc:0 "TODO"
+
+  dam_old_bodies:0 "Old Bodies"
+  dam_old_bodies_desc:0 "TODO"
+
+  dam_any_bodies:0 "Any Bodies!"
+  dam_any_bodies_desc:0 "TODO"
+
+  dam_wretched_equipment:0 "Wretched Equipment"
+  dam_wretched_equipment_desc:0 "TODO"
+
+  dam_putrid_gear:0 "Putrid Gear"
+  dam_putrid_gear_desc:0 "TODO"
+
+  dam_purge_the_rubble:0 "Purge the Rubble"
+  dam_purge_the_rubble_desc:0 "TODO"
+
+  dam_pestilent_factories:0 "Pestilent Factory"
+  dam_pestilent_factories_desc:0 "TODO"
+
+  dam_the_crusade_decays:0 "The Crusade Decays"
+  dam_the_crusade_decays_desc:0 "TODO"
+
+  dam_temperate_spectres:0 "Temperate Spectres"
+  dam_temperate_spectres_desc:0 "TODO"
+
+  dam_wrathful_wraiths:0 "Wrathful Wraiths"
+  dam_wrathful_wraiths_desc:0 "TODO"
+
+  dam_penultimate_victory:0 "Penultimate Victory"
+  dam_penultimate_victory_desc:0 ""
+
+  dam_entering_plaguelands:0 "We Did Our Duty"
+  dam_entering_plaguelands_desc:0 ""
+
+  dam_engineering_teams:0 "We Walked Among the Needy"
+  dam_engineering_teams_desc:0 ""
+
+  dam_siege_of_oahe:0 "We Were Besieged"
+  dam_siege_of_oahe_desc:0 ""
+
+  dam_reviving_the_dam:0 "Reviving the Dam"
+  dam_reviving_the_dam_desc:0 ""
+
+  dam_encourage_dam_community:0 "Build a Dam Community"
+  dam_encourage_dam_community_desc:0 ""
+
+  dam_clear_blocked_passages:0 "Clear Passages in the Dam"
+  dam_clear_blocked_passages_desc:0 ""
+
+  dam_restoring_generator_fourteen:0 "Restoring Generator XIV"
+  dam_restoring_generator_fourteen_desc:0 "Our work on restoring the Dam continues."
+
+  dam_engineering_schools:0 "Construct Engineering Schools"
+  dam_engineering_schools_desc:0 "Our original cohort of engineers passed their knowledge to their children, and so on. Yet as our influence on the Plaguelands has grown, this tribal knowledge has become less than adequate. It's time to standardize education and even admit prospective engineers from outside our ranks."
+
+  dam_purchase_workshop_benches:0 "Purchase Workshop Equipment"
+  dam_purchase_workshop_benches_desc:0 "Arms production is the foundation of our security. However, the horde wreaked havoc on our arms workshops, necessitating equipment purchases through our engineering teams."
+
+  dam_engineering_persuasion:0 "Persuasive Engineering"
+  dam_engineering_persuasion_desc:0 "Inexplicably, the nations of the wasteland sometimes turn our engineering teams away. A quick course in persuasive reasoning for our men will make sure that happens less."
+
+  dam_purchase_luxury_items:0 "Purchase Luxury Items"
+  dam_purchase_luxury_items_desc:0 "Our soldiers and farmers often clamor for pre-war luxury items. It might seem like a waste, but directing our teams to accept these goods as payment could be a helpful endeavor. "
+
+  dam_fund_dam_expansions:0 "Fund Dam Expansions"
+  dam_fund_dam_expansions_desc:0 "Garbage and shanty homes accumulated throughout the Dam's various levels during the siege. Now that the Dam is no longer a place of refuge we should clear away these unsightly leftovers."
+
+  dam_restoring_generator_twenty:0 "Restoring Generator XX"
+  dam_restoring_generator_twenty_desc:0 "Our work on restoring the Dam continues."
+
+  dam_farmers_to_raiders:0 "Plowshares into Swords"
+  dam_farmers_to_raiders_desc:0 "Many of the farmers who pay tribute to us have little interest in joining the ranks of our raiders. This is unacceptable, and a forced conscription program will change it."
+
+  dam_the_fifty_guns_tax:0 "The Fifty Guns Tax"
+  dam_the_fifty_guns_tax_desc:0 "While the Lakota demean us as savage raiders, our real strength is our creative methods of taxation and government. Each state captain will be tasked with producing fifty guns for our stockpile. "
+
+  dam_the_old_can_raid:0 "The Old Can Raid"
+  dam_the_old_can_raid_desc:0 "Our farmers complain that forty year old's are too elderly to fight! Nonsense, why shouldn't a father join his son in murdering our neighbours?"
+
+  dam_highway_down_the_dam:0 "Highway Down the Dam"
+  dam_highway_down_the_dam_desc:0 "The Dam connects our territory otherwise split by the river. In order to facilitate transportation between the two sides of Pierre we should construct a superhighway on the Dam."
+
+  dam_ruthless_initiation_rituals:0 "Ruthless Initiation Rituals"
+  dam_ruthless_initiation_rituals_desc:0 "The Army Corps of Engineers has a reputation for brutality to uphold. Full-fledged members of our gang will undergo a ruthless hazing process to ensure proper appreciation for violence."
+
+  dam_all_capacitors_online:0 "All Capacitors Online!"
+  dam_all_capacitors_online_desc:0 "All of the Dam's generators have been restored. We are quickly approaching the pinnacle of achievement."
+
+  dam_we_built_a_dam:0 "We Built a Dam"
+  dam_we_built_a_dam_desc:0 "There were once two faces to the Dam Busters. We were raiders and pillagers and yet also engineers and builders. Today, we resolved this Janus-faced nature. We were the Army Corps of Engineers. We were the Dam Busters. We are the Dam Builders."
+
+  dam_a_site_worth_seeing:0 "A Sight Worth Seeing"
+  dam_a_site_worth_seeing_desc:0 "New visitors to the Oahe always have the same questions. They are shocked at the beauty of the Dam, the power of our fighters, the intelligence of our engineers, and our thriving economy."
+
+  dam_lakotas_busted:0 "The Lakotas Busted"
+  dam_lakotas_busted_desc:0 "We have overcome the endless tenacity of the Lakota nation. Their Grand Council is either dead or in exile, granting us full control of their former territory."
+
+  dam_reckon_with_the_breach:0 "Reckon With the Breach"
+  dam_reckon_with_the_breach_desc:0 "The ferals of the Breach were the cause of the suffering we endured in the siege of Oahe. A full invasion is not currently in our best interests, but a quick raid is unlikely to attract the attention of the horde."
+
+  dam_western_spotting_posts:0 "Western Spotting Posts"
+  dam_western_spotting_posts_desc:0 "We had no chance to prepare for the horde during the Great Crusade. With our new stability, spotting posts can be constructed along the western border to oversee the ghouls' movements."
+
+  dam_down_to_deadline:0 "Down to the Deadline"
+  dam_down_to_deadline_desc:0 "The Deadline operate primarily in subway tunnels and old underground industrial sites. Their defensive positions make them hard to crack, but their industrial equipment is too good to pass up."
+
+  dam_ease_of_access:0 "Ease of Access"
+  dam_ease_of_access_desc:0 "Any strikes against the Deadline rely upon quick strikes and extractions. Carefully mapping their territory should facilitate this approach."
+
+  dam_keep_away_from_zone:0 "Keep Away from the Zone"
+  dam_keep_away_from_zone_desc:0 "Raiding a bunch of plague-afflicted mutants might not seem like a bright idea, but we've done the math. Their spare guns will serve us nicely."
+
+  dam_eastern_spotting_posts:0 "Eastern Spotting Posts"
+  dam_eastern_spotting_posts_desc:0 "If you live in a quarantine zone, you're supposed to stay in the quarantine zone! You really think they would eventually get that."
+
+  dam_exporting_engineers:0 "Exporting Engineers"
+  dam_exporting_engineers_desc:0 "The demand for our engineers has grown exponentially. We'll fund an additional team and have them venture into the field."
+
+  dam_increase_going_rate:0 "Increase the Going Rate"
+  dam_increase_going_rate_desc:0 "The cost of food and shelter isn't getting smaller. Our clients might not like it, but upping our rates is an unfortunate necessity."
+
+  dam_fund_logistical_expansion:0 "Fund Logistical Expansion"
+  dam_fund_logistical_expansion_desc:0 "Our next engineering team will be a costly venture. Still, growing demand and market opportunities necessitates that we pay the upfront cost."
+
+  dam_offer_payment_plans:0 "Offer Payment Plans"
+  dam_offer_payment_plans_desc:0 "Not everyone has a stockpile of guns and caps laying around. Our math guys will come up with a few ideas to help clients pay for our services, all while sneaking a little extra from them."
+
+  dam_paid_in_supplies:0 "Paid in Supplies"
+  dam_paid_in_supplies_desc:0 "Sometimes, the best payment for an engineer in the field is just a warm loaf of bread. Many engineers have begun to bring back miscellaneous supplies, an unorthodox but helpful idea."
+
+  dam_miscreant_farmers:0 "Miscreant Farmers"
+  dam_miscreant_farmers_desc:0 "Farmers have an incredible knack for causing trouble. These simple people need to be reminded who's in charge."
+
+  dam_pledge_agricultural_support:0 "Pledge Agricultural Support"
+  dam_pledge_agricultural_support_desc:0 "Though insufferable, farmers also have a welcome habit of growing surplus food. There's an old saying about the carrot and the stick that may be applicable here."
+
+  dam_build_rural_power_stations:0 "Build Rural Power Stations"
+  dam_build_rural_power_stations_desc:0 "Some of the people living under our rule doubt our generosity. Yet once we install power stations, generators, and wiring, very few people doubt the comforts of electricity."
+
+  dam_all_together_with_the_corps:0 "All Together with the Corps!"
+  dam_all_together_with_the_corps_desc:0 "A few young minds have suggested improving our propaganda methods. Apparently, people like it more when we remind them of our noble roots as the Army Corps of Engineers."
+
+  dam_reinforce_authority_over_lakotas:0 "Reinforce Authority over the Lakotas"
+  dam_reinforce_authority_over_lakotas_desc:0 "Our conquest of the Lakota precipitated a campaign of guerilla violence against our occupation. They must be reminded who controls their land now."
+
+  dam_install_friendly_chiefs:0 "Install Friendly Chiefs"
+  dam_install_friendly_chiefs_desc:0 "The Lakota would never accept a non-Lakota ordering them around. We do have a number of allies within Lakota society and installing them as provisional chiefs could satisfy some of the skeptical Lakota."
+
+  dam_protect_major_roadways:0 "Protect Major Roadways"
+  dam_protect_major_roadways_desc:0 "The Lakota guerillas have refined their tactics by attacking our major roadways. These strikes seriously hamper our ability to police the territory and have forced us to deploy new guards to patrol the roads."
+
+  dam_more_than_savage_raiders:0 "More than Savage Raiders"
+  dam_more_than_savage_raiders_desc:0 "We are a marauding, conquering army. We are also builders and inventors. Focusing more on the second part will convince people to accept annexation."
+
+  dam_the_new_strand:0 "The New Strand"
+  dam_the_new_strand_desc:0 "The Plagueland is full of endless surprises. This New Strand will have… unwanted effects on operations."
+
+  dam_refocus_on_our_corps:0 "Refocus on the Corps"
+  dam_refocus_on_our_corps_desc:0 "A growing set of voices in our organization has begun to demand the end to needless raids and senseless violence. They accuse our more militaristic factions of betraying our heritage and core beliefs, urging that we focus on schooling and engineering."
+
+  dam_embrace_our_new_world:0 "Embrace Our New World"
+  dam_embrace_our_new_world_desc:0 "A growing set of voices in our organization has begun to demand the end to needless raids and senseless violence? So kill them! What do they know?"
+
+  dam_unquenchable_lakota:0 "The Unquenchable Lakota"
+  dam_unquenchable_lakota_desc:0 "We are different from the government of old in at least some respects. We have no pretensions at erasing the Lakota or truly ever ruling them. Their fierce tenacity and unwillingness to lay down their arms has proven that completely."
+
+  dam_a_puppet_to_appease:0 "A Puppet to Appease"
+  dam_a_puppet_to_appease_desc:0 "The only sensible way to pacify the Lakota is to give them their own, reasonably independent, government. We'll have to take steps to ensure their adherence to our will, but unless a Lakota rules the Lakota there can never be peace in Crow Creek."
+
+  dam_first_medical_team:0 "A New Field of Expertise"
+  dam_first_medical_team_desc:0 "As helpful as our engineering teams are, each one that returns tells of the desperate need for doctors in most of the wasteland. While not our traditional area of expertise, we have the resources to send at least rudimentary medical teams into the wastes."
+
+  dam_final_engineering_team:0 "The University of Oahe"
+  dam_final_engineering_team_desc:0 "Oahe is quickly becoming a place of learning and insight, a surprisingly bright beacon in the Plaguelands. More engineer teams graduate from the university every year, extending our soft power into the wastes."
+
+  dam_a_natural_runway:0 "A Natural Runway"
+  dam_a_natural_runway_desc:0 "The top of the Dam is really a perfect airfield. It's got a strip of space for planes to take off from. It's got… uh… "
+
+  dam_sky_defense:0 "Anti-sky Defenses"
+  dam_sky_defense_desc:0 "We can't be certain that our enemies don't have an air fleet of their own. Building some big guns on the Dam should deter attacks."
+
+  dam_clear_more_runways:0 "Clear More Runways"
+  dam_clear_more_runways_desc:0 "The Dam can only hold so many planes. We can clear space off elsewhere in our territory."
+
+  dam_air_raiders:0 "Air Raiders"
+  dam_air_raiders_desc:0 "Our ferocity on the ground can easily be rivaled in the air. Our enemies will soon know that even the sky is unsafe."
+
+  dam_first_try:0 "First Try!"
+  dam_first_try_desc:0 "It's fairly fortunate that we have a few aerospace engineers. Building planes is no easy task, but we've managed to arrange a stable air force."
+
+  dam_reinforce_power_infrastructure:0 "Reinforce Power Infrastructure"
+  dam_reinforce_power_infrastructure_desc:0 "Prioritizing our growing power grid would facilitate the spread of electricity to the Plaguelands. However, it would come at the cost of other infrastructure projects in the region."
+
+  dam_reallocate_energy_reserves:0 "Reallocate Energy Reserves"
+  dam_reallocate_energy_reserves_desc:0 "The Dam acts as a perfect location to stockpile unneeded power output from its turbines. These giant, churning pieces of machinery are the future of the wasteland."
+
+  dam_restoring_generator_nine:0 "Restoring Generator IX"
+  dam_restoring_generator_nine_desc:0 "Our work on restoring the Dam continues."
+
+  dam_organize_the_scrapyards:0 "Organize the Scrapyards"
+  dam_organize_the_scrapyards_desc:0 "Our sanctioned scrapping economy is disorganized at best. Individual scrappers are paid to deposit junk in a guarded scrapyard, but often provide little to no information about what their junk actually does. This has led to some unexpected chemical reactions and the need to change our procedure."
+
+  dam_disciplined_managers:0 "Disciplined Managers"
+  dam_disciplined_managers_desc:0 "Our immense construction requisition list is infamous for its association with graft. Scrapyard managers take bribes to expedite requisition requests and are known to submit fraudulent requests to make themselves seem more important. Discipline is clearly required."
+
+  dam_construct_new_trading_stations:0 "Construct New Trading Stations"
+  dam_construct_new_trading_stations_desc:0 "Enhancing our supply network could help draw in scavengers looking to sell their wares in our competitors' territory. We must be careful to maximize our control of incoming salvage in the region."
+
+  dam_sell_off_excess_scrap:0 "Sell Off Excess Scrap"
+  dam_sell_off_excess_scrap_desc:0 "While our supply network is a useful tool, it does have a tendency to overflow our hubs with useless garbage. Passing off that junk as something worth paying for is a worthwhile endeavor."
+
+  dam_restoring_generator_six:0 "Restoring Generator VI"
+  dam_restoring_generator_six_desc:0 "Our work on restoring the Dam continues."
+
+  dam_rebuilding_pierre_relays:0 "Rebuilding the Pierre Relays"
+  dam_rebuilding_pierre_relays_desc:0 "Damaged during the siege, the Pierre Relay System had acted as a means of rapid communication throughout the Plaguelands that endured the Great War. If we could repair this system our research into electronics could be significantly bolstered."
+
+  dam_demand_local_medical_supplies:0 "Demand Local Medical Supplies"
+  dam_demand_local_medical_supplies_desc:0 "Despite all we've done for them, local farmers continue to distrust us. We've heard reports of towns hoarding their medical supplies from us and swindling our tax collectors. This will not continue."
+
+  dam_stricter_engineer_expectations:0 "Stricter Engineer Expectations"
+  dam_stricter_engineer_expectations_desc:0 "Our proud genealogy of engineers is referred to as nepotism by some. Their arguments are mostly spurious, but there are occasionally incompetent engineer candidates from major families that are forced into our ranks."
+
+  dam_slaves_can_build_roads:0 "Slaves Can Build Roads"
+  dam_slaves_can_build_roads_desc:0 "Every town we approach is offered two choices. They may either pay tribute, or they will become tribute. Those who pay tribute shower with gifts, electricity, and fair work. Those who resist are often included among those gifts."
+
+  dam_restoring_generator_four:0 "Restoring Generator IV"
+  dam_restoring_generator_four_desc:0 "Our work on restoring the Dam continues."
+
+  dam_learned_from_the_siege:0 "Learned from the Siege"
+  dam_learned_from_the_siege_desc:0 "Misery is the only word capable of describing those months spent inside the Dam. Overcrowding, sickness, and the constant howling of the ghouls outside tormented our every waking hour. In those moments we became more than raiders with mechanical prowess. We became protectors."
+
+  dam_overlords_protection_cost:0 "The Cost of Civilization"
+  dam_overlords_protection_cost_desc:0 "The benefits we bring always have a price tag attached. We give the towns we protect our strength, and they reciprocate with their own work."
+
+  dam_invite_refugees_to_dam:0 "Invite Refugees to the Dam"
+  dam_invite_refugees_to_dam_desc:0 "The Dam is a symbol of hope and refuge for many who once lived there. The siege is over, but the Dam's capacity to act as an industrial heartland is not."
+
+  dam_mil_overlords_protection_cost:0 "The Cost of Protection"
+  dam_mil_overlords_protection_cost_desc:0 "Our rule includes military protection for our settlements. The people we protect know that it is in their best interests to support our protection squads."
+
+  dam_recenter_industry_on_dam:0 "Recenter Industry on the Dam"
+  dam_recenter_industry_on_dam_desc:0 "The Dam is already a core component of our industrial base. However, it also acts as a defining symbol of power. Making it the primary industrial center of our territory will make it an absolute showcase of our power."
+
+  dam_restoring_generator_ten:0 "Restoring Generator X"
+  dam_restoring_generator_ten_desc:0 "Our work on restoring the Dam continues."
+
+  dam_feeding_the_loyal:0 "Feeding the Loyal"
+  dam_feeding_the_loyal_desc:0 "Food is one of the few commodities more precious than currency. It can be an enticing appetizer for communities who lay on the verge of distrusting us and a powerful motivator for those that do."
+
+  dam_enticing_the_lakotas:0 "Enticing the Lakotas"
+  dam_enticing_the_lakotas_desc:0 "The Lakota have faced problems with water shortages in the past. Offering them water rations for their compliance is a guaranteed way to win over some of them."
+
+  dam_migration_to_settlements:0 "Migration to Settlements"
+  dam_migration_to_settlements_desc:0 "Some of more recent construction projects have involved constructing mechanical wells in settlements. These wells act as a community center, drawing small groups who live on the outskirts into our societies."
+
+  dam_install_police_system:0 "Install a Police System"
+  dam_install_police_system_desc:0 "Overseeing the Lakota territories is done mostly through our raider groups stationed there. Constructing a formalized police system will help us control the population."
+
+  dam_clamp_down_on_lakota:0 "Clamp Down on the Lakota"
+  dam_clamp_down_on_lakota_desc:0 "Lakota resistance activities are often overlooked by our garrisons. We need to make in-roads within the Lakota population to root out dissenters."
+
+  dam_reclaiming_the_land:0 "Reclaiming the Land"
+  dam_reclaiming_the_land_desc:0 "Fields and towns were left barren and abandoned during the siege. The farmers that took shelter in our Dam must return to the fields and reclaim the land they've lost."
+
+  dam_lighting_the_wastes:0 "Lighting the Wastes"
+  dam_lighting_the_wastes_desc:0 "Electricity was the greatest invention of the pre-War world, and our ancestors knew its tricks well. It is our solemn duty to restore this miracle to the wasteland's inhabitants."
+
+  dam_cleaning_wells:0 "Cleaning Wells"
+  dam_cleaning_wells_desc:0 "Most of the wells outside the Dam became graveyards, filled with feral ghouls or inhabitants who tried to flee from them. No one wants to drink from a pile of corpses."
+
+  dam_attack_lakota_stockpiles:0 "Attack Lakota Stockpiles"
+  dam_attack_lakota_stockpiles_desc:0 "While we were under siege by the horde, the Lakota took their time stockpile weapons and ammunition. They left us to starve, so we will deprive them of the fruits of their labor."
+
+  dam_take_lakotan_slaves:0 "Take Lakotan Slaves"
+  dam_take_lakotan_slaves_desc:0 "The Lakota must be punished for their unwillingness to aid us in our time of crisis. When they awaken to their towns burning and friends stolen, they will understand a fraction of our pain."
+
+  dam_probe_lakotan_defenses:0 "Probe Lakotan Defenses"
+  dam_probe_lakotan_defenses_desc:0 "The inability of ferals to swim allowed the Lakota to create formidable border defenses during the siege. However, they are completely unprepared for ingenious amphibious attacks."
+
+  dam_escalating_conflict:0 "Escalating Conflict"
+  dam_escalating_conflict_desc:0 "Border raids and skirmishes between our raiders and Lakota troops have become increasingly common recently. Only a major diplomatic effort could prevent the onset of a full-scale war, and no one is interested in diplomacy."
+
+  dam_temp_increase_organization:0 "Increase Organization"
+  dam_temp_increase_organization_desc:0 "Our upcoming conflict with the Lakota necessitates we emphasize a particular strength of our military forces."
+
+  dam_temp_increase_breakthrough:0 "Increase Breakthrough"
+  dam_temp_increase_breakthrough_desc:0 "Our upcoming conflict with the Lakota necessitates we emphasize a particular strength of our military forces."
+
+  dam_temp_increase_planning:0 "Increase Planning"
+  dam_temp_increase_planning_desc:0 "Our upcoming conflict with the Lakota necessitates we emphasize a particular strength of our military forces."
+
+  dam_lap_targeted_atk:0 "The Doctrine of Raids"
+  dam_lap_targeted_atk_desc:0 "The Lakota are too organized of a force to raid mindlessly. We must solidify a broad strategy and comprehensive war plan to defeat them."
+
+  dam_lap_targeted_breakthrough:0 "The Doctrine of Assault"
+  dam_lap_targeted_breakthrough_desc:0 "The Lakota are too organized of a force to raid mindlessly. We must solidify a broad strategy and comprehensive war plan to defeat them."
+
+  dam_lap_targeted_defence:0 "The Doctrine of Entrapment"
+  dam_lap_targeted_defence_desc:0 "The Lakota are too organized of a force to raid mindlessly. We must solidify a broad strategy and comprehensive war plan to defeat them."
+
+  dam_lap_complete_invasion:0 "Launch an Invasion"
+  dam_lap_complete_invasion_desc:0 "The Lakota think that we are week. They view our raids as short bursts of military strength but underestimate our prowess in war. It's time to take advantage of their miscalculation."
+
+  dam_broken_barrier:0 "The Broken Barrier"
+  dam_broken_barrier_desc:0 "Rumors have begun to spread throughout the Plaguelands that the barrier to the outside world has been breached. For the first time in hundreds of years, people travel from the quarantine zones into the outside world."
+
+  dam_expanding_medical_retinue:0 "Expand the Medical Retinue"
+  dam_expanding_medical_retinue_desc:0 "Now that we have access to the outside world, we can afford to fund an additional medical team."
+
+  dam_expand_air_bases:0 "Expand Air Bases"
+  dam_expand_air_bases_desc:0 "The destruction of the robotic quarantine measures means that planes can be flown without fear of being shot down by border security. Expanding air bases close to the border will allow us to launch air raids on our neighbours."
+
+  dam_a_new_hope:0 "Ace Fighters"
+  dam_a_new_hope_desc:0 "Some of our raiders have an innate aptitude for the skies. Two of them will receive special promotions and distinctions, encouraging others to join them in their battles in the sky."
+
+  dam_focus_fighter_making:0 "Prioritize Supremacy"
+  dam_focus_fighter_making_desc:0 "Our new corps of air raiders emphasize the unique strategic benefits of controlling the skies. We could focus our air production on fighter-to-fighter combat."
+
+  dam_pilot_training_regiments:0 "Pilot Training Regiments"
+  dam_pilot_training_regiments_desc:0 "Our pilots must be well trained to succeed in fighter combat. Constructing new training regiments will ease raiders into their new role as pilots."
+
+  dam_focus_cas_making:0 "Prioritize Support"
+  dam_focus_cas_making_desc:0 "Our more traditional raiders argue that any air advancements should be used to support ground forces."
+
+  dam_beautiful_from_above:0 "Beautiful from Above"
+  dam_beautiful_from_above_desc:0 "The Oahe Dam is a beautiful monument, and, according to our air raiders, even more spectacular when seen from the skies."
+
+  dam_launching_paths:0 "Launching the First Ships"
+  dam_launching_paths_desc:0 "With the barrier broken we can begin to build and launch ships. Naval power is a foreign concept to us, but evidentially crucial if we wish to break out of the Plaguelands."
+
+  dam_study_the_waves:0 "Study the Waves"
+  dam_study_the_waves_desc:0 "We have little knowledge of seafaring preserved from prior to the Great War. Our ancestors never thought to impart what they knew to their children, forcing us to work from scratch."
+
+  dam_read_about_boats:0 "Read About Boats"
+  dam_read_about_boats_desc:0 "Knowing about sea vessels themselves will be crucial to conducting naval power successfully."
+
+  dam_the_production_line:0 "The Production Line"
+  dam_the_production_line_desc:0 "Our new neighbours from outside the Plaguelands have a head start on producing ships. We'll retool a significant number of our factories on the coast to begin constructing a fleet."
+
+  dam_read_about_boat_captains:0 "Read About Boat Captains"
+  dam_read_about_boat_captains_desc:0 "Naval tactical knowledge could not be more different from air or land experience. We'll need talented captains to lead our ships."
+
+  dam_our_own_shipcraft:0 "Our Own Fleet"
+  dam_our_own_shipcraft_desc:0 "Finally, our efforts have led to a major breakthrough. A fleet of six ships is ready to launch. While it may not be overwhelming force, it is the beginning of a new era for [DAM.GetName]."
+

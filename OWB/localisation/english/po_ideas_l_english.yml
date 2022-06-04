@@ -56,6 +56,29 @@ vlt_puppet_idea_security:0 "Vault Security Training"
 
 vlt_puppet_idea_building:0 "Building Utopia"
 
+#NCR
+
+ncr_puppet_idea_event_1:0 "Starved Out"
+ncr_puppet_idea_event_1_desc:0 "The NCR starved out our forces and people, even today there are still effects from this."
+
+ncr_puppet_idea_event_2:0 "Economically Crippled"
+ncr_puppet_idea_event_2_desc:0 "The NCR used their economy to force our submission. For the meantime, our economy still needs to recover from their actions."
+
+ncr_puppet_idea_event_3:0 "Politically Decieved"
+ncr_puppet_idea_event_3_desc:0 "The NCR politically decieved us, and as such our people lack trust in our leaders."
+
+ncr_puppet_idea_event2_1:0 "New Jobs"
+ncr_puppet_idea_event2_1_desc:0 "The NCR T.A has moved to rebuild our industries and provide jobs, granting us some relief."
+
+ncr_puppet_idea_event2_2:0 "Access to Food and Water"
+ncr_puppet_idea_event2_2_desc:0 "The NCR T.A has moved to provide easy access to food and water, though this has been used to 'clear land' for such ventures and brought in resources."
+
+ncr_puppet_idea_event2_3:0 "Rebuilt Administration"
+ncr_puppet_idea_event2_3_desc:0 "The NCR T.A has moved to rebuild our administration."
+
+
+
+
 
 
 ncr_puppet_idea_raider:0 "Raider Pacification Act"
@@ -72,9 +95,99 @@ ncr_puppet_idea_ncr_draft:0 "N.C.R. Draft"
 
 ncr_puppet_idea_ncr_draft_1:0 "N.C.R. Draft"
 
-ncr_puppet_idea_reintroduce_trade:0 "Trade Caravans"
+ncr_puppet_idea_ncr_draft_2:0 "N.C.R. Draft"
 
-##
+ncr_puppet_taxation:0 "Taxation"
+ncr_puppet_taxation_desc:0 "Two things are certain in life, Death and Taxes."
+
+ncr_puppet_idea_expanded_admin_authority:0 "Expanding the Administrations Authority"
+ncr_puppet_idea_expanded_admin_authority_desc:0 "The Duty of the T.A is to ensure that the people of the state are loyal, and to ensure loyalty we must expand our authority over the region."
+
+ncr_puppet_idea_propaganda_posters:0 "Propaganda Posters"
+ncr_puppet_idea_propaganda_posters_desc:0 "Our Propaganda instills the values of the NCR, along with fear mongering about their foes. We must ensure our people are loyal."
+
+ncr_puppet_follower_support:0 "Follower Support"
+ncr_puppet_follower_support_desc:0 "We don't worship so much as follow a set of principles. We want to bring peace back to this wasteland. The world tends toward destruction, so we try to make a difference,- Nicole"
+
+ncr_puppet_idea_new_farms:0 "New Farms"
+ncr_puppet_idea_new_farms_desc:0 "These farms will do wonders for bringing in people to the state, along with lessening food worries."
+
+ncr_puppet_idea_quotas:0 "Quotas"
+ncr_puppet_idea_quotas_desc:0 "...And you'll be grateful for seats at the table, Though it dips at one end and the bench is unstable, You may waste your days but at least you were able, To pay off your grave since we leased you your cradle, Be faithful and pray we'll repay what you invest, Behave as you slave for humanity's interest, On account that you're all on account and we're quickly amounting humanity's interest, You'd think that we'd sink to the brink of rebellion, With markets dependant on peddling weapons, The architect tells them the secret to heaven ,Is simply consuming whatever we sell them... "
+
+ncr_puppet_idea_encouragement:0 "Encouragement"
+ncr_puppet_idea_encouragement_desc:0 "...We Work, to Earn the Right to Work, To Earn the Right to,Work, to Earn the Right to Work, to Earn the Right to Work, to Earn the Right to Give, Ourselves the,Right to Buy, Ourselves the Right to Live, To Earn the Right to Die... "
+
+ncr_puppet_idea_expanding_vehicle_production:0 "Expanding Vehicle Production"
+ncr_puppet_idea_expanding_production_desc:0 "To repay the NCR, we must form a motorized corps. We will bring in a few mechanics who are skilled and can teach the next generation."
+
+ncr_puppet_idea_highwaymen_experts:0 "Highwaymen Experts"
+ncr_puppet_idea_highwaymen_experts_desc:0 "While highwaymen are a plight on the wastes, they do know how to repair a car well. We will bring in some of those who have retired and left their life of crime behind in exchange for pardons and a chance to live a normal life."
+
+ncr_puppet_idea_training_regiments:0 "Training Regiments"
+ncr_puppet_idea_training_regiments_desc:0 "Our warriors must work to emulate the NCR and it's allies with more modern tactics and organization. Doing so will allow our armies to work together with allied units far more efficiently."
+
+ncr_puppet_idea_tribal_combat_experience:0 "Gaining Combat Experience"
+ncr_puppet_idea_tribal_combat_experience_desc:0 "Our forces require combat experience, and to do so we'll send parts of our forces across the wastes to assist nations in their conflicts, allowing us to not only learn about the wastes but how to fight."
+
+ncr_puppet_idea_tribal_diet:0 "New Diets"
+ncr_puppet_idea_tribal_diet_desc:0 "Our diets have not been the best, it's time to change that if we are to have strong warriors and strong people"
+
+ncr_puppet_idea_tribal_trials:0 "The Trials"
+ncr_puppet_idea_tribal_trials_desc:0 "Our forces need new trials, to test their ability to live without supplies and to move swiftly. Doing so will allow them greater endurance than our foes."
+
+ncr_puppet_idea_tribal_expanding:0 "Expanding our Forces"
+ncr_puppet_idea_tribal_expanding_desc:0 "Our forces are as trained as they can possibly be. We must now work to expand the numbers in order to reinforce our armies."
+
+ncr_puppet_tithe:0 "A Tithe"
+ncr_puppet_tithe_desc:0 "One of our new states has sent us a Tithe, how quaint!"
+
+ncr_puppet_tithe_giver:0 "A Tith to California"
+ncr_puppet_tithe_giver_desc:0 "We have sent a tithe to California, to thank them for everything they've done for us."
+
+ncr_puppet_assault:0 "Fierce Assault"
+ncr_puppet_assault_desc:0 "As 'Former' raiders, we have a good idea on how to attack. Let us focus on that in order to develop our strategies."
+
+ncr_puppet_piercing:0 "Piercing Assaults"
+ncr_puppet_piercing_desc:0 "Our soldiers are becoming more and more skilled at assault, with is able to pierce through our enemies lines much easier then our other allies."
+
+ncr_puppet_shock:0 "Shock Troops"
+ncr_puppet_shock_desc:0 "Our forces by now are excellent shock troopers, able to pierce and cut through enemy lines, with extra loo- 'supplies' for us as we strike thier supply hubs."
+
+ncr_puppet_raider_ranger_trainers:0 "Ranger Trainers"
+ncr_puppet_raider_ranger_trainers_desc:0 "The NCR Rangers are an elite force, having such a unit ourselves would be benificial for both us and the NCR. We've requested trainers from the NCR and they have oblidged as we will begin creating our own ranger corp, though it will take time."
+
+ncr_puppet_raider_discipline:0 "Honor and Discipline"
+ncr_puppet_raider_discipline_desc:0 "Our forces will learn from the rangers, becoming less crude and more honorable and genuine with our goals. A high standard is in place and punishments for rule breaking are severe, but it is a price we pay."
+
+ncr_puppet_raider_duty:0 "Our Duty"
+ncr_puppet_raider_duty_desc:0 "We have a duty to the NCR, who have helped us civilize and allowed us to redeem ourselves. We shall serve the NCR, it is the right thing to do."
+
+ncr_puppet_scavenger:0 "Scavenging Expedition"
+ncr_puppet_scavenger_desc:0 "The NCR has provided us with a labor pool of low-level offenders to use to scavenge our state for the NCR."
+
+ncr_puppet_scavenger_ncr:0 "Benifits of Scavenging Expeditions"
+ncr_puppet_scavenger_ncr_desc:0 "Perhaps we should send out people like Goddard more often...how is he anyways?"
+
+ncr_puppet_shock_trooper_remnant:0 "Remnant of Shock Tactics"
+ncr_puppet_shock_trooper_remnant_desc:0 "While under the NCR, we were trained in shock tactics. While we have freed ourselves from their grip, we've retained a few of the lessons they taught us."
+
+ncr_puppet_raider_duty_remnant:0 "Remnant of our Duty"
+ncr_puppet_raider_duty_remnant_desc:0 "We had a duty to the NCR, but now we don't. Though some of the ideas they had we'll keep."
+
+ncr_puppet_idea_tribal_expansion_remnant:0 "Remnant of our Expansion"
+ncr_puppet_idea_tribal_expansion_remnant_desc:0 ""
+
+ncr_puppet_idea_encouragement_remnant:0 "Remnant of our Overseers"
+ncr_puppet_idea_encouragement_remnant_desc:0 ""
+
+ncr_puppet_idea_highwaymen_experts_remnant:0 ""
+ncr_puppet_idea_highwaymen_experts_remnant_desc:0 ""
+
+ncr_puppet_idea_ncr_draft_2_remnant:0 ""
+ncr_puppet_idea_ncr_draft_2_remnant_desc:0 ""
+
+##Legion
 ces_puppet_idea_event_1:0 "Frumentarii"
 
 ces_puppet_idea_event_2:0 "Bled Dry"

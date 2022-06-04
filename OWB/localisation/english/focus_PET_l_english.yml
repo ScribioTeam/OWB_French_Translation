@@ -1,0 +1,117 @@
+﻿l_english:
+  #
+  PET_the_boards:0 "Coalition of Boards"
+  #
+  PET_the_war:0 "The War"
+  PET_the_war_desc:0 "The Great war devastated Petro Chico."
+  PET_the_aftermath:0 "The Aftermath"
+  PET_the_aftermath_desc:0 "However, not all was lost."
+  PET_the_future:0 "The Future"
+  PET_the_future_desc:0 "The future looks bright."
+  ###I made this so it'd go left to right! :D hope it helps #$# Hell yeah violet you the girlboss #$#
+
+  #left branch - 1
+
+  PET_department_of_warfare:0 "Department of Warfare"
+  PET_department_of_warfare_desc:0 "Petro Chico is a small trading town in this land of titans. We must be ready for anything."
+  PET_security_patrols:0 "Security Patrols"
+  PET_security_patrols_desc:0 "Being ready for anything may just save us when something catastrophic happens."
+  PET_spearhead_doctrine:0 "Spearhead Doctrine"
+  PET_spearhead_doctrine_desc:0 "Full speed ahead."
+  PET_special_ops:0 "Special Operations"
+  PET_special_ops_desc:0 "Special scenarios may arise when in combat. For that reason we need specialized infantry that can tackle any problem."
+  PET_defense_of_the_homeland:0 "Defense of the Homeland"
+  PET_defense_of_the_homeland_desc:0 "The defense of Petro Chico comes down to every man woman and child. Who knows what these titans want."
+  PET_defense_of_the_homeland_tt:0 "§OCoastal forts will be constructed next to each river crossing in the north.§!"
+  PET_machine_guns:0 "Machine Guns"
+  PET_machine_guns_desc:0 "BRRRRRRRR! or more elegantly, training our soldiers to use machine guns. But that's not as fun to say."
+
+  #left branch - 2
+
+  PET_offshore_department:0 "Offshore Department"
+  PET_offshore_department_desc:0 "Off the Gulf of Mexico exists abandoned oil rigs untapped by the remnants of humanity, perhaps we could establish production there?"
+  PET_dockyards:0 "Dockyards"
+  PET_dockyards_desc:0 "No good trading empire exists without a navy to match!"
+  PET_rusted_wrecks:0 "Rusted Wrecks"
+  PET_rusted_wrecks_desc:0 "While hingy, old, and decaying, no one in their mind would pass up free ships! Go forth our armada!"
+  PET_dredging_operation:0 "Dredging Operation"
+  PET_dredging_operation_desc:0 "Those oil rigs we scouted seem to be promising, let the factories erect!"
+  PET_heavy_vessels:0 "Heavy Vessels"
+  PET_heavy_vessels_desc:0 "The rivers of Mexico are rampant with raiders and rival empires. We must punch above our weight."
+
+  #left branch - 3
+
+  PET_shipping_department:0 "Shipping Department"
+  PET_shipping_department_desc:0 "Brahmin can only get you so far in this wasteland. Planes, flying high in the sky over the pesky raiders, will serve as a valuable asset to our transportation network."
+  PET_runway_clearing:0 "Runway Clearing"
+  PET_runway_clearing_desc:0 "The wrecked runways of Petro Chico have been abandoned for 2 centuries now! This is unaccepable."
+  PET_light_aircraft:0 "Light Aircraft"
+  PET_light_aircraft_desc:0 "Let's fill up those runways with some speedy little aircraft so we can fill the skies."
+  PET_heavy_aircraft:0 "Cargo Supply"
+  PET_heavy_aircraft_desc:0 "Haste makes waste! We need cargo planes to ship our products"
+  PET_extra_funding:0 "Extra Funding"
+  PET_extra_funding_desc:0 "A slight increase in funding should produce glorious fruits from our labor"
+
+  #cincinnati reds branch *(mid)
+
+  PET_board_of_directors:0 "The Board of Directors"
+  PET_board_of_directors_desc:0 "Masters of numbers and the oligarchy are behind El Seeyo. The board of directors will guide Petro Chico's industry into a great forge."
+  PET_yearly_report:0 "Yearly Reports"
+  PET_yearly_report_desc:0 "It's taxing season! The board of directors are masters at the numbers! They'll find us any untapped cap."
+  PET_industrial_investments:0 "Industrial Investments"
+  PET_industrial_investments_desc:0 "Petro Chico will survive off the growth of our industry. The board of directors know this all too well."
+  PET_military_investments:0 "Military Investments"
+  PET_military_investments_desc:0 "With the Titans that surround us growing impatient. We may be forced to uphold our own arms."
+  PET_united_portfolio:0 "United Portfolio"
+  PET_united_portfolio_desc:0 "With our increased revenue we can afford to reinvest in new frontiers."
+  PET_small_refining_efforts:0 "Small Refining Efforts"
+  PET_small_refining_efforts_desc:0 "While not the most productive of our industries. It wouldn't hurt to have a team to salvage parts."
+  PET_retrofitted_power:0 "Retro-Fitted Power"
+  PET_retrofitted_power_desc:0 "Power. Power! POWER!"
+  PET_smelting_salvage:0 "Smelting Salvage"
+  PET_smelting_salvage_desc:0 "There exists centuries old hunks of junk just lying around Petro Chico collecting dust. Lets recycle it."
+  PET_index_the_complexes:0 "Index the Complexes"
+  PET_index_the_complexes_desc:0 "The Boards have done a wonderful job improving the efficiency of the nation! Perhaps we should let El Seeyo in on the deal as well?"
+  PET_tech:0 "Return on Investment"
+  PET_tech_desc:0 "Cha-ching! Well done bossman! Things are looking bright for Petro Chico, we can handle the rest from here."
+
+  #right branch - 1
+
+  PET_scientific_board:0 "The Scientific Board"
+  PET_scientific_board_desc:0 "These eggheads can count to 1000 and make the guns go BOOM! It's only fair they have their slice of government caps."
+  PET_fund_research:0 "Funding Research"
+  PET_fund_research_desc:0 "I have no idea what these guys are doing, but it works! Take the caps!"
+  PET_additional_funding:0 "Additional Funding"
+  PET_additional_funding_desc:0 "The eggheads approach requesting a new lab to do their science in. This we can provide"
+  PET_advanced_department:0 "Advanced Departments"
+  PET_advanced_department_desc:0 "The buildings that the eggheads work in are old and decadent, let's refurbish them to improve efficiency."
+  PET_the_viceroyalty:0 "The Viceroyalty"
+  PET_the_viceroyalty_desc:0 "The Viceroyalty want to provide us loads of various "medicine" we can hand out to our warriors in need."
+
+  #right branch - 2
+
+  PET_tlaloc_has_fallen:0 "Tlaloc Has Fallen"
+  PET_tlaloc_has_fallen_desc:0 "Buenas noches, viejo amigo"
+  PET_reclaim_the_archives:0 "Reclaim the Archives"
+  PET_reclaim_the_archives_desc:0 "Some elders claim to remember stories of the creation of the guardian of Mexico, If we can enter this lair, we may be able to find something grand..."
+  PET_revive_our_refineries:0 "Reviving our Refineries"
+  PET_revive_our_refineries_desc:0 "With Tlaloc fallen into his eternal slumber, Time will tell how long Petro Chico will last. We must defend ourselves!"
+  PET_reactivate_petronet:0 "Reactivating PetroNet"
+  PET_reactivate_petronet_desc:0 "We found it. The real one. Data Archives from the Guardian of Mexico, by combining the code with PetroNet. We can awaken something powerful."
+  PET_reclaim_the_mantle:0 "Reclaiming the Mantle"
+  PET_reclaim_the_mantle_desc:0 "Tlaloc's bastard children are just that, bastards. Glory to Petro Chico!"
+
+  #right branch - 3
+
+  PET_board_of_acquisitions:0 "The Board of Acquisitions"
+  PET_board_of_acquisitions_desc:0 "Territory management requires a board to overlook and sort any issues that may arise"
+  PET_aztec_problem:0 "The Aztec Problem"
+  PET_aztec_problem_desc:0 "Our southern neighbors... could be better. We remain a small hive in the Land of Titans."
+  PET_pacify_the_locals:0 "Pacifying the Locals"
+  PET_pacify_the_locals_desc:0 "A great defense is impossible if our citizens view their conquerors as liberators."
+  PET_chichen_itza:0 "Chichen Itza Defense"
+  PET_chichen_itza_desc:0 "Well, aren't we lucky? To be established right next to the largest nation in Mexico. In any case, we need defenses now."
+  PET_strike_gods:0 "Striking Gods"
+  PET_strike_gods_desc:0 "A God cannot be slain. When a leader crumples the population falls alongside it."
+  PET_recruitment_drive:0 "Recruitment Drives"
+  PET_recruitment_drive_desc:0 "Citizens of Petro Chico! We need you! That's right, you!"

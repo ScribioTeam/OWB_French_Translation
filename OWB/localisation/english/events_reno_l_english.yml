@@ -1,26 +1,26 @@
 ﻿l_english:
   nf_reno.1.t:0 "The Biggest Little City in the Wasteland."
-  nf_reno.1.d:0 "Before the atomic fire rained from on high? Reno was the biggest little city in the world! But now? Now it might just be the biggest city in the wasteland. To this day, the works and structures that survived the end of the world benefit us."
-  nf_reno.1.a:0 "The sprawl survived, giving plenty of people a place to lay low!"
-  nf_reno.1.b:0 "The Casinos Survived in a perfect Condition, good for business!"
+  nf_reno.1.d:0 "Before the atomic fire rained from on high? Reno was the biggest little city in the world! But now? Our wonderful little city lives as a place of harmless fun, where you can enjoy some booze, company, and recreation free from prying eyes. Do you know what we're most thankful for? "
+  nf_reno.1.a:0 "All those cars."
+  nf_reno.1.b:0 "The Casinos survived in a perfect condition, good for business!"
   nf_reno.1.c:0 "The old military outposts survived, firearms for everyone!"
 
-  nf_reno.2.t:0 "Pick a side?"
-  nf_reno.2.d:0 "The world has become far more dangerous in the last few years! It's time for the bosses of New Reno to consider picking a side, if only for the sake of their business and safety. Many resist this notion however, as Reno has historically remained neutral."
-  nf_reno.2.a:0 "Join the Nevada Pact?"
-  nf_reno.2.b:0 "Reno remains neutral"
-  nf_reno.2.c:0 "The NCR can protect our interests, and fuel our economy"
+  nf_reno.2.t:0 "The Coming of the NCR"
+  nf_reno.2.d:0 "The NCR has been our greatest blessing and curse. We can hardly have a vigorous tourist trade without a prosperous economy to draw tourists from, after all. But their tariffs, and grasping reach, are a bit of a problem. \n\nIn the 2240s, Reno was divided between four families - The Mordinos, Bishops, Wrights, and Salvatores.  \n\nThe Mordinos tried to control Northern California through control of the jet trade, but the distribution of the jet cure by the Chosen One crippled that plan.  We have chased those hooligans out of the City, to leave them to skulp in a wretched den of scum and villainy. The Salvatores had a shining moment of power; but their mysterious source of laser weaponry seemed to vanish overnight.  Today they work to build careers for some of the city's wayward youths. The Wrights civic restoraton efforts blossomed, but too many citizens declined to give up the folksome charm which brought you here on vacation. And the Bishops? Why, John Bishop, and his son, were wise enough to see that friendship with the NCR was the wave of the future! Aren't they swell? \n\n(This Pamphlet was paid for by the Shark Club Casino. Shark Club! Where you'll feel like a shark among minnows!)"
+  nf_reno.2.a:0 "Let's Go to the Shark Club!"
+  nf_reno.2.b:0 "Thank God for the Wrights"
+  nf_reno.2.c:0 "The Moredinos? Didn't they used to be a big deal?"
 
-  nf_reno.3.t:0 "Rise of the remnants!"
-  nf_reno.3.d:0 "Mason Salvatore's plans have finally come to fruition! In a night of supreme violence and bloodshed, hundreds of former Enclave Personal slaughtered his rivals in New Reno, butchering each of the great families. Unfortunately for Salvatore, the Enclave never intended to keep him around past this point, and his own organization also found itself on the firing line. Sergeant Dornan, the meanest man to grace the wasteland, has taken control of Reno. Time will tell as to whether or not this is part of a bigger plot..."
-  nf_reno.3.a:0 "Sergeant Dornan takes control! For the Enclave, for Navarro!"
+  nf_reno.3.t:0 "The Wright Stuff"
+  nf_reno.3.d:0 "Christopher Wright has lived up to some, if not all, of his mother's ideals. Under Mr. Wright's leadership Reno will strive to be a wholesome, safe place to raise a family.  A place where children worry about standardized tests instead of drug addiction. A place of pious prayer instead of mon hits. Of course, the city will keep prostitution and gambling going, if only to channel men and women away from more destructive vices."
+  nf_reno.3.a:0 "Rejoice for the one who is saved, not those who are lost."
 
   nf_reno.4.t:0 "Rise of the Warlord!"
   nf_reno.4.d:0 "The bumbling criminal lords of Reno are no more! Thradd Reigns supreme here, as do his brothers! Hundreds of mutants, if not thousands, have flocked to New Reno in the past months, and the night before last, they rose up in an act of supreme and overwhelming violence, slaughtering all who would challenge them, while also stringing up and publicly executing each of the family heads. Wright was the last to die, horrified with what he had spawned. It is now the Warlord Thradd that rules Reno! Dozens of citizens are dragged away each hour and forcibly dunked in FEV, even as more and more mutants from across the wasteland rally to his call. His goal is simple, his words true. Thradd will avenge the Master! He will rekindle his project and save the Mutant Race! Any who stand between him and Mariposa have surrendered their lives."
   nf_reno.4.a:0 "All hail the Warlord! For the Master!"
 
-  nf_reno.5.t:0 "Small Time Crime"
-  nf_reno.5.d:0 "Not everything that happens in Reno happens because the men and women on top want it to. It's a free thinking place filled with entrepreneurs who are willing to do just about anything for a handful of caps. Some do better than others, and some? Some are legacies, minor institutions that have changed hands a dozen times, but still operate."
+  nf_reno.5.t:0 "Mama Van Graff"
+  nf_reno.5.d:0 "The Van Graffs trade in gold, energy weapons, and, frankly, anything that makes a cap. Some may criticize their tactics, but none can deny that they provide capital to their new ventures in Reno! Why, consider the list of places where they've extended their open hand!"
   nf_reno.5.a:0 "The Chop Shop is legendary for its stolen machines."
   nf_reno.5.b:0 "Who could forget the Cat's Paw? Oh, you only go for the ads?"
   nf_reno.5.c:0 "New Reno Arms! Spreading firepower to raiders for decades!"
@@ -94,3 +94,93 @@
   nf_reno.20.t:0 "New Reno is overrun!"
   nf_reno.20.d:0 "After numerous reports of sudden disappearances, pillaging, and sightings of towering monstrosities on the horizon, our scouting party returns with only one man standing. Covered from head to toe in sweat, dirt, and blood; he mumbles breathlessly about his friends being reduced to bloody carcasses and ash. Worse still, the lone survivor delivers grim news. The capital of sin, New Reno, has been overrun by super mutants. Before falling unconscious, the scout repeats the words spoken to him as his life was spared. \"Reno is the land of giants now. Any and all who stand in our way shall either join Unity, or die.\""
   nf_reno.20.a:0 "Unity?!"
+
+  nf_reno.21.t:0 "A Caring Folk"
+  nf_reno.21.d:0 "New Reno's Van Graffs, Wrights, Salvatores, and Bishops may disagree, but all of them wish to see our fair city prosper. Oh, they may get a bit heated at times, but their disputes over leadership of the city shows they care. The Salvatores, Bishops, and Wrights will push initiatives to assert control over the City, ultimately consolidating influence. And the Van Graffs? Why, they are happy to help all their customers. And perhaps the rumours that Mama Van Graff finally found Mr. Wright are correct?  Could love be in the air? In New Reno, anything is possible!* \n\n\n *Subject to terms and conditions. Consult with your next of kin before taking the ghost tour through Golgotha."
+  nf_reno.21.a:0 "The Wrights offer scholarships."
+  nf_reno.21.b:0 "The Bishops run an advertising campaign in the NCR."
+  nf_reno.21.c:0 "The Broken Brothers unite the Families."
+
+
+
+
+###
+nf_reno.22.t: "Smooching Kills"
+nf_reno.22.d: "Although the Mordinos were driven out of New Reno, they set up shop in the Den, which has become a wretched hive of scum in villainy. The leaders of Reno, never ones to meddle in their neighbors' affair, were content with this arrangement. But now the Mordinos are selling a new, deadly vice.  Not the harmless fun of jet, coffee, or alcohol; a deadly narcotic called smooch. Smooch creates an intensely euphoric feeling when on it, but leaves its users listless and depressed when they are not."
+
+nf_reno.23.t: "The Fate of the Mordinos"
+nf_reno.23.d:  "Although the Mordinos were driven out of New Reno, they set up shop in the Den, which has become a wretched hive of scum in villainy. FoThe leaders of Reno, never ones to meddle in their neighbors' affair, were content with this arrangement.  But now the Mordinos are selling a new, deadly vice.  Not the harmless fun of jet, coffee, or alcohol; a deadly narcotic called smooch. Smooch creates an intensely euphoric feeling when on it, but leaves its users listless and depressed when they are nto consuming it. We must drive the Mordinos out of business to save the people of Reno; and our pockets. \n\nBut no family is willing to attack The Den, because it might leave them vulnerable to the other families in Reno. Only if somoene can consolidate control over our fair little town can we strike forth."
+nf_reno.23.a: "What sort of monsters would sell this?consuming it. We must drive the Mordinos out of business to save the people of Reno; and our pockets. \n\nBut no family is willing to attack The Den, because it might leave them vulnerable to the other families in Reno. Only if somoene can consolidate control over our fair little town can we strike forth."
+nf_reno.22.a: "What sort of monsters would sell this?"
+
+
+
+
+
+nf_reno.25.t: "The Associated Territory of Reno"
+nf_reno.25.d:  "... And this is NCR Radio, bringing all the news that's fit to hear in your ear.  The latest round of talks between Reno and Shady Sands finished today, and it looks like the sticking points to statehood continue to surround REno's prostitution and gambling. Nevertheless, [NCR.GetLeader] appears willing to compromise, and for now Reno will join the NCR as an associated territory. Reno will not send delegates to Shady Sands, but nor will it face taxes on its fine, fine, ahem, tourist activities. Reno - It's like Vegas, but without Legion spies. Visit today!"
+nf_reno.25.a: "Hurray!"
+
+
+nf_reno.26.t: "Ash Wednesday"
+nf_reno.26.d:  "Leave it to a woman to do a man's job, am I right? Having gained a seat on New Reno's councils and positions of power in the families services, the Van Graffs were positioned for their next step- Ash Wednesday. In a single day and night they used their energy weapon to burn the families of New Reno into submission, and immediately set about reordering the town. No longer would it be content to idle in vices and the leavings of the New Californian economy. Mama Van Graff was going to teach [NCR.GetLeader] a lesson he wouldn't forget."
+nf_reno.26.a: "How illuminating!"
+
+nf_reno.27.t: "The Incident"
+nf_reno.27.d: "Here it was: the grand opening ceremony of a shelter with all kinds of amenities for the less fortunate citizens of New Reno. All the prominent figures of New Reno - Mr. Bishop, Christopher Wright and Chief Thradd - were present. They delivered speeches about unity, strength and the benefits of cooperation. They were interrupted by the appearance of a cart, pulled by a motorcycle. The cart had some kind of device on it and its driver seemed to be in the last stages of radiation sickness.\n\"The Big One, for you!\" he cried out as he approached the stage \"The Big One. For you!\"\nThe crowd watched with morbid fascination as the cart finally came to a halt, about 10 feet away from the stage.\n\"It's a bomb!\" someone in the crowd cried out, but it was too late. Silent white light filled the world."
+nf_reno.27.a: "A small explosion"
+nf_reno.27.b: "A blinding light"
+
+nf_reno.28.t: "Dealing with the Van Graffs"
+nf_reno.28.d: "We have salvaged as much as we could in our new home but still, it's not enough. We have approached the Van Graffs to strike a deal for more advanced materials, so we can properly finish our complex. The negotiations were swift and efficient - they even offered us their services as mercenaries in exchange for some of our fusion cores!"
+nf_reno.28.a: "We can't trust the Van Graffs that far."
+nf_reno.28.b: "We could use their help."
+
+nf_reno.29.t: "Peace in Our Time"
+nf_reno.29.d: "We have sent out a Brother to offer peace and fellowship to those who come from The Slag, so long as they choose to help further our endeavors against those settlers of Modoc."
+nf_reno.29.a: "Agreed."
+nf_reno.29.b: "We do not wish to harm our fellows."
+
+nf_reno.30.t: "The Toxic Caves"
+nf_reno.30.d: "Built inside of the caves of Klamath to store nuclear waste, the derelict military base is full of radioactive sludge. Deeming it too risky, prospectors ignored the cache, making it a fool's errand outside of a few ghouls trying to make a quick buck. Only the trappers found use of the caves, hunting the golden geckos inside the cave for their pelt. We however, can recycle the near depleted fusion cores to fuel our ever-growing need for energy, while also assisting the production capabilities of Klamath to produce the equipment they desperately need."
+nf_reno.30.a: "This is an acceptable deal."
+
+nf_reno.31.t: "A Broken Brother"
+nf_reno.31.d: "During a ceremony in New Reno, where all prominent family heads were present, a bomb exploded. While the explosion itself was small, the after-effects were severe. The bomb was stuffed full of FEV and nuclear waste, which immediately spread to the surrounding area. It poisoned everyone attending - except for the super mutant Broken Brothers. The event seems to have broken the spirit of Chief Thradd, whose dream of unity was finally within reach. The power vacuum left by Mr. Bishop and Christopher Wright plummeted New Reno into chaos. In an obvious power move, Mama Van Graff sent out her mercenaries to 'convince' the remnants of the Wrights and the Bishops to follow her. Thradd, upon realising what has happened, became furious. He rallied the police force and the Broken Brothers against the Van Graffs and battled them for days on the streets of the city, finally asserting control.\nIn the end, Thradd declared martial law, proclaiming that \"humans need supervision\"."
+nf_reno.31.a: "And so the reign of the mutants begins"
+
+nf_reno.32.t: "New Reno offers cooperation"
+nf_reno.32.d: "Recent developments suggest that after the brutal bomb attack that wiped out the big families Thradd, former head of the Reno security forces, asserted his control over Reno. Chief Thradd now keeps a stern approach at keeping the peace between the humans and super mutants. Realising the precarious situation they are in, they approach us with an offer we can’t refuse. They propose an alliance that can benefit both countries against the approaching forces from all sides. Maybe it's now time to look past our hatred of mutants and work in unison with Thradd to become the post-war utopia we always aspired to be. \n\n Despite all the benefits of an alliance, the effects of our past xenophobia linger. Most of our security council are unhappy about an alliance with a mutant, even a benevolent one like Thradd. We can refuse their offer and ignore their empty threats. Blood is a big expense, even for Thradd."
+nf_reno.32.a: "We will be stronger together"
+nf_reno.32.b: "Never!"
+
+nf_reno.33.t: "Vault City declines"
+nf_reno.33.d: "Vault City is suspicious about how we came to power and does not wish for us to become members of this Nevada Pact."
+nf_reno.33.a: "How unfortunate"
+
+nf_reno.34.t: "New Reno lends a hand"
+nf_reno.34.d: "Our precarious location is a blessing and a curse. With different factions vying for power in all directions, we have to pick a side. Fortunately for us, Reno sent us an offer for a membership in the Nevada Pact. Accepting their help may prove useful in repelling the encroaching NCR settlers from the south and mutant raiders from the north, allowing us to project our power to the wasteland. Alternatively we can refuse their offer and keep our options open. We all know we can't trust the super mutants after all."
+nf_reno.34.a: "We will be stronger together"
+nf_reno.34.b: "Never!"
+
+nf_reno.35.t: "Arroyo declines"
+nf_reno.35.d: "Arroyo doesn't want it."
+nf_reno.35.a: "How unfortunate"
+
+nf_reno.36.t: "The Future of New Reno"
+nf_reno.36.d: "New Reno is increasingly delving into extremism and discrimination of non-mutants. The example of Vault City and Gecko has shown that it can be different. But how will we act?"
+nf_reno.36.a: "No longer will we suffer under them!"
+nf_reno.36.b: "We are all people."
+
+
+nf_reno.37.t: "Ghoul Marriage?"
+nf_reno.37.d: "Although the NCR has long adopted a position of nondiscrimination against ghouls, New Reno has been the first, ah, 'state' to legalize relations between humans and ghouls, recognizing ghoul marriage. When asked to comment, one local citizen said 'Which one is the Fisto and which one is the Courier?'"
+nf_reno.37.a: "You will never find a more wretched hive of scum and villainy."
+nf_reno.37.b: "Adam and Eve, not Atom and Eve!"
+nf_reno.37.c: "Well, I guess love is love."
+nf_reno.37.e: "I wonder if I can get a pinup?"
+
+
+  ## opinion modifiers
+  hates_ghoul_marriage: "Ghoul Freaks!"
+  likes_ghoul_marriage: "Supports Ghoul Rights"

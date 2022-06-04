@@ -1,0 +1,52 @@
+﻿l_english:
+  ############################
+  nf_navarro.1.t: "The Outpost of Liberty"
+  nf_navarro.1.d: "Over thirty years have passed since the heroes of the NCR broke the Enclave forces at Navarro, and since then mighty pioneers have poured north to tame a savage land. Under the guidance of the Brahmin Barons and [RDS.GetLeader]. Our people opened mines, scavenged towns, and built farms to feed a hungry Republic. \n\nBut not all are happy with our manifest destiny. Some tribals, unwilling to adopt the NCR's enlightened guidance, resist our efforts to civilize the frontier. Shi settlers from San Francisco refuse to recognize the authority of Redding's rangers. And, some whisper, the Brotherhood still has agents there, working against the Republic. Time will tell if any of these foes could threaten our march of liberty."
+  nf_navarro.1.a: "The Bear shall trample all its foes."
+  ############################
+  nf_navarro.2.t: "Our New Home"
+  nf_navarro.2.d: "The Emperor, may he live ten thousand years, saw that San Francisco was growing. He encouraged the Shi to send farmers and workers north, to the Navarro frontier. There they prospered, feeding all of the city.  New strains of rice and millet feed a hungry land far better than Redding's brahmin will ever do, and the Followers and even the tribes have welcomed us. But this has changed. Now the Van Graffs threaten us with threats they call 'taxes,' and the tribals have been stirred up against us. The Emperor's advisor is clear; if San Francisco is to prosper, it must free the Navarro Territories."
+  nf_navarro.2.a: "The settlers will bring honour to us all."
+  ############################
+  nf_navarro.3.t: "Remember Navarro"
+  nf_navarro.3.d: "After the tribal from Arroyo destroyed the Enclave's oil rig, we joined the NCR to take down Navarro. But unlike the troops of the NCR, we treated the people of the land with respect and some of them even joined us as paladins.  They returned during our war against the Brotherhood, and guided us to help attack Redding and destroy the gold reserves. Now they fight for their way of life and lands against the NCR. Perhaps we could provide assistance to them, if they need it."
+  nf_navarro.3.a: "A useful way to prick the bear."
+  ############################
+  nf_navarro.4.t: "The Battle of the Bodega"
+  nf_navarro.4.d: "The sleepy Shi town of Fusang, near the site of old Bodega, is one of the handful that dot the coast of Navarro, and all was well there until [GetDateText].  It was on that fateful day that Van Graff mercenaries came into town and harassed a local woman, knocking her into the mud and staining her qiapao. The woman's husband punched the Van Graff mercenary, and they shot him for his trouble. But there were  more Shi guns it turned out than Van Graffs. Then the bloody day was done, thirteen Shi and eight Van Graffs were dead. This was the boiling point for what California called 'The Navarro Territory.' A people with no real ties to Shady Sands rose up to defend their rights. And the NCR found itself fighting against the cry of freedom."
+  nf_navarro.4.a: "Why didn't they trust the NCR's courts?"
+  ############################
+  nf_navarro.5.t: "The Battle of the Bodega"
+  nf_navarro.5.d: "Our brave peasants, the base of all society, were attacked by Van Graff brigands in the town of Fusang. \n\nBut what to do? Lo Pan argues a limited military force is sufficient to fight for Navarro, bands of mercenaries and hired guns. Why risk the lives of our citizens? \n\nBut Akigahai, the Dragon's last disciple, calls a challenge. No one but the Shi should fight for our people! We must go forth, to war! And for the nation! In a stirring speech before her students, the Shi shall go to war - even if Lo Pen will not lead them. \n\nWhat shall the Emperor do?  is a great debate in the council about what we should do now.  Lo Pan argues for intervention to assert our rights and primacy. But the Doctor calls for caution, arguing that the Republic will listen to our grievances. What can we do? The Emperor takes his own counsel, hearing the words of the sages. \n\nFor many, this is a step too far! We have peaceably worked with the rest of California, but NCR's officials harass and tax us with no pity. While the Emperor counsels caution against the might of the Republic, the Lo Pan wish to send their warriors, the Shaolin, north to fight. Why should we tolerate the Republic's insults? If they wish to bully our people, let them show they are strong enough to do so!"
+  nf_navarro.5.a: "The culprit must pay his wrong, the debtor his debt."
+  shi_hostile:0 "Hostile Shi"
+  nf_navarro_shi_hostile_tt:0 "§g\The Bear will not be happy with this. You better make sure you'll win.§!"
+  nf_navarro.5.b: "A close neighbour means more than a distant relative."
+  ############################
+  nf_navarro.6.t: "The Battle of the Bodega"
+  nf_navarro.6.d: "It seems the Bear might be reaching its limits; the Free Folk and Shi are now up in arms against the Republic's forces in Navarro, rolling back the NCR's grip on Northwest California. This has triggered a crisis in Eureka, as the town's residents debate what to do. There are some who wish to remain neutral. But others point out that the Free Folk could be a valuable proxy for Eureka, and help push the NCR south. Navarro could be the base to show California what might have been, if only the NCR hadn't squelched everyone who thought and dreamed of a different way."
+  nf_navarro.6.a: "We're mercenaries, not empire builders!"
+  nf_navarro.6.b: "We must stand up before the Bear stands on us."
+  nf_navarro.6.b_tt:0 "\n§gYou will lose access to several parts of your focus tree, and anger the NCR. But if you prevail you will unlock a new tree about taming the land.§!"
+  ############################
+  nf_navarro.7.t: "Victory in Navarro!"
+  nf_navarro.7.d: "Despite the Republic's best efforts, our loyal people prevailed in the Navarro Territories, and have begged for the compassionate rule of the Emperor (may he live ten thousand years). Full of wisdom and concern for all who lives Under Heaven, the Emperor's soldiers now move north and secure any outlying pockets of resistance. For now, it seems, Navarro is ours."
+  nf_navarro.7.a: "Easily obtained, easily lost; arduously obtained, strongly held."
+  ############################
+  nf_navarro.8.t: "Victory in Navarro!"
+  nf_navarro.8.d: "The Chinese and the Bear both sought to conquer Navarro. The Shi for grain and lumber, the Bear for brahmin. But Navarro was our home, the last American outpost in the west.  \n\nWe cannot fly our flag openly, not yet. The Bear will become, if anything, more focused on the region now. Already rumours and recriminations fly, whispers of the Enclave's power armour in the woods. We lack the vertibirds that once scoured the skies, and face states with air forces of their own. But for at least a day, the American flag will fly freely over Navarro. \n\nWe're back. And this time, we won't leave."
+  nf_navarro.8.a: "Welcome Home, Commander."
+  nf_eureka_suspicious_very_tt: "\nThe §YNCR§! will become §Rvery suspicious!§!"
+  ########################################################
+  nf_navarro.9.t: "Victory in Navarro!"
+  nf_navarro.9.d: "The Shi, the Brotherhood, and the tribals all did their best to crush the NCR. But now we are firmly ensconced in the Navarro Territory. We have proven, once again, that the Bear never gives up its territory. Moreover, the conflict gave us the opportunity to cement the Republic's control over the region, strengthening our army."
+  nf_navarro.9.a: "A Victory for Democracy, For the Republic!"
+  ############################
+  nf_navarro.10.t: "Flags of Our Fathers"
+  nf_navarro.10.d: "To the Shi, Navarro is a new rice bowl, a way to break free of the NCR's choking embrace. For the Republic, it's yet another frontier, an untamed wilderness for the brahmin that bring wealth and power. To Eureka? Oh boy, grab a beer.  To Granite Company? It was the home of the Enclave, the last best hope for the Wasteland. And to everyone else in Eureka? It's put the Bear directly on their doorstep, a launching point for any offensive the Bear makes north. Not that there's anything wrong with our dear friends in Shady Sands, of course. Nevertheless, the argument could be carefully made that Eureka should consider taking contracts with the tribes of Navarro, those peaceful people. And if they can't afford a contract? Perhaps some sort of long term agreement could be arranged."
+  nf_navarro.10.a: "God Bless the En-Eureka."
+  ############################
+  nf_navarro.11.t: "The Battle of the Bodega"
+  nf_navarro.11.d: "The sleepy Shi town of Fusang, near the site of old Bodega, is one of the handful that dot the coast of Navarro, and all was well there until [GetDateText].  On that fateful day, Shi insurgents attacked our tax collectors, trespassing on hard won soil. Can we stand for this? No, of course not! We go to war. How else can we protect our citizens?"
+  nf_navarro.11.a: "To defend our people, whatever the cost may be."
+  ############################

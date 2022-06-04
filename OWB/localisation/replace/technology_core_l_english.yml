@@ -103,7 +103,6 @@
   vehicle_tech_category:0 "Vehicle Technology"
   bike_tech_category:0 "Bike Technology"
   truck_tech_category:0 "Truck Technology"
-  apc_tech_category:0 "APC Technology"
   tank_tech_category:0 "Tank Technology"
   car_tech_category:0 "Car Technology"
 
@@ -144,12 +143,15 @@
   cat_grand_army:0 "Conventional Warfare"
   cat_terror_tactics:0 "Asymmetrical Warfare"
   cat_outsider_warfare:0 "Outsider Warfare"
+  caf_land_doctrine_xp:0 "Doctrines from Experience"
 
  # naval doctrines
   cat_naval_doctrine:0 "Naval Doctrine"
   cat_naval_force_concentration_doctrine:0 "Concentrated Forces Doctrine"
   cat_naval_river_fleet_doctrine:0 "River Fleet Doctrine"
   cat_naval_dispersed_formation_doctrine:0 "Dispersed Formation Doctrine"
+  fleet_in_being:0 "Safe Munitions Stowage"
+  fleet_in_being_desc:0 "From handling primitive firepots to high explosive shells; drilling our sailors on safe stowage of ammunition is vital to naval organization."
 
  # air doctrines
   cat_air_doctrine:0 "Air Doctrine"
@@ -182,3 +184,9 @@
   artillery:0 "Artillery Technology"
   super_mutant_tech_category:0 "Super Mutant Technology"
   building_tech:0 "Building Technology"
+
+ # Bonuses
+  doctrine_bonus:0 "Doctrinal Research Bonus"
+  weapon_bonus:0 "Weapon Research Bonus"
+  implant_tech_boost:0 "Implant Research Bonus"
+  industrial_bonus:0 "Industrial Research Bonus"

@@ -91,11 +91,17 @@
   second_battle_decision_category:0 "The Second Battle for Hoover Dam"
   sbhd_attack_countdown:0 "The Second Attack Cometh..."
   sbhd_ncr_mob:0 "The NCR Mobilises!"
+  bhd.151.t: "The Second Battle"
+  bhd.151.d: "It appears [CES.GetLeader] is ready to, yet again, come for the Dam. Let him learn not to tread on the Bear!"
+  bhd_151.a: "What's he gonna do, hire a courier?"
 
   ### Failure
   bhd.153.t:0 "Divided They Fall"
   bhd.153.d:0 "The Mojave Brotherhood and Mojave Territories continue to bleed each other dry, something that is only possible because both sides are led by fools. We would be foolish not to attack them both now, until the only sound left is the laughter of the gods."
   bhd.153.a:0 "They die too easily."
+  bhd.152.t: "The Second Battle Commences!"
+  bhd.152.d: "At long last, the Bull marches west once more. He is ready to gore the Bear. Here we stand, the torch of the Pacific. Let Caesar see he's the latest in a long line of despots New California took down."
+  bhd_152.a: "Hear us roar."
 
   ### Flags
   fbhd_mot_hold_dam:0 "§MThe Legion Did Not Even Breach the Dam§!"

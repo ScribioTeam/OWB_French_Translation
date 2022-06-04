@@ -1,0 +1,83 @@
+﻿l_english:
+  arr_shi_speed_idea:0 "Shi Expertise"
+  arr_chosen_army_idea:0 "Chosen One's Army"
+  arr_chosen_army_idea_2:0 "Chosen One's Army"
+  arr_max_sec_bunkers:0 "Max Sec Bunker Style"
+  pac_production_up:0 "Packer Tribal Workshops"
+  pac_small_production_up:0 "Packer Tribal Workshops"
+  umb_speed_idea:0 "A Brave New System"
+  arr_workshop_recruitment:0 "Workshop Recruitment"
+  arr_defensive_strategy:0 "Defensive Economics"
+  arr_offensive_strategy:0 "Victory Economics"
+  arr_building_a_great_society:0 "Building a Great Society"
+  arr_flourishing_society:0 "A Flourishing Society"
+  arr_stimpak_improvements:0 "Emergency Health Kits"
+  arr_memories_of_captivity:0 "Memories of Captivity"
+  arr_memories_of_captivity_2:0 "Memories of Captivity"
+
+  arr_rock_and_a_hard_place: "A Rock and a Hard Place"
+  arr_rock_and_a_hard_place_desc: "Trapped between the growing power of Arroyo to the north and the overwhelming strength of the NCR to the south, they face increasingly limited diplomatic options. At the very least, they don't have to fear outside interference."
+
+  arr_benevolent_intentions: "Benevolent Intentions"
+  arr_builder_slaves: "Builder-Slaves"
+  arr_refocused_builders: "Refocused Builders"
+  arr_available_housing: "Available Housing"
+  arr_slaughter_of_packers: "§RThe Slaughter of the Packers§!"
+
+  arr_exerting_influence:0 "Exerting Influence"
+  arr_exerting_influence_desc:0 "Max Sec Influence: [?arr_mxs_influence|%Y0]\nMax Sec Coercion: [?arr_mxs_coercion|%Y0]\n\nUmbra Influence: [?arr_umb_influence|%Y0]\nUmbra Coercion: [?arr_umb_coercion|%Y0]\n\nPackers Influence: [?arr_pac_influence|%Y0]\nPackers Coercion: [?arr_pac_coercion|%Y0]\n\nEureka Influence: [?arr_eur_influence|%Y0]\nEureka Coercion: [?arr_eur_coercion|%Y0]\n\nFourways Influence: [?arr_fou_influence|%Y0]\nFourways Coercion: [?arr_fou_coercion|%Y0]"
+
+  arr_loaned_labor:0 "Loaned Labor"
+  mxs_prisoners_idea:0 "Max Sec Prison Labor"
+
+  pac_defensive_terrain_1:0 "Defensive Terrain"
+  pac_defensive_terrain_2:0 "Defensive Terrain"
+  pac_defensive_terrain_3:0 "Defensive Terrain"
+  pac_defensive_terrain_4:0 "Defensive Terrain"
+
+  fou_military_response: "Military Response!"
+  fou_small_income: "Fourways Tariffs"
+  fou_large_income: "Fourways Wealth"
+
+  arr_chitsa_3: "Chitsa's Leadership"
+  arr_chitsa_2: "Chitsa's Leadership"
+  arr_chitsa_1: "Chitsa's Leadership"
+  arr_dimitri_3: "Dimitri's Leadership"
+  arr_dimitri_2: "Dimitri's Leadership"
+  arr_dimitri_1: "Dimitri's Leadership"
+  arr_nagor_3: "Nagor's Leadership"
+  arr_nagor_2: "Nagor's Leadership"
+  arr_nagor_1: "Nagor's Leadership"
+
+
+
+  arr_eureka_puppet_countdown: "We Make a Proposal"
+  fou_small_price: "Fourways Price"
+  fou_small_gain: "Fourways Income"
+  eur_advisors_idea: "Eureka Advisors"
+  eur_ncr_fisheries_idea: "Eureka Fisheries"
+  eur_arr_fisheries_idea: "Eureka Fisheries"
+  arr_barons: "The Barons Deal"
+  arr_ncr_taxes: "Arroyan Taxes"
+  ncr_arr_taxes: "NCR Taxes"
+  arr_reopen_mexsec: "Reopened MaxSec"
+  arr_yakuza_connection: "Yakuza Connection"
+  arr_modoc: "Modoc Deal"
+  modoc_arr: "Arroyo's Deal"
+  arr_the_wall: "The Wall"
+  arr_ncr_military: "The All-Conquering Chosen One"
+
+  granite_company_heroism: "The Last Americans"
+  eur_next_generation: "The Next Generation"
+
+  #Flags#
+  fourways_insecure: "The §YFourways crisis§! has begun."
+
+  #Traits#
+  ARR_chitsa_leader_trait:0 "Accomplished Trade Leader"
+  nagor_reclusive: "Distrusts Outsiders"
+
+  Whoz_DESC:0 "An intelligent supermutant, Whoz rose to prominence after his capture by NCR forces. While they had originally planned to execute him, a small band of Max Sec officers offered to pay for him in exchange. Since his time in Max Sec began, Whoz has led a prominent gang of supermutants from inside the prison walls. However, unlike most of the other supermutants in Max Sec, Whoz has maintained a decent standing amongst other human prisoners. This trait paid off following his escape from the prison, as his ability to negotiate with rival gangs allowed him to form a larger army. For now, Whoz is the de facto leader of the area. That could change at any minute however, as the former criminals of Max Sec were never known for their loyalty."
+
+	EUR_portmaster:0 "Portmaster Smith"
+  ERB_GRANITE_NAME:0 "Douglas Granite"

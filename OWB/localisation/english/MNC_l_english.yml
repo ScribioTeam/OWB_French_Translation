@@ -1,0 +1,1005 @@
+﻿l_english:
+
+  ##########################################################################
+  ###                   Montana Chapter Localization                     ###
+  ###                   Written by Team FlowerPower: violet & Lusa       ###
+  ###                   Original Loc by Faeelin                          ###
+  ###     Featuring bits by KatW, an incredibly generous artist! :D      ###
+  ##########################################################################
+
+  montana_nf:0 "Montana Chapter"
+
+  mnc_research_bonus:0 "Montana Research Bonus"
+  power_armor_bos_research:0 "Montana Power Armor Research Bonus"
+  bos_robotics_nonsense:0 "Robotics Research Bonus"
+
+  #Opening Foci
+
+  mnc_montana1:0 "Patrocolus' Charge"
+  mnc_montana1_desc:0 "Patrocolus was entrusted with a mission of utmost urgency: to trail one of the most recent and notorious traitors in the Midwestern Brotherhood."
+
+  mnc_montana2:0 "The Sisters of Steel"
+  mnc_montana2_desc:0 "A rag-tag unofficial order within the Midwestern hierarchy, the Sisters were named as such thanks to their foremost members: Paladin Minerva and Sentinel Honour, the latter of whom earned who had earned her peculiar rank for her bravery and successful efforts against Enclave skirmishes back in Chicago. Though largely social outcasts, many of their members are among the Brotherhood elite-- though unfortunately, in recent times, they've been disgraced by the actions of their own. Seeking rebirth in Montana, many of them feel they have something to prove in the times to come."
+
+  mnc_montana3:0 "Family Matters"
+  mnc_montana3_desc:0 "A little conversation on the way to Montana..."
+
+  mnc_arrival_in_serendipity:0 "The Fort Verity Bunker"
+  mnc_arrival_in_serendipity_desc:0 "As the Montana Chapter nears, Paladin Johanna sees to her own journey..."
+
+  #####################
+  ### Sisters Route ###
+  #####################
+
+  #Lusa, feel free to change this however you feel, if I disagree I can just fix it after nbd
+
+  mnc_honorsplan:0 "Honour's Plan"
+  mnc_honorsplan_desc:0 "After the events at the bunker, murmurs and whispers began to spread.  Fear and concern churn in the hearts of those uneasy under Patrocolus' order.  It is not enough to watch, nor enough to curse and bite our tongues. We need a new approach to the Brotherhood; §PHonour's plan§!."
+
+  mnc_water:0 "Crystal Clear"
+  mnc_water_desc:0 "The bunker's waterchip is near broken, worn down by age and the recent spike in use.  Truly a wonder how the old thing's been functioning at all.  Though reluctant at first, the denizens of the bunker have allowed us to look over the chip.  Let's see if we can bring back some clarity to the water."
+
+  mnc_securingthebunker:0 "Every Stranger a New Friend"
+  mnc_securingthebunker_desc:0 "Positive change begins with how we treat those outside of our ranks.  The bunker denizens have allowed us access to their produce.  Beside them, development on mass-spread cultivation methods can begin.  This trust will not be taken for granted."
+
+  mnc_townhall:0 "Steel Ghosts"
+  mnc_townhall_desc:0 "After casting Patrocolus away, we thought the Midwestern Brotherhood would be a problem for later.  But our patrol units and citizens have reported strange activity along the edge of the border.  This requires our immediate investigation. Hopefully these shady silhouttes are nothing more than raiders..."
+
+  mnc_unitybybrotherhood:0 "Unity in Sisterhood"
+  mnc_unitybybrotherhood_desc:0 "The success of partnership, rather than ownership, over the bunker has proven fruitful beyond imagination.  Though §PHonour's§! shift in power bristled the Montanna chapter, spurring many Scribes, Knights and the sort to desert once her word was made true, the friendships established with the bunker keep kindled spirits.  Many have now accepted the title of Sister with wonder."
+
+  #Left Branch - Helping folks, yadda yadda
+
+  mnc_helpingtheneedy:0 "A Gander Over The Fence"
+  mnc_helpingtheneedy_desc:0 "Having regained foothold within the Montana Chapter, it would not hurt to establish production near our borders.  It also provides us great leeway to see what our neighbouring nations are up to..."
+
+  mnc_workingalongsidefarmers:0 "One Foot In The Soil"
+  mnc_workingalongsidefarmers_desc:0 "To understand the tribulations of our workers grants our success as a whole.  Let's send a few Knights to the fields for some hands-on assistance.  This will lessen the burden of our farmers and common workers while providing an adequate report of stability."
+
+  mnc_brotherhood_irrigation_program:0 "Gifts From The Sisters"
+  mnc_brotherhood_irrigation_program_desc:0 "Montana is a home, a refuge for those in need, an opportunity for anyone, supported and crafted by the hands of the Sisters. We must push this image to civilians and wastelanders here and beyond.  Let us start with the basics; gifts and displays of virtue."
+
+  mnc_brotherhoodinitiative1:0 "One Eye To The Sky"
+  mnc_brotherhoodinitiative1_desc:0 "Ruined buildings of yore have their purposes, but it is not enough to lay a bedroll on the ground and call it home.  We are beyond barbaric as is; let us see to clearing old rubble and building new structures."
+
+  mnc_brotherhoodinitiative3:0 "The Homestead Initiative"
+  mnc_brotherhoodinitiative3_desc:0 "A livelier homstead is a greater one.  The Sisterhood is more than a force of reckoning; we are guardians with boldened hearts beneath our steel.  From hereon, the Sisterhood shall pledge community participation beyond military force.  A caretaker, a mentor, a volunteer-- we are what our people need us to be."
+
+  #Ruminators Foci
+
+  mnc_ruminators:0 "A Friend in Elizaveta"
+  mnc_ruminators_desc:0 "§PHead In The Cloud's§! Log \n\nWe met the strange woman at the edge of the border.  The Knights on patrol humoured her, the citizens near found her endearing, and I shortly arrived per word of her request.  Her name was Elizaveta, leader of the Ruminators.  She offered me a gift basket-- fruits, canned goods, and flowers.  In return, I offered her an evening conversation over tea."
+
+  mnc_ruminators_puppet:0 "Little Sisters"
+  mnc_ruminators_puppet_desc:0 "§PHead In The Cloud's§! Log \n\nThe Ruminators bear hearts of gold.  They know no evil, but I fear that when they do, that gold and glitter of innocence would fade to ash.  As allies and friends, we cannot let catastrophic harm befall them.  Though I haven't known Elizaveta for long, if anything happened to her... Well, as Thrift would put it, 'guns would go blazing'."
+
+  mnc_brotherhood_sponsors:0 "A Rhyme For The Joyful"
+  mnc_brotherhood_sponsors_desc:0 "We've entrusted the Ruminators to continue their practices and activities under our protection and watch.  Elizaveta has welcomed our presence with open arms and broad smiles; excited to spread giggles and joy without the need of a weapon in her writing hand."
+
+  mnc_ruminators_calling:0 "Songs Of The Lost"
+  mnc_ruminators_calling_desc:0 "§PHead In The Cloud's§! Log \n\nElizaveta and her Ruminators, or what remained, arrived at our borders in the dead of night.  Elizaveta was collected, but her cheerful candor faded.  We took them in.  She spoke nothing of what happened.  I urged her none."
+
+  #Khans
+
+  mnc_thekhans:0 "Kindred Spirits, Alike In Infamy"
+  mnc_thekhans_desc:0 "§RComing in 5.0!§!"
+
+  #main branch, part 1
+
+  mnc_rebootingthesistersofsteel:0 "Welding New Steel"
+  mnc_rebootingthesistersofsteel_desc:0 "The days of conscription are over.  A Sister armed is a Sister devoted; a warrior who knows the price of battle and fights for a cause they believe in.  We've given the Sisters tired of battle, those taken into the Brotherhood without choice, a chance to live as civillians.  Together, we press forward, welding new steel for those who choose to bear its burdens."
+
+  mnc_musterthesisters_1:0 "A Hand For The Loose Ends"
+  mnc_musterthesisters_1_desc:0 "Before the steel, many Knights were tribunal.  Foremost, we should let these people voice their needs and concerns.  Should a day come where we dismiss the suffering we've inflicted, or of the many scars yet to heal, then let damnation unravel us.  For then--in our journey for greatness--have we forgotten to do good."
+
+  mnc_musterthesisters_2:0 "Pledging Devotion"
+  mnc_musterthesisters_2_desc:0 "In order to push forward, we need to prove that our devotion is beyond flimsy words and hollow ideals.  While Honour favors actions over words, it would be beneficial for our Sentinel to give public speeches and sit-down stories to share with her Knights."
+
+  mnc_sisters_shall_stand_together:0 "Sister, Born In Murk, Risen In Steel"
+  mnc_sisters_shall_stand_together_desc:0 "The Sisters who were once tribunals are slowly adapting to their freedom, while those taught intolerance are learning to bury old habits.  Progress is rocky, but one things stand true; we are all born in the murk of the world, and together, through unity and understanding, shall we rise in steel."
+
+  mnc_reavers_legacy:0 "Bring Forth The Current"
+  mnc_reavers_legacy_desc:0 "The Reavers of our ranks have requested advanced technologies for their inspection and practices.  This, they explain, will re-establish their connections with the 'current flow'.  Honour sees no harm in this, let's grant the Reavers their wish."
+
+  mnc_reavers_legacy_2:0 "Commune With The Gods"
+  mnc_reavers_legacy_2_desc:0 "After their latest string of successes, the Reavers have requested further clearence to our other technologies.  For too long have they been seperated with their Gods, let us restore this privilege."
+
+  mnc_medicine_techniques:0 "Spirits And Shells"
+  mnc_medicine_techniques_desc:0 "The study room we've granted the Revears are chalked brim with scematics and scribbled thoughts.  They've approached us with an experiment, promising breakthroughs in medicine and equipment."
+
+  mnc_brotherhoodinitiative2:0 "Fuel For The Fire"
+  mnc_brotherhoodinitiative2_desc:0 "Our resources are stretched thin by the troublesome Montana climate, more so during the winter months.  But there's hope in mending this, and that lies in the billowing smoke on the horizon. This 'Coal Consortium' to the west seems to believe Fort Verity falls under their purview, and have expressed distaste at our presence here. I am not violent by nature, but there is opportunity in their callousness..."
+
+  mnc_coalconsortium_resistance:0 "Bandaid Solutions Won't Cut It"
+  mnc_coalconsortium_resistance_desc:0 "Negotiating with Steven was a lost cause.  Pompously living in luxury, he hoarded his resources while others vied for scraps.  We urged him to share what he couldn't possibly need in his lifetime, but he remained stubborn.  That's fine.  If he couldn't do it, then we will."
+
+  mnc_beastlords_legacy:0 "A Muted Birthright"
+  mnc_beastlords_legacy_desc:0 "The children of the Beastlords absorbed into the Brotherhood nearly a century ago have paid enough for the actions of their ancestors.  These children only know pleasant tales; of their mothers and fathers living alongside the beasts of the wasteland.  Let's carefully ease them back into old traditions, sans the cannibalism."
+
+  mnc_beastlords_legacy_2:0 "A Call Not Easily Forgotten"
+  mnc_beastlords_legacy_2_desc:0 "Though scant, the descendents of the Beastlords exhibit minor psychic control over creatures.  Some have shown interest in exploring this ability.  It would be of great use to our cause.  Let's give them this chance."
+
+  mnc_beastlords_exertions:0 "Return Of The Wilds"
+  mnc_beastlords_exertions_desc:0 "Recently, patrols have recorded an influx of stray dogs wandering into our territories.  None of them were hostile, just friendly.  We've let the descendents of the Beastlords take in these dogs-- all of whom were overjoyed at the opportunity."
+
+  #sister main story part 2
+
+  mnc_sisters_thinking_bigger:0 "The Heist"
+  mnc_sisters_thinking_bigger_desc:0 "Remnants of resistance and raiders have been taking shots at the wink links in our defenses.  We must endure as our forces acclimate to their new setting.  With these new resources, let us show these wicked remnants what we can do."
+
+  mnc_sister_metalmouths_goal:0 "A Real Jawbreaker"
+  mnc_sister_metalmouths_goal_desc:0 "Neighbouring the Metalmouths has risen concern.  Nobody is pleased with living close to a nation of raiders, no less slavers.  They wield valuable weapons for an unjust cause.  Let's fix that."
+
+  mnc_sister_havre_goal:0 "Visiting The City" #Instead of warring against Havre, force them into being a puppet? -- or better yet, they send a messenger and that messenger gets murked
+  mnc_sister_havre_goal_desc:0 "Havre is a quaint place and from our intel it is populated by mere tribals and settlers.  Though, as a nation, they lack tight-knit order.  We could grant the citizens of Havre the protection and leadership they'll need.  Our brightest Paladins and sharpest Scribes could sort things out."
+
+  mnc_metalmouths_scavenging:0 "Picking Up The Pieces"
+  mnc_metalmouths_scavenging_desc:0 "Comitting to our no-conscription policy has left us to deal with trickling raiders.  We'll need to be on high alert and expend more effort into surpressing the rest of the resistence."
+
+  mnc_havre_acclimation:0 "Cross-Hearted"
+  mnc_havre_acclimation_desc:0 "With Havre under Sisterhood control, we're raring to get to work and pave way a greater home for the people of Havre.  Our forces will be sent in at any moment's notice!"
+
+  mnc_sisters_pitching_the_flag:0 "Streak The Sky With Colour"
+   mnc_sisters_pitching_the_flag_desc:0 "§PHead In The Cloud's§! Log \n\nScribe Silfer has approached me with new ideas regarding our flag -- the one he designed right after our overturn.  He thinks we should find more ways to integrate it.  Like paint the symbol on our armor or hang the flag in more places.  He has also suggested festivities to spread the joy of our colours... the details of which were lost to me."
+
+  ###ENCLAVE WAR FOCI###
+
+  mnc_sisters_believe_in_fair_play:0 "Bleeding Hearts"
+  mnc_sisters_believe_in_fair_play_desc:0 "§PHead In The Cloud's§! Log \n\nAs we progress, the Enclave nears.  Though the threat is not yet immenent, the Sisters have begun to worry.  I'd seen and fought the Enclave back in Chicago.  They take until there's nothing left.  There is no time to spare idling."
+  mnc_a_peaceful_resolution:0 "Among the Roses"
+  mnc_a_peaceful_resolution_desc:0 "§PHead In The Cloud's§! Log \n\nThis is all beyond my wildest dreams.  I wonder what Patrocolus would think if he saw us now-- standing side by side with an enemy we came to know through a nightmare.  I had promised my Sisters I would see them through this land.  Our dream, once a fickle seed, has flourished like a rose from the vine.  And we still have so much more to do."
+
+
+  ###THE SISTERS STRONGHOLD -- CAN BE A NEW NAME, TOO, BY THE WAY! WE CAN RENAME CITIES ON THE MAP
+
+  mnc_children_wargoal:0 "The Silo On The Hill"
+  mnc_children_wargoal_desc:0 "From our intel, the Church of the Silo are a cult that holds radioactive relics relics.  Though, unlike Havre, they are not as welcoming to our ideals of peace.  Loose ends don't last in the wastelands.  If the people there are to survive, they need order."
+
+  mnc_cannibalism_ban:0 "Hungry For...?"
+  mnc_cannibalism_ban_desc:0 "Despite our prior warnings, some folk have not been taking our 'no cannibalism' law seriously... With the Obelisk Chantry up, now can't be a better time to enact tighter restrictions."
+
+  mnc_macarthur_ruins:0 "No One Wins In Scorched Fields"
+  mnc_macarthur_ruins_desc:0 "§PHead In The Cloud's§! Log \n\nI was naive to think this would end any other way.  But as we failed to reach for the moon, we fell upon a star.  MacArthur's Air Force Base makes perfect for a mountain stronghold -- resilliant against the elements and all threats.  We'll repurpose it straight away."
+
+  mnc_reaver_scientists:0 "Revears In New Coats"
+  mnc_reaver_scientists_desc:0 "With our expanding influence, the Reavers have approached us with another material request.  Our success has them dreaming bigger--let us fulfill these wishes."
+
+  mnc_military_development:0 "To Train A Sister"
+  mnc_military_development_desc:0 "We've amassed more recruits and volunteers than we can count. Paladin Minerva and Paladin Johanna have requested to help guide these recruits and volunteers through their homestead duties."
+
+  mnc_assess_the_economy:0 "Rising Skylines"
+  mnc_assess_the_economy_desc:0 "As our territory grows, abandoned and ruined buildings come in abundance.  A Sister would not be without their craftiness. We can strip these older buildings for resources and built something better."
+
+  mnc_dedicated_homeliners:0 "Artisan Hammers"
+  mnc_dedicated_homeliners_desc:0 "Scribe Augustine, of the few scribes devoted to the Sisters since before the rebellion, has shown interest in bolstering our defenses using artisan techniques.  He's requested resources for an extensive study.  "It came to me in a dream," he told us.  "I see a strong defense line, crafted with artisan perfection."  Well, he hasn't failed us before."
+
+  mnc_training_the_young:0 "For A Better Future"
+  mnc_training_the_young_desc:0 "Knight Thrift has gathered a small team of researchers and weaponsmiths.  They've proposed a project to advance our melee weaponry.  \n\n"If it doesn't work, we'll certainly learn from it," Thrift remarked.  "But if it does... Say, Honour, how do you feel about an explosive sword?""
+
+  mnc_tribal_initations:0 "Lessons From Buried Traditions"
+  mnc_tribal_initations_desc:0 "The adaptability of our Sisters have skyrockted since we've relinquished the stigma against cultural practice.  Most of our new recruits lack a tribal background, so why not pass on these skills and traditions to them?"
+
+  mnc_washington_invasion:0 "The Queen in the North"
+  mnc_washington_invasion_desc:0 "With the Enclave gone, Honour sets her sights on the further reaches of Montana and Washington.  Behind her the Sisters rally.  Whatever lies ahead, we face them united."
+
+  mnc_temple_of_the_old_gods:0 "The Obelisk Chantry"
+  mnc_temple_of_the_old_gods_desc:0 "A chantry that sanctions practice of all cultures and general social events has been a popular idea among the Sisters.  With our worries of the Enclave laid to rest, we can begin construction of the Obelisk Chantry!"
+
+  mnc_embrace_traditions_over_codex:0 "Scribes Of New Ink"
+  mnc_embrace_traditions_over_codex_desc:0 "We've recruited new scribes from our influx of civillians.  Many are interested in following our ways of the world.  Bless them that their ambition has never been graced by the stifling laws of the Brotherhood.  Let's prepare resources to help these future scholars' endeavours."
+
+  mnc_civilian_developments:0 "We Are Nothing, If Not With Eachother"
+  mnc_civilian_developments_desc:0 "Most of the civilians we've absorbed do not understand the ways and beliefs of the Sisterhood.  Our exemplary Sisters can amend that; we'll send our most influential down to town squares.  Then, will the people know what we fight for."
+
+  mnc_mending_the_tears:0 "Mending Sorrows"
+  mnc_mending_the_tears_desc:0 "So easily do we forget who suffers most from war and brutal skirmishes.  Morale among our workers have waned by the recent tolls of our expansion.  Let us do what we can to uplift their spirits and motivation."
+
+  mnc_open_caravansary:0 "The Sisterhood Caravans"
+  mnc_open_caravansary_desc:0 "Bands of merchants all around are contacting us with trading deals. They're interested in some of our older tech we've left to gather dust in the warehouse for caps.  Who are we to deny them? The caps are swell and the deal is clean."
+
+  mnc_horrors_of_nordikon:0 "Whispers Of The Sister Gods"
+  mnc_horrors_of_nordikon_desc:0 "Our scouts have spotted disturbing activity festering from Nordicon.  "A nightmare in the making," Paladin Lucius noted, "Like the Calculator.  Heh, or maybe something more".  We must strike first, lest this nightmare walks into reality."
+
+  mnc_legacy_of_terror:0 "Immortal, Undying, Damnation"
+  mnc_legacy_of_terror_desc:0 "§PHead In The Cloud's§! Log \n\nHe called himself The Immortal.  I remembered him from the time before the title, but... what had he become? What horrors did he bring to the coasts? He was responsible for Hayman-- an unbearable fate encased in steel. In the name of all this 'Washington Brotherhood' has terrorized, we erase this monster's legacy. \n\nMay a new generation never need to know of such a name..."
+
+  mnc_a_cause_worth_fighting_for:0 "A Cause Worth Fighting For"
+  mnc_a_cause_worth_fighting_for_desc:0 "We've brushed lightly with The Cause and their fight against The Immortal is honourable.  We can spare our resources for their endeavours-- no doubt the Immortal caused great ruin to the region."
+
+  #sisters - minerva/minerva's arena (MAKE A COOL NAME I BEG YOU)
+
+  mnc_theclouddrinker:0 "Minerva, The Arena's Bewitcher"
+  mnc_theclouddrinker_desc:0 "The opening of Minerva's Arena has left many skeptical.  Despite the poor wording choices in her proposal, Minerva claims it's all for good sport; "This is a special sort of training that really gets the blood pumping.  Nobody's dying under my watch!  Nobody with a lick of common sense and a fighting spirit, that is.""
+
+  mnc_sistersofsteel:0 "Someone Bring The Stretcher!"
+  mnc_sistersofsteel_desc:0 "Per Minerva's word, her Arena has cultivated emboldened hearts rather than catasprohe as many speculated.  Thrilled with its success, Minerva has put in a request for certain resources, promising a new level of special forces by the end of the month... We're still unsure where 'fireworks' plays into this, but Thrift would be more than overjoyed to deliver."
+
+  mnc_thebattleswehavewon:0 "And The Crowd Goes Wild"
+  mnc_thebattleswehavewon_desc:0 "§PHead In The Cloud's§! Log \n\nThe lonesome raider I met all those years back has reclaimed her life.  Free from her binding past, she has risen a star; the Arena's Bewitcher.  Minerva has become an idol to our Knights-- enrapturing all with her showmanship-candor.  She'd do well as a Field Marshall.  Her fiery soul brings the best out of all of us."
+
+  #sisters - rightmost branch
+
+  mnc_funnythingsinthebunker:0 "Working Without Honour"
+  mnc_funnythingsinthebunker_desc:0 "While Sentinel Honour takes the Sisterhood to new horizons, she has appointed Paladin Johanna, Knight Thrift, and Knight Warwick to improve smaller areas of the homestead.  The three have settled on two improvements long overdue; entertainment and renaissance."
+
+  mnc_theatrics:0 "The Auditions Begin"
+  mnc_theatrics_desc:0 "Paladin Johanna has expressed great interest in introducing 'theater' to the Sisterhood-- a form of entertainment she had learned about from the bunker.  Her request to hold auditions have been met with mixed reactions; some puzzled, others have humored her, and a few have shown genuine interest in participating.  Whatever the case, the ordeal is boosting morale, so why not?"
+
+  mnc_musical_theatre:0 "Bringing The Broadway Home"
+  mnc_musical_theatre_desc:0 "By everyone's surprise, the auditions went smoothly.  Paladin Johanna is ready to take her chosen actors into the 'rehearsal' stage.  We've cleared out a storage house for her stage and have provided the resources for her 'props'.  Whispers of excitement have spread through the Chapter-- everyone has their eyes on this Broadway. Let's ensure Johanna succeeds."
+
+  mnc_proper_maintenance_requests:0 "Hitting The Books"
+  mnc_proper_maintenance_requests_desc:0 "With most of the Scribes gone, Knight Warwick plans to look into alternatives to bolster our research efforts.  He has located an abandoned library in the more dangerous reaches of the land.  It would be worth the risk to send an expedition to the library and see what we can find. "
+
+  mnc_improving_qol:0 "Squashing Book Worms"
+  mnc_improving_qol_desc:0 "Knight Warwick and his group have found the library full of intact texts.  Even the building itself remains mostly unscathed despite the elements.  We could refurbish the library for ourselves or strip the valuable materials for other needs... but first, we'll need to take care of the infestation."
+
+  mnc_clearingspace:0 "A Thrift Approach To Minor Inconveniences"
+  mnc_clearingspace_desc:0 ""Now, rock-garbage and debris-- that's a tough crowd, right?  And nobody wants to be the guy who has to manually lift and carry all of those sad rocks away.  So let's save our guys the back pain and think smarter-- think blastier." \n\nSentinel Honour was informed that, despite everyone's best attempts to stop Thrift from throwing unauthorized explosive around, the Knight already had a ticking bomb in his hand, and nobody was willing to take it away."
+
+  mnc_trust_in_brotherhood:0 "New Floor Maps? Pass It Over!"
+  mnc_trust_in_brotherhood_desc:0 "Knight Thrift has single-handedly cleared the land for construction faster than any of us in the past.  Despite this, Sentinel Honour has forbade him from stepping foot on any construction site until the work is over.  Let us get straight to constructing new facilities before Knight Thrift inevitbly breaks that restriction."
+
+  mnc_its_always_a_good_time:0 "Trust In The Sisterhood" #Change the benefits to represent Johanna, Thrift, and Warwick's endeavours instead of just the Thrift path?
+  mnc_its_always_a_good_time_desc:0 "Johanna's, Thrift's, and Warwick's operations have all been major successes in their own right.  The Sisterhood is reaching a turning point of enlightenment, industry, and knowledge-- let's continue forward!"
+
+  #################################################################################################THIS IS ALL NOT TO BE WORRIED ABOUT
+
+  mnc_slave_labor: "Taxation, Not Tyranny"
+  mnc_slave_labor_desc: "Many people in Montana have served as leeches to their neighbours. Taking these people and putting them to work will be a mutually beneficial agreement, whether they recognize it or not."
+
+  mnc_poweringthefalls:0 "Exploiting Fort Verity"
+  mnc_poweringthefalls_desc:0 "Despite local interference with our operations, we can maybe make some mutually progressive developments-- improving quality of life for our men and the nearby civilians, at the very least, enough to make them back off and save our ammunition."
+
+  mnc_powerlinerepairs:0 "Powerline Repairs"
+  mnc_powerlinerepairs_desc:0 "We can send out Knights to work on setting up and maintaining the old powerlines in and around Fort Verity. While we won't have much of a hold on energy yet, it'll undoubtedly improve any powered infrastructure."
+
+  mnc_power:0 "Kicking the Switch"
+  mnc_power_desc:0 "There are numerous forms of hydroelectric power just waiting to be utilized on the rivers here. Tapping into those will strengthen our hold on not just power but water as well."
+
+  mnc_approachthecyborgs:0 "Approaching the Metal Mouths"
+  mnc_approachthecyborgs_desc:0 "A group of neurotic techno-fetishist raiders known as the 'Metalmouths' are in this region. Securing what we can of their 'cybernetics' would be ideal."
+
+  mnc_theendofusefulness:0 "The Metalmouths, De-Metaled"
+  mnc_theendofusefulness_desc:0 "Such frivolous usage of technology was irresponsible. It was only inevitable they fell in our presence. Now, salvaging what we can from what remains of these fools is all that's left."
+
+  mnc_industrialpush:0 "Industrial Moves"
+  mnc_industrialpush_desc:0 "The key to our success on this mission is keeping a consistent production and maintaining our repairs. Sending Warwick and his knights to figure out the nearby workshops will be able to help get a jump on a proper, functioning industrial side."
+
+  mnc_advancedcomponents:0 "Advanced Salvaging"
+  mnc_advancedcomponents_desc:0 "There's several old terminals and subsytems in the area that we can tear apart for what's inside to help with our own repairs and manufacturing-- if we're going to stay for awhile, we may as well get comfortable."
+
+  mnc_industry_civilian:0 "Reestablishing a Work Program"
+  mnc_industry_civilian_desc:0 "We have all the power, all the techno-scraps, and all the empty facilities we could need at the moment. With our stranglehold on Fort Verity further solidified, we can set the Knights to work."
+
+  mnc_propertytaxes:0 "Imposing Property Taxes"
+  mnc_propertytaxes_desc:0 "The locals here are sitting on troves of old-world relics and caps. If we're to integrate with the region better and allocate our resources effectively, we'll need to purloin some amount of the locals belongings."
+
+  mnc_puttingthemtowork:0 "Putting The Locals To Work"
+  mnc_puttingthemtowork_desc:0 "Many of the people here are scavengers. No doubt many of them would be better suited helping us produce our equipment."
+
+  mnc_righteouslaw:0 "Rigid Measures"
+  mnc_righteouslaw_desc:0 "Since arriving here in Montana, we have faced several accounts of disorder on behalf of the locals. It's time to banish the demons and institute a proper sense of order into these people. Establishing a proper policing force, an 'Overwatch,' will help aid in peacekeeping endeavors."
+
+  mnc_nationalguardstockpiles:0 "Mendoza's Casket"
+  mnc_nationalguardstockpiles_desc:0 "Mendoza's Casket is a bit of a local legend-- an old police station that was co-opted by the National Guard and made into a treasure trove of an armory. Though its said whatever is inside is legendary, it is, of course, guarded by centuries old security systems and booby traps. Sending a team in will take some time, and may incur some losses, but could pay off..."
+
+  mnc_handhtools:0 "Appraising The Old H&H Factory"
+  mnc_handhtools_desc:0 "There's a rather large H&H Tools factory within town-- if we were to renovate it and place some of our newfound work force within, we'd be able to increase production by a significant amount."
+
+  mnc_robotscrap:0 "Scrapping Old Robots"
+  mnc_robotscrap_desc:0 "In the H&H factory, there's plenty of old robots we had to clear out on our way in. While the Paladins had them set aside, we can set our focus on scrapping a few of them to repurpose their assets for our own needs. Hopefully, Steel Chariot and his small assortment will be able to make use of it."
+
+  mnc_macarthursalvage:0 "MacArthur Scraps"
+  mnc_macarthursalvage_desc:0 "The Enclave here, while... Rustic, to say the least, had quite a bit of technology that was destroyed in our skirmishes. Collecting it would give us a modest supply of scrap to work with."
+
+  mnc_enclavemachinery:0 "Busted Enclave Machinery"
+  mnc_enclavemachinery_desc:0 "Unlike the ones we find in a typical wasteland romparound, the machines in employ of the Enclave were fairly well-kept. With a simple repaint job and Scribe or two to reprogram them, we can recommission them as official Brotherhood auxillaries."
+
+  mnc_powerarmorresearch:0 "Power Armor Studies"
+  mnc_powerarmorresearch_desc:0 "While we arrived with a decent supply ourselves, understanding how to replicate our armor's pieces in any fashion is paramount to a continued presence here in Montana-- otherwise, replacing portions of our armor will only grow more and more costly."
+
+  mnc_ata_pog:0 "My Daddy Gives Me An Allowance"
+  mnc_ata_pog_desc:0 "With all of our regional developments, we can turn our minds to the most important thing of all-- more power armor authentic to our image."
+
+  ####################################
+  ### 'The Chains That Bind' Route ###
+  ####################################
+
+  #Patrocolus Main Story - Part I -------------------------------------------------------------------------------------------
+
+  mnc_patrocolusplan:0 "Patrocolus' Plan"
+  mnc_patrocolusplan_desc:0 "The Sisters only held so much authority within the Montana Expedition. Once-disgraced, they seek to undermine all that the Brotherhood holds dear. We can't let that happen-- we need §MPatrocolus' plan§!."
+
+  mnc_loyalty:0 "The Chains That Bind"
+  mnc_loyalty_desc:0 "§MPatrocolus'§! Log \n\nIn the end, all that holds the Brotherhood together are the Chains That Bind. To subvert or oppose them is to call our entire livelihoods into question. The Sisterhood and the rest of their ilk gave me every warning possible and I still tried to help them. Never again."
+
+  mnc_stakingoutthebunker:0 "Glorious Purpose"
+  mnc_stakingoutthebunker_desc:0 "Johanna's fate was sealed and a minor form of order had been restored to Fort Verity thanks to the Brotherhood's newfound control. With its previous inhabitants removed from the premises, and threats all around, it was time to start thinking bigger than just bunkers."
+
+  mnc_thelowestlevel:0 "One Way... Or Another"
+  mnc_thelowestlevel_desc:0 "The list of things to check off was growing by the day. Numbers to replace the Sisters, weapons to upgrade trooper efficiency, a nearby airfield in need of clearing-- one way, or another, Montana would need to be freed of its inadequacies."
+
+  mnc_carrots_on_sticks:0 "Holding Carrots on Sticks"
+  mnc_carrots_on_sticks_desc:0 "Though many were already deceased or gone with the wind, the Sisters were still operating in some capacity. Dealing with them in the coming days would require a totalitarian's precision."
+
+  #Patrocolus - Project Stargazer -------------------------------------------------------------------------------------------
+
+  mnc_project_stargazer:0 "Project: STARGAZER"
+  mnc_project_stargazer_desc:0 "The Scribes have begun to refurbish a large selection and stockpile of Plasma-based equipment near the bunker. Supplying them with the best of resources and the mightiest of our sort is paramount."
+
+  mnc_project_stargazer_power:0 "Securing Power"
+  mnc_project_stargazer_power_desc:0 ""Alright, so, get a load of this, alright? If we want to get this junk out of the armory with its pieces altogether, setting up a workshop inside the armory-- and gettin' actual power flowing in-- will speed things up a helluva lot faster than bringing out small batches and crying over repairs. Know what I mean?" --Knight Thrift"
+
+  mnc_project_stargazer_industrial_throws:0 "Old Schematics"
+  mnc_project_stargazer_industrial_throws_desc:0 "The Scribes managed to locate a terminal with several old-world schematics for various unfinished buildings in the region. We'll take them and finish the job, except this time it'll be for the Brotherhood, and not a flagellating mess of a country."
+
+  mnc_project_stargazer_water:0 "Cooling Forges"
+  mnc_project_stargazer_water_desc:0 "Thrift, with some of the Sisters that stayed behind with us, has set up some forges to try and help create new pieces for the rifles we've accrued. Allowing him to have his water that he needs will allow them to cool the forges as necessary."
+
+  mnc_project_stargazer_circuitry:0 "Computer Fragments"
+  mnc_project_stargazer_circuitry_desc:0 "There's several old terminals scattered in the bunker and in the town nearby. If we tear them apart, it's likely we can take some of their wiring and circuits and apply them to our own weaponss. If what Scribe Amity tells me is correct, that is."
+
+  mnc_project_stargazer_energy_throws:0 "It's The Little Things"
+  mnc_project_stargazer_energy_throws_desc:0 "§MPatrocolus§!' Log \n\nThe strangest thing happened today. Thrift had a sneaking suspicion about a ticking sound he kept insisting he could hear out in the woods, and then when I finally let him go investigate, he opened a colossal 5x5 pit of plasma mines. While we have a whole team set on disarming them, which is always a... Well, hardly a good thing, my hope is that we can take them apart and use it to help STARGAZER."
+
+  mnc_project_stargazer_composite:0 "Warwick's Idea"
+  mnc_project_stargazer_composite_desc:0 "§MPatrocolus§!' Log \n\nI'd say I'm getting tired of all these little requests, but then I remember that I don't actually have to help them find them, even though I always end up being on the search team. It's still annoying, obviously, but knowing I don't even have to lift a finger certainly helps."
+
+  mnc_project_stargazer_advancements:0 "The Flower of Montana"
+  mnc_project_stargazer_advancements_desc:0 "Oh, how I wish Amity knew how much she kept this Chapter together."
+
+  mnc_project_stargazer_finale:0 "The Rush of a Warm Laser"
+  mnc_project_stargazer_finale_desc:0 "Towards the end, there, I started to question if the whole thing was starting to dent in our resources too much. Now that I'm holding a Plasma Rifle myself, however, I remember precisely why we ever bothered. Excellent work all around."
+
+  #Patrocolus Main Story - Part II -------------------------------------------------------------------------------------------
+
+  mnc_streamline_the_sisters:0 "Streamlining the Sisters"
+  mnc_streamline_the_sisters_desc:0 "§MPatrocolus§!' Log \n\nHonour's betrayal at the bunker was unacceptable-- we're lucky we pulled through as well as we did. For the few Sisters that have remained in the area-- or, even worse-- in our ranks, we must instill a sense of consequence and loyalty. We cannot afford more divison."
+
+  mnc_appropriating_sister_armor:0 "The Undeserving"
+  mnc_appropriating_sister_armor_desc:0 "Many of the Sisters attempted to combat us at the bunker. With them now dead, and with others demoted thanks to their own idiocy, we can reappropriate their armor to give to more deserving individuals."
+
+  mnc_back_in_the_saddle:0 "Back in the Saddle"
+  mnc_back_in_the_saddle_desc:0 "We've finally squashed the last of the dissenting sisters. It brings me a considerable amount of shame, knowing it was my fault they were here in the first place. What was I thinking?..."
+
+  mnc_thearena:0 "Minerva: The Outspoken Paladin"
+  mnc_thearena_desc:0 "Minerva has always been one of our best trainers. While enamored with her concepts of 'fair sport' and 'true might,' which add considerable credence to her position, she too was a supporter of Honour's schemes. She must be put back into her place, lest anyone flocks to her as a second choice."
+
+  mnc_reminding_minerva:0 "What Goes Around"
+  mnc_reminding_minerva_desc:0 "For every action, may there be consequence."
+
+  mnc_one_big_happy_army:0 "One Big Happy Brotherhood"
+  mnc_one_big_happy_army_desc:0 "With Sentinel Honour gone, we are now free to merge the remnants of the Sisters into the Montana proper. No more shall we be foolishly divided like children on either side of a playground."
+
+  mnc_thegreatestevil:0 "The Oldest American Evil"
+  mnc_thegreatestevil_desc:0 "§MPatrocolus§!' Log \n\nI thought we had left them behind back in the Midwest. I had heard the legends of what happened out west. What I feared worst as a child has come to pass-- they live, even still, out here in the north. \n\nThey were here first. We'll be last. We have to be."
+
+  #Patrocolus Main Story - Part III -------------------------------------------------------------------------------------------
+
+  mnc_emergency_conscription_matters:0 "Emergency Conscription Matters"
+  mnc_emergency_conscription_matters_desc:0 "It's not pretty, but many of the locals around here are already well-armed and capable of defending themselves. While maybe not Enclave-ready, we can conscript them into our ranks and have them serve as auxillaries to our forces. If anything, to serve as shields and allow us to keep our armor in better condition."
+
+  mnc_noproblemtoogreat:0 "No Problem is Too Great"
+  mnc_noproblemtoogreat_desc:0 "§MPatrocolus§!' Log \n\nThe Enclave's presence here in Montana has sent a chilling sense of urgency into the heart and mind of every Paladin and Knight under myself. As such, this adrenaline can be repurposed-- in short... We're going to make this the best damn bunker the Brotherhood's ever seen."
+
+  mnc_establishanoutpost:0 "Fear Is The Most Valuable Sense"
+  mnc_establishanoutpost_desc:0 "It didn't even need to be ordered for the Paladins to begin setting up fortifications and FOBs surrounding the bunker. Some have begun dipping into unknown territory and the nations around us to secure paths in and out. One thing is for sure: we'll be ready when the time comes."
+
+  mnc_kickingoutthescrappers:0 "Kicking Out Scrappers"
+  mnc_kickingoutthescrappers_desc:0 "There are several scrapper and scavenger groups making their home in some burnt out buildings in the area. Any action on our end causes them to scatter, causing as much chaos as they can-- including, at times, shooting at our own. They have to be removed before we endure any proper conflicts."
+
+  mnc_patrocolus_consortium_goal:0 "No Room For Selfishness"
+  mnc_patrocolus_consortium_goal_desc:0 "The nearby imbeciles within the Coal Consortium believe that they have no need to give us what they have. Clearly, they've never been face-to-face with the threat of the Enclave-- and so they cannot be taken seriously. Commandeering their supply by force is the only option."
+
+  mnc_patrocolus_havre_goal:0 "Closing the Gap"
+  mnc_patrocolus_havre_goal_desc:0 "I don't care who or what stands in my way-- we're going to make sure we reach this Enclave before they reach us. I want to see them run deeper into their mountains as they realize who exactly came knocking on their door."
+
+  # Patrocolus - Subindustrial Branch ---------------------------------------------------------------------------------------
+
+  mnc_breaking_backs:0 "An Armed Society"
+  mnc_breaking_backs_desc:0 "Many of the people here in Montana are sitting upon weapon foundries and stockpiles from ages gone by. Securing these groups and their armaments will be key in securing the region for the Brotherhood."
+
+  mnc_replenish_the_host:0 "Well-Deserved R&R"
+  mnc_replenish_the_host_desc:0 "The journey to Montana has been... Excruciating, to say the least. Many of our men would like a bit of time to have some fun before we pursue any further endeavors. While unprofessional, I don't see the harm in allowing them to recharge."
+
+  mnc_arms_lease:0 "Arms Lease"
+  mnc_arms_lease_desc:0 "Securing the foundries in the area and their little manufacturing groups will be a mandatory move to help affirm our production."
+
+  mnc_salvage_laser_weaponry:0 "Salvaging Energy Weaponry"
+  mnc_salvage_laser_weaponry_desc:0 "Many of our weapons were damaged on the way here, and we've even found some with regards to STARGAZER queries. With minimal maintenance, we can get them back to a usable state and remarkably improve our arms supply."
+
+  mnc_industrial_patrocolus:0 "Practice Makes Perfect"
+  mnc_industrial_patrocolus_desc:0 "An industry requires a steady hand, and steady hands require efficient equipment."
+
+  mnc_construction:0 "Constructive Thought"
+  mnc_construction_desc:0 "You know what makes for a good time? A roof that doesn't collapse on you. Focusing on actual, proper construction techniques will aid immensely in our efforts here in Montana."
+
+  mnc_electronics:0 "Who Turned Out The Lights?"
+  mnc_electronics_desc:0 "§MPatrocolus§!' Log \n\nI've seen gas lamps, I've seen fire barrels, I've seen bonfires-- where can a man find a good light in Montana that isn't buzzing like a pregnant Honeybeast? If I can't find one, then we're going to make them. I don't know how but we're going to."
+
+  mnc_approach_the_farmers:0 "Approaching Farmhands"
+  mnc_approach_the_farmers_desc:0 ""Farmhands are rough, tough, live-off-the-land types. Gathering them for our cause will be an excellent move, Elder-- no doubt, too, if they know what's good for them, those sorry bastards are already used to following orders." --Paladin Hayman"
+
+  mnc_approach_the_raiders:0 "Approaching Raiders"
+  mnc_approach_the_raiders_desc:0 ""Raiders are chem-addicted idiots that are usually too swilled up on booze to tell left from right, but the ones that have made it this far typically have some kind of moronic creed to follow. Grabbing whichever ones we don't blast in two and tossing a codex into their sorry little hands'll go a long way if we can't make them sober up." --Paladin Hayman"
+
+  mnc_farmhand_ideas:0 "Farmhand Training"
+  mnc_farmhand_ideas_desc:0 "The Farmhand conscripts are taking well to what we've shown them. What's better is they've even given us some knowledge on conserving our own rations, allowing us to stay out in the field longer."
+
+  mnc_raider_ideas:0 "Raider Training"
+  mnc_raider_ideas_desc:0 "The raiders we've indoctrinated are at least sober, but their aggression remains... Suicidal, to say the least. \n\nHopefully, this won't backfire."
+
+  mnc_exalt_the_proven:0 "Brotherhood Exaltations"
+  mnc_exalt_the_proven_desc:0 "Many of our new recruits in Montana have already shown valiant promise, growing within our ranks and replacing our lost with unexpected speed. Promoting these few exalted men and women is far more than well deserved."
+
+  mnc_exaltations_idea:0 "Mass Recruitment Drives"
+  mnc_exaltations_idea_desc:0 "With our higher echelons restored, let's get started on getting a proper sortee back in action. If the Midwest expects to see us again, we better have something to show for it other than flashy explosions and gimmicky rifling techniques."
+
+
+  #Patrocolus Ending -------------------------------------------------------------------------------------------
+
+  mnc_secure_northern_perimter: "The Northern Perimeter"
+  mnc_secure_northern_perimter_desc: "To the northern border, the horrors of a machine called 'Nordikon' are legend. We will strike into the heart of this myth, and strike out its wretched core, whatever the cost."
+
+ mnc_triumph_in_montana_fucking_stupid_line_arrrgh:0 "What a Good Man Does"
+ mnc_triumph_in_montana_fucking_stupid_line_arrrgh_desc:0 "When we arrived in Montana, I was tired. I thought everything around me was crumbling and that the folks back in the Midwest wanted me gone. When we started the long walk this way, and when my thoughts were not on airships and survival, I resented my colleagues. \n\nAlong the way, however, Honour, before she passed, imparted with me something I'll never forget: "Make sure your life does not become your sickness." I think a lot about those words, even with where we are now. It doesn't matter why I'm here, or any of us, really. It only matters what we do with what we've been given."
+ mnc_homecoming_patrocolus:0 "In Time For The Cherry Blossoms"
+ mnc_homecoming_patrocolus_desc:0 "How does it go? "And They All Lived Happily Ever After?" After everything we've done in the north, here we are... Back home again. This is going to be a gas."
+
+ mnc_patty_children_wargoal:0 "The Great Silos of the North"
+ mnc_patty_children_wargoal_desc:0 "These 'Children of the Silo' are sitting on a cache of several hundred pounds of pre-war missiles. We can't let that happen. If we want our authority to be solidified within the north, we must destroy them. No matter the cost."
+  #Airbase -------------------------------------------------------------------------------------------
+
+  mnc_malstrom:0 "Appraising Odhran AFB"
+  mnc_malstrom_desc:0 "Odhran Air Force Base remains in decent state after all these years, beget only by squatters and rusted out fighters. Clearing the runway is advised prior to further operations."
+
+  mnc_cleartheairfield:0 "Clearing Out The Airfield"
+  mnc_cleartheairfield_desc:0 "The Airfield's hangars, unfortunately, appear to have become a soup kitchen under control of some frontiersmen. They'll need to be dealt with, one way, or another."
+
+  mnc_airplanegovroom:0 "Setting Up Hangars"
+  mnc_airplanegovroom_desc:0 "With the runway strip cleared and the hangars emptied of undesirables, we can now set up a proper operations center here within Odhran."
+
+  mnc_rebootandsalvage:0 "Ripping Up Rustbuckets"
+  mnc_rebootandsalvage_desc:0 "Some of the Scribes are wanting some time to study the fighters we had scrapped. If we're interested in proper airfield operations, it'd be wise to let them do so."
+
+  mnc_airplanemoves1:0 "Flight Tests"
+  mnc_airplanemoves1_desc:0 "For the first time in around 200 years, a plane took off from Odhran Air Force Base. Even under our occupation, eyes were lit up all along the streets of Fort Verity as Knight Isaiah took flight. When he was prodded for thoughts after the landing, he had this to say: "Jesus fuck man, did you see that? The Fucking sky man. God fucking dam, look at my hands right now, literally shaking. Who were those brothers who flew? The Left-bros or something? Wonder if they ever imagined something this bad-fuckin-ass. Like a fucking dove. Uh oh, is this- this on holotape? Fuck, Patrocolus is gonna have my head rolling for this one for sure." He was promptly reprimanded, as his test flight was not authorized." ########THE QUOTE IN THIS FOCUS IS FROM SGUCCIG I HOLD NO RESPONSIBILITY
+
+  mnc_airplanemoves2:0 "Booting Up Sims"
+  mnc_airplanemoves2_desc:0 "Actually having flight tests may prove too dangerous with the current rustbuckets in our employ, but some of the scribes in the bunker have begun to repair old simulation tech that we may make gentle use of."
+
+  mnc_airdoctrine:0 "Flight Training"
+  mnc_airdoctrine_desc:0 "Proper thought and care should be put into any air-related endeavors. Setting the scribes to understand this sooner rather than later will help secure any dominion over the skies we hope for."
+
+  mnc_veteranteachers:0 "Turn That Knowledge Into Training"
+  mnc_veteranteachers_desc:0 "Some of the scribes that have engaged with the flight simulators have picked up on some great tips and tricks for anyone wanting to try and hop into any form of aircraft-- let's ensure that people know who to go to for this, before we end up with too much more malpractice and irresponsibility."
+
+  mnc_communicationsignals:0 "Communication is Key"
+  mnc_communicationsignals_desc:0 "In establishing a key base here, we want to be able to reach across the continent. It'd be an extensive endeavor, but the sooner it's undertaken, the better."
+
+  mnc_paladinjasminerequisition:0 "Paladin Jasmine's Requisition"
+  mnc_paladinjasminerequisition_desc:0 "Paladin Jasmine, one of our most well-known and liked boots-on-the-ground, has a simple request: the ability to communicate with someone of personal interest to her utilizing our new radio systems. Creating scheduled radio times may be beneficial to getting more people on-board with helping upgrade the radio signal."
+
+  mnc_clearingoutinterference:0 "Clearing Out Interference"
+  mnc_clearingoutinterference_desc:0 "It turns out we've been jammed this entire time by some mysterious signal out in the mountains-- sending a team to check this out and eradicate the signal would increase our radio signal considerably."
+
+  mnc_radiorecruitment:0 "Protocol: Apply Suave Swagger"
+  mnc_radiorecruitment_desc:0 "One of our less productive scribes, a man by the name of Raphael, is supposedly a handsome fellow with a voice that melts the hearts of some of our juniors. Throwing him on the radio to advertise us as looking for new blood will help get the flow of new folks going. As is, we're sorely low on manpower in the region."
+
+  #Science Chain -------------------------------------------------------------------------------------------
+
+  mnc_theknightandthescribe:0 "Trouble Comes In Twos"
+  mnc_theknightandthescribe_desc:0 "Two of our brightest have an idea. Surely, this can't go wrong, can it?"
+  mnc_thesciencedrive:0 "The Science Drive"
+  mnc_thesciencedrive_desc:0 "Time will tell how this 'Science Drive' goes-- hopefully, it'll be for the better."
+  mnc_thesciencedrive2:0 "Surprisingly, It Paid Off"
+  mnc_thesciencedrive2_desc:0 "Though it was catastrophic in scope, the 'Science Drive' ended up being for the best. The Scribes and the Knights are much more enthused by their projects, and we're learning now at an unparalleled rate!"
+
+  #Main Branches -------------------------------------------------------------------------------------------
+
+  mnc_summon_dagger_squad:0 "Summon Dagger Squad"
+  mnc_enclave_wargoal:0 "For the Safety of All Mankind"
+  mnc_purge_enclave_survivors:0 "Purge the Enclave Elite"
+  mnc_terms_surrender:0 "Accept the Terms of Surrender"
+  mnc_advanced_planes:0 "The Brotherhood's Wings"
+  mnc_triumph_in_montana:0 "Triumph in Montana"
+
+
+  #Thrift: The Reformed Raider branch -------------------------------------------------------------------------------------------
+
+  mnc_lettingthriftwork:0 "Letting Thrift Get To Work"
+  mnc_lettingthriftwork_desc:0 "Letting Knight Thrift set up his proposed garage complex outside the bunker may be silly, but his conviction is undeniable. Given his past as a raider mechanic, he's bound to be speaking with some level of passion. In any case, a workshop like he suggests will jumpstart our military industry like nothing else would."
+  mnc_thriftsgarage1:0 "Thrift's Garage"
+  mnc_thriftsgarage1_desc:0 "Thrift has requested a bigger warehouse for his tinkering needs.  We can spare him one of our larger warehouses, though the effort to move all his stuff from his old dingy workshop to the warehouse may take some time..."
+  mnc_thriftsgarage2:0 "I Dream of Purple Corvegas"
+  mnc_thriftsgarage2_desc:0 ""Okay, weird request, but I found this nice car in one of those old leveled cities.  And get this; the sweet thing is mostly in a single piece!  I think I can repair it, but I'll need a few guys to drag it out of the city..." --Knight Thrift"
+  mnc_metalbusting:0 "Busting Metal"
+  mnc_metalbusting_desc:0 ""Ain't nothing better than the smell of crushing and smelting metal.  Which reminds me that we're running low on scrap metal!  Worry not, I've got a plan-- I figured out a better way to salvage metals, I just need some time to teach our scavenger guys the way." --Knight Thrift"
+  mnc_salvagedmotorcycles:0 "Salvaging Motorbikes"
+  mnc_salvagedmotorcycles_desc:0 "We've discovered a stockpile of old motorbikes and trucks!  After much debate, we've decided that motorbikes are the way to go.  Let's send them to Thrift for some added improvemnets!."
+  mnc_scraptrucks:0 "Salvaging Trucks"
+  mnc_scraptrucks_desc:0 "We've discovered a stockpile of old motorbikes and trucks!  After much debate, we've decided that trucks would be the most practical vehicle in the wasteland.  Let's send them over to Thrift for added adjustmernts."
+  mnc_motortechbonus:0 "Turn A Car Upside Down, Well..."
+  mnc_motortechbonus_desc:0 "While working on the vehicles we sent him, Thrift claims he's made a mechanical breakthrough.  We'd barely caught what he said in his innovative rambles, but we know the key details; some time, more materials, and a huge battery."
+  mnc_knightcleanupcrew:0 "Knight Clean-Up Service"
+  mnc_knightcleanupcrew_desc:0 "Without our scouts' intel, we've marked a few spots on the land that would be suitable for infrastructures.  The problem being the rubble--  but Thrift claims he's got the perfect fix for that.  He just needs a bit of C-4 and authorization."
+  mnc_fullsealapproval:0 "Full-Seal, Whole-Sale Approval"
+  mnc_fullsealapproval_desc:0 "Thrift's successful endeavours has earned him more say on infrastructure organization and construction.  He's approached us with more ideas to expand our resource horizons.  Let's proceed!"
+  mnc_knowyourenemy:0 "Knowing the Enemy"
+  mnc_knowyourenemy_desc:0 ""I know the big guns back home would have a piss on all things raider, but they work for a reason.  Montana is new, it's foreign, it can bite us when we least expect.  So why don't we use anything and all at our disposal?" --Knight Thrift"
+  mnc_cleaningupoldrifles:0 "Cleaning Up Old Rifles"
+  mnc_cleaningupoldrifles_desc:0 "We've found a cache of old-war weaponry!  Though ancient and far from our style, Thrift says he sees potential in augmenting the rifles to our standards.  We can certainly provide him the means."
+  mnc_demolitionsacquisitions:0 "Demolition Acquisitions"
+  mnc_demolitionsacquisitions_desc:0 ""I'm gonna' put it simply.  We need boom.  We're running low on the things that make boom.  Let's get more?  Please?" --Knight Thrift"
+  mnc_landdoctrines:0 "Moving Around Is A Funny Thing, Really"
+  mnc_landdoctrines_desc:0 "Through Thrift's constant material requests, we've become more aware of the inefficiency of our old transporation methods.  We'll need to look into tightening cargo security for our future endeavours."
+  mnc_oiledup1:0 "Oiling Up Those Tanks"
+  mnc_oiledup1_desc:0 "There's a common saying that gets passed down to recruits on their first night; 'If it sounds like all hell has broken loose, three out of four chances it's nothing... and if you hear cackling, then that's innovation.'"
+  mnc_oiledup2:0 "Greasing Up the Trucks"
+  mnc_oiledup2_desc:0 "Thrift has decided that our trucks are in need of greater maintenance.  His new additions are... questionable, daring even.  But Thrift hasn't let us down thus far \n\n"Get in, dudes, we're going tanking!" --Knight Thrift"
+  mnc_leftarmsfactories:0 "Putting Things On Moving Belts"
+  mnc_leftarmsfactories_desc:0 ""Let's keep moving, folks!  We've got workshops to build, guns to manufacture, and a whole lot of world to see!  All of which don't need to go hand in hand, but hey, don't we like a little fun?" --Knight Thrift"
+  mnc_rightarmsfactories:0 "Building Cars, Old-Style"
+  mnc_rightarmsfactories_desc:0 ""Though I'm one for practicality over flashiness, a bit of vintage never hurt anybody.  There's a beauty in older cars.  Don't believe me?  Lemme show ya'." --Knight Thrift"
+  mnc_industrialboom:0 "Thrift: Fully Funded and Beautifully Living"
+  mnc_industrialboom_desc:0 ""Look at that! We've got buggies ripping all over Montana, now. With everything all together, we're gonna be doin' a helluva lot more business, if you know what I mean..." --Knight Thrift"
+
+  #military branch -------------------------------------------------------------------------------------------
+
+  mnc_militarizingmontana:0 "Militarizing Montana"
+  mnc_militarizingmontana_desc:0 "Montana's healthier than most wastelands, which makes it far more valuable. Holding it won't be easy-- and taking it won't be, either. We'll need to be ready for whatever comes our way."
+  mnc_army1:0 "Drilling It In"
+  mnc_army1_desc:0 "Running military drills will help with restoring order back to our own ranks and to our new initiates from the area."
+  mnc_army2:0 "Shouting Them Down"
+  mnc_army2_desc:0 "As Paladin Ryczek once taught many of our initiates, yelling and shouting can often have quite the effect on their development as effective soldiers."
+  mnc_army3:0 "Giving A Thousand Tens"
+  mnc_army3_desc:0 "Power armor only does so much for our initiates. Genuine pre-war exercise techniques are proven to help, and per the orders of Paladin Hayman, "anyone who disagrees with that is cleaning the Brahmin pens.""
+  mnc_tribalteachings1:0 "Tribal Teachings"
+  mnc_tribalteachings1_desc:0 "Some of the Paladins within our ranks were once tribals, Midwestern or otherwise. Taking note of their customs-- primitive as they may be-- could be advantageous."
+  mnc_tribalteachings2:0 "Adorning Tribal Markings"
+  mnc_tribalteachings2_desc:0 "While... Untraditional, some of our soldiers seem to work better when allowed to express themselves and their uncivilized manners. While a tad heinous, it may prove to our benefit-- and their loyalty to the Brotherhood-- if they are allowed to do so."
+  mnc_recruitcivilians1:0 "Recruiting Disenfranchised"
+  mnc_recruitcivilians1_desc:0 "While some of them were disenfranchised by our arrival in Montana, no doubt there are plenty of men and women here with a pathetically little amount to their name. The Brotherhood can offer them an identity they could never find on their own."
+  mnc_recruitcivilians2:0 "Recruiting Raiders"
+  mnc_recruitcivilians2_desc:0 ""Montana is a thriving cesspool of raider scum and highway vagabonds. Killing all of these able-bodied sorry sons-of-bitches is only gonna do a modicum of good compared to taking 'em off the streets and throwing them in a Brotherhood suit and pointing them at the bad guys." --Paladin Hayman"
+  mnc_recruitcivilians3:0 "Recruiting Miners"
+  mnc_recruitcivilians3_desc:0 "There's several significant mines within this region, per the Coal Consortium's doctrines. If it's a significant enough that we've ran into several already, it's a decent place to derives recruits from. Nobody wants to be stuck in a dead-end cave forever."
+  mnc_recruitcivilians4:0 "Recruiting Wanderers"
+  mnc_recruitcivilians4_desc:0 ""It seems the longer we've been here in Montana that we just keep finding newer and newer issues all around us. Plenty of folks out here are wanderer-types, real "storybook heroes" type of imbeciles. I say we gather 'em up, give them a rifle, and tell them what-for." --Paladin Hayman"
+  mnc_everypaladinawall1:0 "Every Paladin a Brick"
+  mnc_everypaladinawall1_desc:0 ""Alright, listen up, you sorry band of ne'er-do-wells and nincompoops-- every single one of you is now an initiate in the Brotherhood of Steel. By the end of this training course, you'll be well on your way to being a paladin if you take even a cap of what I say into your sorry little noggins..." --Paladin Hayman"
+  mnc_everypaladinawall2:0 "Every Paladin a Wall"
+  mnc_everypaladinawall2_desc:0 "Recently, we held a promotion ceremony to congratulate several of our own on their valor and developing skills. Paladin Hayman had this to offer: "Well I'll be damned... You bunch of idiots did it. It almost makes me want to cry...""
+
+  mnc_powerarmorbonuses1:0 "Power Armor Training"
+  mnc_powerarmorbonuses1_desc:0 "Many of our promoted individuals within the Brotherhood have never seen extensive time in a suit of Power Armor. If we want more baseline training, we're going to need to acclimate them."
+  mnc_powerarmorbonuses2:0 "Power Armor Charge"
+  mnc_powerarmorbonuses2_desc:0 ""You want my thoughts on these idiots? Tell them that they don't need to be running like its a goddamn marathon all the time. If they keep at it, they're gonna wear down the fusion cores before the Enclave can even meet them!" --Paladin Hayman"
+  mnc_powerarmorbonuses3:0 "Power Armor Patcher"
+  mnc_powerarmorbonuses3_desc:0 ""Listen up recruits, here's a Power Armour maintenance hack those stick-up-the-yoohoo will disagree with. Dented helms? Cracked pauldrons? Just grab some scrap metal, slap that baby on, and treat yourself to a new paint-over." --Paladin Minerva \n\n"Please don't do that. Don't make me beg." --Elder Patrocolus"
+  mnc_powerarmorbonuses4:0 "Power Armor Stabilization"
+  mnc_powerarmorbonuses4_desc:0 "Many of the newbies have begun teaching one another about their power armor, increasing their efficiency and camaraderie on the field. Truly, they grow up so fast..."
+
+  #Tooltips -------------------------------------------------------------------------------------------
+
+  MNC_hayman:0 "Head Paladin Hayman"
+  MNC_minerva:0 "Paladin Minerva"
+  mnc_minerva_marshall_tt:0 "§YMinerva§! will be available as a §MUnit Leader§!!"
+  mnc_hayman_marshall_tt:0 "§YHayman§! will be available as a §MUnit Leader§!!"
+  mnc_ruminators_puppet_montanaside_tt:0 "We will request the §YRuminators§! relinquish their governing bodies and allow the §PSisterhood§! to assume control, allowing them to operate with more peace than previously available."
+  mnc_havre_puppet_montanaside_tt:0 "We will request that §YHavre§! relinquish their autonomy in favor of §PSisterhood authority.§!"
+  mnc_ruminators_puppet_BTHside_tt:0 "We will become a §Mpuppet§! of the §PSisters of Steel§!, and gain more benefits later!"
+  mnc_comingin5_tt:0 "§RComing in 5.0!§!"
+  mnc_romancedecisions_tt:0 "Unlocks the ability to enter... §P"Negotiations"§! with a figure from the §YNorthern Khans.§!"
+  mnc_fear_tt:0 "We will erect a large amount of §Mdefenses§! around §YFort Verity!§!"
+  mnc_ihatepowerarmor_tt:0 "We will be able to produce §GAdvanced Technical Armor§!!"
+  mnc_macarthursurrender_tt:0 "§PWe will request that [MCA.GetName] surrender themselves to our might!§!"
+
+  #Lusa ToolTips not implemented yet, but written! --------------------------------------------
+
+  mnc_honours_plan_tt:0 "§g"In silence, we garner support.  Then, when our chance to act surfaces, shall there be reprisal." --Sentinel Honour§!"
+  mnc_minerva_the_arenas_bewitcher_tt:0 "§g"Oh, baby, have I been waiting for this my entire life!"  —Paladin Minerva§!"
+  mnc_return_of_the_wilds_tt:0 "§g"Well, aren't these little guys a gem?  I could certainly craft some Sisterhood-styled bullet proof vests for them."  —Knight Thrift§!"
+  mnc_fuel_for_the_fire_tt:0 "§g"Some of the townsfolk under our protection have children.  How desperately do I want to give these children a warm feast or a night free from shivers and woe." —Sentinel Honour§!"
+  mnc_working_without_honour_tt:0 "§gBefore setting off for her errands, Honour had glanced up to the three in her chamber.  "Can I trust you three to stay out of trouble?"  she asked, half jesting. \n\n"Yes," both the Pentecoste siblings nodded. \n\n"Maybe," Thrift added.§!"
+  mnc_squashing_book_worms_tt:0 "§g"Does anyone else hear that humming?" —Knight Betsy§!"
+  mnc_the_sisterhood_caravans_tt:0 "§g"Did you see that brahmin?!  It must have been carrying, like, a whole building of things!"  —Paladin Johanna§!"
+  mnc_immortal_undying_damnation_tt:0 "§g"Heh.  I recognize those suits.  That's the guy that did Hayman in, ain't it?"  —Paladin Minerva§!"
+  mnc_hungry_for_tt:0 "§g"You'd think after the first rounds of telling people to not eat other people, the law would have digested by now.  Ah, wait, that's poor wording." —Knight Warwick§!"
+  mnc_commune_with_the_gods_tt:0 "§g"I am not sure what an Ecks-Box is or a Saint Sony, but I am enthused by the Reavers' curious excitement nevertheless."  —Sentinel Honour§!"
+  mnc_sister_born_in_murk_risen_in_steel_tt:0 "§g"Free your heart from those old chains, Sisters, so that you may arise anew.  Follow the laws of your own world—where family ties are more crucial than steel." —Sentinel Honour§!"
+
+  #-------------------------------------------------------------------------------------------
+
+  mnc_thesisters_dead_tt:0 "§g"My greatest disappointment. What was I thinking..." --Elder Patrocolus"
+  mnc_patrocolusplan_tt:0 "§g"Nobody will miss her." --Head Paladin Hayman§!"
+  mnc_stargazer_1_tt:0 "§g"A well equipped army, you sorry ladies, gentlemen, and all of you in-betweens, is the most important and most efficient key to success here in Montana!" --Head Paladin Hayman§!"
+  mnc_stargazer_warwick_tt:0 "§g"So, I had an idea-- there's this compound out west, I hear. Supposed to have a bunch of little knick-knacks and bits-and-bobs we can use for STARGAZER. You know what I mean." --Knight Warwick§!"
+  mnc_stargazer_amity_tt:0 "§g"So, um-- not going to lie, Elder, but I'm kind of freaked out about this not working, so I took the liberty of just lining out everything beforehand. I hope the research files help! It's a couple months of work at least." --Scribe Amity§!"
+  mnc_thrift_airfield_tt:0 "§g"Want my two caps? Get a couple grenades, lob 'em in there. You do the math." --Knight Thrift§!"
+  mnc_paladin_jasmine_airfield_tt:0 "§g"Elder, if we wish to properly operate within the region, establishing a method of consistent communication between our headquarters and squads out in the field is an absolute necessity. I admit, this is less of a request and more of a genuine plea for assistance." --Paladin Jasmine§!"
+  mnc_hayman_enclave_war_tt:0 "§g"Listen up, you bunch of idiots-- your Elder demands a strike so quick and calculated it'll send these rat-bastards crying on their planes to Chicago. That means one thing and one thing only: we will not rest, we will not waver, we will not cry or moan or bitch or shout until that mountain of theirs is LEVELLED, and by the time we are done, I will see every piece of their sorry metal hides bent and broken in every which way the human brain possibly think up! Do I make myself clear?!" --Head Paladin Hayman§!"
+  mnc_whatagoodmandoes_tt:0 "§g"They told me to secure the bunker. We've exceeded our mission tenfold, and liberated a great deal of the Montanan countryside from the terror of both raider and Enclave alike. But there exists other threats, and so we may not rest. Not until all shadows have been drowned in the light of steel." --Elder Patrocolus§!"
+  mnc_back_in_the_saddle_tt:0 "§g"Never one without the other." --Sisters of Steel phrase, originally coined by Sentinel Honour prior to their destruction.§!"
+  mnc_hayman_reminder_tt:0 "§g"Our dominance in this region, to be effective, must be complete and it must be harsh. No one will learn anything if our control is anything other than total." --Head Paladin Hayman§!"
+  mnc_minerva_death_tt:0 "§g"...Comes back around, you traitorous bitch." --Head Paladin Hayman§!"
+  mnc_claims_montana_and_dakota_tt:0 "We will gain §Mclaims§! on all of §YMontana§! and §YDakota§!!"
+  mnc_claims_montana_and_washington_tt:0 "We will gain §Mclaims§! on all of §YMontana§! and §YWashington§!!"
+
+  #ideas
+  #yes they're in here, i'm evil like that
+
+  mnc_take_nothing:0 "We Took Nothing"
+  mnc_sciencedrive1:0 "The Science Drive, Driving!"
+  mnc_sciencedrive2:0 "The Science Drive, Driven!"
+  mnc_scribe_endeavors:0 "Montanan Scribe Endeavors"
+  mnc_ad_victoriam:0 "Ad Victoriam"
+  mnc_martial_law:0 "Brotherhood Overwatch"
+  mnc_brotherhood_irrigation_changes:0 "The River Provides"
+  mnc_the_crucible_like_from_destiny_aha_uhhhhhhh_this_is_awkward:0 "The Bewitching Tourneys!"
+  mnc_sister_stand_strong_0_rebellion:0 "Sisters, Shattered"
+  mnc_sister_stand_strong_1:0 "Sisters, Fragmented"
+  mnc_sister_stand_strong_2:0 "Sisters, Gathered"
+  mnc_sister_stand_strong_3:0 "Sisters, United"
+  mnc_sisters_with_misters:0 "Sisters With Misters"
+  mnc_patrocolus_emergency_conscription:0 "Emergency Conscription Measures"
+  mnc_farmhand_auxillaries:0 "Farmhand Conscripts"
+  mnc_raider_auxillaries:0 "Raider Reformation Mandates"
+  mnc_exaltations:0 "Brotherhood Exaltations"
+  mnc_brotherhood_auxillaries:0 "Sisterhood Oversight"
+  mnc_cannibalism_ban_idea:0 "Cannibal Reformation Programs"
+  mnc_high_hopes_and_heavy_hearts:0 "High Hopes and Heavy Hearts"
+  mnc_theatre_plays:0 "Auditions in the Sisterhood"
+  mnc_theatre_plays_2:0 "Sisterhood Aftershow"
+  mnc_reavers_1:0 "Reavers Descendants"
+  mnc_reavers_2:0 "Legacy of the Reavers"
+  mnc_beast_lords_1:0 "Beastlord Descendants"
+  mnc_beast_lords_2:0 "Legacy of the Beastlords"
+  mnc_homeliner_crews:0 "Artisan Crafts"
+  mnc_sister_initations:0 "Forging a Sisterhood"
+  mnc_honors_gifts:0 "Gifts from a Sister"
+  mnc_sisters_codes:0 "The Sister's Coda"
+  mnc_itsalwaysagoodtime:0 "It's Always A Good Time"
+  mnc_go_set_a_watchman1:0 "Paladin Brick-Mindsets"
+  mnc_go_set_a_watchman2:0 "Paladin Wall-Mindsets"
+  mnc_tribalteachings_1:0 "Tribal Memories"
+  mnc_tribalteachings_2:0 "Tribal Warpaints"
+  mnc_powerarmorproduction_1:0 "Power Armor Training MKI"
+  mnc_powerarmorproduction_2:0 "Power Armor Training MKII"
+  mnc_powerarmorproduction_3:0 "Power Armor Training MKIII"
+  mnc_powerarmorproduction_4:0 "Power Armor Training MKIV"
+  mnc_oiledup_1:0 "Oiled Up, and..."
+  mnc_oiledup_2:0 "Rearin' To Go!"
+  mnc_thriftsgarage_1:0 "Thrift's Humble Hovel"
+  mnc_thriftsgarage_2:0 "Thrift's Little Palace"
+  mnc_patrocolus_loyalists:0 "Sisterhood Schism!"
+  mnc_something_new:0 "We Can Do It!"
+  mnc_strangers_friends:0 "Camaraderie Above Codex"
+  mnc_aggression_idea:0 "Patrocolus' Ambition"
+
+  #characters - names - descs
+
+  MNC_patrocolus:0 "Elder Patrocolus"
+  ELDER_PATROCOLUS_DESC:0 "§GPersonnel Entry -- Patrocolus, Jacob§! \n\n§YRank:§! §gElder§! \n\n"Go Patrocolus, go forth to Montana," the Midwestern hierarchs said, "and secure it for the Brotherhood." \n\nAn envoy of the Midwest and a Brotherhood stalwart, Patrocolus has seen many theatres of combat and engaged with different eras of Midwestern rule. Prior records make note of his ruthless efficiency and curt, straight-to-the-point candour. Deemed perfect to finish the Brotherhood's mission in Montana."
+  MNC_headintheclouds:0 "Sentinel Honour"
+  MNC_headintheclouds_desc:0 "§GPersonnel Entry -- Clouds, Honour§! \n\n§YRank:§! §gSentinel§! \n\nA valiant member of Brotherhood personnel famed for her clashes with Enclave personnel operating out of Chicago, Sentinel Honor was granted some liberty with her rank. Recently, this has been called into question thanks to the deeds of Paladin Johanna. Determined to make a difference for herself and those who pledge themselves to her cause, Honour stands as a mighty wall against all that would do her or her sisters harm."
+  MNC_hayman:0 "Head Paladin Hayman"
+  mnc_hayman_chief_desc:0 "§GPersonnel Entry -- Hayman, Justinia§! \n\n§YRank:§! §gHead Paladin§! \n\nWhen the Brotherhood needs something done quick and without question, Justinia Hayman is the first to be consulted. A pragmatic soul, she would describe herself to be the absolute last resort in any given situation. In every operation she's ever been a part of, she's been thorough and effective with a near 100% success rate. Now, considered cruel and total in her dealings even by raiders, Hayman was deemed to be the perfect companion to Patrocolus' mission in Montana."
+  MNC_minerva:0 "Paladin Minerva"
+  mnc_minerva_chief_desc:0 "§GPersonnel Entry -- Minerva, Ashe§! \n\n§YRank:§! §gPaladin§! \n\nPaladin Minerva is a grizzled veteran of some of the smaller Brotherhood campaigns in and around Missouri. Whilst a former raider, she acclimated mostly well to Brotherhood lifestyle, forging questionably close connections to others within the purported 'Sisters of Steel.' Obsessed with the artistry of combat and fighting styles, she has made for an excellent trainer for both experienced and inexperienced personnel in part due to her great knowledge and in other thanks to her ever-present welcoming mood."
+  mnc_warwick_name: "Knight Warwick"
+  MNC_warwick_advisor_desc:0 "§GPersonnel Entry -- Pentecoste, Warwick§! \n\n§YRank:§! §gKnight§! \n\n"Headstrong and cunning, Knight Warwick— having requested to be referred to by his first name as to avoid confusion with his twin— is a highly capable and highly talented member of the Brotherhood's arsenal. \n\nWhile his confidence borderlines smarm, as noted by new recruits who have expressed colourful comments on his ignore-all-take-charge attitude, he is well respected for his skill in firearms and decisive combat manoeuvres. \n\nKnight Willow is the latest descendent of the esteemed Pentecostes. He continues to carry on their legacy of strength and valour for the Brotherhood." \n\n§g||§! §RScribe Amity's Note:§! §gWow, they really did not finish this one, did they? I'll have to make a note to get in there and update the name entries.§! §g||§!"
+  mnc_thrift: "Knight Thrift"
+  MNC_cultural_paladin_desc:0 "§GPersonnel Entry -- Thrift, Ryder§! \n\n§YRank:§! §gKnight§! \n\n"Best known for his explosive-know-how and technical expertise, Knight Thrift is an ex-raider with a jolly spirit with abstract methodologies. \n\nThough criticised for his trigger-happy tendencies, as noted by a few superiors, his technological breakthroughs and contributions to the Brotherhood are unmatched.  His wit and craftiness have drawn praise from significant Brotherhood personnel. \n\nKnight Thrift was recruited by Honour and put into reform under her, where since then he has pledged service to the Brotherhood." \n\n§g||§! §RScribe Quilla's Note:§! §gI was informed Thrift had a bomb in his hand today in the middle of a settlement.  In the case today is the day winds up dead, I am setting a reminder for someone to retrieve his holotag.§! §g||§!"
+  mnc_johanna:0 "Paladin Johanna"
+  MNC_poggers_wild_child_desc:0 "§GPersonnel Entry -- Pentecoste, Johanna§! \n\n§YRank:§! §gPaladin§! \n\nPaladin Johanna—having requested to be referred to by her first name as to avoid confusion with her twin—is renowned for her inspiring sense of righteousness and daring ambition. \n\nThough reckless and sporadic, no one can deny that her actions and commitment to the bunker prior have served as the catalyst of the Brotherhood.  Coupled with her uplifting personality, she is well-liked and respected by her peers. \n\nPaladin Johanna is the latest descendent of the esteemed Pentecostes.  She continues to carry on their legacy of compassion and virtue for the Brotherhood."
+  mnc_tanya_name:0 "Tanya Kareva"
+  MNC_tanya_advisor_desc:0 "The most notorious among the locals here in Fort Verity, Tanya Kareva has agreed to help our chapter in exchange for our continued assistance."
+  mnc_flubbins_name:0 "Paladin "Flubbins""
+  MNC_flubbins_moderator_desc:0 "§GPersonnel Entry -- Flubbins§! \n\n§YRank:§! §gPaladin§! \n\nA workhorse of a paladin who decided to write the word "Flubbins" on his power armor to make identification easier."
+  mnc_scribe_amity_name:0 "Scribe Amity"
+  mnc_scribe_amity_token_desc:0 "§GPersonnel Entry -- Amity, Narwe§! \n\n§YRank:§! §gScribe§! \n\nAn infamous yet eccentric scribe. Highly efficient and skilled in her field. Also likes pretty flowers. \n\n§g||§! §RScribe Quilla's Note:§! §gQuit writing your own entry! I've had to go over and correct this three times now. If there's a fourth, I'm going to file a report.§! §g||§!"
+
+  ################
+  #### events ####
+  ################
+
+  #openers
+
+  nf_mnc.1.t:0 "Patrocolus' Charge"
+  nf_mnc.1.d:0 "Long ago, in the American Midwest, a set of Midwestern Scribes and Paladins were running a search operation within their hundredth or so derelict facility. Just as they thought they had seen it all, they found something remarkable: a map to a pre-war bunker that pointed to what had once been known as the state of Montana. The supply log was simple but powerful, and to some, mythological: the bunker was designed to hold its own weight in Fusion Cores, Plasma Rifles, and other associated supplies. \n\nThe weight of such an expedition was considered for a time, but deemed fruitless. This bunker had surely been plundered, some said: others, that it was simply too far to send a recovery detachment and expect realistic, worthwhile results. With the threat of the Enclave in Chicago, and the threads that held the Brotherhood together already strained, it was deemed unworthwhile. \n\nThat is, until one certain Paladin decided to steal the notes, the cipher, and several other pieces of confidential Brotherhood data, eloping by her lonesome into the long night north. An expedition was mustered nearly overnight, the embarrassment and anger of the higher echelons like a risible thunder through the ranks. To them, in such a state of emergency, there was only one man fit to send. "Go Patrocolus, go forth and scour this traitor, and secure this vault for the Brotherhood," they told him. \n\nAnd so, he set off. What did he prioritize in the expedition's forces?"
+  nf_mnc.1.a:0 "He prioritized experience over numbers."
+  nf_mnc.1.b:0 "Experience was important, but numbers would outlast veterancy."
+
+  nf_mnc.2.t:0 "The Sisters of Steel"
+  nf_mnc.2.d:0 "Among Patrocolus' ranks was a peculiar group, the ‘Sisters of Steel,' controversial in their formation and moreso with their inclusion in the expedition. Composed almost entirely of ex-Tribals, Reaver descendants, and reformed Raiders, the Sisters were a group formed entirely around the concept of camaraderie over codex-- something that has gotten them into considerable trouble in the past. \n\nWhen Patrocolus chose to include them, he did so out of a mixture of pity and mannered respect. The rogue Paladin who had stolen the confidential materials was a Sister herself, after all. While his colleagues expressed pushback at the thought, he held faith in the idea that they had a chance to redeem themselves under his charge, and restore their position in the Brotherhood. \n\nTheir leader, Sentinel Honour, has long-since been a disputed figure under the Midwestern hegemony. Some claim that even with her years of training under the Brotherhood, she retains a fiery independence unlike those of her status-- causing those loyal to her to be fiercely so, and her detractors to be even louder..."
+  nf_mnc.2.a:0 "Sisters Stand Strong."
+
+  nf_mnc.3.t:0 "By the Fireside, Out on the Frontier"
+  nf_mnc.3.d:0 "Down the hill from Honour's perch-of-choice was a party of friends and family. Cries of cheer and valorous boasts emanated like a roundabout clockwork, as they did at every celebration. Even still, as she watched the campfires flicker and the Knights drink deeply of their canteens, she couldn't have felt more lonely. Before she could sink deeper into her thoughts, she heard the aged boot of Patrocolus stamp down next to her. \n\n"Sitting up here alone?" he chuckled, "You know, we're a week or so out from the bunker, Honour— why not come celebrate?" asked Patrocolus. \n\nHonour snickered softly. "As fun as that sounds, my mind remains on the Johanna situation... I can't fathom her reasoning." \n\nPatrocolus sighed, understanding but dismissive. "I'll do you one better: it doesn't matter. She ran off with some of our most valuable knowledge without so much as a word in her stead. As far as I'm concerned, if she cared at all, she'd have said something." he rested his hands on his hips, "I know what you're thinking, but she knew what would happen." \n\n"I know her better than you, Patrocolus," Honour said gently, "She's not a traitor. She's family, to you and to me." \n\n"Then I suppose someone should have told her that before this all happened," Patrocolus shrugged his shoulders, "In any case, I'll have some of the others save you some rations. We don't know what to expect deeper in Montana." he dusted himself off, glancing back to her. "Family, Honour, is the folks who stayed with you the whole way, no matter what." \n\nHonour glanced up with with a semi-stern gaze, rich with a valorous intent. "I agree," she said, knowing they meant two different things..."
+  nf_mnc.3.a:0 "The Night is Long and Our Hearts Young."
+
+  ##i know, i know, why is this here? it's so last second that it's a very good question that i have no answers to
+
+  nf_mnc.4.t:0 "Training Report"
+  nf_mnc.4.d:0 "The elder had called for Warwick and Hayman to give him an in-person report on their recent ventures: keeping tabs had become an important part of the post-sisterhood Expedition, after all. Patrocolus looked up from his papers as they entered, removing his reading glasses. "How are you two liking the new initiates?" \n\nHayman cut Warwick off in a flash. "I'm glad you asked." she pulled out a laser pistol, aiming it directly at Patrocolus' head and firing. A near perfect 45 degree miss— the laser leaving a black mark on the bunker wall. \n\nAfter a fumble, the Elder snarled back. "Watch where you point that damn thing, Hayman!" Patrocolus spat. \n\nShe rolled her eyes beneath her helmet. "You knew damn well it wasn't going to hit you." she said dismissively. \n\nWarwick withheld a comment, instead answering as normal as he could. "So, that bad? How new are they?" \n\n"Two weeks into training. Their hands were too fidgety. Bastard couldn't keep them straight long enough to hold the refractor in place, so now it's a dud until I fix it myself." \n\nWarwick rubbed his face, "Let me guess: you were standing right next to them while they did it?" \n\n"So I was." \n\n"I think we just figured out why they were freaked out," Warwick raised a brow, half-frowning. "You realize there's no good reason to watch them like a hawk, right?" \n\n"Hm," Hayman grunted, inspecting the laser pistol idly. "How about working under pressure?""
+  nf_mnc.4.a:0 "Thankfully, she's not my teacher!"
+
+
+  #knight and the scribe
+
+  nf_mnc.101.t:0 "A Funny Day In The Bunker"
+  nf_mnc.101.d:0 "Patrocolus found a strange audio log he didn't recognize on his desk. Playing it, he heard Scribe Amity and Knight Siegfra talking over another... \n\n-------- \n\n"§GSo, okay,§!" Amity began, "§GWe had an idea--§!" \n\n"§O--yeah, yeah, we were thinking that--§!" \n\n"§G--we found an old pamphlet in a school nearby--§!" \n\n"§OBasically, a SCIENCE DRIVE to get people really, really--§!" \n\n"§GIt'll be super fun, seriously--§!" \n\n"§O--we swear it won't go wrong and we'll overlook every detail--§!" \n\n"§GNothing could possibly go wrong!§!""
+  nf_mnc.101.a:0 "...We'll see about that."
+
+  nf_mnc.102.t:0 "Maybe This Was A Mistake..."
+  nf_mnc.102.d:0 "Patrocolus often liked to go on long walks outside the bunker, admiring the scenery and finding calm places to simply think on things without the humdrum of lights and busy bustling of knights. Johanna, especially, preoccupied his time-- and Honour's lot. Though he knew he did right by the Codex, and by the Brotherhood, he couldn't help but think on her words extensively, as if her face alone was haunting him. Realizing he was too left alone with his thoughts, he returned to the bunker-- \n\nAnd found the worst mess he had ever seen. The leftovers of a ‘mini-volcano' were strewn about the floor, a small plasma coil had exploded, blowing out a pipe, and somehow Scribe Carmella had been rendered unconscious-- to which, no one had an explanation. Before he could express his anger, a bit of volcanic foam fell on his head, a frothy mess dripping down... And though an expression of terror was on everyone's face, all he could do was laugh and give them a "Be careful next time.""
+  nf_mnc.102.a:0 "Carmella ended up being alright."
+
+  #industrial foci
+
+  nf_mnc.300.t:0 "Approaching the Cyborgs"
+  nf_mnc.300.d:0 "WARWICK'S REPORT. \n\nSir, \n\nThe Metalmouths, a ragtag group of would-be 'men of iron' raiders, have done something ridiculous: merging themselves with technology. While this is abhorrent, the uses could be... Well, considered. Enlisting them-- at the very least, temporarily-- could be useful. It's up to you how useful, ultimately."
+  nf_mnc.300.a:0 "placeholder"
+
+  nf_mnc.301.t:0 "Enacting Brotherhood Authority"
+  nf_mnc.301.desc:0 "Our reports indicate that this region is rich in old world relics, with even more caps stashed around and within the local residencies. As the region has seen little trade, and these people are isolated, it may be in our best interests to take what we can..."
+  nf_mnc.301.a:0 "We took just enough."
+  nf_mnc.301.b:0 "We took what we wanted."
+  nf_mnc.301.c:0 "We took everything that we saw."
+  nf_mnc.301.d:0 "We took nothing, and the locals were grateful for it."
+
+  nf_mnc.302.t:0 "Mendoza's Casket: The Stockpile"
+  nf_mnc.302.d:0 "Though the inside of the station was dangerous, and some soldiers were wounded, they managed to bring back some of the treasure before it collapsed. What did they manage to secure?"
+  nf_mnc.302.a:0 "Power armor!"
+  nf_mnc.302.b:0 "Energy weapons!"
+
+  nf_mnc.304.t:0 "Clearing Out Yokels"
+  nf_mnc.304.d:0 "Elder, \n\nWe sent out a team to clear out the nearby airfield, and ran into some issues with the local populace. When we attempted to bring items to set up a FOB at the hangar, we encountered a soup kitchen that has been set up for a group of supposedly reformed raiders. Until they're dealt with, our air operations will have to be put on a freeze."
+  nf_mnc.304.a:0 "Make them work for us."
+  nf_mnc.304.b:0 "Scourge the hangar. Leave nothing behind."
+
+  #military/vehicle
+
+  nf_mnc.401.t:0 "Seeking Hopefuls"
+  nf_mnc.401.d:0 "The expedition to Montana was brutal-- fraught with raiders and opportunists who saw Brotherhood soldiers as more of an opportunity, rather than something to fear. The expedition's decline in numbers increased exponentially the further they grew from their homes in the Midwest-- with many injured or deceased, the expedition would need to gather new recruits along the way..."
+  nf_mnc.401.a:0 ""Any local yokel will do.""
+  nf_mnc.401.b:0 ""Careful selection is key.""
+
+  nf_mnc.5.t:0 "Brotherhood Racketeering"
+  nf_mnc.5.d:0 "WARWICK'S REPORT. \n\nSir, \n\nSince we set up here in Montana, I've been getting into some new hobbies-- including putting my money where my mouth is, and through poking around, it's started to click to me that the locals populace here in Fort Verity are sitting upon quite a lot of valuables that could be used to our benefit-- and I'm not just talking about a jury-rigged laser pistol hidden in some janky safe, either. While taking too much of these folks possession's may cause consequences, ultimately these could be used to further the power and sanctity of our bastions here in Montana. I am, of course, advising authorizing recovery operations within the city."
+  nf_mnc.5.a:0 "Just enough to assert authority."
+  nf_mnc.5.b:0 "Just enough to line our men's pockets well."
+  nf_mnc.5.c:0 "These people don't matter in the end. Take it all."
+
+  nf_mnc.101.t:0 "Brotherhood Scouts"
+  nf_mnc.101.d:0 "Strange men came from the north today, bearing an insignia not local to the region. How did we welcome them?"
+
+  #--------------SISTERHOOD BRANCH------------------ LUSA SANCTIONED
+
+  nf_mnc.201.t:0 "The Bewitching Arena Opens Today!"
+  nf_mnc.201.d:0 "Come one, come all, to Minerva's Bewitching Arena! \n\nRaise your ear to the sky—-do you hear it?  The echoing chant; the scream of victory. \n\nTo daredevils and thrill-seekers alike, come on down to the Arena!  Lose yourself in the moment; steel-on-steel, sparks, bursts, glory!  For the opening month, audience seats are free!  So come down and take a gander—-what have you got to lose? \n\n--To register as a participant, you must be a part of the Sisterhood of Steel and rank Knight or higher.  If you are an Initiate, you must provide a letter of an endorsement from a verified sponsor.--"
+  nf_mnc.201.a:0 "Daredevils filled the arena grounds!"
+  nf_mnc.201.b:0 "Thrill-seekers flowed in waves!"
+
+
+  nf_mnc.202.t:0 "Minerva's Grand Tournament!"
+  nf_mnc.202.d:0 "Come on down to watch your beloved Sisters of Steel duke it out and settle the final score! Let's introduce our potential champions and their statements to the fans! \n\n§RJohanna:§! "A heartfelt thanks to everyone cheering me on!  I'll do my best!" \n\n§RIsolde:§! "This is my first time participating in anything like this, but I believe in beginner's luck!" \n\n§RLucius:§! "Heh, so this is the competition?" \n\n§RCaerminh:§! "I'm here because I lost a bet.  Cool place, though." \n\n§RBetsy:§! "The idea of an arena always excited me.  I can't believe we've got something like this going on.  I'm pumped and ready!" \n\n§RPenn:§! "Wait... I'm fighting Betsy first?!" \n\n§RWarwick:§! "You want a statement?  Sure!  To all my opponenets-- good luck.  You'll need it." \n\n§RSiohan:§! "Being the only intiate here is nerve-wracking.  Especially considering who I'm up against first, but I don't plan on losing on the first round!" \n\nOrder your tickets now.  Just 7 caps each!"
+  nf_mnc.202.a:0 "Let's Go!"
+
+  nf_mnc.207.t:0 "Chalk And Kindled Spirits"
+  nf_mnc.207.d:0 "Minerva loomed over her desk, flipping through pages of jot notes.  In Honour's presence, she attempted a steady posture, but the excited bounce in her leg betrayed her calm countenance. \n\n"Alright, Clouds, what do you think?"  Minerva asked, glancing over her shoulder.  "‘Come one, come all!' or ‘Get ready to be bewitched?'." \n\nHonour chuckled, "I like the second one." \n\n"Shall her words ring true," smirked Minerva.  She continued scribbling.  "Grab that container from my bag?"  She gestured to a duffle bag slumped in a chair. \n\nHonour obliged.  The brass container was sleek—the lid streaked with faint, ashen marks.  It was her chalk-container, Honour recognize then.  She carried it everywhere.  "I always forget to ask," Honour began, giving her the container.  "What is this to you?" \n\n"This old thing?"  Minerva grinned, "Just something from my raider days."  After a light shake, Minerva popped open the lid.  She dipped her hand straight in and scooped out a helping of crushed chalk.  Minerva rubbed the chalk into her twists, giving them the ashen look that people remembered her for. \n\n"A tradition?"  Honour asked. \n\n"One of my oldest.  My old gang—the Ashmen—used to do this every morn'.  Added some bark to our bite, and it was easy to spot one of our own in big fights."  She smacked her hands together.  "Heh, we rode our high for so long that some people began to think the white hair meant we were immortals." \n\n"Perhaps they were right?" Honour jested. \n\n"Nah," Minerva leaned over to ruffle Honour's hair— a fond gesture she used to do when they were initiates.  Honour stood still, accepting the chalk with a smile.  Minerva smirked, "Now they're right.""
+  nf_mnc.207.a:0 "And so we continue on."
+
+  nf_mnc.203.t:0 "Johanna's Pre-Rehearsel Log"
+  nf_mnc.203.d:0 "§RA flat tone buzzes for a minute, then the feedback cuts.  There's a click.  Two voices murmur over each other.§! \n\n"Is this thing on?"  Johanna's voice cuts in clear.  "Damn, you carry this everywhere?" \n\n"Yeah, good for the thoughts, Han.  Also you can tell by the red light—" Muffled fumbling interrupts Warwick.  "Woah, careful!" \n\n§RTheres a clack, then a moment of awkward silence.§! \n\n"Caught it!"  Johanna chuckles weakly.  Warwick sighs deeply in the distance.   "Okay, now scoot!  Get!" \n\n§RWarwick mumbles something unintelligible before a door closes.§! \n\n"Alright, Johanna's log!  Super excited for the theatre.  Most of the roles have been set.  Elizaveta came by the other day.  She makes the perfect Sandy, gave her the role instantly.  Minerva's playing several background characters since we're short on those.  Might be hard since she's so... spotlight material.  Thrift's handling special effects, but he said he'd be down to play the coach.  Honour says she's coming!  It's a little nerve wracking, but that means we gotta bring our best.  Now I just need to decide who will play Danny..." \n\n§RTheres a pause, then a gasp.§! \n\n"Wait—-I know exactly who!" \n\n§RThe audio recording ends.§!"
+  nf_mnc.203.a:0 ""Warwick!  Put on the leather jacket!""
+
+  nf_mnc.204.t:0 "Approaching The Library -- Warwick's Log"
+  nf_mnc.204.d:0 "§RA flat tone buzzes for a minute, then the feedback cuts.  There's a click§! \n\n"Finally made it to that library I scouted weeks back, but it took more days than originally planned.  Fucking aye—the weather got shittier, had to slow down.  Didn't need one of my guys freezing to death.  I can't afford to drag a corpse home, nor bring myself to carry back a suit without its man.  Betsy says she saw something a few nights back—glowing eyes in the thickets.  Hope it's just her sleep deprivation." \n\n§RThere's a faint draw of breath—apprehensive, but exhausted moreso.§! \n\n"Thinking about how fast our old Scribes dropped makes me seethe.  I think that's the right word to use, I don't know.  Don't really care.  I'm just angry.  ‘Cause Honour was right about some things, I hate to say it, but she was, and by jumping the gun like that, they all proved her point.  But Johanna's safe.  That's what matters.  Ma would be fuming from the grave if it turned out her last two kids couldn't even keep it together." \n\n§RThe audio crackles over a dry chuckle§! \n\n"Whatever.  I've rambled about that shit too many times already.  Gonna' delete this later if I don't die.  Whoever loots this tape recorder off my body, feel free to keep it.  I'm not gonna' haunt ya'... maybe.  Ha, depends on how I die.  Knight Warwick, signing off." \n\n§RThe audio recording ends.§!"
+  nf_mnc.204.a:0 "There's nowhere but forward from here."
+
+  nf_mnc.205.t:0 "Something Awry"
+  nf_mnc.205.d:0 "Beyond the soft whistles of the wind, the library was silent.  Short of a miracle, the books and building itself were fully intact, save for a few holes in the walls. \n\nWarwick plucked a book from a shelf, lightly jostling it in his hands before peeling it open.  He scanned the water-stained pages.  It's something on lakes—not his specialty, but hey, it could be someone else's.  With a shrug he tossed it into his bag. \n\n"Hey, Wick, we've got some trouble," Penn murmured through the comms.  His voice was static-ladened— garbled enough to indicate he's deep in. \n\n"That so?"  Warwick clicked his tongue, reaching for another book.  "Distasteful hospitality or a grubby welcome? \n\n"Neither, just—eugh!"  Penn groaned.  A muffled zap rang from his end.  "Fuckin' big ass worms.  Nothing like I've seen before" \n\n"So they're everywhere?"  Betsy chimeed with a dry chuckle.  "Here I was hoping that was a problem exclusive to my quarter." \n\n"Just know I hand picked each one of you for this expedition.  If worms get the better of us—" Warwick scoffed lightly, "Then maybe I need to retire after this." \n\n"Warwick in a rocking chair—all grumbly like a washed out veteran?  That I'd like to see," Isolde laughed. \n\n"That's my name, don't wear it out," smirked Warwick, mulling over the next command.""
+  nf_mnc.205.a:0 ""Let's boot these worms, yeah?""
+  nf_mnc.205.b:0 ""Focus on getting the books, first.""
+
+  nf_mnc.206.t:0 "The Husk And The Lost"
+  nf_mnc.206.d:0 "They found the husk a moment after.  Even then, husk was a loose term; nobody had seen anything like it. \n\n"Something new everyday," Betsy murmured. \n\n"I don't like the look of this."  Isolde crossed her arms.  "We should leave." \n\n"I think we should get acquainted.  We'll be making runs here often, and it doesn't look like that's going anywhere," Warwick countered.  "I'd rather know if this is a threat now than find out later. \n\nThe rest of his Knights glanced at one another, reluctant to move.  Sighing, Warwick shoved his bag into Penn's arms and took a step forward. \n\nThe husk was malformed like a misshapen bean, or a stiff sack of flour.  Strange calcified bark stretched along the surface of the husk.  A few giant worms nibbled at its base— suckling on a strange, sap-like substance that oozed from the abrasions.  Though, there was something else peculiar; scorched books and torn papers were gathered in a pile of ash.  A campfire?  But whose? \n\n"WATCH YOUR HEAD!" \n\nAt Betsy's shout, Warwick snapped his gun up and fired.  The bolt struck the leaping shadow in the shoulder, sending it tumbling to the ground beside the husk.  The Knights were quick to surround the attacker, only to find a small, scraggly figure in a Chinese Stealth Suit. \n\n"A child?"  Warwick murmured, lifting his finger off the trigger. The child scrambled to the husk, hugging it tightly in a fit of quiet sobs.  The Knights turned to Warwick for his call, their weapons still raised. \n\nWarwick clenched his jaw, but his mind was set.""
+  nf_mnc.206.a:0 ""Leave them be.""
+  nf_mnc.206.b:0 ""Put them out of this misery.""
+
+  nf_mnc.211.t:0 "Letters For The Aftershow"
+  nf_mnc.211.d:0 "Dearest Johanna, \n\nAt the end of your lovely show, a dilemma was brought to my attention, and thus I left without exchanging my heartfelt thoughts.  So, I write to you now before I am again dragged away abruptly. \n\nI adored your setup.  You wrangled up your set of actors and stage-crew well—I could see it in their eyes.  They loved performing as much as you did directing.  I await your next show, as does the rest of your audience. \n\nRegards, Head-In-The-Clouds. \n\nAdditionally: Do praise whoever styled Elizeveta's hair and costume in the final act—I hardly recognized her! \n\n--- \n\nThanks so much for the praise, Sentinel!  It means a lot coming from you.  I'm still in the studio, but the power is flickering, so please pay no mind to my crooked lines or misspelling!  Apparently, Warwick flung his leather jacket at such a precarious angle that he struck a stage light, and then that stage light fell, and that is where I'll spare you the intricacies \n\nThe feedback was overwhelming, and I've already started to think about what we could do next.  Perhaps we could talk about it on a later note when you're not busy? \n\nThanks again! \n\n--Johanna"
+  nf_mnc.211.a:0 "And so the evening came to a close..."
+
+  nf_mnc.212.t:0 "A Colourful Evening"
+  nf_mnc.212.d:0 "The major town square of Fairview was bustling, even in the later evening.  While all was calm—citizens with their late errands and the Knights of the Sisterhood walking their laxed patrols—three cloaked ne'er do wells scurried through the streets. \n\n"Remind me why I'm dressed like this?"  Warwick whispered harshly.  "Actually, I'll do you one better; what the hell are we carrying?" \n\nJohanna snickered softly beside him.  "C'mon, Wick.  Don't you like a little adventure?" \n\n"C'mon kids, less questions, more walking," Thrift gestured.  He had approached them with two things; a bag full of small, paper rockets and a vague idea behind a giddy grin.  "And let's just say I promised Silfer a night show." \n\nJohanna gasped lightly.  "Honour's ‘round the corner!  Quick!" \n\nWarwick blinked.  "Wait, so Johanna knows what's going on and I don't?" \n\n"No time, get to it!"  Thrift said, chucking a matchbox to the twins.  Afterwards, he dumped the contents from his bag and began setting up the little rockets—their wicks all lit by the time their Sentinel rounded the corner \n\nIn a flash, the paper rockets shot up to the far reaches of the night sky.  With a crackling pop, fantastic colours from the Sisterhood flag streaked the air, fizzling out like a star as the streaks arched down towards the earth..."
+  nf_mnc.212.a:0 "Though unauthorized, the fireworks enraptured all its onlookers.  Even the Sentinel herself."
+
+  nf_mnc.501.t:0 "Turning The Montana Chapter"
+  nf_mnc.501.d:0 "Patrocolus rallied his platoon outside.  They dragged Johanna from the bunker and threw her to the ground.  The denizens bristled at the display, but without adequate weapons, they could do nothing but watch.  Honour stood quietly on one side of Patrocolus, Knight Warwick stationed at the other. \n\n"Loyalty is a fragile thing," Patrocolus began.  "Paladin Johanna, for your violations against the Chains That Bind, we shall grant you mercy from disgrace.  A swift death will do you well." \n\nJohanna knelt before the Elder. Her posture was stiff, bracing for the supposed inevitable.  She raised her hands slowly to take off her helm.  Like her armor, her face sported patches of dust and grime. \n\nBut unlike any disgraced Paladin that Honour had seen, Johanna held Patrocolus' gaze fiercely.  The rogue Paladin didn't believe she was dead, not yet. \n\nAt the sight of his sister's face, Warwick's conviction turned to hesitance, and quickly did that hesitance turn to doubt.  He glanced at Patrocolus.  "Elder, I—" \n\n"Will speak not a word," Patrocolus snapped.  He shot his hand up—the Brotherhood awaited the call."
+  nf_mnc.501.a:0 "..."
+
+  nf_mnc.502.t:0 "Turning The Montana Chapter Cont."
+  nf_mnc.502.d:0 ""And you will do no such thing,"" Honour interjected, raising her gun to his temple. \n\n"Take point!"  Minerva shouted.  The Sisters amidst the crowd raised their weapons against Patrocolus', outnumbering them two-to one \n\nPatrocolus closed his eyes, smiling.  "This reads like a bad joke," he scoffed.  "Betraying me at an execution for treason. Surely, you see the irony, Sentinel?" \n\n"There is no irony in unjust murder."  Honour glanced around the crowd.  "From hereon, this Chapter turns to me. But unlike you, Patrocolus, I do not believe in senseless execution.  Leave and return to the Midwest. Stay if you wish to fight for a better cause.  I will not extend this mercy twice." \n\n"I won't fight you, Honour— but even you know you just made a grave mistake," he glowered. "They'll come for you, too, just like we came for her." \n\n"They are welcomed to," Honour smiled.  "And when they do, we will show them how we greet tyranny."""
+  nf_mnc.502.a:0 "Patrocolus and his Brotherhood left without another word."
+  nf_mnc.502.b:0 "But in a way, he was right.  We had them depart without their gear."
+
+  nf_mnc.503.t:0 "Johanna's Confliction"
+  nf_mnc.503.d:0 "Johanna pulled the rustic faucet lever.  With an ancient creak, liquid gushed from the head.  She and Honour watched as the crooked stream poured like tar, then mud, and then, for the first time in what must have been centuries, the water lightened into something crystal-clear. \n\nEagerly, Johanna filled her canteen with the clean water and downed a mighty gulp.  "God damn," she sighed whimsically.  "Still tastes kinda shitty, but it's drinkable, and that's really all I can ask for." \n\nHonour patted her back.  "That is the power of collaborative effort." \n\nShe nodded slowly, glancing at her canteen.  "And I was starting to think I'd never see this in my lifetime." \n\n"The water?" \n\n"Yeah, that and the, uh—" she stumbled on her wording.  "And us.  The Sisters."  \n\n"The Sisters fight for one another," Honour said.  "We can't let other people decide our fates." \n\nJohanna brought the canteen to her face and tapped it lightly against her forehead.  "When the cavalry found me, I was ready to go down in fire.  ‘Cause that's how my mom went out.  Granted, what I was planning was more like a reckless fall than a glorious end, but I thought to myself; If I was going to die, I'd do it like a Pentecoste—" she drew a slow breath.  "But I didn't do any of that.  I couldn't even get Patrocolus to listen to me...""
+  nf_mnc.503.a:0 ""You're still plenty of Pentecoste to me.""
+
+  nf_mnc.504.t:0 "Johanna's Confliction Cont."
+  nf_mnc.504.d:0 "Johanna chuckled weakly, "It doesn't feel that way.  I've done so many things my mom would have hated.  I bet she's scowling right now from her grave." \n\n"I mean it, Johanna," Honour reaffirmed.  "You let your heart guide you.  That is not an easy task.  The codex can paint the world in black and white.  But your heart—what you feel—that is the gray that sees beyond fake boundaries. It thinks about who gets hurt, which stories we tell, who gets forgotten." \n\nJohanna stared at her muddied reflection in the canteen. \n\n"Had you not ran off with everything, the people in this bunker wouldn't be where they are now." Honour glanced down to her.  "Your mother would have been proud of you.  Her heart was gray like yours."" \n\n"That's such a weird way to put it," Johanna huffed, but her face softened with a smile.  "Thanks, Honour." \n\nHonour nodded.  "Of course."""
+  nf_mnc.504.a:0 "Soon she will come to understand what I mean."
+
+  nf_mnc.505.t:0 "Paladin Hayman's Strife"
+  nf_mnc.505.d:0 ""And before you offer, Honour," Paladin Hayman chuckled gravely.  "I ain't here to be your friend.  Give us that girl and what she stole, then we'll be gone." \n\n"Fall back, Paladin Hayman," Honour glowered.  "Lest you wish this soil to be your final resting place." \n\n"What happened to this mercy not being extended twice?"  Hayman scoffed. "Nothing but lies, Honour.  Patrocolus was an idiot to buy into your bluff, and an even greater one to have brought you along." \n\nPaladin Hayman was unrelenting, as were her Knights.  All of whom were not Patrocolus'.  They dawned a skewed version of the Midwestern armour--almost like a mockery of our own.  The plating was crooked and rusted, as if sealed in place with hasty craftsmanship.  At the first scout's notice, Honour had gathered anyone available in the vicinity to intervene. \n\n"Just put your fucking gun down, Hayman!"  Minerva snapped. \n\n"There's three sorts of sorry bastards that aren't worth my listening ear; raiders, fiends, and traitors," Hayman dismissed, aiming her gun.  "And that ain't changing.  Not here.  Not ever." \n\nShe fired the first shot.  The skirmish lasted no more than twenty minutes.  The Sisters struck down Hayman and her platoon with a single casualty. \n\nMinerva inspected her body with a tut.  "Should've listened to us when she had the chance."  She reached over to Hayman's helm, furrowing her brows as it wouldn't budge.  "Is this sealed shut?"  She cursed, glancing to Honour.  "What now, Clouds?""
+  nf_mnc.505.a:0 ""Bury their bodies like this.  Let them rest with their steel.""
+  nf_mnc.505.b:0 ""Take their gear.  We'll make better use of it.""
+
+  nf_mnc.506.t:0 "On The Coneflower Hill"
+  nf_mnc.506.d:0 "As the evening approached—the sun burning out under the cascading lavender skyline—Honour found Warwick atop a nearby hill that overlooked the valley.  He was by his lonesome, swallowed in the thickets of prairie coneflowers. \n\n"Enjoying the flowers?" Honour asked, creeping up to his side.  Gently, she plucked a small yellow flower from a thin stem. \n\nIn her presence, Warwick hunched forward.  He was out of his power armor.  A strange sight, indeed, for she had never seen him leave shelter without it.  "Yeah, they're nice.  They don't have these back at home," he finally said, pulling his knees closer to his chest.  "What can I do for you, Sentinel?" \n\n"One for your thoughts?"  She offered him the flower head.  "I see you are troubled." \n\nScoffing lighty, Warwick dismissed her hand.  "I just threw away my whole life—everything I worked for, what I stood for," he chuckled dryly.  "So, forgive me, Sentinel, if I'm not in a talking mood." \n\n"Yet, you speak to me now."  Honour shrugged, flicking the flower aside.  "You made the right choice." \n\nWarwick scowled, "The other meant execution under grounds of cowardice.  There wasn't much choice.""
+  nf_mnc.506.a:0 ""I saw how you reacted when they brought Johanna out.""
+
+  nf_mnc.507.t:0 "On The Coneflower Hill Cont."
+  nf_mnc.507.d:0 ""I had months to get myself together. Everyone's eyes were on me when Johanna first took everything and ran. This was my one chance to clear our family name, but when I saw her face—" he stopped himself, sighing. \n\nHonour patted his shoulder gently. "Conviction is a fickle thing.  So easily does it unravel when we're forced down a crossroad.  But in that moment— where we must choose between family and duty— do we set ourselves down a better path." \n\nWarwick sighed again— more exhausted than indignant. "The old man was right. You've got pretty words, Honour," he said, adjusting his posture up-right. "I just hope they'll still mean something in the long run." \n\n"They will."  Honour nodded firmly."
+  nf_mnc.507.a:0 "For this path is a new flame of beginning."
+
+  nf_mnc.508.t:0 "As Fate Wills"
+  nf_mnc.508.d:0 "Too engrossed in her log, Honour spared no glance to the sound of her chamber door opening.  "Yes?"  She asked, setting down her journal. \n\nMinerva slammed an Enclave helm onto the desk, the side of it scorched and nearly molten.  "Check it," Minerva said, jabbing her finger against the helm. \n\nHonour narrowed her eyes.  "Minerva, even you know this joke is in poor taste." \n\nMinerva shook her head, her tone darkening, "This ain't from Chicago, Clouds.  Johanna's squad ran into this one up near the mountains.  Said there were more, but she wasn't looking to draw out a big fight. \n\nHonour's breath caught in her throat.  She glanced at Minerva, then back to the helm, taking a closer inspection at what felt like a beheaded wraith from the past.  "Any casualties?" \n\n"With both Pentecostes on a squad?  Just a few wounded," Minerva smirked dryly.  "And here I thought Montana was a clean slate," she sighed.  "What now? \n\n"We prepare."  Honour squared her shoulders.  "The Midwest threw us down in the face of the Chicago Enclave when skirmishes reached their high. Where they could not bother to expend manpower, the Sisters were there to cover every time." \n\nMinerva nodded, crossing her arms.  "The ones in Chicago holed up with their gangs in the city, these ones take to the mountains.  I reckon they're not the same." \n\n"Enclave is Enclave," Honour said firmly.  "Who would the Sisters be if not having fought this sort of war before?"  She sighed, "Though I tire of needless death.  I'll prepare a messenger first, then we will think about the fires." \n\nMinerva chuckled with a nod, preparing to dawn her helm, "Sisters stand strong, huh?""
+  nf_mnc.508.a:0 "Sisters, stand strong."
+
+  nf_mnc.509.t:0 "The Rain Keeps Me Warm"
+  nf_mnc.509.d:0 "I was born Head-in-the-Clouds in the land of Ark-And-Saw, where the mountains were drowned in fog.  My mother, Whisper-Of-Rain, was my tribe's Star Gazer.  She read and recorded the fate written in the stars.  To her, every speckle of the night sky—from the moon to strings of stardust fire—had a purpose. \n\nI never saw her again after the Brotherhood stole me. Alone in an unknown world of steel and battery, my mother's wisdom kept me grounded.  It kept me loved.  It reminded me to love. \n\nAnd without her, I would not be standing here with my Sisters of Steel in these Northern reaches.  We've vanquished smoke and mirrors, fought raiders and wraiths from our pasts and, more importantly, we'd forged a home for all people alike in infamy and family. \n\nSo, I devote this to you, mother, and to all who stood beside me.  When a day comes where I perish—withered or bloodied—I rest easy, knowing that I was loved. \n\nAnd that I loved."
+  nf_mnc.509.a:0 "And that was enough to build a world."
+
+  nf_mnc.209.t:0 "Song Of A Sister"
+  nf_mnc.209.d:0 "A Sister, lover, a friend. \n\nThe Path Grows Wild, Unkept \n\nLet Fire Streak The Sky \n\nAsundered Light Warms The Plains \n\nFrom Ash, May We Find Her Again \n\nA Sister, lover, a friend \n\nThe Dawn Is Forged By Her Sword \n\nMolten Words \n\nMolten Earth \n\nMolten Hearts"
+  nf_mnc.209.a:0 "The Dawn Is Forged By Her Sword"
+
+  nf_mnc.510.t:0 "A Walk in Cloud's Haven"
+  nf_mnc.510.desc:0 "Honour noticed two things on her stroll around Cloud's Haven.  The first was gratifying; the Sisterhood effort to refurbish the capital was coming along smoothly.  The second was strange, albeit pleasant; everyone around her adorned charming colours, namely, in the form of floral brooches. \n\nFloral brooches she didn't have.  So, after inquiring a few passersby, Honour set off to amend that. \n\nHonour located one of Thrift's older workshops and poked her head through the door.  "Hello?"  She called. \n\nJohanna and Minerva were hunched over a workbench.  There were three distinct piles on the table; one for flowers, one for patches, and the third for completed brooches. \n\nJohanna jolted at Honour's presence.  "Honour!" \n\nWarwick, lounging on a couch in the corner of the room, looked up from his book.  "Oh, Honour's here." \n\n"Yeah, thanks for the look-out," Johanna grumbled flatly, chucking a half-finished brooch at her brother.  The brooch fell short half way across the room. \n\nHonour approached the workbench.  "What's all this?"  She smiled, picking up a flower from the table. \n\n"Uh— just a little passion project.  Originally they were for the new recruits and volunteers to boost morale, but then I got carried away."  Johanna blinked, slightly flustered as she awkwardly pushed four brooches towards Honour.  "Ah, I couldn't decide what brooch would suit you more so I made a few." \n\n"My," Honour beamed at the brooches.  "Well... I think I already have a favourite.""
+  nf_mnc.510.a:0 "A beautiful violet."
+  nf_mnc.510.b:0 "An illustrious jasmine."
+  nf_mnc.510.c:0 "A vibrant sunflower."
+  nf_mnc.510.d:0 "An inviting primrose."
+
+  nf_mnc.511.t:0 "A Letter To MacArthur"
+  nf_mnc.511.d:0 "To our neighbours in different steel, heed these words carefully, for this will be your only warning.\n\nLay down your arms and surrender.  We are unlike our Brotherhood brethren.  We are something more. We are the Sisterhood of Steel; a friend to all and the end to tyrants. \n\nWe believe in fair unity—in the relinquishment of needless violence or selfish claims—so that is why we extend this offer to you.  Join us to build a greater home and future by our side.  Cave into insolence and I promise that we will bury your remains in the mountain. \n\nThe choice is yours \n\n—Sentinel Honour."
+  nf_mnc.511.a:0 "A fair agreement."
+  nf_mnc.511.b:0 "We shall never surrender to any opposition!"
+  #events given to others
+
+  nf_mnc.600.t:0 "Words From A Sister"
+  nf_mnc.600.d:0 "The nearby 'Sisterhood of Steel' has requested for us to relinquish authority to them for the betterment of our peoples. While some believe this is a maddening request, others are seeing the benefits of Brotherhood protection... However, they may not take 'no' as an answer."
+  nf_mnc.600.a:0 "Ad Victoriam."
+  nf_mnc.600.b:0 "Death to Tyrants!"
+
+  nf_mnc.601.t:0 "From Elizaveta With Love: Sentinel Honour"
+  nf_mnc.601.d:0 "One of our newest neighbours and arrivals in the region is the Sisters of Steel, who have come seeking to aid us in our mission of restoring the love and happiness throughout Montana. Their leader, Honour, is sympathetic to our cause."
+  nf_mnc.601.a:0 "Let's seal the deal!"
+
+  #pattycake pattycake --> Patrocolus events
+
+  nf_mnc.700.t:0 "Steady She Goes"
+  nf_mnc.700.d:0 "Patrocolus rallied his platoon outside.  They dragged Johanna from the bunker and threw her to the ground.  The Brotherhood formed a circle around the rogue Paladin to keep out any unwanted intervention.  To one side of Patrocolus was Sentinel Honour, on the other was Knight Warwick. \n\n"Loyalty is a fragile thing," Patrocolus began.  "Paladin Johanna, for your violations against the Chains That Bind, we shall grant you mercy from disgrace.  A swift death will do you well." \n\nJohanna knelt before the Elder. Her posture was stiff, bracing for the supposed inevitable.  She raised her hands slowly to take off her helm.  Like her armor, her face sported patches of dust and grime. \n\nWarwick faltered at the sight of his sister's face.  "Elder, I—" \n\n"Will speak not a word," Patrocolus snapped.  He could not blame Warwick; witnessing family die was never easy, but there was no time for second thoughts—a violation was a violation.  He shot his hand up, glancing at Paladin Hayman with a nod..."
+  nf_mnc.700.a:0 "..."
+
+  nf_mnc.701.t:0 "Alas, Poor Johanna"
+  nf_mnc.701.d:0 "Hayman clicked her gun to Honour's temple. "And don't you think about it," she sneered. \n\nHonour dropped her gun. Minerva raised hers in response, shouting a word of command, but to her surprise and risible concern, only a fraction of the Sisters took a stance. \n\n"Did you really think I wasn't going to find out about this?"  Patrocolus sighed, "Betraying me at an execution for treason. Surely, you see the irony, Sentinel?" \n\n"There is no irony in unjust murder."  Honour glared back. \n\nPatrocolus' brow darkened. He balled his fist, but all he could do was stare back at her, glowering. She couldn't be acting more childish about the situation. \n\nHayman scoffed. "If that's how you feel, then maybe we can make it room for two." \n\n"No," Patrocolus said sternly, leaning towards Honour. "First. How many more of you are there?" \n\n"More than you had ever cared to know," Honour spat back. Even now, she acted as though she was immune to the world. \n\nHayman glanced back to Patrocolus. He nodded back. "Get on with it." Hayman shouted. And, like that, Paladin Johanna was no more."
+  nf_mnc.701.a:0 "Dark things were on the horizon."
+
+  nf_mnc.702.t:0 "Chains That Bind"
+  nf_mnc.702.d:0 "Patrocolus found Warwick sat outside the bunker, watching orange-laden violets dance around the sunset by his lonesome. Approaching, he crossed his arms in a friendly manner, trying to share the view. "Knight Warwick," he nodded as their eyes met, "What's on your mind?" Patrocolus asked, glancing down at the Knight. "It's not like you to be so sullen." \n\nThe knight was silent for several lasting moments. Taking a deep breath, he turned to look the Elder in full. "I just thought it'd be easier, you know?" \n\nPatrocolus narrowed his eyes. "What do you mean?" \n\nWarwick's gaze fell, and his tone grew hushed. "I don't blame you for not knowing. We didn't talk much." he drew a long, wistful sigh. "She was my sister— Johanna, I mean. I had months to think about it on the way here, and it still... Well, it still wasn't easy." Warwick mumbled, taking a long sip of his canteen \n\n"It was your duty.  It had to be done," Patrocolus said, sighing.  "Valna, I know, would have understood.""
+  nf_mnc.702.a:0 "..."
+
+  nf_mnc.711.t:0 "Chains That Bind Cont."
+  nf_mnc.711.d:0 ""Do you know what the last thing my mother said to me before she died?  Take care of Johanna'."  Warwick glanced at Patrocolus expectantly \n\nThough he stood as tall and valiant as ever, Patrocolus felt that same knot in his stomach. "It doesn't get easier."  \n\n"What?"  \n\n"Living with it." Patrocolus bit his cheek, glancing off into the night. Patrocolus sighed, rubbing his own neck for a moment. "It just doesn't get any easier, Warwick. Eventually, you just become numb to it, and it becomes a part of who you are." he patted Warwick's shoulder. "When I was a boy, I saw my father, a negligent do-nothing raider, executed by a Brotherhood soldier. I lie, of course, and tell people I was born into this whole thing— but I wasn't." he rolled his tongue with a thoughtful click, "I still see it when I shut my eyes. Not every wound will heal, Warwick... And that's okay." he said, sitting up and walking off— leaving the Knight alone with the stars."
+  nf_mnc.711.a:0 "Take Note, Then, Of Your Chains, Brothers..."
+
+  nf_mnc.703.t:0 "Patrocolus' Thoughts"
+  nf_mnc.703.d:0 "The mission in Montana was complete. The bunker had been secured, the traitor Johanna was no more, and now, the Sisters were extinguished— or, at the very least, on their last legs. Yet, the longer I have remained with my detachment in Montana, I've heard more and more disturbing things from the locals: a King of Roaches to the east, a nuclear silo occupied by heathenous cultists, scant rumors and legends of an Enclave splinter in the mountains... The list went on and on. \n\nIf even half of these rumors are true, then that means the tranquility of Montana doesn't have long for this world. These people have little to no means of defending themselves against such domineering threats. Of course, naturally, securing the land should be paramount, though I know it not to be an overnight experience. The schisms and pains we have experienced thus far are too many to count and so we must adapt to our new environment. \n\nMy assessment, as is, is quite simple:"
+  nf_mnc.703.a:0 "It was time for a new 'Glorious Purpose.'"
+
+  nf_mnc.704.t:0 "What Was Left Behind"
+  nf_mnc.704.d:0 "Patrocolus nursed a bottle of whiskey as he stared at the mural, his heart shrinking with every lingering gaze. He wasn't sure when the townsfolk had made it; whether it was before or after the expedition arrived. Taking another swig, he stared directly at her once more. Though it pained him to admit it, they most certainly nailed the biting hope in Johanna's eyes. \n\n"Are you happy?" Honour would ask if she were here, and he would answer "No. I'm not." Her comments, while snappy, were poignant. She was his biggest critic, in the end, but she helped him see what he couldn't. Now that she was gone, well... He had himself. \n\nPatrocolus followed the code. He did exactly as he was told, as he had all his life. Johanna had betrayed that same code, and yet her memory was immortalised.  Not by her crimes, but by vibrant colours and painted flowers... \n\nPatrocolus couldn't help but wonder what he'd leave behind when died—what would his legacy be, if anything?  "Whiskey's a tricky thing," he then thought with a dry smile. \n\n"Elder," Hayman's voice called from behind, "Are you doing okay?" \n\nPatrocolus sighed, frustrated that he had allowed Hayman to sneak up on him. "Yes. I'm quite alright," he said, shovelling the near-empty whiskey bottle out of sight. "What do you need, Hayman?" \n\n"Just checking up on you, Elder. You've been here quite awhile." \n\nPatrocolus cocked a half-grin at that, his hollow chest filled even if only halfway. Sometimes, all you could count on in the world was loyalty. Hayman was still with him, and maybe that's all he needed.  "I've just been thinking on what to do with this mural." \n\nHayman nodded, crossing her arms at the artwork.  "I say tear it down.  The less martyrs the better." \n\nPatrocolus sighed, glancing at the mural once more..."
+  nf_mnc.704.a:0 "No, we keep it.  Let her memory rest peacefully."
+  nf_mnc.704.b:0 "You're right.  We can't have any more rebel-fodder."
+
+  nf_mnc.705.t:0 "Appropriate Incentive"
+  nf_mnc.705.d:0 "Hayman and Patrocolus walked side-by-side through the bunker halls, both of their brows stern. The Sisterhood's betrayal had turned a lot of heads down, and even more to the side. \n\n"We can't ignore it, Patrocolus," Hayman slapped her hand down on the Elder's shoulder, "They need to be dealt with." \n\n"I know." Patrocolus said flatly. "I was a fool to even bring them along." \n\nHayman shrugged, "We tried to warn you."  \n\n"I know," Patrocolus bit the inside of his cheek, crossing his arms. "and I'm not making this mistake again." he said, pulling out a piece of paper and scribbling an errant message upon it. Stamping it with the Brotherhood sigil, he practically threw it at Hayman. "Take this little carrot on a stick I've thrown together. Have the scribes print as many as possible and hang them around outside and inside the bunker." \n\nHayman glanced at the paper— a bounty had been opened for every self-proclaimed ‘Sister of Steel.' Smirking, she looked back to Patrocolus. "Ad Victoriam, Elder." \n\n"Ad Victoriam." Patrocolus repeated back, watching with an empty gaze as Hayman exited the room."
+  nf_mnc.705.a:0 "Ad Victoriam."
+
+  nf_mnc.706.t:0 "The Greatest American Evil"
+  nf_mnc.706.d:0 "The Elder's gaze whipped up as Hayman entered the chamber, her already-heavy stomps doubled from their usual fury. She stormed up to the desk, slamming down something that Patrocolus thought they had left behind in Chicago. \n\nIt was an Enclave soldier's helmet. Judging by the plasma burns on its side, it was recently scarred— no doubt by Brotherhood personnel. With narrowed eyes he looked to Hayman. The Paladin nodded back. \n\nPatrocolus sighed quietly. Placing his hands on his temple, he stared back into the cracked lenses of the dead man's helm as though it were a demon manifested: a monster who he thought only existed in his nightmares. "How many?" \n\n"We don't know yet." Hayman lolled his tongue around the inside of his mouth, her face locked into a sneer. "All we know is this one came from the mountains." \n\nPatrocolus glanced between Hayman's tired visage and the helmet. "We'll need to be ready." \n\n"Understood, Elder." Hayman saluted. "What are your orders?" \n\n"Send it west." he demanded, jamming his finger into the helmet's lens. "Find a courier, and send it west. I want them to know we're on our way." \n\nHayman half-smirked. "Ad Victoriam, Elder." she said, taking the helmet and exiting."
+  nf_mnc.706.a:0 "May We Know No Fear."
+
+  nf_mnc.707.t:0 "Looking Over A Shoulder"
+  nf_mnc.707.d:0 "Minerva had grown a recluse since the Sisterhood break-off.  But she kept to herself-- never any bite to back up her bark.  It was only on a matter of when, Patrocolus wondered, that she would snap.  So at the edge of dawn, where per miraculous luck would Minerva find him alone, she drew her gun on him.  And Patrocolus, who was none surprised, instantaneously snapped his own gun up in response. \n\n"Don't make me a murderer, Minerva." Patrocolus quietly demanded, his finger gently pressed against the trigger of his rifle. \n\n"Make you a murderer?" she scoffed, "Tell that to Johanna." \n\n"You know that's not fair. Don't forget, we were here to deal with her." \n\n"To deal with her?"  Her eye twitched with a maddened craze.  "You old bastard!  I saw it when we got there, you saw it when we got there.  She saved these people! She helped them get a better life—" \n\nHayman fired first. \n\nPatrocolus watched as Minerva fell backwards, a perfect, burnt-out hole in her forehead releasing black smoke. The smell of burnt skin was in the air. \n\n"Finally, some silence," Hayman said, lighting a cigar as she rounded the corner to reveal herself fully. \n\n"Don't speak ill of the dead," Patrocolus glanced over to Hayman.  \n\nHayman shrugged.  "We were all thinking it." \n\nPatrocolus sighed, inspecting Minerva's corpse with a tut."
+  nf_mnc.707.a:0 ""At least that's the last of our loose ends.""
+
+  nf_mnc.710.t:0 "Steel Reigns in Montana"
+  nf_mnc.710.d:0 "In the span of a few hours, MacArthur Air Force Base was infiltrated by Brotherhood forces and detonated from within by an I.E.D. designed by none other than Knight Thrift. For better or for worse, the few survivors and regional stragglers now answered to the Brotherhood's authority. \n\nElder Patrocolus, who was present at the aftermath, had this to say when prompted for a statement: "MacArthur was a den of devils that got exactly what it deserved. As for our own, I couldn't be prouder of what we have achieved. (...) It is in service of Steel and guardianship of one's Brothers that each man finds his purpose. My friends, stand with your Brothers. Guard them, guide them. And in each of them find purpose." Though brief, his words are said to have reinvigorated the exhausted Brotherhood personnel-- and turned many of their minds to the rest of the region..."
+  nf_mnc.710.a:0 "The Brotherhood prevails."
+
+  nf_mnc.800.t:0 "Johanna's Journey"
+  nf_mnc.800.d:0 "As Patrocolus and his expedition mustered themselves for the long road ahead, Paladin Johanna continued her own, forging a path to Montana with the ciphers and map close to her person at all times. \n\nThrough what her wit could not break, her power armored fist did. She forded rivers by riding across scrapped floats, traveled with caravans through desolate woods, and even helped a young yao guai out of a tree on the way to Montana. \n\nWhen she arrived to the bunker, Fort Verity, she was surprised to see it wasn't vacated like reports said.  Under canopies of thin veils, people were tending to rows of spouting crops.  Befuddled, Johanna proceeded with..."
+  nf_mnc.800.a:0 "Her might!"
+  nf_mnc.800.b:0 "Her wits!"
+
+  #Her might option
+  nf_mnc.801.t:0 "Hastily Approaching Fort Verity"
+  nf_mnc.801.d:0 "Tanya watched the stranger's approach. Between the hairlines of her scope, she could make out the walking form of Power Armour–lagged like it hadn't slept for days yet still moving with the efficiency of a predator and the confidence of a successful one at that. Tanya clenched her jaw. More bad news for Verity? \n\nThe last few months have been nothing but a slog to survive. A broken water purifier, prowling raiders, a scavenger party to never return, hunger and radiation sickness… this sad little bunker had more than its share of problems. Hopestill, they called her: she who carries on despite the odds. More than anything these days, however, the nickname felt disingenuous. Still, she had promised Katriona, and she kept her promises. \n\nShe could make out the trespasser's plasma rifle in the distance, ready at a moment's notice. \n\n"Stand back," Tanya called to the denizens of Fort Verity armed with bent shovels hunkered down behind sandbags. That damned munitions trader never came back.  "And you—" she narrowed her gaze to the armoured individual.  "Turn back.  There's nothing of value here." \n\n"This bunker's supposed to be empty," the armoured woman said, her gaze wandering to their rows of damp soil.  "How long have you all been set up here?" \n\n"Why don't you lower your weapons first, then we talk?" \n\nThere was a twitch in the armoured woman's shoulders.  Tanya readied a shot, praying she'd be able to pull the trigger first.. And then, to her surprise, the trespasser chucked her weapon to the ground. \n\nThen, the trespasser glanced up and replied with something more surprising:"
+  nf_mnc.801.a:0 ""Let me help you.""
+
+  #Her wits option
+  nf_mnc.802.t:0 "Cautiously Approaching Fort Verity"
+  nf_mnc.802.d:0 "Tanya watched the stranger's approach. Between the hairlines of her scope, she could make out the walking form of Power Armour–lagged like it hadn't slept for days yet still moving with the efficiency of a predator and the confidence of a successful one at that. Tanya clenched her jaw. More bad news for Verity? \n\nFine with her, but she kept her rifle pointed at the trespasser. Not like they would know they were clean out of ammunition. After all, they've had their fair share of troubles in the last few months. A broken water purifier, prowling raiders, a scavenger party to never return, hunger and radiation sickness…. Hopestill, they called her: she who carries on despite the odds. More than anything these days, however, the nickname felt disingenuous. Still, she had promised Katriona, and she kept her promises. \n\nTo her surprise, the armoured trespasser shucked off their plasma rifle—the weapon hit the ground with a static rattle.  "I'm not looking for trouble, just answers!"  A woman's voice filtered through the armour.  \n\n"There's nothing here for you!"  Tanya called back.  "Turn back, trespasser." \n\nThe armoured trespasser took off her helm, revealing a young woman; her eyes brimming with a sort of hope Tanya hadn't seen in a while.  "I am Paladin Johanna," the woman announced.  "And I have something that can help you all." \n\nTanya reeled back from her scope.  A Paladin?  And to her surprise, the woman smiled with an offer:"
+  nf_mnc.802.a:0 ""I can make this garden green!""
+
+  #LUSA I WILL FIGHT YOU
+  nf_mnc.803.t:0 "Nothing Good Lasts Forever"
+  nf_mnc.803.d:0 "Johanna's peace did not last. Just as expected, the Brotherhood came knocking, Patrocolus' iron fist demanding the townsfolk release Johanna to them under threat of forceful seizure. Despite the protests of the residents, Patrocolus knew justice had to be served: Johanna would meet her end, righteously so, by Brotherhood hands. \n\nBut Honour did not see it the same way. Johanna was Brotherhood, and more importantly, she was family. The Sisters conspired amongst each other, forming a ploy to undermine Patrocolus' authority..."
+  nf_mnc.803.a:0 "The sisters secrecy won out."
+  nf_mnc.803.b:0 "Patrocolus had eyes everywhere."
+
+  ##################################################################################################################
+  ##################################################################################################################
+  ##################################################################################################################
+
+  #Legacy localization written by Faeelin from when the shared tree was still a thing. Before I merged the loc
+  #files, I (violet) may have edited some bits, so it's not 1:1 to our developmental version. Still, go Fae!
+  #some bits are still used in the tree, too! :D
+
+  l_english:
+  nf_montana.1.t: "The Greatest Story Always Told"
+  nf_montana.1.d: "Ad Victoriam! \n\nThe Brotherhood brought peace, stability, and order to the Midwest. Gone were the raider gangs, the mutant cannibals. Gone were the robot armies. In its place were the chains that bound, a place for everyone under the Elder's watchful eye. Fear not the tales of dissent within our ranks, of Enclave successes in Chicago. Ignore the heretics of Appalachia, who mock our ways.  The Brotherhood's influence remains paramount in the Midwest. And Elder Patrocolus, hero of Falcon Squad, was the greatest of today's generation. Who can forget how he rose through the ranks as a -"
+  nf_montana.1.a: "Paladin"
+  nf_montana.1.b: "Scribe"
+
+  nf_montana.2.t: "Look To the West"
+  nf_montana.2.d: "As part of our righteous work to save the Wasteland, the Elder dispatched Patrocolus west, to form a new chapter in Montana. Some of our brethren continued on to Washington, but we stayed to secure the missile silos of the region. For the Brotherhood, there can be no greater duty than to keep the nuclear genie in the bottle. And should some madmen seek to oppose us, there are none better than the Brotherhood to be trusted with these weapons. \n\nPatrocolus prepared wisely, choosing to bring the tools for a new chapter. He carried -"
+  nf_montana.2.a:0 "The tools to build a chapter."
+  nf_montana.2.b:0 "The weapons to protect a chapter."
+  nf_montana.2.c:0 "Spare Power Armour."
+
+  nf_montana.3.t: "The Ancient Enemy"
+  nf_montana.3.d: "Our paladins liberated the degenerates of Great Falls from the primitives of the area with no loss of life to our forces and minimal collateral damage. With gusto, we set to work recruiting new soldiers, drafting salvaging crews, and imposing quotas upon  ranchers. But things took a dark turn when we scouted a MacArthur Air Force Base. A thousand miles from Chicago, they were here. \n\nThe Calculator, at least, made no pretence of being human. But those Power Armour suits were as black as their dark hearts. After trying to wipe out the Wasteland from the Rig, the Enclave crawled across the Wasteland like cockroaches, opposing our paladins in Chicago, the Capital, and, we hear, Appalachia. Despite their claims of 'peace', Patrocolus knew the Enclave could only be here for one reason - the nuclear bombs. Left unchecked, the Enclave would target Bunker Alpha, Lost Hills, or anywhere else that could stand against them.  Millions, if not billions, would perish in another nuclear holocaust. And so, at the end of the world, the Brotherhood had to save the Wasteland. Again."
+  nf_montana.3.a:0 "We will need to build an arsenal."
+  nf_montana.3.b:0 "We will need to fuel an army."
+
+  nf_montana.4.t: "The Traitors' Roar"
+  nf_montana.4.d: "The Brotherhood sent lawful citizens to work camps. They consorted with super mutants and ghouls who threatened the American Way of life. They brainwashed citizens and resisted the lawful authority of the Enclave. Not content to menace Chicago, they blimps carried them to Montana, here to take your crops, your wealth, and your freedom.  They come to take your children, and will make a Wasteland and call it peace. \n\nThe Enclave and I fight to light the torch of liberty, for the day when trade is free, and democracy encouraged.  We stand against barbarism alone. And the Brotherhood is a threat to that. To all of us. \n\nI promise you, Montana, that under my watch no one will wear a chain.  No American citizen shall be sent to a work camp for refusing a Brotherhood 'tax', or for speaking out against their tyranny. Under me, and the Enclave, we will keep you safe. \n\nSo walk a little further, my fellow Americans. Walk with me into [MNC.Capital.GetName]. \n\nThe Midwestern Brotherhood asks for my submission, for your enslavement. But I promise you, on behalf of the Enclave, that I will never surrender to a fascist paramilitary organization."
+  nf_montana.4.a:0 "God Bless the Enclave..."
+  nf_montana.4.b:0 "And God Bless Montana."
+
+## Focuses
+
+mnc_take_down_enclave: "A Dark Day"
+mnc_take_down_enclave_desc: "No matter where we go, the Enclave always rears its ugly head. If we want to save the people of the Rockies, we'll need our conscript our Wastelanders to prepare our forces!"
+mnc_build_up_toenclave: "The Binding Chains"
+mnc_build_up_toenclave_desc: "The threat from the Colonel has new recruits flocking to our doors. Some of them are driven by our soldiers, mind. But all will find a renewed purpose as part of a Chain stretching back over two hundred years to our founding."
+mnc_purge_enclave_survivors: "Purge the Enclave Elite"
+mnc_purge_enclave_survivors_desc: "Although we hold that everyone has a chance at joining the Great Chain, some people are simply too corrosive for that. While some of their children and non-combatants have value, the leaders of this little cabal must be punished for their crimes at Navarro and Boystown."
+mnc_terms_surrender: "Accept the Terms of Surrender"
+mnc_terms_surrender_desc: "The Enclave killed many of our Brothers, and we shall not forget the heroes who fell in the line of duty. But nor shall we let these feelings get in the way of what must be done. We've recruited raiders, mutants, and cultists in the past. At the end of the day, MacArthur is just one more group to fall beneath our banner, and should be treated as such."
+mnc_terms_surrender_tt: "§PEnclave Auxiliaries§! will be drafted to serve the chapter. Further, you will gain a compliance boost in all §P[MCA.GetNameWithFlag]§! territory."
+mnc_advanced_planes: "The Brotherhood's Wings"
+mnc_advanced_planes_desc: "It seems Major Santiago was unable to destroy every vertibird before we seized MacArthur. Her secrets shall be the gateway to many victories."
+mnc_enclave_wargoal: "For the Safety of All Mankind"
+mnc_enclave_wargoal_desc: "Millions, perhaps billions, perished because of the Enclave's masters. Now the Colonel plots in her icy fort to seize the remaining missiles. \n\nBut we are merciful. There is no one beyond redemption, no one who could not be bound. Let us propose [MCA.Getleader] surrender - and use this as a chance to warn her deluded subjects."
+mnc_summon_dagger_squad: "Summon Dagger Squad"
+mnc_summon_dagger_squad_desc: "Dagger Squad are among the cream of the Midwest Brotherhood, a unit that traces their efforts to the war against the Calculator and the sack of Springfield.  They have come to help secure our hold on this rich, untamed region."
+mnca_recruit_dagger_squad: "Paladin Squad §G\"Dagger\"§! is called into action!\nTwo §Gpowerful Power Armour divisions§! are created in §YFairview.§!"
+mnc_republic_steam_conquer: "The Yellowstone Occupation"
+mnc_republic_steam_conquer_desc: "For too long, the park rangers and priests of Yellowstone have sat on a mighty resoruce. Think of all the Brotherhood could do with that energy!"
+mnc_heavens_gate: "Knocking on Heaven's Door"
+mnc_heavens_gate_desc: "The steam tehcnology of Heaven's Gate could fall into dangerous hands. Like, the people who currently own it."
+mnc_northern_lights: "Northern Lights"
+mnc_northern_lights_desc: "There are rumours of strange biological research in Canada.  Crazy? Perhaps.  But something we should explore...."
+mnc_northern_light_tt: "Gain wargoals on §R[NOR.GetNameWithFlag] and its children's§! territories."
+### Ideas
+montana_slavery: "Conscripted Labour"

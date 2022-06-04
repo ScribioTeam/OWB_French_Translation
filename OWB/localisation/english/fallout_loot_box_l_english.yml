@@ -1,0 +1,15 @@
+﻿l_english:
+ # GUIs:
+ FALLOUT_LOOT_BOX_WINDOW_TITLE: "Item Loot Boxes"
+ FALLOUT_LOOT_BOX_OPEN_BUTTON_TT: "[This.GetFalloutLootBoxOpenButtonTooltip]"
+ FALLOUT_LOOT_BOX_OPEN_BUTTON_TT_DELAYED: "A Loot Box can include an item, political power, experience, manpower or [This.GetCapType]."
+ FALLOUT_LOOT_BOX_OPEN_MORE_BUTTON_TEXT: "Open more Loot Boxes"
+ FALLOUT_LOOT_BOX_OPEN_MORE_BUTTON_TT: "§GClick§! to be able to open another Loot Box."
+ FALLOUT_LOOT_BOX_COST_TEXT: "Each Loot Box costs §Y[?loot_box_cost|2]§! [This.GetCapTxt] ."
+ FALLOUT_LOOT_BOX_ENTRY_TEXT: "[?fallout_loot_box_drop_amount|0]"
+ FALLOUT_LOOT_BOX_ENTRY_TT: "We gained §G[?fallout_loot_box_drop_amount|0]§! [This.GetFalloutLootBoxEntryType] from this Loot Box."
+ FALLOUT_LOOT_BOX_ITEM_ENTRY_TT: "§Y[This.GetFalloutLootBoxItemEntryName]§! \n§L[This.GetFalloutLootBoxItemEntryDesc]§! \n\n§YCategory:§! [This.GetFalloutLootBoxItemEntryCategory] \n§YQuality:§! [This.GetFalloutLootBoxItemEntryQuality] \n\n§YEffects when equipped:§! \n[This.GetFalloutLootBoxItemEntryEffects]"
+
+ # Scripted Localisation:
+ string_fallout_loot_box_open_button_tt_blocked_too_few_caps: "§RWe need at least [?loot_box_cost|2] [This.GetCapType].§!"
+ string_fallout_loot_box_open_button_tt: "§GClick§! to open this Loot Box for a cost of §R[?loot_box_cost|2]§! [This.GetCapType]."

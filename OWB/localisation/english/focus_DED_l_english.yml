@@ -1,0 +1,176 @@
+﻿l_english:
+
+  #violet's localization for the deadline focus tree
+  #le epic opening events
+
+  ded_firstlights:0 "The First Lights"
+  ded_outofthedark:0 "Treading Lightly From The Dark"
+  ded_amongthemonsters:0 "To Live Among Monsters"
+
+  #Deadheads Foci
+
+  ded_undertheirnoses:0 "Under Their Noses"
+  ded_clearingthemetro:0 "Assemble the Deadheads"
+  ded_overrunmadness:0 "Underground Madness"
+  ded_renovations:0 "Spatial Renovations"
+  ded_renovations_desc:0 "The Lifeline is full of clutter and rubble. We will have the Deadheads clear out what they can-- with any luck, we'll settle some spatial issues."
+  ded_cleaningthemetro:0 "Salvaging Old Lines"
+  ded_cleaningthemetro_desc:0 "Not everything made it to its destination when the Lifeline shut down; we can use what we can salvage. Most of it will be junk, but we didn't survive for two centuries by being clueless. We'll find a use."
+  ded_restoringpassagewayssouth:0 "Restore the Southern Passages"
+  ded_restoringpassagewayssouth_desc:0 "Much of the southern tunnel has suffered from collapse; clearing it will allow us easier navigation through what remains of the Lifeline."
+  ded_restoringpassagewaysnorth:0 "Fixing The Northern Passages"
+  ded_restoringpassagewaysnorth_desc:0 "The northern sides of the Lifeline seem to have suffered from slight budget cuts-- including some portions where the ventilation isn't functioning properly. If we can restore it and clean up a little, the north will be free for travel."
+  ded_reconnecting:0 "Reconnecting the Lifeline"
+  ded_reconnecting_desc:0 "Reconnecting a lot of the smaller tunnels in the Lifeline, through mapping teams and clean-up crews, will pay off tenfold. Arranging for both will be simple-- all we must do is let them work."
+  ded_internaltrade:0 "Trading Amongst Ourselves"
+  ded_internaltrade_desc:0 "The economy isn't exactly flowing down here, but we can change that. Setting up tradelines between the different settlements in the Lifeline will no doubt strengthen relations amongst ourselves, and I'm willing to bet it'd filling our pockets out won't hurt."
+
+  #order kill squad foci
+
+  ded_themurderers:0 "They Came For Us"
+  ded_neveragain:0 "Preventative Measures"
+  ded_standourground:0 "Take a Stand"
+  ded_theorder:0 "Send it East"
+  ded_freeofsin:0 "To Be Free"
+  ded_thefamiliesremain:0 "Consoling the Families"
+  #friendsinthemetro
+
+  ded_friendsinthemetro:0 "Friends in the Metro"
+  ded_friendsinthemetro_desc:0 "We aren't the only ones down here-- after two hundred or so years trapped in the darkness, you can imagine the disagreements that were had. In the wake of the madness going on above, there's no more room for disagreement. \n\n We need to assemble the line."
+
+  #The Highliners
+
+  ded_reconnectingwiththehighline:0 "Reconnecting with the Highliners"
+  ded_reconnectingwiththehighline_desc:0 "The Highliners split off a couple decades ago, all based off a disagreement on safety. They were worried some of the worse elements of the underground were going to break into the Deadline main, and insisted we move locations. You can imagine how some took that. In any case, many of the Highliners were excellent craftsmen-- tailors, shoeshiners, so on so forth. While not the most useful professions these days, many still value them. Pulling them back into the fold will bring a great deal of morale up."
+  ded_whorunstheshow:0 "Who Runs The Show"
+  ded_whorunstheshow_desc:0 "placeholder"
+  ded_highlineworkshops:0 "Highline Craftsmen"
+  ded_musteringthehighline:0 "Mustering the Highliners"
+
+  #The Flatliners
+
+  ded_reconnectingwiththeflatliners:0 "Reconnecting with the Flatliners"
+  ded_shadowdeals:0 "Shadow Deals"
+  ded_ghoulcompost:0 "Ghoul Composting Lessons"
+  ded_fungalmedicine:0 "Fungal Medicine Treatments"
+  ded_flatlinearmories:0 "Flatliner Armories"
+
+  ded_tooltip_starrynights:0 "Three units of §YStarry Night Boys§! will be created in §GMidhold.§!"
+  ded_thestarrynightboys:0 "The Starry Night Boys"
+  ded_thestarrynightboys_desc:0 "Some of the Flatliners we've taken into the fold have started to make surface runs all by their lonesome, undertaking 'Feral Hunting' as a new hobby of theirs. These 'Starry Night Boys--' as some have begun to call them-- can be quite useful if we officiate them."
+  ded_phosphorusrounds:0 "Phosphorus Rounds"
+
+  ded_threelinesonevision:0 "Three Lines, One Vision"
+
+  #riot foci
+
+  ded_scavengingtooltip:0 "We will send teams to scavenge old parts of the Lifeline, bringing back §M5§! of a §Yrandom resource!§!"
+
+  ded_scavengingtraincars:0 "Scavenging Train Cars"
+  ded_riotgear:0 "Riot Gear Salvage"
+
+  #aboveground foci
+
+  ded_againstthehorde:0 "Dispersing the Horde"
+  ded_cleanuponaisle3:0 "Clean Up On Aisle 3"
+  ded_settingupanoutpost:0 "Setting Up An Outpost"
+
+  ded_tooltip_outposts:0 "§YOutposts§! will be set up in locations around §GMidhold.§!"
+
+  ded_surfacetraining:0 "Surface Training"
+  ded_covetyewater:0 "Leadless Water"
+  ded_thelifelinemustflow:0 "The Lifeline Must Flow"
+  ded_letstrythisonemoretime:0 "Let's Try This One More Time"
+  ded_brandnewexpeditions:0 "Brand New Expeditions"
+
+  ded_strengthenedpartnership:0 "Strengthened Partnership"
+
+  #army depot foci
+
+  ded_theotherkindofmonster:0 "The Other Kind of Monster"
+  ded_leadversusiron:0 "Lead Versus Iron"
+  ded_thearmydepotsecured:0 "The Lonely Bastion"
+  ded_cleaninghouse:0 "Cleaning House"
+  ded_schematicssalvage:0 "Schematic Scavenging"
+  ded_investinproduction:0 "Investing in Production"
+  ded_robotics:0 "Making Robotics"
+  ded_scrappingmachines:0 "Reverse-Engineering the Machines"
+  ded_infantryequipment:0 "Infantry Equipment"
+  ded_applywhatwealreadyknow:0 "Applying What We Already Knew"
+  ded_pullingtheswitch:0 "Pulling the Switch On It"
+
+  #democratic foci
+
+  ded_plantingaflag:0 "Planting a Flag"
+  ded_derailment:0 "Derailment"
+  ded_deadheadsmeet:0 "The Deadheads Touch Grass"
+  ded_threelinescouncil:0 "The Three Lines Council"
+
+  ded_diplomacy:0 "Words Can Still Be Pretty"
+  ded_nonhostiles:0 "Nonhostiles to the South"
+  ded_reachout:0 "Reaching Out to the Fringe"
+  ded_friendsintheplaguelands:0 "Friends in the Plaguelands"
+  ded_bestfriendsfromthefringe:0 "Best Friends From The Fringe"
+  ded_opentraderelations:0 "Opening Trade Relations"
+  ded_lakota:0 "The Creek"
+  ded_ahelpinghand:0 "Mutually Down On Our Luck"
+  ded_bustingbusters:0 "Busting the Busters"
+  ded_somethingmore:0 "Something More"
+  ded_doyoubelieveinmagic:0 "Do You Believe in Magic?"
+
+  ded_medicinaltraining:0 "Outside Medicinal Training"
+  ded_doctoralaccords:0 "Issuing Doctoral Accords"
+
+  ded_thehandthatshallfeed:0 "The Hand That Shall Feed"
+  ded_thewarmthofthesun:0 "The Warmth of the Sun"
+  ded_sharecropping:0 "Moving On Up"
+  ded_flatlinerknowledge:0 "Flatliner Agricultural Knowledge"
+  ded_highlinerpassions:0 "Highliner Passions"
+  ded_expertcraftsmen:0 "Expert Craftsmen"
+  ded_perfectedknowledge:0 "Perfected Knowledge"
+  ded_militarizingdeadheads:0 "Militarizing the Deadheads"
+  ded_properequipmentsalvage:0 "Proper Salvaging Runs"
+  ded_aproperwayofthinking:0 "A Proper Way of Thinking"
+  ded_inheritingthelifeline:0 "Inheriting the Lifeline"
+  ded_nightpatrols:0 "Night Patrols"
+  ded_humanrecruitment:0 "Smoothskin Sympathies"
+  ded_deadheadrangers:0 "The Deadhead Rangers"
+  ded_establishlifelinefm:0 "Lifeline FM"
+  ded_eschewanew:0 "Eschewing, Anew"
+  ded_amatterofstate:0 "We Call It "A Matter of State""
+  ded_whatsthatunderthere:0 "As Above, So Below (or so they say)"
+
+  #expansionist foci
+
+  ded_firmisthehandthatgrips:0 "Firm Is The Hand That Grips"
+  ded_surfaceraids:0 "Surface Raids"
+  ded_takingnewrecruits:0 "Taking New Recruits"
+  ded_investinbombs:0 "Investing in Bombcrafting"
+  ded_regulartrainingexercises:0 "Regular Training Exercises"
+  ded_blowingoutthearmory:0 "Blowing the Armories"
+  ded_updatedtrainingregime:0 "Updating Our Regime"
+
+  ded_powerarmorstockpile:0 "The All-American Banquet"
+  ded_juryriggedarmor:0 "Jury-Rigging Power Armor"
+  ded_weaponstoliveby:0 "Weapons to Live By"
+  ded_refocusingproduction:0 "Codices to Die By"
+
+  ded_stampingourfeet:0 "Stamping Our Feet"
+  ded_thefirststep:0 "The First Step"
+  ded_poweringthedam:0 "Powering the Dam"
+  ded_salvagingthedam:0 "Salvaging the Dam"
+
+  ded_monstersfrombelow:0 "Monsters from Below"
+  ded_fringewar:0 "Taking the Fringe"
+  ded_creekwar:0 "The Creek Natives"
+  ded_fringeresistance:0 "Burning Broken Bow"
+  ded_creekresistance:0 "Pushing Them Out"
+
+  ded_longstoryshort:0 "Making A Long Story Short"
+
+  ded_penance:0 "The Penance Seekers"
+  ded_sanitizers:0 "The Sanitizers"
+  ded_bre:0 "The Great Breach"
+  ded_binary:0 "The Binary Counts"
+  ded_omaha:0 "Omaha"
+  ded_deadorder:0 "Order to Disorder"

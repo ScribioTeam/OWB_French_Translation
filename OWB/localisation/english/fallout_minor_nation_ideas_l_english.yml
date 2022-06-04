@@ -59,8 +59,8 @@
   #MES
   wickiup_nomads:0 "Wicki up Nomads"
   wickiup_nomads_desc:0 "For much of their history, the Mescalero were nomadic hunters and warriors, building temporary dwellings (called 'Wicki up') as they moved through the plains of the Southwest. Despite the turn towards more permanent settlements in the late 20th century, stories and traditions from more nomadic times are still important cornerstones in Mescalero culture."
-  guerilla_legacy:0 "Thunder Rides a Black Horse"
-  guerilla_legacy_desc:0 "On 27 May 1873, by executive order of President Ulisses S. Grant, the tribe of Apache Mescalero was officially established. Unlike the Navajo, the Apache Mescalero were few and the new government had to invite several more small Apache bands, such as the Apache Lipan, to assist in handling the new territory. The Mescalero Tribe was finally able to negotiate with the Four States Commonwealth for greater legal administration privelages after landmark cases like McDirt vs Tulsa, causing the tribe to enjoy a golden age up to the start of the Great War.\n\nAs a result of its non-vital importance, the nation miraculously was spared devastation following the onset of the Great War, yet still suffered from raids, famines and mutant attacks.\nIn response, the tribal council worked to combine the powers of the executive, judicial or legislative branches of the nations government into a single position, allowing the Mescalero to more rapidly able to respond to the growing threats they face from the wasteland. The strength of the President would echo that of the Lipan chiefs of old in the new world that the war wrought."
+  guerilla_legacy:0 "Guerrilla Legacy"
+  guerilla_legacy_desc:0 "When the White Men first came to America, the Mescalero resisted their perpetual expansion into traditional Mescalero territory. Often leading raids on Spanish, Mexican and American settlements, the Mescalero were renown guerilla fighters: a legacy that lives on to this day."
 
   #TLP
   always_ready_always_there:0 "Always Ready, Always There"
@@ -99,10 +99,14 @@
 
 
   #EDA
-  EDA_ufo_defense:0 "\"PROJECT MOGUL\" Legacy"
-  EDA_ufo_defense_desc:0 "The "Blue Rose Society" was the formal, non-confidential name for a series of military bases related to the extant PROJECT MOGUL, a hundred-year research project that sought to study the methods by which new sciences can be used in novel ways to defeat enemies of America. Roswell, New Mexico served as the homes of some of MOGUL's earliest experiments.\n\nAfter the Great War, the Society has grown greatly to attempt to fill the space left by proper American governance through establishing a local government of regional committees led by a central representing board in Roswell. However, some propose that the Society's higher ups still carry on the scientific tradition of their forebears in the shadows. "
-  EDA_secrets:0 "Non-Disclosure Agreements"
-  EDA_secrets_desc:0 "Any wasteland settlers wishing to move to, trade in or find safety within Blue Rose Society lands has to sign a "Non-Disclosure Agreement", a binding agreement between recipent and the Society's Board of Directors. People who have broken this agreement tend to not stay around for long."
+  EDA_ufo_defense:0 "Defense Against the Zetans!"
+  EDA_ufo_defense_desc:0 "[EDA.GetName] claims they protect the Earth against demons from the stars, who gaze upon the earth with cold, covetous eyes. Since nobody else has seen these creatures, their subjects tend to be skeptical. In quiet."
+  EDA_secrets:0 "Classified Information"
+  EDA_secrets_desc:0 "[EDA.GetLeader] claims to have information that the world was not meant to know. Although few believe they have an 'extreme wormhole,' it is undeniable that they know more than most Wastelanders."
+
+  #WHD
+  whd_chinese_remnants: "Chinese Remnants"
+  whd_chinese_remnants_desc: "There are many different ghouls living in our lands. But one group stands out. They call themselves \"Chinese\" and \"Communist\" and tell us stories about a faraway mythical lands, across the thing they call \"ocean\". Some newer ghouls are captivated by their ideas and tend to spur up conversations with battle-masters of Old Dogs. But they also bring forgotten knowledge shared by the \"Communists\", so Old Dog welcomes this behaviour."
 
   #WHI
   whi_burden_of_a_nation:0 "Burden of a Nation"
@@ -175,20 +179,26 @@
 
   #TOC
   toc_legacy_of_vault_100:0 "Legacy of Vault 100"
-  toc_legacy_of_vault_100_desc:0 "Vault 100, built under pre-war Spokane, was one of the largest Vaults ever constructed by Vault-Tec. Designed to house over 1200 occupants, the Vault was purposefully built large to facilitate the twisted experiment run within its walls. Under the careful observation of the Overseer, radiation was purposefully let into the living quaters of a portion of the Vault's occupants. For the first decade the effects were unnoticable, but over time a significant minority of the Vault Dwellers slowly mutated into intelliigent ghouls. Those Dwellers who remained 'pure' grew horrified of their irradiated kin, and before long civil war broke out in the Vault. The ghouls gained the upper hand when they seized control of the Overseer's armoury, forcing the human faction to make their escape to the surface and flee east. Now, we remain in control of Spokane, but the ancestors of the humans who were hellbent on erradicating us seem to still want revenge."
+  toc_legacy_of_vault_100_desc:0 "Vault 100, built under pre-war Spokane, was one of the largest Vaults ever constructed by Vault-Tec. Designed to house over 1200 occupants, the Vault was purposefully built large to facilitate the twisted experiment run within its walls. Under the careful observation of the Overseer, radiation was purposefully let into the living quarters of a portion of the Vault's occupants. For the first decade the effects were unnoticeable, but over time a significant minority of the Vault Dwellers slowly mutated into intelligent ghouls. Those Dwellers who remained 'pure' grew horrified of their irradiated kin, and before long civil war broke out in the Vault. The ghouls gained the upper hand when they seized control of the Overseer's armoury, forcing the human faction to make their escape to the surface and flee east. Now, we remain in control of Spokane, but the ancestors of the humans who were hellbent on eradicating us seem to still want revenge."
   toc_the_last_homely_house:0 "The Last Homely House"
-  toc_the_last_homely_house_desc:0 "The ruins of Spokane, and the home we have made for ourselves out of them, are widely aknowledged to be the last bastion of \"civilisation\" before the cold, dark plains of what once was Canada. As such, we're often the last nation prospectors, scrappers and budding adventurers stop off in before venturing out to the frozen north. Many of these travellers decide they'd actually quite like to stay in our land, rather than risk almost certain death for almost no benefit."
+  toc_the_last_homely_house_desc:0 "The ruins of Spokane, and the home we have made for ourselves out of them, are widely acknowledged to be the last bastion of \"civilisation\" before the cold, dark plains of what once was Canada. As such, we're often the last nation prospectors, scrappers and budding adventurers stop off in before venturing out to the frozen north. Many of these travelers decide they'd actually quite like to stay in our land, rather than risk almost certain death for almost no benefit."
   toc_memories_of_a_future_past:0 "Memories of a Future Past"
   toc_memories_of_a_future_past_desc:0 "After the American invasion and annexation of Canada in 2072, Spokane blossomed into a central infrastructure and supply hub to facilitate the transport and upkeep of American troops in the North-West. As such, it attracted a number of intelligent minds to assist in the smooth opperation of logistics, construction and distribution. Many of these personelle were assigned positions in Vault 100 by the US Government, who deemed their skills vital to the rebuilding of America after a nuclear conflict. While many of these great minds were lost to civil war or the fleeting human lifespan, some live on as ghouls: remnants of a bygone era. Of those who survive, a sizable portion remember their past, and are determined to bring greatness back to Spokane."
   toc_memories_of_a_future_past_tt:0 "\nReconquering §YCoeur d'Alene§! and securing §YSpokane§! by defeating the §!Rotpurgers§! will grant us access to the decision to §OForm the Old Spokane State§!.\n"
 
   #ROT
   rot_legacy_of_vault_100:0 "Legacy of Vault 100"
-  rot_legacy_of_vault_100_desc:0 "Vault 100, built under pre-war Spokane, was one of the largest Vaults ever constructed by Vault-Tec. Designed to house over 1200 occupants, the Vault was purposefully built large to facilitate the twisted experiment run within its walls. Under the careful observation of the Overseer, radiation was purposefully let into the living quaters of a portion of the Vault's occupants. For the first decade the effects were unnoticable, but over time a significant minority of the Vault Dwellers slowly mutated into intelliigent ghouls. Those Dwellers who remained 'pure' grew horrified of their irradiated kin, and before long civil war broke out in the Vault. The ghouls gained the upper hand when they seized control of the Overseer's armoury, forcing the human faction to make their escape to the surface. The humans fled east, where they vowed to have their revenge."
+  rot_legacy_of_vault_100_desc:0 "Vault 100, built under pre-war Spokane, was one of the largest Vaults ever constructed by Vault-Tec. Designed to house over 1200 occupants, the Vault was purposefully built large to facilitate the twisted experiment run within its walls. Under the careful observation of the Overseer, radiation was purposefully let into the living quarters of a portion of the Vault's occupants. For the first decade the effects were unnoticable, but over time nearly half of the Vault Dwellers slowly mutated into intelligent ghouls. \n\nThose Dwellers who remained 'pure' grew horrified of their irradiated kin, and soon after, civil war broke out in the Vault. The ghouls gained the upper hand when they seized control of the Overseer's armoury, forcing the human faction to make their escape to the surface. The humans fled east, where they vowed to have their revenge."
   rot_legacy_of_vault_100_tt:0 "\nReconquering §YSpokane§! and erradicating the §YOld Country§! will grant us access to the decision to §OForm the Grand Inquisition§!.\n"
   rot_eternal_quest:0 "The Eternal Quest of the Pure"
-  rot_eternal_quest_desc:0 "Ever since out exile from Vault 100, our rightful home, we have been plotting our vengence. Armed with flamers, our prefered Ghoul-exterminating weapon, and three generations of training and planning, we are finally ready to reclaim our home. We will make Spokane §Rburn bright§! in the night, if that's what it takes to kill the ghouls once and for all."
+  rot_eternal_quest_desc:0 "Ever since our exile from Vault 100, our rightful home, we have been plotting our vengeance. Armed with flamers, our preferred Ghoul-exterminating weapon, and three generations of training and planning, we are finally ready to reclaim our home. We will make Spokane §Rburn bright§! in the night, if that's what it takes to kill the ghouls once and for all."
   rot_eternal_quest_tt:0 "Our §Rhatred§! of those twisted by radiation means we §Rcannot§! choose to recruit any form of §Omutants§!.\n"
+
+  #TDN
+  tdn_wannabe_drug_empire:0 "Wannabe Drug Empire"
+  tdn_wannabe_drug_empire_desc:0 "The Mordinos have longed to once again rule over a drug empire like they once did back in New Reno. While they have something of a racket going in the Den, their glory is nowhere near what it once was. Still, nobody can claim they aren't trying to rebuild their mighty family monopoly."
+  tdn_legacy_of_reno_days:0 "Legacy of the Biggest Little City"
+  tdn_legacy_of_reno_days_desc:0 "Shortly after the fall of the Enclave Rig and the rise of the Bishops and Wrights in New Reno, the Mordino crime family was forced to flee the city they called home due to vicious gang warfare. With the assasination of Big Jesus, Lil' Jesus' father and the person most reponsible for the Mordinos' rise to power, the Mordino family wandered lost in the waasteland before settling down in the Den. The Den may have already had a reputation for crime and drug abuse, but with the Mordinos in control these problems only grew. No matter how well the Mordinos are doing in the Den, however, the legacy of their time in New Reno remians."
 
   #FIE
   fie_drug_monopoly:0 "Mojave Drug Monopoly"
@@ -204,6 +214,8 @@
   form_arizona_rangers_tt:0 "We gain §Yclaims§! on every state in §OArizona§!.\n\n"
   cow_bastion_of_liberty:0 "Arizona's Last Bastion of Liberty"
   cow_bastion_of_liberty_desc:0 "The Legion has overrun Arizona, and threatens the life and liberty of everyone it claims overlordship over. While many refugees managed to flee from the Legion's armies, many more became slaves to Caesar's men. We must not let this happen to the men and women of the Cowboy Country: no matter the cost."
+  cow_legion_resistance:0 "Legion Resistance"
+  cow_legion_resistance_desc:0 "Even after we drove the Legion out of Arizona, some of their cells continue to operate on our lands. It will take a long time to truly pacify the Legion influence on Arizona."
 
   #KLA
   KLA_gecko_abundance:0 "Gecko Abundance"
@@ -219,13 +231,15 @@
 
   #BEl
   bel_bellingham_for_battle:0 "Bellingham for Battle"
-  bel_bellingham_for_battle_desc:0 "The city of Bellingham, due to its proximity to the Trans-Alaskan Pipeline, was a key location during the American-Canadian conflict. Many of the Ghouls living in the city today remember those battles, fought in them even.\n\nThey won't go quietly."#
+  bel_bellingham_for_battle_desc:0 "The cities of Bellingham & Vancouver, due to their proximity to the Trans-Alaskan Pipeline, were key locations during the American-Canadian conflict. Many of the Ghouls living in the city today remember those battles, fought in them even.\n\nThey won't go quietly."#
   bel_spirit_of_liberty:0 "Liberty's Lingering Spirit"
-  bel_spirit_of_liberty_desc:0 "American propaganda was strong in the years before the Great War, leaving deep impressions on those who called America their home. Indeed, American propaganda was so strong that it still has a lasting effect on the ghouls of Bellingham some 200 years later. The emphasis on liberty, and American world dominance, have become key to Bellingham's fiercely independent culture."
+  bel_spirit_of_liberty_desc:0 "American propaganda was strong in the years before the Great War, leaving deep impressions on those who called America their home. Indeed, American propaganda was so strong that it still has a lasting effect on the ghouls of the region some 200 years later. The emphasis on liberty, and American world dominance, have become key to Bellingham & Koover's fiercely independent culture."
 
   #BLP / BVC
   baja_banditos:0 "Baja Banditos"
   baja_banditos_desc:0 "The two great criminal gangs of the Baja, the Paz Bandits and the Valle Bandits, are masters of their trade. Combining the experitse of the two gangs, and their skilled leaders, the \"Baja Banditos\" run an enourmous smuggling operation. Specialising in delivering guns and drugs from the Mexican cartels and warlords to the raider gangs of the NCR, the Banditos have made serious caps – and serious enemies..."
+  baja_banditos_united:0 "Baja Banditos United"
+  baja_banditos_united_desc:0 "After what feels to many as a eternity the two criminal gangs of the Baja has united into one, there is no longer a Paz Bandits or Valle Bandits. Now there is only the Baja Banditos, as brother fought brother and became one. Altough now as the last drops of blood has stained the ground the future looks bright as the Baja puts her eyes to new heights."
   blp_procurement_specialists:0 "Procurement Specialists"
   blp_procurement_specialists_desc:0 "As part of their partnership with the Valle Bandits, the Paz Bandits more or less completely handle the aquisition of illicit goods. The Paz Bandits have contacts that can get you slaves, drugs, guns or even addictive coffee. If you can name it, the Paz Bandits can find it for you: for the right price..."
   bvc_expert_smugglers:0 "Expert Smugglers"
@@ -236,12 +250,6 @@
   oly_park_legacy_desc:0 "While the days of park rangers and guided tours are long gone, the cultural importance of orienteering and understanding nature remained empressed on the Olympus Tribe over the centuries since the Great War. Their knowledge of industry or construction may be basic to say the least, but nobody can out-maneuver the warriors of the Olympus Tribe."
   oly_nomadic_traditions:0 "Nomadic Traditions"
   oly_nomadic_traditions_desc:0 "After the bombs fell, many in Western Washington fled to the Olympus National Park to escape the nuclear hellfire that engulfed major cities. However, there was nowhere near enough houses to accomodate the influx of people, and instead everyone had to become used to a more nomadic lifestyle. As knowlegde of their past withered away between successive generations of apocalypse survivors, the importance of constantly moving and adapting remained core to the tribe."
-
-  #VIP
-  vip_legacy_of_great_snake:0 "Legacy of the Great Snake"
-  vip_legacy_of_great_snake_desc:0 "Decades before the Vipers were forced to flee California by the Brotherhood of Steel, the Vipers worshiped their Great Snake god. Their entire lives and cultures revolved around the Great Snake, and its poision: sacrifices were made to it, its poison was ritually cosumed and weapons were made smothered in its venom. While the \"Pit\", where the Great Snake resided, was destroyed by the Brotherhood when they finally drove the Vipers from California, fragments of the Vipers' old religion remains. One of the most important lessons that has survived the hard years the Vipers have wandered in the wasteland is regaarding survival of the fittest. Sure, some half-decent cannon fodder may die before their time, but this way the Vipers are strong."
-  vip_a_broken_tribe:0 "A Shattered Tribe"
-  vip_a_broken_tribe_desc:0 "When a band of Vipers set upon a patrolling group of the Brotherhood of Steel in 2155, they had no idea who they were making enemies with. In the resulting fight the leader of the small Brotherhood patrol group, a certain Maxson II, was struck and fatally injured by a poisoned arrow. Unfortunately for the Vipers, Maxson II was none other than the Brotherhood's High Elder: his death stirred the Brothehood up into a genocidal fury. By 2261, after 6 years of being hounded relentlessly by the Brotherhood, the Vipers finally shattered. Bands fled across America, with some settling in the Mojave, some in Nevada and some as far afield as the Hounds of Hectare. The Vipers are a mere shadow of their former selves."
 
   #PEC
   pec_animal_husbandry:0 "Animal Husbandry"
@@ -257,8 +265,8 @@
 
 
   ### SCO
-  bizaare_market:0 "The Bizarre"
-  bizaare_market_desc:0 "The Bizarre is an autonomous marketplace of the expensive, the dangerous, and the weird, built into a prewar mall. Once raiders across Colorado, they now pay tribute to the Maxson Chapter and profit as Colorado's largest emporium. Come in - we have such delights to show you."
+  bizaare_market: "The Bizarre"
+  bizaare_market_desc: "The Bizarre is an autonomous marketplace of the expensive, the dangerous, and the weird, built into a prewar mall. Once raiders across Colorado, they now pay tribute to the Maxson Chapter and profit as Colorado's largest emporium. Come in - we have such delights to show you."
   #TON
   ton_expert_cultivators:0 "Expert Cultivators"
   ton_expert_cultivators_desc:0 "The Tohono O'odham Nation has a proud history of studying and mastering their environment. From building complex irrigation systems to creating new methods of planting and harvesting, the O'odham are amongst the finest agricultural minds in the entire American wasteland. Their bountiful crop harvests ensure significant population growth, and are always developing new techniques to improve their farms."
@@ -278,9 +286,39 @@
   #MOS
   mos_storms_of_the_divide:0 "Storms of the Divide"
   mos_storms_of_the_divide_desc:0 "The "Divide" is the name of the settlements located near the old world ruins of Ashton and Hopeville. These ruins have been preserved due to the fact that strange storms constantly blanket the valley, keeping the scars of the old world laid bare and open."
-
   mos_old_world_heritage:0 "Old World Heritage"
   mos_old_world_heritage_desc:0 "The Divide is so pristine that those living there can still find symbols and heraldry that the old world left behind."
+
+  #HGH
+  hgh_flatland_fleetfoot:0 "Flatland Fleetfoots"
+  hgh_flatland_fleetfoot_desc:0 "While the fanatics of [HEA.GetName] have long since pushed us out of the narrow mountain passes we once called our home. It is of no consequence, however, as we maintain control over the South Idaho flatlands. These prosporous plains offer ample oppertunity for scrap and to grow crops, and the farmer-infantry most of our forces rely on fight best when defending their homelands."
+  hgh_craters_of_the_moon:0 "The \"Craters of the Moon\" National Park, rumoured to be the legacy of B.O.M.B. station testing, lies in the northeast of our territory. Its unique geography draws a handful of wealthy tourists from miles around, and most crutially provides an interesting landmark for trading caravans to orient around."
   ## ROB
-  machine_commune:0 "The Machine Commune"
+  machine_commune: "The Machine Commune"
   machine_commune_desc:0 "Robot City is a beacon to Robots from across the Wasteland who seek fellowship and camaraderie. Even roboscorpions are welcome, so long as they follow the rules!"
+
+  ### 5.0
+  river_league: "The River League"
+  river_league_desc: "The League connects a loose network of towns and cities across thousands of miles. Montana's coal and ore go downriver even as the Crescent City's sugar and Costa's coffee wind their way north, a stream of caps that flows like the river."
+  bis_german_heritage: "The Revolutionaries of 2048"
+  bis_german_heritage_desc: "German scientists created the first Gauss Rifles before the Great War, and  immigrants fleeing the Resource Wars brought that technology to America. Some of their descendents in Bismarck still know how to maintain and repair these triumphs of free-spirited German engineering even today!"
+  jackson_family_ties: "Family Ties"
+  jackson_family_ties_desc: "The Jacksons who survived the flight east are a tight knit lot, unwilling to trust outsiders. But that family loyalty gives them advantages compared to a typical gang."
+  ruminator_book: "Ruminating to Riches"
+  metal_salvaged_corpses: "Recycling the Fallen"
+  crop_rotation:0 "Pioneer Farming"
+  crop_rotation_desc: "The Historians' keep alive the methods used by the first settlers of the Dakotas. These make them friends throughout the region and improve their own crop rotation."
+  historian_presence:0 "Historian Presence"
+
+### Canada
+  strath_china_ideology: "Comrade Cheng Thought"
+  strath_china_ideology_desc: "Raise high the great red flag of Comrade Cheng Thought, unite around the Party and Chairman, and crush all kinds of constraints and subversive plots of revisionism. The Revolution is not yet lost!"
+  vermillion_china_ideology: "The Barrel of the Gun"
+  vermillion_china_ideology_desc: "Every Communist must grasp the truth, 'Political power grows out of the barrel of a gun.'' Our principle is that the People commands the gun, and the gun must never be allowed to command the People. Experience in the class struggle in the era of imperialism teaches us that it is only by the power of the gun that the working class and the labouring masses can defeat the forces of Oppression; in this sense we may say that only with guns can the whole world be transformed. We are advocates of the abolition of war, we do not want war; but war can only be abolished through war, and in order to get rid of the gun it is necessary to take up the gun."
+  stc_five_year_plan: "The Five Year Plan"
+
+  stc_mass_mobilization_idea:0 "Mass Mobilization"
+  stc_mass_mobilization_1:0 "The People's Officers'"
+  stc_desperate:0 "Revolutionary Struggle"
+  stc_cult_personality:0 "Cult of Personality"
+  four_year_plan:0 "Four Year Plan"

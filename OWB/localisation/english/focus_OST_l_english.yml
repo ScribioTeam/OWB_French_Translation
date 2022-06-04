@@ -1,0 +1,609 @@
+﻿l_english:
+
+  ost_nf: "The Order of St. Joseph"
+
+  ost_greatcrusade:0 "The Great Crusade"
+  ost_greatcrusade_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_clericalintervention:0 "Clerical Intervention"
+  ost_clericalintervention_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_thegenius:0 "The Genius"
+  ost_thegenius_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_crowdcontrol:0 "Crowd Control"
+  ost_crowdcontrol_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_theinquisitor:0 "The Exorcist"
+  ost_theinquisitor_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_penalsoldiers:0 "Penal Soldiers"
+  ost_penalsoldiers_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_operationoverkill:0 "Operation \"Overkill\""
+  ost_operationoverkill_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_emergencyretrofits:0 "Emergency Retrofits"
+  ost_emergencyretrofits_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_revisedcombatprotocols:0 "Revised Combat Protocols"
+  ost_revisedcombatprotocols_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_desparatemeasures:0 "Desparate Measures"
+  ost_desparatemeasures_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_thepenancedecree:0 "The \"Penance\" Decree"
+  ost_thepenancedecree_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_sanitizerofficers:0 "Sanitizer Officers"
+  ost_sanitizerofficers_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_ourfinalline:0 "The Final Line"
+  ost_ourfinalline_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_initialdemobilising:0 "Initial Demobilising"
+  vzost_initialdemobilising_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_preservingequipment:0 "Preserving Equipment"
+  ost_preservingequipment_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_exorcisingtheirdemons:0 "Exorcising their demons"
+  ost_exorcisingtheirdemons_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_forbidden_city:0 "The Forbidden City"
+  ost_the_forbidden_city_desc:0 "PLACEHOLDER LOCALISATION: [Religious, exaggerated] Omaha was locked down after the war as it was during the war but without any responses from the outside world, chaos ensued. Humanists and the military clash."
+
+  ost_a_light_in_the_dark:0 "A Light in the Dark"
+  ost_a_light_in_the_dark_desc:0 "PLACEHOLDER LOCALISATION: [Religious, exaggerated] Decades after the dust settled tensions arise again as the Order arises, liberating the people from the failings of their rulers."
+
+  ost_birth_of_the_curators:0 "Birth of the Curators"
+  ost_birth_of_the_curators_desc:0 "PLACEHOLDER LOCALISATION: [Religious, formal] The Curator Chapter is established to centralise scientists and engineers rebuilding Omaha and furthering civilisation during these daring times"
+
+  ost_our_warrior_caste:0 "Our Warrior Chapter"
+  ost_our_warrior_caste_desc:0 "PLACEHOLDER LOCALISATION: [Religious, fanatic] The fiercest fighters of the Order joined up under the Sanitizer Chapter, ready to burn the infection in righteous fire."
+
+  ost_containment_breach:0 "Containment Breach"
+  ost_containment_breach_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_evaluating_the_crusade:0 "Evaluating the Crusade"
+  ost_evaluating_the_crusade_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_its_just_overkill:0 "It's Just Overkill"
+  ost_its_just_overkill_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_just_emerged_victorious:0 "The Just Emerged victorious"
+  ost_the_just_emerged_victorious_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_costs_of_attrition:0 "Costs of Attrition"
+  ost_costs_of_attrition_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_peace_at_last:0 "Peace at Last"
+  ost_peace_at_last_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_foreign_affairs:0 "Foreign Affairs"
+  ost_foreign_affairs_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_on_the_matter_of_priests:0 "On the Matter of Priests"
+  ost_on_the_matter_of_priests_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_internal_affairs:0 "Internal Affairs"
+  ost_internal_affairs_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_investigation:0 "The Investigation"
+  ost_the_investigation_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_innocence_lost:0 "Innocence Lost"
+  ost_innocence_lost_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_power_of_the_people:0 "Power of the People"
+  ost_power_of_the_people_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_power_of_authority:0 "The Power of Authority"
+  ost_the_power_of_authority_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_emergency_powers:0 "Emergency Powers"
+  ost_emergency_powers_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_source_of_the_problem:0 "The Source of the Problem"
+  ost_the_source_of_the_problem_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_disappearance_act:0 "Disappearance Act"
+  ost_disappearance_act_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_like_it_never_happened:0 "Like It Never Happened"
+  ost_like_it_never_happened_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_clerical_sins:0 "Clerical Sins"
+  ost_clerical_sins_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_radio_silence:0 "Radio Silence"
+  ost_radio_silence_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_unsettling_news:0 "Unsettling News"
+  ost_unsettling_news_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_nephilim_chapter:0 "The Nephilim Chapter"
+  ost_the_nephilim_chapter_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_going_with_the_time:0 "Going With the Time"
+  ost_going_with_the_time_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_glory_to_the_priests:0 "Glory to the Priests"
+  ost_glory_to_the_priests_desc:0 "The people support the Priests, saviors of the Order, protectors of the City. Glory to them!"
+
+  ost_sacred_vestments:0 "Sacred Vestments"
+  ost_sacred_vestments_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_partisan_warfare:0 "Partisan Warfare"
+  ost_partisan_warfare_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_a_holy_crusade:0 "A Holy Crusade"
+  ost_a_holy_crusade_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_mechanoid_assistance:0 "Mechanoid Assistance"
+  ost_mechanoid_assistance_desc:0 "The Curators, craftsmen, scientists, the source of our knowledge and skill will mobilize our new defenders: the Mechanoids"
+
+  ost_wartime_production:0 "Wartime Production"
+  ost_wartime_production_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_old_world_amenities:0 "Old World Amenities"
+  ost_old_world_amenities_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_custodian_protocols:0 "Custodian Protocols"
+  ost_custodian_protocols_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_reports_from_the_front:0 "Reports From the Front"
+  ost_reports_from_the_front_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_for_the_order:0 "For the Order!"
+  ost_for_the_order_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_curators_guarantee:0 "Curators' Guarantee"
+  ost_curators_guarantee_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_surveillance_efforts:0 "Surveillance Efforts"
+  ost_surveillance_efforts_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_priests_knowledge:0 "The Priests' Knowledge"
+  ost_the_priests_knowledge_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_ambulancers:0 "The Ambulancers"
+  ost_the_ambulancers_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_sanitizer_firepower:0 "Sanitizer Firepower"
+  ost_sanitizer_firepower_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_sisters_of_mercy:0 "Sisters of Mercy, Assemble!"
+  ost_sisters_of_mercy_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_curators_for_the_warmachine:0 "Curators for the Warmachine"
+  ost_curators_for_the_warmachine_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_officers_staff:0 "The Officers' Staff"
+  ost_the_officers_staff_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_ready_for_the_future:0 "Ready for the Future"
+  ost_ready_for_the_future_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_outer_reaches:0 "The Outer Reaches"
+  ost_the_outer_reaches_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_industrial_cooperation_act:0 "Industrial Cooperation Act"
+  ost_industrial_cooperation_act_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_sioux_city_cannery:0 "The Sioux City Cannery"
+  ost_the_sioux_city_cannery_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_honorable_purebloods:0 "Honorable Purebloods"
+  ost_honorable_purebloods_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_sanitizer_tithe:0 "Sanitizer Tithe"
+  ost_sanitizer_tithe_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_defenders_of_the_west:0 "Defenders of the West"
+  ost_defenders_of_the_west_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_a_new_player:0 "A New Player"
+  ost_a_new_player_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_securing_the_northern_route:0 "Securing the Northern Route"
+  ost_securing_the_northern_route_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_expanding_metro_hub:0 "Expanding Metro Hub"
+  ost_expanding_metro_hub_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_rusty_cogs:0 "Rusty Cogs"
+  ost_rusty_cogs_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_outbreak_in_section_5:0 "Outbreak in Section 5"
+  ost_outbreak_in_section_5_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_section_3_riots:0 "The Section 3 Riots"
+  ost_the_section_3_riots_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_a_long_term_solution:0 "A Long-term Solution"
+  ost_a_long_term_solution_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_charity_efforts:0 "Charity Efforts"
+  ost_charity_efforts_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_enforcing_the_pact:0 "Enforcing the Pact"
+  ost_enforcing_the_pact_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_salvation_recycling_center:0 "The \"Salvation\" Recycling Center"
+  ost_the_salvation_recycling_center_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_pop_a_grin:0 "Pop a GRIN"
+  ost_pop_a_grin_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_enhancing_the_formula:0 "Enhancing the Formula"
+  ost_enhancing_the_formula_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_always_ready:0 "Always Ready"
+  ost_always_ready_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_hold_it_in:0 "Hold-It In!"
+  ost_hold_it_in_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_grub_eat_it:0 "Grub, Eat It!"
+  ost_grub_eat_it_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_ensuring_the_lockdown:0 "Ensuring the Lockdown"
+  ost_ensuring_the_lockdown_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_always_vigilant:0 "Always Vigilant"
+  ost_always_vigilant_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_church_made_a_promise:0 "The Church Made a Promise"
+  ost_the_church_made_a_promise_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_a_hard_choice:0 "A Hard Choice"
+  ost_a_hard_choice_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_divert_emergency_resources:0 "Divert Emergency Resources"
+  ost_divert_emergency_resources_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_a_necessary_supplement:0 "A Necessary Supplement"
+  ost_a_necessary_supplement_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_even_the_infallible_fail:0 "Even the Infallible Fail"
+  ost_even_the_infallible_fail_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_strengthen_the_industry:0 "Strengthen the Industry"
+  ost_strengthen_the_industry_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_strengthen_the_military:0 "Strengthen the Military"
+  ost_strengthen_the_military_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_all_cogs_restored:0 "All Cogs Restored"
+  ost_all_cogs_restored_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_armed_citizens:0 "Armed Citizens"
+  ost_armed_citizens_desc:0 "Why have an army of specialists or mechanical servants when our citizens can make use of their right to bear arms? We should support this endeavour!"
+
+  ost_the_sound_of_the_police:0 "The Sound of the Police"
+  ost_the_sound_of_the_police_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_world_police:0 "World Police"
+  ost_world_police_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_riot_shields:0 "Riot Shields"
+  ost_riot_shields_desc:0 "With our police being prepared to uphold law and order wherever we go, more specialized equipment will be necessary. Riot shields, thicker armors, electrified batons, all worn by our best trained men in the field!"
+
+  ost_sending_a_repair_team:0 "Sending a Repair Crew"
+  ost_sending_a_repair_team_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_another_repair_successful:0 "Another Repair Successful"
+  ost_another_repair_successful_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_while_were_here:0 "While We're Here..."
+  ost_while_were_here_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_contacting_the_warden:0 "Contact the Warden"
+  ost_contacting_the_warden_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_sending_reinforcements:0 "Sending Reinforcements"
+  ost_sending_reinforcements_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_its_a_trap:0 "It's a Trap!"
+  ost_its_a_trap_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_end_the_affliction:0 "End the Affliction!"
+  ost_end_the_affliction_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_distress_signal:0 "Distress Signal"
+  ost_distress_signal_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_to_arms:0 "To Arms!"
+  ost_to_arms_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_equipment_procurement:0 "Equipment Procurement"
+  ost_equipment_procurement_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_a_painful_push:0 "A Painful Push"
+  ost_a_painful_push_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_incidence_value_explodes:0 "The Incidence Rate Explodes"
+  ost_the_incidence_value_explodes_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_contain_and_secure:0 "Contain and Secure"
+  ost_contain_and_secure_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_apprehend_and_purge:0 "Apprehend and Purge"
+  ost_apprehend_and_purge_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_engaging_the_section_seals:0 "Engaging the Section Seals"
+  ost_engaging_the_section_seals_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_mobilising_the_police:0 "Mobilising the Police"
+  ost_mobilising_the_police_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_total_lockdown:0 "Total Lockdown"
+  ost_total_lockdown_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_declaring_martial_law:0 "Declaring Martial Law"
+  ost_declaring_martial_law_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_no_contact_protocol:0 ""No Contact" Protocols"
+  ost_no_contact_protocol_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_plague_camps:0 "Plague Camps"
+  ost_plague_camps_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_blue_death:0 "The Blue Death"
+  ost_the_blue_death_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_a_nation_divided:0 "A Nation Divided"
+  ost_a_nation_divided_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_better_people:0 "The Better People"
+  ost_the_better_people_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_touch_of_the_divine:0 "Touch of the Divine"
+  ost_touch_of_the_divine_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_opening_soup_kitchens:0 "Opening Soup Kitchens"
+  ost_opening_soup_kitchens_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_steady_as_she_goes:0 "Steady As She Goes"
+  ost_steady_as_she_goes_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_mending_our_wounds:0 "Mending Our Wounds"
+  ost_mending_our_wounds_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_wartime_rationing:0 "Wartime Rationing"
+  ost_wartime_rationing_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_cure_to_sadness:0 "The Cure to Sadness"
+  ost_the_cure_to_sadness_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_state_mandated_happiness:0 "State Mandated Happiness"
+  ost_state_mandated_happiness_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_keep_up_the_grin:0 "Keep up the GRIN"
+  ost_keep_up_the_grin_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_future_of_omaha:0 "The Future of Omaha"
+  ost_the_future_of_omaha_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_great_crusade:0 "The Great Crusade"
+  ost_the_great_crusade_desc:0 "The Crusade is upon us. We are both obligated to and destined towards the complete and utter eradication of the filth that infests the Plaguelands; we have laid before us a task that will demand complete and utter faith, resolve, and might. Should we fail in our quest to drive back the hordes today, what could we hope for in tomorrow?"
+
+  ost_quarantine_efforts:0 "Quarantine Efforts"
+  ost_quarantine_efforts_desc:0 "Containment is not just a tactic due for clinics, and quarantine zones; it has it's place on the battlefield aswell. On the homefront it consists of medical dividers, sanitization, masks, and personal space; but out on the battlefield the enemy is contained not by clean hands, but by bloodied steel and chipped concrete. A complex network of fortifications and outposts will help us keep our territory free of the enemy."
+
+  ost_recruit_the_faithful:0 "Recruit the Faithful"
+  ost_recruit_the_faithful_desc:0 "What would the Order be without it's flock faithful? Nothing, truly. They are relied upon in matters of all matters of the Church, and as the Crusade is part of the Church's mission, should they not be involved in that, too?"
+
+  ost_plowshares_to_swords:0 "Plowshares to Swords"
+  ost_plowshares_to_swords_desc:0 "Every hand is needed in the fight against such infectious tyranny, but for us to succeed we must first insure that said hands have weapons to fight back the scourge! Bare palms and bloody knuckles do not a weapon make."
+
+  ost_nurse_officers: "Nurse Officers"
+  ost_nurse_officers_desc: "Our front line commanders would benefit from two things; firstly that their planning staff has a sufficient number of personnel versed in the field of medicine, secondly that those commanders themselves take heed not to let infection and pestilence spread amongst their men."
+
+  ost_mend_the_roads:0 "Mend the Roads"
+  ost_mend_the_roads_desc:0 "The bombs that destroyed America took with them many luxuries, one of which being this country's many roads. The flat, marching friendly terrain that would've made for excellent wartime infrastructure 200 years ago is now mangled, near impassible ruin. As we heal the people, we must too the country, and so it's roads must be fixed."
+
+  ost_comprehensive_treatment_plan:0 "Comprehensive Treatment Plan"
+  ost_comprehensive_treatment_plan_desc:0 "The Crusade is now entering it's second stage. Both sides have been fighting eachother for months now, and many of the early war organizational hurdles are being overcome. This is the endgame now, battles are to be faster, bloodier, and far more ravenous; the terrain we march across will become scarred, marked forever by our holy struggle."
+
+  ost_excise_the_enemy:0 "Excise the Enemy"
+  ost_excise_the_enemy_desc:0 "There can be no second thoughts, no apprehension, no mercy. We can rest no more on our success in battle than we can our laurels. There is great victory to be had here, and to stand idly by as it escapes our grasp is defeatism to the highest degree."
+
+  ost_first_do_harm:0 "First, Do Harm."
+  ost_first_do_harm_desc:0 "Victory is close now, no matter what it looks like on the battlefield, we can feel it in every moment, every battle, every martyr. Presuppositions about patience and stoicism have utterly lost their place in the Crusade. There is only one overriding desire amongst our people now: Destroy the filth, purge the rot."
+
+  ost_preventative_medicine:0 "Preventative Medicine"
+  ost_preventative_medicine_desc:0 "As in all this related to the field of medicine, it is best when problems are not allowed to arise in the first place. Our best bet is to lock down our gains, cover our flanks, and hold our position untill the Crusade ends."
+
+  ost_palliative_warfare:0 "Palliative Warfare"
+  ost_palliative_warfare_desc:0 "The endless horde of monsters crashes against our defenses and positions every day. They are getting more desperate, more ravenous. The room for error tightens each moment, every misstep threatening to cost us more and more. Whether sat atop the hill of victory, or locked into the trenches of defeat, one thing is clear; we will be secure in what we have done."
+
+  ost_wartime_manufacturing:0 "Wartime Manufacturing"
+  ost_wartime_manufacturing_desc:0 "What we can convert and gather from our stocks is not enough. We must build yet more facilities that can churn out arms, lest we be left empty handed on the battlefield."
+
+  ost_wartime_construction:0 "Wartime Construction"
+  ost_wartime_construction_desc:0 "The ravages of war damage what little industry we hold constantly. Between the ruined roads, bombed factories, and forts reduced to rubble there is a great lack of construction facilities that can repair our possessions. Victory relies on, in some small part, us correcting this."
+
+  ### REH Version of Crusade war stuff
+  reh_the_great_crusade:0 "The Great Crusade"
+  reh_the_great_crusade_desc:0 "The Crusade is upon us. We are both obligated to and destined towards the complete and utter eradication of the filth that infests the Plaguelands; we have laid before us a task that will demand complete and utter faith, resolve, and might. Should we fail in our quest to drive back the hordes today, what could we hope for in tomorrow?"
+
+  reh_quarantine_efforts:0 "Quarantine Efforts"
+  reh_quarantine_efforts_desc:0 "Containment is not just a tactic due for clinics, and quarantine zones; it has it's place on the battlefield aswell. On the homefront it consists of medical dividers, sanitization, masks, and personal space; but out on the battlefield the enemy is contained not by clean hands, but by bloodied steel and chipped concrete. A complex network of fortifications and outposts will help us keep our territory free of the enemy."
+
+  reh_recruit_the_faithful:0 "Recruit the Faithful"
+  reh_recruit_the_faithful_desc:0 "What would the Order be without it's flock faithful? Nothing, truly. They are relied upon in matters of all matters of the Church, and as the Crusade is part of the Church's mission, should they not be involved in that, too?"
+
+  reh_plowshares_to_swords:0 "Plowshares to Swords"
+  reh_plowshares_to_swords_desc:0 "Every hand is needed in the fight against such infectious tyranny, but for us to succeed we must first insure that said hands have weapons to fight back the scourge! Bare palms and bloody knuckles do not a weapon make."
+
+  reh_nurse_officers: "Nurse Officers"
+  reh_nurse_officers_desc: "Our front line commanders would benefit from two things; firstly that their planning staff has a sufficient number of personnel versed in the field of medicine, secondly that those commanders themselves take heed not to let infection and pestilence spread amongst their men."
+
+  reh_mend_the_roads:0 "Mend the Roads"
+  reh_mend_the_roads_desc:0 "The bombs that destroyed America took with them many luxuries, one of which being this country's many roads. The flat, marching friendly terrain that would've made for excellent wartime infrastructure 200 years ago is now mangled, near impassible ruin. As we heal the people, we must too the country, and so it's roads must be fixed."
+
+  reh_comprehensive_treatment_plan:0 "Comprehensive Treatment Plan"
+  reh_comprehensive_treatment_plan_desc:0 "The Crusade is now entering it's second stage. Both sides have been fighting eachother for months now, and many of the early war organizational hurdles are being overcome. This is the endgame now, battles are to be faster, bloodier, and far more ravenous; the terrain we march across will become scarred, marked forever by our holy struggle."
+
+  reh_excise_the_enemy:0 "Excise the Enemy"
+  reh_excise_the_enemy_desc:0 "There can be no second thoughts, no apprehension, no mercy. We can rest no more on our success in battle than we can our laurels. There is great victory to be had here, and to stand idly by as it escapes our grasp is defeatism to the highest degree."
+
+  reh_first_do_harm:0 "First, Do Harm."
+  reh_first_do_harm_desc:0 "Victory is close now, no matter what it looks like on the battlefield, we can feel it in every moment, every battle, every martyr. Presuppositions about patience and stoicism have utterly lost their place in the Crusade. There is only one overriding desire amongst our people now: Destroy the filth, purge the rot."
+
+  reh_preventative_medicine:0 "Preventative Medicine"
+  reh_preventative_medicine_desc:0 "As in all this related to the field of medicine, it is best when problems are not allowed to arise in the first place. Our best bet is to lock down our gains, cover our flanks, and hold our position untill the Crusade ends."
+
+  reh_palliative_warfare:0 "Palliative Warfare"
+  reh_palliative_warfare_desc:0 "The endless horde of monsters crashes against our defenses and positions every day. They are getting more desperate, more ravenous. The room for error tightens each moment, every misstep threatening to cost us more and more. Whether sat atop the hill of victory, or locked into the trenches of defeat, one thing is clear; we will be secure in what we have done."
+
+  reh_wartime_manufacturing:0 "Wartime Manufacturing"
+  reh_wartime_manufacturing_desc:0 "What we can convert and gather from our stocks is not enough. We must build yet more facilities that can churn out arms, lest we be left empty handed on the battlefield."
+
+  reh_wartime_construction:0 "Wartime Construction"
+  reh_wartime_construction_desc:0 "The ravages of war damage what little industry we hold constantly. Between the ruined roads, bombed factories, and forts reduced to rubble there is a great lack of construction facilities that can repair our possessions. Victory relies on, in some small part, us correcting this."
+
+  ost_the_new_order:0 "The New Order"
+  ost_the_new_order_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_reinstating_authority:0 "Reinstating Authority"
+  ost_reinstating_authority_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_mending_the_schism:0 "Mending the Schism"
+  ost_mending_the_schism_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_prosecuting_hasselhoff:0 "Prosecuting Hasselhoff"
+  ost_prosecuting_hasselhoff_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_armandos_redemption:0 "Armando's Redemption"
+  ost_armandos_redemption_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_final_crusade:0 "The Final Crusade"
+  ost_the_final_crusade_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_true_purity:0 "True Purity"
+  ost_true_purity_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_they_are_in_the_tunnels:0 "They are in the tunnels"
+  ost_they_are_in_the_tunnels_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_connecting_the_lines:0 "Connecting the Lines"
+  ost_connecting_the_lines_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_operation_countdown:0 "Operation \"Countdown\""
+  ost_operation_countdown_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_memories:0 "Memories of 2075"
+  ost_memories_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_phlebotomy:0 "Phlebotomy"
+  ost_phlebotomy_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_reclamation_army:0 "The Reclamation Army"
+  ost_the_reclamation_army_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_manifest_destiny:0 "Manifest Destiny"
+  ost_manifest_destiny_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_never_again:0 "Never again"
+  ost_never_again_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_absolute_control:0 "Absolute control"
+  ost_absolute_control_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_sainthood_achieved:0 "Sainthood achieved"
+  ost_sainthood_achieved_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_wardens_of_the_west:0 "The Wardens of the West"
+  ost_the_wardens_of_the_west_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_forlorn_autonomy:0 "Forlorn Autonomy"
+  ost_forlorn_autonomy_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_united_council:0 "The United Council"
+  ost_the_united_council_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_reaching_out_in_friendship:0 "Reaching out in Friendship"
+  ost_reaching_out_in_friendship_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_bringing_the_rest_in:0 "Bringing the Rest in"
+  ost_bringing_the_rest_in_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_great_seal:0 "The Great Seal"
+  ost_the_great_seal_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_priestly_supervision:0 "Priestly Supervision"
+  ost_priestly_supervision_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_a_better_future_together:0 "A better future, together"
+  ost_a_better_future_together_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_consolidating_the_people:0 "Consolidating the People"
+  ost_consolidating_the_people_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_on_the_matter_of_hasselhoff:0 "On the Matter of Hasselhoff"
+  ost_on_the_matter_of_hasselhoff_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_montgomerys_destiny:0 "Montgomery's Destiny"
+  ost_montgomerys_destiny_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_peace_in_unison:0 "Peace in Unison"
+  ost_peace_in_unison_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_one_people:0 "One People"
+  ost_one_people_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_happiness_is_a_choice:0 "Happiness is a choice"
+  ost_happiness_is_a_choice_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_metal_men:0 "Metal Men"
+  ost_metal_men_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_copium:0 "Copium"
+  ost_copium_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_mobile_constructors:0 "Mobile Constructors"
+  ost_mobile_constructors_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_replicator_protocols:0 "Replicator Protocols"
+  ost_replicator_protocols_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_psycho_implants:0 "Psycho Implants"
+  ost_psycho_implants_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_pill_dispensers:0 "Pill Dispensers"
+  ost_pill_dispensers_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_tomorrows_wars:0 "Tomorrow's Wars"
+  ost_tomorrows_wars_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_food_substitutes:0 "Food Substitutes"
+  ost_food_substitutes_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_staging_grounds:0 "Staging Grounds"
+  ost_staging_grounds_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_right_frame:0 "The right Frame"
+  ost_the_right_frame_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_charge:0 "Charge!"
+  ost_charge_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_hold_the_line:0 "Hold the Line"
+  ost_hold_the_line_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_non_lethal_apprehension:0 "Non-lethal apprehension"
+  ost_non_lethal_apprehension_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_eternal_grin:0 "Eternal GRIN"
+  ost_eternal_grin_desc:0 "PLACEHOLDER LOCALISATION"
+
+  ost_the_state_of_utopia:0 "The State of Utopia"
+  ost_the_state_of_utopia_desc:0 "PLACEHOLDER LOCALISATION"
+
+#:0 ""
+#_desc:0 "PLACEHOLDER LOCALISATION"
+
+

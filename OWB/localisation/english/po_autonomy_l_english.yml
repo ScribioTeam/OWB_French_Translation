@@ -1,76 +1,76 @@
 ﻿l_english:
 
-  autonomy_convert:0 "Convert"
-  autonomy_brother_in_the_faith:0 "Brother in the Faith"
-  autonomy_child_in_the_faith:0 "Child in the Faith"
+ autonomy_convert:0 "Convert"
+ autonomy_brother_in_the_faith:0 "Brother in the Faith"
+ autonomy_child_in_the_faith:0 "Child in the Faith"
 
-  #
-  autonomy_client_tribe:0 "Client State"
-  autonomy_tributary:0 "Tributary"
+ #
+ autonomy_client_tribe:0 "Client State"
+ autonomy_tributary:0 "Tributary"
 
-  #
-  autonomy_free_state:0 "Free State"
-  autonomy_protected_state:0 "Protected State"
-  autonomy_unincorporated_territory:0 "Unincorporated Territory"
-  autonomy_incorporated_territory:0 "Incorporated Territory"
+ #
+ autonomy_free_state:0 "Free State"
+ autonomy_protected_state:0 "Protected State"
+ autonomy_unincorporated_territory:0 "Unincorporated Territory"
+ autonomy_incorporated_territory:0 "Incorporated Territory"
 
-  #
-  autonomy_brotherhood_protectorate:0 "Brotherhood Protectorate"
-  autonomy_brotherhood_dependency:0 "Brotherhood Dependency"
-  autonomy_brotherhood_initiate:0 "Brotherhood Initiate"
-  autonomy_initiate_chapter:0 "Initiate Chapter"
+ #
+ autonomy_brotherhood_protectorate:0 "Brotherhood Protectorate"
+ autonomy_brotherhood_dependency:0 "Brotherhood Dependency"
+ autonomy_brotherhood_initiate:0 "Brotherhood Initiate"
+ autonomy_initiate_chapter:0 "Initiate Chapter"
 
-  #
-  autonomy_enclave_occupation:0 "Federal Occupied Territory"
-  autonomy_enclave_reservation:0 "Federal Reservation"
-  autonomy_enclave_protectorate:0 "Enclave Protectorate"
-  autonomy_enclave_state:0 "Federal State"
+ #
+ autonomy_enclave_occupation:0 "Federal Occupied Territory"
+ autonomy_enclave_reservation:0 "Federal Reservation"
+ autonomy_enclave_protectorate:0 "Enclave Protectorate"
+ autonomy_enclave_state:0 "Federal State"
 
-  #
-  autonomy_little_city:0 "Little City"
+ #
+ autonomy_little_city:0 "Little City"
 
-  autonomy_courtyard_state:0 "Courtyard State"
-  autonomy_council_state:0 "Council State"
-  autonomy_vault_territory:0 "Vault Territory"
+ autonomy_courtyard_state:0 "Courtyard State"
+ autonomy_council_state:0 "Council State"
+ autonomy_vault_territory:0 "Vault Territory"
 
-  #
-  autonomy_brotherhood_slave:0 "Brotherhood Thrall"
+ #
+ autonomy_brotherhood_slave:0 "Brotherhood Thrall"
 
-  autonomy_district:0 "District"
-  autonomy_periphery:0 "Periphery"
-  autonomy_family:0 "Family"
+ autonomy_district:0 "District"
+ autonomy_periphery:0 "Periphery"
+ autonomy_family:0 "Family"
 
-  #
-  autonomy_slave_den:0 "Slave Den"
-  autonomy_slave_warren:0 "Slave Warren"
+ #
+ autonomy_slave_den:0 "Slave Den"
+ autonomy_slave_warren:0 "Slave Warren"
 
-  ###
-  autonomy_slave_port:0 "Slave Port"
-  autonomy_slave_raiders:0 "Slave Raiders"
-  autonomy_raider_city:0 "Raider City"
+ ###
+ autonomy_slave_port:0 "Slave Port"
+ autonomy_slave_raiders:0 "Slave Raiders"
+ autonomy_raider_city:0 "Raider City"
 
-  #
-  autonomy_junior_deputy:0 "Junior Deputy"
-  autonomy_deputy:0 "Deputy"
-  autonomy_sheriff:0 "Sheriff"
+#
+ autonomy_junior_deputy:0 "Junior Deputy"
+ autonomy_deputy:0 "Deputy"
+ autonomy_sheriff:0 "Sheriff"
 
-  #
-  autonomy_tlatoani:0 "Tlatoani"
-  autonomy_calpixqui:0 "Calpixqui"
-  autonomy_cuahtlatoani:0 "Cuahtlatoani"
+ #
+ autonomy_tlatoani:0 "Tlatoani"
+ autonomy_calpixqui:0 "Calpixqui"
+ autonomy_cuahtlatoani:0 "Cuahtlatoani"
 
-  autonomy_junior_executive:0 "Junior Executive"
-  autonomy_executive:0 "Executive"
-  autonomy_boardmember:0 "Board Member"
+ autonomy_junior_executive:0 "Junior Executive"
+ autonomy_executive:0 "Executive"
+ autonomy_boardmember:0 "Board Member"
 
-  autonomy_arm_puppet:0 "Mexican Protectorate"
+ autonomy_arm_puppet:0 "Mexican Protectorate"
 
-  autonomy_sidekick:0 "Sidekick"
+ autonomy_sidekick:0 "Sidekick"
 
-  autonomy_rio_free_state:0 "Estado Libre"
-  autonomy_rio_protected_state:0 "Estado Soberano"
-  autonomy_rio_unincorporated_territory:0 "Territorio"
-  autonomy_rio_client_state:0 "Estado Cliente"
+ autonomy_rio_free_state:0 "Estado Libre"
+ autonomy_rio_protected_state:0 "Estado Soberano"
+ autonomy_rio_unincorporated_territory:0 "Territorio"
+ autonomy_rio_client_state:0 "Estado Cliente"
 
-  # TVR, Vice Royalty
-  autonomy_free_port:0 "Free Port"
+ # TVR, Vice Royalty
+ autonomy_free_port: "Free Port"

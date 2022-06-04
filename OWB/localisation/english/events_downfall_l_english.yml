@@ -40,7 +40,7 @@
   # 12: To BOS
   # 13: To DES
   # 14: To ENC
-  # 15: To BAR
+  # 15: To RDS
   # 16: To KHA
   # 17: To Generic Raiders
 
@@ -78,12 +78,15 @@
   ## Lost Hills Bunker (ids 40 to 49)
   # 40: Generic
   downfall.40.t:0 "The Capture of the Lost Hills Bunker"
-  downfall.40.d:0 "Some deemed it impenetrable, others deemed the conquest of it too bloody to even be attempted. However, they both initially seemed to have been proven wrong after a single day of somewhat underwhelming fighting. [Root.GetName] troops began their attack in the early hours of the morning, seemingly catching the Brotherhood napping. The first troops through the bunker doors were elites, armed with enough anti-armour firepower to crack open Liberty Prime—twice over. However, they were met with no resistance. The Brotherhood had seemingly cottoned on to the fact that power armour, their great strength, is not terribly effective in cramped hallways. They also seemingly had no appetite for a desperate last stand. Instead, unbeknownst to the attackers, they had rigged the entire bunker to explode as soon as the fourth level of the bunker was reached, and that it did. The resulting explosion could be felt across California, and resulted in the deaths of over five hundred [Root.GetName] soldiers. It seems, ultimately, those who had deemed the conquest too bloody to be justified were proved correct."
-  downfall.40.a:0 "They pain the highest price!"
-  downfall.40.b:0 "Even on the backfoot, the Brotherhood are cunning."
-  downfall.40.c:0 "Expelling the Brotherhood from Lost Hills was worth the cost."
-  downfall.40.e:0 "Thankfully it wasn't our troops."
-  downfall.40.f:0 "With Chapters over North America, losing Lost Hills will not bring the Brotherhood down."
+  downfall.40.d.big_boom:0 "Some deemed it impenetrable, others deemed the conquest of it too bloody to even be attempted. However, they both initially seemed to have been proven wrong after a single day of somewhat underwhelming fighting. [Root.GetName] troops began their attack in the early hours of the morning, seemingly catching the Brotherhood napping. The first troops through the bunker doors were elites, armed with enough anti-armour firepower to crack open Liberty Prime—twice over. However, they were met with no resistance. The Brotherhood had seemingly cottoned on to the fact that power armour, their great strength, is not terribly effective in cramped hallways. They also seemingly had no appetite for a desperate last stand. Instead, unbeknownst to the attackers, they had rigged the entire bunker to explode as soon as the fourth level of the bunker was reached, and that it did. The resulting explosion could be felt across California, and resulted in the deaths of over five hundred [Root.GetName] soldiers. It seems, ultimately, those who had deemed the conquest too bloody to be justified were proved correct."
+  downfall.40.d.delayed_boom:0 "Some deemed it impenetrable, others deemed the conquest of it too bloody to even be attempted. However, they both initially seemed to have been proven wrong after a single day of somewhat underwhelming fighting. [Root.GetName] troops began their attack in the early hours of the morning, seemingly catching the Brotherhood napping. The first troops through the bunker doors were elites, armed with enough anti-armour firepower to crack open Liberty Prime—twice over. However, they were met with no resistance. The Brotherhood had seemingly cottoned on to the fact that power armour, their great strength, is not terribly effective in cramped hallways. They also seemingly had no appetite for a desperate last stand. Instead, unbeknownst to the attackers, they had rigged the entire bunker to explode as soon as the fourth level of the bunker was reached, and that it did. The resulting explosion could be felt across California, and resulted in the deaths of over five hundred [Root.GetName] soldiers. However, [Root.GetName]’s forces would be able to steal a few highly valuable schematics before the base was destroyed!"
+  downfall.40.d.tense_fighting:0 "Some deemed it impenetrable, others deemed the conquest of it too bloody to even be attempted. However, they both initially seemed to have been proven wrong after a single day of somewhat underwhelming fighting. [Root.GetName] troops began their attack in the early hours of the morning, it was a tough, bloody fight - nearly every member of the bunker being given a gun to attempt to fight off the invaders. Elders, Scribes and Paladins working together to give their lives for what mattered. In the end, Lost Hills was snuffed out - its corpse left bare for [ROOT.GetName] to pick over."
+  downfall.40.d:0 "Some deemed it impenetrable, others deemed the conquest of it too bloody to even be attempted. However, they both initially seemed to have been proven wrong after a single day of somewhat underwhelming fighting. [Root.GetName] troops began their attack in the early hours of the morning, it was a tough, bloody fight - nearly every member of the bunker being given a gun to attempt to fight off the invaders. Elders, Scribes and Paladins working together to give their lives for what mattered. In the end, Lost Hills was snuffed out - its corpse left bare for [ROOT.GetName] to pick over."
+  downfall.40.bos:0 "AD VICTORIAM!"
+  downfall.40.bos_ally:0 "Even on the backfoot, the Brotherhood are cunning."
+  downfall.40.conquerer:0 "Expelling the Brotherhood from Lost Hills was worth the cost."
+  downfall.40.conquerer_ally:0 "Thankfully it wasn't our troops."
+  downfall.40.neutral:0 "With Chapters over North America, losing Lost Hills will not bring the Brotherhood down."
   # 41: To NCR
   # 42: To ENC
   # 43: To Generic Brotherhood
@@ -183,7 +186,7 @@
   ## Hidden Valley (ids 120 to 129)
   # 120: Generic
   downfall.120.t:0 "The Siege of Hidden Valley" #Title
-  downfall.120.d:0 "After days of siege, relentless fighting, Hidden Valley has fallen. [Root.GetNameDef] was able to take Hidden Valley though pockets of resistance still exist. The Mojave chapter shall be remembered in history books for its defence of Hidden Valley, though fruitless in the end they stood agianst giants. Fighting to the last man, its unsure if this victory was truely a victory for [Root.GetNameDef]. Was it worth the price that was paid in blood for this land."
+  downfall.120.d:0 "After days of siege, relentless fighting, Hidden Valley has fallen. [Root.GetNameDef] was able to take Hidden Valley though pockets of resistance still exist. The Mojave chapter shall be remembered in history books for its defence of Hidden Valley, though fruitless in the end they stood against giants. Fighting to the last man, its unsure if this victory was truly a victory for [Root.GetNameDef]. Was it worth the price that was paid in blood for this land?"
   downfall.120.a:0 "Brothers & Sisters, fight on! Ad Victoriam!" #Owner
   downfall.120.b:0 "We must not be outshone by the Brotherhoods heroic deeds." #Ownerfaction
   downfall.120.c:0 "With Hidden Valley taken, they shall soon fall." #Taker

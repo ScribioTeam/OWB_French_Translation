@@ -159,10 +159,6 @@
   targeting_computer_trait:0 "Targeting Computer"
   targeting_computer_trait_desc:0 ""
 
-  # Car Nations
-  lead_foot_trait:0 "Lead Foot"
-  lead_foot_trait_desc:0 "This leaders reflexes and driving ability combine to make them a very fast driver!"
-
  #Generic Traits
   hot_blooded_trait:0 "Hot Blooded"
   hot_blooded_trait_desc:0 ""
@@ -184,24 +180,29 @@
   finesse_trait_desc:0 ""
   reckless_trait:0 "Reckless"
   reckless_trait_desc:0 ""
-  camouflage_trait:0 "Camouflage"
-  camouflage_trait_desc:0 "This leader spends a lot of time training his troops expertise of disguise."
+  exhausted_order_trait:0 "Exhausted"
+  exhausted_order_trait_desc:0 ""
+  camouflage_trait:0 "Camouflage Master"
+  camouflage_trait_desc:0 ""
   lone_wolf_trait:0 "Lone Wolf"
   lone_wolf_trait_desc:0 ""
-  # trait_trait:0 ""
-  # trait_trait_desc:0 "This leader has been trained by skilled Military Robotics."
-  xenotech_expert_trait:0 "Xenotech expert"
-  xenotech_expert_trait_desc:0 "This leader wants to believe."
-  fortune_finder_trait:0 "Fortune finder"
-  fortune_finder_trait_desc:0 "This leader knows that best things in life are free."
+  xenotech_expert_trait:0 "Xenotech Expert"
+  xenotech_expert_trait_desc:0 ""
+  fortune_finder_trait:0 "Fortune Finder"
+  fortune_finder_trait_desc:0 ""
   virus:0 "Virus"
   virus_desc:0 ""
+
 
   #Unique Traits
   conqueror:0 "Conqueror"
   conqueror_desc:0 ""
   pyromaniac_trait:0 "Pyromaniac"
   pyromaniac_trait_desc:0 ""
+
+  # NCE
+  ranger_trait: "Ranger"
+  ranger_trait_desc: "This leader is a Veteran Ranger, who are renowned for their expert reconnaissance capabilities and their combat prowess."
 
 
   #####
@@ -220,6 +221,3 @@
   ABILILTY_USE_FATMAN_DESC:0 "The Fat Man is perhaps the most devastating infantry weapon ever unleashed upon the modern battlefield - a hand-held catapult that launches portable nuclear bombs. Just don't drop it."
   USE_ARTILLERY:0 "Deploy the Cannons"
   USE_ARTILLERY_DESC:0 "Prewar howitzers are difficult to transport, but when deployed, they can turn the tide of any battle. Of course, once we deploy them it will be hard to retreat."
-
-  exhausted_order_trait:0 "Exhausted"
-  exhausted_order_trait_desc:0 ""

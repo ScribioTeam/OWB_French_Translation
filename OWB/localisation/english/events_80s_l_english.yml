@@ -5,32 +5,32 @@
   nf_80s.111.b:0 "Not worth our time."
   #########################
   nf_80s.1.t:0 "The Oasis"
-  nf_80s.1.d:0 "The Eighties fled east after [NCR.GetDef]'s assaults on their base. At long last, they found a home near a pre-war town called Wendover. After conquering the small town, the Eighties had to decide. Would they prepare to drive west, to reclaim their homeland? Or would they start a new life in Utah and Nevada?"
-  nf_80s.1.a:0 "We were born to ride."
-  nf_80s.1.b:0 "The salt flats of Utah are great for driving."
+  nf_80s.1.d:0 "The Eighties fled east after [NCR.GetName]'s assaults on their base. At long last, they found a home near a pre-war town called Wendover. After conquering the small town, the Eighties had to decide. \n\nFrom here the Eighties ruled with courage and greatness. \n\n Hear of those drivers' heroic campaigns."
+  nf_80s.1.a:0 "Behaviour that's admired . . . "
+  nf_80s.1.b:0 "Is the path to power among people everywhere."
   #########################
-  nf_80s.2.t:0 "The Thunderbird"
-  nf_80s.2.d:0 "Our leader and ruler shall give us victory, for he is the Thunderbird, greatest of the Road Warriors, master of the great V-8, prophet of the great road, and rightful warchief of the Eighties! To us, his people, he has promised a future, a redemption for the failures of the past. Let us ride to meet destiny, for in his visions the bear knows fear, the bull knows caution, and the Road Warriors ride free once more."
-  nf_80s.2.a:0 "He has seen a great vision."
-  nf_80s.2.b:0 "He is a mighty warrior."
+  nf_80s.2.t:0 "The Quarrel"
+  nf_80s.2.d:0 "It was a sunny cold day when the race took place. Before it began, Thunderbird and Flagman stood before the crowd on top of their cars. Unusually, Thunderbird demanded the inner track, claiming it for recent victories. Flagman said it was his lane by right. Their dispute escalated into the sacred word battle, and some of it was recorded by our captured scribes.  \n\nAs Thunderbird said,\nPuny paltry molerat, slave for half a glass, \nHenpecked coward, not worth a drunkard’s oath. \nCanaanite merchants bid you come kiss their ass; \nThey holds no love for such a useless loaf; \nWe know you beg more cola and vino; \nThan any drunkard in distant Reno. \nPity the women who fight you off; \nYou as chieftain? Please, I scoff.\n\nBut Flagman was unimpressed, replying, \nSlinking Sparrow, on whom do you blow your boast?\nPretending to write such slanderous screeds. \nRaw-mouthed rebel, you fall down at the joust.\nMy songs of conquest I loose at your deeds; \nYou passenger, master only of mead,\nBackseat driver, go live in a town\nSay have mercy, or I’ll run down; \nLeave your rhyming, rebel, with your wit’s weed;\nCan you car even get to cruising speed?"
+  nf_80s.2.a:0 "Thunderbird deserves the inside track."
+  nf_80s.2.b:0 "Flagman's words are truthful."
   #########################
-  nf_80s.3.t:0 "The Nevada Road War"
-  nf_80s.3.d:0 "The NCR found a foe unlike any other they had faced before, for while they had fought gangs and tribals, they had never before been challenged by true road warriors. Even as they drove us from our homeland, we ravaged their allies during the great exodus through Nevada. A hundredfold are the tales of respect and fear told by those who were our foes, and a hundredfold more are our own tales of greatness and daring, the legends of the Nevada Road War. For now I shall tell you the story of the time the Eighties..."
+  nf_80s.3.t:0 "What We Left Behind."
+  nf_80s.3.d:0 "Man for man, car for car, the NCR could never stand up to the heroes of the Eighties. We were the bards of the highway, roaming as we pleased across the open roads.  But the NCR burned the corn we used as fuel; sabotaged the roads we traveled; and were, simply, too numerous to stop. We drove east seeking open land along the road we worshipped. /n/nSome in the tribe still wish to head west, but what of them? Look at our success since we headed east! Even as they drove us from our homeland, we ravaged their allies during the great exodus through Nevada. A hundredfold are the tales of respect and fear told by those who were our foes, and a hundredfold more are our own tales of greatness and daring, the legends of the Nevada Road War. For now I shall tell you the story of the time the Eighties..."
   nf_80s.3.a:0 "Stole scientists from Vault City."
   nf_80s.3.b:0 "Kidnapped mechanics from New Reno's chop shops."
   nf_80s.3.c:0 "Picked up raider buddies along the way."
   #########################
   nf_80s.4.t:0 "The Utah Road War"
-  nf_80s.4.d:0 "Wounded, limping, our nation lying in shamble. The dishonourable NCR destroyed us at Sac city, they came with guns, explosives, flame and steel. They killed our greatest warriors and our most honourable citizens. Our elders and our children. Our past and our future. They forced us to flee but we still survived and thrived, and when the time is right, we shall come back to Sac City. The bear think it can drive us to extinction, but again and again we have proven our worth. Our legacy shall not perish, we shall fight for our rightful future, and we will return as heroes, delivering our homeland once again! Until then, let our wrath shake the very core of our neighbours."
+  nf_80s.4.d:0 "Wounded, limping, our nation lay in shamble. The dishonourable NCR destroyed us at Sac city, they came with guns, explosives, flame and steel. They killed our greatest warriors and our most honourable citizens. Our elders and our children. Our past and our future. But since we arrived in Utah, we have triumphed!  Indeed, \n\nOur beloved chief in his car, \nlaid out by the driver's seat\n The great gas-giver. \nFar fetched treasures \nwere piled upon him, and precious gear. \nI have never heard before of a car so well furbished \nwith battle tackle, might guns \nand bags of caps. \n\nLet whoever can win glory before death against our foes."
   nf_80s.4.a:0 "Down with [NCN.GetName]!"
   nf_80s.4.b:0 "[WHT.GetName], our ancient foes."
-  nf_80s.4.c:0 "Honestly, everyone in Utah sucks."
+  nf_80s.4.c:0 "Fate goes as it ever must."
   #########################
   nf_80s.5.t:0 "The Grabbers Call Shotgun"
-  nf_80s.5.d:0 "The Grabbers put up a valiant fight, but they could not stop the Eighties. Crushed beneath our Road Warriors, their leader is our prisoner. But the Grabbers are free spirits who hate the NCR and all its works, just like us. Webster Adam, their leader, would swear fealty to our case. On the other hand, some Grabbers would gladly work for us if we just give them the peaceful use of our roads. Not everyone can be a Road Warrior, after all."
-  nf_80s.5.a:0 "Buckle in, Webster."
+  nf_80s.5.d:0 "And so [EHT.GetLeader] stood before his new subjects \nUndaunted, standing upon his car. \nAnd he decreed, 'Anyone with gumption and a sharp mind will take the measure of two things - what's said and what's done. \nI believe what you have told me, \nthat you are a troop who will serve your new lords."
+  nf_80s.5.a:0 "We are the passengers in your bus,"
   nf_80s.5.a_tt:0 "\nUnlocks a new advisor who will boost your arms production!\n"
-  nf_80s.5.b:0 "If they were any good at war they wouldn't have lost."
+  nf_80s.5.b:0 "We give you nothing but friendship."
   nf_80s.5.b_tt:0 "\nUnlocks a new advisor who will boost your industry!\n"
   #########################
   nf_80s.6.t:0 "Riding Ruby Valley"
@@ -170,4 +170,58 @@
   nf_80s.34.t:0 "[CES.GetLeader] said no!"
   nf_80s.34.d:0 "The Legion has refused to return our homeland. Sadly, our options are limited now that they rule New California and Arizona."
   nf_80s.34.a:0 "This is awful."
-    #########################
+  #########################
+  nf_80s.35.t:0 "We Will Go Our Own Way"
+  nf_80s.35.d:0 "Tensions between [EHT.GetLeader] and Thunderbird have reached a breaking point. The two have met on the track of Wendover to debate the future of the tribe. Flagman began with a litany of his glories - \n\nWe drove as one, hurrying on til the rest stop. \nRose before us, radiant with gold. \nNobody knew of another building like it. \nOur glory lodged there, \nAnd its light shone over many lands. \n\nBut Thunderbird pointed out the wrongs done to the Eighties - \n\nTimes were pleasant for our people, \nuntil Tandi, a fiend out of hell, \nbegan to work her evil in the world. \n\n"
+  nf_80s.35.a:0 "Let's get some popcorn."
+  #########################
+  nf_80s.37.t:0 "Never Going Back Again"
+  nf_80s.37.d:0 "Frustrated and tired after hours of debate, [EHT.GetLeader] offered a compromise - \n\nNow you hear you go again \nYou say you want your freedom? \nIt's only right that you should\nPlay the way you feel it. \nBut  thunder only happens when it's raining, \nAnd players only love you when you're playing. \nYou can go your own way \nYou can call it another lonely day."
+  nf_80s.37.a:0 "Let's get some popcorn."
+  #########################
+  nf_80s.38.t:0 "The World Turning"
+  nf_80s.38.d:0 "Perhaps inspired by [EHG.GetLeader]'s proposal, Thunderbird appeared conciliatory - \n\nEverybody's trying to say I'm wrong, \nI just wanna be back where I belong. \nMaybe I'm wrong but who's to say what's right? \nI just want to drive on through the night. \nI'm gonna drive the first car home, \nI don't know what we came here for. \n\nYou saw me boltered in the blood of enemies \nWhen I battle and bound super-mutants \nRaided a White Legs camp  and in the night ride \nslaughtered Vaulters. I have suffered extremes \nand avenged our people. \nNow I mean to be a match for [NCR.GetLeader],\nsettle our fates in single combat."
+  nf_80s.38.a:0 "The Decision"
+  #########################
+  nf_80s.39.t:0 "The Hero's Journey"
+  nf_80s.39.d:0 "After the Quarrel, Thunderbird vowed to to on a Great Ride across the Wastes to gather the tools to drive west. He drive into Dark Chicago; he passed under the eyes of a dying god; he bartered with another hero of long ago; and he risked his life for people. Many times he almost died; but \n\nOften, for undaunted courage, \nfate spares the man it has not already marked."
+  nf_80s.39.a:0 "He Shall Gain Glory or Die!"
+  nf_80s.39.b:0 "I Shall Gain Glory or Die!"
+
+  #########################
+  nf_80s.40.t:0 "Thunder and Lightning"
+  nf_80s.40.d:0 "[ROOT.GetLeader], we have word from the Eighties! Thunderbird, one of their most powerful warriors, challenged their leader to a dueling . . . poetry battle and race.  It appears he intends to take their people back to Sac City, and drive through our lands to do so.  We would laugh at their pretensions, but many died the last time they came through, and word comes that he is traversing the Wastes to find weapons to aid his bloody drive."
+  nf_80s.40.a:0 "[Root.GetName] stands firm!"
+  nf_80s.40.a_tt: "§R\nIn off the roads, \ndown through the high beams, \ngod-cursed Thunderbird came greedily roaring.§!"
+  #########################
+  #########################
+  nf_80s.41.t:0 "The World Serpent"
+  nf_80s.41.d:0 "The Vipers sacrifice captives to the gods of their pit, answering to [VIP.GetLeader]. But [VIP.GetLeader] refused to share her lore, and mocked Thunderbird. 'What shall I do to prove myself?,' demanded Thunderbird. \n\nA mean and cunning woman, [VIP.GetLeader] instructed Thunderbird to spend a night in the Pit, drunk on the sacred toxin. 'All who join our tribe must pass this trial; do you have any right to do more?'  \n\nAnd so Thunderbird climbed down the pit, drunk on the venom, and seeing their sacred dreams.  \n\nOn his first day, Thunderbird did not emerge from the pit, and they laughed. On the second day, they could not find him in the pit, and he laughed. And on the third day, he emerged from the pit, with vipers upon his arms. \n\n'A car I saw, close to the sea. \nOn Shady Sands it stands, \nand the doors face west. \nVenom drops \nthrough the windows down \nFor around the doors \ndo serpents wind.'"
+  nf_80s.41.a:0 "Thunderbird learned their ways!"
+  nf_80s.41.b: "The Vipers send warriors!"
+  #########################
+  nf_80s.42.t:0 "Deathclaw for a Day"
+  nf_80s.42.d:0 "The story is that Thunderbird went to the Jackals, the eaters of the dead. He went to them as they were fixing their weapons, and fired a fine rifle, taken from a raid to the Midwest, and to them it seemed that the gun was much better. They asked to buy the rifles. Thunderbird set this price on the guns; he asked that whoever wanted it should give what he thought was reasonable. Each Jackal present fired upon the others, and there was a spray and spurt of crimson in the sun. And the bodies of the Jackals fell to the ground. \n\nThunderbird stepped over the Jackals, and walked into their village. \n\n 'Do you not see,' he asked, 'what treasures shall cost?' better to live a day as a deathclaw than a thousand years as a jackal.'"
+  nf_80s.42.a:0 "Their low cunning shall serve us."
+  nf_80s.42.b:0 "Let us obtain more warriors."
+  #########################
+  nf_80s.43.t:0 "Stealing from the Elves"
+  nf_80s.43.d:0 "The story goes that Thunderbird sought wisdom and power, and went to an ancient shrine in the Nevada desert. He and his faithsworn men did battle with the elves there, and the humans who worshipped them. They say the stars falls from the sky, flaming stears steaming and fires burning, which rose high into the heavens. And heaven's bridge burned all in flame, with Thunderbird the last to drive down that road."
+  nf_80s.43.a:0 "A mighty warrior, with a mighty deed."
+  #########################
+  nf_80s.44.t:0 "The Locked Garage"
+  nf_80s.44.d:0 "That was a true trophy that Battle-brave Thunderbird set down before them, under the garage. From the Last Saskatachewan Pirate, he stole vehicles swift and true, encased under the ice in the ghoul's lair. The weapons would do far better in the hands of heroes than in the land of the trolls and Broken Cold.."
+  nf_80s.44.a:0 "We shall use these with honour!"
+  nf_80s.44.a_tt: "\nFrom the lands of the Kanadans, Thunderbird has stolen eighty pre-war tanks that shall be deployed for the march west."
+  #########################
+  nf_80s.45.t:0 "Blowing Off Steam"
+  nf_80s.45.d:0 "And Thunderbird drove into the sticky hot heat, through the cultists' chanting. And with cunning skill, he went to the altar, in the stolen robes of a bishops, the acid words rolling off his silver tongue. To escape, Thunderbird tested warriors' bloom against their flame of faith. Escaping with his shotgun-sworn companions, a surge of water across a parched land."
+  nf_80s.45.a:0 "These steam cores will be useful..."
+  nf_80s.45.a_tt: "\nThunderbird's vehicles will be fueled by steam cores."
+  #########################
+  nf_80s.46.t:0 "The Road East"
+  nf_80s.46.d:0 "A Mother bade Thunderbird to transport a package to Montana, a cargo of plasma and gold to an Indian Queen.  \n\nAgainst the Brotherhood he reddened spears and bloody cars, \nburning rubber and dusty winds.  \nLoaded was he with thunder, and guns of lightning hue. \nKnightly foes, I know they were, and Enclave guns all anew.  \nThunderbird howled and bit his wheel, under endless sky. \nHome from Montana, hastened he westward, \nWaiting for her favour, and to hear once more her sigh."
+  nf_80s.46.a:0 "Let us mount these guns on my car!"
+  nf_80s.46.a_tt: "\nThunderbird was paid with energy weapons for fetching items from Montana."
+  #########################
+

@@ -1,18 +1,6 @@
-﻿######################################
-####### GENERATED CODE WARNING #######
-######################################
-# This file is generated code - any
-# changes made directly to these files
-# will likely be lost on future
-# updates. If you need to tweak the
-# functionality in this file, please
-# contact wtchappell ('the witch') for
-# help in improving its functionality.
-######################################
-####### GENERATED CODE WARNING #######
-######################################
-l_english:
+﻿l_english:
   nova_legion:0 "Nova Legion"
+  chosen_ones:0 "Chosen Ones"
   lanius_horde:0 "Lanius's Horde"
   big_mt:0 "Big MT"
   boneyard_brotherhood:0 "Boneyard Brotherhood"
@@ -36,9 +24,9 @@ l_english:
   kaisers_legion:0 "Kaiser's Legion"
   masters_new_army:0 "Master's New Army"
   mesoamerican_alliance:0 "Mesoamerican Alliance"
+  the_fire_council:0 "Fire Council"
   mojave_alliance:0 "Mojave Alliance"
   mormon_alliance:0 "Mormon Alliance"
-  ncr:0 "NCR"
   nevada_enclave:0 "Nevada Enclave"
   nevada_pact:0 "Nevada Pact"
   northern_league:0 "Northern League"
@@ -50,7 +38,17 @@ l_english:
   texan_economic_union:0 "Texan Economic Union"
   unbroken_coast:0 "Unbroken Coast"
   western_enclave:0 "Western Enclave"
+  order_of_st_joseph:0 "Order of St. Joseph"
+  breach_ferals:0 "Breach Ferals"
   white_sands_compact:0 "White Sands Compact"
   cartel_faction:0 "Gran Cartel"
   cascadia_pirates:0 "Realm of the Cascadia Pirates"
   transcascadia_republic:0 "Transcascadia Republic"
+  new_california:0 "NCR"
+  the_second_coalition:0 "The Second Coalition"
+  imperium_mexicanum:0 "Imperium Mexicanum"
+  mexican_league:0 "Mexican League"
+  midnight_union:0 "Midnight Union"
+  big_circle:0 "Big Circle"
+  dharma_way:0 "Dharma's Way"
+  californian_hegemony:0 "Californian Hegemony"

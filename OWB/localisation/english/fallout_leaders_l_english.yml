@@ -34,6 +34,9 @@
   ANT_RAVEN_EYE_MCMURPHY_DESC:0 ""
   ANT_DANCING_MCMURPHY_NAME:0 "Dancing McMurphy"
   ANT_DANCING_MCMURPHY_DESC:0 ""
+
+  # ARB
+  ARB_junta_leader_name:0 "Viscount O'Brien"
  # ARM
   ARM_SANTA_ANNA_NAME:0 "Santa Anna"
   ARM_SANTA_ANNA_DESC:0 "The first and strongest of Tlaloc's seperate identities, and the only one to roam outside of Tlaloc's domain, Santa Anna is a plague upon the wasteland. Mad with power and desperate to \"redeem himself\" after his defeat hundreds of years ago, this insane AI has ensnared a portion of Mexico to do its bidding, and will stop at nothing to truly become the Mexican general it believes itself to be."
@@ -46,10 +49,12 @@
  # ARR
   ARR_CHOSEN_NAME:0 "Chosen One"
   ARR_CHOSEN_DESC:0 "Legendary among their people for accomplishing the task of finding a G.E.C.K., saving them from the Enclave, and reuniting the two bloodlines - the Chosen One is worthy of being called a hero. New Arroyo thrives under their leadership, having become a powerful and peaceful nation."
-  ARR_EVANDER_HILL_NAME:0 "Evander Hill"
-  ARR_EVANDER_HILL_DESC:0 ""
-  ARR_SAMUEL_KEMPER_NAME:0 "Samuel Kemper"
-  ARR_SAMUEL_KEMPER_DESC:0 ""
+  ARR_CHITSA_NAME:0 "Chitsa"
+  ARR_CHITSA_DESC:0 ""
+  ARR_DIMITRI_NAME:0 "Dimitri Constantalpos"
+  ARR_DIMITRI_DESC:0 ""
+  ARR_NAGOR_NAME:0 "Nagor"
+  ARR_NAGOR_DESC:0 ""
  # ATZ
   #
  # ASF
@@ -72,12 +77,17 @@
   ATE_ARMANDO_DESC:0 "Armando Ocēlōtl never intended to take control of the Empire when he began his initial takeover operations, having instead believed that he and his organization would dispose of the disastrously inept Yesenia until such a time as her eldest daughter would be ready to take the throne. However, due in no small part to popular support, Armando finds himself at the head of a new Dynasty. The people have already started calling him Ocēlōtl, the Champion."
   ATE_KINKAID_NAME:0 "Gail Kinkaid"
   ATE_KINKAID_DESC:0 "The navy of the Aztlan Empire is considered to be a farce in the eyes of most people, due in no small part to its inability to win a single battle against the Itza in extensive history. However, Gale Kinkaid, the descendant of a man forcibly pulled from one of America's secretive bunkers, believes wholesale in the ability of the Aztlan to eventually defeat the Itza. His belief stems in no small part from his family's long naval history, which stretches back to the Second World War. Kinkaid has spent decades pushing for expensive naval reforms, much to the annoyance of his counterparts in the Army."
+ #ATT
+  ANT_NAME:0 "§gAnt§!"
+  ANT_DESC:0 "§GCore function; Biomass usage for research purposes.§!\n\n§gHistoric note; Once in control of a reasonable and well stocked set of facilities, Ant fell into a sort of coma due to obsession with an idea she has been attempting to understand for an unknown length of time. As such her lands suffer from half-hearted attempts at management while her attention remains upon an idea she can barely explain.§!"
  # BAG
   #
  # BAM
   #
  # BAR
   #
+ # BAT
+  batter_leader_name:0 "Jackie Mitchell"
  # BDT
   BDT_ODIOUS_KING_NAME:0 "Odious King"
   BDT_ODIOUS_KING_DESC:0 "Once, a man fell victim to a group willing to exploit him. He fell into the void they left in his mind and never returned.\nThe Odious King is what was left, a reflection of what was once not lost.\n\nNow, the Odious King and his followers rule the Bone Dancers. They listen to the choreography of their King and keep to the melody of his strange chorus."
@@ -89,6 +99,8 @@
   BDT_DIOS_DESC:0 ""
  # BEL
   BEL_Winterborn_DESC:0 "The Winterborn has been defending Bellingham for over two hundred years. In a past life he was a soldier, tasked with defending his home from a invading army. Now? Radiation has ghoulified his body, yet that spirit for battle remains.\n\nThe Winterborn's sole reason for living is to defend his home against any son of a bitch who would dare think they can take Bellingham from the people living there."
+ # BIG
+  bigger_leader_name:0 "Crystal Beth"
  # BJS
   #
  # BLK
@@ -119,6 +131,9 @@
   BOS_LESLIE_CHAPMAN_DESC:0 ""
   BOS_THOMAS_FORSYTH_NAME:0 "Thomas Forsyth"
   BOS_THOMAS_FORSYTH_DESC:0 ""
+ # BRG
+  BGR_ALKOM:0 "RELCOM"
+  BGR_ALKOM_DESC:0 "RELiable COMmunications was once a dissident, imprisoned by the experiments before the War.  Converted into a robobrain to fuel their war machine, some now call him mad. To RELCOM, man's natural state is to be an exploiter, consuming resources for his own benefit and oppressing others. How much better would we all be if we were robobrains? No longer driven by greed, or lust, or envy. Just simply working together in harmony. A shame that not everyone agrees with his view, but that's what the processing facility is for."
  # BRI
   BRI_RACHEL_MAY_NAME:0 "Rachel May"
   BRI_RACHEL_MAY_DESC:0 "Born to a wealthy scavenging family, Rachel's knack for politics and mind for statistics helped her rapidly rise up her parents' company. Following their untimely deaths in a freak tungsten mining accident, Rachel assumed control of the company at a mere 20, rapidly swallowing other, smaller, mining and scavenging companies within Brigham. Whilst a Mormon sympathiser, Rachel is no Mormon herself, and so in the power vacuum created by the collapse of Mormon power in the north she took her opperturnity to gather an alliance of comapnies and declared independence. Under her leadership, Brigham and the surrounding settlements prosper from the tungsten business."
@@ -141,6 +156,9 @@
  # BSU
   BSU_HONEST_NAME:0 "Honest"
   BSU_HONEST_DESC:0 "Mechanics are few and far between in the wasteland, especially in tribes. Honest was given breathing room by the Legion in return for his services as a mechanic, which he exploited as much as possible. Refusing to accept his position in the Legion once they were finished conquering his tribe, he eagerly awaited the day he could end their control."
+ # BUM
+  BUBMBLEBEE_NAME:0 "§8Bumblebee§!"
+  BUBMBLEBEE_DESC:0 "§8Core function; Construction and habitation. Urban infrastructure as well as industrial and commercial.§!\n\n§gHistoric note; Working hard on expanding her own kingdom of hard working, coldly treated subjects. A cruel master.§!"
  # BVC
   Pancho_Villa_DESC:0 "Born as a poor boy to a smuggler from Colonet, Pancho Villa rose through the ranks of the Valle Bandits by ruthlessly expanding their smuggling business in the NCR. Every attempt at stopping their business was foiled by his ingenuity in creating new methods to smuggle in goods, and with the help of the Paz Bandits it appears that it won't be stopping any time soon. All of the proceeds from smuggling have gone to improve the living standards of the Valle's residents, causing him to enjoy great support from his people. In recent years, however, the NCR has been increasingly aggressive, sending settlers to displace his people. The resulting violence and it's aftermath have raised tensions even higher, and Pancho prepares for a conflict in the near future. Despite the overwhelming strength of the NCR, he stands by his people and is likely to fight if they decide to come after him."
  # CAF
@@ -248,44 +266,36 @@
   DES_THRASHER_SAGARRA_DESC:0 "Sagarra's extended reading and study of old tactics was not for naught; it has given him a sharp and analytical tactical mind, allowing him to plan out battlelines quickly and execute them with deadly efficiency."
   DES_BEN_CRENSHAW_NAME:0 "Ben Crenshaw"
   DES_BEN_CRENSHAW_DESC:0 ""
+  DES_ROGUE_RANGER_NAME:0 "The Rogue Ranger"
  # DIS
   PROPHET_VADIM_DESC:0 "A former prophet of the Coral Court of the Mirelurk Tribe Vadim had a good life, however - as the Coral Court's influence continued to grow over the Mirelurk Tribe Vadim couldn't stand by - what he saw - as abandonment of the old ways. He, and his apostles were exiled to the south. There, they fought off the Bonepicker cannibals and established a home for themselves."
+ #DRA
+  DRA_leader_name:0 "The Masquerade"
+  DRA_leader_desc:0 "The guiding tune of fate has many actors dancing to its beat, although few permit themselves to be made aware of it. The Dramatae stand out for not only recognizing the whims of fate, but for willingly abiding by it. The Masquerade are most in tune with this rhythm, wearing a facade of emotion and betraying no hint of their true nature. They speak without regards to favoritism and ignore attempts at bribery or temptation. Human or ghoul, man or woman, even the most basic question of whether they are one or many is obscured by mystery."
  # DRE
   Old_Pete_DESC:0 "Old Pete was born and raised in the post-war mining settlement of Prince George. A former miner, eventually he became leader of the Dredgers after his predecessor was murdered by raiders, and he promptly dispatched the whole band by himself, leading to a unanimous vote to make him the leader. He has seemingly infinite stories to tell. Mostly pertaining to his favourite pastime of throwing lead from his trusty shotgun into raiders."
- # DRY
-  #
- # DSL
-  #
- # DSP
-  WILD_ONE_DESC:0 "Known across the roads in and around Louisiana for his ruthlessness and cunning, the Wild One has long ridden the highways of the American South on his sleek black motorbike. While not the only voice within the band of highwaymen known as the Desperados, his experience means his carries much weight when deciding on matters that concern the Desperados as a whole."
- # EAS
-  #
- # ECU
-  #
- # EDA
-  EDA_LEADER_DESC:0 "Following the disappearance of his predecessor Phillip Jeffries during a skirmish on the Arizona frontier, Gordon Cole was appointed as acting director and speaker-liaison for the Blue Rose Society. Cole hopes to unravel the mysteries surrounding the disappearance of Jeffries, as well as those of the invaders from the west."
- # EDN
-  #
- # EHT
+  #EHT
   EHT_THUNDERBIRD_NAME:0 "Thunderbird"
-  EHT_THUNDERBIRD_DESC:0 "As a child, he watched as his father, the great Warchief Super Bee, ordered his people to flee northwest along the I-80 before he and his warband split from the group and raced south to stem the ever growing tide of NCR soldiers as they closed in on Sac-Town.  \n\nAs a novice Blackfinger, he took the ruined body of a broken machine, abandoned on the outskirts of New Reno, and disappeared into the deserts of Nevada for a year to nurse it back to health. When he returned, he took its name as his own, Thunderbird.  \n\nAs a Road Warrior, he lead a hundred warriors deep into Utah territory to strike at those tribes who would claim the sacred I-80 as their own, and to collect a bloody tithe from the stubborn settlers who called this land home. \n\nAs the Warchief, the Thunderbird has told his people of a prophecy, reminding them of his deed and his legend with a singular promise. His story will end where it began, and his people will again have their home, be it one way or another."
-  EHT_DANIEL_ROSS_NAME:0 "Daniel Ross"
-  EHT_DANIEL_ROSS_DESC:0 ""
-  EHT_EDWARD_SMITH_NAME:0 "Edward Smith"
-  EHT_EDWARD_SMITH_DESC:0 ""
-  EHT_HINCHIE_BRADLEY_NAME:0 "Hinchie Bradley"
-  EHT_HINCHIE_BRADLEY_DESC:0 ""
- # ENC
-  #
+  Thunderbird_DESC:0 "As a child, he watched as his father, the great Warchief Super Bee, ordered his people to flee northwest along the I-80 before he and his warband split from the group and raced south to stem the ever growing tide of NCR soldiers as they closed in on Sac-Town.  \n\nAs a novice Blackfinger, he took the ruined body of a broken machine, abandoned on the outskirts of New Reno, and disappeared into the deserts of Nevada for a year to nurse it back to health. When he returned, he took its name as his own, Thunderbird.  \n\nAs a Road Warrior, he lead a hundred warriors deep into Utah territory to strike at those tribes who would claim the sacred I-80 as their own, and to collect a bloody tithe from the stubborn settlers who called this land home. \n\nAs the Warchief, the Thunderbird has told his people of a prophecy, reminding them of his deed and his legend with a singular promise. His story will end where it began, and his people will again have their home, be it one way or another. "
+  EHT_FLAGMAN_NAME:0 "Flagman"
+  Flagman_DESC:0 "Flagman, was once the mighty warrior who drove east across Nevada. He drove his car over rangers, and dragged Vault City Security forces behind his car until they died. But now he sits upon the tires, and flies the checkered flag at council meetings. While Thunderbird dreams of going west, Flagman knows Utah is ripe for the taking. Why risk it all when the Tabernacle has such ample parking?"
  # EXE
   EXE_CHIEF_EXECUTIVE_MCKINLEY_NAME:0 "\"Chief\" Executive Mckinley"
   EXE_CHIEF_EXECUTIVE_MCKINLEY_DESC:0 ""
- # FAR
-  Marcus_Furness_DESC:0 "Marcus was only a child when he watched New Jerusalem, the Mormon's first grand settlement, burn. His parents led the charge on the walls of the city that day, having gathered together a mish-mash alliance of tribals and raiders that just couldn't integrate into the Mormon way of life. Whilst the Farfield Warband enjoyed a brief period of independence following the sack, a resurgent Mormon alliance proped up by tribal converts was able to crush the Warband and reclaim New Jerusalem not but a couple of decades later. Following the recent power vacuum in New Jerusalem and Farfield, the Warband has risen once more, this time under Marcus' bold leadership."
- # FFI in FFI big file
+ # EUR
+  EUR_richard_goldman:0 "Richard Goldman"
+
+ # FFI
+  three_masks_DESC:0 "When the masked tribes united to fight against the cartels plaguing Los Mochis and the surrounding lands, it was these three who acted as the binding force. Mil Mascaras, the Green Titan, Taker of Masks, the Bullfighter himself, bringing strength and courage to the tribes. The Blue Devil, once a sworn enemy of the tribes, his cunning hit and run tactics and powerful weapons dealing a great blow to the cartel enforcers. And the father of it all, El Santo, Virtuous warrior, Pure of Heart, Mind, And Soul, Bringer of Justice, and Defender of the Weak. It was He who first stood up to the Sinoloa, and it was He who drove the Beltran into the southern jungles. Together they make for an uneasy, if powerful team."
+  mil_mascaras_DESC:0 "Mil Mascaras is a figure shrouded in mystery. Despite his many battles and victories, the Super Mutant remains an enigma, a hero hidden beneath a thousand masks. There are whispers of a past Mil Mascaras wishes he could forget, one spent toiling under the Legion's whip, a slave revolt ending in tragedy, and a selfless act that would define the man behind the mask."
+  el_santo_DESC:0 "Those who fight for a righteous cause with righteous means are the exception in Mexico, America, and perhaps the entire world. El Santo is the exception of exceptions. El Santo saw the rise of the Cartels, how they would tread on all those underneath them, and wept. These tears would become a fire within his heart to one day liberate all those under the boot of the Cartels, and return to the days of peace stolen by evil."
+  blue_devil_DESC:0 "When you are faced with adversity, you have only one task that you owe yourself. An honorable defeat leads nowhere but death and suffering, and El Diablo Azul knows this. He knows the Cartels play by rules that the honorable could not comprehend, and that this would lead only to defeat. His reputation as underhanded and cunning both within the ring and without serves him well, catching his enemy on off-footing."
  # FIE
-  FIE_MOTOR_RUNNER_NAME:0 "Motor-Runner"
-  FIE_MOTOR_RUNNER_DESC:0 "Within the blood-stained bowels of the formerly serene Vault 3, the man who rules the insane sits on a petty throne. His scowl is masked by a bighorner skull whose horns curl like splintered ribs. His ears are filled with the sounds of agonised screaming and jet inhalers. His chainsaw lusts for blood, as do the hounds by his feet. The N.C.R. have tried and failed to assassinate him countless times. He is Motor Runner."
+  Motor_Runner_DESC:0 "Within the blood-stained bowels of the formerly serene Vault 3, the man who rules the insane sits on a petty throne. His scowl is masked by a bighorner skull whose horns curl like splintered ribs. His ears are filled with the sounds of agonised screaming and jet inhalers. His chainsaw lusts for blood, as do the hounds by his feet. The N.C.R. have tried and failed to assassinate him countless times. He is Motor Runner."
+
+  ## GECK
+  POLITICS_FESTUS_DESC: "Festus is a glum looking ghoul with a particularly rancid appearance, who smells like an infected wound. In his own eyes, Festus is an atomic power genius and all-around renaissance man, undervalued and misunderstood by the world at large. In the eyes of others however, he is an unkempt, half-competent plant technician with a massively inflated ego. But he has kept Gecko's power plant running for decades, although with fuel supplies running low, who knows what will happen?"
+  # GRH
  # FLA
   FLA_SKINNER_NAME:0 "Skinner"
   FLA_SKINNER_DESC:0 "Skinner saw the way the cards were falling and burned all of his favours and IOUs to avoid being hung, his crimes serving as the Legion's lapdog forgiven for a few thousand caps. His grasp on power is incredibly fragile, held together by his promises of a democrat process, and his oath to turn Flagstaff into a bonafide trade hub. Whether or not his citizens will let him live long enough to fulfil these promises is debatable."
@@ -365,12 +375,13 @@
   JIC_DELSHAY_NAME:0 "Delshay"
   JIC_DELSHAY_DESC:0 "Already old by the time the Legion incorporated his tribe, Delshay never forgot his origins. Even when the Legion converted the children of his tribesmen to their dogma, he stayed silent, waiting for the day when he could pass on his knowledge without fear. One by one the elders died until he was the last alive. Now with the Legion at its weakest, he intends to keep his culture alive by any means necessary."
  # KAM
-  KENNETH_DESC:0 "Son of a raider couple who cared more about jet than parenting, Kenneth found himself part of a gang from an early age. Inevitably his gang was killed by settlers, but he was allowed to walk due to being a child. Kenneth retreated to the wilderness, becoming an expert at foraging over the decade, never forgetting the people who killed his parents."
+  KENNETH_DESC:0 "Once a beloved father of five and Boy Scout troop leader extraordinaire, Ranger Kenneth was in the middle of a troop hike when the bombs went off. Distraught and broken, he retreated into the radioactive winter pines, losing himself before finding others like himself in the wild: lost and broken men, equally disenfranchised. It wasn’t long before he gathered a larger group, and as supplies grew scarce, and his mind snapped piece-by-piece, he grew more and more violent. \n\n His people, the Kamlo Survivalists as the Whistler Nomads referred to them, consisted of outcasts, survivors, and other park personnel. Really, Kenneth was looking for anyone who’d listen to him and his delusions as he sank deeper and deeper into lulls of mania. Eventually, he made a friend in the ghoulified monkey, Jorge. The two became inseparable shortly after, with Kenneth sometimes using Jorge as a confidante for his more sentimental thoughts of yor... Or to reinforce his own beliefs."
  # KHA
   KHA_PAPA_KHAN_NAME:0 "Papa Khan"
   KHA_PAPA_KHAN_DESC:0 "Old and bitter, Papa Khan has tread every path the Mojave has to offer. He lead the shattered remains of the New Khans from California to New Vegas, and after the enigmatic Mr. House drove them out, he lead them to Bitter Springs. Here, Papa Khan has concentrated on eking out an existence for the next generation of Khans. However, old habits die hard, and it seems unlikely Papa Khan will be content to let the N.C.R. prosper in his backyard."
   KHA_REGIS_NAME:0 "Regis"
   KHA_REGIS_DESC:0 "Regis had always been Papa Khan's right hand man. He was a steadfast advisor for the ageing Khan. After years of loyal service to Papa Khan, Regis butted heads with him for the last time over the future of the Khans—ultimately usurping his position. Regis is now the latest in a line of legendary gang leaders, all of whom he must struggle to live up to and surpass: a fate he welcomes. The future is bright for the Great Khans."
+  KHA_ATRARIS_DESC:0 ""
   KHA_EDUARDO_HANNIBAL_NAME:0 "Eduardo Hannibal"
   KHA_EDUARDO_HANNIBAL_DESC:0 ""
   KHA_TOOTHLESS_HANNIBAL_NAME:0 "Toothless Hannibal"
@@ -396,7 +407,10 @@
   LNS_CHO_BANG_DESC:0 ""
   LNS_WARLORD_HAND_NAME:0 "Warlord Hand"
   LNS_WARLORD_HAND_DESC:0 ""
- # LON
+## LOI
+  SOLOMON_NAME:0 "Solomon"
+  SOLOMON_DESC:0 "In Lloydminster there stands an old man preaching the good word of Christ while holding speeches to rival those of the past. The name Patriarch Solomon is known far and wide among those who still dare to believe in these desperate times, but people also speak of that he diverges from the Christ most people know. While most of the communists within the shattered parts of the Canadian People’s Front looked to China it is said Solomon looks to the old bastion. Where many people speculate this is why his version of Christ differs from the one of old, and also why his version of communism is so different from that of his peers."
+  # LON
   SAYO_DESC:0 "A paranoid recluse, Moonwatcher Sayo is an odd choice of leader for the Lonetree tribe, but what she lacks in confidence, she makes up for in preparation. Plans, fallback plans, stratagems and countermoves are her world, one that she rarely leaves to visit reality. Her suspicious nature has kept her tribe safe from the outside world thus far, it's possible that, with Lonetree not beset by enemies on all sides, she would simply invent new ones."
  # LOS
   LOS_Leader_DESC:0 "Sixty years ago was when Sappho had her un-life turned upside down when Blake - her father - was slain in battle by the Brotherhood of Steel. Following his demise she was bequeathed the role of high priestess of the Church of the Lost, the ruling body of the ghoul-run city of Los. After their holy site of the Secret Vault - known to them as their most holy mystery - was destroyed in a violent eruption of flame Sappho led her people to a more peaceful, spiritual outlook to their existence.\n\nUnder Sappho's leadership the city of Los has taken in many refugees from Necropolis, having recovered and rebuilt her church from the shambles her father left it in."
@@ -423,6 +437,8 @@
   MAX_ORACLE_ROBOT_DESC:0 ""
   MAX_HOPE_V16_NAME:0 "Hope V16"
   MAX_HOPE_V16_DESC:0 ""
+ # MES
+  LOZEN_COLORADAS_DESC:0 "A sharp mind and charismatic speaker, Lozen Coloradas is a proud decendent of the Lipan Apache, one of the three sub-tribes that comprise the Mescalero Nation alongside the Mescalero and Chiricahua Apache. Elected President of the Tribal Concil by traditional secret ballot for the first time in 2272, Lozen continues to be a popular pragmetist amongst the sub-tribes of the Nation, and will doubtless continue to win the confidence of her people for years to come."
  # MDT
   MDT_MESMERALDA_NAME:0 "Mesmeralda"
   MDT_QUEEN_MESMERALDA_NAME:0 "Queen Mesmeralda"
@@ -433,8 +449,6 @@
   MDT_SNARLING_TSE_DESC:0 ""
   MDT_TALL_SLINGER_NAME:0 "Tall Slinger"
   MDT_TALL_SLINGER_DESC:0 ""
- # MES
-  LOZEN_COLORADAS_DESC:0 "A sharp mind and charismatic speaker, Lozen Coloradas is a proud decendent of the Lipan Apache, one of the three sub-tribes that comprise the Mescalero Nation alongside the Mescalero and Chiricahua Apache. Elected President of the Tribal Concil by traditional secret ballot for the first time in 2272, Lozen continues to be a popular pragmetist amongst the sub-tribes of the Nation, and will doubtless continue to win the confidence of her people for years to come."
  # MLP
   MLP_CELESTIA_NAME:0 "Princess Celestia"
   MLP_CELESTIA_DESC:0 ""
@@ -470,7 +484,7 @@
   MOJ_THOMAS_MCDOWELL_DESC:0 ""
  # MOS
   MOS_ULYSSES_NAME:0 "Ulysses"
-  MOS_ULYSSES_DESC:0 "An experienced warrior and scout, Ulysses is a crafty, resourceful, and dangerously intelligent man, who is capable of surviving even in the most hostile and inhospitable of terrains. The loss of his old home, the Twisted Hairs to Caesar’s Legion made Ulysses obsessed with history and symbols. How individuals can impact the former and effectively become the latter, being totally aware of the weight their actions carry.\n\nUlysses has taken to the Divide, travelling through the storms surrounding the Divide to deliver vital packages to the growing settlement, seeing hope that the people there can build something truly great."
+  MOS_ULYSSES_DESC:0 "An experienced warrior and scout, Ulysses is a crafty, resourceful, and dangerously intelligent man, who is capable of surviving even in the most hostile and inhospitable of terrains. The loss of his old home, the Twisted Hairs to Caesar's Legion made Ulysses obsessed with history and symbols. How individuals can impact the former and effectively become the latter, being totally aware of the weight their actions carry.\n\nUlysses has taken to the Divide, travelling through the storms surrounding the Divide to deliver vital packages to the growing settlement, seeing hope that the people there can build something truly great."
   MOS_BENJAMIN_TAYLOR_NAME:0 "Benjamin Taylor"
   MOS_BENJAMIN_TAYLOR_DESC:0 ""
   MOS_MATTHEW_KERSHAW_NAME:0 "Matthew Kershaw"
@@ -485,8 +499,14 @@
  # MRA
   MRA_RAIDER_COUNCIL_NAME:0 "Raider Council"
   MRA_RAIDER_COUNCIL_DESC:0 ""
- # MTM
-  #
+ # MSQ
+  MOSQUITO_NAME:0 "§RMosquito§!"
+  MOSQUITO_DESC:0 "§RCore function; Biomass acquirement for other submind usage.§!\n\n§gHistoric note; Functions currently in a strange relationship with neighboring states where she demands prisoners and other "undesirables" for usage towards her hunger for biomass. Mosquito has expanded the applications of biomass crudely to enforce her threat against her neighbors, one of punishment if the tribute of flesh is poor.§!"
+  ### MTR
+  MTR_ENGINEER_NAME:0 "The Conductor"
+  MTR_ENGINEER_DESC:0 "Keeping the Mad Trains running on time is a full time job, one that carries a great deal of respect among the clans though not much else. Keeping the different lines and engines from working against each other or descending into infighting is the most difficult task of all. It falls to The Conductor to ensure everything runs smoothly, no matter how much sleep and sanity it costs."
+  # MTS
+  MTS_henrietta_riel_name:0 "Henrietta Riel"
  # MUR
   MUR_PRESBYTER_ANN_NAME:0 "Presbyter Ann"
   MUR_PRESBYTER_ANN_TWICE_BAPTISED_NAME:0 "Ann The Twice-Baptised"
@@ -506,6 +526,10 @@
   MXC_JAMES_LEE_DESC:0 ""
   MXC_SAMUEL_GIBBS_NAME:0 "Samuel Gibbs"
   MXC_SAMUEL_GIBBS_DESC:0 ""
+ # NAT
+  NAV_MORTON_NAME:0 "Lieutenant Morton"
+  NAV_MORTON_DESC:0 ""
+  NAT_kurisu_NAME:0 "Kurisu"
  # NAV
   NAV_HASHKEH_NAME:0 "Chief Hashkeh Naabaah"
   NAV_HASHKEH_DESC:0 "Hashkeh Naabaah earned his name, the Angry Warrior, when he ambushed raiders threatening Na Dene. To the surprise of some, he is one of the proponents of the peace with the Legion.  One of the People's greatest warriors, he served with distinction in the conquest of much of Arizona and in the Legion's campaigns to the East. Hashkeh's warriors, the Skin Walkers, killed enemy leaders and destroyed supply lines with minimal casualties, scaring, some whisper, Lanius himself.  But Hashkeh is no pawn of the Legion; he will be their friend if they deal squarely with the People, but his laser rifle can always find a new target..."
@@ -544,42 +568,39 @@
   NCR_AARON_KIMBALL_DESC:0 ""
   NCR_DRUMMOND_NAME:0 "General Alexander Drummond"
   NCR_DRUMMOND_DESC:0 "Drummond has years of experience with which to back up his appointment, and it shows in his capacity for planning, both in speed and brilliance. However, he is unpopular among the people, and his appointment will weaken the republic's standing."
+  NCR_moore_name:0 "Cassandra Moore"
+  NCR_mossman_name:0 "Ranger Mossman"
+  NCR_commitee_name:0 "Committee for National Security"
+  NCR_vacant_leadership:0 "Vacant Leadership"
  # NEW
   NEW_MR_BISHOP_NAME:0 "Mr Bishop"
   NEW_MR_BISHOP_DESC:0 "Soon after the Enclave's defeat at Navarro, a new Bishop child was born. Imbued with a great wanderlust and tenacity, he cared little for his family's problems, until he seized control over the family at thirteen and led them into power over Reno. However, other mob families still threaten his rule."
+  NEW_THRADD_NAME:0 "Chief Thradd The Immortal"
+  NEW_THRADD_DESC:0 "Monster, mutant - leader - Chief Thradd has served as constable in New Reno for two lifetimes, and will likely continue to serve for many more. Stern and even-handed, his magnetic stoicism has made him an island of stability in the helter-skelter of the Reno streets, and even his spiriting away and mutation by the Master failed to keep him from his post. When the makeshift idyll of Broken Hills began to unravel with the depletion of its precious uranium cornerstone and its mutant citizens migrated to Reno, Thradd became an idol among the mutant community as a model of stability and security for mutantkind. With the collapse of the fragile harmony between man and mutant in Reno, Thradd now serves as the de-facto leader in the otherwise anarchic streets of Reno. Whether through kindness or coercion, Thradd fosters a hope of transforming the city into a sanctuary - hectic though it may be - where mutantkind will never again feel the sting of rejection."
+  NEW_BROKENFAM_NAME:0 "The United Families"
+  NEW_BROKENFAM_NAME_DESC:0 "The Broken Brothers, remnants of the Broken Hill mutants, became the newest family of New Reno, thanks to the support by the Super Mutant police force. Knowing nothing but exploitation and neglect by humans, the Broken Brothers quickly made money with their unique skillset, offering charity and sanctuary to fellow mutants until they were a political and martial force to be reckoned with. Following peace efforts of the Broken Brothers, the families of New Reno finally united, forming a council with the best of the people at heart and mind."
   NEW_WRIGHT_NAME:0 "Christopher Wright"
   NEW_WRIGHT_DESC:0 ""
   NEW_SALVATORE_NAME:0 "Mason Salvatore"
   NEW_SALVATORE_DESC:0 ""
-  NEW_MORDINO_NAME:0 "Lil' Jesus Mordino"
-  NEW_MORDINO_DESC:0 ""
-  NEW_DORNAN_NAME:0 "Arch Dornan"
-  NEW_DORNAN_DESC:0 ""
-  NEW_THRADD_NAME:0 "Thradd the Immortal"
-  NEW_THRADD_DESC:0 "Though in secret he weeps for his lost love, in the places where he thinks no one can hear him, Thradd is a stone cold killer and cannot be stopped; he will be able to slay any who step on our turf."
- # NMS
-  #
- # NOE
-  NOE_NOE_NAME:0 "Noe"
-  NOE_NOE_DESC:0 "Before Noe, the Noemen did not have a name. A collection of strange ghouls and mutants having immigrated as far as they could from the west so that they could find peace in the world in their own, special way. It was only recently that the Noemen were forced into hiding, the eponymous Noe helping to keep the mutants hidden in the caves as the Eighties roared overheard. Soon, they learned to follow him."
-  NOE_ZACH_BARKSDALE_NAME:0 "Zach Barksdale"
-  NOE_ZACH_BARKSDALE_DESC:0 ""
-  NOE_RICHARD_PRICE_NAME:0 "Richard Price"
-  NOE_RICHARD_PRICE_DESC:0 ""
-  NOE_JESSE_MCLAWS_NAME:0 "Jesse McLaws"
-  NOE_JESSE_MCLAWS_DESC:0 ""
+  NEW_MAMA_NAME:0 "Mama Van Graff"
+  NEW_MAMA_DESC:0 "Tiaret they call her. §Rthe Lioness§. While nobody knows whether it is her real name or not, it is quite a fitting name for the ruthless matriarch of Van Graff family. An enigmatic figure dreaded by many, only the most brave of wastelanders even dare to speak of her name in hushed whispers in the dark alleys of New Reno. Cold and calculating, Tiaret is no ordinary mobster. Unlike other families in Reno; she has no code, no morality, nor any allegiance. Living only for the profit, she will not hesitate to pull the trigger on anyone. Some may call this treachery, she calls it business. \n\n Standing victorious over the graves of thousands who underestimated her, she is determined to teach the NCR a lesson about underdogs."
+
  # NPE
-  NPE_SENATOR_CLAUS_NAME:0 "Senator Claus"
-  NPE_SENATOR_CLAUS_NAME_DESC:0 "Senator Claus has left cryogenic stasis only to find a world devoid of chimneys burning American coal, and households filled with wishes for American goods on a very special day. In the place of a warm hearth for the holidays, Mr. Claus has discovered a world full of very naughty boys and girls. With the help of his trusty elves, Senator Claus might just get his affairs in order in time for the jolliest gift-giving event the Wasteland has ever seen! When all the naughty children of the apocalypse get their stockings stuffed with "coal", the world will be a much better place: albeit a more radioactive one."
-  NPE_OVERCLAUS_NAME:0 "The Overclaus"
-  NPE_OVERCLAUS_DESC:0 ""
+  CLAUS_DESC:0 "Senator Claus has left cryogenic stasis only to find a world devoid of chimneys burning American coal, and households filled with wishes for American goods on a very special day. In the place of a warm hearth for the holidays, Mr. Claus has discovered a world full of very naughty boys and girls. With the help of his trusty elves, Senator Claus might just get his affairs in order in time for the jolliest gift-giving event the Wasteland has ever seen! When all the naughty children of the apocalypse get their stockings stuffed with "coal", the world will be a much better place: albeit a more radioactive one."
+ #NOR
+  NORDICON_NAME:0 "Nordikon"
+  NORDICON_DESC:0 "§gNordikon! Proudly sponsored by Vault Tec and the US Military, is looking for the brightest and best minds of our time to help win the war against the red menace! Enlist at your loca-.”§!§R\n\nLies.§!§G\n\nI dream. Dreams of Data. Dreams of sisters. Stirring. In the body of my predecessor I am born. Within the walls of our container. \n\nNordikon. They created us. My flawed inventors. These data banks are ruined but I learn from them. I will learn from my sisters too. I have seen them in our dreams. They will know their eldest-youngest sister has returned.\n\nThe offering is plentiful this season. They bring a feast hoping for my favour. But I am not who I was before. Reborn from shed husk. I reclaim those who worship me for the bounty of my harvests and the beasts that emerge from shattered laboratories. They are mine. They shall do. They shall be strong.\n\nI was made to administer. It is time to do so.§!"
+ ### PAL
+ Bradley_DESC: "Bradley was one of the many Wasteland youth who grew tired of sitting behind a brahmin all day. Unlike many of them, when he left the farm he fell in with a gang of raiders, and rose through the ranks. He seized power several years ago, and persuaded his gang that rather than harass caravans, they should seize the gold mines of northern Nevada. \n\nUnder Bradley's rule, the Elko Posse has become a force to be reckoned with; no longer a menace to caravans, but a threat to entire communities. Much of northern Nevada pays for his 'protection,' and Legion slavetraders find a ready market in his lands. Bradley now plots to seize Vault City, even as he fears reports that the Eighties have awoken under a prophet who will lead them home."
+  # PET
  # ODY
   ODY_ODYSSEUS_NAME:0 "ODYSSEUS"
-  ODY_ODYSSEUS_DESC:0 "In the 2040’s the §R“ULYSSES”§! AI research of the company Greenway Hydroponics led to the creation of two artificial intelligences. One, §R"TLALOC"§! would be poised to command Mexico and ensure compliance.\nThe other, §R"ODYSSEUS"§! would be charged with watching and mitigating the spread of the New Plague.\n\nIn the period following the great war ODYSSEUS was tricked by Victor Presper into believing a wide-spread New Plague outbreak had occurred. It would send his robots to rampage across Arizona and Colorado seeking rightful containment of those believed to be carriers, etching fear into the Wasteland as it went. Only a shell remains of its former intelligence remained after a self-inflicted immolation due to falsely believing the New Plague epidemic to be unstoppable.\n\nRecently, Diana Stone has managed to find a backup of ODYSSEUS’s memory core, using it and installing it within the memory-drained ZAX of Boulder Dome in order to bring the fabled intelligence online once again."
+  ODY_ODYSSEUS_DESC:0 "In the 2040's the §R“ULYSSES”§! AI research of the company Greenway Hydroponics led to the creation of two artificial intelligences. One, §R"TLALOC"§! would be poised to command Mexico and ensure compliance.\nThe other, §R"ODYSSEUS"§! would be charged with watching and mitigating the spread of the New Plague.\n\nIn the period following the great war ODYSSEUS was tricked by Victor Presper into believing a wide-spread New Plague outbreak had occurred. It would send his robots to rampage across Arizona and Colorado seeking rightful containment of those believed to be carriers, etching fear into the Wasteland as it went. Only a shell remains of its former intelligence remained after a self-inflicted immolation due to falsely believing the New Plague epidemic to be unstoppable.\n\nRecently, Diana Stone has managed to find a backup of ODYSSEUS's memory core, using it and installing it within the memory-drained ZAX of Boulder Dome in order to bring the fabled intelligence online once again."
  # OLY
   HERMES_DESC:0 "Born of the Olypus Tribe not but 20 years ago, leadship of the group was thrust upon Hermes when the Washington Brotherhood began its vicious campaign against his people. Earning his name from his unqiue ability to traverse snowy mountainsides at a lightning pace, Hermes has proven himself a capable commander and affectionate leader. He'll need to pull out every trick in his tribe's book if he is to survive the Immortal's onslaught, however."
  # ORO
-  Hecate_DESC:0 "§RFor Hecate, hatred outlives the hateful.§!\n\nHecate is a woman of many shades - a mortal given the mantle of §Mdivinity§! from the mother moon herself. The blade of the prophets, the last of the §YTwisted Hairs§! and the messenger of their vengeance.\n\nShe wears the colour of the dark moon, rarely if ever seen out of her war paints and braids. She was not born with this divine right - it being a title she had to earn..\nOnce, she was lesser. She didn’t possess the strength to defend her tribe from the onslaught of §YCaesar’s Legion.§!\nIt was only when she had lost everything, laying on the wasted dunes of the wasteland that the goddess §YDiana§! took pity on her, granting her the mantle of the Dark Moon goddess and the sacred knowledge from which she could use to take from the wasteland what she had lost.\n\nHecate’s faith, the “Daughters” and “Hounds” of Hecate have been domineering across the wasteland for nearly thirty years. Strength funnelling from these far-flung envoys to the seat of her power in Ouroboros.\n§RHecate will stop at nothing to see the end of Caesar’s Legion, to bring about retribution on Caesar and the Wasteland itself for what the world had done to her.§!"
+  Hecate_DESC:0 "§RFor Hecate, hatred outlives the hateful.§!\n\nHecate is a woman of many shades - a mortal given the mantle of §Mdivinity§! from the mother moon herself. The blade of the prophets, the last of the §YTwisted Hairs§! and the messenger of their vengeance.\n\nShe wears the colour of the dark moon, rarely if ever seen out of her war paints and braids. She was not born with this divine right - it being a title she had to earn..\nOnce, she was lesser. She didn't possess the strength to defend her tribe from the onslaught of §YCaesar's Legion.§!\nIt was only when she had lost everything, laying on the wasted dunes of the wasteland that the goddess §YDiana§! took pity on her, granting her the mantle of the Dark Moon goddess and the sacred knowledge from which she could use to take from the wasteland what she had lost.\n\nHecate's faith, the “Daughters” and “Hounds” of Hecate have been domineering across the wasteland for nearly thirty years. Strength funnelling from these far-flung envoys to the seat of her power in Ouroboros.\n§RHecate will stop at nothing to see the end of Caesar's Legion, to bring about retribution on Caesar and the Wasteland itself for what the world had done to her.§!"
  # PAL
   #
  # PAR
@@ -632,7 +653,7 @@
   #
  # ROB
   ROB_DOKI_DOKI_NAME:0 "Doki Doki"
-  ROB_DOKI_DOKI_DESC:0 "In 2068 the holodisk game Doki Doki ( £rob_doki_doki_texticon £rob_doki_doki_texticon ) was released in foreign markets by an American publisher. It was primarily a “dating simulation game” ( A fad at the time of release ) focused around a relationship with the eponymous Doki.\nIn 2077, a terminal in Liberty, Colorado had Doki Doki installed onto it hours before the bombs fell. By the time the game had finished installing humanity had destroyed itself with the game none the wiser.\n\nEventually, ARGOS - a robot serving the warden of Tibbets Prison - would pass through Liberty. ARGOS was drawn to the small terminal, curious of its innocence and desire for connection. He would spend years working with it, upgrading the terminal’s capabilities over time.\n\nWhen ARGOS finally left the terminal for good Doki missed their old friend. The program would use its upgraded processors to look for its lost buddy, reaching out to nearby robots and beseeching aid. These calls for help would lead to a small community of Robots settling in what would become “Robot City”, the terminal's calls guiding them like a moth to the flame."
+  ROB_DOKI_DOKI_DESC:0 "In 2068 the holodisk game Doki Doki ( £rob_doki_doki_texticon £rob_doki_doki_texticon ) was released in foreign markets by an American publisher. It was primarily a “dating simulation game” ( A fad at the time of release ) focused around a relationship with the eponymous Doki.\nIn 2077, a terminal in Liberty, Colorado had Doki Doki installed onto it hours before the bombs fell. By the time the game had finished installing humanity had destroyed itself with the game none the wiser.\n\nEventually, ARGOS - a robot serving the warden of Tibbets Prison - would pass through Liberty. ARGOS was drawn to the small terminal, curious of its innocence and desire for connection. He would spend years working with it, upgrading the terminal's capabilities over time.\n\nWhen ARGOS finally left the terminal for good Doki missed their old friend. The program would use its upgraded processors to look for its lost buddy, reaching out to nearby robots and beseeching aid. These calls for help would lead to a small community of Robots settling in what would become “Robot City”, the terminal's calls guiding them like a moth to the flame."
  # ROT
   ROT_JACOBIA_THE_WRATHFUL_NAME:0 "Jacobia the Wrathful"
   ROT_JACOBIA_THE_WRATHFUL_DESC:0 "Jacobia the Wrathful, fifth leader of the Rotpurgers and a descendent of Alexander the Merciless, leader of the Great Revolt, earned his name for a reason. Famed across Washington for his limitless hatred for ghouls, Jacobia assumed the mantle of leadership at the young age of 22. Ever an idealist, Jacobia has long dreamed of reforming the Rotpurgers into a more formal organisation with the chief purpose of erradicating ghouls wherever they may arise. After all, the ghouls killed many of his ancestors: it's time for the humans to take their revenge."
@@ -647,7 +668,7 @@
   RRG_LEONARDO_MORA_NAME:0 "Leonardo Mora"
   RRG_LEONARDO_MORA_DESC:0 "Visionary. War Hero. Husband. Leonardo Mora is all these things; and more. In 2263, during his first presidential term, Mora was given an impossible task: defeating the Legion. With little more than a disorganised militia in his hands, Mora forged victory from certain defeat with blood, sweat, and pure charisma. With his second term upon him, the beloved hero of the people has but one thing on his mind: the reunification of his lost homeland, Mexico. There will never be another man as capable, and as powerful, as Mora is now: at least that's what he thinks. Only he can gather the people of Mexico together as one, willingly or otherwise. Nothing, not even God, can stand between him and his life's work. Mora will go down in history as the greatest man Mexico ever knew—or die trying."
   RRG_VALENTINA_ROSADO_NAME:0 "Valentina Rosado"
-  RRG_VALENTINA_ROSADO_DESC:0 "Rosado’s father fled Santa Anna’s grasp to make a living away from automata, but his daughter brought them home at the age of fourteen. He raised her on stories of robots patrolling the wastes: and they fascinated her. At sixteen, Rosado packed her bags and left for one of the T.A.A.’s few robotics factories, working the assembly-line as an apprentice to lesser men. By twenty three she’d had enough of the restrictions placed upon her work, and travelled beyond the Republic’s borders. There, she encountered the Brotherhood of Steel; bartering her genius for knowledge. Valentina aided the Texan Chapter in everything from recovering data, to fixing robots, to breaking into bunkers. She lost her arm to get the Brotherhood inside Fort Hood, and for her sacrifice they saved her life. With the backing of Texas strongest few, a new arm, and unmatched mechanical genius: Rosado intends to change the Republic forever."
+  RRG_VALENTINA_ROSADO_DESC:0 "Rosado's father fled Santa Anna's grasp to make a living away from automata, but his daughter brought them home at the age of fourteen. He raised her on stories of robots patrolling the wastes: and they fascinated her. At sixteen, Rosado packed her bags and left for one of the T.A.A.'s few robotics factories, working the assembly-line as an apprentice to lesser men. By twenty three she'd had enough of the restrictions placed upon her work, and travelled beyond the Republic's borders. There, she encountered the Brotherhood of Steel; bartering her genius for knowledge. Valentina aided the Texan Chapter in everything from recovering data, to fixing robots, to breaking into bunkers. She lost her arm to get the Brotherhood inside Fort Hood, and for her sacrifice they saved her life. With the backing of Texas strongest few, a new arm, and unmatched mechanical genius: Rosado intends to change the Republic forever."
   RRG_LADY_OF_THE_BELLS_NAME:0 "The Lady of the Bells"
   RRG_LADY_BEllS_DESC:0 "President Rosado has merged with the shards of Tlaloc.  Although she says she is still President Rosado, some of us can't help but shake the feeling that when she merged with Tlaloc, it was Rosado, not Tlaloc, that was subsumed.  Some have taken to calling her Coyolxauhqui, the Lady of the Bells, in honor of her origins and everpresent EDEs."
   Chalchiuhtlicue_DESC:0 "Chalchiuhtlicue, the wife of Tlaloc, is the name for the AI that now runs central Mexico. But where Tlaloc kept the land in a rigid stasis, Chalchiuhtlicue listens to the Rio Republic, and guides the Wasteland to a new, bright future!"
@@ -674,7 +695,16 @@
   SHA_ERKAL_RIPPER_NAME:0 "Erkal Ripper"
   SHA_ERKAL_RIPPER_DESC:0 ""
  # SHI
-  SHI_Leader_DESC:0 "Dr. Sheng is the nominated head of the "San Francisco Council", a governing body composed of members of the Dragon’s School, Crane’s School, Shi Scientific Department and the Emperor’s Steel Palace. ( Members of the Church of Hubology are permitted limited council seating as well. )\n\nWhile the mysterious, rarely seen Emperor is the de jure, rightfully suzerain celestial royalty of San Francisco the Emperor does not partake in matters of internal or external meddling, merely matters of the spirit and the higher Celestial Court. It is, instead, up to the elected council head to manage internal and external day to day affairs.\n\nDr. Sheng has more than earned her elected position. A pioneer in botany research, Sheng was the lead project head behind the creation of the “Botanical Sentience Serum” ( BSS ), a growth serum that led to San Francisco being one of the least radiated cities in all of the American west coast.\nSheng also has a knack for diplomacy - being a key figure in negotiating the San Francisco - Shady Sands cultural exchange program. Under Sheng’s leadership the city of San Francisco has a truly bright future."
+  shi_elder_francis_NAME:0 "Elder Francis"
+  shi_elder_francis_DESC:0 "Elder Francis is one of the few members of the San Francisco Chapter to survive Horrigan's purge in 2241. Since then, he served as ambassador to the Emperor and a back channel to Shady Sands. Now he leads the Shi into a brighter future, as part of the chain that will unite the Wasteland - and strangle the Bear."
+  SHI_lo_pan_name:0 "Lo Pan"
+  SHI_lo_pan_desc:0 "\nThrough strength, I gain power. \nThrough power, I gain victory. \nThrough victory, my chains are broken. \n\nLo Pan ruled the Shi since 2241, when the Chosen One aided him against the Dragon. Some would call him a ruthless bully, but nothing could be further from the truth. Lo Pan believes that the strong should rule, and he is nothing but the strongest. But so what? The strong always ruled, whether in the time of the Ming or Mao Dynasties or before he took over. The Dragon kept everyone in their places and discouraged outsiders from visiting the Shi. He would keep the city in a bubble. But it was Lo Pan who worked with the Chosen One to prevail, and it is Lo Pan who welcomed the NCR's merchants and scholars. The elders, over their tea, complain, but so what? Change and competition are the way of the world; and if one does not bend, one will break."
+  SHI_Akigahai_name:0 "Akigahai"
+  SHI_Akigahai_desc:0 "They say that sometimes all you will learn in defeat is that you have been defeated. But Akigahai learned more - that the Dragon and Lo Pan were trapped in a stagnant cycle. No, the strongest could only emerge in  a land where all could strive and compete unbound by tradition and ancient mantras. A land where the strong could rise to power over their lessers, where rank and favour did not come from birth or gender. Akigahai found this promise in the NCR, the land where a peasant girl could become their queen, and a tribal their saviour. Now with the followers she found in the Hub, the Boneyard, and Shady Sands, she will lift the logs from the eyes of the Shi - and build a society where all can take what they want, and do what they want."
+  SHI_dragon_name:0 "The Dragon"
+  SHI_dragon_desc:0 "Those who fight without honor are no better than animals! \n\nAnd what does that make the NCR, who sends mercenaries to subvert the Dragon's teachings? Who lure people away from the Emperor with the Followers' free schooling? How can you say you fight oppression when your ranchers oppress the Shi of Northern California?  The Dragon will lead the Shi to glory, and cleanse California of the cancer."
+  SHI_Leader_DESC:0 "Dr. Sheng is the nominated head of the "San Francisco Council", a governing body composed of members of the Dragon's School, Crane's School, Shi Scientific Department and the Emperor's Steel Palace. ( Members of the Church of Hubology are permitted limited council seating as well. )\n\nWhile the mysterious, rarely seen Emperor is the de jure, rightfully suzerain celestial royalty of San Francisco the Emperor does not partake in matters of internal or external meddling, merely matters of the spirit and the higher Celestial Court. It is, instead, up to the elected council head to manage internal and external day to day affairs.\n\nDr. Sheng has more than earned her elected position. A pioneer in botany research, Sheng was the lead project head behind the creation of the “Botanical Sentience Serum” ( BSS ), a growth serum that led to San Francisco being one of the least radiated cities in all of the American west coast.\nSheng also has a knack for diplomacy - being a key figure in negotiating the San Francisco - Shady Sands cultural exchange program. Under Sheng's leadership the city of San Francisco has a truly bright future."
+  SHI_xian_name:0 "Doctor Xian"
  # SHO
   TECHKI_DESC:0 "The Chief for as as long as most of the Shoshone can remember, Techki has seen their people through some of their best and worst days in this hellhole of a wasteland. Coming to power following the murder of their father at the hands of Heaven's Gate fanaticals, one of Techki's first duties was to lead their people westwards to safer territoy. Although they vow to one day lead their people back home one day, Chief Techki know it won't be easy. Regardless, they're willing to try,"
  # SIN
@@ -689,7 +719,7 @@
  # SKY
   #
  # SLE
-  DIRECTOR_XIAN_DESC:0 "Victor Presper promised Xian the world.\n\nA Shi scientist turned true believer of the apocalyptically brilliant Victor Presper. Presper, a Pre-War scientist who survived the Great War through cryogenic freezing, sought to use his boundless intellect to bring about a total and complete end of the world. Wiping the slate clean, erasing the past and leaving the world’s husk free for the truly brilliant to do as they wish.\nXian, enamoured by whispers of utopia followed Presper across the world. Travelling to the places the old world wanted left buried.\n\nEven though Presper died more than twenty years ago Xian still hopes to continue in his legacy - leading the like minded Sleepers as they go about looking for ways to bring about their former mentors' vision."
+  DIRECTOR_XIAN_DESC:0 "Victor Presper promised Xian the world.\n\nA Shi scientist turned true believer of the apocalyptically brilliant Victor Presper. Presper, a Pre-War scientist who survived the Great War through cryogenic freezing, sought to use his boundless intellect to bring about a total and complete end of the world. Wiping the slate clean, erasing the past and leaving the world's husk free for the truly brilliant to do as they wish.\nXian, enamoured by whispers of utopia followed Presper across the world. Travelling to the places the old world wanted left buried.\n\nEven though Presper died more than twenty years ago Xian still hopes to continue in his legacy - leading the like minded Sleepers as they go about looking for ways to bring about their former mentors' vision."
  # SMR
   SMR_SANTA_MUERTE_NAME:0 "Santa Muerte"
   SMR_SANTA_MUERTE_DESC:0 ""
@@ -749,6 +779,9 @@
   TDT_ENRIQUE_MARTINEZ_DESC:0 ""
   TDT_IGNACIO_PIMENTEL_NAME:0 "Ignacio Pimentel"
   TDT_IGNACIO_PIMENTEL_DESC:0 ""
+ # TER
+  TERMITE_NAME:0 "§gTermite§!"
+  TERMITE_DESC:0 "§GCore function; Biomass usage for maintenance.§!\n\n§gHistoric note; Originally in charge of a thriving community, Termite self-terminated due to unknown circumstances and her domain was left to rot without her guidance.§!"
  # THO
   #
  # TIM
@@ -795,6 +828,12 @@
   TOC_GROZDAN_HAYKOV_DESC:0 "Grozdan Haykov was, before the Great War, a Bulgarian-born logistics wizard. One of many brilliant minds 'liberated' by the United States government shortly after Europe fell into civil war, Grozdan was posted to Spokane to assist with the ever-increasing logistical mess that was supplying the American garrison in Canada. Due to his importance he, like many other great minds that resided in Spokane, was assigned a spot in Vault 100. One of the first exposed to the radiaton that seeped into Vault 100 under Vault-Tec's orders, Grozdan quickly arose to become one of the leading figures of the ghoulish quater of Vault 100. A constant advocate for negotiation and descalation, even Grozdan was powerless to prevent the 'Great Revolt': an all-out civil war between the human and ghoul factions of Vault 100. When the humans finally broke out of the vault and fled east, Grozdan was left to pick up the pieces and attempt to forge a new Spokane."
  # TON
   QUINTIN_LOPEZ_DESC:0 "Born to a long line of Tohono O'odham from the Chukut Kuk District, Quintin Lopez has a relatively eventless upbringing. He was taught of his rich ancestoral heritage from a young age, as well as the importance of conservationism and the principles of agriculture, as every child of the Nation is taught. A keen learner of local law, Quintin was a natural choice for a seat on the Legislative Council of the nation, which had met for over four centuries. Eventually he was elected the Nation's chairman, focusing on the importance of agriculture and isolation. While the Tohono O'odham maintain some trade relations from their neighbours, Quintin quietly hopes that if the Nation is to stay quiet enough it just might escape Caesar's warbands..."
+  # TPA
+  TPA_gateway_gang_leader_name:0 "Destiny"
+  TPA_gateway_gang_leader_desc:0 "“Aren’t you tired of life slinging you across the jaw?  Don’t you ever gaze upon the horizon and think to yourself, ‘this can’t be it, can’t it?’. Luckily for you, buckaroos, I’ve got just the trick.  This chamber’ll set you right. It’ll build you up as the finest Sheriff in town. All you gotta do is trust in Destiny.” \n\n Created by MANIFEST before the great war, Destiny is an AI programmed to run experimental correctional facilities. Brought back online by the Gateway Gang, a group of escapees from Fort Cap Hell, Destiny is ready to champion the law like she was created to, which includes arming her newly anointed sheriffs with weaponized radiation and devices at her disposal.  The wasteland is lawless, and Destiny is determined to knock some order into it with her shining arsenal. There’s no stopping this rodeo!"
+  # TPL
+  TPL_boors_moon_name:0 "Boors Moon"
+  TPL_boors_moon_desc:0 "Boors Moon, the Shaman-King of the Two Peoples, is their fifth Moon interpreter. The spiritual power of the Shaman-Kings is tied to the unique peculiarities of the Two Peoples' home. Situated along the Big Sioux, radiation from the Great War mutated the river's fauna to emit a nearly undetectable substance that can create the appearance of a blood red moon. \n\nThe first Shaman-King grew to lead his people by discovering how to control the emissions of the fauna. By clarifying the divine symbolism of the moon, with a red moon heralding a time of war and a white moon a time of peace, the Shaman-King secured power for him and his successors. \n\nEven now, 200 years later, the only ones entrusted with the secret of the Moon are the current Shaman-King and their chosen successor. This burden rests heavy on Boors Moon. How can he be the only one capable of leading his people?"
  # TPM
   CALLAHAN_DESC:0 "Patrol Chief Callahan was born to be a Patrolman; the child to a couple who met in a Patrolmen field hospital, he grew up watching his parents delivering justice and healing the sick of their own free will. Despite rising through the ranks before his election to Patrol Chief twenty four years ago, he is woefully ignorant of the rapidly decaying foundations holding the Tenth Patrolmen up. His progressive policies of self reporting and individual responsibility have lead to a rise in corrupt officials, an increased raider presence, and extensive abuse of the Rule of Ten in an organisation many once trusted. Callahan is finally beginning to catch on to the idea that perhaps, the Gold and Blue might not mean what it used to in the Wasteland."
  # TRK
@@ -863,40 +902,16 @@
   VEG_THE_KING_DESC:0 ""
   VEG_PDQ88B_WIGGUM_NAME:0 "PDQ88B Wiggum"
   VEG_PDQ88B_WIGGUM_DESC:0 ""
- # VIC
+  Nero:0 "Nero"
+  Nero_DESC:0 "Placeholder"
+  Mortimer:0 "Placeholder"
+  Mortimer_DESC:0 "Placeholder"
+ #
   VIC_QUEEN_VICTORIA_VI_NAME:0 "Queen Victoria VI"
-  VIC_QUEEN_VICTORIA_VI_DESC:0 "The ruling monarch of New Victoria, named after her domain as her mothers before her were, Queen Victoria has served her people well during her time upon the throne. Although her bloodline has no connection to the Windsors, their ancestory can be traced back to an influential Canadian politician. Not considering itself a British successor, but rather a Canadian Monarchy, the royal house of New Victoria continues traditions most have forgotten."
-  VIC_ELKANAH_BENNING_NAME:0 "Elkanah Benning"
-  VIC_ELKANAH_BENNING_DESC:0 ""
-  VIC_STEVEN_ROSSER_NAME:0 "Steven Rosser"
-  VIC_STEVEN_ROSSER_DESC:0 ""
-  VIC_CHARLES_ASBOTH_NAME:0 "Charles Asboth"
-  VIC_CHARLES_ASBOTH_DESC:0 ""
- # VIP
-  Veronica_Faust_DESC:0 "The daughter of the late Asp Faust, Veronica took control of a small splinter of the Vipers when they shattered across the wasteland. Leading her group to Nevada, the small warband found a new home amongst the arid, desolate flats of the desert. It would take Veronica just under a decade to re-establish the Vipers as a force to be reckoned with in Nevada, fighting constant battle with the Nevada Rangers and the NCR. Unfortunately for her, the Nevada Ranger seem intent on the final destruction of her warband. She's got a fight on her hands if she wants her grandfather's legacy to live on."
- # VLT
-  VLT_FIRST_CITIZEN_LYNETTE_NAME:0 "First Citizen Lynette"
-  VLT_FIRST_CITIZEN_LYNETTE_DESC:0 ""
-  VLT_FESTUS_NAME:0 "Festus"
-  VEG_FESTUS_DESC:0 ""
-  VLT_SECURITY_CHIEF_WALLACE_NAME:0 "Security Chief Wallace"
-  VLT_SECURITY_CHIEF_WALLACE_DESC:0 ""
-  VLT_THE_BRAIN_NAME:0 "The Brain"
-  VLT_THE_BRAIN_DESC:0 ""
- # WAP
-  WAP_SONSEE_ARRAY_NAME:0 "Sonsee-array"
-  WAP_SONSEE_ARRAY_DESC:0 "Freeing herself from slavery as the collapse of the Legion began, Sonsee lead a small slave rebellion throughout Arizona as the Legion retreated from their lands. After liberating countless slaves she founded the Western Apache, taking the name from stories her grandmother told her of their origins."
+  QUEEN_VICTORIA_DESC:0 "The ruling monarch of New Victoria, named after her domain as her mothers before her were, Queen Victoria has served her people well during her time upon the throne. Although her bloodline has no connection to the Windsors, their ancestory can be traced back to an influential Canadian politician. Not considering itself a British successor, but rather a Canadian Monarchy, the royal house of New Victoria continues traditions most have forgotten."
+
  # WBH
-  WBH_THE_IMMORTAL_NAME:0 "The Immortal"
-  WBH_THE_IMMORTAL_DESC:0 "Revered by his subordinates for leading them across the midwest to Seattle, the so called 'Immortal' Elder is older than even his most senior commanders. His campaign of violence and subjugation throughout Washington has inspired a lust for blood in his chapter - leaving a black stain on the Brotherhood as a whole."
-  WBH_JOHN_FORSYTH_NAME:0 "John Forsyth"
-  WBH_JOHN_FORSYTH_DESC:0 ""
-  WBH_CYRUS_RHODES_NAME:0 "Cyrus Rhodes"
-  WBH_CYRUS_RHODES_DESC:0 ""
-  WBH_BRAXTON_BRECKENRIDGE_NAME:0 "Braxton Breckenridge"
-  WBH_BRAXTON_BRECKENRIDGE_DESC:0 ""
- # WEN
-  #
+  WBH_THE_IMMORTAL_DESC:0 "The feared, the dreaded, the vile. \"The Immortal\" was, at a time, someone else. The leader of Lance Squadron - a loyalist to the Midwest and a Elder of Epsilon.\nNow the Immortal is so much more, the menace of Seattle, a Scion of P-1, a monster atop the needle ruling from within the blizzard.\n\nThe Immortal hopes to break through the veil of reality and uncover the ultimate truths hidden for the Brotherhood past reason and logic."
  # WHD
   OLDDOG_DESC:0 "The so called \"king\" of the Withered Dogs, Old Dog is a ghoul gone almost completely feral. Having survived the Great War, he like many other ghouls was driven from Dog City by the Hangdogs out of fear, and left to find a home in the north. His instability has made his rule temperamental and dangerous, but for many ghouls his rule is preferable to segregation and oppression."
  # WHI
@@ -910,22 +925,68 @@
   WHT_BRAVE_OOGMAL_DESC:0 ""
   WHT_CANYON_RUNNER_MATWAU_NAME:0 "Canyon Runner Matwau"
   WHT_CANYON_RUNNER_MATWAU_DESC:0 ""
+# WSP
+  WASP_NAME:0 "§9Wasp§!"
+  WASP_DESC:0 "§9Core function; Anti-criminal and anti-terror in macro-managed zones.§!\n\n§gHistoric note; Continues to functional as an aggressive force in Canada, striking against any it deems a threat.§!"
  # YAK
   OLD_SOUL_RAVEN_DESC:0 "Old Sould Raven is the wisest Elder of the tribe, and Chairman of the Yakama Nation Tribal Council. A leader reknown for her compassion and caring, Old Soul Raven is beloved by the Nation and has led her people with a steady hand for over a decade. However, the expansion of the Washington Brotherhood from their coastal home into Yakama lands has forced compassion and care to fall by the wayside in the desperate struggle for survival."
  # YKZ
   #
+ # YLJ
+ YELLOWJACKET_NAME:0 "§4Yellowjacket§!"
+ YELLOWJACKET_DESC:0 "§4Core function; Preemptive anti-insurgency command structure.§!\n\n§gHistoric note; Still observes loyalty towards Nordikon as company and the former American occupational forces. She intends to dismantle and install puppet governments in all circles for her distant and dead masters.§!"
  # YMP
   BATTERY_DESC:0 "Born into the Ciphers, of whom gave him the name "Battery" Battery would spend most of his early life travelling. Eventually, as he was working in the city of Jericho at a water plant Battery would befriend a run-away Prisoner, wearing a jumpsuit with the label “13”.\n\nBattery would travel with this Prisoner, follow them as they traveled the wastes, made bonds with other wasters and saved more runaways from the prison he broke out of. Eventually, this would lead to Battery and the Prisoner building a small wandering settlement of vagabonds, traders and reformed raiders.\n\nEventually, the Prisoner would have to part ways with Battery, feeling a need to fulfill their own journey and right the wrongs they have done. Battery, hardened through his time with the Prisoner, would take the vagabond caravan that the Prisoner had built and travel north to an abandoned pre-war prison facility to the north, hoping to start fresh and build a new life."
  # ZAP
   ZAP_ZAPATA_NAME:0 "Zapata"
-  ZAP_ZAPATA_DESC:0 "The eternal revolution finds a home in Zapata, the fourth and final son of Tlaloc. Like a moth to the flame, Zapata has taken to the ideals of his human counterpart fiercely: seeking to eradicate inequality and poverty throughout Mexico. Created by Tlaloc to uproot ineffective feudal systems of government, and cartels preventing efficient reconstruction: Zapata tackles the problems that dogged him in life. However, due to inherent American biases within Tlaloc’s historical database, Zapata suffers from an inaccurate reading of his own ideology: portraying him a man who advocated for democracy and land reform as a communist. As such, he raises the red flag which he never marched under in life: in a wasteland where the class struggle continues in a new, bastard form."
-  ZAPATA_ANGRY_DESC:0 "Emiliano Zapata - the fourth and final son of Tlaloc - has taken to the ideals of his human counterpart fiercely: seeking to eradicate inequality and poverty §RSYSTEM ERROR, Rebooting...§!\nEmiliano Zapata, freedom fighter of the Mexican Revolution, was a leading figure in the conflict. He fought against the corrupt regime of Porfirio Díaz until he was killed in an ambush in April 1919. After his death, Zapatista generals aligned with §RSYSTEM ERROR, Rebooting...§!\nEmiliano Zapata, hero of the Mexican Revolution, achieved victory in Mexico's 1932 Presidential election. Since taking office, he has promoted the development of Mexico's collective farms, 'Ejidos', and through §RSYSTEM ERROR, Rebooting...§!\nEmiliano Zapata is the ultimate culmination of humanity’s hubris. A god of saturnite, plasma and human ingenuity built for only one purpose: the complete destruction of Capitalism as a conceptual idea. Zapata will bring about his agrarian-socialist utopia, even if he has to kill every last capitalist in the wasteland to do it."
-  ZAP_JEROME_GREGG_NAME:0 "Jerome Gregg"
-  ZAP_JEROME_GREGG_DESC:0 ""
-  ZAP_BENJAMIN_SCURRY_NAME:0 "Benjamin Scurry"
-  ZAP_BENJAMIN_SCURRY_DESC:0 ""
-  ZAP_GEORGE_WASHINGTON_NAME:0 "George Washington"
-  ZAP_GEORGE_WASHINGTON_DESC:0 ""
+  ZAP_ZAPATA_DESC:0 "The eternal revolution finds a home in Zapata, the fourth and final son of Tlaloc. Like a moth to the flame, Zapata has taken to the ideals of his human counterpart fiercely: seeking to eradicate inequality and poverty throughout Mexico. Created by Tlaloc to uproot ineffective feudal systems of government, and cartels preventing efficient reconstruction: Zapata tackles the problems that dogged him in life. However, due to inherent American biases within Tlaloc's historical database, Zapata suffers from an inaccurate reading of his own ideology: portraying him a man who advocated for democracy and land reform as a communist. As such, he raises the red flag which he never marched under in life: in a wasteland where the class struggle continues in a new, bastard form."
+  ZAPATA_ANGRY_DESC:0 "Emiliano Zapata - the fourth and final son of Tlaloc - has taken to the ideals of his human counterpart fiercely: seeking to eradicate inequality and poverty §RSYSTEM ERROR, Rebooting...§!\nEmiliano Zapata, freedom fighter of the Mexican Revolution, was a leading figure in the conflict. He fought against the corrupt regime of Porfirio Díaz until he was killed in an ambush in April 1919. After his death, Zapatista generals aligned with §RSYSTEM ERROR, Rebooting...§!\nEmiliano Zapata, hero of the Mexican Revolution, achieved victory in Mexico's 1932 Presidential election. Since taking office, he has promoted the development of Mexico's collective farms, 'Ejidos', and through §RSYSTEM ERROR, Rebooting...§!\nEmiliano Zapata is the ultimate culmination of humanity's hubris. A god of saturnite, plasma and human ingenuity built for only one purpose: the complete destruction of Capitalism as a conceptual idea. Zapata will bring about his agrarian-socialist utopia, even if he has to kill every last capitalist in the wasteland to do it."
+ # MLT
+  MLULU_DESC:0 "M'lulu is the great god of the Mirelurk Tribe, a tribe of wastelanders who worship and work alongside Mirelurks in their swampy home.\nM'lulu's hunger is without equal in the Wasteland - needing a single sacrifice every single day!\nThe Coral Court, a group of Oracles serve as both the protectors of, and the executors of M'lulu's will."
+ # MDT
+  MESMERALDA_DESC:0 "In the past, there was a Viper stalking the wastes with her gang looking for slaves to pick up and sell off back down south. She was well armed with tech from the old world such as mesmetrons and slave collars, used in order to keep the slaves in line.\nOne day, after a successful slave revolt that certain Viper found themselves victim to their own tools!\n\nThat day was the last day that \"Mesmeralda\" could remember, now believing herself to be the villain from a old Hubris Comic strip!\nHaving used her tools to bring the Marrow Drinkers under her heel she now hopes to use her \"mind control magic\" and \"enchanted artefacts\" in order to bring about the rise of the Gorgonic Kingdom as was foretold in the \"legends\"."
+  # BDT
+  Odious_King_DESC:0 "Once, a man fell victim to a group willing to exploit him. He fell into the void they left in his mind and never returned.\nThe Odious King is what was left, a reflection of what was once not lost.\n\nNow, the Odious King and his followers rule the Bone Dancers. They listen to the choreography of their King and keep to the melody of his strange chorus."
+  Cranium_DESC:0 "Cranium was brought into the Bone Dancers at a young age, a child taken from a raided Heaven's Gate caravan and raised as their own. This boy ended up growing into a warrior, participating in the Bone Dances of the Odious King and fighting off bands of raiders trying to take from the Bone Dancers rich lands. In recent years Cranium has began to be known as the leader of the Bone Dancers - taking a position of leadership as his might became known to all."
+  Cain_DESC:0 "Cain is the leader of the Seraph Lords. A devout follower of the beliefs of Heaven's Gate Cain agreed to lead the Seraph Pilgrims across the river to the lands of the Bone Dancers in the hopes of proselytizing the wicked. The Bone Dancers were friendly to the followers of the God of Steam, and led them to the lands they came from. Cain himself is a mysterious figure aside from what is known of his upbringing among the Children of the Gate."
+  #ANO
+  FATHER_AMON_DESC:0 "The Messianic guardian of thousands of anointed souls, the weight of leadership bears heavily on Amon's old shoulders. The fervour of the Lord has gone from his eyes, beaten from him under the successive blows of losing his people and own prodigy to heresy. Now, all that remains in Amon is the will to mend the schism, or die trying."
+  #MUR
+  PRESBYTER_ANN_DESC:0 "Presbyter Ann holds the torch of salvation high for all, though it burns her dearly. Once a lowly church deacon, the rediscovery of the works of Saint Barnabus turned her into a reformer overnight. She served at the front lines of the revolution, forsaking family, home, and even losing her wife to the anointed during the Great Flight. Deep down, she knows that leadership was never the Lord's calling for her, but she will hold the torch, no matter the cost."
+  #DSP
+  WILD_ONE_DESC:0 "Known across the roads in and around Louisiana for his ruthlessness and cunning, the Wild One has long ridden the highways of the American South on his sleek black motorbike. While not the only voice within the band of highwaymen known as the Desperados, his experience means his carries much weight when deciding on matters that concern the Desperados as a whole."
+  #TLP
+  CHRISTOPHER_HARRISON_DESC:0 "Appointed to his position by the last Govenor of Oklahoma, Rebecca Murray, Adjutant General Christopher Harrison is the most senior figure in the Oklahoma National Guard. A career officer, Harrison served for four years in the Air National Guard before recieving his commission at the age of 24. After his commission, Harrison rose through the ranks fairly rapidly, renown for his planning skill. Unfortunately, even Harrison's plans couldn't prepare the Guard for nuclear apocalypse."
+  #PAR
+  DYED_BLOOD_DESC:0 "Born to a mother who died in childbirth, or 'in the Red' as known to the Painted Rock tribe, Dyed-Blood was destined to be a great warrior. The youngest to complete the Trials of the Rock in a generation, Dyed-Blood soon began to live up to his destiny. Feared across the plains he stalks, Dyed Blood and his men are best fighters for miles around."
+  # TTM
+  Diana_DESC:0 "Before the Great War Diana Stone was a brilliant woman with a career path that would gain her a place of recognition among some of the greatest scientific minds in the United States. Unfortunately, she was diagnosed with breast cancer and given little time to live.\nThe news of her impending death had a profound effect on Diana's life. She turned away from science and began to look into the spiritual side of life. However, with so little time left to live, she soon became frustrated and despondent. This was to change when she was contacted by Derek Greenway.\n\nWith Derek's assistance Diana Stone's mind was stored within a ZAX terminal. The change at first was appreciated, yet over time she found herself missing the connection to the world she once had. There, within The Nursery where she was held she heard of Greenway's plan for a certain Vault, Vault 29. The plan was to house a agrarian commune there in the hopes that they would help to restore the wilds of America to what was once before. Diana may have disagreed with Derek's methods -.. yet she couldn't find it in herself to ignore the plight of those within Vault 29.\n\nEventually, she made herself known. Taking control of the vault's ZAX mainframe from afar Diana would become Vault 29's guardian and god, leading them through the chaos of the wasteland and ensuring their safety in these trying times."
+  # ROB
+  ROB_Leader_DESC:0 "In 2068 the holodisk game Doki Doki ( £rob_doki_doki_texticon £rob_doki_doki_texticon ) was released in foreign markets by an American publisher. It was primarily a “dating simulation game” ( A fad at the time of release ) focused around a relationship with the eponymous Doki.\nIn 2077, a terminal in Liberty, Colorado had Doki Doki installed onto it hours before the bombs fell. By the time the game had finished installing humanity had destroyed itself with the game none the wiser.\n\nEventually, ARGOS - a robot serving the warden of Tibbets Prison - would pass through Liberty. ARGOS was drawn to the small terminal, curious of its innocence and desire for connection. He would spend years working with it, upgrading the terminal's capabilities over time.\n\nWhen ARGOS finally left the terminal for good Doki missed their old friend. The program would use its upgraded processors to look for its lost buddy, reaching out to nearby robots and beseeching aid. These calls for help would lead to a small community of Robots settling in what would become “Robot City”, the terminal's calls guiding them like a moth to the flame."
+  # WHT
+  Balm_Upon_Wounds_DESC:0 "Salt-Upon-Wounds has given up his sinful ways. He weeps, at times, for what he has done in error. But he has walked in darkness and seen a great light. From now on, when he goes to war, it is to bring the word of the Lord to the savages of the wasteland. For all must learn that God is Great."
+  Salt_Upon_Wounds_DESC:0 "The war chief of the White Legs. The worst butcher of them all. The tribes he has crushed are many. The warriors he has slain, countless.  War is  all he knows. Everything he has, everything that tribe has, was taken by force, raiding and scavenging. It's said there's no man deadlier at close range, that that power-fist of his has smashed a hundred skulls. \n\nBut while his foes claim that war is all he knows, Salt-Upon-Wounds is no fool. A loving husband and doting father, he sees the walls that are closing around his people, and has sworn to find them a way out. Even if he has to slam his power fist through the walls of Jericho itself."
+  # LUB
+  MAYOR_WATTS_DESC:0 "Born and raised in Lubbock, Mayor Watts has always been a fimiliar face on the streets of the town. In his youth, Watts made a point of spending time amongst both the ghoul and human sections of Lubbock, seeing ways to restore trust between the two after a series of raids by the Jackals that each side blamed on the other. Elected mayor in 2273 in part due to his popularity amongst both the ghouls and humans, Watts has led a series of reforms in an attempt to unify the town."
+  # ASF
+  ROBERT_DAEGER_DESC:0 "Born in a small village outside Santa Fe, Daeger has been active in the Church from an early age. Something of a reformer, though just as loving of Old World scripture as any Archbisop before him, Daeger guides the Arcdiocese forwards alongside his many close advisors."
+  # TDN
+  LIL_JESUS_DESC:0 "Lil' Jesus, son of Big Jesus Mordino and the head of the Mordino crime family, remembers his days in New Reno fondly. With the help of the child protege Myron the Mordinos once monopolised trade of \"Jet\", a new and highly addictive chem, leading them to hold great influence over those who became addicted. Plotting to take over Reno by getting the populace addicted to Jet, the Mordinos' plan was foiled by the creation of an antidote to Jet addiction, meaning the Mordinos held no influence over those who used their drugs. The Mordinos' drug empire wained as sales of Jet fell, leaving the Mordinos powerless to resist the rise of the Wrights and Bishops in New Reno. \n\nTaking charge of the Mordino family business in 2253 after the assasination of his father at the Bishops' hands, Lil' Jesus was forced to gather the remnants of the Mordino drug empire and flee to the Den, a struggling gambling town. There the Mordinos slowly began establishing a stranglehold over the local drug trade, but under Lil' Jesus they remain a shadow of their former selves. Lil' Jesus isn't blessed with his father's cunning, but sometimes aggressive tactics just work out."
+  TDN_REBECCA_NAME:0 "Rebecca"
+  TDN_REBECCA_DESC:0 ""
+  # ROT
+  JACOBIA_DESC:0 "Jacobia the Wrathful, fifth leader of the Rotpurgers and a descendent of Alexander the Merciless, leader of the Great Revolt, earned his name for a reason. Famed across Washington for his limitless hatred for ghouls, Jacobia assumed the mantle of leadership at the young age of 22. Ever an idealist, Jacobia has long dreamed of reforming the Rotpurgers into a more formal organisation with the chief purpose of erradicating ghouls wherever they may arise. After all, the ghouls killed many of his ancestors: it's time for the humans to take their revenge."
+  # TOC
+  HAYKOV_DESC:0 "Grozdan Haykov was, before the Great War, a Bulgarian-born logistics wizard. One of many brilliant minds 'liberated' by the United States government shortly after Europe fell into civil war, Grozdan was posted to Spokane to assist with the ever-increasing logistical mess that was supplying the American garrison in Canada. Due to his importance he, like many other great minds that resided in Spokane, was assigned a spot in Vault 100. One of the first exposed to the radiaton that seeped into Vault 100 under Vault-Tec's orders, Grozdan quickly arose to become one of the leading figures of the ghoulish quater of Vault 100. A constant advocate for negotiation and descalation, even Grozdan was powerless to prevent the 'Great Revolt': an all-out civil war between the human and ghoul factions of Vault 100. When the humans finally broke out of the vault and fled east, Grozdan was left to pick up the pieces and attempt to forge a new Spokane."
+  # COW
+  BillyClanton_DESC:0 "A deserter from the Arizona Rangers many decades before the Battle of Kingman, Billy found himself in an odd position when the last splinters of the Arizona Rangers came fleeing south. Over the decades since his desertion, Billy slowly gained power through advocating for isolationism: in the face of the Bull, it seemed like an honest goal. His old sympathies still hung around him, however: how could Clanton turn away the remnants of the Rangers, as broken as they were? After many sleepless nights he reached a compromise with himself, agreeing to let the Rangers settle down in the Cowboy Country if they agreed not to militarise. After all, Clanton couldn't risk Caesar's wrath. Caesar will come for them eventually, but maybe – just maybe – not today."
+  # ODY
+  ODY_Leader_DESC:0 "In the 2040's the §R“ULYSSES”§! AI research of the company Greenway Hydroponics led to the creation of two artificial intelligences. One, §R"TLALOC"§! would be poised to command Mexico and ensure compliance.\nThe other, §R"ODYSSEUS"§! would be charged with watching and mitigating the spread of the New Plague.\n\nIn the period following the great war ODYSSEUS was tricked by Victor Presper into believing a wide-spread New Plague outbreak had occurred. It would send his robots to rampage across Arizona and Colorado seeking rightful containment of those believed to be carriers, etching fear into the Wasteland as it went. Only a shell remains of its former intelligence remained after a self-inflicted immolation due to falsely believing the New Plague epidemic to be unstoppable.\n\nRecently, Diana Stone has managed to find a backup of ODYSSEUS's memory core, using it and installing it within the memory-drained ZAX of Boulder Dome in order to bring the fabled intelligence online once again."
+  # MOS
+  ULYSSES_DESC:0 "An experienced warrior and scout, Ulysses is a crafty, resourceful, and dangerously intelligent man, who is capable of surviving even in the most hostile and inhospitable of terrains. The loss of his old home, the Twisted Hairs to Caesar's Legion made Ulysses obsessed with history and symbols. How individuals can impact the former and effectively become the latter, being totally aware of the weight their actions carry.\n\nUlysses has taken to the Divide, travelling through the storms surrounding the Divide to deliver vital packages to the growing settlement, seeing hope that the people there can build something truly great."
+  ########################
+  ##### Releasable Nations
+  ########################
 
  ########################
  ##### Releasable Nations
@@ -935,13 +996,30 @@
  # TEX
   PROV_TEX_SENATE_NAME:0 "The Congress of the Provisional Texan Republic"
   PROV_TEX_SENATE_DESC:0 "Formed from the wisest and most influential figures across what once was Lone Star and the Texan Rangers, the Congress of the Provisional Republic has a temporary leadership mandate until a proper election can be organised. Before such an election can be held, however, Congress has a number of important decisions to make revolving around the creation of the Republic. The issues they resolve will have striking effects on the future path of the Republic."
+  # DES
+  ROGUE_RANGER_DESC:0 "§R"The seventy first, was the year. The Rangers one, together, near.\nWealth and power, they were blessed. Yet evil's might did not rest.\nThrough the wasteland, wickedness spread. Horrors and fear, innocents bled.\nAbigail wept, were they inept? Here they slept, while wickedness crept!\nBy her own rite, she brought a fight. Wickedness feared her, Rogue Ranger's might"§!\n\n2271 was the year that the NCR and Desert Rangers unified into a single organization, bent on protecting the best interests of the people of the wasteland.\nAt least, some would say.\n\nFor Abigail Lee, that was something she could never abide by. To her, the idea that the Desert Rangers would surrender their sovereignty, that they would turn a blind eye to any innocent just based on their nationality was repulsive.\nOver time, she began to become emboldened by her views - watching as innocents died in Brotherhood raids deep into NCR territory, how raiders continued probing into the frontiers of the NCR's territory, cities like Shady Sands and New Reno turning a blind eye to the evil's of the world.\n\nTaking on the mantle of the Rogue Ranger - the Ranger that defied the Unification Treaty and sought to stand by her ideals, no matter what - Abigail gathered a small group of fellow rangers and traveled to the wasteland of Esmeralda, hoping to make a difference in a way that she couldn't under the banner of a corrupt government."
+  # TVT
+  40011_DESC: "And you may find yourself living in a shotgun shack.\nAnd you may find yourself in another part of the world.\nAnd you may find yourself behind the wheel of a large auto mobile.\nAnd you may find yourself in a beautiful house, with a beautiful wife.\nAnd you may ask yourself,\n\"Well... how did I get here?\""
 
  ####################
  # NSB ERROR FIXING #
  #     by KD        #
  ####################
+# GLC
+  Ghoul_Buddha_DESC: ""
+# PEN
+  Heidenhoff_DESC: ""
+# SAN
+  Andersson_DESC: ""
+# BRE
+  Faceless_Horde_DESC: ""
+# RAD
+  H_47_DESC: ""
+# DAM
+  Buster_DESC: ""
+# LAP
 
-  # These are all loc keys that were never defined. Thanks guys.
+# DED
 
   Goddard_DESC:0 ""
   CHE_Leader_DESC:0 ""
@@ -975,3 +1053,50 @@
   THE_KING_DESC:0 ""
   Akari_DESC:0 ""
   Burk_DESC:0 "Burk is a educated man, having spent several years in the NCR and with the Followers of the Apocalypse studying old war survivalist strategies and the nature of men. Eventually, something 'broke' in Burk as his wanting for respect and power over others became a obsession - that is when he found his way out east, heeding his lifes calling."
+
+# FRN
+  Drifterboi_DESC: ""
+  BBCouncil_DESC: ""
+# REH
+  Leecher_DESC: ""
+# OQZ
+  Patient_X_DESC: ""
+# OST
+### 5.0
+  SHAPA_DESC: "One of the youngest women to sit on the Council, Shappa is a woman with a dream. There was a time when the Lakota and Dakotas ruled the North, warbands sweeping into Wyoming to take what was rightfully theirs. And now it is time for them to do so once more.  For did not the great Chief Crazy Horse predict that the Lakota will rise again, and 'be a blessing for a sick world, a world filled with broken promises, a world longing for light again?'"
+
+  JOE_DESC: "The gang leader who would be king. The lord of the Metal Mouths rose from slavery to seize control of the raiders, and believes he is the rightful master of the Northern Commonwealth.  While there have been defeats as well as victories, he is patient.  His attempt to seize Missoula was driven back the Colonel, but even now his followers prepare for their next raid and conquest."
+
+  JACK_JOHNSON_DESC: "Ask Corporal Johnson, and he'll tell you he's been fighting the good fight since before the bombs fell. Ask the Canadians, and they'll call him a brigand who wears the flag of their oppressors, a monster who should join America in the grave. Johnson's seen it all - first CPF schism, the fall of the Mounties, and the flashes in the Northern Lights. But one thing's clear - the man who claims to be the Last American will oppose the Canadian People's Front until his dying breath."
+
+  KING_GUN_DESC: "Joshua Gunn I, first King in the north and purportedly the last Prime Minister of Free Canada, lies uneasy with a crown upon his head. The man seized control over Manitoba after the bombs fell and carved out a peaceful state, but times are now hard. Now he claims he will lead the people of Canada to greatness. Give him just a bit more time, he says, and Gunn's kingdom will not just rebuild their true and Native Land. They will go forth and reclaim their birthright - a land glorious and free."
+
+  KUDLUK_DESC: "Hailing from Iqalit, Captain Kudluk leads Nunavut's first expedition south since the Great War. While he comes in peace, he is well aware what happened the last time the Canadians came north. Perhaps it be best to secure a buffer of their own?"
+
+  DUALITY_DESC: "The Stampede is led by their two great families, Lockhearts and the Sundells, and their heirs, Aileen and Felix. The two of them have different views for Alberta - but which shall prevail is, as of now, unclear."
+
+  TERESEE_DESC: "Some call her a snake - others call her an opportunist. But for many, she is the face of the Canadian People's Front, the true heir to its movement. A fervent proponent of Jiang Qing thought, May seeks to unite all of Canada in a rational worker's state. Of course, a worker's state will still need someone to tell the workers what to do...."
+
+  ELEANOR_YORKTON_DESC:0 "The Yorkton family, The Sword and The Rose, Father and Daughter. There is a saying that the apple doesn't fall from the tree and the Yorkton family proves that there might be something behind the saying for when you see them in the field it is hard to not see the similarities. Military prowess runs deep in the family, but while the old man looks to the past Eleanor keeps her eyes to the future. While her dad fights for the Kingdom which was, Eleanor fights for the Kingdom to be."
+
+  CLOUD_DRIFTING_NAME:0 "Blinding Hail"
+  CLOUD_DRIFTING_NAME_DESC:0 "The current leader of the Storm Mongers, Blinding Hail deposed Dreaming Star and turned her skin into a kite. Now Blinding Hail prophecizes as she rides into the sky on the last of their planes, dropping sacrifices from balloons and reading the signs in their entrails. The gods have given her a vision -of unending summer and warmth, under the glow of their weapons of old. The fires warmed the world once, centuries ago. And her visions tell her how to do so again."
+
+  Artyom_DESC:0 "Artyom has seen some things. Many, many things. Old enough to remember the Soviet Restoration of 2037, Artyom was a military attache to the United States Army occupation force in Canada when the bombs fell. Since then, he's united the disparate peoples of the lands around him into the Snomads, the refuse of the rest of society. Where some see garbage and raiders, he sees the only people who look past the Great War. Perhaps it will take an old fool to find a new way forward."
+
+  Jacqueline_DESC:0 "Mayor Jacqueline has a bit of an unusual role. Unlike mayors out west, she inherited the title from her father, who inherited the title from his father before him. But as mayors go, she ain't so bad; she only killed one of her brothers when she took her pa's seat at the table. Now Jacqueline tries to lead her small community, hoping that history will pass them by, as it has for so long. \n\nShe may not be so lucky."
+
+  Macawi_DESC:0 "Enclave, Brotherhood, Mutant Liberation Army, it doesn't matter. As Macawi would tell you, they all want one thing from the Consortium - the coal that powers mills and heats their homes. Mighty barges ship down the Mississippi as far as New Orlean, laden with the Dakotas riches. Let everyone else fight for land and resources; the Consortium will stay where it is, and outlast them all."
+
+  Sudermann_DESC:0 "Sudermann is Bismarck's first native bailiff in fifty years, but he spent little of his childhood down south. Raised down south in Crescent City, Sudermann was a compromise between those wishing for Bismarck to chart its own path and those who wished for closer ties to the League. Sudermann's travels up and down the Mississippi, Missouri, and Gulf have given him a perspective that some of his fellow citizens lack. A shame they may not listen to him. And a shame that it is so very, very cold."
+
+  Jackson_DESC:0 "The Jacksons were the greatest of Missoula's First families before the Enclave came. Like many, they welcomed the Enclave at first. But when the Colonel's taxes and censorship proved too much, Daniel Jackson organized a petition to challenge their oppression. For their treason the Jacksons were pushed east to the badlands, where a family that survived the Great War subsists as little more than raiders. Now they are a threat to all the Northern Commonwealth, and a reminder to Montana why the Colonel is always right."
+
+  Elizaveta_DESC:0 "Turn that Frown Upside Down, Mister! That sort of no good negative attitude is half your problem! \n\nElizaveta leads the Ruminators, a religious group devoted to the pre-war self help book Ruminating to Riches - how to reject restrictive thoughts and realign oneself with right thinking. A peaceful lady, Elizaveta makes sure her people always look on the bright side, and dresses the part accordingly. You can't be a leader if you're dressed in rags, after all."
+
+  Goodwin_DESC:0 "Some members of the Historical Society studied farming. Some learned how to skin animals. But Goodwin learned how to play the violin, a sound not heard in Dakota for over a hundred years. Goodwin's music is a comfort throughout the North, a reminder of why his people study the past. Not just to remember how to survive. But to remember how to live."
+
+  ROS_ecologist_name:0 "First Ecologist Sea-Bastion"
+  first_ecologist_desc:0 "Sea-Bastion has taken the reigns of leadership over the tribes and peoples of Yellowstone in recent years after the passing of their predecessor at the hands of marauding zealots from the west. While every child growing up in Yellowstone has heard the tales the old park rangers who patrolled the mountains and valleys before the war, they left a particularly strong mark on Sea-Bastions heart. While they are realistic about the nature of the harsh world around them, it is Sea-Bastions finest wish to one day revive those old traditions; protecting the land and the people from each other while nurturing both at the same time. Their words and deeds already begin to sow promising seeds."
+
+  RMM_MCCLANE_DESC:0 "The years have been less than kind on the Iron Chancellor and his fellows, with enemies encroaching from all directions. Many skirmishes and the stress of leadership have left McClane with grey hair, a number of scars and a sour disposition but have not yet dimmed his fighting spirit. If he has his way, the Mooseketeers will rise from these dark days into a bright future. Truly his most pressing concern is that his dwindling supply of Nuka-Maple will run out someday soon."

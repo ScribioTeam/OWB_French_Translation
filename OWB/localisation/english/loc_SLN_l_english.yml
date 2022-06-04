@@ -1,0 +1,196 @@
+﻿  l_english:
+
+  #### Focuses ####
+
+  SLN_REL_OSSIN_NAME: "Rel-Ossin"
+  SLN_REL_OSSIN_DESCRIPTION: "Son of Minishen and brother to the previous leader of S'Lanter, Rel-Ossin has been a leader marked with tragedy and controversy. The same illness that killed his sister claws at him, and many see it as a punishment by The Masters for breaking the line of succession. His steady personality and hopeful outlook make him a fair leader, but as his frame grows more frail, many wonder what the future holds for S'Lanter."
+  SLN_TOP_LEADER_NAME: "Mayor Aeyr"
+  SLN_TOP_LEADER_DESCRIPTION: "Nobody elected Aeyr the mayor of anything, but his charm and wit made him a charming presence amongst the Top Dwellers. He was seen as a refreshing spot of hope between the paranoid Den Dwellers and withering leadership. With Rel-Ossin's suffering at an end, Aeyr is ready to move S'Lanter into the future."
+  SLN_DEN_LEADER_NAME: "Foreman Tok-Ar-Tok"
+  SLN_DEN_LEADER_DESCRIPTION: "Tok-Ar-Tok has been the de facto leader of the Den Dwellers since before Rel-Ossin took over. He was a calm and steady presence during the reign of Rinar, but after her death he has grown more fearful and paranoid of the wraith of The Masters. Tok-Ar-Tok now sees the wasteland as a sea of threats and is prepared to dig S'Lanter into a fortification in order to survive."
+
+  sln_an_escape: "Departure / Odyssey"
+  sln_an_escape_desc: "The Masters created us. Elevated us from simple animals. The purpose of that act is unknown to us. Known is only that the Old Ones needed to leave the Masters' Glow. The journey lasted many lifetimes of our animal ancestors. It shaped us. Gave us insights into the world outside the Masters' Glow. It also almost killed us with it's harshness. Until we found the place that would become the Burrows."
+  sln_an_encounter: "Encounter / Divide"
+  sln_an_encounter_desc: "The first encounter with humans happened not long after we settled down. Now we know that is was pure chance that we encountered so few before. Maybe it was for the better. The humans, calling themselves \"Vipers\" gave credit to their name, behaving as if descended from animals themselves. Killing our kin, trying to enslave us. We fought, we prevailed. But the scars run deep."
+  sln_a_draught: "Draught / Faith"
+  sln_a_draught_desc: "After we lost the last of the Old Ones, it was as if the world grew angry at us about something out of our control. The trees we called our home grew sick, the river granting them and us life ran dry. We lost many to starvation and sickness. Minishen, son of the last Old One to leave us, told us about the Masters. How they created us strong and cunning, to survive the harsh world outside. We prevailed again."
+  sln_a_question: "Question / No Answer"
+  sln_a_question_desc: "Minishen's story rang true among many S'lanter. Especially the Den-Dwellers felt reassured in their beliefs. That they were created not to mimic the humans, but to be beyond them in body and mind. But some of the Top-Dwellers needed something more. They wanted to find the glowing place that Minishen told them off. To find the Masters and ask them: \"Why?\". What they found was not an answer."
+  sln_a_death: "Death / Illness"
+  sln_a_death_desc: "Rinar, daughter of Minishen, led us for many seasons. Then she fell ill. We were not able to cure her and she eventually succumbed to the disease. Having no children of her own, it was the first time that the mantle of leadership was not passed on from parent to child. Instead it passed to her brother, amidst growing discontent about this choice.\nThen he fell ill as well."
+  sln_vlt_alliance_branch:0 "An Alliance with the Vault Dwellers"
+  sln_vlt_alliance_branch_desc:0 "Vault City's streets are full of mechanical companions. Perhaps we should build some for ourselves?"
+  sln_reno_alliance_branch:0 "An Alliance with New Reno"
+  sln_reno_alliance_branch_desc:0 "The advanced weapon designers of New Reno have shared with us their secrets."
+
+  sln_topdweller_1:0 "Trinkets"
+  sln_topdweller_1_desc:0 "The tools we build to fit our hands are far too small for human use, but some humans find them to be amusing trinkets. We could sell our extra wares at local markets in exchange for the metal disks they use for currency."
+  sln_topdweller_2:0 "Cobble"
+  sln_topdweller_2_desc:0 "Our Den Dwellers just finished 2 new burrows, but they could pretty easily be converted to new workshops."
+  sln_topdweller_3:0 "Control"
+  sln_topdweller_3_desc:0 "Our Top Dwellers and Den Dwellers often spend hours negotiating the price of their raw goods. By allowing the Top Dwellers to set prices, we can increase our workload efficiency significantly."
+ 
+  sln_dendweller_1:0 "Barricade"
+  sln_dendweller_1_desc:0 "Our burrows and tunnels have made excellent traps in the past, so building more of these defensive structures should be a high priority."
+  sln_dendweller_2:0 "Prepare"
+  sln_dendweller_2_desc:0 "The Den Dwellers are both expert diggers and expert fighters, so forming a posse dedicated to digging defensive structures should make us far more effective in combat."
+  sln_dendweller_3:0 "Bunker"
+  sln_dendweller_3_desc:0 "The Den Dwellers have a bold plan to convert some of the Top Dweller's buildings into bunkers by reinforcing them with soil and mud. Besides, why do the Top Dwellers need all those buildings anyway?"
+
+  sln_dying_1:0 "Decay / Rebirth"
+  sln_dying_1_desc:0 "Although there are days when Rel-Ossin can barely rise from bed, he knows that S'Lanter must continue to grow and prosper. With a stirring speech and a show of strength, a new construction effort begins."
+  sln_dying_2:0 "Orgnaized / Efficient"
+  sln_dying_2_desc:0 "The small hands of the S'Lanter aren't built for the specialized tools humans use, but making new tools that fit our own strengths can make us more efficient tinkerers."
+  sln_dying_3:0 "Foresight / Hope"
+  sln_dying_3_desc:0 "Rel-Ossin's visions grow stronger everyday, but his journey will be impossible without the right tools. It is time to rally around our leader and build him the tools he needs to survive."
+  sln_dying_4:0 "Unity / Peace"
+  sln_dying_4_desc:0 "With our leader's health dwindling, there is no time for bickering. We must do what we can to help save our leader while we prepare our nation for the future."
+  sln_dying_5:0 "Production / Efficiency"
+  sln_dying_5_desc:0 "The people of S'Lanter are better builders, burrowers, and survivors than any group of humans. We must remember our strengths and invest in ourselves."
+
+  sln_the_top_dwellers_will_lead:0 "As Above, So Below"
+  sln_the_top_dwellers_will_lead_desc:0 "Nobody elected Aeyr the mayor of anything, but his charm and wit made him a charming presence amongst the Top Dwellers. He was seen as a refreshing spot of hope between the paranoid Den Dwellers and withering leadership. With Rel-Ossin's suffering at an end, Aeyr is ready to move S'Lanter into the future."
+  sln_top_final_1:0 "Construction"
+  sln_top_final_1_desc:0 "The Den Dwellers always insisted our buildings be buried underground, but the era of hiding is over. We should improve our top world infrastructure."
+  sln_top_final_2:0 "Profits"
+  sln_top_final_2_desc:0 "While the Den Dwellers toil away, Mayor Aeyr has found new markets for their goods. If caps buy the humans respect and peace, then S'Lanter needs the profits too!"
+  sln_top_final_last:0 "Legitimacy"
+  sln_top_final_last_desc:0 "The time for hiding from humanity has passed. No longer will we hiding in our burrows or scuttle through the trees. It is time to embrace our human neighbors."
+
+  sln_the_den_dwellers_will_lead:0 "A Foreman for S'Lanter"
+  sln_the_den_dwellers_will_lead_desc:0 "Tok-Ar-Tok has been the de facto leader of the Den Dwellers since before Rel-Ossin took over. He was a calm and steady presence during the reign of Rinar, but after her death he has grown more fearful and paranoid of the wraith of The Masters. Tok-Ar-Tok now sees the wasteland as a sea of threats and is prepared to dig S'Lanter into a fortification in order to survive."
+  sln_den_final_1:0 "Support"
+  sln_den_final_1_desc:0 "What our people lack in strength, they must make up for in flexibility. By giving our brave defenders a variety of different tools and equipment, maybe we can turn the tide of our future wars."
+  sln_den_final_2:0 "Labor"
+  sln_den_final_2_desc:0 "With Foreman Tok-Ar-Tok at the helm, he can dedicate the resources he needs to finish new workshop burrows."
+  sln_den_final_last:0 "Preemption"
+  sln_den_final_last_desc:0 "The Vipers grow stronger every day. There is no telling when their bloodthirsty brigades will burn the top world and flush us out of our burrows. The only way to keep us safe is by taking the fight to them."
+
+  sln_rel_returns:0 "Bathed in the Glow"
+  sln_rel_returns_desc:0 "Rel-Ossin walked back in to our village, his health restored and his head buzzing with the wisdom of The Mother. It is time for him to use his new knowledge to bring a new era of prosperity to S'Lanter."
+  sln_rel_final_1:0 "Knowledge / Wisdom"
+  sln_rel_final_1_desc:0 "Our minds are far stronger than our diminutive size. This intelligence will be our advantage."
+  sln_rel_final_2:0 "Birth / Family"
+  sln_rel_final_2_desc:0 "Our spirit was built to survive any environment, but the forest is our home. It is time for our familes to grow and our nation to thrive."
+  sln_rel_final_3:0 "Prosperity / Wealth"
+  sln_rel_final_3_desc:0 "Our hands were designed to build structures more complex and more useful than anything a human could build. It is time for our burrows, both above and below the ground, to expand."
+  sln_rel_final_4:0 "Safety / Protection"
+  sln_rel_final_4_desc:0 "Our bodies don't carry the same raw strength that a human's does, but our quickness and tenacity makes us ferocious fighters when we need to be. With our new armies, we can prevent any human from ruling S'Lanter."
+  sln_rel_final_last:0 "Children of the Glow"
+  sln_rel_final_last_desc:0 "The Mother created Nature, who bore the earth fruit and gave it life.\nThe Mother created Critter, who made bore children from the fruit and made homes from the land.\nThe Mother created Beast, who grew strong and swift conquring the critters.\nThe Mother created Man, who outsmarted the beasts and tamed the land.\n\nThen, The Mother made us, the finest parts of all of her creations woven into one being: her Children of the Glow."
+
+  ### events ###
+
+  nf_slanter.1.t: "Departure / Odyssey"
+  nf_slanter.1.d: "The Masters created us. Elevated us from simple animals. The purpose of that act is unknown to us. Known is only that the Old Ones needed to leave the Masters' Glow. The journey lasted many lifetimes of our animal ancestors. It shaped us. Gave us insights into the world outside the Masters' Glow. It also almost killed us with it's harshness. Until we found the place that would become the Burrows."
+  nf_slanter.1.a: "A Time of Learning"
+  nf_slanter.1.b: "A Time of Hardships"
+
+  nf_slanter.2.t: "Encounter / Divide"
+  nf_slanter.2.d: "The first encounter with humans happened not long after we settled down. Now we know that is was pure chance that we encountered so few before. Maybe it was for the better. The humans, calling themselves \"Vipers\" gave credit to their name, behaving as if descended from animals themselves. Killing our kin, trying to enslave us. We fought, we prevailed. But the scars run deep."
+  nf_slanter.2.a: "Humans are as manifold as we are."
+  nf_slanter.2.b: "Humans are dangerous!"
+
+  nf_slanter.3.t: "Draught / Faith"
+  nf_slanter.3.d: "After we lost the last of the Old Ones, it was as if the world grew angry at for reasons unknown. The trees we called our home grew sick, the river granting them and us life ran dry. We lost many to starvation and sickness. Minishen, son of the last Old One to leave us, told us about the Masters. How they created us strong and cunning, to survive the harsh world outside. We prevailed again."
+  nf_slanter.3.a: "The Masters made us wise!"
+  nf_slanter.3.b: "The Masters made us strong!"
+
+  nf_slanter.4.t: "Question / No Answer"
+  nf_slanter.4.d: "Minishen's story rang true among many S'lanter. Especially the Den-Dwellers felt reassured in their beliefs. That they were created not to mimic the humans, but to be beyond them in body and mind. But some of the Top-Dwellers needed something more. They wanted to find the glowing place that Minishen told them off. To find the Masters and ask them: \"Why?\". What they found was not an answer.\n\nOnly one of their scouts came back. His last words before dying were \"There are no gods, only death\""
+  nf_slanter.4.a: "Maybe there is more to this?"
+  nf_slanter.4.b: "Maybe the Masters do not want to be found?"
+
+  nf_slanter.5.t: "Death / Illness"
+  nf_slanter.5.d: "Rinar, daughter of Minishen, led us for many seasons. Then she fell ill. We were not able to cure her and she eventually succumbed to the disease. Having no children of her own, it was the first time that the mantle of leadership was not passed on from parent to child. Instead it passed to her brother, Rel-Ossin, amidst growing discontent about this choice.\nThen he fell ill as well."
+  nf_slanter.5.a: "The illness must have a reason."
+  nf_slanter.5.b: "The illness is an omen of poor leadership."
+
+  nf_sln_journey.1.t:0 "Rel-Ossin's Journey Begins"
+  nf_sln_journey.1.d:0 "As dawn broke over S'Lanter, Rel-Ossin said his final goodbyes to his people. He leaned heavily on his walking stick, his pack filled with anything the village thought might be useful. The Masters had told him to head towards the rising sun, retracing the steps that his ancestors had walked so long ago."
+  nf_sln_journey.1.a:0 "We wish him well."
+
+  nf_sln_journey.2.t:0 "No Peace, No Paradise"
+  nf_sln_journey.2.d:0 "Rel-Ossin dodged raiders and often found cover to hid from the burning sun. He had traveled farther than he should have been able to with his illness, but The Masters encouragement every night drove him onward. He eventually arrived at a town on the banks of a great lake, a place the humans considered Paradise. All Rel-Ossin found was fear. A great beast of salt was lurking outside of their walls, waiting to strike. Rel-Ossin took note of the violence inherant to humanity and pressed on."
+  nf_sln_journey.2.a:0 "He soon grew lost in the vast desert."
+  nf_sln_journey.2.b:0 "The maps we made for him guided him south."
+
+  nf_sln_journey.3.t:0 "Over the River"
+  nf_sln_journey.3.d:0 "A great river stood before Rel-Ossin. The Masters urged Rel-Ossin to cross it and meet with the great tribe that had guided his ancestors, but Rel-Ossin hesitated. The smoke of campfires and beating of drums sounded nothing like the quaint people that The Masters had promised."
+  nf_sln_journey.3.a:0 "He had no choice but to cross the river."
+  nf_sln_journey.3.b:0 "Luckily we gave him the tools to fashion a raft."
+
+  nf_sln_journey.4.t:0 "Fever Pitch"
+  nf_sln_journey.4.d:0 "Rel-Ossin could feel his body giving out. Paddling up river had sapped the last of his strength and his fever had reached a point it never had before. He was standing in the cool mountain air, breathing the same breaths that his ancestors had, and yet every footstep felt like a thousand."
+  nf_sln_journey.4.a:0 "Perhaps if he just closes his eyes for a few minutes..."
+  nf_sln_journey.4.b:0 "We packed only our finest herbal medicine."
+
+  nf_sln_journey.5.t:0 "Into the Glow"
+  nf_sln_journey.5.d:0 "Rel-Ossin doesn't remember much about the end of his journey, nor how he got back all of those miles so quickly. All he knows is the visit to The Masters healed him and provided him with the ideas he needed to secure a future for S'Lanter. He also left with one final thing: a new name for the creature that gave his people life:\n\nThe Mother"
+  nf_sln_journey.5.a:0 "Our leader is reborn."
+
+  nf_sln_journey.6.t:0 "Lies and S'Lanter"
+  nf_sln_journey.6.d:0 "Days turned into weeks as doubt crept in about the survival of Rel-Ossin. The Masters had spoken so clearly to him, and yet they had cursed him with an illness and lured him to his death. Finally, one S'Lanter stepped up to take Rel-Ossin's place, supported by his people. That person was..."
+  nf_sln_journey.6.a:0 "Aeyr, mayor of the Top Dwellers"
+  nf_sln_journey.6.b:0 "Tok-Ar-Tok, foreman of the Den Dwellers"
+
+  ### tooltips ###
+
+  sln_history_choice_top: "§gThis decision will increase the popularity of the §YTop Dwellers§! if they rule after §Y[SLN.GetLeader]'s§! §Rdeath§!.§!"
+  sln_history_choice_den: "§gThis decision will increase the popularity of the §YDen Dwellers§! if they rule after §Y[SLN.GetLeader]'s§! §Rdeath§!.§!"
+
+  ### ideas ###
+
+  rel_ossin_dying: "Rel-Ossin's Illness"
+  rel_ossin_dying_desc: "Rel-Ossin's decline has been gradual, but it is impossible to ignore that he shares whatever ailment claimed his sister. Now Rel-Ossin's health weighs heavily on his mind as he tries to lead us."
+  topdweller1: "Insignificant Top Dweller Influence"
+  topdweller2: "Minor Top Dweller Influence"
+  topdweller3: "Increasing Top Dweller Influence"
+  topdweller4: "Moderate Top Dweller Influence"
+  topdweller5: "Major Top Dweller Influence"
+  topdweller6: "Concerning Top Dweller Influence"
+  topdweller7: "Overwhelming Top Dweller Influence"
+  topdweller8: "Complete Top Dweller Influence"
+
+  dendweller1: "Insignificant Den Dweller Influence"
+  dendweller2: "Minor Den Dweller Influence"
+  dendweller3: "Increasing Den Dweller Influence"
+  dendweller4: "Moderate Den Dweller Influence"
+  dendweller5: "Major Den Dweller Influence"
+  dendweller6: "Concerning Den Dweller Influence"
+  dendweller7: "Overwhelming Den Dweller Influence"
+  dendweller8: "Complete Den Dweller Influence"
+
+  rel_ossin_returns:0 "Rel-Ossin's Return"
+  rel_ossin_returns_desc:0 "Now that Rel-Ossin is healed, the peoples' faith in him is restored"
+
+  sln_learning:0 "Early Learnings"
+  sln_hardship:0 "Early Hardships"
+  sln_trust:0 "Trust Humanity"
+  sln_distrust:0 "Distrust Humanity"
+  sln_expand:0 "Secrets Outside Our Borders"
+  sln_stay_home:0 "Safety at Home"
+
+  sln_price_fix:0 "Price Fixing"
+  sln_outposts:0 "Burrowed Outposts"
+  sln_core_def:0 "The Den Defense Corps"
+  sln_construction:0 "S'Lanter Spirit"
+  sln_tools:0 "S'Lanter-Sized Tools"
+
+  sln_forest_children:0 "Forest Children"
+  sln_forest_children_desc:0 "We have survived for generations in the wasteland, and now we have a safe forest to call home. It is time for our families to thrive."
+  sln_children_glow:0 "Children of the Glow"
+
+  sln_open_to_humans:0 "Open to Humans"
+
+  ### decisions ###
+
+  SLN_vision_quest_cat:0 "Rel-Ossin's Vision Quest"
+  SLN_vision_quest_cat_desc:0 "As Rel-Ossin's illness worsens, he dreams more and more of The Masters calling to him, begging for him to return to the place where his people were created. Soon he will set out on one last grand journey, destined to be cured at The Masters' feet or die trying.\n\nRel-Ossin will need ample supplies in the form of §ySupport Equipment§! if he is to survive his journey. If you are unable to supply him, the wasteland will likely kill him in his frail state."
+  SLN_vision_quest_countdown:0 "Rel-Ossin's Quest Begins"
+
+  SLN_burrow_cat:0 "The Burrows of S'Lanter"
+  SLN_burrow_cat_desc:0 "The S'Lanter have lived in the forests of the Burrows for generations, building a complex network of underground tunnels and chambers. This allows them to burrow most of their major industry in to the ground, making it inaccessable to any invadors and allowing their industry to thrive."
+  SLN_burrow_civ:0 "Burrow a Civilian Factory"
+  SLN_burrow_mil:0 "Burrow a Military Factory"

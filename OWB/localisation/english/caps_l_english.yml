@@ -1,9 +1,8 @@
 ﻿l_english:
 
   #Caps Main
-  CAPS_TOOLTIP:0 "You have [?caps_number_display|+]k [GetCapType] \n\nYou Gain [PrecalculateCapsNet] [GetCapType] per quarter. \n  \n"
-  CAPS_TOOLTIP_delayed:0 "[GetLongCapTT]"
-  CAPS_TOOLTIP_delayed_real:0 "[GetCapType] \nGross Income: [PrecalculateCapsIncome] per quarter [GetPuppetIncome]\n   -Modified by [?modifier@caps_income_modifier|+=%]  [GetCapType] \nExpenses: [PrecalculateCapsExpenes] per quarter \n   -Modified by [?modifier@caps_expense_modifier|-=%] (Max §G-90%§!)\n Net Quarterly Profit: [PrecalculateCapsNet]\n   -Flat Income: [?modifier@caps_flat_income_modifier|+=0]\n   [GetTaxedIncomeAmount]"
+  CAPS_TOOLTIP:0 "You have [?caps_number_display|+]k [GetCapType] \nYou Gain [GetCapsNetTotal] [GetCapType] per month. \n  \n"
+  CAPS_TOOLTIP_delayed:0 "Click to view §YCaps Ledger§!"
   caps_to_overlord_tt:0 "\n     -Taxes to [OVERLORD.GetName]: [?taxes_to_overlord|+=2]"
   ##CAPS_MAIN:0 "[?caps_number_display|2]k"
   CAPS_MAIN_0dp:0 "[?caps_number_display|0]k"
@@ -24,7 +23,42 @@
   caps_decision_income_tt:0 "Income of [GetCapType].[GetPuppetIncome]\n   Modified by [?modifier@caps_income_modifier|+%]\n   Flat income: [?modifier@caps_flat_income_modifier|+=]"
   caps_decision_expense_tt:0 "Quarterly expenses are made of military upkeep. \nEvery battalion is more expensive than the last.\n   Modified by [?modifier@caps_expense_modifier|-%] (Max §G-90%§!)"
   caps_decision_net_tt:0 "Net Quarterly [GetCapType] Profit\n[GetPuppetIncome]\n   Income modified by [?modifier@caps_income_modifier|+%]\n   Expenses modified by [?modifier@caps_expense_modifier|-%] (Max §G-90%§!)\n   Flat income: [?modifier@caps_flat_income_modifier|+=]"
-  recuit_pop_calc_tt:0 "Cost of manpower in training queue: [?temp_expense_calc|1+=] [GetCapType]"
+  recuit_pop_calc_tt:0 "Deployed Cost: [?temp_expense_calc|=+2]"
+  ### Source GUI Names
+  evo_income_source_1:0 "Other Income"
+  evo_income_source_1_1:0 "Caps Mint"
+  evo_income_source_1_2:0 "Alimony"
+  evo_income_source_2:0 "Trade Nodes"
+  evo_income_source_3:0 "Puppet"
+  evo_income_source_4:0 "Army Wages"
+  ### Source Modifier Names
+  evo_income_source_modifier_1_tt:0 "[?modifier@evolution_income_source_modifier_1|1=%+]"
+  evo_income_source_modifier_2_tt:0 "[?modifier@evolution_income_source_modifier_2|1=%+]"
+  evo_income_source_modifier_3_tt:0 "[?modifier@evolution_income_source_modifier_3|1=%+]"
+  evo_income_source_modifier_4_tt:0 "[?modifier@evolution_income_source_modifier_4|1=%+]"
+
+  evo_income_base_modifier:0 "[?modifier@caps_income_modifier|1=%+]"
+  evo_expense_base_modifier:0 "[?modifier@caps_expense_modifier|1=%-]"
+
+  evo_caps_net_income_tt:0 "[?caps_net|+=2]k"
+
+  ### GUI Ledger Strings
+  evo_caps_ledger_title:0 "Caps Ledger"
+  evo_ledger_cap_type_tt:0 "[GetCapType] [GetCapTxt]"
+  evo_ledger_cap_entry_name:0 "[GetCapLedgerContainerName]"
+  evo_ledger_header_name:0 "[GetCapLedgerHeaderName]"
+  evo_ledger_header_name_1:0 "Income"
+  evo_ledger_header_name_2:0 "Expenses"
+  evo_ledger_header_income_modifier:0 "[GetHeaderIncomeModifierValue]"
+  evo_ledger_item_name:0 "[GetCapIncomeSource]"
+  evo_ledger_item_amount:0 "[GetCapIncomeAmount]"
+  evo_ledger_cap_entry_type:0 "[GetCapIncomeType]"
+  evo_ledger_progress_bar_tt:0 "[GetCurrentCapPeriod]"
+  evo_ledger_progress_bar_tt_mech:0 "[?current_period|0G] days until deposit."
+  evo_ledger_progress_bar_tt_delayed:0 "Caps are accounted every [?global.caps_income_period|0G] days."
+  evo_ledger_sort_button_tt:0 "Change Sort Mode"
+
+
 
   caps_army_wages_lockout_tt:0 "Has not recently modified wages"
   caps_lockout_set_tt:0 "§RDis-allow§! wage changes for 140 days"
@@ -43,7 +77,7 @@
   caps_node_trade_modifier:0 "£caps_trade_modifier_texticon Trade Income"
   caps_flat_income_modifier:0 "Passive Caps Income"
   caps_country_trade_modifier:0 "Trade Tariffs"
-  caps_country_base_modifier:0 "Country Base Node Income"
+  evolution_income_source_modifier_2:0 "Country Base Node Income"
   caps_tax_puppet_tt:0 "Recently Taxed by Overlord"
   caps_taxation_overlord:0 "Incoming Taxes"
   caps_taxation_subject:0 "Overlord Taxes"
@@ -51,6 +85,7 @@
   caps_payment_dynamic_modifier:0 "Army Wages Modifier"
   caps_raider_sure_defense_dynamic_modifier:0 "Sure State Defences"
   caps_trade_expedition_dynamic_modifier:0 "Trade Expedition Income"
+  recruit_manpower_cost_tt:0 "Recruit Manpower Cost"
 
   ### IDEAS
   caps_bos_idea:0 "Government Supply Depots"
@@ -61,7 +96,7 @@
   caps_ncr_start_modifier:0 "Low Substituent State Control"
 
   ###Caps TT for designer
-  caps_recruit_tt:0 "Cost of manpower in training queue.\n   Modified by [?modifier@caps_expense_modifier|-%]\n\n   §gRobot Modifier:§! [?-0.40|-=%]\n   §gMilitia Modifier:§! [?-0.25|-=%]"
+  caps_recruit_tt:0 "Estimated cost of divisions in training queue.\n   Total cost modified by [?modifier@caps_expense_modifier|-%]\n\n   §gRobot Modifier:§! [?modifier@evolution_unit_modifier_robots|%0]\n   §gMilitia Modifier:§! [?modifier@evolution_unit_modifier_militia|%0]\n   §gPower Armor Modifier:§! [?modifier@evolution_unit_modifier_pa|%0]\n   §gSpec Ops Modifier:§! [?modifier@evolution_unit_modifier_spec_ops|%0]"
   ###General Caps TT
   transaction_caps_tt:0 "[GetTransactionCapTT]"
   transaction_caps_positive_tt:0 "Recieve payment of [GetCapTxt] [?caps_to_add|+=]k [GetCapType].\n"
@@ -73,7 +108,7 @@
   army_wages_disabled:0 "Non-Standard Army Wages"
   caps_puppet_taxation_short_tt:0 "[GetTaxationTooltipShort]"
   caps_puppet_ledger_tax_tooltip:0 "[GetTaxationTooltip]"
-  caps_puppet_ledger_tax_tooltip_taxing:0 "We currently tax: [?taxes_var_for_overlord|2=+] [GetCapType] from §Y[THIS.GetName]§! \n\n Their current taxable income is [PrecalculateTaxableIncome]"
+  caps_puppet_ledger_tax_tooltip_taxing:0 "We currently tax: [?temp_amount_from_source|2=+] [GetCapType] from §Y[THIS.GetName]§! \n\n Their current taxable income is [PrecalculateTaxableIncome]"
   caps_puppet_ledger_tax_tooltip_non_taxing:0 "We do not levy taxes. \n\n Their current taxable income is [PrecalculateTaxableIncome]"
   ###Focus Code
   continuous_increase_caps_income:0 "Boost Currency"
@@ -122,7 +157,6 @@
   caps_unlock_academy_decisions:0 "Unlocks Decision: §YInvest into Military Academy§!"
   ###LOC PASS
   caps_base_category_desc:0 "Manage the [GetCapType] economy through these decisions"
-  caps_quarterly_income:0 "Quarterly Income Report"
   caps_node_category:0 "Economic Center Decisions"
   caps_development_decisions:0 "Invest Stimulus in §Y[From.GetName]§!"
   caps_development_node_tt:0 "Economic Stimulus Available for Current Node Level"

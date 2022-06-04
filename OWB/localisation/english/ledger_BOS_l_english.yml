@@ -1,0 +1,5 @@
+﻿l_english:
+ BOS_LEDGER_INFO: "[THIS.GetNameWithFlag]\n  §YDivisions:§! [?THIS.num_divisions]\n  §YManpower in Thousands:§! [?THIS.manpower_k|§1]\n  §YResearched Techs:§! [?THIS.researched_techs]\n  §Y£resources_strip|1 Water:§! [?resource@water]\n  §Y£resources_strip|2 Energy:§! [?resource@energy]\n  §Y£resources_strip|3 Metal:§! [?resource@metal]\n  §Y£resources_strip|4 Composites:§! [?resource@composites]\n  §Y£resources_strip|5 Circuitry:§! [?resource@circuitry]\n  §Y£resources_strip|6 Advanced:§! [?resource@advanced]\n  §YPolitical Power:§! [?THIS.political_power|§0]\n  §YCaps:§! [?THIS.caps_number_display|§1]"
+ BOS_LEDGER_INFO_OFFMAP: "Name: [THIS.GetName]\n$bos_not_ready_tt$"
+ BOS_LEDGER_INFO_DESTROYED: "Name: [THIS.GetName]\n§RCurrent loyalists are in hiding.§!"
+ BOS_LEDGER_INFO_CONTROLLED: "Name: [THIS.GetName]\n§GWe have integrated this chapter!§!"

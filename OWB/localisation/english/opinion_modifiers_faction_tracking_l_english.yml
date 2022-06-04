@@ -1,19 +1,8 @@
-﻿######################################
-####### GENERATED CODE WARNING #######
-######################################
-# This file is generated code - any
-# changes made directly to these files
-# will likely be lost on future
-# updates. If you need to tweak the
-# functionality in this file, please
-# contact wtchappell ('the witch') for
-# help in improving its functionality.
-######################################
-####### GENERATED CODE WARNING #######
-######################################
-l_english:
+﻿l_english:
   refused_entry_to_nova_legion:0 "Rejected by the Nova Legion"
   rejected_invitation_to_nova_legion:0 "Rejected the Nova Legion"
+  refused_entry_to_chosen_ones:0 "Rejected by the Chosen Ones"
+  rejected_invitation_to_chosen_ones:0 "Rejected the Chosen Ones"
   refused_entry_to_lanius_horde:0 "Rejected by Lanius's Horde"
   rejected_invitation_to_lanius_horde:0 "Rejected Lanius's Horde"
   refused_entry_to_big_mt:0 "Rejected by the Big MT"
@@ -60,12 +49,12 @@ l_english:
   rejected_invitation_to_masters_new_army:0 "Rejected the Master's New Army"
   refused_entry_to_mesoamerican_alliance:0 "Rejected by the Mesoamerican Alliance"
   rejected_invitation_to_mesoamerican_alliance:0 "Rejected the Mesoamerican Alliance"
+  refused_entry_to_the_fire_council:0 "Rejected by the Fire Council"
+  rejected_invitation_to_the_fire_council:0 "Rejected the Fire Council"
   refused_entry_to_mojave_alliance:0 "Rejected by the Mojave Alliance"
   rejected_invitation_to_mojave_alliance:0 "Rejected the Mojave Alliance"
   refused_entry_to_mormon_alliance:0 "Rejected by the Mormon Alliance"
   rejected_invitation_to_mormon_alliance:0 "Rejected the Mormon Alliance"
-  refused_entry_to_ncr:0 "Rejected by the NCR"
-  rejected_invitation_to_ncr:0 "Rejected the NCR"
   refused_entry_to_nevada_enclave:0 "Rejected by the Nevada Enclave"
   rejected_invitation_to_nevada_enclave:0 "Rejected the Nevada Enclave"
   refused_entry_to_nevada_pact:0 "Rejected by the Nevada Pact"
@@ -88,6 +77,10 @@ l_english:
   rejected_invitation_to_unbroken_coast:0 "Rejected the Unbroken Coast"
   refused_entry_to_western_enclave:0 "Rejected by the Western Enclave"
   rejected_invitation_to_western_enclave:0 "Rejected the Western Enclave"
+  refused_entry_to_order_of_st_joseph:0 "Rejected by the Order of Saint Joseph"
+  rejected_invitation_to_order_of_st_joseph:0 "Rejected the Order of Saint Joseph"
+  refused_entry_to_breach_ferals:0 "Rejected by Breach Ferals"
+  rejected_invitation_to_breach_ferals:0 "Rejected Breach Ferals"
   refused_entry_to_white_sands_compact:0 "Rejected by the White Sands Compact"
   rejected_invitation_to_white_sands_compact:0 "Rejected the White Sands Compact"
   refused_entry_to_cartel_faction:0 "Rejected by the Grand Cartel"
@@ -96,3 +89,19 @@ l_english:
   rejected_invitation_to_cascadia_pirates:0 "Rejected the Realm of the Cascadia Pirates"
   refused_entry_to_transcascadia_republic:0 "Rejected by the Transcascadia Republic"
   rejected_invitation_to_transcascadia_republic:0 "Rejected the Transcascadia Republic"
+  refused_entry_to_new_california:0 "Rejected by the NCR"
+  rejected_invitation_to_new_california:0 "Rejected the NCR"
+  refused_entry_to_the_second_coalition:0 "Rejected by The Second Coalition"
+  rejected_invitation_to_the_second_coalition:0 "Rejected The Second Coalition"
+  refused_entry_to_imperium_mexicanum:0 "Rejected by Imperium Mexicanum"
+  rejected_invitation_to_imperium_mexicanum:0 "Rejected Imperium Mexicanum"
+  refused_entry_to_mexican_league:0 "Rejected by Mexican League"
+  rejected_invitation_to_mexican_league:0 "Rejected Mexican League"
+  refused_entry_to_midnight_union:0 "Rejected by Midnight Union"
+  rejected_invitation_to_midnight_union:0 "Rejected Midnight Union"
+  refused_entry_to_big_circle:0 "Rejected by Big Circle"
+  rejected_invitation_to_big_circle:0 "Rejected Big Circle"
+  refused_entry_to_dharma_way:0 "Rejected by Dharma's Way"
+  rejected_invitation_to_dharma_way:0 "Rejected Dharma's Way"
+  refused_entry_to_californian_hegemony:0 "Rejected by the Californian Hegemony"
+  rejected_invitation_to_californian_hegemony:0 "Rejected the Californian Hegemony"

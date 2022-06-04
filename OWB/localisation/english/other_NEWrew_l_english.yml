@@ -1,0 +1,99 @@
+﻿l_english:
+  reno_allies:0 "Allies for New Reno"
+  connectsouth:0 "Reno-NCR Ties"
+  newunity:0 "New Unity"
+  newunity2:0 "Peace with Republic"
+  newunity3:0 "Peaceful haven"
+
+  UNT_elites_ADJ: "Unity's"
+  UNT_elites_DEF: "New Unity's"
+  UNT_elites: "New Unity"
+  UNT_intellectuals_ADJ: "Unity's"
+  UNT_intellectuals_DEF: "New Unity's"
+  UNT_intellectuals: "New Unity"
+  UNT_people_ADJ: "Unity's"
+  UNT_people_DEF: "New Unity's"
+  UNT_people: "New Unity"
+  UNT_ruler_ADJ: "Unity's"
+  UNT_ruler_DEF: "New Unity's"
+  UNT_ruler: "New Unity"
+
+  salvatoremobs_tt:0 "We mobilize all our forces"
+  wrightmobs_tt:0 "Guardians of Temperance will flock to our cause."
+  bishopmobs_tt:0 "We mobilize all our forces"
+  mordinomobs_tt:0 "We mobilize all our forces"
+  wrightsheavy_tt:0 "We will get help from our heavily armed allies"
+
+  new_blackvultures_tt:0 "Three units of Black Vultures will join us"
+  new_nanjimiclan_tt:0 "Three units of warriors of Kieva Nanjimi will join us"
+  new_vaultvikings_tt:0 "Three Vault Viking units join us"
+  new_psychos_tt:0 "Three units of Psychos will join us"
+  new_survivalists_tt:0 "Three units of Survivalists will join us"
+
+  NEW_bishopdestroyed:0 "Mr. Bishop dead"
+  NEW_mordinodestroyed:0 "Mordino destroyed"
+  NEW_wrightdestroyed:0 "Wrights destroyed"
+  NEW_salvatoredestroyed:0 "Salvatore destroyed"
+
+  NEW_unity_party:0 "New Unity"
+  NEW_unity_party_long:0 "New Unity"
+
+### Tourism
+NEW_tourist_trade: "The Tourist Trade"
+NEW_tourist_trade_desc: "Both Vegas and Reno consider themselves the greatest tourist destinations of the Wasteland. While House may be proud of the lights of Vegas, Reno has been serving California for decades. Through a series of ad campaigns the two cities of sin will conquer the pockets of the Wasteland.  \n\nCurrently: [GetTouristsVegasExists][GetTouristsRenoAndVegasBothExist][GetTouristsRenoExists]"
+tourist_season: "Profits from the Tourist Season"
+tourist_season_desc: "Let's see how much we raked in from the latest set of customers..."
+hire_criers: "Hire Criers"
+hire_criers_desc: "Hiring criers wont make our popular in a matter of seconds, but it still may attract some tourists to our city."
+buy_new_signs: "Buy Signs"
+buy_new_signs_desc: "We will hire some artists and make them create signs of our city, luring more and more people."
+launch_small_ad_campaign: "Launch Small Advertisement Campaign"
+launch_small_ad_campaign_desc: "Small advertising campaign will consist of flyers, criers and brand neon signs. This campaign is not a very big one, but little by little and our city will be known everywhere in the wastes!"
+launch_medium_ad_campaign: "Launch Medium Advertisement Campaign"
+launch_medium_ad_campaign_desc: "Medium advertising campaign will consist of short radio announcements, big neon signs and building of new small tourist attractions."
+launch_large_ad_campaign: "Launch Large Advertisement Campaign"
+launch_large_ad_campaign_desc: "Large advertising campaign will consist of 1 minute radio announcements, special tourist tours, building of new tourist attractions and free discount coupons for everyone visiting our city for the first time!"
+launch_enormous_ad_campaign: "Launch Enormous Advertisement Campaign"
+launch_enormous_ad_campaign_desc: "Enormous advertising campaign will consist of... everything! 3-4 minute radio announcements, a ton of new tourist attractions, criers, flyers, tours, huge beautiful neon signs... hell, if you have working TV even there will be an advert of our city!"
+entice_opponent_tourists: "Entice Opponent's Tourists To Us"
+entice_opponent_tourists_desc: "Why go to that [GetTourismOpponentName] when you can visit us? We are clearly much better than them!"
+opponent_anti_advertising: "[GetTourismOpponentName] Anti-Advertisement"
+opponent_anti_advertising_desc: "Did you knew that [GetTourismOpponentName] used dirty money to build their business? But we didn't! We are better than them!"
+
+launch_only_once: "§YWe can launch an advertising campaign this big only once!§!"
+
+tourism_monthly_pop_modifier: "Tourism Population Increase"
+
+money_for_tourists_tt: "For every thousand tourists we will get §Y2k [GetCapType]§!, but if we will have more tourist than our opponent we will gain §Y+1k§! bonus for each thousand!"
+
+more_profit_from_tourists: "§GBecause we have more tourists than our opponent we gain +1k [GetCapType] for every thousand tourists!§!"
+less_profit_from_tourists: "§RBecause our opponent has more tourists than we do, we don't get +1k [GetCapType] bonus for every thousand tourists!§!"
+
+lose_25_percent_tourists: "§Y[?tourists_count_2|0] thousand§! tourists, §Y25%§! of our current tourist count, have been satisfied enough with our city and left!"
+
+add_tourists_tt: "[GetTouristsRenoOrVegas]"
+get_tourist_reno: "We will gain §O[?add_tourists] thousand§! tourists!"
+get_tourist_veg: "We will gain §G[?add_tourists] thousand§! tourists!"
+
+get_tourism_opponent_name_new: "[VEG.GetName]"
+get_tourism_opponent_name_veg: "[NEW.GetName]"
+
+remove_tourists_tt: "[LoseTouristsRenoOrVegas]"
+lose_tourist_reno: "New Vegas will lose §G[?remove_tourists] thousand§! tourists!"
+lose_tourist_veg: "New Reno will lose §O[?remove_tourists] thousand§! tourists!"
+
+get_tourist_new_less: "less than a thousand"
+get_tourist_new_more: "[?NEW.tourists] thousand"
+get_tourist_veg_less: "less than a thousand"
+get_tourist_veg_more: "[?VEG.tourists] thousand"
+
+caps_decision_reno_signs: "[?temp_cap_cost|+] [GetCapTxt]"
+caps_decision_reno_signs_blocked: "§R[?temp_cap_cost|+]§! [GetCapTxt]"
+
+get_tourist_exist_veg: "[VEG.GetName] has §G[GetTouristsMoreOrLessVeg]§! tourists"
+get_tourist_exist_reno: "[NEW.GetName] has §O[GetTouristsMoreOrLessRen]§! tourists"
+get_tourist_exist_reno_equal: "[NEW.GetName] also has §O[GetTouristsMoreOrLessRen]§! tourists"
+get_tourist_exist_both: ", while "
+
+opponent_veg_has_tourists: "New Vegas has atleast §G1 thousand§! tourists"
+opponent_new_has_tourists: "New Reno has atleast §O1 thousand§! tourists"

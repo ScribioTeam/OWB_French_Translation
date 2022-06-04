@@ -1,0 +1,29 @@
+﻿l_english:
+  # GUI
+  # Defined Text
+  boneyard_name: "Boneyard"
+  dayglow_name: "Dayglow"
+  maxon_name: "Maxson"
+  redding_name: "Redding"
+  shady_sands_name: "Shady Sands"
+
+  allgood_elections_name: "Senator Murphy"
+  kimball_elections_name: "Aaron Kimball"
+  hayes_elections_name: "Mayor Hayes"
+  secret_boi_elections_name: "Doug Granite"
+
+
+  boneyard_first_candidate_support: "[?global.first_candidate_support_array^1]%"
+  dayglow_first_candidate_support: "[?global.first_candidate_support_array^2]%"
+  maxon_first_candidate_support: "[?global.first_candidate_support_array^3]%"
+  redding_first_candidate_support: "[?global.first_candidate_support_array^4]%"
+  shady_sands_first_candidate_support: "[?global.first_candidate_support_array^5]%"
+
+  boneyard_second_candidate_support: "[?global.second_candidate_support_array^1]%"
+  dayglow_second_candidate_support: "[?global.second_candidate_support_array^2]%"
+  maxon_second_candidate_support: "[?global.second_candidate_support_array^3]%"
+  redding_second_candidate_support: "[?global.second_candidate_support_array^4]%"
+  shady_sands_second_candidate_support: "[?global.second_candidate_support_array^5]%"
+
+  NCR_ELECTIONS_BUTTON_OPEN_TEXT: "Map of Elections"
+  NCR_ELECTIONS_BUTTON_OPEN_TEXT_BLOCKED: "§gMap of Elections§!"

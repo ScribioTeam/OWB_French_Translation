@@ -1,17 +1,4 @@
-﻿######################################
-####### GENERATED CODE WARNING #######
-######################################
-# This file is generated code - any
-# changes made directly to these files
-# will likely be lost on future
-# updates. If you need to tweak the
-# functionality in this file, please
-# contact wtchappell ('the witch') for
-# help in improving its functionality.
-######################################
-####### GENERATED CODE WARNING #######
-######################################
-l_english:
+﻿l_english:
   ASK_TO_JOIN_FACTION_TITLE:0 "Ask to join faction"
   ASK_TO_JOIN_FACTION_ACTION_DESC:0 "Ask to join faction."
   ASK_TO_JOIN_FACTION_SEND_DESC:0 "Ask to join faction."

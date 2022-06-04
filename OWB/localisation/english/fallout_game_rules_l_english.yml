@@ -142,7 +142,7 @@
   RULE_AI_BEHAVIOR_TDT_FOX:0 "@TDT The Fox"
   RULE_AI_BEHAVIOR_TDT_FOX_DESC:0 "Tierra de los Tzotzil will keep Rey, the Shrewd Fox, in charge."
   RULE_AI_BEHAVIOR_TDT_SERVANT:0 "@ITZ The Loyal Servant"
-  RULE_AI_BEHAVIOR_TDT_SERVANT_DESC:0 "Tierra de los Tzotzil will fall under the control of Vela, the Kalomte's loyal servant."
+  RULE_AI_BEHAVIOR_TDT_SERVSLA_DESC:0 "Tierra de los Tzotzil will fall under the control of Vela, the Kalomte's loyal servant."
 
   RULE_AI_BEHAVIOR_TLA:0 "@TLA Tlalocan"
   RULE_AI_BEHAVIOR_TLA_DEFAULT:0 "Default"
@@ -165,14 +165,8 @@
   RULE_AI_BEHAVIOR_VLT:0 "@VLT Vault City"
   RULE_AI_BEHAVIOR_VLT_DEFAULT:0 "Default"
   RULE_AI_BEHAVIOR_VLT_DEFAULT_DESC:0 "Vault City will either follow their historical path or select a random one based on the historical focus option."
-  RULE_AI_BEHAVIOR_VLT_THE_BRAIN:0 "£flag_VLT_ruler_texticon  The Brain"
-  RULE_AI_BEHAVIOR_VLT_THE_BRAIN_DESC:0 "Vault City will fall to a super mutant uprising led by the mutated mole rat known as the Brain."
   RULE_AI_BEHAVIOR_VLT_LYNETTE:0 "£flag_VLT_intellectuals_texticon  First Citizen Lynette"
   RULE_AI_BEHAVIOR_VLT_LYNETTE_DESC:0 "Vault City will continue to keep the aloof Lynette in charge of the city."
-  RULE_AI_BEHAVIOR_VLT_WALLACE:0 "£flag_VLT_elites_texticon  Security Chief Wallace"
-  RULE_AI_BEHAVIOR_VLT_WALLACE_DESC:0 "Vault City will put Security Chief Wallace in charge of the city in response to drastic uprisings."
-  RULE_AI_BEHAVIOR_VLT_FESTUS:0 "£flag_VLT_people_texticon  Festus"
-  RULE_AI_BEHAVIOR_VLT_FESTUS_DESC:0 "Vault City will experience a ghoul revolution under the guidance of the ancient ghoul Festus."
 
   RULE_AI_BEHAVIOR_NCN:0 "@NCN New Canaan"
   RULE_AI_BEHAVIOR_NCN_DEFAULT:0 "Default"
@@ -206,9 +200,6 @@
   RULE_AI_BEHAVIOR_WHT_LEGION:0 "£flag_WHT_ruler_texticon A Bid for Power"
   RULE_AI_BEHAVIOR_WHT_LEGION_DESC:0 "The White Legs shall run with the Legion"
 
-
-
-
   RULE_MAP_SETUP_MOJAVE_STATUS:0 "@MOJ Mojave Chapter"
   RULE_MAP_SETUP_MOJAVE_STATUS_DEFAULT:0 "@MOJ Default"
   RULE_MAP_SETUP_MOJAVE_STATUS_DEFAULT_DESC:0 "The Mojave Chapter owns Black Mountain at the start of the game."
@@ -238,8 +229,6 @@
   RULE_MAP_SETUP_NPE_STATUS_DEFAULT_DESC:0 "The North Pole Enclave will not be on the Map."
   RULE_MAP_SETUP_NPE_STATUS_ONMAP:0 "@NPE North Pole Enclave On Map"
   RULE_MAP_SETUP_NPE_STATUS_ONMAP_DESC:0 "Santa's coming to town(Puts North Pole Enclave on map above Broken Coast)."
-
-
 
   RULE_MAP_SETUP_TRK_STATUS:0 "@TRK The Last Thanksgiving"
   RULE_MAP_SETUP_TRK_STATUS_DEFAULT:0 "@TRK Default"
@@ -358,7 +347,7 @@
   RULE_MAP_SETUP_EIGHTIES_STATUS:0 "@EHT Eighties"
   RULE_MAP_SETUP_EIGHTIES_STATUS_DEFAULT:0 "@EHT Default"
   RULE_MAP_SETUP_EIGHTIES_STATUS_DEFAULT_DESC:0 "The Eighties are whole at the start of the game."
-  RULE_MAP_SETUP_EIGHTIES_STATUS_BROKEN:0 "@NOE/@PSH/@WEN Broken"
+  RULE_MAP_SETUP_EIGHTIES_STATUS_BROKEN:0 "@NOE/@WEN Broken"
   RULE_MAP_SETUP_EIGHTIES_STATUS_BROKEN_DESC:0 "The Eighties are broken into their conquered states."
 
   RULE_MAP_SETUP_WHITE_LEGS_STATUS:0 "@WHT White Legs"

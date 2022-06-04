@@ -1,0 +1,15 @@
+﻿l_english:
+ eas_finest_brew:0 "Wastelands Finest Brew"
+ eas_finest_brew_desc: "Eastport is home to a mostly functional pre-war brewery and they have made good use of it. A couple of traditions sprang up around it, including cracking open a cold one for when you get your first command assignment in their military. And every bar patron involved in a bar brawl knows that the more you drink the stronger you get."
+ eas_finest_brew_desc_tt: ""
+
+ nf_eas.1.t: "Stag Stout"
+ nf_eas.1.d: "A beer black as night, strong in taste and alcohol content. [FROM.GetName] opened the bottle and took a large swig from it in front of his newly assigned troops. Their cheering turned the swig into downing the whole bottle." # Adds +1 Attack
+ nf_eas.2.t: "Nannies Doppel"
+ nf_eas.2.d: "Needs Flavor Text - Adds +1 Defense"
+ nf_eas.3.t: "Charlestone Red Ale"
+ nf_eas.3.d: "Needs Flavor Text - Adds +1 Planning"
+ nf_eas.4.t: "Tuscarora Pilsner"
+ nf_eas.4.d: "Needs Flavor Text - Adds +1 Logistics"
+ nf_eas.5.t: "Lahey's Reserve"
+ nf_eas.5.d: "Needs Flavor Text - Rarer Event - Personal Beer of the Country Leader -  Adds another SPECIAL Perk"

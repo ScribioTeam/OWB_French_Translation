@@ -2,32 +2,23 @@
  # Equipment naming is inherited from the equipment name when displayed in the techtree
  # For if we actually decide to localise the hidden techs
  #Headers
-  fallout_focus_tree_folder:0 "Reward Technologies"
-  fallout_focus_tree_folder_desc:0 "Technologies only accessible through focuses and other non-researchable actions."
+  fallout_focus_tree_folder: "Reward Technologies"
+  fallout_focus_tree_folder_desc: "Technologies only accessible through focuses and other non-researchable actions."
 
-  HEADER_EQUIPMENT:0 "Equipment"
-  HEADER_BUFFS:0 "Buffs"
-  HEADER_TRIBAL_BUFFS:0 "Tribal Buffs"
-  HEADER_NCN_BUFFS:0 "New Canaan Buffs"
-  HEADER_RANGER_BUFFS:0 "Desert Ranger Buffs"
-  HEADER_NCR_BUFFS:0 "NCR Buffs"
-  HEADER_VAULT_CITY_BUFFS:0 "Vault City Buffs"
-  HEADER_MEXICO_BUFFS:0 "Mexico Buffs"
-  HEADER_TBH_BUFFS:0 "Texan Brotherhood Buffs"
-
-  HEADER_RENO_BUFFS:0 "New Reno Buffs"
-  HEADER_OREGON_BUFFS:0 "Oregon Buffs"
-  HEADER_COLORADO_BUFFS:0 "Colorado Buffs"
-  HEADER_COSTA_BUFFS:0 "Costa Cafetera Buffs"
-  HEADER_SETTLER_BUFFS:0 "Settler Buffs"
-  HEADER_RAIDER_BUFFS:0 "Raider Buffs"
-  HEADER_LEGION_BUFFS:0 "Legion Buffs"
-  HEADER_WESTERN_BROTHERHOOD_BUFFS:0 "Western Brotherhood Buffs"
-  HEADER_TECH_LEVEL:0 "Technology"
-  HEADER_UNIT:0 "Units"
-  HEADER_UNLOCK:0 "Schematics"
-  HEADER_DOCTRINE_TECHS:0 "Doctrine"
-
+  HEADER_EQUIPMENT: "Equipment"
+  HEADER_TECH_LEVEL: "Technology"
+  HEADER_UNIT: "Units"
+  HEADER_UNLOCK: "Schematics"
+  HEADER_DOCTRINE_TECHS: "Doctrines"
+  HEADER_UNLOCK2: "Origins"
+  HEADER_BUFFS: "Buffs"
+  HEADER_TRIBAL_BUFFS: "Tribal Buffs"
+  HEADER_CALI_BUFFS: "Californian Buffs"
+  HEADER_ARIZONA_BUFFS: "Legion Buffs"
+  HEADER_OREGON_BUFFS: "Oregon Buffs"
+  HEADER_TEXAS_BUFFS: "Texan Buffs"
+  HEADER_MEXICO_BUFFS: "Mexican Buffs"
+  HEADER_OTHER_BUFFS: "Miscellaneous Buffs"
 
  #Unlocks
   gauss_unlock_tech:0 "Gauss Weaponry Schematics"
@@ -44,12 +35,6 @@
  #----------------------------
  # Civilizations
  #----------------------------
-  tribal_civilization:0 "Is Tribal"
-  tribal_civilization_desc:0 ""
-  settled_civilization:0 "Is Civilized"
-  settled_civilization_desc:0 ""
-  scientific_civilization:0 "Is Advanced"
-  scientific_civilization_desc:0 ""
   super_mutant_civilization:0 "Super Mutant Civilization"
   super_mutant_civilization_desc:0 ""
 
@@ -105,32 +90,10 @@
   tribalnumbers:0 "Strength In Numbers"
   tribalnumbers_desc:0 ""
 
- #New Canaan
-  warriorsofgod:0 "Warriors of God"
-  warriorsofgod_desc:0 ""
-
-  knightsofgod:0 "Knights of God"
-  knightsofgod_desc:0 ""
-
- #Rangers
-  bosfunding:0 "Brotherhood of Steel Funding"
-  bosfunding_desc:0 ""
-
-  rangerswidth:0 "Ranger Combat Spread Training"
-  rangerswidth_desc:0 ""
-
-  rangersmedic:0 "Ranger Medic Training"
-  rangersmedic_desc:0 ""
-
-  rangersattrition:0 "Ranger Attrition Training"
-  rangersattrition_desc:0 ""
-
-  legionprep:0 "Ranger Prep for the Legion"
-  legionprep_desc:0 ""
-
  #NCR
   oldworldarmour:0 "Old World Armour"
   oldworldarmour_desc:0 ""
+  ncr_railway_construction: "Railway Construction"
 
  #Vault City
   mutant_supremacy:0 "The Mole-Men Shall Rule The Earth!"
@@ -161,34 +124,14 @@
   ncr_rangerlead_tech:0 "Ranger Leads"
   ncr_rangerlead_tech_desc:0 ""
 
-  ncr_rangercanopeners_tech:0 "Ranger can Openers"
+  ncr_rangercanopeners_tech:0 "Ranger Can Openers"
   ncr_rangercanopeners_tech_desc:0 ""
 
   ncr_seth:0 "Seth's Rangers"
   ncr_seth_desc:0 ""
 
-  ncr_privatepolice:0 "NCR Private Police"
+  ncr_privatepolice:0 "Citizen Militias"
   ncr_privatepolice_desc:0 ""
-
- #Ranger
-  ranger_knighttactics:0 "Ranger BoS Knight Tactics"
-  ranger_knighttactics_desc:0 ""
-
-  ranger_slayinggiants:0 "Ranger Giant Slaying Tactics"
-  ranger_slayinggiants_desc:0 ""
-
-  ranger_rangerslegionwar:0 "Ranger-Legion War Tactics"
-  ranger_rangerslegionwar_desc:0 ""
-
-  ranger_rangersnewthreat:0 "Ranger New Threat Assessment"
-  ranger_rangersnewthreat_desc:0 ""
-
- #Western Brotherhood
-  bos_navarroscoutcamp:0 "Navarro Scout Camp"
-  bos_navarroscoutcamp_desc:0 ""
-
-  bos_bosdigin:0 "Brotherhood Field Fortifications"
-  bos_bosdigin_desc:0 ""
 
  #Legion
   legion_centurions_tech:0 "Centurions"
@@ -213,12 +156,12 @@
   armored_chariots_tech_desc:0 ""
   CES_mercenary_training_tech:0 "Mercenary Training Tech"
   CES_mercenary_training_tech_desc:0 ""
-  ces_navajo_scouts_tech:0 "Navajo Scouts"
-  ces_navajo_scouts_tech_desc:0 "Scouts from Navajo nation can tech our Frumentarii a lot of valuable skills"
-  ces_navajo_skin_walkers_tech:0 "Navajo's Skin Walkers"
-  ces_navajo_skin_walkers_tech_desc:0 ""
-  ces_two_tech:0 "Legion's Chariots"
-  ces_two_tech_desc:0 "The greatest vehicles Two Sun has to offer now will serve the Legion's glory."
+  ces_navajo_scouts_tech: "Navajo Scouts"
+  ces_navajo_scouts_tech_desc: "Scouts from Navajo nation can tech our Frumentarii a lot of valuable skills"
+  ces_navajo_skin_walkers_tech: "Navajo's Skin Walkers"
+  ces_navajo_skin_walkers_tech_desc: ""
+  ces_two_tech: "Legion's Chariots"
+  ces_two_tech_desc: "The greatest vehicles Two Sun has to offer now will serve the Legion's glory."
 
 
 

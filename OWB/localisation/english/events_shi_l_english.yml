@@ -1,0 +1,39 @@
+﻿l_english:
+  # Events
+  nf_shi.1.t:0 "Suspicious Movements Detected"
+  nf_shi.1.d:0 "Our best clerks have begun to recognize several oddities present throughout our record keeping. While they most likely amount to nothing, their pervasive presence in our financial dealings indicates that some individual, or group, may be siphoning funds or supplies. This might warrant further investigation... or perhaps a simple reminder to the intern to carry the two."
+  nf_shi.1.a:0 "We'll look into this further"
+  nf_shi.1.b:0 "Kevin, get over here!"
+
+  nf_shi.2.t:0 "Serious Discrepancies"
+  nf_shi.2.d:0 "We had previously ordered an investigation into odd inconsistencies throughout our records and operations. From what we can tell, there seems to be some sort of organized operation intent on disrupting and siphoning our supplies and caps. This is immediately concerning, and warrants further attention. However, any further investigation would occur additional expenses, and might encounter additional roadblocks."
+  nf_shi.2.a:0 "We must root this out"
+  nf_shi.2.b:0 "It can't be that bad"
+
+  nf_shi.3.t:0 "Investigated"
+  nf_shi.3.d:0 "Our operatives in [FROM.GetName] have reported that a number of investigations have begun into recent operations undertaken by our cell. While our infiltrators have yet to be caught, the enemy's rapid progress indicates that they may soon face suspicion. Yet there's no guarantee of a successful investigation, as the mounting costs may prove to make rooting out our cell too expensive for the enemy. The safest option would be to extract our operatives right now. This would be a political setback, but we could always begin a new series of infiltrations once things settle down. A more risky, but more lucrative, option would be to continue operations in [FROM.GetName]'s territory, and simply hope that they fail to catch us."
+  nf_shi.3.a:0 "Our operatives are too important to risk"
+  nf_shi.3.b:0 "They have no chance of catching us"
+
+  nf_shi.4.t:0 "Roadblock in the Investigation"
+  nf_shi.4.d:0 "Our search to uncover the source of the discrepancies plaguing our accounts has hit a roadblock. Additional funds could allocate the needed manpower towards solving the issue, but prevent our spending on other, more important, expenses. Still, we've begun this investigation, and may as well see it through."
+  nf_shi.4.a:0 "Whatever the cost"
+  nf_shi.4.b:0 "Let's quit while we're ahead"
+
+  nf_shi.5.t:0 "Investigation Proceeds Smoothly"
+  nf_shi.5.d:0 "Our investigation seems to be continuing as planned, with little resistance from whatever force might be behind the accounting issues we've identified. No substantial results have been found yet, but time is our ally in this methodical search."
+  nf_shi.5.a:0 "Good news"
+
+  nf_shi.6.t:0 "The Investigation Concludes"
+  nf_shi.6.da:0 "The outcome of our arduous investigation is finally here. After meticulously scouring our accounts and supplies, we've uncovered that the Shi have been behind a number of covert operations, each of which have dealt a serious blow to us. We've captured a number of their agents, as well as busted the covert cell they had constructed in our lands. These Shi infiltrators are now almost certainly expelled for good, although the nation itself has yet to pay for their transgression..."
+  nf_shi.6.db:0 "Despite our best efforts, we've failed to uncover a solid lead on the corruption and shady dealings going on within our territory. This isn't ideal, but we'll always have another chance next time these saboteurs decide to show themselves."
+  nf_shi.6.a:0 "Caught red-handed!"
+  nf_shi.6.b:0 "Hmm..."
+
+  nf_shi.7.t:0 "Our Cell Discovered"
+  nf_shi.7.d:0 "Despite our agents' best efforts, our cell in [FROM.GetName] has been routed, with many of our informants either killed or captured. Most of our operatives managed to flee over the border, but it seems that our presence in [FROM.GetName] has been dealt a fatal blow. It is unlikely that we would be able to infiltrate them again, seeing as they are now more vigilant to our intrusions."
+  nf_shi.7.a:0 "Dammit"
+
+  # Tooltips
+  shi_cell_investigate_tt: "This will give our targets the option to investigate our cell"
+  shi_cell_abandon_tt: "We will abandon the cell we've constructed in the target"

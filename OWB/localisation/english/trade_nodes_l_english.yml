@@ -5,9 +5,9 @@
   # Modifiers
   caps_trade_node_route_limit:0 "Maximum Outgoing Trade Routes"
   # EFFECTS
-  NODE_ADD_DEVELOPMENT_EFFECT_TT:0 "Add [?development_to_add|2+=] §cDevelopment§! to §Y[This.GetName]§!\n\n §cEconomic Development§! increases node level progress."
+  NODE_ADD_DEVELOPMENT_EFFECT_TT:0 "Add [?development_to_add|2+=] §cDevelopment§! to §Y[This.GetName]§!\n\n§cEconomic Development§! increases node level progress.\n"
   scripted_effect_update_route_value_tt:0 "Update Trade Routes from §Y[This.GetName]§!"
-  scripted_effect_remove_trade_route_tt:0 "§RRemove§! Trade Route from §Y[This.GetName]§! to §Y[?trade_route_temp_target.GetName]§!"
+  scripted_effect_remove_trade_route_tt:0 "§RRemove§! Trade Route from §Y[This.GetName]§! to §Y[?temp_loc_key_target.GetName]§!"
   scripted_effect_begin_trade_route_tt:0 "§GBegin§! a Trade Route from §Y[?node_map_selector.GetName]§! to §Y[?trade_route_selector_target.GetName]§!"
   scripted_effect_add_state_as_node_partner_tt:0 "Become a member state of the §y[?var:node_to_add_partner_to.GetName] Economic Node§!\n"
   # TRIGGERS
@@ -43,17 +43,28 @@
   TRADE_NODE_PROGRESS:0 "Progress: §Y[?current_node_progress_percentage_temp|2%]§!"
   TRADE_NODE_PROGRESS_TT:0 "The progress of the §Y[?current_node_name.GetName]§! §yeconomic node§! towards a possible promotion is currently at §Y[?current_node_progress_percentage_temp|2%]§!."
   TRADE_NODE_PROMOTE_BUTTON:0 "Promote §yNode§!"
+  node_upgrading:0 "Node Upgrading"
   TRADE_NODE_PROMOTE_BUTTON_TT:0 "[This.GetTradeNodePromoteButtonTooltip]"
   TRADE_NODE_TRADE_ROUTE_TITLE:0 "Trade Routes:"
   TRADE_NODE_TRADE_ROUTE_DESC:0 "Create and manage routes between §yeconomic nodes§! for extra income."
   TRADE_NODE_TRADE_ROUTE_BUTTON:0 "[This.GetTradeNodeTradeRouteButtonText]"
-  TRADE_NODE_TRADE_ROUTE_BUTTON_TT:0 "[!set_trade_route_button_click_enabled]"
+  TRADE_NODE_TRADE_ROUTE_BUTTON_TT:0 "[!set_trade_route_button_click_enabled]\n\n[!set_trade_route_button_click]\n[!set_trade_route_button_right_click]"
+  string_set_trade_route_button_right_click_tt:0 "Right click to §Rcancel§!"
+  string_trade_node_trade_route_button_text_cancel:0 "Cancel Selection"
+  string_trade_node_trade_route_button_text_create:0 "Create Route"
   TRADE_NODE_TRADE_ROUTE_ENTRY_BUTTON:0 "[GetTradeNodeRouteEntryTypePartner]"
   string_trade_route_entry_button_to_from:0 "[GetTradeNodeRouteEntryToFrom]"
   string_trade_route_entry_button_to_and_from:0 "To/From: [?target_route_state.GetName] [?route_value|+=2]"
   string_TRADE_NODE_TRADE_ROUTE_ENTRY_BUTTON_value_to:0 "To: [?target_route_state.GetName] [?route_value|+=2]"
   string_TRADE_NODE_TRADE_ROUTE_ENTRY_BUTTON_value_from:0 "From: [?target_route_state.GetName] [?route_value|+=2]"
   TRADE_NODE_TRADE_ROUTE_ENTRY_BUTTON_TT:0 "[GetTradeNodeRouteEntryTypePartner]\n\n[!route_entry_button_click]"
+  string_trade_route_entry_button_selection_pending:0 "To: §Y[?target_route_state.GetName]§!: [?trade_value_recieved_from_target|+=2]"
+  string_trade_route_entry_button_selection_pending_selected:0 "To: §G[?target_route_state.GetName]§!: [?trade_value_recieved_from_target|+=2]"
+  string_trade_route_entry_button_selection_pending_exists:0 "To: §M[?target_route_state.GetName]: [?trade_value_recieved_from_target|=2]§!"
+  string_trade_route_entry_button_selection_pending_tt:0 "Click to select route to §Y[?target_route_state.GetName]§!"
+  string_trade_route_entry_button_selection_exists_tt:0 "Route exists to §M[?target_route_state.GetName]§!"
+  string_trade_route_entry_button_selection_pending_clear_tt:0 "Deselect §G[?target_route_state.GetName]§! as trade route target"
+
 
   TRADE_NODE_MEMBER_STATES_LIST_TITLE:0 "Member States:"
   TRADE_NODE_MEMBER_STATES_LIST_TITLE_TT:0 "This list contains all states that are part of the §Y[This.GetName]§! §yeconomic node§!."
@@ -79,6 +90,28 @@
 
   NODE_MAP_ZOOM_IN_BUTTON_TT:0 "§GClick§! to zoom in."
   NODE_MAP_ZOOM_OUT_BUTTON_TT:0 "§GClick§! to zoom out."
+
+  ### Mapmode GUI
+  MAPMODE_ICODE_EVOLUTION_NODE_STATE_MAPMODE:0 "§YTrade Nodes§! Map Mode"
+  MAPMODE_ICODE_EVOLUTION_NODE_STATE_MAPMODE_NAME:0 "Trade Nodes"
+  MAPMODE_ICODE_EVOLUTION_NODE_STATE_MAPMODE_DESC:0 "Trade Node Map Mode"
+  evo_mapmode_icon_tt:0 "Evo TT"
+  evo_mapmode_node_box_header_tt:0 "Trade Nodes"
+  evo_mapmode_node_box_selected_state_tt:0 "§Y[THIS.GetName]§!"
+  evo_mapmode_node_box_owner_flag:0 "[OWNER.GetFlag]"
+  evo_mapmode_node_box_route_text:0 "[GetMapModeConfirmButtonText]"
+  evo_mapmode_node_box_route_text_start:0 "Begin"
+  evo_mapmode_node_box_route_text_view:0 "View"
+  evo_mapmode_node_box_route_text_trade_value:0 "[?current_node_trade_value|=+2]"
+  evo_mapmode_node_box_route_text_trade_value_target:0 "[?trade_value_recieved_from_target|=+2]"
+  evo_mapmode_node_box_route_text_send_from:0 "From"
+  evo_mapmode_node_box_route_text_send_to:0 "To"
+  evo_mapmode_confirm_trade_button_tt:0 "[!confirm_trade_button_click_enabled]\n[GetMapModeConfirmButtonTT]"
+  evo_mapmode_send_route_tt_selection:0 "Send a route to §Y[THIS.GetName]§! from §Y[GetOutGoingNode]§!.\n   Route Value: [GetMapModeRouteValue]"
+  string_set_target_evo_mapmode_confirm_trade_button_tt:0 "Click to see trade routes from §Y[THIS.GetName]§!"
+  string_begin_route_selection_evo_mapmode_confirm_trade_button_tt:0 "Click to begin route selection from §Y[THIS.GetName]§!\n\nRight click to §Rcancel§!"
+  string_select_trade_route_evo_mapmode_confirm_trade_button_tt:0 "Click a connected node below to begin a trade route from §Y[THIS.GetName]§!\n\nRight click to §Rcancel§!"
+  string_select_trade_route_target_evo_mapmode_confirm_trade_button_tt:0 "Click to send trade route from §Y[?ROOT.outgoing_node_trade_selection.GetName]§! to §Y[THIS.GetName]§!\n\nRight click to set §Y[THIS.GetName]§! as route source."
 
   # Scripted Localisation:
     #Main node value pull
@@ -112,7 +145,6 @@
   SEND_TRADE_NODE_BUTTON_TRIGGER_TT:0 "No current route between [?node_map_selector.GetName] and [?trade_route_selector_target.GetName]"
   TRADE_ROUTE_MANIPULATION_COOLDOWN:0 "Route not recently changed"
   # Decisions:
-  remove_trade_route_decision:0 "Remove Trade Route between [From.GetName] and [?trade_route_targets^0.GetName]"
   state_node_disabled_mission:0 "§Y[From.GetName]§! §RDisabled§!"
   caps_reenabled_node_decision_tt:0 "Re-enable §yNode§!: §Y[From.GetName]§!"
   ###DEPRECATED
@@ -240,3 +272,11 @@
 
   NODE_MAP_TRADE_CONNECTION_TRIGGER:0 "[GetNodeMapConnectionTTHint]"
     NODE_MAP_TRADE_CONNECTION_HINT_TT:0 "§gClick to view a connected node able to receive a trade route from the currently selected node. \n§!§GGreen§!§g highlight denotes a trade link. \n§!§OOrange§!§g highlight denotes an active trade route.§!"
+
+  ### Events
+    node_evolution_events.1.t:0 "Economic Growth in [event_target.node_level_up_state.GetName]"
+    node_evolution_events.1.d:0 "Trade and commerce has expanded in §B[event_target.node_level_up_state.GetName]§!."
+    node_evolution_events.1.a:0 "Excellent"
+    node_evolution_events.1.b:0 "There are ministers for this."
+    promote_node_tt:0 "Increase the level of §Y[THIS.GetName]§! to [?node_level_temp|G0].\n  Increase base income to: [?temp_node_value|+=2]\n  Increase trade route slots by [?route_slot_temp|0G]"
+    promote_node_event_tt_hide:0 "Hide future node promotion events"

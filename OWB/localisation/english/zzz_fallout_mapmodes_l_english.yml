@@ -52,6 +52,13 @@
   fallout_caps_income_map_mode_tooltip: "§Y[From.Controller.GetNameWithFlag]§! currently has a caps income of [?From.Controller:caps_daily_modified|3+]."
   fallout_caps_income_map_mode_tooltip_delayed: ""
 
+  fallout_core_creation_map_mode: "Core Creation"
+  MAPMODE_FALLOUT_CORE_CREATION_MAP_MODE: "§Y$fallout_core_creation_map_mode$§! $MAPMODE_CONSTANT$"
+  MAPMODE_FALLOUT_CORE_CREATION_MAP_MODE_NAME: "$fallout_core_creation_map_mode$"
+  MAPMODE_FALLOUT_CORE_CREATION_MAP_MODE_DESCRIPTION: "Shows which of your owned and controlled states you can currently core."
+  fallout_core_creation_map_mode_tooltip: "[From.GetFalloutCoreCreationMapModeTooltip]"
+  fallout_core_creation_map_mode_tooltip_delayed: "[From.GetFalloutCoreCreationMapModeTooltipDelayed]"
+
   # Scripted Localisation:
   fallout_stability_map_mode_tt: "It changes by [?temp|2%=+] per week."
 
@@ -70,3 +77,10 @@
   fallout_core_map_mode_tt_core_not_owned: "§Y[From.GetName]§! is owned by §Y[From.Owner.GetNameWithFlag]§!."
   fallout_core_map_mode_tt_occupied_info: "§Y[From.GetName]§! is originally owned by §R[From.Owner.GetNameWithFlag]§!."
   fallout_core_map_mode_tt_can_core: "We are currently able to make §Y[From.GetName]§! to a §Ccore state§!."
+
+  fallout_core_creation_map_mode_tt_is_core: "§Y[From.GetName]§! is already our core state."
+  fallout_core_creation_map_mode_tt_can_core: "§GWe can make §Y[From.GetName]§! our core state.§W"
+  fallout_core_creation_map_mode_tt: "§RWe currently cannot make §Y[From.GetName]§! our core state.§W"
+  fallout_core_creation_map_mode_tt_delayed: "§HCore state§! £pol_power [?coring_var_coring_cost] \n--------------\n$ADD_CORE_TT_DELAYED$"
+  fallout_core_creation_map_mode_tt_delayed_tlaloc: "$ADD_CORE_TLALOC_TT$ \n--------------\n$ADD_CORE_TLALOC_TT_DELAYED$"
+  fallout_core_creation_map_mode_tt_delayed_two: "$ADD_CORE_TWO_TT$ \n--------------\n$ADD_CORE_TWO_TT_DELAYED$"

@@ -1,18 +1,6 @@
-﻿######################################
-####### GENERATED CODE WARNING #######
-######################################
-# This file is generated code - any
-# changes made directly to these files
-# will likely be lost on future
-# updates. If you need to tweak the
-# functionality in this file, please
-# contact wtchappell ('the witch') for
-# help in improving its functionality.
-######################################
-####### GENERATED CODE WARNING #######
-######################################
-l_english:
+﻿l_english:
   dislikes_nova_legion:0 "Dislikes the Nova Legion"
+  dislikes_chosen_ones:0 "Dislikes the Chosen Ones"
   dislikes_lanius_horde:0 "Dislikes Lanius's Horde"
   dislikes_big_mt:0 "Dislikes the Big MT"
   dislikes_boneyard_brotherhood:0 "Dislikes the Boneyard Brotherhood"
@@ -36,9 +24,9 @@ l_english:
   dislikes_kaisers_legion:0 "Dislikes Kaiser's Legion"
   dislikes_masters_new_army:0 "Dislikes the Master's New Army"
   dislikes_mesoamerican_alliance:0 "Dislikes the Mesoamerican Alliance"
+  dislikes_the_fire_council:0 "Dislikes the Fire Council"
   dislikes_mojave_alliance:0 "Dislikes the Mojave Alliance"
   dislikes_mormon_alliance:0 "Dislikes the Mormon Alliance"
-  dislikes_ncr:0 "Dislikes the NCR"
   dislikes_nevada_enclave:0 "Dislikes the Nevada Enclave"
   dislikes_nevada_pact:0 "Dislikes the Nevada Pact"
   dislikes_northern_league:0 "Dislikes the Northern League"
@@ -50,7 +38,17 @@ l_english:
   dislikes_texan_economic_union:0 "Dislikes the Texan Economic Union"
   dislikes_unbroken_coast:0 "Dislikes the Unbroken Coast"
   dislikes_western_enclave:0 "Dislikes the Western Enclave"
+  dislikes_order_of_st_joseph:0 "Dislikes the Order of Saint Joseph"
+  dislikes_breach_ferals:0 "Dislikes Breach Ferals"
   dislikes_white_sands_compact:0 "Dislikes the White Sands Compact"
   dislikes_cartel_faction:0 "Dislikes the Grand Cartel"
   dislikes_cascadia_pirates:0 "Dislikes the Realm of the Cascadia Pirates"
   dislikes_transcascadia_republic:0 "Dislikes the Transcascadia Republic"
+  dislikes_new_california:0 "Dislikes the NCR"
+  dislikes_the_second_coalition:0 "Dislikes The Second Coalition"
+  dislikes_imperium_mexicanum:0 "Dislikes Imperium Mexicanum"
+  dislikes_mexican_league:0 "Dislikes Mexican League"
+  dislikes_midnight_union:0 "Dislikes Midnight Union"
+  dislikes_big_circle:0 "Dislikes Big Circle"
+  dislikes_dharma_way:0 "Dislikes Dharma's Way"
+  dislikes_californian_hegemony:0 "Dislikes the Californian Hegemony"

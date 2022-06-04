@@ -1,0 +1,502 @@
+﻿l_english:
+  ##Localization by Team FlowerPower
+  ##The localization team for this tree was wild. At first, it was just me-- Violet-- and then when we realized it could use a little more oomph, Lusa and Aider came to back me up with several lovely flavor events. :heart: Some foci were rewritten by them, as well!
+
+  vault100_bonus:0 "If you see this, Violet has made a grave mistake. Ping her and inform her of this."
+  vault100_nf:0 "Vault 100"
+
+  #events
+
+  nf_rot.1.t:0 "The Vault 100 Experiment"
+  nf_rot.1.d:0 "Constructed beneath the city of Spokane, Vault 100 was one of the largest vaults created by Vault-Tec, designed to house proficient ex-military personnel and some of the best pre-war scientists that the world had to offer-- a time capsule of experience and knowledge for the wasteland to make use of. \n\n While the science and medical teams toiled away in their labs, the ex-military populace of the vault was given jobs that required elbow grease, and a quick-thinking sort of know-how-- security, maintenance, so on. \n\n What they didn't know was that the vault was host to a terrible experiment: the development of a super soldier program originally pitched and devised by the Vault's overseer, a german scientist named Johanna Weber. She had a hypothesis that by introducing manipulated radioactive waves and implantations to the human body, that she'd be able to mutate men into perfect soldiers. \n\n ...And it worked! For a small time. A quarter of the vault's populace took note of their newfound strength, laughing and making as good of a use of it as they could-- everything from fixing vents without a screwdriver to opening a drawer too rough to scare a peer. However, eventually, the effects of the gas began to subside-- and those afflicted began to experience a strange, painless form of partial rot. \n\n The vault was shook-- and whilst some didn't find themselves too bothered, Alexander Pantello, the Security Chief, tried to incite an uprising. Talked down by a scientist named Grozdan Haykov, Alexander was coerced into leaving the vault-- but he didn't leave his prejudice behind..."
+  nf_rot.1.a:0 "He took with him water and building supplies."
+  nf_rot.1.b:0 "He took the vault's best armaments."
+
+  nf_rot.2.t:0 "Outcasted"
+  nf_rot.2.d:0 "Cast out into the wastes alongside several other personnel, Alexander's clique wanted nothing more than to bask in the comfort of their vault once again.  This hatred only festered as they wandered the irradiated wilds, trudging through the bitter snow in search of shelter. \n\n As the tension between the exiles and those who still lived within the Vault escalated, Alexander's caste grew restless.  Over the next few years the raging bitterness that had permeated their flock only grew.  What once was a generation of hardworking men and women had turned into barbarians, no better than the raiders that clashed with them in the wastes time and time again. \n\n Eventually making their way east into Couer D'Alene, they found a skirmish between two groups; the French-speaking Heat-Drinkers locked in a battle with the Badmouths, a local raider gang.  Both groups were vying for control of the town, but Alexander knew they could only help one..."
+  nf_rot.2.a:0 "The Heat-Drinkers!"
+  nf_rot.2.b:0 "The Badmouths!"
+
+  nf_rot.3.t:0 "The Three Splinters"
+  nf_rot.3.d:0 "With their ranks filled out with more of the wastelands worst, the now-Rotpurgers experienced a culture shift. Many began to see the women among them as a commodity to be owned rather than equals in arms. This led to a schism, with many of the group's women leaving in search of a new home. The found a home and salvation amongst the nearby Wishmaidens tribe and their eerie faux-deity; the Lady of the Lake. Under her they formed a new and strange clergy far removed from their male cohorts, practising odd rites and learning unnatural abilities. \n\nThen came along Sir Samson. \n\nHe had been born a Rotpurger: a scrawny, twitchy little man who often heard voices that no one else could. The rest of the purgers disliked his manic turns and believed him to be a worthless and unreliable runt at best but tolerated him for many years. Those who bullied him found themselves facing many 'coincidental' misfortunes; a live grenade found in someone's morning coffee however was the final straw and Samson was exiled from the Rotpurgers, destined to never return… Or, at least, they had hoped. \n\nIn his lone wanderings, he found kinship in a strange thing— a black Orb with the symbol of infinity emblazoned upon it that could answer his many questions and assuage his endless doubts and fears. Newly confident, almost arrogant, Samson returned to the 'Purgers territory as a prophet of sorts using his new "Infinity Orb" to give guidance and speak the will of his new gods. It was not long before he had gathered a group of loyal if somewhat deranged followers branded as his Infinity Knights. \n\nComing to Jacobia, Samson claimed to have a plan to mobilise against the Vault—  seeking to unite the Wishmaidens, the Rotpurgers, and his own Infinity Knights in one glorious charge against Grozdan's loyalists. Jacobia was sceptical, but the fervent nature of the 'Infinity-Prophets' conviction convinced him to make overtures to the Wishmaidens and their sceptical Lady. Together the three reassembled in Couer d'Alene to discuss an alliance between their different forces, hoping for the best."
+  nf_rot.3.a:0 "Samson's promise drove many newcomers to the region."
+  nf_rot.3.b:0 "The three raised walls where once there was none."
+
+  nf_rot.4.t:0 "Who Could Have Seen This Coming?"
+  nf_rot.4.d:0 "The deed was done, the Old Country had fallen and the Rot had been purged. For so long life among the purgers had revolved around this ancient hate and war but what would they do now? The loose alliance between the three powers no longer had much purpose and all within the Purgers knew change was in the air. \n\nA meeting had been called for the leaders to meet and discuss the future, though the tension in the air among each group foreshadowed strongly at how things would play out. Jacobia had chosen the meeting place, an old warehouse that had been repurposed as a town hall of sorts, and had quietly placed groups of men loyal to him in the buildings all around. For security purposes of course. He expected those weak and whining Wishmaidens to be difficult to keep in line, though it was anyone's guess what that madman Samson would do. \n\nThe Lady and her Wishmaidens flooded the room soon after, donning their oxidised bits of armour and dainty furs.  Creusa counted Jacobia's men hidden in the crannies and rafters of the warehouse.  So he had chosen this approach?  How droll.  She turned to him—her gaze unsettling as it was ethereal.  "Jacobia," she greeted. \n\n"Lady," Jacobia leered.  "Where's Samson?"  He noted her numbers, but it bothered him none; they both knew how this was going to pan out. \n\n"Should I be the one to know?"  She asked, tilting her head.  "It seems you have eyes everywhere." She gestured a signal—the Wishmaidens readied their arms. \n\n"Guess it makes no difference," scoffed Jacobia, readying his own. \n\nFar away from the meeting place, Samson held his followers in waiting well beyond the appointed time. The mystic orb had told him there would be bloodshed, spoke of the impending end of the alliance, and assured him that it was Samson who'd come out on top in the chaos. What had Samson huddled under an old rowboat divining with the orb for hours, as his knights patiently waited in the whipping wind, was when to make his move. \n\nBut who's chapter did this evening turn to?"
+  nf_rot.4.a:0 "Samson's Infinity Knights!"
+  nf_rot.4.b:0 "Jacobia's Rotpurgers!"
+  nf_rot.4.c:0 "The Lady's Wishmaidens!"
+
+  nf_rot.5.t:0 "A Woman Came From Afar"
+  nf_rot.5.d:0 "Once, there was a simple woman, descended from the ilk of Vault 100, who lived a subtle life within the lands of the Timberline. She lived a simple life until one day wayward Inquisitors, raiders from the Rotpurgers, burned her house down for 'harboring mutant sympathies. Not knowing what to do, she disappeared into the forest, unknowingly heeding a mysterious call from the deep. \n\nHer hatred of the Inquisition blinded her senses and poisoned her mind. At first, it began with stealing supplies. Then, it was ambushing and killing entire patrols. Firebombs to garrisons. To her, it seemed like she had fallen into a dark abyss with no escape in sight. But the more she fell, the more the voice called upon her, sweet yet sick. At first, the call felt random, indecipherable, even nauseating: a serenade that felt like she was screaming. \n\nBut as she communed with nature more and more, she began to understand. No longer her hatred of the Inquisition hold any sway over her. She no longer felt hate against the mutants, the inquisition or anyone for that matter. Spending day after day in doubt, the day she finally opened her heart to the Maiden of Wishes became the day she found her calling: to preserve the living at all costs, for she knew that the dark abyss of hatred brings nothing but the most wicked of evils. \n\nNow all who roam the lands of Cascadia know the legend of Brigid, the Wishmaiden witch-warrior with a heart of silvered steel: the firstmost champion of the Fair Lady Within The Lake."
+  nf_rot.5.a:0 "All bowed before Brigid's might."
+
+  nf_rot.6.t:0 "Jacobia's Rotpurgers!"
+  nf_rot.6.d:0 "The Wishmaidens were idiots to think they had any chance against his Rotpurgers.  The fight was swift—the Rotpurgers gaining the upper hand from their hidden stations.  Jacobia revelled in the chaos. It was a dream come true—for long he had waited for an opportunity to squash the pesky Wishmiadens. \n\nOnce it was over, a satisfying silence loomed over the warehouse.  "Pillage the corpses and burn the bodies!"  Jacobia barked.  The Rotpurgers quickly got to work. He stood before the body of the Lady, spitting a lob of blood against her dress.  He sneered at the peaceful air around her corpse.  Even in death, she didn't seem to give a shit. \n\nThough, Jacobia was always curious to see the wench beyond the mask, and so he reached over and pulled it off, scoffing at the sight.  "Of course, it's a fuckin' ghoul," he murmured, shooting another bullet into the Lady's gnarled forehead. \n\n"'Hoss, you might wanna take a look at this," said a Purger.  Jacobia stood up and followed him outside with the other Rotpurgers in tow. \n\nTo his amusement, just out near the woods and by an old stream, huddled around and overturned was Samson and his Infinity Knights.  "...And will it be ours, now?"  Samson's voice rang out boisterously. \n\n'Don't count on it,' read the bright text on his goddamned ball. \n\n"Would you look at that?"  Chuckled Jacobia.  "Hey, Samson," he waved, raising his gun as the golden-masked maniac looked up.  "Bye, Samson!""
+  nf_rot.6.a:0 "And so the evening ended with a clean purge."
+
+  nf_rot.7.t:0 "The Lady's Wishmaidens!"
+  nf_rot.7.d:0 "The Wishmaidens had won their brief skirmish with the Rotpurgers. The Lady watched calmly in the centre of the madness; bullets, shrapnel, and blood merely grazing her.  And when the madness died down, she stepped towards Jacobia's body.  His breath was haggard, and his mask had been torn off, revealing a grimace accentuated with maddened, glazed eyes. \n\n "...Bitch," spat Jacobia. \n\nThe Lady stooped down before him.  "Save your strength," she whispered as she grabbed his face and tilted it towards her.  "For I will set you free."  Though her grip on Jacobia's jaw tightened none, he trembled beneath her.  Blood began to leak from his nose, eyes, and ears.  She dropped him back to the ground soon after. "Scavenge what you can.  Then we leave," she commanded, brushing past her Wishmaidens as they scurried to work. \n\n"What of Samson?"  A Wishmaiden asked her. \n\n"We find him after we stoke this fire," said the Lady, glancing over his shoulder.  "There is no escape for fools.""
+  nf_rot.7.a:0 "The moon shone happily upon the Lady."
+
+  nf_rot.8.t:0 "Samson's Infinity Knights!"
+  nf_rot.8.d:0 "'Ask again later' the Infinity Orb said, and then 'Ask again later', and again and again.. The orb had continued to advise caution for long hours, even as the sounds of gunfire and war shrieks rang out from inside the old town where the meeting was undoubtedly taking place. Huddled in the dark under the rotting boat. \n\n"Divine Gods, Is it time to attack?"  Samson asked once more. An Infinity Knight failed to stifle a cough.  Barely legible in the flickering flame of his old vault-tec branded lighter, came the answer, 'It is decidedly so'. With an hoot of delight Samson tossed away his makeshift shelter and stood up tall before his shivering warriors. Holding high the snapping jaws of his bear trap gauntlet, Samson gave the knights the signal to charge. \n\nThe battle that had taken place between the Wishmaidens and Jacobia's followers had been savage and bloody, with most of the fighters on both sides dead when the Infinity Knights arrived. The Wishmaidens had come out on top in the fray but had lost too many of their number to give the new arrivals more than a token resistance. The Lady herself had been kneeling over Jacobia as he slowly died beneath her, her attention focused on the fallen former leader and their parting words. \n\n"VICTORY BEHOLD!"  Cried Samson as he crashed through a window.  When the mad leader of the Knights landed on steady ground, he sprinted at Lady with his bear trap gauntlet at the ready. The Lady had time to do no more than sigh."
+  nf_rot.8.a:0 "The wisdom of the Orb prevails as always!"
+
+  nf_rot.9.t:0 "A Gift Horse's Mouth"
+  nf_rot.9.d:0 "Jacobia listened to the satisfying crunch of snow under his boots as he climbed up the tall hill to look down into the valley. It had been a short time since they set up the old battered GECK they'd won off those wacko dancer types, and as far as Jacobia knew they were supposed to change the land and make it nice to live in. He and his fellow Purgers certainly deserved such a reward after all the hard work and sacrifices they'd made, so he allowed himself a bit of optimism about what he'd find in the formerly barren area. Those good vibes crumbled as he reached the top and looked down. \n\nInside his mask Jacobia's jaw dangled wide open for a while as his guards made their way up onto the ridge behind him, their gasps and murmuring reflecting his own feelings. There were trees and bushes where before there had been rocks and snow sure, but in place of the healthy greens he'd expected were garish reds and bruised purples that hurt his eyes to look at. It was different but uncomfortably similar to the strange red forests the Bonedancers had made their homes in, at least before they'd been burned out. Numbly, Jacobia slid down the hillside towards the valley to take a closer look with his guards close behind. \n\nThey soon walked under the unsettling canopy, listening to the strange scraping noise the leaves made as the wind gently rustled them. Dangling from the branches of the trees were large, blue fruits covered in strange growths, and the bushes were heavy-laden with thorny berries in yellow and orange. The entire wood had an odor that crept through their masks and reminded them of the rancid stink of burning ghouls. Only the spring that had arisen in the heart of his new forest looked right to them, burbling cheerfully amidst the unnatural. Jacobia had seen more than enough then and marched right back out of the valley until they were well clear of the trees before saying one thing to his men."
+  nf_rot.9.a:0 ""Torch this fucking atrocity.""
+
+  nf_rot.12.t:0 "Atop the Needle"
+  nf_rot.12.d:0 "Samson rarely reflected on the past, the voices of the gods usually filled his mind with a cacophony of directions on how to meet the future instead. Standing before the great tower that climbed unto the very heavens, only more impressive for the mass of shattered buildings that sprawled around it, gave Samson a moment of pause however. A moment of clarity in his normally muddy mind as he thought about what life had been like only a few scant years ago. From being the beaten dog of the Rotpurgers to scrabbling through the wilderness alone to his discovery of the mystic sphere that had been his companion through all the many battles he and his knights had fought to reach this ground. \n\nGrateful tears ran beneath his mask, as were it not for the Infinity Mind he'd have truly had no clue where to begin on the long and twisted journey that had brought him to this moment of glory. His faithful knights waited behind, unwilling to interrupt their prophet in his moment of reverie, instead watching for any threats that may emerge from the ruins. Finally the moment had passed and Samson tightly grasped at the wondrous Orb that had given him so much guidance before asking quietly "Are we home?". A quick shake and the reply was a simple: 'Yes'. \n\nUnable to contain himself any longer Samson let loose with a shriek of pure exhilaration and joy before running towards the tower. His knights scrambled to follow their leader as his mania sent him speeding ahead. Calling back to them Samson cried "THE GODS HAVE GIFTED US A NEW HOME, ONE FROM WHICH WE CAN VIEW THEIR MANY WORKS FROM ON HIGH!". Soon he was dashing up the great stairs that spiralled around the outside of the tower, nearly hurling himself from the edge in his excitement multiple times. Despite the exertion, Samson still had the energy to scream as he reached the top..."
+  nf_rot.12.a:0 ""WELCOME TO CASTLE SAMSON!""
+
+  nf_rot.10.t:0 "Infinity Knights in Infinity Armor"
+  nf_rot.10.d:0 "Many great prizes had fallen into the hands of Sir Samson and his endless Infinity Knights but few were more wonderful than the stores of power armour claimed from the wastrels of Washington. It took many days for the Orb to reveal the secrets of proper use and maintenance of the mighty suits of armour but its wisdom had eventually provided as always. Now it was time to decide who among the ranks would be given the right to one, and Samson had assembled his greatest warriors to be judged of their worthiness. \n\nWalking down the line and stopping before each of the eager champions Samson made a grand ceremony of each judging; holding out the great Orb to the prospect as he shouted to the heavens “SHOULD THIS KNIGHT BE GRANTED A SHIMMERING SUIT OF SHINING STEEL TO BATTLE AT MY SIDE FOREVER!? SPEAK YOUR JUDGEMENT GODS”. A cheer went out as the first in line, Sir Lucas, read aloud the reply: 'You May Rely On It'. Samson himself cheered along, leaping in joy. \n\nThis process was repeated with each hopeful Knight. Cheers erupted at each of the Orb's chosen worthies, silence greeted those who were told that the reply was hazy and to ask again later, and conciliatory pats on the back were given to those for whom the outlook was not so good. The sun rose to its apex and began to set before the judging was over, and Samsons powerful cries to the gods had taken a decidedly hoarse tone, but when it was over there stood a proud group of heroes ready to be suited up and fight unto infinity."
+  nf_rot.10.a:0 ""LET US PRESS ONWARD!""
+
+  nf_rot.11.t:0 "Not So Divine After All"
+  nf_rot.11.d:0 "While Jacobia had died attempting to cling to his power and dark dreams in battle, Samson and his followers had sat out the fray paralyzed by indecision. Their ridiculous orb had failed to give them any guidance in the days after the 'meeting', and the Wishmaidens were able to round up the bulk of them at their leisure. Samson himself had emerged from his hideout with slumped shoulders to peacefully surrender after The Lady had called for him to consult the ball on whether he'd been defeated. Upon the face of the Orb he clutched tight in his hands were written the words 'Without a Doubt'. \n\nDetermined to expose the distinctly mortal nature of her one time ally, The Lady held a public gathering to humiliate the mad prophet. She began by executing the Orb itself, shattering it with the weight of her contempt and skepticism. Held in chains and stripped of his armor and mask, Samson gave out a choked squeal as it fell to powder in her hands. His former followers watched on and flinched as hot tar was then poured over him and feathers were dumped over the top. As his bonds were released the former knight fled shrieking and gibbering from the scene, into the forest. \n\nThose who had once viewed his word as holy knew then that he and his Orb had been nothing in the face of the Lady and her power, renouncing their former loyalties to Samson. They would assimilate with the Wishmaidens in the days that followed, giving themselves to a new cause peacefully. As for the former prophet of infinity he would be spotted sometimes afterwards roaming the wastes, always mumbling endless questions to which no answers were forthcoming."
+  nf_rot.11.a:0 "There goes my hero... Just kidding."
+
+  nf_rot.13.t:0 "By The Cold River"
+  nf_rot.13.d:0 ""Apple slice?"  Creusa offered to the girl sat on a large, mossy rock.  The girl shook her head, prompting Creusa to leave the slices on a bedding of leaves, right beside the rest of the food she'd been preparing for the upcoming fast. \n\n The girl sank deeper into her coat, her gaze flickering to the green-crusted mask she'd thrown aside.  "Why did you bring me here?"  She asked. \n\n "Why did I?"  Creusa mused with a knowing chuckle.  They'd found the girl just recently; hidden under the collapsed remains of a Rotpurger stronghold.  Whoever her father was, he was most likely gone; ran or killed, the difference mattered none.  "I hear you are hurt, and that you refuse treatment from the Clergy." \n\n Creusa could sense it then; a risible, clawing fear of something resentful and hopeless.  She recognized it.  It was the sort that drowns you in the woods.  She grabbed the girl's arm and pulled her to the ground before she could run.  The coat shucked off from the girl's shoulders, revealing untreated burns all over her skin.  The girl's fierce gaze demanded she'd be let go.  \n\n "What would you have then if I did?"  Countered Creusa who shoved a cup of soup in the girl's other hand.  "Drink this, and then, when you are finished, you can lose yourself to the wilds." \n\n Hesitantly, the girl obliged, drinking slowly from the cup.  In the meantime, Creusa fetched her coat and placed it back gently onto her shoulder, humming a slow song as she did.  The girl watched in wonder as the inflammation of her burns died down—the blotches slowly fading."
+  nf_rot.13.a:0 "She stayed."
+
+  nf_rot.14.t:0 "Honour To The Wishmaidens"
+  nf_rot.14.d:0 "Creusa had noted the bright festivity in the air. Colourful flags fluttered lightly in the wind.  Armoured Sisters pedalled carts of curious, small paper rockets and barrels of fruit.  A celebration of something, the Lady had concluded, was anticipated. \n\n Brigid's gaze wandered to all sorts of spectacles as they passed through the entrance of the Sisterhood's capital. "This feels new," Brigid murmured, eying the armour of a passing Sister.  "It's different.  It's not like what we saw near Washington." \n\n "I don't think the standard should be Washington," half-jested the Lady.  "But I've heard echoes of their clause.  They are worth our time and our hearts." \n\n They were soon flagged down by an armoured woman.  She was without her helmet— her ashen hair was striking.  She introduced herself as Paladin Minerva and guided the two to Sentinel Honour's office.  "Open the door, Pentecostes!"  Minerva ordered the two stationed in front of the office. \n\n The armoured Sisters cut their bickering.  One of them gave the Paladin a firm nod, straightening their posture to something rigid, and the other looked curiously between Bridig and Creusa, an excited bounce in their leg \n\n "Johanna," the square-shouldered Sister coughed, prompting their partner to stand upright.  They pulled the chamber doors open, gesturing politely for the Wishmaidens in. \n\n Through the doors, Honour greeted them with a warm smile.  "Lady of the Wishmaidens," the Sentinel began.  "I've heard much about you.  Tales and legends of someone magical, all of which I assume are true?" \n\n Creusa chuckled, "Why, it depends on what you've heard."  She took a seat, extending her slim hand to Honour, and continued:"
+  nf_rot.14.a:0 ""But allow me to tell you my own story.""
+
+  nf_rot.15.t:0 "An Infinite Audience"
+  nf_rot.15.d:0 "Gabrielle had been sitting on the half-burnt bench outside the old Spokane Post Office for hours, waiting for someone to either let her in or tell her to leave. Screwy little Samson was holding court here today, for reasons that probably made sense to him, and she was hoping to get a meeting with the man. Each time she asked one of his knights whether she could see him, he'd walk off and then return to say something pointless like 'hazy reply' or 'better not tell you now'. It was infuriating, and she'd have left if her stubbornness had let her, but she kept asking  whenever a knight walked by. Finally one of them opened the door and told her "Signs point to yes!" \n\nInside they pointed her to the office where Samson was decorating the walls with scribbles of his infinity symbol. He'd been cheerfully mumbling to himself when Gabrielle entered, but turned his golden gaze upon her after she made a few less than subtle coughs. In his off hand rested the Orb that was his constant companion. She'd never actually seen it before and it was less impressive than she'd imagined; just a dull black ball with a small window looking inside. \n\nSamson looked down to the Orb too, following her gaze before looking back up and loudly greeting her, nearly shouting "Welcome to the Study of Sir Samson! The gods have given you this chance to ask me whatever you like! What do you want!?" \n\nFlinched before running through the pitch she'd had ready in her mind for the last few days "My name is Gabrielle, I used to help the old 'purgers and I want to help you and your… subjects move into the future. Putting together workshops, setting up farms, teaching some of these brutes how to do more than fight and raid, that kind of thing. Now that those ghastly monsters have been cleared out of Spokane we have the chance to build a proper na- kingdom here. I just need resources and authority to get to work." As she finished speaking, Gabrielle tried to gauge what Samsons reaction was or even if he'd been paying attention. There was an uncomfortable silence as his empty golden eyes stared into hers. \n\nFinally he broke the quiet by suddenly holding up the Orb and shrieking towards the ceiling..."
+  nf_rot.15.a:0 ""GODS! WHAT IS YOUR COUNSEL? SHOULD I GRANT THIS GABRIELLE HER WISH?""
+
+  nf_rot.16.t:0 "The Thorned Rose"
+  nf_rot.16.d:0 "Jacobia leaned back in his new plush chair and idly tossed darts across the room at a ratty photograph on the wall. For now he'd made his headquarters in one of the old hotels that still stood tall amongst the ruins of Spokane; moving back into Vault 100 was the dream but he wanted to have some of the grunts scrub the ghoul stink out of it first. His thoughts ran over the last few weeks and how well it had all gone. The home of his fathers had been reclaimed, the ghouls had been put to the torch, that sneaky Bitch of the Lake was dead and poor, stupid, crazy Samson lay in a shallow grave right next to her. “I should be happy” he said to no one in particular, using a dart to pick at his teeth before tossing it after the others. \n\nHis thoughts were interrupted by a knock at the door followed by a muffled voice saying “Boss, we've got her downstairs. You want her?” \n\n“Yeah get her ass up here, let's get this over with.” Jacobia replied while hurling the last dart irritably. \n\nGabrielle has been both a help and a pain in his ass over the last few years. There was no doubt she'd been loyal, or that she hadn't wanted to reclaim Vault 100 from the zombies as much as anyone else. She had proved that by staying when so many of the 'purgers women had snuck off to join the wishfucks. She was useful too; smart, good at setting up workshops and finding fuel for the flame smiths, but she was so damn mouthy and too smart. She kept trying to get his men to stop and build shops and farms and shit like that. Jacobia wanted to rally his men for something greater, to build an army of fire that would purge all those rotten ghouls from the wasteland. Now maybe she had a point, a crusade couldn't march very without food or weapons, but maybe it didn't matter if she had a point if she was pissing him off. \n\nFootsteps could be heard approaching as he stood up and put his mask back on. He grunted in response to the knock that came after, and two of his men led Gabrielle into the room. Jacobia could tell the woman had no idea how close to disaster she was, as she wasted no time in speaking up “Jacobia, I'm glad you wanted me to come see you! Now that Vault 100 and Spokane are pure there's so much more to be done. We have a chance to build something to really last here.” \n\nThe silence that filled the room after she finished did seem to make her nervous then, and she looked to the men flanking her and back to Jacobia looking for any sign of agreement. Jacobia walked slowly to look out the window and waved for her to come closer before the silence was finally broken by--"
+  nf_rot.16.a:0 "Alright, tell me what you fuckin' need."
+  nf_rot.16.b:0 "The Sound of Shattering Glass and a Thud..."
+
+  nf_rot.17.t:0 "Samson, The Truest Demigod"
+  nf_rot.17.d:0 "If you were to ask anyone how ‘The Redemption Of Washington’ played out, the story would be consistent in each iteration.  Word of mouth forges fantasies, shucking aside the finer, insignificant details, but the epic of Samson cannot be enjoyed withouts its ‘yes’, ‘maybe’s’, and ‘no’s’ \n\n So, The Redemption Of Washington, as all storytellers would begin, “Is a tale of love and loss.  Of gods against men.  Of the Infinity Knights giving Washington a run for their fucking money.” \n\n They say Samson charged through the front of the Immortal’s lair, knocking up his adversaries with his bear trap gauntlet in one hand and the Infinity Orb in his other.  The Infinity Knights flooded in behind him like a cape of divine glory. \n\n And when they had scourged Washington of heretics, Samson stepped atop the Immortal’s body and raised the Infinity Orb to the sky.  He asked the Gods if glory was theirs—a crackle of thunder echoed from the distance—and in the truest, brightest words, it told him: \n\n “Without a doubt.”"
+  nf_rot.17.a:0 "And he was then crowned the Slayer of the Immortal."
+
+  nf_rot.100.t:0 "Without a Doubt"
+  nf_rot.100.d:0 "The ball decrees it is time!"
+  nf_rot.100.a:0 "Long live King Samson!"
+
+  nf_rot.101.t:0 "Try Again Next Time"
+  nf_rot.101.d:0 "The ball decrees we must wait... Oh well."
+  nf_rot.101.a:0 "Hopefully soon..."
+
+  nf_rot.102.t:0 "Maybe Later"
+  nf_rot.102.d:0 "Samson's shoulders sag. "The gods are quiet today. Please, go wait outside, fair Gabrielle. I will speak with them more." he says, sighing wearily."
+  nf_rot.102.a:0 "Um, alright?"
+
+  nf_rot.103.t:0 "Absolutely"
+  nf_rot.103.d:0 "Samson yips, "So it shall be! Come, come-- let us speak more of this..." he said, gesturing for Gabrielle to take a seat..."
+  nf_rot.103.a:0 "Hope for the best?"
+
+  #violet's localization for the vault100 tree
+
+  #characters
+
+  ROT_lady_of_the_lake_name:0 "The Lady of the Lake"
+  ROT_lady_of_the_lake_desc:0 "Few have ever set eyes upon the aptly-named Lady of the Lake, once known as Creusa, a mysterious woman who communciates through sickly song and corrupted words as the psykers of Oregon do. Those who had forsaken their past championed her name under the Wishmaidens tribe-- now, however, the tribe has become more a clergical order. Creusa guides the Wishmaidens with a soothing (if not terrifying) hand and words that turn foes into friends. She envisions a word crafted in her ideals and will stop at nothing to achieve them."
+  ROT_god_king_samson_name:0 "God-King Samson"
+  ROT_god_king_samson_desc:0 "A deranged sycophant under Jacobia's reign of the Rotpurgers, Samson's ambition outweighs his own moral code. Left with nothing but a mystical orb to guide him, he has since assumed the title of Infinity Prophet. At the mantle, Samson seeks to claim what he sees as his divine birthright. For him, adversaries are but future subjects, ignorant to his grandeur. By the end of his scourge, should he succeed, all will bow to the one they call Samson."
+  ROT_brigit_name:0 "Archdruid Brigid"
+  ROT_infinity_name:0 "The Great Infinite"
+
+  #########################
+  ### Shared Focus Tree ###
+  #########################
+
+  #shared focus tree - openers
+
+  vault100_1:0 "Legacy of Vault 100"
+  vault100_1_desc:0 ""Better living-- underground." What a joke."
+  vault100_2:0 "Acclimating to the Waste"
+  vault100_2_desc:0 "Washington can be such a terrible place, its lands fraught with snow and its people quiet and untrusting..."
+  vault100_3:0 "Tensions Rise"
+  vault100_3_desc:0 "We will fight for our lives. We will never let them take our home!"
+
+  #shared focus tree - phase one
+
+  v100_left_1:0 "Opening Caps Stashes"
+  v100_left_1_desc:0 "Spokane's a sad place, abandoned from when the Immortal came through long ago. Let's tear it apart and see if we can't find any caps they left behind."
+
+  v100_ind_1:0 "Harvesting by the River"
+  v100_ind_1_desc:0 "Some of the old settlements had rudimentary purifiers set up. If we refurbish some of them and scrap the ones that are too nasty, we'll be drinking cleaner water out in the fields more often in no time."
+
+  v100_ind_2:0 "Reinventing the Wheel"
+  v100_ind_2_desc:0 "Repairing things, or just getting things to work in general isn't going to work if we don't know what the hell we're already looking at. Let's study what we can!"
+
+  v100_ind_3:0 "Clearing Mole Rats"
+  v100_ind_3_desc:0 "Tons of the old factories in the area are still in good condition, preserved under several feet of snow. The only issue in our way is the locals. Taking some time to clear it out will allow us to move in in full."
+
+  v100_right_1:0 "Reminding The Youth"
+  v100_right_1_desc:0 "We've fought for Vault 100 for years. Many of the younger folks around haven't seen it firsthand; showing them what it's like, what they'll have to do... Hopefully it'll seep in."
+
+  v100_ind_4:0 "Weapons Salvage"
+  v100_ind_4_desc:0 "Many of the local militias didn't stand a chance against the Brotherhood after they came through. Unless we pick up where they left off, we won't either."
+
+  v100_ind_5:0 "The War For Vault 100"
+  v100_ind_5_desc:0 "No more messing around this time. What's ours is ours, and anyone who says otherwise isn't long for this world."
+
+  #shared focus tree - unique war decs (different foci for different flavor/just in case)
+
+  ROT_war_declaration:0 "The War For Vault 100"
+  ROT_war_declaration_desc:0 "Prepare for a homecoming."
+  TOC_war_declaration:0 "The War For Vault 100"
+  TOC_war_declaration_desc:0 "We must defend the vault, no matter the cost."
+
+  #shared focus tree - phase two
+
+  vault100_consider_it_asskicked:0 "Reunited, At Long Last"
+  vault100_consider_it_asskicked_desc:0 "We've done it! Now no one can contest our claims on the Vault!"
+
+  v100_idea_1:0 "Vault-Tec Manuals"
+  v100_idea_1_desc:0 "There's plenty of old manuals on construction and wasteland resettlement within the Vault. Why not take a look into one or two?"
+
+  v100_research:0 "Using the Lab"
+  v100_research_desc:0 "The laboratories here within Vault 100 aren't what they used to be, but they're still something."
+
+  v100_resource_1:0 "Reinvigorating the Water Chip"
+  v100_resource_1_desc:0 "Without having to worry about anyone taking the Vault, we can dedicate more time to restoring the water chip within the vault itself."
+
+  v100_war_prep_1:0 "Taking No Chances"
+  v100_war_prep_1_desc:0 "Our battles thus far have been incredibly challenging. Let's make sure the next one isn't so bad."
+
+  v100_infra_1:0 "Maintenance & Countenance"
+  v100_infra_1_desc:0 "There's several old workshops from before the Vault lost its maintenance crew. Why not take some measures to reinvigorate them?"
+
+  v100_factory_1:0 "Vault-Tec Workshop: Consumer Goods!"
+  v100_factory_1_desc:0 "In some of the old manuals, it emphasizes the importance of a good construction and consumption base. Let's see what we can do!"
+  v100_manpower_1:0 "Pulling from Wastelanders"
+  v100_manpower_1_desc:0 "There's plenty of people out there that would love the safety of a Vault. It's not that far of a leap to assume some of them would be willing to help out around the place, either!"
+
+  vault100_based_pp:0 "The Fate of Spokane"
+  vault100_based_pp_desc:0 "With the ruler of Spokane in place, we have only the future to look towards..."
+
+  v100_factory_2:0 "Vault-Tec Workshop: Tools to Survive!"
+  v100_factory_2_desc:0 "In some of the old manuals, it emphasizes the importance of a good set of mutant-neutralizing tools. Let's set up what kits we have!"
+  v100_manpower_2:0 "Pulling from Raiders"
+  v100_manpower_2_desc:0 "With our control over Spokane, there's plenty of unyieldy folks looking for opportunities. Why not offer them a chance at our side?"
+
+  v100_infra_2:0 "Vault-Tec Prep Kits"
+  v100_infra_2_desc:0 "There's plenty of old bits and bobs in the Vault's storage areas. Let's take them out and see if we can't use them for something better!"
+
+  v100_resource_2:0 "Turning It On And Off Again"
+  v100_resource_2_desc:0 "The old generator took quite a beating in the battles we had over the years. Without anyone to try and blow it up these days, there's nothing to stop us from getting it back online."
+
+  v100_war_prep_2:0 "Peace-Time Propaganda"
+  v100_war_prep_2_desc:0 "Just because we won doesn't mean we're invincible. If we can stoke a bit of a fear in the others, there'll be a fire for when we next get around to protecting home."
+
+  v100_idea_2:0 "Vault-Tec Survival Guides"
+  v100_idea_2_desc:0 "The Overseer's terminal had several logs on surviving the topside. Even if we're acclimated to it ourselves, some of the tips it mentions could be useful to consider."
+
+  v100_resources_bonuses:0 "Advanced Salvaging"
+  v100_resources_bonuses_desc:0 "With some of the knowledge we picked up from the terminal, we've been able to learn new ways of salvaging advanced materials from old pieces of hardware. Wowzers!"
+
+  #######################
+  ### The Old Country ###
+  #######################
+
+  #the old country localization will go here! :D
+
+  #############################
+  ### Rotpurgers ### Samson ###
+  #############################
+
+  ROT_samson:0 "Let's Play 8-Ball"
+  ROT_samson_desc:0 "There lived a certain man, in Spokane long ago..."
+
+  ROT_samsons_teachings:0 "The Wiles of Samson"
+  ROT_samsons_teachings_desc:0 ""Take heed, ye feeble fools, For we are but men and women without thought! A demand has been made of us, and so too I shall make a tactician out of every soup-drinker among us." --Samson the Great"
+
+  ROT_elite_trainers:0 "Only The Great May Serve His Name"
+  ROT_elite_trainers_desc:0 ""Alas! Only the most elite of men may cling to my banner as babes upon a breast; any less shall be reserved to the work of women of yore!" --Samson the Great"
+
+  ROT_samson_caps_exploitation:0 "Tribute, For His Glory"
+  ROT_samson_caps_exploitation_desc:0 ""The weak will never understand why men such as me require such luxurious things. Is the demands of the Infinity-Prophet not good enough for you? Have I not provided enough for you? All I ask for is fine leather and deep trolleys full of fine wine; I deserve no less!" --Samson the Great"
+
+  ROT_muster_crusaders:0 "Gather The Infinity Knights"
+  ROT_muster_crusaders_desc:0 ""Listen, and obey, my noble Knights of ye Infinites! The darkness comes on high, and so too come its demons, bearing gifts of a darker prince. We must be ready, lest his arrival catch us off guard!" --Samson the Great"
+
+  ROT_experience:0 "Behold! Holy Grenades From His Majesty!"
+  ROT_experience_desc:0 ""Behold, my children of the great infinity, grenades imbued with the knowledge of stars beyond and stars within. How do you make use of such powers, you ask? Simply pull upon the pin, and toss it as any other! The knowledge contained therein shall blow the minds of the nonbelievers into unholy giblets." --Samson the Great"
+
+  ROT_samson_timberline_goal:0 "Samson, On-Sight"
+  ROT_samson_timberline_goal_desc:0 ""Egads! We crave wood for our wood stocks. Without great fires to burn away the heretical snow, how else may I be expected to feel so cozy and comfortable? Do you wish upon me nightmares, my children? Do you wish for the Infinity-Prophet's predictions to be addled by a lack of sleep?!" --Samson the Great"
+
+  ROT_greasing_lancers:0 "Weapons Befitting of Such Station"
+  ROT_greasing_lancers_desc:0 ""Your guns are made of broken metal and your bullets are half-thought spikes. No more! Go to the stores, spread across the countryside, ask wayward travelers-- learn from them on how to make weaponry that does not leave me weeping!" --Samson the Great"
+
+  ROT_exalt_warriors:0 "Tithings of Glory"
+  ROT_exalt_warriors_desc:0 ""Even with our fledgling beginnings, my noble Knights of the Infinite, take note of my words: thinking before you act, as per this strange children's book I have discovered, is paramount! Otherwise, of course, you're just a bully!" --Samson the Great"
+
+  ROT_edgemere_tribes:0 "Ye Olde Wishmaiden Brides"
+  ROT_edgemere_tribes_desc:0 ""The Wishmaidens, oh, the Wishmaidens! How kind they are to have helped my ascent to Vault 100. Find them, hug them, marry them! Let them know of our love and appreciation. Let it be said, here and today, that the sexist ways of our benefactors is to remain in the past!" --Samson the Great"
+
+  ROT_incendiary_rounds:0 "Blessed Rounds"
+  ROT_incendiary_rounds_desc:0 ""Children of the Infinite! Stop using your silly little guns with your silly little hands and listen to me! The Infinity Orb has spoken to me once more, and it brings glorious purchase. Cast out your flamers, o never-do-wells of Spokane, and heed my call: we shall make endow our very ammunition with the blessed fires of the infinite." --Samson the Great"
+
+  ROT_food_for_the_fire:0 "Feasts for the Worthy"
+  ROT_food_for_the_fire_desc:0 ""Some among you have proven yourselves amazing within the eyes of myself and the great infinite beyond. Know that I am always watching, and that I shall continue to watch... As my fork pierces this strange fried meat's bosom, and as you work to further our industrial calls." --Samson the Great"
+
+  ROT_underground_workshops:0 "Squashing Littlefeet"
+  ROT_underground_workshops_desc:0 ""There exists strange creatures within the woods of the Timberline. I care not what they are, or how big their feet may be. Kill them and scour the very woods they cuddle within!" --Samson the Great"
+
+  ROT_samsons_support_tech_bonus:0 "The Placebo Effect"
+  ROT_samsons_support_tech_bonus_desc:0 ""Know this! Your pain, your festering wounds, your concerns... They are not unheard, my children. Some among you question my power, claiming I am but a pretender... But would a pretender do as I am about to, and simply cast away your pain with but a single SNAP?" --Samson the Great"
+
+  ROT_living_forever:0 "Ritualistic and Really Unnecessary Sacrifices"
+  ROT_living_forever_desc:0 ""It may seem pointless, or perhaps even deranged, but I assure that you simply do not understand the powers that be among us. Allow me, in my infinite wisdom, to take your belongings and turn them into something greater!" --Samson the Great"
+
+  ROT_samson_collection:0 "Metal Fans, Much Like Leaf Fans, But... Louder"
+  ROT_samson_collection_desc:0 ""Think back to when we were but children, and you were regaled with tales of Pharoahs and Egypts and Sphinxes and whatnot, and they fed their kingly and queenly masters with grapes and waved great leaves like fans to keep them cool. Though there exists no leaves as such, I demand it be done with sheet metal, to better glorify that which is SAMSON!" --Samson the Great"
+
+  ROT_ballistic_weaponry:0 "The Fine Works of Sir Samson"
+  ROT_ballistic_weaponry_desc:0 ""It is only natural that I take credit for your work, my children, as you are all extensions of me just as I am an extension of what you really want, which is to empower my ability to do all that is good, for all-time!" --Samson the Great"
+
+  ROT_samson_wbh_goal:0 "To Infinity..."
+  ROT_samson_wbh_goal_desc:0 ""I am but a humble demigod, seeking to scour all whom think they inspire any fear within me." --Samson the Great"
+
+  ROT_wbh_seattle_capital:0 "Where Demons Dare Not Go"
+  ROT_wbh_seattle_capital_desc:0 ""Do you not remember the legends of Seattle? A city devoured by the terror of a Brotherhood of darkness? An immortal king, residing below within bloodied halls? Then you know the gravity of our situation-- a brave tale of men and women who conquered the land where demons did not dare to go." --Samson the Great"
+
+  ROT_wbh_salvage:0 "Next, a Crown of Gold!"
+  ROT_wbh_salvage_desc:0 ""Whats yours has become mine." --Samson the Great"
+
+  ROT_samson_coalescence:0 "And Beyond!"
+  ROT_samson_coalescence_desc:0 ""Know me by my titles, foolish travelers: I am Samson, first of his name, liberator of Vault 100, Prophet Most-Infinite, the Crazy-Eight, and now, slayer of the Immortal..." --Samson the Great"
+
+  ##############################
+  ### Rotpurgers ### Jacobia ###
+  ##############################
+
+  ROT_jacobia:0 "The Scourge of Spokane"
+  ROT_jacobia_desc:0 ""The fuckin' Wishmaidens tried to kill me. Samson's dumbass tried to outplay me. Yet here I am, a king in his castle, and the world couldn't be less ready..." --Jacobia"
+
+  ROT_rage_of_the_machine_1:0 "Decades-Long Grudges, Free At Last"
+  ROT_rage_of_the_machine_1_desc:0 ""Grozdan and his bunch of science freaks are gone. Now, we're calling the shots, and the boys are excited for what comes next." --Jacobia"
+
+  ROT_rage_of_the_machine_2:0 "The Next Step (Of Many, We Assume)"
+  ROT_rage_of_the_machine_2_desc:0 ""We'll be mobilizing soon in full. I'm not gonna let a single one of these wacky sons of bitches around us keep fucking around unattended to. By the time we're done, Cascadia's gonna be up in flames, and I'm gonna be the one choosing who gets to live long enough to see the ashes." --Jacobia"
+
+  ROT_jacobia_factories:0 "Buildin' An Army"
+  ROT_jacobia_factories_desc:0 ""I don't give a damn who the fuck tries to get in the goddamn way. Kill 'em if they disagree, and if anyone else tries something, kill them too. Get some factories up. Crusade didn't fuckin' end with Grozdan's jackass." --Jacobia"
+
+  ROT_recruit_them_all:0 "Call of the Crusade"
+  ROT_recruit_them_all_desc:0 ""I don't give a fuck if somebody needs a teddy bear to go to sleep. If they aren't carrying a flamer, they're pointless. Gather everybody, "retired" or otherwise. We're going soon." --Jacobia"
+
+    v100_ind_4:0 "Weapons Salvage"
+    v100_ind_4_desc:0 "Many of the local militias didn't stand a chance against the Brotherhood after they came through. Unless we pick up where they left off, we won't either."
+  ROT_jacobia_equipment:0 "Turning Nozzles and Pouring Gas"
+  ROT_jacobia_equipment_desc:0 ""You want to see a ghoul burn real bright, yeah? Turn it up all the way. The sound their skin makes is just like Deathclaw bacon, I swear." --Jacobia"
+
+    v100_ind_5:0 "The War For Vault 100"
+    v100_ind_5_desc:0 "No more messing around this time. What's ours is ours, and anyone who says otherwise isn't long for this world."
+  ROT_the_great_crusade_seattle:0 "The Tower of Babel"
+  ROT_the_great_crusade_seattle_desc:0 ""Doesn't matter who's calling the shots over there in that snowed-over hell. We're gonna march in there and burn it all out." --Jacobia"
+
+    #shared focus tree - unique war decs (different foci for different flavor/just in case)
+  ROT_the_great_crusade_koover:0 "Burying the Winterborn"
+  ROT_the_great_crusade_koover_desc:0 ""Bastard's stuck around for what, a couple 'wars' now? Why don't we pay him and his band of brothers a good old-fashioned house call?" --Jacobia"
+
+    ROT_war_declaration:0 "The War For Vault 100"
+    ROT_war_declaration_desc:0 "Prepare for a homecoming."
+    TOC_war_declaration:0 "The War For Vault 100"
+    TOC_war_declaration_desc:0 "We must defend the vault, no matter the cost."
+  ROT_the_great_crusade_syilx:0 "Scouring the Lake"
+  ROT_the_great_crusade_syilx_desc:0 ""Some of the boys brought up somethin' real interesting-- supposedly, those freaks in Koover were helping out the Syilx or whatever they're called. Know what that means? There's bound to be some out there, too." --Jacobia"
+
+    #shared focus tree - phase two
+  ROT_bounties_of_the_northern_armories:0 "Bounties of the Northern Armories"
+  ROT_bounties_of_the_northern_armories_desc:0 ""Well, would you look at that? Guess these idiots had something worth taking after all. Let's tear it apart and see if we can't have a little bit of fun ourselves." --Jacobia"
+
+    vault100_consider_it_asskicked:0 "Reunited, At Long Last"
+    vault100_consider_it_asskicked_desc:0 "We've done it! Now no one can contest our claims on the Vault!"
+  ROT_the_great_crusade_bdt:0 "Ending the Bone Dances"
+  ROT_the_great_crusade_bdt_desc:0 ""Those bastards out in Oregon, they got whole-ass red forests all made by some hooded ghouly freak. Sounds like it could use a burning or two." --Jacobia"
+
+    v100_idea_1:0 "Vault-Tec Manuals"
+    v100_idea_1_desc:0 "There's plenty of old manuals on construction and wasteland resettlement within the Vault. Why not take a look into one or two?"
+  ROT_the_great_crusade_timberline:0 "Timbering the Timberline"
+  ROT_the_great_crusade_timberline_desc:0 ""Our mission's gonna need a route into Oregon if we want to pull it off. Those lumberjacks we've always heard about sound like they'll make for a great inroads." --Jacobia"
+
+    v100_research:0 "Using the Lab"
+    v100_research_desc:0 "The laboratories here within Vault 100 aren't what they used to be, but they're still something."
+  ROT_one_fucked_geck:0 "One Fucked Up GECK"
+  ROT_one_fucked_geck_desc:0 ""One of the bastards tried to tell us about this thing we found before we burnt his skin into his bones. Judging off what some of the old guard says, it sounds like it's some kind of fucked up GECK. Why don't we throw this thing somewhere and see what it does?" --Jacobia"
+
+    v100_resource_1:0 "Reinvigorating the Water Chip"
+    v100_resource_1_desc:0 "Without having to worry about anyone taking the Vault, we can dedicate more time to restoring the water chip within the vault itself."
+  ROT_scourge_of_heaven:0 "I Liked Steam Better, Anyway"
+  ROT_scourge_of_heaven_desc:0 ""After all of this, you know, I been thinking-- why don't we up our game? Those folks in the mountains, they got steam. We know fire better than anybody else, but steam... That's new. I dunno about all of you, but I've been thinkin'... And I think I just like killing. Doesn't matter for who, or why. Why not for these bastards?" --Jacobia"
+
+    v100_war_prep_1:0 "Taking No Chances"
+    v100_war_prep_1_desc:0 "Our battles thus far have been incredibly challenging. Let's make sure the next one isn't so bad."
+  #######################################
+  ### Rotpurgers ### Lady of the Lake ###
+  #######################################
+
+    v100_infra_1:0 "Maintenance & Countenance"
+    v100_infra_1_desc:0 "There's several old workshops from before the Vault lost its maintenance crew. Why not take some measures to reinvigorate them?"
+  ROT_ladyofthelake:0 "Damned Be The Wicked"
+  ROT_ladyofthelake_desc:0 "And so shall her will be made true."
+
+    v100_factory_1:0 "Vault-Tec Workshop: Consumer Goods!"
+    v100_factory_1_desc:0 "In some of the old manuals, it emphasizes the importance of a good construction and consumption base. Let's see what we can do!"
+    v100_manpower_1:0 "Pulling from Wastelanders"
+    v100_manpower_1_desc:0 "There's plenty of people out there that would love the safety of a Vault. It's not that far of a leap to assume some of them would be willing to help out around the place, either!"
+  ROT_nutrient_of_the_land:0 "Nutrients of the Earth"
+  ROT_nutrient_of_the_land_desc:0 "The Lady's teachings tell us much of the surrounding land, and what can be gathered from it.  Her sophisicated methods are beyond any wastelander's craftsmanship, and when we ask her where she'd accrued her knowledge, her voice softened; "For there was a time I devoted my life to nature.""
+
+    vault100_based_pp:0 "The Fate of Spokane"
+    vault100_based_pp_desc:0 "With the ruler of Spokane in place, we have only the future to look towards..."
+  ROT_bring_me_samson:0 "Bring Me The One They Call Samson"
+  ROT_bring_me_samson_desc:0 "That coward slinks about in the shadows, whispering dastardly things into that strange ball of his. Many believe him to be a god, empowered by his magic ball. This theory will be disproven with tar and feather."
+
+    v100_factory_2:0 "Vault-Tec Workshop: Tools to Survive!"
+    v100_factory_2_desc:0 "In some of the old manuals, it emphasizes the importance of a good set of mutant-neutralizing tools. Let's set up what kits we have!"
+    v100_manpower_2:0 "Pulling from Raiders"
+    v100_manpower_2_desc:0 "With our control over Spokane, there's plenty of unyieldy folks looking for opportunities. Why not offer them a chance at our side?"
+  ROT_eradicating_the_purgers:0 "The Grass May In Fact Be Greener"
+  ROT_eradicating_the_purgers_desc:0 "There is no hope for those who have lost their way.  What we grant is mercy.  The Rotpurgers must be vanquished from this land, lest they grow into abominations. Scour the lands and salt the earth, my children! Leave not a single fool standing."
+
+    v100_infra_2:0 "Vault-Tec Prep Kits"
+    v100_infra_2_desc:0 "There's plenty of old bits and bobs in the Vault's storage areas. Let's take them out and see if we can't use them for something better!"
+  ROT_gifts_of_the_clergy:0 "Gifts Of The Clergy"
+  ROT_gifts_of_the_clergy_desc:0 "The Clergy of the Lake has assembled with the fall of the Rotpurger ranks. Now, with none to oppose them, they spread the faith across Spokane unfettered."
+
+    v100_resource_2:0 "Turning It On And Off Again"
+    v100_resource_2_desc:0 "The old generator took quite a beating in the battles we had over the years. Without anyone to try and blow it up these days, there's nothing to stop us from getting it back online."
+  ROT_gracious_maidens:0 "A Motherly Gaze Upon All Things Pure of Heart"
+  ROT_gracious_maidens_desc:0 "Legend states that the Lady was a scientist--one of the founding, great minds of Vault 100 in its early years. But as she was the first to change, the first to be different and use the powers gifted to her, she was exiled.  For our Lady, the one who loves, let us share her legacy!"
+
+    v100_war_prep_2:0 "Peace-Time Propaganda"
+    v100_war_prep_2_desc:0 "Just because we won doesn't mean we're invincible. If we can stoke a bit of a fear in the others, there'll be a fire for when we next get around to protecting home."
+  ROT_gather_the_huntsmen:0 "Gather the Huntswomen"
+  ROT_gather_the_huntsmen_desc:0 "Not all of the women from Vault 100 joined the Lady's faith. Those that stayed behind have no one else to answer to, and so they shall be welcomed with open arms."
+
+    v100_idea_2:0 "Vault-Tec Survival Guides"
+    v100_idea_2_desc:0 "The Overseer's terminal had several logs on surviving the topside. Even if we're acclimated to it ourselves, some of the tips it mentions could be useful to consider."
+  ROT_peacekeeping_the_panhandle:0 "Peacekeeping the Panhandle"
+  ROT_peacekeeping_the_panhandle_desc:0 "The Damned and the Wicked still stalk the woods of Spokane with ill intent dripping from their filthy fingernails. We shall gather a force, a clerical caste, who shall stand against such adversaries with a fire in their hearts instead of in their hands."
+
+    v100_resources_bonuses:0 "Advanced Salvaging"
+    v100_resources_bonuses_desc:0 "With some of the knowledge we picked up from the terminal, we've been able to learn new ways of salvaging advanced materials from old pieces of hardware. Wowzers!"
+  ROT_working_tirelessly:0 "Toiling Day and Night"
+  ROT_working_tirelessly_desc:0 "The works of the Lady demand great deeds to precede them. Such is the price of the clergy's protection. We must make efforts to keep up with the demands of the protectorate."
+
+    #######################
+    ### The Old Country ###
+    #######################
+  ROT_open_the_gates:0 "Washington: A Home For All"
+  ROT_open_the_gates_desc:0 "Our protection does not go unnoticed. As horrors smother Seattle and the land heals from the war for Vault 100, people return from lands on high. We will welcome them with open arms."
+
+    #the old country localization will go here! :D
+  ROT_gifts_of_the_wishmaidens:0 "Our Fair Lady's Blessings"
+  ROT_gifts_of_the_wishmaidens_desc:0 "This land was fought for upon faith and blood; though the faith has changed hands several times over, our way of life has been solidifed and the vacuum of power has been filled. We shall tolerate no more grievances from any daring foes."
+
+    #############################
+    ### Rotpurgers ### Samson ###
+    #############################
+  ROT_brotherhood_of_darkness:0 "The Brotherhood of Darkness"
+  ROT_brotherhood_of_darkness_desc:0 ""A flame of madness is stoked to the west. Terrors brew within the depths of the city. Armour I remember seeing variations of in my younger years on flickering screens and schematics.  It must be liberated, if Spokane is to remain safe..." --The Lady"
+
+    ROT_samson:0 "Let's Play 8-Ball"
+    ROT_samson_desc:0 "There lived a certain man, in Spokane long ago..."
+  ROT_the_maidens_passion:0 "Twice-Scourged, Yet Still Something To Prove"
+  ROT_the_maidens_passion_desc:0 "Spokane has seen many horrors; held many masters. Methods, nay, precautions must be taken to ensure our continued presence."
+
+    ROT_samsons_teachings:0 "The Wiles of Samson"
+    ROT_samsons_teachings_desc:0 ""Take heed, ye feeble fools, For we are but men and women without thought! A demand has been made of us, and so too I shall make a tactician out of every soup-drinker among us." --Samson the Great"
+  ROT_fanatics_of_the_steam:0 "Braving The Mists of Idaho"
+  ROT_fanatics_of_the_steam_desc:0 "Maniacal rhythms beat like sickened drums in the canyons to our south. Men of a rival faith, one born of sickened steam, fester unyieldy minds. They must be stopped, lest their crusades turn our way."
+
+    ROT_elite_trainers:0 "Only The Great May Serve His Name"
+    ROT_elite_trainers_desc:0 ""Alas! Only the most elite of men may cling to my banner as babes upon a breast; any less shall be reserved to the work of women of yore!" --Samson the Great"
+  ROT_banish_the_dark:0 "Banishing the Dark"
+  ROT_banish_the_dark_desc:0 "We will ravage the ruins of Seattle, scouring every last inch for these nefarious men adorned with their accursed metals. If need be, we will tear them from their shells and subject them to the very frosts they spilled blood upon."
+
+    ROT_samson_caps_exploitation:0 "Tribute, For His Glory"
+    ROT_samson_caps_exploitation_desc:0 ""The weak will never understand why men such as me require such luxurious things. Is the demands of the Infinity-Prophet not good enough for you? Have I not provided enough for you? All I ask for is fine leather and deep trolleys full of fine wine; I deserve no less!" --Samson the Great"
+  ROT_harness_the_steam:0 "Lakes of the Sky"
+  ROT_harness_the_steam_desc:0 ""For what is Steam, if not a Lake in the sky?  And what is a Lake in the sky, if not our birthright?" --Hahli, Cleric Exigent"
+
+    ROT_muster_crusaders:0 "Gather The Infinity Knights"
+    ROT_muster_crusaders_desc:0 ""Listen, and obey, my noble Knights of ye Infinites! The darkness comes on high, and so too come its demons, bearing gifts of a darker prince. We must be ready, lest his arrival catch us off guard!" --Samson the Great"
+  ROT_teachings_of_our_fair_lady:0 "The Fair Lady's Declaration"
+  ROT_teachings_of_our_fair_lady_desc:0 "It has been many years since the Lady last spoke; each word recorded in a dossier kept by the Cleric Exigents within the Halls-Under-The-Lake. Today, she said another sentence... \n\n "Blessed are the peacemakers.""
+
+    ROT_experience:0 "Behold! Holy Grenades From His Majesty!"
+    ROT_experience_desc:0 ""Behold, my children of the great infinity, grenades imbued with the knowledge of stars beyond and stars within. How do you make use of such powers, you ask? Simply pull upon the pin, and toss it as any other! The knowledge contained therein shall blow the minds of the nonbelievers into unholy giblets." --Samson the Great"
+  ROT_wishmaidens_core_wbh:0 "Immortal No Longer"
+  ROT_wishmaidens_core_wbh_desc:0 "The hellion that has scourged Washington, the remnants of this 'Brotherhood,' are eradicated. The people look to us as heroes, even if burdened by their fears. \n\n Alas, now, Washington belongs to us."
+
+    ROT_samson_timberline_goal:0 "Samson, On-Sight"
+    ROT_samson_timberline_goal_desc:0 ""Egads! We crave wood for our wood stocks. Without great fires to burn away the heretical snow, how else may I be expected to feel so cozy and comfortable? Do you wish upon me nightmares, my children? Do you wish for the Infinity-Prophet's predictions to be addled by a lack of sleep?!" --Samson the Great"
+  #ROT_sisterhood:0 "A Pact Forged From Our Blood"
+  #ROT_sisterhood_desc:0 "placeholder"
+
+    ROT_greasing_lancers:0 "Weapons Befitting of Such Station"
+    ROT_greasing_lancers_desc:0 ""Your guns are made of broken metal and your bullets are half-thought spikes. No more! Go to the stores, spread across the countryside, ask wayward travelers-- learn from them on how to make weaponry that does not leave me weeping!" --Samson the Great"
+  ROT_wishmaidens_core_hea:0 "The Gates Have Fallen"
+  ROT_wishmaidens_core_hea_desc:0 "The Steam has been broken, and now the Lady's banner rides high. \n\n All is as it should be."
+
+    ROT_exalt_warriors:0 "Tithings of Glory"
+    ROT_exalt_warriors_desc:0 ""Even with our fledgling beginnings, my noble Knights of the Infinite, take note of my words: thinking before you act, as per this strange children's book I have discovered, is paramount! Otherwise, of course, you're just a bully!" --Samson the Great"
+  ####ideas
+
+    ROT_edgemere_tribes:0 "Ye Olde Wishmaiden Brides"
+    ROT_edgemere_tribes_desc:0 ""The Wishmaidens, oh, the Wishmaidens! How kind they are to have helped my ascent to Vault 100. Find them, hug them, marry them! Let them know of our love and appreciation. Let it be said, here and today, that the sexist ways of our benefactors is to remain in the past!" --Samson the Great"
+  vault100_kicking_each_others_ass:0 "The War for Vault 100"
+  vault100_vault_building:0 "Vault-Tec Workshopping"
+  vault100_resources_idea:0 "Vault-Tec Survival Guides"
+
+    ROT_incendiary_rounds:0 "Blessed Rounds"
+    ROT_incendiary_rounds_desc:0 ""Children of the Infinite! Stop using your silly little guns with your silly little hands and listen to me! The Infinity Orb has spoken to me once more, and it brings glorious purchase. Cast out your flamers, o never-do-wells of Spokane, and heed my call: we shall make endow our very ammunition with the blessed fires of the infinite." --Samson the Great"
+  rot_rage_against_the_dying_of_the_light:0 "The Unholy Crusade"
+  rot_the_crusade_never_ends:0 "Legacy of the Crusade"
+
+    ROT_food_for_the_fire:0 "Feasts for the Worthy"
+    ROT_food_for_the_fire_desc:0 ""Some among you have proven yourselves amazing within the eyes of myself and the great infinite beyond. Know that I am always watching, and that I shall continue to watch... As my fork pierces this strange fried meat's bosom, and as you work to further our industrial calls." --Samson the Great"
+  rot_samson_mania:0 "Samson's Mania"
+  rot_samsons_elite:0 "Sons of Samson"
+  rot_flamerounds:0 "Incendiary Rounds"
+  rot_the_proven_few:0 "Ways of The Chosen"
+  rot_slayer_of_the_immortal:0 "Samson, Slayer of the Immortal"
+
+    ROT_underground_workshops:0 "Squashing Littlefeet"
+    ROT_underground_workshops_desc:0 ""There exists strange creatures within the woods of the Timberline. I care not what they are, or how big their feet may be. Kill them and scour the very woods they cuddle within!" --Samson the Great"
+  rot_the_wishmaidens_gifts:0 "Gifts from the Maidens"
+  rot_all_may_serve:0 "All May Serve"
+  ROT_sisterhood:0 "Warriors of a Similar Caliber"
+  ROT_sisterhood_desc:0 "The Lady speaks of a group of great warriors to the east: the Sisters of Steel. Supposedly, they are likeminded individuals... Perhaps we can find a common thread?"
+  rot_peacekeepers:0 "Peacekeepers of Her Righteous Name"
+
+    ROT_samsons_support_tech_bonus:0 "The Placebo Effect"
+    ROT_samsons_support_tech_bonus_desc:0 ""Know this! Your pain, your festering wounds, your concerns... They are not unheard, my children. Some among you question my power, claiming I am but a pretender... But would a pretender do as I am about to, and simply cast away your pain with but a single SNAP?" --Samson the Great"
+  #decisions
+
+    ROT_living_forever:0 "Ritualistic and Really Unnecessary Sacrifices"
+    ROT_living_forever_desc:0 ""It may seem pointless, or perhaps even deranged, but I assure that you simply do not understand the powers that be among us. Allow me, in my infinite wisdom, to take your belongings and turn them into something greater!" --Samson the Great"
+  samson_pondering_the_orb:0 "Pondering the Orb..."
+  samson_ponders_an_orb:0 "Samson ponders the orb..."
+
+    ROT_samson_collection:0 "Metal Fans, Much Like Leaf Fans, But... Louder"
+    ROT_samson_collection_desc:0 ""Think back to when we were but children, and you were regaled with tales of Pharoahs and Egypts and Sphinxes and whatnot, and they fed their kingly and queenly masters with grapes and waved great leaves like fans to keep them cool. Though there exists no leaves as such, I demand it be done with sheet metal, to better glorify that which is SAMSON!" --Samson the Great"
+  #tooltips
+  women_are_fucking_badass_pog_tt:0 "§g"The villains of this world did well to fear me once; now, they shall do so again, this time with a sledge twice-honed, and a faith stronger than ever." --Archdruid Brigid, Slayer of Alexander the Merciless§!"
+  force_adoption_got_me_like_tt:0 "§g"How did do that to my arm?  Was it the soup?"  The girl asked her on their way back.  \n\n The Lady could only chuckle.  "It was love."§!"
+  women_are_fucking_badass_tt:0 "The noble cleric §YArchdruid Brigid§! returns to Spokane as a unit leader!"
+  join_sisters_tt:0 "We will §Mjoin together in a faction§! with the §YSisters of Steel§!, should they border us and exist!"
+  samson_likes_balls_and_is_gay_and_this_is_canon_tt:0 "Unlocks §YPondering the Orb§! decisions!"
+  claims_on_oregon_tt:0 "We will gain §Gclaims§! on all of §YOregon§!!"
+  samson_touches_balls_tt:0 "Samson will consult the ball..."
+  samson_has_a_husband_and_loves_him_a_lot_and_we_love_him_for_it:0 "Samson will see if it is time for another war..."
+
+  hea_steam_power_safety:0 "Gifts of the Steam"

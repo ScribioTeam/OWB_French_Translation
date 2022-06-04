@@ -22,6 +22,8 @@
 
   myronlegacy:0 "Myron's Legacy"
   myronlegacy_desc:0 ""
+  
+  tdn_van_graff_advisors:0 "Van Graff Advisors"
 
   granitecompany:0 "The Granite Company"
   granitecompany_desc:0 ""
@@ -66,7 +68,7 @@
   newrenopolice:0 "New Reno Police"
   newrenopolice_desc:0 ""
 
-  chopshop:0 "Chop shop"
+  chopshop:0 "Chop Shop"
   chopshop_desc:0 ""
 
   deal1:0 "Deal I"
@@ -84,7 +86,7 @@
   hellhammers:0 "Hell Hammers"
   hellhammers_desc:0 ""
 
-  thraddimmortals:0 "Thradd's Immortals"
+  thraddimmortals:0 "Chains That Bind"
   thraddimmortals_desc:0 ""
 
   capsforloyalty:0 "Caps for Loyalty"
@@ -93,8 +95,8 @@
   renomilitarycouncil:0 "Reno Military Council"
   renomilitarycouncil_desc:0 ""
 
-  enclavetechnician:0 "Enclave Technicians"
-  enclavetechnician_desc:0 ""
+  enclavetechnician: "Immigrant Technicians"
+  enclavetechnician_desc: ""
 
   oldstash:0 "Old Stash"
   oldstash_desc:0 ""
@@ -128,5 +130,35 @@
 
   guardiansnewworld:0 "Guardians of the Old World"
 
-  tamenewworld:0 "Taking Back Our Country"
-  tametexas:0 "The Only Star That Matters"
+  vangraff_guns_rule: "Our Own Best Customers"
+  van_graff_advisors: "Van Graff Advisors"
+
+  brokenideals:0 "Broken Ideals"
+  brokenideals_desc:0 ""
+
+  brokenideals2:0 "Broken Ideals"
+  brokenideals2_desc:0 ""
+
+  brokenideals3:0 "Broken Ideals"
+  brokenideals3_desc:0 ""
+
+  brokenideals4:0 "Mutant Control"
+  brokenideals4_desc:0 ""
+
+  brokenidealsreject:0 "The Only Way"
+  brokenidealsreject_desc:0 ""
+
+  brokenidealsreturn:0 "Peace and Prosperity"
+  brokenidealsreturn_desc:0 ""
+
+  ghostsofthenight:0 "Ghosts of the Night"
+  ghostsofthenight_desc:0 ""
+
+  mutantsoldiers:0 "Mutant Soldiers"
+  mutantsoldiers_desc:0 ""
+
+  furryfury:0 "Furry Fury"
+  furryfury_desc:0 ""
+
+  consensus:0 "The Chimera Consensus"
+  consensus_desc:0 ""

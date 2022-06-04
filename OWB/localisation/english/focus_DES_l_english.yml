@@ -71,9 +71,30 @@
   des_vargas:0 "Snake Vargas"
   des_vargas_desc:0 "Despite a bad knee and an ageing mind, Snake Vargas has decided not to retire. This was due in part to all of his viable replacements clearly wishing to side with a local power, rather than continuing on with the dream of the Rangers. A safe and unified wasteland should be the goal of the organization, not political squabbling."
 
-  des_tread:0 "Don't Tread On Me"
-  des_tread_desc:0 "The Desert Rangers are a fiercely independent organization under Vargas, and one that has been defending their territory for innumerable years with little worry. The Snake's ultimatum to the NCR, the Brotherhood, and any other organization attempting to impose their will upon Nevada is the same. Don't even try."
-
+  des_rogue_ranger:0 "The War Against Evil"
+  des_rogue_ranger_desc:0 "The Ranger Unification Treaty was a farce, and one that the Rogue Ranger rejects wholesale! Her victory against Vargas in their duel is proof to the Rangers that this is truth beyond all else. The Rogue Ranger's ultimatum to the NCR, the Brotherhood, and any other organization attempting to impose their will upon them is the same. Don't even try."
+  
+  des_evil_that_men_do: "The Evil That Men Do"
+  des_evil_that_men_do_desc: "Man is a diseased race, and pain is that disease. It’s something cruel and twisted, spreading violently as it grabs hold over the hearts and minds of those weak and vulnerable. The only way to cure the disease, therefore, is to take that sickness and attack it directly, pull it from the roots so it’s left to simmer-in-the-nowhere.\nA ranger’s job is to fight those holding this wickedness. To fight evil, whatever shape it takes."
+  
+  des_the_burdens_we_carry: "The Burdens We Carry"
+  des_the_burdens_we_carry_desc: "We all have our scars. The wounds that others put on us, the little insults, the smaller injuries. Our mind is a prison for these things, the older we get the more these bleak memories become the only thing we can remember.\nMaybe one day, when this is all over - when the world has been struck free of evil once and for all we will all have what we have been owed our entire life - a peaceful, quiet world. Still as night.\nMaybe someday, but for now these are our burdens to carry.\nMy burdens, to carry."
+  
+  des_raider_parasites: "Raider Parasites"
+  des_raider_parasites_desc: "Nothing in the world is more satisfying than caving in the skull of a rot-brain, putrid Raider parasite. They are truly lower than the low - the lowest breed of man that can exist. A race so vile, so repulsive they cannot even sustain themselves.\nThey must be eradicated, there is no other way."
+  
+  des_repulsive_gangster_filth: "Repulsive Gangster Filth"
+  des_repulsive_gangster_filth_desc: "Raiders, Gangsters. What’s the difference? Both indulge in the worst aspects of humanity. A gangster hooks you for life on facsimiles of hope while a Raider parasite merely robs you as if you were an animal.\nThe veneer of “civilization” is all that separates Reno from the Raiders scum. Take away their caps, their cities and lights - what are they left with? Nothing."
+  
+  des_call_to_action: "Call to Action"
+  des_call_to_action_desc: "Anyone can be a hero! To strike down evil is a noble pursuit. The rangers are the true embodiment of the heroes of old - knights to bring down the fallout and make the world good.\nSurely there will be those in Reno who are willing to hear our call, take up arms and become a Ranger like us?"
+  
+  des_the_lies_they_were_told: "The Lies They Were Told"
+  des_the_lies_they_were_told_desc: "Naturally everyone, in some way, gambles in their life. Taking risks, making bets, weighing options. The “Casino”, however, is a truly evil institution.\nA fake place, with fake lights and fake sounds that promises a hope that isn’t there. Many give everything they have to these places, in the hopes that, if they are just lucky enough, they might make it big and get out from the fallout.\n\nLies, all of it. Let’s give these wastelanders real hope."
+  
+  des_the_flame_of_rightousness: "The Flame of Righteousness"
+  des_the_flame_of_rightousness_desc: "We all have our roots, and ours points us back to California. 71’ was the year of the Unification Treaty, where the Rangers first gave up their sovereignty and joined under the Republic.\nThe worst decision they ever made. How can you expect to fight back against the evils of the Wasteland while listening to the orders of a man elected by an evil people? To destroy evil you have to defeat it at its roots, in the minds and hearts of people.\n\nA fire, strong enough so that no evil can thrive in it. That’s what we are, Rangers for the people of the Wasteland , the Wasteland Rangers.\n\nGoodness will come to California in our wake."
+  
   des_veterans:0 "Veteran Guidance"
   des_veterans_desc:0 "Who needs outside help when one has decades of real world experience at their fingertips? The senior members of the Desert Rangers have long taught their juniors the art of survival, charity and inevitable violence."
 
@@ -93,7 +114,7 @@
   des_pact_desc:0 "Nevada is a small place in a big wasteland, surrounded by enemies and filled with internal strife. A pact with local powers, such as New Reno, Vault City, and New Vegas should enable us to further project our power."
 
   des_intervention:0 "Ranger Interventionism"
-  des_intervention_desc:0 "The Desert Rangers must be willing to go far and wide in order to protect the innocent from the terrors of the wasteland. "
+  des_intervention_desc:0 "The Desert Rangers must be willing to go far and wide in order to protect the innocent from the terrors of the wasteland."
 
   des_echobase:0 "Station Echo"
   des_echobase_desc:0 "Ranger Station Echo is a former military base by the same name. Refurbishing its hangars and runways is essential to allowing us to project our air power."
@@ -101,17 +122,17 @@
   des_funding:0 "Nevada Funding"
   des_funding_desc:0 "We might not have the overwhelming economic funding of the NCR, or the military industry of the Brotherhood of Steel, but we've got the people of Nevada on our side. We won't be lacking in anything."
 
-  des_outriders:0 "Ranger APC"
+  des_outriders:0 "Ranger Vehicles"
   des_outriders_desc:0 "Transporting Rangers to and from the fray is a tricky business, but the eggheads in homebase have begun putting together armoured transports for that singular purpose. A spearhead with which we shall dispense justice. "
 
   des_recruitment:0 "Nevada Recruitment Drives"
   des_recruitment_desc:0 "The Desert Rangers need a steady supply of men and women to stay competitive with larger powers. Recruitment drives are an unfortunate necessity within the wasteland."
 
-  des_razor:0 "Hell Razor"
-  des_razor_desc:0 "Hell Razor doesn't particularly care for the NCR, but he's one of the few survivors of our recent and disastrous expedition to Arizona, which left dozens of Rangers dead at the hands of the Legion. He understands their status as a threat, and more importantly, understands that the NCR is the only faction in all of the wasteland that is capable of stopping them."
+  des_reforming_the_rebel_rangers:0 "Reforming the Rebel Rangers"
+  des_reforming_the_rebel_rangers_desc:0 "The reason Vargas came north and sought to challenge the Rogue Ranger was a matter of principle. Seeing Rangers fighting against eachother was the perimount antithesis to what the Rangers should be doing as an organization. The NCR is the best hope for the Wasteland, and Vargas is going to join the winning team."
 
   des_legionprep:0 "Preparing for the Legion"
-  des_legionprep_desc:0 "Hell Razor and his cohort remember the dozens of Legion warriors who struggled to deal with their older fortifications and barbed wire. They offer this knowledge to those charged with fortifying the capital of Shady Sands, just in case they ever need a glorious last stand."
+  des_legionprep_desc:0 "Vargas and his cohort remember the dozens of Legion warriors who struggled to deal with their older fortifications and barbed wire. They offer this knowledge to those charged with fortifying the capital of Shady Sands, just in case they ever need a glorious last stand."
 
   des_leadership:0 "Hands off Leadership"
   des_leadership_desc:0 "Hell Razor has never been a believer in the notion of drills or training mattering once you're out in the field. The only thing that can teach a man to survive is surviving, and the only thing that can teach someone how to kill is killing. "
@@ -120,10 +141,10 @@
   des_mechanized_desc:0 "It's a long way from the Citadel to the banks of the Colorado River, and if Hell Razor is ever going to hope to support the NCR in their war, he's going to need to be capable of shipping his men to that location quickly."
 
   des_californians:0 "California Recruits"
-  des_californians_desc:0 "Hell Razor's near constant radio broadcasting about the dangers of the Legion, and the threat it poses to the people of California, has caused NCR citizens in their thousands to travel north in an attempt to join the elite fighting force."
+  des_californians_desc:0 "Vargas's near constant radio broadcasting about the dangers of the Legion, and the threat it poses to the people of California, has caused NCR citizens in their thousands to travel north in an attempt to join the elite fighting force."
 
-  des_treaty:0 "Ranger Unification Treaty"
-  des_treaty_desc:0 "After much political debate, the Ranger Unification Treaty has come into being. Acting as the newest element of the NCR's military, the Desert Rangers are charged with the defence of Nevada, and the protection of the NCR as a whole."
+  des_treaty:0 "Ranger Re-Unification Treaty"
+  des_treaty_desc:0 "After much political debate, the Ranger Re-Unification Treaty has come into being. Acting as the newest element of the NCR's military, the newly titled Nevada Rangers are charged with the defence of Nevada, and the protection of the NCR as a whole."
 
   des_ncrfunding:0 "NCR Funding"
   des_ncrfunding_desc:0 "Following their acceptance into the NCR, the Desert Rangers have gained a massive increase in funding, as they have earned a sizeable chunk of the NCR's military budget for this year. This, coupled with Hell Razor's demands for increased military funding have brought prosperity to the people of Nevada."
@@ -138,7 +159,7 @@
   des_aviation_desc:0 "While never have been particularly important in the Air Force, we have numerous schematics and machines capable of producing parts used in their construction. This makes us naturally capable of supporting and repairing a small air fleet of our own."
 
   des_bear:0 "War with the Bear"
-  des_bear_desc:0 "A war with the NCR is a war without end. Tens of thousands of soldiers rise up against us, only to be thrown back again and again. Our lines may thin, but we continue to learn what it means to fight against the odds."
+  des_bear_desc:0 "A war with the NCR is a war without end. Tens of thousands of soldiers rise up against us, only to be thrown back again and again. Our lines may thin, but we continue to learn what it means to fight against the odds.\nWe will reunify with our brothers, but on our own terms."
 
   des_attrition:0 "War of Attrition"
   des_attrition_desc:0 "Like waves crashing down on a rock by the sea, the war with the NCR often requires rapid and desperate defensive actions. Learning how to entrench is essential to our survival against such odds."
@@ -211,3 +232,50 @@
 
   des_honours:0 "NCR Honours"
   des_honours_desc:0 "We have proven that, with the help of our allies to the south, order can be restored even in the face of great adversity. Let those who seek to challenge us and our enemies tremble, for we are the honoured allies of the Republic and the guardians of its ideals."
+
+  des_fall_of_the_republic: "Fall of the Republic"
+  des_fall_of_the_republic_desc: "With the Republic's end we have to do what we can to reaffirm its legacy! Lets march down south in the defence of liberty!"
+  
+  des_vargas_capstone: "Honour and Glory"
+  des_vargas_capstone_desc: "Standing alongside California is important to our legacy and heritage. The protection of the individual, the freedom to live as one wants."
+   
+  des_ranger_wg_reno: "Bringing Down Gangsters"
+  des_ranger_wg_reno_desc: "Gangsters don't deserve to live, a class that relies entirely on the exploitation of wastelanders. We will remove them by force, if we must."
+  
+  des_ranger_wg_ykz: "The Yakuza"
+  des_ranger_wg_ykz_desc: "The Yakuza are a twisted, isolationist band of scum and villainy. The wasteland will be better when we wipe them off the face of the globe."
+  
+  des_greater_capstone: "Form Ranger Citadel"
+  des_greater_capstone_desc: "A home for all rangers, everywhere. A place where we can call home - the old Guardian Citadel serves that role for us! From its ruins Ranger Citadel will be born, the new capital of Ranger activity in the wasteland."
+  
+  des_unique: "Esmeralda Secured"
+  des_unique_desc: "The Rogue Ranger has done it! All of Esmeralda County has been cleansed of evil, raiders, tribals and savages driven out with much prudence. Its time for us to redefine Esmeralda, making it truly land of law and order."
+  
+  des_nevada_1: "Refurbish Carousel Equipment"
+  des_nevada_1_desc: "Carousel, the show that was ran in TV-Town for who-knows-how-long, has gathered quite a bit of equipment here that we can use in the creation of new weapons. Lets put it to use!"
+  
+  des_nevada_2: "Humans Triumphant"
+  des_nevada_2_desc: "The machines here weren't even human, they were abominations of flesh and steel, unfit for living alongside humanity as equals. How do you arrest someone with the ability to destroy a city block at the slightest provocation?"
+  
+  des_nevada_3: "Clearing Out TV-Town"
+  des_nevada_3_desc: "Quite a bit of TV-Town was dedicated to the production of Carousel, by clearing out this land we can have more living space for honest, hard working wastelanders."
+  des_wg_on_grd: "Destroy the Tech Cultists"
+  des_wg_on_grd_desc: "These "Guardians" are no better then the Brotherhood terrorists who raided the NCR! Lets take them out for the safety of the wasteland!"
+  des_wg_on_south: "Raiders and Savages"
+  des_wg_on_south_desc: "Both monsters, in their own right. Lets take both of them out - secure Esmeralda for ourselves!"
+  des_showdown: "A Good Old Fashioned Stand-off"
+  des_showdown_desc: "Looks like not everyone is keen to the way the Rogue Ranger is running things.."
+  
+  des_vargas_reconcilliation_1: "Confronting Our Past"
+  des_vargas_reconcilliation_1_desc: "If we take a step back and really think about it the damage we caused to these people in our conquests is going to take years to mend. This isn't heroic, and we only have ourselves to blame."
+  des_vargas_reconcilliation_2: "Rethinking the Treaty"
+  des_vargas_reconcilliation_2_desc: "The Unification Treaty, at the end of the day, wasn't all so bad of a deal for the Desert Rangers. If it wasn't for the prospect of unity with the NCR Rangers the Desert Rangers might have faded away entirely into irrelevancy. Without the Rogue Ranger to stand up against Vargas and his moderates the amount of people who wish to reconsider rejoining the NCR is growing by the day!"
+  
+  des_rejected_unification_treaty: "Refused the Unification Treaty"
+  des_rogue_ranger_hates_quote_bad_guys_quote: "Righteousness"
+  
+  ranger_citadel: "Ranger Citadel"
+
+  veteran_ranger: "Veteran Ranger"
+  
+  des_fall_of_the_republic_tt: " As California no longer stands for our ideals, we need to make an effort to take it back!"

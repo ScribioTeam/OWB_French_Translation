@@ -12,7 +12,7 @@
   constitutional_republic_desc:0 "This faction is ruled by the people through an elected government with a constitution protecting its inhabitants rights."
   #Placeholder localization beings
   constitutional_monarchy:0 "Constitutional Monarchy"
-  constitutional_monarchy_desc:0 ""
+  constitutional_monarchy_desc:0 "This faction is ruled by a monarch who shares power in some fashion with an elected body, the duties of each defined by a constitution."
   #Placeholder localization ends
   commune:0 "Commune"
   commune_desc:0 "This faction is ruled through a collective group who pool their resources together and do their best to help the collective survive, usually being united by common goals."
@@ -24,7 +24,7 @@
 #Intellectuals
   meritocracy:0 "Meritocracy"
   meritocracy_desc:0 "This faction's hierarchy is based strictly on the ability to perform specific skills. With the most competent member amongst them acting as de-facto leader."
-  ideocracy:0 "Ideocracy"
+  ideocracy:0 "Idiocracy"
   ideocracy_desc:0 "This faction is ruled strictly according to their ideological ideals through an elite council."
   technocracy:0 "Technocracy"
   technocracy_desc:0 "This faction is ruled through an inner circle of experts in various intellectual fields who make decisions and elect a council leader to guide them."
@@ -34,6 +34,7 @@
   _theocracy_desc:0 "This faction is ruled by a messianic figure, who is the head of the nation's religious and political life."
   oligarchy:0 "Oligarchy"
   oligarchy_desc:0 "This faction is ruled by it's richest who buy their power through wealth."
+
   warlordship:0 "Warlordship"
   warlordship_desc:0 "This faction is ruled by a warlord who maintains control through power and fear, gaining strength by slaying their foes."
   benevolent_dictatorship:0 "Benevolent Dictatorship"
@@ -50,18 +51,23 @@
 #Elites
   kritocracy:0 "Kritocracy"
   kritocracy_desc:0 "This faction is ruled by a collection of religious leaders and preachers, who elect a head of state from amongst their own ranks."
+  conspiratory_oligarchy:0 "Conspiratory Oligarchy"
+  conspiratory_oligarchy_desc:0 "This faction is ostensibly ruled by a powerful person or group, but the truth behind the facade is a thick unknowable web of interconnected deceit, threats and plots. \n\nOne misstep of those in any position of power can send ripples of exiles, dismissals and deaths that seek to reorient the status quo in an endless cycle."
+  mercantile_elite:0 "Merchant Guild"
+  mercantile_elite_desc:0 "In this faction, money talks - government is run for merchants and of merchants."
+  militarist_oligarchy:0 "Militarist Oligarchy"
+  militarist_oligarchy_desc:0 "This faction is ruled by a person or persons maintaining the military establishment's loyalty, through whatever means that may entail."
 
   #Placeholder localization beings
-  militarist_oligarchy:0 "Militarist Oligarchy"
-  militarist_oligarchy_desc:0 ""
   feudalism:0 "Feudalism"
   feudalism_desc:0 ""
   tribalism:0 "Tribalism"
   tribalism_desc:0 ""
   militarist_technocracy:0 "Militarist Technocracy"
   militarist_technocracy_desc:0 ""
-  conspiratory_oligarchy:0 "Conspiratory Oligarchy"
-  conspiratory_oligarchy_desc:0 ""
   survivalism:0 "Survivalism"
   survivalism_desc:0 ""
   #Placeholder localization ends
+  #Nordicon(NOR)
+  NOR_starting_party:0 "Property of Nordikon"
+  NOR_starting_party_long:0 "Property of Nordikon"

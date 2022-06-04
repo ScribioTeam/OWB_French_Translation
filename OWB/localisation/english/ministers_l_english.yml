@@ -14,6 +14,7 @@
   mining_magnate:0 "Mining Magnate"
 
   ruthless_capitalist:0 "Ruthless Capitalist"
+  ruthless_capitalist_good:0 "Good Business Sense"
   earth_scorcher:0 "Earth Scorcher"
   fox_cruelty:0 "Fox's Cunning"
   total_war_tactician:0 "Total War Tactician"
@@ -27,6 +28,12 @@
   lucius_command_desc:0 "Our praetorians wield ballistic fists; they do not shy from the fray. Lucius, their prefect, knows how best to send troops into that fray, breaking enemy lines."
 
   monster_of_the_east_chief:0 "Monster of the East"
+  alice_mclafferty:0 "Alice McLafferty"
+  alice_mclafferty_desc:0 "Alice knows how to do business and do it well; she can satisfy the popular demand for consumerism, so long as she is given lucrative government contracts."
+  alice_mclafferty_good:0 "CEO McLafferty"
+  alice_mclafferty_good_desc:0 "Where the Crimson Caravan runs, so too does the NCR."
+  marge_le_barge_minister:0 "Marge Le Barge"
+  marge_le_barge_minister_desc:0 "One of the great north's many patriotic citizens, Marge will keep Redding going through thick and thin."
   old_world_blues:0 "Old World Blues"
   power_broker:0 "Power Broker"
   peaceful_foreman:0 "Peaceful Foreman"
@@ -48,10 +55,42 @@
   unblinking_hawk:0 "Unblinking Hawk"
   calm_leader:0 "Calm Leader"
   all_american_badass:0 "All-American Badass"
+  ncr_spy_trait:0 "The Ranger Follower Alliance"
+  ncr_air_buff:0 "The Bear's Wings"
 
+  general_oliver:0 "General Oliver"
+  general_oliver_desc:0 "As the protege of the Hero of the Mojave, Oliver has a great amount of political clout and prestige behind him; but his cautious tactics and reliance on heavy troopers leave something to be desired, in the eyes of many company men."
+
+  colonel_hsu:0 "Colonel Hsu"
+  colonel_hsu_desc:0 "Colonel Hsu is beloved by the men, and is a workhorse without compare in the top brass. Hsu knows how to manage supply lines, root out spies, and make sure the men know they are understood, and cared for: a great boon to morale."
+
+  colonel_moore:0 "Colonel Moore"
+  colonel_moore_desc:0 "Moore does not blink, does not hesitate; her ranger instincts have made her into the sort to strike hard, fast and without mercy. She can see threats before they emerge, and can have a battleplan ready before they can strike."
+
+  colonel_royez:0 "Colonel Royez"
+  colonel_royez_desc:0 "Colonel Royez earned his rank during the acquisition of the Long-15, through his great feats of bravery and strength; he is the pinnacle of what an NCR soldier can become. However, he is just one man, and cannot be everywhere at once."
+
+  chief_hanlon:0 "Chief Hanlon"
+  chief_hanlon_desc:0 "Chief Hanlon is the oldest living non-ghoul ranger, and those years of experience show. He has served as the Ranger Chief for over three decades, and many attest to his skill, tenacity and cunning. He is a living symbol of the NCR rangers."
+
+  major_dhatri:0 "Major Dhatri"
+  major_dhatri_desc:0 "Major Dhatri commands the first recon squadron, a sniper team beyond compare. With his men and women making tactical movements and reassignments, Dhatri can effectively scout, clear and prepare the ground for camps and divisions."
+
+  big_jim_chief_of_army:0 "James 'Big Jim' Marshal"
+  big_jim_chief_of_army_desc:0 "Big Jim knows how to succeed at war, and succeed quick; overwhelming displays of force! As such his appointment as chief of army will result in an increase in conscription and mobilization efficiency."
+
+  mossman_chief_of_army:0 "Ranger General Mossman"
+  mossman_chief_of_army_desc:0 "Mossman believes totally in the power of the Rangers; as such, his appointment as chief of army will result in the expansion of the NCR rangers and more rigorous training for all."
+
+  drummond_chief_of_army:0 "General Alexander Drummond"
+  drummond_chief_of_army_desc:0 "Drummond has years of experience with which to back up his appointment, and it shows in his capacity for planning, both in speed and brilliance. However, he is unpopular among the people, and his appointment will weaken the republic's standing."
+
+  admiral_doherty:0 "Admiral Doherty"
+  admiral_doherty_desc:0 "Born in a town around Port Orford, Admiral Doherty spent his teenage years in a constant struggle to protect his fishing boat against the pirates of the Maw. On one cold night in the winter, a pirate raiding party took many of the villagers, including his parents, hostage. Unable to pay the hefty ransom, villagers mourned the loss of their loved ones. It was a pirate custom to raid the coast for slaves, kidnapping everyone for ransom and selling anyone who couldn't pay to slavers in Oregon. With nowhere to go, he turned to the military, enrolling in the NCR Military Academy. \n\n Combining his military knowledge with his quick wit, he quickly rose ranks in the NCR Military. When he chose to become an admiral everyone thought this was a career suicide, due to the neglect of the naval forces. His first task to blockade the Rapids from using the Colorado to reinforce their supplies failed due to the outdated naval doctrine of the Republic. NCR Navy consisted of big ironclad ships rebuilt from the US Navy, who proved ineffective at chasing the fast boats used by the enemy. NCR also lacked the marine corps, which meant some conscripts in the navy did not even know how to swim. Taking the initiative, he employed a tactic from his past. He conscripted many of the fishing boats in the NCR coast and led a night assault to Rapids docks, burning many of their ships, capturing many more. Cutting most of the enemies supply lines in an instant earned him a lot of respect in the military, especially the High Command. \n\n After being promoted to the rank of Admiral of the Navy, he began the modernization of the NCR Navy, creating the Naval Engineer Corps. With the engineers constantly producing new prototypes, guns and naval modules under his watchful eye, Doherty is pretty confident that when Legion strikes, NCR will be the one ruling the waves."
+  the_baron:0 "The Baron"
   ranger_general:0 "Ranger General"
   unpopular_genius:0 "Unpopular Genius"
-
+  shi_researcher_reborn:0 "Research Reborn!"
   head_physician:0 "Head Physician"
   head_trader:0 "Head Trader"
   head_quartermaster:0 "Head Quartermaster"
@@ -69,6 +108,8 @@
   mr_new_vegas_desc:0 "People love to hear the tunes of Radio New Vegas, but they love to hear the soft, strong tones of Mr. New Vegas, its host. By repurposing Mr. New Vegas and his station as a propaganda network, we can use this beloved personality to increase our popular support."
   beloved_personality:0 "Beloved Personality"
 
+  vlt_citizen_carter:0 "Citizen Carter"
+  anti_ghoul_proponent:0 "Anti-Ghoul Proponent"
   michael_angelo:0 "Michael Angelo"
   michael_angelo_desc:0 "Michael Angelo is a sensitive soul who makes signs for New Vegas, increasing its beauty and brightness. His work helps people remember why they love New Vegas, and allows smaller businesses to more quickly get off the ground."
   sensitive_artist:0 "Sensitive Artist"
@@ -97,6 +138,32 @@
   adaptive_learning:0 "Adaptive Learning"
   burning_avenger:0 "Burning Avenger"
 
+  pittman:0 "Pittman"
+  pittman_desc:0 "Pittman was always a shrewd and paranoid one, even when he attempts to cover it in his own vanity, it's easy to see with those who have perception. Either way with him now the First's second he has begun to implement the tactics he learnt over the decades."
+  pittman_chief_of_army:0 "Pittman"
+
+  bonesnarl:0 "Bonesnarl"
+  bonesnarl_desc:0 "Bonesnarl was once a lowly cannibal who skulked around the Warren attempting to find supplies and those to feed on. His luck ran out when the First caught him and dunked him into the Warren's FEV pits. Now a super mutant, his hunger only grew over time and rumors believe he'll snatch slaves just to sate his hunger."
+  bonesnarl_chief_of_army:0 "Bonesnarl"
+
+  beatrice:0 "Beatrice"
+  beatrice_desc:0 "Beatrice comes from a dark and mysterious past. Only the First and Mother could possibly know her origins. She is driven to find those who \"caused it\" and won't stop until her revenge is had."
+  beatrice_chief_of_army:0 "Beatrice"
+
+  shepard:0 "Shepard"
+  shepard_desc:0 "Shepard is a new addition to the Warren's growing family, and he has already proven his worth with his improvement over the local slaves, making them work harder with cruelty, and if their job is done poorly enough, by letting Bonesnarl run loose on the local slave habitats."
+
+  mother:0 "Mother"
+  mother_desc:0 "Mother is one of the very first few the First ever dunked into the Warren, and she has grew to almost match his stature. However her mental faculty remains steadfast within her, she cares for the Warren and looks after them. Bonesnarl and Beatrice often talk with her to speak their issues and seek guidance."
+
+  scurge:0 "Scurge"
+  scurge_desc:0 "Scurge was a tribal hunter before being caught and dunked into the FEV lagoon in the Warren. Bonesnarl often uses him to hunt prize meals for him and his small clan. However he prides himself on unrelenting loyalty to the First, and not any of the followers below him."
+
+  marro:0 "Marro"
+  marro_desc:0 "Marro was a soldier just after the bombs fell, one of those who returned to the Warren to scavenge until the First caught him and dunked him. Knowing how bad the world has become he has stayed with the First, becoming one of his few closest friends and acts as countermeasure to his growing lack of mentality."
+
+  doctor:0 "Doc Torr"
+  doctor_desc:0 "Doc Torr is a brute and often psychotic mutant, if he didn't know how to heal our kind the First or one of his followers would've most likely of killed him, until he ceases to be useful however, his skills can be used to heal our warriors who return from battle."
   nightkin_terror:0 "Nightkin Terror"
   consuming_hunger:0 "Consuming Hunger"
   brains_and_brawn:0 "Brains and Brawn"
@@ -109,6 +176,40 @@
   power_of_hunger:0 "Power of Hunger"
   power_of_tactics:0 "Power of Tactics"
 
+  raul:0 "Raul"
+  raul_desc:0 "Raul was the best Vertibird Mechanic the Enclave had. After the defeat of the Enclave at the Oil Rig and Navarro he vanished with Dornan. Upon Dornan's return Raul very quickly realized the equipment they used to build Factories for their equipment needed a major overhaul and began working immediately and became the Enclaves best Engineer."
+
+  judah_kreger:0 "Captain Judah Kreger"
+  judah_kreger_desc:0 "Judah Kreger was a Captain in the Enclave at Navarro and a good one at that. His leadership skills kept several rivalries at bay in the enclave and kept them working together without any problems. When the enclave suffered defeat at the Oil Rig and Navarro his squad fled and attempted to integrate with the NCR secretly. Then Dornan came back and everything changed."
+
+  snookie:0 "Snookie"
+  snookie_desc:0 "Snookie was a Guard at Navarro base guarding a intelligent Deathclaw the enclave had taken prisoner. She was a soldier as well and excelled at entrenching a position and not moving a inch from it. When the Enclave lost at Navarro she managed to escape with Dornan and she returns with him to assist in the Enclaves final Victory."
+
+  quincy:0 "Quincy"
+  quincy_desc:0 "As head of the Technician team at Navarro Quincy was a man of great skill and responsibility. He was in charge of overseeing the work of the mechanics and maintenance crews that were at the base. When the Enclave lost at the Oil Rig and Navarro he vanished with Arch Dornan and now returns with Dornan himself."
+
+  sanders:0 "Colonel Sanders"
+  sanders_desc:0 "Sanders was the Officer in charge of overseeing Excavation at the Mariposa Military Base. His capabilities was what allowed the Enclave to procure the FEV-II sample and prevented Mutant Miners from overcoming the guards and camps just outside the base. He leads his Special Operatives with the ability of a true Enclave Officer."
+
+  daisy_whitman:0 "Daisy Whitman"
+  daisy_whitman_desc:0 "Daisy was and is a accomplished Vertibird pilot and has over 70 missions under her belt in the sky. Although she is ambivalent to the NCR, it was always her dream to each others to fly. And her old comrades are happy to offer her a job."
+  orion_moreno:0 "Orion Moreno"
+  orion_moreno_desc:0 "Orion Moreno was a accomplished soldier in Judah Kreger's squad. His experience on the field and in combat as well as his loyalty leads him to be a rather strong asset to the Enclave in general."
+
+  new_hit_and_run:0 "Grober"
+  new_hit_and_run_desc:0 "The best way to deal with humans is raiding. We can intercept their caravans and then fend off their swarms on our territory."
+
+  new_run_and_hit:0 "Larkas"
+  new_run_and_hit_desc:0 "Only weaklings retreat! Charge!"
+
+  new_larg:0 "Larg"
+  new_larg_desc:0 "Unlike other mutants, Larg finds pleasure in collecting and repairing, not crushing and destroying. This is why he was picked by Thradd to oversee the building of road network around Reno."
+
+  new_karg:0 "Karg"
+  new_karg_desc:0 "Larg's brother, Karg is also known by his unordinary for a super mutant tendencies. He even went as far as to restore a clinic on Second Street."
+
+  new_burrow_master:0 "Burrow Master"
+  new_burrow_master_desc:0 "Not much is known about this mysterious mutant. We don't even know how he looks like. Some say he is a giant, others argue he is a size of a child. Latter is more likely, because Burrow Master is known to live in deep underground tunnels. From there he regularly delivers what little scrap is left in the barren wasteland."
   ##Cultural Advisor Traits
 	#Columnist
 	owb_cultural_advisor_state_columnist:0 "State Columnist"
@@ -211,9 +312,11 @@
   grabber_advisor:0 "Shotgun Webster"
   grabber_advisor_desc:0 "The former leader of the Grabbers has found a new rule in the 80s"
   bigbear:0 "Big Bear"
+  bigbear_name:0 "Big Bear"
   EHT_big_bear:0 "Big Bear Honoured"
   EHT_davison:0 "Davison Honoured"
   davison:0 "Driver Davison"
+  davison_name:0 "Driver Davison"
 
   tribal_mormon:0 "Mormon Tribal"
 
@@ -281,3 +384,10 @@
 
   # JCT
   doctor_henry_trait:0 "Expert Physician"
+
+  ferath:0 "Ferath"
+  ferath_desc:0 "Born from a mysterious egg found in the Den, Ferath absorbed knowledge like a sponge in a matter of days. Serving now as a protector, this unusually kind soul would never let any harm come upon his friends, even if it meant letting out his inner monster."
+
+### 5.0
+  MCA_chicago_school:0 "The Chicago School of Economics"
+  paranoid_terror:0 "Reign of Terror"

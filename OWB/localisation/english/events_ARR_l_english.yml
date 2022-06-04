@@ -1,0 +1,609 @@
+﻿l_english:
+  nf_arroyo.0.t:0 "The Search for Vault 13"
+  nf_arroyo.0.d:0 "The Chosen One set out from Arroyo alone, facing a near impossible battle against a hostile wasteland. They knew only that their village, their people, were dying, and that only the secrets of nearby Vaults could save it.\n\nTheir journey to nearby vaults, which would take them through the likes of Shady Sands, Vault City, and Klamath, was frought with peril. But from it all the Chosen One learned..."
+  nf_arroyo.0.a:0 "The importance of trustworthy allies" #Gives civ factories
+  nf_arroyo.0.b:0 "How a big gun, or stick, can make things a whole lot easier" #Gives mil factories
+  nf_arroyo.0.c:0 "That a full purse can buy many a solution" #Gives a boatload of caps
+
+  nf_arroyo.1.t:0 "Arrival at the Holy 13"
+  nf_arroyo.1.d:0 "After a long journey across California the Chosen One finally arrived at Vault 13. They found a startling surprise in their ancestor's home, now inhabited by a tribe of intelligent, yet friendly, deathclaws. Far more powerful than the Chosen One or any of their potential companions, and with the Water Chip hidden just behind them, the Chosen One was forced to cooperate, at least to some extent.\n\nOnce inside the vault the Chosen One found a unique status quo. The descendants of those that had stayed in Vault 13 lived in tandem with the deathclaws and had created a thriving society together. Yet what shocked the Chosen One the most was how..."
+  nf_arroyo.1.a:0 "How the humans of Vault 13 had put aside their prejudice by accepting their new partners" #Gives good karma, support tech bonus
+  nf_arroyo.1.b:0 "The fear that still ruled the deathclaws, in particular of a certain Dr. Schreber" #Gives bad karma, mil doctrine bonus
+  nf_arroyo.1.c:0 "The ordered nature of the tribe, as each member knew their part" #Gives no karma, industry tech bonus
+
+  nf_arroyo.2.t:0 "The Giant Faces"
+  nf_arroyo.2.d:0 "What the Chosen One believed to be their moment of victory was soon dashed by a vision from their tribal healer, Hakunin. The people of Arroyo had been kidnapped by soldiers in giant metal birds and taken somewhere into the sea. The Chosen One's mission to save their tribe became true in a far more literal sense, with certain death awaiting those that were taken into Enclave captivity.\n\nInvestigating the matter to the best of their ability, the Chosen One came upon several promising leads, the best of which was..." #These ideas should be taken away once the Chosen One leaves
+  nf_arroyo.2.a:0 "The Shi Emperor, a Chinese pre-war supercomputer, capable of predicting every possible outcome" #Gives bonus relations with Shi, potential future focus tree or event effects, and research speed idea
+  nf_arroyo.2.b:0 "The Navarro military base, a well-organized but surprisingly penetrable Enclave hold" #Bonus relations with Navarro, potential focus tree/event effects, and power armor technologies
+  nf_arroyo.2.c:0 "The drugs of New Reno gave the them the needed courage" # Bonus relations with New Reno, focus tree/event effects, and idk some bonus to do with drugs?
+
+  nf_arroyo.3.t:0 "Choosing a Leader"
+  nf_arroyo.3.d:0 "The time has come to select a Council Leader. They will hold this position for one year, during which they will be tasked with maintaining a final review of Council decisions. They will also act as a dignitary and figurehead, with their demeanor influencing how our tribe members conduct themselves for this coming year."
+  nf_arroyo.3.a:0 "Nagor, the humble warrior, will lead the Council"
+  nf_arroyo.3.b:0 "Chitsa is clearly the right pick to guide the Council"
+  nf_arroyo.3.c:0 "Dimitri will show an outsider's worth as Council leader"
+
+  nf_arroyo.4.t:0 "Disappearance in the Night"
+  nf_arroyo.4.d:0 "We awoke this morning to a strange feeling. Across Arroyo citizens awoke in a haze, silently missing a familiar presence. We didn't realize until the afternoon what we were feeling, and it took until nightfall for us to openly speak it.\n\nThe Chosen One had departed into the wastes.\n\nA number of notes and journals had been left behind, somewhat resembling the memoirs once left by their grandparent. Most of their gear had been taken, along with the old Highwayman they once roamed with. While a time of mourning has been declared decisions now rest solely in the hands of the tribal council. While they will always work together in unison it would be best to select a temporary Council Leader, someone to shepard both our tribe and our Council into this new dawn."
+  nf_arroyo.4.a:0 "Our Chosen One... is gone"
+
+  nf_arroyo.5.t:0 "San Francisco-born, Follower-trained"
+  nf_arroyo.5.d:0 "The kidnapping of the people of Arroyo at the hands of the Enclave meant the death of Hakunin, the tribal healer. Despite their best efforts the tribe spent years fruitlessly searching for a suitable replacement. Hakunin had no pupils and left little behind in terms of medical advice. Although a number of Arroyo tribespeople had some level of medical knowledge none rivaled the old coot's skill and experience.\n\nA lucky break came when traders brought word of an ex-Follower who had taken up residence in the Packers. Set on convincing him to settle in the Arroyo tribe, the Chosen One journeyed south to Happy Camp. Once there the Chosen One found Dimitri, a San Francisco-born doctor. Having split from the Followers due to his willingness to accept violence, Dimitri had wandered north, providing small amounts of aid in return for various payments. He had heard of Arroyo and the Chosen One, but he wasn't certain it was time for him to settle permanently.\n\nKnowing that Arroyo needed his skills, the Chosen One..."
+  nf_arroyo.5.a:0 "Appealed to his empathy, urging him to help Arroyo" #Gains karma (should do other stuff too not sure what)
+  nf_arroyo.5.b:0 "Reminded him that the wastes was a dangerous place, where accidents befall lone travellers" #Loses karma
+  nf_arroyo.5.c:0 "Offered compensation and safety for his help, a reasonable trade" #No karma
+
+  nf_arroyo.6.t:0 "The Other Bloodline"
+  nf_arroyo.6.d:0 "After the destruction of the Oil Rig by the Chosen One the Vault 13 survivors settled in Arroyo with the tribe. Numerous children were born in the years after, one of which was a young girl named Chitsa. There was a healthy rivalry between the children of the Arroyo tribals and Vault dwellers that defined the early childhood of many of the young children, and Chitsa established herself as the cunning leader behind many of the Vault childrens' sport teams and mock battles.\n\nThe Chosen One noticed her from an early age, and watched her grow from a leader among her peers to a manipulative negotiator, able to steal deals from even the most unwilling traders. Her quick wit and capacity for charisma made a position as tribal negotiator a certainty. Having seen Chitsa grow from a young girl to proud woman gave the Chosen One a sense of pride for the next generation of Arroyo. In particular, they were glad to see..."
+  nf_arroyo.6.a:0 "Her capacity for leadership" #Same as before with Chosen gain/lose/neutral karma and other effect idk yet
+  nf_arroyo.6.b:0 "Her unsatiable lust for power"
+  nf_arroyo.6.c:0 "Her keen mind and quick wit"
+
+  nf_arroyo.7.t:0 "Fearful Beginnings"
+  nf_arroyo.7.d:0 "Nagor was the youngest cousin of the Chosen One, yet, despite his strong posture and fit body, shared none of his cousin's bravery. His dog, Smoke, was one of the few friends he had growing up. He was teased constantly for his weakness and timidity but never fought back, although he could have easily knocked cold a number of his tormentors.\n\nBut the Enclave's arrival shattered his desire for a meek life. Those who fought back were killed, and Nagor could only bring himself to watch the massacre. His demeanor changed entirely once in Enclave captivity. He began to steel himself for battle, train incessantly, and provoke his captors as often as he could. The Chosen One barely recognized Nagor when he arrived at the oil rig, their once calm and quiet cousin transformed into an aggressive and fearsome man.\n\nAfter escaping the oil rig and returning to Arroyo Nagor began to return to his old self, but never entirely forgot the man he had briefly become. Nervous and worried, Nagor approached the Chosen One for advice. The Chosen One..."
+  nf_arroyo.7.a:0 "Urged him to remember his humanity and use violence only as a last resort"
+  nf_arroyo.7.b:0 "Warned him of the dangers of the wasteland, and the necessity of killing"
+  nf_arroyo.7.c:0 "Told him to make his own decision. It was his life, after all"
+
+  nf_arroyo.8.t:0 "Sentence: Max Sec"
+  nf_arroyo.8.d:0 "Northern California has changed a lot since the Chosen One's quest. Thirty years ago only the most developed cities, Shady Sands and Vault City, bothered to maintain a permanent jail or police force. In most towns, being caught for theft meant a beating. Anything worse required the application of "shotgun justice".\nThe emergence of Max Sec in California politics has changed this dynamic drastically. Their process is simple but lucrative: caravans are sent to nearby towns or cities, asking for any unwanted criminals. A decent fee is paid to whoever presents a criminal for incarceration, so long as they can show some proof of their guilt. The Max Sec caravan then returns to Medford, bounty in tow, and promptly sets about using their new prisoners for heavy labor. The materials produced from Max Sec can range from rare minerals to rewired circuitry, but largely fall under the general guise of crafted metal components. These materials are then exported to various nations, turning Max Sec a healthy profit.\n\nThis egregious profit is in no small part thanks to the atrocious living conditions present in Max Sec prisons. Prisoners are barely fed enough to stay alive, and even the most hardened criminals face little respite under a Max Sec guard's gaze."
+  nf_arroyo.8.a:0 "Bad people, certainly, but do they deserve to live like this?" #Good 1
+  nf_arroyo.8.b:0 "The focus should be on rehabilitation whenever possible." #Good 2
+  nf_arroyo.8.c:0 "Reminds me of the good ol' days of chain gangs on railroad tracks." #Bad 1
+  nf_arroyo.8.e:0 "Perhaps they should spin on hamster wheels too?" #Bad 2
+  nf_arroyo.8.f:0 "An inventive solution to a complex problem." #Neutral
+
+  nf_arroyo.9.t:0 "The Quiet Ones"
+  nf_arroyo.9.d:0 "They began as quiet shadows, a presence that regional leaders were only vaguely aware of. A seemingly small group of hunters lived off whatever game they could find in the forests, rarely interacting with nearby settlements. The perception of harmless foresters changed, however, when a trader who'd lost the woodland road witnessed twenty hunters work in unison to bring down three deathclaws in quick succession. The startled trader told his story to the people of Arroyo, a story which soon began to spread like wildfire to nearby towns.\nThe Chosen One had no easy task tracking down the isolationist survivalists but still managed to trace them back to their camp. Initially greeted with suspicion the Chosen One was eventually able to win their trust, or at least subdue their hostility. Assured that these "Packers", as they called themselves, were no threat to Arroyo the Chosen One took time to study their culture and traditions."
+  nf_arroyo.9.a:0 "Intelligent people. They've learned to live with the land, not exploit it." #Good 1
+  nf_arroyo.9.b:0 "Well-tuned hunters, but I still worry for them. Hopefully we can spare aid." #Good 2
+  nf_arroyo.9.c:0 "Savages! I'll teach them what a civilization looks like." #Bad 1
+  nf_arroyo.9.e:0 "They isolate themselves out of fear? Well, I will provoke that fear!" #Bad 2
+  nf_arroyo.9.f:0 "Their tribal ways suit them well." #Neutral
+
+  nf_arroyo.10.t:0 "Stacks of Shells"
+  nf_arroyo.10.d:0 "Eureka was a town of no note when the Chosen One last adventured across the wastes. Overrun with mirelurks, a perseverant group of survivors had made it their crusade to return to their ancestors' home. When they eventually did, led by an elite fireteam known as the Portmasters, they decided to use their plentiful military experience on foreign shores. Their homeland is a mountainous waste, so instead of farming they ship mercenaries across the west coast, trading guns and lives for food and supplies. Thankfully, they lack the population and desire to expand as an empire and instead view war as a means of sustenance."
+  nf_arroyo.10.a:0 "Eureka's mercenaries bring profit to its shores." #Good 1
+  nf_arroyo.10.b:0 "They have almost no space for workshops, but somehow make do." #Good 2
+  nf_arroyo.10.c:0 "Luckily, the mirelurks kept their population low." #Bad 1
+  nf_arroyo.10.e:0 "They could have turned and ran, but spent a century being slaughtered." #Bad 2
+  nf_arroyo.10.f:0 "They're survivors. That won't change, no matter what else does." #Neutral
+
+  nf_arroyo.11.t:0 "The Old Ways Abandoned"
+  nf_arroyo.11.d:0 "Sulik had traveled across the wasteland with the Chosen One during their quest for the G.E.C.K.. While he has since passed on his son, Avueron, now leads the Umbra tribe. Taught of the wonder of technology and civilization by his father and the Chosen One Avueron has turned his tribe away from their traditional spiritual ways. He has instead opted to encourage discovery and permanent settlement, pioneering Arroyan building techniques for members of his tribe.\nThere's been resistance within the tribe, especially amongst Sulik's generation, but most Umbrans have accepted the changes."
+  nf_arroyo.11.a:0 "They're taking a brave new step, and certainly for the better." #Good 1
+  nf_arroyo.11.b:0 "I'm confident they'll remember their traditions as they move forward." #Good 2
+  nf_arroyo.11.c:0 "Those savages best hurry to abandon their past. They have the makings of useful slaves." #Bad 1
+  nf_arroyo.11.e:0 "On my advice the lower members of the tribe have been put to hard labor already." #Bad 2
+  nf_arroyo.11.f:0 "Avueron's path is an interesting fusion of tradition and civilization. Exciting." #Neutral
+
+  nf_arroyo.12.t:0 "Arroyan Roads"
+  nf_arroyo.12.d:0 "As the G.E.C.K. secured the Arroyan people's survival the Chosen One began to instruct Arroyans to build roads into the wasteland. Constructed quickly to promote a rapid increase in trade, the roads have since begun to fall into disrepair. Already relatively small to begin with the roads have begun to collapse and be overtaken by the passing wilderness. While still serviceable for Arroyo's current level of trade any increase in traders would first require an expansion and repair of the road system.\nChitsa has promised to spearhead the rebuilding efforts, but now faces a choice on how to deal with recruiting the manpower needed for the expansion. The effort is certain to be a net positive economically, but fairer wages could buy the workers' loyalty and a more permanent support of Chitsa among the populace. However, a more brutal oversight of the road building will complete the road faster, whatever many lives it may cost. Or, of course, Chitsa could simply decide to allow the effort to procede as is, with whatever rewards that will bring."
+  nf_arroyo.12.a:0 "It is better to be feared than loved, but why not be loved as well?"
+  nf_arroyo.12.b:0 "They will work to their bones, and then my guards will make them work some more."
+  nf_arroyo.12.c:0 "We've created extensive enough plans already."
+
+  nf_arroyo.13.t:0 "Merrymen Construction"
+  nf_arroyo.13.d:0 "The Merrymen have done a fine job building schools and jobs across the nation. They design their work in insightful ways, allowing for last-minute repurposing of the structures for any use needed. Having completed their most recent work and moving to their next project all that's left is to assign the building's purpose."
+  nf_arroyo.13.a:0 "Arroyo expands further..."
+  nf_arroyo.13.b:0 "Arroyo now requires aid for its people"
+  nf_arroyo.13.c:0 "The military must now expand to meet our enemy's"
+
+  nf_arroyo.14.t:0 "Breakout in Max Sec"
+  nf_arroyo.14.d:0 "Frightening news reached us this morning from one of Chitsa's sources in Medford. A massive breakout was staged in Medford a number of nights ago, and a sizeable portion of Max Sec's prison population managed to escape into the wastes. The prison's government has obviously attempted to keep this under wraps, but the information our source has gleamed suggests a super mutant named Wiggs, a former member of the Master's army later turned outlaw, led the revolt.\n\nWhile Max Sec security hunts down the escapees our focus must remain on protecting our citizens. Border defenses can only do so much, and it seems that proactive steps may be necessary."
+  nf_arroyo.14.a:0 "The worst criminals of the West Coast were all kept together..."
+
+  nf_arroyo.15.t:0 "The Geezers' Rebellion"
+  nf_arroyo.15.d:0 "Avueron has worked tirelessly to modernize and industrialize the Umbra tribe, but despite overwhelming popular support a number of religious hard-liners have refused to acceede to the process. This discord struck a high point this week, when a number of elderly warriors and shamans took up arms in the easternmost Kerby area, driving out the tribal warriors loyal to Avueron.\n\nWhile the situation hasn't escalated to a civil war, the increasing autonomy of the eastern regions, along with Avueron's failure to assert control over them, make the possibility near inevitable. Avueron has contacted the Arroyan Council for support, hoping we will be able to solve the crisis."
+  nf_arroyo.15.a:0 "They seem well armed, at least for a bunch of old people."
+
+  nf_arroyo.16.t:0 "Chitsa's Logistics"
+  nf_arroyo.16.d:0 "Kept hidden to the best of her ability from the Chosen One, Chitsa's success as the Arroyan trade manager came both from strong negotiation skills and under the table dealings. Chitsa made subtle contact with the raider and bandit gangs that harassed trades approaching Arroyo from the south and offered them a deal: They'd take their business elsewhere, instead robbing traders traveling north from the Den to Klamath, all in exchange for a hefty yearly sum.\n\nWith one swift blow Chitsa managed to both remove Klamath as a serious trade competitor and help Arroyo prosper. While the deal has been in effect for years, Chitsa has recently reevaluated its stipulations. In a secret letter sent west to Dorris Chitsa explained a new aspect of the contract..."
+  nf_arroyo.16.a:0 "They're to rob the rich traders only-no need for anything else."
+  nf_arroyo.16.b:0 "Lay low for now and stay the course. It's working well enough."
+  nf_arroyo.16.c:0 "Increase the plunder! Too many still take the route north."
+
+  nf_arroyo.17.t:0 "Setting to Work"
+  nf_arroyo.17.d:0 "Arroyo had changed drastically in the Chosen One's absence. Chitsa, Nagor, and Dimitri had each made their mark on the nation as the disturbances in Arroyo's neighbours turned a semi-reclusive tribe into a regional power."
+  nf_arroyo.17.da:0 "Dimitri's work was the most impressive"
+  nf_arroyo.17.db:0 "Dimitri's work was the most impressive"
+  nf_arroyo.17.dc:0 "Dimitri's work was the most impressive"
+  nf_arroyo.17.ca:0 "Chitsa had proven her shrewdness"
+  nf_arroyo.17.cb:0 "Chitsa had proven her shrewdness"
+  nf_arroyo.17.cc:0 "Chitsa had proven her shrewdness"
+  nf_arroyo.17.na:0 "Nagor had kept Arroyo safe"
+  nf_arroyo.17.nb:0 "Nagor had kept Arroyo safe"
+  nf_arroyo.17.nc:0 "Nagor had kept Arroyo safe"
+
+  nf_arroyo.18.t:0 "Prisoners Stream Across the Border"
+  nf_arroyo.18.d:0 "The Max Sec warden's attempts at rounding up the escaped prisoners seem to only have incurred their flight from the territory. Early yesterday morning, a number of wounded Max Sec officers, followed closely by a band of pursuing prisoners, crossed into Arroyo. Our border security engaged a portion of the prisoners in a brief battle, but the majority managed to escape into our territory. Our choices now stem from each of the three leaders' perspective. Dimitri is focused on making something of the wounded officers, while Chitsa has drawn up emergency plans to coordinate the capture of the escaped prisoners. Nagor, meanwhile, has urged both of them to agree to new security measures, including a drastic increase in military funding."
+  nf_arroyo.18.da:0 "Dimitri won out. The officers were fully recovered before being sent home."
+  nf_arroyo.18.db:0 "Dimitri patched the officers up, but sent them on their way."
+  nf_arroyo.18.dc:0 "Dimitri's combination of psycho and buffout sent the officers careening towards the prisoners."
+  nf_arroyo.18.ca:0 "Chitsa offered the prisoners amnesty for valuable information."
+  nf_arroyo.18.cb:0 "The prisoner's able bodies made for good workers."
+  nf_arroyo.18.cc:0 "By Chitsa's command, the prisoners were captured and hung at the border."
+  nf_arroyo.18.na:0 "Nagor focused funding into border security, preventing a repeat incident."
+  nf_arroyo.18.nb:0 "Nagor did his best to make sure Max Sec had the tools they needed."
+  nf_arroyo.18.nc:0 "With his army bolstered, Nagor drew up plans for an invasion."
+
+  nf_arroyo.19.t:0 "Danger Close"
+  nf_arroyo.19.d:0 "Arroyan scouts placed in Max Sec's territory have been forced to flee in the face of an ever-approaching sentry bot. The robot seems to have somehow malfunctioned, or perhaps been hacked, and is now heading straight for Arroyo's territory. Even though it's alone, the robot's formidable armor and missile launcher have made it all but impervious against our scouts' attempts to halt it."
+  nf_arroyo.19.da:0 "Dimitri's robotic experts shut it down."
+  nf_arroyo.19.db:0 "Dimitri's robotic experts reprogramed it to target dangerous prisoners."
+  nf_arroyo.19.dc:0 "Dimitri's experts rerouted the robot, and then took careful notes on the chaos."
+  nf_arroyo.19.ca:0 "Knowing that a joint effort was needed, Chitsa worked with Max Sec against the robot."
+  nf_arroyo.19.cb:0 "Chitsa set up a system of decoys and bait to change the bot's course."
+  nf_arroyo.19.cc:0 "Chitsa knows that everyone can be hooked. Some, enough to suicide charge a sentry bot."
+  nf_arroyo.19.na:0 "Nagor personally lead a team across the border to destroy the robot."
+  nf_arroyo.19.nb:0 "Nagor instructed the scouts to immobilize the robot."
+  nf_arroyo.19.nc:0 "Nagor let it rampage, and used that time to draw up emergency militias."
+
+  nf_arroyo.20.t:0 "The Gecko King Emerges"
+  nf_arroyo.20.d:0 ""
+  nf_arroyo.20.a:0 ""
+
+  nf_arroyo.21.t:0 "News From Eureka"
+  nf_arroyo.21.da:0 "Arroyans were shocked when they learned of a massive explosion that rocked the Eurekan port yesterday. Most had considered the small area a relatively stable one, preoccupied more with mercenary schemes than internal conflicts. This presumed attack occurred at the heart of the Eurekan port, killing numerous fishermen returning home from a long day of work. Eureka's reliance on the sea for food production means that this was likely no accident, and instead the work of a hostile actor."
+  nf_arroyo.21.db:0 "Eureka has been on the minds of the Arroyan council for a few months, and the time has finally come to clarify its relationship to us. There's certainly a level of pity that permeates discussions on the subject: trapped between us and the NCR, everyone is certainly glad to not be in their position. Still, we think we can offer them a fair deal, at the cost of some of their independence. Becoming our subject would allow them to maintain their simple way of life without fear of invasion. All we need to do is convince them of this plan, since, unfortunately, our recent expansion has soured our reputation among the Portmasters."
+  nf_arroyo.21.dc:0 "The people of Eureka thought they had it bad when mirelurks ruled their streets. But now, with the occupation they find themselves enduring, the people cry out for a new Portmaster corps.\n\nBut, for now, their cries go unanswered."
+  nf_arroyo.21.a:0 "Who could have done this?"
+  nf_arroyo.21.b:0 "This will benefit us both."
+  nf_arroyo.21.c:0 "At least that isn't us."
+
+  nf_arroyo.22.t:0 "Under New Management"
+  nf_arroyo.22.d:0 "New signs hung from the O'Brien trading posts today. The old flag that used to hang from the old church steeple had been replaced. The four colors, the four paths, gone with the morning sun.\n\nInstead, a yellow 13 now signals your arrival in Arroyan territory."
+  nf_arroyo.22.a:0 "If it suits us, it suits you."
+
+  nf_arroyo.23.t:0 "Eureka Bay - Travel Advice"
+  nf_arroyo.23.d:0 "I don't know what's wrong with Eureka, but it must be under some sort of curse. Addicts, dealers, and more addicts are on the streets, the whole place is a kind of gloomy, dumpy mill town that has some gaudy victorian architecture amidst the cast-offs of northern California. I couldn't wait to leave. I can only hope that a second Great War vastly improves the living conditions of the area.\n\n- Wasteland Travel Log, vol. 3"
+  nf_arroyo.23.a:0 "Sounds like a fun time!"
+
+  nf_arroyo.24.t:0 "Rise of the Whoz Gang"
+  nf_arroyo.24.d:0 "Until now, the prisoners who had managed to escape Max Sec prisons had been disorganized, to say the least. While there were often gangs of five to ten prisoners working together, they were just as likely to attack each other as the guards trying to round them up.\n\n The emergence of Whoz and his gang, however, has completely shifted the dynamic within Max Sec. A leering and massive Super Mutant, Whoz and a number of his fellow muties began to recruit smaller prisoner gangs to their cause. There seemed to be little cause for alarm, as the gang had maintained an isolated camp within nearby forests. Yet, last night Whoz's gang assaulted and annihilated a heavily-fortified Max Sec outpost. As far as we can tell, Whoz's gang shows no signs of stopping, and is slowly making their way towards the main prison structure. Due to the urgent nature of this crisis, a response falls to the elected council leader."
+  nf_arroyo.24.da:0 "Dimitri introduced a stomach bug to Whoz's human troops, incapacitating them."
+  nf_arroyo.24.db:0 "More information was needed before Dimitri could act."
+  nf_arroyo.24.dc:0 "A deadly pandemic among his troops ought to aid Max Sec's robots."
+  nf_arroyo.24.ca:0 "Aiding Max Sec would be costly, but it was Chitsa's best option."
+  nf_arroyo.24.cb:0 "Chitsa pursued discreet sabotage and assassinations to cripple the Whoz gang."
+  nf_arroyo.24.cc:0 "An inspiring and capable leader? Chitsa knew that's who she wanted behind Max Sec."
+  nf_arroyo.24.na:0 "The threat was clear enough. Nagor rallied his army and marched against Whoz's gang."
+  nf_arroyo.24.nb:0 "With his troops drawn up, Nagor waited for the best opportunity to strike."
+  nf_arroyo.24.nc:0 "Nagor waited patiently for Whoz to engage Max Sec. Only then did he attack."
+
+  nf_arroyo.25.ta:0 "Whoz Land?"
+  nf_arroyo.25.tb:0 "Whoz Last Stand"
+  nf_arroyo.25.da:0 "Whoz's army made mincemeat of the Max Sec defenders. Despite the best efforts of the remaining guards, along with a small militia of those looking to defeat Whoz' reign of terror, the gang broke through their lines with little difficulty. Whoz has declared the remaining prisoners to be free, and placed them all under his protection. Max Sec's neighbors have responded fearfully, and its former patrons have fled to California and Nevada, seeking shelter from the prison madness. Anyone sympathetic to the old regime, as well as anyone suspected of being so, is quickly being rounded up and massacred by a horde of bloodthirsty inmates."
+  nf_arroyo.25.db:0 "While it seemed for a moment that Whoz might have his day, his gang was nevertheless routed by Max Sec's elite security forces. Whoz himself was brought down by a contingent of assaultrons, while the majority of his army broke at the sight of a fierce counterattack. Any prisoners who surrendered were returned to the harsh labor of Max Sec, but any who resisted were killed without second thought. There are certainly still prisoners who have yet to be recaptured, but the defeat of Whoz marks the end of serious disruption within Max Sec.\n\nStill, this saga has exposed Max Sec's weakness to the Arroyan Council. The situation may have been resolved, but the promise of Max Sec is clearly untenable. Arroyo can no longer sit idly by and watch Max Sec collapse upon itself again."
+  nf_arroyo.25.a:0 "Savagery..."
+  nf_arroyo.25.b:0 "The aftermath always poses the greatest challenge."
+
+  nf_arroyo.26.t:0 "The Max Sec Gambit"
+  nf_arroyo.26.da:0 "At first, the others would hear none of it. Neither Dimitri or Nagor particularly liked Max Sec, but that super mutant marauder? Never would they agree to ally with him.\n\nBut Chitsa persisted. With enough promises, assurances, and briefings, Chitsa brought both of them on board with her plan. Whoz, for all his bravado, had the makings and capabilities of a leader. Any capable leader, Chitsa reasoned, could spot the enemy's weaknesses as well as their own. Whoz ruled a young nation of murderers and psychopaths, all of which eyed his position with envy. His survival now rested primarily on keeping his subjects in line. Chitsa proposed a deal: If Whoz agreed to act in conjunction with the Arroyan military (as well as allow a number of high profile refugees to escape to Arroyo), Chitsa would ensure a regular supply of goods and crops to Whoz."
+  nf_arroyo.26.db:0 "Whoz, for all his bravado, had the makings and capabilities of a leader. Any capable leader, Chitsa reasoned, could spot the enemy's weaknesses as well as their own. Whoz ruled a young nation of murderers and psychopaths, all of which eyed his position with envy. His survival now rested primarily on keeping his subjects in line. Chitsa proposed a deal: If Whoz agreed to act in conjunction with the Arroyan military (as well as allow a number of high profile refugees to escape to Arroyo), Chitsa would ensure a regular supply of goods and crops to Whoz."
+  nf_arroyo.26.a:0 "We'll see how he responds..."
+  nf_arroyo.26.b:0 "Let's add their captured weapons to our list of demands."
+  nf_arroyo.26.c:0 "They have a number of their own prisoners now. We'll take care of them."
+  nf_arroyo.26.best:0 "Our bargaining position is strong enough to push further."
+
+  nf_arroyo.27.t:0 "The Whoz Conundrum"
+  nf_arroyo.27.d:0 "Violent ensembles of murderers and criminals tend to make for poor neighbors. While Whoz has so far been content to loot and burn what remains of Max Sec, no one doubts he'll eventually turn his eyes towards us. As Whoz's abuses mount, it seems clear that war will break out soon. Luckily, the network of influence we've built across Max Sec, as well as the grip we hold over a number of former officials, may still be useful. With enough influence and coercion, we'll be able to bring the remnants of Max Sec's forces across our border, giving us an edge in the coming conflict."
+  nf_arroyo.27.a:0 "We have no time to waste. We must strike before he can."
+  nf_arroyo.27.b:0 "Thankfully, number of their robots and weapons are in decent condition."
+  nf_arroyo.27.c:0 "Refugees from Max Sec will be more than willing to fight."
+  nf_arroyo.27.best:0 "Our near-complete control over Max Sec will be our saving grace."
+
+  nf_arroyo.28.t:0 "Arroyo Offers a Deal"
+  nf_arroyo.28.d:0 "We've gone and dun it. Now that the warden and hiz lackeys are long gone, we've just gotta deal with Arroyo. We figured it'd end up as an all-out war, but one of their leaders seems to think otherwise. Chitsa, her name was, is offering us some kind of pact. We agree to fight when they want, and they make sure we stay in power. It makes us look a bit weak, but it really doesn't sound too bad. The question is if we'll gain more from fighting, or talking."
+  nf_arroyo.28.a:0 "Deal! At least, for now."
+  nf_arroyo.28.b:0 "Haha, negotiate? Never!"
+
+  nf_arroyo.29.t:0 "Whoz Accepts"
+  nf_arroyo.29.d:0 "Just as Chitsa expected, Whoz accepted the deal. It will remain a secret, at least for now, but Whoz is already using the time to solidify his grip on Max Sec's populace. Whoz is a cruel leader, and many will cast judgment on Arroyo for cooperating with him. Yet, the realities of the situation had forced her hand, and Chitsa's scheming had managed to prevent the outbreak of war."
+  nf_arroyo.29.a:0 "What a month."
+
+  nf_arroyo.30.t:0 "Dealing With a Broken Prison"
+  nf_arroyo.30.d:0 "Most escapees were killed outright. The ringleaders were mostly captured, and hung from the prison's walls. Whoz is dead, and his gang scattered. Yet, for all of the Max Sec administration's blustering at a return to normalcy, the prison nation has been irreperably scarred by the breakout.\n\nWe've worked steadily throughout the crisis to sway Max Sec's population and elites towards Arroyo, and now is the time to make our move. As outrageous as an invasion might seem, Max Sec is clearly too unsteady to maintain independent. With enough coercion, we might be able to convince the prison to submit peacefully. Or, our influence over the Max Sec population might lead to their citizens abandoning them in droves. Either way, the Arroyan army will march victorious."
+  nf_arroyo.30.a:0 "Military subjugation is needed to ensure peace."
+  nf_arroyo.30.b:0 "The prison can maintain nominal independence, while we benefit from their labor."
+  nf_arroyo.30.c:0 "The prison elites that haven't defected to us already stand no chance against our army."
+  nf_arroyo.30.best:0 "With decisive action, the prison's labor and wealth can be ours."
+
+  nf_arroyo.31.t:0 "Brick By Brick"
+  nf_arroyo.31.d:0 "Admittedly, the old world was to thank for part of its splendor. While the brahmin barons had invested heavily into its security, much of the prison stood from two hundred years ago, when people not unlike the barons had built it for a similar purpose.\n\nWhile the Arroyan army pushed the Max Sec defenders back to the prison's walls, they were careful not to lay siege to the prison itself. Both sides wished to avoid a second breakout, and so Max Sec surrendered soon after their defeat became apparent. Now, the Arroyan council was forced to reckon with the prisoners.\n\nIt seemed logical to simply place the prison under management and continue its function. It had proved a strong economic backbone for Max Sec, and the fear of breakout seemed far less likely while the prison benefited Arroyo. The risk was nevertheless present however. It seemed to many that the prison could simply be shut down, with the prisoners either executed or returned to their communities."
+  nf_arroyo.31.a:0 "The benefits outweight the risk. Send the prisoners to work."
+  nf_arroyo.31.b:0 "That kind of thinking is what caused the breakout."
+
+  nf_arroyo.32.t:0 "The Second Max Sec Breakout"
+  nf_arroyo.32.d:0 "History repeats itself.\n\nIn the dead of night, a number of Max Sec prisoners staged a daring escape. Using sticks of dynamite and stolen rifles, they burst through one of the prison's gates, spewing out into the night. The clean-up operation is already underway, but this fiasco leaves a sour taste in the mouth of those who suffered at these prisoners' hands half a year ago. Protests and riots have already broken out, even in Arroyo itself, over the mishandling of the prison. Even after the prisoners are rounded back up, it's clear to most that the Max Sec experiment is over."
+  nf_arroyo.32.a:0 "This makes us look bad, doesn't it?"
+
+  nf_arroyo.33.t:0 "Avueron's Plea"
+  nf_arroyo.33.d:0 "The loss of control in Kerby forced Avueron to turn to the Arroyan Council for help. He was hesitant at first, fearing that the Chosen One's departure may have signaled an isolationist growth within the tribe. His fears were subdued by the Council itself, however.\n\nChitsa, Dimitri, and Nagor all vowed to support Avueron's desire to industrialize against any dissenters from the tribe. Of the three, Nagor was the most passionate, exclaiming that Arroyo and Umbra would share the same bond that Sulik and the Chosen One once did. Dimitri recognized the importance of Avueron's work, especially his efforts to create more formalized clinics and medical training. Chitsa agreed with the other two, but kept a sly look about her throughout the Council session. After a brief discussion, the Council broke for the evening."
+  nf_arroyo.33.a:0 "Of course we will be there!"
+  nf_arroyo.33.b:0 "Arroyo will aid our neighbor, for a cost."
+
+  nf_arroyo.34.t:0 "Chitsa's Plan"
+  nf_arroyo.34.d:0 "Chitsa was the first to meet with Avueron after the council ended. Her idea was rather simple: Umbra would allow Nagor and the Arroyan military to establish permanent bases across their territory. While this would give Arroyo a stronger grip over Umbra, the advantage to Avueron was clear. Still, Chitsa worried that it might be too up front. If Avueron grew resistant too quickly, any future deals would be far harder to agree upon."
+  nf_arroyo.34.a:0 "Despite her concerns, Chitsa suggested the plan."
+  nf_arroyo.34.b:0 "For now, Chitsa kept to friendly overtures."
+
+  nf_arroyo.35.t:0 "Chitsa's Plan"
+  nf_arroyo.35.d:0 "Chitsa was the first to meet with Avueron after the council ended. Her idea was rather simple: Umbra would allow Nagor and the Arroyan military to establish permanent bases across their territory. While this would give Arroyo a stronger grip over Umbra, the advantage to Avueron was clear."
+  nf_arroyo.35.a:0 "Accepting was the only reasonable option."
+  nf_arroyo.35.b:0 "Avueron staunchly denied her request."
+
+  nf_arroyo.36.t:0 "Dimitri's Options"
+  nf_arroyo.36.d:0 "Avueron was surprised by Dimitri's proposal. Instead of a violent confrontation with the traditionalists, Dimitri advocated for an education campaign among Umbra's population. While any hardline tribals would oppose the idea, he figured that most people would be receptive to it. And, so long as it was able to reach Umbra's populace, whether or not tribal leaders directly approved modernization would matter little. If the majority of the population, especially the young, were educated, technology and industry would be impossible to keep out."
+  nf_arroyo.36.a:0 "That's the plan."
+  nf_arroyo.36.b:0 "No, we need to show force."
+
+  nf_arroyo.37.t:0 "The Rise of Rain Gambling"
+  nf_arroyo.37.d:0 "Corn has been a staple crop of Arroyo since the Chosen One's early days. While Arroyan farmers long sought to only maintain sustainability, an increase in soil fertility and farming advancements has led to a massive boom. In recent years, Arroyo has even begun to export the crop, inviting external revenue from outside sources. However, success breeds speculation, and rain gambling has taken ahold of many Arroyan villagers.\n\nThe premise is rather simple. A person or small group, known as arbiters, run bars in the community. Community members arrive at the arbiter's bar, and individually purchase 'betting cards.' Each card contains a small range of expected total rainfall, with each range having a limited number of cards. Community members may buy betting cards off each other, sometimes leading to massive bid wars for particularly valuable ranges. At the end of the season, profits are distributed using the total in the betting pool, with the arbiters taking their cut.\n\nThe swell of rain gambling bars in the recent months has worried Dimitri. He has little problem with harmless gambling, but the value of the betting cards has led to a slew of robberies and thefts. Dimitri's education has made him aware of the dangers of gambling, further increasing his desire to crack down. Yet, rain gambling does seem to have become a staple of Arroyan village life, and any attempts to limit it might provoke backlash from the farmers."
+  nf_arroyo.37.a:0 "Confiscate the bars and betting pools."
+  nf_arroyo.37.b:0 "Tax the betting cards."
+  nf_arroyo.37.c:0 "It's probably fine as is."
+
+  nf_arroyo.38.t:0 "A Show of Will"
+  nf_arroyo.38.d:0 "These old-timers were working to undo everything that the Chosen One and Sulik had worked towards. Not only was it a spat in the face of the ancestors they claimed to care so much about, it was an affront to the Chosen One themselves. Nagor would not allow this to stand. Not now, not ever. He could work with Avueron, but it might even be better to attack the enemy directly, despite what Avueron might think."
+  nf_arroyo.38.a:0 "His rage consuming him, sabotage was ordered."
+  nf_arroyo.38.b:0 "He knew to work with Avueron, not despite him."
+
+  nf_arroyo.39.t:0 "Strike Against the Modern!"
+  nf_arroyo.39.d:0 "Their calls and cheers far preceded their appearance. This band of Umbra raiders was at first nothing more than an odd curiousity for the watching traders.\n\nWhat were they doing here?\n\nWere they with that rebel group?\n\nThose questions faded away and were replaced with terror as the raiders charged the caravan."
+  nf_arroyo.39.a:0 "Bastards!"
+
+  nf_arroyo.40.t:0 "Avueron Attacked!"
+  nf_arroyo.40.d:0 "A regular tribal meeting was interrupted by a would-be assassin. Screaming ritual chants and prayers, the man charged the tribal circle with an axe. Unarmed and without guards, things looked grim. However..."
+  nf_arroyo.40.a:0 "A member of the Arroyo delegation tackled the assassin."
+  nf_arroyo.40.b:0 "From nowhere, the Chosen One intervened... and disappeared."
+
+  nf_arroyo.41.t:0 "Grampa Figleef Presents Demands"
+  nf_arroyo.41.d:0 "While the anti-modernization movement in the eastern regions of Umbra has so far been largely leaderless, one elder has begun to emerge as a de facto head of the movement. Grampa Figleef, and elder dating from Sulik's era, has presented a list of ten demands to Avueron and the other members of the tribal council. These demands include the resignation of Avueron as tribal elder, permanent rejection of industrialization, and greater autonomy for the eastern regions. While Avueron has been willing to concede on some points, he has refused the majority of them. Grampa Figleef, in turn, now falls under the banner of the tribe of Eastern Umbra, an autonomous part of the Umbra tribe."
+  nf_arroyo.41.a:0 "Send more supplies to Avueron. He'll need our help."
+  nf_arroyo.41.b:0 "Increase our border presence and watch. Closely."
+
+  nf_arroyo.42.t:0 "Avueron Prepares For War"
+  nf_arroyo.42.d:0 "Grampa Figleef's declaration clarified the situation. Avueron knew that he had mere weeks until the eastern tribesmen entered into open rebellion. Disheartened that peace no longer seemed to be an option, Avueron begrudgingly contacted the Arroyo Council again. Aware that war was now inevitable, Nagor's military had two options. They could either deploy with the Umbran forces, working together in joint maneuvers, or conduct their own drills on Eastern Umbra's northern border, threatening a pincer attack."
+  nf_arroyo.42.a:0 "A joint plan was the most logical route."
+  nf_arroyo.42.b:0 "Arroyo must be able to stand on its own."
+
+  nf_arroyo.43.t:0 "The First Strike"
+  nf_arroyo.43.d:0 "With war now on the horizon, the members of the Arroyan council needed to decide how to begin the war. The simplest option would be to wait for an enemy attack, and respond in kind. While this would provide a clear justification for the conflict, they feared that such an attack might catch them off-guard, giving the rebel forces the upper hand in the conflict's opening stages. A preemptive attack could be launched, but it would be difficult to explain to Avueron, who still hoped for a peaceful resolution. There was a third option as well. If a rebel attack were to be fabricated, or provoked in a key location, the war could be framed as a defensive struggle while still retaining the initiative in battle."
+  nf_arroyo.43.da:0 "Spend this time stocking emergency supplies."
+  nf_arroyo.43.db:0 "A precise strike against their commanders would go well."
+  nf_arroyo.43.dc:0 "A rebel attempt at bomb-making will go horribly wrong."
+  nf_arroyo.43.ca:0 "Erect fortifications. They'll walk right into a trap."
+  nf_arroyo.43.cb:0 "Tribal or not, they need weapons. And Chitsa had a solution to that..."
+  nf_arroyo.43.cc:0 "A few dead sentries of Avueron would work fine."
+  nf_arroyo.43.na:0 "Nagor would coordinate closely with Avueron's defenses."
+  nf_arroyo.43.nb:0 "Arroyan officers would oversee Umbran deployment in this conflict."
+  nf_arroyo.43.nc:0 "Traders will be found massacred by rebel bands."
+
+  nf_arroyo.44.t:0 "The Day Arrives"
+  nf_arroyo.44.d:0 "Avueron's worst fears have come true. He had known from the outset that this was a possibility, but stubbornly believed that he could make his people see reason.\n\nHe had failed.\n\nGrampa Figleef's warriors have swarmed across the border, demanding the return of the Grampy Bone as a symbol of tribal leadership, the death of Avueron, and the rejection of modernization. Arroyo, honoring their pledge to Avueron, has intervened on Umbra's behalf. War has come to Umbra."
+  nf_arroyo.44.a:0 "We will honor our alliance!"
+  nf_arroyo.44.b:0 "Through these months, we've learned to learn."
+  nf_arroyo.44.c:0 "Umbran troops will be commanded directly by us."
+  nf_arroyo.44.best:0 "Our preparation was thorough. Victory will be ours."
+
+  nf_arroyo.45.t:0 "The Rebellion Crushed"
+  nf_arroyo.45.d:0 "The Geezers' Rebellion, which had wracked the Oregon tribe of Umbra for nearly half a year, is now over. The remaining warriors surrendered to the combined Umbra-Arroyan forces today. Grampa Figleef has fled across the Packers' border, and the now leaderless traditionalists have realized they have no path to victory. All that remains is to set out a new path for the eastern area of Umbra. The ties forged between Umbra and Arroyo have permanently placed the tribe under Arroyo's wing, meaning the decision lies in the hands of the council. The state could see its forest cleared to accomodate new industry, but it might benefit Arroyo more to see it used as a supply path for any future southern conflicts."
+  nf_arroyo.45.a:0 "Industrialization is our first priority."
+  nf_arroyo.45.b:0 "We should be certain to accomodate future expansion."
+
+  nf_arroyo.46.t:0 "A Boy and His Dog"
+  nf_arroyo.46.d:0 "Sometimes, people thought it was a bit odd that Nagor always named his dog Smoke. To most, it wasn't a concern. Nagor clearly loved Smoke, even if the name Smoke could refer to a dog from any number of different generations. Chitsa, and a few others, whispered that it was related to some childhood trauma, as if he was trying to make up for what had happened to his first dog.\n\nIn truth, that type of thinking wasn't fair to Nagor. To him, Smoke wasn't the... 4th? 5th? different dog he's kept throughout his life. Smoke was one consciousness, passed down from generation to generation. That was why every time Smoke grew old, or got wounded while hunting, or was exposed to too much radiation, Nagor never despaired. He was sad, to be sure, since he could see that Smoke was clearly in a lot of pain. But he always knew that he'd find Smoke again soon.\n\nThe only thing Nagor truly feared was how he would find Smoke when his turn came."
+  nf_arroyo.46.a:0 "Who's a good boy?"
+
+  nf_arroyo.47.t:0 "Kids' Games"
+  nf_arroyo.47.d:0 "Chitsa had decided that naivety was charming. Nadia, her closest confidant growing up, had plenty of that. Really, Chitsa had decided to hope that naivety was charming. If it wasn't, she truly had no excuse for the amount of time she'd spent with that idiot.\n\nThey had been introduced to each other as first or second cousins. At the time, Nadia's parents had left the vault, and Nadia needed a new family to live with. A few years later, Chitsa would learn about what Vault Security had found buried underneath Nadia's parents' floorboards. But she had been preoccupied with more pressing matters when she met Nadia: namely, how completely idiotic she was. Chitsa didn't mind calling people stupid, but Nadia was truly, deeply, amazingly, stupid. It wasn't even that she was dim-witted, like Nagor, or lacked common sense, like Dimtri. Nadia was just an idiot.\n\nAt first, Chitsa cursed her misfortune. It was just her luck to be forced to make friends with an imbecile. Yet, the more Chitsa thought on it, the more she began to believe that Nadia might be a blessing in disguise. Thing is, everyone knew Nadia was stupid. Few people liked her anyways. It was pretty easy to, when needed, blame everything on Nadia. She wasn't thrilled with that, obviously, but she knew better than to challenge Chitsa, the only person who at least put on the facade of being her friend.\n\nActually, it had been a while since Chitsa had seen Nadia. Whatever happened to that girl?"
+  nf_arroyo.47.a:0 "To simpler times"
+
+  nf_arroyo.48.t:0 "His First Patient"
+  nf_arroyo.48.d:0 "Every now and then, Dimitri would think back to his first patient. He hadn't been a full-fledged doctor back then, only a student. Just experienced enough to take the lead on prescribing a treatment, while far too novice to see a patient alone.\n\nThe patient told Dimitri that he had been beaten by a gang of thugs in an alley near his home. Shocked, Dimitri and his supervisor saw to the man's wounds, gave him pain medication, and sent him home. Dimitri, however, was outraged. While he wished to immediately report the attack, his supervisor dissuaded him, arguing that Dimitri's job was to treat the patient. Justice was another man's duty.\n\nEven all these years later, thinking of that response infuriated Dimitri. How did that make any sense? How could someone be blind enough to simply rely on others to do the right thing? Isn't that attitude only treating the symptom, rather than the cause?\n\nHe knew that not every Follower thought like his supervisor. Still, that day had shaken his faith in the organization that had trained him, setting him on his present course.\n\nThe holier than thou attitude of the Followers might be their downfall, but he wouldn't let it be his."
+  nf_arroyo.48.a:0 "Another day, another step forward"
+
+  nf_arroyo.49.t:0 "The Chosen One's Wandering Mind"
+  nf_arroyo.49.d:0 "The Chosen one had ventured far and wide in his absence and he had seen a new side of the wastes he had wandered decades prior. His view on the world had been quite cemented since his last escapade through the wild territories of California. \n\nWhile no one truly knew what side of the South-West the elderly adventurer had gone to it was certainly an area where the grass simply wasn't greener. It was up to the Chosen One's conviction on his past ideals whether hope would prevail or whether stagnation and wrath would take power over his future."
+  nf_arroyo.49.a:0 "He had grown good"
+  nf_arroyo.49.b:0 "He had stayed the same"
+  nf_arroyo.49.c:0 "He had grown cruel"
+
+  nf_arroyo.50.t:0 "Flames Lick the Sky"
+  nf_arroyo.50.d:0 "Yesterday, many of our villagers met the forest people of the Packers for the first time. They awoke this morning to flames drifting up from the forest to their south. No doubt, they thought, a terrible accident.\n\nHours later, they noticed a small band approaching that direction. Thinking they might be refugees from the fire, our people approached them with blankets, food, and water.\n\nThe survivors tell us that was when the slaughter began.\n\nWhile we still don't know what caused this fire, or why the Packers have left their forest to attack us, we must respond to the situation at hand. Reports indicate that these battles extend beyond minor raids, and have engulfed almost all of the communities along the forest's edge."
+  nf_arroyo.50.a:0 "The Packers are... attacking?"
+
+  nf_arroyo.51.t:0 "The Doomsday Druid"
+  nf_arroyo.51.d:0 "There isn't much point documenting the man's ramblings here. He talks for hours on end, most of which is spent lamenting the burning forest, identifying it as a clear sign of the end times. While he's the first we've seen of this type of doomsday preacher, we doubt he's alone. On one hand, it would be a sound plan to make an example out of him. The doctrine he preaches is no doubt what caused the Packer warriors to begin raiding our territory. However, a less threatening approach is warranted as well. If we managed to bring him on side he might be able to persuade other Packers that the fire wasn't our doing."
+  nf_arroyo.51.a:0 "Punish him for the role he's played"
+  nf_arroyo.51.b:0 "We need to be reasonable about this"
+
+  nf_arroyo.52.t:0 "War's Aftermath"
+  nf_arroyo.52.d:0 "After a grueling campaign we've finally managed to bring the Packers' territory under our control. This victory is more than hollow, considering that we had not desire for this war to begin in the first place. We already know that fully retreating from this territory isn't a realistic option. The Packers' warriors have either been slain or surrendered, but retreating now would only allow them to prepare for a potential second attack. The warriors we have captured have been mysteriously silent on what caused the attack, as have the civilians questioned in the encampments we've uncovered. \n\nIf we are to prevent a second Packer attack and avoid an even greater conflict, an investigation into the Packer society is a necessity. \n\nBecause in the darkest part of the Council members' hearts, they know that they could just kill them all."
+  nf_arroyo.52.a:0 "A mystery..."
+
+  nf_arroyo.53.t:0 "War Comes Anew"
+  nf_arroyo.53.da:0 "The reports of young Packers attacking our garrison troops has made it clear that our investigation was a failure. Whatever progress we made seems to have fallen short of fulling understanding and stopping the outbreak of a second war. \n\nOur one small comfort is that this conflict will be lamentably one-sided. Their most experienced warriors were killed in the first war, and our mapping of the Packers' forest home has reduced the advantage they once held. While this may end up only acting as a setback for Arroyo, it will most likely permanently cripple the Packer tribes."
+  nf_arroyo.53.db:0 "The news from the Packers' former territory has been increasingly hopeful over the past few weeks. The mistrust of the populace has begun to ebb away, slowly being replaced with an uneasy acceptance of our soldiers and doctors. Our diplomatic overtures to tribal leaders have born even more fruit. Various influential Packers have agreed to accept that their forest is now part of our territory, so long as we respect their independence and freedom of movement within it.\n\nOur fear of renewed war, present since we took control of the Packers' home, seems to have faded."
+  nf_arroyo.53.a:0 "Why do they persist?"
+  nf_arroyo.53.b:0 "It finally ends."
+  nf_arroyo.53.c:0 "This was a victory."
+
+  nf_arroyo.54.t:0 "Senseless Killing"
+  nf_arroyo.54.d:0 "In the end, they knew it was the only option. Try as they might, the Packers had refused to even meet with Arroyan officials, let alone negotiate with them. The past few months had seen increasing aggression from their end, with our patrols finding evidence of training camps and arsoned buildings throughout their territory.\n\nThere was no choice. If we wished to prevent a second war, we had no choice but to make the Packer tribes unable to wage it. That meant killing. Killing until they fled. A mass refugee crisis that would empty the territory, allowing Arroyan settlers to take the land for themselves. In the end, the Council was unanimous. The Packers had brought this on themselves."
+  nf_arroyo.54.a:0 "..."
+  nf_arroyo.54.b:0 "There must be another way!"
+
+  nf_arroyo.55.t:0 "Searching the Graveyards"
+  nf_arroyo.55.d:0 "The army contingents sent to investigate the battlefields have made a number of surprising discoveries. First, evidence indicates that each Packer warband almost always included a druid who acted as the group's commanding officer. It is unclear if these druids were chosen for tactical prowess or a fanatical devotion to some higher cause, but most were located in the rear of a warband, indicating that the warriors held them in high regard.\n\nThis was probably all we will be able to gleam from these battlefields, but our investigators have noticed a number of small warbands still active in the region. We could order our soldiers to track them down, potentially preventing them from becoming a future threat. However, there is no guarantee of this strategy paying off."
+  nf_arroyo.55.a:0 "We'll use this to understand them."
+  nf_arroyo.55.c:0 "We'll use this to control them."
+  nf_arroyo.55.b:0 "We must continue the search!"
+
+  nf_arroyo.56.t:0 "Weapons Cache Found!"
+  nf_arroyo.56.d:0 "A series of skirmishs against the Packer guerillas eventually led our soldiers to a small weapons cache hidden deep within the forest. The enemy forces managed to eventually escape our pursuit, but the capture of these weapons has most likely dealt a blow to their operations. It isn't the decisive victory we had hoped for, but it will do for now."
+  nf_arroyo.56.a:0 "At least it wasn't a total waste."
+
+  nf_arroyo.57.t:0 "Death of a Doctor"
+  nf_arroyo.57.d:0 "Chitsa had always seen Dimitri for what he was: a reject, an outsider, a failure who had been taken in by a desperate Chosen One. And now, he stood in the way of her power. His machinations continually undermined her authority, funnelling time and resources to his stupid projects. But, by the end of tomorrow, no more.\n\nA mentally ill man will visit Dimitri tomorrow night, carrying a concealed knife in his coat. He will spontaneously attack and flee into the night. A month later, he will be found by the side of a road, presumably having taken his own life.\n\nChitsa had planned it all."
+  nf_arroyo.57.a:0 "Do it."
+  nf_arroyo.57.b:0 "This... isn't right"
+
+  nf_arroyo.58.t:0 "In His Place"
+  nf_arroyo.58.d:0 "Nagor's military knowledge is invaluable, especially for a smaller nation like ours. His service over these past decades has secured Arroyo against the possibility of foreign invasion, making him well-liked by most Arroyans. But, while serving on the Council, he only served to make Chitsa's life harder. His popularity made him dangerous, and his status as military head made assassination an impossibility. Instead, Chitsa might be able to convince him to focus entirely on his military leadership. While this ran certain risks, it would get him out of her way, at least in the short term. To any neutral observer, this would clearly be seen as a coup. However, with the right assurances and Nagor's tentative acceptance, the public could be swayed to accept the measure, for now."
+  nf_arroyo.58.a:0 "Show him his place"
+  nf_arroyo.58.b:0 "He still has his uses"
+
+  nf_arroyo.59.t:0 "Interrogation Report /#21"
+  nf_arroyo.59.d:0 "So far, our interrogations have suffered from a lack of focus. During the war, the enemy soldiers who surrendered were brought into makeshift camps set up in Grants Pass. Jailors from Max Sec were brought in to oversee the camps, but were surprised by the lack of escape attempts. Most prisoners sat, defeated and dejected, throughout their quarters, mindlessly taking the meals offered. They rarely made conversation, even to each other, making our interrogations an awkward affair. Our officers aren't sure if they should get under their skin or try and appeal to their homesickness. Whatever approach we choose will no doubt dictate the information we manage to extract."
+  nf_arroyo.59.a:0 "Offer amnesty"
+  nf_arroyo.59.b:0 "Threaten violence"
+
+  nf_arroyo.60.t:0 "Interrogation Report /#146"
+  nf_arroyo.60.d:0 "It wasn't easy to break through our prisoners' mindless pondering. Our investigators originally theorized that their inattention was a trained defense mechanism, taught to make them resistant to torture. However, after we managed to communicate with the prisoners we learned that their perception of the situation couldn't be further from reality.\n\nThese warriors have been brainwashed to believe that surrendering to an enemy is sacrilege, and that any who do so will be punished by the Packers' forest spirits. This is tribalistic nonsense, but these lies seem to have a tight hold on most Packer warriors. It seems that a group of druids are the source of this fanaticism. We will investigate the matter further."
+  nf_arroyo.60.a:0 "Finally, a breakthrough!"
+
+  nf_arroyo.61.t:0 "Hearts and Minds"
+  nf_arroyo.61.d:0 "The native Packers will barely speak to our garrison, let alone give them the information we need. These groups were already extremely tight-knit, and the devastation brought to their home has only made them more reclusive. Most carry small totems and trinkets around with them and spend their time either hunting and gathering or attending to their woodland homes. Our search for information in these communities must answer a few key questions. We still don't have a clear picture of what led to their attack, or an explanation for the flames that were sighted that same morning. In a situation as complex as this, there are a number of ways to approach the issue."
+  nf_arroyo.61.da:0 "Offer medicine to build trust"
+  nf_arroyo.61.db:0 "Let me think of the metaphor..."
+  nf_arroyo.61.dc:0 "Send aid... if they talk"
+  nf_arroyo.61.ca:0 "Everything has a price"
+  nf_arroyo.61.cb:0 "Infiltrate their communities"
+  nf_arroyo.61.cc:0 "Midnight kidnappings should help"
+  nf_arroyo.61.na:0 "We're friends, not soldiers"
+  nf_arroyo.61.nb:0 "Recruit locals into the army"
+  nf_arroyo.61.nc:0 "The army will make them talk!"
+
+  nf_arroyo.62.t:0 "Dissent"
+  nf_arroyo.62.d:0 "Arroyo is a paradise, built through the miracle of the G.E.C.K. and the labor of the Arroyan people. We're safe in Arroyo. We have plenty in Arroyo. So why, our people wonder, do we keep expanding?\n\nThe reasons were clear at first. Our allies needed help. Since then, things have become less clear. Every day it becomes harder to justify our expansion and wars, but each day also brings more of it, trapping us in a spiral of increasing involvement outside our tribal home."
+  nf_arroyo.62.a:0 "There is nothing to be done."
+
+  nf_arroyo.63.t:0 "Uncovering the Truth"
+  nf_arroyo.63.d:0 "It was no easy task, but we did manage to fully uncover the truth of the Packers' society. Their seemingly harmless semi-nomadic communities were in truth overseen by an elite ring of druids. These druids oversaw a woodland religion that came to infiltrate almost every aspect of Packer life, turning a naturally reclusive people into religious fanatics. Their tribal religion obstensibly promoted a strong respect for nature, but in reality was used by the druidic elites to accumulate power.\n\nGrampa Figleef's arrival marked a shift in their goals. He was already close with many of them, and slowly managed to convince the inner circle that Arroyo posed a serious danger to their power. So, the night before the attack, a small group began a fire that quickly spread through the north of [182.GetName]. The inner circle issued a unanimous proclamation in the hours after: Arroyo was responsible. From there, the rest is history."
+  nf_arroyo.63.a:0 "Who knew..."
+  nf_arroyo.63.b:0 "Actually, they had some good ideas"
+
+  nf_arroyo.64.t:0 "Dimtri's Device"
+  nf_arroyo.64.da:0 "Dimitri smiled and lightly juggled the cold metal box. To the uninitiated, it appeared to be nothing more than some odd contraption, marked by buttons and dials on its surface. To Dimitri, however, this piece of metal was the culmination of years work. He had originally come across the idea during his time spent in Happy Camp, with the Packers. It had been a hobby of his since then, tuning, fiddling, and tampering both with the device and, by extension, the environment around it.\n\nGiven the present circumstances, he now hoped to use the device on the land which had birthed it. The forest fire had scarred much of northern [182.GetName], and the wanton destruction had affected the Packers' psyche. Using the device to help regrow the forest could be seen as a useful gesture of good faith, creating trust between the wary people and Arroyo. The device was also fully modular, meaning that it could be used as a punishment, of sorts. Tuned correctly, it could cause a destructive level of growth, overruning settlements and perhaps even killing the slow or unlucky."
+  nf_arroyo.64.db:0 "The device was interesting, if obfuscating. Left behind by the good doctor, its mechanisms and traps are betrayed by its simple exterior. A test run conducted by a few Arroyan scientists led to its hasty disassembly, as its activation almost immediately led to vines and roots sprouting out from the ground around it. What could the purpose of this contraption be?"
+  nf_arroyo.64.a:0 "For those in need"
+  nf_arroyo.64.b:0 "It seems necessary"
+  nf_arroyo.64.c:0 "They want forest? Well then..."
+  nf_arroyo.64.e:0 "Well, he isn't here to tell us"
+
+  nf_arroyo.65.t:0 "The Rambling Old Man"
+  nf_arroyo.65.d:0 "New Reno tourists have found a new oddity in the past few weeks. An older man calling himself Grampa Figleef, dressed in tribal garb and decorated by string laced bones, has taken a street corner near the center of the city. Rambling and raving about the degeneracies of civilization, the old man occasionally draws a small crowd of entertained listeners.\n\nUntil, one day, a junkie finds him laying on a heap of garbage, blood trickling from under his ragged shirt."
+  nf_arroyo.65.a:0 "And?"
+
+  nf_arroyo.66.t:0 "Outcast Once More"
+  nf_arroyo.66.d:0 "Nagor had always distrusted outsiders. So why had he allowed for Dimitri's place on the Council? He should have known better, allowing a man from so far to the south into Arroyo's top ranks. No matter what he said or did, it was clear that he couldn't be trusted. Something had to be done. Dimitri may be well-liked, but few would truly stand up to his enforced exile. Besides, Nagor controlled the military. A visit to Dimitri's home, with appropriate force, would make his options clear to him."
+  nf_arroyo.66.a:0 "It's time to send him off"
+  nf_arroyo.66.b:0 "Perhaps Nagor misjudged"
+
+  nf_arroyo.67.t:0 "All Eyes on Fourways"
+  nf_arroyo.67.d:0 "While the NCR has begun to fully take on the mantle of a truly Californian Republic, Arroyo has grown to consolidate most of southern Oregon. Both nations, with their slowly growing empires, have focused on [FOU.GetName] as a potential source of economic support. A natural junction for traders traveling from Oregon to California, [FOU.GetName] provides safe harbour for weary souls, taking a generous cut in the process. Despite their amassed wealth, [FOU.GetName] is being slowly torn in two directions - towards the powerful [NCR.GetName] in the south, and the upstart [ARR.GetName] in the north."
+  nf_arroyo.67.a:0 "[ROOT.GetName] will prevail!"
+
+  nf_arroyo.68.t:0 "Fourways Attacked!"
+  nf_arroyo.68.d:0 "Our best efforts at resolving the Fourways situation diplomatically seem to have failed, as the nation we hoped to court has now been ruthlessly attacked by our counterparts. While this isn't what we hoped for, a direct military response is unlikely. Many of our people already see this dispute as a needless source of tension, and will probably just be glad to see it over with. However, this bellicosity has enraged our military, and our generals are currently drafting plans to undermine the enemy advance."
+  nf_arroyo.68.a:0 "We'll show them!"
+
+  nf_arroyo.69.t:0 "Opening Strategy"
+  nf_arroyo.69.da:0 "We must approach these negotiations with the utmost care. We must decide on our goals for this upcoming summit and pursue them closely. With tensions being as they are, demanding too much will almost certainly lead to the negotiations breaking down. However, requesting too little is likely to limit our ability to benefit from Fourways' wealth."
+  nf_arroyo.69.db:0 "We must approach these negotiations with the utmost care. We must decide on our goals for this upcoming summit and pursue them closely. With tensions being as they are, demanding too much will almost certainly lead to the negotiations breaking down. However, requesting too little is likely to limit our ability to benefit from Fourways' wealth.\n\n§GOur close relations will make them more likely to agree to our terms!§!"
+  nf_arroyo.69.a:0 "Offer an 80/20 split"
+  nf_arroyo.69.b:0 "Offer an 70/30 split"
+  nf_arroyo.69.c:0 "Offer an 60/40 split"
+  nf_arroyo.69.d:0 "Offer an 50/50 split"
+
+  nf_arroyo.70.t:0 "[FROM.GetName] Offers a Deal"
+  nf_arroyo.70.da:0 "[FROM.GetName] has attempted to offer us a deal over Fourways. They propose:\n\n§YA non-aggression pact between us, and a mutual guarantee of [FOU.GetName]§!.\n\nThis will resolve the issue for now, but it might be reopened later."
+  nf_arroyo.70.db:0 "[FROM.GetName] has attempted to offer us a deal over Fourways. They propose:\n\n§YThat we both guarantee Fourways and receive a monetary compensation§!.\n\nThis may not be ideal, but would allow us to focus on other matters."
+  nf_arroyo.70.dc:0 "[FROM.GetName] has attempted to offer us a deal over Fourways. They propose:\n\n§YThat [FOU.GetName] becomes their puppet in exchange for some monetary compensation for us§!.\n\nThis isn't a good deal, but could put an end to this charade."
+  nf_arroyo.70.dd:0 "[FROM.GetName] has attempted to offer us a deal over Fourways. They propose:\n\n§YThat [FOU.GetName] becomes their puppet in exchange for a small monetary compensation for us§!.\n\nThis isn't a good deal, but could put an end to this charade."
+  nf_arroyo.70.a:0 "We accept."
+  nf_arroyo.70.b:0 "Let's make a counter offer"
+  nf_arroyo.70.c:0 "No deal!"
+
+  nf_arroyo.71.t:0 "Negotiations Break Down"
+  nf_arroyo.71.d:0 "Despite our best efforts, it seems that no deal over the Fourways issue will be reached any time soon. Our diplomats have returned empty-handed, and the race for influence continues."
+  nf_arroyo.71.a:0 "Next time."
+
+  nf_arroyo.72.t:0 "Fourways Debug"
+  nf_arroyo.72.d:0 "If you see this without console commands post it in #bug-reports or on reddit"
+  nf_arroyo.72.a:0 "Okie"
+  nf_arroyo.72.b:0 "40/40 for Arroyo"
+
+  nf_arroyo.73.t:0 "Deal Accepted!"
+  nf_arroyo.73.d:0 "Wisely, [FROM.GetName] has agreed to our terms. This is a major diplomatic breakthrough, and will hopefully put an end to this tiring endeavor."
+  nf_arroyo.73.a:0 "Now, on to other things."
+
+  nf_arroyo.74.t:0 "Without a Hitch"
+  nf_arroyo.74.d:0 "Chitsa methodically closed the binder, sweeping every sprawled paper into its old plastic frame. She paused, smiled, and handed a nearby assistant a silver-lined cap. Without a word the young boy smiled, nodded, and exited. He had been trained well enough, and knew that a cap like this was a sign of good tidings, to be delivered to the same agents behind the contents of Ms. Chitsa's binder.\n\nChitsa, for her part, waited until the assistant exited before reopening the cover and clicking her lighter on. The plans and reports detailed here were far too incriminating. No one could be allowed to know what she had ordered."
+  nf_arroyo.74.a:0 "Eureka burns."
+
+  nf_arroyo.75.t:0 "Eureka Blames Us!"
+  nf_arroyo.75.d:0 "Somehow, the Arroyan people have become the targets of Eurekan blame following the bombing at their port. Certainly a tragedy, few in Arroyo understand why they have become Eureka's targets following the attack. Portmaster Smith has gone so far as to refuse to even meet with the Arroyan council, let alone produce evidence of this supposed plot. War seems to be an inevitablity, and the Arroyan council has declared that force will be responded to with all of Arroyo's might."
+  nf_arroyo.75.a:0 "But, why?"
+
+  nf_arroyo.76.t:0 "On the Homefront"
+  nf_arroyo.76.d:0 "Arroyo has undeniably grown since the Chosen One's departure. We were once a single, united tribe, rallied behind our saviour's presence and agenda. Our incorporation of our neighbours into our territory, either through our influence or direct control, has created a pluralistic nation. In times of crisis, such as now, we need a unifying force to rally the people behind. Thankfully, we are clearly victims of aggression, leading to a general popular support for the war. This could be increased and exploited by deciding on a symbol of Arroyan resistance in the face of Eurekan aggression, further inflaming our people."
+  nf_arroyo.76.da:0 "Glorify our medical advances"
+  nf_arroyo.76.db:0 "Emphasize our preparation"
+  nf_arroyo.76.dc:0 "Demonize the Portmaster ghouls"
+  nf_arroyo.76.ca:0 "We must grit our teeth and fight"
+  nf_arroyo.76.cb:0 "Every action is for Arroyo, or against it"
+  nf_arroyo.76.cc:0 "Refuse to trade with Eurekans!"
+  nf_arroyo.76.na:0 "Defend our home, no matter what"
+  nf_arroyo.76.nb:0 "Be ready to support our armies"
+  nf_arroyo.76.nc:0 "We will attack decisively"
+
+  nf_arroyo.77.t:0 "Guilty Conscience"
+  nf_arroyo.77.d:0 "Try as she might, the words of her agents' reports refused to leave her head. The brutality described, the horror brought, all of those were her doing. She had attacked Eureka. She had ordered the bombing. Her schemes and her designs and her plans and-"
+  nf_arroyo.77.a:0 "Damn it!"
+
+  nf_arroyo.78.t:0 "The Shi Make an Offer"
+  nf_arroyo.78.d:0 "It's no secret that the raw resources in Eureka and the Navarro Territories are incredibly important to the Shi economy. It was quite a surprise, then, when the Shi approached us with an offer. They correctly recognize that we are far stronger than Eureka, and stand to crush them were war to break out. The Shi have offered to use their influence in Eureka to facilitate our takeover, so long as we were to reimburse them for the expense. There's no doubt that the Shi stand to make a hefty profit off this deal, but it might benefit us as well."
+  nf_arroyo.78.a:0 "We'll pay them off, to an extent"
+  nf_arroyo.78.b:0 "We do have caps to spare..."
+  nf_arroyo.78.c:0 "Can't we strike a better deal?"
+  nf_arroyo.78.no:0 "There's no point to this"
+
+  nf_arroyo.79.t:0 "The Eurekan Army"
+  nf_arroyo.79.d:0 "The nature of the Eurekan army is quite different from that of a normal army, such as ours. Instead of acting as a unified fighting force their military is based primarily on acting as small independent strike forces, able to fight freely without conforming to a larger strategy. This style of organization makes them perfect for mercenary work, giving them a fearsome reputation across the West Coast. With enough preparation, we might also turn that organization into their weakness, weakening either their ability to resist our offenses or conduct attacks of their own. Alternatively, we could ignore these possibilities entirely, and instead focus on building control over Eureka's civilian population."
+  nf_arroyo.79.a:0 "Invalidate their fortifications"
+  nf_arroyo.79.b:0 "Prepare for their offensives"
+  nf_arroyo.79.c:0 "Focus on the domestic"
+
+  nf_arroyo.80.t:0 "Mounting Tension"
+  nf_arroyo.80.d:0 "The spies' reports were unanimous. Ships and barges clog Eureka's ports, carrying literal boatloads of mercenaries returning from their foreign deployments. Hasty trenches and bunkers are being erected throughout the border, and whatever supplies the Eurekan scavengers can uncover are being hastily delivered to their army. War is coming, and every Eurekan knows it. Our response to this unprovoked attack must be decisive."
+  nf_arroyo.80.da:0 "Contact friendly officials in Eureka"
+  nf_arroyo.80.db:0 "Gather information on the Eurekan army"
+  nf_arroyo.80.dc:0 "Unleash our ghoul test subjects"
+  nf_arroyo.80.ca:0 "Offer incentives to Eurekan migrants"
+  nf_arroyo.80.cb:0 "Sabotage their scavenging teams"
+  nf_arroyo.80.cc:0 "Plan an invasion through Umbra"
+  nf_arroyo.80.na:0 "Create emergency defensive plans"
+  nf_arroyo.80.nb:0 "Recruit every capable hand"
+  nf_arroyo.80.nc:0 "Nagor should consider hard-hitting tactics"
+
+  nf_arroyo.81.t:0 "The Final Struggle"
+  nf_arroyo.81.d:0 "Eureka's facade of outrage has boiled over. Whatever trickery Portmaster Smith orchastrated to enrage the Eurekan public against Arroyo successfully turned the tragedy at their port into a full-blown war. Our people, while still unsure why Arroyo has been blamed, intend to defend what we've fought for to the last man. The past three years have been spent building alliances and control over the region around us, growing an empire to keep our people protected. We can't, and won't, let all that work slip away now."
+  nf_arroyo.81.a:0 "Once again, war"
+  nf_arroyo.81.b:0 "We've changed their hearts"
+  nf_arroyo.81.c:0 "They know they can't win"
+  nf_arroyo.81.best:0 "In time, we'll be proven right"
+
+  nf_arroyo.82.t:0 "A Show of Trust"
+  nf_arroyo.82.d:0 "Eureka's primary mode of income is their Portmasters, elite mercenaries which travel abroad in exchange for caps sent home to Eureka. These are fearsome fighters, but due to their small numbers are often placed in dangerous situations. We could use some of our military expertise to provide them aid, but this could backfire if we were to come to blows with them."
+  nf_arroyo.82.a:0 "Provide reconnaissance support"
+  nf_arroyo.82.b:0 "Donate sandbags for outposts"
+  nf_arroyo.82.c:0 "Focus on the domestic"
+
+  nf_arroyo.83.t:0 "Building Bridges"
+  nf_arroyo.83.d:0 "What the people of Eureka fear most is foreign domination. Accepting Arroyo as their overlord does imply that, but we can take steps to show that this will be to their benefit, rather than their harm. Eureka's land is mountainous and barren, leaving little space for farming for settlement outside of Eureka itself. We have an impressive engineering corps who could conduct building projects throughout their territory. These projects wouldn't be free, but would help us build a relationship with Eureka."
+  nf_arroyo.83.da:0 "Build new workshops for their craftsmen"
+  nf_arroyo.83.db:0 "Offer them industrial loans"
+  nf_arroyo.83.dc:0 "Offer them extremely high-interest loans"
+  nf_arroyo.83.ca:0 "Pay whatever we need to help them"
+  nf_arroyo.83.cb:0 "A new road between our capitals should help"
+  nf_arroyo.83.cc:0 "Engineers? Saboteurs is a better term"
+  nf_arroyo.83.na:0 "Offer logistical training"
+  nf_arroyo.83.nb:0 "Gift a small shipment of weapons"
+  nf_arroyo.83.nc:0 "Conduct small-scale raids"
+
+  nf_arroyo.84.t:0 "Greater Centralization"
+  nf_arroyo.84.d:0 "Our grip on our region has now been solidified. Having grown from a hopeful tribe into a mighty nation, we can now reconsider how we view the various bodies that agreed to subjugation. While their lack of independence will remain true either way, we could begin to fully integrate them into our nation if we so wished."
+  nf_arroyo.84.a:0 "Begin integration"
+  nf_arroyo.84.b:0 "Leave them their nominal independence"
+
+  nf_arroyo.85.t:0 "Eureka Interferes Against Us!"
+  nf_arroyo.85.d:0 "Eureka's mercenary army has become a consistent thorn in our plans. Our troops have noticed that a number of our current enemy's soldiers seem to be made up of elite Eurekan mercenaries, a stinging blow to our supposedly neutral relationship. News of this betrayal has enraged our citizenry, hastening our recruitment efforts."
+  nf_arroyo.85.a:0 "They'll pay for this!"
+
+  nf_arroyo.86.t:0 "A Returning Hero"
+  nf_arroyo.86.d:0 "In 2279, three years after his departure, the Chosen One returned from his self-imposed exile. Greeted by endless cheers and wild celebrations, everyone in Arroyo was certain that he would again take up the mantle of leadership. The leadership of the Council, which had guided Arroyo to dominate Northern California, had reached its end."
+  nf_arroyo.86.a:0 "Give him a hero's welcome!"
+  nf_arroyo.86.b:0 "Let us not disturb him."
+
+  nf_arroyo.89.t:0 "The Council's New Position"
+  nf_arroyo.89.d:0 "The Chosen One's renewed leadership of Arroyo has returned the Council to their previous position as an advisory board. Still, the time they spent in power has dramatically altered the dynamics of power, shifting how they will advise the Chosen One in the future."
+  nf_arroyo.89.a:0 "So what did you all get up to?"
+
+  nf_arroyo.88.t:0 "The Succession of Arroyo"
+  nf_arroyo.88.d:0 "The past several years have seen a flurry of change and activity. Now it is time to decide who will lead Arroyo once again."
+  nf_arroyo.88.a:0 "Nagor's no bore!"
+  nf_arroyo.88.b:0 "Chitsa's at ya!"
+  nf_arroyo.88.c:0 "Dimitri's peachy!"
+
+ nf_arroyo.90.t:0 "Taxation, Not Tyranny"
+ nf_arroyo.90.d:0 "The charming little town of Arroyo has offered to pay tribute to the Republic in exchange for protection. Some may call that onerous, but we are, really, their only viable trading partner."
+ nf_arroyo.90.a:0 "A wonderful idea!"
+ nf_arroyo.90.b:0 "Today taxes, tomorrow.... territory?"
+
+ nf_arroyo.91.t:0 "A Bribe"
+ nf_arroyo.91.d:0 "Arroyo has offered to pay us in exchange for looking the way if they were to secure Four Ways. Although it would be a useful buffer for us against the North, we could do worse..."
+ nf_arroyo.91.a:0  "A splendid idea!"
+ nf_arroyo.91.b:0 "A terrible idea!"
+
+ nf_arroyo.92.t:0 "Eureka Moment"
+ nf_arroyo.92.d:0 "While some might say the Republic and Arroyo already have too many ideas, Eureka's instructors could be invaluable."
+ nf_arroyo.92.a:0 "Excellent."
+ nf_arroyo.92.b:0 "Different ideas? In this economy?"
+
+ nf_arroyo.93.t:0 "The Eurekan Fisheries"
+ nf_arroyo.93.d:0 "One of the benefits of the agreement over Eureka is access to the fisheries. Amazingly, these are so productive that they benefit both the NCR and Arroyo equally despite their size difference."
+ nf_arroyo.93.a:0 "These will be useful"
+ nf_arroyo.93.b:0 "Sushi? What are we, Shi?"
+
+ nf_arroyo.94.t:0 "Out of Many, One"
+ nf_arroyo.94.d:0 "The Republic, for all its flaws, is the last best hope for the Western coast. It has its critics, its dissidents; but it is a healthy enough society to *have* those. We reject the choking conforming of Vault City, the corruption of Reno, or the despotism of Caesar. Once again, we fight for the cause of freedom."
+ nf_arroyo.94.a:0 "We didn't take out the Enclave for a new tyranny to prevail."
+
+ nf_arroyo.95.t:0 "Friends Again"
+ nf_arroyo.95.d:0 "Let us join the Republic in war, holding out against all forms of tyranny. For whatever their flaws, they did build our ancestor a really nice statue."
+ nf_arroyo.95.a:0 "You know, maybe we should build a statue too?"
+
+ nf_arroyo.96.t:0 "Reopen Max Sec"
+ nf_arroyo.96.d:0 "In hindsight, a prison complex run for profit was a great idea. Let's reopen it, and guard the Wasteland's trash. For is not every person a treasure? Especially if we are paid to guard them?"
+ nf_arroyo.96.a:0 "Bring them in."
+ nf_arroyo.96.b:0 "Keep them out."
+
+ nf_arroyo.97.t:0 "Caps for Guns"
+ nf_arroyo.97.d:0 "Arroyo, as a bunch of peaceful hippies, believes it has too many guns. In turn, as smooth businesspeople, we have plenty of caps and not enough guns. A trade suggests itself!"
+ nf_arroyo.97.a:0 "This is a great deal"
+ nf_arroyo.97.b:0 "I've heard worse ideas."
+
+ nf_arroyo.98.t:0 "Vault City training"
+ nf_arroyo.98.d:0 "Valult City's army has come a long way, and our technology has helped us develop. Why shouldn't we assist our fellow Vault Dwellers?"
+ nf_arroyo.98.a:0 "Progress through peace."
+ nf_arroyo.98.b:0 "This is unneccesary."
+
+ nf_arroyo.99.t:0 "Klamath Trappers"
+ nf_arroyo.99.d:0 "The trappers of Klamath are famous for finding some of the greatest skins and pelts in California. We won't need to worry about nuclear winter anymore once we employ them!"
+ nf_arroyo.99.a:0 "Patrolling the Mojave will almost make you miss our fashion sense."
+ nf_arroyo.99.b:0 "This is not environmentally friendly!"
+
+ nf_arroyo.100.t:0 "The Yakuza Connection"
+ nf_arroyo.100.d:0 "Although we really doubt that these are actual Japanese people, it can't hurt to honour their customs as we hire them."
+ nf_arroyo.100.a:0 "The Chosen One did dumber things."
+ nf_arroyo.100.b:0 "...But did he, tho?"
+
+ nf_arroyo.101.t:0 "Modoc Breadbasket"
+ nf_arroyo.101.d:0 ""
+ nf_arroyo.101.a:0 "This will greaten our prosperity"
+ nf_arroyo.101.b:0 "We don't need this"
+
+ nf_arroyo.102.t:0 "The Nevada Pact"
+ nf_arroyo.102.d:0 ""
+ nf_arroyo.102.a:0 "We shall make this great"
+
+ nf_arroyo.103.t:0 "Eastern Allies"
+ nf_arroyo.103.d:0 "The savages under Thunderbird could be useful allies against the Republic. Let us appeal for their assistance."
+ nf_arroyo.103.a:0 "We could use some assistance against the NCR"
+
+ nf_arroyo.104.t:0 "This means War"
+ nf_arroyo.104.d:0 ""
+ nf_arroyo.104.a:0 "War never changes"

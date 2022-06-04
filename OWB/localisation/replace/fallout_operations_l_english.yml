@@ -142,6 +142,21 @@
   operation_securitron_heist:0 "The Securitron Heist"
   operation_securitron_heist_desc:0 "Securitrons may be the favored toy of Vegas, but they are truly just remnants of Old World arrogance. Elijah has decided that only the brotherhood is capable of controlling them, and is planning an operation to recover a number of stored securitron units."
 
+  operation_construct_cell:0 "Construct an Infiltration Cell"
+  operation_construct_cell_desc:0 "As has long been practiced, our operatives will infiltrate our enemy's territory and create a network of operatives and informants throughout their territory. This operation will be expensive, but it will open the door for lucrative future endeavors, as well as possible expansion."
+
+  operation_steal_weapons:0 "Steal Guns and Supplies"
+  operation_steal_weapons_desc:0 "Our target has begun to stockpile a massive amount of guns and ammunition. However, their military lacks the discipline to effectively safeguard these stockpiles, making them an easy target for our machinations."
+
+  operation_shi_weaken_leadership: "Weaken Leadership"
+  operation_shi_weaken_leadership_desc: "Our targets' control of their territory may be more precarious than they realize. Well placed pressure could slow their political growth, all to our advantage."
+
+  operation_shi_target_supplies: "Target Supplies"
+  operation_shi_target_supplies_desc: "Administering vast swaths of territory has clearly weakened our target's ability to supply their fighters. Many of their supply caravans now travel with minimal guards, ripe for swift attacks."
+
+  operation_shi_gather_intelligence: "Gather Intelligence"
+  operation_shi_gather_intelligence_desc: "We still know too little about our enemy's plans and movements. We must make a concentrated effort to uncover their designs."
+
   #Operation Phases
   make_underworld_connections:0 "Make Underworld Connections"
   make_underworld_connections_desc:0 "We know a pack of drugged-out killers. They're addicted to every stim, every pill, every psychoactive enema on this fucked-up Earth. Let’s see if they’ll work with us."
@@ -321,3 +336,9 @@
   operation_raid_country_tt:0 "Our raid was a §Gsuccess!§!"
   operation_nuke_vp_tt:0 "We will deploy a §Ydirty bomb§! against them!"
   operation_nuke_vp_result_tt:0 "The dirty bomb went off as planned, turning the area into a radioactive hellhole."
+
+  shi_cell_infiltration_tt: "A §YShi cell§! will be created in our target's territory."
+
+  # Flags
+  shi_cell: "Shi Cell"
+  shi_expelled: "Shi Successfully Expelled"

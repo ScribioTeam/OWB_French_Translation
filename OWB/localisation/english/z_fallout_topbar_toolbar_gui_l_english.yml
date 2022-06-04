@@ -32,7 +32,11 @@
 
   string_fallout_tab_button_tt_7:0 "Our §YConstitution§!"
 
-  string_fallout_tab_button_tt_8:0 "§YAdditional Map Modes§! \nView OWB's Custom Map modes. \n§RThis can take a long time to load the first time!§!"
+  string_fallout_tab_button_tt_8:0 "§YItem Inventory§! \nSee all the items you have in your inventory and equip some to gain bonuses."
+
+  string_fallout_tab_button_tt_9:0 "§YItem Loot Box§! \nBuy Loot Boxes that can include items."
+
+  string_fallout_tab_button_tt_10:0 "§YAdditional Map Modes§! \nView OWB's Custom Map modes. \n§RThis can take a long time to load the first time!§!"
 
   popup_hover_over_tooltip:0 "[GetPopupTooltip]"
   node_level_up_popup_tooltip:0 "[GetNodeLevelUpPopUp]"
@@ -45,7 +49,7 @@
   node_new_node_popup_tooltip_tt:0 "§Y[?new_node_state.GetName]§! has become a center for commerce in the wasteland and is the primary hub for §Y[THIS.GetName]§!!"
   node_new_node_popup_tooltip_tt_short:0 "§Y[?new_node_state.GetName]§! has become a center for commerce in the wasteland!"
   puppet_taxation_popup_tooltip:0 "[GetPuppetTaxPopup]"
-  puppet_taxation_popup_tooltip_tt:0 "Taxes can be levied on §Y[?puppet.GetName]§!. \n  We currently tax: [?taxes_var_for_overlord|2=+] [GetCapType] from §Y[?puppet.GetName]§!\n  Their current taxable income is [PrecalculateTaxableIncome]\n    §gTaxes can be raised, lowered, and updated in the puppet ledger under the 'Misc' tab on the top bar."
+  puppet_taxation_popup_tooltip_tt:0 "Taxes can be levied on §Y[?puppet.GetName]§!. \n  We currently tax: [GetTaxedAmountFromPuppet] [GetCapType] from §Y[?puppet.GetName]§!\n  Their current taxable income is [PrecalculateTaxableIncome]\n    §gTaxes can be raised, lowered, and updated in the puppet ledger under the 'Misc' tab on the top bar."
   node_new_org_popup_tt:0 "[GetNodeNewOrgPopup]"
   puppet_taxation_popup_icon:0 "GFX_puppet_tax_icon"
   node_new_org_popup_tooltip_tt:0 "§Y[?org_state.GetName]§! has become home to the §G[GetOrganizationName]§!\nWe can now trade for goods, and build business relations with them!"

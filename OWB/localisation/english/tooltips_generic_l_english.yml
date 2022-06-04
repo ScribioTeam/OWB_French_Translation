@@ -42,3 +42,6 @@
   #Advisor tooltips
   available_cultural_advisor:0 "§GAvailable§! as §YCultural Advisor§!:\n"
   available_economic_advisor:0 "§GAvailable§! as §YEconomic Advisor§!:\n"
+
+  # Tooltip for Advisors that can't be removed, because again: why paradox? has to be placed in modifier block or trait as custom_modifier_tooltip
+  advisor_cant_be_removed_tt:0 "This Advisor can not be §Rremoved§!."

@@ -7,6 +7,8 @@
   FOCUS_FILTER_GLORY_AURELIUS:0 "Path of Aurelius"
   FOCUS_FILTER_GLORY_LUCIUS:0 "Path of Lucius"
   FOCUS_FILTER_GLORY_CAESAR:0 "Path of Caesar"
+  FOCUS_FILTER_GLORY_LANIUS:0 "Path of Lanius"
+  FOCUS_FILTER_GLORY_EAST:0 "Path of the East"
   FOCUS_FILTER_NAVAJO:0 "Diplomacy with the Navajo"
   FOCUS_FILTER_GENTE:0 "Diplomacy with Gente Del Sol"
   FOCUS_FILTER_UTAH:0 "Diplomacy with Utah"
@@ -22,15 +24,6 @@
 
   ces_caesar_son_of_mars:0 "Caesar, Son Of Mars"
   ces_caesar_son_of_mars_desc:0 "Caesar's will is law. He is a god amongst men, the son of the god of war, Mars. All in his legion live to serve him, as a blade serves his master. He is the teacher and master of the tribes under him - and in his conquest, taught them many lessons."
-
- # Alea Iacta Est sub-tree
-  ces_alea_iacta_est:0 "Alea Iacta Est"
-  ces_alea_iacta_est_desc:0 "Alea Iacta Est, the die is cast, the words spoken by Caesar's namesake as he stood against Rome. These are the words that began the immortal empire, the words that shall again herald Caesar's great empire."
-
-  ces_the_hangdogs:0 "The Hangdogs"
-  ces_the_hangdogs_desc:0 "In the ruined city of Denver, now called Dog City, the Hangdog tribe roams with packs of vicious dogs. They worship these dogs, and believe they are spiritually bound to them."
-
-
 
   ces_legion_mongrels:0 "Legion Mongrels"
   ces_legion_mongrels_desc:0 "The Hangdogs tribe had an impressive mastery of dogs, and with their tribe fully assimilated, we can use great divisions with wardogs in our Legion. The wardogs are great for breaking enemy lines."
@@ -140,32 +133,32 @@
   ces_legionary_utah_desc:0 "Our subjects crushed the Canaanites, and control the riches of Utah.  Obviously we will get a cut as well."
 
   # Ultima relations
-  ces_loyal_tribe:0 "The Loyal Tribe"
-  ces_loyal_tribe_desc:0 "Two Sun has served us well in the past. Now that the fate of Cowboy country is being decided, they will expect us to reward them appropriately."
+  ces_loyal_tribe: "The Loyal Tribe"
+  ces_loyal_tribe_desc: "Two Sun has served us well in the past. Now that the fate of Cowboy country is being decided, they will expect us to reward them appropriately."
 
-  ces_two_nas:0 "Embrace Cult of Nas"
-  ces_two_nas_desc:0 "Cult of Nas is a Two Sun religion, which Legion tolerates as it sees the Caesar as on of its Gods. We should accept worshippers of Sr. in our lands, so they can maintain our roads. Moreover, Cult of Vulcan has a lot to learn from them."
+  ces_two_nas: "Embrace Cult of Nas"
+  ces_two_nas_desc: "Cult of Nas is a Two Sun religion, which Legion tolerates as it sees the Caesar as on of its Gods. We should accept worshippers of Sr. in our lands, so they can maintain our roads. Moreover, Cult of Vulcan has a lot to learn from them."
 
-  ces_two_motorized:0 "Chariots for the God"
-  ces_two_motorized_desc:0 "Two Sun has many technologies hidden in its garages. And while Legion won't openly those, we can use their vehicle designs."
+  ces_two_motorized: "Chariots for the God"
+  ces_two_motorized_desc: "Two Sun has many technologies hidden in its garages. And while Legion won't openly those, we can use their vehicle designs."
 
-  ces_outsiders_gente:0 "The Mexican Charisma"
-  ces_outsiders_gente_desc:0 "[GDH.GetLeader] is a know profligate. But he understands well what Legion needs. Maybe we can come to some kind of agreement."
+  ces_outsiders_gente: "The Mexican Charisma"
+  ces_outsiders_gente_desc: "[GDH.GetLeader] is a know profligate. But he understands well what Legion needs. Maybe we can come to some kind of agreement."
 
-  ces_cowboy_country:0 "The Decision"
-  ces_cowboy_country_desc:0 "Caesar has gathered his most trustworthy warriors to make the final decision."
+  ces_cowboy_country: "The Decision"
+  ces_cowboy_country_desc: "Caesar has gathered his most trustworthy warriors to make the final decision."
 
-  ces_friendship:0 "Fors Iuvat Audentes"
-  ces_friendship_desc:0 "§OFors Iuvat Audentes§! goes the old saying and by letting our current and future subject compete against one another we not only ensure that the most worthy receives these lands, but also stand to potentially profit from both sides."
+  ces_friendship: "Fors Iuvat Audentes"
+  ces_friendship_desc: "§OFors Iuvat Audentes§! goes the old saying and by letting our current and future subject compete against one another we not only ensure that the most worthy receives these lands, but also stand to potentially profit from both sides."
 
-  ces_two_conquest_cow:0 "A Lumine Motus"
-  ces_two_conquest_cow_desc:0 "Will Faster and his racers have served the legion dutifully for many years and there loyalty is unquestioned. The bonds that tie Two Sun and the Legion together run far deeper than the simple relationship between overlord and subject. Today we shall honour this friendship by bestowing this coveted land on them."
+  ces_two_conquest_cow: "A Lumine Motus"
+  ces_two_conquest_cow_desc: "Will Faster and his racers have served the legion dutifully for many years and there loyalty is unquestioned. The bonds that tie Two Sun and the Legion together run far deeper than the simple relationship between overlord and subject. Today we shall honour this friendship by bestowing this coveted land on them."
 
-  ces_gdh_take_shore:0 "Ubi Proxima Merces"
-  ces_gdh_take_shore_desc:0 "The Generalissimo has made us an offer we simply can not refuse, a fleet capable of challenging the NCR's dominance over the Gulf, a project for which he  is going to require the production capabilities of the  ports of [444.GetName]."
+  ces_gdh_take_shore: "Ubi Proxima Merces"
+  ces_gdh_take_shore_desc: "The Generalissimo has made us an offer we simply can not refuse, a fleet capable of challenging the NCR's dominance over the Gulf, a project for which he  is going to require the production capabilities of the  ports of [444.GetName]."
 
-  ces_upgrade_port:0 "The Navy of the Bull"
-  ces_upgrade_port_desc:0 "No matter the owner, [444.Getname] must become Legion's forward navy base. If we can challenge the NCR's position in Baja, it will surely stagger their strategic position up the river."
+  ces_upgrade_port: "The Navy of the Bull"
+  ces_upgrade_port_desc: "No matter the owner, [444.Getname] must become Legion's forward navy base. If we can challenge the NCR's position in Baja, it will surely stagger their strategic position up the river."
 
   # Mexico sub-tree
   ces_mexico_expansion:0 "Mexican Expansion"
@@ -576,13 +569,13 @@
   ces_imperial_road_network:0 "All Roads Lead to [CES.Capital.GetName]"
   ces_imperial_road_network_desc:0 "Like the Romans of old, our infrastructure system must be worthy of a true empire if we ever hope to make the Legion a truly glorious superpower! Roads, supply lines, depots, let Legion territory be the mightiest of the wastes, for all road will lead to [CES.Capital.GetName]!"
   ces_road_north:0 "Via Borealis"
-  ces_road_north_desc:0 "Let us unite the northern empire."
+  ces_road_north_desc: "Let us unite the northern empire."
   ces_grognak:0 "Promote Comic Books"
   ces_grognak_desc:0 "Grognak is not just a fun read for Aurelius. It's a way to teach the masses to read and build a common culture. Say hello to Grognak, hero of the Legion!"
   ces_imperial_roads:0 "The Imperial Roads"
-  ces_imperial_roads_desc:0 "Did you not hear? All roads lead to Rome."
+  ces_imperial_roads_desc: "Did you not hear? All roads lead to Rome."
   CES_legalize_chems:0 "Profit from the Chem Trade"
-  CES_legalize_chems_desc:0 "Although we will never let people use jet, why should our soldiers not use stimpaks or Radaway? There is nothing inherently weak in using a tool."
+  CES_legalize_chems_desc: "Although we will never let people use jet, why should our soldiers not use stimpaks or Radaway? There is nothing inherently weak in using a tool."
   CES_road_security:0 "The Greatness of the Empire"
   CES_road_security_desc:0 "With the exception of some outlying portions, the Legion is penetrated by roads. There is hardly a district to which we might expect a Legionary to be sent, on service either civil or military, where we do not find roads. They run from the Colorado to the Rio Grande, and bind us together."
   CES_coloniae:0 "The Coloniae"
@@ -669,13 +662,13 @@
   ces_tax_arizona_desc:0 "Who among us can live with the consuming fire? Who among us can live with continual burning?"
   ces_tax_arizona_tt:0 "Increases Tariff Production"
   ces_southern_tithe:0 "The Sinners of Phoenix"
-  ces_southern_tithe_desc:0 "For too long the water merchants kept their riches from the poor. No longer. Now let them beg for the droppings of the betters."
+  ces_southern_tithe_desc: "For too long the water merchants kept their riches from the poor. No longer. Now let them beg for the droppings of the betters."
   ces_northern_tithe:0 "The Fools of Flagstaff"
-  ces_northern_tithe_desc:0 "But I say to you that everyone who is angry with his brother will be liable to judgment; whoever insults his brother will be liable to the council; and whoever says, ‘You fool!’ will be liable to the hell of fire."
+  ces_northern_tithe_desc: "But I say to you that everyone who is angry with his brother will be liable to judgment; whoever insults his brother will be liable to the council; and whoever says, ‘You fool!’ will be liable to the hell of fire."
   ces_western_tithe:0 "The Heathens of the West"
   ces_western_tithe_desc:0 "Let us tax the profligates to the west to trade through our lands. Some may complain, but what do they matter?"
   ces_eastern_tithe:0 "The Abominable Easterners"
-  ces_eastern_tithe_desc:0 "He who justifies the wicked and he who condemns the righteous are both alike an abomination to the Lord."
+  ces_eastern_tithe_desc: "He who justifies the wicked and he who condemns the righteous are both alike an abomination to the Lord."
   ces_decimation:0 "Decimate The Wicked"
   ces_decimation_tt:0 "remember caps stuff"
   ces_servus_non_habet:0 "A Slave Has No Personhood"
@@ -690,11 +683,11 @@
   ces_northern_bastion_trigger_tt:0 "Requires at least 1,000 slaves"
   ces_northern_bastion_tt:0 "Lose 100 slaves"
   ces_northern_bastion:0 "The Northern Bastion"
-  ces_northern_bastion_desc:0 "We must fortify our northern border!"
+  ces_northern_bastion_desc: "We must fortify our northern border!"
   ces_southern_bastion:0 "The Southern Bastion"
-  ces_southern_bastion_desc:0 "Behold, our Southern Fortifications."
+  ces_southern_bastion_desc: "Behold, our Southern Fortifications."
   ces_eastern_bastion:0 "The Eastern Bastion"
-  ces_eastern_basion_desc:0 "Yes, these are Eastern Bastions. Not everything can be a gem."
+  ces_eastern_basion_desc: "Yes, these are Eastern Bastions. Not everything can be a gem."
   ces_honesta_industria_prudentia_tt:0 "Will unlock decisions too boost your number of slaves and provide... further uses for them."
   ces_dam_start:0 "The Rubicon"
   ces_dam_start_desc:0 "One of our frumentarius has found a place across a river deep and wide. A span where steel and water did collide, a town called Boulder on the wild Colorado..."
@@ -996,6 +989,22 @@
   ces_lanius_texas_master_desc:0 "Graham's overconfidence forever branded him with fire, I will not follow his trail of fire into the depths of the Grand Canyon. The Republic shall keep their Old World gate this day, I shall return East. When I return, I shall have all the armies of the Legion with me."
   lanius_strong_scary:0 "The Monster of the World"
   lanius_strong_scary_desc:0 "Nineteen tribes could not beat him.  All the lights of Vegas could not. Neither Brotherhoods nor Republics, goddesses or wolves, stood against him. What hope has anyone against Lanius, the Master of the World?"
+
+  ces_every_tool:0 "Using §GEvery§! §9Tool§!"
+  ces_every_tool_desc:0 "Wise [CES.GetLeader] teaches us that everyone in the Legion is like a tool working for the good of the Legion.\nSo does it matter what that tool looks like if its work serves the Legion?"
+  ces_somnus_warriors:0 "§2Warriors of Somnus§!"
+  ces_somnus_warriors_desc:0 "In the wasteland you rarely meet a Nightkin and those who we did meet, did not cooperate with the Legion.\nHowever, after the capture of New Vegas, a group of Nightkins, led by Keen, offered a deal. They will join the Legion, but demand help in finding Dr. Henry, who was investigating the source and the cure for their schizophrenia.\nFinding one man is no problem for the Legion Frumentarii, especially since his studies if successful, increase Nightkin's benefit to the Legion."
+  ces_might_of_goliaths:0 "The Will of Antler?"
+  ces_might_of_goliaths_desc:0 "Antler's will? What is this lunatic talking about? Oh, he seems to be talking about a bramble skull in his hands.\nCan this lunatic be of any use at all? "
+  ces_goliaths_problems:0 "§2Giants Problems§!"
+  ces_goliaths_problems_desc:0 "An instrument is not supposed to think, but our new instruments seem to have a lot to think about."
+  ces_trolls_might:0 "F.E.V. Pools"
+  ces_trolls_might_desc:0 "Looking at the pools of F.E.V, it becomes clear how the Trolls maintained their numbers. The Legion does not aim to turn humans into supermutants, but the pools can be used to dip other supermutants into them. Who knows, maybe it can make them stronger."
+  ces_green_texas:0 "Green Texas"
+  ces_green_texas_desc:0 "The Giants fell in Texas, but among them were those who gave a decent fight to the Legion's forces. One of them, Shale, was asked to command the stalwart like him instead of hanging on a cross.\nAnd Shale accepted the offer."
+  ces_legion_of_hades:0 "Legion of Hades"
+  ces_legion_of_hades_desc:0 "The idea of the Legion of Hades as a legion made up of mutants was proposed by Centurion Caius Drusus, who also offers to lead it, being the only high ranking mutant in the Legion.\nEvery tool has a purpose, and the mutants have found their."
+
   #### Flags
   CES_won_hoover_dam_first:0 "Won the First Battle of Hoover Dam"
   subordinate_must_border_us_or_a_country_we_are_at_war_with:0 "§RThey must border us or a country we are at war with.§!"

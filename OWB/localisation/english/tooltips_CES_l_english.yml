@@ -20,3 +20,11 @@
 
   NAV_heal_caesar_trigger_tt:0 "Caesar's health has worsened."
   caesar_was_healed_tt:0 "§YCaesar's pains have eased.§!"
+
+  ces_davison_and_antler_tt: "\n§YDavison... and Antler?§! become a Unit Leader\n§LLevel§!: §Y4§!\n§RAttack Skill§!: §Y4§!\n§GDefense Skill§!: §Y1§!\n§PPlanning Skill§!: §Y1§!\n§MLogistics Skill§!: §Y1§!\n\n"
+  ces_keen_tt: "§LLevel§!: §Y4§!\n§RAttack Skill§!: §Y4§!\n§GDefense Skill§!: §Y2§!\n§PPlanning Skill§!: §Y1§!\n§MLogistics Skill§!: §Y2§!\n\n"
+  ces_shale_tt: "§LLevel§!: §Y5§!\n§RAttack Skill§!: §Y4§!\n§GDefense Skill§!: §Y2§!\n§PPlanning Skill§!: §Y3§!\n§MLogistics Skill§!: §Y3§!\n\n"
+  ces_giants_tt: "§YWhat the §Ggiants§! could worry about?§!"
+  ces_nightkins_migration_tt: "\n§Y§2Nightkins§! have learned that a cure has been found, and now seek to enter the lands of the Legion in the hope of being cured.§!"
+  ces_shizo_davison:0 "Antler and Davison"
+  ces_cured_davison:0 "Davison"

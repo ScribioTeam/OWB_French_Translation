@@ -9,6 +9,7 @@
 
   EHT_nomadic:0 "The Open Road"
   EHT_nomadic_desc:0 "The Eighties go where they will. You will never see so few people range over so much land."
+  EHT_nomadic_tt: "Every week, they will gain §O25 infantry equipment§! and  §O5 motorized equipment §! from plunder."
 
   EHT_great_convoy:0 "The Great Convoy"
 
@@ -17,6 +18,14 @@
   EHT_area_51_garages:0 "The Garages of Area 51"
 
   EHT_nomadic2:0 "The Open Road"
+  EHT_nomadic2_tt: "Every week, they will gain §O35 infantry equipment§! and  §O7 motorized equipment §! from plunder."
+  eighties_raygun: "The Dwarves' Raygun"
+  faith_great_eighty_idea: "I'm Coming Home"
+  EHT_zoom: "Floor It"
+  EHT_skilled_cunning_craftsmen: "Stealing Fire"
+  EHT_skilled_cunning_craftsmen_desc: "Of the four elements: air, earth, water, and fire; Ford stole only one from the gods. Fire. And with it, he forged his will upon the world."
+  EHT_EHT_skilled_cunning_craftsmen_tt:0 "\nYour skilled, cunning craftsmen will forge §O35 infantry equipment§! and  §O10 motorized equipment§! a week."
+  EHT_steam_cores: "The Stolen Steam Cores"
 
   EHT_gas_station:0 "The Gas Station"
 
@@ -54,11 +63,13 @@
 
   EHT_idea_stable_production:0 "Workshops"
 
-  EHT_idea_nomadic_flexibillity:0 "Free Spirits"
+  EHT_idea_nomadic_flexibillity:0 "Grav Plates"
 
   EHT_idea_old_world_arteries:0 "Old World Arteries"
 
   EHT_liberation:0 "Liberation of the Eighties"
+  EHT_thunderbird_dissent: "Thunderbird's Dissent"
+  EHT_thunderbird_dissent_desc: "The cowardly man thinks he’ll live for ever, if he keeps away from fighting; but old age won’t grant him a truce even his spears spare him. \n\nThunderbird will continue to rally warriors to his cause until the leadership crisis is resolved, but he's one hell of a warrior."
 
   EHT_the_devils_of_utah:0 "The Devils of Utah"
   EHT_the_devils_of_utah_desc:0 "§gThe Eighties are seen by many as the scum of the earth, the devils of Utah!§!\n\n§GIf any country successfully invades, conquers and liberates the conquered territory of the Eighties without taking the land directly they will surely be seen as a saviour of the people!§!"
@@ -66,3 +77,4 @@
   EHT_the_sacred_garage_desc:0 "Through their time on the open road, the Eighties have accumulated a stockpile to power and sustain their war machines."
   EHT_the_sacred_garage2:0 "The Holy Temple"
   EHT_the_sacred_garage2_desc:0 "The lands around Aragonite were once a waste disposal facility for the poisons of the Old World. There is much we can salvage from them, if only we dispatch slaves to do the work for us."
+  EHT_thunderbird_rises: "The Great Drive West"

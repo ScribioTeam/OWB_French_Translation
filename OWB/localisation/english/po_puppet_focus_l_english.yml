@@ -1,13 +1,14 @@
 ﻿l_english:
 
+#NCR
 ncr_puppet_bear_victorious:0 "The Bear Victorious"
-ncr_puppet_bear_victorious_desc:0 "The Bear Victorious"
+ncr_puppet_bear_victorious_desc:0 "Despite our peoples best efforts, the New California Republic has bested us..."
 
 ncr_puppet_capital_siege:0 "The Siege of [Root.Capital.GetName]"
-ncr_puppet_capital_siege_desc:0 "The Siege of [Root.Capital.GetName]"
+ncr_puppet_capital_siege_desc:0 "The Siege of [Root.Capital.GetName] was one of the final battles in our war against the NCR. Clearly, we lost."
 
 ncr_puppet_ncrta:0 "The N.C.R. Territoral Administration"
-ncr_puppet_ncrta_desc:0 "The N.C.R. Territoral Administration"
+ncr_puppet_ncrta_desc:0 "The N.C.R. Territoral Administration is an arm of the NCR that has established itself in our nation, at least for now."
 
 ncr_puppet_subduing_warchiefs:0 "Subduing the Warbands"
 ncr_puppet_subduing_warchiefs_desc:0 "While we may have pacified the majority of the region, the remaining raiders have yet to recognise their new lot in life. By making an example of the most rebellious of the warchiefs, we can convince the rest of the raiders to integrate peacefully."
@@ -36,26 +37,137 @@ ncr_puppet_introduce_law_desc:0 "The wasteland is a lawless place, like the West
 ncr_puppet_taxes_for_infrastructure:0 "Taxes for Infrastructure"
 ncr_puppet_taxes_for_infrastructure_desc:0 "Freedom isn't free, and sadly, neither are roads. To better integrate frontier states into the republic, we will use our new taxpayers to fund infrastructure in the region."
 
-ncr_puppet_ncr_draft:0 "The N.C.R. Draft"
-ncr_puppet_ncr_draft_desc:0 "Now that we have won the hearts of minds of the people, we need to protect them. Fresh recruits who can patrol the region will build security and patriotism for our new state."
-
-ncr_puppet_introducing_trade:0 "Reintroduce Trade"
-ncr_puppet_introducing_trade_desc:0 "With the roads now secured, we need to prioritize new trading opportunities in the region, N.C.R. based caravan companies can start bringing wealth from the capital to us."
-
-ncr_puppet_creating_defense_militia:0 "Defensive Militias"
-ncr_puppet_creating_defense_militia_desc:0 "While our recruits may not meet the standards of the N.C.R., They have everything to lose when fighting for their state. By focusing our troop capabilities on defense, we can maximise our effective fighting strength."
-
-ncr_puppet_light_of_civilisation:0 "Light of Civilisation"
-ncr_puppet_light_of_civilisation_desc:0 "While we don't have the population of Shady Sands, or the technology of Dayglow, we still have one thing in common with these great cities, civilisation. We are the newest bright light of humanity in the wasteland, and we're damn proud of this."
-
-ncr_puppet_new_industry:0 "New Industry"
-ncr_puppet_new_industry_desc:0 "With more and more citizens able to work, and with our infrastucture now with a capability to support it, we can finally invest in a proper industrial region in our state."
-
-ncr_puppet_embracing_the_future:0 "Embracing The Future"
-ncr_puppet_embracing_the_future_desc:0 "For too long, our people have been stuck in the Old World Blues, unable to move on from the past. But now, the future is bright, and our state will be among the first to embrace it."
-
 ncr_puppet_ncr_state:0 "A new N.C.R. State"
 ncr_puppet_ncr_state_desc:0 "Industry is thriving, culture is flowering, people are dying less and generally being more polite. The N.C.R. has a new, loyal state, and it's all thanks to the hard-working men and women in the Territorial Administration."
+
+NCR_puppet_military_rule:0 "Military Command"
+NCR_puppet_military_rule_desc:0 "Since our arrival, we have been subjected to numerous attacks and skirmishes by criminal groups. This is unacceptable, and with permission granted the Territorial Administration will be replaced by a group of promising Generals and Soldiers."
+
+ncr_puppet_ncr_draft:0 "The N.C.R. Draft"
+ncr_puppet_ncr_draft_desc:0 "Now that we have won the hearts of minds of the people, we need to protect them. Fresh recruits who can patrol the region will build security and patriotism for our new state. They aren't going to be just doing it for us, but themselves."
+
+NCR_puppet_expeditionary_control:0 "Expeditionary Control"
+NCR_puppet_expeditionary_control_desc:0 "Rather then directly ruling this new territory, we can allow these people to rule themselves directly while we watch over them, providing guidance and assistance."
+
+NCR_puppet_scavenging_the_battlefield:0 "Scavenging the Battlefield"
+NCR_puppet_scavenging_the_battlefield_desc:0 "Our recent conflicts have left vast fields of salvage, scrap, and weapons we can repair. It's better we get to them first before scavs and other groups pick them clean."
+
+
+NCR_puppet_territorial_administration_leadership:0 "Territorial Administration"
+NCR_puppet_territorial_administration_leadership_desc:0 "With some hesitation by the locals to accept us, efforts must be done to gain their trust. Food must be handed out, and militia's must be re-established."
+
+NCR_puppet_propaganda_posters:0 "Propaganda Posters"
+NCR_puppet_propaganda_posters_desc:0 "To fully ensure the trust and get them to accept us, we must begin spreading propaganda that will draw them closer to us. Is it deception, yes, but it's a sacrafice the T.A. Is willing to make."
+
+NCR_puppet_baron_expansion:0 "The Barons"
+NCR_puppet_baron_expansion_desc:0 "This territory is ripe for exploitation. Not just agriculturally, but production wise. We'll be able to turn this state into a production powerhouse and keep the NCR happy."
+
+NCR_puppet_new_farms:0 "New Farms"
+NCR_puppet_new_farms_desc:0 "Now that we are settled, we must exploit this territory as much as possible. This starts with feeding the people, and planting a vast amount of cash crops."
+
+
+NCR_puppet_new_trooper_standards:0 "New Trooper Standards"
+NCR_puppet_new_trooper_standards_desc:0 "With our arrival in the region, we were charged with having new military standards: a new uniform for our administration, new weapons etc. We must ensure our forces can stand side by side with those of California."
+
+NCR_puppet_pacification:0 "Territorial Pacification"
+NCR_puppet_pacification_desc:0 "In order to protect the interests of the Californian government we must eradicate the raider gangs with all the force we have. And not just the raiders, the deathclaws, and the mirelurks too!"
+
+
+NCR_puppet_working_with_locals:0 "Working With Locals"
+NCR_puppet_working_with_locals_desc:0 "The locals are interested in clearing out an old abandoned town and using that space in the future to build factories. We'll assist them with this, both for leverage and to ensure their loyalty"
+
+NCR_puppet_increasing_taxes:0 "Increasing Taxes"
+NCR_puppet_increasing_taxes_desc:0 "We need money to fund our operations in the state, and unfortunately money doesn't fall from the sky. We're going to have to take from the pockets of locals, but with the good will we've earned they shouldn't mind too much.."
+
+
+NCR_puppet_bringing_in_followers:0 "Bringing In Followers"
+NCR_puppet_bringing_in_followers_desc:0 "We need to help the locals as much as we can, and the Followers will do just that for us for a minor free. We will give them the facilities and resources they need to settle in and begin helping the people."
+
+NCR_puppet_closer_to_california:0 "Closer To California"
+NCR_puppet_closer_to_california_desc:0 "We are becoming more and more integrated into the political system of the Republic, and many locals are destined to be excellent citizens."
+
+
+NCR_puppet_new_quotas:0 "New quotas"
+NCR_puppet_new_quotas_desc:0 "With each passing week, the Californian government puts pressure on us: they need more and more of our precious resources. Let's speed up the process."
+
+NCR_puppet_worker_encouragement:0 "Worker Encouragement"
+NCR_puppet_worker_encouragement_desc:0 "There are no greater rewards than caps in the pockets and encouragement for a job well done. For now, let's give them our best encouragement and they'll keep up the work!."
+
+
+NCR_puppet_extra_tools:0 "Extra Tools"
+NCR_puppet_extra_tools_desc:0 "To increase our production, we must have better machinery to assist our workers."
+
+NCR_puppet_new_workshops:0 "New Workshops"
+NCR_puppet_new_workshops_desc:0 "Due to the recruitment of many workers and the acquisition of advanced machinery we are finally able to acquire new workshops provided by the California government."
+
+ncr_puppet_settler_expanding_production:0 "Beginning Vehicle Production"
+ncr_puppet_settler_expanding_production_desc:0 "As a member state of the NCR, it is our new duty to produce vehicles for them. In doing so, we will eventually be able to form our own motorized units."
+
+ncr_puppet_settler_gunrunner_facilities:0 "Restoring Garages"
+ncr_puppet_settler_gunrunner_facilities_desc:0 "In order to fill our production gaps we have to clear out some old garages and convert them to be able to produce and repair our many vehicles."
+
+ncr_puppet_settler_hiring_experts:0 "Hiring Highwaymen Experts"
+ncr_puppet_settler_hiring_experts_desc:0 "The highwaymen of the wastes, while very irritating, can prove to be very useful when it comes to learning about vehicles. We'll reach out to a few retired ones and get their advice, or at worst make them pay for their former crimes."
+
+NCR_puppet_arms_for_the_troops:0 "Arms For The Troops"
+NCR_puppet_arms_for_the_troops_desc:0 "We cannot let our military forces sit in a logistical void like many of the armies in the Wasteland. Our soldiers will be equipped and ready."
+
+NCR_puppet_gunrunner_strongholds:0 "Gun Runner Strongholds"
+NCR_puppet_gunrunner_strongholds_desc:0 "The Gun Runners workshops are a must for a military unit, and we are lucky to be able to take advantage of them."
+
+ncr_puppet_settler_supporting_the_ncr:0 "Supporting The NCR"
+ncr_puppet_settler_supporting_the_ncr_desc:0 "In the struggle for democracy, the N.C.R. is the leader. We must give it all our support and provide it with weapons."
+
+ncr_puppet_settler_sending_recruits_to_the_ncr:0 "Sending Recruits and Beaurecrats to the NCR"
+ncr_puppet_settler_sending_recruits_to_the_ncr_desc:0 "Our support is not limited to the supply of weapons, we must send our brothers to fight for freedom and democracy and our Beaurecrats to work themselves to death. Nobody likes them anyways."
+
+ncr_puppet_settler_paying_our_dues:0 "Paying Our Dues"
+ncr_puppet_settler_paying_our_dues_desc:0 "We owe much to the Republic. Without her, we would not have freedom and security. We owe it everything." 
+
+ncr_puppet_settler_raising_forces:0 "Raising Forces"
+ncr_puppet_settler_raising_forces_desc:0 "All these efforts, whether industrial, civil or military, have not been in vain. We are creating a real force capable of assisting the Republic at any time and also of protecting ourselves."
+
+ncr_puppet_tribal_sending_our_strongest:0 "Sending our Strongest"
+ncr_puppet_tribal_sending_our_strongest_desc:0 "Our strongest warriors would do well in the NCR, with them able to recieve a far better level of training. Let us send 400 of them to California."
+
+ncr_puppet_tribal_new_training_regiments:0 "New Training Regieme"
+ncr_puppet_tribal_new_training_regiments_desc:0 "Our forces are not up to the standards of the NCR, we must improve this situation. NCR trainers will be brought in to ensure our men are up to snuff."
+
+ncr_puppet_tribal_getting_combat_experience:0 "Getting Combat Experience"
+ncr_puppet_tribal_getting_combat_experience_desc:0 "Our forces must gain experience in fighting if we are to be able to effiectively face our foes. Volenteers will be suffice."
+
+ncr_puppet_tribal_improving_our_diets:0 "Improving our Diets"
+ncr_puppet_tribal_improving_our_diets_desc:0 "If we are to produce strong warriors and a strong people, we must improve our diets."
+
+ncr_puppet_tribal_trials_for_our_warriors:0 "Trials for our Warriors"
+ncr_puppet_tribal_trials_for_our_warriors_desc:0 "What would our warriors be if we did not put them to the test?"
+
+ncr_puppet_tribal_expanding_our_forces:0 "Expanding Our Forces"
+ncr_puppet_tribal_expanding_our_forces_desc:0 "We must expand our military might if we are to prove ourselves to the NCR."
+
+ncr_puppet_tribal_a_tithe_to_california:0 "A Tithe to California"
+ncr_puppet_tribal_a_tithe_to_california_desc:0 "It's time to repay California for it's aid, and as such we will send them 10% of our caps to them."
+
+ncr_puppet_raider_keep_up_the_assault:0 "Keep up the Assault"
+ncr_puppet_raider_keep_up_the_assault_desc:0 "Watch those Rocket Launchers! Keep going Men! Forward, No Step Back!"
+
+ncr_puppet_raider_piercing_our_foes:0 "Piercing Our Foes"
+ncr_puppet_raider_piercing_our_foes_desc:0 "Negative, Negative! The Target didn't take any damage! We'll learn from that and ensure our next shot pierces!"
+
+ncr_puppet_raider_gains_from_shock_troops:0 "Gains from Shock Troops"
+ncr_puppet_raider_gains_from_shock_troops_desc:0 "Our Shock Troops are some of the best in the wastes, no arguments to be had. Sure they can't defend well, but thats not the job of a Shock Troop, is it?"
+
+ncr_puppet_raider_bringing_in_ranger_trainers:0 "Bringing in Ranger Trainers"
+ncr_puppet_raider_bringing_in_ranger_trainers_desc:0 "...When he tried to match the army with the Trainer on their hip!..."
+
+ncr_puppet_raider_discipline_and_honor:0 "Discipline and Honor"
+ncr_puppet_raider_discipline_and_honor_desc:0 "Death Before Dishonor, as the old saying goes."
+
+ncr_puppet_raider_duty_to_the_ncr:0 "Duty to the NCR"
+ncr_puppet_raider_duty_to_the_ncr_desc:0 "It's out Duty to Serve!"
+
+ncr_puppet_raider_establish_ranger_units:0 "Establish Ranger Units"
+ncr_puppet_raider_establish_ranger_units_desc:0 "Nobody messes with the rangers, so why not bring up some rangers of our own? That's a perfect idea!"
 
 ##RRG
 

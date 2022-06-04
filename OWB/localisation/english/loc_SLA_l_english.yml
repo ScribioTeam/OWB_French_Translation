@@ -1,0 +1,159 @@
+﻿  l_english:
+  #### Focuses
+
+
+  Marina_DESC: "An outspoken proponent of the ideals the Free State represented, Marina led the new (or old) movement that was developing among the Slags. After it became clear that the reborn Free States would be certainty, Vegeir peacefully gave leadership over to Marina, saying that he was getting too old for this anyway."
+  SLA_the_sealing: "The Sealing"
+  SLA_the_sealing_desc: "We are the descendants of a militia group that was at odds with the American government before the bombs fell. Luckily a senator that was friendly to our cause informed us of the looming threat of nuclear annihilation, allowing us to build shelters in time. We closed the doors behind us and waited in darkness to emerge again."
+  SLA_ghosts_and_a_wanderer: "Ghosts and a Wanderer"
+  SLA_ghosts_and_a_wanderer_desc: "Our population grew beyond what we could support underground. We built a farm above ground and scared away whoever came too close by disguising our protectors as 'ghosts' and scattering some props around the area that looked more gruesome than they were.\nA fearless wanderer was not deterred though and him braving the ghosts helped us find a path to the future."
+  SLA_as_above_so_below: "As Above, So Below"
+  SLA_as_above_so_below_desc: "Thanks to the wanderer we entered a long and fruitful partnership with the town of Modoc, with us supplying their farms with water and their people with technical know-how and them giving us food, medicine and equipment in fair trade."
+
+  SLA_the_dark: "The Below"
+  SLA_the_dark_desc: "While we technically could wander freely on the surface, most of our people are still terrified of it, not to mention physically hurt by sunlight. But our ailing machines need some parts that Modoc most likely can't supply and our stockpiles are dreadfully low."
+
+  SLA_expand_tunnel_network: "Expand the Tunnel Network"
+  SLA_expand_tunnel_network_desc: "With moving the majority of our people above ground not being a feasible option, the alternative is expanding our living space down below. It is also way less dangerous than the topside. We do encounter the occasional molerat while digging our tunnels, but we have learned to deal with those over the years."
+  SLA_tunnel_communication: "Tunnel Communications"
+  SLA_tunnel_communication_desc: "Over the decades underground our tunnel network has become rather far reaching. One thing we figured out was that certain sounds and noises carried really well through the tunnels. So we devised a system to communicate through those noises. And while those same sounds won't carry as far above ground nobody else but us will understand the message. Which could prove useful in certain situations."
+
+  SLA_reorganizing_stockpiles: "Reorganizing the Stockpiles"
+  SLA_reorganizing_stockpiles_desc: "Resources and equipment are spread thin in the tunnels. We need to check everything we have stored away. There are probably things that got lost decades ago in some dusty storage rooms that people forgot even exist."
+  SLA_making_our_own: "Making Our Own Equipment"
+  SLA_making_our_own_desc: "While scrounging up existing equipment was useful, it was only a stop-gap measure. We can't rely on Modoc to supply everything we need. We need to start producing our own things to be able to sustain our livelihood."
+  SLA_support_bonus: "More than Just Guns"
+  SLA_support_bonus_desc: "While guns are well and good and give us a chance in a fight, they won't keep us alive outside of one. For that we need a multitude of small things. Canteens, sturdy clothing, first aid kits, utility tools, camping gear... the list goes on. So far we have scavenged most of those. But to be sustainable we need to figure out how to make most of them ourself."
+  SLA_armor_bonus: "A Good Defense"
+  SLA_armor_bonus_desc: "We are few in number. We can't afford to lose too many people. Something that can stop a bullet, spear or a bite from some unnecessary large lizard will lower our losses significantly."
+  SLA_vc_energy_weapons: "Weapons of Light"
+  SLA_vc_energy_weapons_desc: "Considering how much normal light hurts us, these weapons are deeply unpleasant to use for our troops. On the other hand what better way to make other people experience what we do under direct sunlight. At least for a very short time before they turn into a small pile of ash."
+  SLA_repair_the_generator: "Repair the Generator"
+  SLA_repair_the_generator_desc: "Our generator has been limping on it's last legs for years now. It is time to use some of the supplies we got as replacement parts and try to render it fully functional."
+  SLA_vt_fusion_generator: "Vault-Tec Fusion Generator"
+  SLA_vt_fusion_generator_desc: "Our new allies have come through and send us a fancy Vault-Tec branded fusion generator that they surprisingly just had lying around and were not using themselves. Time to replace our own home-brew one."
+  SLA_find_new_water_sources: "New Water Filters"
+  SLA_find_new_water_sources_desc: "Our water supply is based on a water filtering system that actually stopped working properly a few decades ago. The majority is good enough for watering crops and in a pinch is better than dying of thirst, but good safe drinkable water is rare. With some spare parts we could refurbish it to turn that around."
+  SLA_mushroom_farms: "Subterranean Farms"
+  SLA_mushroom_farms_desc: "You'd be surprised how long pre-war packaged food lasts. I only recently had a Yum Yum Deviled Egg that (probably) tasted as good as it did 200 years ago. But our stored food can't last forever. And while we did shore up our stockpiles with the occasional molerat and various edible underground plants and mushrooms, large scale planting was just not possible until now. More mushrooms it is."
+  SLA_acquire_mining_equipment: "Acquire Mining Equipment"
+  SLA_acquire_mining_equipment_desc: "We have been getting very good at digging tunnels, but our original machines have broken down long ago, so we had to do most things manually for a while now.\nIt's time to get automated again, either through trade or by scavenging."
+  SLA_living_quarters: "Adequate Living Quarters"
+  SLA_living_quarters_desc: "Our tunnel system might be sprawling but actual usable living space is still in short supply. We are also lacking basic amenities, like proper beds. With enough power and new goods coming in we can change that."
+  SLA_consumer_goods: "Better Living Standards"
+  SLA_consumer_goods_desc: "It is surprising how much a few fresh fruit can do for your mental health. Even if those fruits look nothing like the ones we have seen in the records of our ancestors. What is a mutfruit supposed to be anyway?\nBut those and other luxury items coming in have done wonders for our morale and productivity."
+  SLA_dedicated_production: "Actual Production Lines"
+  SLA_dedicated_production_desc: "Now that our people are content and well-rested, they are way more eager to get to work. There are tools to builds, weapons to craft and wars to win."
+  SLA_access_the_terminals: "Access the Terminals"
+  SLA_access_the_terminals_desc: "Now that our immediate situation has improved, we can access some of our computer terminals that have lain dormant for decades. The knowledge stored in them, as well as the utility they provide will help us progress faster. Also, it seems that our ancestors packed the terminals full of pre-war information for all eventualities. We should probably study these as soon as we can."
+  SLA_weapon_plans: "Guns and Bullets: Collected Back Issues"
+  SLA_weapon_plans_desc: "While the issues we found in the terminals didn't offer anything new or ground breaking, they did show us how we can produce the weapons we have easier and with higher quality."
+  SLA_electronic_plans: "Dean's Electronics: RobCo Terminal Edition"
+  SLA_electronic_plans_desc: "A digital study book on the field of electronics. An introductory note on the disk says that it is for the \"budding young electrician in everyone!\" Who would have known that electronics are that easy to understand. People really should read more."
+  SLA_military_plans: "Special Ops Training Manual"
+  SLA_military_plans_desc: "The first entry is made up of some strange characters none of us could comprehend fully. The rest is in normal, if somewhat broken English. This raises some questions about who our ancestors dealt with. \nBut disregarding that, while some of it is a bit hard to understand due to the poor English, it still contains a lot of good information regarding military tactics and operations."
+  SLA_factory_plans: "Chryslus Motors Yearly Reviews 2065-75"
+  SLA_factory_plans_desc: "We did not expect to get much useful information out of these entries in the terminal and while it is mostly sales statistics and promotional materials for new car models, there are a couple of articles that might improve how we run our production facilities."
+  SLA_knowledge_databanks: "Knowledge Databanks"
+  SLA_knowledge_databanks_desc: "There is a lot of information, way more than the tidbits we have focused on so far. If we organize this all of this will be an invaluable resource for us and our future generations."
+  SLA_knowledge_databanks_tt: "Combines §YPre-War Factory Organisation§! and §YEfficient Weapon Designs§! into one National Spirit and additionally gives:\nResearch Speed: §G+1.00%§!\nSpecial Forces Technology Research Speed: §G+2.00%§!"
+
+  SLA_other_mushrooms: "The Other Kind of Mushroom"
+  SLA_other_mushrooms_desc: "Given our success with the underground farms we wondered if we could grow other mushrooms on a larger scale. We long have been aware that some of them have certain properties that are rather close to some pre-war chems we still have stashed. If we could produce those ourselves, we could either trade them away or use them...recreationally."
+
+  SLA_the_old_symbols: "The Old Symbols"
+  SLA_the_old_symbols_desc: "The star in chains, but the chains are broken. We have used that symbol for as long as we can remember. It was on clothing and tools from before the Sealing. It was on boxes and documents. And recently we have used it as a flag to show where we come from, when venturing above. But what does it mean?"
+  SLA_questions_about_our_past: "Questioning Our Past"
+  SLA_questions_about_our_past_desc: "We found records that said we belonged to a group called the \"Free States\". Our ancestors were hunted by the American government. We were called dissidents, traitors.\nBut are we still the same people? The government does not exist anymore and neither does the reason for the Free States existing. Or does it?"
+  SLA_a_look_back_and_step_forward: "A Look Back and a Step Forward"
+  SLA_a_look_back_and_step_forward_desc: "While the institutions that sparked this conflict are long gone, the ideals of the Free State are something to be valued. A place for the people, free from oppression. That is something worth striving for."
+  SLA_gone_with_the_blastwave: "Gone With the Blast Wave"
+  SLA_gone_with_the_blastwave_desc: "The past is long gone, the old symbols don't matter anymore. We came this far without adhering to pre-war ideologies. We may still wear the star and broken chains, but it has become our symbol, not something someone else far away made."
+
+  #### Ideas
+  sla_black_sea_of_nothingness: "Black Sea of Nothingness"
+  sla_black_sea_of_nothingness_desc: "The world above is vast and terrifying and the black sea of nothingness will make your mind freeze and long for the safety of the ground.\nThe only thing worse, is that which is called the sun, since it hurts the body and the soul."
+  idea_sla_cannibalism: "Cannibalism"
+  idea_sla_cannibalism_desc: "The lack of food during the Long Dark has driven us to do some things we do not like to talk about."
+  idea_sla_drug_addicts: "Chem Addiction"
+  idea_sla_drug_addicts_desc: "While it made the time during the Long Dark more bearable, it made most of our people addicted to various Chems. This is not helping our productivity."
+  idea_sla_resource_scarcity_1: "Crippling Resource Scarcity"
+  idea_sla_resource_scarcity_2: "Harsh Resource Scarcity"
+  idea_sla_resource_scarcity_3: "Moderate Resource Scarcity"
+  idea_sla_resource_scarcity_4: "Minimal Resource Scarcity"
+  idea_sla_resource_scarcity_5: "Full Stockpiles"
+  idea_tunnel_communication: "Tunnel Communication"
+  idea_tunnel_communication_LAR: "Tunnel Communication"
+  idea_mining_equipment: "Mining Equipment"
+  idea_adequate_living_quarters: "Adequate Living Quarters"
+  idea_subterranean_farms: "Subterranean Farms"
+  idea_sla_weapon_plans: "Efficient Weapon Designs"
+  idea_sla_factory_plans: "Pre-War Factory Organisation"
+  idea_sla_electronic_plans: "Repaired Terminal System"
+  idea_sla_traitors_or_revolutionaries: "Traitors or Revolutionaries?"
+  idea_sla_traitors_or_revolutionaries_desc: "The government called us traitors. Some called us revolutionaries. Does it matter to us?"
+  idea_sla_a_free_state: "A Free State"
+  idea_sla_a_new_path: "A Path Lasting 200 Years"
+  idea_sla_a_new_path_desc: "Whatever lies in our past, whatever lies in our future, we are the Slags today and we will remain so."
+  idea_sla_knowledge_databanks: "Knowledge Databanks"
+  idea_sla_help_modoc: "Fruitful Sharing"
+  idea_sla_fuck_modoc: "False Friend"
+  idea_sla_modoc: "Pale In Comparison"
+  idea_sla_modoc_desc: "Our generous pale friends from the Ghost Farm have decided to come and teach us some agricultural techniques that could save us hundreds of man hours."
+  idea_sla_modoc_get_fucked: "Dying Crops"
+  idea_sla_modoc_get_fucked_desc: "A drought has reached the lands of Modoc, our crops have suffered the worse case scenario and soon our families will too..."
+
+  idea_sla_cache_of_loot: "Cache of Loot"
+
+  #### Custom Tooltips
+  sla_gain_supplies_tt: "You acquire §G1§! §YSpare Parts§!!\n"
+  sla_needs_supplies_tt: "This focus needs at least §G1§! §YSpare Parts§!!"
+  sla_costs_supplies_tt: "\nThis focus reduces §YSpare Parts§! by §R1§!!"
+  decrease_scarcity_tt: "\n§GThis focus will help with the resource scarcity.§!\n"
+  SLA_nevada_free_state_tt: "§YThe Slags§! will be known as §YNevada Free States§!."
+  SLA_has_completed_spare_part_hunt: "Has completed the search for §YSpare Parts§!."
+  SLA_has_send_out_trade_request: "Has send a request for §YSpare Parts§!"
+
+
+  #### Decisions
+  SLA_spare_part_hunt: "Search for Spare Parts"
+  SLA_spare_part_hunt_desc: "There are many specific machine and electronics parts we need to get all of our centuries old machinery into a workable condition again. Sadly most of them can not be found locally, so we have to look elsewhere."
+  SLA_hire_traders: "Hire a Trade Caravan in Modoc to Search for Parts"
+  SLA_hire_traders_desc: "There are caravans coming and leaving Modoc constantly from all over the place. Some of them have to stumble upon the spare parts we need to repair our machines."
+
+  #### Events
+
+  nf_slags.1.t: "The Aftermath of the Sealing"
+  nf_slags.1.d: "Ever since we sealed our families in the Great Underground to save them from the outside world our view of reality has warped and shifted. Our families grew pale and their eyes earned a certain darkness to them, were we cursed or did we bring this upon ourselves? Even after we broke the Seal to save us from our overpopulation we couldn’t return to normal life, even the night sky blinded our sons and daughters. We once sat in our underground caverns pondering what the feeling of the sun on our pale skin would feel like, but now we fear such curiosity knowing it could be the death of us… "
+  nf_slags.1.a: "March into the sunlight!"
+  nf_slags.1.b: "The shade suits us."
+  
+  nf_slags.2.t: "Memories of Freedom"
+  nf_slags.2.d: "Our ancestors were once members of a militia that cried for freedom. We barely have any memories or logs of who we once were or where we came from but our young ones still carry pride for their unknown past. We now exit the underground they once sought out for safety and find a new world above. Our first course of action was building a farmstead in the middle of the night and initiating our plans for growing crops, but it soon went awry. \n\nSettlers from the nearest town named Modoc had seen our farm and began to investigate the surroundings and began moving in and eating our crops. We had come up with the idea to spook off these vagrants by creating dummies meant to look like dead bodies, our plan worked too well. They came looking for murderous ghosts but what they found were our people, thankfully a good Samaritan intervened or we’d have lost hundreds in a senseless fight. Everything was explained and all wrongs were righted, the town of Modoc sits to our southern border and we live in temporary harmony even to this day, or so it seems..."
+  nf_slags.2.a: "We continue our ancestor's memory!"
+  nf_slags.2.b: "The memory of the good Samaritan remained."
+  nf_slags.2.c: "Through friendship we find prosperity."
+  
+  nf_slags.3.t: "Mentoring Modoc"
+  nf_slags.3.d: "The town to our south, Modoc, has always been quite backwater in general. Even after decades of our friendship they haven’t evolved past simple huts and shacks. Our guerillas believe it would be wise to educate them on advanced farming techniques and construction, hopefully they can give something in return. Hopefully this is in the spirit of the wanderer that once saved us. "
+  nf_slags.3.a: "Outsiders deserve our help."
+  nf_slags.3.b: "Ignore friendship, we have our own problems."
+  
+  nf_slags.4.t: "Requesting Missing Spare Parts from [VLT.GetName]"
+  nf_slags.4.d: "Luckily we already fixed all the internal issues that were an immediate threat to us. But there remain many smaller things that have been put on the backburner for... well for about as long as we lived underground. Most of the lights have burnt out long ago, ventilation is poor at best and we could really use an upgrade to our sanitation facilities.\nThose things should really not be a big issue for a technologically advanced place like [VLT.GetName]."
+  nf_slags.4.a: "Finally, everything will be fixed forever!"
+
+  #### Traits
+  expert_scavenger: "Expert Scavenger"
+  expert_scavenger_desc: ""
+  expert_scavenger_nodlc: "Expert Scavenger"
+  expert_scavenger_nodlc_desc: ""
+
+
+
+
+
+
+
+
+

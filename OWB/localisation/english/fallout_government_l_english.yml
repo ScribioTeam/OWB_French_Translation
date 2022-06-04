@@ -1,19 +1,26 @@
 ﻿l_english:
-
+  raider_ransack_tt:0 "§YRansack:§! As Raiders, we will also raid and plunder the state when we core it.\n  §Y*§!All of the infrastructure in the state will be §Rdamaged§!.\n  §Y*§!We will gain §G+[ROOT.equ_per_infra_from_coring_raider_tt]§! §YInfantry Equipment§! from the states old owner, §G+[ROOT.caps_per_infra_from_coring_raider_tt]k§! §YCaps§! and §G+[ROOT.cp_per_infra_from_coring_raider_tt]§! §YCommand Power§! for each infrastructure damaged."
+  coring_police_div_tt: "§YPeacekeepers:§! When cored, spawn §G[?ROOT.modifier@coring_police_div]§! §YLawkeeper§! division in the state."
+  coring_police_div: "Free §YLawkeeper§! division from Coring"
+  coring_raider_infantry_equipment_per_infrastructure_mod: "Infantry Equipment from Coring (per Infrastructure)"
+  coring_raider_command_power_per_infrastructure_mod: "Command Power from Coring (per Infrastructure)"
+  coring_raider_caps_per_infrastructure_mod: "Caps from Coring (per Infrastructure)"
+  disables_the_ransack_coring_mechanic: "Disables the Raider §Y\"Ransack\"§! Coring Mechanic."
+  enables_the_ransack_coring_mechanic: "Enables the Raider §Y\"Ransack\"§! Coring Mechanic."
   ruler:0 "Ruler"
-  ruler_noun:0 "Autocracy"
+  ruler_noun:0 "Ruler"
   ruler_desc:0 "Rule of One"
 
   people:0 "People"
-  people_noun:0 "Democracy"
+  people_noun:0 "People"
   people_desc:0 "Rule of Many"
 
   intellectuals:0 "Intellectuals"
-  intellectuals_noun:0 "Technocracy"
+  intellectuals_noun:0 "Intellectuals"
   intellectuals_desc:0 "Rule of Progress"
 
   elites:0 "Elites"
-  elites_noun:0 "Oligarchy"
+  elites_noun:0 "Elites"
   elites_desc:0 "Rule of Few"
 
   BRK_ruler_party:0 "Graven's Rule"
@@ -26,8 +33,8 @@
   NCR_intellectuals_party:0 "The Old World Party"
   NCR_people_party:0 "NCR Congress"
 
-  NEW_ruler_party:0 "The Mordinos"
-  NEW_elites_party:0 "The Salvatores"
+  NEW_ruler_party:0 "The Van Graffs"
+  NEW_elites_party:0 "The Broken Brothers"
   NEW_intellectuals_party:0 "The Wrights"
   NEW_people_party:0 "The Bishops"
   NEW_enclave_party_long:0 "The Enclave"
@@ -68,11 +75,33 @@
   BDT_intellectuals_party_long:0 "The Crimson Acolytes"
   BDT_ruler_party:0 "Cranium's' Arena"
 
+  #TVT-Town
+  TVT_people_party:0 "Runners"
+  TVT_ruler_party:0 "The Director's Vision"
+
   #TCA
-  TCA_people_party:0 "Wardens of the White"
-  TCA_elites_party:0 "Unity Council"
-  TCA_ruler_party:0 "The Immortal's Agents"
-  TCA_intellectuals_party:0 "Brotherhood Exiles"
+  TCA_people_party:0 "Round Table of Epsilon"
+  #TCA_elites_party:0 "Unity Council"
+  #TCA_ruler_party:0 "The Immortal's Agents"
+  #TCA_intellectuals_party:0 "Brotherhood Exiles"
+
+
+  #Vault City
+  VLT_people_party: "Citizen League"
+  VLT_people_party_long: "The Citizen League"
+  VLT_intellectuals_party: "Old Guard"
+  VLT_intellectuals_party_long: "The Old Guard"
+  VLT_ruler_party: "Cult of Renewal"
+  VLT_elites_party: "Pacifists"
+
+  SLN_people_party: "Top-Dwellers"
+  SLN_elites_party: "Den-Dwellers"
+
+  #New Vegas
+  VEG_mortimer_party:0 "Men of Higher Society"
+  VEG_mortimer_party_long:0 "The Men of Higher Society"
+  VEG_nero_party:0 "Slither Kin Reborn"
+  VEG_nero_party_long:0 "The Slither Kin Reborn"
 
   #### Laws #####
 

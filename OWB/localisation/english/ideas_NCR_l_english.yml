@@ -12,7 +12,6 @@
   ncrmotroops:0 "Military Propaganda"
   ncrcentral:0 "Centralised State"
   ncr_manifestdestiny_idea:0 "Manifest Destiny"
-  ncr_rapidsettlement_idea:0 "Settling the Rapids"
   ncr_crimson_caps:0 "Subsidized Crimson Caravan"
   ncr_reorganizedexpeditionary:0 "Reorganized Expeditionary Corps"
 
@@ -61,16 +60,13 @@
   mutantlabour:0 "Mutant Labour"
   mutantlabour_desc:0 ""
 
-  flyingbears:0 "The Flying Bears"
-  flyingbears_desc:0 ""
-
   hubdrugs:0 "Hub Drug Trade"
   hubdrugs_desc:0 ""
 
   hubweapons:0 "Hub Weapons"
   hubweapons_desc:0 ""
 
-  mechcore:0 "Mechanized Corps"
+  mechcore:0 "Mechanized Beginnings"
   mechcore_desc:0 ""
 
   rapidadvance:0 "Rapid Advance"
@@ -127,9 +123,6 @@
   baronofbarons:0 "Baron of Barons"
   baronofbarons_desc:0 ""
 
-  rattletailrepaid:0 "Rattletail Repaid"
-  rattletailrepaid_desc:0 ""
-
   banditopayments:0 "Bandito Payments"
   banditopayments_desc:0 ""
 
@@ -139,17 +132,11 @@
   rationing:0 "Rationing"
   rationing_desc:0 ""
 
-  oldworldmilitary:0 "Old World Military"
-  oldworldmilitary_desc:0 ""
-
   militindustrial:0 "Military Industrial Complex"
   militindustrial_desc:0 ""
 
   draftstandards:0 "Draft Standards"
   draftstandards_desc:0 ""
-
-  riverpatrols:0 "River Patrols"
-  riverpatrols_desc:0 ""
 
   nevtradeagreements:0 "Nevada Trade Agreements"
   nevtradeagreements_desc:0 ""
@@ -183,6 +170,8 @@
 
   jimdraft:0 "Jim's Draft"
   jimdraft_desc:0 ""
+
+  jimdraft2: "Combined Arms"
 
   rangergenmossman:0 "Ranger Mossman"
   rangergenmossman_desc:0 ""
@@ -231,3 +220,11 @@
 
   opening_long_15:0 "Opening the Long 15"
   opening_long_15_desc:0 "In order to reopen the Long 15 and gain access to the Mojave wastes, we must first evict the local raider populations."
+
+  ####BARONS#####
+  bar_reno_support:0 "Support From Redding"
+  bar_reno_support_desc:0 ""
+  bar_reno_guns:0 "§GVan Graffs Schematics§!"
+  bar_reno_guns_desc:0 ""
+  bar_the_big_circle:0 "Member of the Big Circle"
+  bar_the_big_circle_desc:0 ""
